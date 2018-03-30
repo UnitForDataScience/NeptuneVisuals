@@ -22,7 +22,7 @@ $.ajax({
         }
         chart = Highcharts.mapChart('container', {
             title: {
-                text: 'Heat for Human Errors in Nuclear Power Plants'
+                text: 'Human Errors in Nuclear Power Plants'
             },
 
             tooltip: {
