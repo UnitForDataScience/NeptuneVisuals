@@ -1,0 +1,428 @@
+[{
+    "Name": "Arkansas Nuclear One",
+    "Latitude": 35.3105557,
+    "Long": -93.2308441,
+    "Intensity": 79,
+    "Units": 2,
+    "Region": 4
+}, {
+    "Name": "Beaver Valley",
+    "Latitude": 40.6225606,
+    "Long": -80.4314017,
+    "Intensity": 97,
+    "Units": 2,
+    "Region": 1
+}, {
+    "Name": "Braidwood",
+    "Latitude": 41.24283,
+    "Long": -88.229012,
+    "Intensity": 84,
+    "Units": 2,
+    "Region": 3
+}, {
+    "Name": "Browns Ferry",
+    "Latitude": 34.7041881,
+    "Long": -87.1184491,
+    "Intensity": 96,
+    "Units": 3,
+    "Region": 2
+}, {
+    "Name": "Brunswick",
+    "Latitude": 33.9584095,
+    "Long": -78.0097961,
+    "Intensity": 79,
+    "Units": 2,
+    "Region": 2
+}, {
+    "Name": "Byron",
+    "Latitude": 42.0767383,
+    "Long": -89.2811494,
+    "Intensity": 90,
+    "Units": 2,
+    "Region": 3
+}, {
+    "Name": "Callaway",
+    "Latitude": 38.7607598,
+    "Long": -91.7817592,
+    "Intensity": 86,
+    "Units": 1,
+    "Region": 4
+}, {
+    "Name": "Calvert Cliffs",
+    "Latitude": 38.4342651,
+    "Long": -76.4421984,
+    "Intensity": 93,
+    "Units": 2,
+    "Region": 1
+}, {
+    "Name": "Catawba",
+    "Latitude": 35.0516229,
+    "Long": -81.0693812,
+    "Intensity": 70,
+    "Units": 2,
+    "Region": 2
+}, {
+    "Name": "Clinton",
+    "Latitude": 40.1728433,
+    "Long": -88.833191,
+    "Intensity": 92,
+    "Units": 1,
+    "Region": 3
+}, {
+    "Name": "Columbia Generating Station",
+    "Latitude": 46.470941,
+    "Long": -119.3356418,
+    "Intensity": 86,
+    "Units": 1,
+    "Region": 4
+}, {
+    "Name": "Comanche Peak",
+    "Latitude": 32.2983923,
+    "Long": -97.7853209,
+    "Intensity": 71,
+    "Units": 2,
+    "Region": 4
+}, {
+    "Name": "Cooper",
+    "Latitude": 36.9981142,
+    "Long": -84.5920229,
+    "Intensity": 113,
+    "Units": 1,
+    "Region": 4
+}, {
+    "Name": "Davis-Besse",
+    "Latitude": 41.5954497,
+    "Long": -83.0895073,
+    "Intensity": 115,
+    "Units": 1,
+    "Region": 3
+}, {
+    "Name": "D.C. Cook",
+    "Latitude": 41.9779065,
+    "Long": -86.5643166,
+    "Intensity": 85,
+    "Units": 2,
+    "Region": 3
+}, {
+    "Name": "Diablo Canyon",
+    "Latitude": 35.2116914,
+    "Long": -120.8550423,
+    "Intensity": 82,
+    "Units": 2,
+    "Region": 4
+}, {
+    "Name": "Dresden",
+    "Latitude": 41.388599,
+    "Long": -88.2690916,
+    "Intensity": 96,
+    "Units": 2,
+    "Region": 3
+}, {
+    "Name": "Duane Arnold",
+    "Latitude": 42.1008912,
+    "Long": -91.7775933,
+    "Intensity": 77,
+    "Units": 1,
+    "Region": 3
+}, {
+    "Name": "Farley",
+    "Latitude": 31.2230469,
+    "Long": -85.1125307,
+    "Intensity": 93,
+    "Units": 2,
+    "Region": 2
+}, {
+    "Name": "Fermi",
+    "Latitude": 41.9629523,
+    "Long": -83.2577946,
+    "Intensity": 95,
+    "Units": 1,
+    "Region": 3
+}, {
+    "Name": "FitzPatrick",
+    "Latitude": 43.5224116,
+    "Long": -76.3989939,
+    "Intensity": 86,
+    "Units": 1,
+    "Region": 1
+}, {
+    "Name": "Ginna",
+    "Latitude": 43.2775686,
+    "Long": -77.309364,
+    "Intensity": 89,
+    "Units": 1,
+    "Region": 1
+}, {
+    "Name": "Grand Gulf",
+    "Latitude": 32.0092342,
+    "Long": -91.0469584,
+    "Intensity": 80,
+    "Units": 1,
+    "Region": 4
+}, {
+    "Name": "Harris",
+    "Latitude": 35.6334423,
+    "Long": -78.9558674,
+    "Intensity": 72,
+    "Units": 1,
+    "Region": 2
+}, {
+    "Name": "Hatch",
+    "Latitude": 31.9329887,
+    "Long": -82.3438167,
+    "Intensity": 74,
+    "Units": 2,
+    "Region": 2
+}, {
+    "Name": "Hope Creek",
+    "Latitude": 39.4661901,
+    "Long": -75.5360579,
+    "Intensity": 101,
+    "Units": 1,
+    "Region": 1
+}, {
+    "Name": "Indian Point",
+    "Latitude": 41.267997,
+    "Long": -73.9513992,
+    "Intensity": 153,
+    "Units": 1,
+    "Region": 1
+}, {
+    "Name": "Indian Point 3",
+    "Latitude": 41.267997,
+    "Long": -73.9513992,
+    "Intensity": 71,
+    "Units": 1,
+    "Region": 1
+}, {
+    "Name": "LaSalle",
+    "Latitude": 41.2457383,
+    "Long": -88.6691949,
+    "Intensity": 91,
+    "Units": 2,
+    "Region": 3
+}, {
+    "Name": "Limerick",
+    "Latitude": 40.2264659,
+    "Long": -75.5832338,
+    "Intensity": 86,
+    "Units": 2,
+    "Region": 1
+}, {
+    "Name": "McGuire",
+    "Latitude": 35.430652,
+    "Long": -80.9415,
+    "Intensity": 75,
+    "Units": 2,
+    "Region": 2
+}, {
+    "Name": "Millstone",
+    "Latitude": 41.3107232,
+    "Long": -72.1676766,
+    "Intensity": 102,
+    "Units": 2,
+    "Region": 1
+}, {
+    "Name": "Monticello",
+    "Latitude": 45.3212401,
+    "Long": -93.8331313,
+    "Intensity": 88,
+    "Units": 1,
+    "Region": 3
+}, {
+    "Name": "Nine Mile Point",
+    "Latitude": 43.5202129,
+    "Long": -76.4065647,
+    "Intensity": 83,
+    "Units": 2,
+    "Region": 1
+}, {
+    "Name": "North Anna",
+    "Latitude": 38.060556,
+    "Long": -77.789444,
+    "Intensity": 66,
+    "Units": 2,
+    "Region": 2
+}, {
+    "Name": "Oconee",
+    "Latitude": 34.793365,
+    "Long": -82.893605,
+    "Intensity": 88,
+    "Units": 3,
+    "Region": 2
+}, {
+    "Name": "Oyster Creek",
+    "Latitude": 39.8162195,
+    "Long": -74.203067,
+    "Intensity": 89,
+    "Units": 1,
+    "Region": 1
+}, {
+    "Name": "Palisades",
+    "Latitude": 42.3233972,
+    "Long": -86.3145161,
+    "Intensity": 99,
+    "Units": 1,
+    "Region": 3
+}, {
+    "Name": "Palo Verde",
+    "Latitude": 33.3868942,
+    "Long": -112.8626346,
+    "Intensity": 86,
+    "Units": 3,
+    "Region": 4
+}, {
+    "Name": "Peach Bottom",
+    "Latitude": 39.7592096,
+    "Long": -76.2687942,
+    "Intensity": 87,
+    "Units": 2,
+    "Region": 1
+}, {
+    "Name": "Perry",
+    "Latitude": 41.7957286,
+    "Long": -81.1453742,
+    "Intensity": 88,
+    "Units": 1,
+    "Region": 3
+}, {
+    "Name": "Pilgrim",
+    "Latitude": 41.9428615,
+    "Long": -70.5767298,
+    "Intensity": 93,
+    "Units": 1,
+    "Region": 1
+}, {
+    "Name": "Point Beach",
+    "Latitude": 44.2809728,
+    "Long": -87.5367451,
+    "Intensity": 103,
+    "Units": 2,
+    "Region": 3
+}, {
+    "Name": "Prairie Island",
+    "Latitude": 44.6216301,
+    "Long": -92.633044,
+    "Intensity": 92,
+    "Units": 2,
+    "Region": 3
+}, {
+    "Name": "Quad Cities",
+    "Latitude": 41.7259182,
+    "Long": -90.310589,
+    "Intensity": 78,
+    "Units": 2,
+    "Region": 3
+}, {
+    "Name": "River Bend",
+    "Latitude": 30.7595296,
+    "Long": -91.3300877,
+    "Intensity": 96,
+    "Units": 1,
+    "Region": 4
+}, {
+    "Name": "Robinson",
+    "Latitude": 34.4011102,
+    "Long": -80.159333,
+    "Intensity": 74,
+    "Units": 1,
+    "Region": 2
+}, {
+    "Name": "Saint Lucie",
+    "Latitude": 27.3472976,
+    "Long": -80.2449131,
+    "Intensity": 83,
+    "Units": 2,
+    "Region": 2
+}, {
+    "Name": "Salem",
+    "Latitude": 42.5249375,
+    "Long": -70.8782236,
+    "Intensity": 99,
+    "Units": 2,
+    "Region": 1
+}, {
+    "Name": "Seabrook",
+    "Latitude": 42.8988616,
+    "Long": -70.852847,
+    "Intensity": 91,
+    "Units": 1,
+    "Region": 1
+}, {
+    "Name": "Sequoyah",
+    "Latitude": 35.2265206,
+    "Long": -85.091928,
+    "Intensity": 87,
+    "Units": 2,
+    "Region": 2
+}, {
+    "Name": "South Texas Project",
+    "Latitude": 28.795873,
+    "Long": -96.0505091,
+    "Intensity": 77,
+    "Units": 2,
+    "Region": 4
+}, {
+    "Name": "Summer",
+    "Latitude": 34.296535,
+    "Long": -81.3162839,
+    "Intensity": 77,
+    "Units": 1,
+    "Region": 2
+}, {
+    "Name": "Surry",
+    "Latitude": 37.1655834,
+    "Long": -76.6977882,
+    "Intensity": 74,
+    "Units": 2,
+    "Region": 2
+}, {
+    "Name": "Susquehanna",
+    "Latitude": 41.0925658,
+    "Long": -76.1417693,
+    "Intensity": 85,
+    "Units": 2,
+    "Region": 1
+}, {
+    "Name": "Three Mile Island",
+    "Latitude": 40.1547199,
+    "Long": -76.7252093,
+    "Intensity": 71,
+    "Units": 1,
+    "Region": 1
+}, {
+    "Name": "Turkey Point",
+    "Latitude": 25.43533,
+    "Long": -80.3312588,
+    "Intensity": 87,
+    "Units": 2,
+    "Region": 2
+}, {
+    "Name": "Vogtle",
+    "Latitude": 33.1306224,
+    "Long": -81.7713527,
+    "Intensity": 79,
+    "Units": 2,
+    "Region": 2
+}, {
+    "Name": "Waterford",
+    "Latitude": 29.9948956,
+    "Long": -90.471543,
+    "Intensity": 77,
+    "Units": 1,
+    "Region": 4
+}, {
+    "Name": "Watts Bar",
+    "Latitude": 35.6019916,
+    "Long": -84.7889399,
+    "Intensity": 102,
+    "Units": 2,
+    "Region": 2
+}, {
+    "Name": "Wolf Creek",
+    "Latitude": 38.2391576,
+    "Long": -95.6894588,
+    "Intensity": 84,
+    "Units": 1,
+    "Region": 4
+}]
