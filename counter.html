@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Neptune</title>
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="css/simple-sidebar.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style type="text/css">
+        #container {
+            height: 700px;
+            min-width: 100%;
+            max-width: 100%;
+            margin: 0 auto;
+        }
+
+        .loading {
+            margin-top: 10em;
+            text-align: center;
+            color: gray;
+        }
+    </style>
+</head>
+<body>
+<div id="wrapper">
+    <!-- Sidebar -->
+    <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            <li class="sidebar-brand">
+                <a href="#">
+                    Neptune Visualisations
+                </a>
+            </li>
+            <li>
+                <a href="/neptune/choropleth.html">Choropleth</a>
+            </li>
+            <li>
+                <a href="/neptune/boxPlots.html">Box Plots</a>
+            </li>
+        </ul>
+    </div>
+    <!-- /#sidebar-wrapper -->
+    <!-- Page Content -->
+    <div id="page-content-wrapper">
+        <div class="container-fluid">
+            <a href="#menu-toggle" class="btn btn-secondary" id="menu-toggle"><i class="fa fa-bars"></i></a>
+        </div>
+        <div class="col-12 row">
+            <div class="form-group col-6">
+                <label for="Plant Select">Plant Select</label>
+                <select class="form-control" id="PlantSelect">
+                    <option selected="true" value="">--Select--</option>
+                </select>
+            </div>
+        </div>
+        <div id="container" class="col-md-12 col-xl-12 col-lg-12 col-sm-12 col-12">
+
+        </div>
+    </div>
+    <!-- /#page-content-wrapper -->
+</div>
+<!-- /#wrapper -->
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://code.highcharts.com/highcharts-more.js"></script>
+<script src="https://code.highcharts.com/modules/exporting.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/async@2.6.0/dist/async.min.js"></script>
+<script src="/neptune/scripts/counter.js"></script>
+</body>
+</html>
