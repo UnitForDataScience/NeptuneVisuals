@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <title>Neptune</title>
+        <!-- Bootstrap core CSS -->
+        <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <!-- Custom styles for this template -->
+        <link href="css/simple-sidebar.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css">
+        <style type="text/css">
+        #container {
+        height: 700px;
+        min-width: 100%;
+        max-width: 100%;
+        margin: 0 auto;
+        }
+        .loading {
+        margin-top: 10em;
+        text-align: center;
+        color: gray;
+        }
+        .chart{
+        height: 400px;
+        width: 100%;
+        }
+        </style>
+    </head>
+    <body>
+        <div id="wrapper">
+            <!-- Sidebar -->
+            <div id="sidebar-wrapper">
+                <ul class="sidebar-nav">
+                    <li class="sidebar-brand">
+                        <a href="#">
+                            Neptune Visualisations
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/neptune/choropleth.html">Choropleth</a>
+                    </li>
+                    <li>
+                        <a href="/neptune/boxPlots.html">Box Plots</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /#sidebar-wrapper -->
+            <!-- Page Content -->
+            <div id="page-content-wrapper">
+                <div class="container-fluid">
+                    <a href="#menu-toggle" class="btn btn-secondary" id="menu-toggle"><i class="fa fa-bars"></i></a>
+                </div>
+                
+                <div id="container" class="container col-md-12 col-xl-12 col-lg-12 col-sm-12 col-12">
+                    <div class = "row justify-content-between">
+                        <div class ="col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+                            <div class="chart" id="1">Hello</div>
+                        </div>
+                        <div class="chart col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4"><div class="chart" id="2">Hello</div></div>
+                    </div>
+                    <div class="row justify-content-center">
+                        <div class="chart col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4" ><div class="chart" id="combined">Hello</div></div>
+                    </div>
+                    <div class = "row justify-content-between">
+                        <div class ="chart col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4">
+                            <div class="chart" id="3">Hello</div>
+                        </div>
+                        <div class="chart col-4 col-sm-4 col-md-4 col-lg-4 col-xl-4" ><div class="chart" id="4">Hello</div></div>
+                    </div>
+                </div>
+                <!-- <div class="col-md-12 col-xl-12 col-lg-12 col-sm-12 col-12">
+                    <table id="dataTables" class="table table-striped table-bordered" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th>Category</th>
+                                <th>Inspection Report</th>
+                                <th>Keywords:Occurence</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            
+                        </tbody>
+                    </table>
+                </div> -->
+            </div>
+            <!-- /#page-content-wrapper -->
+        </div>
+        <!-- /#wrapper -->
+        <!-- Bootstrap core JavaScript -->
+        <script src="vendor/jquery/jquery.min.js"></script>
+        <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="https://code.highcharts.com/highcharts.js"></script>
+        <script src="https://code.highcharts.com/highcharts-more.js"></script>
+        <script src="https://code.highcharts.com/modules/exporting.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/async@2.6.0/dist/async.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.0/underscore-min.js"></script>
+        <script type="text/javascript" src="//cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+        <script type="text/javascript">
+        function guid() {
+        function s4() {
+        return Math.floor((1 + Math.random()) * 0x10000)
+        .toString(16)
+        .substring(1);
+        }
+        return s4() + s4() + '-' + s4() + '-' + s4() + '-' + s4() + '-' + s4() + s4() + s4();
+        }
+        var script = document.createElement('script')
+        script.src="/neptune/scripts/regionCounter.js?v="+guid()
+        document.getElementsByTagName('script')[0].parentNode.appendChild(script)
+        </script>
+        
+    </body>
+</html>
