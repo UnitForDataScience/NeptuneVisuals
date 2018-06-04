@@ -11,11 +11,17 @@ $.ajax({
             types = Object.keys(data[region])
             series = []
             for (key in data[region]) {
-                series.push(data[region][key]['count'])
+                if (key != "Performance")
+                    series.push(data[region][key]['count'])
             }
-            console.log(types)
-            console.log(series)
+            var newTypes = []
+            for (iter in types) {
+                if (types[iter] != "Performance") {
+                    newTypes.push(types[iter])
+                }
+            }
             var title = "Region: "
+
             if (region == "combined") {
                 title += "Combined"
             } else {
@@ -35,7 +41,7 @@ $.ajax({
                 xAxis: {
                     tickmarkPlacement: 'on',
                     lineWidth: 0,
-                    categories: types
+                    categories: newTypes
                 },
                 yAxis: {
                     gridLineInterpolation: 'polygon',
