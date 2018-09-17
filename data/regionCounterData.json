@@ -1,1 +1,232 @@
-{"1": {"Control": {"count": 12, "files": []}, "Information": {"count": 24, "files": []}, "Management": {"count": 302, "files": []}, "Cognition": {"count": 250, "files": []}, "Team & Organization": {"count": 232, "files": []}, "Org-Coordination": {"count": 152, "files": []}, "Planning": {"count": 211, "files": []}, "Procedural&Team": {"count": 533, "files": []}, "Performance": {"count": 983, "files": []}, "Communication": {"count": 64, "files": []}, "Coordination": {"count": 106, "files": []}, "Resources": {"count": 10, "files": []}}, "2": {"Control": {"count": 38, "files": []}, "Information": {"count": 3, "files": []}, "Management": {"count": 525, "files": []}, "Cognition": {"count": 143, "files": []}, "Team & Organization": {"count": 391, "files": []}, "Org-Coordination": {"count": 87, "files": []}, "Planning": {"count": 99, "files": []}, "Performance": {"count": 817, "files": []}, "Procedural&Team": {"count": 704, "files": []}, "Communication": {"count": 47, "files": []}, "Coordination": {"count": 61, "files": []}, "Resources": {"count": 45, "files": []}}, "3": {"Control": {"count": 26, "files": []}, "Information": {"count": 13, "files": []}, "Management": {"count": 363, "files": []}, "Cognition": {"count": 238, "files": []}, "Team & Organization": {"count": 242, "files": []}, "Org-Coordination": {"count": 136, "files": []}, "Planning": {"count": 245, "files": []}, "Procedural&Team": {"count": 702, "files": []}, "Performance": {"count": 952, "files": []}, "Communication": {"count": 57, "files": []}, "Coordination": {"count": 107, "files": []}, "Resources": {"count": 30, "files": []}}, "4": {"Control": {"count": 57, "files": []}, "Information": {"count": 4, "files": []}, "Management": {"count": 250, "files": []}, "Cognition": {"count": 266, "files": []}, "Team & Organization": {"count": 286, "files": []}, "Org-Coordination": {"count": 114, "files": []}, "Planning": {"count": 243, "files": []}, "Procedural&Team": {"count": 414, "files": []}, "Performance": {"count": 632, "files": []}, "Communication": {"count": 62, "files": []}, "Coordination": {"count": 99, "files": []}, "Resources": {"count": 81, "files": []}}, "combined": {"Control": {"count": 133, "files": []}, "Information": {"count": 44, "files": []}, "Management": {"count": 1440, "files": []}, "Cognition": {"count": 897, "files": []}, "Team & Organization": {"count": 1151, "files": []}, "Org-Coordination": {"count": 489, "files": []}, "Planning": {"count": 798, "files": []}, "Procedural&Team": {"count": 2353, "files": []}, "Performance": {"count": 3384, "files": []}, "Communication": {"count": 230, "files": []}, "Coordination": {"count": 373, "files": []}, "Resources": {"count": 166, "files": []}}}
+{
+  "1": {
+    "Control": {
+      "count": 12,
+      "files": []
+    },
+    "Information": {
+      "count": 24,
+      "files": []
+    },
+    "Management": {
+      "count": 302,
+      "files": []
+    },
+    "Cognition": {
+      "count": 250,
+      "files": []
+    },
+    "Team & Organization": {
+      "count": 232,
+      "files": []
+    },
+    "Org-Coordination": {
+      "count": 152,
+      "files": []
+    },
+    "Planning": {
+      "count": 211,
+      "files": []
+    },
+    "Procedural&Team": {
+      "count": 533,
+      "files": []
+    },
+    "Communication": {
+      "count": 64,
+      "files": []
+    },
+    "Coordination": {
+      "count": 106,
+      "files": []
+    },
+    "Resources": {
+      "count": 10,
+      "files": []
+    }
+  },
+  "2": {
+    "Control": {
+      "count": 38,
+      "files": []
+    },
+    "Information": {
+      "count": 3,
+      "files": []
+    },
+    "Management": {
+      "count": 525,
+      "files": []
+    },
+    "Cognition": {
+      "count": 143,
+      "files": []
+    },
+    "Team & Organization": {
+      "count": 391,
+      "files": []
+    },
+    "Org-Coordination": {
+      "count": 87,
+      "files": []
+    },
+    "Planning": {
+      "count": 99,
+      "files": []
+    },
+    "Procedural&Team": {
+      "count": 704,
+      "files": []
+    },
+    "Communication": {
+      "count": 47,
+      "files": []
+    },
+    "Coordination": {
+      "count": 61,
+      "files": []
+    },
+    "Resources": {
+      "count": 45,
+      "files": []
+    }
+  },
+  "3": {
+    "Control": {
+      "count": 26,
+      "files": []
+    },
+    "Information": {
+      "count": 13,
+      "files": []
+    },
+    "Management": {
+      "count": 363,
+      "files": []
+    },
+    "Cognition": {
+      "count": 238,
+      "files": []
+    },
+    "Team & Organization": {
+      "count": 242,
+      "files": []
+    },
+    "Org-Coordination": {
+      "count": 136,
+      "files": []
+    },
+    "Planning": {
+      "count": 245,
+      "files": []
+    },
+    "Procedural&Team": {
+      "count": 702,
+      "files": []
+    },
+    "Communication": {
+      "count": 57,
+      "files": []
+    },
+    "Coordination": {
+      "count": 107,
+      "files": []
+    },
+    "Resources": {
+      "count": 30,
+      "files": []
+    }
+  },
+  "4": {
+    "Control": {
+      "count": 57,
+      "files": []
+    },
+    "Information": {
+      "count": 4,
+      "files": []
+    },
+    "Management": {
+      "count": 250,
+      "files": []
+    },
+    "Cognition": {
+      "count": 266,
+      "files": []
+    },
+    "Team & Organization": {
+      "count": 286,
+      "files": []
+    },
+    "Org-Coordination": {
+      "count": 114,
+      "files": []
+    },
+    "Planning": {
+      "count": 243,
+      "files": []
+    },
+    "Procedural&Team": {
+      "count": 414,
+      "files": []
+    },
+    "Communication": {
+      "count": 62,
+      "files": []
+    },
+    "Coordination": {
+      "count": 99,
+      "files": []
+    },
+    "Resources": {
+      "count": 81,
+      "files": []
+    }
+  },
+  "combined": {
+    "Control": {
+      "count": 133,
+      "files": []
+    },
+    "Information": {
+      "count": 44,
+      "files": []
+    },
+    "Management": {
+      "count": 1440,
+      "files": []
+    },
+    "Cognition": {
+      "count": 897,
+      "files": []
+    },
+    "Team & Organization": {
+      "count": 1151,
+      "files": []
+    },
+    "Org-Coordination": {
+      "count": 489,
+      "files": []
+    },
+    "Planning": {
+      "count": 798,
+      "files": []
+    },
+    "Procedural&Team": {
+      "count": 2353,
+      "files": []
+    },
+    "Communication": {
+      "count": 230,
+      "files": []
+    },
+    "Coordination": {
+      "count": 373,
+      "files": []
+    },
+    "Resources": {
+      "count": 166,
+      "files": []
+    }
+  }
+}
