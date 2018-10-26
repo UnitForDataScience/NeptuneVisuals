@@ -125,6 +125,7 @@ $(function() {
       }
       types = Object.keys(chartData);
       var array = [];
+      types.sort();
       for (i in types) {
         array.push(chartData[types[i]]);
       }
