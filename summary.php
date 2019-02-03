@@ -1,4 +1,7 @@
 <?php
+
+
+ini_set('display_errors', 1);
 /**
  * User: shanky
  * Date: 2/3/19
