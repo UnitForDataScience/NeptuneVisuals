@@ -1,0 +1,30 @@
+detailed genome features are summarized in table  and numbers of cog functional categories are shown in table .comparative genomic analysis of strain cba7123 with other c. perfringens strainsin the comparison of genomic structures between strain cba7123 and strains forc 003 jp55 forc 025 and jp838 locally collinear blocks indicated hightable 1 general features of the clostridium perfringenscba7123 genomepropertytermfinishing qualitycompletelibraries usedsmrtbell librarysequencing platformspacbio20kassemblerspacbio smrt analysis 2.3.0pre-filtered reads150292post-filtered reads77985average genome coverage282.57xgenome size bp3135010dna gc content28.5total orfs2798rrna operons10trna genes94table 2 number of general cog-associated functional genescode value  age descriptionspecies demarcation .
+
+comparison of genomic structure between clostridium perfringens cba7123 and strains forc 003 forc 025 jp55 and jp838 using a progressive alignment algorithm in mauve.
+
+the four strains with blast total scores over 5.5e06 were selected strains forc 003 jp55 forc 025 and jp838.
+
+am j case rep. 201617219-23.kim jy song hs kim yb kwon j choi js cho yj et al.
+
+2012672640-4.chen l yang j yu j yao z sun l shen y jin q. vfdb a reference database for bacterial virulence factors.
+
+gut pathog 2017 932doi 10.1186s13099-017-0181-1gut pathogenscomplete genome sequenceof clostridium perfringens cba7123 isolated from a faecal sample from koreayeon bee kim1 joon yong kim1 hye seon song1 changsu lee1 joseph kwon2 jisu kang34 jin-kyu rhee5 myeong seon jeong6 young-do nam34 and seong woon roh1backgroundclostridium perfringens is a gram-positive spore-form- ing strict anaerobic rod-shaped bacterium belonging to the phylum firmicutes -.
+
+perfringolysin o and phospholipase c are soluble toxin and phospho- lipid cleaving enzyme leading to host cell lysis respec- tively and these two enzymes have synergistic effects in clostridium perfringens-mediated gas gangrene  .
+
+ethics approval and consent to participatea photomicrograph of clostridium per- fringens strain cba7123 using variable pressure field emission scanning electron microscope vp-fe-sem.
+
+a roadmap for gene system development in clostridium.
+
+complete genome sequence of clostridium perfringens an anaerobic flesh-eater.
+
+draft genome sequence of clostridium perfringens strain jjc a highly efficient hydrogen producer isolated from landfill leachate sludge.
+
+genetic diversity of clostridium perfringens type a isolates from animals food poisoning outbreaks and sludge.
+
+2006647.gross tp kamara lb hatheway cl powers p libonati jp harmon sm israel e. clostridium perfringens food poisoning use of serotyping in an outbreak setting.
+
+genomic analyses of clostridium perfringens isolates from five toxinotypes.
+
+2015166255-63.petit l gibert m popoff mr. clostridium perfringens toxinotype and genotype.
+

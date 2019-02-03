@@ -1,0 +1,30 @@
+the mimiviridae family of giant viruses which infect the genus acanthamoeba were also less abundant in cleared gut samplescompared to uncleared.evidence for viral and bacterial compartmentalization in the ciona guttaxonomic comparisons of the contigs highlighted both similarities and differences between gut compartments a. although a large number of contigs were present in all gut compartments 601 each possessed a number of unique contigs sc 172 mc 333 hc 73 with the midgut containing the largest number of unique contigs a.all compartments were dominated by the caudovirales order of dsdna viruses and most of the caudovirales contigs were nearly twice asfig.
+
+while this study does not provide a complete picture of the ciona gut virome due to the exclusion of viral contigs  5 kb and the small sample size data reported here serve as a foundation for understanding viral dynamics within the ciona gut.
+
+venn diagrams were generated using thevenndiagram package  through r v 3.3.2 software  to display the overlap of contigs in dif- ferent gut compartments using the mapping data from read2- refmapper.virsorter also detected linear contigs with matching k-mers at the ends and assumed them to be complete circular genomes.
+
+al- though temporal variability between the cleared gut viromes from 2014 sdc 14 and 2015 sdc 15 is evident these communities have a si- milar composition.due to the higher confidence in taxonomic assignment of longer contigs than short individual reads the remaining analyses focused on the 3940 contigs also referred to as nodes greater than 5 kb that were obtained from separate assembly of each sample .
+
+greater than 50 of the reads contributed to contigs  5 kb which represented 20-25 of the total generated contigs.
+
+although some contigs were shared between the cleared and uncleared samples each of the states maintained a large number of unique contigs .
+
+consistent with the high number of viral contigs unique to the midgut the midgut also possessed the largest number of distinct bac- terial otus compared to the other two compartments c. the number of reads from each compartment matching the top 50 viral contigs b or bacterial otus d from all three compart- ments were mapped to assess compartmentalization of viruses and bacteria.
+
+while each of the viral contigs shown in b was among the top 50 most abundant viral contigs for one or more of the com- partments their relative abundance in the other compartments often varied dramatically.
+
+b relative abundance of the top 50 viral contigs from each compartment compared across subsequent compartments as determined by read mapping to contigs from the co-assembly.
+
+additionally all ciona viromes were co-assembled to generate a reference list of contigs with a contig considered present in an individual sample if reads from that samplecovered 75 of the viral contig in which case the coverage normalizedtable 1virome sequencing and single sample assembly details.
+
+this value is referred to as the relative abundance of each contig within a sample.to examine the temporal variability of the virome contigs re- covered from cleared ciona gut samples collected one year apart were compared.
+
+the top 10 viral contigs in each group shared sequence identity with phages infecting described mem- bers of the ciona core microbiome including flavobacteria shewanella pseudoalteromonas and vibrio .in an effort to distinguish between ciona-associated viruses and those that originate from dietary contents the 2015 trisected gut compartments were either sampled immediately uncleared stomach sf midgut mf and hindgut hf or after the animal was allowed to clear its gut contents cleared stomach sc midgut sc and hindgut hc.
+
+the persicivirga phages p12024l and p12024s infect bacteria that degrade polysaccharides from green algae  and while contigs related to these phages were present in all gut samples they were markedly higher in the uncleared samples perhaps due to the fact that ciona eat fine detritus and phytoplankton .
+
+3. virome of the cleared ciona gut between collection years as determined by 75 contig coverage by reads to the co-assembled contigs.
+
+some viral contigs that were highly abundant in one compartment were rare or absent in other compartments revealing a great degree of spatial organization in the ciona gut virome.
+

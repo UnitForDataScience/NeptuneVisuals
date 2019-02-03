@@ -1,0 +1,30 @@
+in addition for the three asymptomatic varieties sampled in quincy there were substantial differences between the community structures of owari and honeybell leaf microbiota anosim r statistic 0.959 significance based on 999 permutations 0.023 and root microbiota anosim r statistic 0.867 significance based on 999 permutations 0.016. alternatively little or no differences were detected between the microbiota of navel trees with thatfig 3 nmds plots for differences in the structure of microbial communities that were associated with the citrus trees sampled in fall 2015. a all samples b only root samples c only leaf samples.
+
+the severity of hlb is underscored by the billions of dollars in economic damage and thousands of jobs lost throughout florida where l. asiaticus is widespread thattable 1 characterization of the microbial communities of leaf and root samples from 73 citrus trees across floridaaafor each sample set the location citrus cultivar sampling date number of trees sampled numbers of leaf and root microbial communities included in data analyses i.e.
+
+s1 in the supplemental material where huanglongbing hlb disease symptoms ranged from asymptomatic to severely symptomatic during 2015 to 2016. valencia citrus sinensis l. osbeck navel citrus sinensis l. osbeck honeybell citrus x tangelo owari citrus unshiu marcovitch and ray ruby citrus paradisi macfadyen were sampled in the study .
+
+the objective of this work was to test the hypothe- sis that restructuring of the core microbiota may be associated with the progression of huanglongbing hlb the devastating citrus disease caused by liberibacter asiati- cus liberibacter americanus and liberibacter africanus.
+
+we used citrus and hlb as a plant hostdisease model to investigate i the relationship between leaf- and root-associated microbial communi- ties and host plant ii the interactions between native microbiota and a phytopatho- gen and iii the core microbiota their prevalence within the broader microbial communities and correlations between community structure and plant disease among other factors.resultscitrus-associated microbial community structure and core microbiota.
+
+many of the taxa whose relative abundances differed based on hlb symptoms were members of the core citrus microbial community  table s1.moreover to test the hypothesis that season and time were associated with com- munity structure we compared microbiota from valencia trees sampled in gainesville on 1 april 2015 1 june 2015 23 september 2015 and 29 march 2016. by comparing the microbiota sampled in 2015 we determined that season correlated with thetable 2 differences in microbial community structure across locations for cultivars that were sampled at multiple sites and across cultivars within a location where multiple cultivars were sampledaathe anosim r statistic and the significance based on 999 permutations are listed for each anosim test.
+
+microbial ecologydefining the core citrus leaf- and root- associated microbiota factors associated with community structure and implications for managing huanglongbing citrus greening diseaseryan a. blausteina graciela l. lorcab julie l. meyera claudio f. gonzalezb max teplitskiasoil and water sciences department genetics institute university of florida-ifas gainesville florida usaa microbiology and cell science department genetics institute university of florida-ifas gainesville florida usababstract stable associations between plants and microbes are critical to promot- ing host health and productivity.
+
+and how it correlated with hlb disease symptom severity the statistical software past  was used to perform anova and tukey's post hoc tests to determine the differences in the relative abundance of the pathogen in microbiota of citrus trees based on i location and citrus cultivar trees sampled in fall 2015ii seasontime trees sampled in gainesville during 2015 to 2016 and iii hlb symptom severity all trees.microbial community structure was analyzed with phyloseq  and plotted with ggplot2  in r v.3.2.1.
+
+2013. characterization of the microbial community structure in candidatus liberibacter asiaticus- infected citrus plants treated with antibiotics in the field.
+
+detected in at least 95 of the respective leaf or root samples some overrepresented site-specific members and a diverse community of low- abundance variable taxa.
+
+asymp- tomatic mildly symptomatic moderately symptomatic and severely symptomatic was also strongly associated with community structure of leaf microbiota anosim r statistic 0.572 significance based on 999 permutations 0.001 and root microbiota anosim r statistic 0.592 significance based on 999 permutations 0.001 regardless of the other variables being considered.
+
+this is likely the case for the devastating citrus greening disease or huanglongbing hlb which is caused by the phloem-limited alphaproteobacteria liberibacter asiaticus li- beribacter americanus and liberibacter africanus .
+
+the total counts of otus and assigned taxa for each taxonomic rank were transformed to relative abundance values.the core members of the citrus leaf and root microbiota were defined as those that had at least 1 sequencing read in at least 95 of the respective samples .
+
+accordingly the composition and diversity of leaf and root microbiota were substantially associated with location leaves anosim r statistic 0.655 and significance based on 999 permu- tations 0.001 roots anosim r statistic 0.577 and significance based on 999 permu- tations 0.001 there was also an association with citrus cultivar leaves anosim r statistic 0.318 and significance based on 999 permutations 0.001 roots anosim r statistic 0.289 and significance based on 999 permutations 0.001 .
+
+our findings advance the understanding of i plant microbiota selection across multiple variables and ii changes in core community structure that may be a precondition to disease estab- lishment andor may be associated with symptom progression.importance this study provides a comprehensive overview of the core microbial community within the microbiomes of plant hosts that vary in extent of disease symptom progression.
+

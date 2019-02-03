@@ -1,0 +1,30 @@
+in particular neisseria and genera of the unclassified neisseriaceae family were 4-fold more abundant in samples from hiv participants log 2 fc 1.84 padj 0.001 and 3. interestingly this change in abundance was consistent through the different anatomical sites although with different levels of significance as well as in the age and sexual behavior adjusted model table s5 importantly the neisseria genus was also more abundant in samples from hiv participants through varying severity of pd with similar fold- change values log 2 fc with respect to hiv- samples see table s3  s4 interestingly aggregatibacter genus abundance was higher in hiv n-pd samples log 2 fc 2.02 padj 0.005 but not in more advanced pd stages.
+
+furthermore 3 different genera abiotrophia rothia and unclassified pasteurellaceae that were uniquely enriched in cheek hiv n-pd samples were otherwise overabundant in m- pd and s-pd teeth but not saliva samples suggesting a tissue shift of these genera along pd severity table s4 other genera were found to be differentially abundant in either hiv teeth saliva or cheek samples but not generally in such a way that hiv associated changed in microbialfigure 2. pcoa ordination analysis.
+
+each participant contributed saliva tooth samples from 2 teeth and 2 cheek mucosa samples.
+
+a total of 148408 36.3 different bacterial genera provided more than 100 counts and were kept for further analyses.microbiome analysiswhen all sample sites were analyzed together bacterial diversity but not richness was consistently higher in tooth samples than in both cheek and saliva samples through all pd stages and in both hiv-positive and -negative participants p  0.001 for all comparisons and fig.
+
+important- ly pd effects on oral microbiome were only significant for cheek adonis p value 0.01 r2  0.06 but not for teeth or saliva samples whereas hiv infection exerted a similar effect on cheek adonis p value 0.05 r2  0.02 and teeth samples adonis p value0.01 r2  0.03 but had no significant impact in saliva samples.firmicutes was the most abundant phylum in all sampling sites followed by actinobacteria bacteroidetes fusobacteria and proteobacteria whose relative abundance order changed depending on sampling site fig.
+
+synergistetes and spirochaetae both low abundant phyla were consistently found to be more abundant in teeth cheek and saliva samples from the s-pd group versus n-pd whereas proteobacteria andgenera were found to be localized to single sitepd severity combinations.of the bacterial genera that are traditionally linked to pd only treponema genus was found to be overabundant in s-pd when compared to n-pd when hiv infection was not considered in both cheek log 2 fc 1.83 padj 0.005 and saliva log 2 fc 2.6 padj 0.001 samples albeit in very low abundance 1. these were accompanied by other genera underlining the complex multicomponent nature of microbiome disbyosis with pd.
+
+although this depletion in cheek samples was not accompanied by significant changes in teeth or saliva s-pd samples there was a general and significant trend towards streptococcus depletion globally in s-pd hiv participants whereas this genus was enriched in n-pd hiv participants.functional analysisfunctional analysis using the picrust inferred gene content also revealed major differences among sampling sites fig.
+
+relative abundance increase was consistently found in teeth cheek mucosa and saliva samples and in samples from participants with mild or no pd but also moderate and severe pd.
+
+dr recruited the study participants performed their clinical evaluations and collected samples.
+
+dr and jmp processed samples prepared dna libraries and performed sequencing.
+
+hiv- control samples were obtained from clinical and research staff at the same institution.
+
+a curette was used to obtain dental plaque samples from whole teeth 1 posterior molar and 1 anterior incisor in all participants.
+
+in participants with pd samples were taken from the deepest periodontal pocket of teeth that was representative of the participant pd severity.
+
+finally 2 cheek samples were obtained from each participant.
+
+finally a measure ofxerostomia was performed involving ph and salivary flow rate measurements.dna extraction 16 s rrna gene amplification and sequencinggenomic dna from all samples was extracted utilizing the mobio powersoil dna isolation kit cat  12888-50 and quantified via quant-it picogreen dsdna assay cat  p11496.
+

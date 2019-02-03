@@ -1,0 +1,30 @@
+1 - principal component analysis of oral microbiota of t2dm and healthy controls.d i a b e t e s r e s e a r c h a n d c l i n i c a l p r a c t i c e 1 3 0  2 017  204 - 21 0207table 2 - oral microbiota of t2dm patients n  8 pre neem and post neem.t2dmlbacterial countst2dm2bacterial countsorganismi visitii visitorganismstreptococcus272148860streptococcus12342657veillonella0530veillonela9210164actinomyces3175131vibrio6144150hemophilus103326 hemophilus5057neisseria2307312neisseria270135rothia087rothia0224graneulicatella0154 total354541281t2dm3bacterial countst2dm4bacterial countsorganismi visitii visitorganismi visitii visitstreptococcus83542137streptococcus187551257veillonella16910198veillonella26561583vibrio3524110vibio3588344 hemophilus2716221hemophilus286758neisseria7059350actinomyces219214total347743755rothia0252total338472769t2dm6countpe centaget2dm5bacterial countsorganismorganismi visitii visitstreptococcus13951105veillonella5692163vibrio3766127 hemophilus443961neisseria506744oribacterium0124streptococcus166281220veillonella39451hemophilus24723neisseria151141rothianil80leptotrichia046atopobium019 total32915624total38159 t2dm8countp rcentaget2dm7bacterial countsorganismorganismi visitii visitstreptococcus130354701streptococcus122544515neisseria1686520hemophilus1024411pasteurellaceae5829nilvibrio277410strep anginoses443fusobacterium89208d i a b e t e s r e s e a r c h a n d c l i n i c a l p r a c t i c e 130  201 7 20 4 - 210 most of the bacteria that were encountered in the oral microbiota belonged to phylum proteobacteria.
+
+results the profile of oral microbiota of t2dm patients n  24 consists of streptococcus 95.8 counts ranging from 2644 to 27214 veillonella 72.2 counts 25-19709 neisseria87.5 453-33445 rothia 63.6 233-6734 actinomycetes 25 161-3730 fusobacterium21 2252-21334 and pigmentiphaga 12.5 3-16644. oral microbiota in healthy controlsn  10 consists of streptococcus 26.1 veillonella 21.9 neisseria 16.9 haemophilus10.7 actinomycetes 2.6 rothia 3.1 oribacterium 1.7. post neem samples showed drastic reduction in the load of bacteria which was statistically significant.
+
+ - next generation sequencing of oral microbiota in type 2 diabetes mellitus prior to and after neem stick usage and correlation with serum monocyte chemoattractant-1rubini anbalagan  padma srikanth  monika mani  ramya barani krishna g. seshadri  r. janarthanan a department of microbiology sri ramachandra medical college and research institute sri ramachandra university porur chennai tamil nadu indiab department of endocrinology sri ramachandra medical college and research institute sri ramachandra university porur chennaitamil nadu indiac shrimpex biotech services private limited sholinganallur chennai tamil nadu indiaa r t i c l e i n f oarticle historyreceived 6 february 2017 received in revised form 19 april 2017accepted 6 june 2017available online 13 june 2017keywordsoral microbiotaserum monocyte chemoattractant-1 next generation sequencing16s rrna t2dma b s t r a c t introduction oral microbiome impacts health and disease.
+
+neem azadiracta indica has antibacterial activity against oral microbiota.objectives to characterize oral microbiota omb in saliva samples of t2dm patients by next generation sequencing.
+
+the type of oral microbiota determines the co- morbid conditions of t2dm patients.
+
+the profile of oral microbiota is influenced by factors such as food co- aggregation genetics and life style .
+
+there are geographic differences in the oral microbiota.
+
+in this study we characterized the oral microbiota inhealthy controls and in t2dm patients.
+
+we also assessed the impact of neem usage on oral microbiota and serum mcp-1 of patients with t2dm.and spit into sterile wide mouth leak proof screw capped con- tainer.
+
+all the statistical analysis was done using r software 3.0.2.resultst2dm patients n  24 and healthy non diabetic controls n  10 attending a tertiary care center were enrolled in the study and oral microbiota was analyzed using metagenomic sequencing on saliva samples.
+
+the mean hba1c was11.33 - 1.56 ranged from 8.0 to 13.7. in the analysis of oral microbiota before the use of neem stick the range of bacterial counts for streptococcus was 2644-27214 with a total of 241304 followed by neisseria 453-33445 with a total of 208872 veillonella 25-19709 with total 152184 haemophilus 886-14093 with total 144932 vibrio rothia 233-6734 total 33200 actinomycetes 161-3730 with total 28707 followed by fusobacterium 1-2252 total 21334 pasteurellaceae 1623-3858 with total of 8618 and pigmentiphaga 3-4993 total 16644. also eikenella gamella and leptotrichia were found to be 7187 2951 and 21225 respectively.fig.
+
+other phyla included fusobacteria fusobacterium leptotrichia and actinobacteria rothia actinomycetes .principal component analysis of the oral microbiota among t2dm showed that neisseria haemophilus and vibrio were strongly associated.
+
+the counts of healthy controls were compared with the counts obtained from t2dm post neem and they were found to be similar.the mean serum mcp-1 level before the use of neem stick was 265.18 - 79.44 range 141.6-980.5 pgml and dropped to33.6 - 7.35 after a month of neem stick usage with a p value  0.001which was statistically significant .discussionthis is a preliminary study conducted using saliva samples obtained from patients with hba1c ranging from 8.0 to 13.7 and non-diabetic healthy controls with hba1c  6.5. metage- nomic sequencing was performed on saliva samples targeting v6 region of 16s rrna.globally oral microbiota has been characterized in healthy individuals using short gun sequencing pyro sequencing and next generation sequencing .
+
+the oral microbiota predom- inantly encountered in healthy controls was streptococcus haemophilus neisseria veillonella .
+
+some reports suggest that the oral microbiota is diverse .
+

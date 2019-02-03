@@ -1,0 +1,30 @@
+oral taxon 180 in either phenotype after fluticasone propionate treatment tables h-j in .the airway microbiome is associated with differential cytokine production observed in asthmaticsto further assess if the differences in the microbiome were related to differences in cytokines we performed multiple regressions with dc1 as a linear predictor for cytokines in controls asthmatics pre-fp and asthmatics post-fp.
+
+mod- ules of cytokines were identified using significant pearson's correlations controlled for multi- ple hypothesis testing p  0.05 q  0.05 and clustered using complete-linkage algorithm.clusters were said to be modules if five or more cytokines had interactions with each other to control for clusters composed of spurious interactions.
+
+there was no significant increase or reduction in il-10 g-csf ifn-g or il-17f data not shown.cytokine modules associate with asthmatic phenotypes and pulmonary functionto determine if the cytokines that were differentially abundant between controls and asth- matic phenotypes have effects that are independent or are correlated with other cytokines we constructed a correlation network of cytokines across all subject samples n  30 using signifi- cant associations pearson's correlations p  0.05 q  0.05 .
+
+we detected seven species that were dif- ferentially abundant fdr adjusted p  0.05 between controls ap1 pre-fp and ap2 pre-fp .an increased abundance of streptococcus pneumoniae was found in ap2 pre-fp compared to ap1 pre-fp log2 fold change l2fc 95 ci 3.5041.815-5.192 adjusted p  0.002 ap2ap1 and controls l2fc 95 ci 2.9091.219-4.598 adjusted p  0.002 ap2control.the changes in airway microbiome have unique associations with inflammation in asthmatics.
+
+we analyzed bronchoalveolar lavage bal cytokines and chemokines associated with t-cell responses and found no significant differences between asthmatics and controls using principal coordinate analysis pcoa and permutational manova permanova .
+
+il-2 b 95 ci  9.9221.243-18.600 r2  0.255 p  0.027 and mip-1b b 95 ci  -17.220-33.480--0.921 r2  0.226 p  0.039 significantly associated with fev1  predicted using univariate linear regression .
+
+unlike what has been previously reported in non-asthmatic individuals in asthmatics prior to fp treatment the increasing abundance of these upper airway species was not associated with th17 responses but was highly associated with decreasing il-2 and increasing module 1.interestingly the abundance of streptococcus pneumoniae was reduced after fp treatment which correlated with the reduction in concentration of module 1 il-1b -8 -31 -33 tnf-a and mip-1b.
+
+cytokines were standardized using z-score and principal component analysis pca was performed using euclidean distances.
+
+bronchoalveolar lavage bal cytokines and chemokines from asthmatic sub- jects were standardized using z-score and sample distances were determined using euclidean distances.
+
+we identified two unique cytokine profiles that were associated with airway obstruction and compositional changes in the microbiome.these inflammatory changes were reduced after fp therapy as well as association between the cytokines and the microbiome composition.
+
+the abundance of these cytokines was associated with composition of the microbiome.
+
+we identified mip-1b and il- 2 as cytokines associated with the obstructive status in asthmatics.
+
+these data indicate that in atopic asthmatics differences in pulmonary function may be mediated by unique immune responses to the airway microbiome.ap1 exhibited significantly decreased concentrations of cytokines ifn-g il-17f andg-csf associated with microbial pathogens .
+
+these subsets are responsible for immunity to specific microbes or regulation of inflammation.the composition of the airway microbiome in asthmatics has been associated with clinical features such as symptom control severity of airway obstruction and response to corticoste- roid therapy -.
+
+thus there is a strong link with the airway microbiome and local airway inflammation specifically with respect to t-cell phe- notypes in healthy individuals.recently the relationship between the microbiome of the airways and immune response in the airway of asthmatics has been explored   .
+

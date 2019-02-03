@@ -1,0 +1,30 @@
+for each disease the potential associated microbes can be ranked according to the prediction probability scores.the top ranked microbes indicate the most relevant associations potentially providing valu- able information for further microbe-disease association research.cbgs in the microbe-disease association network.
+
+built the human microbe-disease association database hmdad by collecting microbe-disease association data from 61 previous published studies providing a valuable informational resource for investigating microbe-disease associations.
+
+in summary birwhmda can be consid- ered as an effective predictive tool for potential microbe-disease associations.materials and methodsdatasetthe dataset used in this study  was downloaded from the newly built human microbe-disease association database hmdad  which col- lects human microbe-disease association data from 61 previously published studies.
+
+the microbe interaction profile mi is a binary vector encoding the presence or absence of the associations with each disease in the known microbe-disease association network defined as the ith column of the adjacency matrix a of the microbe-disease association network con- structed above.
+
+accordingly a potential microbe-disease association is evaluated by its distance to other associations in the microbe similarity network and the disease similarity network .bi-random walk explores the cbg patterns by iteratively performing random walk on the microbe similarity network and the disease similarity network simultaneously to infer novel microbe-disease associations .
+
+nevertheless due to the limited research on existing microbe-disease association data only a few methods have been developed to address the gap.in the present study we proposed a novel approach based on bi-random walk on the het- erogeneous network to predict novel microbe-disease associations.
+
+it is a global strategy that explores the missing microbe-disease associations simultaneously and can predict novel related microbes for diseases without any known associated microbe information.more specifically we present a novel computational approach that executes a bi-random walk algorithm on the heterogeneous network to predict potential microbe-disease associa- tions birwhmda.
+
+if there is a known association between disease di and microbe mj the weight of the edge is equal to 1 otherwise 0. to get a comprehensive view of the bipartite graph we analyze the degree distribution of the microbes and diseases in the microbe-disease association network .
+
+thus it is imperative for researchers to achieve a comprehensive understanding of the associations between microbes and diseases which would not only help determine disease pathogenesis but also boost disease diagnosis and therapy.though some computational methods have recently been proposed to study microorgan- isms and human diseases - little work has been undertaken to advance human microbe-disease association prediction models.
+
+in this work we apply the gaussian interaction profile kernel similarity measure to determine microbe similarity and disease similarity -.based on the assumption that similar microbes are more likely to show a similar interaction and non-interaction pattern with diseases gaussian interaction profile kernel similarity for microbes can be calculated from the known microbe-disease association network .
+
+the top 10 candidate microbes for ibd obtained from pbhmda are also listed in  of these eight microbes have been previ- ously validated   -.in summary these case studies further demonstrate that the approach we proposed is pow- erful in predicting novel microbe-disease associations.
+
+these methods are similar in that they are all accomplished based on a heterogeneous network which is constructed by connecting the microbe similarity network and the disease similarity net- work via the known microbe-disease associations.our method birwhmda aims to predict novel microbe-disease associations by capturing cbg patterns on the global heterogeneous network.
+
+presently hmdad possesses 483 verified microbe-disease association records between 292 microbes and 39 diseases.
+
+however the set hadseveral duplicate associations after removing the duplications we acquired 450 distinct associ- ations and then constructed an adjacency matrix a of the microbe-disease association net- work.
+
+b frequency distribution of disease similarity.degree distribution for microbes and diseases in the microbe-disease association network.
+

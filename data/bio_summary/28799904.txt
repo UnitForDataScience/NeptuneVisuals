@@ -1,0 +1,30 @@
+a cell-specific circadian analysis of metabolic pathway activation coupled with single-cell analysis of resultant immune function might help to understand how the clock gates cellular energetics and engages particular metabolic cascades to boost a rhythmic immune response in order to optimally defeat a pathogenic attack.in addition an involvement of the circadian clock has so far only been demonstrated in the case of rapidly multiplying bacte- ria and viruses and it remains to be investigated whether the clock is similarly important for immune responses against slowly replicating multicellular parasites or fungi or whether its role is limited to the fine-tuning of immune responses on the scale of hours.
+
+additionally we will discuss how diurnal var- iations in the host immune response are generated and how the clock and the infectious state reciprocally influence each other.the role of the circadian clock in host defense against infectiona tight circadian regulation of the host immune system is emerging as a crucial strategy to fight different infectious agentsand distinct immune cells and clock proteins have been impli- cated in the response to specific pathogens.
+
+the circadian clock governs diurnal oscillation in gene expression and impinges on whole organismal homeostasis and fundamental physiological processes including immune system functions and inflammatory responses.immune cells and tissues contain a functional molecular clock machinery   and this cell-autonomous clock together with circa- dian neuronal and endocrine signals coming from the scn through the modulation of autonomic neurons   plays a critical role in tuning the host immune response.
+
+although the time-of- day-dependent severity of the immune response was not explored this study confirms the importance of a functional clock and a correct circadian rhythmicity for optimal host im- mune responses to pathogenic insults.coordination of the inflammatory response by the circadian clockthe above studies demonstrate an intimate relationship between clock function and the host immune response to various patho- gens in multiple tissues.
+
+why is the rhythm in the immune components so asynchronous the daily variations in these peaks may represent a protection mechanism against abnormal immune responses as in the case of sepsis  a life-threatening state in which an infection provokes an overt sys- temic inflammatory response inciting injuries to host tissues.
+
+one may envision a scenarioin which distinct effector functions of the anti-bacterial or anti- viral immune response are synchronized by the circadian clock activity in different immune cells but such a model awaits exper- imental proof.
+
+future studies using a combination of conditional clock-deficient mice coupled with timed interventions to light and food exposure are warranted to address this model.a major purpose of clock-governed immune responses might be the partitioning of energy-intensive immune functions over the course of a day.
+
+it has been recently demonstrated that the immune system may anticipate an emerging pathogenic exposure through a heightened inflammatory state.
+
+we summarize the molecular strategies employed by the circadian system against specific pathogens the core-clock proteins as well as cells in which they are expressed that mediate host defense and the consequences of circadian variations on immune function.
+
+furthermore we highlight the possible implications of such circadian gating in immune reactions against pathogenic infections for the chronopharmacology of antibacterial and antiviral therapies.introductionthe rotation of our planet around its axis is responsible for the alternation of day and night.
+
+during the phase of activity and feeding the risk of infection with foodborne pathogens is higher thus necessitating antici- patory mechanisms that synchronize the magnitude of immune responses to time of maximal pathogen exposure.
+
+in contrast chronic obstructive pulmonary disease and asthma exhibit more severe exacerbation during night and early morning   while patients with rheumatoid arthritis experience the most painful joint stiffness in the morning which is often ascribed to joint fluid viscosity but is also associated with a peak in pro-inflammatory cytokine blood level at the same time of the day .cell host  microbe 22 august 9 2017 a 2017 published by elsevier inc. 185figure 1. the molecular clock modulates a variety of physiological processes including immune responsesthe core-clock transcriptional-translational feedback loop composed of the transcriptional activators clock and bmal1 as well as the repressor proteins cryptochrome cry and period per drives the daily rhythmic gene expression of clock-controlled genes ccgs.
+
+moreover various aspects of the immune response such as trafficking of leuko- cytes the activation of innate and adaptive immunity and host-pathogen interactions have been demonstrated to oscil- late in a diurnal manner in both mice and humans.
+
+its study will lead to further understanding of how the circadian clock regulates immune activation in order to optimize a cost- efficient and timely anti-pathogen response and thereby maxi- mize survival.
+
+below we review recent findings on the role of the circadian clock in mediating host defense reactions against specific bacterial and viral pathogens subdivided based on their route of infection .foodborne pathogensthe onset of activity and feeding increases the probability of be- ing exposed to an infectious agent in particular by contact withtable 1. overview of specific immune cells and clock components involved in circadian host-pathogen interactionsgeneticpharmacologicalpathogenimmune celltissue analyzedmanipulationoutcome of the manipulationmicroorganisms present in food.
+

@@ -1,0 +1,30 @@
+members of the community are now beginning to work with much more complex organisms including plants and animals and the last few months hasseen the release of a number of eukaryotic data sets includ- ing human whole-genome nanopore data sets see  a human assembly  and the tomato species solanum pennellii m.h.
+
+as with the pacbio platform insertions and deletions are the pre- dominant error type--r7.3 marc data found roughly three times the number of indels as substitutions across 2d pass and fail data.
+
+each read has its own fast5 file and each file is substantially larger than the size of the sequence data alone containing signal data and large amounts of other metadata.
+
+this has meant a return to overlap layout consensus assem- bly methods originally used with sanger reads as well as exploration of hybrid assembly approaches that utilize long reads to scaffold illumina contigs or illumina reads to correct the long reads.the first de novo assembly of a complete bacterium from only minion data was loman quick and simpson's assem- bly of e. coli k-12 mg1655 from r7.3 data  .
+
+as with canu running nanopolish after racon can further improve assembly quality.a number of assemblies utilizing hybrid approaches have been published which combine nanopore data with highly accurate short read illumina data.
+
+the assembler spades has an option to utilize nano- pore or pacbio data for gap closure and repeat resolution in hybrid assemblies with illumina data  .
+
+while signal data are inherently more difficult to interpret in many ways they are a richer source of data because the basecalling process can cause information such as dna modification to be lost.
+
+have produced signalalign a tool for align- ment of signal data to a reference with mapping of methy- lation data and demonstrated mapping of three cytosine variants and two adenine variants.
+
+thus in order to decide if a molecule is required or not software must make a decision based on analysis of the raw signal data or basecall using partial data.
+
+software called minknow runs on a computer connected to the minion and records the signal current data from all channels storing it on the local hard drive.
+
+since late 2016 signal data are basecalled to a nucleo- tide sequence either in real-time by minknow or by a sep- arate offline basecaller.
+
+thus the more gentle careful dna extraction methods often yield superior data.
+
+the minion has had particular difficulties with homopolymer sequences as a stream of identical bases will result in the same current level and variability in the speed of procession through the pore makes it difficult to discern the exact number of bases from temporal data alone.
+
+this means that if you can prepare long dna molecules for sequencing the device will produce longsequence data.
+
+however even with this approach long reads are possible and the marc phase 2 data includes mapped reads up to 50 kb.
+

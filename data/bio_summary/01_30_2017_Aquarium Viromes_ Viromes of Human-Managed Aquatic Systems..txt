@@ -1,0 +1,30 @@
+similar results were also obtained in a freshwater virome study by  where aquatic viromes were classified into two representative groups freshwater virome and seawater virome highlighting that these two different environments contain unique virome signatures.
+
+of the 73 viral families 23 were detected in all eight virome sets 13 in seven virome sets seven in six virome sets and10 in five virome sets.
+
+most viromes were dominated by dna phages of the order caudovirales as commonly found in other aquatic environments with average relative abundance greater than 64. the composition and structure of aquarium viromes were associated with controlled system parameters including nitrate salinity and temperature as well as resident animal profiles indicating the close interaction of viromes with aquarium management practices.
+
+to estimate the proportion of a particular viral taxonomic group compared to the rest of the virome and to compensate for different sequencing scale the summed relative abundance of all contigs in each virome was normalized to 100. the summary of viral taxonomic classification was tabulated as a 17 90 matrix 17 viromes in rows 90 viral families in columns.
+
+these findings show that water temperature and resident animal profiles such as total number of individual animals in the aquarium systems contribute to the composition of aquarium viromes.high diversity of viruses in the aquarium systemsprior to examining and comparing relative abundance of viral families between aquarium viromes we included a virome oflake michigan lm from a previous study   as a virome derived from a native aquatic ecosystem with limited intentional human manipulation.
+
+relative abundance of viral families revealed that the sta virome had a less complex community composition the vast majority 99.3 of which was associated with double-stranded ds dna phages belonging to the order of caudovirales myoviridae 14.6 podoviridae 33.3 siphoviridae 30.0 and unclassified caudovirales 21.3. as all of the aquarium systems use treated lake michigan water as their sources all systems were expected to have similar patterns and structures of viromes with that of the sta virome in the beginning.
+
+however shifts in the virome structure were thought to occur as a result of aquarium management practices including establishment of physicochemical properties such as salinity temperature and nutrient concentration and addition of resident animals and plants in the systems astable 2  summary of the contigs with significant blastn hits to known human papillomaviruses obtained from the aquaria.stb stingray touch after human contact.table 3  summary statistics of read mapping to reference genomes of human papillomaviruses.all viromes except ascoviridae in the sta virome with average relative abundances of 0.6 1.2 and 6.0 respectively.
+
+on the other hand the stb virome was observed to have the highest diversity of args suggesting that the stb virome had resistance to a wider array of antibiotics with higher number of genes conferring resistance to the most kind of antibiotics than the other viromes.
+
+this helped to minimize potential bias in virome preparation and sequencing.common viruses shared among different aquarium systemsa total of 922.7 million high quality pe reads of the 17 virome data collections were assembled generating 928186 contigs with an average of 54599 35962 contigs per virome with a mean length of 938.2 70.9 bp supplementary table s2.
+
+ 12 13  4 and 11 department of fisheries and wildlife michigan state university east lansing mi united states 2 national institute of agricultural sciences rural development administration wanju south korea 3 a. watson armour iii center for animal health and welfare john g. shedd aquarium chicago il united states 4 department of global environmental health sciences school of public health and tropical medicine tulane university new orleans la united statesedited by telesphore sime-ngando centre national de la recherche scientifique cnrs francereviewed bydiego mora universita degli studi di milano italyjose luis balcazar catalan institute for water researchspaincorrespondenceyiseul kim specialty section this article was submitted to aquatic microbiologya section of the journal frontiers in microbiologyreceived 28 march 2017accepted 19 june 2017published 30 june 2017citation kim y van bonn w aw tg and rose jb 2017 aquarium viromes viromes of human-managed aquatic systems.
+
+this is the first study to provide vital information on viromes and their unique relationships with management practices in a human-built and controlled aquarium environment.keywords antibiotic resistance genes aquarium metagenomics next-generation sequencing viromes virusesintroductionaquatic environments of public aquaria provide a home to many species of amphibians fish marine mammals and reptiles for the education and enjoyment of the public and to enhance scientific understanding of aquatic systems biology.
+
+although previous studies have proved the feasibility of metagenomic approaches for exploring viromes in natural aquatic environments              to the best of our knowledge no studies have been published to date on viromes in an aquarium ecosystem which is an engineered system but not wastewater         or host-associated system      .
+
+ratio of our viromes with a rdna was lower than0.22 in 10000 sequences as defined by indicating that the aquarium viromes had negligible amounts of cellular contamination.
+
+we examined viromes with the lowest to highest complexity to identify factors driving distinct composition of aquarium viromes.
+
+dominance of dsdna phages was also found in the aquarium viromes average 64.2 except the gla and oc viromes with low relative abundances of 35 and 13.7 respectively.
+

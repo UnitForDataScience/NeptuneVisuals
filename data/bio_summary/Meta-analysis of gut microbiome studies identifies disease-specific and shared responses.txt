@@ -1,0 +1,30 @@
+three recent meta-analyses found no reproducible obesity-associated microbiome shifts- which is consistent with our classification results where we were only able to accurately classify obese and control patients in two out of five studies zhu et al.
+
+a top if it was significantly associated q  0.05 in at least one data set of at least two different diseases in the same direction.when we defined these non-specific genera we did not include data sets which used non-healthy controls papa et al.and gevers et al.
+
+all data sets except papa et al.and gevers et al.
+
+finallymeta-analysis could be used to identify subsets of patients who exhibit distinct microbiome shifts within heterogenous diseases like ibd or in conditions which exhibit stochastic microbial responses allowing for further stratification of disease subtypesand microbiome disruptions  .
+
+we also analyzed the nash and obese patients from the zhu et al.
+
+the treatment-naive microbiome in new-onset crohn's disease.cell host microbe 15 382-392 2014.morgan x. c. et al.
+
+microbiome 1 18 2013.singh p. et al.
+
+the majority of the the non-specific responders in the order clostridiales were associated with health comprising the majority of all of the microbes which were non-specifically associated with healthy patients 17 genera out of 24 total health- associated genera.
+
+we identified 24 health-associated genera and 20 disease-associated genera out of the 152 genera that were significant in at least one data set fig.
+
+1. note that youngster et al.had only four distinct control patients was excluded from the random forest analysis.
+
+which had only four distinct controlpatients and thus was not included in this analysis had very high classifiability auc  0.9. we successfully classified patients from controls auc  0.7 in three out of four ibd studies and all four crc studies which is consistent with previous work showing that these patients can be readily distinguished fromcontrols using supervised classification methods -.
+
+the total relative abundance across all patients divided by the number of patients with non-zero abundance and ubiquity i.e.
+
+the number of patients with non-zero abundance divided by the total number of patients for each genus in the shared response.
+
+and willing et al.. here the fact that other studies analyzing the same diseases consistently found associations strengthens the hypothesis that the lack of microbiome-associated signal in these studies was due to low power rather than a lack of true signal.because individual studies are plagued by low statistical power confounding variables and batch effects which can obscure biological signals the identification of disease-specific and non- specific microbial associations will continue to improve as more data sets and diseases are included in future meta-analyses.discussionhere we report patterns of disease-associated shifts in the human gut microbiome that differ in their directionality i.e.
+
+non-ibd patients these patients were used as controls as in the original papers.
+

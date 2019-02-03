@@ -1,0 +1,30 @@
+metabolomics vs. metabolomics cross-sectional and delta correlations are reported in supplementary table 2 supplementary table 3 supplementary table 4 and supplementary table 5 and visualized in figure 2 and supplementary figure 1. we assessed reproducibility of duplicate measurements across two clinical laboratories supplementary figure 8. as correlations between repeat measurements do not represent physiologically relevant information they are not included in our network or subsequent analysis.we performed community analysis using the method of girvan and newman 11. this method involves iteratively calculating edge betweenness centrality on a network the number of weighted shortest paths from all vertices to all other vertices that pass over that edge.
+
+2006 1038577-8582. pubmed 16723398price et al.page 23shannon p et al.
+
+at every iteration of the community analysis we computed the modularity and analyzed the communities at the iteration which maximized this quantity supplementary figure 2.ols regression on the dependent variable homa-ir with regressors including sex ggt gamma-glutamyltyrosine age and body mass index was performed supplementary table 7. to test for heteroscedasticity in our homa-ir regression model we fit the model using white's heteroscedasticity-consistent estimator hce testing for the effects of outliers using a robust regression model and testing for multicollinearity by calculating the variance inflation factors vif for each predictor.generalized estimating equations gee were used to estimate the average change in each clinical analyte by round while controlling for the effects of age sex and self-reported ancestry table 1 and supplementary table 10. an independence working correlation structure was used in the gee.software packagesnygc used bwa v0.7.8-r455 to align sequences.
+
+associations with fgf21 red lines and gamma-glutamyltyrosine purple lines are highlighted.price et al.page 29figure 4. cholesterol serotonin a-diversity ibd and bladder cancer communitiesa cholesterol community b serotonin community c a-diversity community d the polygenic score for inflammatory bowel disease is negatively correlated with cystine e the polygenic score for bladder cancer is positively correlated with 5-acetylamino-6- formylamino-3-methyluracil afmu.price et al.page 30figure 5. polygenic scores correlate with blood analytesspearman correlations between polygenic scores x-axis and analyte measurements y-axis from our correlation network.
+
+samples were left in the tube and shipped at ambient temperature.price et al.page 12all clinical labs measured using both vendors are listed in supplementary table 1.whole genome sequencingparticipant whole blood samples were submitted to either complete genomics inc. 41 participants or the new york genome center 67 participants for whole genome sequencing wgs.
+
+see supplementary figure 1 for the complete inter-omic cross-sectional network.price et al.page 28figure 3. cardiometabolic communityall vertices and edges of the cardiometabolic community with lines indicating significant padj0.05 correlations.
+
+see supplementary table 10 for the complete results.price et al.page 32
+
+pubmed 25146375chen r et al.
+
+1988 28157-163. pubmed 3168304jensen lj et al.
+
+2001 1041894-1898. pubmed 11602490li m et al.
+
+2008 1052117-2122. pubmed 18252821poesen r et al.
+
+2016 273479-3487. pubmed 27230658manichanh c et al.
+
+2006 55205-211. pubmed 16188921jostins l et al.
+
+2007 115177-207. pubmed 17604107prentice kj et al.
+
+2014 19653-666. pubmed 24703697zheng js et al.
+

@@ -1,0 +1,30 @@
+the effect of consuming fos andor polyphenols on the health of hosts needs to be further explored.introductionthe human intestine harbors about 100 trillion bacteria.1 imbalances of intestinal microbiota will lead to various chronic diseases including obesity diabetes inflammatory bowel disease and even colon cancer.2 gut microbiota acts as media between diet and human health.3 they multiply by uti- lizing unabsorbed components of food in small intestine and then perform functions in the host body by degradative activi- ties that yield nutrients and metabolites and by interactions with the immune system.4 hence maintenance of intestinalmicrobiota balance via different methods has attracted signifi-cant attention.diet is important to shape the composition of gut micro- biota in humans and rodents.
+
+it has been reported that ndcs including fructooligosaccharide fos can alter gut microbiota composition.415therefore fos and polyphenols share three common characteristics 1 they remain unabsorbed or are unable to be completely absorbed in the small intestine of rodents 2 they reshape the composition of gut microbiota in large intes- tine and 3 they are beneficial for human health.
+
+in our pre- vious studies polyphenols were discovered to alter the pathway of gut microbiota metabolizing ndcs fos in vitro12however studies focusing on the combination effect of poly-phenols and fos on gut microbiota in vivo have not been reported to date.
+
+in our previous study plant poly- phenols including quercetin and catechin were discovered to alter the energy pathway of gut microbiota in vitro by reshaping the composition of the gut microbiota.12 however studies on the combination effect of fos and plant polyphenols on gut microbiota in vivo have not been reported.
+
+2017 8 1925received 11th december 2016 accepted 29th march 2017doi 10.1039c6fo01783eimpact and consequences of polyphenols and fructooligosaccharide interplay on gut microbiota in ratschuan-jin zhenga rong liub bin xueb jianming luob lijuan gaob yong wangb shiyi oub shugang lic and xichun pengbboth fructooligosaccharide fos and polyphenols can be individually and directly transferred to the large intestine of mammals and are beneficial for human health as they reshape the composition of gut micro- biota.
+
+the combination impact of fos and polyphenols on rats' gut microbiota and the corresponding consequences on rats were investigated via miseq sequencing technique and bioinformatics.
+
+e-mail tpxchunjnu.edu.cn tel 86 02085226630cschool of bioengineering and food engineering hubei collaborative innovation center for industrial fermentation hubei university of technology wuhan 430068 china two authors equally contributed to this paper.and their derivatives can also alter and reshape the composition of gut microbiota.712 hence the interactions between poly- phenols and microbiota can affect human health.13it has been reported that non-digestible carbohydrates ndcs can regulate gut microbiota.14 plant-sourced food has various types of ndcs including fibers resistant starch oligo- saccharides and polysaccharides.
+
+they can reach colon andprovide energy for large intestinal microbiota.
+
+the aim of this experiment was to study the combination impact of fos and polyphenols on rats' gut microbiota and the corresponding consequences on rats which will contribute to understanding the beneficial effect of complex food components on human health.materials and methodsanimal diets and sample preparationafter 10 days of adaptation to a standard diet16 twenty-one male sd rats at 5 weeks of age were randomly and equally divided into 3 groups 7 in each group.
+
+statistical significance was set at p  0.05.resultsoverall structural changes of gut microbiotadiets supplemented with different polyphenols resulted in different distribution of gut microbiota in group fos fosc and fosq fig.
+
+1a-c. among these group fosq not fosc displayed a distribution of gut microbiota similar tothat of group fos fig.
+
+moreover group fosq had the lowest relative abundances of proteobacteria p  0.05. group fosc had the lowest relative abundances of actinobacteria p  0.01 and firmicutes p  0.05 table 1.although the relative abundances of several phyla declined among various groups diversity of gut microbiota did not show significant difference in terms of shannon and simpson indices p  0.05. however the detectable otus in group fosc sig- nificantly decreased in terms of chao index data no shown.fig.
+
+1 analysis of gut microbiota in four groups.
+
+b. plot of prin- cipal coordinate analysis pcoa based on unweighted unifrac metrics and presents the similarity of gut microbiota in different samples.
+
+5. the contents of sc and sp in group fosq presented no significant difference when compared to those in group fos.serum biochemical indiceswhen compared with those in the group fos concentrations of hdl in group fosq and fosc were significantly lower p  0.05. moreover the level of serum leptin in these two groups was also higher than that in group fos although significant difference was observed only in group fosc p  0.05. however other biochemical indices did not show any significant difference among the groups p  0.05 table 3.discussionin this study the in vivo combination impact of fos and poly- phenols on rodent gut microbiota and the corresponding consequences on animals have been reported for the first time.
+

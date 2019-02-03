@@ -1,0 +1,30 @@
+5 microbiome predicted function frequency distribution and corresponding functional community categories for each function a base-level kegg terms ordered from left to right by rank abundance and colored according to the percentage of each predicted function's occurrence in each bat species b results of functional assignment to community categories c distributions of phyloge- netic branch length contributing to each function and summarized by community category.
+
+because each metagenome function is contributed by a subset of the community separate com- munity matrices per function summarize how otu composition contributing a function differs among individual hosts.
+
+next for each function matrices were constructed consisting of hosts indi- vidual bats by bacterial otus inferred to contribute a given function.
+
+next separate phylogenetic trees were cre- ated for bacterial otus contributing to each pre- dicted function by pruning away from the overall phylogeny any bacterial otus not inferred to contrib- ute to the frequency of each function.
+
+significance of procrustes rotations were assessed by comparison of observed residuals to null distri- butions obtained by randomizing samples in the rotated matrix through 1000 permutations  using function protest in the r pack- age vegan .results and discussioneffect of host species on microbiome diversity and community compositionrarefaction curves of number of bacterial otus and faith's pd as a function of sequencing effortfig.
+
+reconciling community variability with the apparent dependence of hosts on community function and characterizing how functional divergence proceeds across niches remains challenging.
+
+we found that while host diet and microbiome community composition do not significantly relate to each other host diet and metagenome function do suggesting that diet directly selects metagenomic functions rather than communities.
+
+host-associated microbiomes are often considered extensions of their hosts reflecting the contribution of microbial communities to host tissue structural integrity  wound healing  immune function    and nutrient acquisition  among others.
+
+however because genes are shared across microbial lineages comparable commu- nity function may be achieved by different combina- tions of lineages that is communities may differ in taxonomic composition but be functionally similar.
+
+recognizing the relationship between genes and lineages would allow a role for metagenome func- tion in the deterministic processes that may shape community composition and would help explain high levels of variation common to datasets of host species .novel approaches that compare functional profilesand community composition from the same samples are needed to better resolve the relationship between structure and function and clarify assembly mecha- nisms.
+
+in this study we progress this goal by char- acterizing how variance in community composition statistically relates to variance in predicted metage- nome function.
+
+to characterize the interaction be- tween microbiome structure and function we used gut microbiome samples from three species of insec- tivorous bat from kenya that differ in foraging strat- egy.
+
+we tested the hypothesis that metagenome variation can be explained by differences in dietary composition within a single trophic niche and clar- ify the relationship between predicted metagenome function and microbiome community composition.
+
+a kegg term-based  function matrix was developed from this matrix by comparing anno- tations of published bacterial genomes following the picrust algorithm developed by .
+
+function was described at all kegg annota- tion levels.
+

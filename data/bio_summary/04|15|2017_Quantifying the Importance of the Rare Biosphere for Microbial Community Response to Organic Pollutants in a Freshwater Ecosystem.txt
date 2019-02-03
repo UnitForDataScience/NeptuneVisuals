@@ -1,0 +1,30 @@
+thus these gene alleles were not discussed further although several of them increased in abundance during our incu- bation indicating that they might be involved in 24-d biodegradation or the by- products.in addition to tfd genes the cad gene cluster was also enriched during selective growth in all 24-d mesocosms especially in mesocosms ii and iii .
+
+in order to compare community gene content shifts in the 24-d 4-np and caffeine metagenomes before and after perturbation we determined the relative coverage x of each protein-coding gene and compared the predicted protein functions based on gene ontology go terms .
+
+s9.fig 5 microbial community gene content shifts in 24-d mesocosm i. the relative coverage x axis of genes y axis was calculated by summing the length of all reads mapping on the gene a minimum cutoff for a match of 80 bp alignment length and 97 nucleotide identity was used and dividing it by the length of the gene sequence.
+
+the median sequence depth for each single-copy gene was determined based on the number of reads mapped to a gene cutoffs used length 80 bp and identity 97 divided by the length of the gene reads per base pair.
+
+the representative 16s rrna gene sequence of this otu showed 99.6 nucleotide identity to the previously identified delftia acidovorans strain p4a  which can completely degrade 24-d using its tfd gene clusters contained on a catabolic transposon this sequence was not among the ones recovered in our metagenomic data set.a total of 1157 and 925 otu were estimated to be present in tpe samples from mesocosms ii and iii table s3 which represented an 56.2 and 64.9 reduction in otu richness compared to that at t  0 respectively.
+
+the results from the 24-d mesocosms are preferentially reported below for simplicity purposes since similar results were largely obtained with the caffeine and 4-np mesocosms unless noted otherwise.the three replicate mesocosms revealed three distinct 24-d biodegradation profiles.
+
+variability was also observed in the 4-np and caffeine mesocosms albeit degradation profiles were more similar among the three replicate mesocosms in these cases than in the 24-d mesocosms fig.
+
+abundance and phylogeny of 24-d 4-np and caffeine biodegradation genes.the known genes responsible for 24-d degradation are the tfdabcedf gene cluster  and the cadabcd gene cluster  and they were all present in at least one of our isolates.
+
+to confirm that no major dna sequencing or library creation biases affected our metagenome-based findings and likely obtain higher-sensitivity measurements of gene abundance tfda gene sequences in the genome of burkholderia sp.
+
+s6 the abundance of comamonadaceae beta- proteobacteria substantially increased 4-fold more abundant and its longest 16s rrna gene fragment identity to our isolates was 100. additional otus that increased in abundance in the post-enrichment metagenome included burkholderiaceae beta-proteobacteria uncultivated members of acidimicrobiaceae actinobacteria and pro- teobacteria showing 85 16s rrna gene identity to any cultured taxon in the greengenes database.
+
+whether the unknownquery sequences clustered with previously characterized reference ones or formed distinct clades instead.metagenomic reads encoding 16s rrna gene fragments were extracted using parallel-meta version 2.4  with default settings except that the rdp database was used as a reference option -d r. the 16s rrna gene coding sequences were identified taxonomically using the qiime pipeline version 1.8.0  with full-length closed-reference operational taxonomic unit otu picking at 97 nucleotide sequence identity based on the august 2013 greengenes release 13-5 database.
+
+another version of the tfda gene was identified from mesocosm i metagenomic contig01889 at tpe t  19 days denoted tfdacontig01889-4 however the alignment between the primer set and this metagenomic tfda gene was low especially for the reverse primer 95 nucleotide identity with forward primer and 42 identity with reverse primer.the topo-ta cloning kit pcr2.1-topo vector invitrogen carlsbad ca usa was used to make the qpcr standard plasmid and a single-copy tfda 142-bp insertion was confirmed by sanger sequencing.
+
+for qpcr 10-fold serial dilutions of the standard plasmid were used to generate a standard curve over the dynamic range from 44 gene copies to 4.4 x 107 gene copies respectively.
+
+the tfda gene abundance in mesocosm dna estimated by qpcr was calculated by taking the direct gene count from the instrument and factoring in the dilution factor of the dna assayed the volume of diluted dna used per reaction 2 ul the total volume of dna extracted and the volume of sample from which the dna was extracted as described previously .
+
+their genomes were sequenced and assigned to the burkholderia sphin- gopyxis and variovorax genera for mesocosms i ii and iii respectively based on 16s rrna gene sequence and whole-genome-based average nucleotide identity ani  analysis.
+

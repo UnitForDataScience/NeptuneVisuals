@@ -1,0 +1,28 @@
+prokaryoteshigh-quality whole-genome sequences of the oligo-mouse-microbiota bacterial communitydebora garzettiab sandrine brugirouxa boyke bunkc rudiger pukallc kathy d. mccoyd andrew j. macphersond barbel stecherabmax von pettenkofer institute of hygiene and medical microbiology ludwig-maximilians-university of munich munich germanya german center for infection research dzif partner site munich munich germanyb leibniz institute dsmz-german collection of microorganisms and cell cultures braunschweig germanyc maurice muller laboratories department of clinical research dkf uvcm university hospital bern switzerlanddabstract the oligo-mouse-microbiota oligo-mm12 is a community of 12 mouse intestinal bacteria to be used for microbiome research in gnotobiotic mice.
+
+the assembled whole-genome sequences of the oligo-mm12 strains have been deposited in ddbjenagenbank under the accession numbers given in .acknowledgmentswe thank cathrin sproer nicole heyer and simone severitt for sequencing of the kb18 pacbio genome.this work was supported by the german center for infection research dzif the center for gastrointestinal microbiome research cegimir and the german research foundation dfg.
+
+we pres- ent here the high-quality whole genome sequences of the oligo-mm12 strains which were obtained by combining the accuracy of the illumina platforms with the long reads of the pacbio technology.n a recent study we described a defined intestinal community of 12 murine strains termed oligo-mouse-microbiota oligo-mm12 which permanently colonize gnotobi- otic mice over several generations and provide colonization resistance against salmo- nella enterica serovar typhimurium .
+
+in future studies genetic variation genome evo-volume 5 issue 42 e00758-17 1garzetti et al.table 1 assembly information and accession numbers of the oligo-mm12 genomeslution and functional genomics among other research applications of the oligo-mm12 community can be assessed by high-quality analyses.accession numbers.
+
+since the oligo-mm12 strains are being used by an increasing number of research groups   the multitude of genome sequences precludes the possibility of a meaningful exchange of data within the scientific community.
+
+aiming to create a set of reference genomes in this study we present the high-quality genome sequences of the oligo-mm12 bacteria which were assembled by a hybrid approach combining illumina and pacbio sequences .as previously described  the complete genome sequence of acutalibacter muris kb18 was obtained on the pacbio rsii platform and assembled using the rshgap assembly.3 protocol default parameters.
+
+thus there is a strong need for availability and constantupdate of the oligo-mm12 reference genomes.it is well recognized that sequences from the illumina platforms have low error rates with systematic errors being mainly situated at the end of the reads but are too short for an efficient complete genome assembly .
+
+.lagkouvardos i pukall r abt b foesel bu meier-kolthoff jp kumar n bresciani a martinez i just s ziegler c brugiroux s garzetti d wenning m bui tp wang j hugenholtz f plugge cm peterson da hornef mw baines jf smidt h walter j kristiansen k nielsen hb haller d over- mann j stecher b clavel t. 2016. the mouse intestinal bacterial collec- tion mibc provides host-specific insight into cultured diversity and functional potential of the gut microbiota.
+
+.li h limenitakis jp fuhrer t geuking mb lawson ma wyss m brugir- oux s keller i macpherson ja rupp s stolp b stein jv stecher b sauer u mccoy kd macpherson aj.
+
+the funders had no role in study design data collection and interpretation or the decision to submit the work for publication.referencesbrugiroux s beutler m pfann c garzetti d ruscheweyh hj ring d diehl m herp s lotscher y hussain s bunk b pukall r huson dh munch pc mchardy ac mccoy kd macpherson aj loy a clavel t berry d stecherb.
+
+.uchimura y wyss m brugiroux s limenitakis jp stecher b mccoy kd macpherson aj.
+
+2016. complete genome sequences of 12 species of stable defined moderately diverse mouse microbiota 2. genome an- nounc 45e00951-16.
+
+.studer n desharnais l beutler m brugiroux s terrazos ma menin l schurch cm mccoy kd kuehne sa minton np stecher b bernier- latmani r hapfelmeier s. 2016. functional intestinal bile acid 7a- dehydroxylation by clostridium scindens associated with protection from clostridium difficile infection in a gnotobiotic mouse model.
+
+.aziz rk bartels d best aa dejongh m disz t edwards ra formsma k gerdes s glass em kubal m meyer f olsen gj olson r osterman al overbeek ra mcneil lk paarmann d paczian t parrello b pusch gd reich c stevens r vassieva o vonstein v wilke a zagnitko o.
+

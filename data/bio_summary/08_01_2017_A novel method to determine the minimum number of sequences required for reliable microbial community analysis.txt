@@ -1,0 +1,30 @@
+tens of thousands sequences.predicting the minimum number of sequences required for studying environmental microbial communitiesin order to verify the utility of our method in determining the re- presentative number of sequences for environmental microbial com- munities we predicted the minimum number of sequences of the community from a laboratory mesocosm.
+
+a novel method to determine the minimum number of sequences required for reliable microbial community analysisjiajia ni xiaojing li zhili he meiying xua guangdong provincial key laboratory of microbial culture collection and application guangdong institute of microbiology guangzhou chinab state key laboratory of applied microbiology southern china guangzhou chinac department of hepatobiliary surgery ii guangdong provincial research center of artificial organ and tissue engineering zhujiang hosplital of southern medical university guangzhou chinad state key laboratory of organ failure research southern medical university guangzhou chinae institute for environmental genomics department of microbiology and plant biology university of oklahoma norman ok usaa r t i c l e i n f o keywordshigh-throughput sequencing microbial community minimum number of sequences sequencing depthcommunity structurea b s t r a c t although high-throughput sequencing is an efficient approach to study the structure of microbial communities in detail it is still impossible to enumerate all individuals using this method.
+
+however if the composition of rare taxa with  1 and 1-0.1 of relative abundances was considered 3000 and 12000 sequences respectively were enough which is in accordance with a previous study .three fecal samples from three mice sample names were mn20 mn23 and mn26 were also analyzed to verify the utility of our method in determining the representative number of sequences for environmental microbial communities.
+
+s1c and d. this result implied that it was impossibility to exhaustivity of the fecal microbiota from different individuals of the same mammal species as tremendous diversity between different in- dividuals.if the correlation between a specific alpha-diversity index such as shannon's index or simpson's index of microbiota in a specific habitat and the minimum number of sequences required to reasonably reflect the composition and structure of the microbiota were known then the alpha-diversity index could be applied to calculate the minimum number of sequences.
+
+when the suitable datasets were accumulated the correlation equations between an alpha-diversity index of microbiota and the minimum number of sequences could be fitted and we could apply the alpha-diversity index to calculate the minimum number of sequences.
+
+in this study we developed a method to determine the minimum number sequences that are required to be analyzed to obtain a reliable description of microbial community structure.
+
+second the correlation equation between dissimilarity of the sampling datasets and sampling depths was fitted and thereby the minimum number of 16s rrna gene sequences was predicted.
+
+our method showed that at least 5528079 sequences were required to reliably characterize microbial communities inhabiting the mesocosms.
+
+however if only dominant otus  1 were considered thousands of sequences were enough.
+
+high-throughput se- quencing technologies such as 454 pyrosequencing and illumina miseq sequencing can sequence millions of 16s rrna gene sequences at a reasonable cost thus providing an efficient tool for studying the structure of microbial communities in detail  .
+
+sequences were pre-processed via qiime pipeline version 1.9.0  as previously de- scribed .
+
+the high-quality sequences were clustered into operational taxonomic units otus at 97 identity threshold.
+
+firstly three datasets with 10000 sequences were sampled which simulated the environ- mental sampling process.
+
+secondly from each dataset five subsets with 1000 3000 5000 7000 and 9000 sequences respectively were re- sampled.
+
+thirdly the dbc between subsets were calculated with the same sequences and fitted the correction equation.
+

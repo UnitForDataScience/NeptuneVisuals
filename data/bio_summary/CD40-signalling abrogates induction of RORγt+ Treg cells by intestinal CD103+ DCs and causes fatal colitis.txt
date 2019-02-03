@@ -1,0 +1,30 @@
+therefore injection of anti-cd40 mabs causes secondary effects which could influence or even beresponsible for triggering cd103 th dcs to migrate to mlns.to investigate if the direct signal of cd40-crosslinking on dcs rather than the concomitant inflammatory signals would induce cd103 th dcs to migrate to the mlns we tested mice that lacked cd40 specifically on cd11c th dcs cd11c-cre x cd40flfl.
+
+caspase3eanti-cd40 injection105ctr16 h24 h72 h40-346-229-40.25p1 0.200.25p2 0.200.080.06p34104 29-544-235-535-10.150.15103102p1p254-50.100.050.100.050.040.020p34 27-2 87-1 25-20103 104 105 0103 104 105 0103 104 105 0 103 104 105mhciifcd11b-0.00cd11b0.00cd11b0.00ctr200 mg a-cd40ctrdc-cd40-kocd103158cd103100cd103-10510410312 - 0.44 - 1.81 - 0.21 - 0.310 - 1.0904 - 0.710804570260071 - 4.290 - 2.471 - 4.1 00acd4050acd40acd400 103cd11b104105cd103 th dcs from the lp arguing for the need of cd40- crosslinking directly on dcs rather than secondary effects for induction of dc-migration to mln 1f.these findings suggest that cd40-triggered dcs leave the lp and migrate to mlns where they eventually die by apoptosis.dcs in dc-lmp1cd40 mice have continuous cd40-signalling.
+
+6 and lack of t- and b cells in rag1 -  -- mice abrogates generation of inflammatory cytokines 3b.in mlns the frequencies and absolute numbers of cd103 th dcs are similarly reduced both under inflammatory conditions upper panel as well as in abx-treated mice which do not develop colitis lower panel suggesting that cd40-signalling induces robust dc-migration from lp to mlns but constitutive signalling in dc-lmpcd40-mice would not600400200ctrdc-lmp1cd40lead to transient accumulation of dcs in mln as observed in acute treatment with anti-cd40 mabs 1b.we next sorted cd103 th and cd103 - dcs from the mlns of dc-lmp1cd40-mice with colitis for expression analysis.cytokine genes il6 il23a and il1b are expressed similarly in0 no abx abx rag1--figure 2  dc-lmp1cd40 animals develop fatal spontaneous colitis.a kaplan-meier plot showing the survival of control and untreated or abx-treated dc-lmp1cd40 animals on c57bl6 and rag1 -  - background nz6.
+
+therefore lmp1cd40-induced migration andreduction of cd103 th dcs led to loss of helios - rorgtthfoxp3 th itreg breakdown of intestinal tolerance with higher numbers of pathogenic il-17a thifn-g th th17th1 and ifn-g th th1 cd4 t cells and commensal-specific antibodies.discussionhere we report that acute and constitutive cd40-triggering of intestinal dcs induces their robust migration from lp to the mlns leading to strong reduction of cd103 thcd11b - andcd103 thcd11b th dcs.
+
+the fact cd103 - dcs do express and can upregulate endogenous cd40 and do express the lmp1cd40-transgene suggest that cd40-signalling might be wired differently in cd103 - dcs as compared with cd103 th dcs.taken together we present a novel intrinsic model of colitis where the migration of cd103 th dcs is induced causing their numerical reduction by apoptosis in the draining mlns.
+
+cd103 thcd11b th dcs are a major subpopulation of tolerogenic dcs which can also induce th17 cellsor th17 and th1 cells upon activation with toll-like receptor tlr-ligands.
+
+studies revealed precise roles of the distinct dc subsets showing that cd103 thcd11b - dcs migrating from lp to draining ln but not sessile cd64 th monocyte- derived cells are essential for the induction of itreg cells.the exact mechanisms controlling the functional switchbetween tolerogenic itreg-inducing versus immunogenic cd103 th dcs is elusive.
+
+besides gm-csf ra andtlr2 signalling also b-catenin-dependent signals uptake of apoptotic dcs and pd-1 ligation may imprint foxp3 th treg induction reviewed in 21. in contrast it is much less clear which signals abrogate treg induction by dcs for examplein situations where induction of immunity is warranted.
+
+although the above experiments suggest that cd40-signalling causes dcs to leave the lp we could not exclude an influence of inflammatory stimuli which have been previously reported to augment effects of cd40-ligation on dcs.
+
+to analyse thefunctional role of cd40-signalling on itreg-inducing dcs in absence of other inflammatory signals in vivo we generated mice where cd11c th dcs receive a constitutive ligand-free cd40 signal.
+
+as expression of the lmp1cd40 fusion protein in dcs was too low to be detected by western blot analysis or flow cytometry we analysed the expression of cre in intestinal dcs and macrophages indirectly with the help of tdrfp reporter mice which express loxp-flanked stop codon-protected rfp from the rosa26 locus.
+
+therefore lmp1cd40-fusion protein expression was largely restricted to dcs and to mhcii thly6clow cd11c th macrophages in the intestine.expression of lmp1cd40 in dcs causes fatal colitis.
+
+overall this data indicates that cd40-signalling in dcs was sufficient to induce fatal colitis which depends on both lymphocytes and the presence of high luminal loads ofcommensal bacteria.dc-lmp1cd40-mice have reduced frequencies of cd103 th dcs.
+
+this finding indicates that cd103 - cd11b th dcs seem to be less susceptible to cd40-signal-induced migration as compared with cd103 dcs either induced by mab or by the lmpcd40 transgene 3a.
+
+therefore in contrast to the increase in cd103 - dcs which is most likely caused by secondary inflammatory effects the loss of cd103 th dcs from lp is intrinsically caused by the lmp1cd40-transgene.to find out if the expression of lmpcd40 transgene wouldinduce dc-maturation we analysed surface markers and cytokine expression.
+

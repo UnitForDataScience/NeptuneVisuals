@@ -1,0 +1,30 @@
+stained exopolysaccharides were detected only in the intestine of the worms fed with wild type b. subtilis while in worms grown on depsh we observed only minor intestinal staining due to the binding of wga-fitc to worms' glycocalyx and possibly due to weak binding to the b. subtilis cell wall.to obtain independent visual support for biofilm formation in c. elegans we examined worms fed with biofilm-producing b. subtilis biofilm or its depsh mutant by electron microscopy and found vegetative cells surrounded by a dense matrix only in animals fed on biofilm-producing b. subtilis supplementary fig.
+
+thus to investigate the effect of b. subtilis biofilm formation on c. elegans physiology we first examined thermotolerance of worms fed the undomesticated b. sub- tilis isolate ncbi3610 and its biofilm-deficient derivatives depsh and dtasa each of which lacks a different extracellular matrix component exopolysaccharide and amyloid-like protein fibers respectively essential for biofilm formation .
+
+right panel suggesting that beneficial effects of the b. subtilis biofilm were not specific to any particular bacterial genetic background.to address if the beneficial effect of biofilm is a unique property of b subtilis or is also a feature of other non-pathogenic bacteria we studied thermotolerance of c. elegans fed on another gram-positive bacterium lactobacillus rhamnosus gg and its biofilm-deficient counterpart dspacba fig.
+
+the table shows a list of genes whose expression changed q-value 0.05 in c. elegans fed biofilm-forming b. subtilis ncbi3610 biofilm compared to biofilm-deficient b. subtilis depsh at day 5 of adulthood validated by rt-pcr.
+
+s2a and b. these results suggest that commensal biofilm-producing b. subtilis may not compete directly with pathogenic pseudomonas in the c. elegans gut but rather mobilize host defense sys- tems against the pathogen.biofilm formation by b. subtilis extends the c. elegans lifespan.
+
+rt-pcr analysis of pha-4 expression in c. elegans eat-2 dashed bars and n2 empty bars fed biofilm-forming biofilm and biofilm deficient depsh dtasa b. subtilis strains.
+
+taken together our data demonstrate that b. subtilis forms biofilms in the c. elegans intestine.to determine whether the observed beneficial effects of the biofilm require live metabolizing bacteria we treated plated bacteria with a mix of antibiotics to eliminate vegetative cells leaving previously-synthesized components of the biofilm intact see supplementary discussion.
+
+nature communications 8 14332 doi2017.elsholz a. k. wacker s. a.  losick r. self-regulation of exopolysaccharide production in bacillus subtilis by a tyrosine kinase.genes  development 28 1710-1720 doi2014.branda s. s. chu f. kearns d. b. losick r.  kolter r. a major protein component of the bacillus subtilis biofilm matrix.molecular microbiology 59 1229-1238 doi2006.portal-celhay c. bradley e. r.  blaser m. j. control of intestinal bacterial proliferation in regulation of lifespan in caenorhabditis elegans.
+
+to determine whether the protective effect of biofilm-forming bac- teria against lethal infection by pathogenic p. aeruginosa was due to their superior intestinal retention we compared gut colonization by wild-type and biofilm-deficient b. subtilis and found by either colonization or guillotine assays no significant difference in the number of cells of each b. subtilis strain in the gut lumen supplementary fig.
+
+wild-type undomesticated b. subtilis ncib3610 cybs-5 and their biofilm-deficient derivatives depshtet ds76 dtasaspec ssb505 the dtasa complemented strain dtasaspec amyepyqxm-yqxm-sipw-tasa fc202 cybs-5 depshtet and b. subtilis sacaptasa-mkate2 tmn503 were isolated or constructed previously -.
+
+total mrna analysis identified a set of host genes that are upregulated in response to biofilm formation by b. subtilis.
+
+here we demonstrate that biofilm formation by b. subtilis improves c. elegans resistance to infection and stress and prolongs lifespan.
+
+additionally we were able to vis- ualize biofilm formed by b. subtilis in c. elegans intestine and show that other non-pathogenic bacterial biofilms such as those produced by l. rhamnosus and p. fluorescens also promote stress resistance in worms.1department of biochemistry and molecular pharmacology new york university school of medicine new york ny 10016 usa.
+
+these results demonstrate that the biofilm produced by non-pathogenic bacterial is beneficial for host stress resistance.biofilm formation by b. subtilis renders c. elegans resistant to pathogenic infection.
+
+a b. subtilis biofilm increases c. elegans thermotolerance.
+

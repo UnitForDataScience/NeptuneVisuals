@@ -1,0 +1,30 @@
+the distance-decay slope within glacier 0.046 was significantly shallower than the slope among glaciers 0.391 indicating higher similarity within glacier than among glaciers.
+
+the diversity and dis- tribution of cryoconite microbial communities and the influenceof the unique environment of these high-altitude glaciers of the tibetan plateau remain unexplored.we studied the biogeography and diversity of cryoconite bacterial communities from three climatically distinct tibetan plateau glaciers using illumina sequencing of the v4 region of the 16s rrna gene.
+
+b.values in boldface indicate significant differences p  0.05 between bacterial communities in pairs of sampling sites.variation of bacterial community compositionthe nmds ordination analysis based on the unweighted unifrac distance across samples clearly revealed differences in the cry- oconite bacterial communities among the three glaciers with samples grouping within glacier fig.
+
+.few studies have examined the cryoconite bacteria on alpine glaciers compared to studies of polar glaciers despite the im- portance of cryoconite in alpine glacier mass balance takeuchi kohshima and seko  ambrosini et al.
+
+the lhg and tgl glaciers are surrounded by meadows while the yl glacier is surrounded by forests and shrub land.figure 1. location of the laohuguou lhg tanggula dongkemadi tgl and yulong baishui glaciers yl on the tibetan plateau lower panel.
+
+to further enhance our understanding of these glacial ecosystems on the tibetan plateau and to examine their role in carbon cycling as the glaciers respond to climate change we explored the bacterial communities within cryoconite holes associated with three climatically distinct tibetan plateau glaciers using illumina sequencing of the v4 region of the 16s rrna gene.
+
+all statistical analyses were conducted in the r environment  unless otherwise indicated.resultschemical characteristics of the cryoconite samplestoc tn and sulfur s content  dry weight cryoconite were significantly different among the three glaciers anova p  0.001. toc tn and s were the lowest in lhg glacier mean 1.6 - 0.5 dry weight 0.2 - 0.05 dry weight and 0.02 - 0.01 dry weight respectively and the highest in yl glacier mean 9.7 - 1.0 dw 0.6 - 0.07 dw and 0.07 - 0.02 dw respectively.
+
+the patterns were fur- ther corroborated by an anosim which demonstrated that the glacier was an important determinant of community compo- sition global r  0.697 p  0.001. similar to the shannon diversities the community compositions were not significantly different between lhg and tgl glaciers but were significantly different between yl glacier and the other two table .6fems microbiology ecology 2017 vol.
+
+furthermore the chloroflexi accounted for the second highest  of the variation between the commu- nities sampled 8.6 after cyanobacteria at 28. this result im- plies that the chloroflexi in combination with cyanobacteria play an important role in structuring the cryoconite communities on the tibetan plateau.spatial distribution of cryoconite bacterial communities on the tibetan plateauour study aimed to determine how geographic distance and en- vironmental variables controlled the biogeography of cryoconite bacterial communities regionally on the tibetan plateau.
+
+with average altitude 4000 m alpine glaciers on the tibetan plateau reside at 1000 m higher altitude than european alpine glaciers yao et al.
+
+the increase in altitude relative to other alpine glaciers exposes tibetan plateau glaciers to lower temperatures lower allochthonous inputs of organic matter and strong solar radiation.
+
+among the top 15 otus of representative cyanobacteria 7 otus were most closely related to sequences recovered from the antarctic 5 were from stream and lake samples  and the other 2 were from soil including one from the tibetan plateau table s3.the relative abundances of the chloroflexi were similar among the three glaciers and accounted for 13 16 and 12 of lhg tgl and yl glaciers respectively.
+
+the dashed blue line denotes the least-squares linear regression across local and regional scales regression line y  -0.038x - 0.164 r  -0.779 p  0.001. the solid red line denotes the linear regression of local scale within glaciers y  -0.046x - 0.142 r-0.537 p  0.001. the solid cyan line denotes the linear regression of regional scale across glaciers y  -0.391x  1.973 r  -0.750 p  0.001. the vertical dashed line indicates the cutoff between local to the left of the line and regional to the right of the line scales.spatial distance decay of similarity for the bacterial communitya distance decay of similarity model was employed to deter- mine whether spatial distance was important in describing the shifts in the cryoconite bacterial community.
+
+samples from tgl and lhg glaciers were transported by car to the laboratory in an insulated con- tainer with ice within 30 h and samples from yl glacier were transported frozen to laboratory by plane.
+
+in total these dominant phyla accounted for over 92 of the sequences.cyanobacteria and chloroflexi were the two most abundant phyla in both the lhg and tgl glaciers while betaproteobacteria andtable 1. pearson's correlation coefficients r between shannon di- versity of bacterial community and biogeochemical characteristics.actinobacteria were the two most abundant phyla in the yl glacier fig.
+

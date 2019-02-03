@@ -1,0 +1,30 @@
+a comparison of swabs and cytobrushes used for vaginal microbiota sampling and subsequent analysis by sequencing has not previously been conducted.resultsthirty premenopausal non-pregnant women with histologically-proven high-grade squamous intraepithelial lesions hsil were recruited in the colposcopy clinic between july 2014 and april 2015. patient characteristics are detailed in supplementary table .two samples were taken from each woman during the same vaginal examination by a single clinician am providing a total of 60 samples.
+
+we have also demonstrated the higher biomass collected by cytobrushes in a separate cohort of 20 further women in whom the mean weight of sample collected by swabs was 50 milligrams mg compared to 1560 mg by cytobrushes unpublished data which supports that cytobrushes collect a much higher biomass than swabs.
+
+we therefore hypothesised that cytobrushes would be associated with higher diversity due to these different properties.in this study we compared the results obtained using swabs and cytobrushes from a population of 30 women with hsil to determine whether these two techniques provide a comparable overview of the structure of the vaginal microbiota.
+
+given the wide surface of the cervix and the amount of discharge found in women it is unlikely that the gentle tip of the swab would be sufficient to disturb the microbiota in the cytobrush hence the reason for such a study design.this report is the first study to compare the vm in women sampled using swabs or cervical cytobrushes.
+
+data were subjected to multivariate analysis using principal component analysis pca and hierarchical clustering analysis hca by nearest neighbour link- age with a clustering density threshold of 0.75. linear discriminant analysis lda effect size lefse analysis was used to identify taxa significantly overrepresented in either sampling device through all taxonomic levels.
+
+dominant vaginal microbiota on swab sampling were subsequently found to have a high-diversity cst iv on cytobrush sampling.the cytobrush-collected samples may contain a high load of host dna which can be problematic however this was not assessed in the current study.overall our study demonstrated that swab and cytobrush samples provide comparable vm results at all tax- onomic levels as demonstrated by two-groupsample correlation coefficients hierarchical clustering analysis and bray-curtis dissimilarity index.
+
+further larger studies are required to confirm the findings of this study.in conclusion analysis of our data shows that rayon swabs and polyethylene cervical cytobrushes produce comparable results when comparing the vaginal microbiota composition at species level and did not show any significant difference in diversity or richness.
+
+a cytobrushes collected a greater total bacterial load compared to swabs swabs mean 4.75 log10 16s rrna gene copies range 2.56-6.35 log10 cytobrushes mean 6.41 log10 range 3.72-8.75 log10 p 0.001 paired t-test.
+
+heterogeneity of the vaginal microbiota at different locations throughout the vagina has been documented however a direct comparison of swabs and cytobrushes taken from the ectocervix has never been described.cytobrushes unlike swabs are made of polyethylene and lack any absorptive capability.
+
+analysis of statistical differences between the vaginal microbiota of cytobrush- versus swab-retrieved samples collected during the same examination from the same women was performed using the statistical analysis of metagenomic profiles stamp package.
+
+sobs species observed.for the purpose of sequencing bacterial dna to study the human vaginal microbiota in a variety of patient cohorts the most common being swabs but the use of cytobrushes as well as cervicovaginal lavage epithe- lial scrapes and biopsieshas also been reported.
+
+lda score linear discriminant analysis score.noted however that cytobrushes do not harbour absorbance qualities and thus dual sampling with a swab may provide useful material for analysis the proteomic and metabolic component of cervicovaginal mucosa.one of the limitations of sequencing is that the results may be influenced by the choice of primer sets.
+
+whilst the suitability of different swab types has not been reported in studies exploring the vaginal microbiota experiments in vitro have shown that a significant difference exists in both absorbance and release of compounds and proteins from different swab types.
+
+cytobrushes can not only be used for cervical cytology and hpv dna testing but we show that they provide a reliable and robust sampling tool for analysis of the vaginal microbiota.
+
+b when the bacterial load was normalized to 500 ml with similar amount of medium from the liquid based cytology and aimes swab solution for illumina miseq sequencing there was no longer a significant difference between the two techniques swabs mean 4.75 log10 range 2.56-6.35 log10 cytobrushes mean 4.81 log10 range 2.12-7.14 log10 p 0.7361 paired t-test.designed to sample the transformation zone of the cervix the area where hpv infects and causes dysplastic lesions and invasive cancers.
+

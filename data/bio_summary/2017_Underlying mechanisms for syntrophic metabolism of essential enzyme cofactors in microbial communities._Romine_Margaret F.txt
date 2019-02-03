@@ -1,0 +1,30 @@
+however hl-111 can grow in defined medium lacking thiamine supplementary figure s7 which suggests that an alternative iminoglycine biosynthesis path- way exists and that all three organisms are also prototrophs.two main salvage strategies are used by our consortia to produce tpp 5. nine members of the consortia use the most commonly recognized strategy which involves uptake of thiamine followed by its phosphorylation to tpp.
+
+thiamine transporters include the omr1 tonb-dependent receptor the pnut atp-dependent transporter the thibpq abc-type transporter the ykocde ecf-type transporter and the thiv2 sodium-dependent transporter.
+
+metabolites that occur in the thiamine pyrophosphate biosynthetic and precursor salvage pathways air 5-amino-1-5- phospho-d-ribosylimidazole amino-hmp 4-amino-5-aminomethyl-2-methylpyrimidine dxp 1-deoxy-d-xylulose-5-phosphate g3p glyceraldehyde-3-phosphate het hydroxyethylthiazole hmp 4-amino-5-hydroxymethyl-2-methylpyrimidine ig iminoglycine -p phosphate -pp diphosphate tmp thiamine monophosphate tpp thiamine pyrophosphate.
+
+therefore biosynthesis of cobalamin des- tined for export has reasonable potential to be achievable.metabolic reconstruction of cofactor biosynthesis and salvage pathways predicted the presence of precursor transporters importers that we were unable to identify.
+
+the genetic basis for this salvage has been defined in many organisms revealing a great diversity of transporters  alternative enzymes and pathways for converting precursors to cofactors and the tight regulation of precursor salvage and cofactor biosynthesis correspondence wc nelson pacific northwest national labora- tory 902 battelle boulevard po box 999 msin j4-18 richland wa 99352 usa.e-mail received 31 may 2016 revised 11 november 2016 accepted19 december 2016 published online 10 february 2017 .
+
+salvage of both precursors is the only option for generating tpp by s. fredricksonii hl-109 and rhodobacteraceae bin09 and thus wolfe's vitamin solution should not support growth of these organisms.non-canonical vitamins can be salvaged for biotin nadp and plp biosynthesisover half of the community members are biotin auxotrophs and supplementary figure s8 but all are predicted to salvage biotin or a precursor.
+
+although alternate salvage systems havefigure 4 thiamine hydroxyethylthiazole and 4-amino-t-aminomethyl-2-methylpyrimidine are salvaged for thiamine pyrophosphate biosynthesis.
+
+six of the community members have salvage systems for hmp and het with four members restricted to salvage of these precursors rather than thiamine itself and supplementary data 3. exclusive use of these metabolites likely reflects their ready availability.
+
+most members of this transporter family are implicated in export functions supportingadenylylcobamide producersadenosylcobinamide producerscobalamin precursor consumersfigure 3 model of potential cobalamin precursor exchange among ucc community members.
+
+metagenomic sequence was derived from two unicyanobacterial consortia ucc-a and ucc-o assembled and binned into 19-member sequences because the two consortia were nearly identical in taxonomic composition 16 heterotrophs were common to both consortia co-assembly of sequencing reads lead to near-complete assembly of nearly all members of the consortia the abundance of a 20th alphaproteobacterial member was too low to produce sufficient genomic coverage to be included in this study.
+
+hl-111 andsalinivirga fredricksonii hl-109 bringing the total number of members with closed genomes to 10. in summary each community is composed of a single cyanobacterium belonging to the oscillatoriales order two bacteroidetes five gammaproteobacteria and  10 alphaproteobacteria see supplementary table s1.exchange of cofactor precursors is necessary to support essential metabolic processeswe used a subsystems-based genomic reconstruction approach to infer biosynthesis recycling and salvage pathways for eight b vitamin-related enzyme cofac- tors in the 19 members of ucc-a and ucc-o.
+
+diver- sification and specialization of precursor salvage provides a mechanism for division of labor in microbial communities and a selective advantage for partners uniquely suited for optimal syntrophic biosynthesis of cofactors see .
+
+fredricksonii hl-109 and rhodobacteraceae bin09 are tpp auxotrophs that cannot salvage thiaminethe de novo biosynthesis of tpp involves the forma- tion of phosphorylated hydroxyethylthiazole het and hydroxymethylpyrimidine hmp intermediates which are first joined by thie thiamine-phosphate pyrophosphorylase and then phosphorylated by thil thiamine monophosphate kinase 4. only six members each of the cyanobacteria halomonas spp.
+
+analysis of cofactor- dependent processes confirmed that tpp is essential for central carbon metabolism of all species in the two consortia supplementary data 1 and 1. critical tpp-dependent enzymes found in all members include transketolase a pyruvate oxidase a tca enzyme that degrades 2-oxogluatrate and 1-deoxy-d-xylulose-5-phosphate synthase which pro- duces a key metabolite needed for thiamine pyridoxal phosphate and terpenoid biosynthesis.
+
+dashed arrows indicate precursor salvage routes for coenzyme a precursor uptake.presence of partial biosynthetic pathways in some members suggests that additional precursors might also be salvaged.
+

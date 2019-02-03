@@ -1,0 +1,30 @@
+compared to the alf diet the mix diet reduced the relative abundance of akkermansia p  0.03 and asteroleplasma p  0.05. fecal microbial populations in alf and mix-p clustered separately from each other when assessed using unweighted unifrac p  0.05. these results indicate that ppc ct up to 36 gkg dm in the diet had no major effect on fecal microbial flora at the phyla level and exerted only minor effects on the genera composition of fecal microbiota in lambs.keywords purple prairie clover  condensed tannins  454 pyrosequencing  gut microbiotaintroductionthe mammalian gut microbiota comprises a rich and diverse community of bacteria with bacterial populations in the lower gastrointestinal gi tract reaching numbers of 1011 colony forming unit cfug of digesta or greater hume  shterzer and mizrahi .
+
+a total of 16 otus were also found to be differentially abun- dant among the three diet groups table  fdr 0.05. with a few exceptions most of these otus were not abun- dant within the entire fecal population.discussionlamb fecal microbial communityto our knowledge this is the first study to characterize the fecal bacterial community of lambs using high-throughput sequencing of the 16s rrna gene.
+
+differences were determined using lsmeans with the pdiff option in sas institute inc  with significance declared at p  0.05 and a trend as a p value between 0.05 and 0.1.resultslamb fecal microbiotaa total of 210382 quality-filtered sequences with an average length of 455 bp were obtained from the 17 composite fecal samples.
+
+howevertable 1 the percentage of relative abundance of each bacterial phy- lum identified in the fecal microbiota of lambs fed either alfalfa alf a mixture of purple prairie clover and alfalfa mix or mix supple- mented with polyethylene glycol mix-psem standard error of the meanab mean with different letters in a row differ p  0.05table 2 bacterial genera with a percent relative abundance greater than 0.01 in the feces of lambs fed either alfalfa alf a mixture mix of purple prairie clover ppc and alfalfa or mix supple- mented with polyethylene glycol mix-psem standard error of the meanabc mean with different letters in a row differ p  0.05on average 77.5 of sequences could not be classified to a particular genus although 62.3 of these unclassified sequences were identified as belonging to the peptostrepto-table 3 richness evenness and diversity in the fecal microbiota of lambs fed either alfalfa alf a mixture of purple prairie clover and alfalfa mix or mix supplemented with polyethylene glycol mix-pbiota was 0.78 - 0.068 mean - sd and the average numberwhich measures both community richness and evenness was5.58 - 0.6 while the pd whole tree value representing the phylogenetic diversity was 67 - 8.1. nearly all sequences 99 were classified at the phylum level and 14 phyla accounted for the majority of 16s sequences among sam- ples from all diet groups.
+
+ruminococcus which was relatively abundant in the lamb fecal microbiota is also a member of ruminococcaceae.in addition the relative abundance of prevotella amongthe classified genera was also low compared to previ- ous reports of the cattle fecal microbiota kim and wells  durso et al.
+
+to date this species has not been associated with disease in humans or animals and therefore may play a commensal role within the gut microflora of sheep.effect of diet and ct on fecal microbiotathe comparison of several diversity metrics revealed that ppc ct did not affect the diversity of the fecal bacterial community in lambs.
+
+this may indicate that deeper sequencing to the species level would be necessary to fully understand the effect of ct on the fecal microbial community of lambs.conclusionsalthough the fecal microbiota of lambs fed alfalfa and ppc forage was relatively rich and diverse it was domi- nated largely by bacteroidetes and firmicutes at the phylum level.
+
+dietary ct from ppc forage at up to 36 gkg dm did not affect fecal microbiota at the phyla level but did alter some of the genera within the fecal bacte- rial population.
+
+and alfalfa medicago sativaqianqian huang123  devin b. holman2  trevor alexander2  tianming hu3  long jin2  zhongjun xu2  tim a. mcallister2  surya acharya2  guoqi zhao1  yuxi wang2received 19 january 2017  revised 30 june 2017  accepted 22 august 2017  published online 1 september 2017c springer-verlag gmbh germany 2017abstract the present study assessed the effect of purple prairie clover ppc and ppc condensed tannins ct on the fecal microbiota of lambs using high-throughput 16s rrna gene pyrosequencing.
+
+fecal samples were collected on days 13 through 18 using digital rectal retrieval.
+
+the dna of fecal samples was extracted and the microbial 16s rrna gene amplicons were sequenced using 454 pyrosequencing.
+
+forage type and ct had no effect on the fecal microbial composition at the phylum level or on a-diversity.
+
+the decreased fecal shedding ofe.
+
+fecal samples were col- lected daily on day 13 to day 18 from each lamb using digital rectal retrieval.
+
+fecal samples were stored immediately at-80 degc in a sealed container and composited for each lamb over the 6-day period.
+

@@ -1,0 +1,30 @@
+the three data sets represent three different data sizes 30 60 and 100. the different sequencing data sizes represent differing sequencing depths.
+
+community diversity was subsequently analyzed using both the simpson index and the shannon index.beta diversity analysis was used to determine microbiota composition diversity between the individuals using the linear principal component analysis pca model and the nonlinear non-metric multi-dimensional scaling nmds model.
+
+in this article we analyzed a substantial body of high-throughput sequencing data to determine an appropriate balance that meets high-throughput and low-cost requirements.previous studies have demonstrated the existence of microbiota diversity and richness in animals including thepanda and the monkey-.
+
+the study explored the composition of microbiota of wolves following high-throughput sequencing analysis.with the rapid development of next generation sequencing ngs technology there is an onus on micro-ecologists to use high-throughput sequencing platforms to help solve complex biological problems.
+
+from sanger sequencing technologies in the mid-twentieth century to the utilization of high-throughput sequencing platforms at the beginning of the twenty-first century sequencing analyses have helped to develop our understanding of fecal bacterial profiles.
+
+reported data relating to microbiota diversity and richness in the wolf following an analysis that facilitated the cloning of bacterial 16s rrna gene amplicons.
+
+the dog is a subspecies of the wolf thus to attain a more generic understanding of microbiota diversity and richness in related subspecies samples from both the dog and the wolf should be studied together.as part of this study eighteen dogs and wolves were selected to characterize microbiota composition using multi-group sequencing analysis.
+
+each of these approaches has contributed to our understanding of the importance of microbial diversity in hosts however all of these approaches have limitations in relation to both the quantity and quality of the data generated.in recent years a cross-disciplinary approach that has utilized both bioinformatics and molecular biological techniques is being adopted to study microbial diversity with dedicated academic programs featuring utiliza- tion of associated techniques.
+
+applied  environmental microbiology 73 5261 2007.kozich j. j. westcott s. l. baxter n. t. highlander s. k.  schloss p. d. development of a dual-index sequencing strategy and curation pipeline for analyzing amplicon sequence data on the miseq illumina sequencing platform.
+
+following alpha diversity analysis the indices for bacterial richness and the diversity of otus at a 3 sequence dissimilarity level are summarized in table .
+
+following a comprehensive analysis of multi-group sequencing data this report reveals the composition of the wolf fecal microbiota while also describing factors that influence this composition.
+
+the latter studies on bacterial diversity were predominantly based on cloning bacterial 16s rrna gene amplicons.
+
+it is likely that mutualism between -specific characteristics microbial richness and diversity is an important phenomenon in host health.the traditional method that has been used to study microbial diversity in animals involves morphological and biochemical examination of colonizing microorganisms following in vitro isolation and purification tech- niques.
+
+this study will provide valuable basic data that should help in efforts related to the future con- servation of wolves.resultsotus and taxonomic composition of the fecal microbiomes.from the three data sets we obtained50000 100000 and 150000 raw sequences across a total of 18 samples respectively table .
+
+upon comparison of the associated phyla the relative abundance of bacteroidetes was as follows wj  wn  wh  dn the relative abundance of fusobacteria was as followsfigure 1. a the circle from inside to outside in turn was on behalf of different classification levels and species abundance is proportional to the size of the circle the different colors represent different phyla and abundance of the top 40 species was showed in solid circle b rarefaction curve rarefaction analysis of v3-v4 16s data from three wolf data sets.
+

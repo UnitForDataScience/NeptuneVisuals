@@ -1,0 +1,30 @@
+tel 323-259-1470 e-mail one sentence summary rubyspira osteovora is an unusual snail found only at whalefalls in the deep-sea with a gut microbiome dominated by bacteria not present in the surrounding environment.editor julie olsonabstractrubyspira osteovora is an unusual deep-sea snail from monterey canyon california.
+
+this study characterized the gut microbiome of r. osteovora compared to the surrounding environment as well as to other deep-sea snails with more typical diets.analysis of 16s rrna gene sequences revealed that r. osteovora digestive tissues host a much lower bacterial diversity average shannon index of 1.9 n  12 compared to environmental samples average shannon index of 4.4 n  2 and are dominated by two bacterial genera mycoplasma and psychromonas comprising up to 56 and 42 average total recovered sequences respectively.
+
+sections were ex- amined and photographed using a nikon e80i epifluorescence microscope and zeiss em 109 tem.resultsrubyspira osteovora collections and anatomyrubyspira osteovora specimens were collected between 2004 and 2011 from a whale fall in monterey submarine canyon table  fig.
+
+16s rrna gene sequencing revealed that r. osteovora is colonized by a stable and specific microbiome significantly less diverse than the surrounding microbial communities.the unique and specific bacterial community ofrubyspira osteovorarubyspira osteovora has a specific microbial community domi- nated by three microbial genera mycoplasma psychromonas andpsychrilyobacter.
+
+osteovora hosts a specific microbial community in its digestive system.figure 7. phylogenetic trees of otus with high-sequence similarity to psy- chromonas a and psychrilyobacter b isolated from r. osteovora digestive tract tissue in bold based on 250-bp fragments from barcoded illumina sequenc- ing.
+
+methylene blue-stained thick sections 0.4 mm were used for r. osteovora tissue morphology and revealed intestinal epithelia columnar cells topped with very long cilia a stomach epithelia contained simple cuboidal cells topped with short cilia b and a digestive gland with ducts of columnar cells c. dapi-stained nuclei of r. osteovora cells blue a general bacteria-probe eub338- alexa green and a psychromonas-probe nor2-1453 cy3 orange revealed that bacteria were attached to the cilia c of the intestinal epithelia d. large clusters of psychromonas and other bacteria were also found in the lumen l of the intestine d-inset.
+
+the relative abundance of these three groups remained similar over 6 years of sampling collection date was not shown to be a significant predictor of community structure suggesting a long-term association.furthermore these bacterial genera were either not present mycoplasma and psychromonas or at very low abundance 0.04 for psychrilyobacter in environmental samples and other deep-sea gastropods supporting the uniqueness of the r. osteovora gut microbiome.keywords deep sea symbiosis gastropod whalefall mycoplasma psychromonas rubyspiraintroductionnovel ecosystems often support unique biological communi- ties and their study helps to uncover earth's true biodiver- sity.
+
+similarly rubyspira osteovora is a new genus of snail that was discovered in 2004 at this whale fall johnson et al.
+
+rubyspira osteovora became abundant 3 years later braby et al.
+
+osteovora not only increases knowledge about biological diver- sity in the deep sea but may also provide insight into their un- usual nutritional strategy.
+
+this study aimed to characterize the microbial community associated with r. osteovora in comparison to microbes present in the surrounding environment and asso- ciated with other deep-sea gastropods that do not feed on bone.
+
+rubyspira osteovora specimens were collected over the course of 6 years and the microbial communities associated with diges- tive tissues were examined via sequencing of 16s rrna genes and both fluorescence microscopy and transmission electron microscopy tem.
+
+although the role of the dominant microbes associated with r. osteovora is still undetermined their distinct- ness from microbial communities from the environment and other deep-sea gastropods suggests a specific and exclusive mi- crobiome within the bone-eating r. osteovora.materials and methodssample collectionspecimens n  8 were collected in 2004-2011 from a 2893 m depth whale fall in monterey submarine canyon 3636.8n 12226.0w table .
+
+rubyspira osteovora samples were collected using the robotic submersibles rov tiburon and rov doc rick- etts owned and operated by the monterey bay aquarium re- search institute via suction sample or sediment push core.
+
+the normalized data for all samples is available from the dryad digital repository .mollicute-specific 16s rrna pcr amplification was used to rapidly screen for the presence of mollicutes particularly my- coplasma in r. osteovora in digestive gland.
+

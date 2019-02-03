@@ -1,0 +1,30 @@
+because the proposed test provides a nonparametric group compari- son for microbial interdependence we term our proposed test as the nonparametric microbial interdependence test nmit.
+
+the definition of hub and the choice of threshold do not affect the test performance we proposed here.in order to test these differences statistically we implementthe nmit test on this study and present its analysis flowchart in figure 3. in step 1 relative abundances are obtained at the subject level and 34 selected dominant taxa are retained in this example after filtering relative abundance  0.1 in 20 of all samples.
+
+in the fourth step permutation manova is used to test how well prior antibiotic disruption explains the distances between subjects obtained in step 3. the conclu- sion is that microbial interdependence profiles over the stud- ied period are statistically different between control and ldp group with p  0.004. we also performed the proposed test based on the pearson and mic methods and the p-values were 0.001 and 0.003 respectively.early childhood antibiotics and the microbiome studywe also applied the proposed test to a more complex human study.
+
+the ability to incorporate mul- tiple covariates and to adjust the confounding covariates of our proposed test is fulfilled by the permutation manova test utilized in the step 4 of figure 3. this test has been widely adopted in the metagenomics community to analyze single time microbial location differences and in the genetic literature as well.
+
+in the fourth step permutation manova is used to test how well prior antibiotic disruption explains the distances between subjects obtained in step 3. the conclusion is that the microbial interdependence profiles over the studied period are statistically different between control and ldp group with p  0.001observations we proposed to use temporal correlations to evaluate the interdependence between microbiome taxa and then use the permutation manova test to evaluate the group difference.
+
+received 12 december 2016revised 30 may 2017accepted 10 july 2017 doi 10.1002gepi.22065resear c h ar ticle a multivariate distance-based analytic framework for microbial interdependence association test in longitudinal studyyilong zhang1sung won han2laura m. cox3huilin li451merck research laboratories rahway new jersey united states of america2fusion data analytics lab school of industrial management engineering korea university seoul south korea3department of neurology brigham and women's hospital and harvard medical school boston massachusetts united states of america4department of population health biostatistics nyu langone medical center new york ny united states of america5department of environmental medicine nyu langone medical center new york ny united states of americacorrespondencehuilin li department of population health nyu langone medical center 650 first avenue rm 547 new york ny usa email funding informationgrant sponsor nih contract grant numbers u01 ca170948-01a1 u01ca182370 r01 dk090989 and r01dk110014.the authors have no conflict of interest to declare.1introduction the human body harbors a huge and complex microbial ecosystem called the human microbiome.
+
+in section 2 we describe the data structure and the proposed test.
+
+in section 3 we illustrate the performance of the test by real data examples and simulations.
+
+we then compare these dis- tances among subjects in the same group with those in the dif- ferent groups using permutation manova to infer the group difference in term of microbial interdependence profile.the core part of the proposed test is to construct the cor- relation matrix for each subject to summarize their micro- bial interdependent correlation structures using the repeat- edly measured microbiome data.
+
+we evaluate the following three correlation methods within the test frame proposed here while considering the unique microbiome data structure.
+
+our goal is to test the association between the temporal microbial interde- pendence profiles and the covariates of interest.we propose to first capture the interdependence profile foreach subject by a x pair-wised taxa correlation matrix forand are subject to the irregular sampling times and compli-each subject.
+
+' which measures the temporal correlationin this paper we propose a novel method to test how inter- dependence of microbial species within a community might differ between groups over time or how these might be asso- ciated by continuous environmental factors such as a drug or diet.
+
+our method is simple and powerful based on a multivari- ate distance-based nonparametric test.
+
+then we test whether the correlation structure is different between groups or associated with an interested outcome or not using permutation manova anderson 2001 mcardle  ander- son 2001 tang et al.
+
+however we do notsu1 ggest this transforma- tion in the proposed test because the correlation is calculated between any pair of taxa using the microbiome measurements at the multiple time points within each subject.
+

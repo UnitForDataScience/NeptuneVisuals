@@ -1,0 +1,30 @@
+we analyzed these data sets using an integrated framework to identify predictors of inflammatory states and then reproduced some of the putative relationships formed among these predictors by analyzing data from the pediatric risk cohort.results we identified 26 predictors from our combined data set that were effective in distinguishing between regions of the intestine undergoing active inflammation and regions that were normal.
+
+we chose these parameters as this was the only setting that resulted in the validated inflammation marker1548  genes duox2 and apoa1 being selected as inflammation pre- dictors.13 log2 rpkm values of inflammation gene predictors and clr-transformed values of inflammation otu predictors were then concatenated into a single matrix and visualized as a heatmap after biclustering.to identify gene and otu predictors of saa1 expression levels from the risk cohort we used saa1 expression levels as a response variable and fit a sparse partial least square regression model to the rna-seq and 16s microbial data separately.
+
+we further separated these predictors into 2 different subgroups--predictors with high- er abundance in regions with active inflammation and predictors with higher abundance in normal regions.
+
+of samplesinflammation stateactive n 14 12 inactive n 14 8 normal n 14 15disease typeuc n 14 19cd n 14 16anatomical locationascending colon n 14 6 cecum n 14 2descending colon n 14 3 ileum n 14 3 rectum n 14 2 sigmoid n 14 13 transverse colon n 14 6inflammatory states but instead are statistically defined to be independent variables of a supervised learning model.26unsupervised visualization of inflammation predictorsto objectively assess the effectiveness of the identified predictors in discriminating between the different class labels we performed independent unsupervised biclustering and pca on the predictors.
+
+to further infer the relationships between the predictors we performed pairwise correlations using spearman correlation on the predictors.
+
+inter- actions between gene and otu predictors of saa1 levels were then inferred using pairwise spearman correlation values between the predictors.
+
+using this strategy we identified a narrow set of features pre- dictive of inflammatory states across uc and cd biopsies overall ber 0.42. to independently assess the effectiveness of these predictors in distinguishing between inflammatory states we sub- jected predictors from the first component to unsupervised pca and biclustering analysis.
+
+predictors from withinthe same subgroup were highly correlated among each other whereas inversely correlated with predictors from the other sub- group fig.
+
+with the exception of the cd4il17il222 and cd4il42il222 pop- ulations the remaining 24 predictors from component 2 were different from predictors from component 1. we found that pre- dictors from the second component were predominantly increased in ileal cd samples independent of inflammatory states see supplemental fig.
+
+2b.network analysis of identified inflammation predictors experimentally validated as well as new interactionsto efficiently understand how the different features interact with each other we took a network approach with the identified 26 predictors.
+
+by contrast of the 650 predictor pairs in the adult ibd data set 174 predictor pairs had absolute correlation values greater than 0.5. this suggests that most of these interactions were uniquely occurring during active inflammation and not during normal intestinal homeostasis.analysis of data from the pediatric ibd risk cohort reproduces similar saa1-linked interactionsto gain insights into the generalizability of the inflamma- tory predictors network and saa1-linked interactions identifiedfigure 2. inflammation predictors can effectively distinguish between inflammatory states in an independent set of biopsies.
+
+network analysis on these 26 predictors revealed saa1 as the most connected node linking the abundance of the genus bacteroides with the production of il17 and il22 by cd4 t cells.
+
+we have also termed the selected variables from the sgcca model as predictors of inflammatory states.
+
+absolute log2 intensity values for gene expression as well as clr-transformed values for 16s micro- bial and facs data.network analysis of inflammation predictorswe took a network approach to facilitate observations of the interactions between these predictors.
+
+total number of edges originating from a node to prioritize for predictors that could potentially be of interest for future experimental validation.analyses of mucus trial biopsiesmicroarrays for the mucus trial biopsies were generated on the agilent human sureprint ge v2 8  60k platform and raw data from the feature extraction software was background corrected and quantile-normalized using limma as described above.
+

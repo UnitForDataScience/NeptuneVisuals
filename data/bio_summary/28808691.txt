@@ -1,0 +1,30 @@
+stool samples were collected at weeks 0 4 8 and 12. oral samples were collected at weeks 0 and 12. since the animals had to be euthanized to collect the oral samples to avoid mouse skin contamination our week 0 oral samples were collected from a separate set of mice n  8 that were cohoused until randomization at week 0. the collected samples were stored at -80degc before processing.
+
+inhibition of individual oral bacteria such as streptococcus mutans by fluoride has been well studied  but how fluoride affects the overall oral microbiome or the gut microbiome hasbeen underinvestigated.the major mechanisms by which fluoride inhibits bacterial energy growth are direct binding of the fluorine ion to the active sites of enolase  and atpases  and disruption of the ion gradient across the bacterial cell membrane  .
+
+thus no existing study has tested the effects of fluoride exposures at the levels found in municipal water and dental products on the oral and gut microbial communities.we address these questions by assessing oral and stool microbiome structures andtheir functional potentials in mice given i nonfluoridated drinking water ii fluori- dated drinking water or iii daily fluoride gavage in addition to fluoridated drinking water over 12 weeks.
+
+oral samples werefig 1 drivers of oral and gut microbial diversity in fluoride-treated mice.
+
+since the collection of oral samples required animals to be sacrificed eight mice were taken for oral week 0 sample at random when the rest of the animals were allocated to the study groups.
+
+curiously we did not find oral samples to be significantly more similar within cages than between cages p fig 2 fluoride selectively depletes acidogenic anaerobes in the oral microbiota.
+
+while oral and gut microbial taxa are largely distinct in humans  mice are coprophagic and hence have much greater potential for cooccurrence of oral and gut microbes thus providing a basis to test this hypothesis.we began by dividing mouse operational taxonomic units otus according to their biogeographic occurrence patterns and fig.
+
+cooccurring oral native otus n  3 were defined to have mean oral abundance of more than twofold higher than the mean gut abundance and may cooccur as a result of oral-gut transit.
+
+to find taxa enriched in the oral and stool samples we used lefse where classes are set as biogeographical locations oral and stool.
+
+research articlehost-microbe biologyfluoride depletes acidogenic taxa in oral but not gut microbial communities in micekoji yasudaab tiffany hsuab carey a. gallinic lauren j. mclverab emma schwagera andy shia casey r. dulonga randall n. schwagerab galeb s. abu-aliab eric a. franzosaab wendy s. garrettbcdecurtis huttenhowerab xochitl c. morganabfdepartment of biostatistics harvard t.h.
+
+chan school of public health boston massachusetts usad department of medical oncology dana-farber cancer institute boston massachusetts usae department of microbiology and immunology the university of otago dunedin new zealandfabstract fluoridation of drinking water and dental products prevents dental car- ies primarily by inhibiting energy harvest in oral cariogenic bacteria such as strepto- coccus mutans and streptococcus sanguinis thus leading to their depletion.
+
+how- ever the extent to which oral and gut microbial communities are affected by host fluoride exposure has been underexplored.
+
+we then used 16s rrna gene ampli- con and shotgun metagenomic sequencing to assess fluoride's effects on oral and gut microbiome composition and function.
+
+in both the low- and high-fluoride groups several operational taxonomic units otus belonging to acidogenic bacte- rial genera such as parabacteroides bacteroides and bilophila were depleted in the oral community.
+
+in addition fluoride-associated changes in oral community compo- sition resulted in depletion of gene families involved in central carbon metabolism and energy harvest 2-oxoglutarate ferredoxin oxidoreductase succinate dehydroge- nase and the glyoxylate cycle.
+

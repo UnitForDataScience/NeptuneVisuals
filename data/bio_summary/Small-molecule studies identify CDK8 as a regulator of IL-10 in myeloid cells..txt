@@ -1,0 +1,30 @@
+1 and 2.prioritized hit brd6989 selectively upregulates il-10the pyridinyl tetrahydroquinoline brd6989 emerged as a pri- oritized hit in our screen  and supplementary table 2. pretreatment of bmdcs with brd6989 for 48 h followed by stimu- lation with the yeast cell wall extract zymosan a for 18 h increased il-10 production with an effector concentration for half-maximum response ec50 1 mm  while only modestly reducing cell viability in these assay conditions supplementary fig.
+
+3. based on its abil- ity to selectively potentiate il-10 production by a mechanism that appears temporally distinct from creb activation we prioritized brd6989 for moa studies.mediator-associated kinase cdk8 is a target of brd6989 given that the pyridine core of brd6989 is a common kinase-bind- ing motif we profiled its effects on 414 kinases using a combina- tion of binding and activity assays.
+
+3. thus brd6989 enhances il-10 production in activated human and murine macrophages and dendritic cells by a mechanism that appears to be particularly pronounced following stimulation of toll- like receptor-7 tlr7 and tlr8 by r848.analyzing the effects of brd6989 pretreatment on il10 mrna levels after r848 stimulation revealed a sustained increase beginning at 4 h and extending to 24 h supplementary fig.
+
+6. together these data support cdk8 inhibition as the mecha- nism driving il-10 potentiation in response to brd6989 in acti-figure 2  cdk8 is a molecular target of brd6989.
+
+preliminary sar analysis of brd6989's effects on cdk8 and il-10 suggest that the pyridine and amino substituents and the methyl cyclohexyl core of brd6989 make critical contacts with cdk8 supplementary fig.
+
+7. the impaired responses of bmdcs lacking cyclin c to treatment with brd6989 and dca are consistent with a model in which cdk8 restrains il-10 production during activation of wild-type myeloid cells.cdk8 represses a small subset of genes in macrophages to define systematically the role of cdk8 during innate immune activation we profiled the transcriptional responses elicited by dca or brd6989 following stimulation of bmdms with a panel of ten microbial ligands or sendai virus for time points from 0.25 to 4 h. bmdms were chosen for these experiments because like human and mouse dcs they upregulate il-10 in response to cdk8 inhibi- tion supplementary fig.
+
+mechanism-of-action studies using a prioritized hit from the screen brd6989 identified the mediator-associated kinase cdk8 and its paralog cdk19 as negative regulators of il-10 production during innate immune activation.
+
+the ability of brd6989 to upregulate il-10 is recapitulated by multiple structurally differ- entiated cdk8 and cdk19 inhibitors and requires an intact cyclin c-cdk8 complex.
+
+subsequent mechanism-of-action moa studies identified the transcriptional regulatory kinase cdk8 and its paralog cdk19 as molecular targets for the prioritized screening hit brd6989 .
+
+along with brd6989 multiple structurally differentiated cdk8 and cdk19 inhibitors also upregulated il-10 in activated human and mouse dendritic cells and this effect required an intact cyclin c-cdk8 complex.
+
+e-mail or hit prioritized for moa studiesndeprioritized hitsof3cohhnnnohoonnoobrd6989 1brd10330 2ohoupregulates il-1bc 624102-10-2-2fbrd70326 3inhibits tubulin polymerizationcld 6004002000-9-8-7-6-5brd6989 log mil-10il-12p40tnfail-6figure 1  prioritization of brd6989 from a phenotypic screen for small-molecule enhancers of il-10 production.
+
+a chemical structures of brd6989 and the deprioritized screening hits brd10330  and brd70326  with the rationale for their deprioritization.
+
+bc effect of brd6989 on cytokine production in bmdcs stimulated with zymosan a b or r848 c. each point corresponds to mean - s.d.
+
+vehicle dmso 0.5. d effect of brd6989 on il-10 production in human dcs stimulated with r848.
+
+3. in addition brd6989 suppressed zymosan a-induced release of the inflammatory cytokine il-6 but left production of tnfa il-12p40 and il-1b largely unchanged and supplementary fig.
+

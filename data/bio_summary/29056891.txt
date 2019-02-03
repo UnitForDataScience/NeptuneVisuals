@@ -1,0 +1,30 @@
+significant differences between the pte treatment group and hfd control group are indicated by p  0.05p  0.01 and p  0.001.the hfd group 236.9 - 28.6 mgdl decreased signifi- cantly 144.0 - 11.0 mgdl after pte treatment p  0.01. this finding is consistent with the hypothesis that pte inhibited lipid accumulation.treatment with pte attenuated liver steatosis in hfd-induced obese micethe histology of mouse liver tissues in each of the experi- mental groups was examined after the 5-week treatment .
+
+these differentially expressed genes are promising targets for development of future anti-obesity treatments.effect of pte on gut microbiota composition in hfd-induced obese miceto investigate whether the gut microbiota profile was altered in the mice that received pte treatment we col- lected the stool of the nd group n  8 hfd control group n  10 and pte treatment group n  10 after a 5- week treatment course.
+
+changes to body weight were calculated as the percentage increase compared with weight before treatment on day 0. after 5 weeks of treatment all mice were fasted for 6 h and then sacrificed through co2 overdose.
+
+these results indicate that treatment of 3t3-l1 cellsfigure 1. treatment with pte inhibited lipid accumulation in 3t3-l1 adipocytes.
+
+undifferentiated 3t3-l1 cells and their differ- entiated derivatives were used to determine the effect of 500 mgml pte treatment on lipid accumulation a intracellular triglyceride content b lipase activity c and cytotoxicity d. percentages were calculated as relative to the adipocyte group without pte treatment untreatment.
+
+plots the average percentage body weight change in the pte treatment group mice 103.4 - 1.2 after 21 days of treat- ment which was significantly lower p  0.05 than that of the mice in the hfd control group 106.5 -0.9. at the end of the 5-week treatment body weight gain in the pte group was 7.5 - 1.7  significantly lower than that in the nd group 10.3 - 1.3 and hfd control group 15.7 - 1.1. furthermore the percentage of epi- didymal fat in the nd group and hfd control group mice was approximately 1.2 - 0.2 and 5.3 - 0.2 respectively whereas that in the pte group was significantly lower at 3.7 - 0.5 compared with the hfd control group p  0.01 .
+
+this histopathological finding strongly suggests that pte has a protective effect on hfd-induced chronic liver injuries.effect of pte treatment on liver gene expression in hfd-induced obese miceto investigate the effects of pte treatment on liver gene expression an rna-seq study was performed using rna samples pooled from three independent mouse livers from each experimental group.
+
+compellingly the expression of two inflamma- tion-related genes interleukin-1-beta il-1b and serum amyloid a1 saa1 was downregulated 0.29- and 0.47- fold  respectively by pte treatment suggesting that pte exhibits anti-inflammatory activity.to identify the key regulator responsible for pte treatment we investigated the gene expression of the major transcription factors  that regulate lipid biosynthesis metabolism and oxidation.
+
+the findings indicate that the differences in gut microbiota between the nd hfd control and pte treatment groups were highly significant p  0.001.  displays the dominant microbiota population in the nd hfd control and pte treatment groups at the phylum level.
+
+however another dominant population deferribacteres was 1.1 in the hfd control group which was decreased to 0.2 by pte treatment a level similar to that of the nd group.at the class level  the differences in gutmicrobiota distribution between the nd group and hfd control and between the hfd control and pte treatmenttable 3. gene ontology go analysis of the differential expression genes.go idfunctiongenes0006629lipid metabolic processpcsk9fdpselovl3cyp2a12cyp2a5cyp51lpin1g6pcil1bfabp5pctpmvdsaa1sqleacnat2cyp2a22hsd17b6slco1a4idi1cyp2d12cyp39a1msmo1serpina12gpcpd1 0044255cellular lipid metabolic processpcsk9fdpselovl3cyp2a12cyp2a5lpin1g6pcfabp5mvdacnat2cyp2a22idi1cyp2d12msmo1serpina12gpcpd10008610lipid biosynthetic processfdpselovl3cyp51lpin1il1bfabp5mvdidi1cyp39a1msmo1serpina12 0016042lipid catabolic processlpin1il1bcyp39a1gpcpd10044241lipid digestionabcg50006631fatty acid metabolic processelovl3cyp2a12cyp2a5lpin1acnat2cyp2a22cyp2d12msmo1 0022600digestive system processabcg5rsc1a11901568fatty acid derivative metabolic processcyp2a12cyp2a5cyp2a22cyp2d12 0050892intestinal absorptionabcg5rsc1a1 0033559unsaturated fatty acid metabolic processcyp2a12cyp2a5cyp2a22cyp2d12lipid metabolism-related genes with 1.5-fold up- or downregulation upon pte treatment are listed.table 4. expression levels of gene encoding transcription factors involved in adipogenesis.afold change indicates the ratio of transcription reads of a gene in the pte group to that in the hfd control group.group were both highly significant p  0.001. the most abundant bacterial population in the mouse gut at the class level was bacteroidia.
+
+although pte seems to be less effective than metformin 69.03  another clinically used anti-obesity drug the duration of metfor- min treatment was 12 weeks much longer than that of the pte treatment 5 weeks in this study.
+
+next-generation sequencing analysis of liver gene expression and gut microbiota profiles following pte treatment were conducted to elucidate possible mechanisms.
+
+we found that treatment of fully differentiated 3t3-l1 adipocytes with pte inhibited lipid accumulation in the cells through reducing lipid formation and triglyceride content and by increasing lipase activity.
+
+no cytotoxicity was observed from the pte treatment.
+
+after 5 weeks of treatment with pte the increased body weight elevated serum triglyceride content and liver steatosis in the high-fat diet-induced obese mice were each reduced.
+

@@ -1,0 +1,30 @@
+we therefore considered 4 hypothetical host types within our model host type 1 in which ikkg lacks a lir motif and cannot be tagged for autophagic degradation by ubiquitina- tion host type 2 in which ikkg posseses a lir motif and cannot be tagged for autophagic degradation by ubiquitination host type 3 in which ikkg lacks a lir motif and can be tagged for autophagic degradation by ubiquitination and host type 4 inwhich ikkg possesses a lir motif and can be tagged for autophagic degradation by ubiquitination.
+
+considering the severely negative consequences of a complete inability to regulate ikkg as captured by our experimental results we can speculate that someapathogen with lir pathogen without lirbhost type 1 no ikkg lir no ubiquitin degradation host type 2 ikkg lir no ubiquitin degradation host type 3 no ikkg lir ubiquitin degradation host type 4 ikkg lir ubiquitin degradation10.50equilibrium hostdrosophila -like10.50equilibrium host human-like10.50equilibrium host ikkg regulated by both lir and ubiquitin degradation075000075000075000time yearsfig.
+
+the different colored lines show the proportion of the host population belonging to a particular host type and the triangular markers indicate the proportion of the population infected with a pathogen that can express lir downturned triangle or a pathogen that cannot express lir upturned trianglealternative means to regulate ikkg is a prerequisite before the lir motif can be lost from ikkg and thus that the ability to regulate ikkg using ubiquitin tagging in mammals may have evolved before any loss of the lir motif.this point is particularly pertinent when considering the sec- ond of the two evolutionary scenarios we found that could drive the loss of lir from ikkg.
+
+for the results shown here hosts regulating ikkg using ubiquitin tagging alone had an infection mortality rate reduction of 0.005 and hosts regulating ikkg using both ubiquitin tagging and a lir motif had an infection mortality rate reduction of 0.004.effect iiia involves letting a pathogen expressed lir motif slow the recovery rate from infection in hosts that do not have a lir motif on ikkg.
+
+we have shown the impor- tance of the lir motif for its degradation using four different technical approaches 1 mutation of the lir motif drastically reduces the co-immunoprecipitation between kenny and atg8a when expressed in s2r cells 2 mutation of the kenny lir motif abrogates the direct interaction with atg8a as demon- strated by gst pull-down experiments.
+
+upon recovery from infection with p or q the host is once again susceptible to reinfection with p or q. we allowed there to exist four different host genotypes 1-4. host genotypes 1 and 2 are assumed to lack the ability to target ikkg for autophagic degradation using a ubiquitin tag host genotypes 3 and 4 are assumed to possess this ability.
+
+if we make the assumption that the host is best able to regulate immunopathology during infection if ikkg is regulated using ubiquitin tagging and that this advantage is greatest if ikkg is not being targeted for degradation by a lir motif effect ii host type 3 will dominate fig.
+
+type 2 hosts are drosophila-like and type 3 hosts are human-like.full details of the mathematical model and its parameters are found in the methods section but the following biological assumptions were applied at all times 1 a host with neither a lir motif on ikkg nor the specific molecular machinery to target ikkg for autophagic degradation using a ubiquitin tag host type1 suffers excess mortality due to the stimulation of the innate immune response by the microbiota.
+
+in contrast thetargeting of mammalian ikkg for autophagic degradation seems to be mediated either by bacterial effectors geldanamycin viral proteins m45 or through putative selective autophagy receptors p47.to investigate what kinds of interactions between hosts pathogens and the microbiota could drive the loss of a lir motif from ikkg we developed a mathematical model in which the mechanisms by which host ikkg could be selectively targeted for autophagic destruction varied.
+
+although we were not able to show that autophagic degradation of a genomic kenny lir mutant was compromised we have clearly shown that endogenous kenny protein was robustly accumulated in atg8a and atg7 mutant flies.furthermore we showed that kenny is accumulated in autophagy mutant flies in its phosphorylated form.
+
+to assess whether the deregulation of the imd pathway in autophagy-deficient flies is related to the accumulation of kenny protein we created atg8a kenny double mutant flies.
+
+a b full body lysates from wild-type wt and kenny mutant key1 flies a or atg8a and atg7 mutant flies b were subjected to sds-page and immunoblotting for kenny.
+
+if hosts which regulate ikkg usingubiquitin tagging alone have the lowest infection mortality because they are best able to regulate immunopathology during infection then selection from pathogens with or without lir motifs can drive a population to an equilibrium where the host loses the lir motif from ikkg.in conclusion we have shown that autophagy plays a critical role in the termination of innate immune signaling in response to commensal microbiota in drosophila by degrading kenny and ird5.
+
+we considered this an important result to include by way of showing that pathogens with very particular properties could drive the host to lose the lir motif from ikkg however reaching that equilibrium point requires that there already exist some hosts in the population for which there is not an excessive cost to losing the lir motif i.e.
+
+the second mechanism involves a specific reduction in infection mortality where patho- gens encode their own lir motifs that only applies in hosts which lack a lir motif on ikkg--in other words pathogen manipulation of the host using lir motifs which happens to benefit both host and pathogen by reducing infection mortality.
+

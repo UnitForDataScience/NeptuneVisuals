@@ -1,0 +1,30 @@
+because the contributions from additional knowledge nearly diminish when the sample size exceeds k 14 30 therefore we focus on the 16 cases from k 14 10 to k 14 30.in terms of co-alignment we design the symmetric weight matrix ann0 14 1 if contig n and contig n0 are aligned to the same species using the taxaassign script .
+
+owing to palindromicthe laplacian matrix  is defined as l 14 d - a. withconvention we use normalized laplacian matrix instead that is l14 d-12ld-12 14 i - d-12ad-12ci - a. by incorporating the network regularization in  the objective function in changes to the following form2xn 11the coverage of all the n contigs is represented by an n x m matrix y where n is the number of contigs of interest and ynm indicates the coverage of the n-th contig from the m-th sample.
+
+hence is reformulated as the following minimization problemthe feature matrix of contigs is denoted as x 14 12p qt  as the combination of coverage profile p and composition profile q. to bearg min kx - whk2st w h 2 04specific x is a dm th vthx n non-negative matrix of which each col-where h serves as a coefficient matrix instead of an indicator matrix.
+
+these approaches require similarity measurements from gc content tetra-mer composition     or interpolated markov models  to contig coverage profile  .recently several methods have been developed to bin contigs using the coverage profiles of the contigs across multiple metage- nomic samples       wu et al.
+
+sequence composition and coverage across multiple samples we show the effectiveness of cocacola on simulated 'species' and 'strain' datasets in comparison with three state-of-art methodologically distinct methods for contigs binning concoct  groopm   maxbin wu et al.
+
+can be further writ- ten into the matrix formx whst w 2 0h 2 f0 1gkxn khnk 14 1 2where w 14 dw1 w2    wkth is a dm th vthx k non-negative ma- trix with each column encoding the feature vector of the correspond- ing otu.
+
+owing to non-negativity of h khnk1 stands for the column sum of the n-th column vector of h. the parameter a  0 controls the trade-off between approximation accuracy and the sparseness of h. namely larger a implies strongernetwork regularization item is introduced to measure the coherence of binning 1 n2r 141h - h 0 1 a 0 14 trdhlh th8feature matrix representation of contigswhere trdth indicates the matrix trace the sum of items along the di- agonal.
+
+and maxbin wu et al.
+
+our approach cocacola outperforms state-of-art bin- ning approaches concoct  groopm  maxbin wu et al.
+
+the research is partially supported by nsf dms-1518001 and oce 1136818.conflict of interest none declared.referencesalbertsen m. et al.
+
+31 533-538.alneberg j. et al.
+
+8 e1002373.basu s. et al.
+
+methods 6 673-676.cai d. et al.
+
+333-342.cai d. et al.
+
+33 1548-1560. carr r. et al.
+

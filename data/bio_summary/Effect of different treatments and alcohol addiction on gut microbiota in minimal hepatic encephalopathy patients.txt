@@ -1,0 +1,30 @@
+therefore investigation into gut microbiota alterations in these patients may reveal distinct mechanisms of the disease pathogenesis and facilitate treatment strategy development specifically for this population.certain treatment regimens have been designed for the therapy of mhe including administration of rifaximin a semisynthetic antibiotic probiotics lactulose prebiotics4892zuo et al treatment and alcohol affect gut microbiota in mhe patientsfigure 3. alcohol addiction compromises treatment efficacy.
+
+the marginal difference in estimated species numbers prior to and following treatment with rifaximin plus probiotics appeared to be smaller compared with that in patients treated with rifaximin alone.4890zuo et al treatment and alcohol affect gut microbiota in mhe patientsfigure 1. clinical treatment generally reduced gut microbiota diversity in patients.
+
+by comparing the shannon index of each patient prior to and following treatment a general decline in the index was observed following treat- ment with a few exceptions such as patient 10. upon taking a closer look a predominant reduction in the index can be observed following treatment with rifaximin plus probiotics whereas the group with rifaximin only treatment presented a more diversified response.
+
+furthermore certain patients such as patient 3 presented a reduced shannon index following rifaximin treatment while others presented the opposite effect such as patient 8. in addition patient 2 did not have an evident response to rifaximin treatment in terms of microbiota diver- sity as shannon index remained almost the same subsequent to treatment.similarly if subjects are divided into the alcoholic and non-alcoholic mhe groups a predominant decrease in shannon index is observed in non-alcoholic patients following treatment.
+
+treatment reduced the overall microbiota diversity and decreased the abundance of certain ammonia-producing bacteria such as clostridium with the treatment of rifaximin plus probiotics presenting a more apparent effect.
+
+for instance probiotics and prebiotics are used to lower the gut ph and prevent the growth of the urease-producing bacteria 8. in addition mhe has been reported to be a risk factor for motor vehicle accidents due to attention deficit caused by mhe patients 9 while a recent study suggested that yoghurt consumption was an independent negative risk factor for traffic accidents in patients with liver cirrhosis 10. furthermore antibiotics are also typically employed to control the proliferation of helicobacter pylori 11. however no4888zuo et al treatment and alcohol affect gut microbiota in mhe patientsreports currently exist on the effect of combined treatment with antibiotics such as rifaximin used in the present study and probiotics on gut microbiota alterations.
+
+given the correlation between the metabolic functions of gut microbiota and he the aim of various therapeutic regimens is to restore the gut microbiota towards the normal composition and func- tions.therefore the present study conducted the first comprehen- sive metagenomics investigation into gut microbiota alterations subsequent to treatment with rifaximin a well-documented anti-mhe drug or a combination treatment consisting of rifaximin and probiotics 12. the comparison of the two treatments investigated in the current study provides a deeper insight into the effect of different treatments on gut microbiota.
+
+dna from the intestinal bacteria community of patients was isolated immediately prior to treatment and 4 weeks following treatment with rifaximin or rifaximin plus probiotics using the ctab hexadecyltrimethylammonium bromide approach 13. agarose gel electrophoresis 0.8 was performed to assess dna concentration and purity followed by dilution to 1 ngul.
+
+patients prior to treatment were denoted as numbers 1-14 and after treatment the patients were denoted as the numbertreatment.
+
+comparing the values for each patient prior to and following treatment the magnitude of response to the treatment for that specific patient is obtained.
+
+for instance the weighted unifrac for patient 11 pre- and post-rifaximin treatment was 0.133 demonstrating the least response to the treatment.
+
+by examining the clustering trees using unweighted and weighted unifracs to showcase the microbiota similarities between the patients prior to and after the treatment a much shorter distance was observed in eachpatient prior to and following treatment in the weighted tree as represented by the number of connection lines between bars in fig.
+
+in the present study a metagenomics approach was adopted to reveal alterations in gut microbiota of 14 mhe patients following treatment with rifaximin alone or rifaximin plus probiotics.
+
+patients were grouped into the alcoholic and non-alcoholic groups to examine differences in terms of their response to treatment.
+
+non-alcoholic mhe patients responded better to the treatment as they presented greater reduction in microbiota diversity and a more consistent decline in certain ammonia-producing bacteria genera such as clostridium and streptococcus belonging to the firmicutes phylum.
+

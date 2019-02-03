@@ -1,0 +1,30 @@
+finally the met-turn and helix ac are connected by a loop subdivided into the s1'-wall-forming segment and the down- stream specificity loop a. taken together all these character- istic structural features yield an extended sequence pattern h-e-2x-h- 2x-g-2x-h-st-6x-m-3x-y-9x-d-d-7x-y-x d which distin-guishes the c-terminal segment of mmp cds from other metzincin families and mps in general .in addition to the cd a further hallmark of mmps is that latency is maintained through the pd  which together with transcriptional regulation and dedicated protein inhibitors regulates physiological mmp activity .
+
+we thus performed a database search which revealed several potential sequences in the phylumtable 3fungal mmp sequences.phylum ascomycotaclass dothideomycetesbipolaris oryzae388 residuesgb xp0077684757up w6zmi0bipolaris victoriae388 residuesgb xp014556326up w7eis0bipolaris zeicola388 residuesgb xp007709037up w6yg21cochliobulus heterostrophus bipolaris maydis388 residuesgb xp014075121up n4x7i4 up m2v381cochliobulus sativus bipolaris sorokiniana320 residuesgb xp007696738up m2tcl8 paraphaeosphaeria sporulosa411 residuesgb xp018039150up a0a177cmm7 phaeosphaeria nodorum parastagonospora nodorumseptoria nodorum326 residuesgb xp001794978up q0uuk1 pyrenochaeta sp.565 residuesup a0a178djw7stagonospora sp.393 residuesup a0a178bdb5stemphylium lycopersici563 residuesup a0a0l1hkc2 class eurotiomycetesaspergillus calidoustus290 residuesup a0a0u5g9d2aspergillus flavus274 residuesgb xp002379978up b8ni13 up a0a0d9mrc7aspergillus lentulus311 residuesup a0a0s7dkq5aspergillus udagawae282 residuesup a0a0k8l198endocarpon pusillum306 residuesgb xp007803399up u1hkz8exophiala aquamarina282 residuesgb xp013264742up a0a072pqx4neosartorya fischeri aspergillus fischerianus616 residuesgb xp001261124up a1dim0 class leotiomycetespseudogymnoascus sp.255 residuesup a0a094dqi1 up a0a094ite6 class orbiliomycetesall sequence codes are from uniprot up  or genbank gb .sequence searches were performed with structurally validated mmp cds within uniprot  or the national center for biotechnology information blast.ncbi.nlm.
+
+however when the structures of profragilysin-3 and the closely-related metalloproteinase ii were reported it became obvious that fragilysins which are present in enterotoxigenic b. fragilis strains but not com- mensal ones represent a metzincin family on their own which is closer to adamalysinadams than mmps if at all .to complete the picture of mmp distribution in prokaryotes we conducted sequence similarity searches and identified several hundred potential mmp orthologs across archaeal and bacterial genomes some of them with several copies.
+
+matrix metalloproteinases outside vertebrateslaura marino-puertas theodoros goulas f. xavier gomis-ruthproteolysis lab structural biology unit maria-de-maeztu unit of excellence molecular biology institute of barcelona csic barcelona science park cbaldiri reixac 15-21 08028 barcelona spain.a r t i c l e i n f o keywordszinc metalloproteinase metzincinmmpinvertebrates catalytic domainstructure-based sequence motifa b s t r a c t the matrix metalloproteinase mmp family belongs to the metzincin clan of zinc-dependent metallopeptidases.
+
+here we reviewed the literature available on mmps outside vertebrates and performed database searches for potential mmp cds in invertebrates plants fungi viruses protists archaea and bacteria.
+
+1. mmp catalytic domain structure.
+
+a cross-eye stereographic richardson-plot of the catalytic domain of t. forsythia karilysin y35-p200 pdb 2xs3  in standard orientation as a representative of mmp catalytic domains see .
+
+d color-coded mapping of the mmp extended sequence pattern h-e-2x-h-2x-g-2x-h-st-6x-m-3x-y-9x-d-d-7x-y-x onto the karilysin polypeptide chain.
+
+.to date structural studies on mmp cds are restricted to mammals human mouse rat and pig with the notable exception of bacterialkarilysin  see also .
+
+mmp activation entails pd removal to free access to the cleft.matrix metalloproteinases in invertebratesmmps have been extensively studied in vertebrates particularly in mammals due to their widespread implications in human health and disease .
+
+primitive animals of this lineage up to the emergence of the clade bilateria likely had few mmp copies within their genomes as currently found in several drosophila species two copies and other insects such as red flourtable 2mmps referenced from plants and selected sequences within genomes.phylum tracheophytaclass liliopsidabarley hordeum vulgare f2dc11 f2d2w1 f2dgf5 f2d593beetle silkworm or malaria mosquito three copies .
+
+this minimal architecture is also predominant across invertebrates  although many mmp sequences in insects--e.g.
+
+moreover mp activity attributable to an mmp was also described for the jack bean canavalia ensiformis though validation is still pending .
+
+downstream of the cd plant mmps only contain 40-residue c-terminal gpi anchors or transmem- brane segments for localization to the plasma membrane .the unicellular green alga chlamydomonas reinhardtii encodes twomps dubbed gametolysins also known as gamete lytic enzymes mmp1 and mmp2 and autolysins which are engaged in cell-wall turnover and have been recurrently associated with the mmp family .
+
+this restricted presence of mmps within algae is consistent with recent genome-wide analyses of the secretomes of nine brown algae belonging to the phyllum phaeo- phyceae which revealed no potential mmp ortholog .
+

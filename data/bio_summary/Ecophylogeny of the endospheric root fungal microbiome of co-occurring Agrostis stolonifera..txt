@@ -1,0 +1,30 @@
+kse values below one indicated that the otus were more divergent in their 'mean expression ratio' than would be expected under a brownian motion model of trait evolution whereas a value above one indicated that the values of the 'mean expression ratio' were more similar between phylogenetically related otus than between otus drawn at random.discussionin this study we assessed the complexity of the fungal root microbiome of co-occurringa.
+
+conversely sequences assigned to the ascomycota were more abundant in the rna fraction than in the dna fraction p  0.001. glomeromycota represented 3.9 and 10.1 of the total number of sequences in the dna and rna fractions respectively but the differences between these fractions were not significant .at the population level very few fungal otus were shared by all co-occurring plantsnine otus out of a total of 635 otus were found in both the dna and rna fractions of all of the 19 co-occurring a. stolonifera plants accounting for 33 of the total number of sequences .
+
+strikingly most of the otus in the fungal potential 'core microbiome' were only distantly related to known species .the fungal root microbiome is phylogenetically structuredwe tested our working hypothesis that the host plant acts as an environmental filter on microbial communities by examining the phylogenetic structure of the fungal root microbiome.
+
+comparison of the phylogenetic relatedness of the otus in the dna and rna fractions of each sample with the local pool of otus otus found in all samples was based on two indices the mean pairwise distance mdp and the mean nearest taxon distance mntd described by .
+
+moreover the otus shared by all the plants in both their dna and rna fractions were mainly abundant otus affiliated to pezizomycotina ascomycota which represented more than 30 of all the sequences.an increased sequencing depth would lead to an increase of the rare rather than abundant otus.
+
+this was true for the global phylogeny including all the fungal otus and also for the phylogenies built for each fungal phylumphylumksenotes.
+
+stolonifera fungal endophytic communities exhibited significant phylogenetic clusteringwe found that the fungal communities in plant roots exhibited a significant phylogenetic structure whether the analyses were based on dna or rna which confirmed our working hypothesis that the fungal communities in plant roots are not random assemblages .
+
+one possibility would be to perform a comparative transcriptomic analysis of the fungal root microbiome although a number of methodological padlocks would first need to be broken notably the selective extraction of fungal rna.conclusion and prospectswe describe here the root fungal microbiome associated with an a. stolonifera population using a molecular strategy combining dna- and rna-based approaches.
+
+under the hypothesis that traits favourable to an endophytic life style are phylogenetically conserved  we could expect that the 'mean expression ratio' of related microbial otus in plants would be more similar than that of phylogenetically distant otus.
+
+we defined the 'dna core' and the 'rna core' as the proportion of otus present in the dna and the rna fraction respectively of all samples.phylogenetic tree constructionrepresentative sequences of otus were aligned using sina aligner v1.2.11   imported from the non-redundant silva ssu ref arb database release 115. alignments of the reference sequences and of representative otu sequences were exported from arb .
+
+two analyses were performed to create the null communities one using all the otus and another one using the otus obtained separately from the dna and the rna fractions.
+
+a special case of hill diversity numbers when q  0 was significantly higher in the rna fractions than in the dna fractions with on average 149 otus in the rna fractions and 133 otus in the dna fractions p  0.01 .
+
+one possible explanation was that the otus detected from dna fraction originated in part from dormant or dead cells.these results show that it is essential to be aware of the type of nucleic acid being used for comparisons or meta-analyses and highlights the advantages and importance of taking both kinds of nucleic acids into account to gain deeper insights into microbial diversity.fungal root microbiome is diverse and highly variable among co-occurring a. stoloniferain the nineteen a. stolonifera plants harvested from a natural ecosystem we found 635 otus with a dominance of pezizomycotina ascomycota followed by agaricomycotina basidiomycota.
+
+increased sampling within this a. stolonifera population would be unlikely to modify the number of shared otus  but might increase the total number of otus detected.
+
+assuming that phylogenetically close otus share common phenotypic traits  the host plant would select for otus with particular biological features adapted to a symbiotic life style.
+

@@ -1,0 +1,30 @@
+no changes in luciferase activity were observed in cells transfected with the mutated mir-275 binding site psicheck-2-dserca or the negative control vector psicheck-2 in response to the mir-275 mimic .to further confirm serca as a mir-275 target in vivo we measured serca transcript lev- els in the guts of mir-275-depleted female mosquitoes and observed significant decreases in serca mrna when compared with wt mosquitoes .
+
+treat- ment of wt mosquitoes with either dsserca or the serca inhibitor tg created the same phenotype as mir-275 silencing confirming that this mirna targets serca and in turn serca is required for the actin cytoskeleton integrity.
+
+b serca rnai dsserca and notch receptor rnai dsnr treated mosquitoes exhibited reduced lt protein levels.attention on late trypsin lt which is an essential late-phase digestive protease in guts of female mosquitoes .
+
+rna interference rnai-mediated knockdown of serca dsserca mimicked this adverse lt phenotype in guts of wt mosquitoes when compared with double- stranded rna of luciferase dsluc-treated female mosquitoes .
+
+serca and nr dsrna-treated mosquitoes represent highly similar phenotypes to cp-gal4uas-mir-275-tud female mosquitoes.
+
+to validate the observed pheno- types in serca knocked-down mosquitoes we chose thapsigargin tg a highly specific inhibitor of serca .
+
+from three combined biological replicates 15-25 mosquitoes per sample p  0.05 p  0.01 p  0.001.mir-275 plays a critical role in the maintenance of gut microbiotain mosquitoes commensal gut microbiota proliferates in response to a blood meal .
+
+thus we have discovered that mir-275 directly targets serca and the maintenance of its level is critical for multiple gut functions in mosquitoes.introductionfemale hematophagous mosquitoes require vertebrate blood to support rapid egg develop- ment.
+
+the serca 3'-utr that includes a predicted mir-275 binding site was cloned into themir-275 mimic rescues the phenotypes in blood-fed cp-gal4uas-mir-275-tud female mosquitoes.
+
+b mir-275 mimic elevates serca transcript levels in wt and cp-gal4uas-mir-275-tud 16-1f1 16-1f17 female mosquitoes.
+
+values represent average -s.from three combined biological replicates p  0.001. c serca transcript levels decreased in cp-gal4uas-mir-275-tud female mosquito guts.mir-275 mimic into cp-gal4uas-mir-275-tud and control female mosquitoes.
+
+treat- ment with mir-275 mimic elevated the serca transcript level in guts of both wt and hybrid mosquitoes .
+
+it is supported by mir-275 mimic applica- tion which partially restored the serca transcript level in guts of mir-275-tud mosquitoes.
+
+we detected diminished lt levels in guts of cp-gal4uas-mir-275-tud mosquitoes suggesting a decrease in the overall digestive enzyme production as a result of mir-275 and serca silencing.
+
+this in turn leads to interruption of normal blood digestion and as a conse- quence retardation of egg development.in addition we observed disruption of the gut microbiota proliferation in cp-gal4uas- mir275-tud mosquitoes following the blood meal demonstrating the importance of mir- 275 and serca in its maintenance.
+

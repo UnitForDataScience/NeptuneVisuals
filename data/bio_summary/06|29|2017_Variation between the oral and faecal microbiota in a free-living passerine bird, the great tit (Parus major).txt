@@ -1,0 +1,30 @@
+it is also worth noting the abundance increase of two lactic acid bacteria in the oral cavity catellicoccus and lactococcus which can shape the oral community structure by the modulation of abiotic environmental conditions or by direct inter- actions with host immune system or other community members .even though the sample size was limited we did not observe any correlation between oral vs. faecal microbiota at the within-individual level.
+
+the diversity of the oral microbiota was significantly higher com- pared to the faecal microbiota whereas interindividual variation was higher in faecal than in oral samples.
+
+this analysis was run on a subset of 216 otus that were present both in the oral and faecal microbiota of those individuals for which both these samples were available.the lme-based approach was further used to identify otus whose abundances differed between oral and faecal samples.
+
+only 384 34 otus were detected in both the oral and faecal micro- biota whereas 541 48 and 202 18 otus were detected exclusively in oral and faecal samples respectively.
+
+clear differences in the composition of oral vs. faecal microbiota werediversity of the faecal and oral microbiota of the great tit.
+
+on the other hand otus where the most striking relative abundance increase in oral compared to faecal samples differences in the composition between the oral and faecal microbiota of the great tit.differences in composition were analysed using adonis whereas differences in interindividual variation were assessed using betadisper.
+
+column annotations indicate git regions whereas row annotations show phylum-level assignations and if the otu was overrepresented in oral or faecal samples oral or faecal.
+
+in addition according to adonis analyses there was no effect of these two variables on the com- position of oral or faecal microbiota p  0.2 r2  0.02 in all cases.analyses on the subset of individuals with both oral and faecal microbiota sampled did not reveal any correlation of the microbial structure between these two git regions at the within- individual level.
+
+as studies on other vertebrate species commonly report both higher  and lower  values of alpha diversity in oral vs. faecal microbiota further research should focus on factors driving this variation.at the otu level the faecal microbiota was characterized by increased abundances of urea- plasma deinococcus carnobacterium chryseobacterium delftia and elizabethkingia otus.ureaplasma together with another tenericutes otu corresponding to the genus mycoplasma that tended to be increased in the faecal microbiota as well qvalue  0.08 are common inhab- itants of vertebrate gastrointestinal and urogenital tracts.
+
+these can theoretically include 1 host-intrinsic mechanisms such as effects of the immune sys- tem and other biotic and abiotic factors operating within the git or 2 extrinsic sources of variation including pools of bacteria present in the diet and other environmental sources.relatively low interindividual variation of oral microbiota suggests either that environmen- tal bacterial pools colonizing the oral cavity exhibit high homogeneity in space and time or that there is low interindividual variation in host-specific mechanisms regulating oral micro- biota.
+
+bacterial classes that were detected in very low abundances in oral samples.otu-level analyses identified 33 otus represented by 35.8 reads whose relative abun- dances differed between oral and faecal samples .
+
+in line with these results plots visualising the taxonomic composition on the phylum and class levels indicated differentiation in the microbial composition between faecal and oral samples as well as a higher interindividual variation of faecal microbiota  .
+
+however as the passage of food through the passerine gut is extremely fast  and thus the decomposition of bacteria from the external environment is pro- bably not as effective as in mammals we cannot exclude the possibility that the variation of faecal microbiota is also driven to certain extent by bacteria that get into the git with food.as knowledge of the factors driving within-species variability in the avian git microbiota remains limited  further research and specifically designed experiments are required to untangle the relative contribution of transient environmental bacteria to microbial compo- sition in different git regions of passerines and other vertebrate taxa.in conclusion our study is the first to characterize the oral microbial structure and com- pared it with the faecal microbiota in a free-living bird population.
+
+the oral microbiota was sampled using sterile microbiological nylon swabs minitip floqswabs copan italy by wiping the oral cavity and upper side of the beak.
+
+compared to mammalian oral microbiota where bacteria from the phyla bacteroi- detes firmicutes and proteobacteria typically dominate the oral microbiota in our population was characterized by a low proportion of bacteroidetes and increased abundances of actino- bacteria .
+

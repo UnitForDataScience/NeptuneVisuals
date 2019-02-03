@@ -1,0 +1,30 @@
+closeness centrality on the other hand measures how distant the node is from all other nodes in the network whereby high scores indicate a small distance toward the rest of the network members.table 3  linear mixed model results of alpha diversity across all fecal sampling time points based on species richness observed number of species abundance distribution shannon h and phylogenetic community structure nrinti.time point- time coded as order of observation 0-3  time span coded as time in weeks 0 2 4 10  fitted as second order polynomial.when we compare the networks between single time points patterns resembling community succession and stabilization emerge  for species networks see supplememtary figure s8a.
+
+available at pacheco a. r. curtis m. m. ritchie j. m. munera d. waldor m. k. moreirac.
+
+19 1-9. memmott j. waser n. m. and price m. v. 2004. tolerance of pollination networks to species extinctions.
+
+we identified the most influential bacteria on network stability by the average real values of relative change in network characteristics after removal diameter number of network clusters size of network clusters transitivity closeness.
+
+we next measured different bacterial network characteristics importancecentrality of network components to approximate the structural importance of the single bacterial taxa within each respective network including the number of interactions of each bacterium in the network node degree the pageranktm index     and the well-known betweenness- and closeness centralities .
+
+interestingly the co-occurrence network derived from the last time point appears more resilient than any of the simulated network topologies tested supplementary figure s12.to investigate the influence of the fut2 genotype secretorstatus and breeding direction on the robustness of microbialcommunities we adapted the heuristics described above and sequentially removed the top 25 of genera and species associated to the respective host factors as measured by their respective indicator values   from the network.
+
+network robustness tests were performed by random attacks on networks by sequentially removing 25 of network nodes randomly over 1000 iterations and mean values of the network characteristics for each fraction were used for further analysis.
+
+in summary we observe strong community differentiation between breeding lines with an additional separation of communities according to fut2 genotype the latter of which is limited to the mucosa.analyzes of bacterial co-occurrence networks reveals processes of community development and genotype specific differences of community stabilityto infer potential interactions among bacterial community members we used co-occurrence networks of bacterial consensus genera and species based on the correlation of their abundances.
+
+several taxa appear to have common large effects on most network parameters diameter size of biggest cluster transitivity closeness over more than a single time point such as alistipes otu-36 rikenella otu-9 and paludibacter otu-120 in species networks or alistipes enterorhabdus lachnospiraceae parasutterella and ruminococcus in the genus-level networks supplementary tables s11 s12.
+
+however disturbances introduced by the removal of bacteria generaspecies associated to the fut2-- grand dam are on average higher than the removal of bacteriafigure 4  a correlation networks of time point 1 to 11 reveal a decreasing network density tp1  0.0948 tp3  0.0359 tp5  0.0402 tp11  0.0343 as well as decreasing centralization tp1  33.196 tp3  18.080 tp5  11.801 tp11  11.101 kleinberg's hub score but increasing diameter tp1  1.381tp3  2.037 tp5  1.974 tp11  3.197. b analyses of the change of node characteristics within co-abundance networks across fecal time points including their correlation based on the number of connections of single genera node degree their importance based on the quality of their connectedness pageranktm  their distance to other community members closeness and the importance of single bacteria as mediators within the networks betweenness.
+
+11 685-690. dominguez-bello m. g. costello e. k. contreras m. magris m. hidalgo g. fierer n. et al.
+
+58 103-109. hill d. a. siracusa m. c. abt m. c. kim b. s. kobuley d. kubo m. et al.
+
+cell host microbe 16 504-516. pickard j. m. maurice c. f. kinnebrew m. a. abt m. c. schenten d. golovkina t. v. et al.
+
+bmc genomics 17941. de caceres m. legendre p. and moretti m. 2010. improving indicator species analysis by combining groups of sites.
+
+162 1075-1080. newman m. e. j. and girvan m. 2004. finding and evaluating community structure in networks.
+

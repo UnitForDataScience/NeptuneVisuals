@@ -1,0 +1,30 @@
+for isolation of naive and memory sub- sets bulk cd4 t cells were labeled with anti-cd4 anti-cd45ra and anti-ccr7 mabs prior to sorting using a facsaria ii bd biosciences to obtain naive cd4 cd45ra ccr7 and memory cd4 cd45ra2 ccr72 populations of .99.4 purity.generation of polarized t helper subsetsnaive cd4 t cells were polarized in anti-cd3 coated flat-bottom 96-well plates 5 mgml for th1 cells 2.5 mgml for all other conditions in the presence of 1 mgml anti-cd28 together with the following reagents th1 100 uml il-2 20 ngml il-12 and 10 mgml anti-il-4 th2 20 ngml il-4 and 10 mgml anti-ifn-g th17 20 ngml il-1b 50 ngml il-6 2 ngml tgf-b and 10 mgml each of anti-il-4 and anti-ifn-g and th22 50 ngml il-6 20 ngml tnf-a and 10 mgml each of anti-il-4 and anti-ifn-g.apc assaysfor mlrs apcs and allogeneic cd4 t cells were cocultured at a 110 ratio.
+
+p  0.05 p  0.01 p  0.001.3422intestinal cd4 t cell polarization by human gd t-apcsgd t-apc plasticity exerts a profound influence on the polariza- tion of naive cd4 t cells and that gdil-15 t-apcs display an unexpected capacity to promote the differentiation of il-22 il-172 cd4 t cells.gdil-15 t-apcs enhance il-22 responses in memory cd4 t cellswe next assessed whether gd t-apcs could similarly influence the outcome of established effectormemory cd4 t cell responses.
+
+copyright c 2017 the authorslangerhans cells have been reported to induce a distinct pop- ulation of il-22 cd4 t cells that lack il-17 although the underlying molecular mechanism was not defined 14. simi- larly circulating plasmacytoid dendritic cells dcs release soluble factors including il-6 and tnf-a which stimulate skin-homing cd4 t cells to express il-22 but not il-17 12. intestinal dcs have also been described to induce il-22 ex- pression in cd4 t cells but only in conjunction with other cytokines including ifn-g il-17 and il-10.
+
+the pathways underpinning the specific induction of il-22 il-172 cd4 t cells in the human gut remains unknown 16.myeloid apcs may not be the only ag-presenting populations in the intestine that can modulate local cd4 t cell responses.
+
+indeed microbe-responsive vg9vd2 t cells in the human gut express apc markers influence colonic cd4 t cell function 17 and may contribute to the pathology of ibd 18. whereas they are absent in rodents vg9vd2 t cells typically represent 1-5 of total t cells in human blood and tissues including the gut 17 18. intriguingly vg9vd2 t cells readily acquire apc characteristics in vitro induce naive and memory cd4 and cd8 t cell responses 19 20 and thus possess considerable potential for immunotherapeutic applications.
+
+however little is known about the capacity of such gd t-apcs to polarize cd4 t cell responses especially in anatomical compartments other than blood.in this report we demonstrate that human microbe-responsive vg9vd2 t cells readily acquire gut-homing and ag-presenting functions and stimulate cd4 t cell responses distinct from those induced by monocytes or dcs.
+
+gd t-apcs were cultured for 3 d and further purified either by positive selection or cell sorting to purities .99.2. bulk cd4 t cells .95 purity were isolated from pbmc via negative selection using the cd4 t cell isolation kit miltenyi.
+
+to assess cd4 t cell responses to complex ag preparations apcs were cultured with 1 mgml ppd for the final 24 h of apc gener- ation and washed three times prior to coculture with autologous cd4 t cells.
+
+in the graphs each data point represents an individual donor statistically sig- nificant differences are p  0.05 p  0.01 and p  0.001. hor- izontal lines display the median and error bars indicate the interquartile range.resultshuman gut gd t cells polarize naive cd4 t cells toward production of ifn-g and il-22to assess the potential of gd t cells to exert apc functions in the human gut colonic organ cultures were either left untreated or stimulated with the microbial vg9vd2 t cell ligand hmb-ppeffects on cd4 t cell responses.
+
+these findings indicate that il-2 and il-15 play crucial and distinct roles in the acquisition of a gut-homing apc phenotype by human vg9vd2 t cells.gd t-apcs polarize naive cd4 t cells toward distinct effector phenotypeswhen assessing the resulting effector functions of stimulated cd4 t cells we observed striking outcomes depending on the type of apc used.
+
+d polarization of superantigen-specific naive cd4 t cells in response to autologous apcs pulsed with tsst-1 within the vb2 cd4 gate.
+
+as with naive cd4 t cells both gdil-2 and gdil-15 t-apcs induced memory cd4 t cell proliferation with comparable efficiency to that displayed by mdcs fig.
+
+these findings demonstrate that gd t-apcs can shape ag-specific adaptive immune responses and in- duce il-22 production in both naive and memory cd4 t cells.gd t-apcs polarize cd4 t cells via tnf-a and icoslwe next sought to identify the polarizing signals that facilitate gd t-apc polarization of t cell responses fig.
+
+3a in agreement with the known role of cd28 signaling in cd4 t cell activation 26. the induction of il-22 and ahr expression in cd4 t cells was selectively impaired in the presence of stnfr fig.
+
+5c 5d con- sistent with a role for cd27 signaling in th1 cell differentiation 27. these findings underscore the functional relevance of co- stimulatory molecule expression by activated vg9vd2 t cells and confirm a previously unknown role for icos signaling in the induction of human il-22 responses.gut-homing gd t-apcs enhance human colonic cd4 t cell responses and promote mucosal release of calprotectinwe next tested whether gd t-apcs are capable of modulating cytokine production by cd4 t cells isolated from human colon which contains significantly higher frequencies of memory cells than are present in the blood fig.
+

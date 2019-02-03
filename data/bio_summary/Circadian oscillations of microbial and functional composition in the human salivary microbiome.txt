@@ -1,0 +1,30 @@
+in the phylum level bacteroidetes for the five subjects firmicutes for the four subjects proteobacteria for the three subjects and actinobacteria for the two subjects were significant in the circa- dian periodicity respectively.in addition we examined the diurnal change in the otu number.
+
+in the genus level jtkcycle and pdm both showed the significant periodicity in prevotella for the five subjects neisseria for the four subjects gemella and streptococcus for the three subjects.
+
+the results revealed that the unifrac distances between the st samples were lower than those between the dt samples forall the subjects of which the five subjects showed a statistical signifi- cance indicating that the overall structure of the st samples was more similar than that of the dt samples .we then performed the autocorrelation analysis for diurnal changes in the relative abundance of the two major phyla firmicutes and bacteroidetes in each subject between the 3 days.
+
+the horizontal axis represents the average relative abundance of each genus.average for the six subjects exhibited a significant oscillation with the 24-h periodicity p  0.05 among which prevotella gemella peptostreptococcus solobacterium streptococcus and haemophilus were statistically significant for all the subjects supplementary table s4.
+
+the relative abundance of prevotella was increased in the morning from 400 to 1200 in all the subjects and those of gemella and streptococcus were increased in the evening from 1600 to 000 in all the subjects.
+
+the relative abundance of haemophilus was proliferated in the morning around 800 in all the subjects but different proliferation time zones were also observed in three subjects.
+
+the proportion of genera clas- sified by the gram stainability and aerobicity in samples of the sub- jects was shown in supplementary table s9.disappearance of circadian rhythm in salivary microbiomes in vitrosalivary samples from two subjects subjects 1 and 2 were incubated at 37oc in vitro under aerobic conditions and changes in the micro- bial abundance in aliquot samples collected every 1 h for 7 h were monitored by 16s rrna gene sequence analysis.
+
+the pdm analysis followed by bonferroni correction of 19 genera 18 known and one undefined with 2 0.1 relative abundance in all of the six subjects found that the genera accounting for 68.4-89.6 of the total abundance 79.3 infigure 1. detection of diurnal oscillation in salivary microbiomes.
+
+normalized values of each day were all in the interval 0 1.to figure out the periodicity of a given taxon x in a subject the normalized abundance data of every 4 h for 3 days were prepared as a list and the average normalized abundance of each time zone was calculated as shown below.then the list was sorted with time zones column vector in the shown table by the average normalized abundance of each time zone.
+
+lines cover the proliferation time zones of the genus in each subject determined by pdm in which the subjects having the proliferation time zones with no significant circadian periodicity were eliminated see supplementary table s4.was in the daytime in all the subjects indicating that these two major phyla had an inverse relation in the circadian oscillation pattern  .
+
+among the 12 genera prevotella gemella streptococcus and haemophilus showed the significant circadian periodicity for all the subjects but the other eight genera showed non-significant periodicity in a few subjects supplementary table s4.
+
+the phylum- and genus- level assignment apparently showed the diurnal change in the micro- bial abundance for all the subjects supplementary fig.
+
+b autocorrelation coefficients of the relative abundance of firmicutes bacteroidetes in all the subjects.
+
+genera with 20.1 average relative abundance in all the subjects were analysed.
+
+the results of the genera with 21 relative abundance in all the subjects are shown.
+

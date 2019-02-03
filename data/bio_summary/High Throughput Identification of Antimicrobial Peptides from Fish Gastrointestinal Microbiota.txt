@@ -1,0 +1,30 @@
+our present strategy to identify the potential amps in fish gi microbiota is an alternative way to overcome the deficiency of antibiotics.in this study we identified five amps pediocin lactococcin 972 subtilosin a and aureocin-like bacteriocins in the gi of grass carp.
+
+these amps synthesized in the ribosomes of bacteria are also called bacteriocins which normally present antibacterial activity towards closely-related strains although it has been reported that a broad range of antimicrobial activity occurs in some bacteriocins .
+
+similar amino acids of at least 50 were shaded in purple 80 were shaded in yellow and those with same characteristics were shaded in green.table 1. summary of known bacteriocins in the ncbi with the highest ranked hits.categoryidentified amps 1ncbi ampsgenbankncbi amp-producing bacterial speciesclass i lantibioticclass iia pediocin-likemcdaabi30227.1streptococcus macedonicusstreptococcin a-ff22p36501.1streptococcus pyogenesnukacinczt39525.1streptococcus agalactiaemacedocincza89639.1streptococcus suistype-a lantibioticeef65507.1streptococcus suis 891591type a2 lantipeptidewp041790396.1streptococcus equi type a2 lantipeptidewp033685037.1streptococcus mitis lantibiotic nukacinkeo43205.1streptococcus salivariushypotheticaland78905.1streptococcus pantholopispiscicolin-126efm26697.1streptococcus equinusbacteriocinkue92317.1streptococcus gallolyticusputative piscicolin-126kxi11412.1streptococcus pasteurianusinfantaricin eahw46171.1streptococcus infantariusmundksaci25616.1enterococcus mundtiileucocin caey55410.1leuconostoc carnosumsakxaap44569.1lactobacillus sakeitable 1. cont.categoryidentified amps 1ncbi ampsgenbankncbi amp-producing bacterial speciesclass iiclactococcin 972caa05247.1lactococcus lactis lactococcin 972 familywp061775386.1lactococcus raffinolactis lactococcin 972 familywp065096983.1enterococcus mundtiilactococcin 972ctl98394.1streptococcus pneumoniaelactococcin 972 familysnp59245.1streptococcus pneumoniae lactococcin 972 familycwj26067.1streptococcus pneumoniae lactococcin 972 familycyw17154.1streptococcus suissboa proteinefv34710.1gemella morbillorum m424 subtilosin aegv07582.1streptococcus constellatusputative subtilosin acvx48913.1streptococcus pneumoniaehypotheticalelb10075.1enterococcus faeciumsubtilosin acad23198.1bacillus subtilissubtilosin aakp46487.1bacillus smithiisubtilosin awp087992738.1bacillus subtilismutacin bhtbaaz76605.1streptococcus ratticlass iidelactolisterin busdr48784.1lactococcus lactis hypotheticalwp081348647.1streptococcus iniae aureocin-likesfg15527.1lachnospiraceae c71 see more details in figure .phylogenetic analysiswe could not determine the unique strains for these predicted amp sequences.
+
+exploiting antimicrobial-producing resources to shape the host-associated microbiota along with high-throughput sequencing may elucidate the roles of different strains for host defense.this is the first big-data-based study looking for amps and amp-producing bacteria in the gi metagenome of grass carp.
+
+in a word we provide a high-throughput way to discover amps from fish gi microbiota which can be developed as alternative pathogen antagonists toxins for microecologics or probiotic supplements.keywords antimicrobial peptide amp fish gastrointestinal microbiota high throughput identification amp-producing bacteriaintroductionantimicrobial peptides amps are a group of small peptides which are secreted by almost all creatures in nature.
+
+it revealed that many commensal organisms in grass carp including three species of lactococcus l. raffinolactis l. lactis and l. garvieae as well as many members of streptococcus bacillus lactobacillus and enterococcus are potential probiotics in grass carp as they are closely related to the known strains used in microecologics and consistent with other characterized probiotics .interestingly all the predicted bacterial species belong to the class bacilli.
+
+meanwhile since antibiotic abuse in aquaculture has caused many problems such as pathogen resistance and food contamination we are trying to screen new bacterial species with a high efficacy of amp production as potential probiotics to combat aquatic pathogens.in this research we sequenced the whole metagenome of the gi microbiota in grass carp and a high-throughput homologous search was performed to predict amps.
+
+commercial probiotics are green top abundant bacteria of class bacilli in grass carp gi are red and the putative strains producing our predicted amps are blue.discussionin commercial aquaculture the stressful conditions fish are exposed to usually result in a decrease in production and increase the risk of infectious diseases.
+
+in addition we observed that the top abundant genus in the gi microbiota of the grass carp was generally consistent with the putative amp-producing strains which are mainly from lactobacillales.
+
+in addition the phylogenetic relationship of some genera in grass carp gi microbiota putative amp-producing strains and commonly used probiotics for microecologics were described.
+
+in pseudoalteromonas bacteriocins are almost large proteins 100 kda and their strains are of great ecological significance as part of the resident microbiota or antimicrobial metabolite producers .
+
+in this present study a homologous search was performed to predict amps from our newly generated metagenome of grass carp.
+
+we identified five amps with high similarities to previously reported bacterial toxins such as lantibiotic and class ii bacteriocins.
+
+however our predicted bhtb-like seems to be very special compared with others.figure 2. multiple sequence alignment of identified amps with public bacteriocins in the ncbi.lantibiotic b pediocin-like class iia c lactococcin 972 class iic d subtilosina class iice aureocin-like class iid.
+
+in summary based on our phylogenetic tree figure  we speculate that these bacteria closely related to some known probiotics are promising candidates for novel amps or applicable probiotics in the grass carp such as l. garvieae s. agalactiae g. morbillorum and l. sakei.
+

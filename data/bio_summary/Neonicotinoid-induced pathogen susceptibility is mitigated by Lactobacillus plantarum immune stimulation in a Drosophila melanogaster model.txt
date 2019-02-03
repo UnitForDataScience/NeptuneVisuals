@@ -1,0 +1,30 @@
+furthermore upd1-- and upd23-- mutant larvae demonstrated significantly impaired eclosion when exposed to 1 um imi kruskal-wallis p  0.0023 and p  0.0255 respectively and 10 um imi kruskal-wallis p  0.0229 and p  0.0047 respectively compared to background w1118 larvae fig.
+
+data are means -standard deviations mann-whitney tests de kruskal- wallis tests f of results from 5 biological replicates 10 larvae per biological replicate n 5 for each group.p 0.05 p 0.01 p 0.001 p 0.0001. ns  not significant.imi exposed d. melanogaster respond similarly to heat stress as imd pathway mutants.
+
+imi exposure resulted in significantly increased pathogen burden at 6 12 and 24 h t tests t  2.083 df  35 p  0.0446 and t  5.629 df  24 p  0.0001 and t  2.504 df  23 p  0.0198 respectively fig.
+
+p 0.05p 0.01 p 0.001 p 0.0001.lp39 supplementation mitigates imi-induced d. melanogaster survival deficits following infection.
+
+p 0.01 p 0.001 p 0.0001.findings are suggestive of a potentially altered immune function as commensal-gut mutualism is dependent on antimicrobial peptide regulation by the innate immune system .
+
+t tests t 5.933 df  28 p  0.0001 and t 6.734 df  28 p  0.0001 respectively compared to vehicle controls fig.
+
+this suggested that imi could be affect- ing the innate immune function of d. melanogaster and thus their ability to regulate microbiota populations.it was found that antibiotic-treated wt flies exposed to lethal concentrations of imidacloprid 100 um had significantly increased overall survival log-rank mantel-cox chi-square  25.54 p  0.0001 and less early time point deaths gehan-breslow-wilcoxon test chi-square  27.09 p  0.0001 in comparison to wt vehicle flies exposed to imidacloprid but not treated with antibiotics supp.
+
+rel-- mutants exposed to 100 um imidacloprid followed a similar trend with antibiotic treated flies having significantly increased overall survival log-rank mantel-cox chi-square  11.75 p  0.0006 and reduced early time point deaths gehan-breslow-wilcoxon test chi-square  10.21 p  0.0014 compared to flies not treated with antibiotics.
+
+rel-- flies exhibited significantly reduced overall survival log rank mantel-cox chi-square  163.6df  1 p  0.0001 and more early time point deaths gehan-breslow-wilcoxon test chi-square  127.9 df  1 p  0.0001 when exposed to 100 um imi compared to wt canton-s flies fig.
+
+hop2-- flies also exhibited significantly reduced overall survival log rank mantel-cox chi-square 26.39 df  1 p  0.0001 and greater early time point deaths gehan-breslow-wilcoxon test chi-square  15.95 df  1 p  0.0001 when exposed to 100 um imi compared to background fm7a flies fig.
+
+upd1-- flies had significantly reduced overall survival log rank mantel-cox chi-square  10.91 df  1 p  0.0010 and greater early time point deaths gehan-breslow-wilcoxon test chi-square  4.789 df  1 p  0.0286 when exposed to 100 um imi compared to background w1118 flies.
+
+upd23-- flies showed a trend of greater early time point deathsgehan-breslow-wilcoxon test chi-square  2.012 df  1 p  0.1561 but not in overall survival log-rank mantel-cox chi-square  0.0355 p  0.8506 compared to background w1118 flies fig.
+
+rel-- mutant larvae demonstrated signifi- cantly impaired eclosion when exposed to both 1 um and 10 um imi mann-whitney tests u 0.5 p  0.0091 and u  1 p  0.0013 respectively compared to canton-s larvae fig.
+
+hop2-- mutant larvae also had significantly impaired eclosion at 1 um and a trend towards impairment at 10 um imi exposure concentra- tions mann-whitney tests u  0.5 p  0.0043 and u  12 p  0.0549 respectively compared to background fm7a larvae fig.
+
+following heat stress rel-- mutant flies had significantly shorter overall survival log rank mantel-cox chi-square  79.51 df  1 p  0.0001 and more early time point deaths gehan-breslow-wilcoxon test chi-square  60.25 df  1 p  0.0001 compared to wt canton-s flies fig.
+

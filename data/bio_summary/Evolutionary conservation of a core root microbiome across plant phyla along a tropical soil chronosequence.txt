@@ -1,0 +1,30 @@
+by contrast the root communities of non-angiosperms are poorly characterized to our knowledge only a few studies describe the root communitycomposition of non-seed and non-flowering plants-.here we extend the scope of plant host lineages to non-seed lycopods and ferns and seed plant phyla gymnosperms and angiosperms through investigation of the root microbiomes of 31 plant species in 25 families and 19 orders.
+
+with evidence that plant age can affect root microbial communities all sampled plants were mature individuals of perennial or biannual species.we collected 470 samples 235 root and 235 associated bulk soil from 31 plant species across six plant communities fig.
+
+from these comparisons we predict that a global core set of plant root microbiota will be considerably more restricted than the list provided in the present study table and supplementary table 3.conclusionwe identified significant correlation between root community composition and host phylogeny in a survey encompassing plant species from multiple plant phyla growing in close proximity.
+
+article doi 10.1038s41467-017-00262-8openevolutionary conservation of a core root microbiome across plant phyla along a tropical soil chronosequenceyun kit yeoh1 paul g. dennis2 chanyarat paungfoo-lonhienne2 lui weber3 richard brackin2 mark a. ragan4 susanne schmidt2  philip hugenholtz1culture-independent molecular surveys of plant root microbiomes indicate that soil type generally has a stronger influence on microbial communities than host phylogeny.
+
+the chosen chronosequence has a phylogenetically diverse flora composed of ancient and modern plant lineages and a con- siderable overlap of plant species between communities facilitat- ing the goal of distinguishing host and soil determinants of root microbial communities.
+
+relationships among the major plant phyla are indicated by a cladogram to the left of the figurewere also largely comparable between plant orders except for the eudicot dilleniales hibbertia scandens with consistently lower scores relative to other eudicots supplementary fig.
+
+the significant correlation found in the present study between root-associated bacterial communities and hostphylogeny across a wide range of plant species suggests that root microbiomes have evolved with their plant hosts at least since the divergence of lycopods 400 million years ago.
+
+please see supplementary table 3 for full table showing relative abundances by individual plant phyla and otus without genus classification.please see supplementary tables 4 and 5 for list of root-associated otus based on stamp and splsda respectively.order ellin329 and order fw68 in the phylum armatimonadetes supplementary table 3. members of these lineages have been detected in soil habitats  but not specifically associated with plant roots.
+
+these findings suggest that a core root bacterial community was established before the evolution of modern plant lineages and root-associated bacterial communities have evolved with their plant hosts.
+
+the chronosequence exhibits progressive and retrogressive vegetation succession from which we selected multiple plant species representing diverse lineages of the plant kingdom.
+
+the rainforest plant community receives similar rainfall but differs in rarity orabsence of fire compared to the other fire-prone sclerophyll plant communities.sample collection.
+
+here we examine the root microbiomes of multiple plant phyla including lycopods ferns gymnosperms and angiosperms across a soil chronosequence using 16s rrna gene amplicon profiling.
+
+we confirm that soil type is the primary determinant of root-associated bacterial community composition but also observe a significant correlation with plant phylogeny.
+
+surveys of root microbiomes associated with angiosperms such as arabidopsis thaliana  maize oak barley rice lettuce and sugarcane typically reveal actinobacteria and proteobacteria as the dominant phyla suggesting that certain members of these lineages may be con- sistently enriched in the plant root environment.
+
+plant host phylogeny is a secondary factor influencing root microbial community compo- sition and the effect size appears considerably smaller than soil type as was demonstrated with arabidopsis ecotypes .
+

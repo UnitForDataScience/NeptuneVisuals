@@ -1,0 +1,30 @@
+the n-terminal part of relish then translocates into the nucleus to activate transcription of genes including those coding for immune effectors amps such as diptericin dpt and negative regulators of the pathway including pirk poor imd response upon knock-in  and the amidase pgrp-lb   .regulation of the imd pathwayefficient bacterial sensinghow the immune elicitor pgn is efficiently presented to the respective receptors to initiate a robust immune response is under active investigation.
+
+tightly adjusting the in- tensity and duration of the immune response in a way to match the level of host immune activation to the level of immune stimulus enables flies to simultaneously prevent infection by pathogenic microorganisms and also tolerate the endogenous flora  .
+
+of note not only immune effectors amps but also immune regulators pgrp- lbscs pirk pgrp-lf and rpgrp-lc are induced upon an immune challenge indicating that they are likely direct relish transcrip- tional targets.
+
+addressing these questions will be of great interest to understand relish-mediated defense responses including aspects of both immune activation and phys- iological adaptation.furthermore investigating the molecular cascade leading to nfkb activation in the absence of bacterial immune elicitors will be of great significance to understand the roles of relish in non- immune organs  particu- larly in neuropathology.
+
+results obtained in flies not only saw drosophila immune research prosper but also shaped invertebrate immune research at large and informed mammalian innate im- munity  .bacterial sensing in drosophila is mediated by two evolutionarily conserved nfkb pathways toll and imd signaling.
+
+these studies are thus consistent with the notion that microbiota can act through the imd immune system to promote both immune and non-immune func- tions.
+
+these results collectively indicate that constitutively active immune signaling either due to age-related immune-senescence or loss of host ge- netics factors can lead to gut dysbiosis.alterations in gut microbiota have been shown to precede andpredict the onset of intestinal barrier dysfunction in aged flies further leading to systemic immune activation and organismal death .
+
+several studies have also connected relish- dependent immune activation with neurodegeneration in drosophila  .neuronal expression of amyotrophic lateral sclerosis als disease-causing proteins tdp-43tbph and fus induces strong immune activation amp induction in drosophila brain.
+
+nevertheless the implication of immune activation in neurodegeneration is not limited to imd signaling since the toll pathway has also been reported to mediate neuro- degeneration in a fly model of alzheimer's disease .lifespancompromised immune response leads to bacterial overload and penetration into the body cavity leaving flies unprotected and highly susceptible to infection .
+
+this suggests that the immune response can have a systemic effect to remotely modulate neuron activity that promotes sleep.future perspectivesover the last 20 years considerable progress has been made in identifying the components of the imd pathway and in elucidating the sophisticated mechanisms that enable efficient bacterial recognition and clearance while preventing excessive immune re- sponses.
+
+ebeyond immunity the imd pathway as a coordinator of host defense organismal physiology and behaviorzongzhao zhai    xiaoshan huang  yulong yin  a changsha medical university 410125 changsha chinab animal nutrition and human health laboratory school of life sciences hunan normal university 410081 changsha hunan chinaa r t i c l e i n f o article historyreceived 30 september 2017 received in revised form10 november 2017accepted 13 november 2017 available online xxxkeywordsinnate immunity nfkb signaling imd pathway microbiotanon-immune functiondrosophilaa b s t r a c t the humoral arm of host defense in drosophila relies on two evolutionarily conserved nfkb signaling cascades the toll and the immune deficiency imd pathways.
+
+understanding the multifaceted physiological outputs of imd activation will help integrate its immune role into the regulation of whole organismal physiology.c 2017 elsevier ltd. all rights reserved.introductionthe fruit fly drosophila melanogaster lives in an environment enriched with microbes and has evolved robust means to recog- nize pathogens and to combat bacterial infection  .
+
+the identification of two nfkb signaling pathways namely the immune deficiency imd and toll pathways which control the transcriptional activation of respective amp encoding genes in response to infection   greatly advanced the mechanistic understand- ing of innate immunity.
+
+in contrast imd the founding member of imd signaling was directly identified for inducing immune responses   and the imd pathway has since been almost exclusively characterized for innate immunity.
+
+we propose that the imd immune pathway through directing the dialogue between residing bacteria and the host may well act as a central regulator to integrate host defense whole organismal physiology and animal behavior.the core imd signaling pathwaythe imd pathway is triggered by the recognition of dia- minopimelic acid dap-type peptidoglycan pgn from the cell wall of gram-negative bacteria and bacillus species.
+

@@ -1,0 +1,30 @@
+there is a significantly more otus in caecum samples regardless of mouse genotype and treatment compared to otus from bal samples from ova treated mice wilcoxon test p  0.001.the gut microbiotas from ova treated mice cluster together  slightly separate from the control animals regardless of genotype in a statistical significant manner anoism r  0.100 p  0.038. so we investigated which otus from the gut microbiota that discriminated between control and ova sensitized and challenged mice.
+
+our results are in support of those previous data and suggest that pulmonary inflammation can alter the composition of the gut microbiome through yet unidentified pathways.conclusionsthe sp-d deficient genotype does not cause alterations to the microbiota that interfere with the use of the sp-d deficient mice for immunological research.
+
+in this study we investigate for the first time microbiota of sftpd-- and sftpd mice in ovalbumin ova induced airway allergy using illumina 16s rrna gene sequencing.resultswe have used ngs 16s rrna gene sequencing to describe lung and gut microbiota of the sp-d mouse model under ova induced allergic airway disease.sequence quality and overall microbial communitiesafter sequence retrieval and initial data treatment 869802 reads were divided into 697 operational taxonomic units otus with a median sequence distribution of 13685 sequences per sample.
+
+in the bal the bacterial community were composed of actinobacteria firmicutes proteobacteria and bacteroidetes together with fusobacteria.the microbial communities do not change with the sp-d deficiency but ova sensitization and lung challenge alters caecum community compositionas demonstrated previously ova sensitization and challenge induced an allergic phenotype in the c57bl6 n mice with more pronounced mucous cell metaplasia in sftpd-- mice compared to sftpd littermates .
+
+recently we have shown that induction of ova- induced allergic airway disease itself had a profound effect on the lung microbiome in a vitamin d deficient mouse balbcj model .the role of sp-d in regulation of the gut and lung microbiome composition in the setting of pulmonary allergy has not previously been investigated.
+
+the protein is involved in pulmonary immunity due to lysis opsonization neutralization agglutination complement activation enhanced phagocytosis of diverse microbes            and the sp-d deficient sftpd-- lung is characterized with inflammatory and structural lung changes resulting in altered lung mechanics   .
+
+ova- sftpd -- and ova treated groups ova sftpd-- ova sftpd wild type ova- sftpd animals without ova exposure have the largest variation between mice kruskal- wallis test p-value  1.32e-07.within the otus from bacterial family of lachnospiraceae but also species within family ruminococcaceae and the genus of helicobacteraceae contribute.the lung microbiota under ova conditionsthe lung microbiota  is clearly separate from the gut as seen in  and .
+
+barfod m. roggenbuck.1 these authors contributed equally to this work.abstractbackground sp-d is an important host defense lectin in innate immunity and sp-d deficient mice show several abnormal immune effects and are susceptible to allergen- induced airway disease.
+
+published by elsevier ltd. this is an open access article under the cc by license results we describe here for the first time the lung and gut microbiota of the sp-d mouse model with ova induced allergic airway disease.
+
+a significant community shift in gut microbiota was observed after challenge with ova compared to naive mice but the microbial communities of the cohoused mice were not significantly different according to mouse genotype.
+
+such observation were recently supported by studies demonstrating that gut microbiota modulated by the presence of intestinal helminths increases in scfa producing species and scfa production and that transfer of the modulated gut microbiota in itself can mediate protection against induced allergic asthma in mice .
+
+we have previously shown that ova treatment in itself has a clear impact on the lung microbiota in wildtype balbcj mice .our results on gut microbiota show that the naive wild type has the largest variation in otus within the experimental groups.
+
+however recent results obtained using airway lps administration or the house dust mite hdm model of allergic airway disease in mice showed that the resulting lung inflammation changed the bacterial composition of the gut  .
+
+moreover airway inflammation and allergic asthma is associated with increases in sp-d levels in bronchoalveolar lavage fluids tissue and blood in animal models as well as in human patients linking sp-d to disease responses .
+
+however the microbial communities were not significantly different between sp-d deficient and wild type mice from the same cages in either naive or ova treated animals.
+

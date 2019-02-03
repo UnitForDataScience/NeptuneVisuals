@@ -1,0 +1,30 @@
+within each sampling location significant correlations were observed at all places except in assam r  0.69 p  0.003 padj cutoff  0.001. when the populations within each geographic region were compared samples from jammu  kashmir and uttarakhand in north india were correlated r  0.8 p  8.14 x 10-10. in the east region jharkhand and west bengal showed significant correlation r  0.89 p  3.6 x 10-18 while the samples from assamwere neither correlated to jharkhand r  0.77 p  0.013 padj cutoff  4.66 x 10-4 nor with west bengal r  0.77 p  0.01 padj cutoff  3.59 x 10-4. in south india andhra pradesh and telangana samples were significantly correlated r  0.84 p  2.94 x 10-5. however samples from tamil nadu were not correlated to either andhra pradesh r  0.75 p  0.003 padj cut- off  4.6 x 10-4 or telangana r  0.74 p  5.33 x 10-3 padj cutoff  3.88 x 10-4. finally upon comparing samples between regions only a subtle pradesh r  0.75 p  0.003 padj cut- off  4.6 x 10-4 or telangana r  0.74 p  5.33 x 10-3 padj cutoff  3.88 x 10-4. finally upon comparing samples between regions only a subtle correlation among north and south india was observed r  0.79 p  2.5 x 10-5 padj cutoff  6.6 x 10-5 overall the samples showed slightly higher correlations within the regions in comparison to the correlation across samples belonging to different geographical regions.interactions between bacterial generapartial correlation analysis was carried out to address the extent of interactions between bacte- rial genera based on their relative abundance .
+
+subsampling an equal number of reads from the alaskan german african and indian data followed by rare- faction analyses  showed that fewer bacterial genera were observed in the indian popu- lations than in the others 39 genera in the indian population compared to 39 43 and 46 genera in alaska germany and africa respectively.discussionthis study describes the salivary microbiome composition in 92 samples from eight different locations comprising three major geographic regions in india.
+
+finally we observed enrichment of a few bacterial genera in some of the populations including atopobium megasphaera and prevotella in the tamil nadu samples streptobacillus and bacillus in the telangana samples and stenotrophomonas in the uttarakhand and assam samples.
+
+in particular megasphaera was found to be considerably lower in fre- quency in the east indian populations whereas stenotrophomonas was significantly lower and neisseria and streptobacillus significantly higher in samples from south india.correlation among the samples based on shared bacterial generato measure the degree of overlap in the salivary microbiome in these samples the correspond- ing correlation coefficients among all pairs of samples correcting for multiple comparisons were calculated.
+
+was found to be highly abundant 14 in a few samples from the assamese population east india otherwise the frequency reached about 1.5 in uttarakhand and less than 0.04 in all other populations.upon comparing the proportion of the common bacterial genera greater than 0.05 in at least one population several bacterial genera including gemella moryella stenotrophomonas and streptobacillus were found to occur in varying abundance in different populations  .
+
+a corre- sponding plot is shown in .to further explore the differential occurrence of bacterial genera in the salivary microbiome of indian populations we carried out an analysis of similarity anosim based upon the fre- quency of bacterial genera among the samples.
+
+although detailed information about the food habits of the participants in the current study was not recorded substantial sharing of the bac- terial genera suggests a minimal effect of any variation in the diet on the salivary microbiome.as the samples displayed relatively high homogeneity of microbial genera and did not clus- ter entirely by geography the current study is in agreement with a previous study  which suggested a minimal correlation between geographic distances among populations and the corresponding salivary microbiome composition.
+
+for calcu- lating indices across three geographic regions we took nine random samples from jammu kashmir and uttarakhand to represent north india six samples each from jharkhand west bengal and assam to represent east india and six samples each from andhra pradesh telan- gana and tamil nadu to represent south india.
+
+the details of the experimental variables at each sampling location are mentioned in .to identify the bacterial genera not reported in the human oral microbiome database homd a threshold of 90 sequence identity was set to correctly identify the genera.
+
+the number of processed reads and the corresponding counts of bacterial genera and otus detected in each of the populations are shown in  and the distribution of major bacterial genera repre- sented as pie charts across the sampling locations is shown in .
+
+the 54 otus could be grouped into 24 genera assuming a threshold of 90 sequence identity for genera assign- ment nine of these were not reported in the homd viz.
+
+we observed approximately 15.5 difference across the geographic locations p  0.001. based on both genera distribution and unifrac metrics on otu abundances small but significant differences in the microbiome composition were observed across the geographical locations.comparison with previous studieswe compared the bacterial genera richness observed in this study to that reported previouslyfrom three worldwide populations from alaska germany and africa.
+
+we observed 165 unique bacterial genera and 785 different otus which was higher than those found in other world populations including africans  where up to 127 bacterial genera were observed.
+
+we further show that these otus were in fact significantly less abundant than other genera further indi- cating the contribution of sequencing depth in detecting the novel bacterial genera in the cur- rent study.
+
+bacterial genera with at least 1 abundance in a sample are represented in each column while individuals n  92 are clustered according to their relative distribution of bacterial genera.
+

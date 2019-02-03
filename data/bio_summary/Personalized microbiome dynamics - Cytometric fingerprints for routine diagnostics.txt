@@ -1,0 +1,30 @@
+in this way also complex microbial communities can be characterized in a simple and rapid way  and the state and dynamics of these communities interpreted as marker for healthy and disturbed ecosystems  .in the following sub-chapters the general procedure of micro- bial flow cytometry and cytometric fingerprinting is described including routine laboratory as well as data analysis procedures which are also applicable to human associated microbial samples.microbial flow cytometrymost microbial samples are suitable for cytometric character- ization and an established step-by-step protocol with several var- iants for specific sample requirements e.g.
+
+altogether there are no methodological limitations regarding data analysis and the result matrices can be introduced into established routines available for microbial ecology.cell sortingsegregated microbial community data in combination with a functional interpretation can be used to identify the functional relevant subcommunities in a microbial community.
+
+in this way the cytometric mea- surement represents a specific cytometric fingerprint of a particular microbial community structure at the time point of sampling representing the variety of cells with different optical characteris- tics as well as their abundance and being representative of the state of the microbial community.
+
+these differences can be further visualized with multidimensional scaling to decipher general trends in the community dynamics  g. while the dissimi- larity value between two samples does not represent the source of the difference being either the result of many small differences over the complete microbial community or a drastic change in a single subcommunity this question can be answered with segre- gated analysis provided by other analyzing tools.segregated microbial community analysis is realized with flowcybar .
+
+1. the routine procedure for microbial flow cytometry is widely applicable and comprises the following steps a sampling of the microbial community.
+
+therefore microbial community cytometry may become increasingly comparable and competitive for routine diagnostics as the method can easily provide summation records on dynamic trends in community evolution while being inexpensiveand rapid in application.while a wide range of measures for the diversity of microbial communities is at hand e.g.
+
+microbial cytometry is highly applicable to fast dynamics and thus predes- tined to detect fast structural variations and changes in stability states overcoming detection gaps frequently transpiring when sequence based technologies are applied.examplesdiscussed two different ecological principles on how microbial communities may evolve in the gut.
+
+15 04318 leipzig germanya r t i c l e i n f o article historyreceived 7 april 2017 received in revised form 26 june 2017accepted 28 june 2017available online 8 july 2017keywordsmicrobiomemicrobial flow cytometry single cell analysis microbial ecology human gut microbiomea b s t r a c t microbiomes convoy human life in countless ways.
+
+with the growing demand for on-time community assessment and monitoring of its dynamic behavior with high resolution alternative high-throughput methods such as microbial com- munity flow cytometry come into focus.
+
+published by elsevier ltd. this is an open access article under the cc by-nc-ndlicense .introductionthe human meta-organism consists of eukaryotic human cells as well as a significant share of cells of microbial origin  .
+
+these trillions of microbial cells repre- sent our individual human microbiome and contain up to 300-fold more unique genes then the human genome  .
+
+published by elsevier ltd. this is an open access article under the cc by-nc-nd license .107 cfu ml-1 saliva of lactobacillus species   or up to 109 bacteria ml-1 saliva  and is the most variable body site regarding microbial community composi- tion over time .
+
+while the presence of a specific antibiotic marker or virulence is well targeted with sequencing based technologies  the demand for rapid and high-throughput microbiome monitoring can be perfectly met with microbial flow cytometry.
+
+neither 16s rrna gene affiliation  gene association studies  expression profiles of genes  or metaproteomes  are given by microbial flow cytometry.
+
+instead cellular characteristics such as morphology and physiology are recorded which describe the state of a microbial community being determined by its cytometric diversity and function.
+

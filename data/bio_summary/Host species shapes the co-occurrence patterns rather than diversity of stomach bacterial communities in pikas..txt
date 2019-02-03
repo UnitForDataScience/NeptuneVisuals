@@ -1,0 +1,30 @@
+a low level of centralization of betweenness is a result of low frequency of centralized node color figure onlinetable 2 the taxonomic identification of putative keystone species in the networks of pika bacterial communitiespika speciesotuidtaxonomyaverage relative abundance aabundance rankingbnodes typezipidaurian pikasotu8937clostridiales fir0.024360thmodulehubs3.90otu3315ruminococcaceaefir0.033243thmodule hubs3.380.26fir firmicutes bac bacteroidetesa the average relative abundance of the otu in each pika speciesb the abundance ranking of the otu in each pika species according to the order from high to lowdiscussionour data revealed that the pika stomach harbors a diverse bacterial community dominated by bacteroidetes firmicutes and proteobacteria indicating similar overall compositions of stomach bacterial communities at phylum level as previously described in other mammalian hosts such as humans bik et al.
+
+in gener- al the mammalian stomach is typically considered as a harsh environment for bacterial growth and development due to low ph values beasley et al.
+
+interestingly host species shapes the microbial interactions rather than diversity of stomach bacterial commu- nities in pikas reflecting specific niche adaptation of stomach bacterial communities through species interactions.keywords bacterial community .
+
+in other words when the group wj was removed host species and sampling sites as well as seasons had no significant impacts in shaping the alpha diversity of pika stomach bacterial communities one-way anova p  0.05.the beta diversity of stomach bacterial communitiesprincipal coordinate analysis pcoa was used to reveal the structural segregation of pika stomach bacterial communities between host species sampling sites or seasons fig.
+
+the individuals in cluster ii showed higher phyloge- netic diversity and shannon diversity than those in cluster i one-way anova both p  0.001.network analysis of bacterial communities and putative keystone taxato understand the microbial interactions of pika stomach bacterial communities the bacterial network of each pikaspecies was constructed fig.
+
+for each sample pcr amplification was performed in duplicate using the universal primer pairs 515f909r which can amplify the v4-v5 region of bacterial and archaeal 16s rrna tamaki et al.
+
+finally the phylogenetic tree was visualized using the figtree v1.4.2 rambaut .statistical analysisin order to compare the differences of stomach bacterial communities between host species seasons or sampling sites analysis of similarity anosim was used to test the significant differences of microbial community struc- ture using the procedure banosim in the r bvegan package warton et al.
+
+one-way anal- ysis of variance anova and turkey's post hoc tests were used to test the differences in relative abundances of these taxonomic units and alpha diversity measures among different groups.network analysis and identification of putative keystone taxa in pika stomachsin order to understand the co-occurrence interactions of stomach bacterial communities between daurian and plateau pikas phylogenetic molecular ecological net- works pmens  were constructed based on the otus from the 16s rrna gene sequences using random matrix theory rmt- based methods deng et al.
+
+recent studies have shown that these four bacterial gen- era were dominant microbes in pikas' cecum li et al.
+
+further research is needed to demonstrate this hypothesis.a lower average clustering coefficient signifies that the bacterial network is mainly composed of relatively isolated nodes or loose node groups reflecting lower functional redun- dancy sun et al.
+
+however the topological features of our networks relied on sequencing depth and a data pro- cessing method by only retaining otus that were present in more than half of all samples these data processing methods may influence the topological features of the bacterial networks.in conclusion this study described the compositions diver- sity and structure of bacterial communities in wild pikas.
+
+co-occurrence patternsintroductionthe mammalian stomach plays a critical role in the break- down of food the denaturation of certain protein and the prevention against pathogen infection adbi  tennant et al.
+
+the composi- tion of the stomach microbial community has been inves- tigated in various mammalian species including human bik et al.
+
+horse perkins et al.
+
+and woodrat kohl et al.
+

@@ -1,0 +1,30 @@
+this effect was stronger in the proximal colon for the hf diet and in the distal colon for the hp diet.
+
+clostridium cluster xiva enterococci bacteroides and enterobacteriaceae.finally during the experiment we analyzed the structureof the various communities by investigating the network offigure 3. relative abundance  of the main bacterial phyla in samples collected from the proximal and distal colon compartments of the 2 shime arms hf  high-fiber diet hp  high-protein diet after the start-up period and prior to the subdivision of each arm in ns and ms reactors.
+
+suggested level of mutualistic interactions for each network is summarized in table 3. in all cases with the exception of the distal colon in presence of a hp diet the addition of mild stress led to a decrease of the number of positive interactions ns versus ms in table 2. in presence of the hf diet the total number of positive interactions in the proximal colon--when exposed to acute stress--increased in absence nss or presence mss of the exposure to the mild stress of 63 and 250 respectively.
+
+in presence of the hp diet this trend was different as compared to the hf diet.
+
+this transient peak in ammonium occurred 1 day after the stress in pres- ence of hp diet up to 500 mgl in the dc and 2 days after the stress in presence of the hf diet up to 400 mgl in the dc.figure 6 shows the opls score plot output of the total dataset of the untargeted metabolomic fingerprints of the proximal fig.
+
+finally metabo- lites with a possible negative impact on human health such as indole and cadaverine were preferentially produced in presence of the hp diet while higher levels of glucose were correlated with a hf diet.
+
+4 and 5hpnsnssmsmss pc129745910911312dc2076606421171837hf high-fiber diet hp high-protein diet pc and dc proximal and distal colon compartments.
+
+12. in the simulated colon compartments different diets se- lected for different numbers of positive interactions and taxa tables 2 and 3. scientific literature has already shown that long-term diets rich in protein and animal fat are associated-- in controlled-feeding study--with enterotypes rich in levelsof bacteroides 4 while a diet high in fiber content has been correlated with a decrease in the levels of firmicutes and an enrichment in prevotella 41. in our study the high-fiber diet led to a higher number of interactions in the proximal colon main area of fiber fermentation and the preexposure to a mild stress further boosted the number of positive interac- tions under acute stress.
+
+finally in presence of a hf diet and when focusing on scfa the gut microbiota showed a higher resilience as compared to the hp diet both in the proximal and distal colon fig.
+
+the effect was stronger and faster with the hp diet as the ammonium production in presence of protein is higher as compared to a diet which favours a saccharolytic fermentation i.e.
+
+moreover the hf diet was characterized by a higher produc- tion and stability of scfa and a quicker recovery after the acute stress as compared to the hp diet.
+
+pc for hf diet and dc for the hp diet.
+
+independently of the diet the sudden exposure to an acute stress led to a modification of the microbial community structure selecting for species belonging to bacillus spp.
+
+different diets shaped different gut microbial communities which ecologically behaved similarly under stress conditions.keywordsreceived february 15 2016revised may 29 2016accepted june 16 2016antibiotic  functionality  gastrointestinal tract  shimeqr  stressadditional supporting information may be found in the online version of this article at the publisher's web-siteintroductionthe human body and especially the gastrointestinal tract git host a highly complex microbial community which is deeply involved in influencing several health-associatedcorrespondence prof. tom van de wielee-mail abbreviations git gastrointestinal tract hp high-protein hf high-fiber ms mild stress pca principal component analysis scfa short-chain fatty acid shime simulator of the human in- testinal microbial ecosystemparameters 1. as for any other environment several abiotic and biotic factors normally concur in shaping the structure and composition of these communities which on their side can reach high levels of organization by means of specific interactions cross-signalling cross-feeding and aggregation 2 3. for the git a key factor is the diet which is known to have an effect on the composition of the gut microbial com- munity and on its functional stability i.e.
+
+19. four modified shime systems were run in parallel each consisting of a succession of 1 reactor per diet simulating stomach and small intestine temporal succession and 2 proximal pc and distal dc colon compartments fig.
+

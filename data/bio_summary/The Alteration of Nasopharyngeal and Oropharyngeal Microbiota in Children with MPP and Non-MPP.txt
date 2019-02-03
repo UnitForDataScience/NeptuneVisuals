@@ -1,0 +1,30 @@
+association analysis indicates that pneumonia onset is the most significant factor p-value  0.001 table s2 in explaining variations in microbial samples.op and np microbiota of patients differ significantly from that of healthy childrengenerally bacterial diversity in np is lower than in that of op for all children while the diversity of np and op microbiota in patients is also lower than in that of healthy children figure a. np and op microbiota analysis could clearly separate healthy and diseased samples figure bc.figure 1. nasopharyngeal np oropharyngeal op microbiota structure in pneumonia patients and healthy children.
+
+the circle size represents the relative abundance and the density of the dashed line represents the spearman coefficient.np and op microbiota pattern of inpatients have an increased similarity to each othercompared to healthy children the dissimilarity of np and op microbiota in patients is considerably smaller figure a. further analysis indicates that all samples can be clustered into fourmain groups figure b. np and op samples of diseased children are contained in the same cluster.
+
+in this study we would like to answer two questions 1 how does the np and op microbiota and the microbiota transmission in urts of chinese children with pneumonia differ from that of healthy children2 are mycoplasma pneumoniae pneumonia mpp and non-mpp infections associated with different np and op microbiota alterationsmaterials and methodsethical approvalthis study was approved by the ethical committee of shenzhen children's hospital with registration number 2016013. all the guardians of recruited children provided their informed consent.
+
+and  represent q-value  0.05 0.01 and 0.001 respectively.firmicutes predominates both in op and np microbiota of all children but accumulates significantly in pneumonia patients op 63.55 vs. 47.05 in healthy children q-value  0.001 np 72.09 vs. 43.06 in healthy children q-value  0.001 table s3.
+
+respiratory pathogens intrude greatly on the respiratory tract through multiple virulence factors - and evade the immune response of the host  which can induce a proliferation of pathogens and may explain the simpler np and op microbiota structure of patients .in addition we observe a higher similarity between np and op microbiota in patients which can be explained by a robust intrusion of pathogens through the nasal cavity and the transmission from np to op and lung .
+
+proteobacteria accounts for a lower proportion of np and op microbiota in patients in comparison with healthy children although this does not have statistical significance.at genus-level mycoplasma staphylococcus lactobacillus ralstonia acinetobacter and actinomyces amass significantly in both the np and op microbiota of inpatients while prevotella is particularly enriched in healthy children figure d table s4.
+
+by contrast bacteroidetes are enriched in the op and np microbiota of healthy children op 19.64 vs. 5.34 q-value  0.001 np 7.54 vs. 0.84 q-value  0.001 table s3.
+
+np samples in healthy children are separated into two clusters except for the sample h-8 which is assigned to the op cluster of healthy children.figure 3. dissimilarity and clustering of np and op samples.
+
+identical with np microbiota the op microbiota of diseased children also features a simpler concurrent network when compared to healthy children figure .figure 2. co-occurrence network of npop microbiota in pneumonia patients and healthy children.
+
+in pneumonia patients np and op microbiota showed greater similarities between each other suggesting transmission of np microbiota to the op.
+
+a shannon index of np and op microbiota in patients and healthy infantsb principal components analysis pca of np samples purple triangles stand for healthy controls and dark green triangles stand for pneumonia subjects c principal components analysis pca of op samples red triangles stand for healthy controls and yellow triangles stand for pneumonia subjects d comparison of dominated genera between npop microbiota of patients and that of healthy infants.
+
+nasopharyngeal np and oropharyngeal op sampling was performed for 16s ribosomal rna 16s rrna gene analysis of all children.
+
+results both the np and op microbiota of patients differ significantly from that of healthy children.
+
+furthermore the clustering of urts microbiota in patients with pneumonia or bronchiolitis held the potential to predict disease severity as a previous study demonstrated that the high relative abundance of either lactobacilli rothia or s. pneumoniae was related to a high pneumonia severity index psi .previous research indicated different np and oropharyngeal op microbiota between healthy and diseased children .
+
+a two-year prospective study suggested that the transmission of imbalanced microbiota between the np and op of diseased children held the potential to further trigger lung infection .
+

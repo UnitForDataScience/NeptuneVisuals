@@ -1,0 +1,30 @@
+although b. fragilis acquisition by humans is likely to occur dur- ing development and in the context of myriad other microbes existing murine models have relied on gnotobiotic systems or antibiotic control to enable b. fragilis colonization.
+
+moreover quantification of b. fragilis colonization over time may prove challenging if b. fragilis cannot be read- ily distinguished from the spf fecal flora possibly requiring culture-independent methods of quantification.moreover to test the hypothesis that ecological perturbations underlie host-commensal driven dis- ease animals lacking genes required for structuring the enteric ecosystem will also be critical.
+
+fragilis shows self-exclusion in a mouse model of competitive colonization in which a challenge inocu- lum fails to colonize the gut after initial engraftment of the same strain dependent on the commensalfigure 1. bfpai locus deletion impairs fitness during competitive secondary colonization.
+
+future work will be required to determine which elements in the pathogenicity island arerequired for enhanced secondary colonization and if these factors directly impact on the competing organ- ism or have an indirect effect by modifying the colonic environment through host signaling.the pathogenicity island-encoded bacteroides fragilis toxin is regulated by environmental cuesas we found bfpai to be advantageous for secondary colonization in vivo we examined conditions affect- ing bft regulation in vitro to understand the host niche for which it may be adapted.
+
+mice colonized with a non-toxigenic b. fragilis ntbf strain were protected against colonization with etbf and rescued from enteric disease.
+
+together with a bfpai-dependent advantage during competitive colonization these data revealing envi- ronmental regulation of bft indicate b. fragilis may fit within such a paradigm.conclusiondeletion of bfpai in etbf atcc 43859 eliminates this strain's ability to successfully compete in vivo against an initial colonizing ntbf strain tm4000.
+
+stable b. fragilis colonization of the specific pathogen-free spf mouse requires antibi- otic decolonization of the gut a treatment program that necessarily prevents analysis of complex host- microbe-microbiome interactions.
+
+in this view colonization resistance and virulence are not isolated properties of the host or microbe but an emergent property of the interaction between host microbe and microbiome.animal modeling of complex colonization events with toxigenic organisms are required to investigate this hypothesis.
+
+moreover a sec- ond etbf strain atcc 43858 is prevented from invading the microbiota of mice colonized with tm4000 despite an intact bfpai.the high degree of strain specificity in sequential colonization illustrates that differential encoding of genetic elements in the secondary strain can have an impact on colonization outcomes.
+
+early life colonization with etbf may therefore be a key event in shaping the adult microbiome and represents an untapped opportunity for probiotic therapy.genetic determinants of virulence and competition may depend on experimental modeltesting these predictions requires novel animals models of colonization and competition.
+
+murine models are needed that facilitate a detailed examination of early neona- tal colonization in a developing and complex micro- bial environment including potentially importantevents that govern durable colonization such as birth suckling and weaning.
+
+4 374-383addendumthe bacteroides fragilis pathogenicity island links virulence and strain competitionbenjamin w. casterliney aaron l. hechty vivian m. choi and juliane bubeck wardenburgyyadepartment of microbiology university of chicago chicago il usa binterdisciplinary scientist training program university of chicago chicago il usa cdepartment of pediatrics university of chicago chicago il usaarticle historyreceived 2 november 2016 revised 21 january 2017 accepted 30 january 2017keywordsbacteroides competition pathogenesis secretion toxinintroductionthe identity and function of specific factors that deter- mine composition of the commensal gut microbiota is an enduring question in medicine and microbiology.
+
+however bacteroides fragilis toxin bft does not fit neatly within this paradigm.
+
+bft is a metalloprotease encoded on a transposable element denoted b. fragilis pathogenicity island bfpai.
+
+bft has been most extensively characterized in models of pathogenesis as its expression in enterotoxigenic b. fragilis etbf is associated with childhood diarrhea and colon cancer.in vitro intestinal epithelial cell intoxication with bft leads to e-cadherin cleavage loss of cell adhesion and secretion of inflammatory signaling molecules.murine etbf monocoloniza- tion stimulates a bft-dependent activation of stat3 in immune and epithelial cells followed by infiltration of t cells expressing il-17.in response to this injury neutrophil recruitment controls microbial transloca- tion while stat3 activation leads to il-22-driven epi- thelial regeneration antimicrobial peptide secretion and mucus glycosylation.
+

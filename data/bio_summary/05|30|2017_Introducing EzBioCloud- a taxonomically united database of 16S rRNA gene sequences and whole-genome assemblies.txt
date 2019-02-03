@@ -1,0 +1,30 @@
+as in the case of the 16s rrna gene the construction of a quality-controlled genome database of all type strains is a prerequisite for the wider application of genomics-based taxonomy .at present almost 70 000 genome sequences are available in the primary public databases such as the ncbi assembly database .
+
+the latter was com- piled to hold tetra-nucleotide compositions 7 and gyrb and reca sequences from all available genome sequences of type orrepresentative strains.
+
+we expect that the portion of wgas identified at the speciessubspecies level will be increased as more genome sequences become available for type strains.genome-derived taxonomic informationthe genome is the ultimate source for taxonomy in which a variety of information can be extracted for a better descrip- tion of the species.
+
+here we introduce an integrated database with a complete taxonomic hierarchy of the bacteria and archaea that is represented by 16s rrna gene and genome sequences.
+
+two types of databases were used namely i the 16s rrna gene sequence database that isalso used in the 'identify' engine described above and ii the reference genome database refgd.
+
+however even though a bioinformatic comparison of 16s rrna genes pro- vides an objective and reliable way of identifying a given strain it has a critical limitation in its use at the species leveleven almost identical 16s rrna gene sequences may not guar- antee that two strains belong to the same species 6. to overcome this problem an experimental approach called dna-dna hybridization has been used to complement 16s rrna gene-based classification more recently the use of genome data was recommended to replace error-prone labo- rious dna-dna hybridization.
+
+several overall genomerelatedness indices ogris were proposed to define species boundaries  for example average nucleotide identity ani and orthoani 0 suggested a species boundary of 95-96 .because genome sequences can be used for assessing suprageneric phylogeny recognizing species  and differentiating clinical clones with few single nucleotide polymorphisms  it is evident that their use in the taxon- omy of the bacteria and archaea will greatly improve not just taxonomy but also other microbiological disciplines.
+
+16s rrna gyrb and reca genes in wgas were predicted while sequences were processed in our genome annotationpipeline fig.
+
+if this was not possible due to the lack of 16s rrna gyrb and recagene sequences the wga was assigned as 'unidentified'.calculation of genomic features for each taxonseveral genomic features of taxonomic importance includ- ing genome sizes dna gc content the number of genes and lengths of cds coding sequencesintergenic regions were calculated and compiled statistically for each taxon.
+
+informa- tion on the number of 16s rrna genes in genomes was obtained from complete genome sequences.
+
+int j syst evol microbiol 2004 54919-924.kim m park sc baek i chun j. large-scale evaluation of experi- mentally determined dna gc contents with whole genome sequences of prokaryotes.
+
+int j syst evol microbiol 2017671613-1617 doi 10.1099ijsem.0.001755introducing ezbiocloud a taxonomically united database of 16s rrna gene sequences and whole-genome assembliesseok-hwan yoon sung-min ha soonjae kwon jeongmin lim yeseul kim hyungseok seo and jongsik chunintroductionone of the goals of the modern taxonomy of the bacteria and archaea is the objective definition of species insofar as it applies to classification and identification.
+
+the database and related search tools are available at .methodsdata collectionthe up-to-date reference 16s rrna gene sequences were maintained as described earlier .
+
+'identify' enginepairwise sequence similarity values between a query sequence and the reference sequences in our database are provided as an 'identify' service.
+
+taxa without their type or representative 16s rrna gene sequences were not included in the database.
+

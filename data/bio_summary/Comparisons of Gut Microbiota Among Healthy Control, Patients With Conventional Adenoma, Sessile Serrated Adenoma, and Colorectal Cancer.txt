@@ -1,0 +1,30 @@
+acn advanced colorectal neoplasm crc colorectal cancer ssa ses- sile serrated adenoma.were gathered very closely and definitely separated from two samples from patients with stage i crc the clinicopathologic data of six subjects of crc group are summarized in table 2. although it failed to reach statistical significance due to the small sample size the proportion of genus pseudomonas was very high in the samples of patients with stage ii-iv crc compared in the samples of patients with stage i crc 59.3 vs. 0.3 p  0.064.discussionwhen there is change in the gut microbiota in patient with colorectal neoplasm it is very difficult to determine whether it is cause or consequence of colorectal neoplasm.
+
+the aim of this study is to investigate the role of mucosa-associated gut microbiota in the colorectal carcinogenesis.methods we collected biopsy samples of normal rectal mucosa during colonoscopy from healthy control and patients with conventional adenoma ssa and colorectal cancer crc respectively n  6. pyrosequencing for 16s rrna gene of bacteria was performed to compare gut microbiota.results the most abundant phylum in total samples was proteobacteria 55.6 followed by firmicutes 27.4 and bacteroidetes 11.6. there was no significant difference in relative abundance of the phylum level among the four groups.
+
+in addition simpson diversity index and shannon diversity index at 3 distance were calculated in the cl com- munity program chunlab inc.. good's method was used to calculate sequencing coverage.15random subsampling was conducted to equalize the read size of samples for comparing different read sizes among samples.
+
+the most abundant phylum in total samples was proteobacteria 55.6 followed by firmicutes 27.4 bacteroidetes 11.6fusobacteria 3.2 and actinobacteria 1.7. figure 1 shows relative abundance of the phylum level in the rectal mucosa samples by pyrosequencing.
+
+however four samples from crc patients with stage ii-ivfigure 1. relative abundance of the phylum level  similarity in the rectal mucosa samples by pyrosequencing.
+
+the proportion of genus pseudomonas was very high in the samples of patients with stage ii-iv crc compared with those with stage i crc 59.3 vs. 0.3 p  0.064.conclusions our study suggests no significant role of mucosa-associated gut microbiota in the colorectal carcinogenesis.
+
+further study for many samples or using fecal material could be helpful.j cancer prev 201722108-114key words microbiota colonic neoplasms colon cancer colon adenoma sessile serrated adenomaintroductionchronic inflammation following chronic infection is one of main mechanism in human carcinogenesis.
+
+because it ismore consistent and interacts with host cells more directly and intimately than fecal-luminal microbiota it is considered more closely related with crc.49 nevertheless to acquire it endoscopic biopsy which is invasive procedure is required and bowel preparation for colonoscopy can change mucosa-associated microbiota.12 therefore studies for gut microbiota and crc often used fecal-luminal microbiota rather than mucosa-associated microbiota.from this background the aim of this study is to compare mucosa-associated gut microbiota among healthy control pati- ents with conventional adenoma ssa and crc.materials and methodssubjects and tissue preparationwe collected biopsy samples of normal rectal mucosa during colonoscopy from four different groups healthy control patients with conventional adenoma ssa and crc respectively.
+
+rectal mucosal tissues of healthy control were acquired from samples that were collected for other study irb no.
+
+tissues of subjects with ssa were also acquired from samples that were collected for another study irb no.
+
+all mucosal samples were obtained from normal proximal rectum at approximately 18 cm from anal verge by colonoscopic biopsy.
+
+b-1606-352-302.barcoded 454-pyrosequencing of the 16s rrna genedna samples from four groups were subjected to pyrose- quencing.
+
+the sequencing was carried out at chunlab inc. seoul korea with gs junior sequencing system the modified laboratory benchtop form of 454 sequencing systems roche branford ct usa according to the manufacturer's instructions.pyrosequencing data analysisreads obtained from different samples were sorted by unique barcodes of each pcr product.
+
+potential chimeric sequences were detected by the bellerophon method which compares the blastn search results between the forward half and reverse half sequences.13 after removing the chimeric sequences the taxonomic classi- fication of eachread was assigned against the eztaxon-e database httpeztaxon-e.ezbiocloud.net14 which contains the 16s rrna gene sequence of type strains that have valid published names and representative species level phylotypes of either cultured or uncultured entries in the genbank database with complete hierarchical taxonomic classification from the phylum to the species.the richness and diversity of samples were determined by abundance-based coverage estimators ace chao1 and jackknife estimation.
+
+to compare the operational taxonomic units otus between samples shared otus were obtained with the xor analysis of the cl community program chunlab inc.. unifrac-based prin- cipal coordinates analysis was used to compare the microbial communities of sub-groups.statistical analysispasw for windows ver.
+

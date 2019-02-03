@@ -1,0 +1,30 @@
+3a is the pre- dominant mdh in m. tundripaludum 3132.however we discovered that the presence of the non- methanotrophic methylotroph in the co-culture causes a change in relative expression of the two methanotroph mdhs in the presence of lanthanum and that this change results in the release of methanol into the medium by the methanotroph.in the methanotroph methylacidiphilum fumariolicum solv the affinity for methanol of xoxf-type mdh was much higher than reported for other mdhs with a km of 0.8 mm 40. if the same is true in m. tundripaludum 3132 the lower affinity of the mxaf-type mdh could result in methanol excretion.
+
+2 b and c.the expression of the methanotroph mxaf-type mdh in thecocultures was unexpected because 30 mm lanthanum was in- cluded in all cultures and recent studies with other methano- trophs have shown that the xoxf-type mdh should be the dominant mdh expressed in the presence of lanthanum 26 27. to verify these observations we repeated this experiment with an independent set of cultures and used qrt-pcr to an- alyze the gene expression of xoxf and mxaf in the methanotroph with and without a co-occurring species fig.
+
+measurement of metabolic interactions in synthetic co- cultures addresses a key feature of known interaction patterns 910 that can drive species co-occurrence in microbial communi- ties 11. a model system that is particularly well-suited to such coculture approaches is methane utilization in natural communities.microbial methane utilization plays a significant role in global climate and is an important part of the carbon cycle 12 13. aerobic and anaerobic methane oxidation are the only two pro- cesses known for biotic methane consumption 12 14. aerobic methane-oxidizing bacteria methanotrophs in particular play a vital role in the global climate because they can mitigate up to 90 of the biogenically produced methane in soils and sediments 15 16. to date aerobic methanotrophs are found in the phyla verrucomicrobia and proteobacteria and in the candidate division nc10.
+
+however in the presence of the nonmethanotroph gene expression of the dominant methanol dehydrogenase mdh shifts from the lanthanide-dependent mdh xoxf-type to the calcium-dependent mdh mxaf-type.
+
+m. mobilis jlw8 does not contain the mxaf-type mdh but possesses two gene copies of the xoxf-type mdh which were deleted by single-knockout xoxf1 xoxf2 and double- knockout xoxf12 mutations 38. although we established cocultures with each single mutant cocultures were not estab- lished with the double mutant which is unable to grow on methanol fig.
+
+2 and see datasets s2 and s3.to test the hypothesis that methanol is a main carbon and energy source cross-fed by the methanotroph we used mutants of the nonmethanotrophic methylotroph m. mobilis jlw8 38. this strain can grow on both methylamine and methanol allowing growth in the absence of the ability to oxidize meth- anol.
+
+however recent findings identified an additional lanthanide-dependent mdh xoxf that is wide- spread in bacterial methylotrophs and dominates under some growth conditions 26-28.because methanol is produced in the periplasm and therefore can diffuse out of the cell 29 it is reasonable to suggest that methanol might be cross-fed to nonmethanotrophic methylo- trophs involved in community-based methane utilization 18 30 31. however kalyuzhnaya and colleagues 32 have demon- strated a novel form of fermentation-based methanotrophy that releases compounds such as formate acetate or hydrogen as ad- ditional possible carbon and energy sources for nonmethanotrophic heterotrophs.
+
+3. we first con- firmed that in pure cultures of m. tundripaludum 3132 grown identically to the cocultures the xoxf-type mdh is the domi- nant mdh expressed in the presence of lanthanum.we further verified that in pure cultures of the methanotroph different concentrations of lanthanum in the medium lantha- num depletion over time or different o2 levels do not have any notable effect on the gene expression of the dominant mdhs fig.
+
+hence this group is well-positioned for studying questions of species interactions in microbial communities.in the aerobic methanotrophs methane is oxidized to meth- anol by a monooxygenase and methanol is further oxidized to formaldehyde by a methanol dehydrogenase mdh.
+
+the highly expressed genes in the nonmethanotrophic methylotrophs included the genes for methanol oxidation both in pure cultures grown on methanol as substrates and in cocultures grown with the methanotroph and methane as substrate fig.
+
+26 and this study in pure cultures the amount of lanthanum added was sufficient to repress expression of the genes for the mxaf-type mdh throughout the course of the experiment even in the presence of copper.in both m. mobilis jlw8 and m. mobilis 13 the dominant xoxf gene transcripts also change expression in the coculture as com- pared with the pure cultures.
+
+corre- spondingly methanol is released into the medium only whenthe methanotroph expresses the mxaf-type mdh.
+
+tundripaludum 3132. in the presence of a co-occurring nonmethanotrophic methylotroph the expression of the me- thanotroph xoxf-type mdh decreased and the expression of the methanotroph mxaf-type mdh increased compared with the pure culture grown identically to the cocultures a finding also seen in the rna-sequencing rna-seq results fig.
+
+in the methanotroph we identified a clear shift in the expression of the two mdh genes in the presence of m. mobilis jlw8 compared with the pure culture fig.
+
+4a but in the absence of lanthanum methanol and a shift to mxaf gene expression methanol was clearly detected with a concentration of 1.24 mm at the end of the incubation fig.
+

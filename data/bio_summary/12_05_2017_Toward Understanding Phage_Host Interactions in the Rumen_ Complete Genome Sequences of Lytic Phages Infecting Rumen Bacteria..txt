@@ -1,0 +1,30 @@
+rumen phage populations have been examined using culture-independent techniques such as morphological surveys electron microscopy genome length profiling pulsed field gel electrophoresis and more recently viral metagenomics sequencing of viral community dna paynter et al.
+
+1969 klieve and bauchop 1988 klieve and swain 1993 berg miller et al.
+
+2012 ross et al.
+
+2013. culture-based techniques have also been employed for studying rumen phagepopulations where successful phage infection and replication is indicated by the formation of clearing zones or plaques in otherwise confluent layers of bacterial growth klieve 2005. this approach tends to detect phages able to undergo the lytic cycle of phage infection where phage particles attach to and replicate in susceptible bacteria without forming a stable genetic association with their host lysogeny ackermann and dubow 1987. culture-based techniques cannot fully encompass the viral diversity of the rumen source material instead they capture viable phages which can successfully infect and replicate in the bacterial strains employed in the study.the first isolation of lytic phages from rumen fluid was reported in 1966 using rumen fluid from cattle as source material and rumen-derived isolates of serratia and streptococcus as bacterial hosts adams et al.
+
+1966. following this initial report rumen fluid was used as a source of lytic phages able to infect a range of predominant rumen bacterial genera for example streptococcus bacteroides and ruminococcus iverson and millis 1976a tarakanov 1976 klieve et al.
+
+1991 2004 styriak et al.
+
+klieve et al.
+
+1991 and phsb01 klieve and bauchop 1991 infecting strains of streptococcus classified within the streptococcus bovisstreptococcus equinus complex sbsec jans et al.
+
+the further two phages phra02 and phra04 infecting ruminococcus albus ar67 klieve et al.
+
+2004 form smaller particles with short tails and have been classified within the podoviridae family.the phages phbrb01 and phbrb02 have been the most genetically characterized with restriction mapping experiments showing both genomes to be circularly permuted and terminally redundant klieve et al.
+
+rumen phagehost interactions have also been reported with investigations into the host range of the bacteroides phages phbrb01 and phbrb02 and the streptococcus phage phsb01 indicating that each of these siphoviridae could utilize multiple strains within a single bacterial species as hosts klieve et al.
+
+1991 1999. physical mechanisms for the development of phage resistance have also been observed with the formation of a thick polysaccharide capsule conferring bacteroides resistance to infection by phbrb01 klieve et al.
+
+rumen bacterial host strains were cultivated using anaerobic techniques hungate et al.
+
+1964 and a rumen fluid-based growth medium klieve et al.
+
+following the jgi standard protocol genome assembly involved the following steps 1 quality filtered reads were assembled using velvet version 1.2.07 zerbino and birney 2008 2 1-3 kb simulated paired end reads were created from velvet contigs using wgsim   3 reads were assembled with simulated read pairs using allpaths-lg version r46652 gnerre et al.
+

@@ -1,0 +1,30 @@
+the vtvh mcd data at 464 nm 491 nm and 509 nm were extracted and analysed as described in detail elsewhere.48 in brief the data were fit to the dimer model resulting in relevant fitting parameters summarised in table 5.the bands at 491 nm and 509 nm are the main spin-allowed4t1gp transitions from the two six-coordinate coii ionsin the active site.
+
+spin hamiltonian parameters were estimated from computer simulations carried out using xsophebruker biospin assuming h0  bb0gs-h  sds where s  32d c bgbs-h and where d 4 0 implies the ms  -12 kramers doublet lies lowest and all observed epr transitions are from this doublet and d o 0 implies the ms  -32 kramers doublet lie lowest and all observed epr transitions are from this doublet.statement of contributionsmp cs and ce were responsible for most of the data collection and the initial draft of the paper jh wc and dt contributed to epr data collection and analysis nm wh and jl contributed to mcd data collection and analysis ph and gt contributed totarget selection and together with nm dt and jl they also contributed to the refinement of the draft manuscript gs was responsible for the overall project the outline and refinement of the manuscript and the allocation of individual tasks of the project.acknowledgementsthis research was supported by project grants from the nhmrc app1084778 and australian research council dp150104358 and a future fellowships ft120100694 awarded to gs.
+
+ely k. s. hadler l. r. gahan l. w. guddat d. l. ollis and g. schenk the organophosphate-degrading enzymefrom agrobacterium radiobacter displays mechanistic flex- ibility for catalysis biochem.
+
+m. pedroso f. ely n. mitic m. c. carpenter l. r. gahan d. e. wilcox j. l. larrabee d. l. ollis and g. schenk comparative investigation of the reaction mechanisms of the organophosphate-degrading phosphotriesterases from agrobacterium radiobacter opda and pseudomonas diminuta oph j. biol.
+
+6 was determined from the baseline- corrected absorbances at 390 nm substrate 485 nm product and 665 nm intermediate.properties the intact molecule has a characteristic absorbance maximum at 390 nm e  11 500 m-1 cm-1 while hydrolyzed nitrocefin i.e.
+
+both metal ions can also have a spin-doublet around 464 nm table 6. consistently the vtvh mcd analysis of the 464 nm band indicates that the coii ions associated with this transition is weakly and ferromagnetically exchange- coupled  j  0.29 cm-1 to another six-coordinate coii ion that is associated with either the 491 nm or 509 nm transition which have virtually identical electronic structural parameters table 5.the only mbl that has previously been analysed by mcd in a similar manner is aim-131 where both coii species are also likely to be six-coordinate with a similar weak ferromagnetic coupling.
+
+schenk n. miti'c l. r. gahan d. l. ollis r. p. mcgeary and l. w. guddat binuclear metallohydrolases complex mechanistic strategies for a simple chemical reaction acc.
+
+helweh d. l. ollis w. a. craig d. l. tierney m. m. pedroso and g. schenk aim-1 an antibiotic-degrading metallohydrolase that displays mechanistic flexibility chem.
+
+j. daumann g. schenk d. l. ollis and l. r. gahan spectroscopic and mechanistic studies of dinuclear metal- lohydrolases and their biomimetic complexes dalton trans.
+
+thus in summary the above substrate preference and d-captopril inhibition data confirm that lra-8 is an efficient mbl with catalytic para- meters resembling those of well-characterised b3-type mbls such as aim-1 or l1.mechanism of action of lra-8studying the ph dependence of the kinetic parameters of an enzyme-catalysed reaction is a powerful approach to gain insight into the details of the mechanism of action.
+
+the data were subsequently analysed as described in detail elsewhere.314853-57log y 14 loghk41 th k th hhere h is the proton concentration ki represents the acid dissociation constant for either the enzyme-substrate complex es or the free enzyme e c is the ph independent values of y and y is kcat or kcatkm.pre-steady state kinetics measurementsall pre-steady state kinetics measurements were carried out in 50 mm tris-hcl ph 8.5 at 25 1c using an applied photophysics sx-18 spectrometer coupled with a photodiode array detector.
+
+currently there is no clinically useful inhibitor for mbls.14nitrocefin90 - 550 - 51.8 - 0.5a no hydrolysis was observed using substrate concentrations ranging from 10 mm to 1280 mm.in table 2 corresponding catalytic parameters for two well-characterised mbls from the b3 subfamily aim-1 and l1captopril is however an in vitro inhibitor that has been useful in functional studies of mbls while l-captopril is a drug used to treat hypertension and in some cases of heart failure in particular the stereoisomer d-captopril is a potent inhibitor of several mbls.34 reported inhibition constants ki values range from b6 mm for the b3 subgroup mim-1 to b70 mm for thetable 2 kinetic parameters for the reactions of two known mbls aim-1 and l1 and two mbl-like proteins mim-1 and mim-2 with different b-lactam substrates and standard deviations are shown where available.
+
+while relatively few ph dependence studies have been reported for mbls it appears that these enzymes operate most efficiently at ph values close to neutral.17 furthermore different substrates may lead to differences in observed pka values possibly a reflection of different binding interactions and subtle mechanistic variations.
+
+it is noted that biapenem is most rapidly hydrolysed only at a ph larger than 9.0 kcatmax b 125 s-1 versus 35 s-1 at ph 8.5 see table 1. in contrast to kcat the ph dependence of the kcatkm ratio varies between different substrates fig.
+
+7 mcd spectrum at 1.3 k and 7 t of lra-8 at ph 7.0 top and fitted vtvh mcd data bottom for the 464 491 and 509 nm transitions.
+

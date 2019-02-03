@@ -1,0 +1,30 @@
+nevertheless blooming bacteria are expected to be at a higher frequency in agp samples than in all of the fresh-frozen samples.using reasonable thresholds for relative abundance changes in the storage studies and in the agp compared to fresh-frozen studies we identified 20 bacterial sotus as candidates for blooming during shipping  see table s1 in the supplemental material using the following criteria a fold increase of 2 or more in the room- temperature storage studies   and agp relative to fresh-frozen fecal samples from studies 6 7 pgp and a fold increase of 50 or more within the storage studies only or not observed in the storage studies but with at least a 2-fold change in agp compared to the fresh-frozen studies.
+
+we show that applying this technique to samples collected for the american gut project agp for which partici- pants simply mail samples back without the use of ice packs or other preservatives yields results consistent with published microbiome studies performed with frozen or otherwise preserved samples.importance in many microbiome studies the necessity to store samples at room temperature i.e.
+
+unfortu- nately these storage studies examined samples from a small number of individuals and therefore it is possible that additional bacterial taxa bloom in samples shipped via domestic post that by chance were not present in these controlled studies.
+
+to address this limitation we compared all agp fecal samples 7000 samples to data from 3 studies comprised of fecal samples immediately frozen fresh-frozen after collection 6 7 personal genome project pgp unpublished data qiita study id 1189. importantly because each study represented a different population it is likely that sotus were present at different frequencies across these studies.
+
+six bacterial samples showing 2-fold change in agp compared to results of all studies using fresh-frozen samples that were not present in the storage studies are also added to the potential blooming list table s1.match to one of the unique deblur sotus and a total of 32696826 reads were removed per-sample dropped sequences spanning 0.4 13.1 and 45.3 for the 25th 50th and 75th percentiles respectively.
+
+additionally these data suggest that further control studies should be performed to allow the evaluation of candidate blooms and their impacts in nonfecal environments.supplemental materialsupplemental material for this article may be found at .text s1 docx file 0.1 mb.fig s1 pdf file 0.02 mb.table s1 xlsx file 0.05 mb.acknowledgmentswe thank evguenia kopylova for help with the analysis pipeline.this work was supported by the keck foundation grant dt061413 the templeton foundation grant 44000 and the national science foundation grant dge-1144086.referencessong sj amir a metcalf jl amato kr xu zz humphrey g knight r. 2016. preservation methods differ in fecal microbiome stability affecting suitability for field studies.
+
+observationhost-microbe biologycorrecting for microbial blooms in fecal samples during room-temperature shippingamnon amira daniel mcdonalda jose a. navas-molinaa justine debeliusa james t. mortona embriette hydea adam robbins-piankac rob knightabddepartment of pediatrics university of california san diego la jolla california usaa department of computer science and engineering university of california san diego la jolla california usab department of computer science university of colorado boulder boulder colorado usac center for microbiome innovation university of california san diego san diego california usadabstract the use of sterile swabs is a convenient and common way to collect mi- crobiome samples and many studies have shown that the effects of room- temperature storage are smaller than physiologically relevant differences between subjects.
+
+here we performed a meta-analysis using several different microbiome sam- ple storage condition studies showing consistent trends in which specific bacteria grew i.e.
+
+here we identify the most problematic taxa and show that removing sequences from just a few fast-growing taxa is sufficient to correct microbiome profiles.keywords 16s rrna dna sequencing bioinformaticshe use of sterile swabs is a convenient way to collect samples for microbiome studies but in some cases it is not feasible to immediately freeze or utilize a preservative.
+
+although some studies have demonstrated that the effects of room-temperature storage are secondary to physiologically relevant differences between comparison groups  certain bac- terial taxa particularly those in the class gammaproteobacteria grow well at room temperature.
+
+therefore to identify meaningful patterns in microbiome studies that do not utilize sample preser- vation it is crucial to remove at high specificity the taxa that thrive at room temper- ature i.e.
+
+using two recent storage studies   we showed that taxonomic abundance changes over time in nonfrozen fecal samples compared to frozen samples are mainly due to a small number of taxa  to .
+
+each of the 20 blooms had an exactmarchapril 2017 volume 2 issue 2 e00199-16msystems.asm.org 2fig 1 a small number of bacteria showed high levels of growth in the storage studies.
+
+fold change in the two storage studies whose results are shown in panels a to d x axis and minimal min.
+
+fold change in the agp fecal samples compared to data reported in references and and pgp unpublished studies in which samples were immediately frozen y axis.
+

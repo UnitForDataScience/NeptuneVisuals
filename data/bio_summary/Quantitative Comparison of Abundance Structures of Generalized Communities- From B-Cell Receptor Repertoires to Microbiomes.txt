@@ -1,0 +1,30 @@
+approximately halving r fromr  2067 the maximum possible r in the globalpatterns set to r  1000 does not affect dis- tances between nrads the points are very close to the diagonal coefficient of determination r2  1.000. if we reduce r more drastically to 250 green points in  deviations appear but we still have r2  0.976. the small deviations of nrad distances in for r  250 are all towards smaller nrad distances points shifted to the left of the diagonal because lower- ing r from 2067 to 250 means that for r  250 we straighten some of the fine-grained structure of nrads with r  2067 that allows for larger nrad distances.
+
+even for r  100 we still have r2  0.913.in we show for comparison how reduction of r affects nrad distances for a sim- pler normalization scheme in which ranks above a given r are cut off cutoff normalizationinformation in the tails with ranks higher than r is completely neglected.
+
+the results forr  4105 1000 and 250 are summarized in .the table shows a weak reduction in accuracy and k statistic with decreasing r and increas- ing errors both explainable by a loss of information stored in the nrads with lower r. how- ever the reduction of r from 4105 to 1000 affects the accuracy of the classifier barely and even the classifier computed from nrads with r  250 has still a good accuracy.
+
+for instance the hierarchical clustering  of the globalpatterns dataset is identical between r  250 r  1000 and r  2067 up to an agglomeration height of 0.98 vertical axis in .
+
+shannon evenness changes weakly with r. moreover this equation means that entropy or information content will systematically decrease with decreasing r. this decrease will depend weakly on r since log r changes only slowly with r.as the nrad entropies change systematically with r this must also affect our model of entropy of gut microbiome nrads as function of age.
+
+maxrank normalization maps all rank abundance vectors to the same rank range from 1 to a common maximum rank r. the normalization procedure is explained in the following.first we chose the maximum rank or maxrank r symbol r is used for the maxrank throughout this work.
+
+the minimum r is 2 because r  1 would eliminate all abundance structure.
+
+for instance for the globalpatterns dataset we had rank abundance vectors with dimensions from 2067 to 7679 and the maximum possible r for the whole set is therefore 2067. a value of r larger than this maximum would mean that we had to invent new ranks that have not been observed for at least one sample.
+
+division of these reduced abundances by ns0transforms the reduced abundance vector to a probability distribution or relative abundancesfor the r ranks with rank probabilities summing up to 1. we use therefore the terms probabil- ity and abundance in the remainder of the article as synonyms.if r  rs the procedure above reproduces exactly the original rad.
+
+we have implemented the meth- ods used in this work in free open source software packages radanalysis and rankabundance- distributions available in r  and julia .analyses of nradsthe last box of the flowchart indicates that sets of rads normalized to a common r can be analyzed in numerous ways.
+
+this could make analyses based on nrads sensitive to r. to test this we have tested how the choice of r affects nrad based classification nrad distances and nrad entropies as used in the previous sections.first we address the question whether nrad based classification is sensitive to r using the classification of gut microbiomes described earlier.
+
+the weak depen- dency is consistent with the importance plot  where the regions of high importance cover two extended rank intervals that can be mapped down to nrads with r  250 or lower though with some losses.accuracy of nrad-based classification.accuracy acc and k statistic of nrad-based classification for country of origin of gut microbiome as function of maxrank r.doi10.1371journal.pcbi.1005362.t002dependence of nrad distances dr on maxrank r. co-ordinates are distances dr between all 26 26 - 12  325 nrad pairs of the 26 globalpatterns samples at three different values of r. if the distance of an nrad pair is the same for both r the point lies on the diagonal.
+
+cluster assignments differonly above this agglomeration height at the highest branching points and thus at the most fuzzy cluster level.thirdly we find for each sample i a regular and systematic r dependence of nrad entropyhdith hdith log r cdithd7thwith a sample dependent constant ci.
+
+the maximum r is the minimum dimension of rank abundance vectors included in the analysis.
+
+in practice this maximum r is often a good choice since it retains the abundance structure of all included communities in the great- est possible detail.
+

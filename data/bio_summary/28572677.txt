@@ -1,0 +1,30 @@
+dmbt1 expression was positively correlated with survival and mmp expression was negatively associated with survival in our gene expression analysis.
+
+candidate diagnostic gene expression biomarkers were selected based on differential expression with regard to survival in the response gene expression dataset and had putative functions that could be related to immune defense.
+
+gene expression was analyzed using deseq2 models including bacterial treatment treated or control percent survival continuous variable the interaction between the survival and bacterial treatment i.e.
+
+to investigate the relationship between host gene expression and microbial composition we subset the rnaseq dataset for individuals with 16s sequencing data n  31 and modeled gene expression correlated with the first principal coordinate axis based on weighted unifrac scores fig.
+
+differential expression of ubiquitination-related transcripts suggests that some genotypes may have been experiencing more baseline cellular stress than others throughout the experiment even though all genotypes were maintained in benign common conditions for over one month prior to and during the experimental procedure.high-mortality corals exhibited abundant changes in gene expression in response to bacterial challenge including upregulation of matrix metalloproteinases which are also upregulated in naturally occurring coral dis- ease and bleaching  and an apoptosis regulator fig.
+
+only one gene was differentially expressed between the v. diazotrophicus and v. owensii treat- ments further justifying pooling of these treatments as a general bacterial challenge.the contrast between control vs. bacteria challenge yielded 288 degs at fdr  0.1. testing for associa- tions between gene expression and survival yielded 1412 degs at fdr  0.1. to improve readability we have only depicted the top 16 annotated degs for the effect of bacterial treatment fig.
+
+notably the gene expression response to bacterial challenge was driven by higher-mortality genotypes as expression profiles of the more robust corals i.e.
+
+common auc score metrics are 0.90-1  excellent 0.80-0.90  good 0.70-0.80  fair 0.60-0.70  poor and 0.50-0.60  fail.double-gene qpcr assay quantifying the log-ratio of expression of these two genes sensu kenkel et al.. we quantified expression of these two genes in 74 samples from 19 genotypes from the independent validation exper- iment using qpcr.
+
+instead these individuals exhibited a more healthy gene expression profile they had elevated glucose-6-phosphate1-dehydrogenase expression that is important for cell growth as well as increased levels of fluorescent proteins whose abundances have been linked to health status in corals .
+
+gene expression heatmaps with hierarchical clustering of expression profiles were created with the pheatmap package in r.symbiodinium analysis.
+
+value above the graph indicates posterior probability that the correlation with survival is negative.bacterial treatment triggered gene expression response in high-mortality corals.
+
+no biological processes or molecular functions were significantly enriched with respect to the effect of treatment or survival.figure 4. gene expression differences in response to bacterial challenge a fdr  0.01 and associated with survival rate among genotypes b fdr  1e-4.
+
+the original n 50 and validation n 74 dmbt1mmp expression ratios and survival rates n  83 low risk n  41 high risk were pooled and randomly split into training 80 and testing 20 subsets over 500 iterations.
+
+this analysis revealed differences in host gene expression that are associated with differences in microbial community mem- bership while controlling for the effects of survival and treatment.
+
+linear regression implemented in r was used to test for the relationship between survival fraction and the log-difference in expression between the two candidate genes as in ref.
+

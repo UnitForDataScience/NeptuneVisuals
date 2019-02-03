@@ -1,0 +1,30 @@
+our aims were to test if the direct pcr and dna extraction methods yield similar results in terms of i community diversity and distance ii specifictable 1 comparison of practical factors of the dna extraction and direct pcr methods for gut microbiome studiesainformation is shown for dna extraction with the powersoil-htp 96-well soil dna kit 384 extractions mo bio laboratories inc..binformation is shown for direct pcr with the extract-n-amp plant pcr kit 100 extractions sigma-aldrich.ctime is estimated for parallel extraction of 96 to 192 samples.dprice includes pcr reagents phusion high-fidelity pcr master mix with hf buffer thermo scientific that are not part of the dna extraction kit.eprice includes pcr reagents that are part of the kit.fig 1 microbiomes of different gut samples obtained with the direct pcr and conventional dna extraction methods.
+
+the cecum colon and feces showed very high correspon- dence in beta diversity for identical samples prepared with direct pcr and dna extraction as they clustered by individual and not method whereas differences were much greater for cloacal and in particular ileal samples .differences in microbiomes obtained with direct pcr and dna extraction.
+
+scatterplots show abundances of all otus in extraction replicates obtained with the dna extraction method a extraction replicates obtained with the direct pcr method b pcr replicates obtained with the dna extraction method c and pcr replicates obtained with the direct pcr method d. otu abundances have been normalized in accordance with the deseq2 method and log transformed 0.1 for graphical purposes.
+
+cloacal samples showed significantly greater distances than cecal npairs  20 v  21 q  0.005 and colon npairs  20 v  34 q  0.013 samples and finally cecal samples showed slightly shorter distances than fecal samples npairs  20 v  40 q  0.023 .differences in otu abundance with direct pcr and dna extraction.
+
+however alpha diversity was significantly higher in direct pcr samples than in dna extraction samples for the ileum npairs  19 v  5 p  0.0001 and significantly lower in direct pcr cecal samples npairs  20 v  199 p  0.0001 .
+
+dna extraction method direct direct pcr method.bacterial taxa and abundances and iii repeatability of replicates from the same samples.resultspractical aspects of direct pcr and dna extraction.
+
+these practical advantages combined with the fact that direct pcr is possibly more sensitive at measuring diversity in samples with low dna concentrations high- light direct pcr as an excellent alternative to the dna extraction method.
+
+the amplicon libraries represented 100 unique ostrich gut microbiome samples n  20 per sample type 2 control and 2 blank samples 40 extraction replicates and 10 pcr replicates that were all prepared with both the dna extraction and direct pcr methods table s1 fig.
+
+s3 suggesting that although it is difficult to measure the relative abundances of specific bacterial taxa when dna concentrations are low it may still be possible to accurately measure the community composition with both of these methods.the direct pcr samples from the ileum had significantly higher alpha diversity  and higher relative abundances of the majority of differentially abundant otus  than those obtained with the dna extraction method.
+
+second small differences between the direct pcr and dna extraction methods can become exaggerated in low-dna samples because the sequence coverage will be higher for low-abundance otus as a result of equal quantities of pcr product from all samples being used before sequencing.
+
+the higher diversity in the ileal direct pcr samples could also be a consequence of the regular taq polymerase included in the direct pcr mixture which is slightly more error prone than the phusion high-fidelity polymerase used for amplification in the dna extraction protocol.
+
+each sample slurry was used in both the subsequent dna extraction and direct pcr methods creating two identical sample sets for comparison of the two preparation methods.dna isolation and 16s rrna library preparation using the dna extraction method.
+
+this method is known to be associated with high dna loss whereas with direct pcr the individual samples arefig 6 repeatability of otu abundances between replicate samples.
+
+12955-4. dna extraction with this kit includes mechanical and chemical lysis of cells and subsequent column-based dna purification in a process with 32 discrete steps that takes around 8 h to perform for 96 samples.
+
+we investigated a cheaper and faster direct pcr method de- signed to bypass the dna isolation steps during 16s rrna library preparation and compared it with a standard dna extraction method.
+

@@ -1,0 +1,30 @@
+cell chemical biologycell chemical biology callprinciples of chemical biology from magic to gut fungi via ''plug-and-play'' biosensorsthis month new magic linking mitochondrial biology and proteostasis split rna polymerase based biosen- sors and a role that fungi play in human gut microbiome.mitochondria import and degrade misfolded proteinslinhao ruan and rong li johns hopkins uni- versity school of medicine  whiting school of engineeringprinciplesdysfunction of cellular proteostasis leads to accumulation of protein aggregates such as those associated with many neurodegenerative diseases nd.
+
+compared to proteasomal and au- tophagic degradation magic plays a major role in degrading aggregated proteins after heat shock however overloading this pathway with misfolded proteins results in prolonged mitochondrial damage.
+
+using yeast as a model system we demonstrate that aggregation-prone proteins are imported into mitochondria and eventually degraded there through a pathway that we termed magic for mitochondria as guardian in cytosol ruan et al.
+
+13 432-438 10.1038nchembio.2299.starting from split t7 rnaps that spontane- ously assemble to form a functional enzyme we identified split sites where assembly is mediated and controlled by interacting fusion proteins.
+
+in order to streamline the biosensor development process we generated an easy-to-implement biosensor scaffold based on split rna poly- merases rnaps pu et al.
+
+the ease of use and excellent performance of our biosensor platform make it attractive for use in chemical and synthetic biology research.
+
+nature 543 443-446 10.1038nature21695.we used a combination of methods todemonstrate that misfolded proteins are im- ported into mitochondria upon acute stress and that mitochondrial import and proteases are required for timely dissolution of cytosolic aggregates.
+
+''in order to streamline the biosensor development process we generated an easy-to-implementbiosensor scaffold based on split rna polymerases.
+
+uncovering how fungi influence resident prokaryotes and the host may yield pre- viously unrecognized biological mechanisms as well as have therapeutic and diagnostic potential.428 cell chemical biology 24 april 20 2017 a 2017 published by elsevier ltd.
+
+''.aggregation-prone pro- teins are imported into mito- chondria and eventually degraded there through a pathway that we termed magic for mitochondria as guardian in cytosol.
+
+''what's nextour findings have raised many mechanistic questions about how misfolded cytosolic pro- teins including those frequently associated with nd are imported into and degraded inside mitochondria and how mitochondrial functions may in turn be compromised due to elevated proteotoxic stress in the cytosol.
+
+anti-saccharomyces cerevisiae anti- bodies asca remain the most specific serolog- ical marker differentiating crohn's disease cd and ulcerative colitis uc two inflammatory gut disorders suggesting that intestinal fungi may play a role during these diseases.
+
+aaf9044 and observe that s. cerevisiae wors- ened the course of disease.transcriptomics and metabolomics of germ- free mice mono-associated with s. cerevisiae revealed an effect on epithelial integrity and induction of uric acid.
+
+exploring the application of the principles uncovered by our study to human diseases is an exciting future direction.evolved rnap ''plug-and-play'' biosensorsbryan dickinson university of chicagoprinciplesengineering cellular systems reprogramming biomolecules using evolution and a host of other synthetic biology goals require bio- sensors that detect specific inputs and drive defined genetic responses in live cells.
+
+this is based on our unexpected result that the split rnap and fusion protein co- evolved during the biological evolutions.
+

@@ -1,0 +1,30 @@
+in work presented by david waxman's laboratory non-coding rna dynamics in liver was examined under diverse conditions including 1 exposure to tcpobop an agonist ligand of the nuclear receptor car representing short-term liver responses to environmental chemical exposure and 2 stimulation of the liver by plasma growth hormone whose sex-differential pituitary secretion pattern imparts widespread hepatic sex-differences.
+
+transient overexpression of meg3 rna in vivo in mouse liver caused rapid shp mrna degradation and cholestatic liver injury which was accompanied by the disruption of bile acid homeostasis elevation of liver enzymes and dysregulation of bile acid synthetic enzymes and metabolic genes.
+
+in a preliminary screening dr. zhong's laboratory applied rna-seq to examine ontogeny of all annotated lncrnas in mouse liver during postnatal maturation from perinatal day2 to adult day 60. they found nearly 2000 lncrnas were differentially expressed in liver during liver maturation.
+
+due to the ensuing liver damage caused by the progressive stages of non- alcoholic fatty liver disease nafld gene expression patterns can change dramatically resulting in a phenoconversion resem- bling genetic polymorphisms.
+
+because the liver plays such a key role in the metabolism and disposition of xenobiotics it is well recognized that liver diseases can alter drug disposition and require dose adjustment to maintain drug concentrations within the therapeutic window.
+
+the up-regulation of est in the liver may have played a pathogenic role in ir injury because est ablation in female mice attenuated ir responsive liver injury.
+
+in other studies the waxman laboratory investigated the role of micro- rnas in liver sex differences and identified 13 sex-biased liver micrornas by small rna sequencing.
+
+to assess functionality one of the male-specific mirnas was over- expressed in female mouse liver using adenovirus which led to widespread gene expression changes in liver.
+
+this work leverages deep sequencing and integrative data analyses to elucidate exogenous and endogenous stimuli-induced liver transcriptome dynamics.lncrnas in liver metabolic functions li wang from university of connecticut usadr.
+
+shp in turn represses creb-mediated activation of meg3 expression in a feedback regulatory fashion.role of lncrnas in postnatal liver maturation chad pope and xiao-bo zhong from university of connecticut usathe adult liver conducts critical functions in metabolism of various endogenous and exogenous compounds including drugs.
+
+in a comparison with the previously deciphered developmental dynamics of the mouse liver transcriptome of all coding mrnas gene ontology go analysis revealed that some lncrnas enriched at neonatal ages had their neighbor protein-coding genes also enriched at neonatal ages and functions of those proteins were associated with liver growth immune activation related processes cell proliferation tissue organization and hematopoiesis.
+
+in addition the roles of gut microbiota in drug metabolism and toxicology as well as long non-coding rnas in liver functions and diseases were discussed.
+
+ingelman-sundberg then presented his laboratory's novel system for culturing viable liver cells for 5 weeks in a 3d spheroid system.
+
+the proteome of the spheroid to a great extent mimic the proteome in the liver from where they were isolated whereas cells cultivated in 2d had a very different proteome.
+
+dr. ingelman-sundberg ended his lecture by presenting data from single nucleotide resolution analyses of adme genes in human liverand could conclude that 5 hmc is very important in liver and that the bisulfite method does not provide a true epigenetic analyses.
+

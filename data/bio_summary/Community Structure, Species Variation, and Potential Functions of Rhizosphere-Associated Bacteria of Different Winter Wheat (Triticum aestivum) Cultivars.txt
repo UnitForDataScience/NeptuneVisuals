@@ -1,0 +1,30 @@
+57 233-266. bashan y. de-bashan l. e. prabhu s. r. and hernandez j.-p. 2014. advances in plant growth-promoting bacterial inoculant technology formulations and practical perspectives 1998-2013. plant soil 378 1-33. berg g. and smalla k. 2009. plant species and soil type cooperatively shape the structure and function of microbial communities in the rhizosphere.
+
+ 12  chuntao yin1 and 11 department of plant pathology washington state university pullman wa usa 2 molecular plant sciences washington state university pullman wa usaedited by sukhwinder singh international maize and wheatimprovement center cimmytmexicoreviewed bysergio saia council for agricultural research and agricultural economy analysisitaly upinder s. gillsamuel roberts noble foundationusacorrespondence scot h. hulbert specialty section this article was submitted to crop science and horticulture a section of the journal frontiers in plant sciencereceived 11 november 2016accepted 23 january 2017published 13 february 2017citation mahoney ak yin c and hulbert sh 2017 community structure species variation and potential functionsof rhizosphere-associated bacteria of different winter wheat triticumaestivum cultivars.
+
+from the initial analysis 2552 kegg orthology ko terms were found to be significantly different for wheat cultivars.annotations classified into 329 functional ko pathways level 3. many of these pathways were not plant associated so we chose to focus on kegg pathways or ko functions related to bacterial metabolism that could benefit the plant host and test the role of the malate root exudates.
+
+different strains of bacteria isolated from soil have been found to promote plant growth by producing plant hormones such as indole-3- acetic acid auxin and 1-aminocyclopropane-1-carboxylate a precursor for ethylene        .
+
+9 435-444. marques a. p. pires c. moreira h. rangel a. o. and castro p. m. 2010. assessment of the plant growth promotion abilities of six bacterial isolates using zea mays as indicator plant.
+
+plant soil 367 275-284. weller d. m. raaijmakers j. m. gardener b. b. m. and thomashow l. s. 2002. microbial populations responsible for specific soil suppressiveness to plant pathogens 1. annu.
+
+additional experiments with the almt1 isolines are warranted to determine how the gene expression is regulated in response to environmental stimulus and if other factors that differ between the two genetic backgrounds affect malate secretion.previous evidence has found that wheat and other plant species differ in the organic compounds they deposit into the soil rhizosphere      .
+
+2010. plant genotype strongly modifies the structure and growth of maize rhizosphere microbial communities.
+
+28 1049-1058. carvalhais l. c. dennis p. g. badri d. v. tyson g. w. vivanco j. m. and schenk p. m. 2013. activation of the jasmonic acid plant defence pathway alters the composition of rhizosphere bacterial communities.
+
+80 34-44. tkacz a. cheema j. chandra g. grant a. and poole p. s. 2015. stability and succession of the rhizosphere microbiota depends upon plant type and soil composition.
+
+in conclusion our study suggests wheat cultivars are involved in shaping the rhizosphere by differentially altering the bacterial otus consistently across different sites and these altered bacterial communities may provide beneficial services to the host.keywords rhizosphere microbiome otu wheat microbial communityintroductionthe roots of land plants are surrounded by complex communities of microorganisms      .
+
+relative abundance did not serve a role in the number of co-occurrences and their connectivity spearman r  0.228p  0.453.predicted gene functions for bacterial communities by wheat cultivarsto characterize members of the rhizosphere community with sequenced metagenomics data picrust was used to infer 16s rdna rhizosphere sequences to available sequenced bacterial genomes.
+
+these numbers are higher than reported in previous wheat rhizosphere studies using pyrosequencing and trflp     and are consistent with other rhizosphere sequencing studies      .
+
+plant sci.
+
+several of the cultivar-associated otus were found to correspond with strains that may provide beneficial services to the host plant.
+

@@ -1,0 +1,30 @@
+little change in the common environ- ment c was observed between the full and cohabit- ation sample analyses additional file figure s11.we compared phenotypes deemed to be heritable in our study 44 traits with benjamin-hochberg corrected p values of less than 1 with phenotypes seen to be herit- able in 5 studies of gut - and 1 in dental plaque we found that 14 of the 44 traits were mentioned with heritability estimates of at least 1 in one or an- other study though none showed high statistical signifi- cance additional file table s16 additional file supplemental methods.
+
+these pruned imputed snps were then used to calculate the first 10 principal components and the estimated identity by des- cent ibd was used to delete one from each pair of sub- jects with an ibd  0.185 estimated with plink v1.9 number removed adm  12 and eur  0. in addition subjects that were identified as outliers in the first 10 pcas were removed number removed adm  111 eur  0. lastly analyses were limited to subjects that had no missingness for all of the covariates removed in the model number removed adm  1 eur  5. there were then 8172048 snps to be analyzed in the adm sample n  344 and 6862363 snps in the eur sample n  823.genome complex trait analysisgenome complex trait analysis gcta was performed on all traits categorized as continuous in both the twin and unrelated populations using the gcta software 9. the gcta analysis was performed on the cleaned imputed ge- notypes described above in the european sample all ibs estimates 0.025 n  818. the following covariates were included in the model age sex sequencing run 1-5 year dna was collected saliva collection method for 16s se- quencing dna collection method for host genotyping and the first 10 pcs to control for population stratification.
+
+descriptions of all traits can be found in additional file tables s11-14.intraclass correlation coefficientthe mz and dz icc values were calculated using the r package 'irr' icc command  and were compared using the wilcoxon signed rank sum test function in the r package 'stats' wilcox.test the icc values were cal- culated for all taxonomic groups that were categorized to be treated as continuous traits 24 taxonomic groups additional file tables s4 and s11.
+
+a power ana- lysis shows that our sample is well powered to model continuous traits but is underpowered for categorical traits additional file figure s9.
+
+in addition the icc values for the remaining 17 continuous traits were de- termined additional file tables s4 and s11.ace twin modelingthe aceade univariate twin modeling used the openmx package as implemented in r   see additional file supplemental methods.
+
+the variation in estimates may reflect environmental ef- fects or loss of power between the full sample n  752 twin pairs and the cohabitating sample n  588 twin pairs additional file figure s9.
+
+we conclude that cohabitation does not play a significant role in the observed microbiome heritability.to quantify the differences between groups the cohen's d effect size was calculated for all b-diversity measurements additional file tables s1 and s2 for both the full sample and the sample limited to twin pairs who were cohabitating cohen 1992. comparisons be- tween the unrelated and twin pairs yielded medium to large effect sizes.
+
+the unique envir- onment e accounted for most of the variation of the traits tested in both the full and cohabitation sample additional file figure s11.
+
+cohen's d effect size for b-diversity measure- ments was calculated using the r package 'effectsize' command 'cohen.d' .categorization of microbial traitsmicrobial traits included taxonomic groups otus a-diversity measurements and principal coordinates from b-diversity measurements additional file tables s11-14 collapsing all perfectly correlated traits.
+
+for the 6 highly heritable continuous traits that were analyzed both with and without substance use covariates results appear to be consistent with and without substance additional file figures s15 and s16.discussionwe have shown that microbe abundance and some as- pects of the microbial population structure are influ- enced by heritable traits in saliva.
+
+otu4446902 unnamed species of the family gemellaceae and its corresponding taxa levels order family and genus showed suggestive significant gcta heritability estimates after controlling for multiple testing otu4446902 vgvp  0.944 se  0.357 p value-bhcorrected  0.053 see additional file table s15 additional file supplemental methods.
+
+qq plot additional file table s7 additional file figure s14 within an intron of the immp2l gene on chromosome 7. this gene is known to be involved in mitochondrial protein traffick- ing - the regional manhattan plots in fig.
+
+under 18 or 19 and older and reported living at home additional file table s6 additional file figures s10 and s11.
+
+snps were filtered by removing at or gc snps 107670 allele switches in- ferred by the imputation server 1733 snps maf  1 adm  25586 eur  76142 and hwe failure thresh- old of 0.0001 adm  469 eur  25. no filtering based upon missing subject or genotype was needed because there were no snps or subjects with a missing rate greater than 10. the remaining snps 561204 adm 510818 eur were then submitted to the michigan imputation server using the phase3 reference panel with shapeit for each of the two ancestry groups.
+
+analysis was done independently with individuals from the two major different ancestry groups of the unrelated sample european n  823 and admixture n  344 due to the limited size of the admixture sample only the european sample is discussed and the admix- ture was only considered for the meta-gwas discussed below.to control for population stratification a kinship matrix created from all the chromosomes and the first ten principal components from the ld-pruned snps were included as covariates see methods.
+

@@ -1,0 +1,30 @@
+further to this relative concentrations of previously reported influential metabolites such as glutamine phenylalanine and succinate -were comparable between wt and mdr1a-- mice at 18 weeks despite the appearance of signs of inflammation in mdr1a-- mice supplementary fig.
+
+urine samples were collected from mice at designated time points in clean autoclaved cages or by injection in the bladder during culling and stored at -80 degc n 18 wt 6 weeks n  18 mdr1a-- 6 weeks n  17 wt 18 weeks n 12 mdr1a-- 18 weeks.
+
+n 18 wt 6 weeks n 18 mdr1a-- 6 weeks n 17 wt 18 weeks and n 12 mdr1a-- 18 weeks.
+
+true mdr1a-- are in blue predicted mdr1a-- are triangles true wt are in red predicted wt are in circles.
+
+mdr1a-- mice fvb.129p2-abcb1atm1bor n7and control fvb mice taconic farms ny usa were crossbred to generate f1 heterozygotes which in turn were crossbred to generate f2 littermate controls.
+
+at 6 weeks of age although all mice were histologically normal with no expres- sion of interferon g microbial composition was altered in the mucus but not in the stools of mdr1a-- mice in contrast to wt controls at 6 weeks of age approximately 12 weeks before signs of intestinal inflammation are detected.
+
+further work to ensure that sufficient material is obtained to enable full struc- tural characterisation and identification of the potential metabolic biomarkers detected in the urinary profiles of these mice will be required as part of any effort to translate this work to humans.collectively the findings of the present study demonstrate that the activity of microbial communities and uri- nary metabolites are remarkably stable in mdr1a-- mice in the face of ensuing gut inflammation despite changes in mucus microbial community composition.
+
+to examine putative effects of previously reported altered microbial composition on the metabolite profiles of mdr1a-- mice versus wt controls we performed untar- geted lc-ms analysis of urinary samples collected at 6 and 18 weeks so as to determine metabolic phenotypes.
+
+pca analysis was first carried out on lc-ms-derived data to provide an overview of the variations between wt and mdr1a-- mice at 6 and 18 weeks fig.
+
+principal components analysis pca of mass ions measured by lc-ms for urine samples from mdr1a-- mice and wt littermate controls at 6 and 18 weeks of age.
+
+data are shown in a dendrogram.figure 4. partial least squares-linear discriminant analysis pls-lda discriminates urinary metabolite profiles from mdr1a-- and wt mice based on genotype.
+
+lc- ms-based metabolic phenotyping metabotyping in urine samples confirmed that metabolite profiles in mdr1a-- mice were remarkably unaffected by development of intestinal inflammation and there were no differences in previously published metabolic markers of ibd.
+
+however by the later time point of 18 weeks of age signs of inflammation were apparent and changes in microbial composition were detected in both the mucus and stools of mdr1a-- mice.
+
+s2ad.the relative abundance of kegg metabolic pathways was similar between wt and mdr1a-- mice before the onset of intestinal inflammation irrespective of microbial habitat mucus or stools supplementary fig.
+
+within this untargeted approach we took advantage of the method to also look for changes in endogenous metabolites that had been highlighted in previous publications to be significantly changed in human and murine ibd studies in order to determine if there were similar differences in mdr1a-- mice before and during the onset of inflammation supplementary table .
+

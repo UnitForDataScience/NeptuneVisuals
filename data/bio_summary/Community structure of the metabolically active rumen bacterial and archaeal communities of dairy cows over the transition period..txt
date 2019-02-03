@@ -1,0 +1,30 @@
+total rna was extracted from the rumen samples and cdna thereof was subsequently used for characterizing the metabolically active bacte- rial 16s rrna transcript amplicon sequencing and archaeal qpcr t-rflp and mcra and 16s rrna transcript amplicon sequencing communities.
+
+the metabolically active bac- terial community was dominated by three phyla showing significant changes in relative abundance range over the transition period firmicutes from prepartum 57 to postpartum 35 bacteroidetes from prepartum 22 to postpartum 18 and proteobacteria from prepartum 7 to postpartum 32. for the archaea qpcr analysis of 16s rrna transcript number revealed a significant prepartum to postpartum increase in methanobacteriales in accordance with an observed increase from prepartum 80 to postpartum 89 in relative abundance of 16s rrna transcript amplicons allocated to this order.
+
+the bacterial families desulfovibrio- naceae elusimicrobiaceae and sphaerochaetaceae were detected only with total rna and 16s rrna amplicon sequencing but not with 16s rrna gene amplicon sequencing.the rumen archaeal community has received special attention in particular with respect to the methanogens being a major source of anthropogenic methane emissions.
+
+p-values s 0.05 were considered as significant and p-values between 0.05 and 0.10 represented a trend.resultsbacterial 16s rrna transcript amplicon profilea total of 5647 otus were identified from the bacterial 16s rrna transcript profile.
+
+the entire bacterial community showed significant shifts over the transition period as evaluated by weighted unifrac distance matrix based anosim testr  0.29 p-value  0.001.archaeal 16s rrna transcript amplicon profilewith the universal prokaryotic 16s rrna gene primer targeting both the bacterial and archaeal communities nearly 3 of the total sequences were assigned to the euryarchaeota phylum of the archaea domain .
+
+the 16s rrna transcript profile of all archaeal taxa showed significant changes over the transition period the methanobacteriales order and the methanosphaera genus increased significantly in relative abundance from 80 to 90 and 8 to 18 whereas the methanobrevibacter genus from 69.8 to 61.8 and the methanomassiliicoc cales alpha diversity analysis of the rumen active methanogen and bacterial communities.1weekly based samples groups are indicated and sample numbers for each time period were w-310 w-29 w-110 w110 w29 w39 w413.2 alpha diversity chao1 observed species and pd whole tree analysis was performed for the active methanogen community profiled by illumina amplicon sequencing of mcra transcripts and the active bacterial community profiled by illumina amplicon sequencing of bacterial 16s rrna transcripts.3p-value smaller than 0.05 indicates the significant effect of fixed factor 'weeks relative to parturition'.a-cleast square means t-test within a row with different superscripts differ significantly p  0.05 mean standard error is indicated.principal coordinate analysis pcoa of the active rumen bacterial community.
+
+total mcra transcript number 16s rrna transcript number of the methanomassiliicoccales order and 16s rrna transcript number of the methanobacteriales order are quantified by qpcr.
+
+the dominance of methanobacteriales has further been reported in several earlier studies .according to the rna amplicon sequencing prokaryotic 16s rrna results the metha- nomassiliicoccales accounted for 2.4-15 of the total archaeal 16s rrna similar to the dna level proportion 10.4 reported in new zealand sheep and cattle.
+
+a comparison between dna 16s rrnagene and rna 16s rrna clone libraries revealed distinct phylotypes of a marine bacterial community for the two approaches thus indicating that the most abundant members of a community may not necessarily be the most active or vice versa.
+
+the rumen microbiota of beef steers analyzed by total rna-sequencing as well as 16s rrna and rrna gene amplicon-sequencing revealed unique microbial taxa specific to each approach where e.g.
+
+on the other hand a significant prepartum to postpartum decrease from 15 to 2 was observed in relative abundance of methanomassiliicoccales 16s rrna transcripts.
+
+in contrast to qpcr analysis of the 16s rrna transcripts quantification of mcra transcripts revealed no change in total abundance of metabolically active methanogens over the transition period.
+
+finally a metatranscriptomic investigation showed that transcripts 16s rrna and methyl coenzyme m reductase of the poorly characterized thermoplasmata methanomassiliicoccales archaea were reduced upon dietary supplementation with rapeseed oil in lactating cows whereas methanobacteriales transcripts were unaffected by the dietary treatment.
+
+this was done using high throughput sequenc- ing illumina miseq of transcript amplicons using universal prokaryotic 16s rrna primers for targeting bacteria and archaea as well as mcra primers for targeting methanogenic archaea specifically.
+
+the methanogenic archaea were further analyzed by mcra-targetedt-rflp analysis and quantification qpcr of total methanogenic archaea mcra gene transcript numbers and two major methanogen orders methanobacteriales and methanomas- siliicoccales 16s rrna gene transcript numbers.
+

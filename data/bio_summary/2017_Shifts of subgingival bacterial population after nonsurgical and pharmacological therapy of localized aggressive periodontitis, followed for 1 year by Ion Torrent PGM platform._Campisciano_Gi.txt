@@ -1,0 +1,30 @@
+case reportshifts of subgingival bacterial population after nonsurgical and pharmacological therapy of localized aggressive periodontitis followed for 1 year by ion torrent pgm platformgiuseppina campisciano12 annamaria toschetti3 manola comar12 rosanna di taranto3federico berton1 claudio stacchi1correspondence dr. claudio stacchi email 1department of medical surgical and health sciences university of trieste trieste italy2advanced diagnostics department institute for maternal and child health irccs burlo garofolo trieste italy3private practice gorizia italyabstractthe possibility of targeting the hypervariable region v3 of the 16s rrna gene using ion torrent personal genome machine pgm could provide a complete analysis of subgingival plaque samples potentially able to identify microbiological species missed by culture-based methods.
+
+an accurate definition of the shifts of the bacterial community might help periodontal researchers for a better understanding of the impact of different treatment approaches or in intercepting nonresponsive conditions.key words anaerobic bacteria full-mouth disinfection ion torrent personal genome machine localized aggressive periodontitis nonsurgical treatmentintroductionlocalized and generalized aggressive periodontitis show different clinical features12 being also characterized by slightly diverse bacterial profiles in the subgingival microbiota.34 the etiology of both diseases is widely thought to be polymicrobial56but the role of individual species and their complex interactions with the host have not been clearly defined yet.
+
+the first microbiological analysesthis is an open access article distributed under the terms of the creative commons attribution-noncommercial-sharealike 3.0 license which allows others to remix tweak and build upon the work non-commercially as long as the author is credited and the new creations are licensed under the identical terms.for reprints contact on these pathologies were conducted with conventional culture or immunohistochemical methods78 followed by a generation of molecular detection methods such as hybridization assays or polymerase chain reaction pcr910 and even using atomic force microscopy to indagate bacterial morphology and to examine microbial interactions in subgingival biofilm.11 the most recent advance has been cloning and sequencing of 16s rrna genes using the fast ion torrent personal genome machine pgm this approach up-to-date reported only once in periodontology12 allows an open-ended exploration of bacterial populations potentially revealing the presence of uncultivated species.
+
+template preparation was performed using the ion pgm template ot2 200 kit on ion onetouchtm 2 system life technologies gran island new york usa after which the enrichment percentage was carried out on qubitr 2.0 fluorometer.
+
+the templates were sequenced on the ion pgmtm system machine using the ion pgm sequencing 200 kit v2 life technologies new york usa.sequence data analysis qiime 1.8.0 knight lab boulder colorado usa was used to process the sequence data.
+
+it is interesting to note that the bacterial shift toward a higher prevalence of pathogen species was not accompanied by clinical signs of inflammation microbiological analysis seems to predict the necessity of further therapies before the clinical scenario becomes evident.figure 2 periapical radiographs comparing baseline condition upper line with the situation 1 year after nonsurgical and pharmacological therapy lower linethe main advantage of the ion torrent pgm platform is basically due to the high throughput of the technique able to identify microbiological species missed by culture-based method.
+
+bacterial community shift in treated periodontitis patients revealed by ion torrent 16s rrna gene amplicon sequencing.
+
+periodontol 2000 20105312-27.armitage gc.
+
+periodontol 2000 20105370-88.riep b edesi-neuss l claessen f skarabis h ehmke b flemmig tf et al.
+
+ann periodontol 1999453.nishihara t koseki t. microbial etiology of periodontitis.
+
+periodontol 2000 20043614-26.paster bj boches sk galvin jl ericson re lau cn levanos va et al.
+
+j periodontol 198657492-500.christersson la wikesjo um albini b zambon jj genco rj.
+
+j periodontol 198758540-5.he t hayashi j yamamoto m ishikawa i. genotypic characterization of actinobacillus actinomycetemcomitans isolated from periodontitis patients by arbitrarily primed polymerase chain reaction.
+
+j periodontol 19986969-75.sanz m lau l herrera d morillo jm silva a. methods of detection of actinobacillus actinomycetemcomitans porphyromonas gingivalis and tannerella forsythensis in periodontal microbiology with special emphasis on advanced molecular techniques a review.
+
+j clin periodontol 2004311034-47.germano f bramanti e arcuri c cecchetti f cicciu m. atomic force microscopy of bacteria from periodontal subgingival biofilm preliminary study results.
+

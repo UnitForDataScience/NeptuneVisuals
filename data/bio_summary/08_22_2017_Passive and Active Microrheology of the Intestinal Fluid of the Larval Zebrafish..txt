@@ -1,0 +1,30 @@
+values of mucus viscosity that are 5 times larger than that of water with a slight enhancement in germ-freediscussionfrom both passive and active in vivo microrheological mea- surements of the larval zebrafish gut we find responses that are well described by viscous fluid models with a negligible elastic response from intestinal mucus.
+
+to see this figure in color go online.for the covariance-based estimator of d the goodness-of- fit reduced c2 to brownian diffusion was close to one for all fish e. from mean-square-displacement analysis the scaling exponent a msd fta see  was close to one f. both of these measures are consistent with diffusion in a newtonian fluid and indi- cate neither a significant elastic response nor super-diffusive dynamics.combining all the in vivo measurements regardless of the host's bacterial state we find a value of h 1695014 cp or 1.9 times the viscosity of water for the viscosity of the intestinal bulb at the 100 nm length-scale probed by the tracer particles.as noted earlier nanospheres eventually aggregate into dense boluses along the central axis of the gut.
+
+a fluorescence intensity of a gut gavaged with 150 kda fluorescein-conjugated dextran shows that fluid is cleared from the gut within 2 h. b typical response curves q0duth from driven magnetic microparticles in the intestinal mucus of germ-free upper panel and conventional lower panel zebrafish larvae.
+
+for example in contrast to measurements of reconstituted mucus that report a lowering of viscosity by helicobacter pylori  other studies report an increase in mucus viscosity followingh.
+
+using this method we are able to introduce a vol- ume of fluid small enough that it does not visually displace mucus from the gut as seen by mucus autofluorescence but carries with it the desired tracer particles.
+
+we further expect that information about intestinal viscosity will set constraints on strategies for chemotaxis and other bacterial behaviors in the gut.our observation of a larger apparent viscosity for the few- micron actively driven particles than the sub-100 nm pas- sive particles suggests a size-dependent viscosity known from in vitro studies to be possible even in nonelastic poly- mer solutions .
+
+we present viscosity measurements in germ- free animals devoid of gut microbes animals colonized by a single bacterial species and conventionally reared animals and find that in all cases the mucin-rich intestinal liquid is well described as a newtonian fluid.
+
+in order to control for the fluid that accompanies the tracer particles we estimated the time required for the gut environment to return to its preinjection composition by gavaging zebrafish larvae with an aqueous solution of a fluorescent dye fluorescein-conjugated dextran mo- lecular mass 150 kda sigma-aldrich 46946 and measuring its brightness in the gut over time.
+
+the latter was found to be 16 nm larger than the sin- gle-frame estimate as expected as it accounts for both uncertainty within individual images and vibration across image frames.to relate d to the fluid viscosity h we used the stokes-einstein-suther- land relation d kbt 6pha  where kb is boltzmann's constant t is temperature and a is the particle radius.
+
+using this expression the frequency dependence of a particle's response to an oscillating field can yield a measure of the surrounding fluid's viscosity.
+
+also as noted in  our techniques at present cannot accurately determine the phase angle between the magnetic field oscillations and particle response at the upper end of our accessible frequency range which would provide another potential signature of elastic response.repeating this measurement over several specimens we compute the weighted mean of the viscosity to be 5715095 and 4725051 cp for the intestinal fluid of germ-free and conventional intestines respectively as shown in c n 5 and 10 specimens respectively i.e.
+
+this limitation especially hinders our understanding of how the gut microbiota interact with the intestinal space since examination of this calls not only for in vivo measurement techniques but for techniques that can be applied to model organisms in which the microbial state of the gut can be controlled.
+
+in fact the only reported in vivo measurement of gastrointestinal viscosity is based on echo-planar magnetic resonance imaging which reports viscosity at molecular length-scales and moreover requires highly specialized equipment and large volumes of probe material ''model food'' .to address this we implemented both passive micro- rheology of spherical tracer particles and active micro- rheology of magnetically driven ellipsoids visualizing both passive and driven motion using light-sheet fluores- cence microscopy  which enables rapid spatially resolved imaging well inside a living organism.
+
+regions containing these confined parti- cles are manually identified and excluded from analysis.the peristaltic motility of the zebrafish gut leads to large-scale intestinal flows typically occurring over a few seconds approximately twice per min- ute in between which the gut is fairly quiescent.
+
+for this calibration we independently measured the viscosity of a waterglycerol mixture by tracking the diffusion of 200 nm diameter spherical colloidal particles using an inverted wide-field fluorescence microscope and applied the stokes-einstein-sutherland relation to determine the mixture's viscosity.
+

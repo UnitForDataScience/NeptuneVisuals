@@ -1,0 +1,30 @@
+the individual microalgae species and microalgae consortium removed 18e26 enr at day 11. although the microalgae consortium showed a higher sensitivity with lower ec50 toward enr than the individual microalgae species the removal efficiency of enr by the constructed microalgae consortium was comparable to that of the most effective microalgal species.c 2017 elsevier ltd. all rights reserved.introductionthe security and scarcity of clean water for the safe livelihoods of human beings is of growing concern worldwide.
+
+the microbial consortia systems are more resistant to changes in environmental conditions since the multi-microorganism species with distinct metabolic activities that are adapted to diverse environmental variations was found to allow the development of a robust biological system thatcan operate under different environmental stresses a.previous studies have mainly focused on the toxicological effects of enr on individual microalgal species  .
+
+the column effluent was monitored at 271 nm to detect the enr.the total removal pt of enr by different microalgae species and their consortium was calculated using the following equationptdc0 - ct x 100where c0 is the initial concentration of enr at time zero and ct is the concentration of enr at time t.the enr removal kinetics by five different microalgae species and their consortium were analyzed using a first-order reaction as followsln ct 14 -kt th ln c0where c0 is the initial concentration of enr at time zero ct is the concentration of enr at time t k is the removal rate constant d-1 and t is the removal period in days.statistical analysisthe data were analyzed with a one-way analysis of variance using the tukey-kramer multiple comparison test by graphpad prism version 5.0 usa for windows.
+
+most earlier studies have focused on the removal of eocs using individual microalgal species the interactions of different microalgal species with pollutants in nat- ural habitats have been neglected.
+
+eecotoxicological effects of enrofloxacin and its removal by monoculture of microalgal species and their consortiumjiu-qiang xiong mayur b. kurade byong-hun jeondepartment of earth resources and environmental engineering hanyang university seoul 04763 republic of koreaa r t i c l e i n f oarticle historyreceived 16 december 2016 received in revised form17 april 2017accepted 19 april 2017available online 24 april 2017keywordsemerging contaminants enrofloxacin microalgae biodegradationtoxicitya b s t r a c t enrofloxacin enr a fluoroquinolone antibiotic has gained big scientific concern due to its ecotoxicity on aquatic microbiota.
+
+the ecotoxicity and removal of enr by five individual microalgae species and their consortium were studied to correlate the behavior and interaction of enr in natural systems.
+
+the in- dividual microalgal species scenedesmus obliquus chlamydomonas mexicana chlorella vulgaris our- ococcus multisporus micractinium resseri and their consortium could withstand high doses of enr  l1 mg l-1.
+
+growth inhibition 68e81 of the individual microalgae species and their consortium was observed in enr 100 mg l  compared to control after 11 days of cultivation.
+
+the calculated 96 h ec50 of enr for individual microalgae species and microalgae consortium was 9.6e15.0 mg enr l-1.
+
+has been widely practiced because of the higher sensitivity of algae compared to that of other microorganisms bacteria fungus daphnids and fish toward the environmental stresses which can induce the overaccumulation of reactive oxygen species in microalgae cells  .
+
+earlier reports have primarily focused on ecotoxicological studies using individual microalgal species however the natural ecosystem is composed of0269-7491c 2017 elsevier ltd. all rights reserved.j.-q.
+
+numerous microalgae species in a single natural habitat interact with each other synergistically or antagonistically and may compete for nutrients andor light.
+
+in addition the removal of enr by microalgal species has not been investigated to date.
+
+thus this study was aimed to investigate the ecotoxicological effects of enr on five commonly distributed freshwater green microalgae species scenedesmus obliquus chlamydomonas mexicana chlorella vulgaris ourococcus multisporus and micractinium resseri and their con- sortium as determined by growth inhibition pigment total chlo- rophyll and carotenoid changes and malondialdehyde mda.
+
+the removal efficiency and kinetics of enr by five microalgae species and their consortium were also evaluated.materials and methodschemicalsenrofloxacin  98.0 purity hplc grade was purchased from sigma-aldrich st. louis mo usa and its physico-chemical properties are presented in table s1.
+

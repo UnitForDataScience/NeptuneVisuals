@@ -1,0 +1,30 @@
+here we measured fecal-associated bacterial archaeal and fungal communities of dairy cows from 2 weeks to the middle of first lactation 2 years as well as rumen-associated communities from weaning 8 weeks to first lactation.
+
+sequence coverage was deemed sufficient as determined by a good's coverage greater than 97 for all bacterial and fungal communities and most archaeal communities.
+
+a total of 10 fecal archaeal communities 2-week 8 4-week 2 had low good's coverage 0-93 after repeated sequencing yielded a minimum of 36000 raw contigs per sample supplementary table 3.rumen and fecal communities are consistent with known cow microbiota.
+
+archaeal communities ranged from 0 to 35 bacterial from 50 to 1727 and fungal from 10 to 75 otus per sample after normalization supplementary table 3. archaeal communities contained 99 euryarchaeota mostly within the genus methanobrevibacter.
+
+all fungal communities were dominated by the family neocallimastigaceae or otus unclassified at the phylum level supplementary table 4.gut communities show higher alpha-diversity but lower beta-diversity with age.
+
+controls for animal identity among fecal communities and randomized groups among all communities were not significant for any amplicon.inter-animal variation decreased with age as evidenced by decreased spread of bray-curtis values within age groups f1 as well as higher numbers of shared otus in older animals f2.
+
+both archaeal and bacterial communities in rumen liquids and solids showed decreased dispersion from 8 weeks to 1 year to 2 years permdisp p  0.05 except archaeal dispersion in rumen solids which only showed a trend permdisp p  0.06 supplementary table 5. in feces archaeal and bacterial communities were more dispersed at 2 and 4 weeks than at 8 weeks and continued to converge from 8 weeks to 1 year.
+
+in general fecal fungal communities showed the same trends in the same f-otus as rumen communities.
+
+animal growth as defined by average daily gain adg in weight kg correlated to the structure andor composition of archaeal and fungal communities in 1-year rumen liquids while bacterial communities in 2-year rumen liquids correlated to adg.
+
+scours did not significantly impact archaeal communities and was not tested in fungal communities as this amplicon was not sequenced for 2 week samples.
+
+as pre-weaning calves are pre-ruminants meaning they have an un- or under-developed rumen and much of their dietary intake by-passes the rumen feces is a useful proxy for gut communities at this age and allows for sampling from animals over time.we found that bacterial communities quickly establish in the calf git feces as early as 2 weeks of age con- firming previous reports.
+
+thus we investigated rumen communities in a limited number of animals in addition to fecal communities in all ani- mals from 8 weeks onward.
+
+this is further supported by studies in goats where the rumen micro- biota was similar in weaned and adult animals that were co-housed pre-weaning.adult rumen communities were dominated by prevotella and succinivibrionaceae and adult rumen and fecal fungal communities were dominated by cellulolytic and fibrolytic genera within the neocallimastigaceae as has been seen previously.
+
+these communities were then correlated to animal growth and health.
+
+over 99 of this milk is produced by ruminants and like most herbivores these animals rely solely on their gastrointestinal tract git microbial communities for the conversion of dietary plant substrates into accessible nutrients.
+

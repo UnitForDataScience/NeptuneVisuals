@@ -1,0 +1,24 @@
+pylori eradication it is possible to make assumptions about the reversibilityirreversibility of therapy-related changes.the data can be used to estimate the distribution of antibiotic resistance genes in the genetic pool of the gut microbiota after h. pylori eradication therapy.using this data one can describe the general trends of the microbial composition variation caused by antibiotics and predict possible side effects.the data can be used to detect the genetic markers of dysbiosis and to design a minimally invasive pcr diagnostic system.datathe data represent the result of metagenomic shotgun-sequencing of human gut microbiota at 3 time points before the h. pylori eradication therapy immediately after 2 weeks of therapy and several weeks after the treatment.
+
+malanin  rustam a. abdulkhakov  sayar r. abdulkhakov  vladislav m. chernov tatiana v. grigoryeva a kazan federal university 18 kremlyovskaya 420008 russiab kazan state medical university 49 butlerova 420012 russiaa r t i c l e i n f o article historyreceived 20 june 2017 received in revised form 27 june 2017accepted 25 july 2017available online 28 july 2017keywordshuman gut microbiota helicobacter pylori eradicationantibioticsa b s t r a c t the shotgun sequencing data presented in this report are related to the research article named gut microbiome shotgun sequen- cing in assessment of microbial community changes associated with h. pylori eradication therapy khusnutdinova et al.
+
+the dataset contains 15 metagenomic samples in raw reads format with 30.4 7 10.7 mln of reads per sample mean 7 sd.these data together with those described in 2 were involved in the study devoted to the gut microbiome changes caused by antimicrobial therapy 1.these data together with those described in were involved in the study devoted to the gut microbiome changes caused by antimicrobial therapy .detailed description of samples is given in .460e.a.
+
+data articleshotgun metagenomic data on the human stool samples to characterize shifts of the gut microbial profile after the helicobacter pylori eradication therapyeugenia a. boulygina  maria i. markelova  dilyara r. khusnutdinova  maria n. siniagina  sergey yu.
+
+we perform 15 gut metagenomes from 5 patients with h. pylori corresponding author.e-mail address e.a.
+
+kovarsky r. ismagilova r. abdulkhakov v. chernov gut microbiome shotgun sequencing in assessment of microbial community changes associated with h. pylori eradication therapy bionanoscience 6 4 2016 585-587.
+
+malakhova e. ilina r. abdulkhakov d. safina t. grigoryeva s. abdulkhakov v. govorun data on gut metagenomes of the patients with helicobacter pylori infection before and after the antibiotic therapy data brief 11 2017 68-71.
+
+graham r. hunt p. moayyedi t. rokkas m. rugge m. selgrad s. suerbaum k. sugano e.m. el-omar the european helicobacter study group management of helicobacter pylori infection -- the maastricht vflorence consensus report gut 2016 .
+
+the presented data on the whole-genome sequencing of the total dna from stool samples of patients before the start of the eradication immediately after eradication and several weeks after the end of treatment could help to profile the gut microbiota both taxonomically and functionally.
+
+shotgun meta- genomic sequencing was performed on solid 5500 w platform according to the recommendations of the manufacturer.data source location kazan russian federationdata accessibilitydata are available from ena under project accession number prjeb21338value of the datathe data allow researchers to evaluate changes in the taxonomic and functional composition of the human gut microbiota which is associated with the use of amoxicillin and clarithromycin.since the data include the metagenome profile at the 3rd time point several weeks after the end ofh.
+
+typically the h. pylori eradication protocol includes a prolonged two-week use of the broad-spectrum antibiotics.
+
+time point column shows the time of sample collection 1 means at the start of the therapy 2 - immediately after therapy 3 - several weeks after therapy.experimental design materials and methodssample collectionfifteen stool samples from 5 patients with symptoms of stomach andor duodenum disease and helicobacter pylori detected by endoscopy were taken for analysis.
+

@@ -1,0 +1,30 @@
+in addition fbj murine osteosarcoma viral oncogene homolog has been confirmed to enhance gut health by altering the ecology of the gut microbiota and improving the proteolysis of feces 8. another important gene interleukin 6 has been confirmed as a key molecule in gut barrier dysfunction 9. although several genes associ- ated with intestinal health have been investigated further information is required.
+
+a previous study also confirmed that polymorphisms of slc22a4 were closely associated with early inflammatory bowel disease 38. the development of the gut microbiota is essential for promoting the gut immune system and maintaining system balance 39. therefore slc22a4 may be an essential gene for intestinal health via modulating the immune system.in conclusion the present study performed bioinformatics analysis of the effects of gut flora on molecular changes in intestinal epithelial cells.
+
+by comparing microbiota-depleted mouse samples and control mouse samples a total of 115 degs including 58 upregulated genes and 57 downregulated genes were screened.
+
+therefore molecular mechanisms including critical genes pathways and their interactions require investigation.in the present study microarray analysis was performed for the screening of differentially expressed genes degs between microbiota-depleted mice and control mice.
+
+the associations among the genes and keywords were linked to the relevant medline abstracts in which the co-occurrence of genes and keywords are highlighted.
+
+co-citation networks of degs were constructed for the mining of 'hot genes' which were observed to be repeatedly associated with the other genes.
+
+1 the median of each sample was at the same level.a total of 115 degs were screened with the thresholds of log2fc 0.585 and adjusted p-value of p0.05 which included 58 upregulated genes and 57 downregulated genes.
+
+among these genes the aurka incenp birc5 and aurkb downregulated genes and slc22a4aurka is concentrated primarily at the spindle poles in the period of meiosis mi and meiosis ii whereas aurkb locates at kinetochores in the period of mi 24. as with aurka aurkb was identified in the present study as being enriched in functions of chromosome segregation and cell division.
+
+a previous study showed that the diversity of the colonic mucosa was closely associated with bacterial microflora in patients with active inflammatory bowel disease 3. disturbances of microbiota may also induce immune dysregulation and can develop into inflammatory bowel disease 4. in addition gut bacteria can degrade various xenobiotics including halogenated aromatic compounds which may be beneficial for human health 5.various genes associated with intestinal f lora have been identified for investigating intestinal health.
+
+intestinal health is defined as a state in which there are no signs of gut disease no risk of intestinal disease and no intestinal diseases 1. the adhesion of intestinal flora to the intestinal wall can have a beneficial or deleterious role in hosts and determines the health status of the gut 2. therefore investigations of intestinal flora are essential for intestinal health.
+
+gut 53 685-693 2004.round jl and mazmanian sk the gut microbiota shapes intestinal immune responses during health and disease.
+
+the present study aimed to investigate the molec- ular mechanisms including potential genes pathways and interactions underlying the effect of intestinal flora on intes- tinal health.
+
+the gene expression profiles of gse22648 were downloaded from the gene expression omnibus database to screen differentially expressed genes degs.
+
+the upregulated genes were enriched into various go terms including microsome oxidation reduction and heme binding whereas the 57 downregulated degs were enriched in different functions including dna packaging and linoleic acid metabolism.
+
+a total of 19 genes including bacu- loviral iap repeat containing 5 aurora kinase a angiotensin i converting enzyme 2 and free fatty acid receptor 2 were iden- tified and enriched in four modules including cell division chromosome segregation inflammatory bowel disease and inflammatory response.
+

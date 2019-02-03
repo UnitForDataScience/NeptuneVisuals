@@ -1,0 +1,30 @@
+more specifically genome-scale metabolic models gems are complete metabolic maps of an organism containing the entire set of metabolic reactions and permitting integration of metabolomics and metagenomics data in a more biologically meaningful context.
+
+this novel topological-based method could identify potential biomarkers or key genesmetabolites to be targeted for future in-vitro experiments.community metabolic modelspredicted relative metabolic turnover prmt is a network-based modeling method that was initially created to predict community metabolic function solely from metagenomic information.
+
+in comparison analyzing multi-omics data is still in its infancy usually requiring development and application of advanced statistical algorithms to leverage multiple heterogeneous yet interconnected data matrices.
+
+in this review we focus specifically on recent progress and applications of different computational strategies for integration of metabolomics in the context of microbiome studies.metabolomics data integration in the microbiomemulti-omics data consists of two or more matrices that share the same sample ids but contain different biological variables such as genes metabolites or operational taxonomic units otus.
+
+univariate correlation-based approaches are often used together with other knowledge-based approaches to aid in data interpretation.multivariate correlation-based approachesalthough significantly more complex than univariate methods multivariate approaches can simultaneously consider interactions between and within data matrices.
+
+also applied pa on 16s rrna microbiome data and metabolomics data to gain an integrated look at the relationship between the microbiome and metabolome.
+
+2003 17 53-64. bylesjo m. eriksson d. kusano m. moritz t. trygg j. data integration in plant biology the o2pls method for combined modeling of transcript and metabolite data.
+
+in this review we provide an overview of different computational approaches that have been used in recent years for integrative analysis of metabolome and microbiome data ranging from statistical correlation analysis to metabolic network-based modeling approaches.
+
+the authors adapted the prmt method to use estimated gene abundances from metagenomic data to produce community-wide metabolic potential cmp scores for each metabolite and sample.
+
+metabolic models which are comprehensive metabolic reconstructions of an organism are an alternative to the previous interaction-based network approach.
+
+these gems can be merged to create community-wide metabolic networks and further linked with tissue-specific host gems to help investigate host-microbiome interactions .topological analysis of metabolic modelsthe seed set framework  is one commonly used topological-based approach for gem investigations.
+
+borenstein e. metabolic model-based integration of microbiome taxonomic and metabolomic profiles elucidates mechanistic links between ecological and metabolic variation.
+
+however analyzing the resulting multi-omics data remains a significant challenge in current microbiome studies.
+
+much work has been done to analyze individual omics data with many powerful bioinformaticsmetabolites 2017 7 62 doitools developed over the past decade to enable metabolome and microbiome profiling -.
+
+more recent developments aim to directly incorporate prior knowledge into statistical models to improve both statistical power and interpretability of the results.figure 1. a graphical summary of the major types of computational approaches for integrative analysis of multi-omics data.
+

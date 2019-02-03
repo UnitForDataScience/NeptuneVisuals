@@ -1,0 +1,30 @@
+peptides having homologous regions of  enrichment9 aa were included in the study.all the gut bacterial proteins as well as human proteins corresponding to homologous pep- tides were subjected to various characterization in order to further understand their biological relevance to disease etiology.bacterial characterizationbacterial proteins were studied for their antigenic potential and for location of peptides in bacte- rial cell.
+
+the most common gene binding to common hla-ii alleles is aldehyde dehydrogenase 3 family member b1 produced by many e. coli strains.this gene encodes isozyme of aldehyde dehydrogenases and may detoxify aldehydes generated human candidate proteins and their significant association with different kegg pathways.human candidate proteins are human proteins having peptide homology to respective bacterial peptides.by alcohol metabolism and lipid peroxidation.
+
+human candidate proteins and the homologous gut bacterial proteins hu.
+
+15576 candidate peptides unique candidate pep-tides  2295 from 396 unique bacterial species were found to have peptide homology with 689 unique human proteins candidate human proteins.
+
+out of a total unique gut bacterial candidate peptides 3 were observed to be present on outer membrane 60 on inner membrane 15465 are cyto- plasmic proteins 34 were periplasmic and 14 were extracellular secretory proteins  .
+
+it is therefore likely that both may be correlated as depletion of gut lining exposes the gut bacterial antigens to host immune mechanisms which may induce immunity to certain bacterial proteins but at the same time such immunity may also be auto-immunogenic to host.
+
+24 gut bacterial pep- tides with homology to four human peptides from proteins like low molecular weight phospho- tyrosine protein phosphatase aldehyde dehydrogenase family 3 member b1 maleylacetoacetate isomerase and uracil-dna glycosylase were found to have binding affinity with either of the ten common hla-ii alleles  namely hla-drb10101 hla-drb10301 hla-drb10401 hla-drb10405 hla-drb10701 hla-drb10802 hla-drb11101 hla-drb11302 hla-drb11501 and hla-drb50101 .bacterial candidates characterizationpredominant gut bacterial phyla.
+
+location of bacterial candidate proteins on bacterial cell.xlss4 table.
+
+number of bacterial species encoding autoimmune peptides in each gut bacterial phyla of the autoimmune candidate peptides dataset.significantly larger number of bacterial species is required from actinobacteria phyla for encoding autoimmune peptides.
+
+p-value and 95 ci for a significant difference was calculated using pearson's correlation using sisa statistical tool .human protein characterizationthe human proteins corresponding to candidate peptides candidate human proteins were characterized using systems biology approach to know which biological process kegg path- way and tissue may be affected and the type of diseases associated with raising of antibody to the candidate peptide.disease association.
+
+total 670 and 470 candidate human proteins were annotated by biological processes and kegg pathways respectively.clustered heatmap of human candidate proteins associated with late onset complex diseases and their binding affinity threshold with common hla class ii alleles.
+
+of the 14 extracellular peptides 6 peptides have binding affinity with hla class ii alleles and tables.human candidate protein characterizationcandidate human proteins are human proteins having peptide homology to respective bacte- rial peptides.human disease targets.
+
+many of these proteins were found to be metabolic in function n  118 without considering genes related to aids and these metabolic proteins were associated with almost all the diseases and .human tissue targets.
+
+kegg pathway annotated 470 proteins of the dataset and showed metabolic pathway as the most significant human candidate proteins and their expression in different tissues.pathway which included glycolysis  gluconeogenesis citrate cycle tca cycle fatty acid degradation abc transporters etc.
+
+exploring the role of gut microbes in intestinal as well as extra-intestinal dis- eases will significantly advance our understanding of disease pathogenesis and may further help develop strategies for a therapy based on controlling autoimmunity to gut microbiota.in our understanding this is the first instance where an in-silico study was carried out to know if gut bacterial peptides has potential to raise antibodies against human proteins.
+

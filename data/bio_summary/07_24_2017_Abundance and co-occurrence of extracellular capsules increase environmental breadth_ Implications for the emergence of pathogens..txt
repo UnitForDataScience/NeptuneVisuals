@@ -1,0 +1,30 @@
+we aimed at answering the following questions how many capsules are there in prokaryotic genomes do multiple capsule groups co-occur and if so are there any correlations between capsule groups which prokaryotes encode capsules which are the genetic and life-history traits associated to capsule prevalence what is the environ- mental distribution of prokaryotes encoding capsules our results uncovered novel intriguing patterns in the distribution of capsules which have important biological implications and pro- vide new insights into the evolutionary and ecological role of capsules.resultscapsulefinder a tool to mine genomes for extracellular capsuleswe defined independent and customizable models describing the genetic composition and organization of eight groups and subgroups of capsules  based on the literature of the best-described experimental capsule systems -    .
+
+some capsules are proteic instead of polysaccharidic notably the poly-g-d-glutamate or pga capsules produced by bacillus anthracis .to date very few studies have characterized the frequency and diversity of capsules across bacterial phyla presumably because they are difficult to identify.
+
+research articleabundance and co-occurrence of extracellular capsules increase environmental breadth implications for the emergence of pathogensolaya rendueles12 marc garcia-garcera12 bertrand ne'ron3 marie touchon12 eduardo p. c. rocha121 microbial evolutionary genomics institut pasteur paris france 2 umr 3525 cnrs paris france3 c3bi cib institut pasteur paris france abstractopen accesscitation rendueles o garcia-garcera m ne'ron b touchon m rocha epc 2017 abundance and co- occurrence of extracellular capsules increase environmental breadth implications for the emergence of pathogens.
+
+to understand the role of multiple capsules we queried more than 6700 metagenomes for the presence of species encoding capsules and showed that their distribution varied between environmental categories and within the human micro- biome between body locations.
+
+species encoding capsules and especially those encoding multiple capsules had larger environmental breadths than the other species.
+
+the funders hadno role in study design data collection and analysis decision to publish or preparation of the manuscript.competing interests the authors have declared that no competing interests exist.introductionextracellular capsules hereafter named capsules constitute the outermost layer of some pro- karyotic cells where they establish the first contact between the microorganism and its envi- ronment.
+
+group ii and iii capsules will be jointly referred to as abc-dependent capsules.
+
+abc-dependent and synthase-dependent capsules were less frequent nearly 10 each and subgroup cps3 capsules were the most fre- quent among the latter.
+
+group iv capsules 8.8 and pga proteic capsules were rarer 3.1 and .we investigated the presence of capsule systems in all major taxonomic divisions of bacte- ria and archaea .
+
+nevertheless our results show that some groups of capsules have loci of almost invariable sizes all group iv capsules whereas others showed very significant variation in the number of components especially group i and abc see lower slopes in .
+
+we observed significant co-occurrence of group i capsules and most of the other capsule groups and  including abc-dependent capsules and group ivs.
+
+to conclude the rapid genetic turnover of capsule systems withinclosely-related genomes  suggests that they can rapidly change to face environmental or lifestyle changes.capsules are rare in obligatory and frequent in facultative pathogensthe observation that multiple capsules are more frequently observed in commensals mutual- ists or environmental bacteria seems at odds with the hypothesis of a tight association between capsules and pathogenesis.
+
+interestingly we observed that the relative abundance of csp and csp- was strongly dependent on the human body sites ancova p  0.001 .taken together our results show that even if capsules are relatively rare among obligatory pathogens they are very frequent in human microbiota where they are frequently associated with clinical conditions.discussionunraveling the repertoire of capsules of prokaryotescapsules play important roles in bacterial virulence but their study has been hampered by the lack of computational tools to identify them in genomes.
+
+in this case capsule variation seems to evolve as a response to the rapid change of the human immune system .bacteria may also encode multiple capsules from different groups as described for the pga and synhas capsules encoded in different plasmids of bacillus cereus biovar anthracis.
+
+because some groups of capsules are more compatible with cer- tain membrane structures pili flagella secretion systems than others.the mechanisms leading to the acquisition of multiple capsules will have to be studied in detail in the future but our results already provide some clues.
+

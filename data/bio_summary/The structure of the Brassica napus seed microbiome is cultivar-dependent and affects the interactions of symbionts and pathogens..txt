@@ -1,0 +1,30 @@
+altogether our observations of the struc- tural as well as functional aspects of the oilseed rape seed microbiome confirmed our hypothesis that the seed microbiome of oilseed rape is cultivar-specific.further we hypothesized that the generally low richness of the avatar seed microbiome high predicted metabolic activity and reduction in the abundancies of the import- ant beneficial phyla were factors contributing to its sus- ceptibility towards pathogens.
+
+.cultivar-dependent response to the bacterial seed treatment under gnotobiotic conditionsbacterial communities of the oilseed rape cultivars traviata und sherpa clustered close together in both the alpha- and beta-diversity microbiome analyses while the avatar cultivar microbiome showed signifi- cant differences figs.
+
+beneficial plant-associated mi- croorganisms are a valuable resource for the develop- ment of biological control agents and plant growth promoting rhizobacteria they can be applied in agriculture to improve plant health and to suppress pathogens additionally beneficial microorganisms support microbial diversity in the agricultural industry in order to develop biocontrol strategies that have consistently positive effects on plant health we need to better understand the plant holobiont there has been very little published on the topic of the brassica microbiome - and nothing is known about endophytic bacterial communities in brassica seeds.three common cultivars avatar sherpa npz and traviata kws saat ag were chosen for our compara- tive study of the seed microbiota of brassica napus l. a variety of methods were implemented in the experimental design in order to check our hypotheses.
+
+principal coordinate analysis pcoa was performed to assess the beta diversity based on the calculation of the weighted unifrac distance matrix ring-charts were created using the krona software package version 2.7  the profile network on taxa level was constructed using cytoscape version3.4.0  correlation and network analysis was per- formed on the data containing the core microbiome ofanova kruskal-wallis test as suggested by erlacher and co-workers  the raw sequence files support- ing the findings of this article are available in the ncbi sequence read archive sra under the bioproject id prjna358488.quantitative pcr qpcrmicrobial abundance in the seeds of oilseed rape cultivars avatar sherpa and traviata was determined by perform- ing qpcr.
+
+the structure of the bacterial communities within the seeds of the three oilseed rape cultivars including allcore and specific microbiome of brassica seedsfrom the 8362 of the total bacterial observed otus in all three cultivars 2748 33.7 of the total otu were shared between them fig.
+
+0.025 in average for all three cultivars is responsible for the absence of any effect of b. sordidicola 288p4r on the seedlings' growth.this is the first study that links the seed microbiome of commercially important oilseed rape cultivars with their ability to react to bacterial seed treatments.
+
+among those taxa six were significantlyincreased and two were significantly decreased in the avatar cultivar when compared to the other cultivars table five of the genera found in higher abundance in the avatar seeds were assigned to taxa that are recognized as being beneficial burkholderiaceae bradyrhizobiaceae and mesorhizobium.
+
+microbiome 2017 5104doi 10.1186s40168-017-0310-6the structure of the brassica napus seed microbiome is cultivar-dependent and affects the interactions of symbionts and pathogensdaria rybakova1 riccardo mancinelli12 mariann wikstrom3 ann-sofie birch-jensen3 joeke postma4 ralf-udo ehlers5 simon goertz6 and gabriele berg1 correspondence 1graz university of technology institute of environmental biotechnology petersgasse 12 8010 graz austriafull list of author information is available at the end of the articlec the authors.
+
+variations in seed production practices storage condi- tions and other abiotic factors may in part be respon- sible for variations in seed microbiota between seed charges as suggested by barett and co-workers however plant species-specific and even cultivar- specific components in the microbiome structure have already been reported in many studies 2 this confirms our hypothesis that the seed microbiome of oilseed rape is cultivar-specific.
+
+the correlation of microbial diversity with colonization resistance towards pathogens was also demonstrated for the human gut microbiome  thus confirming our theory of cross-kingdom similarity in host-microbial interactions conclusionsthe seed microbiome of oilseed rape is cultivar-specific and reflects the impact of breeding.
+
+interestingly 9 out of 11 beneficial phyla were found in lower abun- dance in avatar seed microbiome when compared tosherpa and traviata seeds.
+
+notably the avatar cultivar displayed a non-significant decrease in the richness levels of predicted microbial functions.microbial interaction networks in the brassica seeds microbiomea microbial interaction network for the oilseed rape seed microbiome containing only significant interactions p 4 x 10-4 q 4 x 10-4 and connected nodes is shown in fig.
+
+in the avatar seeds 13.1. functional diversity within a microbiome has been postulated to be more import- ant than structural diversity .
+
+the seed microbiome of all three cultivars of oil- seed rape contained mainly taxa of proteobacteria 55.8 followed by cyanobacteria 12.7 and firmi- cutes 7.3 additional file  figure s2.
+
+we proved a correlation between the diversity and tightness of the seed microbiome to the colonization resistance of the cultivars.
+

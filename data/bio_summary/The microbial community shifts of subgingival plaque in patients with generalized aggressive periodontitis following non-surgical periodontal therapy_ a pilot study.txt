@@ -1,0 +1,30 @@
+the intraoral photos and panoramic radiographs of two patients beforeand after treatment were shown in figure s2 and figures3.filtration and quality evaluation of original dataa total of 952272 v4 16s rdna paired-end reads were obtained from the 16 samples the minimum and maximum numbers of reads from the 16 samples were 12564 and 100089 respectively figure 1. all of the 16 samples were used in this analysis.
+
+some opportunistic pathogen increased after treatment which can not cause diseases in normal conditions.when comparing pre- and post-treatment samples we observed a shift in the composition of the oral microbiota supporting the well characterized transition from a gram-negative dominated community in pre-treatment samples to a gram-positive dominated community in post-treatment samples.
+
+both patients received full mouth scaling and root planning.microbial samplingsubgingival plaque samples from mesio-buccal site of the first molar were obtained at baseline and at the four-week follow up so that a total of four samples before treatment and four samples after treatment for each patient were analyzed.
+
+the hypervariable region v4 of the 16s rdna gene was targeted to explore richness and diversity of subgingival plaque samples 11.resultsin this study we analyzed subgingival plaque samples of two patients with gagp for shifts in the microbial community in response to mechanical debridement.
+
+the second vertical axis otus number represents the final otu number after taxonomic analysis.table 1 comparison of the estimated operational taxonomic unit otu richness diversity index and simpson index of 16s rdna gene libraries for clustering at 97 identity as obtained from the pyrosequencing analysis.g and z represented the samples from the patient g and z before treatment gt and zt represented the samples from thepatient g and z after treatment.which led to an increasing percentage of pathogenic microorganisms in microflora before treatment.
+
+however the size of the samples was limited more samples wereneeded to study the interaction between pathogens moredeeply and find the functional genes of oral microbiomes.materials and methodsstudy subjectsthe study was approved by the medical ethical committee of school of stomatology shandong university protocol number 201302070. two subjects designated as g and z with gagp were recruited from department of periodontology school of stomatology shandong university.
+
+v4 hypervariable region was picked for pcr amplification of subgingival samples.
+
+using a metagenomic approach first proposed by kroes et al 3 and paster et al 4 over 1000 phylotypes have been detected in the oral samples 5 which raised the possibility that uncultivated and as-yet-uncharacterized species might also participate in the etiology of oral diseases 6. itis now well recognized that periodontitis is a kind of polymicrobial infection.
+
+metagenomic study involves the identification sequencing and functional and transcriptome analysis of environmental samples.
+
+however the microbial community shifts pre- and post-treatment of gagp is still unclear.therefore our present study aimed to elucidate explorative and descriptive shifts in bacterial communities by next generation sequencing of subgingival plaque samples from two gagp patients before and after mechanical debridement.
+
+the average length of the filtered sequence reads was 253 bp table s2.operational taxonomic unit-based analysisthe taxon abundance of all 16 samples was generated into 34 phyla 82 classes 127 orders 156 families and 187 genera.
+
+first all operational taxonomic units otus picked from the 16 samples were normalized by homogenization procedure.
+
+the shannon and chao1 index curves of all samples reached plateaus with the current sequencing figure 3a 3b suggesting that most richness and diversity had already been captured.
+
+unifrac pcoa of 7897 average494 otus grouped at 97 sequence identity showed a clear separation between the samples pre and post- treatment figure 4a.
+
+figure 4a showed that the percentage of variation explained by pc1 and pc2 were 63.78 and 20.20. samples before treatment formed a group apart from the two groups after treatment which indicated that there was significant difference in the subgingival bacterial composition before and after treatment.
+

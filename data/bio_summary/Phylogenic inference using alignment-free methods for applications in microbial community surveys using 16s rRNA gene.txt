@@ -1,0 +1,30 @@
+the result is consistent among the replicates and the distances are reported in in all the cases the consensus of alignment-free results in smaller distances to the goldtree distances of consensus tree of alignment-free methods consensus of muscle-based alignments consensus of pynast-based alignments consensus of fasttree inference consensus of raxml inference consensus of all alignment-based methods relative to gold standard taxonomic tree.
+
+fasttree inference thus appears to produce the closest tree to the taxonomic tree.consensus tree from alignment-free methods is superior to consensus tree from alignment-based methods in recovering the taxonomic treealthough individual trees from alignment-free method on average perform worse than trees from alignment-based method we investigate how a consensus tree built from alignment-free methods compares to alignment-based method in terms of performance.
+
+treedist distances across the replicates are reported smaller distances indicate better resemblance of the consensus tree to the gold standard taxonomic tree.standard taxonomic tree showing superior performance to all the other consensus trees including the consensus tree of all the alignment-based methods.running timefor alignment-based methods the timing is broken down into two components with the first getting alignment from either pynast or muscle and the second performing the inference using fasttree or raxml.
+
+these alignment-based trees have been included in the tree distance computation with alignment-free trees.in the second comparison we created consensus trees of each group to compare the accu- racy of alignment-free and alignment-based trees as a whole.
+
+to establish a taxonomic tree we created a tree gen- erator program that generates the tree based on the taxonomy information provided by greengenes which would serve as the gold standard in evaluating the accuracy of the trees.
+
+after resolving multifurcations in the consensus tree by adding zero- length branches we next used fitch to estimate the branch lengths of the consensus tree under the three alignment free alternatives.
+
+the consensus trees have been included in the tree distance computa- tion as in the other comparisons.taxonomic tree generator algorithm.
+
+the total time varied from a little over 1 hour cvtreeneighbor to 7 hours acsneighbor and krneighbor.building the consensus tree from individual trees took approximately 3 minutes regardless of the tree types.alignment-free methods result in better separation of relevant experimental groups in permanova analysesa commonly adopted approach for analysis of microbiome data is to perform permutational multivatiate analysis of variance analysis permanova to associate the microbial commu- nities with experimental variables .
+
+we created a consensus for each alignment method such as a consensus with muscle-based alignment namely muscle  fasttree and mus- cle  raxml and for each tree inference such as a consensus with fasttree inference namely muscle  fasttree and pynast  fasttree.
+
+there- fore we created a consensus tree from acs cvtree and kr as well as consensus trees of a combination of pynast muscle fasttree and raxml.
+
+in fact consensus ensem- bles of alignment-free phylogenies are far superior to those based on alignment-based methods in correctly recovering taxonomic relationships.in comparing the distances of taxonomic trees and trees derived from alignment-free meth- ods it appears that even though the three alignment-free methods have similar accuracy they capture different aspects of the evolutionary process resulting in different tree topologies.alignment-based methods on the other hand are much more similar to one another.
+
+inter- estingly even though the overall similarity of the alignment-free trees to the taxonomic tree is comparable there is a lot of discordance among the trees inferred by the three alignment-freetree distances of alignment-free methods and alignment-based methods relative to the gold standard taxonomic trees.
+
+thus it is likely that alignment-free methods approximate the evolutionary features using a variety of techniques that capture different characteristics of the true evolutionary process.when each individual alignment-free tree is compared to an alignment-based tree from a combination of pynast muscle raxml and fasttree the performance is lower with the tree from pynastfasttree showing the greatest accuracy.
+
+we first computed the consensus tree of the alignment-free trees using consense.
+
+we also created a consensus tree of all alignment-based trees.
+

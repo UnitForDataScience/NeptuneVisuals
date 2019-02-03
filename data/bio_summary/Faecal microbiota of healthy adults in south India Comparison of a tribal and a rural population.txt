@@ -1,0 +1,30 @@
+the matched sequences were sorted according to whether others in the group also exhibited similar sequences or whether they were sequences unique to that individual that were not identified in any of the 19 other participants in the metagenomic analysis.
+
+taking each individual participant 96-100 per cent of the sequences could be matched with sequences already available in the ncbi andor silva databases with identities ranging from 83 to 100 per cent.
+
+the p test using fast unifrac with 500 permutations showed that clustering was significant p0.01 when sequences present only in ta were compared with sequences present only in ra or shared sequences.discussionthis study on faecal microbiota composition of healthy adults belonging to a tribal and a rural population of south india showed that there were significant differences in the faecal microbiota in these two populations and that they clustered along different patterns.
+
+2006281587-94. pubmed 16937249wang q garrity gm tiedje jm cole jr. naive bayesian classifier for rapid assignment of rrna sequences into the new bacterial taxonomy.
+
+analyses of genetic distance revealed that the microbiota were distinctly different between ta and ra and principal component analysis using 550 distinct taxonomically identifiable sequences revealed a clear separation of microbiota composition in the two groups.
+
+the reads were filtered and trimmed generating flow grams and base called sequences with quality scores following which all high-quality information was output to standard flowgram format sff files one perpicotiterplate region.
+
+a search was done to find regions of local similarity between sequences using the silva rrna database  and ncbi blast nucleotide database .
+
+pairwise global alignment was done using needleman-wunsch global alignment algorithm to find the optimum alignment including gaps of two sequences along their entire length the alignment was done on selected candidate hits to find the best aligned hit.
+
+the best hit selected from these steps was used to assign the taxonomic classification.further analysis of the data was made on the basis of the phylogenetic classification of the sequences from each individual.
+
+trimmed sequences were classified at phylum to genus level using ribosomal databaseproject rdp ii classifier and at species level using rdp ii seqmatch2324.
+
+in addition labelled fasta sequences were aligned using geneious pro version 5.4.6 .
+
+sample distance matrices were constructed based onthe genetic distances between individuals within groups as well as individuals in different groups and shown as heat maps.statistical analysis fast unifrac27 was used to calculate the p test significance and the unifrac significance using 208 of the 210 abundant sequences.
+
+of these sequences 26 were represented in both groups 95 were represented only in group 1 and 87 only in group 2. both p test significance and unifrac significance were calculated using 500 permutations.
+
+a total of 227710 sequences short reads passed the initial quality control and were analyzed.
+
+on an average 1500 distinct microbial sequences were detected per individual of which two-thirds were found in at least one other individual tested in this study while one-third were unique to that individual.
+

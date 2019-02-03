@@ -1,0 +1,30 @@
+of the 192 detected genera 26 and 166 were more abundant in larvae and adults respectively of the 369 species 81 and 288 were more abundant in larvae and adults respectively.the percentage of reads in l. boscai that were related to bd inhibition strongly differed between both groups with 48.9 sd 5 14.6 for larvae and 34.8 sd 5 14.5 for adults t-test p-value  0.001. for t. marmoratus the per- centages were of 51.9 sd 5 17.2 for larvae and 29.4 sd 5 2.6 for adults however no statistical differences were detected between groups t-test p-value 5 0.11.differences in skin bacterial communities between aquatic and terrestrial adultsthe skin bacterial communities of terrestrial and aquatic adults of l. boscai and t. marmoratus differed in both com- position and structure permanova l. boscai - binary jaccard pseudo-f 5 9.681 p-value 5 0.001 bray-curtispseudo-f 5 17.947 p-value 5 0.001 fig.
+
+s2.discussionthis study provides novel information on the composition of the skin bacterial communities of two newts from theamphibian skin bacterial communities differ between larvae and adultsthis study showed that the skin bacterial community of l. boscai differed in composition and alpha diversity between larvae and adults fig.
+
+2014. so far it is unknown whether bsal infection can be facilitated or mitigated by particular cutaneous bacteria but a better understanding of the microbiota composition of salamandrids might facilitate the search for such interactions in the mucosal ecosystem and thereby contribute to informed risk assessments.in this study we focus on two species of western euro-pean newts lissotriton boscai and triturus marmoratus and explore whether bacterial communities differ 1 between larvae and adults 2 between adult life-phases aquatic vs. terrestrial and 3 temporally in aquatic and terrestrial adults.resultsdifferences in skin bacterial communities between larvae and adultswe compared cutaneous bacterial communities of larval and adult newts focusing on aquatic adults living in the same pond as the larvae to avoid phase- or habitat- specific confounding factors.
+
+2. composition of the skin bacterial communities of a aquatic adults of l. boscai b terrestrial adults of l. boscai and c terrestrial adults of t. marmoratus through the sampling months at the family level.
+
+neither species exhib- ited significant differences between life phases t-test l. boscai - p-value 5 0.19 t. marmoratus - p-value 5 0.41. temporal changes of the skin bacterial communities aquatic adult individuals of l. boscai were sampled from may 2015 to february 2016 with the exception of august and september 2015 and terrestrial adults of l. boscaiand t. marmoratus were sampled from march to may 2015. the newt skin communities varied across time in both composition and structure for all comparisons permanova - aquatic l. boscai binary jaccard pseudo-f 5 3.054 p-value 5 0.001 bray-curtis pseudo-f 5 3.941 p-value 5 0.001 terrestrial l. boscai binaryjaccard pseudo-f 5 1.235 p-value 5 0.01 bray-curtispseudo-f 5 1.636 p-value 5 0.005 terrestrial t. marmor-atus binary jaccard pseudo-f 5 1.633 p-value 5 0.001bray-curtis pseudo-f 5 2.442 p-value 5 0.001 fig.
+
+1. left principal coordinate analysis plot based on thebray-curtis distance matrix between the skin bacterial communities of larvae and aquatic adults of a l. boscai and b t. marmoratus and terrestrial and aquatic adults of c l. boscai and d t. marmoratus.
+
+larvae of l. boscai had lower alpha diversity than the sympatric aquatic adults supporting information table s1 their skin bacterial communities were dominated by the family comamonadaceae instead of verrucomicrobiaceae as in adults fig.
+
+this is further sup- ported by the fact that terrestrial and aquatic adults although distinct shared a large fraction of the skin bacte- rial communities and at the same time showed consistency in the percentage of reads associated with bd inhibitory bacteria.adult life phase affects amphibian skin bacterial communitiesalthough many amphibians live at the interface of terres- trial and aquatic habitats only few undergo drastically distinct adult life phases for extended periods of time like salamandrid newts.
+
+2009. these variations can lead to temporally different skin environ- ments allowing different bacteria to survive andor establish.future directionsthe overall importance of skin bacterial communities to the host's health is well accepted sanford and gallo 2013. previous studies have found relations between particular elements of the skin microbial community and resistance to diseases harris et al.
+
+the skin bacterial communities of larvae and aquatic adults shared many bacterial families however they differed in relative abun- dances fig.
+
+1d.there was an overlap in the bacterial families found in the skin bacterial communities of the terrestrial and aquatic adults but the abundances of these families varied between groups fig.
+
+comamonadaceae was the most abundant bacterial family in larvae of l. boscai 35.3 vs. 6.7 in aquatic adults and in both larvae and adults of t. marmoratus 46.8 and 24.5 respectively while verrucomicrobia- ceae was the most abundant family in aquatic adults of l. boscai 17.6 vs. 7.7 in larvae.
+
+b alpha diversity c phylogenetic diversity and d otu richness of cutaneous bacterial communities through time for the aquatic black and terrestrial adults light grey of l. boscai and terrestrial adults of t. marmoratus dark grey.
+
+colour table can be viewed at bacterial communities of larvae differ from those of adults and are less diverse because in the aquatic adults some bacteria persisted from their preceding terrestrial phase however we cannot exclude a contribution of host filtering effects.
+
+the skin bacterial communities tended to differ to a lesser extent temporally and between larvae and adults and more strongly between life phases.
+

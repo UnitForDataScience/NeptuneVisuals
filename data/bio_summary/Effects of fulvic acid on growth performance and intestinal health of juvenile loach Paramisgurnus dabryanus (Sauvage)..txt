@@ -1,0 +1,30 @@
+lipase activity also increased slightly with increasing fulvic acid levels and the associated ac- tivity was significantly increased in group f1.5 compared with the control group b p  0.05. however no difference was observed between the control and fulvic acid-treated groups with respect to amylase activity c p  0.05.it was also observed that sod cat and t-aoc activities were significantly increased following supplementation with increasing fulvic acid levels a b e. furthermore antioxidant enzyme activities of loach in fulvic acid-added groups were significantly higher than those of the control group p  0.05. gpx activity of loach in f1.5 was considerably higher than that of the control group and other fa additive groups c p  0.05 while there was no difference between the left groups.
+
+rarefaction curves for the shannon index tended to approach a flat level from less than 5000 tags per sample d. the shannon index was higher in group f1.5 compared with the control group which indicated higher community di- versity in the former group.
+
+the simpson index was higher in the control group than in group f1.5 suggesting that there was reduced com- munity diversity in the control group e. this result was in accordance with the shannon index estimate.the most abundant otus within the two groups are shown in .
+
+conversely variovorax was more abundant in the f1.5 group compared with the control group.bacteria pertaining to firmicutes were more prevalent in the f1.5 group compared with the control group.
+
+lactococcus leuconostoc and lactobacillus were more abundant in the f1.5 group compared with the control group p  0.05. prevotella pertaining to bacter- oidetes exhibited reduced abundance in the f1.5 group.
+
+following a deep sequencing analysis a total of 42058 valid reads and 609 otus operational taxonomic units obtained from the control group and the group displaying the most optimal growth rate were analyzed.
+
+this pattern was especially obvious for group f1.5 p  0.05. however no differences in the survival rates were observed be- tween the control group and the fulvic acid groups p  0.05. these data suggested that growth performance of loach was improved byadding fulvic acid into diet.
+
+the following equations were obtained for sgr y 0.061x2 0.2006x 1.8155 r2 0.8004 rsd 0.118 .protease activity increased with concomitant increases in fulvic acid levels and the activity was significantly higher compared to that of the control group when fulvic acid supplementation levels were greater than 1.0 a p  0.05. the highest protease activity was observed for group f2.0.
+
+mda content decreased significantly with increasing fulvic acid levels with the lowest value observed in the f2.0 group d p  0.05. t-aoc increased significantly with increasing fulvic acid levels with the highest value observed in group f1.5 e p  0.05.intestinal immunological enzymatic activity was predominantlyfig.
+
+the activities of acp lzm and c3 were significantly higher when fulvic acid levels were greater than 1.0 a c d p  0.05 while alp and igm activities were significantly higher when fulvic acid levels were greater than 0.5 b e p  0.05.intestinal microflora analysisintestinal microflora samples from the control group and the group displaying the most optimal growth rate were analyzed to investigate the influence of fulvic acid on intestinal microflora.
+
+5. venn diagram showing the unique and shared otus 3 distance level in the 1.5 fa additive group f1.5 and the control group f0.
+
+the number of otus in group f0 is 4614. the number of otus in group f1.5 is 6045. the number of otus shared between groups f0 and f1.5 is 1799. the percentage of otus that are shared in groups f0 and f1.5 is 20.3047. the total richness for all groups is 8860.group f0.
+
+the number of unique otus in group f0 was observed to be 2815. the number of unique otus in group f1.5 was observed to be 4256. most of the otus were sequences related to proteo- bacteria firmicutes and bacteroidetes.
+
+richness rarefaction curves showed that group f1.5 resulted in steeper rarefaction curves compared with the control group which indicated higher taxon richness a. the rarefaction curves of otus were steep implying that there were many undetermined tags from rare species or sequencing mistakes.
+
+the following phyla were observed in the control group relative prevalence of phyla are listed in parentheses proteobac- teria 61.43 firmicutes 11.9 bacteroidetes 6.6 chloroflexi4.29 nitrospirae 3.26 actinobacteria 2.51 candidatedivi-siontm7 1.27 acidobacteria 1.75 verrucomicrobia 1.47 and planctomycetes 1.2. in the control group the dominant phyla were assigned based on the relative abundance of the assigned reads.
+

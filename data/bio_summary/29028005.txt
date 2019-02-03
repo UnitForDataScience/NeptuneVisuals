@@ -1,0 +1,30 @@
+the four pathogenicity trials were used to establish the impact of different bacterial species tested individually in combination poly- bacterial inoculations and with or without the addition of a. biguttatus eggs supplementary table s2 on tissue necrosis assessed by the size of the lesion area associated with each inoculation point.lesion area data were refined in a hierarchical manner such that the following data sets were used for lesion area analysisnon-contaminated samples fulfilling koch's pos- tulates with galleries present for a. biguttatus samples indicating that eggs had hatchednon-contaminated samples fulfilling koch's pos- tulates with or without galleries present forbiguttatus samples andnon-contaminated samples.further information on statistical analyses of log lesion areas are described in supplementary methods.resultsisolation studyin the isolation study analysis of 38 diseased trees from 23 sites plus 13 healthy trees in 11 of these sites and 15 healthy trees from five sites with no history of aod identified 159 bacterial taxa.
+
+the mean read abundance of gibbsiella 0.9 and rahnella 3.7 was also greater in diseased tissue when compared with healthy tissue both 0.1. pseudo- monas a diverse genus comprising both endophytic and phytopathogenic bacteria  had similar mean abundances in both diseased 4.8 and healthy trees 3.3. correlation coeffi- cients and welch's unequal variances t-tests revealed that streptomyces twelch's  49.7 p  0.004 and peri- glandula twelch's  821.8 po0.001 were signifi- cantly associated with healthy trees whereas brenneria twelch's  12.4 p  0.006 and gibbsiella twelch's  4.7 p  0.05 were strongly correlated with the lesions of diseased trees and supplementary table s7.
+
+destructive sampling of trees by removing panels of diseased oak tissue as well as healthy oak tissue from apparently healthy trees on the same sites was carried out where permitted and isolations were made using pyga medium as described in and owing tothe nature of the csr studies the number of tissue pieces plated out was variable dependent upon the sample.
+
+bacterial colonies emerging from chips of tissue were purified using standard streak-platingtechniques single visually representative colonies were selected cultivated in luria bertani broth lb and identified with pcr and dna amplicon sequen- cing as described in 6.statistical analysis of isolation study data sets bacterial yield between healthy and diseased trees was tested by fitting a generalized linear mixed- effects model with logit link function and binomial error distribution.
+
+higher yields of bacteria were obtained from lesion margin tissue of symptomatic trees compared with healthy tree tissue f128 po0.001 and the lesion margin bacterial profile was significantly different to healthytissues monte-carlo permutation test of 1000 per- mutations po0.001 supplementary figure s5 and supplementary table s6.
+
+p. polymyxa sc2 was identified at low relative abundance in healthy and diseased metage- nomic samples supplementary table s5 therefore it was selected to test stringency of the metagenomic alignment and to measure its relative abundance in healthy and diseased microbiomes using an alter- native method.
+
+g. quer- cinecans occurred on all disease sites and was isolated from 83 of diseased and 4 of healthy trees sampled comprising 17 of total diseased samples and o0.1 of total healthy samples.b.
+
+quercinecans b. goodwinii and r. victoriana also revealed a shift in microbiome composition between healthy stem tissue and aod lesions b. periglandula burkholderia streptomyces bacillus and auriemonas were the most abundant genera in healthy trees whereas brenneria dominated diseased tissue mean read abundance 37.5 fi 2a.
+
+there was a significant co-occurrence of g. quercinecans and b. goodwinii in diseased tissue j  0.56 po0.001 but neither was isolated from trees on sites with no history of aod.oak microbiome analysistaxonomic analysis of the metagenome using unas- sembled metagenome sequence reads against the one codex march '16 preview database with the addition of the genomes ofg.
+
+this combined sequencing and cultivation-based approach provides a contem- porary adaptation of koch's postulates to address the biotic components of a complex decline-disease and represents a conceptual model for future analyses of polymicrobial infections in trees and other systems.methodsisolation of bacteria from healthy and diseased oak treesin the search for putative causal agents of stem lesions we wanted to determine the veracity of differences in occurrence and composition of bacter- ial communities in lesions and visually healthy trees as the bacterial microbiome has previously been identified as the likely causal agent of stem lesions .
+
+monte carlo permutation tests were used to test for significant differences in bacterial communities between healthy and diseased trees and to test the effect of tissue position within the tree.
+
+a correlation was performed between each taxon and each community coordi-figure 2 comparative metagenomic analysis of the taxonomic composition and function of the oak microbiome in healthy tissue from trees without aod and diseased tissue from trees with aod.
+
+lesion areas were calculated using assess v2 aps minneapolis mn usa.statistical analyseslog lesion areas.
+
+for rna sampling two separate lesions samples at11 and at12 from a single tree were analysed in june 2013. swabs of the lesion fluid were collected in addition to tissue from the active margins of the lesion and immediately frozen in liquid nitrogen and transported back to the laboratory in a vessel containing liquid nitrogen.
+
+g. quercine- cans and b. goodwinii dna libraries were prepared using 10 mg of genomic dna and sequenced by dugsim at duke university nc usa using p4c2 chemistry and six smrt cells per isolate.
+

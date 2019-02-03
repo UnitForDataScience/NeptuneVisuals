@@ -1,0 +1,24 @@
+the e. coli c20 plasmid showed 97 sequence identity with the plasmid phk0653 from s. enterica strain st06-53.
+
+here we present the draft genomic sequences of e. coli c20 along with that of its plasmid.
+
+the final as- sembly yielded a chromosome of 4640940 bp and plasmid of 277380 bp with av- erage coverages of 146.95-fold and 35.63-fold respectively.scherichia coli is frequently used as a representative commensal or pathogenic bacterium being widely distributed among different ecological niches .
+
+the contigs were then divided into chromosome and plasmid parts according to coverage.
+
+the chromosome and plasmid contigs were separately aligned with the complete genome of e. coli k-12 substrain mg1655 genbank accession no.
+
+cp014225 and salmonella enterica plasmid phk0653 genbank accession no.
+
+the resistance genes were annotated in the comprehensive antibiotic resistance database card online server to predict the potential antibiotic resistance determinants in e. coli c20 .the final assembly of c20 genomic dna sequences yielded a chromosome of 4640940 bp and plasmid of 277380 bp with 45 and 4 superscaffolds and average gc contents of 50.8 and 46.4 respectively.
+
+the c20 plasmid harbored 350 coding sequences.
+
+altogether 154 antibiotic resistance determinants belonging to 9 different resistance gene families were annotated for the e. coli c20 genome in the card website including 7 resistance genes in the chromosome and 147 in c20 plasmid.
+
+among the previously identified 7 antibiotic resistance genes in the multidrug-resistant strain e. coli c20 only the genes conferring resistance to fluoro- quinolone antibiotics including nalidixic acid and ciprofloxacin were identified in thevolume 5 issue 31 e00751-17 1tian and huangchromosome the other 5 resistance genes were found to be expressed in the plasmid  .
+
+however no plasmid sequence was reported and published for k-12 substrains dh1 bw2952 and mg1655.
+
+the results demonstrate that the chicken gut bacterial strain e. coli c20 mainly acquired resistance by transfer of the plasmid from the environmental microbiome.accession numbers.
+

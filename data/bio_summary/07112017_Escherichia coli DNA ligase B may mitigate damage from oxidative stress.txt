@@ -1,0 +1,30 @@
+dna repair invariably ends with ligation of the dna phosphate backbone making ligases of utmost importance.
+
+most bacteria encode one nad-dependent dna ligase and one to several atp-dependent dna ligases .
+
+coli lacking ligb is hypersensitive to hydrogen peroxide and mitomycin ctreatment of e. coli with hydrogen peroxide mitomycin c uv irradiation bleocin or cipro- floxacin each induces specific types of dna lesions that are repaired with various specific dna repair mechanisms -.
+
+therefore the prolonged lag phase seen with overexpression of ligb was not strictly dependent on the ligase activity of ligase b but less wild- type ligb appeared to be needed to cause the phenotype.overexpression of ligb blocks dna replication and kills cellsto test whether the extended lag phase seen with ligb overexpression affected dna replication andor cell viability we quantified cfus and methyl-3h-thymidine incorporation .simultaneously bacterial cell growth  cell viability  and methyl-3h-thymi- dine incorporation were monitored .
+
+the ligb overexpressing cells were elongated at two hours post iptg induc- tion compared to the cells harboring the empty vector  supportive of a block in dna replication in the surviving ligb overexpressing cells.absence of ligb delays recovery following exposure to cadmiumthe growth delay phenotype of cells overexpressing ligb closely matches the growth phenotype of e. coli in response to the addition of cadmium which causes single-strand dna nicks .
+
+hydro- gen peroxide produces oxidized dna bases  and mitomycin c treatment results in the alkylation of dna bases.
+
+2013 288 32952-32962.pmidchen j ghorai mk kenney g stubbe j. mechanistic studies on bleomycin-mediated dna damage multiple binding modes can result in double-stranded dna cleavage.
+
+rapid assessment of the effect of ciprofloxa- cin on chromosomal dna from escherichia coli using an in situ dna fragmentation assay.
+
+research articleescherichia coli dna ligase b may mitigate damage from oxidative stresstruston j. bodine123 michael a. evangelista24 huan ting chang25 christophera.
+
+2017 escherichia coli dna ligase b may mitigate damage from oxidative stress.
+
+this is an open access article distributed under the terms of the  which permits unrestricted use distribution andabstractescherichia coli encodes two dna ligases ligase a which is essential under normal labora- tory growth conditions and ligase b which is not.
+
+deletion of ligb sensitized e. coli to specific dna damaging agents and antibiotics resulted in a weak mutator phenotype and decreased biofilm formation.
+
+overexpression of ligb during logarithmic growth caused an immediate block of cell growth and dna replication and death of about half of cells.
+
+these data support a potential role for ligase b in the base exci- sion repair pathway or the mismatch repair pathway.reproduction in any medium provided the original author and source are credited.data availability statement all relevant data are within the paper and its supporting information files.funding this work was supported by national institutes of health nih grants ro1 ai054830 r56 ai054830 r01 gm115501 to lz and in part by t32gm088129 and t32gm007330 to tjb.the funders had no role in study design data collection and analysis decision to publish or preparation of the manuscript.competing interests the authors have declared that no competing interests exist.introductionbacteria have evolved multiple pathways to repair dna damage in response to the pressure of constant genomic insult .
+
+coli was the first organism found to encode two nad-dependent dna ligases and it encodes no known atp-dependent ligases .
+

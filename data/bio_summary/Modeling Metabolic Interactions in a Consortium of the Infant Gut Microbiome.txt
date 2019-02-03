@@ -1,0 +1,30 @@
+the gut microbiome coexists with the host and deploys important functions that impact host metabolism and gut physiology  .
+
+human breast milk containsmicrobial interactions among gut microbes large amounts of oligosaccharides hmo which are selectively utilized by beneficial gut microbes.
+
+after curation and defining specific environments and constraints microbial interactions can be obtained for a few species  .recently a kinetic model constructed from experimental data of gut microbes in a bioreactor was presented aimed to model the dynamic behavior of the gut microbiome  .
+
+the interest in determining and predicting key factors in the establishment and maintenance of the gut microbiome is the major goal of several works         .diet is a major modulator of the composition of the gut microbiome and the nature of these substrates probably dictates which species predominate.
+
+moreover the gut epithelium is covered with a mucin layer containing oligosaccharides that could be used as carbon source by infant gut bacteria   .
+
+for example acetate has been shown to prevent pathogen colonization   and lactate in the adult gut microbiome is used by butyrate-producing bacteria   a health-promoting scfa  .finally this model could be useful to study interactions using a more complex set of species of gut microbiome species.
+
+gut 65 330-339. medina d. pinto f. ovalle a. thomson p. and garrido d. 2017. prebiotics mediate microbial interactions in a consortium of the infant gut microbiome.
+
+ francisco pinto  and department of chemical and bioprocess engineering school of engineering pontificia universidad catolica de chile santiago chileedited bymichele guindani university of california irvineunited statesreviewed by angela m. zivkovic university of california davisunited states emanuele bosiuniversity of florence italycorrespondence daniel garrido specialty section this article was submitted to systems microbiologya section of the journal frontiers in microbiologyreceived 07 september 2017accepted 01 december 2017published 14 december 2017citation pinto f medina da perez-correa jr and garrido d 2017 modeling metabolic interactions in a consortium of the infant gut microbiome.
+
+82507. doi the gut microbiome is a complex microbial community that has a significant influence on the host.
+
+microbial interactions in the gut are mediated by dietary substrates especially complex polysaccharides.
+
+in this environment breakdown products from larger carbohydrates and short chain fatty acids are commonly shared among gut microbes.
+
+understanding the forces that guide microbiome development and composition is important to determine its role in health and in the intervention of the gut microbiome as a therapeutic tool.
+
+the model was developed using experimental in vitro data from a system comprising four microorganisms of the infant gut microbiome bifidobacterium longum subsp.
+
+these results suggest that variations in microbial abundance and activities in the infant gut were mainly explained by metabolic interactions and could be properly modeled using monod kinetics with metabolic interactions.
+
+moreover the model could be useful in designing microbial consortia with desired properties such as higher acid production.keywords metabolic interaction gut microbiome diet prebiotics mathematical modeling fructooligosaccharides fosintroductionthe human colonic microbiome is a complex microbial community that has a significant impact on host health.
+

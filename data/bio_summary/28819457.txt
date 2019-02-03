@@ -1,0 +1,30 @@
+we hypothesize that these changes implicate aberrant glycation of macromolecules that alter lysosomal function and metabolism in renal tubular epithelial cells cells that line part of the upper urinary tract.key words type 1 diabetes lysosome protein network gut microbiome urinary proteome.introductiontype 1 diabetes t1d is an autoimmune disease characterized by the loss of insulin-producing b-cells in the pancreatic islets in genetically susceptible individuals.
+
+while hba1c is an early glycation product advanced glycation end products ages form when diabetic complications become clinically evident 27. the diabetes control and complications trial dcct and the epidemiology of diabetes interventions and complications study edic assessed median hba1c levels for an intensive therapy cohort treated with insulin over 6.5 years 28. on average the hba1c levels were lower than in acohort with standard insulin therapy.
+
+diabetes in non-hispanic white youth prevalence incidence and clinical characteristics the search for diabetes in youth study.
+
+diabetes care 2007 30 503-9.gordon p. diabetes rising how a rare disease became a modern pandemic and what to do about it.
+
+2010 304 2539.musso g gr cassader m. obesity diabetes and gut microbiota the hygiene hypothesis expanded diabetes care.
+
+gut microbiota of type 1 diabetes patients with good glycaemic control and high physical fitness is similar to people without diabetes an observational study.
+
+the diabetes control and complications trialepidemiology of diabetes interventions and complications study at 30 years overview.
+
+2006 21 42-8.american diabetes a. diagnosis and classification of diabetes mellitus.
+
+gene expression profiles for the human pancreas and purified islets in type 1 diabetes new findings at clinical onset and in long-standing diabetes.
+
+ivyspringinternational publisherresearch papertheranostics2017 710 2704-2717. doi 10.7150thno.19679type 1 diabetes urinary proteomics and protein network analysis support perturbation of lysosomal functionharinder singh1 yanbao yu1 moo-jin suh1 manolito g torralba1 robert d. stenzel1 andrey tovchigrechko1 vishal thovarai1 derek m. harkins1 seesandra v. rajagopala1 whitney osborne2 francogen2 paul b. kaplowitz2 karen e. nelson1 ramana madupu1 and rembert pieper1j.
+
+the evidence is emerging that environmental factors such as viral infections 9 and perturbations of physiologically normal gut microbiota play important roles in disease onset 10 11 12. the gut functions as an immune organ to protect us from ingested potentially pathogenic bacteria and the billions of microorganisms in it play a role in regulating the immune system 13. it is now well established that resident gut microbiota regulates specific mucosal t helper cells crucial for the host defense and when perturbed play a role in the development of autoimmune diseases 14. the interplay of the latter with genetic and non-genetic factors resulting from inflammation 15 suggests a more complex etiologydriving t1d pathogenesis 16.animal studies have shown that the gut bacterial composition differs significantly at the time of diabetes onset compared to healthy controls 13 17. studies in germ-free mice have linked the activity of the toll-like receptor-myd88 pathway critical to innate immunity to the onset of t1d 18. the human gut microbiome may be altered at the time of t1d onset due to autoimmune processes and years after t1d onset due to suboptimal insulin treatment and frequent hypo- andor hyperglycemic states in patients thus contributing to adverse long-term health outcomes 19 20. two human cohort studies associating gut microbial profiles with t1d have been performed.
+
+physiological links between the abundance of the genus bacteroides in the human intestine and an altered metabolism of small chain fatty acids which are anaerobic bacterial fermentation products and mediators of inflammation have indeed been discovered 23.metabolites and proteins can serve as surrogate biomarkers to assess the risk of disease onset and complications associated with t1d and type 2 diabetes years or decades after disease onset.
+
+the criteria for inclusion comprised the range of 3-18 years of age and the american diabetes association's criteria for the diagnosis of t1d 35 with hba1c levels of less than 15. subjects who reported antibiotic treatments within the three months prior to sampling were excluded due to the known impact of antibiotics on the composition of gut microbiota.
+
+performing classification of the data using the random forest method a roc value of 0.49 was further evidence that the composition of gi microbiota associated with the t1d cohort was not different from the hs cohort.microbiome datasample cohortsample size age years age range min max t1d duration years duration range min max hba1c  hba1c min max gendermf healthy siblings 11313.95 22nananana6053type 1 diabetes 11014.57 197.13178.45.514.95555hba1c hemoglobin a1c m male f femalehigher abundance of streptococcus salivarius subsp.
+
+detailed data are presented in supplementary data dataset s2.regarding the presence in distinct subcellular fractions the fact that eight of the 15 proteins increased the most in the t1d cohort compared to the hs cohort were lysosomal is striking and verified our previous findings for a cohort consisting of 40 t1d and 41 hs subjects 30. gm2a is a lysosomal activator for the breakdown of ganglioside gm2 and other molecules containing terminal n-acetyl hexosamines 76. enhanced activity of the lysosomal protease cathepsin d was linked to diseasecomplications affecting diabetes patients 77 78. naga is a lysosomal glycosidase responsible for the breakdown of glycolipids 79. lysosomes are organelles with a critical role in the disposal of waste products.
+

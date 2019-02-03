@@ -1,0 +1,30 @@
+figure s1 tree diagram of plant components based on data set obtained by nmr measurement figure s2 flow chart of the analysis procedure in this study figure s3 1h-13c hsqc nmr spectra of pteridium aquilinum and matteuccia struthiopteris extracted by kpid2o solvent figure s4 1h-13c hsqc nmr spectra of pteridium aquilinum and matteuccia struthiopteris components extracted by dmso-d6pyridine-d5 41 solvent figure s5 annotation of metabolites in urine nmr spectra figure s6 annotation of metabolites in fecal nmr spectra figure s7 principal component analysis of urinary metabolites and ions figure s8 the results of random forest for the fecal microbiome figure s9 the results of random forest for urinary metabolites figure s10 network community correlation coefficients for matteuccia struthiopteris-treated mice based on the combined data set figure s11 network community correlation coefficients for pteridium aquilinum-treated mice based on the combined data set table s1 information on primers used for performing microbiome analysis table s2 list of sequential numbers for bacterial detection by miseq analysis table s3 list of annotated metabolites and unknown signals from nmr measurements.acknowledgments this research was supported by a sasakawa scientific research grant from the japan science society.author contributions h.s.
+
+however the data subjected to a multivariate analysis including principal component analysis pca correlation analysis factor analysis clustering analysis and network analysis  remain potential options for further improvement of data mining.in this research we selected pteridium aquilinum and matteuccia struthiopteris as the representative components of the daily diet.
+
+p  0.001 calculated by the holm method.application of important factors to network modules for separationwe were able to detect important variables from the multivariate data by random forest and then attempted to find important variables in the network modules concerning the impact of additional food intake.
+
+we chose random forest which is a machine learning tool superior to classification by decision tree to identify important factors associated with the impact of food such as age and geography on intestinal microbiota composition and applied these important factors to the network community of heterogeneous measurement data figure  -.
+
+any component of the daily diet and additional food have the potential of developing a preprobiotic effect thus emphasizing the need of a precise evaluation method to determine the impact of food on the intestinal microbiota this information can be utilized to regulate the intestinal microbiota by controlling the daily diet preprobiotics meal frequency and time of food intake -.many researchers have attempted to clarify effect of microbiota to host responses using mice because the results obtained from such studies could be applied to humans .
+
+nutrients 2017 9 233.  itouga m. hayatsu m. sato m. tsuboi y. komatsu-kato y. toyooka k. suzuki s. nakatsuka s. kawakami s. kikuchi j. et al.
+
+in the dq-sq nmr measurements the bruker standard pulse program dqseagp90 was used with the following parameters number of data points 16384 f2 and 512 f1 number of scans 64 spectral widths 9803.0922 f2 and 14003.065 f1 hz and d1 1 s. in the 2d j-resolved nmr measurements the bruker standard pulse program jresgpprqf was used with the following parameters number of data points 16384 f2 and 32 f1 number of scans 8 spectral widths 12500 f2 and 50 f1 hz and d1 2 s. in addition metabolic profiling for feces and urine was also performed using 2d j-resolved nmr with skyline projection .
+
+2012 44 888-894. date y. nakanishi y. fukuda s. nuijima y. kato t. umehara m. ohno h. kikuchi j. in vitro evaluation method for screening of candidate prebiotic foods.
+
+rep. 2017 7 9372.  chikayama e. sekiyama y. okamoto m. nakanishi y. tsuboi y. akiyama k. saito k. shinozaki k. kikuchi j. statistical indices for simultaneous large-scale metabolite detections for a single nmr spectrum.
+
+in this study we proposed a novel method that is useful to explore a new valuable food to improve the health of the host as preprobiotics.keywords gut ecosystem food intake metabolic response machine learning network analysisintroductionthe gastrointestinal tract has a wide variety of functions mainly in food digestion and nutrient absorption as well as in the development of systemic immunity regulation of behavior and targeting of drug delivery -.
+
+our method involving a combination of machine learning and network visualization detected a less significant food impact which may help in the identification of prebiotics and probiotics that could be useful in the daily diet.figure 4. purinepyrimidine network with important bacteria and urinary metabolites of matteuccia struthiopteris-treated mice based on the combined data set.
+
+the representative factors were clustered in the functional network module of the following network analysis figure c figures s8c and s9c.
+
+the data analysis was performed using the package muma in r .selection of important variables by determining the food impactalthough the impact of additional food intake was detected using fecal metabolite pca others indicated complex dispersion.
+
+we managed to mine the data on the impact of food by machine learning using random forest which was applied to all datasets and was used to create a multi-dimensional plot indicating that each group had a specific factor that separatedit from the others figure a figures s8a and s9a we then selected the factors important for this separation with careful cross-validation to avoid over-training using the random forest package figure b figures s8b and s9b.
+
+the urinary profiles based on nmr and elements by icp-oes indicated a complex dispersion on the pca score plot figure s7a-f. these results appear to demonstrate that pca was unsuitable for exploring the impact of food in this case.figure 2. principal component analysis of fecal metabolites and the microbiome.
+

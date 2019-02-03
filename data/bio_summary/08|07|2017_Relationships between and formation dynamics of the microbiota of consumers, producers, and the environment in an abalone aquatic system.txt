@@ -1,0 +1,30 @@
+first two temporally close samples are defined as n-1 and n with n-1 referring to the time point before n. taking abalone sample a as an example  the microbiome of an is influenced mainly by five spatially and temporally adjacent samples and include spatially close samples sn for substrate and wn for water temporally close samples an-1 and spatio- temporally close samples sn-1 and wn-1.
+
+more specifically the earlier s samples s2 and s7 clus- tered with the earlier a samples a2-a20 and the later s samples s11-s33 clustered with the later a samples a23-37.
+
+green trochophore stage 0-2 days purple creeping larva stage 2- 4 days yellow peristomial shell larva stage 4-12 days red differentiation stage 12-21 days blue juvenile  21 days.pyrosequencing of the bacterial communitiesthe bacterial communities in 32 samples obtained from three components of an abalone seed- nursing system were profiled by pyrosequencing of the 16s rrna v1-v3 hyper-variable region.
+
+however the water samples were all on a separate branch indi- cating that there were differences between the bacterial communities in water and the other two system components.finally pca was conducted to define the relationships among samples in more detail.
+
+for the abalone samples the inner bca was only 21.6 atprincipal component analysis of bacterial communities in abalone seed-nursing ecosystem samples.
+
+interestingly the substrate was also associated with abalone growth samples of the substrate that were collected during the same stage clustered together in the pca analysis.even the water microbiota formed two clusters--one of samples collected before the 21st day and one of samples collected after which is when the abalone transitioned from the differenti- ation stage to the juvenile stage.
+
+in  water samples were shown to be cluster alone whereas the a samples clustered with the s samples mirroring with the results of the phylogenetic analysis .
+
+consequently samples from the first few days of life often cluster with other very early samples and sometimes with samples from anatomical sites in their mothers for example breast milk or vaginas .
+
+we first examined changes in bacterial communities during the seedling cultivation of this herbivorous juvenile aquatic invertebrate animal.denaturing gradient gel electrophoresis dgge and pyrosequencing were used to analyze bacterial community dynamics and spatio-temporal interactions of different system compo- nents consumers abalone producers algae or a substrate and the environment water.
+
+the phylogenetic tree was constructed using jest jaccard coefficient using richness estimators in mothur.conclusion the above analyses indicated that the consumer and producer had a closer relation- ship with one another than either with the environment.spatio-temporal interactions among the three bacterial communitiesthe spatial and temporal interactions between the three bacterial communities were quantified using the bc method .
+
+at an early stage in the system the bacterial community stabilities in abalone substrate and water were less smaller circles than those in later stages however there were more interactions thicker arrows between the communitieseffects of the three bacterial communities on each other in the abalone seed-nursing ecosystem based on a bray-curtis similarity percentage bc analysis.
+
+a study on bacterial diversity in oysters also showed that microbiota associated with the postlarvae stages and adults differed substantially and that postlarvae stages showed higher bacterial diversity and richness than that in adults of the same species .
+
+in this study we collected time-series samples from three components of an abalone seed-nursing pond system.profiling of the 16s rrna was used to characterize bacterial communities.
+
+water dna kit was used to extract bacterial dna from film and water samples.
+
+comparisons of bacterial communities were only conducted for two samples that were spatially or temporally adjacent e.g.
+

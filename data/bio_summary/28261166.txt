@@ -1,0 +1,30 @@
+of note was a striking decrease in rearing-water bacterial richness during the trial with averages - standard deviation of 286.5 - 55.45 vs. 134.75 - 34.05 otus detected per sample at 2 dah and 34 dah respectively holm-sidak t  5.982 p  0.001. in contrast a subtle non- significant holm-sidak t  2.371 p  0.06 increase in richness was observed for fish larvae from 2 dah 40 - 10.14 otus to 34 dah 53.75 - 7 otus figure 2a.
+
+the dichotomy between 2 and 34 dah larvae- associated bacterial communities was also evident as only 24 otus were common to both sample categories while 58 and 110 otus from 2 and 34 dah larvae respectively remained exclusive to each figure 5a.to more specifically address the relative contribution of live feed and rearing-water as bacterial vectors for mature fish larvae a venn diagram was constructed using otus detected in the live feed pooling of rotifers and artemia nauplii and metanauplii samples 34 dah rearing-water and 34 dah fish larvae as discrete otu pools figure 5b.
+
+all these otus displayed enhanced numbers in 34 dah fish larvae but occurred at very low abundances in the live feed table s6.because otus represented by one read are by definition sample-specific removal of singletons from the data led to a substantial reduction in the number of otus exclusive to each sample category whereas the number of otus commonto all sample categories remained unchanged figures s2a-c. however the effect caused by singleton exclusion did not erode the picture of a larger pool of otus specific to than shared by sample categories figures s2a-c.discussionbacterial communities in fish larviculture constitute a large reservoir of genetic and metabolic diversity that should not be undervalued in management practices.
+
+trends revealed by community ordination remained unchanged when analyses were undertaken in the absence of singleton otus figure s1 supplementary material.specific and shared otus across microhabitatsto determine how many and which otus were common or specific to each sample category we explored the full non-normalized quality-filtered dataset using venn diagrams where replicate samples per category were pooled figure 5. quite surprisingly only five bacterial otus were common to all 2 and 34 dah rearing-water and fish larvae sample categories figure 5a.
+
+artemia nauplii were given from 15 dah until 19 dah and metanauplii from 20 dah until the end of the rearing trial 34 dah figure 1. live preys were provided ad libitum with a minimum concentration of c. five rotifers and one artemia nauplii.
+
+larvae at 2 dah hosted 29 specific otus within these four sample categories and shared 39 bacterial otus with its primary surrounding environment that is 2 dah rearing-water figure 5a table s4 supplementary material.
+
+the microhabitats were 1 rearing-water from 2 and 34 dah 2 gilthead seabream larvae from 2 and 34 dah3 rotifers 4 artemia nauplii and 5 artemia metanauplii totalizing seven hereafter called sample categories to include the temporal analysis 2 dah vs. 34 dah of water and larvaeredpepperqrbernaqua nv belgium following the supplier'smicrohabitats.
+
+2 and 34 w rearing-water sampled 2 and 34 days after hatching respectively 2 and 34 l seabream larvae sampled 2 and 34days after hatching respectively ro rotifers an artemia salina nauplii am artemia salina metanauplii seqs sequences.a shown are both the total number of otus  number of singleton otus detected in each sample category.abundance in 34 dah rearing-water could be attributed to a single otu otu 268 table s1 of the family cryomorphaceae which could not be classified at the genus level figure 3b.
+
+as expected due to their high richness values bacterial communities from 2 and 34 dah tank water were the most susceptible to the removal of singleton otus table 1 figure 2b averaging 193.5 - 41.16 and 97.25 - 25.90 otus per sample respectively figure 2b.
+
+only 17 otus were common to 34 dah larvae and rearing-water from 696 otus detected in both sample types figure 5a table s5 supplementary material.
+
+while otus 1296 pseudoalteromonas and 2374 paracoccus appeared to be enriched in 2 and34 dah fish larvae respectively presenting only very low numbers in the corresponding rearing-water samples otus 268 cryomorphaceae and 708 rhodobacteraceae occurred in higher abundance in rearing-water and thus appeared to be de- selected in the fish host table 2 tables s4 s5.
+
+a reduction in the number of genera was observed in rearing-water samples during the trial coinciding with observations made at the otu level figure 2. indeed most of the bacteroidetestable 1  number of bacterial sequences and otus detected per phylum across fish larviculture microhabitats.phylum2w34w2l34lroanamvalues correspond to quality-filtered otus and sequences across the full data set non-normalized libraries singleton otus included.
+
+we determine bacterial community composition and diversity during a gilthead seabream larval rearing trial using 454 pyrosequencing of 16s rrna genes amplified from the metagenomes of 1 fish larvae at early 2 days after hatching dah and late 34 dah developmental stages 2 their live feed and 3 rearing- water.materials and methodsrearing of gilthead seabream larvaegilthead seabream larvae were reared at the aquaculture research station eppo of the portuguese institute for the sea and the atmosphere ipma hereafter termed eppo-ipma using methods that were similar to production-scale procedures ferreira 2009. to rear the larvae until their mature stage an experimentally controlled flow-through system was employed.
+
+rotifers were provided to larvae from 4 dah when the latter opened their mouth until 19 dah.
+
+each sample consisted of about 0.2 g wet weight larval pools corresponding to approximately 50 larvae from 2 dah and 6 larvae from 34 dah respectively taken from each of the four experimental rearing tanks using a disinfected 150 um nylon mesh.
+

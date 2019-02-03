@@ -1,0 +1,30 @@
+salmonella isolates from the alabama outbreak were isolated from stool specimens using standardized primary isolation procedures by the national enteric laboratory diagnostics and outbreak team at cdc while salmonella isolates from the colorado outbreak were isolated from selective media using standardized procedures by the colorado department of public health and environment.
+
+finally the outbreak clusters were also clearly distinguishable from unrelated salmonella sample sequences obtained by the cdc during the same period showing 54 to 68 snp differences in a comparison of al outbreak samples with unrelated samples and 20 to 50 snp differences in a comparison of co outbreak samples with unrelated samples.de novo assembly yields consensus sequences which may not accurately represent potential strain-level diversity within microbial populations.
+
+by using a blast recruitment method which measures the coverage depth across an isolate salmonella genome recovered from the outbreak by those reads matching at a species-specific nucleotide identity 95  we corroborated the presence of a salmonella serovar heidelberg strain in the metagenomes and noted sufficiently high coverage to support de novo assembly 7.8x to 120.4x coverage depth table s2.
+
+61. contigs greater than 500 bp from all metagenomic data sets of a single outbreak were coassembled using newbler 2.0 as previously described .population genome binning.
+
+the resulting bins were quality checked using checkm  for genome percentage completeness and contamination.to identify e. coli and s. enterica contigs 59 e. coli and 29 s. enterica complete genomes available from ncbi were used as a reference and coassembled contigs were searched against these reference genomes using blat  with default settings.
+
+however previous recovery of a shiga-toxigenic escherichia coli o104h4 genome from stool metagenomic data sets observed that the pathogen accounted for a sizable proportion of the microbial reads in many samples  while the limit of detection of our approach was estimated to be 0.001 of total dna based on spiking reads from a target reference genome in our metagenomes and requiring an average coverage of 0.1x across the genome.
+
+thus far only a very limited number of studies have characterized the alterations in the gut microbiome in response to diarrheal diseases and these were not focused on diagnostics and validation of sequence-based cidts nor were they limited to isolate-based typing  .in outbreak detection it is important to be able to cluster isolates from outbreaks of a common source distinguish unrelated outbreaks and exclude isolates of similar subtypes that are recovered in the same time window but are not part of the outbreak.
+
+the red box denotes a cluster of sequences associated with the alabama outbreak the blue box denotes the colorado one except for isolate 2013k-1036 which was a sporadic isolate from the same time period and of the same pfge pattern but unrelated to the co outbreak.
+
+the alabama outbreak affected almost a hundred people at a funeral luncheon and the colorado outbreak affected six people at a dinner.
+
+our study provided additional support for those findings and further suggested that the e. coli population is most likely a commensal lineage that exhibited overgrowth in the intestine of the host during salmonella infection.further even though metagenomics indicated that coinfection with staphylococcus might be possible for at least a couple of the patients the low abundance and sporadic detection of staphylococcus in our outbreak samples as a whole and the high relative abundance and clonality of salmonella within each outbreak suggested that salmo- nella was presumably the primary causative agent and conditions caused by salmo- nella infection may have facilitated the rapid growth of other commensal and poten- tially pathogenic organisms such as e. coli and s. aureus.
+
+reads were mapped to the contigs assembled from all metagenomic data sets of a single outbreak using bowtie 2 version 2.2.0  with default settings.
+
+the per-base coverage counting was translated into coassembled contig coverage vector over all samples from a particular outbreak location al or co using the following steps i the 100 bp in either the 3 or 5 end was discarded ii for the remaining sequence 50-bp nonoverlapping windows were gener- ated and each window's coverage was calculated as the average coverage over the window length and finally iii the contig's coverage was counted as the interquartile median of all the windows' coverage.
+
+dna was extracted from a homogenized stool mix using the qiaamp dna stool minikit qiagen inc. limburg germany and evaluated for purity and concentration using a nanodrop 2000 device thermo scientific inc. waltham ma and agilent qubit device life technologies inc. carlsbad ca.
+
+extracted whole stool dna was then sheared to 450 bp using a covaris m220 sonicator and prepared for sequencing using the spriworks high-throughput sample preparation kit beckman coulter inc. brea ca and the nebnext ultra dna library prep kit new england biolabs inc. ipswich ma.
+
+snp distances identified using parsnp were then converted into maximum-likelihood trees using raxml under a general time-reversible model optimization of substitution rates and gamma model of rate heterogeneity with 1000 iterations .
+

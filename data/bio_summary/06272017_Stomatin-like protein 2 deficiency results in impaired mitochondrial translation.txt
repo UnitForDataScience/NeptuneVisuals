@@ -1,0 +1,30 @@
+however upon stimulation slp-2-deficient t cells failed to upregulate the translation of many mito- chondria-encoded polypeptides to the same extent as stimulated wt t cells with de novo coxi cytb coxii coxiii and atp6 protein levels being significantly lower than in acti- vated wt t cells.
+
+the finding that multiple mitochondria-encoded polypeptides failed to be upregulated in slp-2-deficient t cells following t cell activation suggested a general defect in mitochondrial translation in the absence of slp-2.the impairment of mitochondria-encoded polypeptide synthesis in slp- 2-deficient t cells occurs post-transcriptionallygeneral defects in the translation of mitochondria-encoded genes may be secondary to a vari- ety of factors including poor maintenance of mtdna a defect in mitochondrial transcription or improper assembly of the mitoribosome .
+
+given our previous finding that overexpression of slp-2 in human t cells increased mtdna content   it was possi- ble that a lack of slp-2 in mouse t cells would have a negative impact on mtdnamaintenance.
+
+there were no differences in mtdna levels between wt and slp-2-deficient t cells at any time studied indicating that the mitochondrial translation defect in slp-2-deficient t cells was not related to mtdna maintenance.peroxisome proliferator-activated receptor g coactivator-1a pgc-1a is a master regulator of mitochondrial biogenesis and metabolism  .
+
+we have previously reported thatslp-2 overexpression increased pgc-1a gene and protein expression in human t cells and that slp-2 was upregulated prior to pgc-1a upregulation in control human peripheral blood mononuclear cells following stimulation .
+
+to determine whether the disparity in mito- chondrial translation between activated wt and slp-2 t-ko t cells was due to impaired mitochondrial biogenesis in slp-2-deficient t cells we measured the gene and protein expres- sion of pgc-1a under resting conditions and upon t cell activation.
+
+however slp-2 deficiency did not affect pgc-1a abundance at the gene or protein levels indicating that mitochondrial biogenesis was not a contributing factor to the defective mitochondrial translation observed in slp-2-deficient t cells upon activation.since there were no apparent defects in mtdna stability or pgc-1a expression in resting or activated slp-2-deficient t cells we next examined whether mitochondrial transcription was occurring normally under these conditions.
+
+mrpl14 mrpl44 mitoribosomal subunits revealed that under resting conditions the amounts of the small and large mitoribosomal subunits as well as amounts of fully assem- bled monosomes were not different in slp-2-deficient t cells compared to wt t cellsmitochondrial dna stability and pgc-1a expression are not affected by deletion of slp-2 in t cells.
+
+n.d. not detected.. stimulated slp-2 t-ko t cells exhibited a similar lack of differences in mitoribo- some assembly as compared to wt t cells under the same conditions .
+
+altogether these data document an important post-transcriptional function for slp-2 in the production of mitochondria-encoded polypeptides.the impaired synthesis of mitochondria-encoded polypeptides in the absence of slp-2 correlates with decreased t cell activationto determine whether the defect in mitochondrial translation occurring in activated slp- 2-deficient t cells was functionally relevant we measured interleukin il-2 production inil-2 production is decreased in slp-2 t-ko t cells following activation.
+
+interestingly however though the absence of slp-2 impaired mito- chondrial translation in activated t cells both mitoribosome assembly and the migration of phb2 were unchanged relative to activated wt t cells.
+
+furthermore this impairment in mitochondrial transla- tion may be a contributing factor to the defective functional responses of slp-2-deficient t cells observed here and previously which include decreased il-2 production and delayed proliferation .in summary we have identified slp-2 as a key protein for general mitochondrial transla- tion in activated t cells.
+
+35s-methioninecyste- ine pulse labeling of resting or activated t cells from t cell-specific slp-2 knockout mice showed a significant impairment in the production of several mitochondrial dna-encoded polypeptides following t cell activation including cytb coxi coxii coxiii and atp6.measurement of mitochondrial dna stability and mitochondrial transcription revealed that this impairment was at the post-transcriptional level.
+
+functionally the impairment in mitochondrial translation correlated with decreased interleukin-2 production in activated t cells.
+
+altogether these data show that slp-2 acts as a general regulator of mitochondrial translation.permits unrestricted use distribution and reproduction in any medium provided the originalauthor and source are credited.data availability statement all relevant data are within the paper.funding this work was supported by canadian institutes of health research.competing interests the authors have declared that no competing interests exist.introductionmitochondria are essential for the function of most mammalian cells.
+

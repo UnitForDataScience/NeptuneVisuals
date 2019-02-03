@@ -1,0 +1,30 @@
+9f suggesting that mesh controls insect gut-microbe homeostasis by regulating the expression of duox but not nox gene.mesh regulates duox expression via arrestin-mediated mapk phosphorylationwe examined the roles of major immune signaling pathways in aaduox and aamesh expression in the mosquito gut through dsrna-mediated knockdown of key pathway modulators including components of the mapk pathways aap38 aaerk and aajnk aamyd88 of the toll pathway aaimd of the immune deficiency imd pathway aadome of janus kinase jak-signal transduction and activators of transcription stat pathwayxiao et al.page 6phosphatidylinositol 3-kinase aapi3k and aaakt of the pi3k-akt-mtor pathway supplementary fig.
+
+the expression of mesh can be upregulated by the proliferation of the symbiotic microbiome in insect guts 1. because mesh is a positive regulator of arrestin expression induction of mesh results in a higher abundance of arrestins 2 and subsequently accelerates the phosphorylation of the erk and jnk mapk proteins 3. the activation of erk and jnk leads to the downstream duox transcription 4. thus higher duox-mediated ros are generated in response to the gut microbial proliferation thereby moderating the proliferation of symbiotic microbes in gut-microbe homeostasis 5.a c e the duox expression was assessed by sybr green qpcr and normalized againstdrosophila actin.
+
+induction of duox gene expression is limited in an off-state status by phospholipase cb plcb-mediated mitogen- activated protein kinase mapk p38 dephosphorylation in the drosophila gut epithelia7.modest ros levels are achieved by activation of basal duox expression through intracellular ca2 mobilization by a g-protein a subunit q protein gaq-plcb signal cascade618.
+
+since generation of duox-mediated ros is a major gut immune response in maintenance of insect gut homeostasis our study reveals a fine-tuning mechanism for duox expression to manage healthy gut-microbe interactions in insects.resultsmesh controls duox expression and gut microbiome load in a. aegypti and drosophilaproteins with ccp domains are key immune factors restricting microbial infection in invertebrates232426.
+
+ectopic expression of dmmesh in drosophila s2 cells resulted in more than 3-fold higher expression of the dmduox supplementary fig.
+
+second depletion of the gut microbiome reduces mesh expression while reconstitution of the microbiome recovers mesh and duox expression level in a microbial burden-dependent manner.
+
+besides the duox gene that we focused on this study expression of a c-type lysozyme 9 lysc9 was also significantly impaired by immuno-blockingsilencing aamesh suggesting expression of lysc9 might be controlled by mesh-mediated signaling.
+
+however under healthy conditions the expression of duox is off-set by mapk p38 dephosphorylation via plc-b- map kinase phosphatase-3 mkp3 signaling7 indicating that the mapk p38 signaling cascade plays a central role in regulating duox expression during pathogenic microbial infections.
+
+the horizontal line represents the mean value of the results.xiao et al.page 20a-f all results were repeated in at least 3 independent experiments.xiao et al.page 21figure 3. mesh regulates aaduox expression via arrestin-mediated mapk phosphorylation inaegyptia the role of immune signaling pathways in regulating duox expression in the midgut ofa.
+
+e-f silencing dmarrestins impaired expression of the dmduox gene e and ros activityin the drosophila guts.increasing the burden of gut microbiome in the guts of dmarrestins rnai flies.xiao et al.page 24h-i assessing the role of the arrestin-erkjnk cascade in aamesh-mediated duox expression in drosophila.
+
+we show that a gut membrane-associated protein named mesh plays an important role in controlling proliferation of gut bacteria by regulating duox expression through an arrestin-mediated mapk jnkerk phosphorylation cascade.
+
+expression of both mesh and duox is correlated with the gut bacterial microbiome that in mosquitoes increasesusers may view print copy and download text and data-mine the content in such documents for the purposes of academic research subject always to the fuladdress correspondence to gong cheng ph.d. school of medicine tsinghua university beijing p.r.
+
+indeed under homeostatic conditions both the expression and activity of duox are tightly restricted to a level that allows healthy gut-microbe interactions thereby precluding any pathophysiological effects on the gut epithelia.
+
+thus the basal expression and activation of duox are essential to manage symbiotic microbes under healthy conditions in the insect gut.the complement control protein ccp domain is an evolutionarily conserved module essential for complement-mediated immune functions19-22.
+
+in this study we show that a ccp-containing protein named mesh25 regulates commensal bacterial proliferation through regulation of duox expression in the gut of both drosophila and a. aegypti via a signaling cascade involving arrestin-mediatedxiao et al.page 3mapk jnkerk phosphorylation.
+

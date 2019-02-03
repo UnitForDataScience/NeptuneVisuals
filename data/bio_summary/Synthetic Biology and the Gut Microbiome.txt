@@ -1,0 +1,30 @@
+we will review the mechanisms by which the gut microbiome influences human health and the ways in which researchers have used engineered probiotics to exploit this connection before moving on to a discussion of how the synthetic biology approach might be more broadly used in the design of improved therapeutics and the challenges that may arise in the process.background the gut microbiome pathways and human healththe microbiome has a metabolic potential that dwarfs that of the human body - the species contained in a typical gut areestimated to encode more than 3.3 million distinct genes more than 150 times the number found in humans alone.61933 further the necessity of interchange between the gi tract and bloodstream means that many millions of microbes interact intimately with their host producing bacterial metabolites and modifying those produced by the host.1334 around 10 of thefigure 1. overview of the ways in which the gut microbiome influences the human body.
+
+blood-brain- barrier integrity a key component of age-related disease is at least partially dependent on microbiome composition69 and researchers have linked the severity of parkinson's symptoms to changes in levels of prevotellaceae and entereobacteriacae in the gut.12 studies have even shown that probiotic treatment can slow the age-related attenuation of long-term potentiation.70synthetic probiotic speciesengineered for delivery of therapeutic compoundssince the gut microbiome is important to so many aspects of human health and dysbiosis of the microbiome is closely linked to disease states it becomes natural for us to attempt to treat these disease states by rebalancing the microbiome through the administration of beneficial microbial species - in other wordsthrough probiotics.
+
+caluwaerts l. galleri i. spagnuolo l. steidler k. vanhuynegem p. demetter c. wasserfall m. a. atkinson f. dottap.
+
+reviewmicrobiomesynthetic biology and the gut microbiomejennifer dou and matthew r. bennettintroduction synthetic biology and the gut microbiotaour gastrointestinal tracts are populated by a diverse ecosystem of commensal microbes commonly known as the gut microbiome or microbiota.1 in total the gut microbiome is thought to comprise up to 1014 organisms of over 2000 distinct bacterial viral and eukaryotic species.2-4 the exact makeup of the gut microbiome is influenced by both environmental age diet rearing environment method of natal delivery and genetic gender ethnicity etc.
+
+by breaking these large compounds into monosaccharides short- chain fatty acids scfas and other digestible compounds they provide an additional source of metabolic energy.133440 in practice this means that the microbiomes of obese individuals process and store energy more efficiently than those of lean individuals4142 in fact transplantation of an obese mouse's microbiome into a lean subject has been sufficient to induce symptoms of obesity.43 gnotobiotic animals those lacking a microbiome are leaner than their conventionally raised counterparts despite having a variety of other developmental deficiencies.36 from this we can conclude that diet influences human health in large part through altering the composition of the microbiome.
+
+there is a nascent and fast-growing industry dedicated to probiotics or microbial species that have a beneficial effect on the body and studies of these species in relation to diseases ranging from inflammatory bowel disease ibd21 to eczema2223 to anxiety disorders24 demonstrate that we can work deep changes on the humanbody by altering the composition of its gut microbiome.
+
+these species however are not common inhabitants of the gut many commonly used lactobacillus species are not native to the human microbiome at all and therefore tend to be flushed out by better-adapted microbes within a matter of days.
+
+utilize engineered versions of antibodies known as nanobodies which can be produced in vivo by bacteria and yeast and have a number of structural advantages over traditional antibodies.93 bivalent versions of these nanobodies targeting tnf-a thought to contribute to ibd symptoms secreted by l. lactis were highly effective in treating bothchemically-induced colitis and a genetically induced version mice lacking il-10 expression will spontaneously develop enterocolitis.94 one important direction for the future will be to continue to expand the biosynthesis capacities of common probiotic species to improve the versatility of therapies using these species as a drug delivery mechanism.
+
+existing systems commonly use either l. lactis or other lactobacillus species or e. coli to house their biological machinery since these species are in common use because of their industrial and laboratory roles.
+
+2015 14 26.j.-p. motta l. g. bermudez-humaran c. deraison l. martinc.
+
+w. kotula s. j. kerns l. a. shaket l. siraj j. j. collins j. c. wayp.
+
+l. shis f. hussain s. meinhardt l. swint-kruse m. r. bennettacs synth.
+
+k. spinler c. l. ross t. c. savidge anaerobe 2016 41 51.m.
+
+g. bermudez-humaran j.-p. motta c. aubry p. kharrat l. rous- martin j.-m. sallenave c. deraison n. vergnolle p. langella microb.
+
+it is affected profoundly by the healthof its host and in turn shapes its host profoundly in areas ranging from metabo- lism to immune development to stress response.110-12 the metabolic capacity of the microbiome containing over three million genes is thought to be greater than that of the liver.11 gastrointestinal bacteria direct carbohydrate metabolism and energy production guide immune response and influence memory.313 metabolites pro- duced by the microbiome pass through the epithelial lining of the intestines and are taken into the bloodstream and transported throughout the body.1113 it is no surprise that gutdysbiosishasbeenlinked to a bevy of disease states from diabetes14 to coli- tis1315 to mood disorders 16-18 the micro- biome has an immense effect on every part of human physiology figure 1 in ways that are only now making themselves under- stood.
+

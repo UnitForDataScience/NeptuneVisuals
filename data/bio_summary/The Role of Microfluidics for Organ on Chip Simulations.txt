@@ -1,0 +1,30 @@
+cells can be exposed to fss and cyclic mechanical deformations like the living cells which are involved in the processes of cardiovascular cycling breathing and peristalsis .
+
+combining induced pluripotent stem ips cells or patient-specific primary cells along with gene editing technologies and personalized models of disease and health needs to be developed.
+
+the ebm's cells kept their viability after 4 days of culture and the results showed similarity to the mouse femur bm but not to blood cells.
+
+pancreatic endoderm derived from human embryonic stem cells generates glucose-responsive insulin-secreting cells in vivo.
+
+besides new directions and areas are mentioned for interested researchers in this field and future challenges regarding the simulation of ocs are also discussed which will make microfluidics more accurate and beneficial for biological applications.keywords microfluidics 3d biopringting bioengineering biosensors microbiomeintroductionmicrofluidics a multidisciplinary developing field is related to small volumes sizes energy consumptions and domains which are used to run intermingle discretize or process fluids  for better analysis of single cells to organs on fully automated chips .
+
+however organoids formed in 3d cell cultures have different shapes and sizes and it is hard to maintain the positions of their cells for analysis.
+
+trans-cellular transport secretion and absorption and biochemical and genetic analysis of cultured cells are also difficult in 3d systems.
+
+there is a lack of exposure to mechanical cues like tension compression and flow shear stress fss for cells which are very important for organ development and functions for both disease and health states .
+
+microfluidic systems offer opportunities to overcome these limitations.an organ is a complex unit of different tissues and these tissues are composed of various types of cells with diverse functions.
+
+these microfluidic devices usually contain cell culture chambers lined with living cells.
+
+however for complex systems different types of cells related to various tissues are cultured.
+
+these cells are interconnected with porous membranes and are lined on opposite sides for proper organ simulation .
+
+fluidically associated cells of different organs on a chip mimicking the physiological connections between organs with integrating fss mechanical compression and cyclic strain or other physical forces can be used for analyzing drug distribution and organ specific responses .
+
+in 3d cell culture cells are embedded in natural or synthetic polymers.
+
+cells intersperse randomly in the extracellular matrix ecm or form organoids which are clusters of self-assembled cellular structures.
+

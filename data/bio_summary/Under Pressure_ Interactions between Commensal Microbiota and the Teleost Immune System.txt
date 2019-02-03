@@ -1,0 +1,30 @@
+future studies should dis- sect the specific mechanisms by which different members of the fish microbiota and the metabolites they produce interact with pathogens with other commensals and with the teleost immune system.keywords microbiota commensals teleost fish immunity mucosal immunity evolutionintroductionteleost fish are colonized soon after hatching by a diverse set of microbes which interact with and shape the development of the host immune system.
+
+on the other hand when microbiota grows out of control resident opportun- ists may favor colonization of pathogens as demonstrated in the case of the commensal staphyloccocus warneri and the pathogen vibrio anguillarum .interactions between microbiota and the teleost systemic immune systemdespite the fact that multiple studies have shown that delivery of probiotic bacteria in fish diets can modulate teleost systemic immune responses and disease resistance - the mecha- nisms of this interaction remain unknown.
+
+this model takes into consideration the influence of the environment aswell as other factors that can break the equilibrium between the microbiota and the fish host.the immune system of teleost fishthe immune system of teleost has been studied for decades.
+
+importantly commensal bacteria modulate b cells and mucosal igs.the teleost fish microbiomealthough the presence of microbial communities on the mucosal surfaces of teleost fish has been acknowledged for decades the composition topography and environmental factors that shapeteleost bacterial microbiomes have only recently been unveiled thanks to deep sequencing of the 16s rdna variable region.currently most of the research efforts which aim to under- stand the fish microbiota have focused on sequencing bacterial communities from aquacultured species.
+
+future refinement of the germ-free rearing technique in zebrafish and other teleost species as well as identification of cell markers production of reagents and production of transgenic lines with reporters for or knockouts of important immune genes will allow for a deeper understand- ing of the types of systemic immune responses that microbes are capable of inducing during development and adulthood in teleosts.interactions between microbiota and the teleost mucosal immune systemall fish mucosal sites are colonized by microbes which interact with both the adaptive and innate immune system.
+
+thus similar to mammals teleost immune systems depend on the microbiota for stimulation to maintain a natural state of activity which benefits the host.germ-free larvae can be used to conduct reassociation studies using the natural microbiota single microbial species or defined groups of microbes to determine direct effects of microbial presence on the immune system.
+
+the in vivo mechanisms behind this inhibitory effect remain unexplored but t lymphocytes exposed to the microbiota of rag1-deficient zebrafish in vitro produced more ifng and tnfa compared to t lymphocytes exposed to the microbiota of wild-type zebrafish suggesting t cell- mediated inflammatory responses may play a role in shaping the microbiome.finally it is worth highlighting the notion that microbiota contribute to the host's array of immune defenses.
+
+teleost fish also have an adaptive immune system which relies on somatic recombination of germline-encoded v-d-j fragments to generate a vast repertoire of antigen receptors expressed on the membrane of t and b lymphocytes.due to the large number and diversity of teleost species 30000 we find unique evolutionary innovations in certain clades.
+
+thus this teleost group does not rely on traditional antigen presenta- tion via the mhc-ii and activation of t helper cells to mount adaptive immune responses and instead displays an expansion in the number of mhc-i genes  .with regards to the anatomical organization of the teleost immune system teleosts possess both primary and secondary lymphoid tissues.
+
+due to the important and direct interactions between commensals and teleost mucosal surfaces we will describe in further details the organization and functioning of teleost malt and their compo- nents in this review.acontinuouslyproducedmucuslayercoverstheintestinal gill skin and nasal mucosal surfaces of fish.
+
+the mechanisms of antigen uptake and antigen presentation in teleost malt are not as well defined as those present in mammalian malt but it is clear that teleost malt have significant numbers of antigen-presenting cells at mucosal sites.
+
+whether other teleost malt harbor unique tissue microenvironments containing unique t cell subsets is unknown.b cells are also part of all teleost malt and have been fairly well characterized in all four malt of rainbow trout    .
+
+since phylogeny is a determining factor of the microbial compo- sition of the host  and given the large number and taxonomic diversity of extant teleost species it is likely that new efforts to sequence microbiomes from distantly related teleost species will reveal different assemblages to the ones so far reported.
+
+the cross talk between the microbiota and the teleost immune system shifts significantly under stress or disease scenarios rendering commensals into opportunists or pathogens.
+
+as a consequence this review only discusses interactions between bacteria and fish immune systems.as discussed throughout this review microbiota exert direct effects on the teleost immune system through their display of microbe-associated molecular patterns mamps and secretion offactors.
+

@@ -1,0 +1,30 @@
+due to this apparent extended specificity to- wards xenobiotics such as alafosfalin beta-lactams ace in- hibitors immunomodulatory agents and antipsychotic drugs e hpept1 is being used in the design and enhancement of bioavailability of several drugs in particular those that are distributed orally an example of this is valacyclovir .
+
+original articleseveral hpept1-transported drugs are substrates of the escherichia coliproton-coupled oligopeptide transporter ydgrbala k. prabhala  nanda g. aduri  mazhar iqbal  moazur rahman  michael gajhede paul r. hansen  osman mirza a department of drug design and pharmacology faculty of health and medical sciences university of copenhagen copenhagen denmarkb health biotechnology division national institute for biotechnology and genetic engineering faisalabad pakistanreceived 30 august 2016 accepted 26 january 2017available online 16 february 2017abstractproton-dependent oligopeptide transporters pots are secondary active transporters found in all kingdoms of life.
+
+the human pot hpept1 is known to transport a number of drugs.
+
+as part of ongoing studies on substrate specificities of pots from escherichia coli our aim in this study was to investigate whether bacterial pots could also transport these drugs.
+
+for this we selected the common orally administered drugs sulpiride bestatin valacyclovir ampicillin and oseltamivir that are all transported by hpept1.
+
+the transport of these drugs was evaluated using the prototypical pot ydgr from e. coli.
+
+these investigations revealed that ydgr from e. coli is able to transport five sulpiride bestatin valacyclovir ampicillin and oseltamivir drugs.
+
+furthermore cells not overexpressing ydgr were also able to transport these drugs in a pot-like manner.
+
+all rights reserved.keywords hpept1 drugs bacterial peptide transporters bacteriadrug interactionintroductionorganisms spanning all kingdoms of life have evolved specialized transport proteins to actively take up nutrient molecules.
+
+our current study is inspired by the hypothesis of tar- geting the gut microbiome with drugs.
+
+in particular it prompted two different questions first if commonly used orally administered drugs already are substrates of the microbiome and second are there transport systems in the gut microbes that can be used for uptake of foreign molecules the fact that several genomes of the microbiota contain pot genes is an interesting coincidence for instance one of the major components of the gut microbiome escherichia coli contains four pot genes ydgr yhip yjdl and ybgh .
+
+among these ydgr has very similar specificity towards di- and tripeptides compared to human hpept1 .in the present study we established that the orally admin- istered drugs valacyclovir sulpiride oseltamivir bestatin  e are substrates of ydgrdtpa from e. coli and that it is possible to quench uptake by dipeptides.previously known ydgr variants with compromised func- tionality are also seen to be affected in terms of drug uptake.
+
+furthermore we observed that e. coli cells not over- expressing ydgr were still able to take up drugs and that this uptake was also quenchable by dipeptides.
+
+we thus established that bacterial pots were able to take up orally administered drugs and this apparently also happened in cells not over- expressing pots.
+
+extending our findings to the gut micro- biome they may indicate that the microbiome is able to interact with orally administered drugs and that pots may play an important role in the interaction.materials and methodsexpressionoverexpression of ydgr was performed as described pre- viously .
+

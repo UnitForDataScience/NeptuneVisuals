@@ -1,0 +1,30 @@
+of these volatile components 13 components including ethyl butyrate ethyl isobutyrate butanoic acid ethyl acetate ethanol octanoic acid ethyl caproate hexanoic acid hexyl alcohol ethyl caprylate hexanal 2-heptanone and 2-nonanone were defined as the major volatile components with relative con- tents over 1.00. they jointly constituted from 86.40 to 94.31 of the total peak area and thus covered the major information con- tained in the volatile profiles.overall bacterial and fungal structures comparison of wyq and gtqthe bacterial and fungal components in the traditional fermentation starters wyq and gtq were investigated by illumina hiseq sequencing analyses.
+
+good's coverage estimation values were within the range of 98.9e100 indicating adequate sequence coverage to reliably describe the full bacterial and fungal communities presented in all the samples supplementary table s1.the bacterial and fungal communities within the two types of starters were compared by using pca analysis based on the total otus' relative abundance information b and c. both pca score plots depicted 2 divided groups which revealed relatively low similarities in bacterial and fungal communities between gtq and wyq.
+
+unsurprisingly the clustering depicted two clear separated groups in both bacterial and fungal communities which indicated that these taxa were the most representative microbial groups in wyq or gtq.correlation analysis between major volatile components and representative microbiota in hong quthe relationship of the 13 major volatile components 14 representative bacterial taxa and 10 representative fungal taxa of the both types of starters were explored by using pls-da algorithm and visualized by using r software.
+
+moreover it was also revealed that the bacterial com- munities within wyq were dramatically distinct from one another while the gtq patterns were quite well clustered which indicated more similarity of bacterial profile within gtq samples.bacterial and fungal profiles of hong quthe bacterial otu sequences were annotated into different taxa from the greengene database.
+
+it was identified that bacterial genus burkholderia dominated gtq 71.62 and bacillus dominated wyq 44.73 while monascus purpureus was the most abundant fungal species in both types of starters 76.99. in addition 213 bacterial genera and 150 fungal species with low-abundance were also detected.
+
+a pca plots based on the normalized peak area percentages of volatile components b pca plots based on the relative abundance of bacterial 16s gene otus c pca plots based on the relative abundance of fungal its gene otus.wyq had a significantly higher bacillus proportion p0.000.the its1 regions of fungal its rrna genes facilitated the species level taxonomic annotation of fungi from the unite database.
+
+the fungal group enriched in gtq was only monascus purpureus with an lda score of 5.02.based on the relative abundance of these 14 bacterial taxa and10 fungal taxa heatmap plots and hierarchical clustering were then employed so as to provide a visual and overall comparison for differentiating the two types of starters as reflected in b andd.
+
+a lefse comparison of bacterial communities at genus-level between wyq and gtq b heatmap comparison and hierarchical clustering dendrogram based on the relative abundance of 14 representative bacteria genera across all samples c lefse comparison of fungal communities at species- level between wyq and gtq d heatmap comparison and hierarchical clustering dendrogram based on the relative abundance of 10 representative fungal species across all samples.positively correlated with aspergillus flavus ethyl caproate was positively correlated with agrobacterium octanoic acid was nega- tively correlated with bacillus and rhizopus oryzae.based on the concatenation panel correlation between repre- sentative bacteria and fungi was complicated.
+
+subse- quently the possible relation between the major volatile compo- nents with relative content over 1.0 and the representative bacterial and fungal taxa was explored by utilizing a pls-da modelling and plotted in a concatenation panel by using rsoftware with the mixomics package.other data are expressed as mean - sd.
+
+thus the color value fermentative power volatile profiles and more importantly the bacterial and fungal community structures of wyq and gtq were investigated and compared in the present study.in general wyq has darker appearance  but lower con- tent of monascus pigments than gtq .
+
+red blocks on the circle represent the 13 major volatile components blue blocks represent the 14 genus-level representative bacterial taxa and green blocks represent the 10 species-level representative fungal taxa.
+
+nevertheless this concate- nation panel indicated a potential roles of microorganism in aro- matic forming as well as a complicated symbiotic relationship between various bacteria and fungi which provided clues for the further studies.conclusionsin the current study the fermentative properties volatile pro- files and bacterial and fungal communities of the two major types of traditional fermentation starters of hong qu glutinous rice wine were compared.
+
+afterward based on the volatile profile data set principal component analysis pca was used to visualize the differences among the starter samples by using r software version 3.2.5 with the vegan ade4 and ggplot2packages.bacterial and fungal dna extraction and illumina sequencingbacterial and fungal dna was extracted from 0.2 g of each ground hong qu powder samples by utilizing a rapid dna extrac- tion kit bioteke corporation beijing china following the in- struction of the manufacturer.
+
+and 2 yeast species including saccharomycopsis fibuligera and saccharomyces cerevisiae  and 16 bacterial species belonging to 6 bacterial genera bacillus staphylococcus leuconostoc pediococcus lactoba- cillus and lactococcus were identified from wyq.
+
+as for the bacterial community a total of 321142 quality filtered sequencing reads corresponding to the v3ev4 region of bacterial 16s rrna genes about 426 bp in length were obtained.
+

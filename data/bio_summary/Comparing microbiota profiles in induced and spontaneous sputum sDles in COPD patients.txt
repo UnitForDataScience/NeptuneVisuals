@@ -1,0 +1,30 @@
+with 0.2 as limit for acceptablewithin-pair 1-thyc seven pairs were found dissimilar regardless of otu-abundance pairs 8 11 19 20 27 34 and 36 while four pairs were found dissimilar only if filtering out low-abundance otus pairs 6 14 24 and28 or keeping low-abundance otus respectively pairs 3 13 22 and 26.to further assess differences in taxonomy between sample pairs one bland-altman plot of the relative abundances of our 106 taxa was generated for each pair.
+
+we chose the seven most visually dissimilar pairs pairs 11 14 19 20 26 27 and36 and three visually similar pairs pairs 2 5 and 29 and redid the laboratory analyses.
+
+we have previously shown that levels of inflammatory markers differed between sputum types in a study from the same population in the present study we compared the taxonomic composition and diversity measures in 36 sputum pairs consisting of sss and iss sampled sequencially from copd patients either during aecopd or at the stable state.methodsstudy designthe current study sample consisted of 36 sputum pairs col- lected from 30 copd patients who participated in both the bccs  bces.
+
+each of the sample pairs were processed on the same day and for all pairs we used the same reagent kits throughout dna extraction pcr and sequencing.bioinformatics analysesfastq-files were computed using quantitative insights into microbial ecology qiime v.1.9.1 .
+
+setting an acceptable limit for loa at0.1 allows the relative abundance in each taxa to vary from iss to sss by 10. with this limit 13 pairs could not be accepted as equal including the seven pairs found too different by 1-thyc regardless of otu- abundance fig.
+
+in both cases 1 of 3 pairs would render different results depending on which sam- ple type was picked to represent the patient.the bland-altman's loa analyses confirmed the find- ings using yue-clayton's dissimilarity in that iss and sss did not provide the same results in a significant fraction 13 of 36 of pairs when evaluating taxonomical composition in sputum from copd patients.summarizing our findings on greengenes genus- level left 106 unique taxa.
+
+however when considering samples pair-wise we found differ- ences in wuf in 1 of 4 pairs and for uwuf differences were found in 50 of the sputum pairs.
+
+the creative commons public domain dedication waiver applies to the data made available in this article unless otherwise stated.airways and one of the cited studies used an earlier method of bacterial profiling terminal restriction frag- ment length polymorphism profiling wheras the other had only 15 sputum pairs the validity of sss with regard to 16s rrna marker-gene based studies on non-cf patients is unknown to date.the bergen copd cohort study bccs and its adjunct bergen copd exacerbation study bces offers an opportunity to address this issue in copd patients as we have sampled sputum both induced and spontan- eously in a number of our copd patients repeatedly during follow-up.
+
+a phylogenetic tree was built using fasttree v.2.1.3 counts of observationsotus on a per-sample basis were stored in biological observation matrix biom format and otus contain- ing less than 0.005 of the total number of sequencestable 1 patient characteristicssexn were removed according to qiime guidelines .statistical analysescomparisons of the taxonomic distribution between pairs were performed both by calculating the yue- clayton measure of dissimilarity 1-thyc - range 0 to 1 0 indicates perfect similarity 1 perfect dissimilarity  and using limits of agreement loa calculated from bland-altman plots both methods allow evalu- ation of quantitative differences within each pair.the mean number of sequences allocated to each identi- fied taxa in the 36 iss was compared to that found in the 36 sss using log-likelihood ratio tests with bonferroni cor- rected p-values due to multiple comparisons.
+
+2013. college station tx was used for generation of the bland-altman plots.all relevant data were deposited at the dryad digital repository and are referenced in the text using the following doi resultswe obtained a total of 36 high-quality pairs of spu- tum from 30 different copd patients.
+
+for exacerbation samples the dissimilarity 1-thyc measure was also 0.04 and for stable state samples 0.03. performing the same analyses including also low-abundance otus gave a dissimilarity1-thyc measure of 0.04 when all samples were included and 1-thyc of 0.04 and 0.05 for exacerbation and stable samples respectively.taxonomic compositional differences within sample pairs were visualized as bar graphs for the same 11 dom- inating taxa fig.
+
+as shown there were obvious visual differences within some pairs.
+
+also haemophilus was consistently more abun- dant in spontaneous than in induced samples.diversityno statistically significant differences were found in alpha-diversity table however we found statistically significant differences p  0.01 bonferroni corrected due to multiple compari- sons in the pair-wise quantitative phylogenetic beta- diversity as evaluated by weighted unifrac for 9 pairs pair 3 14 17 19 26 30 32 33 and 36.the principal coordinates analysis pcoa plots are presented in fig.
+
+this was true both in stable state and at exacerbations p  0.05.discussionthis study on sputum samples collected sequentially using two different methodologies from copd patients and treated equally by the same protocol shows that in approximately 13 of sputum pairs either taxonomical andor diversity analyses differ significantly.
+
+all pairs were run simultan- eously for all steps in the laboratory protocol includingtable 2 mean number of sequences per sample constituting the 15 taxaa found in significantly different amounts in induced and spontaneous sputum from copd patients with and without respect to disease stateall samplesexacerbationstable stateararefied otu-tables sequencessample  18250 for all samples and exacerbations for stable state 19743 bgreengenes level 6 f  name of family level g  name of genus level.
+

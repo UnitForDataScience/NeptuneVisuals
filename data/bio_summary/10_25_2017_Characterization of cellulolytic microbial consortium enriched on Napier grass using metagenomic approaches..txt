@@ -1,0 +1,30 @@
+napier grass pennisetum purpureum also called elephant grass or giant king grass is a c4 perennial grass with high biomass.
+
+enzyme activities determined at ph 5 were significantly higher than those at ph 8 used for cultivation of the consortium data not shown suggesting the enzymes have optimal activity in the slightly acidic range similar to those observed for most cellulolytic enzymes from anaerobic and facultative bacteria.
+
+the genes encoding for oligosaccharide degrading enzymes represented the majority approximately 60 of the an- notated genes for lignocellulolytic enzymes.
+
+this could be related to the removal of lignin from the biomass asnp-lmc-d2177884954711390963156np-lmc-d7210078253613577336154np-lmc-d19222358181813680665162of lignin-degrading enzymes found were glucose-methanol-choline gmc oxidoreductases aa3 40e46 of all aas vanillyl-alcohol oxidases aa4 24e32 and multicopper oxidase aa1 17e21 in addition to few enzymes in aa6 7 and 10. besides diverse ghs and aas various carbohydrate esterases ces were annotated and clas- sified into 16 families were discovered.
+
+enzymes of this class efficiently deacetylate acetylglucuronoxylan in hardwood by deacetylating positions 2 and 3 in mono-acetylated d-xylopyranosy residues but do not deacetylate doubly acetylated d-xylopyranosy residues .the aa class covers a range of redox enzymes attacking lignin and polysaccharides in the plant cell wall.
+
+as lignin is intimately associated with carbohydrates lignolytic enzymes can act cooper- atively with other carbohydrate degrading enzymes on decompo- sition of the plant biomass.
+
+all rights reserved.key words carbohydrate-active enzymes high-throughput sequencing lignocellulose degradation napier grass microbial consortiumthe global energy industry is undergoing a rapid transition from its dependence on the nonrenewable fossil resource to more sus- tainable carbon-neutral resources.
+
+the work provides insights into the cooperative actions of microbes and enzymes in decomposition of energy grass and shows the potential of np-lmc as a promising microbial agent for enhancing conversion efficiency of fibrous lignocellulosic substrates to bio- energy and bio-products of economic importance.materials and methodsmaterials decomposed forest litter resulting from natural degradation of forest litter collected from several locations in the queen sirikit botanic garden chiang mai thailand was used as a microbial source for preparation of lignocellu- lolytic consortia.
+
+the major debranching enzymes involved include a gh51 a-l-arabinofuranosidase that cleaves off arabinose side chains of glucoronoarabinoxylan which is a major hemicellulose in grass and other monocot plants  and a gh78 a-l-rhamnosidase that cleaves off terminal a-l-rham- nose from a large number of natural glycoside products containing terminal a-l-rhamnose .
+
+ characterization of cellulolytic microbial consortium enriched on napier grass using metagenomic approachespattanop kanokratanasarunyou wongwilaiwalinwuttichai mhuantong sithichoke tangphatsornruanglily eurwilaichitrand verawat champredaenzyme technology laboratory national center for genetic engineering and biotechnology 113 thailand science park pahonyothin road klong luang pathum thani 12120 thailand1 and genomic research laboratory national center for genetic engineering and biotechnology 113 thailand science park pahonyothin road klong luang pathum thani 12120 thailand2received 21 may 2017 accepted 25 october 2017 available online xxxenergy grass is a promising substrate for production of biogas by anaerobic digestion.
+
+the higher recalcitrance to enzymatic hydrolysis of napier grass compared with rice straw can be related to its higher extractive components 11.5 and 3.3 in napier grass and rice straw respectively particularly the surface waxes which may inhibit the enzyme's accessibility to the embedded lignocellulosic structure.
+
+direct shotgun sequencing of the consortium metagenome revealed relatively high abundance of genes encoding for various lignocellulose degrading enzymes in 23 glycosyl hydrolase gh families compared to previously reported cellulolytic microbial communities in mammalian digestive tracts.
+
+enzymes attacking cellulose and hemicellulose were dominated by gh2 3 5 9 10 26 28and 43 in addition to a variety of carbohydrate esterases ce and auxiliary activities aa reflecting adaptation of the enzyme systems to the native herbaceous substrate.
+
+th66 2564 6700x3464 fax th66 2564 6707.e-mail address p. kanokratana.the natural degradation of lignocellulosic biomass with it complex molecular structure requires synergistic and cooperative actions of microbes producing a variety of cellulolytic and hemicellulolytic enzymes .
+
+the crude enzymes were clarified by centrifugation at 7500 xg for 15 min.reactions 320 ml contained the appropriate dilution of enzyme in either 50 mmsodium acetate buffer ph 5.0 or 50 mm phosphate buffer ph 8.0 and 1  wv of the corresponding substrate sigmaealdrich singapore carboxymethyl cellulose for cmcase activity birchwood xylan for xylanase activity and b-glucan for b-glucanase activity.
+

@@ -1,0 +1,30 @@
+postmortem succession of gut microbial communities in deceased human subjectsjennifer m. debruyn and kathleen a. hauther1 biosystems engineering  soil science university of tennessee institute of agriculture knoxville tn united states of america2 department of anthropology university of tennessee--knoxville knoxville tn united states of americasubmitted 3 february 2017accepted 17 may 2017published 12 june 2017corresponding author jennifer m. debruyn doi copyright2017 debruyn and hauther open accesssubjects ecology microbiologykeywords microbiome postmortem interval microbial ecology human decomposition anthropology research facility forensic anthropologyintroductiondecomposition of vertebrate mortalities is driven in part by microbial activity.
+
+this analysis revealed early communities had significantly higher abundances of bacteroides and parabacteroides phylum bacteroidetes and the firmicutes faecalibacterium phascolarctobacterium blautia lachnospiraceae incertae sedis.otuphylumorderfamilygenusrthe 'late' microbial communities had a higher richness but lower diversity than the early microbial communities the late communities had a mean of 186 - 78 otus which was significantly higher than the early communities two-tailed t test t  -3.215 p  0.003. these late microbial communities were also more variable compared to the early microbial communities with a mean bray-curtis similarity of 49.45. the inverse of the simpson's diversity index was 6.608 - 3.78 indicating significantly lower diversity than the early communities t  5.232 p  0.001. firmicutes still dominated but we observed reduced relative abundances of bacteroidetes at the phylum level .
+
+while it is well accepted the human microbiome plays an important role in tissue decomposition the composition and dynamics of these microbial communities postmortem are only starting to receive attention.understanding the processes and dynamics of decomposition has application in forensic science particularly with respect to developing robust estimates of time since death or postmortem interval pmi.
+
+there has been recent interest in the use of microbial communities in the decomposition environment as markers of pmi if the postmortem succession of microbial communities is repeatable and predictable then it may be possible to use the communities as forensic indicators similar to the approach taken by forensic entomology  .
+
+mouse model studies examining translocation of bacteria postmortem have demonstrated the migration and proliferation of clostridium and other anaerobic taxa in the internal organs withincreasing postmortem intervals   an increase in clostridium in human internal organs postmortem has also been reported   .
+
+previous work has indicated that insects on carrion may alter microbial community structure and functioning  this raises important questions about the possible role of insect-introduced bacteria in decomposition.there has been increasing interest in determining if patterns in postmortem microbial communities may be useful in a forensic context.
+
+all methods have limitations thus using a combinationhow to cite this article debruyn and hauther 2017 postmortem succession of gut microbial communities in deceased human subjects.peerj 5e3437 doi of approaches typically provides the best estimates of pmi .
+
+recent studies have begun describing human postmortem microbial communities associated with a variety of habitats including skin    mouth and rectum   ear and nasal canals  internal organs   bones  and soils below   .
+
+initial screening of the sequence libraries revealed that one individual a6 which had a percutaneous endoscopic gastrostomy feeding tube prior to death had very different starting postmortem gut microbial communities compared to the other three .
+
+these communities were significantly enriched in otus belonging to order clostridiales within phylum firmicutes clostridium peptostreptococcus and anaerosphaera and gammaproteobacteria otus wohlfahrtiimonas ignatzschineria acinetobacter and providencia .while there was a clear change in the postmortem gut microbial community with time there were some differences between the three individuals.
+
+while other studies of postmortem human microbial communities have included fecal or rectal sampling e.g.
+
+are normal members of the human gut microflora and have been reported as a prominent members of postmortem microbial communities including both internal organs and external sites      .
+
+clostridium was the strongest positive predictor of pmi.our examination of human gut microflora of the caecum in decomposing human subjects adds to the growing literature on postmortem microbial communities.
+
+while the small sample size used here limits the interpretation and would need to be validated by further study it has provided new insight into postmortem patterns of microbial succession and thus may contribute to our overall understanding of decomposition processes.acknowledgementsthe authors thank all of the donors and their families who make this research possible.
+
+2015. estimating time since death from postmortem human gut microbial communities.
+

@@ -1,0 +1,30 @@
+alternatively a double filtering separation step has been shown useful to deplete human proteins for selective enrichment of microbial proteins which was demonstrated to enhance prote- ome coverage by facilitating the identification of low- abundance proteins .next efficient protein extraction from the complex microbial samples is critical to allow accurate represen- tation of the intracellular protein content.
+
+201615242-50.kolmeder ca salojarvi j ritari j de been m raes j falony g et al.
+
+201528203-9.gagniere j raisch j veziant j barnich n bonnet r buc e et al.
+
+2011126.zhang x ning z mayne j moore ji li j butcher j et al.
+
+journal of biomedical science 2017 2436doi 10.1186s12929-017-0342-zmetaproteomic analysis of human gut microbiota where are we headingpey yee lee siok-fong chin hui-min neoh and rahman jamalbackgroundthe human gastrointestinal gi tract is colonized by a highly diverse population of microbial community collect- ively known as the gut microbiota that play vital roles in maintaining human health .
+
+hence other complementary approaches are needed to elucidate the functional capacity of human gut microbiota.over the past decade metaproteomics which is de- fined as the large-scale profiling of the whole protein complement expressed by a complex microbial ecosys- tem has been applied to analyze human gut micro- biota.
+
+2015153463-73.verberkmoes nc russell al shah m godzik a rosenquist m halfvarson j et al.
+
+20093179-89.kolmeder ca de been m nikkila j ritamo i matto j valmu l et al.
+
+20127e49138.presley ll ye j li x leblanc j zhang z ruegger pm et al.
+
+however it was observed that despite greater microbial protein identifications the centrifugation step caused considerable protein loss due to non-specific re- moval of microbial cells which led to bias in the analysis .
+
+accumulating evidence indicates that imbalances in the microbial community or dysbiosis have potential adverse effects on human health whereby such alterations are implicated in the development of numerous diseases including metabolic disorders inflam- matory diseases and cancers .given the importance of gut microbiota in human health and disease development it has been the subject of extensive investigations in recent years.
+
+by harnessing the power of the emerging technologies it is anticipated that more details on the microbial functionality and their con- nection with human host will be uncovered in the future.abbreviationscd crohn's disease gi gastrointestinal ibd inflammatory bowel disease metahit metagenomics of the human intestinal tract ms mass spectrometry protein-sip protein-based stable isotope probinguc ulcerative colitisacknowledgmentsnot applicable.fundingdr.
+
+prior to ms analysis exten- sive fractionation using multidimensional lc separationstable 1 summary of metaproteomic studies of human gut microbiotatable 1 summary of metaproteomic studies of human gut microbiota continued1-de one-dimensional electrophoresis 2-d page two-dimensional polyacrylamide gel electrophoresis 2-d lc two-dimensional liquid chromatography fticr fourier transform ion cyclotron resonance lc liquid chroma- tography ltq linear trap quadrupole maldi-tof matrix-assisted laser desorptionionization time-of-flight ncbi national center for biotechnology information seldi-tof surface-enhanced laser desorptionionization time-of-flight wcx weak cation exchangegelc-msms or 2d-lc-msms is particularly useful to reduce sample complexity and improve protein iden- tification.
+
+the pipeline enabled efficient identifi- cation and quantification of over 120000 peptides corre- sponding to 30000 protein groups from human and mouse gut microbial metaproteome.
+
+in which the use of different databases in gut microbial metaproteome data analysis has led to complementary identification of unique peptides more recently a data analysis pipeline coupling publicly accessible gene catalog databases with iterative database searching known as metapro-iq was introduced by zhang et al.
+

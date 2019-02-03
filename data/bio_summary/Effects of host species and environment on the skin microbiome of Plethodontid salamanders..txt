@@ -1,0 +1,30 @@
+cell and tissue research 343 201-212.council s. e. savage a. m. urban j. m. ehlers m. e. skene j. h. p. plattm.
+
+342-355. washington dc the national academies press.walke j. b. becker m. h. hughey m. c. swartwout m. c. jensen r. v.  belden l. k. 2015. most of the dominant members of amphib- ian skin bacterial communities can be readily cultured.
+
+in bacterial abundance analyses we filtered the data to contain otus that oc- curred in 5 of samples to reduce spurious significance from otus with low sequence counts and reported false discovery rate fdr corrected p-values.we identified otus in our dataset that were taxonomically simi- lar 97 sequence similarity to known anti-bd bacteria woodhams et al.
+
+for abundances of anti-bd bacterial otus we denote those otus with an asterisk in tables that report the statistical results from the entire bacterial community analyses.3  results  overview of otu diversity and coremicrobiomewe generated 224503 high-quality bacterial sequences 342 bp average length from 100 plethodon salamander skin samples repre- senting 480 otus from 20 described bacterial phyla.
+
+bacterial abundance varied among localities for 28 otus and among species for 5 otus table 2. all 28 otus were differentially abundant be- tween sites at catoctin mp and mt.
+
+the abundances of 17 bacterial otus were correlated with elevation linear models p  .05 r2  13-43 table s2 with 16 otus decreasing and 1 otu increasing in abundance with elevation figure 5.figure 1 boxplot of total number of operational taxonomic units otus per individual among three plethodon species sampled at three localities.
+
+more variation was explained in the first principal coordinate with the abundance-weighted measure bray-curtis than by the presenceabsence metrics jaccard and unifrac data not shown indicating greater differences among sites in abundances of bacterial operational taxonomic units otus than the presenceabsence of otus colour figure can be viewed at wileyonlinelibrary.comtable 3 heatmap of the average relative abundance of bacterial otus that were differentially abundant among localities.
+
+some taxonomic groups were abundant such as proteobacteria that had an average relative abundance of 87 per individual sd - 7 and actinobacteria representing an average relative abundance of 10 sd - 5. most notable were acinetobacter and pseudomonas within the phylum proteobacteria as they were widely distributed across species sites and localities table 2 and dominant in abundance acinetobacter av- erage  44 sd - 18 total otus  5 pseudomonas average  32 sd - 21 total otus  7.table 2 core microbiome present on 90 of the salamanders sampled.
+
+the core microbiome defined as otus that were present on 90 or more of total individuals table 2 consisted of 11 anti-bd bacterial otus that were also dominant in abundance avg.
+
+2014.  measures of microbiome structurewe provide a general descriptive analysis of the bacterial otus iden- tified from the three host species table 1 including description of their core microbiome.
+
+co-occurring salamanders had similar microbiome structure but among sites sala- manders had dissimilar microbiome structure for beta-diversity and abundance of 28 bacterial otus.
+
+austral ecology 26 32-46.anderson r. m.  may r. m. 1990. immunization and herd-immunity.lancet 335 641-645.antwis r. e. haworth r. l. engelmoer d. j. p. ogilvy v. fidgett a. l.  preziosi r. f. 2014. ex situ diet influences the bacterial community associated with the skin of red-eyed tree frogs agalychnis callidryas.
+
+fems microbiology ecology 88 482-494. flechas s. v. sarmiento c. cardenas m. e. medina e. m. restrepo s.  amezquita a.
+
+nature methods 5 235-237.harris r. n. brucker r. m. walke j. b. becker m. h. schwantes c. r. flaherty d. c. ... minbiole k. p. c. 2009. skin microbes on frogs prevent morbidity and mortality caused by a lethal skin fungus.
+
+proceedings of the national academy of sciencesof the united states of america 111 e5049-e5058.kearse m. moir r. wilson a. stones-havas s. cheung m. sturrock s.... drummond a.
+

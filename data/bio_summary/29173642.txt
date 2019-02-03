@@ -1,0 +1,30 @@
+ediversity of bacterial communities in french chicken cuts stored under modified atmosphere packagingame'lie rouger nicolas moriceau herve' pre'vost benoit remenant  monique zagorecumr1014 secalim inra oniris 44307 nantes francea r t i c l e i n f o article historyreceived 7 february 2017 received in revised form 17 august 2017accepted 18 august 2017available online 22 august 2017keywords pyrosequencing chicken meat spoilagemodified atmosphere packaging microbiotaa b s t r a c t poultry meat the second most consumed meat in france is commercialized mainly as portions of chicken cuts with various quality labels stored under various modified atmosphere packaging map with shelf-life ranging from 9 to 17 days.
+
+for each sample read counts were divided by a normalization factor corresponding to the number of reads in the sample divided by the median value of total reads obtained for the 10 samples.table 1primers used in this study.primer sequence 5030primer namebarcodesfragmenttargetreferencesamples forwardreversesize bpall bacteriacgtatcgcctccctcgcgccatcagxagagtttgatcctggctcag ctatgcgccttgccagcccgctcag xattaccgcggctgctgg27f-mid08534r- mid1427f-mid10534r- mid1327f-mid43534r- mid02 27fmid19534r mid21 27fmid23534r mid25 27fmid27534r mid29 27fmid31534r mid33 27fmid35534r mid37 27fmid39534r mid41 27fmid15534r mid17ctcgcgtgtc cgagagatac 56716s rrna genev1-v3 regiontctctatgcg catagtagtgtcgcactagt acgctcgacatgtactactc cgtagactagtactctcgtg tcgtcgctcgacgcgagtat actgtacagtagcgtcgtct atagagtactqcagtagacgt tacacacacttacagatcgt tagtgtagatatacgacgta cgtctagtac thermosphactaggaccagaggttatcgaaacattaactgtaataccagcagcaggaattgcttdivergensccgtcaggggatgagcagttacacattcggaaacggatgctaatpseudomonas spp.
+
+from the initial number of reads the remaining sequences ranged from 86.6 sample t to 98.8 sample m. finally for the 10 samples a total of 209122 reads were used for the analysis.
+
+the qiime pipeline was chosen to cluster reads and we used a database previously developed for a meat and fish microbial ecology study.
+
+ebpebpdb method was not further used because of the misidentification of gibsiella in sample u and the absence of detection of acinetobacter in samples e and n. as well qiimerdp was not further used in our study due a lack of identification of gammaproteobacteria and a putative overestimation of enterobacter in sample u. frogs silva method could not be used since analysis could be performed with only 3 out of the 10 datasets.
+
+to establish otu relative abundance the numbers of reads were normalized to the median value of total reads as described by .
+
+a maximum of 90 reads per sample were removed from the analysis after quality filtering and less than 2500 reads after chimera removal.
+
+reads counts total of 197366 reads were normalized and relative abundances were calculated for each otus.a unclosed damaged package.b co2 and o2 percentages measured in the headspace when bacteria were collected.c estimated shelf life calculated from the indicated ubd and date of production.d the different slaughterhouses were numbered.
+
+as the number of reads per sample ranged between 8500 and 39000  and with a cut off of otu representing at least 0.5 of total reads such low contami- nation level would not be detected here.
+
+for pyrosequencing data the relative abundance of reads was converted to a percentage of total reads per sample with 100 set up as the total aerobic counts measured on plates expressed in log cfu.ml-1.a relatively good correlation of the ordination of samples ac- cording to population level was observed with the different counting estimations .
+
+for pyrosequencing data relative abundance of reads was converted to a percentage of total reads per sample with 100 set up as the total viable counts measured on plates.
+
+the presence of p. extremaustralis and p. cedrina in chicken legs would therefore require confirmation.with 6 of total reads carnobacterium was the third dominant genus found in chicken meat microbial ecosystem.
+
+more recently these have been also applied to food but mainly to fermented products which microbial diversity is less complex than that of fresh products.nevertheless few studies using sequencing approach have been reported on non-fermented meat products most of them dedicated to beef or pork meat  .
+
+to our knowledge only two studies using ngs focused on poultry meat a comparison of microbiota present in marinated vs non marinated finnish chicken breast  and the analysis of the contamination along the production chain in usa from broiler chicken production to carcasses which are rinsed in a chlorinated solution .in the present study we describe the diversity of the microbiota of chicken legs from 10 different samples collected from french supermarkets and stored under various map by a 16s rrna gene pyrosequencing approach.materials and methods16s rrna gene pyrosequencingdna extraction from meat microbiotain a previous study bacterial communities were collected from23 chicken leg samples stored at 4 oc.
+
+as well since microbial contamination of chicken cuts is variable the influence of storage conditions in particular that of the map gas composition on the dynamics of meat microbiota may help improving chicken meat safety.acknowledgementsthis work was financed by re'gion pays de la loire convention no 2012-7323-7325-7392 phd grant to ar and postdoctoral grant to br.
+

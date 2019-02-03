@@ -1,0 +1,30 @@
+all potential variables p  0.05 were entered into the analysis.resultscharacteristics of t2dm patients in nil8 and wil8 groupsthere were significant differences in age bmi urine ph urine white blood cells urine leukocyte esterase urine protein urine glucose and urine nitrite between t2dm patients with detectable il-8 in their urine wil8 and those without detectable urine il-8 nil8 p  0.05 .sequencing data and concentrations of urinary il-8briefly we obtained 3981519 reads for microbiota analysis which accounted for 76.93 of the valid reads.
+
+the ethics committee of the first affiliated hospital school of medicine zhejiang university approved the study reference number 295. written informed consent based on the declaration of helsinki was obtained from each patient before enrollment and all patients were given informed consent.collection of urinary specimens and dna sequencinga modified four-tube midstream urine collection technique was used for the first urine of the day which guaranteed thatthe real midstream urine was collected.
+
+a modified four-tube midstream urine technique was used to collect urine specimens from 70 female t2dm patients and 70 matched healthy controls hcs.
+
+of 70 urine samples from t2dm patients without urinary tract infections 46 patients had detectable il-8 in their urine 64.31 - 70.43 pgml while 24 patients had undetectable il-8.
+
+for urinary microbiota analysis total dna was extracted from the pellet of urine from tubes 2 and 3 and 40 ml of urine was aspirated from each tube separated into three sections and injected into three 15 ml sterile centrifuge tubes.
+
+sequence data from this study are deposited in the genbank sequence read archive with accession number srp 087709.groupingfrom the concentration of urinary il-8 the t2dm patients were separated into with il-8 wil8 group indicating there was detectable il-8 in their urine and no il-8 nil8 group indicating there was no detectable il-8 in their urine.
+
+the greatest differences in taxa betweentable 1  descriptive data of participants.parametervalue for cohort nab or statisticp-valuecnil8 no interleukin-8 il-8 detected in urine samples from t2dm patients wil8 il-8 detected in urine samples utis urinary tract infections.ano.
+
+in our present study the wil8 group had a higher level of urine white blood cells more leukocyte esterase and urine nitrite-positive cases which indicated an inflammatory reaction was present in the urinary tract system although no uti was diagnosed currently.
+
+reportedthat pseudomonas wasenrichedinposi- tive urine culture specimens comparing to negative specimens.table 2  predictors of urine il-8 by stepwise regression n  70 where n is number of patients.also pseudomonas might cause the most severe inflammation which was accompanied by an increase in the number of inflam- matory cells and il-6 .
+
+second althoughall participants were not currently diagnosed with utis we could not completely rule out the influence caused by previous occurrence of utis since it takes 6 months for diabetic patients to revert to normal glomerular filtration rate trends after an infection is cured  this might affect the growth environment of urinary microbiota and urine il-8.conclusionto our knowledge this is the first study focused on the asso- ciations between urinary microbiota and concentrations of urine il-8 in t2dm patients.
+
+bacterial genomic dna from urine specimens was isolated using magnetic beads and the urinary micro- biota was assessed using illumina miseq platform targeting on the 16s rrna gene v3-v4 region.
+
+subsequently the t2dm patients were separated into urine il-8 detectable wil8 and undetectable nil8 groups and the composition of urinary microbiota between the two groups was compared.
+
+elevated urine levels of il-8 were detected in febrile children with utis compared to children with asymptomatic bacteriuria .
+
+found that confirmation of the presence of bioactive il-8 in urine suggests the participation of il-8 in uti providing additional evidence of the role of il-8 in inflammation .
+
+meanwhile the relative abundance of actinobacteria lactobacillus and akkermansia muciniphila cor- related to the levels of fasting blood and urine glucose .
+

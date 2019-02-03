@@ -1,0 +1,30 @@
+this novel approach facilitated the functional analysis of genes in relation to ammonia ex- posure the reconstruction of probable metabolic pathways for metha- nogenesis and acetate assimilation and the identification of novel species that might be involved in the sao process.materials and methodsbiogas plants and sampling procedurethe present study was performed on four full-scale anaerobic di- gesters designed as continuous stirred tank reactors cstr and oper- ated under mesophilic conditions .
+
+it has been suggested that the mechanism for the sao process occurs by the reversion of the wood ljungdahl wl pathway which is rather widespread in several bacterial and archaeal acetogenic species .the relevance of specific biochemical pathways in a well-adaptedad microbiome is related to the abundance and activity of certain species harbouring these pathways.
+
+gene annotation and association to relevant metabolic pathways indicated that the phyla chloroflexi and bacteroidales might encompass new currently undescribed saobformate producing species that would metabolize acetate via the glycine cleavage system.
+
+furthermore it has recently been proposed that some species from the thermotogae phylum have the ability to syntrophically degrade acetate despite the fact that their wl pathway appears to be truncated .
+
+representatives of bacteroidetes and chloroflexi might harbour novel saobformate producing species that metabolize acetate via the glycine cleavage system.
+
+this approach targets one or two hypervariable regions of ri- bosomal genes for phylogenetic affiliation and therefore inference of functional traits is limited to those species that have previously been described.
+
+alternatively the acetate excess can be metabolized to hy- drogen and carbon dioxide via the so-called syntrophic acetate oxida- tion pathway sao .
+
+however the possible metabolic pathway for the syntrophic oxidation of acetate remains unclear because both phyla contain the genes for wl and gcs metabolic routes.
+
+metagenome descriptions yielded 73 assembled population genomes of which only 7 could be as- signed at the species level.
+
+it is well known corresponding author.e-mail address j. ruiz-sanchez.received 11 october 2017 received in revised form 17 november 2017 accepted 22 november 20170960-8524c2017elsevierltd.allrightsreserved.that in the ammoniumammonia chemical equilibrium the second species has a significant negative effect on microorganisms due to its easy membrane crossing .
+
+hence only an approximate description of the microbiome function can be obtained based on the known ecophysiology of the identified species.
+
+in these studies species identification is based on the comparison of sequences with those available from public databases.
+
+this collection of genomes allows correlational studies be- tween species abundance taxonomic composition process performance and functionalmetabolic traits of the microbiome.the binning process is one of the most straightforward methods to recover genome sequences of single microbes from assembled reads resulting in the classification of scaffolds into single biological entities named population genomes pgs.
+
+although de novo assembly of shotgun sequences in microbial communities is challenging binning process data can improve the reliability of gene finding and annotation thus allowing the discovery of novel microbial species and genomic elements .
+
+to bridge this gap it is funda- mental to examine the peculiar microbial composition of reactors di- gesting n-rich wastes and to investigate the genomes of the species proliferating under such rather extreme condition.the present study is aimed at obtaining a better understanding ofthe microbial community interactions at the genome level in ad re- actors when exposed to different ammonia levels.
+

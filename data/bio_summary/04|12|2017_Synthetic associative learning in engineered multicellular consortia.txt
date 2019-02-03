@@ -1,0 +1,30 @@
+because a molecular switch is capable of storing two alternative states we use it here as a key piece of our proposedtable 1. transition table for the simplified boolean circuit implementing 2 the two-cell circuit shown in c. the different input pair values given in the two left columns provide the sequence of states x and y for the conditional and unconditional inputs introduced to test the presence of al assuming that g1 14 0 and g2 14 1 at the beginning.multicellular circuit.
+
+the difference is that in this case the cell eventually loses its memory after a short time and thus exhibits damped learning phase b. these two circuits show that the learning process can be engineered using alternative systems depending on the requirements of the problem.the proposed synthetic systems presented here show that the use of cell consortia can help when designing complex decision-making biological circuits capable of coping with external signals and their changes.
+
+this defines the basic logic of our implementation but we have split the circuit in two parts c corresponding to a producer cell c1 carrying the toggle switch and a learning cell c2 that is wired to c1 through a molecular wire a. as can be seen we maintain the same scheme but use cells as modules that reduce the complexity of the engineering.
+
+an example of such a synthetic consortium is displayed in a. it com- bines both constitutive and regulated gene expression and splits the circuit complexity in two separated cells.
+
+however if this is a circuit that has been designed to respond to unconditional stimuli once the inputs of both kinds are presented simultaneously it can be interesting to return to the initial state where the consortium has not yet learned to associate the two stimuli.the laci protein has one well-known inhibitor the iptg molecule whichas in previous sections the synthetic consortium receivesd12cigcia sequence of inputs where the unconditioned stimulus x is used first followed by the conditional one y and thendt 14 1 th d12laciblacd1 th jthth2 - dci 12cid318thboth together.
+
+a al circuit based on positive feedback loop a. b damped learning synthetic circuit.
+
+the circuit can be split in two parts corresponding to two engineered cells c here indicated as c1 and c2 where the molecule g1 from c2 is needed to sense the signal y indicated with the grey dashed line.
+
+here the two cells d producer e learning cell communicate in one direction by means of a molecular signal a. each engineered cell type performs part of the processing required to implement the association mechanism.
+
+next a potential implementation using a computational model for e. coli will be described.the logic of multicellular learninga synthetic circuit capable of al requires modulation of the internal states through the learning process.
+
+sole' s montanez r durannebreda s. 2015 synthetic circuit designs for earth terraformation.
+
+because the circuit responds to one signal us but not the other cs unless they have been previously presented together this indicates that the internal states of the underlying molecular circuit must have changed see 1. in a we show an example of a genetic implementation of al introduced by sorek et al.
+
+however it is possible to see how the model works and predict the key outcomes by using a simple boolean circuit as the one indicated in c. here we use a discrete dynamical system based on a threshold network where all states are either 0 ora reporter signal out with two possible states provides the result of the computation.
+
+in the middle of the circuit we have located a module involving cross-repression of two elements g1 and g2 one of which can also modulate through an inhibitory interaction the effect of y on the output.
+
+although we will assume that the two cell types belong to the same species this is not a necessary condition.
+
+each cell in the consortia acts as a separated chassis for a subset of the required circuit.
+

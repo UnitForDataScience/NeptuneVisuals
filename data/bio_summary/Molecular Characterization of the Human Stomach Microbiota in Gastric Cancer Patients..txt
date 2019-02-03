@@ -1,0 +1,30 @@
+ 1 2  nan hu 3  rafael medrano-guzman 4 roberto herrera-goepfert 5  michael s. humphrys 6  lemin wang 3  chaoyu wang 3 ti ding 7  6  philip r. taylor 3  christian c. abnet 3 and alisa m. goldstein 81 integrative tumor epidemiology branch division of cancer epidemiology and genetics national cancer institute national institutes of health bethesda md united states 2 unidad de investigacion en enfermedades infecciosas unidad medica de alta especialidad pediatria centro medico nacional sxxi instituto mexicano del seguro social mexico city mexico3 metabolic epidemiology branch division of cancer epidemiology and genetics national cancer institute national institutes of health bethesda md united states 4 unidad medica de alta especialidad oncologia centro medico nacional sxxi instituto mexicano del seguro social mexico city mexico 5 instituto nacional de cancerologia secretaria de salud mexico city mexico 6 institute for genome sciences university of maryland school of medicine baltimore mdunited states 7 shanxi cancer hospital taiyuan china 8 clinical genetics branch division of cancer epidemiology and genetics national cancer institute national institutes of health bethesda md united statesedited bylorenza putignani bambino gesu ospedale pediatricoirccs italyreviewed byjeong-heon cha yonsei university south koreavalerio iebba sapienza universita di roma italycorrespondenceguoqin yu alisa m. goldstein received 15 march 2017accepted 20 june 2017published 06 july 2017citation yu g torres j hu n medrano-guzman rherrera-goepfert r humphrys ms wang l wang c ding t ravel j taylor pr abnet cc and goldstein am 2017 molecularhelicobacter pylori hp is the primary cause of gastric cancer but we know little of its relative abundance and other microbes in the stomach especially at the time of gastric cancer diagnosis.
+
+7302. doi abbreviations gc gastric cancer hp helicobacter pylori hmp human microbiome project nci national cancer institute otus operational taxonomy units qiime quantitative insights into microbial ecology pdwholetree phylogenetic diversity picrust phylogenetic investigation of communities by reconstruction of unobserved states permanova permutational multivariate analysis of variance.backgroundgastric cancer gc is the fifth most common cancer in the world and the third leading cause of cancer death ferlay et al.
+
+we compared gastric non-malignant tissue with paired tumor tissues and with other body sites including oral nasal cavity stool vagina and skin using data from the human microbiome project hmp human microbiome project consortium 2012. we also evaluated differences in the gastric microbiota by hp colonization status anatomical sites within the stomach for the non-cardia cancer samples and tissue type non-malignant and tumor separately for the two sample populations.materials and methodsstudy subjects and sample collectionthe chinese gastric tissue samples were from 80 gastric cardia cancer patients recruited at the shanxi cancer hospital in taiyuan shanxi province china between 1998 and 2001. this study was approved by the institutional review boardsof the shanxi cancer hospital and the national cancer institute nci.
+
+our recent study of the chinese sample set suggested that the changes in the gastric microbiota including hp relative abundance in non-malignant tissue were associated with cancer risk factors and clinical outcomes including family history of upper gastrointestinal cancer and tumor grades yu et al.
+
+2009. larger studies in subjects without gc are needed to further compare the gastric microbiota by different anatomical sites and also control for population and health conditions.hp colonization may impact gastric microbiota by induction of host antimicrobial peptides hornsby et al.
+
+2017. gastric microbiota features associated with cancer risk factors and clinical outcomes a pilot study in gastric cardia cancer patients from shanxi china.
+
+chronic colonization of helicobacter pylori hp is known to increase the risk of non-cardia cancer cavaleiro-pinto et al.
+
+the studies in western countries tend to show a neutral or even negative association while in eastern populations namely china japan and korea there is strong evidence of a higher risk of cardia cancer among subjects with hp colonization cavaleiro-pinto et al.
+
+this result is consistent with most previous studies based on gastric biopsy fluid or tissue in either healthy or cancer cases supplementary table 1. overall in cases with high hp relative abundance the most abundant gastric phylum is proteobacteria otherwise it is firmicutes.gc patients both non-cardia and cardia in asian populations have been proposed to have chronic gastritis that leads tohypochlorhydria in the stomach cavaleiro-pinto et al.
+
+a recent study of 212 chronic gastritis and 103 gc patients in china that used quantitative pcr showed that the bacteria load in the gastric mucosa was increased in cancer patients compared to gastritis patients and the bacterial load was positively correlated with hp quantity r  0.38 p  0.001 suggesting hp colonization in gc patients wang et al.
+
+2009. several studies have shown a benefit for hp eradication in reducing metachronous tumors after resection for early gastric cancer fukase et al.
+
+larger studies in subjects without gc using advanced sequencing technology are needed.as has been previously shown for tumor and matched non-malignant samples from colorectal cancer patients burns et al.
+
+cancer causes control 22 1425-1434. doi bang c. s. baik g. h. shin i. s. kim j. b. suk k. t. yoon j. h. et al.
+
+cancer causes control 22 375-387. doi chung i. k. lee j. h. lee s. h. kim s. j. cho j. y. cho w. y. et al.
+
+j. cancer 141 45-51. doi zhang c. cleveland k. schnoll-sussman f. mcclure b. bigg m. thakkar p. et al.
+

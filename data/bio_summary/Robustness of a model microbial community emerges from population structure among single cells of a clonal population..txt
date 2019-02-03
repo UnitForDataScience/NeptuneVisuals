@@ -1,0 +1,30 @@
+1.sampling for single cell gene expressionat each transfer point samples were collected for single cell gene expression analysis by anaerobically sampling then immediately freezing 0.5 ml aliquots of culture in liquid nitro- gen with storage at 2808c.flow cytometric cell sortingcell sorting of single dvh cells from st and sr conditions was carried out as previously described thompson et al.
+
+2013. cqcutoff was set to the median of 'no rt' single cell controls to yield an limit of detection lod at rq 5 1 or log2rq 5 0 or 1 mole- cule present in the reaction which is what we expect for each single copy gene amplified from genomic dna in the 'no rt' single cell controls.
+
+meanwhile the mutant population though it exhibited less dramatic shifts between cell states a and b initially contin- ued to alternate between the two cell states with environmental shifts for the duration of our experiment.gene expression of cells from each cell statewe wondered what genes or gene expression patterns defined the different cell states we observed states a band c and questioned how the loss of the state b cells and lingering of state a cells contributed to population col- lapse in wild type after sr3.
+
+asterisks  indicate significant differences student's t-test p-value  0.05. the limit of detection lod is indicated by a dashed line atlog2rq 5 0 or rq 5 1 indicative of a single mrna molecule per cell determined from no rt single cell controls see methods.fig.
+
+the resulting cdna product was diluted fivefold in dna suspension buffer teknova loaded into the fluidigm 96.96 dynamic array following fluidigm protocols  s and assayed for 88 dvh genes by quantitative pcr qpcr using sso fast evagreen supermix bio-rad laboratories with rox passive reference dye by the following program 958c 60 s 40 cycles of 968c for 5 s and 608c for 20 s and melting curve analysis from 60 to 958c.for each strain wt or dvu0744tn5 condition sr or st and time-point transfer 1 or 3 eight samples total we measured amplification of 88 dvh genes in the following sin- gle cells with rt n 5 80 single cells without rt as genomic dna background controls n 5 6 positive control of 10.6 pg purified dvh rna with rt n 5 4 positive control of 10.6 pg purified dvh rna without rt n 5 2 and no template controls n 5 4.single cell analysisbiomark real-time pcr analysis software fluidigm inc. south san francisco ca was used to analyse amplification and melting curves for each single cell and control for all 88 assays.
+
+comparison between single cell qrt-pcr data and population-level rna-seq for the top 10 most expressed genes in the single cell experiment.
+
+cellsexhibited heterogeneity in the number of rrna transcripts expressed per cell ranging from 2 to 557 16s rrna tran- scripts per cell and 7-1800 23s rrna transcripts per cell fig.
+
+of the tran- scripts expressed above the limit of detection 1 molecule per cell see experimental procedures each cell con- tained an average of 1.97 mrna molecules rq from a given gene log2rq 5 1 for a cell expressing 2 mrna mol- ecules of a particular gene fig.
+
+wild type cells in sr1 and st1 were compared to determine wild type cell states present during normal growth a. three cell states were defined including state a expression pattern present only during st1 growth in wild type state b expression pattern present only during sr1 growth in wild type and state c expression pattern present during both sr1 and st1 growth in wild type.regions of the plots that contain the cell states are indicated by shading defined in a for dvu0744tn5 in st1sr1 b and st3sr3 d and for wild type in st3sr3 c. figure 6 displays the relative abundance of cells in each state across transitions.
+
+7. violin plots showing the difference in gene expression patterns.between cell states a and b.between cell states a and c.between cell states b and c. coloured dots indicate means of distributions.
+
+2017.single cell rrna gene expression screening and analysisfor all time points selected for single cell analysis fig.
+
+3. if we include transcripts that were not expressed above the limit of detection the average expression level of each transcript per gene per cell was 0.4 molecules data not shown.frequency of single cells expressing different numbers of genesthe number of different genes that were expressed at any rq was determined for each cell fig.
+
+the number of genes expressed per cell is the number of genes per cell expressed above the no rt background control see methods.analysing gene expression among single cells during repeated environmental transitions.we found that the robustness of a two-organism model microbial community across repeated transitions relies on small subpopulations of cells in distinct states expressing condition-specific genes figs 5-8. meanwhile a larger population of cells remains the same across conditions without sharing a distinct pattern of gene expression.
+
+for the dvhmmp system our data suggests that the structure of the cell population with regard to single cell gene expression patterns is important for growth after dilu- tion or bottlenecking.
+
+overall our work suggests that stochastic processes at the single cell level could affect population-level characteristics such as growth energy use and robustness across fluctuating conditions.in conclusion we found that robust growth of a modelmicrobial community across fluctuating resources was sup- ported by the emergence of condition-specific cell states in one organism dvh as defined by patterns of gene expression in a set of 88 condition-specific genes.
+

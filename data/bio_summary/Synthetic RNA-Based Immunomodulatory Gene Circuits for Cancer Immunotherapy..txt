@@ -1,0 +1,30 @@
+in contrast the zf5f zfp 161 tf-bs family was found to be only 11 of the total predicted tf-bss in h2a1p while the mybl myb tf-bs family was found to be only 6 of the total predicted tf-bss in ssx1p.multi-output and gate optimization for combinatorial immunomodulationwe first characterized the output levels of four distinct circuit states in ov8 cells b. to do so we encoded each module on separate lentiviruses and infected ov8 cells with the corresponding module 3 architecture and either a a negative control module 1 that expresses the non-specific transcription factor rtta3 module 1con and a negative control module 2 in which se2f1p ex- presses ecfp without mir1-bsb module 2con to model the scenario when neither cancer-specific promoters are active 00module 1con and module 2 to model the scenario when only se2f1p is active 01 c module 1 and module 2con to model the scenario when only scmycp is active 10 d module 1 and module 2 to model the scenario when both promoters are active 11.the circuits expressed minimal mkate2 fluorescence in states 00 and 01. in state 10 there was a low background mkate2 level that increased from 5 to 8 gal4-bss in the synthetic galp and was attenuated with the presence of mir1-bspe in module 3 b. only when both input constructs were present state 11 did we observe a significantly increased mkate2 output.
+
+we defined four different statesfor this circuit in state 00 both module 1 and module 2 are inactive in state 01 module 1 is inactive while module 2 is active in state 10 module 1 is active while module 2 is inac- tive and in state 11 both module 1 and module 2 are active b. the on-off ratio for the and gate circuit was defined as the mkate2 output level in the presence versus the absence of the sponge state 11 versus state 10 in b. ultimately we chose sponge 7 h2a1p-ec1-10bzranb1-ec2- 5b figure s2a as the final ''optimized sponge'' design because it yielded the highest on-off ratio for the and gate circuit 6-fold figure s2a.in module 1 we optimized the synthetic intronic pri-mirna backbone in the self-inhibitory mkate2 transcript for enhanced mir1 production efficiency  .
+
+state 11 indicates cells containing module 1 module 2 and module 3. state 10 indicates cells containing module 1 a negative control module 2con in which se2f1p expresses ecfp without mir1-bsb and module 3. circuit-transduced tumor cells but not normal cells expressed high levels of ste in state 11 which triggered robust t cell killing and ifn-g secretion.
+
+module 2 is designed to inhibit the auto-inhibition of module 1. module 1 and module 2 are regulated by cancer-specific promoters p1 and p2 respectively.
+
+state 01 indicates cells containing module 1con and module 2. state 10 indicates cells containing module 1 and module 2con.
+
+with either a control lentivirus mix that con- tained module 1 module 2 and a negative control output or a therapeutic virus mix that contained module 1 module 2 and the scip outputs.
+
+therefore module 1 constitutes an auto-inhibi- tory loop for output protein production a. module 2 consists of p2 which regulates a mirna sponge that consists of multiple bulged complementary mir1 binding sites bsb and thus acts as a mir1 shunt that relieves the auto-inhibitory nature of module 1 when it is expressed a and 2b.
+
+since the maximal activity of scmycp was lower than that of se2f1p in ov8 cells we selected scmycp to drive expression of module 1 and se2f1p to drive the expression of module 2. this was done so that the sponge could be expressed at a greater level than the mir1-encoding construct which is important for achieving a high activation ratio with our circuit figure s2a.multi-output and gate for combinatorial immunomodulationto facilitate the expression of combinatorial immunomodulators from our circuit we replaced mkate2 in module 1 with a synthetic transcription factor gad that binds to its cognate synthetic promoter and activates the expression of downstream genes a. this gad was previously made by fusing the yeastgal4 dna-binding domain to the viral vp16 transcriptional activation domain.
+
+state 11 indicates cells containing module 1 and module 2. all cell states tested also contained their respective module 3.the g8-pe and gate architecture triggered high mkate2 expression in human ovarian cancer cells ov8 but not in normal cells in state 11.our circuit design prevents potential off-target effects in primary human t cells.
+
+indicates cells containing module 1 and module 2 and a negative control module 3con that expresses the non-specific transcription factor rtta3 as the output.
+
+indicates cells containing module 1 and module 2 and a negative control module 3con that expresses the non-specific tf rtta3 as the output.
+
+state 11 indicates cells containing module 1 module 2 and module 3. each immunomodulatory gene was expressed from its own g8p promoter encoded on a lentivirus except for the anti-pd1 ab which was split into two lentiviruses encoding lc and hc respectively.
+
+for optimizing and testing the gad-expressing gate a-5e we transduced three viruses encoding module 1 module 2 and module 3. each virus was diluted 13 and we used 3 ml of the pooled viruses to infect 2.5 3 105 target cells in the presence of 8 mgml polybrene sigma overnight.
+
+therefore increasing the sponge transcript concentration efficiently in- creases mir1 shunting suggesting that the promoter selected to express module 2 should be stronger than the one selected to ex- press module 1. switching the location of the 10b from the 30 utr to the 50 utr of ecfp in module 2 sponge 4 h2a1p-ecfp-10b versus sponge 5 h2a1p-10b-ecfp reduced the sponging efficacy from 3.6-fold mkate2 on-off induction to 2.4-fold figure s2a which suggests that the mir1-bsb were more accessible when encoded in the 30 utr of the mrna rather than in the 50 utr.
+
+input states are defined within the square brackets by whether module 1 and module 2 are active where 0 means inactive and 1 means active.
+

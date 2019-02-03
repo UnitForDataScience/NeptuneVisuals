@@ -1,0 +1,30 @@
+the different approaches to study microbial life on household surfaces revealed complemen- tary results and highlighted that much of the chemical ecol- ogy of homes remains uncharacterized.microbiotato the naked eye the bathroom tiles appeared to be clean surfaces while the kitchen coupons had visible areas of dried surface film material.
+
+our observations include visual and microscopic inspection analysis of microbes by both dna and rna sequencing analysis of mvocs emitted from the surfaces and analysis of soluble chemicals extracted from the sampling surfaces and from microbes cultivated from the sampling surfaces.
+
+in the kitchen 16 stainless steel coupons each 25 cm2 cut from alloy 304 sheets onli- nemetals.com seattle wa usa were attached in groups of eight to two separate areas front and side in the kitchen sink which in this particular house was cer- amic fig.
+
+analysis for the volatile chem- ical emissions was not destructive and these samples were subsequently refrigerated and used for imaging.microbiota analysisfour kitchen coupons and three bathroom tiles not in- cluding controls were processed for amplicon sequen- cing at s1 six kitchen coupons and four bathroom tiles were processed at s2.
+
+commonly used sizes for double bowl kitchen sink 0.84 x 0.56 x 0.23 m l x w x d and shower stall 0.81 x 0.81 x 1.83 m l x w x h were uti- lized to compute f. adjustment factors along with typical values of air exchange rate a h-1 and house volume v were applied to model the indoor concentration of each ion species from emissions associated with the kitchen sink and the shower stall table .
+
+knufia epidermidis was seen in the bathroom tiles but not the kitchen coupons whereas other fungi specifically candida sake and cladosporium ramotenellum were seen in the kitchen.
+
+of the kitchen and bathroom water samples obtained during sampling 1 amplicons were ob- tained only in the kitchen water sample and they were dominated by methylobacterium 3 otus 19 and mycobacterium 1 otu 16.the 26 bacterial colonies resulting from cells recov- ered from the six bacterial plates represented 14 species.
+
+the shower stall showed  1.5x and  4x greater contribution to indoor concentrations than the kitchen sink for the 15 most abundant species a feature that is attributable to its larger total surface area com- pared to a kitchen sink.
+
+here we applied multidisciplinary approaches to investigate aspects of chemical microbiology in a house.methods we characterized the microbial and chemical composition of two common and frequently wet surfaces in a residential setting kitchen sink and bathroom shower.
+
+volatile and soluble chemicals from paired samples were analyzed using state-of-the-art techniques to explore the links between the observed microbiota and chemical exudates.results microbial analysis revealed a rich biological presence on the surfaces exposed in kitchen sinks and bathroom shower stalls.
+
+we anticipate that these observations will in- form the design of future experimental investigations into the metabolites produced by key members of these communities and how metabolic output is shaped by in- terspecies interactions and abiotic conditions typical of indoor environments.methodssample collectionremovable surfaces were installed in the kitchen sink and shower stall of an ordinarily occupied residence left in place for a period of 4 weeks then removed and ana- lyzed for their microbiological volatile chemical or sol- uble chemical signature.
+
+networks were vi- sualized further using cytoscape 2.8.0 nodes de- tected in blanks tiles and coupons not exposed to the indoors environment isp2 agar and r2a and the methanol extract were removed from the network to fa- cilitate analysis.resultswe report observations for the two sampling periods for microbes found on surfaces that we placed in two areas regularly wetted in residences the kitchen sink and the bathroom shower stall.
+
+however total voc emissions from the kitchen coupons were 3-4x higher during sampling 1 than sam- pling 2 t test p value  0.02. the most abundant ions across surfaces and sampling points were c4h8h and c5h10h which are generic ions representing the sum of alkylalkenyl fragments from larger volatile fatty acids vfas and other long-chain vocs.
+
+for the kitchen surfaces contribu- tions are predicted to be greater at sampling 1 whereas for the bathroom tiles contributions are suggested to be greater at sampling 2. this contrasting result is because in the model both emission rates and the air exchange rate in the home are expected to play important roles.
+
+previous culture independent-basedstudies of kitchen surfaces  also observed the presence of rhizobiaceae and a dominance of members of the moraxellaceae family which sits in the pseudo- monadales order and includes the genus enhydrobacter.
+

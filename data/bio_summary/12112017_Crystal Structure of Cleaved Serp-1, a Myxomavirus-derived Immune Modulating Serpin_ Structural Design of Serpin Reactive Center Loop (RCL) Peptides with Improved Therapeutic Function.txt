@@ -1,0 +1,30 @@
+these peptides include s-1 i317prnal322 s-3 r319nal322 s-5 t323aivankpf331 and s-7 g305ttassdtaitlipr319 .12 figure 1. structures of rcl-derived peptides and modified s-7 peptides shown from n- to c-termini.
+
+this beneficial serpinfunction of s-7 administration was however lost in mhv68- infected ifngr ko mice after antibiotic treatment with suppression of gut bacteria n  20 mice p  ns .figure 7. kaplan-meier survival curves for s-7 s-8 and modified s-7 mps7-8 and -9 peptides in an mhv68-infected ifngr ko mouse model with suppression of the gut microbiome by antibiotics abx.
+
+our goal was to design peptides that would increase the number of interactions with human serpins and improve the antiplaque activity of the peptides in comparison to the number in the original peptide.12 calculated free energy changes associated with single-point mutants to s-7 15 amino acids in rcl peptides of serp-1 and sought to implement the following criteria in modified peptide design 1 implementing residue substitutions toward the c-terminus facing toward the protein surface of the peptide to minimize potential loss of binding interactions due to steric hindrance of residue side chains in the protein core and 2 increasing the potential for hydrogen bonding interactions in regions that are conserved or semiconserved between each of the human serpins.
+
+a similar mode of binding of s-7 with target serpins is shown via an overlay of the coordinates of the s-7 peptide from serp-1 with pai-1 highest degree of structural homology with serp-1 where the positions offigure 3. structure of pai-1 beige overlaid with coordinates from s-7 with its sequence shown.
+
+one of the most promising of the peptides is s-7 which is derived from rclresidues 305-319.12 presented the positions of residues associated with s-7 in serp-1 are shown to form a b-strand at the core of the protein and appear to be predominantly stabilized by main-chain hydrogen bonding.
+
+overlays of residues from pai-1 beige and serp-1 green corresponding to positions in s-1 and s-3 are shown in panels d and e and highlight the variability between each sequence.residues are highly conserved .36 when comparing coordinates of residues of s-7 with positionsin atiii and a1at further suggesting s-7 potentially acts by inserting into serpins as a b-strand leading to inactivationfigure 5. rcl peptide binding region in target serpins utilized to design mps peptides shown as red spheres.
+
+this is further emphasized when considering that it has been previously reported that s-7 and other rcl peptides bind and inhibit pai-1 in vitro.12 observation is supported by recent evidence evaluating variants of a1at whereby the same rcl region can insert into the serpin core forming a stable structure and thus slowing the progression of the disease.45 insertion of s-7 into human serpins translates directly to some of the observed therapeutic effects seen through its administration12 designs b and .serp-1 pai-1 and atiii all share a similar r-p1 group at the p1-p1' scissile bond in the rcl enabling cleavage and binding to the targeted serine proteases e.g.
+
+here we observed a clear trend where dgint becomestable 5. results of molecular docking of s-7 mps7-8 and mps7-9 into human serpinsapai-1rcl peptides act as poor thrombin or other coagulation protease inhibitors however it would be of interest to assay these peptides on a wide range of targets.
+
+these coordinates acted as a starting point in determining binding energies of rcl peptides with target proteases.rcl peptides s-7 mps7-8 and mps7-9 were modeled as b-strands in inactive with cleaved rcls forms of pai-1 pdb entry 1a7c atiii pdb entry 2b4x and a1at pdb entry 4pyw to predict binding modes of each peptide for rational peptide design.
+
+mps7-8 and -9 modified peptides recover some function and improve survival in antibiotic-treated mhv68 infected ifngr ko mice.the modified serpin peptides mps7-8 and mps7-9 could partially restore therapeutic efficacy after antibiotic treatments with a demonstrated improved level of survival in this modelfigure 6. interaction of serp-1 rcl-derived peptides and serpin-protease complexes.
+
+included are s-1 cyan i317prnal322 s-3 orange r319nal322 s-5 brown t323aivan- kpf331 s-7 green g305ttassdtaitlipr319 mps7-8 purple g305ttassdtaitlepr319 and mps7-9 gray g305ttassdta- itdepr319.and s-7 all demonstrated the capacity to modify inflammation in mouse aortic transplant models whereas s-5 displays minimal activity.
+
+this includes distances from position 317 and the conserved thr 161 211 and 180 in pai-1 atiii and a1at respectively 4 a in s-7 and 3.5 a in mps7-8 and mps7-9 and asp 158 in pai-1 and asn 208 in atiii 3 a in s-7 and 3 a in mps7-8 and mps7-9.
+
+modeling s-7 into each of the human serpins predicts a conserved binding region where s-7 acts as a substitute for the cleaved rcl that forms the b-strand at the core resulting in an inactive serpin complex .
+
+of h-bonds293132therapeutic efficacy of the s-7 mps7-8 and mps7-9 peptidesis primarily an emergent phenomenon that is most readilydgintkcalmolinterface surface area a2-11.7 -5.7-9.2 -6.6-7.5 -7.0180117941770detected by in vivo assays.mps7-8 and mps7-9 demonstrate an increased therapeutic effect compared to that of s-7.
+
+interestingly these peptides were poor inhibitors of upa and tpa and weak inhibitors of pai-1 which is not inhibited by full-length serp-1 in vitro.12 shown that administering s-7 resulted in increased survival rates comparable to that of full-length serp-1 in a mhv68 virus-induced vasculitis model.12 it was observed that after antibiotic treatment to suppress intestinal bacteria the gut microbiome rcl peptide activity was lost unpublished data.
+

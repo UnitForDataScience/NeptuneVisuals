@@ -1,0 +1,30 @@
+2017 july 04 1671 61-62. doi10.7326m17-1157.treatment with fecal microbiota transplantation the need for complete methodological reporting for clinical trialsvincent b. young md phduniversity of michigan ann arbor michiganthe virtual explosion of research articles related to the role of the human microbiome in health and disease has opened new avenues to understanding the pathogenesis of a wide variety of conditions 1. along with interest in potential pathogenic roles for altered structure and function of the indigenous microbiota there is a corresponding pursuit of novel therapeutics to intentionally change the microbiota to restore health 2. whereas various methods have been proposed to therapeutically modulate the microbiome ranging from probiotics and prebiotics to selective antibiotics the transfer of the intestinal microbiota from a healthy individual through fecal microbiota transplantation fmt has garnered significant attention in recent years 3.although fmt has been studied most often in the setting of recurrent infection with clostridium difficile 4 it has also been investigated in conditions ranging from inflammatory bowel disease to metabolic diseases obesity and autism spectrum disorders 5. the published efficacy of fmt varies widely especially when applied to conditions other than recurrent c difficile infection.
+
+for example 89 of the studies did not give details on therequests for single reprints vincent b. young md phd room 1520b msrb i spc 5666 1150 west medical center drive ann arbor mi disclosures disclosures can be viewed at youngpage 2methods used to prepare feces for transplantation and 89 did not give eligibility criteria for donors nor did they describe characteristics of the donors used.this systematic review was conducted rigorously under the prisma preferred reporting items for systematic reviews and meta-analyses guidelines and points out serious shortcomings in the reporting of clinical trials of fmt.
+
+the revised 2010 consort consolidated standards of reporting trials statement 8 cited by bafeta and colleagues does provide guidelines for reporting the results of randomized trials and these principles have also been adapted for nonrandomized pilot and feasibility studies.
+
+doi 10.1097mcg.0000000000000346 pubmed 26447968bafeta a yavchitz a riveros c batista r ravaud p. methods and reporting studies assessing fecal microbiota transplantation.
+
+a recently published expert consensus statement summarized the current clinical applications and methodological aspects of fmt and can serve as a starting point 9. in addition because several studies of fmt have performed molecular analysis of the microbiota centralized biorepositories or data repositories could be established to enable assessment of fmt's effect on the microbiota.
+
+how to manipulate the microbiota fecal microbiota transplantation.
+
+most of the studies were relatively small with an average of 22 patients per study interquartile range 10 to 43. only 8 studies 9 had adequate reporting of all 7 methodological components scored.
+
+many lacked adequate reporting of the eligibility criteria for donors and key aspects of fecal collection and processing.
+
+without adequate reporting of methodological details comparisons between trials are difficult.
+
+insufficient reporting of methods also interferes with planning new trials.
+
+the authors also point out that the lack of detail about fmt methods used will make it difficult for clinicians to implement fmt once clinical efficacy is demonstrated.why is there such variability in the reporting of methodological details in studies of therapeutic fmt bafeta and colleagues suggest several reasons including the complexity of the procedure itself and the relatively recent attention to performing clinical trials of fmt which has led to a lack of consensus on some aspects of the procedure.
+
+as the authors note experts have yet to agree on a standard set of technical reporting aspects for trials of fmt.
+
+they conclude by suggesting that there is the need to develop international recommendations for standardizing fmt to facilitate reporting and implementation in clinical practice.
+
+for example the methods for fmt in recurrent c difficile infection may not be optimal in another condition 2. rather than standardizing the procedure itself it is reasonable to establish standards for the reporting of technical metadata related to the procedure in any given clinical trial.
+
+specific guidelines for reporting details related to interventions a single item on the list of 25 in the consort statement have been developed for specific areas of study and this could be done for fmt.
+

@@ -1,0 +1,30 @@
+as a result the doubling times for the anode biofilm went from 9.0 to 28.6 h and protein accumulation decreased from 520 to 340 mgcm2 in the presence of 2.2 g tanl compared to 0.2 g tanl although acetate consumption was less affected i.e.4.9 mm for 0.2 g tanl biofilm vs. 3.8 mm for 2.2 g tanl biofilm.
+
+ articleelectrochemical techniques reveal that total ammonium stress increases electron flow to anode respiration in mixed-species bacterial anode biofilmsmohamed mahmoud12 prathap parameswaran13 c esar i. torres14 bruce e. rittmann121biodesign swette center for environmental biotechnology arizona state university 727 tyler road tempe arizona 85287-5701  telephone th1-480-727-7596fax th1-480-727-0889 e-mail 2school of sustainable engineering and the built environment arizona state university tempe arizona3department of civil engineering kansas state university manhattan kansas4school for engineering of matter transport and energy arizona state university tempe arizonaconflicts of interest the authors declare that there is no conflict of interest regarding the publication of this paper.correspondence to m. mahmoudcontract grant sponsor egyptian government fellowshipreceived 21 november 2016 revision received 31 december 2016 accepted 5january 2017accepted manuscript online 9 january 2017article first published online 8 february 2017 in wiley online library doi 10.1002bit.26246introductionthe microbial electrochemical cell mxc is a nascent technology that converts renewable energy contained in an organic waste stream into useful forms such as electric current hydrogen gas hydrogen peroxide caustic soda and organic chemicals logan and rabaey 2012 rittmann 2008. the foundation of mxcs is the unique ability of anode-respiring bacteria arb to oxidize organic matter and then transport the electrons beyond their outer membranes to a solid anode lovley 2006 2008 torres et al.
+
+2.2 g tanl by varying the initial ph value in the range of 7.0-8.1. we used a shorter hrt in this experiment to minimize proton accumulation and ph depression in the anode chamber.chemical analyseswe measured the acetate concentration after filtration through a 0.22-mm membrane filter pvdf gdx whatman ge healthcare ann arbor mi using high-performance liquid chromatography hplc model lc-20at shimadzu columbia md with an aminex hpx-87h column bio-rad laboratories hercules ca according to the procedure described in mahmoud et al.
+
+this system allowed us to focus only on the anode reactions excluding any interference from potential losses at cathode or potential losses due to large diffusion distance between anode and cathode lee et al.
+
+an agagcl referenceelectrode basi electrochemistry west lafayette in was located about 0.5 cm away from the anode and the anode potential was controlled at 0.3 v versus agagcl which equals 0.03 v versus standard hydrogen electrode she torres et al.
+
+a small inoculum concentration and anode surface area usually are needed for reliably evaluating the growth rate of arb as they preclude the current generation due to the initial colonization of large number of metabolically active bacterial cells and minimize the background current due to large anode surface area marsili et al.
+
+however those studies had much lower tan concentrations in the anode chamber since tan loss was up to 63 due to eithernhth4 oxidation in the anode chamber nam et al.
+
+the effect was more severe for 4.4 g tanl the mec fed with 4.4 g tanl generated one-third of the cumulative coulombs and acetate consumption was only 40 of that for 3 g tanl.
+
+the highest mmax value 2.7 0.5 d-1 occurred with 0.2 g tanl compared to 0.84 0.2 d-1 for anode biofilm fed with 2.2 g tanl medium.
+
+the 0.2 g tanl biofilm grown for 214 h achieved a biofilm accumulation of 520 80 mg of proteincm2 a value 1.5-fold higher than for the anode biofilm exposed to 2.2 g tanl 340 8 mg of proteincm2.
+
+after sparging the mec with ultra-pure n2 gas 99.9 for 45 min we fed the mec with autoclaved for 90 min at 121oc acetate medium containing 15 mm acetate 0.2 g tanl 100 mm phosphate buffer kh2po4na2hpo4 ph7.350.1 and traceminerals parameswaran et al.
+
+these results appear to be inconsistent with previous studies in which high influent tan concentration up to 4 g tanl resulted only in a slight decrease in j kim et al.
+
+ammonia stress increases respiration rate of anode biofilms1155biotechnology and bioengineeringboth curves in figure s5 provides further support that tan3 gl impaired anode respiration.figure 3. the first derivative of cvs shown in figure 2a for the mec fed with tan concentration  o2.2 g tanl scan rate of 1 mvs.response of g. sulfurreducens under so-called non-turnover conditions i.e.
+
+2010.the true yield of arb biomass depends on the potential difference between the electron donor such as acetate and the anode surface which is the arb's electron acceptor since this difference translates into the energy available for bacterial growth torres et al.
+
+2010. compared to aerobic heterotrophs arb are known to be slow growers since the anode potential often is only a few tenths of a volt higher than the potential of acetate bird et al.
+

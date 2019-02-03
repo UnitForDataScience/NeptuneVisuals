@@ -1,0 +1,30 @@
+all other phyla and 'unknown' assigned phylotypes are grouped in 'others'.asthma and polyposis were significantly increased in crs subjects p  0.0001 which is not unexpected.permutational multivariate analysis of variance per- manova tests the significance of bacterial community variation between groupings of samples anderson 2001. permanova results indicated the largest proportion of variance within this meta-analysis was attributed to differ- ences between studies r2 5 0.21 p 5 0.001. disease state crs vs. healthy subjects contributed significantly to variation in the model even after removing the effect of study r2 5 0.009 p 5 0.018 supporting information table s5.bacterial network analysisimaging the spread of data in a two-dimensional non-met- ric multidimensional scaling nmds plot revealed a high degree of overlap in the clustering of crs and healthy sub- jects fig.
+
+equitability measured using simpson's even- ness suggested that bacterial communities in both healthy and crs-affected sinuses have uneven distributions of taxa healthy 5 0.15 6 0.07 crs 5 0.16 6 0.08 p  0.05.assuming simpson's evenness does not yield significant differences between groups sample size calculations rec- ommended a minimum of 74 subjects for each crs and healthy group in order to be able to observe a significant difference in the other alpha diversity measures.meta-data statistics and variance partitioninga large proportion of the studies included in this meta- analysis did not publish individual patient meta-data rath- er averages from all patient data age asthma prevalence antibiotic usage comorbidities were published.
+
+indicates a significant difference between the means of group fragmentation wilcoxon rank sum test w 5 7907.5 p  0.0001.the order burkholderiales specifically burkholderia and propionibacterium are central phylotypes and likely gate- keepers whose presence is important for stabilizing the healthy bacterial community.functional prediction of crs versus healthy state sinus microbiotawe applied picrust bioinformatics software to the data set to evaluate potential metagenome function in healthy and crs bacterial communities.
+
+s2b but these only accounted for a small proportion of average overall predicted functions mean relative frequency crs 5 8.15 6 healthy 5 8.04 6 1.4. interestingly microbial communities associated with crs subjects were pre- dicted to have significant increases in genes involved inantigen processing and presentation nod-like receptor signalling pathway mismatch repair peptidoglycan bio- synthesis peptidases and dna replication proteins p  0.05.discussionunravelling the aetiology of crs is a challenging task as there are several factors such as host genetics immunolo- gy environmental influences and sinonasal microbiology which impact on disease progression.
+
+additionally similarity percentage simper analysisshowed similarities between crs and healthy samples based on phylotype abundances were generally very low simper average dissimilarity 5 78. the similarity within healthy subjects simper average similarity 5 26 was greater than within crs patients simper average sim- ilarity 5 21 supporting information table s6.linear discriminant analysis effect size lda-lefse.
+
+4. crs versus healthy fragmentation graph crs and healthy bacterial community network levels of fragmentation versus all possible minimum correlation thresholds.
+
+the majority of predicted genes were involved in metabolism mean relative frequency crs 5 50.5 6 healthy 5 51.2 6 1.4 followed by genetic information processing mean relative frequency crs 5 21.3 6 2.8 healthy 5 20.3 6 2.3. whencomparing higher resolution kegg gene groupings by disease state significant differences were observed for 19 predicted metagenome functions supporting information fig.
+
+alpha diversity box plots for crs versus healthy subjects alpha diversity metrics expressed as boxplots of crs n 5 131 versus healthy n 5 58 subjects.
+
+the genus-level phylotype corynebacterium was again associ- ated with crs bacterial communities and burkholderia was associated with healthy subjects.conet analyses revealed negatively correlated bacteria bacteria that consistently and significantly do not occur together in crs bacterial communities.
+
+our network analyses revealed that healthy sinonasal bacterial commu- nities are less fragmented than those in crs subjects.conet results suggested members of the genus bur- kholderia were significantly associated with healthy subjects however this finding was not supported by lefse results.
+
+2012 cain and lal 2013. crs affectsapproximately 5-10 of the population and annual treat- ment costs associated with crs exceed 8.6 billion in the united states alone ray et al.
+
+these results indicate together with the conet lda-lefse and simper results that members oftable 1. co-occurrence network inference conet results a. phylotypes significantly associated with health or crs b. conet significant neg- ative correlation patterns between phylotypes and their association with crs or health as identified in a.fig.
+
+the association of these species with crs subjects across several studies warrants further investigation.other genera identified in conet analyses that associat- ed with crs subjects included a variety of mostly putatively anaerobic bacteria some of which are consid- ered potential human pathogens.
+
+lends itself to microbial ecology if we can predict the triggers of net- work disassembly in crs then model the resulting network collapse and how it relates to bacterial function we may be able to uncover new aspects associated with crs pathogenesis.future directionsmarker genes such as the bacterial 16s rrna gene pro- vide a convenient and cost-effective way for identifying and describing microbial taxonomic composition.
+
+we conducted a meta-analysis combining and reanalysing published bacterial 16s rrna sequence data to explore differences in sinonasal bacterial community composition and predicted func- tion between healthy and crs affected subjects.
+

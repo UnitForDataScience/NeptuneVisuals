@@ -1,0 +1,30 @@
+all procedures were accord- ing to the declaration of helsinki revised version october 2008.lipolysis experimentfree glycerol release analysisto study effects of scfa mixtures on the basal glycerol release hmads adipocytes were incubated for 6 h with 300 ul dmem 3 fatty-acid free bsa sigma-aldrich st. louis mi usa sup- plemented with or without a mixture high in acetate containing 80 acetate 10 propionate and 10 butyrate 801010 a scfa mixture containing 60 acetate 20 propionate and 20 butyrate 602020 a mixture high in pa containing 40 acetate 35 propionate and 25 butyrate 403525 and a mixture high in ba containing 40 acetate 25 propionate and 35 butyrate 402535 in final concentrations of 1 mmoll or 1 umoll for 6 h.to study effects of single scfa on the basal non-stimulated glycerol release hmads adipocytes were incubated with 300 uldmem 3 fatty-acid free bsa sigma-aldrich st. louis mi usa supplemented with or without acetate merck darmstadt germany propionate sigma-aldrich st. louis mi usa or butyrate sigma-aldrich st. louis mi usa at a final concentra- tion of 1 mmoll and 1 umoll concentrations for 6 h.to examine the effects of single scfa or scfa mixtures on the b-adrenergic receptor-mediated glycerol release 30 min after the initiation of scfa incubation the non-selective b-agonist iso- prenaline iso was added at a final concentration of 1 umoll.after 6 h incubation the plates were placed on ice to stop the reactions and subsequently 250 ul supernatant was removed and directly snap-frozen in liquid nitrogen and stored at -80degc until analysis.
+
+to further study potential mechanisms involved in the antilipolytic properties of scfa we aimed to investigate the in vitro effects of scfa incubations on intracellular lipolysis and signaling using a human white adipocyte model the human multipotent adipose tissue-derived stem hmads cells.methods hmads adipocytes were incubated with mixtures of acetate propionate and butyrate or single scfa acetate propionate and butyrate in concentrations ranging between 1 umoll and 1 mmoll.
+
+in contrast to the decreased basal lipolysis b-adrenergic receptor mediatedglycerol release was not significantly affected following incuba-tion with all scfa mixtures in physiological concentrations ranging from 1 umoll to 1 mmoll .single scfa differentially affect adipocyte glycerol release in vitroffar3gpr41 ffar2 gpr43ttcaccaccatctatctcaccg ggaactccaggtagcaggtcccgtgcagtacaagctctccctgctcagtcgtgttcaagtattsubsequently we studied whether one particular scfa was responsible for the observed antilipolytic effect.
+
+the more recent identification of the two pertussis toxin ptx-sensitive inhibi- tory g gi protein-coupled receptors gprs for scfa free fatty acid receptor 3 ffar3 also known as gpr41 and ffar2 also known as gpr43 in human adipose tissue  has led to renewed interest in the lipolytic properties of scfa.
+
+thus further investigation on the role of scfa in human adipocyte lipolysis is urgently warranted.we recently observed that colonic infusions of mixtures of acetate propionate and butyrate in ratios and concentra- tions that can be reached after dietary fiber intake attenuated whole-body lipolysis in overweight normoglycaemic men .therefore the aim of the present study was to elucidate whether an altered intracellular adipocyte lipolytic rate is responsible for the antilipolytic effect of scfa found in vivo as well as to further investigate underlying mechanisms.
+
+hence we investigated the in vitro effects of incubation with scfa mixtures and single scfa on intracellular lipolysis in a human white adipocyte model the human multipotent adipose tissue-derived stem hmads cells.
+
+significance was determined using the nonparametric mann whitney u-test when comparing two groups single scfa western blotting and ptx experiment or the kruskal-wallis h-test when comparing more groups scfa mixtures.
+
+furthermore by subsequently incubating human adipocytes with single scfa we demonstrated that the intestinally and systemically most abundant scfa acetate seems to be the main driver of this antilipolytic effect.
+
+based onthe scarcely available data oncirculating scfa concentrations an acetate to propionate to butyrate ratio of 801010 and 602020 could resemble physiologically circulating concentrations and the scfa concentrations used in this study might be in a physiological 1 umoll to supraphysiological 1 mmoll range.
+
+in addition an intriguing study in rodents showed that scfa can influence energy homeostasis including lipolysis via dorsal sympathetic ganglions and spinal pathways .in conclusion we demonstrated that in particular the colonic and peripheral most abundant scfa acetate plays an important role in the regulation of human adipose tis- sue lipolysis.
+
+8372. doi background and aims gut-derived short-chain fatty acids scfa formed by microbial fermentation of dietary fibers are believed to be involved in the etiology of obesity and diabetes.
+
+previous data from our group showed that colonic infusions of physiologically relevant scfa mixtures attenuated whole-body lipolysis in overweight men.
+
+glycerol release and lipase activation was investigated during basal conditions and following b-adrenergic stimulation.results scfa mixtures high in acetate and propionate decreased basal glycerol release when compared to control p  0.05 while mixtures high in butyrate had no effect.
+
+also b-adrenergic receptor mediated glycerol release was not significantly altered following incubation with scfa mixtures.
+
+the antilipolytic effect of acetate was accompanied by a reduced phosphorylation of hormone-sensitive lipase hsl at serine residue 650. in addition inhibition of gi g proteins following pertussis toxin treatment prevented the antilipolytic effect of acetate.conclusion the present data demonstrated that acetate was mainly responsible for the antilipolytic effects of scfa and acts via attenuation of hsl phosphorylation in a gi-coupled manner in hmads adipocytes.
+

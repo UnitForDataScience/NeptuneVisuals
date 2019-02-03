@@ -1,0 +1,30 @@
+.262j food sci technol january 2018 551258-264table 1 gompertz primary model parameters describing the survival of escherichia coli cgmcc1.90 in apple juice treated by hpcdhpcd conditionsbcr2 p mpat degc10321.560.050.9120321.640.070.9530321.730.080.9510371.150.060.9320371.060.070.9030371.460.120.9310421.170.080.9320421.210.100.9330241.330.130.91the gompertz model asymptote difference a was fixed as the log difference between the initial pathogen load and its tpc quantifica- tion limit yielding the constant value a  5.37table 2 estimated lag time k and reported come-up time cuta for the inactivation of escherichia coli cgmcc1.90 in apple juice as a function of the pressure and temperature of the hpcd treatmentp mpak mincut mint degc32374237on the inactivation mechanism previously described gar- cia-gonzalez et al.
+
+these values suggest that inactivation during cut was negligible.under isothermal conditions lag time decreased when co2 pressure increased table  suggesting that increas- ing the co2 pressure enhanced the diffusion of supercrit- ical gas into the cell stahl et al.
+
+reported the inactivation of the natural microflora in apple juice by hpcd treatments in the 35-60 degc and 7-16 mpatable 3 estimated time min to achieve the required number of decimal reduction sv c 5 with a 95 confidence for the inactiva- tion of escherichia coli cgmcc1.90 in apple juice as a function ofthe pressure and temperature of the hpcd treatmentrange the difference in the microorganisms tested pre- vented further comparisons with this study.conclusionin this study secondary models for the effect of tempera- ture and co2 pressure were obtained for the modified gompertz primary model.
+
+coli cgmcc1.90 china general microbiological culture collection center beijing china a risk group 2 pathogen strain zhou .the hpcd inactivation efficiency depends on temper- ature and co2 pressure hong and pyun  lin et al.
+
+non-linear hpcd inactivation kinetics of e. coli has been frequently reported but sec- ondary models describing the process pressure and tem- perature effects remain in debate ferrentino et al.
+
+the modified gompertz model and monte carlo simulations were then used in a probabilistic engineering approach to design hpcd treatments ensuring sv  5 with a 95 confidence.materials and methodshpcd processed apple juicemicrobial reduction sv values defined as logn0nt with n0 and nt denoting initial microbial counts and those after t min corresponds to hpcd inactivation data directly provided by liao et al.
+
+this also explains the large shortening of the lag time when temperature increases under isobaric condition while it is less sensitive to co2 pressure under isothermal conditions table .secondary pathogen inactivation modelsempirical models describing the combined temperature and pressure effect on the primary microbial inactivation kinetics model were developed eqs.
+
+however lag time values were less sensitive to pressure table  supporting the inactivation mechanisms that suggest temperature levels around 30-50 degc enhances co2 penetration by increasing both the co2 diffusivity stahl et al.
+
+accessed 14 mar 2017garcia-gonzalez l et al 2007 high pressure carbon dioxide inactivation of microorganisms in foods the past the present and the future.
+
+for the same hpcd unitbsupercritical pressure at 37 degc stahl et al.
+
+several studies have shown the inactivation of escherichia coli and the natural microflora in apple and grapefruit juice treated by hpcd erkmen  liao et al.
+
+in cheung pck mehta bm eds handbook of food chemistry vol 1. springer berlin pp 1-23. doiserment-moreno v fuentes c torres ja welti-chanes j 2015b evaluation of high pressure processing kinetic models for microbial inactivation using standard statistical tools and infor- mation theory criteria and the development of generic time- pressure functions for process design.
+
+the application of these primary models can be extended by secondary models describing the pressure and temperature dependence of the primary model parameters serment- moreno et al.
+
+erkmen  concluded that the gompertz model parameters were only temperature dependent for e. coli inactivation in nutrient broth 2.5-10.1 mpa 25-45 degc range whereas liao et al.
+
+the intracellular and external ph of microbial cells can also change with hpcd although the ph of co2 does not decrease significantly in the supercritical range meyssami et al.
+

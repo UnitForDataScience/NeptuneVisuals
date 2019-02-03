@@ -1,0 +1,30 @@
+s7.during giardiasis we defined taxa with significant diversity changes across all gut sites as giardiasis indicator taxa underlined groups in .we also summarized alterations in microbial taxa during giardiasis in non-antibiotic- treated animals fig.
+
+this systemic alteration of the murine commensal gut ecology during giardiasis likely contributes to the variation in infection initiation degree of colonization induction of pathology in the host andor eventual clearance of the parasite   .summarizing commensal microbial shifts using our murine giardiasis dysbiosis index.
+
+inflammation through- out the gut is associated with an overall increased oxygen tension in this generally low-oxygen environment however and we suggest that alterations in the redox potential during giardiasis are linked to markedly lower levels of anaerobic metabolism by the host microbiota .the increased abundance of facultative aerobes and strict aerobes we observed during infection could be explained by low-level inflammation associated with giardiasis .
+
+understanding how the host gut microbiome limits the initiation of infections could lead to novel thera- peutic mechanisms for reducing the severity or duration of symptoms including treatment of at-risk children with pre- or probiotics.commensal microbiota could limit the initiation or the degree of giardiasis in mice this may also be reflected in giardiasis in humans.
+
+t. gondii infection induces a rapid overgrowth of proteobacteria within the small intestine aggravating immunopathology and promoting an antiparasitic immune response  .to evaluate potential dysregulation of commensal gut microbial ecology asso- ciated with giardiasis we infected mice with giardia and used standard cultivation- independent methods  to describe and quantify shifts in microbial diversity throughout the gastrointestinal tract.
+
+this systemic alteration of murine gut ecology could also explain observed variation in giardiasis with respect to host pathology degree of parasite colonization infection initiation and eventual clearance.resultsgiardia colonization is correlated with alterations in host commensal diversity in both antibiotic-treated and antibiotic-naive mice.
+
+the histopathology of giardiasis has been noted to be less severe in germfree mice than in conventional mice supporting the idea that commensal microbes can aggravate parasite infection or symptoms .parasite colonization within the small intestine occurs in an environment already inhabited by diverse commensal bacteria yet positive or negative interactions of parasites with the commensal intestinal microbiota that occur during infection have largely been ignored .
+
+over 200 million people are estimated to have acute or chronic giardiasis and rates of giardiasis approach 90 in areas where it is endemic  .
+
+the significant and adverse impact of giardiasis on global human health contrasts with a considerable lack of research efforts targeting prevention treatment and increased understanding of thebasic biology of giardia .june 2017 volume 85 issue 6 e00948-16infection and immunity 1common symptoms of acute and chronic giardiasis include abdominal cramps gas nausea and weight loss.
+
+paradoxically parasite colonization is often associated with histologically normal tissue  and giardiasis may frequently by asymptomatic .an ecological perspective on giardiasis could inform our understanding of giardia's pathogenesis .
+
+s4.what are the primary bacterial taxa or indicator taxa that shift in abundance during giardiasis we used several multivariate statistical methods deseq2 with anal- ysis of variance anova qiime 1.9 to query microbial taxa that significantly changed after 2 weeks of giardiasis  .
+
+overall clostridiaceae and proteobacteraciae were the taxa with the most dramatic changes in diversity throughout both the foregut and hindgut during giardiasis .to summarize overall shifts in microbial diversity by site during giardiasis we plotted the overall abundance of each identified taxonomic group versus the fold change between infected and uninfected samples .
+
+giardiasis could be an ecological disease and the observed dysbiosis may be mediated directly via the parasite's unique anaerobic fermentative metabolism or indirectly via parasite induction of gut inflammation.
+
+in both treatment groups the commensalfig 1 sampling scheme for querying murine gut ecological shifts during giardiasis with and without antibiotic treatment.
+
+to evaluate the overall dynamics of ecological shifts in the gut microbiota during giardiasis we first analyzed species richness and evenness alpha diversity using qiime  fig.
+

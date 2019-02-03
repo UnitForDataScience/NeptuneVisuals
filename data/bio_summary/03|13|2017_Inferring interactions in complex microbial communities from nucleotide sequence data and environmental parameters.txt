@@ -1,0 +1,30 @@
+we determine for each group of positive or negative ma values the respective median values ma and ma- values.
+
+note that the choice of methods and choice of settings of several threshold values for a decision on intermediate steps is dependent on user preferences.robustness estimation of bij valuesthe magnitude and sign of the bij value depend on variables of the experimental data such as variability of sampling site choice and the reliability degree of precision with which numeri- cal values such as relative abundances of taxa or environmental parameter were determined .
+
+we refrain from using the classical bootstrapping sampling with replacement as the deviation term  will turn zero for twice or more of subsampled data and hence will be of no informative value in the downstream regression analysis .the effect of either numerical precision of environmental parameter values or relative abundances of taxa was evaluated by randomly adding or subtracting error terms 0.01 0.1 5 10 20 and 50 to the original values.
+
+this finding is independent of direction and strength of the original bij value and suggests that conclusions on direction and strength of interactions especially in comparison of different pairs of taxa to each other appear to be stable in the light of moderate error rates up to 10. the overall effect of error term size on data perturbations is larger for environmental parameter values than for values for the relative abundances of taxa.
+
+as a result at larger error rates of environmental parameter values the direction of inter- action may change suggesting that biological interpretation of very low bij should be treated with caution.bij resulting from random sampling on soil samples are at comparable levels to bij resulting from 5 to 10 error term data perturbations on relative abundance values.
+
+secondly depending on the precision quality of the input data we suggest numeri-cal calculation approaches estimating bkfor a given environmental parameter a and a givensample k. the result is a two-dimensional matrix of numerical bk values with m m is thenumber of environmental parameters rows and n n is the number of samples columns for each pair of species j having interaction influence on species i. thirdly we addressed the issue about data structure and the precision of the calculation.
+
+secondly we add numerical noise to either the original data of relative abundances or the environmental param- eter values by randomly adding or subtracting error terms using formulayk 14 ykd1 th ethd24thwhere yk is the original environmental parameters matrix yk is the perturbed data matrixaaand e is the error term.
+
+however for less abundant taxa at the level of genera or species defined by 97 similarity of the 16s rrna gene  the error could be much larger two-fold own unpublished data.similarly the determination of physicochemical environmental parameters from soil such as ph soil moisture carbon and nitrogen content is accompanied by uncertainty errors mostly due to soil heterogeneity which may also be in the range of 1 to 15 own unpub- lished data.we refer to data with assumed low 1-10 experimental error in the estimation of numeri-cal input data and describe how to numerically calculate ai and pia from a data set derivedfrom different samples using the taylor expansion .yaajif the samples are denoted by using the index k  1 2    n we denote ak yk as the abun-dance of species ai and environmental parameter tha in sample k respectively.
+
+therefore the information on the direction and strength of biotic interactions must be stored in the change of species abundances and hence can be extracted from that.the basic idea of this methods is to analyze the influence from other interacting species abundance on the rate of change of specific species abundance in the sense of environmental gradients.the sketch on the analysis workflow.the shows the detailed conceptual idea of this approach and the sketch on the analysis workflow of obtaining bij interaction values from values of relative abundances of taxa and environmental parameters obtained from a set of sampling sites.
+
+based on the calculated pi for each values of th and the abundance curve of aj the relation- ship between pi and aj is shown in subplot b the red triangular has higher abundance values of aj than the orange triangular.
+
+the rate ofchange of ai with respect to tha in sample k is defined as the partial derivativeakkiia ykd8thand the interaction level bij as the rate of change of pk with respect to species j abundance akaccording toiakkiaijajd9thak akj ik ijarepresents the interaction value characterizing the interaction influence of species j onspecies i accompanying the change in environmental parameter tha in sample k. this allows analyzing the interaction of species j on species i for different environmental parameters and its change across different environmental conditions.knote that for this part of the analysis the numerical calculation of the partial derivativeiakand ia normally requires to fix the values of the environmental parameters thto be the sameakain the other samples as in sample k. this mathematical requirement can not be fulfilled as real world samples differ typically at the same time in both species abundances and values of envi- ronmental parameters.
+
+as the sum of relative species abundance values by definition is constrained to 1 these values are not independent of each other.
+
+positive values indicate a positive influence negative values indicate a negative influ- ence.
+
+values may be non-normal distributed including extreme outlier values.
+
+the above peak determination approach yields a set of ma values along with robust assignment of direction either positive or negative.secondly the set of ma values per each taxon pair ij or ji is used to yield a global interaction value bij or bji respectively.
+

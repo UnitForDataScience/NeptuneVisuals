@@ -1,0 +1,30 @@
+the largest differences between fw and sw fish samples were found for the terms energy metabolism 3.7 higher in fw carbohydrate metabolism 3.2 higher in sw and xenobiotics degradation and metabolism 2.3 higher in sw. within energy metabolism the fw group showed a significantly increased capacity for oxidative phosphorylation and carbon fixation whilst nitrogen metabolism and methane metabolism were significantly more abun- dant in the sw group.
+
+238 otus were found to have a statistically different abundance with 193 otus having a higher abundance in the fw group and 45 otus in the sw group supplementary table .figure 1. top 20 most abundant operational taxonomic units otus detected in atlantic salmon in either fresh-or saltwater stages.
+
+the fw vs sw fish specificdistributions of lab and their implications for fish health make this group a prime target for further research.comparing the microbial profiles and their predicted metagenome helped define the substantial differences in community composition harboured in the fw and sw fish intestines as well as explaining the acquisition of microbes and determinants of their composition.salinity gradient has been identified previously as an important shaper of microbial communities and accounts for a number of community differences of bacterioplankton in fw and sw-.
+
+sw unique phyla were identified as fibrobacteres nitrospira and thermatogae however these were at very low relative abundances with eight two and twelve sequences identified respectively.microbial communities of the fw fish contained on average 359 - 37 otus whereas sw fish harboured an average of 275 - 24 otus.
+
+interestingly the top 20 otus overall in fw fish only accounted for 12079 sequences whereas in the overall sw fish group 31790 sequences were mapped to the top 20 otus suggesting higher microbial diversity in fw samples.
+
+nineteen otus were found to be shared overall with accessory cores in the respective life cycle stage groups fw 12 otus sw  21 otus.the common otus mapped predominantly to lactic acid bacteria lab phylum firmicutes n  10 well known intestinal microbes including escherichiashigella phylum proteobacteria and mycoplasma spp.
+
+fw fish did not only harbour an increased number of unique and higher abundant otus these otus also mapped to a larger variety of phyla and genera compared to the otus unique to the sw group.
+
+here we examined salmon shortly before transfer to seawater sw and then three weeks following entry to sw by which time we hypothesised that the marine phase of the microbiota would be established.we found significant differences in microbial profiles in atlantic salmon intestines correlated with transfer from fw to sw which is in accordance with previous studies.
+
+this is supported by the full breakdown of microbial profiles by sample and life cycle group which can be found in the supplementary material supplementary figures and .the order lactobacillales was targeted for additional analysis due to its importance for fish health and the observed significantly different abundance in fw and sw fish 36.7 and 54.8 of all bacterial orders respec- tively p  0.0262. within this order five families showed significantly different abundance with lactobacillaceae more abundant in sw fish whilst streptococcaceae leuconostocaceae enterococcaceae and carnobacteriaceae were more abundant in fw fish.
+
+lactobacillus was the dominant genera in sw fish compared to fw fish 95.23 and 52.28 of lab respectively p  0.0001. fw fish also maintained a notable proportion of streptococcus 36.44 and weissella 5.68 which were significantly more abundant compared to sw fish 1.06 and 2.31 p  0.0001 and p  0.0086 respectively.
+
+whilst a significantly higher proportion of the combined fw bacterial metagenome was associated with the level 1 term genetic information processing the sw bacterial metagenome showed significantly higher abundances associated with environmental information processing and metabolism.within environmental information processing the level 2 term signalling molecules and interaction showed the largest difference in significant abundance between fw and sw fish.
+
+contained in this level 2 path- way the level 3 term ion channels was significantly more abundant in the sw fish group than the fw fish group and bacterial toxins significantly higher in the fw group compared to the sw group.most kegg pathways significantly different were related to metabolism.
+
+within carbohydrate metabolism the most striking difference was found in the citrate cycle tca cycle pathway fw  20.0 sw  9.7. both amino acid metabolism and lipid metabolism were significantly differently abundant between fw and sw fish bacterial communities p  0.0009 and p  0.0001 respectively but the percent differences were fairly low.
+
+important aspects of lipid metabolism were also found differ- ently abundant in the predicted metagenome of the fw and sw groups which has been discussed above.despite the observed differences between the fw and sw group the identification of a strong core microbiota suggests a level of plasticity by retaining microbes needed for minimum function of the intestinal environment.
+
+.by considering only species richness microbial profiles of fw samples had a significantly larger number of otus compared to sw samples p  0.05. additionally shannon index identified significant differences in the species diversity found in the microbial composition of the two life stages with higher species diversity in fw samples p  0.0001.beta diversity.
+

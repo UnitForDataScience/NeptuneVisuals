@@ -1,0 +1,30 @@
+the genome completeness and potential contamination of the gsub genome were estimated to be 98 and 0 respectively based on the identification of 243 proteobacteria-specific single-copy marker genes using checkm .
+
+the genome completeness and potential contamination of the nsub genome were estimated to be nearly 100 and 0 respectively based on the identifi- cation of 145 archaea-specific single-copy marker genes using checkm.
+
+the pfam-based 139 conserved single-copy genes were also identified showing that the gsub genome contains no duplicated genes table s2.
+
+the gsub genome also contains a complete set of genes involved in the calvin-benson cycle for carbon fixation including the rbcs and rbcl genes coding for ribulose- bisphosphate carboxylases rubisco fig.
+
+genome reduction is a hallmark of the genomes of symbionts and is considered a strategy to reduce the cost of genome replication .
+
+to gain better understanding of the functional profile of gsub we compared its genome to two of its nearest neighbor genomes two endosymbiont sob candidatus ruthia magnifica strain cm rmag and candidatustable 1 comparison of the genome features among the sulfur-oxidizing bacterium sob in the cold seep sponge gsub and reference genomesaretained featuresno.
+
+the draft genome sequences of the gsub and nsub bacteria have been deposited at ddbjemblgenbank under accession numbers and  respectively the annotated genome can also be accessed at .supplemental materialsupplemental material for this article may be found at .fig s1 pdf file 0.1 mb.fig s2 pdf file 0.3 mb.fig s3 pdf file 0.1 mb.fig s4 pdf file 0.2 mb.fig s5 pdf file 0.1 mb.fig s6 pdf file 0.2 mb.table s1 pdf file 0.1 mb.table s2 pdf file 0.2 mb.table s3 pdf file 0.1 mb.table s4 pdf file 0.1 mb.acknowledgmentsthis study was supported by grants from the nature science foundation of china u1301232 and the strategic priority research program of the chinese academy of sciences xdb06010102 and xdb06010200.referencesborchiellini c manuel m alivon e boury-esnault n vacelet j le parco y.
+
+com- parative genomics with other sponge-associated sob and free-living sob revealed significant genome reduction in gsub characterized by the loss of genes for carbo- hydrate metabolism motility dna repair and osmotic stress response.
+
+the gsub genome contains a complete set of genes involved in the reverse dissimilatory sulfate reduction pathway dsra dsrb apra aprb and sat and the sulfur oxidation sox system soxabxyz indicating that this bacterium is able to use both sulfide and thiosulfate as electron donors fig.
+
+elimination of some of the genes encoding components of the dna recombination and repair pathways has been observed for nearly every small genome .
+
+however it is not clear how these microbes benefit by retaining fewer dna repair genes.with respect to carbohydrate metabolism the gsub genome has reduced genes for the metabolism of monosaccharides oligosaccharides sugar alcohols and other car- bohydrates compared to free-living relatives.
+
+the presence of crispr in the gsub genome combined with the results of previous studies   implies that phage defense is of ecological significance in the adaptation of sponge- associated bacteria.comparison between gsub and the two endosymbiotic bacteria rmag and voku revealed that gsub contains a relatively complete set of genes encoding the type ii secretion system t2ss table s4 which may mediate cellular interactions with the host.
+
+compared to free-living sob gsub and other symbiotic sob show significant genome reduction represented by the loss of genes for carbo- hydrate metabolism and respiration cell signaling and regulation motility and che- motaxis stress response and membrane transport.
+
+these microorganisms in hosts lack genes that are essential in other bacteria and retain only the most essential functions such as sets of genes that serve the hosts .
+
+the sequencing coverages of the contigs where the 16s rrna genes located were taken as the coverages of the 16s rrna genes and were considered their relative abundance.
+

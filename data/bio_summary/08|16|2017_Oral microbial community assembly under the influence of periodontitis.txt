@@ -1,0 +1,30 @@
+in the periodontitis bop the 13 communities that passed the neutrality exact tests with etienne sampling formula with 1000 artificially simulated communities.j the total number of reads in the sample s the number of species in the sample th fundamental biodiversity number m migration probability p-value calculated from the log-likelihood ratio test and p-value adjusted the p-value adjusted with multiple testing correction procedure.treatment 22.73 522 of the samples satisfied the neutral prediction in the periodontitis non-bop treatment 27.27 622 of the samples passed the neutrality exact test and in the healthy control treatment 17.65 317 of the samples passed the test.
+
+the p-value calculated follows a chi-squared distribution with the degree of freedom of one.after the comparison we adopted an exact neutrality test method  to test the neutrality of samples i.e.
+
+it adopts a mixture test strategy of monte carlo significance test and the parametric bootstrap.
+
+in addition as mentioned previously the log-likelihood ratio test was performed with both ewens and etienne formulae respectively to compare their performance.the statistical tests for further verifying the neutrality-test resultsmultiple testing correction or multiple testing for short also know as multiple comparisons or multiplicity test is designed to correct the increased chance of incorrectly rejecting the null hypothesis i.e.
+
+ema imple- mented the statistical procedures for multiple testing developed by benjamini and hochberg 1995 .fisher's exact probability test is designed to compare the frequency of occurrences obser- vations in a fourfold table setting when the numbers are too small to use the chi-square test.
+
+we use fisher's exact probability test to determine if there are pair-wise differences between the treatments in their passing rates of the neutrality test.
+
+the parameters and test results of the community samples that passed the neutrality test were listed in below and the results of all samples were listed in the online supplementary  tables.
+
+in the cases of sample 28h1 and 7pb shaded in grey the significance for passing the neutrality test slightly increased after adjusting the p-value with multiple testing correction.listed in are the columns of sample id for each formula the total number of reads individuals in the sample j the number of species s the fundamental biodiversity number th p-value from the log-likelihood ratio test and adjusted p-value with multiple testing correction.it is noted that 100 artificially simulated communities have been the default choice in test- ing the neutral theory with the untb r package mentioned previously.
+
+shows the flip-flop of the neutrality test results with etienne formula with 1001000 artificial communities.j the total number of reads in the sample s the number of species in the sample th fundamental biodiversity number m migration probability p-value calculated from the log-likelihood ratio test and p-value adjusted the p-value adjusted with multiple testing correction procedure.
+
+the flip-flop of the three samples led to net one reduction of the samples that pass the neutrality test when the number of artificially simulated communities increased from 100 to 1000. all other 58 samples did not experience any flip-flop when the simulations were increased 10 times.the rank abundance curves of four demonstrative samples that successfully pass the neutrality test.
+
+we do not know whether dysbiosis is the cause or consequence of periodontitis.conclusionsby comparing ewens and etienne formulae performing the neutrality test with etienne formula and conducting further tests with multiple testing correction and fisher's exact prob- ability test as well as comparing the fundamental biodiversity number among three treat- ments we obtained the following conclusions and postulations for further study.
+
+hubbell's neutral theory of biodiversity offers a pow- erful null model to test hypothesis regarding the mechanism of community assembly and diversity maintenance from the metagenomic sequencing data which can help to under- stand the forces that shape the community dynamics such as dysbiosis.
+
+our study demonstrates that 14 out of 61 com- munities 23 passed the neutrality test a percentage significantly higher than the previ- ous reported neutrality rate of 1 in human microbiome li  ma 2016 scientific reports.
+
+however no statistically significant differences in the neutrality passing rates were detected between the periodontitis and healthy treatments with fisher's exact probability test and multiple testing corrections suggesting that the mechanism of community assem- bly is robust against disturbances such as periodontitis.
+
+we hope our analysis will help to understand the forces such as periodontitis that shape the community dynamics including dysbiosis.material and methodsdataset descriptionthe dataset we used to test the neutral theory was from a study conducted by abusleme et al.
+

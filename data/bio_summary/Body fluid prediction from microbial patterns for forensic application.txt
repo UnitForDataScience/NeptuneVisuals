@@ -1,0 +1,30 @@
+4. pca plot with both the experimental data and hmp data zoomed in on experimental data.
+
+large data repositories specifically devoted to 16s rrna gene data exist e.g.
+
+data were split by person and a cross- validation was performed by training a classifier on data from 5 persons and then predicting the class of the samples from the left out person.
+
+this was performed by using pca on the training data first and then truncated the data to 6 principal components using these scores when training the lda classifier.
+
+we also tested various ways of sample collection and pcr amplification and compared the obtained profiles to those in the public data sets from the hmp.microbiota raw data qualityit is reasonable to expect that it is more difficult to collect sufficient quantities of microbial dna from a deposited trace compared to a sample taken directly from a body fluid.
+
+the posterior probabilities assigned by lda were for 4 of these samples weakly in favour of the wrong class see supplementary figure s10 for details.to compare our experimental data with a large data set of pure bodysamples we assignedourreadstothe otus basedon 2465 hmp samples.
+
+thus for now read-counts as low as 100 gave similar results to much higher numbers of reads but larger data sets should be investigated to verify that such low read-counts could be used for body fluid prediction in casework.there are a number of other factors that we did not investigate and that might influence the data quality for the intended purpose.
+
+however the low level of bacterial background from skin see  is an advantage for recognizing a deposited body fluid.when comparing the experimental data to hmp data there is an obvious bias for both sample types see  but the skin samples show a lower degree of similarity than the saliva samples.
+
+the method will probably have limitations when it comes to classifying bacteria poor body fluids but could dependent on the final accuracy levels obtained be a valuable supplement to other body fluid determination techniques.ethicsthis study has been approved by the local data protection official for research at norwegian institute of public health.acknowledgementsthis work was supported by norwegian institute of public health oslo university hospital university of oslo and norwegian university of life science.appendix a. supplementary datasupplementary data associated with this article can be found in the online version at .references...fi.fifl......fi...... .
+
+a cross-validation of the experimental data shows that the new method is able to successfully classify samples from saliva deposited on skin and samples from pure skin in 94 of the cases.
+
+a large variety of multivariate pattern recognition approaches are already available for the data analysis part of this problem.
+
+in addition the data interpretation should not be exploratory as in many health studies but based on pattern recognition.in this paper we present a study where we have investigated potential effects of sampling and lab-protocols on the detection and recognition of saliva deposited on human skin.
+
+this is a typical example of a biological trace from a crime scene and to our knowledge the first study to demonstrate the identification of body fluids from microbiota data in this context.materials and methodsexperimental setupsix healthy persons participated in this study.
+
+anova was again used to investigate if there was significant difference in diversity between sample types the two pcr techniques or the two sampling techniques.principal component analysis pca was used to project the high-dimensional taxonomic profiles onto a lower dimensionalspace used for graphical display or further data analysis.
+
+principal components are ordered by variance in the data set i.e.
+

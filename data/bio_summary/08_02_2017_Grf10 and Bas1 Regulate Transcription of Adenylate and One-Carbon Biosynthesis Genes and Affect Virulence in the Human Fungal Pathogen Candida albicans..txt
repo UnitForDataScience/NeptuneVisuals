@@ -1,0 +1,30 @@
+deletion of either bas1 or grf10 led to decreased expression of every ade gene under adenine-limiting conditions indicating that both bas1 and grf10 are required to achieve full expression.
+
+bas1 regulates both the basal and derepressed expression of ade and one-carbon metabolic genes how- ever grf10 is necessary for the full upregulation of gene expression during derepres- sion.bas1 and grf10 regulate nup under the adenine derepressing conditions.
+
+both bas1 and grf10 were required for this transcriptional derepression however in contrast to the ade and one-carbon metabolic genes the basal and high-level expression of the nup gene were more dependent on grf10 than on bas1.
+
+because the expression of shm2 and ade3 genes in the bas1d strain wasfig 5 the expression of one-carbon metabolic genes and the expression of nucleoside permease are differentially regulated by bas1 and grf10.
+
+we show that the lack of the transcription factors grf10 and bas1 leads to purine metabolic dysfunction and this dysfunction affects the ability of c. albicans to establish infections.keywords bas1 candida albicans grf10 fungal pathogen one-carbon metabolism purine metabolism transcriptional regulation virulenceandida albicans is part of the human microbiota that resides harmlessly in the body the immune system and other microbial communities play important roles by protecting the host from c. albicans overgrowth and tissue invasion  .
+
+bas1 appears to play an important role in main- taining basal expression because the expression of several of the genes ade4 ade6 and ade13 was reduced by 2-fold or more in the bas1d strain relative to the wt under repressing ade conditions however basal expression of the ade genes was not affected in the grf10d mutant.
+
+bas1 is required for basal expression of these genes whereas nup expression is more dependent upon grf10.
+
+expression of ade13 was partially or fully restored when bas1 rac111 or grf10 rac120 respectively wasfig 4 the expression of the ade regulon is strongly downregulated in the bas1d and grf10d mutants.
+
+consistent with a role for grf10 in morphogenesis expression of grf10 is highly induced during filamentation  and grf10 is one of eight core target genes upregulated by the biofilm master regulators .
+
+a the wild-type day286 bas1 heterozygote rac105 bas1d rac108 and bas1 complemented rac111 strains and grf10 heterozygote rac114 grf10d rac117 and grf10 complemented rac120 strains from c. albicans in the bwp17 background were grown overnight in ypd medium and were spotted at a starting od600 of 0.1 on plates containing sc agar medium with ade or without -ade adenine.
+
+restoring an allele of bas1 or grf10 to the null mutants complemented the growth defect--partially for bas1 and fully for grf10 .
+
+indeed the more severe gene expression defect in the bas1d mutant than in the grf10d mutant may explain its stronger growth defect   and .our study indicates a largely but not wholly conserved role for the bas1 and grf10 orthologs of c. albicans.
+
+.inglis do arnaud mb binkley j shah p skrzypek ms wymore f binkley g miyasato sr simison m sherlock g. 2012. the candida genome database incorporates multiple candida species multispecies search and analysis tools with curated gene and protein information for can- dida albicans and candida glabrata.
+
+to examine transcription promoted by grf10 and bas1 we performed qrt-pcr to detect the expression of the nine ade genes that constitute the adenylate biosynthetic pathway .
+
+expression of ade13 in the bas1 rac105 and grf10 rac114 heterozygous mutants was not different from that in the wild-type strain day286 see fig.
+

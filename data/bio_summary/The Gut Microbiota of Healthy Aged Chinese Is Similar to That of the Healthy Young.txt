@@ -1,0 +1,30 @@
+the loading plot in shows the otus responsible for the difference in location of the samples.the finding that the 19- to 24-year-old group was divergent from the general population was reexamined by rerunning the analysis with the inclusion of a second cohort of 212 samples collected from military and police training groups here the young soldier group the entire data set in this case included 1095 samples and 562 otus when filtered as for the general population cohort.
+
+while there is significant overlap in the location of the samples from each group the most extreme groups were the youngest ages 3 to 6 and 8 to 12 years the oldest age 94 years and surprisingly the 19- to 24-year-old group.
+
+this is in contrast to other studies where the separation of particular groups was driven by only a few relatively abundant taxa  .examination of confounding factors suggested that the age groups were distinct from each other and that subsetting the age groups by metadata failed to reveal any substantial variance within groups that could be attributed to the metadata see fig.
+
+second the major differences between groups in the gut microbiota pro- files were found before age 20. third the gut microbiota differed little between in- dividuals from the ages of 30 to 100. fourth the gut microbiota of males ap- peared to be more variable than that of females.
+
+in contrast the bulk of the otus in the genera prevotella and bacteroides become relatively more abundant in all successive age groups until age 20 then relatively rarer in the 30- to 50-year-old group relatively more abundant in the 60- to 79-year-old group and relatively rarer again in those 94 years old.discussionthe present study identified a distinct gut microbiota in a 19- to 24-year-old cohort from the general population that has not been observed in large-scale analyses of other populations  and may be unique to this healthy cohort in china.
+
+importantly the samples from the young soldier cohort were collected in a different way than for the remainder of the samples yet the 19- to 24-year-old college students and young soldier samples cluster together on pca plots by unsupervised clustering and had a small variance in the permanova analysis.
+
+2 middle school suzhou city jiangsu provinceadultspla training base in lanzhou gansu provincepca of centered log-transformed data  shows that the samples segregate with an observable but weak separation by age group see samples in fig.
+
+third block randomization of samples was not conducted although samples from every age group were in each processed batch they were not random- ized or blocked.
+
+it is likely that the most strongly associated groups include predominantly members of the same genus because different members of the same genus have similar growth requirements limitations and interactions.clusters f and g were relatively constant across all samples and were composed of otus identified as being members of the faecalibacterium genus suggesting that they are members of the core microbiota in this population.
+
+thus given that the data from the 19- to 24-year-old group from jiangsu province are potentially generalizable to other people of similar ages from across china it is possible that the data for other age groups may be similarly generalizable at least in broad outline.these data were analyzed using a compositionally coherent approach which exam- ined the variance of the otus across all samples with age as a continuous variable for exploratory data analysis and for compositional association and as a discrete variable for differential abundance analysis.
+
+samples are colored by their age group membership and the data ellipses encompass 75 of the points in a group 75 confidence interval ci.
+
+in contrast the members of cluster c composed entirely of otus assigned to the bifidobacterium genus were relatively less abundant in the 19- to 24-year-old groups than in the age groups that immediately surround the 19- to 24-year-old and young soldier groups.
+
+nevertheless despite the relatively constant microbial composition in all age groups there are reproducible differ- ences in the microbiota composition between the age groups.the largest differences in otu abundance were found between groups early in life and around age 20 as well as in the extremely healthy elderly.
+
+research articlehost-microbe biologythe gut microbiota of healthy aged chinese is similar to that of the healthy younggaorui biana gregory b. gloorabc aihua gonga changsheng jiaa wei zhangd jun hue hong zhangf yumei zhangg zhenqing zhouh jiangao zhangijeremy p. burtonacj gregor reidacj yongliang xiaoa qiang zengk kaiping yangaclmn jiangang liatianyi health sciences institute zhenjiang co. ltd. zhenjiang jiangsu chinaa departments of biochemistry and of applied mathematics western university london ontario canadab lawson health research institute london ontario canadac department of gastroenterology affiliated hospital of jiangsu university zhenjiang chinad department of orthopedics lanzhou military general hospital lanzhou gansu chinae gansu provincial people's armed police corps hospital lanzhou gansu chinaf school of public health peking university beijing chinag center for disease control and prevention taicang jiangsu chinah wenci hospital rugao jiangsu chinai department of microbiology and immunology western university london ontario canadaj health management institute chinese pla general hospital beijing chinak children's health research institute london ontario canadal department of obstetrics and gynecology western university london ontario canadam department of physiology and pharmacology western university london ontario canadanabstract the microbiota of the aged is variously described as being more or less diverse than that of younger cohorts but the comparison groups used and the defi- nitions of the aged population differ between experiments.
+
+examination of the permanova results showed that the 19- to 24-year-old and young soldier groups were more similar to each other than to any other group and that the group differences were otherwise small.
+

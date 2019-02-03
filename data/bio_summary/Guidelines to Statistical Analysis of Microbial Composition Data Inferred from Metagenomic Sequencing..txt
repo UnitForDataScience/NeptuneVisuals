@@ -1,0 +1,30 @@
+2013 human microbiome project consortium 2012. as cultivation and examination in vitro of the majority of microorganisms is difficult metagenomic analysis is one of the most common ways to study the human-associated microbial community struc- ture and functionality.an important part of metagenomic analysis is testing hypotheses about the associations between microbiome structure and some factors.
+
+2014formulation of the aims and experiment design stating the hypothesis describing the groups of subjects determining their minimal size choosing the optimal sequencing technology targeted sequencing depth and methods of experimental data analysiscollecting the required number of microbial samplesmetagenomic sequencing of each sampletaxonomic profiling for each metagenomestatistical analysis of the compositional data.this review describes basic concepts and models of statistical inference of associations between microbiome structure and factors of interest with the main focus on humanstatistical analysis of metagenomic data  19microbiota.
+
+the microbial communities are compared via the analysis of these vectors.20  odintsova et al.statistical properties of metagenomic databasic stepsas an exhaustive search across all gut microbiotas is not feasible the statistical analysis is based on a representative sample from this entire assembly.
+
+when choosing the method of analysis one should particularly pay attention to the validity of the assumed parameterization as the wrong choice may lead to overestimate of power orstatistical analysis of metagenomic data  23significance leading to a higher rate of type i or ii errors that the researcher expects hair et al.
+
+this approach may be useful to analyse the beta diversity between microbial communities.r packages for statistical analysis of metagenomic compositional datar programming language is widely used for omics-data analysis due to the large number of free packages.
+
+2016 square-root transformation followed by the student's test showed results comparable to the results of methods designed for metagenomic data.normal distribution does not fit well to the metagenomic datathe other specific property of metagenomic data is that the normal distribution implied in many statistical tests does not describe this type of data well.
+
+the last section contains an overview of the actual and widespread approaches to such analysis implemented in r packages.preparing data for statistical analysiscollection of microbiome samples sample preparation and sequencing as well as the pri- mary bioinformatical analysis for taxonomic profiling are complex processes with each step having its own subtleties.
+
+then the methods used for discrete methods can be implemented.another approach that allows both discrete and continuous factor analysis and more- over multifactor analysis is based on generalized linear models glms.
+
+2014. unifying the analysis of high-throughput sequencing datasets characterizing rna-seq 16s rrna gene sequencing and selective growth experiments by compositional data analysis.
+
+guidelines to statistical analysis of microbial composition data inferred from metagenomic sequencingvera odintsova1 alexander tyakht12 and dmitry alexeev121federal research and clinical centre of physical-chemical medicine malaya pirogovskaya 1a moscow russian federation.2moscow institute of physics and technology institutskiy pereulok 9 dolgoprudny russian federation.correspondence httpsdoi.org10.21775cimb.024.017abstractmetagenomics the application of high-throughput dna sequencing for surveys of envi- ronmental samples has revolutionized our view on the taxonomic and genetic composition of complex microbial communities.
+
+primary analysis of metagenomic reads allows to infer semi-quantitative data describing the community structure.
+
+such analysis attempts to estimate the individual impact of each factor.a common metagenomic study of association between clinical data and microbiome composition consists of the following stages goodrich et al.
+
+it is intended to serve as an assistance in choosing the correct statistical methods for metagenomic analysis realized in r r core team 2015 and applying them properly stages 1 and 5.to state the mathematical formulation of the problem it is necessary to get familiar with the data format inherent for metagenomics.
+
+then we will focus on the main steps and specifics of metagenomic statistical analysis.
+
+therefore one should be wary when basing the conclusions of a metagenomic study on p-value analysis alone baker 2016 was- serstein and lazar 2016.in the case of multiple comparisons - for example when the distribution for each of the hundreds of detected microbial species is compared - it is necessary to control for the number of 'false discoveries'.
+

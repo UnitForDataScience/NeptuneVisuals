@@ -1,0 +1,30 @@
+however the ascomycotabasidiomycota ratios were signifi- cantly higher in the aboveground samples than the below- ground samples kruskal-wallis kh2  36.7 p  1.4 x 10-9. the largest proportion of basidiomycota was found in the root samples kruskal-wallis kh2  56.1 p  4.0 x 10-12. these ratios are very similar to those identified with 454 sequencing technology in fungal communities associated with broadleaf trees .
+
+overall these data indicated higher homogeneity of the otus distribution in aboveground samples while the soil and root samples were less homogeneous.in the venn diagram analysis the sums of the total observed fungal otus in the four sampled habitats of the skado plots were 1567 609 918 and 948 for the soil root stem and leaf samples respectively fig.
+
+our data also revealed that in the poplar phyllosphere 51 of otus were shared by the stem and leaf samples whereas 31 of otus were shared by the soil and root samples.symbiotic fungi dominated the belowground habitats whereas yeast-like fungi dominated the aboveground habitatsthe fungal communities across all four habitats were domi- nated by the phylum ascomycota 54.6 of total relative abundance on average while basidiomycota represented a smaller portion of the communities 23.5 fig.
+
+conversely the root samples shared 97 of otus with another habitat mostly with the soil habitat 84.7 of the root otus were detected in soil samples.
+
+the finding of higher richness and diversity in aboveground habitats compared with the root hab- itat was poorly predictable as there are considerably fewer available studies on aboveground communities comparedtable 3 network indices obtained through network analysis based on its1 rdna pcr amplicons from fungal communities of the four habitats soil root stem and leaf.
+
+indeed as the soil and root habitats were dominated by gasteroid soil 67 root 48 and agaricoid soil 21 root 45 fungi the fungal communities from the stem and leaf habitats were essentially dominated by yeasts stem 4 leaf 11 dimorphic yeastsfig.
+
+additionally root communities showed the highest network connectivity index while rarely detected otus from the glomeromycetes may have a central role in the root network.unexpectedly high richness and diversity were found for aboveground habitats compared to the root habitat.
+
+microb ecol 2017 74795-809 doi 10.1007s00248-017-0984-0environmental metabarcoding reveals contrasting belowground and aboveground fungal communities from poplar at a hg phytomanagement sitealexis durand1  francois maillard1  julie foulon1  hyun s. gweon2  benoit valot1 michel chalot13received 2 march 2017  accepted 17 april 2017  published online 27 april 2017 springer sciencebusiness media new york 2017abstract characterization of microbial communities in stress- ful conditions at a field level is rather scarce especially when considering fungal communities from aboveground habitats.
+
+more specifically the diversity and richness estimates were always significantly higher in the soil samples followed by the leaf stem and root samples table .a permutation test confirmed that the habitat r2  0.58 explained most of the variance in the fungal community whereas variations between plots were negligible and not sta- tistically significant table s2.
+
+the belowground habitats were enriched with agaricomycetes kruskal-wallis kh2  69.8 p  2.2 x 10-16 pezizomycetes kruskal-wallis kh2  69.5 p  2.2 x 10-16 and sordariomycetes kruskal- wallis kh2  67.9 p  2.2 x 10-16. moreover the root samples contained significantly more agaricomycetes kruskal-wallis kh2  16.3 p  5.4 x 10-5 pezizomycetes kruskal-walliskh2  25.4 p  4.6 x 10-7 and glomeromycetes kruskal- wallis kh2  17.6 p  2.8 x 10-5 but significantly less sordariomycetes and zygomycetes than the soil samples.
+
+while some dothideomycetes members were detected in root and soil samples taphrinomycetes were virtually absent from all below- ground samples.
+
+the fungal communities as- sociated with populus roots mostly consisted of otus from the symbiotic guild such as members of the thelephoraceae thus explaining the lowest diversity found for root communities.
+
+thus the root fungal communities also displayed lower homogene- ity of the species distribution compared with soil communities.we demonstrated that the fungal communities associated with populus roots mostly consisted of ectomycorrhizal fungi which are known to develop mutually beneficial interactions with their hosts.
+
+the hub in the root compart- ment network typical of the leaf compartment could corre- spond to the transfer of microorganisms during leaf fall in the root area but the real explanation is still unclear.we may conclude that each habitat that we studied represents a unique niche for the fungal communities in a monoclonal plan- tation of the cultivar skado p. trichocarpa x p. maximowiczii implemented in 2011 as a short-rotation coppice src 2200 stemsha.
+
+the soil samples exhibited the highest proportion of unique otus 36.6 followed by the leaf 10.2 and stem 10.4 samples.
+

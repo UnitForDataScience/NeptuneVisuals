@@ -1,0 +1,30 @@
+more importantly these studies highlight what is remaining to be elucidated.key words travellers diarrhea microbiomeintroductionthere have been many studies on the microbiome and there have been many studies of travellers' diarrhea td however there have been few studies that combine the examination of the host microbiome before during or after td.
+
+overall this study is one of the most comprehensive 16s rrna td pathogen based stud- ies to date.recovery-based studieswhile the use of prospective-based challenge studies are an opti- mal controlled situation in examining the changes of the micro- biome in controlled conditions most studies completed on the topic of td and microbiome or diarrhea and the microbiome in general are termed recovery studies.
+
+recent attempts have been made to extensively cul- ture and characterize the organisms in the gastrointestinal tract and provide a resource for the community to access these data and isolates.further efforts of this nature will facilitate our understanding of the microbiome in general and place metage- nomic studies into context with the functional studies of td.conclusionswhile the described studies on the pathogen and community dy- namics are often limited in scope and number of subjects the potential to use these data as a model to being to understand and develop potential diagnostics based on the community structure with the 16s rrna or metagenomic sequencing or in the future with metatranscriptomics and metabolomics are pos- sible.
+
+this review provides a brief overview of the state of the use of microbiome studies using travellers diarrhea samples and what those studies have told us.
+
+searching of the pubmed databases with the key terms of diarrhea identifies100 000 published studies if the word microbiome is then added to the search fewer than 700 publications are identified and those with the word enteric identify 100 studies with these key words .
+
+many microbiome studies have been based on the sequencing and analysis of the 16s rrna gene but the limitations of these studies are beginning to be realized.
+
+in addition the relevance of studies in endemic popula- tions vs challenge studies to be completed on western volunteers may also significantly impact the outcomes and may not be dir- ectly comparable.
+
+the recovery-based studies provide us a window into what is happening during the disease and resolutiontreat- ment phases but leave us blind as to how these states are arrived upon.metagenomic studiesit is anticipated that the large-scale systems biology approaches will dominate the future landscape of studies to examine the hostpathogenmicrobiome interactions.
+
+however in order for there to be a deeper understanding of the changes in the microbiome and what factors are import- ant in the changes of the microbiome large scale controlledpathogen challenge studies are the most controlled studies to complete with the greatest likelihood of success of identification of the important features of the microbiome associated with td.
+
+through these types of studies there will be enough of a controlled system to begin to understand the interactions of the host pathogen and microbiota however there are still limitations to the controlled challenge studies.
+
+however these challenge studies have been completed on a relatively small number of subjects and larger studies are required to generate sufficient data for more conclusive findings.
+
+email accepted 24 february 2017abstractthe study of bacterial pathogens has advanced from culture on plates to basic biochemical studies to sequencing reference genomes and attempting to ascribe those qualities to the whole species to evaluating complete commun- ities based on the universal marker of the 16s rrna gene to now sequencing all available nucleic acids in any sam- ple to characterize the community as a whole.
+
+there are a number of studies that will combine the study of td or- ganisms and the microbiome that are underway planned or are in the planning phases for the near future.in attempting to discuss the microbiome it is essential to first establish what types of analyses are going to be included how they differ and what can be determined with each type of data.
+
+the vast majority of studies on the microbiome today usethe prevalence of the universal marker gene for the 16s riboso- mal rna 16s rrna as a basis for comparison.
+
+the 16s rrna gene is present in all bacteria in at least one copy and there are extensive databases of these gene sequences for com- parison.-within the 16s rrna gene there are sequence re- gions that are highly conserved which allow for a universal set of primers to be used for amplification of the majority of the species and there are variable regions that can be used to distin- guish the species from each other.in past studies the whole rrna gene 2000 bp was amplified cloned sequenced and compared with ever growing databases.in recent years the ad- vent relatively inexpensive large-scale sequencing has opened the opportunity to examine greater numbers of these genes from complex mixtures.
+

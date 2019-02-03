@@ -1,0 +1,30 @@
+while thevast majority of phages could be grouped using this method eight isolates did not yield an amplicon using this pcr system employing either fresh lysate or extracted dna as template material discussed further below.three main criteria were used to select phages for sequencingi phages which did not return a pcr product using the above mentioned phage grouping pcr and which were therefore considered novel ii persistence andor prevalence as determined by similar phages being isolated persistently from the same dairy factories or phages infecting two or more distincts.
+
+thermophilus phages duplessis and moineau 2001. the expanding genetic diversity of s. thermophilus phages is further highlighted by the recent discovery of the so-called 987 group phages mcdonnell et al.
+
+2008. recently the genome sequences of further phages exhibiting similarity to 5093 as well as two additional phages exhibiting similarity to p335 group l. lactis phages have been determined szymczak et al.
+
+for the purpose of this study the results and discussion thereof below pertain to the subset of 40 phages whose genomes were sequenced unless otherwise indicated.as indicated in table 1 cos-containing phages were the most frequently detected phage group both in the 120-phage collection as a whole as well as within the selected 40 phages a dominance also observed--though to varying degrees-- in previously analyzed phage collections zago et al.
+
+the complete nucleotide sequences of a total of 26 cos-containing phages 10 pac-containing phage and four 5093 group phages were determined with the genomes of the four 987 group phages presented elsewhere mcdonnell et al.
+
+2014.panvirome analysisa pan-genome analysis of all phages pan-virome sequenced in this study the 987 group phages as well as 13 previously sequenced and publically available s. thermophilus phage genomes was conducted as described in the methods section the results of which are shown in figure 4. the exponential values of each analysis figures 4a-d inset indicate that at least in the case of the cos-containing pac-containing and 987 groups sequencing of additional genomes of phages in these groups may not lead to a significant increase in known genetic diversity.
+
+our data more than triples the currently available genomic information on s. thermophilus phages being of significant value to the dairy industry where genetic knowledge of lytic phages is crucial for phage detection and monitoring purposes.
+
+studies of this nature therefore not only provide information on the prevalence and associated threat of known s. thermophilus phages but may also uncover newly emerging and genomically distinct phages infecting this dairy starter bacterium.keywords panvirome methyltransferase transcriptional regulator structural proteome antireceptorintroductionthe problem of phage predation of streptococcus thermophilus in the dairy industry has been well described caldwell et al.
+
+2014 the amount of publicly released genetic data relating to lytic phages of s. thermophilus remains rather limited.to date the complete genomes of 20 phages infectings.
+
+2006. two primer sets each with a target in the 987 and 5093 group phages were added to the pcr reaction in addition to the two previously described primer sets targeting cos- and pac-containing phages table 2. pcr reactions were conducted in a total volume of 25 ul using taq polymerase qiagen hilden germany.
+
+the host on which they were originally propagated host and one further strain--with a small number of phages infecting between three and six s. thermophilus strains--thus overall revealing a narrow host range data not shown which is consistent with previous observations for phages infecting this species binetti et al.
+
+phage 0092 is a member of the 5093 group whose morphology differs from the cos- and pac- containing group phages in that the tail tips are characterized by globular features that protrude from the base of the tail figure 2c indicated by an arrow.phage genome featuresthe general characteristics of the sequenced phage genomes are given in table 1 with predicted orf schematics of representative phages displayed in figure 3. an overall comparative analysis of all 40 genomes based on percent nucleotide identity as well as divergence score is provided in supplementary figure s1.
+
+2000 brussow and desiere 2001 the former being detected most frequently in phages in the present study present in 27 out of 40 examined phages which is consistent with previous studies desiere et al.
+
+phages sequenced as part of this study are compared to previously sequenced cos-containing phages 7201 and abc2 pac-containing phage 2972 and 5093 type phage 5093 for illustrative purposes.protein content le marrec et al.
+
+2002 as is the case in a number of phages sequenced in this study table 1. in a similar fashion recently described bacterial rect-encoding genes have been associated with genes encoding putative exonuclease genes and this modular combination was also observed on the genomes of four phages sequenced in the present study datta et al.
+

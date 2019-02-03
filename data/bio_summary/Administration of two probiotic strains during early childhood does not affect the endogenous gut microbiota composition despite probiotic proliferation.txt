@@ -1,0 +1,30 @@
+exclusion of subjects known to have consumed infant formula containing any type of probiotics at any given point during the intervention yielded similar results.quantification of probiotic strains in fecal samplesdesign of primers specifically targeting the probiotics lggr and bb-12r additional file figure s3 allowed qpcr based quantification of these strains in the samples obtained after intervention.
+
+otu abundances were estimated by total sum scaling.detection of the probiotic strains bb-12r and lggrprimer design pcr and gel electrophoresisprimers specific for the probiotic strains were designed using the primer3 online software tool  0. selection of primers for the lggr strain were based on a phage-related gene target sequence  previously reported to be strain specific  whereas primers for the bb-12r strain were selected within the crispr-cas system specifically the type i-u crispr- cas7 gene in bb-12r for primer sequences see additional file table s1.
+
+lactis and l. rhamnosus strains respectively table testing for differential abundances at family and genus levels revealed only lactobacillaceaelactobacillus as significantly higher in the probiotics group than in the placebo group fdr adjusted p-valuefamily  3.9 x 10-14 fdr adjusted p-valuegenus  9.1 x 10-14 reflecting the increased abundance of the lggr strain in the probiotics grouptable 2 otus significantly differentially abundant in probiotics n  103 vs. placebo n  98fig.
+
+finally no differentially abundant otus were detected in this comparisonadditional file table s4  table s5 indicating that the composition of the endogenous microbiota was not affected despite proliferation of the probiotic strains in the infant gut.discussionthe bacterial strains lggr and bb-12r represent some of the most commonly applied commercially available probiotics and studies of their putative effects are there- fore highly relevant.
+
+data were analyzed with the lightcyclerr 480 software v 1.5 and levels of the strains lggr and bb-12r in samples were quantified based on standard curves generatedfrom extracted community dna of fecal samples spiked with 10-fold serial diluted dna extracted from pure cul- tures of lggr or bb-12r.
+
+although our assessment may have underestimated the number of samples characterized by proliferation of the ingested probiotics the selected samples with excre- tionintake ratios above 1 represent the most extreme ex- amples and would be expected to have shown an impact on gut microbiota composition if this had been affected.conclusionwe show that alteration of the early life gut microbial community was not achieved by oral administration of lggr and bb-12r despite proliferation of the ingested probiotics in the infant intestine.
+
+within the probiotics group proliferation of the strains lggr and bb-12r in the gut was detected in 44.7 and 83.5 of the participants respectively.
+
+a sub-analysis of the gut microbiotaincluding only individuals with detected growth of the probiotics lggr or bb-12r and comparing these to placebo revealed no differences in community structure or diversity.conclusion six months of probiotic administration during early life did not change gut microbiota community structure or diversity despite active proliferation of the administered probiotic strains.
+
+however while the lggr strain specific primers produced an amplicon in only 2.0 of the individuals receiving placebo the bb-12r strain primers which are subspecies-specific but not strain-specific additional file figure s3 amplified a target in 31.1 of the placebo treated infants table  suggesting an endogenous occurrence oftable 3 qpcr detection of the probiotic strains in the probiotics and placebo treatment groupsb.
+
+for the lggr strain a ratio above 1 was observed in 46 of the 103 infants 44.7 treated with probiotics resulting in a median excretionin- take ratio of 0.9. noteworthy all infants with a lggr ratio above 1 also had a bb-12r ratio above 1 fig.
+
+for example a previous inter- vention study with the probiotic strains bb-12r lggr and l. acidophilus la-5r given to pregnant women from the 36th gestation week until 3-months post-partumaddressed gut microbiota development in the offspring at ages 10d 3 m 1y and 2y while significant mother-to-infant transmission of lggr but not of bb- 12r or la-5r is reported no effects on infant gut microbiota composition or diversity were found   which is in line with our findings.
+
+template dna was either 10-fold serial dilu- tions of 1 ngml dna extracted from pure cultures of lggr or bb-12r community dna isolated from fecal samples lggrbb-12r negative spiked with 10-fold serial dilutions of lggr or bb-12r cultures or community dna 5 ngml extracted from fecal samples obtained during the interven- tion.
+
+however neither alpha di- versity measures nor relative abundances of individual microbial taxa at baseline correlated with the qpcr de- tected abundances of the administered probiotics mea- sured at the end of the intervention data not shown.estimation of probiotic proliferation in the infant gutin order to estimate whether or not the probiotic strains were proliferating in the gut we determined the ratios between fecal excretion and oral intake of the two probiotic strains based on specific qpcr measurements for infants in the probiotic group.
+
+therefore alteration of the healthy infant gut microbiota is not likely to be a prominent mechanism by which these specific probiotics works to exert beneficial effects on host health.trial registration registered 30 june 2014.keywords probiotic intervention lggr bb-12r early life gut microbiota correspondence 1national food institute technical university of denmark kemitorvet dk-2800 lyngby denmarkfull list of author information is available at the end of the articlec the authors.
+
+during the 6 months inter- vention period participants were randomized to receive either a combination of the two probiotics bb-12r and lggr at a dose of 109 colony-forming units cfu each or a placebo maltodextrin during the winter season.
+

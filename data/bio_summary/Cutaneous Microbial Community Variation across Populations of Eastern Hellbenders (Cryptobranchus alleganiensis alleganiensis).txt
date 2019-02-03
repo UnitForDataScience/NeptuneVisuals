@@ -1,0 +1,30 @@
+with respect to the proportion of shared otus between individuals and river water hellbenders from the ohio river drainage mean sd 0.29 0.12 shared a higher proportion of otus with the river water compared to hellbenders from the tennessee river drainage mean sd0.16 0.10 lrt 6.00 p 0.014. finally we found significant differences among sampling localities in the proportion of shared otus between river water and the skin from post hoc multiple comparisons .metacommunity analysisthe fixed-proportional null model in the ems analysis revealed that the hellbender cutaneous bacterial metacommunities displayed positive coherence absences 44120 simulated mean 52216 668.0 p  0.001 and positive turnover replacements6764076 simulated mean 552825.38 205075.34 p  0.001.in addition we found significant positive boundary clumping in the distribution of otus morisita's index 72.41 p  0.001 df 1642. together these three values indicate a clementisan pattern in skin microbial metacommunities throughout the eastern hellbender range.
+
+therefore expanding characterization of the microbiome across distinct environments may be beneficial to observe whether the microbiome truly diverges between these two subspecies.considerations for hellbender conservationpatterns of symbiont distribution in eastern hellbender skin metacommunities can inform current conservation management.
+
+future work should focus on investigating forces shaping microbiome structure in eastern hellbenders examining functional variation among populations and evaluating effectiveness of microbiome management recommendations.keywords community ecology host-associated bacteria metacommunity amphibian conservation range-wideintroductionin animal and plant systems symbiont microbes provide important functional services to host physiological processes including immune system activation metabolic regulation energy uptake tissue differentiation and pathogen defense        .
+
+thus characterizing skin microbiome turnover among individual communities throughout the range of the eastern hellbendermay benefit current conservation approaches by providing an additional guide for translocations.we implemented culture-independent microbiome characterization methods to identify cutaneous bacterial communities on the skin of eastern hellbenders and river water.
+
+methods 7 335-336. chang j. y. antonopoulos d. a. kalra a. tonelli a. khalife w. t. schmidt t. m. et al.
+
+72 5069-5072. edgar r. c. 2010. search and clustering orders of magnitude faster than blast.bioinformatics 26 2460-2461. ettling j. a. wanner m. d. schuette c. d. armstrong s. l. pedigo a. s. and briggler j. t. 2013. captive reproduction and husbandry of adult ozark hellbenders cryptobranchus alleganiensis bishopi.
+
+22 544-554. leibold m. a. holyoak m. mouquet n. amarasekare p. chase j. m. hoopesm.
+
+to provide a more comprehensive understanding of the microbiome's significance for hosts knowing the relative importance of local and regional processes in driving microbiome heterogeneity is key.the amphibian skin microbiome plays an important role in resistance against pathogens  .
+
+considering variation in the hellbender skin microbiome might be useful to evaluate loss of immunocompetence in the easternhellbender's sister subspecies the ozark hellbender.
+
+thus incorporating functional characterization in future assessments of hellbender skin will be useful to evaluate how otu turnover influences important functional traits such as pathogen defenseor community resistance to anthropogenic activities   .skin community compositional differencesimplementing a phylogenetic based dissimilarity index to characterize beta diversity among hellbender skin communities allowed us to assess bacterial lineage turnover.
+
+large-scale variation isformed by symbiont turnover among hellbender populations in response to differences in local processes.eastern hellbenders occupy a large range that encompasses broad variation in environmental factors e.g.
+
+while we lacked an environmental component we still implemented community structure patterns to draw conservative inferences regarding possible functional variation within the microbiome of this salamander.variation in skin community richnessdiversitywe observed higher skin bacterial community richness in hellbenders from the ohio river drainage compared to hellbenders from the tennessee river drainage.
+
+in fact divergent community composition has been documented between the skin microbiome of captive and wild hellbenders in missouri hernandez-gomez unpublished data and among other amphibians      .
+
+ecography 37 402-405. daszak p. berger l. cunningham a. a. hyatt a. d. green d. e. and speare r. 1999. emerging infectious diseases and amphibian population declines.
+
+rep. 4 1-9. lokmer a. and wegner k. m. 2015. hemolymph microbiome of pacific oysters in response to temperature temperature stress and infection.
+

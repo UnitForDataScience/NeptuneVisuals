@@ -1,0 +1,30 @@
+oral supplementation with a. muciniphila after fmt with nonresponder feces restored the efficacy of pd-1 blockade in an interleukin-12- dependent manner by increasing the recruitment of ccr9cxcr3cd4 t lymphocytes into mouse tumor beds.cmunotherapies targeting pd-l1 or cytotoxic t lymphocyte-associated protein 4 ctla-4 16-21. therefore we explored the possibility that dysbiosis associated with malignant disease or concomitant antibiotic atb use could influ- ence primary resistance to pd-1 blockade in tumor- bearing mice and cancer patients.initially we compared the therapeutic efficacy of pd-1 mab alone or combined with ctla-4 mab in mice with established mca-205 sarcoma and ret melanoma.
+
+s1a to c. in univariate and mul- tivariate cox regression analyses atb repre- sented a predictor of resistance to pd-1 blockadeancer immunotherapy has become highly successful against an array of distinct hem- atological and solid metastatic malignancies 1-6. administration of immune checkpoint inhibitors icis unleashes t lymphocyte- mediated immune responses by suppressing the interaction of t cell inhibitory receptors with their cognate ligands on tumor or stromal cells 7. the most widely used icis are monoclonal antibodies mabs targeting programmed cell death protein 1 pd-1 and its ligand pd-l1 7. pd-1 blockade is highly efficacious against advanced melanoma non-small cell lung cancer nsclc and renalcell carcinoma rcc.
+
+a and b atb-induced dysbiosis was restored by oral administration of a. muciniphila akkermansia alone or combined with enterococcus hirae 13144 e. hirae to recipient mice receiving pd-1 mab.commensals and pd-1 mab regimens were administered five times every 3 days against ret melanomas a and four times in luciferase-expressingorthotopic llc non-small cell lung cancers treated or not with radiotherapy plus pd-1 mab b. c means - sem of tumor sizes at time of killing in mice exhibiting nr fmt-induced dysbiosis and compensated with a. muciniphila alone or combined with e. hirae also refer to fig.
+
+these findings could be corroborated by fmt from seven rcc patients into atb-treated balbc mice that were then orthotopically implanted with luciferase-expressing renal cancer renca cells resistant to pd-1 monotherapy and treated with a combination of ctla-4 and pd-1 mabs fig.
+
+second we used an orthotopic luciferase- expressing lewis lung carcinoma llc model amenable to combination treatment by local ra- diotherapy and pd-1 blockade 26. again oral gavages with a. muciniphila and e. hirae in- creased the efficacy of pd-1 blockade with respect to tumor growth as measured by whole-body imaging fig.
+
+fecal microbiota transplantation fmt from cancer patients who responded to icis into germ-free or antibiotic-treated mice ameliorated the antitumor effects of pd-1 blockade whereasfmt from nonresponding patients failed to do so.
+
+atb treatment significantly compro- mised the antitumor effects and survival of mice treated with pd-1 mab alone or in combination with ctla-4 mab fig.
+
+g.k.to explore the composition of the gut micro- biota we used quantitative metagenomics by shotgun sequencing reaching 20 million short dna sequence reads per sample followed by analysis of the results in a reference catalog of9.9 million genes 24. total dna was extracted from 100 patients diagnosed with nsclc n 60 and rcc n  40 before starting therapy and20015010050iso ctrl water apd-1atb iso ctrlapd-1ns 300200100serially after pd-1 blockade tables s10 to s13.
+
+these findings show that a. muciniphila was overrepresented at diagnosis in the feces of patients who later benefited from pd-1 inhibition.in an attempt to link gut microbial content to systemic immune tone we analyzed memory t cell responses from peripheral blood elicitedfig.
+
+1. antibiotics compromise the efficacy of pd-1 blockade in mouse tumor models and cancer patients.
+
+a tumor growth kinetics of ret melanoma left and mca-205 sarcoma in mice right treated with four injections of pd-1 clone rmp1-14 mab apd-1 or isotype control mab iso ctrl in the presence or absence of broad-spectrum antibiotics atb.
+
+b survival curves of ret-bearing mice left andmca-205-bearing mice right treated with pd-1 mab combined with ctla-4 mabs.
+
+2. metagenomic analysis of fecal samples predicts response at 3 months of pd-1 mab treatment in cancer patients.
+
+e and f circulating memory tcell immune responses directed against commensals detected during pd-1 blockade and evaluation of the time to progression.
+
+b representative10mca-205 tumor growth curves after fmt fromnsclc patients into germ-free left or atb-0  100 95908580 treated mice right during therapy with pd-1 mab.c means - sem of tumor sizes after iso ctrl mab left or after pd1 mab center and right in mca- 205-bearing spf-reared mice treated with atb and then receiving fmt from eight nsclc patientsapd-1 fmt-- nrrapd-1 apd-1 -- fmtnrrn 4 nr n  4 r before pd1 mab.
+

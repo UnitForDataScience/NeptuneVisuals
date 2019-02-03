@@ -1,0 +1,30 @@
+data for 't-bet-independent' rag1-- mice are from 5.of the th1 lineage-determining transcription factor t-bet by the th cells 5-9. here we show that the recipient's intestinal microbiota determines whether t-bet-deficient th cells can induce colitis.results and discussionrecipient hygiene status determines colitis-inducing potential of t-bet-deficient th cellswhen transferring cd4cd45rbhicd25- th cells into rag1-- recipients derived from the jackson laboratory usa and bred at a charles river facility sulzfeld germany wt but not t-bet-deficient th cells induced colitis fig.
+
+1 were deter- mined by 16s rdna sequencing for n 5 't-bet-dependent' rag1-- mice and n 3 't-bet-independent' rag1-- mice from reference 29 before 'healthy' and after 'colitis' transfer of wt th cells 't-bet-dependent' rag1-- day 40 't-bet-independent' rag1-- day 12-15. a and c lin- ear discriminant analysis lda scores of taxa significantly enriched in 't-bet-dependent' green or 't-bet-independent' red microbiomes a - healthy c - colitis.
+
+2.we have previously described that t-bet-deficient th cells orchestrate a different inflammatory reaction compared with wt with reduced numbers of monocytes and macrophages but increased numbers of eosinophils in the colon of 't-bet-independent' rag1-- recipients 5. in 't-bet-dependent' rag1--recipients t-bet-deficient th cells induced colitis with strongly reduced numbers of monocytes macrophages and neutrophils but similar numbers of eosinophils compared with wt th cells supporting information fig.
+
+cd4cd45rbhicd25- wt or tbx21-- cd4 t cells were transferred into rag1-- recipients directly from charles river 't-bet-dependent' rag1-- or after colonization with fecal microbiota from the drfz animal colony 't-bet-independent' rag1--.
+
+5.in 't-bet-dependent' rag1-- mice the frequency of t-bet- deficient ror-gt-expressing th cells was strongly increased com- pared with wt but remained below the frequency of ror-gtt-bet-deficient th cells in 't-bet-independent' rag1-- recipients fig.
+
+1g h. 't-bet-dependent' rag1-- recip- ients had reduced frequencies of ifn-gil-17a double-positive t-bet-deficient th cells when compared with 't-bet-independent' rag1-- recipients fig.
+
+however whether sfbdetermine susceptibility to colitis induced by t-bet-deficient th cells remains elusive and seems unlikely given our previous obser- vations of a protective function of il-17 in colitis induced by both wt and t-bet-deficient th cells 5.based on the significant differences in microbiota composi- tion between 't-bet-dependent' and 't-bet-independent' rag1-- recipients we analyzed possible functional differences of the two microbiomes using picrust phylogenetic investigation of com-munities by reconstruction of unobserved states 16. the two microbiomes were predicted to differ strongly in the representa- tion of metabolic pathways fig.
+
+when instead rag1-- recipients were transplanted with fecal microbiota from the drfz berlin animalfacility prior to t cell transfer t-bet-deficient th cells induced colitis comparable to wt th cells fig.
+
+5. in 't-bet-dependent' rag1-- recipients absolute numbers of t-bet-deficient th cells were 8-times lower compared with wt th cells fig.
+
+these observations contrast the results obtained with 't-bet-independent' rag1-- recipients in which absolute numbers of t-bet-deficient th cells reached approxi- mately 50 of the wt level and ki-67 expression was similar between wt and t-bet-deficient th cells fig.
+
+in non-permissive rag1--recipients t-bet-deficient th cells had reduced proliferative activity and diminished differentiation towards ifn-gil-17a th cells.
+
+it has been shown previously that microbiota-induced t cell proliferation is required for colitis development in this model 22.t-bet expression seems to overcome the reduced t cell stimulation by certain bacteria which supports a previously described role for t-bet in enhancing t cell proliferation 23.moreover the permissive microbiota apparently promotes dif- ferentiation of t-bet-deficient th cells into ifn-gil-17a th cells offering another possible mechanism why t-bet-deficient th cells fail to induce colitis in 't-bet-dependent' recipients.
+
+a representative hematoxylin-eosin staining of the colon on day 40-44 't-bet-dependent' rag1-- and day 18 't-bet-independent' rag1-- bars are 100 mm.
+
+whereas 't-bet-dependent' rag-- recipients were specifically enriched in marvinbryantia and clostridium cluster xivb 't-bet-independent' rag-- mice revealed an increase in many different taxa includ- ing those previously implicated in intestinal inflammation such as prevotella and bacteroides 12 13 fig.
+
+these findings not only suggest that human ibd pathophysiology may be highly individual and microbiota- dependent but also again stress the importance of standardizing the microbiota in animal experiments.micec57bl6j rag1-- and tbx21-- mice were housed and bred under specific pathogen-free conditions in individually ventilated cages.
+

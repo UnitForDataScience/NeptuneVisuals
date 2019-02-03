@@ -1,0 +1,30 @@
+research articledifferences of lung microbiome in patients with clinically stable and exacerbated bronchiectasismin kwang byun1 joon chang2 hyung jung kim1 seok hoon jeong31 division of pulmonology department of internal medicine gangnam severance hospital yonsei university college of medicine seoul korea 2 division of pulmonology department of internal medicine severance hospital yonsei university college of medicine seoul korea 3 department of laboratory medicine and research institute of bacterial resistance gangnam severance hospital yonsei university college of medicine seoul korea abstractopen accesscitation byun mk chang j kim hj jeong sh 2017 differences of lung microbiome in patients with clinically stable and exacerbated bronchiectasis.
+
+using culture-independent dna-based molecular techniques the aim of the present study was to characterize differentiate and compare the composition of lower airway bacterial microbiome between clinically stable and acutely infected patients with bronchiectasis experiencing exacerbation.methodspatients with clinically stable bronchiectasis and those experiencing acutely exacerbated bronchiectasis were recruited.
+
+alpha diversity with richness simpson's and shannon indices and beta diversity using principal coordinate analysis revealed no significant differences in lung microbiome between patients with clinically stable and exacerbated bronchiectasis.competing interests the authors have declared that no competing interests exist.conclusionculture-based microbiological and molecular-based techniques did not reveal significant dif- ferences in the lung microbiome of patients who were clinically stable and those experienc- ing exacerbated bronchiectasis.
+
+beta-diversity was visualized using bray-curtis dissimilarity analysis.resultsdemographics of patients with stable and acutely exacerbated bronchiectasisa total of 17 patients were enrolled in this study 9 had clinically stable bronchiectasis and 8 had acutely exacerbated bronchiectasis.
+
+abbreviations bal bronchoalveolar lavage rrna ribosomal ribonucleic acid st stable bronchiectasis ex exacerbated bronchiectasis number of observed bacterial sequences from 14 bal samples.abbreviations bal bronchoalveolar lavage rrna ribosomal rna st stable bronchiectasis ex exacerbated bronchiectasissimilar compositions.
+
+furthermore of the 167 otus nine accounted for 90 of the total sequences generated indicating that the majority of the observed community richness resulted from low abundance taxa.community compositions of the major identified bacterial genus in pooled sequencesshows the relative abundance of community composition from identified bacterial genus in each patient with stable bronchiectasis n  8 and exacerbated bronchiectasis n  6. the pooled community composition between stable n  8 and exacerbated n  6 bronchiectasis was compared to determine whether clinical status affected community composition.
+
+similar patterns of genus distribution were observed in the stable and exacerbated bronchiectasis groups.there was no significant difference in microbial community diversity between the two groups .comparison of microbial community structure between stable and exacerbated bronchiectasis groupsto estimate the distance between communities beta diversity was analyzed using pcoa plots.
+
+16s rrna gene sequencing yielded similar relative abundances and distributions of taxa in the stable and exacerbated bronchiectasis groups.
+
+despite the importance of the microbe- host relationship in the pathogenesis and progression of infectious diseases these approaches have not been applied to define the lung microbiome in patients with bronchiectasis.the aim of this study therefore was to characterize differentiate and compare the compo- sition of lower airway bacterial microbiome between clinically stable patients with bronchiec- tasis and acutely infected patients with bronchiectasis experiencing an exacerbation using culture-independent dna-based molecular techniques.
+
+comparing bacterial diversity and abundance between patients with stable and acutely exacerbated bronchiectasis may lead to improved understanding of the clinical significance of acute exacerbations in patients with bronchiectasis.
+
+patients with bronchi- ectasis were recruited during a stable phase of their disease defined as no exacerbation or antibiotic treatment in the previous 4 weeks.
+
+the total distances were compared within and between individuals with stable and exacerbated bronchiectasis.
+
+in the dna sequencing process one bal sample was excluded because the dna was not sufficiently extracted two bal samples were excluded because the total number of reads was too low.finally 14 bal samples were included in the analysis 8 samples were obtained from patients with clinically stable bronchiectasis and 6 were collected from patients with acutely exacer- bated bronchiectasis.
+
+age and sex were not significantly different between the stable and exacer- bated bronchiectasis groups.the causes of bronchiectasis were unknown in most patients.
+
+common comorbid diseases included chronic obstructive pulmonary demographics of stable and acutely exacerbated patients with non-cf bronchiectasis.all data are expressed as mean - sd except for sex.
+

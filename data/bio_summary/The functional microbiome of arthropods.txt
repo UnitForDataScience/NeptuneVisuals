@@ -1,0 +1,30 @@
+the conserved pattern of metabolic traits across proteobacteria reveal common functions to thrive in arthropod guts and may also indicate stages in the evolution of the functional core in the microbiome of terrestrial animals.results and discussiona novel visualization of bacterial distribution in the microbiome of arthropodsseveral studies reporting microbiomes of arthropods - have been evaluated extracting an assembly of nearly 500 taxa of proteobacteria predominantly at the genus level of taxonomy but including also uncultured bacteria preliminarily classified at the family or order level  figs - and tables.cumulatively these organisms represent one third of the proteobacterial genera currently listed in ncbi repositories .
+
+in contrast group b of gamma proteobacteria is not significantly different from group a of alpha proteobacteria as well as to the functional groups of beta proteobacteria cf.
+
+the complementary data from soil samples of nematode worms  have been combined with those of other studies of soil microbiomes  and inserted at the beginning of the list of proteobacteria to frame their distribution within the microbial communities of terrestrial envi- ronments soils column in figs   and .figs -show the distribution of alpha proteobacteria in the microbiome of soils c.elegans and 18 arthropods.
+
+how- ever we note that the following taxa are found in arthropods but not in soils or worms many rhodobacterales among alpha proteobacteria  most pasteurellales vibrionales and alteromonadales among gamma proteobacteria  and several non-predatory deltapro- teobacteria .
+
+we discuss here the possible mechanisms of functional adaptation to the gut environment of arthropods.metabolic traits define the functional profile of the microbiome of arthropodsto verify whether the taxonomic clusters of proteobacteria found in the microbiome of arthro- pods e.g.
+
+conversely the predominantly anaerobic delta and epsilon proteobacteria which are scarcely present in soils and other terrestrial environments  are poorly represented in the microbiome of spiders  and isopods  and absent in the microbiome of scorpions .
+
+on the table lists the microbiomes examined in this paper and the display items in which they appear.the column numbers refer to those of figs and .number of proteobacterial taxa after filtering undertaken as described in the methods.visualization of the taxonomic distribution and metabolic traits of alpha proteobacteria in the microbiome of soils c. elegans and 18 arthropods.
+
+taxa of gamma proteobacteria in the microbiome of soils andinvertebrates were organized as in .
+
+taxa of beta proteobacteria in the microbiome of soils and invertebrates were organized as in .
+
+taxa of delta and epsilon proteobacteria in the microbiome of soils and invertebrates wereorganized as in .
+
+the listing of microbiome taxa was organized in rows that followed as close as possible the sequence derived from detailed phylogenetic analysis from late diverging down to deep branching organisms in each class of proteobacteria.
+
+the same appears to apply also to the functional profile of delta proteobacteria which shows only a single defined functional group labelled c in because it includes deep branching taxa as in group c of other proteobacterial classes .the discrete functional groups we found in the bacteria of arthropods' microbiomes pivot on taxa that have the documented presence of the low potential quinones menaquinone and rhodoquinone mq and rq coloured in orange in figs and  or possess key enzymes for mq biosynthesis -.
+
+complementary information on functional traits was taken from bergey's manual .statistical analysis of datavarious approaches have been followed to evaluate beta diversity  and verify the statistical strength of the clustering of taxa and functional groups in the microbiome of arthropods.given that checkerboard analysis by random permutation was not applicable to our data because the rows of the distribution of taxa have been fixed by the abovementioned phyloge- netic analysis we undertook non parametric tests applied to sub-sections of the distribution tables after their conversion in binary matrices with presence even partial of a metabolic trait  1 and absence  0 cf.
+
+each column representing the microbiome of specific arthropods as described in see also  is split in two to visualize the distribution and abundance of the bac- terial taxa organized as in and rendered in black and gray for high and low abundance respectively and the cumulative number of taxa within functional group c in each proteobac- terial class in orange.
+
+these functional groups are boxed with solid lines that encompass the distribution of taxa in part a. note that the taxonomic clusters within sphingomonadales and rickettsiales do not correspond to any group of metabolic traits.the other hand the majority of the proteobacterial taxa commonly found in the microbiomes of arthropods correspond to taxa that are present in soil microbiomes part a in figs - suggest- ing an environmental origin consistent with previous insights .
+

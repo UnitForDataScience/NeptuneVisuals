@@ -1,0 +1,30 @@
+given the marked dif- ferences of microbiota between c57bl6j-mtfvbnj and the two other mouse strains we next characterized c57bl6j-mtfvbnj mice which carry a mutation in the mitochondrially-encoded atp synthase 8 gene mt-atp8 with respect to their general and cellular metabolic phenotypes.using a separate cohort of mice than those included in the gut microbiota analysis we first weighed c57bl6j-mtfvbnj and c57bl6j mice at 3 6 12 18 and 24 months of age.
+
+none of the three strains significantly differ in alpha diversity padj 0.05 mann-whitney u tests.next to characterize diversity between strains beta diversity was analyzed using the unweighted unifracdistance metric revealing significant differences between strains kruskal-wallis test p  0.0252. applying a post-hoc test identified significant differences in beta diversity between c57bl6j and c57bl6j-mtfvbnj as well as between c57bl6j-mtfvbnj and c57bl6j-mtnzbblnj mice dunn test p  0.0144 and p  0.0276 respectively.
+
+however significant strain-dependent differences were also apparent characterized by c57bl6j mice differing from c57bl6j-mtfvbnj mice in the abundance of bacteroidetes deferribacteres firmicutes proteobacteria and tenericutes mann-whitney u test padj 0.05 and from c57bl6j-mtnzbblnj mice in the abundance of deferribacteres and tenericutes padj  0.05. the c57bl6j-mtfvbnj and c57bl6j-mtnzbblnj strains on the other hand did not show any significant differences in phylum abundances.
+
+intriguingly c57bl6j-mtfvbnj with their single mutation in the mt-atp8 gene display the greatest level of differentiation in their gut microbiota compared to c57bl6j and c57bl6j-mtnzbblnj pointing towards a major role of mitochondrial atp synthase 8 in shaping the gut microbiota.resultshigh strain-dependent diversity of the gut microbiota diverse in conplastic mouse strains.
+
+recently it was found that a shift in intestinal microbiota cor- related with expression of a panel of mitochondrial proteins in crohn's disease patients indicating that cross-talk between the microbiota and host mitochondria may be an important factor in disease pathology.bacterial taxa whose abundance varies according to the conplastic strains investigated represent candidatesfor involvement in mitochondrial bioenergetic functions.
+
+while the two strains displayed an equal respiratory exchange ratio rer energy expenditure and food and water intake c57bl6j-mtfvbnj mice were significantly less active than c57bl6j0.420.210.00-0.2-1-0.4c57bl6j c57bl6j-mt fvbnjc57bl6j-mt nzbblnjc57bl6j c57bl6j-mt fvbnj-2c57bl6j-mt nzbblnj-0.4-0.20.00.20.4-1.6-0.80.00.81.6axis.1 9.6cap1 4.7figure 2. beta diversity of gut microbiota in conplastic strains.
+
+c57bl6j and c57bl6j-mtfvbnj mice also significantly differed in the ratio of firmicutes to bacteroidetes p  0.0230 kruskal-wallis test dunn test padj 0.0111 which was higher in c57bl6j-mtfvbnj mice than in c57bl6j mice fig.
+
+since common inbred mouse strains demonstrate unique mitochondrial genomes-and the mitochondria are strictly maternally inherited we systematically generated conplastic strains carrying mostly single mutations in mtdna with a c57bl6j nuclear background by repeatedly back- crossing female mitochondrial-donor strains with male c57bl6j mice over 12 generations.
+
+c57bl6j mice significantly differed from c57bl6j-mtfvbnj mice in the abundance of anaeroplasmataceae bacteroidales s24-7 group deferribacteraceae desulfovibrionaceae and helicobacteraceae mwu-test padj 0.05 and from c57bl6j-mtnzbblnj mice in anaeroplasmataceae padj 0.0468 supplementary table s1.
+
+to evaluate the impact of mtdna mutations on the gut microbiota we analyzed 48 individuals from three conplastic mouse strains c57bl6j c57bl6j-mtfvbnj and c57bl6j-mtnzbblnj n  16strain using 16s rrna gene amplicon sequencing v1-v2 region on the illumina miseq.
+
+this limitation is in part due to the parallel impact of the highly variable nuclear genome on the composition of the gut microbiota making it difficult to reveal the effect of mitochondrial polymorphism.this obstacle can be circumvented by the use of conplastic mouse strains which all share the same nuclear genome but differ in their mtdna.
+
+for this purpose we selected two conplastic strains c57bl6j-mtfvbnj which carries a mutation m.7778 g t in the mitochondrial atp synthase 8 gene mt-atp8 as a representative of a conplastic strain carrying a single mtdna mutation and the c57bl6j-mtnzbblnj strain which carries multiple mutations in the mtdna and compared the composition of their gut microbial commu- nities to those of the native c57bl6j strain.accordingly this strategy unveils a number of strain-specific differences in gut bacterial communities with respect to mtdna mutations.
+
+using this approach we discovered a significant difference in beta diversity between strains adonis p  0.001 r2  0.1168 and sexes p  0.001 r2  0.0376. we also verified an interaction between strain and sex p  0.002 r2  0.0614.to further detail the differences in the microbiota of the three strains we conducted a principle coordinateanalysis pcoa.
+
+these data indicate that the mutation in mt-atp8 impairs mitochondrial oxidative phosphorylation and consequently reduces atp production which is in turn compensated by an enhanced level of glycolysis.notably there was no difference in the overall lifespan of c57bl6j-mtfvbnj and c57bl6j mice under normal housing condition supplementary fig.
+
+for each individual 12500 contigs were randomly selected and clustering sequences into operational taxonomic units otus yielded 4853 otus after excluding singletons see material and methods.at the level of phylum abundances the gut microbiota of conplastic mouse strains was similar to previ- ously described studies of c57bl6j mice with bacteroidetes being most abundant followed by firmicutes and proteobacteria table .
+

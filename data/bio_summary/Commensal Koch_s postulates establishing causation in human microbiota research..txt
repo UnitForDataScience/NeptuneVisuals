@@ -1,0 +1,30 @@
+several research teams including ours have nevertheless successfully confronted the cultivation issue for the human gut microbiota albeit with different methodological approaches and outcomes .in 2011 goodman and colleagues used 'high-throughput anaerobic culturing techniques' to generate a 'personal human gut microbiota culture collection' consisting of more than a thousand isolates from one adult human .
+
+whole genome sequences were generated for the 31 new bacterial species isolated.various successes and progress in culturing the human gut microbiota were published throughout 2016. we reported that a substantial proportion of the human gut microbiota 234 isolates equalling 134 species representing 90 of the bacterial abundance at species level could be cul- tured on a single bacteriological medium ycfa  these isolates and their whole genome sequences were deposited in publically accessible locations including several international culture collections and online data- bases respectively.
+
+more recently the importance of the commensal gut microbiota for human health has become apparent with key roles identified for commensals in normal physiological processes from metab- olism to immune development and function .studies that apply advanced computational analysis to high-throughput sequencing data from large patient cohorts or from gnotobiotic mouse models to identify bacteria associated with or enriched in disease demon- strate the utility and power of the in silico approach  nevertheless in response to the ever-mounting correla- tive evidence suggesting a health-promoting role for various commensal microorganisms we propose a variant of koch's postulates   that is intended to provide a conceptual framework for experimental valida- tion of the hypotheses inferred from genomic analysis of microbiomes.
+
+to overcome these limitations and to use models that are more relevant to the human situation researchers have been deriving gnotobiotic mice and animals with a human gut microbiota  and diet .
+
+at around the same time a number of novel enteric species were recovered by the culturomics approach and genome sequences were generated for many of them  general culturability of the gut microbiota lau and colleagues  developed culture conditions to target species of the lachnospiraceae family which comprise a significant unexplored proportion of the healthy human gut microbiota.
+
+scindens contributes to the amelioration of c. difficile disease in mice 29. the authors describe how the majority of the human gut microbiota canbe cultured using a single bacteriological medium thereby demonstrating that the gut microbiota is largely culturable.32.
+
+available online at sciencedirectcommensal koch's postulates establishing causation in human microbiota researchb anne neville samuel c forster3 1advances in high-throughput sequencing technologies and the development of sophisticated bioinformatics analysis methods algorithms and pipelines to handle the large amounts of data generated have driven the field of human microbiome research forward.
+
+this specialist knowledge has been crucial to thoroughly mine the human gut microbiota particularly in the absence of methods for the routine cultivation of most enteric microorganisms.
+
+in recent years however significant efforts have been made to address the 'great plate count anomaly' and to overcome the barriers to cultivation of the fastidious and mostly strictly anaerobic bacteria that reside in the human gut.
+
+these continually expanding resources enable experimental investigation of the human gut microbiota validation of hypotheses made with sequence- based analyses and phenotypic characterisation of its constituent microbes.
+
+these studies used defined mixtures of human or murine commensal bacteria to prevent c. difficile disease prophylactically in standard laboratory mice  or therapeutically to treat the highly contagious c. difficile supershedding state in spf mice  cases a single bacterium a lachnospiraceae isolate  orscindens  toms in gnotobiotic mice .
+
+the utility and limitations of the laboratory mouse for research on the human gut microbiota is also discussedthe authors use genome-guided design to define a mixture of bacteria derived from the mouse microbiota that reduced the salmonella enterica serovar typhimurium load in gnotobiotic mice post infection47.
+
+herein we propose a variant of koch's postulates aimed at providing a framework to establish causation in microbiome studies with a particular focus on demonstrating the health-promoting role of the commensal gut microbiota.addresses1 host-microbiota interactions laboratory wellcome trust sanger institute hinxton cb10 1sa uk2 centre for innate immunity and infectious diseases hudson institute ofmedical research clayton victoria 3168 australia 3 department of molecular and translational sciences monash university clayton victoria 3800 australiacorresponding author lawley trevor d historically microbiologists focused on the isolation and characterisation of food spoilage and disease causing microorganisms due to the inherent socio-economic and health impacts that motivated their investigation.
+
+d following treatment the health-promoting commensal can be detected in the host to which health was restored.technologies means that experimentally validated proof of causation now represents an achievable and necessary advancement in gut microbiota research.
+
+while loss of a commensal species may not cause disease outright it is possible that the loss of beneficial commensal species could be linked with a predisposition to disease.
+

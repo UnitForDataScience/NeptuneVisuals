@@ -1,0 +1,30 @@
+this analysis included microbiome and csf data from 9 ad group participants and 31 non-demented nd participants 10 from the control group and an additional 21 largely younger participants not selected in the original random matching with ad participants.
+
+correlations were calculated using data from the total group of 40 participants as well as separately for nd participants and ad participants.
+
+correlations were calculated separately for all 40 participants all 31 non-demented participants nd and 9 ad participants ad.
+
+notably in both more and less abundant genera the strongest correlations between bacterial abundance and csf ad biomarkers were in the same direction whether including only ad participants only healthy non-demented participants or all participants.
+
+thus increased abundance of gram-negative intestinal bac- teria such as bacteroides in participants with ad may result in increased translocation of lps from the gut to systemic circulation which in turn may contribute to or exacerbate ad pathology through inflammation or other mechanisms.additionally compared to control participants ad participants in our study exhibited decreased actinobacteria.
+
+participants with ad were diagnosed using the nindsadrda criteria and confirmed by a multidisciplinary consensus diagnostic panel.of the 119 participants recruited six non-demented participants were excluded from analyses due to antibiotic or probiotic use at the time of fecal sample collection that was not reported during initial screening.
+
+participants recruited from the wrap study were largely younger than those recruited from the adrc thus for our primary compositional analysis we age- and sex-matched the 25 ad participants 1-to-1 from the remaining 88 asymp- tomatic control participants using case-control matching in spss with an age tolerance of 4.5 years to create an equal-sized control group.
+
+for secondary csf correlational analysis we used microbiome and csf data from 9 ad cohort participants and 31 non-demented nd participants including 10 from the age- and sex-matched control cohort and an additional 21 largely younger participants not included in the primary analysis.fecal sample collection and bacterial 16s rrna sequencing and processing.
+
+gut microbiome compositional analysis was performed on fecal samples collected from home-dwelling participants with dementia due to ad n 25 and age- and sex-matched control participants n  25. table reports participant characteristics.
+
+d otus grouped at the phylum level and analyzed using metastats showthat ad participants have decreased abundance of firmicutes and actinobacteria and increased abundance of bacteroidetes compared to control participants p  0.05 fdr-corrected.
+
+within firmicutes the families ruminococcaceae turicibacteraceae peptostreptococcaceae clostridiaceae and mogibacteriaceae and the genera smb53 family clostridiaceae dialister clostridium turicibacter and cc115 family erysipelotrichaceae were all less abundant in ad participants while the family gemellaceae and the genera blautia phascolarctobacterium and gemella were more abundant in ad participants fig.
+
+and decreases in predicted gene content in kegg pathways related to signal transduc- tion and cell motility including bacterial chemotaxis pathways secretion systems bacterial motility proteins and two-component signal transduction systems.families less abundant in adruminococcaceaebifidobacteriaceaeclostridiaceaemogibacteriaceaeturicibacteraceaepeptostreptococcaceae5040302010control ad12.510.07.55.02.50.0control ad7.55.02.50.0control ad2.52.01.51.00.50.0control ad0.90.60.30.0control ad2.01.51.00.50.0control adfamilies more abundant in adbacteroidaceaerikenellaceaegemellaceae20151050control ad43210control ad0.030.020.010.00control adgenera less abundant in ad12.510.07.55.02.5bifidobacterium642smb53dialister321clostridium43210.90.60.3turicibacter0.200.150.100.05adlercreutzia0.30.20.1cc1150.0control ad0control ad0control ad0control ad0.0control ad0.00control ad0.0control adgenera more abundant in adblautia302010control adbacteroides20151050control adalistipes43210control adphascolarctobacterium3210control ad0.80.60.40.20.0bilophilacontrol ad0.030.020.010.00gemellacontrol adphylumfirmicutes bacteroidetes actinobacteria proteobacteriafigure 2. bacterial families and genera differentially represented in feces from ad participants compared to control participants p  0.05 fdr-corrected.
+
+bolded ellipse borders represent significant correlations two-sided p  0.05 uncorrected.for both ad participants and healthy non-demented participants.
+
+we discovered that the gut microbiome of ad participants has decreased microbial richness and diversity and a distinct composition com- pared to asymptomatic age- and sex-matched control participants.
+
+taken together with the decreased abundance of bifidobacterium in ad participants observed in our study larger trials may be warranted particularly in earlier disease stages.finally we observed correlations between levels of differentially abundant gut microbiota and csf biomarkersof ad pathology in a subset of participants that had also undergone lumbar puncture.
+

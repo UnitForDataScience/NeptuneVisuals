@@ -1,0 +1,30 @@
+a. therefore cort levels were significantly higher in the mice exposed to stress compared to the normal group in 2 and 4 weeks p  0.002 p  0.01 p  0.004 p  0.01. similar results were shown for the ifn-g levels which increased from 1 to 2 weeks in the stressed groupfig.
+
+b. the ifn-g levels in the serum showed obvious differences between the normal mice and the stress groups in 2 and 4 weeks p  0.0019 p  0.01 p  0.004 p  0.01. in addition the level of il-17 in the serum as demonstrated in the fig.
+
+c increased with stress and showed obvious differences compared with the normal group p  0.0013 p  0.01 p  0.009 p  0.01. we observed that there are more inflammatory cell infil- trations of stress group additional file  figure s1a in the gastric mucosal tissue than normal group additional file  figure s1b.
+
+the stress group contained 32742-42261 reads with different otus ranging from 148 to 191 showed no obviously differences p  0.1474 p  0.05 p  0.5368 p  0.05 compared with the control group contained 29176-33304 reads and had otus ranging from 153 to 192. in an effort to determine whether all the otus pre- sented in the data set were recovered in the miseq study more analyses were performed.alpha-diversityin this study the alpha diversity represented the rich- ness and diversity of the sample type of three metricsincluding the chao metric represented the species rich- ness the species metric simply represented the count of unique otus and the shannon index represented the species diversity were analysed.
+
+thus the overall level of bacterial diver- sity between the wirs group and the control was not dif- ferent p  0.5961 p  0.05 p  0.9727 p  0.05 for the two groups shannon and simpson index.
+
+there was no obvious difference in the rarefaction curve trend and the shannon curve between the wirs and control groups p  0.0513 p  0.05 p  0.0524 p  0.05. the rarefaction and shan- non curve of the faecal samples reached saturation at the level of species genera and family even after the retrieval of more than 5000 sequences.
+
+we found that the spe- caccum accumulation and the relative abundance curves were not different between the wirs and control sam- ples p  0.0542 p  0.05 p  0.0563 p  0.05. in short the shannon diversity index fig.
+
+significant differences are expressed as p  0.05 p  0.01 and p  0.001.resultsthe establishment and assessment of the wirs mice model the wirs model was established and assessed by the abnormal indices including behaviour pathology and the level of corticosterone ifn-g and il-17 in the serum after 2 weeks between the control and the wirs group.
+
+data in a b and c are expressed as the mean - sem n  5. p  0.05 p  0.01 p  0.001as shown in the fig.
+
+the identification of 367205 sam- plessequences minimum sampling depth by the alphatable 1 table of alpha-diversity analysisdata are expressed as the mean - sem n  5 p  0.05 p  0.01 p  0.001diversity analysis was sparse.
+
+data are expressed as the mean - sem n  5. p  0.05 p  0.01 p  0.001fahami et al.
+
+the simpson diversity index and the richness ace values were higher in the stress samples than the control at all levels of computing systems devel- opment p  0.7362 p  0.05. in addition the shan- non index was lower than the control group sample.
+
+the shannon diversity index number was obtained by the otu and the simpson index of diversity of the non- parametric estimation chao and abundance ace val- ues did not show a similar pattern p  0.5697 p  0.05. because of the unique sequence analysis the species diversity the shannon index 3.56 in the normal group3.44 in the wirs group and the simpson index 0.09 in the normal group play against 0.0962 in the wirs group were evaluated.
+
+there is a significant difference between the stress and the normal control groups p  0.0286 p  0.05. the community profile of the microbiota at the faecal showed a significant differ- ence between two groups.discussionplenty of microbiome studies are defining the structure and function of the gut microbiome in health and active disease states.
+
+nature 5157527423-426. doijaggi as bhatia n kumar n singh n anand p dhawan r 2011 a review on animal models for screening potential anti-stress agents.
+

@@ -1,0 +1,30 @@
+passage of strain psjn from colonized seeds to the next generation of seeds was tested for pepper soy and wheat but psjn was not found in any of the seeds.changes in the seed microbiomefor a comprehensive assessment of the effects of incorporating selected bacteria into wheat seed on the bacterial seed microbiome we performed a culture-independent community analysis of single seeds by illumina 16s rrna gene-amplicon sequencing.
+
+flavobacteria constituted less than 0.4 in control seeds but were enriched to 6 in psjn- seeds and the a-proteobacteria share was reduced from 67 of the bacteria in control seeds to 39 in psjn-colonized seeds .discussionour data show that plant beneficial bacteria can be selectively introduced into plant seeds and replicated to a relatively high cell number and so provided to the next generation of plants.
+
+after 12 months of storage of psjn-colonized seeds we still recovered about 100 viable cells per g maize seeds illustrating the stability of the bacterium in seeds.bacterial cells are located in the seed embryowe next evaluated whether the application of psjn to flowers of dicotyledonous plants would result in colonization of their seed microbiomes and performed greenhouse experiments with soy g. max l. cvs.
+
+similar results were obtained with fish microscopy of pepper seeds and psjn was detected within the embryo together with other bacteria that were also detected on the seed coat  .field applicationthe next step in our study was to test whether we can introduce bacteria and thereby modulate the seed microbiome during seed production in the field.
+
+seeds or grains were sampled at maturity maize and soy 97 on the bbch scale pepper 89 on the bbch scale.introducing p. phytofirmans psjn into spring wheat seeds under field conditionsthe production of seeds internally colonized by p. phytofirmans psjn under field conditions was tested with triticum aestivum l cultivar trappe.
+
+multivariate analysis of community structure and diversity was performed according to the recommendations by 1 unconstrained ordination offered by principal coordinate analysis pcoa 2 constrained multidimensional scaling using constrained analysis of principal coordinates cap as re- implemented in the vegan r package  3 permutation test for assessing the significance of the constraints and permutational multivariate analysis of variance permanova and 4 individuation and correlation of otus responsible for shaping the diversity structure.resultsbacteria colonize seeds upon flower applicationthe concept of introducing bacteria into plant seeds and consequently modifying the seed microbiome is illustrated in .
+
+at seed maturity we found strain psjn to be effectively introduced into the seeds - 21 out of 24 seeds tested positive in psjn-specific qpcr assays.
+
+we demonstrated the introduction of psjn to seeds of monocot and dicot plant species and the consequential modifications to seed microbiome composition and growth traits in wheat illustrating the potential role of novel seed-based microbiomes in determining plant traits.keywords seed endophyte microbiome endoseed flowers strain delivery application technologyparaburkholderia phytofirmans psjnintroductionplant internal microbiomes are complex communities of archaea bacteria and fungi which live as endophytes in all plants   .
+
+here we describe a new approach to modulate seed microbiomes of elite crop seed embryos and concomitantly design the traits to be mediated by seed microbiomes.
+
+the internal seed microbiome is inherited from the previous generation via the seed and so presumably consists of microbes that can survive desiccation and the conditions of seed storage  .
+
+differences in the flower age and condition of the stigma as well as the advance of the fertilization process could thus have influenced the susceptibility of soy flowers to invading psjn cells.the relative ease of introducing bacteria into plant seed by applying them on flowers of parent plants indicates that at least a part of the seed microbiome may derive from flower or pollen colonizing microorganisms     and the air or insects visiting the plant during flowering might be other important source for seed endophytes.
+
+unknown starting quantity of dna copy numbers in the samples could be calculated based on the standard curve from the dilution series of known concentrations which produced an r2 value of higher than 0.990. all data analysis was performed with bio-rad cfx manager 3.0.testing of the effects of p. phytofirmans psjn incorporated in seeds on the development of offspring plantsgreenhouse experiments with spring wheat seeds plant nursery was done as described earlier.
+
+the appearance of the first spike on each plant was documented through day 73.field testing of spring wheat seeds the performance of seeds internally colonized by strain psjn under field conditions was tested with t. aestivum l. cultivar trappe.
+
+regular ratings of germination plant height tillering and spike counting were performed and plant colonization by strain psjn was tested by qpcr as described above.analysis of microbial communities of spring wheat seeds colonized by strain psjn and control seeds prepared in the fieldgenomic dna was isolated using fastdna spin kit for soil as described above and concentration was adjusted to 5 ngul.
+
+at maturity we detected gus-stained psjn cells in maize seeds of plants that had been sprayed with the bacterium  at viable population densities that ranged from 102 to 105 cfug fresh weight no gus-stained cells were recovered from control seeds from flowers sprayed with a solution lacking psjn not shown.
+

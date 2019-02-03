@@ -1,0 +1,30 @@
+2015.genetic diversity of each locus in the pd23 microsatellite genotyping panel as measured by simpson's index of genetic diversity was substantially higher in european than north american samples table 2. overall geneticshort communications873table 3. genetic diversity of microsatellites in pseudogymnoascus destructans using the pd23 panel.
+
+allelic diversity measured using simpson's index of genetic diversity k and linkage was assessed with the standardized index of association r d. genetic diversity is slightly reduced for the north american isolates consistent with an introduction.
+
+diversity in north american isolates is less than in european isolates consistent with the recent introduction andor rapid spread of p. destructans to north america.locus id europe n1413 north america n1427 total n1440 total alleles null alleleska total alleles null alleleska total alleles null alleleskaa simpson's index of diversity k141-r allele frequency2.and reverse primers.
+
+linkage disequilibrium occurs for the p. destructans population as a whole likely due to a lack of shared alleles between isolates from the two subpopulations.populationnak 95 confidence intervalr dall isolates400.935 0.889-0.9810.501 p140.001european isolates130.875 0.869-0.9770.061 p140.001north american isolates270.923 0.786-0.964-0.040 p140.940a n 14 number of isolates.diversity per locus ranged from 0.05-0.67 mean 0.42 sd 0.17 with mean diversity across all loci in north american samples of0.07 sd 0.11 and in european samples 0.61 sd 0.27. genotype diversity was likewise lower in north america than in europe though the 95 confidence intervals of both estimates overlapped table 3. the 13 european isolates each produced a unique genotype whereas the 27 north american isolates comprised 15 genotypes.
+
+genetic diversity calculated for each locus and for the multilocus panel as a whole indicates sufficient allelic diversity to differentiate among and be- tween samples from both europe and north america.
+
+indices of genetic diversity indicate a loss of allelic diversity that is consistent with the recent introduction and rapid spread of an emerging pathogen.key words bat chiroptera fungal pathogen hibernation microsatellite pseudogymnoascus geomyces destructans white-nose syndrome.white-nose syndrome wns in bats is one of the leading conservation crises in north america.
+
+allelic diversity is expressed as simpson's index of genetic diversity.
+
+characterization of microsatellites in pseudogymnoascus destructans for white-nose syndrome genetic analysisauthors kevin p. drees katy l. parise stephanie m. rivas lindsey l. felton sebastien j. puechmaille paul keim and jeffrey t. fostersource journal of wildlife diseases 534869-874. published by wildlife disease association url bioone  is a nonprofit online aggregation of core research in the biological ecological and environmental sciences.
+
+869-874c wildlife disease association 2017characterization of microsatellites in pseudogymnoascus destructansfor white-nose syndrome genetic analysiskevin p. drees13 katy l. parise13 stephanie m. rivas1 lindsey l. felton1 se'bastien j. puechmaille2 paul keim1 and jeffrey t. foster134 1the pathogen  microbiome institute northern arizona university po box 4073 flagstaff arizona 86011 usa 2institute of zoology university of greifswald friedrich-ludwig-jahn-str.
+
+we developed a set of genetic markers to better differentiate p. destructans isolates.
+
+the focus of this study was to find appropriate loci for genetic differentiation of p. destructans particularly among low-diversity north american isolates.
+
+the pd23 microsatellite genotyping panel fulfills this need and reflects other observed genetic characteristics of p. destructans that have already been determined such as clonal propagation.
+
+genetic diversity analyses were conducted with poppr version 2.2.1 kamvar et al.
+
+this is in contrast to previous studies which reported little or no diversity among north american samples in the genetic loci studied ren et al.
+
+lower genetic diversity and clonal propagation are common charac-teristics of recently introduced fungal patho- gens gladieux et al.
+

@@ -1,0 +1,30 @@
+the most represented resistance genes were those encoding the multi-drugs efflux pumps and the resistance to cobalt-zinc-cadmium the latter accounting for 15-50 of the sequence reads in the different meta- genomes out of the total number of those mapping on the class of resistance to compounds determinants.
+
+the genes conferring resistance to fluoroquinolones was the most relevant class of antimicrobial resistance genes observed in all the samples tested.
+
+to a lesser extent traits associated with the resistance to methicillin in staphylococci and genes conferring resistance to streptothricin fosfomycin and vancomycin were also identified.
+
+the most represented metal resistance genes were cobalt-zinc-cadmium related accounting for 15-50 of the sequence reads in the different metagenomes out of the total number of those mapping on the class of resistance to compounds determinants.
+
+a recent study on the antibiotic resistance in sewage treatment plants has shown that antimicrobial resistance genes can be enriched during sludge treatment process  .we used a shotgun metagenomics sequencing approach to performthe characterization of biological hazards related to the use of tsis in agriculture in italy.
+
+moreover through the metagenomics approach we could observe the presence of genes associated with enteropathogenic e. coli epec and shiga-toxin producing e. coli stec toxb katp and tir in samples co2 and co3 which were negative for the presence of the assayed epec and stec-associated genes in the previous real time pcr experiments  .genomic traits related to resistance to compoundsthe functional analysis applied to the metagenomes carried out with both the mg-rast and the megan5 software revealed the presence in these samples of several genetic traits encoding resistance to compounds including antimicrobials am .
+
+among the antibiotics the most relevant class of am resistance genes amr observed in all the samples tested was that conferring resistance to fluoroquinolones with amounts of mapped reads ranging from 16 to 26 in different metagenomes .
+
+the analysis also showed that genes conferring resistance to specific classes of antibiotics such as the fluoroquinolones and the beta- lactams as well as streptothricin fosfomycin vancomycin and methicillin were also represented suggesting that following the use of these tsis they could be transferred to microbial soil communities contributing to the overall spread of antibiotic resistance.
+
+one of the most abundant classes of genes governing the resistance to compounds identified in the metagenomes in this study was that related with the resistance to heavy metals .
+
+the results confirm that the metagenomics is efficient to detect genomic traits associated with pathogens and antimicrobial resistance in complex matrices and this approach can be efficiently used for the traceability of tsi samples using the microorganisms' profiles as indicators of their origin.introductionthe recycling of bio-waste represents a resource for energy water and nutrients in agriculture .
+
+the use of such products to improve the fields fertility may cause the soils to be persistently contaminated in the range of the hundreds or thousands of ngg dry matter for certain pops abbreviations bso biosolid wwtp municipal waste water treatment plants tsi top soil improver pop persistent organic pollutants stec shiga toxin producing e. coli co compost mco mixed compost amr antimicrobial resistance cog cluster of orthologous groups kegg kyoto encyclopaedia of genes and genomes pcoa principal coordinate analysis eaec enteroaggregative e. coli epec enteropathogenic e. coli corresponding author at dipartimento di sanita pubblica veterinaria e sicurezza alimentare istituto superiore di sanita viale regina elena 299 00161 rome italy.e-mail address f. gigliucci.received 15 december 2016 received in revised form 2 february 2017 accepted 7 february 2017available online 10 march 20170013-9351 c 2017 elsevier inc. all rights reserved.. the top soil intake by grazing animals represents the main determinant for the chemical carry-over to food and exposure through food consumption in humans  .
+
+besides the possibility of transmission of microbial pathogens transfer of antimicrobial resistance genes from manure to soil bacteria has been described  .
+
+reported that resistance to tetracycline macrolides and streptomycin was measured for a period of 8 months in soil bacteria obtained from farmland treated with pig manure slurry .
+
+we selected eight samples including bso compost co and mixed compost mco and determined the microbiological profile diversity and to assess the presence of genomics traits related with pathogenic e. coli and antimicrobial resistance amr determi- nants.materials and methodssampling and samples originthe specimens analysed in this study were selected among a collection of 24 top soil improvers samples collected in 2013 from different italian regions and used in a previous study  .
+
+finally the products of the genes conferring resistance to streptothricin fosfomycin and vancomycin were also identified although to a lesser extent 0-1.7 .
+

@@ -1,0 +1,30 @@
+this supports the idea that nasal vaccines induce potent local nalt immune responses.although distilling information from all the teleost mucosal transcriptomic studies is a complex task generally speaking tran- scriptomic approaches have revealed important aspects of micro- bial pathogenesis immune evasion host immune responses host tissue remodeling responses as well as the kinetics of these re- sponses.
+
+eomics in fish mucosal immunityirene salinas  susana magadan   a center for evolutionary and theoretical immunology ceti department of biology msc03 2020 university of new mexico albuquerque nm 87131 usab immunology laboratory biomedical research center cinbio university of vigo campus lagoas marcosende vigo pontevedra 36310 spaina r t i c l e i n f o article historyreceived 5 december 2016 received in revised form 15 february 2017accepted 16 february 2017available online 21 february 2017keywordsnew generation sequencing mucosal immunityteleosta b s t r a c t the mucosal immune system of fish is a complex network of immune cells and molecules that are constantly surveilling the environment and protecting the host from infection.
+
+the data-rich datasets generated are proving really useful at discovering new innate immune players in fish mucosal secretions identifying novel markers of specific mucosal immune responses unraveling the diversity of the b and t cell repertoires and characterizing the diversity of the microbial communities present in teleost mucosal surfaces.
+
+perhaps the most used in fish immunology is transcriptomics which can be applied to measure the expression of all immune genes within a sample immunome and also allow the discovery of new immune genes including those fish specific that lack homologs in other vertebrates  .
+
+as a consequence omics tools can provide meaningful answers when trying to characterize and interpret the complex behavior of fish mucosal immune system in which multiple and reciprocal interactions occur between immune cells epithelial cells neuroendocrine cells mucus secreting cells antigens and the microbiota .the goal of this review is to present the most recent advances on omics tools in the context of teleost mucosal immunity.
+
+thus teleost malt apparently lacks germinal center formation.despite the morphological differences between species com- mon features can be noted in all teleost malt including the pres- ence of a mucus layer which acts as a physical and chemical barrier of the presence of innate and adaptive immune components including secretory igs sigs with a preponderant role of igt anti- bodies the transport of antibodies across the epithelium by the polymeric ig receptor pigr and the presence of a complex and diverse commensal bacterial community that is coated by sigs and is involved in the development and regulation of the mucosal im- mune system .teleost mucusthe mucus exerts its protective role not only by immobilizing or inhibiting pathogen binding but also by acting as a vehicle for mucins and humoral immune factors lectins antimicrobial pep- tides cytokines immunoglobulins.
+
+despite the biological relevance of mucins in teleost mucosal immunity gene expression studies of mucins in mucosal sites and how they respond to pathogens and commensals are lacking in fish.innate immune receptors in teleost mucosal surfaceswhen a mucosal barrier is disturbed not only resident immune cells are activated but there is also a tissue specific recruitment of leucocytes from blood which is directed by the expression of adhesion molecules and chemokines.
+
+future studies will benefit from using omics approaches in purified immune cell subsets to better define immune cell subpopulations and their changes during infection and vaccination.teleost mucosal b cellsigmth and igtzth b cells are present in fish gut gills skin and olfactory organ  .
+
+however it is worth mentioning that transcriptomes from non-mucosal immune tissues can been used for molecular and functional discovery of mucosal-relevant immune molecules.from the transcriptomic studies performed on control in- dividuals comparisons between malt and main lymphoid organs have been made.
+
+additionally the notion of the posterior part of the gut as most immune relevant region of the gut has been confirmed in seabass by measuring the constitutive expression of immune genes .
+
+this is likely a high proportion of bacteria living inassociation with less studied fish species or particular environments.mucosal ig and t cell repertoire in fish use of deep- sequencing technologiesfishes share the basic components of their immune system with all other jawed vertebrates including an adaptive immune system based on antigen specific receptors igs and tcrs  .
+
+a number of omics tools are now available and utilized to understand the complexity of mucosal immune systems in non- traditional animal models.
+
+to maintain homeostasis mucosal barriers are armed with an associated lymphoid tissue malt with innate and adaptive components responsible for the protection against the continuous challenge of microbes and antigens but also for the tolerance to- wards beneficial symbiont colonization .in general research on the immune system of fish has been limited not only by its complexity but also by the lack of reagents suitable for classical cellular immunology studies.
+
+further- more these genomic and bioinformatics approaches have been instrumental in enlightening how diverse cycles of whole-genome duplication as well as gene losses and expansions taken place during vertebrate evolution have affected to teleost immune sys- tem .
+
+first we provide a general overview of the teleost mucosal immune system section  highlighting the contributions of omic approaches to the current body of knowledge in the field.
+

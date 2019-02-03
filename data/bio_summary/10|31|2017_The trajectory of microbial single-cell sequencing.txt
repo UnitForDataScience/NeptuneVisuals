@@ -1,0 +1,30 @@
+by leveraging the small genome size low gc content and high genomic copy number of the sharpshooter symbiont candidatus sulcia muelleri we showed in 2010 that it is possible to produce a completely closed genome from an individual cell.during the last decade single-cell genome sequencing has over- come several methodological hurdles to achieve many milestones  and in the future it will continue to offer unique types of genomic information.
+
+this technique offers an exciting improvement in environmental single-cell genomics.monitoring mda kinetics in real time by using dna stains such as syto provides a crude metric for genome coverage as the crossing point cp of the amplification curve generally correlates with the cell's genome coverage.
+
+malbac has demonstrated minimal bias in human cancer cell lines and sperm cells43 but it did not prove superior in the sense of sag genome recovery to mda for accurate de novo genome assembly of microbial single cells.
+
+the tn5-transposition-based genome fragmentation would likely limit this approach and make it unsuitable for bacterial single- cell de novo genome assembly.taxonomic identification.
+
+in this review we address the technical aspects and challenges of single-cell genome sequencing and discuss some of the scientific endeavors that it has enabled.
+
+genome sequencing of individual human cells was already being applied in the 1990s by using pcr-based methodsthen by using isothermalamplification approximately a decade later4-.
+
+lastly we highlight how single-cell sequencing con- tributes to the expansion of the reference tree of life to advance our understanding of the evolutionary and functional diversity of microorganisms.technical aspects of single-cell sequencing despite the surge in the number of studies that use environmental single-cell sequencing and the numer- ous milestones achieved through these studies this field has been inhibited from full acceleration bydoe joint genome institute walnut creek california usa.
+
+the latter is critical not only to minimize cost but also to reduce bias and improve the evenness of genome coverage.
+
+lastly facs can be operated using index sorting11to record the optical properties of cells subjected to subsequent functional assays and thus it can subfractionate heterogeneous communities of envi- ronmental cells.one of the first microbial single-cell studies used microfluid- ics for cell isolation and genome amplification a method that has since found widespread use20.
+
+in midas genome amplifi- cation of cells isolated in microwells is followed by an enzymatic step in which the hyperbranched dna produced by multiple dis- placement amplification mda see below is reduced to linear double-stranded dna.
+
+although midas has shown promising results for the de novo assembly of microbial single-cell genomes recovering between 88-94 of the genome from escherichia coli this method has not been applied to environmental single-cellfigure 1  single-cell sequencing and analysis workflow for standard untargeted and targeted single-cell sequencing approaches.
+
+notably virtual microfluidics provided good genome coverage and greatly reduced chimerism compared to conventional approaches.
+
+as sequencing library preparation generally requires nanogram-range quantities of dna it is essential to amplify the femtogram-range genome of individual microbial cells  upon cell lysis box 2. despite the development of a broad range of wga methods for a review see blainey multiple displacement amplification mda prevails as the most common technique for microbial single-cell genomics.mda is an isothermal strand-displacement-based method that uses the bacteriophage phi29 polymerase and random hex- amer primers to amplify femtogram levels of dna.
+
+small-insert libraries and short-read platforms are thus generally preferable33.a second challenge with mda is uneven single-cell genome coverage9.
+
+while parts of a microbial genome can be heavily amplified others remain unamplified or minimally amplified which leads to fragmented and partial assemblies.
+

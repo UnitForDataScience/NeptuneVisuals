@@ -1,0 +1,30 @@
+reports with an hts ap- proach in cow sheep buffalo and human milk have identified lab reads that corresponded to n 40 of the total sequences  .in our samples we detected reads for the lab genera carnobacterium enterococcus lactobacillus lactococcus leuconostoc and streptococcus a  with an average of 2.55 rangingfrom 0.02 zoomed in b to 15.85 of the total reads per sample which is consistent with the low lab count in these samples reported by .in this study all the samples had sequences that corresponded to both coccus enterococcus lactococcus and streptococcus- and bacillus carnobacterium lactobacillus and leuconostoc-shaped genera  although in different proportions.
+
+consequently having available bacilli strains naturally adapted to dm might benotable from a biotechnological point of view to facilitate the produc- tion of these beverages.overall the results suggest that the lab population of dm is com- plex diverse variable and may depend upon several parameters thus requiring further investigation.conclusionsthe present survey provides a broad characterization of the bacterial composition of dm allowing a description of microorganisms not previ- ously detected in this product.
+
+however most of the available reports of dm microbiota are based on culture-dependent methods to investigate food safety issues and the presence of lactic acid bacteria lab.the aim of this study was to determine the composition of dm bacterial communities using a high-throughput sequencing hts approach.bulk milk samples from italian donkey dairy farms from two consecutive years were analysed using the miseq illumina platform.
+
+among these the distribution of reads assigned to coccus- and bacillus-shaped lab was variable between and within the farms confirming their presence and suggesting a complex population of these bacteria in dm.the present study represents a general snapshot of the dm microbial population underlining its variability and motivating further studies for the exploitation of the technological potential of bacteria naturally present in dm.c 2017 elsevier b.v. all rights reserved.introductiondonkey milk dm has recently received growing interest since it has been reported to be an adequate replacement for children with cow milk protein allergy mainly due to its tolerability nutritional con- tents and good taste .
+
+for this reason the present study aimed to contribute to the knowledge of dm by characterizing its microbiota using an hts approach.materials and methodsmilk sampling and dna extractionfive donkey dairy farms a b c d e in the northwest part of italy were sampled during the spring march of 2013 samples a.2013 b.2013 c.2013 d.2013 e.2013 and 2014 samples a.2014 b.2014c.2014 d.2014 e.2014 in the second year an additional farm was in- cluded f sample f.2014.
+
+ideally an optimal coverage is identified by the plateau of the curve which indicates that increasing the number of reads does not change the number of otus that can be determined.moreover good's coverage a sampling completeness indicator that indicates what percent of the total species is represented in the sample chao1 and ace richness estimators that calculate an approximate number of species in the samples using different methods and shan- non and simpson indices estimators of the samples' diversity taking into account the approximated number of species and how evenly they are distributed were determined.beta diversity was evaluated with the unifrac method.
+
+the core microbiota of the samples was obtained with the computecoremicrobiome.py script in qiime otus present with n 0.001 of the reads of each sample in at least 9 samples were includ- ed.
+
+the total reads corresponded to 201 families and 314 different genera data not shown.the most abundant genera observed in all the studied samples were gram-negative bacteria pseudomonas ralstonia cupriavidus acinetobacter citrobacter and sphingobacterium  .however only the genus pseudomonas reached high percentages in almost all the studied samples.
+
+in fact studies have demon- strated a number of qualities that make dm more favourable than cow milk better digestibility  lower allergenicity  and a set of unique nutritional and physico- chemical characteristics .following the growing demand for dm several new dairy farms have opened in the last few years.
+
+the supposition that farm practices have a direct consequence in the milk microbiota has also been supported by goat farm observations where hand milking practices resulted in lower total bacteria counts  .lactic acid bacteria in donkey milkstudies regarding the microbiota of dm have focused on the hygien- ic quality of dm .
+
+several authors have proposed novel fermented dm beverages that used lactobacilli strains isolated from bovine milk adapted to grow in dm .
+
+the observed results also support the premise that the microbial composition of dm may be influenced by individual animal components.the present study aimed to give a general picture of the bacterial communities present in dm and it has shown that this microbiota can be highly diverse.
+
+unlike other milks lab reads were present in low percentages both cocci and bacilli even though their growth is not particularly favoured by the composition of dm.
+
+the biochemical characterization the shelf life and the safety of the samples have been reported in a previous work .bulk milk samples from healthy jennies collected in sterile tubes were transported to the laboratory immediately after sampling in cool conditions and stored at -20 degc until dna extraction.
+
+s1 suggest a sufficient coverage this consideration is further supported by the ob- served values of the good's coverage estimator - higher than 0.99 - for all the samples .bacterial composition of donkey milkthe sequences obtained from all the studied samples correspond to five phyla proteobacteria firmicutes bacteroidetes actinobacteria and verrucomicrobia  in agreement with the main taxons found in raw milk from different animals  .
+

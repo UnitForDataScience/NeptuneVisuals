@@ -1,0 +1,30 @@
+a fungal species richness x wood type b fungal species richness x temperaturec fungal species richness x humidity d wood type x humidity e temperature x humidity e wood type x fungal assemblage composition f temperature x fungal assemblage composition g humidity x fungal assemblage composition.
+
+we conclude that models containing fungal wood-decay species and wood-based carbon need to take into account species-specific and assemblage composition-specific properties to improve predictive capacity in regard to decomposition-related carbon dynamics.keywords climate change fungal assemblage composition fungal diversity interaction species specificity species richness wood decomposition wood qualityintroductionthe effects of species diversity on the functioning and sta- bility of vital ecosystem processes have been gaining increas- ing attention in recent times chapin et al.
+
+we isolated fungal plugs from the peripheral growth zone of the pure fungal cultures grown on petri dishes four plugs for species richness level 1 one fungal species hereafter referred to as s1 two plugs each for species richness level 2 two species s2 and one each for species richness level 4 four species s4 from their respective fungal assemblage composition.
+
+asterisks indicate the statistical significance of the findings p  0.05p  0.01. ms mean square value f f-test value.fungal diversity x wood type788.2917.900.000 temperature x wood type4.870.050.825humidity x wood type488.2534.900.027fungal diversity x temperature569.395.710.003 fungal diversity x humidity23.330.230.791fungal assemblage composition x wood type803.7469.5470.000 fungal assemblage composition x temperature146.501.740.109fungal assemblage composition x humidity79.640.950.461figure 2. the effects of a temperature b humidity c wood type d fungal species richness levels and e fungal assemblage composition on wood decay rates mean - 1 se.
+
+each fungal species was represented by four different geographical strains used as replicates that were collected from scots pine trunks from different parts of fennoscandia.the growth media and pure cultures of the four fungal species were prepared as described in detail in venugopal et al.
+
+functional redun- dancy in fungal decomposers where dissimilar fungal commu- nities exhibited functional similarity when subjected to similar environmental changes was previsouly reported by haynes et al.
+
+fungal assemblage composition was found to be more important than fungal species richness indicating that species-specific fungal traits are of paramount importance in driving decomposition.
+
+the data deviated slightly from the assumptions of normality but anovas are considered to tolerate violations of normality rather well zar .table 1. number of decayed wood samples analyzed under different temperature-humidity treatments in the climate chamber under different fungal assemblage compositions.venugopal et al.5resultsthe decay rates expressed as mass-loss  exhibited several sig- nificant responses to temperature humidity wood type species richness levels and fungal assemblage composition changes table .
+
+.fungal species dynamics and interactions during decompo- sition as well as the response of the fungal decomposers to en- vironmental variations are poorly understood van der wal et al.
+
+however the positive relation- ship between microbial diversity and decomposition and nutri- ent cycling via the additive or synergistic activities of fungal species is a popular yet much debated issue in studies related to biodiversity and ecosystem functioning loreau et al.
+
+in addition antagonistic interactions between saprotrophic fungi are usually strong and may counteract the positive diversity ef- fects on decay rates at all stages of wood decomposition wood- ward and boddy .fungal decomposition is known to be prominently affected by metabolic properties of the fungal species by wood type and by abiotic factors such as humidity and temperature van der wal et al.
+
+the fungal mycelia were allowed to grow for 2 weeks in the glass jars before the gamma sterilized wood pieces venugopal et al.
+
+significant effect of wood type and interactions of the given environmental variables on fungal wood decomposi- tion in monocultures were previously observed in our earlier study venugopal et al.
+
+negative relationships between fungal di- versity and decomposition rates using wood in natural high- diversity systems have been published also by yang et al.
+
+tel 358-407508009 e-mail one sentence summary idiosyncratic patterns in fungal decomposition related to environmental factors and species richness effects in relation to ecosystem functioning predominate over the effect of climate change variables in coarse wood decomposition.editor petr baldrianabstractthe interactions among saprotrophic fungal species as well as their interactions with environmental factors may have a major influence on wood decay and carbon release in ecosystems.
+

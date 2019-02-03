@@ -1,0 +1,30 @@
+the proportion of proteobacteria was similar between the non-infected and infected samples at 27degc over time but decreased more strongly in the non- infected samples 78.1 after 12 h than in the infected samples 72.7 after 12 h. this difference could reflect the effects of vibrio on the microbiota of infected samples.
+
+although the proportion of moraxella was similar in the non-infected and infected samples until 4 h at 27degc it became higher in infected samples 60.6 vs. 37.1 after 12 h. the proportion of psychrobacter also decreased more in infected samples 8.0 than in non-infected samples 19.9 after 12 h. in a previous study psychrobacter sp.
+
+the largest difference between sampling times was found in samples of site d 1.50 x 10 cellsg in august and 5.52 x 10 cellsg in november.a total of 4491977 reads 2418546 reads from samples in august and 2073431 reads from samples in november were analyzed after trimming processes.
+
+the average numbers of observed otus were higher in the august samples 7318.0 - 3132.4 than in the november samples 2504.6 - 1230.9 p  0.001. the highest number of otus was detected in site b in august 11985.2 - 554.8 whereas the lowest number was found in site c in november 1520.5 - 523.7. the numbers of observed otus in sea cucumber samples collected from site b were relatively higher than those in the other sites at both sampling times.
+
+2.at the phylum level proteobacteria was the dominant phylum in the majority of samples and its abundance was highest in samples from sites a 72.2 and c 73.6 in august whereas it was most abundant in samples from sites b 77.1 and d 73.3 in november fig.
+
+5. the proportions of moraxella and psychrobacter decreased in both the non-infected and infected samples at 4degc but psychrobacter decreased more in the infected samples 12.0 than in the non-infected samples 16.7fig.
+
+to compare the diversity indices among samples the number of reads in each sample was normalized by random subsampling and calculated using the mothur program 25. principal coordinate analysis pcoa based on the weighted and unweighted unifrac distances was conducted to compare the microbiota among samples.
+
+the differences among samples were analyzed using the kruskal-wallis test and the differences between samples were analyzed again using the mann-whitney u-test in spss ver.
+
+the total amounts of bacterial loads in the sea cucumber samples in august average 2.12 x 10 cellsg were significantly higher than those in november 2.24 x 10 cellsg p  0.001. the highest bacterial amounts were detected in samples of site b at both sampling times 4.29 x 10 cellsg in august and6.81 x 10 cellsg in november.
+
+overall the microbiota in sea cucumber was more diverse in august than in november p  0.001. consistent with the calculated cell numbers the highest diversity indices were detected in samples of site b whereas the lowest were detected in samples of site a. therefore the number of bacteria was related to the bacterial diversity in sea cucumber.
+
+the proportions of proteobacteria were decreased in samples from sites a and c in november whereas they were increased in samples from sites b and d. this result confirmed that the sea cucumber microbiota varies geographically.verrucomicrobia and bacteroidetes were the next most dominant phyla in august 13.4 and november 32.5fig.
+
+alpha- and betaproteobacteria were the dominant classesin august samples whereas gamma- and betaproteobacteria were dominant in november samples.
+
+the detected number of potential pathogens was higher in august samples 30 species than in november samples 25 species and the specific pathogens differed among sampling sites.
+
+the diversity of infected samples at 27degc was lower than that of the other samples after 12 h. this result could be due to the good growth of v. parahaemolyticus in this condition leading to a decrease in the microbiota diversity.
+
+the proportion of proteobacteria then decreased in both the non-infected and infected samples at 4degc over time whereas the relative abundance of verrucomicrobia and planctomycetes increasedin these samples.
+

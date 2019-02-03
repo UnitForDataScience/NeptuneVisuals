@@ -1,0 +1,30 @@
+consistent with the findings in patients with ulcerative colitis the genus collinsella was less prevalent among patients with crohn's disease than among the controls p  0.007. in addition campylobacter p  0.007 and an unidentified member of the class betaproteobacteria p  0.007 were less prevalent in patients with crohn's disease than in the non-ibd controls.shows a comparison of the duodenal microbiota of children with ibd i.e.
+
+p0.05  p0.01 one-way anova.compared to samples from the controls 90-10 vs. 120-10 otus p  0.005. samples from patients with crohn's disease showed levels of richness that ranged from low to as high as the non-ibd controls with no significant difference noted between these children and the non- ibd controls .a low number of otus might be a consequence of a low total bacterial population.
+
+this included an increased prevalence of cupriavidus in patients with ibd com- pared with the controls p  0.046.shows the read abundance in each subject of 17 taxa that displayed significant dif- ferences between children with ulcerative colitis or crohn's disease and non-ibd controls see figs  and .
+
+as shown in  patients with ulcerative colitis or crohn's disease could be readily separated from the controls based on the distribution patterns of the otus in their microbiota.shows the otus that contributed the most towards distinguishing between the patients with ulcerative colitis and the controls.
+
+b loading plots showing the otus that make the strongest contributions to distinguishing between patients with ulcerative colitis and controls c loading plots showing the otus that make the strongest contributions to the distinction between patients with crohn's disease and controls.
+
+notably few otus were more prevalent in the patients with ulcerative colitis than in the non-ibd controls left-hand side of the diagram and in no case were the differences statistically significant in the univariate analysis.identifies the otus that contributed the most to differentiating the microbial com- positions of the patients with crohn's disease and the controls.
+
+pearson's correlation coefficient analyses between bacteria only and unclassified reads for a patients with crohn's disease b patients with ulcerative colitis and c controls.
+
+it is unlikely that this pattern would result from sequencing errors but that it instead reflects the less rich microbiota of the ibd patients particularly those with ulcerative colitis.the observed reductions in the richness and breadth of the small intestinal microbiota may reflect a more restricted microbial exposure in children with ibd as compared to the controls.
+
+in that study various campylobac- ter species other than c. jejuni and c. coli were commonly detected in both the patients with ibd and the controls and no association with ibd was found .in summary this pilot study demonstrates an aberrant duodenal microbiota which is char- acterized by low richness and a reduced prevalence of certain bacterial genera in children with newly diagnosed ulcerative colitis.
+
+although the children with crohn's disease tended to have fewer otus than the controls across the four major phyla the differences were not statistically significant.we also calculated the relative abundance of taxa using shannon's index but found no sig- nificant differences between the three groups data not shown.distribution of individual otus in children with ibd and controlswe attempted to classify each otu found in the dataset n  322 to the genus level which was possible in 232 72 of the cases.
+
+several taxa were found at lower frequencies in the patients with ulcerative colitis than in the controls right-hand side of the diagram including collinsellap  0.001 lactobacillus p  0.007 bacillus p  0.007 and a sequence classified as belong- ing to the order sphingobacteriales p  0.007. other otus were also detected less frequently in the patients with ulcerative colitis as compared to the controls  albeit with moder- ate significance levels so these differences should be interpreted with caution.
+
+the two groups were highly correlated and tables in the patients with crohn's disease r  0.915p  0.029  in the patients with ulcerative colitis r  0.915 p  0.029  and in the controls r  0.866 p  0.005 .microbial richness at the otu levelto assess microbial richness the numbers of otus per patient were calculated .
+
+sphingolipids could also play an intermediary role in the crosstalk between intestinal immunity and microorganisms .we found fewer changes in the duodenal microbiota of patients with crohn's disease com- pared with the controls which may reflect the lower number of patients in this group.
+
+here we characterize the duodenal microbiota of children with newly diagnosed ibd before the onset of treatment and compare these microbiota with those of non-ibd controls who report simi- lar intestinal symptoms.patients and methodspatientschildren who had clinical symptoms that raised a suspicion of ibd and who were referred to the sahlgrenska university hospital in gothenburg sweden were eligible for inclusion in the study provided that they were treatment-naive i.e.
+
+the amount of bacterial dna was not lower for the children with ibd than for the controls .we investigated whether the limited microbial richness seen in children with ibd was restricted to certain phyla or occurred across phyla.
+

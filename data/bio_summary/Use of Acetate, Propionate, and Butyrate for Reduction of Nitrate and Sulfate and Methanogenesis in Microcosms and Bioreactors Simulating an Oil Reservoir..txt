@@ -1,0 +1,30 @@
+when nitrate injection was stopped the sulfide concentration rose immediately to 2 mm and the acetate and propionate concentrations increased to 9.2 mm and 2 mm respectively  stage v. this indicated that the sulfate reduction had been restored to the same level as during the startup  stage i. however increased concentrations of acetate and propionate in stage v compared to stage i suggest that nitrate injection provided long-term inhi- bition of methanogenic activity.when 3 mm acetate and 3 mm propionate were injected with 4 8 or 13 mm nitrate the sulfide concentration in the effluent decreased to 1 0.5 or 0 mm respectively   stages vi vii and viii.
+
+bioreactors with the same concentrations of sulfate and vfa responded similarly to increasing concentrations of injected nitrate as ob- served in the microcosms sulfide formation was prevented by adding approximately 80 of the nitrate dose needed to completely oxidize vfa to co2 in both.
+
+thus this work has demonstrated that simple time-dependent observations of the use of ace- tate propionate and butyrate for nitrate reduction sulfate reduction and methano- genesis in microcosms are a good proxy for these processes in bioreactors monitor- ing of which is more complex.importance oil field volatile fatty acids acetate propionate and butyrate were specifically used for nitrate reduction sulfate reduction and methanogenic fermen- tation.
+
+our data also suggest that propionate is a good substrate to enumerate oil field srb.keywords butyrate oxidation methanogenesis nitrate dose nitrate injection propionate oxidation souring control syntrophic degradationhe injection of water into oil fields to maintain reservoir pressure often leads to increased concentrations of sulfide souring through the activity of sulfate- reducing bacteria srb which derive energy for growth from the oxidation of oil organics to reduce sulfate to sulfide  .
+
+the mecha- nism of inhibition of sulfate reduction by nitrate injection includes biocompetitive exclusion of srb by heterotrophic nitrate-reducing bacteria hnrb which assumes that these use the same electron donors for reduction of nitrate as are used by srb for reduction of sulfate .volatile fatty acids vfa which include acetate propionate and butyrate are considered to be major electron donors shared by hnrb and srb.
+
+when 4 mm nitrate was added to csba-s medium containing 2 mm sulfate and 3 mm vfa the nitrate was completely reduced within 25 h. no nitrite intermediate was detected.
+
+upon addition of 13 mm nitrate nitrate reduction proceeded with the complete removal of all vfa within 25 h fig.
+
+the theoretical nitrate dose at which all of the 3 mm vfa are oxidized to co2 is 25.2 mm equation 14.effect of nitrate on souring in bioreactors.
+
+the nitrate concentration and the kinds of vfa injected at 3 mm each are shown in .when 3 mm vfa and 0 mm nitrate were injected complete reduction of sulfate to1.6 mm aqueous sulfide was obtained after day 10  stage i. no propionate or butyrate was detected in the effluent which contained a low 1 to 4 mm concentration of acetate compared to 11 to 12 mm in comparable microcosms and .
+
+injection of 13 mm nitrate led on average to a breakthrough of 1 mm nitrate and up to 4 mm nitrite in the bioreactor effluent  stage viii.
+
+the average eluted concentrations of 1 mm nitrate and 4 mm nitrite indicate that the nitrate was only about 80 reduced.
+
+in the absence of nitrate complete reduction of 2 mm sulfate to sulfide was observed with production of 2 to 3 mm acetate in the effluent  stage x. subsequent injection of 4 and 6 mm nitrate resulted in partial and complete control of souring  stages xi and xii respec- tively.
+
+although 8.4 mm nitrate is needed to completely oxidize 3 mm propionate to co2 equation 16 the observation that 6 mm nitrate was sufficient to control souring indicates again that part of the propionate was used as the carbon source for biomasstable 2 sequence accession numbers numbers of quality controlled reads and derived numbers of operational taxonomic units and taxa for 22 amplicon librariesaashannon index values and fractions percent of bacterial and archaeal reads are also indicated.bsamples were from bioreactor effluent be or from microcosms.
+
+nitrite is a very strong and specific srb inhibitor  which targets sulfide-producing dissimilatory sulfite reduc- tase dsr.a second misconception related to the first is that when vfa serve as the electron donors for the reduction of nitrate and sulfate in oil fields the nitrate dose required to prevent souring can be derived by determining the concentrations of vfa in oil field waters.
+
+interestingly although the kinetics of vfa use and associated nitrate andor sulfate reduction were much slower in microcosms than in the bioreac- tor the effect of nitrate dosing was the same.
+

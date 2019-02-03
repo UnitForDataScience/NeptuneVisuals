@@ -1,0 +1,30 @@
+the petri dishes were incubated overnight at 30degc and the colonies of v. madracius were counted when present.to evaluate the transcriptomic profile of l. dendroidea in the presence and absence of v. madracius control tubes were set up with 250 mg of l. dendroidea and 40 ml of esw n  3 the inoculated tubes contained 250 mg of l. dendroidea 40 ml of esw and v. madracius at 107 cfu ml-1 n  3. after 24 48 and 72 h control and inoculated l. dendroidea specimens were frozen and separately ground in liquid nitrogen using a mortar and pestle.
+
+moreover the upregulation of genes involved in mono- terpene biosynthesis was detected in l. dendroidea in response to v. madracius and offers a possible explanation for the reduction in the concentration of these bacteria in the culture medium in the presence of the seaweed.genes relevant for vesicle trafficking--including those coding for rab which par- ticipates in intracellular membrane trafficking by regulating the movement of vesicles along cytoskeletal filaments  actin which composes the structure of the connec- tions linking the cc to the cell periphery in l. dendroidea and tubulin which is responsible for the positioning of the vesicles toward exocytosis sites--were upregu- lated in this seaweed in response to the inoculation of v. madracius mainly 24 hpi .
+
+here we detected in both control and inoculated samples the expression of genes coding for lrr-rlks representing a major class of receptors involved in microbe detection in plants through the recognition of mamps  suggesting that these genes are constitutively expressed in the red seaweed l. dendroidea.moreover at 24 hpi we verified the upregulation of the gene coding for nadph oxidase the major gene for ros production in seaweeds in l. dendroidea   .
+
+another important transcriptional regulatory element upregu- lated in l. dendroidea 24 hpi was heat stress transcription factor hsf associated mainly with defense gene activation pathogen-induced systemic acquired resistance  and transcriptional reprogramming in plants as a consequence of redirecting energy resources from growth to defense mechanisms .additionally at 24 hpi we detected the upregulation of an erf that has diverse functions in plant defense and responds to jasmonic acid ja and ethylene et  .
+
+the analysis was based on the following numbers of replicates control 24 h  2 inoculated 24 h  3 control 48 h  2 inoculated 48 h  2 control 72 h  3 inoculated 72 h  3.fig 3 relevant differentially expressed genes in laurencia dendroidea 24 48 and 72 h after inoculation with vibrio madracius data represent logfc values considering inoculated versus control samples.
+
+dendroidea in response to v. madracius such as the genes coding for acetyl-coa c-acetyltransferase acat 24 and 48 h after inoculation and genes homologous to those coding for plant --isopiperitenol dehydrogenase ispd 24 hpi and - neomenthol dehydrogenase nmd 24 and 48 hpi .
+
+plating the seaweed tissue homogenate on thiosulfate-citrate-bile salts-sucrose tcbs media did not result in bacterial growth suggesting that this reduction was not due to bacterial attachment to l. dendroidea thalli.the comparative analysis of control and inoculated specimens of l. dendroidea revealed the change in the gene expression profile in response to v. madracius.
+
+the seaweed rna was sequenced providing an unprecedentedly high coverage of the transcrip- tome of laurencia and the gene expression levels were compared between control and inoculated samples after 24 48 and 72 h. transcriptomic changes in l. den- droidea in the presence of v. madracius include the upregulation of genes that par- ticipate in signaling pathways described here for the first time as a response of sea- weeds to microbes.
+
+madracius.resultsthe transcriptome sequencing of l. dendroidea 24 h 48 h and 72 h afterv.
+
+s2.the number of differentially expressed genes in the seaweed l. endroidea was maximal 24 h after v. madracius inoculation and the transcriptomic profile tended to be similar to that seen with the control condition 72 h postinoculation hpi.
+
+dendroidea especially 24 and 48 hpi while we verified a significant reduction in the number of genes differentially expressed in l. dendroidea 72 h after v. madracius inoculation.
+
+overall at 24 hpi we observed in l. dendroidea the upregulation of 675fig 1 concentration of vibrio madracius in the culture medium in the presence 2 replicates t1 and t2 and absence 2 replicates cv1 and cv2 of laurencia dendroidea.
+
+finally 72 h after the introduction of v. madracius in the culture medium the expression level of 5 genes increased but none of them were identified through blast and 5 genes were repressed of which 60 were annotated at the protein family level at least .the gene coding for nadph oxidase nadph ox which is responsible for transient production of ros was upregulated in l. dendroidea 24 hpi .
+
+s3.functional categories associated with energy conversion such as the glycolytic process including glucose-6-phosphate isomerase g6pi fructose-bisphosphate aldo- lase fba glyceraldehyde-3-phosphate dehydrogenase gapdh and phosphopyru- vate hydratase pph were overrepresented in the transcriptome of l. dendroidea 24 h and 48 h after the introduction of v. madracius in the culture medium .
+
+those coding for succinyl-coa ligase scs succinate dehydrogenase sdh citrate synthase cit cytochrome c oxidase cox nadh-ubiquinone oxidoreductase complex i elec- tron transfer flavoprotein etf and atp synthase were upregulated in l. dendroidea 24 and 48 hpi  fig.
+

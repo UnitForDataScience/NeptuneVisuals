@@ -1,0 +1,30 @@
+for example a study of one cholera patient from haitishowed that phage-resistant v. cholerae mutants rose to high frequency within the patient due to positive selection imposed by phage predation the study showed how strong selec- tion can shape v. cholerae diversity within patients but the prevalence and extent of v. cholerae genetic diversity within patients remains unclear and also whether intra-host evolu- tion is generally driven by selection.as for many other bacterial pathogens the prevailing ortho- doxy is that v. cholerae infections are essentially clonal and essentially devoid of within-host genetic diversity.
+
+for example comparisons of whole-genome sequences of strains of v. cholerae from across the world over the course of a century clarified the history of thereceived 1 september 2017 accepted 12 november 2017author affiliations 1department of biological sciences university of montreal montreal quebec canada 2division of infectious diseases massachusetts general hospital boston ma usa 3department of medicine harvard medical school boston ma usa 4center for vaccine sciences international centre for diarrhoeal disease research dhaka bangladesh 5national public health laboratory ministry of public health and population port-au-prince haiti 6division of global health equity brigham and women's hospital boston ma usa 7department of global health and social medicine harvard medical school boston ma usa 8department of immunology and infectious diseases harvard school of public health boston ma usa 9department of microbiology and immunobiology harvard medical school boston ma usa 10department of pediatrics harvard medical school boston ma usa.correspondence b. jesse shapiro keywords vibrio cholerae comparative genomics within-host evolution horizontal gene transfer biofilm.abbreviations hgt horizontal gene transfer hk histidine kinase hqsnv high quality single-nucleotide polymorphism ice integrative conjugative element isnv intra-host single nucleotide variant mrca most recent common ancestor ns non-synonymous s synonymous.data statement all supporting data code and protocols have been provided within the article or through supplementary data files.
+
+together these results suggest that most within-patient variation in gene content is due to gene flow deletion or duplication within the v. cholerae population with rare but detectable hgt from other bacte- rial species phages and plasmids in the gut microbiota.
+
+isolate h1c1 represents the ancestral genotype h1c4 has a non-synonymous mutation in a transcriptional regulator gene and h1c5 and h1c6 have different non-synonymous mutations in the same gene the histidine kinase gene.
+
+however the extent of within-patient mutation hgt and natural selection are still poorly known for v. cholerae.in this study we characterized genomic diversity of v. chol- erae within and between eight cholera patients sequencing between eight and 20 isolate genomes per patient.
+
+therefore the derived isnv alleles may have been selected for reduced biofilm formation.our study provides an opportunity to compare v. cholerae evolutionary dynamics between bangladesh where cholera has been endemic for hundreds or thousands of years  and haiti where it was introduced in 2010. our results sug- gest that selective pressures on v. cholerae may differ between haiti and bangladesh as previously proposed .
+
+further sequencing of intra-host v. cholerae genomes ideally in combination with clinical data on infection durations and outcomes will be needed to test this hypothesis.conclusionwe have shown that small but measurable changes occur in the v. cholerae genome during human infection.
+
+supplementary material is available with the online version of this article.000142 a 2017 the authorsthis is an open access article under the terms of the which permits unrestricted use distribution and reproduction in any medium provided the original author and source are credited.current pandemic  and showed that this pandemic is the result of a single clonal expansion of one v. cholerae o1 el tor ancestor accompanied by horizontal gene transfer hgt events involving toxin and antibiotic resistance genes .
+
+isolates were grown in 4 ml lb broth with agi- tation at 30 oc and optical densities were measured at 600 nm using a spectrophotometer every hour for 12 h. sec- ond to test for biofilm production we grew the same iso- lates in 200 ul lb in a 96-well plate without agitation at 30 oc for 48 h. controls included empty wells wells with lb only and wells with a v. cholerae isolate with an in-frame deletion in the gene vpsa vibrio polysaccharide a which results in reduction of biofilm production .
+
+even under the conservative assumption that all gene content variation represents a single gainloss event per patient this still indicates at least one event per patient.some of the putative hgt events could have consequences for v. cholerae survival and virulence within the host.
+
+both gene content variation and point mutations can have consequences for the pheno- types of within-patient v. cholerae populations including clinically- and environmentally-relevant traits like biofilmformation.
+
+in con- trast we found a substantial amount of gene content varia- tion between five and 103 gene gains or losses within each patient.
+
+these orthologous gene families were classified into three different categories multiple gene families 1 copy per genome on average single copy genes exactly one copy per genome and flexi- ble genomes 1 copy per genome.
+
+to address this issue we mapped reads back to the full gene catalogue and consid- ered a gene to be present when it was covered at 1x sup- plementary methods figs s2 and s3.
+
+a complete list and annotation of flexible genes is given in table s5.variation in the flexible gene pool could arise from gene deletion duplication or hgt.
+

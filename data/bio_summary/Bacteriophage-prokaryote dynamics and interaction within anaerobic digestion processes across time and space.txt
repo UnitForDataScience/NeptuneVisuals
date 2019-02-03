@@ -1,0 +1,30 @@
+with theexception of pseudomonas phage pp7 most of the core members were caudovirales viruses including entero- bacteria phage t5 morganella phage mmp1 and burkholderia cepacia complex phage bcepc6b.sub-networks as functions of space and timefour networks were constructed to explore the differences of phage-prokaryote interactions among anaerobic digesters additional file figure s4.
+
+in contrast aeromonas phage phio18p aeromonas phage aeh1 and mycobacterium phage che12 showed almost exclusively negative links to prokaryotic otus.strikingly all of the phage-phage pairs except one were positively linked suggesting a possibility of co- infection or co-habitat.
+
+furthermore nearly half of the5492 microbial genomes with detectable phage signal contained more than one phage  demonstrating that phage breadth to infect the same host is grossly underestimated.most of the co-infections identified in the microbial genomes involved multiple caudovirales.
+
+recently bacteriophages are incrementally recognized as the most abundant biological entities on earth estimated to be ten phages for every bacterial cell in most ecosystems - therefore there has been mounting interest to assess the importance of phage predation on microbialpopulation dynamics in the oceanic environment phages are responsible for lysing over 25 of microbial cells in natural freshwater environment phage lysis is responsible for up to 71 of microbial mortality which fundamentally affects microbial food webs and aquatic carbon cycling virus-mediated recycling of organic matter termed viral shunt has been shown to regulate global carbon and nitrogen cycles we speculate that bacteriophages are important in shaping microbiomes in anaerobic digesters of wastewa- ter treatment plants wwtps and have been domesti- correspondence  equal contributors1state key joint laboratory of environmental simulation and pollution control school of environment tsinghua university beijing 10084 china full list of author information is available at the end of the articlecated to produce desired effects that is to reduce the volume and mineralize organic matter into biogas before discharging activated sludge of wwtps into thec the authors.
+
+by contrast another abundant phage in beijing samples enterobacteria phage rb43 oscillated only by 17.3 over time.top-down control of phages on prokaryotic communities to better understand phage-prokaryote dynamics we examined whether there was any relationship between prokaryotes and phages.
+
+it has been shown that phage families myoviridae siphoviridae and podoviridae specifically infect a major archaea phylum euryarchaeota consistently averagegene signal intensity of phage families myoviridae siphoviridae and podoviridae significantly correlated r  0.600 p  0.001 with the average abundance of phylum euryarchaeota fig.
+
+interestingly despite the high ephemeral variation of individual phages a relatively stable core phage community across space and time was notable additional file figure s2 which likely results in relatively steady and even predictable effects on prokaryotic communities and process parameters.an important finding drawn from our data is the significant positive correlation of a- and b-diversities between phage and prokaryotes fig.
+
+if one assumes that each prokaryotic species is infected by at least one phage phage diversity should be equal to prokary- otic diversity or even higher.
+
+because it is intractable to estimate the true size of the phage population we assume that an equal proportion is missing for all samples meaning that changes in a- and b-diversity detected by geochip reflect changes in total phage population.
+
+for the same reason that phages detected by geochip is a proportion of phage population our calculation of phage contribu- tion to 40.6 of total microbiome compositions table is likely to be underestimated also.
+
+alternatively the influence of phage on metabolic processes can be beneficial in that phage infection serves as an efficient strategy of horizontal gene transfer trans- duction which confers novel metabolic capacities to prokaryotic communities .associations between certain phages and prokaryotes have been documented by microbial association networks in marine systems  .
+
+alternatively tight ecological coupling arising from auxotrophy cross-feeding competition or predation could also lead to positive or negative correlations between and within prokaryote and phage pairs.each natural microbe is potentially targeted by a subset of the phage pool resulting in positive or negative correla- tions between phage-prokaryote pairs .
+
+in moving forward understanding phage dynamics and interaction with prokaryotic commu- nity requires a critical examination of their associations at the functionally relevant spatiotemporal scale which help unveil a phage's impact on process performance.
+
+although biotic and abiotic factors con- trolling microbiome are essential to understanding such processes little is known about top-down control through phage lysis an issue considered thus far in only a handful of studies -.
+
+given the central role of bacteria and archaea for the stepwise anaerobic digestion process to hydrolyze organic substrates into smaller molecules such as volatile fatty acids vfa hydrogen and methane we further hypothesize that phage dynamics are linked to process performance.
+

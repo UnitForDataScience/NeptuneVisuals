@@ -1,0 +1,30 @@
+of the 317 subspecies detected in room samples only 40 were detected in at least two samples yet of the 131 subspecies defined from infants 75 were found in two or more infants supplemen- tary data 3-11. of particular interest are the 12 subspecies found in both room and infant samples fig.
+
+two strains occurred in all sampled environments of the room that housed that infant infants 5 and 9. a third strain was detected in the gut of infant 15 and in the room of infant 9. similarly the fourth strain colonized infant 6 and occurred in the sink of infant 5. because the sink samples of infant 5 were collected prior to the birth of infant 6 and the swab and wipe samples from infant 9's room were collected prior to the birth of infant 15 the results indicate transfer from rooms to infants.
+
+due to extremely low biomass dna from multiple samples collected at different times from the same room environment type was pooled generating three sample types per room swabs from frequently touched surfaces wipes from other surfaces and swabs from sinks supplementary data 1.to enable genomic comparison of strains present in the nicu environment with infant-associated strains samples were col- lected from newborn almost exclusively preterm infants housed in the nicu of the magee-womens' hospital of upmc pittsburgh usa.
+
+article doi 10.1038s41467-017-02018-wopenstrain-resolved analysis of hospital rooms and infants reveals overlap between the human and room microbiomebrandon brooks1 matthew r. olm1 brian a. firek2 robyn baker3 brian c. thomas4 michael j. morowitz2  jillian f. banfield4preterm infants exhibit different microbiome colonization patterns relative to full-term infants and it is speculated that the hospital room environment may contribute to infant microbiome development.
+
+our analyses made use of 425 newly acquired metagenomes for 29 infants as well as two previously publisheddata sets for 21 infants supplementary data 2. in total weanalyzed 622 metagenomes from 50 infants that were sampled over an 3-year period see supplementary fig.
+
+the earliest fecal samples were collected on day of life dol 5 and the latest collection point was dol 86. dna from both room and fecal samples was sequenced generating 2.34 tb of new sequence information.
+
+for room samples sequencing allocations were larger than those for fecal samples to compensate for their expected higher levels ofmicrobial diversity.successful genome reconstruction from room environments.
+
+room detection of strains is indicated by a colored bar because room samples from one environment type were pooled either by infant or for three time periods for infant 5were detected in room samples in some cases both before and after the hospitalization period of infant 5 fig.
+
+metagenomic sequencing of 140 fecal samples produced 0.5 tb of illumina hiseq 2000 data for the nihy22012 samples fig.
+
+subsequent metagenomic sequencing of 290 fecal samples produced 1.2 tb of illumina hiseq 2500 data for s22013 samples.
+
+metagenomic sequencing of 24 room samples produced 0.6 tb of illumina hiseq 4000 data for theroom2013 samples.
+
+here we conduct a genome-resolved metagenomic study tar- geting surfaces and sinks of hospital rooms and fecal samples of premature infants hospitalized in those rooms.
+
+the analysis involves metagenomic data from pooled low-biomass samples from nicu surfaces and a terabase- scale metagenomic data set representing the gastrointestinal tracts of 50 premature infants.
+
+we collected 1038 samples from nicu rooms housing six premature infants s22013 cohort supplementary fig.
+
+the same aeromonas hydrophilia a potential pathogen strain colonized infants 5 and 6's room samples and later colonized infant 8's gut a 14-day separation.
+

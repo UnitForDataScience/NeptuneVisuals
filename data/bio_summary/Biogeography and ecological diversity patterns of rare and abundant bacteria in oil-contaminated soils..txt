@@ -1,0 +1,30 @@
+the following questions were addressed i are the abundantrare taxa part of the core microbiome in oil-contaminated soils ii do abundantrare taxa indicate specific conditions and is it possible to use them as an indi- cator of oil pollution iii what are the major factors that influence the assembly of the rare and abundant subcommunities and are the controlling factors similar for both subcommunities iv what are the co-occurrence patterns of the rare and abundant taxa v do the rare taxa occupy more important positions than the abundant taxa in the network materials and methods  sampling locations and data collectionthe microbial high-throughput sequencing data sets and soil physic- ochemical parameters used in this study were recently published jiao et al.
+
+pearson's correlation coefficients for subcommunity similarity versus geographic distance were highly sig- nificant for both rare -.3539 p  .01 and abundant taxa -.3381 p  .01. the slopes of the ddrs for abundant taxa were steeper than those for rare taxa indicating b-diversity variation is greater among abundant taxa with the increased geographic distance.the influences of edaphic and geographic factors on the struc- tures of the rare and abundant subcommunities were explored by performing cca ordination figure 2ab.
+
+2012. according to our results rare taxa rarely co-occurred with abundant taxa in soil samples becausei conditions favouring rare and abundant taxa were different in oil- contaminated soils and therefore distinct environmental factors influenced the rare and abundant subcommunities and ii rare taxa occurred in fewer samples fig.
+
+additionally 79.7 of inter- mediate otus belonged to the core microbiome.to explore the distributions of rare and abundant taxa across soil samples we calculated the per cent changes for rare or abundant taxa in one sample to determine whether these taxa were abundant intermediate rare or not detected in other samples fig.
+
+based on this finding rare taxa seldom co-occurred with abundant taxa while intermediate taxa frequently co-occurred with abundant taxa.
+
+this trend suggests that abundant andcore taxa were more often located in central positions within the network than were rare and other taxa.to confirm the above observations we generated subnetworks for each subcommunity and calculated a set of network-level topo- logical features table 2. the average degree clustering coefficient and graph density were all higher in the abundant and core subnet- works than in the rare and other subnetworks indicating the abun- dant and core taxa networks were more connected than the rare or other taxa networks.
+
+2016.fi gu re 3 meta-community co-occurrence networks of rare and abundant bacterial taxa in oil-contaminated soils based on a correlation analysis shown are a co-occurrence network coloured for abundant or rare taxa a and a co-occurrence network coloured for core or other taxa b. a connection indicates a strong spearman's q  .6 and significant fdr-corrected p-value  .01 correlation.
+
+interestingly no rare taxa were found in the core subnetwork while almost all abundant taxa and all edges from the abundant taxa were present in the core subnetwork fig.
+
+mantel's test was performed to calculate correlations between the similarity matri- ces of the whole abundant and rare bacterial communities this test also determines significance.conditionally rare taxa crt are microorganisms that are usually very rare within a community but become abundant under certain conditions shade et al.
+
+the val- ues of these topological features were significantly higher p  .05 for abundant taxa than for rare taxa and they were also higher for core taxa than for other taxa.
+
+2017265305-5317.c 2017 john wiley  sons ltd  5305morrison hobbie  sogin 2012. in the arctic ocean abundant taxa show a log-normal species-abundance distribution while rare taxa exhibit a log-series distribution galand et al.
+
+2011.in some studies the abundance of rare taxa was influenced by the same environmental factors that drove abundant taxa such as the season and the water depth for bacterioplankton in the olig- otrophic ocean vergin done carlson  giovannoni 2013 or nutri- ent stress for bacterial populations in coastal sands gobet et al.
+
+of the taxa that were locally abundant 23.1 were also abundant and only 2.8 were rare in other samples.the bacterial compositions of the rare and abundant subcommu- nities differed greatly figure 1. deltaproteobacteria alphaproteo- bacteria anaerolineae clostridia and sphingobacteria were most often rare.
+
+the numbers in black below each node represent the inner associations of each subcommunity and the numbers of nodes in each subcommunity are coloured according to the categories colour figure can be viewed at wileyonlinelibrary.comab60050040030020010003.0e052.5e052.0e051.5e051.0e055.0e040fi gu re 4 unique node-level topological features of rare and abundant bacteria in oil-contaminated soils specifically the degree a betweenness b closeness c and eigenvector centrality d. all features were significantly different between rare and abundant taxa based on wilcoxon rank sum tests p  .05 colourfigure can be viewed atc1.00.80.60.40.20.0abundantrareabundantrared2.6e-062.6e-062.5e-062.5e-06wileyonlinelibrary.comabundantrareabundantrare distinct distributions of rare and abundant bacteriain the present study we observed the highest richness and diversity for the rare microbial subcommunity among the subcommunities.
+
+furthermore elucidating the geographic distribution of rare and abundant microbes is important to maintain overall ecosys- tem diversity and stability telford vandvik  birks 2006. in this study we provide new insights into the biogeographic assemblies and ecological diversities of the rare and abundant bacterial subcom- munities in long-term oil-contaminated soils using existing high- throughput sequencing data sets obtained from microbial communi- ties at sites surrounding five oil refineries jiao et al.
+

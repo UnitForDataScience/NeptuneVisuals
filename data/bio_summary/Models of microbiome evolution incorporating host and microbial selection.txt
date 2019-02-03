@@ -1,0 +1,30 @@
+in other words under hs and tms an increase in host fitness is a consequence of an initial colonization of microbes that possess traits that are fortuitously advantageous to both hosts and microbes.this is supported by a significantly positive correlation be- tween our measurement of initial hs-tms trait fitness asso- ciations and change in average host fitness additional file figure s6 and additional file figure s7.in contrast when both hs and hms operate in a popu- lation both host and microbial fitnesses are improved host fitness increases more markedly than under hs alone p value  2.2e-16 and microbial fitness increased more markedly than that under hms alone p value  3.215e-07 figs.
+
+therefore for any specific host all microbes that possess a certain trait still retain the same fitness value for that trait whereas microbes associated with different hosts can have different fitness values for the same trait.the probability of sampling microbes from a source community i.e.
+
+how can microbes pro- vide functionally valuable services to hosts with no obvious mechanisms of transmission and apparently op- portunistic acquisition from the environment - arguably our simulations under hs and hms capture the dynamics of the emergence of no-cost or bypro- duct mutualism between hosts and microbes since there are no active interactions amongst hosts that favor the persistence of beneficial microbes of course when offspring inherit their entire micro- biome from their parents host selective effects can havean effect on host fitness even without the action of hms on microbes additional file figure s4 and additional file figure s5.
+
+either the environmental or the parental microbiomes is given byf a14mk141 kwhere fi represents the fitness of microbial otu i de- fined by its phenome and the particular model of selec- tion applied ai represents the relative abundance of microbial otu i within the source community and m is the total number of microbial otus.the probability that a host individual in a given gener- ation is descended from host i in the previous generation isqfk141 f ktotal number of traits 3 mbp14 14 mbp x 255where fi represents the fitness of host i and n is the host population size.for any microbe i or host i the fitness is given by f ip5 v 5to approximate the total number of microbes carried by one host.
+
+increasing average host fitness requires at least two conditions 1 microbes influence host survival and or reproductive success and 2 microbes are transmitted parentallysocially or microbes are themselves subject to host-mediated selection.modelwe recently proposed agent-based neutral models of microbiome evolution  the basic framework of ourneutral models incorporates a wright-fisher genea- logical model of hosts with discrete generations this al- lows us to investigate the dynamics of microbiomes on an evolutionary timescale in which some host lineages are lost and others amplified stochastically.
+
+as with our results on microbial diversity hs alone improves host fitness but not microbial fitness only when direct andor indirect parental contribution is extremely high additional file figure s4 and additional file figure s5.interestingly if hs and tms are applied together mi- crobial fitness still increases over time just as with tms alone fig.
+
+but changes in host fitness seem to depend on the initial assignment of trait fitness additional file figure s6 and additional file figure s7 if by chance alone more mutually beneficial traits are assigned at the start of the simulation to phenomes then host fitness is likely to increase.
+
+the changes in average fitness of host population is measured by subtracting the initial fitness level from the final positive value means increased fit- ness and negative value means decreased fitness.
+
+microbial traits can influence the fitness of hosts host selection and the fitness of microbes trait-mediated microbial selection.
+
+finally if we exam- ine the impact of the different selective effects on changes in average host or microbial fitness over evolutionary time we see that when microbes are subject to either host- or trait-mediated selection average microbial fitness in- creases.
+
+with a phenome-based approach the selective effects on microbes and hosts are modeled by allowing each trait to confer one fitness value to the microbe it- self and independently one fitness value to the host where it resides.
+
+those in which the selective effects on hosts and microbes work in opposite directions then mean microbe fitness increases and host fitness decreases.
+
+we expect that with sufficiently large fitness effects these will increase in frequency in the population.our results also demonstrate that even when both host and microbial selection are in play in a population microbial communities will continue to harbor microbes that contribute nothing to host fitness commensals or contribute negatively pathogens.
+
+commensal microbes and the persistence of microbes that have negative fitness effects on hosts i.e.
+
+which suggests a strong interaction between hs and hms.it is interesting to consider whether otus that have a net neutral effect on host fitness equivalent to com- mensal microbes and those that have a net negative ef- fect equivalent to pathogenic microbes persist over the course of the simulations.
+

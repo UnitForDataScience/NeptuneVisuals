@@ -1,0 +1,30 @@
+2013 pedersen  fenton 2015.the experimental study of interactions between microbiota and parasites has become more feasible in recent years reynolds finlay  maizels 2015. there have also been some observational studies both in humans and in wildlife that have looked into the interactions between microbiota and parasites some studies did not find bacte- rial community changes upon infection baxter et al.
+
+these results provide new hypothesis for in- teractions between and among parasites and bacterial microbiota to be tested fur- ther with experimental studies.keywords helminths joint species distribution modelling microcebus primates1  introduction interaction between species is one of the key determinants of the spa- tial and temporal dynamics of species communities ings et al.
+
+201887438-447.only plausible but probable that microbiota interact with intestinal parasites in many ways affecting both invasions of new parasite spe- cies and their ability to colonize the intestine and within-host dynam- ics of parasites berrilli di cave cavallero  d'amelio 2012 hayes et al.
+
+the collection and analysis of nematode and microbiota data have been previously described in detail aivelo et al.
+
+2015. the mouse lemur microbiota is pre- sented in more detail in aivelo et al.
+
+2004 zuk  mckean 1996 and microbiota bolnick et al.
+
+2015. this allows us to focus and more reliably assign residual variation to potential species interactions.the presence of eimeria led to a higher otu diversity in the mouse lemur gut bacterial community figure 1. in previous studies on poul- try eimeria reduces alpha diversity wu stanley rodgers swick  moore 2014. although less often studied in mammals the evidence so far seems to indicate that the presence of eimeria can either in- crease or decrease the alpha diversity of the gut bacterial community bar phukan pinheiro  simoes-barbosa 2015 ras huynh desoky badawy  widmer 2015. it is not yet well known how coccidian in- fection affects microbiota except for the wide-spread human patho- gen toxoplasma gondii it induces epithelial damage in the gut lumen including the loss of paneth cells which produces antimicrobial pep- tides and leads to a shift towards gram-negative bacteria bar et al.
+
+as with coccidians the resident bacteria are important in mounting the immune defence against helminths and thus microbiota composition can alter the success rate of invading helminths hayes et al.
+
+for microbiota composition the composition of faecal matter differs in different parts of the intesti- nal mucosa eckburg et al.
+
+nevertheless the helminth effect on microbiota is not confined to the helminth niche as such kreisinger et al.
+
+nevertheless due to contemporary methods including metabarcoding and 16s se- quencing collecting observational data on community composition has become easier and much more common.we studied the previously collected datasets of intestinal bacterial microbiota and parasite compositions within longitudinally followed mouse lemurs by analysing the potential interactions with diversity metrics and novel joint species distribution modelling.both methods showed statistical association between certain parasite species and bacterial microbiota composition.
+
+as we used the presence and absence of parasites and microbiota as the response matrix we wanted to avoid the overrepresentation of very rare otus and hence we considered only otus with 9 amplicons for microbiota.
+
+we also explored the use of novel joint species distribution modelling for identifying interac- tions between multiple parasite species and microbiota and found differing responses on microbiota orders by two closely related ces- tode species.
+
+2010. a good example of this is a nematode parasite of mice trichuris muris which requires bacterial interactions for successful es- tablishment in host intestine hayes et al.
+
+2010.interactions between different parasite species have been studied extensively in laboratory experiments graham 2008 knowles 2011 but it is notoriously difficult to identify interspecific interactions in observational studies fenton knowles petchey  pedersen 2014 fenton viney  lello 2010. although many studies have found ran- dom parasite assemblages indicating no interactions behnke 2008 poulin 1996 few studies have found interactions between parasites both positive and negative lello boag fenton stevenson  hudson 2004. one successful way of revealing parasite interactions is the community perturbation experiment a combination of an experimen- tal approach to free-living host communities knowles et al.
+

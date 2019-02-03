@@ -1,0 +1,30 @@
+although micro- bial composition of nile tilapia oreochromis niloctus has been explored  the knowledge about the gut microbial wasudeo n. gade 1 department of biotechnology savitribai phule pune university ganeshkhind pune maharashtra 411007 india2 microbial culture collection mcc first floor central tower sai trinity building garware circle sutarwadi pashan pune maharashtra 411021 indiacomposition of mossambicus tilapia is still lacking.
+
+this study gives a first insight into the mossambicus tilapia gut microbiota and provides a refer- ence for future studies.keywords mossambicus tilapia  gut microbiota  next generation sequencing  invasive species  host microbiota interactionsintroductionoreochromis mossambicus tilapia is the most commonly found cichlid fish which is native to the eastern coast of africa .
+
+doi 10.1007s12088-017-0641-9deep sequencing reveals highly variable gut microbial composition of invasive fish mossambicus tilapia oreochromis mossambicus collected from two different habitatsswapnil sopan gaikwad12  yogesh s. shouche2  wasudeo n. gade1received 29 august 2016  accepted 23 january 2017  published online 7 february 2017c association of microbiologists of india 2017abstract tilapia oreochromis mossambicus is one of the most invasive fish found throughout the world and emerged as a major threat to the indigenous fishes in many countries.
+
+in this study tilapia gut microbial community structure is significantly different from the microbiota of the respective water samples anosim p  0.005 table  supplementary fig 2 and 3. it was also noted that bacterial phyla and their abundance found in tilapia gut were different from its respective water samples fig.
+
+furthermore the distribution of the ten most abundant otus of tilapia gut in its respective water samples suggested that they are either absent or present in low abundance supplementary table 2. such highly divergentmicrobiota of the fish gut compared to water microbiota from the same locality suggest that water has less influence on the gut microbial composition of tilapia.
+
+along with this microbial commu- nity structure of the surrounding water was also explored todetermine its possible role in structuring the microbial composition of tilapia.materials and methodsthe adult tilapia were collected from two sampling sites.
+
+the water microbial com- position of the respective habitat also showed significant difference from each other and tilapia gut microbial com- munity fig.
+
+in the present study we have explored the gut microbial community structure of tilapia using 16s rrna gene sequencing on the illumina miseq platform.
+
+river and lakes sug- gesting the influence of habitat on the gut microbial diversity of tilapia.
+
+however despite its ecological sig- nificance till now no attempts have been made to exploreelectronic supplementary material the online version of this article doi contains supplementary material which is available to authorized users.the gut microbial composition of tilapia.
+
+in this study we have explored the gut microbial composition of tilapia using the illumina miseq platform for the first time.
+
+to understand the variation in the gut microbial structures of tilapia samples were collected from two different habi- tats i.e.
+
+interestingly in the present study tilapia collected from different habitat showed notable differences in the gut microbial compositions.
+
+these variable abiotic factors of the water could also be responsible for the highly divergent microbial composition of tilapia gut.
+
+it was noted that the difference in the microbial community structure of tilapia gut within the individuals collected from the same locality was nottable 3 the anova of the bacterial communitiescomparisonsp valuewithin trgut0.99within tlgut1within trwat0.99within tlwat0.99between trgut and trwat0.0001between tlgut and tlwat0.0001between trgut and tlgut0.0001between tr water and tlwater0.0001 significant valuessignificant.
+

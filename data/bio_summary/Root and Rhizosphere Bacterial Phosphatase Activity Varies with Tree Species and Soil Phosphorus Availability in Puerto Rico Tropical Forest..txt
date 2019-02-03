@@ -1,0 +1,30 @@
+the improved understanding of variations among different tree species of root and bacterial function may provide a means to improve representation of tropical forests in ecosystem models and help us gain a more thorough understanding of how roots and their bacterial community enable tropical forests to thrive in severely limited p soils.to understand how root and bacterial function differed by tree species and soil p availability we assessed phosphatase activity in roots and bacterial isolates.
+
+recent simulations indicate that phosphatase activity could be an important factor in regulating the size of the carbon sink given that p acquisition may be a limiting factor in continued growth under changing climates  .decades of work have established the importance of the soil environment on determining root and bacterial function         which influenced our choice to study root and bacterial phosphatase activity and bacterial community composition at a collection of sites that increased in p availability from icacos to ridge to valley   .
+
+permutational multivariate analysis of variance of bacterial community composition based on 16s amplicon sequencing indicated that bacterial composition was strongly controlled by soil p availability p-value  0.05. these results indicate that although root and bacterial phosphatase activity were influenced by tree species bacterial community composition was chiefly influenced by p availability.
+
+furthermore our results indicated that tree species played an important role in determining root and bacterial pme activity supporting efforts to build more species-specific trait understanding of p mineralization.the root system is highly plastic responding to variations in p availability through changes in root morphology architecture exudation and interactions with soil microbes    .
+
+as expected root phosphatase was negatively correlated with resin p availability supporting the view that root phosphatase may be an important functional trait that forms a critical aspect of nutrient acquisition in low p environments.our second hypothesis that phosphatase activity would be influenced by tree species was supported by both root and bacterial two-way repeated measures manovas albeit our limited sample size.
+
+the overarching question was how soil p availability and tree species influenced root and associated bacterial phosphatase activity as well as root associated bacterial community composition.
+
+the direct pathway for puptake is through root hairs or the root epidermis restricting p uptake to the soil volume closest to the root surface.
+
+many members in the plant growth promoting bacteria group can alter root architecture and morphology by synthesizing major plant hormones such as auxin and ethylene stimulating the formation of lateral roots decreasing primary root length and increasing root hairs - indirectly influencing the effectiveness of soil foraging      .
+
+orthophosphate in the resulting extract was quantified using the lachat quikchem 8500. site level p availability is presented as an average of the nine cores taken at each site.root clustersthe first three most distal ends of the root were collected for the root phosphatase assay according to recent studies that indicate functional differences in the root system.
+
+three root clusters first three orders from the most common tree species in each site were sampled during november 2015. root clusters were collected by tracing roots from the base of each individual tree and gently excavating to the terminal three root orders.
+
+in total 12 root clusters were collected from icacos 9 root clusters from ridge and 9 root clusters from valley n 3 per tree species.
+
+linear regressions of average root pme and root pde at each site with respect to average resin p availability indicated a negatively correlated trend between root phosphatase and p availability.
+
+degrees of freedompr fsite10.20572.97922230.0707species10.38687.25402230.0036sitespecies10.14161.89772230.5725residuals24denotes p-value  0.05.the root orders collected and ensuing differences in the microbes attached to root tissue.root order was shown to correspond to different roles in the root system where the first and second orders or the most distal roots are associated with higher rates of exudation and uptake than those of higher orders typically associated with transport  .
+
+similarly a comparison between lianas and trees demonstrated that roots of lianas seem to favor high p acquisition correlated with root traits such as greater root branching intensity higher n and p concentrations and higher specific root lengths   .
+
+numerous reviews describe how this intimate association between trees and fungi influence root branching fine roots root shoot ratio specific root length and responses to elevated co2 as well as the finer details of the root- fungal interface and the exchange of nutrients          .
+

@@ -1,0 +1,30 @@
+these observations agree with our recent studies showing that the oral administration of bacteriophages induces an increase in the intestinal permeability and endotoxemia in mammals significantly changing microbiota composition beyond the possible direct effect of bacteriophages and because of this it was suggested that these effects are exerted through yet unknown mechanisms    .additionally the results obtained in this study suggest that the presence of prds in bacteriophages may be associated with a number of mammalian diseases in which the role of prions was demonstrated both in macroorganisms and in gut bacteria.
+
+therefore the role of bacteriophages as the potential indirect causative agent inducing the development of these diseases requires further investigation  .here we studied in detail the putative prion domains in bacteriophages.
+
+the lowest mean llr values were detected among cellulophaga and escherichia bacteriophages 3.49 and 3.98 respectively and the highest llr score was obtained for the bacillus bacteriophages with the average llr of 8.96 p  0.001. no direct correlation was observed between the functions of proteins containing prds and the llr score.
+
+these proteins are also associated with the organization and maturation of bacteriophages and those involved in the tail assembly and dna packaging      .the identified prds in proteins that are involved in cell wall lysis and the release of bacteriophages from the host cells were less abundant and this group contained only 105 proteins medium llr score 5.13. this group predominantly comprised lysins including those with the amidase activity and proteins with peptidoglycan binding functions hydrolases d-ala-d-ala carboxypeptidase endopeptidase chap domain protein and others which are involved in bacterial cell walldegradation resulting in cell lysis and release of progeny viruses.
+
+the results of our study underline the necessity of characterizing bacteriophages and we propose here that the all bacteriophage genes should be known as the phagobiome.here prds were more frequently found among archaeal phages and the analysis of the three best-known caudoviralesfamilies showed that these domains are more abundant amongpodoviridae than myoviridae or siphoviridae.furthermore our analyses demonstrated that approximately 50 of all sequenced bacteriophages available in public databases contain at least one prd.
+
+it can be assumed that a similar process may be observed following the introduction of bacteriophages and that bacteriophages contribute to the observed processes.proteins that are involved in the bacterial cell wall interactions and the release of progeny phages from the host were shown to harbor prds as well.
+
+bacteriophages are widespread and represent the important regulators of microbiota homeostasis and have been shown to be diverse across various bacterial families.
+
+here we examined whether bacteriophages contain prion-like proteins and whether these prion-like protein domains are involved in the regulation of homeostasis.
+
+the results obtained in this study indicate that bacteriophage prion-like proteins are predominantly involved in the interactions between bacteriophages and bacterial cell such as those associated with the attachment and penetration of bacteriophage in the cell and the release of the phage progeny.
+
+these data allow the identification of phage prion-like proteins as novel regulators of the interactions between bacteriophages and bacterial cells.keywords prions bacteriophage bacterial cell interaction prion-like-domain microbiotaintroductionprions were demonstrated to play important roles in eukaryotes and prokaryotes and they have been intensively studied during the last decade  .
+
+moreover prion determinants were shown to participate in the inter-kingdom communication between prokaryotes and eukaryotes leading to the alterations in the amyloidogenesis in caenorhabditis elegans following its colonization with amyloid-producing bacteria  .however the prion-like domains in viruses in particular the bacterial viruses bacteriophages have not been thoroughly examined.
+
+bacteriophages are ubiquitous organisms thatbacteriophages in the adult human gut    .
+
+the life cycle of bacteriophages can be lytic resulting in bacterial death and de novo assembly of virions or lysogenic in which bacteriophage dna is integrated into the bacterial genome.
+
+moreover we previously demonstrated that the bacteriophages by altering mammalian gut flora can induce an increase in gut permeability and facilitate endotoxemia indirectly affecting the vital activities of microorganisms    .
+
+to the best of our knowledge this is the most extensive effort aimed at the identification of candidate prd sequences among bacteriophages.
+

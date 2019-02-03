@@ -1,0 +1,30 @@
+adonis p  0.258.each population harbored a small set of bacterial taxa that were absent from the other populations but these unique otus were all present at very low abundance 0.01 supplemental table 3. the east bay had the most unique otus 112 while the other populations had few unique otus 14-20. none of these population-specific otus matched to any known amphib- ian mutualists present in the woodhams et al.
+
+otu richness pd and chao1 were all normally distributed shapiro-wilk p  0.05 and mcintosh evenness was not shapiro-wilk p  0.001. anova showed significant differences between the four populations in three mea- sures of alpha diversity otu richness f  7.03 df  3 p  0.001 chao1 f  5.897 df  3 p  0.002 pdf  5.658 df  3 p  0.003. however all four populations had similarly values of mcintosh evenness kruskal-wallis p  0.868. tukey post hoc tests revealed that otu richness was higher in the east bay than all other populations north bay p  0.044 sierra nevada p  0.001 south bay p  0.011. the east bay population also had higher values of chao1 and pd than the south bay chao1 p  0.018 pd p  0.024 and sierra nevada populations chao1 p  0.002pd p  0.002 but the north bay population was not different chao1 p  0.112 pd p  0.080.within the north bay population student's t test showed that all alpha diversity metrics were similar between sexes otu richness t17.48  0.394 p  0.698 chao1 t16.64  0.514 p  0.614 pd t18.4  0.045 p  0.965mcintosh evenness t13.53  -1.878 p  0.082. three of the four alpha diversity metrics were also similar between adults and juveniles otu richness t19.83  1.753 p  0.096 pd t17.19  1.2875 p  0.215 mcintosh even-ness t25.06  -0.817 p  0.421 but adults had higher values of chao1 than juveniles t20.32  2.238 p  0.036.community composition beta diversityusing both unweighted unifrac and bray-curtis dissimilarity metrics we found that skin microbial communities differed between the four sampled populations fig.
+
+because neither ensatina nor any other plethodontid salamander from the western usa has been surveyed before it is possible that otus that did not match the antifungal database for example the otus we identified as unique to individual populations are local mutualists that have not previously been detected.
+
+our results there- fore suggest that the most abundant otus were similar across populations but each population also harbored its own charac- teristic community including a set of unique otus that were present at low abundances 0.01 the roles of which remain unknown supplemental table 3. microbiome communities have been shown to be highly dynamic shifting composition between seasons weeks and even days   .
+
+abundances of these otus were similar across populations kruskal- wallis test p  0.6713.discussionin this study we examined variation in skin microbiome com- munity of the terrestrial salamander e. e. xanthoptica a sub- species composed of four genetically and geographically dis- tinct populations .
+
+while all individuals were found in wooded areas the vegetative communities were none- theless different across populations with east bay individuals found primarily in suburban oak forest south bay populations in redwood forest and north bay and sierra nevada populations in mixed forests.
+
+otus were then assigned taxonomy using the greengenes reference da- tabase greengenes database consortium 2015. for se- quences that did not match the reference database otus were clustered de novo and the centroid of the cluster was chosen as the representative sequence.
+
+to do so we filtered our list of core microbiome otus by otu id to include only those that matched otus in the woodhams et al.
+
+anumber of otus were unique to either the soil or salamander datasets but most were present in both soil and salamander samples 83 of otus identified.abfig.
+
+the core community dominated the skin microbiomes of most individ- uals with an average relative abundance of 0.44 minimum 0.03 maximum 0.82. two individuals with low core com- munity abundance 0.03 and 0.185 respectively were domi- nated by otus of the family chlamydiaceae.core otus were identified as belonging to the phyla acidobacteria actinobacteria bacteroidetes and proteobacteria.
+
+bray-curtis and unweighted unifrac distances are based on presence- absence of bacterial otus in each sample while weighted unifrac distances incorporate presence-absence as well as abundance of bacterial otus in each sample.
+
+in addition otus may generally be under negative-frequency-dependent selection such that otus reaching high abundance are easily attacked by pathogens.
+
+second to test for microbiome differences between sexes and age groups we analyzed mi- crobial diversity within the north bay population n  31. third to test whether the microbiome of salamanders is sig- nificantly distinct from that of their habitat soil we com- pared salamander samples from each population n  42 to five soil samples from each population n  20. we rarefied the number of reads per sample for each analysis separately to ensure equivalent sampling populations  31025 sexes ages  24155 salamanderssoil  33855. we also describe a core e. e. xanthoptica microbiome of bacterial otus that appeared in 90 or more of salamander samples.
+
+the number of otus otu richness on individual salamanders ranged from 427 to 2423 while measures of mcintosh even- ness ranged from 0.06 community dominated by few taxa to0.94 highly even community.measures of alpha diversity varied somewhat between popu- lations with east bay generally exhibiting higher values than the other three populations.
+
+using b weighted unifrac the skin microbiomes of the four populations are indistinguishablecore microbiomewe identified a core community of 90 otus that were present in 90 or more of our salamander samples table .
+

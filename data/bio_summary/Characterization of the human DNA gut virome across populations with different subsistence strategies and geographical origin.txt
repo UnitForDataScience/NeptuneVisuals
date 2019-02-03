@@ -1,0 +1,30 @@
+2016. the detection of human viral dna in faeces may reflect the presence of a complex viral popu- lation in the human gut or mucosal cells whose role in human biology needs to be further explored.resultsstructure and diversity of the human gut dna viromemetagenomics sequences of the gut microbiota of 27 hadza hunter-gatherers from tanzania age 8-70 11 urban italians from bologna italy age 21-40 22 urban us individuals from norman oklahoma age 7-50 24 matses hunter-gatherers age 1-42 and 12 ruralhuman dna gut virome in different populations 4729tunapuco from peru age 3-44 were recovered from pre- vious studies obregon-tito et al.
+
+2015.the gut dna virome is a complex entity that could persist inside the human host in a population-specific wayto identify patterns of viral community variation among hadza matses tunapuco and western individuals italians and us people we determined co-occurrence associa- tions meaning the frequency of concomitant detection of two taxa between viral species and then clustered them according to the co-occurrence profile as previously described by biagi and colleagues 2016 for the human gut microbiome.
+
+2015 was proven also for the viral counterpart we compared the gut virome biodiver- sity among the five populations by considering the number of viral species per sample fig.
+
+even if genetic evidence of a potential pathogenic behaviour was found in the dna virome from all the study populations our data also raise the question of the biological importance of the gut virome in human physiology and the possible role of our virome counterpart as a co-evolutionary partner.
+
+2016. studies of the human virome are just at the begin- ning and only recently the retrieval of viral sequences in large sequence data sets has been possible thanks to bio- informatics tools which can identify viral sequences within metagenomes roux et al.
+
+to further explore the gut microbiome variation in human populations here we characterized the human dna viral community from publicly available gut metagenome data sets from human populations with different geographical origin and lifestyle.
+
+2016. in particular we focused our attention on herpesviridae as they were largely shared in our data set looking for reads coding for poten- tial pathogenic viral genes such as those assigned to the envelope glycoproteins involved in the virus entry into thevc 2017 society for applied microbiology and john wiley  sons ltd environmental microbiology 19 4728-4735human dna gut virome in different populations 4731fig.
+
+2015. conversely the viral contamination of food resources may also feed the human gut virome rzezutka et al.
+
+thus it is tempting to speculate that the higher contribution of beta- papillomavirus to the gut virome of this traditional population could be partially attributable to living in helminth-endemic areas.in summary this work constitutes a first important step in the characterization of the viral metacommunity within the faecal microbiome of human populations with different lifestyles.
+
+environmental microbiology 2017 1911 4728-4735doi10.11111462-2920.13938characterization of the human dna gut virome across populations with different subsistence strategies and geographical originsimone rampelli1 silvia turroni1 stephanie l. schnorr2 matteo soverini1 sara quercia1 monica barone1andrea castagnetti1 elena biagi1 giorgio gallinella1 patrizia brigidi1 and marco candela11department of pharmacy and biotechnology university of bologna bologna italy.2department of anthropology laboratories of molecular anthropology and microbiome research university of oklahoma norman ok usa.summaryit is a matter of fact that the human gut microbiome also includes a non-bacterial fraction represented by eukaryotic cells and viruses.
+
+well matching the gut microbiome behaviour the hadza and mates hunter-gatherers were characterized by a higher gut virome diversity compared to urban us and italians.
+
+the main findings of these studies highlighted the presence of discriminatory viruses in malnourished children and in chil- dren with enteric diseases compared to healthy controls but compositional virome differences between healthy sub- jects related to lifestyle and community-based differences of sampled populations were not explored.to fill these gaps in knowledge here we present an anal- ysis of the human dna virome variation across the gut microbiome of human populations with different lifestyles.
+
+2016. however no abundance data were reported in these publications.according to our findings besides a shared gut virome fraction well-defined lifestyle and population-associated virome structural peculiarities were evident.
+
+viral sequences were detected using viromescan a newly developed tool for metagenomic viral community profiling rampelli et al.
+
+3 in which edges represent a positive co-occurrence between two viral spe- cies and the diameter of the nodes is proportional to the occurrence frequency of viral species across samples in each population i.e.
+

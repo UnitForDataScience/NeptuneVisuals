@@ -1,0 +1,28 @@
+prokaryotesdraft genome sequences of 25 listeria monocytogenes isolates associated with human clinical listeriosis in irelandamy o'callaghanab amber hilliardab ciara a. morganab eamonn p. culliganab dara leongc niall delapped colin hillab kieran jordanc martin cormicane cormac g. m. gahanabfapc microbiome institute university college cork cork irelanda school of microbiology university college cork cork irelandb teagasc food research centre moorepark fermoy cork irelandc national salmonella shigella and listeria reference laboratory galway university hospitals galway irelandd school of medicine national university of ireland galway irelande school of pharmacy university college cork cork irelandfabstract listeria monocytogenes is a gram-positive opportunistic pathogen that is the causative agent of listeriosis.
+
+j mol biol 215403- 410.rutherford k parkhill j crook j horsnell t rice p rajandream ma barrellgenome announcementb.
+
+bioinformatics 16944 -945.punta m coggill pc eberhardt ry mistry j tate j boursnell c pang n forslund k ceric g clements j heger a holm l sonnhammer el eddy sr bateman a finn rd.
+
+the isolates were obtained from clinical cases of disease in ireland between 2013 and 2015 and were submitted to the national salmonella shigella and listeria human health reference laboratory service at galway university hospital.whole-genomic dna was extracted using the genelute bacterial genomic dna kit sigma aldrich per the manufacturer's instructions.
+
+raw reads were mapped to a reference genome using bwa-mem and de novo assembly was performed using spades genome assembler.
+
+.vazquez-boland ja kuhn m berche p chakraborty t dominguez- bernal g goebel w gonzalez-zorn b wehland j kreft j.
+
+library preparation and 250-bp paired-end sequencing was performed using the illumina hiseq 2500 platform mi- crobes ng university of birmingham uk.
+
+contigs were reordered using mauve aligner v2.4.0.
+
+prediction of putative open reading frames orfs was performed using prodigal prediction software  and supported by blastx  alignments.
+
+using the orf finding outputs and associated blastp results artemis  was em- ployed for visualization and manual editing in order to verify and where necessary redefine the start of every predicted coding region or to remove or add coding regions.
+
+rrna and trna genes were detected using rnammer  and trna-scanse  re- spectively.
+
+we acknowledge funding received from science foundation ireland in the form of a center grant alimentary pharmabiotic centre sfi12rc2273.referenceslomonaco s nucera d filipello v. 2015. the evolution and epidemi- ology of listeria monocytogenes in europe and the united states.
+
+2001. listeria pathogenesis and molecular virulence determinants.
+
+.maury mm tsai yh charlier c touchon m chenal-francisque v leclercq a criscuolo a gaultier c roussel s brisabois a disson o rocha ep brisse s lecuit m. 2016. uncovering listeria monocytogenes hypervirulence by harnessing its biodiversity.
+

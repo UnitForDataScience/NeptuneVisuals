@@ -1,0 +1,30 @@
+the output result was visualized using ggplot2 in r package.resultsbacteria and potential function capacities enriched in cecum lumen and fecescecum lumen obtained an average of 718 otus in the tested samples ranging from 195 to 995 while the aver- age number of otus for fecal samples was 888 which ranged from 618 to 1066. the a-diversity of microbialcommunity of cecum lumen and feces was described in our previous publication here we focused on the identification of bacterial genera enriched in cecum lumen and feces respectively.
+
+26 out of the 29 genera showed distinct relative abun- dances between cecum lumen and feces p  0.05 in- cluding 12 genera enriched in the cecum lumen and 14 genera showing higher abundances in the feces.to compare the potential function capacity of mi- crobial community between cecum lumen and feces the relative abundances of kegg pathways were pre- dicted by picrust based on 16s rrna gene se- quences.
+
+fang et al.
+
+for instances backhed et al.
+
+showed that germ-free mice have 40 less fat mass than normal conventionalized mice turnbaugh et al.
+
+devadder et al.
+
+re- vealed that microbial degradation of dietary fiber to scfas plays causal roles in the metabolic benefits semova et al.
+
+he et al.
+
+identified several gut microbial taxa showing significant associations with porcine back- fat thickness and abdominal fat weight yan et al.
+
+yan et al.
+
+correlation coefficients between imf values and relative abundances of kegg pathways were calcu- lated by using maaslin online galaxy version the significant threshold was set at fdr  0.05.identifying the taxonomic drivers of functional shiftsto evaluate the contribution of the imf-associated otus to functional shifts of gut microbiome we used fishtaco analysis to establish the correlation between imf-associated otus and functional capacities as de- scribed by borenstein et al.
+
+2012910577-89.backhed f ding h wang t hooper lv gou yk nagy a et al.
+
+201674e1016-8.de vadder f kovatcheva-datchary p goncalves d vinera j zitoun c duchampt a et al.
+
+20141561-284-96.semova i carten jd stombaugh j mackey lc knight r farber sa et al.
+
+2012123277-88.therkelsen ke pedley a speliotes ek massaro jm murabito j hoffmann u et al.
+

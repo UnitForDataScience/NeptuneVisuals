@@ -1,0 +1,30 @@
+published with license by taylor  francisthis is an open access article distributed under the terms of the creative commons attribution-noncommercial-noderivatives license   which permits non-commercial re-use distribution and reproduction in any medium provided the original work is properly cited and is not altered transformed or built upon in any way.multivariate statistical models and an alternate approach to cluster 16s reads to otus for taxonomic assignment to evaluate the reproducibility of our results.questioning an ecosystemone of the main challenges in gut microbiota studies is to grasp how the host responds to modifications of a com- plex bacterial ecosystem while considering inter-individ- ual environmental variation.this challenge requires integration of multiple-level interactions between the host system variables and characteristics of the bacterial taxa and one approach to tackle this challenge is addressed by multivariate statistical tools.
+
+this topic is addressed in the following section where the mechanisms by which the host might be able to mod- ulate the microbiota will be discussed and linked to obesity.potential mechanisms underlying associations between microbiota and host geneticsseveral studies have demonstrated that host genet- ics influence gut microbiota composition.
+
+additional potential mechanisms that may in part account for host genetic impacts on gut microbiota include host genetic influences on dietary preferences because diet is a primary factor shaping gut microbiota composition and related host genetic impacts previously linked to lifestyle such as nicotine and alcohol intake and exercise frequency.
+
+collapsing of 16s rrna gene sequencing 16s data to otus in the data set of 1313 individuals was pursued here using analternate approach compared with that of beaumont et al.specifically our previous study used open refer- ence clustering with greengenes v138 at 97 sequence similarity while the present analysis was based on sumaclust de novo clustering in qiime at a similarity threshold of 97 with later taxonomic assignment against the same reference database.the purpose of this approach was to assess if the results are reproducible at the otu level when changing the method for quantification as there is evidence for dif- ferential accuracy between reference based and de novo clustering of otus.
+
+c. diversity distribution of the 155 otus used to generate the o-pls da model and of the 26 otus that were considered as significantly associated to vfm from the same model.
+
+d. association loadings between vfm and the 14 significant otus genera highlighted in blue are otus that were negatively associated with vfm in the beaumont et al paper while those in red are positively associated and purple represents a mixture of positive and negative associations.example the gut microbiota.model validity can be assessed by evaluating the goodness of fit and of pre- diction.
+
+our results are in line with previous findings as we also observed a negative association between vfm and bacteroidetes otus similar to pre- viously published analysis by beaumont et al.the analyses may also in part reflect incomplete coverage of bacterial composition and diversity by 16s data while technologies such as shot gun metagenom- ics may allow us to detect more subtle and accurate changes of the ecosystem.however the modifica- tion in diversity balance indicates the central role occupied by firmicutes in energy balance and expen- diture reflected by adiposity phenotypes that was also observed in beaumont et al.in terms of considering gm deleterious or protec- tive effects on cardio-metabolic disease risk the over- all the direction of association between otus and vfm were comparable to results previously pub- lished in beaumont et al.
+
+in this context host immunity is a key player in shaping the gut microbial commu- nity and it is now well established that this is a 2- way interaction between the host and its microor- ganisms.
+
+a second mechanism of host genetic influences is linked to the secretion of host micro- rnas in the intestinal lumen.
+
+micrornas are small non-coding host rna molecules involved in post-transcription regulation of host gene expres- sion.
+
+both geneticand environmental factors play a role in obesity and identifying these effects and their dynamics may allow identification of new intervention targets.the human body is the host of trillions of bacteria the majority of which are concentrated within the intes- tinal track and specifically the colon.
+
+gut bacteria are strongly involved in food digestion and energy expendi- turebut also in maintaining host metabolic homeosta- sis and health.
+
+our findings further explored novel evidence that host genetic factors may influence the link between obesity and gut microbiota changes.
+
+if a bacterial taxon impacts the health status of the host under specific envi- ronmental conditions then the impacts of this bacterial unit should also be studied taking into account the status of other members of the ecosystem.
+
+furthermore a literature search will often reveal reports of identical taxa having opposite effects on host health.for instance lactobacillus that have been the object of many studies due to their important role in food production have been reported to have opposite impacts on obesity.these apparently discordant findings could be explained by associated modifications of the sur- rounding microbial environment.here we therefore explore once again the associa- tion between vfm and gut microbiota composition but now aiming to take into account the impacts of bacterial taxa within their ecosystem as a whole using multivariate analysis in the twinsuk cohort.
+

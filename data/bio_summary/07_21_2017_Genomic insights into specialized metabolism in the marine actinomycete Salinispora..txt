@@ -1,0 +1,30 @@
+1. salinispora specialized metabolism.outer three circular bar graphs show the relative abundance of each bgc in the three salinispora species arranged counter-clockwise in decreasing order by genus scale 5 0-100 of strains lines at 25 intervals sa 5 s. arenicola sp 5 s. pacifica st 5 s. tropica.bar colours indicate bgc type see legend.
+
+this bgc is observed in gi21 in all strains except cns-237 where it is observed in gi10 and cns-860 and cns-133 where it is observed in the conserved region between gi21 and gi1.the maximum likelihood phylogeny of the non- ribosomal peptide synthetase gene in nrps4 is congruent with the species phylogeny supporting vertical inheritance and the subsequent migration of this bgc in the highlighted strains.
+
+light-grey boxes indicate strains with the bgc in gi1 dark-grey boxes indicate strains with the bgc in gi20.fig.
+
+this bgc occurs in genomic island gi1 in s. pacifica strains cns-996 and cnt-045 and gi20 in strains cns- 860 and dsm 45543 suggesting it has changed position migrated.
+
+a likelihood analysis of the pks2 bgc predicts it was present in a common ancestor of the genus main- tained in s. arenicola lost in the other two species and subsequently re-acquired in four s. pacifica strains.
+
+grey-shaded boxes indi- cate strains sa 5 s. arenicola sp 5 s. pacifica with differing genomic position of the lan1 bgc.
+
+nonetheless a majority of bgcs 79 in gi10 and gi15 the major sites of bgc acquisition were expressed at low levels in the one cultivation condition tested.bgc migrationthe positions of bgcs are largely stable among the strains sequenced with 92 of those observed in more than one strain found in the same chromosomal position in all strains fig.
+
+black un-shaded boxes indicate four strains that have both bgcs cnr-942 cnt-569 cny-646 and cns- 237 whereas the light grey box indicates the only strain lacking both bgcs dsm 45549.for strains containing either sal or lym the bgcs are located in the same inter-island region between gi16 and gi17 as exemplified here by sal in strains cnt-045 and lym in cnt-569.
+
+2011which was observed in eight of the nine s. pacifica strains that lacked the lym bgc fig.
+
+this 139-amino acid pseudo- gene shares 94 sequence identity with a region of the 1420 amino acid nrps protein from nrps10 a bgc identified in s. pacifica strains cnt-003 and cnr-909.
+
+b the maximum likelihood phylogeny of amcb 3-dehydroquinate synthase sare2489 in s. arenicola is congruent with the species phylogeny with the exception of one strain which supports bgc migration in the five strains as opposed to indepen- dent acquisition events.
+
+the bgc is located in gi6 in most s. arenicola strains but shows evidence of migration to gi13 and other positions.
+
+grey-shaded boxes indicate s. arenicola strains in which the bgc is located outside of gi6.fig.
+
+2015. further distinguishing the species we confirmed that s. tropica strains consistently maintain four bgcs predicted to encode siderophores des sid1 sid3 and sid4 relative to two on average in s. arenicola roberts et al.
+
+2015 jensen 2016. the genus is currently comprised of three named species s. tropica s. arenicola and s. pacif- ica maldonado et al.
+

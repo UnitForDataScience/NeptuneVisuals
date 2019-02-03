@@ -1,0 +1,30 @@
+this pattern can be summarized as three stages i a leaf stage when pandas eat bfa leaves from septem- ber to april ii a shoot stage when they eat bfa and fqi shoots from may to july and iii a transition stage when they eat fqi leaves mixed with bfa leaves in august b. we col- lected 31 faecal samples of which 13 were collected during the leaf stage 11 in the shoot stage and seven in the transition stage.
+
+this group involving digestion of cellulose and hemicellulose included beta-glucosidase blgx ec3.2.1.21 with relative over- representation of 1162.90 in the shoot stage versus 2403.27 in the leaf stage and xylan 14-beta-xylosidase xynb ec3.2.1.37 with relative over-representation of 329.41 in the shoot stage versus 820.33 in the leaf stage.
+
+to avoid underestimating variation within the leaf stage we used the kruskal-wallis h-test to look for differences among the three stages.we examined and compared five main nutritional com- ponents across these three stages crude fibre cellulose and hemicellulose raw protein soluble sugar carbohydrate andfat c. we collected 76 bamboo samples including 37 samples during the leaf stage 28 during the shoot stage and 11 during the transition stage.
+
+based on feeding be- haviour and diet three forage stages were identified a leaf stage shoot stage and transition stage.
+
+the leaf stage was september to april when giant pandas eat bashania fargesii abbreviated as bfa hereafter leaves the shoot stage was from may to july when pandas eat bfa shoots and fargesia qinlingensis abbreviated as fqi hereafter shoots and the transition stage was from august when they eat fqi leaves mixed with bfa leaves.bamboo sample collection and nutritional analysesfresh bamboo samples were collected in the same reserve from 2012 to 2013. samples were dried at 708c ground and then stored in 48c for further analysis.
+
+c pcoa results with bray-curtis distance definition indicating samples of the shoot stage as orange squares and leaf stage as green triangles with transition stage as grey circles.
+
+f  although the observed otu number was higher in the shoot stage than leaf stage the difference is not significant.availability we infer that gut microbiome cell cycle control may also be influenced in this way.it is interesting that the majority of genes in these two groups of pathways coexisted in the same 12 bacteria species within the leaf stage gut microbiome c. these species belong to seven genera clostridium four species klebsiella two species rahnella two species escherichia one specieslactococcus one species enterococcus one species and streptococcus one species.
+
+further lefse analysis identified three otus with significant disparate representation between the shoot and leaf stages  p  0.05 3. of the three otus otu15 and 137 were higher in the leaf stage and otu39 was higher in the shoot stage.
+
+we posit that the coexistence of the two groups of pathways identified here is required as a kind of reinforcement to secure related bacteria species respon- sible for raw fibre digestion and utilization and therefore maintains the adaptive capacities of gut microbiomes to nutrient scarcity during the leaf stage.d interactions between the gut microbiome and gut environment in the shoot stagefunctional metagenomic analysis revealed distinctive functionsover-represented in the shoot stage consistent with the high protein content of bamboo during this stage.
+
+most genes with significant over-representation fdr q-value  0.05 in these pathways were in the shoot stage.a more diverse gut microbiome was observed during the bamboo shoot stage than leaf stage.
+
+differences in the alpha diversity index shannon index were statistically significant between the shoot and leaf stages shoot average 14 2.078 leaf average 14 1.195 p  0.05. high gut microbiome diversity could be related to a high protein content and could be more explicit to the function of the gut microbiome during the shoot stage.
+
+7 bglx beta-glucosidase ec3.2.1.21300015000leaf shoot transitionxynb xylan 14-beta-xylosidase ec3.2.1.3710005000leaf shoottransitionbnrdddpo1200010000dna replication homologous recombination purine metabolism pyrimidine metabolism mismatch repairbase excision repair nucleotide excision repairleaf shoot transitionleaf shoot transitionfigure 4. reinforcement of raw fibre digestion and robustness of bacteria related to function in the leaf stage.
+
+we found higher concentrations of cellulose  p  0.001 hemicellulose  p  0.001 and soluble sugar  p  0.05 in the leaf stage compared with the shoot stage.
+
+in the shoot stage we found higher protein  p  0.001 compared to the leaf stage.
+
+the gut microbiome during the shoot stage was always richer and more diverse than in the leaf stage ef electronic supplementary material figure s1.
+

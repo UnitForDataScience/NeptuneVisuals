@@ -1,0 +1,30 @@
+a pca plot is illustrating differences in metabolic functions of the gut bacterial community of finnish red and indian green children.b bar chart is representing specific metabolic function differential abundant in finnish and indian children effect size filter 2.0. c cladogram representing differences in abundance of microbial genes between the gut bacterial community of finnish and indian children contributing in specific metabolic pathways.furthermore cladogram analysis based on kegg orthologs using linear discriminative analysis effect size lefse also supported the previous observation of distinct metabolic profiles of indian and finnish children see fig.
+
+genera such as bifidobacterium and blautia were dominant in finnish children while the gut bacterial composition of indian children was dominated by prevotella and megasphaera.variation in the gut microbial composition was observed in between indian and finnish children by both pcr-dgge and 16s rrna gene-based amplicon sequencing.
+
+and further investigations to understand the effect of fut2 secretor status on different bacterial genera demon- strated that within the finnish population coproccus succiniclasticum streptococcus and blautia were highly abundantin secretor children welch's t-test q 0.001 while bacteria belonging to genus lactococcus were highly abundant in non-secretors welch's t-test q  0.001. similarly genera like megamonas veillonella rummeliibacillus and megasphaera were abundant in indian children with non-secretor status welch's t-test q 0.001 however the genera prevotella roseburia and clostridium were significantly higher in secretors welch's t-test q  0.001. bacterial genera such as bifidobacterium akkermansia and ruminococcus were observed to have higher abundance in secretors whereas non-secretors of both indian and finnish cohort showed higher abundance of escherichia.
+
+the present work aims at comparing the gut microbiota of 13-14-year-old indian and finnish children in a pilot study cohort and also to assess the influence of fut2 polymorphism and mode of delivery on the gut microbial composition of these populations.resultsfut2 secretor status of indian and finnish children.
+
+lactis being significantly higher in finnish children welch's t-test q0.001 along with staphylococcus aureus welch's t-test q 0.001 and akkermansia muciniphila welch's t-test q 0.001. while bifidobacterium bifidum clostridium coccoides group and clostridium leptum were significantly higher in indian children welch's t-test q 0.001. distinct clades of indian and finnish samples in the unweighted pair group method with arithmetic mean upgma based dendrogram analysis also indicates differences in gut microbiota between these populations see fig.
+
+additionally a total of 213 genera 63.6 were found to be common amongst indian and finnish children while 65 genera 19.4 and 57 genera 17 were unique in finnish and indian children respectively fig.
+
+the outcomes of our multi-pronged approach suggests that the gut microbial communities harbored by finnish and indian children are not only distinct but are driven by specific bacterial groups such as prevotella megasphaera indian subjects blautia and bifidobacterium finnish subjects.
+
+alpha diversity analysis showed that finnish children harbored a marginally more diverse bacterial community than indian children as indicated by the diversity measures such as observed species and shannon index supplementary table .
+
+amongst the significantly affected bacterial phyla bacteroidetes and firmicutes were higher welch's t-test q0.001 in vaginally born children in both indian and finnish population while proteobacteria and verrucomicrobia were seen to be more abundant welch's t-test q0.001 in cesarean born children.
+
+b beta diversity analysis using nmds plot based on otu level differences between finnish green and indian blue childrenc venn diagram representing shared and unique bacterial genera between the gut bacterial community of finnish and indian children.figure 5. principal component analysis.
+
+.our investigation on the prevalence presenceabsence of different bacterial groups gave deeper insight into the gut bacterial community structure of indian and finnish children supplementary table .
+
+specifically finnish children possessed higher blautia and bifidobacterium while genera prevotella and megasphaera were predominant in indian children.
+
+of note bacteria belonging to genera bifidobacterium mann-whitney u-test p  0.0013 and blautia mann-whitney u-test p  0.001 were significantly higher in finnish children while indian children displayed significantly higher abundance of prevotella mann-whitney u-test p 0.001 and megasphaera mann-whitney u-test p 0.001 see fig.
+
+phyla such as actinobacteria and verrucomicrobia were significantly higher in both indian and finnish secretor children welch's t-test q 0.001 while firmicutes and proteobacteria were abundant in the non-secretor children in both the population welch's t-test q 0.001 supplementary fig.
+
+we also performed prin- cipal component analysis to assess whether the influence of birth mode on the gut microbial composition of indian children was similar to that of finnish children.
+

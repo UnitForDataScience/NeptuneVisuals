@@ -1,0 +1,30 @@
+in fact the snail intestinal microbiota observed was diverse with many core taxa shared with the tadpoles possibly due to feedingthe intestinal microbiota of tadpoles differs from those of syntopic aquatic invertebratesfig.
+
+although tadpole intestinal microbiotas differ among host species  they are also influenced by ecological factors such as aquatic environment and temperature  .here we examine the intestinal bacterial community of tadpoles in direct comparison to intestinal microbiotas of strictly syntopic aquatic invertebrates insects and gastro- pods to better understand the degree of specialization in the composition of tadpole microbiotas.fieldwork was carried out in itape rio claro municipality sao paulo state brazil 22.32618 s 47.712576 w. specimens were collected opportunistically by dipnetting on 12 and 23 april 2016 in a single small pond 6 m in diameter taken to the lab in water from the original water body and processed within 12 h of capture.
+
+in fact the lethocerus microbiota similar to that of the other bugs studied had among the lowest bacterial diversity in our data set.to summarize the organisms studied herein were exposed to the same environmental bacterial reservoir reflected by a high proportion of otus shared among the different groups.
+
+e venn diagram showing the number of bacterial otus exclusive to and shared by the intestinal microbiota of tadpoles vs. all invertebrates studied and f among the four main groups of invertebratessimilarities in scratching biofilms and algae from surfaces.
+
+overall the gut microbiota differences found among syntopic aquatic animals are likely shaped by both food preferences and host identity.keywords bacterial community .
+
+microbial ecology httpsdoi.org10.1007s00248-017-1109-5the intestinal microbiota of tadpoles differs from those of syntopic aquatic invertebratesmariana l. lyra 1  molly c. bletz 2  celio f. b. haddad 13  miguel vences2received 21 may 2017  accepted 13 november 2017 springer sciencebusiness media llc part of springer nature 2017abstractbacterial communities associated to eukaryotes play important roles in the physiology development and health of their hosts.
+
+here we examine the intestinal microbiota in tadpoles and aquatic invertebrates insects and gastropods to better understand the degree of specialization in the tadpole microbiotas.
+
+illumina sequencingassociations with bacteria are crucial for the biology of ani- mals  and play pivotal roles in the physiology and health of their hosts which has been intensively studied for the human intestinal microbiota  .
+
+1 variation of the intestinal microbiota of tadpoles scinax fuscovarius in comparison to that of syntopic invertebrates in a pond in itape rio claro sao paulo brazil.
+
+c principal coordinate plot based on community structure of intestinal microbiota with percentages indicating the amount of variation explained by each pco.
+
+d composition of intestinal microbiota at the class level for a complete plot including the other classes here in gray see supplementary materials.
+
+these bacterial taxa are repro- ductive parasites  which might explain why they were uncommon in the intestinal tract of the analyzed species.phylogenetic diversity pd and number of otus were highest in the snail samples intermediate in tadpoles and lowest in the four groups of aquatic insects fig.
+
+animal guts may contain host- adapted core microbiota as well as a flexible environmentally modulated microbial pool plus transient environmental bac- teria  and the proportion of these components may differ among major host groups  .amphibians stand out among vertebrates for their biphasic life history and in particular the anuran tadpole stands out as aelectronic supplementary material the online version of this article  contains supplementary material which is available to authorized users.
+
+tukey- kramer pairwise tests revealed significant differences for both metrics p  0.05 for all pairwise comparisons of tadpoles and snails with major groups of insects but not among insect groups or between snails and tadpoles.microbial composition and structure differed distinctly among groups permanova weighted unifrac pseudo- f  4.8279 p  0.001 unweighted unifrac pseudo-f  4.5562 p  0.001. pairwise comparisons revealed that the tad- pole microbiota differed significantly p  0.01 from all insect microbiotas but not from that of snails for both metrics p  0.05 however given a sample size of n  2 for snails this lack of significance is to be taken with caution.
+
+the snail included in the study can be expected to be herbivorous and had a diverse microbiota as has been seen in other freshwater snails e.g.
+

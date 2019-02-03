@@ -1,0 +1,30 @@
+together the above imaging analyses suggest gd iel programs for steady-state surveillance and a swift reaction to luminal pathogens characterized by specific cell dynamics and positioning in the tissue.coordinated ec-iel responses to enteric pathogensto gain insights into the mechanisms responsible for gd iel behavioral responses to luminal microbes and the role of surrounding ecs in this process we performed parallel tran- scriptome analyses on sorted gd iels and ecs from wt salmo- nella-infected and naive control mice.
+
+these analyses indicate that salmonella infection swiftly induces a set of motility changes in gd iels that is distinct from the one observed in response to commensal microbes.to evaluate whether this gd iel behavioral response to salmo- nella could be extended to additional small intestine pathogens we also investigated iel movement following toxoplasma gondii infection another pathogen to which iel function has been pre- viously linked  .
+
+gd iel movement patterns returned to normal by 72 hr post-toxoplasma infection a time point at which the initial invasion by tachyzoites through the epithelial layer has been completed i. these rapid but temporary changes in iel behavior also observed after salmo- nella inva infection along with the proximity between iel flossing hotpots and the pathogen suggest that gd iels are exquisitely responsive to the nature and continued presence of invading microbes.
+
+however 4 weeks after tamoxifen treatment gd iel dynamics acquired a ''gf-like'' profile with similar vertical distribution a vertical movement dynamics b and unique area coverage c movie s4b suggesting that ec sensing of the microbiota impacts iel behavior in the steady state.next we examined whether gd iel behavioral responses to enteric pathogens also require ec-specific myd88 expression as suggested by the transcriptional analyses.
+
+while the significance of this concom- itant ec-dependent modulation of gd iel metabolism and behavior to gut physiology remains to be determined pharma- cological or cell-specific genetic targeting in either ec pathogen sensing or gd t cell glycolysis led to increased susceptibility to salmonella invasion closely mirroring the phenotype of mice deficient in gd t cells .
+
+these results suggest thata microbiota-sensing mechanism operates in the intestine to determine gd iel intratissue distribution.we next used deep - 80 mm multiphoton intravital micro- scopy ivm to gain insight into the cell dynamics associated with gd iel distribution.
+
+conventionalization of gf mice with total spf microbiota or with sfb rescued gd iel vertical displacement while 4 week treatment of spf mice with broad-spectrum antibiotics mirrored gf gd iel dynamics g and 1h figure s1j.
+
+hence while tcr-dependent signals influ- ence gd iel tissue seeding and homeostasis in the steady state  ec-specific myd88 responses may supersede these signals during the gd iel acute response to invading pathogens.
+
+n  2 animals per group for ivildmyd88 and control tcrgd.see also figure s3.previously described for total tcrgd-deficient mice   we observed an increased incidence of early invasion of salmonella in tamoxifen-treated ivildmyd88 but not in littermate control mice e. the above data demonstrate that ecs are responsible for regulating gd iel behavior in both the steady state and during infection in a myd88-dependent and tcr-inde- pendent manner.metabolic regulation of gd iel behavior metabolic reprogramming is essential for t cell clonal expansion and effector function  although its role in termi-nally differentiated and nonproliferative tissue-resident t cells is less understood.
+
+deletion of myd88 in ecs completely abrogated the gd iel metabolic response ecar and ocr upregulation to salmonella infection indicating that microbial sensing by ecs is required to regulate iel energy utilization as well as their dynamic behavior c.the gene set enrichment analyses shown in suggest that the mtor pathway may be involved in the increased meta- bolic response observed in gd iels post-infection and this is similar to what has been described for activated effector t cells .
+
+in the absence of infection induction of glycolysis was sufficient to trigger an array of gd iel behavioral changes normally only observed after enteric infections while pharmacological or ge- netic inhibition of glycolysis prevented these infection-induced gd iel dynamic changes.
+
+articleintestinal epithelial and intraepithelial t cell crosstalk mediates a dynamic response to infectiongraphical abstracthighlightsd gd iels display microbe-dependent localization and motility patternsd infection induces rapid behavioral changes in gd ielsd coordinated epithelial cell-iel responses to pathogens are ec-myd88 dependentd ec responses to microbial cues trigger a protective iel metabolic switchauthorsdavid p. hoytema van konijnenburg bernardo s. reis virginia a. pedicord julia farache gabriel d. victora daniel mucidacorrespondence b.s.r.
+
+nevertheless the gd iel downward displacement exceeded the upward displace- ment with net displacement for gd iels around 4-6 mmhr toward the crypts.
+
+gd iels from wt salmo- nella-infected mice showed reduced vertical displacement with an increased shift of gd iel distribution toward the bottom parts of villi h figures s2c and s2d.
+
+possible pathways involved in myd88-dependent ec-iel crosstalk during infection also included neurotransmit- ters growth factors and wnt-cadherin signaling e. these results suggest that key gene pathways induced in gd iels early after infection particularly metabolic and motility path- ways depend on microbe sensing by neighboring ecs via myd88.to investigate whether ec-specific myd88 expression could directly regulate gd iel movement behavior in the steady state we crossed ivildmyd88 with tcrgdgfp mice ivildmyd88- tcrgdgfp.
+

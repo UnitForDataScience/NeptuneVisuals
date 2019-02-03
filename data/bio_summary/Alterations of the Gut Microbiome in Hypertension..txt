@@ -1,0 +1,30 @@
+however the identification and functional status of the hypertension-related gut microbes have not yet been surveyed in a comprehensive manner.methods here we characterized the gut microbiome in hypertension status by comparing fecal samples of 60 patients with primary hypertension and 60 gender- age- and body weight-matched healthy controls based on whole-metagenome shotgun sequencing.results hypertension implicated a remarkable gut dysbiosis with significant reduction in within-sample diversity and shift in microbial composition.
+
+further studies on the causality relationship between hypertension and gut microbiota will offer new prospects for treating and preventing the hypertension and its associated diseases.keywords hypertension gut microbiome microbial dysbiosis metagenome-wide association studyintroductionhypertension is a global public health problem.
+
+to validate this a recent study based on metagenomic analyses of the fecal samples of 41 healthy controls 56 pre-hypertension subjects and 99 hypertension individuals described a novel causal role of aberrant gut microbiota in contributing to the pathogenesis of hypertension and emphasized the significance of early intervention for pre-hypertension li et al.
+
+2016. here to investigate the alteration of the human gut microbiome underlying hypertension we compared the microbial composition of fecal samples obtained from 60 patients with primary hypertension and 60 healthy counterparts of chinese origin.
+
+intriguingly the severity of hypertension was positively correlated with the total abundance of patient-enriched mlgs and negatively correlated with those of control-enriched mlgs figure 2b suggesting that the bacterial relative abundance may also be a potential risk factor of hypertension development.
+
+ 1 2  yifang gu 3  xiangchun li 4  wei yang 5  liqiu jia 1  1 xiuyan han 1  yukun huang 1  lizhe zhao 1  3  zhiwei fang 3  junpeng zhou 3 xiuru guan 5  yanchun ding 6  shaopeng wang 7  muhammad khan 8  9  3 and 11 department of biochemistry and molecular biology dalian medical university dalian china 2 department of microbiology dalian medical university dalian china 3 shenzhen puensum genetech institute shenzhen china 4 beijing genomics institute shenzhen china 5 department of laboratory diagnostics the first affiliated hospital of harbin medical university harbin china 6 department of cardiology v the second affiliated hospital of dalian medical university dalian china7 department of cardiology the first affiliated hospital of dalian medical university dalian china 8 college of basic medical sciences dalian medical university dalian china 9 department of biotechnology dalian medical university dalian chinaedited byvenkatakrishna rao jala university of louisville united statesreviewed bybina joe university of toledo united statesmorgan langille dalhousie university canadacorrespondenceshenghui liyufang ma received 16 may 2017accepted 09 august 2017published 24 august 2017citation yan q gu y li x yang w jia l chen c han x huang y zhao l li p fang z zhou j guan x ding ywang s khan m xin y li s and ma y 2017 alterations of the gut microbiome in hypertension.
+
+7381. doi introduction human gut microbiota is believed to be directly or indirectly involved in cardiovascular diseases and hypertension.
+
+in 2010 about 31 of the world's population has been estimated to suffer from hypertension and over 1 billon of this population is living in low- and middle- income countriesmittal and singh 2010 mills et al.
+
+2016. hypertension is one of the major risk factors for cardiovascular diseases such as stroke and heart failure lim et al.
+
+2016.the environmental factors such as dietary salt intake alcohol consumption and lack of exercise are also linked to the occurrence of hypertension fuchs et al.
+
+2017. nevertheless due to the complexity and heterogeneity of hypertension identification of the causes of this disease is still challenging.recent studies have demonstrated that the gut microflora plays an essential role in development of cardiovascular diseases via metabolizing dietary choline phosphatidylcholine and l-carnitine to produce trimethylamine tma which is further oxidized into tma n-oxide tmao a metabolite that enhances atherosclerosis wang et al.
+
+2013. even though the direct link between hypertension and tmao has not been established currently tmao's role to prolong the hypertensive effect of angiotensin ii were reported ufnal et al.
+
+subjects with hypertension or severe cardiovascular diseases such as coronary artery disease or stroke history in previous 5 years were also excluded from healthy controls.
+
+2015. these findings suggest an intricate and predictable correlation between hypertension and gut microbiota.
+
+2017. moreover rat experiments have linked gut microbial dysbiosis with hypertension mell et al.
+

@@ -1,0 +1,30 @@
+in addition we used the orthoani values with the genome sequence of h. alvei.results and discussiongenome characteristicsthe analysis of the whole genome sequence of h. alvei cba7124 revealed a single circular chromosome with 4585298 bp after quality control of 150292 raw reads with an average read length of 5885 bp table .
+
+in the seed subsystem distribution car- bohydrates 552 orfs amino acids and derivatives 430 orfs cofactors vitamins prosthetic groups pigmentstable 1 complete genome features of hafnia alveicba7124attributevaluetopologycrculargenome size bp4585298dna g  c 48.8genome coverage fold168.69number of trna genes88number of rrna genes25number of cdss4043genes assigned to cogs3838confirmed crisprs4319 orfs and rna metabolism 215 orfs were the abundant categories.comparative genomic analysisthe genome of the h. alvei cba7124 strain was com- pared with those of 11 other h. alvei strains.
+
+these results indi-cated that the genome of strain cba7124 was separatefrom but highly homologous to that of other h. alveigenomes.antibiotic and antimicrobial resistance genesin the genome of strain cba7124 12 kinds of subsystems were found to be associated with the subcategory resist- ance to antibiotics and toxic compounds on the seed database.
+
+the genome coverage was found to be 168.69-fold and the gc content was 48.8. the genome contained 25 rrna genes 9 5s rrna genes 8 16s rrna genes and 8 23s rrna genes and 88 trna genes.
+
+the genome was assembled according to the protocol in the hierarchical genome assembly process version 2 with pacbio smrt analysis version 2.3 and polishing was performed with quiver.
+
+the complete genome sequence of h. alvei cba7124 would improve our understanding of different strains of oppor-correspondence young-do nam and seong woon roh contributed equally to this work1 microbiology and functionality research group world institute of kimchi gwangju 61755 republic of koreafull list of author information is available at the end of the articletunistic infectious pathogens.c the authors 2017. this article is distributed under the terms of the creative commons attribution 4.0 international license  which permits unrestricted use distribution and reproduction in any medium provided you give appropriate credit to the original authors and the source provide a link to the creative commons license and indicate if changes were made.
+
+a 20-tmkb sequencing libraryquality assurancebefore the genome sequencing the identity of the h. alvei cba7124 strain was verified through 16s rrna gene sequencing and cell morphology analysis additional file  figure s1.
+
+in addition the overproduction of the toxin of yoeb is known to inhibit the growth of e. coli  .future directionswe described a genome sequence of h. alvei a known opportunistic pathogen isolated from a korean fecal sample.
+
+this genome was found to have strain-specific singletons through comparative genomic analysis with the other h. alvei strains.
+
+however further in vivo studies are needed to characterize the pathogenicity of h. alvei.additional fileabbreviationscds protein coding gene cog clusters of orthologous groups pog pan- genome orthologous group orthoani orthologous average nucleotide iden- tity rast rapid annotation using subsystem technology ta toxin-antitoxin.authors' contributionsydn and swr designed and coordinated all the experiments.
+
+gut pathog 2017 941doi 10.1186s13099-017-0190-0gut pathogenscomplete genome sequence of a commensal bacterium hafnia alvei cba7124 isolated from human feceshye seon song12 joon yong kim1 yeon bee kim12 myeong seon jeong3 jisu kang45 jin-kyu rhee2 joseph kwon6 ju suk kim56 jong-soon choi6 hak-jong choi1 young-do nam45 and seong woon roh1backgroundhafnia alvei was first identified by moller in 1954. it belongs to the family enterobacteriaceae and was iso- lated from the feces of mammals birds reptiles and fish as well as from soil water sewage and foods .
+
+the quality and concentration of the extracted dna were determined using 1-agarose gel electrophoresis and a nanodrop spectrophotometer nanodrop technologies uk.genome sequencing assembly and gene annotation whole genome sequencing was performed using pacific biosciences rs ii pacific biosciences menlo park usaadditional file  table s1.
+
+in addition the identity of the strain cba7124 was confirmed through analysis of the 16s rrna gene obtained after genome sequencing.
+
+the genome con- tained 4043 protein-coding genes cdss and 3838 genes were allotted to 18 cog functional categories.
+
+in addition the antimicrobial resistance gene blaacc-3 was also found to be associated with the beta-lactam resistance ampc- type gene from the resfinder server.toxin-antitoxin systemsseveral toxin-antitoxin ta systems were annotated in the genome of hafnia alvei for stabilization based on the seed database.
+

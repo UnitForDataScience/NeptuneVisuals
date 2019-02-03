@@ -1,0 +1,30 @@
+appl microbiol biotechnol 2017 1014315-4325 doi 10.1007s00253-017-8166-zdenitrification synergized with anammox for the anaerobic degradation of benzene performance and microbial community structureshuchan peng2  lilan zhang12  daijun zhang 12  peili lu12  xiaoting zhang 2 qiang he3received 30 november 2016  revised 25 january 2017  accepted 5 february 2017  published online 13 february 2017 springer-verlag berlin heidelberg 2017abstract to evaluate the effect of anaerobic ammonium ox- idation anammox on benzene degradation under denitri- fication a sequencing batch reactor sbr under denitrifica- tion synergized with anammox sbr-denana for ben- zene degradation was established by inoculating anaerobic ammonium-oxidizing bacteria anaob into a sbr under denitrification reactor sbr-den for benzene degradation.
+
+therefore anaerobic ben- zene degradation under denitrification is promising.anaerobic benzene degradation dependent on nitrate as electron acceptor was first demonstrated by major and col- leagues in 1988. later other investigations have paid attention to the mechanisms of anaerobic benzene degradation under denitrification and also to the microorganisms involved.
+
+furthermore the mechanism of denitrification synergized with anammox for benzene degradation needs to be elucidated.a sequencing batch reactor sbr of denitrification synergized with anammox for benzene degradation was established by inoculating anammox sludge into an sbr of denitrification for improving the performance of anaerobic benzene degradation in this study.
+
+this finding indicated that there was almost no activity of anammox in sbr-den during the stable operation which is in agreement with the result that the externally added nh  was not con- sumed along with benzene degradation during the long- running operation of the reactor.benzene degradation in the denitrification-anammox synergistic reactorthe rate of benzene degradation in sbr-denana gradu- ally increased after the inoculation of anaob and the operation of the reactor was divided into three phases fig.
+
+the previous results showed that additions of no - more than 5 mg n l-1 inhibited benzene degradation in the denitrification- anammox synergistic system once no - was depletedthe rate of benzene degradation recovered in the synergistic22of benzene degradation decreased to 2.61 - 0.06 mg gsystem.
+
+the average rate of benzene degradation and the maximum first-order kinetic constant in sbr-denana were 2.34- and 1.41-fold those in sbr-den respectively indicating that anammox improved the degradation of benzene under de- nitrification synergized with anammox.
+
+therefore nitrite often accumulated in this process leading to intermittent inhibition of benzene degradation and thus reducing the rate of benzene degradation gitiafroz .
+
+the averaged results are reported here.the first-order degradation constantsthe first-order degradation constants were calculated accord- ing to eq.
+
+in phase iii 281-289 days the degradation of benzene ceased without adding no - as electron acceptor however the pro- cess was immediately restored after the addition of no3- indicating that benzene degradation depended on nitrate re- duction.
+
+.effect of nitrite on anaerobic benzene degradation in denitrification synergized with anammoxthe effects of no - on the rate of benzene degradation in the denitrification-anammox synergistic system are presented in fig.
+
+this finding further proved that anaob improved the benzene degradation in the denitrification-anammox syn- ergistic system by eliminating the nitrite accumulation.in conclusion the average rate of benzene degradation in sbr-denana was 2.34-fold that in sbr-den indicating that anammox could enhance the capacity of benzene degra- dation under anammox-denitrification synergy.
+
+additions of no - more than 5 mg n l-1 inhibited benzene degradation under anammox-denitrification synergy whereas the rate of benzene degradation recovered after no - was consumed indicating that anaob in the synergy were possible to relieve the biotoxicity of no2-.
+
+however the av- erage rate of benzene degradation decreased by 35 in the denitrification-anammox synergistic reactor when 10 mgn l-1 no - was added the rate recovered once no - wasanaob affiliated with the family candidatus brocadiaceaewere just detected in sbr-denana.keywords benzene .
+
+anaerobic degradation .
+
+results from high-throughput sequencing analysis revealed that azoarcus within the family rhodocyclaceae might be associated with benzene degradation in the two sbrs.mainly includes alkanes benzene toluene xylene and com- plex aromatic hydrocarbons most of which might be carcino- genic teratogenic and mutagenic fakhru'l-razi et al.
+

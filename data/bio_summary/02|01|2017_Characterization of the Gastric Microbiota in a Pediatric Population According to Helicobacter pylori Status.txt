@@ -1,0 +1,30 @@
+4a-c. patients with superficial active gastritis had the lowest alpha diversity.discussionmicrobiota analysis in adults revealed that the human gas- tric bacterial community is very complex and rich and the most abundant phyla were proteobacteria firmicutes bacteroidetes and actinobacteria.1920 in this study we confirmed that the same pattern occurs in children.the presence of h. pylori was evaluated in this study by con- ventional tests such as rut culture histology and with a molecular method a novel and specific qpcr for h. pylori.several studies have assessed the influence of h. pylori and weight with contrasting reports between children and adults.2122 in our study there was a significant association between h. pylori positivity and low bmi supporting the previous findings in colom- bia.321 in the study of mera et al23 a significant impact of h. pylori acquisition on height and weight has been reported.
+
+only a small propor- tion of children colonized with h. pylori develop nonspecific symptoms such as vomiting nausea loss of weight hematem- esis and decreased appetite.2 moreover chronic h. pylori infec- tion is also associated with diminished child growth develop- ment3 iron deficiency anemia and idiopathic thrombocytopenicpurpura.4the stable colonization of h. pylori in the stomach suggests that other bacteria may also have adapted to this acidic environ- ment.
+
+only the otus representing more than 0.2 of the total sequences of each sample were considered.linear discriminant analysis effect size lefselefse algorithm was performed with galaxy using the default settings.18resultscharacteristics of the patientsdemographic and clinical characteristics according to h. pylori status are provided in table 1. eighteen patients were posi- tive for h. pylori 14 had at least 3 positive tests and 4 had 2 posi- tive tests and 33 were negative 30 had 4 tests negative and 3 of them had 1 positive test rut or histology.the patient bmi was studied according to the h. pylori status.
+
+original studiescharacterization of the gastric microbiota in a pediatric population according to helicobacter pylori statuslaura llorca phd guillermo perez-perez phd pedro urruzuno md maria josefa martinez phdss tadasu iizumi phd zhan gao phd jiho sohn bsc jennifer chung bsc laura cox phdaurea simon-soro phdp alex mira phdp and teresa alarcon phdbackground helicobacter pylori colonizes the human stomach of approx- imately 50 of the world's population and increases the risk of several gastric diseases.
+
+the goal of this study is to compare the gastric microbiota in pediatric patients with and without h. pylori colonization.methods we studied 51 children who underwent gastric endoscopy because of dyspeptic symptoms 18 h. pylori positive and 33 negative.
+
+in the group of underweight patients body mass index 18.5 there were 46.1 of h. pylori-positive patients compared with 24 in the nonunderweight group p  0.049. patients with active superficial gastritis in h. pylori-positive patients had the lowest alpha diversity p  0.035.conclusions we characterized the gastric microbiota for the first time in children with and without h. pylori and observed that when h. pylori is present it tends to dominate the microbial community.
+
+issn 0891-3668173602-0173doi 10.1097inf.0000000000001383key words gastric microbiota helicobacter pylori pediatric population next generation sequencingpediatr infect dis j 201736173-178or a long time the stomach was thought to be a sterile organ but in 1982 marshall and warren1 were able to culture hel- icobacter pylori from gastric biopsies and it was associated with gastritis and peptic ulcer disease.
+
+crossing point value of 35 was used as the limit value for positivity gao and llorca et al unpublished data.chronic gastritis217 11.8130 3.30.236in 4 patients histology examination could not be performed.assessment of h. pylori statusthe h. pylori status was assessed with 4 methods based on antrum biopsy rut culture histology and qpcr analysis.
+
+a patient was considered h. pylori positive when at least 2 tests were positive or only culture was positive and negative when either only 1 test was positive or all 4 tests were negative.high-throughput sequencingamplification of the v4 region of 16s rrna gene was performed by triplicate using the universal primers 515ffigure 1. alpha and beta diversity for gastric samples from 51 children based on h. pylori status.
+
+pylori negative not statistically significant.pcoa of weighted unifrac distances showed that the major- ity of samples clustered according to h. pylori status fig.
+
+in addition the effect of h pylori infection on growth rate retardation has also been assessed as in the study of goodman et al3 in which they observe that h. pylori infection is accompanied by slowed growth in school- age andean children from colombia.
+
+pylori-positive and negative patients showed that helicobacter genus was the most abundant phylotype in the h. pylori patients rel- ative abundance average 66.3 as published before.26 remarkably in the h. pylori-negative group helicobacter genus was also found in 17 patients but in a very low percentage average of helicobacter genus 0.45. out of these 17 negative patients 4 have received antibiotics anti h. pylori and 3 have received proton pump inhibi- tors.
+
+this may be due to the high prevalence of h. pylori in the gastric sam- ples in these patients average relative abundance 59.7.conclusionin conclusion we characterized the gastric microbiota for the first time in children with and without h. pylori colonization.
+
+h. pylori was quantified by quantitative polymerase chain reaction and the gastric microbiome studied by v4-16s ribosomal rna gene high-throughput sequencing.results bacterial richness and diversity of h. pylori-positive specimens were lower than those of negative and both groups were clearly separated according to beta diversity.
+
+within proteobacteria gamma- and betaproteobacte- ria were the most abundant for h. pylori-negative patients whereas epsilon- proteobacteria was for h. pylori positive.
+

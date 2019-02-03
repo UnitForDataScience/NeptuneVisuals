@@ -1,0 +1,30 @@
+10175how does natural selection set the number of receptor variants how does selection tune the binding affinities of different receptor variants in an array how does the design of receptor arrays shape the competitive and cooperative processes that define bacterial communitiesvitamin and metabolite receptor arrays provide an exceptional model to study conditional response to the environment.
+
+the uptake rate of a receptor for a particular corrinoid diminishes with the distance between the receptor and the corrinoid location along the line.with numerical values for these assumptions we could calcu- late the optimal receptor array design to maximize the benefits of corrinoid uptake.
+
+an optimal design would specify the number of different receptor types the number of surface receptors of each type the location of each receptor type along the line and the best trade-off between the maximum uptake rate and the diminishing uptake rate with distance between corrinoid and receptor.
+
+the closer an uptake receptor moves toward a particular corrinoid the stronger that receptor's uptake of approaching corrinoids and the weaker that receptor's uptake of receding corrinoids.
+
+by contrast excess competitive uptake of corri- noids may be more strongly influenced by upregulating the level of expression for a few receptor types.4  challenges for uptake receptor array design this section briefly summarizes the key challenges of uptake receptor array design for corrinoids and siderophores.
+
+do themolecular changes that alter function also influence receptor uptake if so then functional divergence may lead to receptor array diversity whereas functional constraints may limit receptor diversity.most glycans function independently of the bacteria that take them up.
+
+here i use the word receptor to include the various binding and transport processes that influence specificity and rate of uptake.for uptake of vitamin b12 analogs bacteroides thetaiotaomicron ex- presses three homologous variants of the associated receptor degnanbarry mok taga  goodman 2014. competition experiments demonstrate that particular receptors lead to competitive dominance in the presence of particular b12 variants whereas other receptorscause dominance in the presence of other b12 variants.
+
+the receptor function makes it difficult to hide or modify the receptor providing a point for attack.
+
+in particular wild type with all three receptors outcompeted a mutant with btub2 knockedout and the other two receptors intact.the key points are multiple receptors exist each receptor takes up a variety of corrinoids and the competitive performance of each receptor varies by corrinoid type.
+
+given the corrinoid uptake property locations along the line how should the uptake receptor array be designed to maximize the benefit of uptake to answer that question about receptor array design we need to add some assumptions.set constant concentrations for free corrinoids.
+
+by rec- ognizing the abstract structure of the receptor array design problem one can take advantage of the existing theory develop new theory that broadens understanding for a wide range of problems and con- sider uptake receptor design in biology as part of a broader subject of sensor and uptake properties of organisms.all of that makes for an interesting theoretical subject.
+
+that greater diversity and specificity likely arises because siderophores are primarily designed for uptake whereas corrinoids are primarily designed for their biochemical function as cofactors for com- plex biochemical transformations.siderophore's game-like dynamics for external iron scavenging receptor binding secretion rates and fluctuating abundances compli- cate the challenges of uptake receptor array design.
+
+for example greater receptor expression may repress the associated sensors reducing sensitivity to the signal and limiting fur- ther increase in receptor expression.feedback loops and other simple network motifs have been studied extensively in biology alon 2007b.
+
+how should cells design receptor arrays to cap- ture the various nutrient forms when does it pay to gather informa- tion with sensors and adjust receptor deployment when does it pay to use a small static set of receptors without adjustment to changing availabilitydeep learning focuses attention on network architecture repre- sentation classification and response.
+
+number and specificity of receptor variantsper cellthis section discusses uptake processes that influence receptor diversity.
+

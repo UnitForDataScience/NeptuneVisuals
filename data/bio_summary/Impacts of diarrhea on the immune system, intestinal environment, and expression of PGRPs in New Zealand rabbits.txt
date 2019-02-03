@@ -1,0 +1,30 @@
+peerj 5e4100 doi of diarrhea on the intestinal development and environment in weaned rabbits and characterized the intestinal flora associated with diarrhea in rabbits in order to elucidate the association between the rabbit intestinal environment and its health.a normal intestinal flora is important for the maintenance of animal health in terms of intestinal development nutrient digestion and absorption and immunity  .
+
+thinning of the intestinal wall shortening of the intestinal tract and shrinking of intestinal villi are detrimental to intestinal development and nutrientabsorption .
+
+the sequences of pglyrp-1 pglyrp-2 and pglyrp-3 have been determined through homology searching of the ncbi and ensembl databases yet their functions in rabbit diarrhea have not been documented.in this study intestinal tissues and blood samples were collected from rabbits with diarrhea and healthy rabbits for analysis of changes in intestinal histology serum immune indicators and the expression of pgrps in rabbits with diarrhea.
+
+a fragment of the duodenum was removed at the same position rinsed with 0.9 saline and fixed in paraformaldehyde for the preparation of intestinal sections.assessment of intestinal environmentcecal contents were collected and the ph was measured immediately with a ph meter delta 320 shanghai china.
+
+pglyrp-1 and pglyrp-2 were both significantly upregulated in the ceca and duodena of rabbits with diarrhea compared with levels in healthy rabbits p  0.05 while pglyrp-3 was significantly upregulated in the ceca of rabbits with diarrhea p  0.05 but not significantly altered in the duodena p  0.05. these data suggest that young rabbits might combat harmful diarrhea-causing intestinal bacteria by upregulating intestinal pgrps.grouptotal tagstaxon tagsunclassified tagsunique tagsotu numberanalysis of floral differences between healthy rabbits and those with diarrheahigh-throughput sequencing data indicated that 57286 - 6637 mean - sd tags were detected in each sample with no significant difference between the healthy 57127 - 7484 mean - sd and diarrhea groups 57445 - 7352 mean - sd p  0.05. to assess microbial diversity clustering of effective tags was performed on all samples by sorting tags with 97 identity into an otu.
+
+in addition early feeding slow weaning and increased farm sanitation are recommended.conclusionsin conclusion diarrhea severely impairs intestinal development and immune function in young rabbits and induces the upregulation of intestinal antibacterial proteins.
+
+impacts of diarrhea on the immune system intestinal environment and expression of pgrps in new zealand rabbitsyang chen bohao zhao yuwei wu shuaishuai hu lin mu cigen zhu yulai pan and xinsheng wu1 college of animal science and technology yangzhou university yangzhou jiangsu china2 yangzhou university college of veterinary medicine yangzhou jiangsu china3 jinling rabbit farm nanjing jiangsu chinasubmitted 8 august 2017accepted 6 november 2017published 27 november 2017corresponding authorxinsheng wu doi copyright2017 chen et al.
+
+open accesssubjects agricultural science geneticskeywords intestinal environment peptidoglycan recognition proteins microbiome diarrhea new zealand rabbitintroductiondiarrhea is a common disease in rabbits especially in weaned baby rabbits in which it has the highest incidence among all diseases .
+
+it causes a disturbance in the intestinal microflora and sometimes death resulting in considerable losses to the rabbit farming industry .
+
+2017 impacts of diarrhea on the immune system intestinal environment and expression of pgrps in new zealand rabbits.
+
+they thereby play a crucial role in host immunity and the modulation of the host intestinal microenvironment   .
+
+our study comprehensively demonstrates the alterations in the intestinal environment accompanying diarrhea and provides theoretical evidence for the prevention of diarrhea in weaned rabbits.materials and methodsethics statementsall animal experiments used in this study were approved by the institutional animal care and use committee of yangzhou university jiangsu china and were strictly implemented according to the regulations for experimental animals.
+
+the serum levels of il-2 il-6 tnf-a igg and igm were determined by double-antibody sandwich enzyme-linked immunosorbent assay elisa.measurement of intestinal villus length and crypt depththe intestine was examined by routine he staining of tissue paraffin sections.
+
+five consec- utive longitudinal sections were obtained from each segment of the intestinal tract and six typical microscopic fields were assessed for each tissue section.
+
+the intestinal wall villi and crypt are shown in .
+

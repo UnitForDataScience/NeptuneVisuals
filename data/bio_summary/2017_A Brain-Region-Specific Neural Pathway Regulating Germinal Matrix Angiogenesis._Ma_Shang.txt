@@ -1,0 +1,30 @@
+quantification confirms suppression of hemorrhage q  p  0.05 n  6.i l o r anisomycin treatment at e14.5 suppresses cell death caspase 3 red in p0 ric8asingle l and s1pr1ric8a compound mutant o striata to levels similar to wildtype i. quantification confirms suppression effects r  p  0.001 n  5.scale bars 200mm in a b g j m h k and n. 100mm in d e i l and o.figure 7. exogenous integrin b8 rescues vascular defects in ric8a mutantssee also figure s7.a-d exogenous gfp has no obvious effects on vessel morphology in wildtype striata a and does not rescue defects in ric8a mutants b. exogenous integrin b8 also has no effects on wildtype striata c but rescues mutant defects d. note absence of glomeruloid structures in d in comparison to b arrows.e-h exogenous gfp has no obvious effects on apoptosis arrows in wildtype striata e and does not rescue apoptosis in ric8a mutants f. exogenous integrin b8 also has no effects on wildtype striata g but suppresses apoptosis in mutants h.quantification of glomeruloid areas shows near complete suppression by b8 expression in ric8a mutants.
+
+ric8a mutation likely results in primary defects in gm angiogenesis which in turn leads to secondary defects such as cell death and gliosis.ric8a mutation results in compromised integrin b8 expression and tgfb signalingthe vascular phenotypes are reminiscent of those in mice mutant for integrin av and b8 mccarty et al.
+
+thus ric8a mutation results in severe loss of integrin b8 expression in gm neural progenitors which may in turn lead to compromised tgfb signaling and defective vessel development.ma et al.page 7to further evaluate effects of ric8a mutation we examined b8 mrna levels in neurospheres derived from the embryonic neocortex and medial ganglion eminence mge.
+
+s3k-n. thus these results indicate that ric8a mutation results in a specific loss of integrin b8 expression from gm but not other regional neural progenitors.studies have shown that p38 mapk pathway is essential for b8 expression in cultured cells markovics et al.
+
+s3c-d. thus ric8a is specifically required for p38 activation in gm neural progenitors and may regulate integrin b8 through p38 mapk.s1p regulates integrin b8 via ric8a and p38 in gm neural progenitorsric8a is an essential co-factor for several classes of ga proteins gabay et al.
+
+thus s1pr1-3 likely all contribute to b8 regulation in gm npcs while distinct wiring of other intracellular signaling andor transcriptional regulators may play a significant role in regional specificity.s1pr1 and ric8a act in the same pathway to regulate gm angiogenesis in vivoour in vitro results strongly suggest that the s1pr-ric8a pathway regulates integrin b8 and tgfb signaling during gm angiogenesis.
+
+in vitro we found anisomycin also dramatically elevate b8 mrna in wildtype neurospheres control 100 - 10 treated 349 - 44 p  0.01 n  4.importantly it similarly elevated b8 in mutant neurospheres by close to 5 folds fig.
+
+thus these results further implicate the neural progenitor s1p pathway in regulating gm angiogenesis and identify a drug for potential tissue-specific gm hemorrhage intervention.exogenous integrin b8 rescues ric8a mutant vascular defectsour results above also strongly indicate that integrin b8 is a key mediator of brain s1p regulation of gm angiogenesis.
+
+p  0.01 n  5.k-l rt-qpcr analysis shows no significant changes in b8 mrna in either mutant cortical k or mutant mge l neurospheres p  0.58 n  4-10.m-n rt-qpcr analysis shows no significant changes of b3 m or b5 n mrna in mutant cortical lge neurospheres p  0.25 n  4.scale bar 150mm for a-b and 100 mm for i-l o and p.figure 4. s1p regulates integrinb8 mrna in lge neural progenitors in a region-specific manner dependent on ric8ap38mapksee also figure s4.s1p dramatically up-regulates b8 mrna in lge neurospheres an effect blocked by p38 inhibitor and ric8a mutation.
+
+p  0.01 n  4.w146 has no effects on av mrna in lge neurospheres p  0.05 n  4.d-e s1p does not induce b8 mrna in mge d or cortical e neurospheres p  0.45 n 4.s1pr1ric8a compound mutation suppresses basal and s1p-induced b8 mrna in lge neurospheres.
+
+this pathway consists of cell surface sphingosine-1-phosphate receptors an intracellular cascade including ga co-factor ric8a and p38 mapk and target gene integrin b8 which in turn regulates vascular tgfb signaling.
+
+z. h. generated the ric8a allele s. m. performed most experiments d. s. and p. k. t. performed b8 rescue and other experiments all participated in data analysis and z. h. and s. m. wrote the manuscript.publisher's disclaimer this is a pdf file of an unedited manuscript that has been accepted for publication.
+
+this pathway controls integrin b8 gene expression and consequently local tgfb activity which in turn signals to and regulates development of gm vasculature.
+
+in contrast b8 mrna levels were severely reduced by 70 in ric8a mutant neurospheres fig.
+
+consistently we also observed loss of b8 from the gm by in situ hybridization fig.
+

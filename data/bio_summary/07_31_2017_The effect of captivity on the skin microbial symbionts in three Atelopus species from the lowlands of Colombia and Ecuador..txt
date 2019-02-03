@@ -1,0 +1,30 @@
+lastly to test for differences in the capacity of bacterial species to inhibit bd depending on their origin wild vs. captive we performed an anova using the data obtained from the image analysis after testing for normality and homogeneity of variances using shapiro-wilk and bartlett tests respectively.resultsisolated bacteria from wild and captive individualsbased on morphological characteristics a total of 153 bacterial morphotypes were isolated from captive individuals 70 from a. elegans 62 from a. aff.
+
+differences in the proportion of bacteria with antifungal abilities between captive 2264 and wild individuals 1853 were not significant fisher exact test p  1 odds ratio  1.01 .anti-bd activity in shared bacterial strainsto determine if anti-bd activity changes depending on the origin of the bacteria we compared the ability to inhibit bd only for those bacterial species that were found in both captive and wild animals.
+
+although our results show that captive individuals harbor bacteria with anti-bd properties further long-term research is key to evaluate the interactions between the skin microbial communities and their amphibian hosts since those can differ from one population to the next even if the bacterial community composition is similar .several studies have reported changes in the microbial associated communities when animals are moved from the wild to captive environments    .
+
+to compare bacterial communities of captive and wild frogs samples from wild animals were taken from five individuals of a. elegans from esmeraldas ecuador.
+
+sequences are available in genbank with the following accession numbers -and -.effect of captivity on the composition of skin bacterial community although captive and wild individuals from the same host species harbor cutaneous bacteria belonging to the same genera  we found little overlap in bacterial speciesdiversity between conditions cca kh2df 1 0.408 f  1.23 p  0.02  .we did not find evidence for reduction in the number of bacterial species between wild andcaptive animals kh2df 2 3.6551 p  0.1608 .
+
+room temperature ranged between 19.6-22.9 c.bacterial isolationin order to determine the effect of captive conditions on the composition of cutaneous bacteria we took skin bacterial samples from captive animals four a. spurrelli sevena.
+
+our findings are consistent with those obtained for other vertebrates including birds and mammals   where gut microbial diversity was higher in captive animals and are also consistent with the findings for the panamanian golden frogs a. zeteki where otu richness and phylogenetic diversity was higher in captive frogs .
+
+since captive environments have been described as less heterogeneous and less diverse compared with natural habitats we hypothesized that animals in the wild would support a more diverse bacterial community and therefore a higher capacity to inhibit bd growth increasing chances of host survival.materials  methodsresearch permits to conduct this study were provided by the colombian national parks authority the ministerio de ambiente de colombia and the ministerio del ambiente ecuador mae under permits dtso 019-09 dtso 001-09 no 10-07032012 001-11 ic-fau-dnbma and 11-2012-fau-dpap-ma.study specieswe studied three atelopus species from the lowlands two occurring in the pacific coastal forests of colombia and one in ecuador .
+
+bacterial isolates from captive animals of the three atelopus species and from wild a. elegans were challenged against both bd strains in duplicate.
+
+in addition to compare bacterial diversity between wild and captive animals we counted the number of bacterial species in each category species and condition and then we performed a chi-square test using the 'stats' package in r .
+
+in order to determine the effect of captivity on bacterial assemblages we used a chi-square test to check if there were differences in the proportion of bacterial species with antibacterial properties between conditions wild vs. captive.
+
+fifteen 21 bacterialspeciescondition of isolates anti-bdisolates bacterial species with anti-bd activitymorphotypes from captive and 11 27 from wild individuals of a. elegans inhibited bd growth in the antagonism assays.
+
+differences in the extent of inhibition between bacteria isolated from wild and captive animals were not detected f  0.503 p  0.73 .
+
+we found that species of bacteria belonging to the genera pseudomonas chryseobacterium and acinetobacter isolated from wild and captive animals inhibited bd in the challenge assays.
+
+in terms of their associated microbiota captive environments appear to be less diverse and less heterogeneous than wild habitats which might imply that host associated bacterial communities for animals in ex situ facilities should be less diverse .
+

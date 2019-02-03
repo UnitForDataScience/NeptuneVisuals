@@ -1,0 +1,30 @@
+according to the kyoto encyclopedia of genes and genomes kegg enzyme profiles table s4 compared with cs the levels of phosphoribosylaminoimidazolecarboxamide formyltransferase cathepsin b and imp cyclohydrolase greatly decreased in js and os whereas the levels of 2-alkenal reduc- tase leucine dehydrogenase protoporphyrinogen ix dehydroge- nase menaquinone peptide-methionine r-s-oxide reductase acetyl-coa c-acyltransferase 14-dihydroxy-2-naphthoate polyprenyltransferase d-glycero-beta-d-manno-heptose-7-phos- phate kinase polynucleotide adenylyltransferase d-glycero-be- ta-d-manno-heptose 1-phosphate adenylyltransferase dna- formamidopyrimidine glycosylase repressor lexa lysostaphin tyrosine phenol-lyase ca2-transporting atpase acetate-coa ligase adp-forming ubiquitin-protein ligase and the phosphopentomutase increased in js and os especially in os.
+
+compared with cs genes corresponding to the p53 signaling pathway and the lysosome were greatly decreased in js and os whereas an increase in bacterial chemotaxis eth- ylbenzene degradation alpha-linolenic acid metabolismmapk signaling pathway ubiquitin mediated proteolysis and endocytosis was observed in js and os especially in os.
+
+the concentrations of chemical pollutants sulfide pahs nitrobenzene aminobenzene were higher in os and js than in cs table  respectively.bacterial community compositions in the sedimentsin this study 26540612 27089594 and 25217974 raw reads were collected from the os js and cs sediments re- spectively.
+
+it indicated that 147 orders 679 enzymes and 184 pathways were common for all the sediments while there were 149 orders 679 enzymes 184 pathways common for cs and js 152 orders 692 enzymes 186 pathways for cs and os and 150 orders 700 enzymes and 191 pathways for os and js.
+
+in this study the top two classes of sediment bacteria were gammaproteobacteria js 7  os 14  and betaproteobacteria js 5  os 8  table s2.
+
+the above data indicated that the two river discharges differently influenced the estuarine sediment bacterial populations.at the order level the diversity of the dominant popula- tions differed significantly between cs and the sediments of js p  0.05 and os p  0.05 respectively.
+
+the order number of cs161 was larger than that of os 159 and js 156 which indicated that the river water resulted in a decrease in the estuarine sediment bacterial diversity.
+
+although the two estuaries received river water with distinct physico- chemical characteristics the sediment bacterial diversity in these estuaries similarly declined whereas the microbial met- abolic enzymes and pathways in the estuarine sediment eco- systems greatly increased.conclusionsin the western region of the east china sea the estuarine sediment bacterial diversity and abundance varied depending on the discharges from polluted rivers rivers oujiang and jiaojiang with various degrees of chemical pollution.
+
+microb ecol 2017 73791-800 doi 10.1007s00248-016-0868-8metagenomic insights into effects of chemical pollutantson microbial community composition and function in estuarine sediments receiving polluted river waterxiao-ming lu1  chang chen2  tian-ling zheng3received 12 june 2016  accepted 23 september 2016  published online 15 october 2016 springer sciencebusiness media new york 2016abstract pyrosequencing and metagenomic profiling were used to assess the phylogenetic and functional characteristics of microbial communities residing in sediments collected from the estuaries of rivers oujiang os and jiaojiang js in the western region of the east china sea.
+
+this study aims to provide theoretical references for the reasonable exploitation and utilization of estuaries and the protection of estuarine environments.materials and methodsstudy location and samplingsurface sediment was collected using a gravity bucket dredger from the estuaries of oujiang river os 27deg 51' n 120deg 49'e and jiaojiang river js 28deg 44' n 121deg 27' e on july16 2015 fig.
+
+according to the kegg pathway profiles table s5 bio- synthesis of various types of n-glycan greatly increased in the estuarine sediments js and os whereas they decreased in the undisturbed coastal sediment cs.
+
+in general according to the kegg enzyme profiles dom- inant enzymes were found in the estuarine sediments js os such as 2-oxoglutarate synthase acetolactate synthase inor- ganic diphosphatase and aconitate hydratase and each of them increased by about 900  in comparison with cs.
+
+the order enzyme and pathway number of the sedi- ment near the shore far from the estuaries cs was larger than that of the estuarine sediments js os.
+
+however the enzyme and pathway number of cs 693 188 was smaller than that of os 718 193 and js 701 191 which indicated that the river water promoted an increase in the enzyme and pathway of the estuarine sediment bacteria.
+
+pahs con- centration and the number of nitrospirae bacteria was not significant r  0.870 p  0.05. therefore chemical pollu- tion did not significantly affect the nitrospirae bacteria in estuary sediments.the bacterial diversity was highest in the sediment obtain- ed near the shore far from the estuaries cs and then lower at the js and os sampling locations.
+

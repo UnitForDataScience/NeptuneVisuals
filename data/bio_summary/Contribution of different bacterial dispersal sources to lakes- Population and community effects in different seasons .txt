@@ -1,0 +1,30 @@
+we therefore expect that for a complete understanding of biogeography as well as seasonal succession of bacterial communities in nature research on dispersal on a population rather than community level would be informative but is generally lacking martiny 2015. other under-explored aspects of dispersal for future studies are 1 the possible effects of dispersal over multiple temporal scales with some dispers- ing cells capable of immediate growth in the recipient habitat while in other cases the effect on community com- position is delayed comte et al.
+
+2015. different taxa may vary in their dispersal effi- ciency due to for example the ability to survive during dispersal bissett et al.
+
+we here used sourcetracker model 2 which puts a greater focus on 'external' dispersal sour- ces rather than internal growth.for 57 selected otus see selection criteria in experi- mental procedures below the probabilities of dispersal into the epilimnion from the hypolimnion were in general greater than the probabilities of dispersal from the inlet into both lakes fig.
+
+in order to evalu- ate the relationship between calculated dispersal rates and similarities between dispersal sources and sinks epilimnia and hypolimnion of the lakes spearman rank correlation anal- yses between dispersal rates and mh distances analyses were run.
+
+for instance water retention time may influence the role of dispersal via surface and ground water flow lindstroeurm et al.
+
+however this aspect of dispersal is little explored in natural bacterial communities but should be facilitated by the combined use of high-throughput sequencing tools for characterization of bacterial communities and new computational methods such as sourcetracker analysis knights et al.
+
+2014. consequently in summary our results corroborate earlier findings of a limited impor- tance of dispersal from air jones et al.
+
+the effect of dis- persal of aquatic bacteria on community composition is always hard to distinguish from the effects of species sort- ing since bacterial cells are travelling with the media and thus great dispersal events due to high water flow are coinciding with great changes in environmental conditions lindstroeurm et al.
+
+a greater effect of dispersal on community composition has for instance been shown in communities with depleted diversity zha et al.
+
+via this procedure 57 otus were selected for which the probability of dispersal from the hypo- limnion and inlet to the respective epilimnion over the season will be discussed and analysed in detail below.permutational manova permanova 1000 permutations were performed using the 'adonis' function as implemented in the r-package 'vegan' oksanen et al.
+
+2.5-40 of standing stockper day lindstroeurm and oeur stman 2011 severin et al.2013 souffreau et al.
+
+possibly including head water lakes could have resulted in different results nelson et al.
+
+further there was no difference between the two lakes in the degree of importance of the inlet as a source of bacteria two-tailed mann-whitney u-test of mh-distances between inlet and epilimnion p  0.05. there was a slightly greater impor- tance of the inlets in sourcetracker model 2 compared with model 1 suggesting that for some of the otus both the 'past' and the inlet are possible sources.rates of dispersal via precipitation were negligible in both lakes 0.01 supporting information table s2.
+
+thus sediment resuspen- sion should be greater in shallow lakes while lakes with a larger surface area should allow for more dispersal via pre- cipitation.
+
+2009. in addition being relatively undisturbed perhaps the commu- nities of the lakes can be considered as relatively mature and thus able to resist colonization while more disturbed lakes could have been subject to more immediate changes as a consequence of dispersal event.
+

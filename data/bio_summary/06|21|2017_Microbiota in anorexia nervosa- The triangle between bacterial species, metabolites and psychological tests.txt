@@ -1,0 +1,30 @@
+otu 3485 100 sequence simi- larity with accession number nr042007.1 roseburia inulinivorans was positively correlated with insulin values p  0.0397 while the otu 5247 99 sequence similarity with accession number nr112945.1 bacteroides uniformis was negatively related with bmi p  0.0194.other biochemical parameters were not significantly associated with gut microbiota composition.permanova analysis confirmed the significant correlations between gut microbiota insulin and bmi insulin correlated with gut communities at otus level p  0.002 and bmi at every taxonomic level p  0.05.bmi was also positively associated with scfa concentration total scfas p  0.0125 buty- rate p  0.0035 propionate p  0.0137 and iso-butyrate p  0.0282.association between bmi insulin and propionate was revealed by rda analysis .
+
+1991 454221-226. pmidoksanen j kindt r legendre p hara bo simpson gl solymos p et al.
+
+2014 5171-73.pmidbreton j legrand r akkermann k ja rv a harro j de'chelotte p et al.
+
+p  0.0089 whereas fecal butyrate concentration inversely correlated with depression p  0.0379 and anxiety p  0.0206 scores.discussionour study described clinical and anthropometric parameters psychological status microbiota and scfa profiles in anorexia nervosa subjects integrating the current literature on gut dys- biosis in an .anorexia status was characterized by an altered intestinal microbiota composition with unbalanced gram positivegram negative relative abundance.
+
+ordination analysis was performed using redundancy analysis rda in the vegan package  and alpha and beta diversity metrics were also calcu- lated in the vegan package.statistical analysis of cohort-related characteristics comparing an versus ctr were per- formed using student's t-test for normally distributed samples and wilcoxon test for non nor- mally distributed samples correlation analysis pearson and spearman correlation coefficient and linear regression models.
+
+redundancy analysis rda showed that samples were dis- tinctly grouped .this grouping was confirmed at otus level by the analysis of similarity anosim test which evaluates significance of sample grouping p  0.03.moreover a significant increase of gram-negative bacteria was observed in an participants compared with ctr p  0.03.archeabacteria with the main genus methanobrevibacter were detected in 30 of an and ctr subjects.
+
+biochemical tests revealed in an group higher val- ues of alt and ast.diet analysis confirmed the characteristic energy restriction in an diet compared with ctr group an subjects showed a lower dietary intakes of energy 1195 kcaldie - 264 vs 1481 kcaldie - 209 p  0.009 total fats 33 gdie - 11 vs 54 gdie - 13 p0.001 and carbo- hydrates 175 gdie - 42 vs 204 gdie - 27 p  0.049. no significant differences were observed in fiber and protein intakes.psychopathological tests revealed significantly higher levels of depression anxiety and eat- ing disorder psychopathology in an group compared with controls .extensive data description can be found in the supplementary .gut microbiota dysbiosis in anorexia nervosa subjectssequencing libraries had a median size of 165200 sequences min  97010 max  339500 and had a high coverage median  99.2 min  98.9 max  99.7. to avoid biases related to uneven library depth sequencing libraries were subsampled to a number of reads smaller than the smallest library 97000 reads.
+
+pmidklump kl bulik cm kaye wh treasure j tyson e. academy for eating disorders position paper eat- ing disorders are serious mental illnesses.
+
+in conclusion our findings corroborate the hypothesis that the gut dysbiosis could take part in the an neurobiology in particular in sustaining the persistence of alterations that eventually result in relapses after renourishment and psychological therapy but causality still needs to be proven.abbreviations bmi body mass index fm fat mass ffm free fat mass mm musclemass bm basal metabolism wbc count white blood cells count che cholinesterase alt alanine aminotransferase ast aspartate aminotransferase edi-2 eating disorder index-2 scl90 symptoms checklist-90 revised stai-y state trait anxiety inventory form y bdi beck depression inventory.introductioneating disorders are an important cause of physical and psychosocial morbidity in adolescent girls and adult women .
+
+moreover each participant's body com- position was estimated using bioelectrical impedance analyses bia in order to obtain the following parameters fat body mass fat-free body mass bone mass total body water .psychopathology assessmentthe severity of eating disorder and psychopathology tests were assessed by means of the symptom checklist-90 general psychopathology  eating disorder inventory 2 eating disorder  state trait anxiety inventory anxiety disorder  and beck depression inventory depressive symptoms .
+
+standard curve was carried out using five serial dilutions of control dna and specific 16s rrna primers msfw 5'-ccgggtatcta atccggttc-3' and msrev 5'- ctcccagggtagaggtgaaa-3'.the following thermal cycling parameters were used for amplification of dna 95c for 10 minutes followed by 40 cycles of 15 seconds at 95c 30 seconds at 60c and 30 seconds at 72a melting curve analysis was also performed to verify amplicon specificity.short chain fatty acid scfa measurementscfa concentrations were assessed in accordance with the method proposed by weaver et al.
+
+2007 41124-31.pmidsudo n chida y aiba y sonoda j oyama n yu x-nx et al.
+
+1999 551117-128. pmidklindworth a pruesse e schweer t peplies j quast c horn m et al.
+
+2007 444365-411.pmidimhann f vich vila a bonder mj fu j gevers d visschedijk mc et al.
+
+available fromje'sus p ouelaa w francois m riachy l gue'rin c aziz m et al.
+

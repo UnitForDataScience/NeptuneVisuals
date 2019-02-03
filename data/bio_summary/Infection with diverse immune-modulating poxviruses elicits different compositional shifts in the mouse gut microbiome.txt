@@ -1,0 +1,30 @@
+research articleinfection with diverse immune-modulating poxviruses elicits different compositional shifts in the mouse gut microbiomedaniel aguirre de ca'rcer bruno herna'ez alberto rastrojo antonio alcam'icentro de biolog'ia molecular severo ochoa consejo superior de investigaciones cient'ificas csic- universidad auto'noma de madrid uam madrid spain current address departamento de biolog'ia universidad auto'noma de madrid madrid spain.
+
+to this end 16s rrna amplicon sequencing and rnaseq transcriptome profiling were employed as proxies for microbiota composition and gut immunophysiological status in the analysis of caecal samples from control mice and mice infected with various poxvirus types.
+
+initially samples were obtained at day 2 post infection dpi representing early infection as well as at a later infection stage 5 and 7 dpi for vacv and ectv respectively.
+
+these viruses could differentially alter gut mucosal immunity in the context of a natural immune response and hence through the joint monitoring of gut mucosal immunity and microbiota composition help increase our understanding of the immune deter- minants of microbiome composition.in this study we employed 16s rrna amplicon sequencing and transcriptome profiling as proxies for microbiota composition and gut immunophysiological status respectively.
+
+our results show that different poxvirus species and mutants elicit different shifts in the mice mucosa-associated microbiota and in some instances significant concomitant shifts in gut transcriptome profiles thus provid- ing an initial validation to the proposed model.introductionthe gut microbiome is an influential factor underpinning various health challenges faced by societies today.
+
+have shown in mice that influenza pulmonary infection alters the gut microbiota through a mechanism dependent on type i ifn.
+
+our expectation was that the different viruses would elicit different shifts in both gut microbiota composition and host transcriptome patterns hence providing an initial validation to our hypothesis.materials and methodsall samples analyzed in this study originate from mice sacrificed as part of a larger-scale effort to understand poxvirus modulation of immune pathways.
+
+vacv also causes a severe disease in susceptible mice after intranasal infection with detectable weight loss and signs of illness by 5 dpi associated with high virus titers in lungs and brain 9. hence to avoid potential confounding factors we focused on early time points 2 dpi when we hypothesized that the initial virus replication might have affected mucosal immunity in the gut and not yet triggered strong confounding factors e.g.
+
+in this regard immune-modulatingopen accesscitation aguirre de ca'rcer d herna'ez b rastrojo a alcam'i a 2017 infection with diverse immune- modulating poxviruses elicits different compositional shifts in the mouse gut microbiome.
+
+once the most appropriate sampling time was established see below another batch of samples n  5 mice per experimental group at 2 dpi was independently obtained batch 2. mice ceca were quickly immersed in rnalater preserving solution qiagen and stored at 4c for one day.
+
+pone.0173697editor yolanda sanz instituto de agroquimica y tecnologia de alimentos spainreceived november 17 2016accepted february 26 2017published march 10 2017copyright c 2017 aguirre de ca'rcer et al.
+
+sample points and experimental group labels are jointly colored and ellipses describe the experimental groups' collective variances.doi10.1371journal.pone.0173697.g002the infection with ectv produced concomitant shifts in gut transcriptome profiles.
+
+nevertheless further research is necessary to more adequately determine the effect of infection in gut transcriptome profiles.conclusionthe use of germ-free mice-based models has increased our understanding of the immuno- physiological effects elicited by bacteria on the host.
+
+for instance our approach should allow the detection of links between the activity of different modules of gut immunity and the abundance or activ- ity of particular groups of bacteria.exploration of trends in host caecal transcriptomic profiles during early infection.
+
+2016 influenza virus affects intestinal microbiota and secondary salmonella infection in the gut through type i interferons.
+

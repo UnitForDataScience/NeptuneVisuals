@@ -1,0 +1,30 @@
+each subject is represented by four plots from top to bottom clinical variables including antibiotic treatment growth of microorganisms on clinical culture and betr category lung function as fev1 predicted red fvc  predicted green with 30 and 80 represented by the grey dotted line bacterial load as measured by 16s rrna gene qpcr in copies per ml of sputum with the detection limit of the assay indicated by the grey dotted line stacked barplots of the otus present in each sample.
+
+there was however no correlation of alpha or beta diversity or bacterial load with important clinical parameters such as severity or duration of disease suggesting that analyses of diversity are not simply a reflection of disease severity and that they should be used alongside the recognition and enu- meration of pathogens.the culture of mucoid p. aeruginosa was associated with changes in community structure which might be due to the impact on the local environment in the lung of this phenotype or could be a marker of longer colonisation as mucoidy is associated with chronic colonisation .our finding that the bacterial community relates poorly to clinical state supports the results of longitudinal studies of patients with cystic fibrosis -.
+
+more frequent sampling could establish whether changes in the microbiota not coincident with clinical change were due to sampling variability community variability as a result of drivers with no clinical impact e.g.
+
+as with each subject is represented by four plots from top to bottom clinical variables including antibiotic treatment growth of microorganisms on clinical culture and betr category lung function as fev1 predicted red fvc  predicted green with 30 and 80 represented by the grey dotted line bacterial load as measured by 16s rrna gene qpcr in copies per ml of sputum with the detection limit of the assay indicated by the grey dotted line stacked barplots of the otus present in each sample.
+
+in addition the denoised reads otu table and clinical data are available to download at   and at biostudies accession s-bsst1  .
+
+the clinical data is also available as .abstractbackgroundbronchiectasis is accompanied by chronic bronchial infection that may drive disease progres- sion.
+
+dna based methods offer better identification and quantification of microbial constituents of sputum than standard clinical culture and may help inform patient management strategies.
+
+our study objective was to deter- mine the longitudinal variability of the non-cystic fibrosis cf bronchiectasis microbiome in sputum with respect to clinical variables.
+
+eighty-five patients with non-cf bronchiectasis and daily sputum production were recruited from outpatient clinics and followed for six months.monthly sputum samples and clinical measurements were taken together with additional sam- ples during exacerbations.
+
+16s rrna gene sequencing of the sputum microbiota was suc- cessful for 381 samples from 76 patients and analysed in conjunction with clinical data.resultsmicrobial communities were highly individual in composition and stability usually with limited diversity and often containing multiple pathogens.
+
+with some exceptions community characteristics showed poor correlations with clinical features including underlying disease antibiotic use and exacerbations with the subject showing the strongest association with com- munity structure.
+
+antibiotic choice in current practice is initially empirical until sputum cultures are obtained and then directed by isolated organism .standard microbial cultures are selective identifying a restricted range of bacterial species in clinical samples.
+
+recruited patients were studied at monthly intervals and during any exacerbations.we present here the results of quantification of the bacterial burden by quantitative poly- merase chain reaction qpcr of the 16s rrna gene and community analyses comparing them to clinical outcomes and microbiological cultures.microbial diversity reflects the number of species their presence and their abundance in a study.
+
+patients had monthly research visits at which fresh sputum samples were collected and spirometry and clinical assessment performed.
+
+the clinical state for each sample was defined as baseline b exacerbation e treatment t or recovery r as previously pub- lished .
+

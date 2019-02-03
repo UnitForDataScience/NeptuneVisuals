@@ -1,0 +1,30 @@
+but despite the lack of any direct evidence of a functional relationship the distribution of ant-specific bacteria across lineages likely to have independently-evolved herbivorous diets makes a compelling case for a generalized role for bacteria in facilitating herbivory in ants.much of the research that has been done todescribe insect-associated bacterial communities especially since the advent of high-throughput next- generation sequencing suffers from a common limi- tation a lack of context as to the absolute abundance of the microbes being surveyed.
+
+like the blochmannia bacteria we observed erupting from camponotus bacteriocytes the putative intracellular bacteria in dolichoderus were relatively large  .
+
+together our findings present the beginnings of a systematic framework for understanding the re- lationship between diet and bacterial symbiosis in ants.bacterial abundance and ant ecologyour findings support a relationship between bacteria and herbivory in canopy ants almost all of the ants with very high normalized bacterial abundances were canopy ants at the herbivorous extreme of the 15n scale and the correlation between 15n isotope ratios and bacteria was significant for both micro- scopic and molecular measures of bacterial abun- dance.
+
+consistent with this trend the only genera outside of camponotus dolichoderus and cephalotes where we definitively observed gut bacteria in fish micro- graphs were in the exclusively carnivorous army ants .could bacterial associations facilitate extreme car-nivory on the forest floor analogously to how they appear to have facilitated extreme herbivory in the canopy sequence-based surveys of bacteria have revealed consistencies among army ant microbiota     that seem to contrast with the highly variable communities that have been recovered from more generalist arboreal   and terrestrial species  .
+
+biological roles of gut bacteria in carnivorous ants are not known but high mortal- ity in ants restricted to protein-rich foods--irre- spective of carbohydrate content--also suggests a potential role for bacteria in ameliorating deleterious effects of obligate carnivory  .
+
+we found micro- scopic evidence suggestive of bacteria tightly associ- ated with host gut tissues in two other arboreal ant lineages suggesting that similar associations may be considerably more widespread in ants than was pre- viously thought.potential bacteriocytes in one of the two coloniesof myrmelachista we examined colony jsc-108 appeared similar to those of camponotus and like in camponotus contained large rod-shaped bacteria.
+
+had our analysis been limited to 16s rrna amplicon sequencing we would have found much more limited evidence to support an association be- tween gut bacteria and arboreal herbivory in rainfor- est ants.characterization of bacterial abundance in sam-ples should also help to interpret potential technical confounds such as the presence of contaminant amplicons derived from reagents the relative contri- bution of which should be inversely correlated to the original amount of bacteria in the sample  .
+
+supporting the hypothesis that microbial symbiosis is important to dominance in the canopy we find that the abundance of gut bacteria is positively correlated with stable isotope proxies of herbivory among canopy-dwelling ants but not among ground-dwelling ants.
+
+our results provide quantitative context to the potential role of bacteria in facilitating the ants' dominance of the tropical rainforest canopy and have broad implications for the interpretation of sequence-based surveys of microbial diversity.introductionwhen tropical entomologists began systematic sur- veys of arthropod biomass in rainforest canopies the dominance of ants in the fauna appeared to be para- doxical.
+
+g. sanders et al.specialized associations between bacteria and a num- ber of canopy ant lineages .
+
+blochmannia bacteria were among the first described endosymbionts  and appear to play a role in upgrading or recycling nitrogen for their host carpenter ants genus camponotus a group frequently found in forest canopies  .
+
+specialized extracellular bacteria have long been known to inhabit the morphologically ela- borated guts of the new-world arboreal genus cephalotes   .
+
+billen and collaborators showed that several species of the old-world arboreal genus tetraponera have a bacterial pouch at the junction between the mid- and hindgut which houses a dense community of extra- cellular bacteria .
+
+genomic sequence from a member of this bacterial lineage recovered from harpegnathos saltator a preda- tory ant suggests a potential role in the synthesis of vitamins or essential amino acids   but the relatively coarse taxonomic resolution of these bacteria across ant hosts no doubt obscures substantial differences in genomic potential let alone functional relevance.
+
+here we examined how bacterial abundance varies across a wide range of ant species in a tropical rainforest and whether ants at lower trophic levels support more bacteria.
+

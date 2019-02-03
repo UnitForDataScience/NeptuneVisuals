@@ -1,0 +1,30 @@
+thus our minimal reaction-diffusion rd model describing the spatiotemporal dynamics of the synthetic mutualistic replicators reads see i2ii th l 2  d2thwhere i and l stand for the population density of the i - and l- strain respectively t and r are the time and spatial coordinates d is the diffusion coefficient mi is the malthusian growth rate of species i 2 i l and aij  jwae 0 is the growth rate of species i assisted by its mutualistic part- ner j 2 i l. note that as in the case of the hypercycle model  an effective hyperbolic growth is confined to relatively low population densities by the carrying capacity k. the above set of equations generalised the two-member model by including on the one hand the spatial context through the diffusion terms d2r2 and on the other by considering both mutual- istic aij  jwae 0 and malthusian 0  bbyang hwaemliao jjekliao jjyeliao mi  bbyang hwaemliao jjekliao jjyeliao mic  growth terms.the above minimal model eq.
+
+along experiments cells were grown at 37c in well-mixed modified-m63 mm63 media ph 7.0 62 mm k2hpo4 39 mm kh2po4 15 mm ammonium sulfate 1.8 mm feso4 - 7h2o 15 mm thiamine hydrochloride 0.2 mm mgso4 - 7h2o and 22 mm glucose .for individual cloning selection i- and l- cells from frozen stocks were grown overnight16h in lb at 37c diluted and plated on petri dishes with lb agar 1.2 agar and the appro- priate selective antibiotic chloramphenicol 30 mgml kanamycin 20 mgml and 25 mgml for the for the i - the l- and the p strain respectively.before each experiment colonies of each strain were selected and grown separately in lb supplemented with both 10-4m of auxotrophic amino acid and the corresponding selective antibiotic.
+
+a list of the considered cell behaviour features followssensing at each time step each cell senses the extracellular concentration of three kinds of molecules amino acids i - cells sense iso while l- and p cells sense leu food this category embraces any other nutrients that cells may need to grow and antibiotic i.e.
+
+b malthusian growth rate for the l- strain growth conditions as in a.malthusian growth rate for the p strain growth conditions as in a. hyperbolic growth rates ail and ali were obtained from the observed growth at low population densities region between dashed lines as described in .
+
+the scheme shows the logical steps that determine cell behavior according to our model.furthermore in order to consider a fitter parasitic strain that evades the cost of the mutual- ism in antibiotic-free scenarios we consider the growth rate of p cells to be higher by a 10 difference than that of i - and l- cells.
+
+as the snapshots in illustrate nutrients and amino acids are mainly consumed by cells at the edge of the front their depletion leaves a population of stagnant cells that effectively constitutes a fossil record of the invasion process .
+
+f three- species spatial structure in a simulated heterogeneous environment with non-isotropic antibiotic concentration at t  0. while the p strain is conserved in the areas where cross-protection is essential for the mutualistic ensemble p cells are excluded from the front in areas where the antibiotic concentration does not reach the growth inhibition threshold.the ecological role of a species in a given community can be strongly dependent on its envi- ronment and transitions can occur between mutualism and parasitism as external conditions change  -.
+
+in contrast to the previous para- sitic case the fraction of the p strain is approximately constant as the population front advances see .the definition of the three-member consortium as an agent-based model allows us to make some predictions on how the system would spread within heterogeneous environments and captures the main spatial dynamics features of the system see supp info.
+
+specifically i - cells release leu l- cells release iso and p cells release the betalactamase enzime that degrades the antibiotic to the extra- cellular medium.
+
+according to the rd model even if one of the strains is slowed down because of competition the edge of the front will keep travelling at the speed of the fastest strain which should exceed the speed of the obli- gate mutualistic loop in order to overcome its partner species at the edge of the front.
+
+iso  0 and leu  10-4m leads the l- strain to govern the front.white rectangles indicate the obligate mutualism facultative mutualism and competition sce- narios.tiffs4 fig.
+
+in the obligate mutualism case single-strain patches keep a characteristic width determined bythe distance at which cells can sustain the cross-feeding mutualism cells near the front can temporarily become stagnant when their location prevents an effective cross-feeding.
+
+showshow the ratio of active cells is correlated with the invasion speed suggesting that the dynamics in facultative mutualism scenarios can slow-down the invasion speed of the synthetic mutualists.environmental deterioration can determine the survival of parasites during range expansionsseveral processes such as mutations or the arrival of foreign invader species may give rise to new organisms exploiting cooperative feedbacks in a given ecosystem.
+
+therefore the strains are able to engage in a cross-feeding mutualism that permits growth in coculture in a minimal medium lacking both amino acids where neither i - nor l- can grow in monoculture obligate mutualism scenario in .
+
+it is worth noting that according to the rd model the minimal invasion speed of the population corresponds to that in the obligate mutualism scenario i.e.
+

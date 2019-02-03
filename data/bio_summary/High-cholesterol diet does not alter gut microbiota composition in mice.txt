@@ -1,0 +1,30 @@
+mice lacking the intestinal cholesterol transporter npc1l1 were shown to develop alterations in their gut micro- biota compared to wild type mice .
+
+however mice fed the high- cholesterol hc diet developed elevated plasma choles- terol levels compared to control mice maintained on the nc diet 39 p  0.01 table .
+
+mice m1-m3 received no cholesterol in the diet nc mice m4-m6 were fed high cholesterol diet hcshared by literature using a similar experimental design .
+
+changes in gut community structure and function have been implied in metabolic syndrome-related conditions such as obesity  type 2 diabetes and atherosclerosis diet emerges as an important factor influencing microbiota composition since nutrient abundance can promote the growth of dif- ferent bacterial groups by affecting bacterial metabolism and adaptability the shift from a low-fat plant- polysaccharide-rich diet towards a high-fat western style diet has been shown to strongly modify the gut micro- biota within days of administration by increasing the representatives of mollicutes erysipelotrichi and bacilli classes of firmicutes along the intestinal axis these changes conceivably contribute to metabolic diseasesince the predominance of firmicutes over bacteroidetes has been associated with obesity and metabolic syn- drome in both mice and humans high fat diet has effects similar to western diet on the gut ecosystem resulting in an altered metabolomic signature of dominant phylotypes as bacteroidetes although this has not been unequivocally established and the diet effect might depend on additional factors such as the choice of model .
+
+the creative commons public domain dedication waiver applies to the data made available in this article unless otherwise stated.homeostasis as well as on the gut microbiome in ldl- receptor knockout mice.
+
+these mice were chosen since they represent a widely used model for several aspects of cardio-metabolic disease such as atherosclerosis or non-alcoholic steatohepatitis pathologies in which changes in microbiota composition have been mechanistically implicated  our results demonstrate that the composition of the intestinal microbiota remained remarkably stable despite substan- tial changes occurring in overall cholesterol metabolism in response to the hc diet.
+
+these data furthermore imply that the impact of western diet on the micro- biota is mediated by its high fat rather than its high cholesterol content.materials and methodsanimals and dietsmale b6.129s7-ldlrtm1her mice jackson laboratories bay harbor maine usa were bred in our facility.
+
+mice were maintained on semisynthetic ain93g diet d10012g research diets until 12 weeks of age when half of them were switched to a 1.25-cholesterol containing re-formulation of the same diet d12110502 research diets comparable to previous work  which was then continued for an additional 12 weeks.
+
+we used unifrac to determine which of the microbial com- munities represented in our mice were significantly different as well as the basis for a distance matrix to cluster the samples using unweighted pair group method with arithmetic mean upgma  and to perform prin- cipal component analysis.gene expressiongene expression analysis was performed using quanti- tative real-time pcr.
+
+in addition the hc group had an increased hepatic content of cholesteryl es- ters 96 p  0.01 as well as triglycerides 63 p  0.01. these data indicate consistent with previous findings that feeding a diet enriched in cholesterol re- sults in cholesterol accumulation in plasma and tissues of ldlr-knockout mice .
+
+however certain microbial taxa are involved in bile acid metabolism and can thereby substantiallytable 1 metabolic changes in ldlr-knockout mice after 12 weeks high-cholesterol diet feedingdata are given as median and range.
+
+cecal microbial composition of all mice was comprised of bacteroidetes average 55 across all samples and firmicutes 27 followed by verrucomicrobia 14 proteobacteria 3.7 and actinobacteria 0.6 fig.
+
+an increased ratio between firmicutes and bacteroidetes has been previously observed in mice fed western diet  and similar data were obtained in response to a diet con- taining only high fat without added cholesterol .
+
+in order to test for similar- ities between the microbiomes of nc and hc mice we used a pco analysis based on the unweighted unifrac values which showed no clustering of the individual sam- ples fig.
+
+reflecting their apparent similarity.although there was an overall uniformity in the distri- bution of bacterial groups across all samples one notable exception was the class of tenericutes and more specific- ally the genus anaeroplasma which were only detected in nc mice.
+

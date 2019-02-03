@@ -1,0 +1,30 @@
+this approach provided a valuable insight into genomic variation including niche specificity evolution of species antibiotic resistance and many other features of l. salivarius.resultspreparation of l. salivarius genomeswe isolated the l. salivarius strains that inhabited the intestinal tracts of swine from several farms of republic of korea under two different conditions 1 agps had been used as feed additives for livestock in 2005 and 2006 and 2 after the ban on agp addition to the feeds in 2014 and 2015. l. salivarius strains composed of 89 strains from before agp prohibition and 195 strains from after agp prohibition were isolated and identified as described in the previous study .
+
+fur- thermore given the many functional properties of l. salivarius as probiotic the genetic fea- tures allowing dense biofilm formation can provide detailed insight for screening and selection of probiotic l. salivarius strains and additional in-depth research examining these genetic features would be worthy of investigation.materials and methodspreparation of l. salivarius genomes and ortholog identificationwe had previously reported isolation identification and genome sequencing of the l. salivar- ius strains used in this study .
+
+all of the strains showed over 97 of anib values through pairwise comparison with the reference genome of the species l. salivarius ucc118 indicating that all of the strains used in this study belonged to the same species l. salivarius .the 21 genomes obtained in this study had 3318 total orthologous coding dna sequences cdss including 1384 core genes and 322 stain-specific orthologs .
+
+among them 21 l. salivarius strains including six strains isolated before agp prohibition sbps and fifteen strains isolated after agp prohibition saps were ran- domly selected.whole genome sequencing of 6 sbps and 15 saps had been carried out and draft genomes of the strains had been generated as described in the previous study  .
+
+we also analyzed copy number variation of the eps genes and the extracellular protein genes found in the l. salivarius strains but no significant differ- ences were detected between sbps and saps.in vitro biofilm formation and competition with intestinal microorganismsepss and extracellular proteins are major constituents of the gram-positive bacterial cell wall and are important for biofilm formation of l. salivarius  .
+
+nucle- otide sequences of the seven l. salivarius housekeeping genes pstb rpsb phes ftsq nrdb rpoa and parb were used in clustering for mlsa .in vitro biofilm formation assaybiofilm formation of l. salivarius strains was analyzed as described by p. ambalam et al.
+
+here we isolated 21 l. salivarius strains composed of 6 strains isolated before the agp prohibition sbps and 15 strains iso- lated after the agp prohibition saps at an interval of a decade and the draft genomes were generated de novo.
+
+all of the processes were car- ried out under anaerobic condition an atmosphere of 75 n2 20 co2 and 5 h2.the amount of l. salivarius strains was calculated by real-time pcr with l. salivarius-spe- cific primers for-sal-3 5'-gtcgtaacaaggtagccgtagga-3' and rev-sal-1 5'-ta aacaaagtattcgataaatgtacaggtt-3' .
+
+21 l. salivarius strains had been iso- lated from several swine farms before and after the ban of agps at an interval of a decade and we used previously generated draft genomes for pan-genomic analysis .
+
+bacteria that had colonized the animal intestines had acquired antibiotic resistance ar genes for their averages of genomic features in sbps and saps mean - standard deviation.phylogenetic tree of the isolated l. salivarius strains.
+
+a hierarchical clustering of l. salivarius strains based on orthologous cds contents.
+
+most of these ar genes are act by block- ing the protein synthesis inhibitors to protect l. salivarius strains from lincosamides erma ermb lnua lnuc and vate and tetracyclines tetc tetl and tetm.
+
+orthologs of l. salivarius strains were aligned to the database using blast and orthologs showing e-value  0 and identity 2 90 were regarded as ar genes colored square.comparison of rast subsystems of the isolated genomes.
+
+in vitro biofilm formation of the l. salivarius strains was tested and significant differences were observed between the groups .
+
+however after 48 h of competition the number of sap cells was higher than sbps p  8.922 x 10-10. these results indicate that saps were suitable to survive because of their ability to form biofilm.discussionwe isolated the l. salivarius strains at an interval of a decade and the use of agps was legally banned in republic of korea during this period.
+

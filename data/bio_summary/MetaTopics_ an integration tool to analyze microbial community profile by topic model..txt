@@ -1,0 +1,30 @@
+designing computational models to in- vestigate the microbial community profile is a key step to recognize the microbial functions related to their host samples a common scenario in metagenomics study is to clus- ter or classify multiple samples represented by their otu profiles based on 16s rrna pyrosequencing.
+
+how- ever normal unsupervised clustering or supervised clas- sification only provide the subdivisions of the samples but fail to decipher the latent microbial community structures their interactions as well as their correlation to specific disease status of such samples.
+
+in particular a bayesian based method called latent dirichlet allocation lda can be used in such inference there are limited ap- plications of the topic model in biological areas - and it is proven to achieve robust performance with tol- erance to common noise of samples which greatly exists in otu assignment in metagenomics study so using the topic model to analyze metagenomics data could be an available way to decipher microbial community profiles.by using the topic model metatopics is developed to address the aforementioned questions we have raised by inferring the potential microbial community and bacteria interaction with both clustering and classification of the samples and identifying the influence of a latent sub- community on a certain disease status.methods and implementationtopic model for metagenomics studytopic model a type of statistical model is originally used in machine learning and natural language process- ing area for latent topics discovery in a particular set of documents the basic idea of this model is that it assumes that each topic consists of the highly correlated words and each document may contain several different topics with a certain probability distribution and the distribution of such potential topics can be inferred by given the set of documents together with their word fre- quency representations.
+
+in addition considering the substantial needs in the analysis of the relationship between each sub-community and a certain disease sta- tus the quetelet index qi  is defined to estimatethe relative change of the observation frequency of a specific latent sub-community among all the samples compared to that among the samples with a certain dis- ease status fig.
+
+before applying metatopics the bacteria which exist in very few samples as well asthe samples with very few bacteria taxons were filtered.
+
+3-5 october 2016backgroundhigh-throughput sequencing techniques have been ex- tensively applied in microbial metagenomics to study microbe diversity and community profiles from mixed dna samples.
+
+the creative commons public domain dedication waiver applies to the data made available in this article unless otherwise stated.status and 2 what relationships and interactions exist between different bacteria in a microbial community.metatopics is developed to infer the microbial com- munity structure across multiple samples based on a powerful statistical learning model i.e.
+
+we made a perfect analogy between text mining and microbial community detection where documents can be analogized to the samples in metage- nomics study and the words frequency in a document can be analogized to the otus abundance for a given sample.
+
+several functions are built to visualize the abundance and diversity of the mi- crobial profiles over the individual samples.
+
+qi quantitatively describes the de- gree of the influence of a specific topic on a certain disease see additional file defining qi for topic and disease status relationship analysis section for more details.results and discussiondata descriptions and preprocessingas an example metatopics was firstly applied on the in- house oral metagenomics dataset which contains 39 oralhuman samples.
+
+23 of these samples are patients with two subtypes of oral lichen planus olp 9 olpnon- erosive and 14 olperosive and 16 of them are con- trols.
+
+there are totally 129 bacteria otus in genus level counted from these samples.
+
+the dataset includes 154 human faecal samples classified by the correspond- ing individual bmi category 104 obese 16 overweight and 34 lean.
+
+there are totally 190 bacteria otus in genus level counted from these samples revised by ncbi taxonomy database.
+
+the package biotyper which is developed for the gut enterotype analysis was used to remove genera with low abundance across all samples to decrease the noise.
+

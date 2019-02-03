@@ -1,0 +1,30 @@
+to clarify whether the portoamides were in fact present in the spent medium extract lc-hresims was carried out and portoamides a b c and d were detected with a proportion of 121624 .initial community compositionimmediately after exposure as expected the microbial community was comparable among all treatments with the obvious exception of the treatment in which pho was inoculated at 1 104 cells ml-1 .
+
+in the allelochemical-exposed treatments alpha diversity - as estimated by the chao1 index - decreased 30 spent medium 38 portoamides after 6 days of exposure and decreased even further by the end of the experiment 70 spent medium 65 portoamides while for the fresh medium extract alpha diversity increased slightly after 6 days and by the end of the experiment was comparable to the day 0 communities .
+
+this is the case of the portoamides a and b cyclic dodecapeptides that are likely produced by a hybrid polyketide synthasenon-ribosomal peptide synthetase pathway together with the apparently less potent undecapepetides portoamides c and d  .
+
+this unicyanobacterial culture has not been determined to be axenic but no contamination is visible in exponentially growing cultures by light microscopy under high magnification probably due to the antibiotic properties that have been attributed to the portoamides.purification of portoamides a and bto obtain a mixture of portoamides a and b in the proportions found inside pho cells we carried out a slightly modified version of a previously reported isolation  .
+
+for the portoamides a and b treatment preparation 0.5 mg of the previously obtained portoamides a and b mixture 2.71 respectively was transferred to a round-bottom flask using meoh the solvent was then removed under reduced pressure.
+
+this suggests that the allelopathic effect of either the portoamides a and b alone or that of the spent medium components drives the community in the same direction which is not surprising given that portoamides are found in the spent medium extract .it is possible that our analysis missed rare taxa and that the observed decrease in evenness  and supplementary figure s2 also led to an underestimation of species richness.
+
+exposure of the same community to the portoamides alone resulted in a similar outcome.
+
+exposure studies with laboratory cultures of different phytoplanktonic organisms demonstrated that portoamides a and b inhibit the growth of eukaryotic microalgae chlorella vulgaris and ankistrodesmus falcatus as well as that of the cyanobacterium cylindrospermopsis raciborskii  .
+
+we found that exposure to spent medium or portoamides led to a marked decrease in community richness while only a few potentially opportunistic groups were able to increase their relative abundance.
+
+for two samples corresponding to day 0 one from the co-culture with pho cells and one for the portoamides exposure we were unable to obtain edna - given the high homogeneity of samples at day 0 this had a negligible impact on our analysis.dna sequencing and sequence analysisthe edna samples were used for paired-end massive parallel sequencing of the v3 region of the 16s rrna gene 341f-785r primers   using the illumina miseqillumina sorted and adapter clipped.
+
+however due to the plankton net filtration step this may not entirely reflect the composition of the original community present in the urban pond.exposure to pho allelochemicals drastically reduces diversitycomparison of the microbial community compositions after 6 and 16 days of exposure revealed that profound changes occurred in communities exposed to the organic extract from pho spent medium and to the 1 ug ml-1 mixture of portoamides a and b - i.e.
+
+hence our observations dismiss a generalized allelopathic effect comparable to the spent medium extract and portoamides a and b exposure treatments for the co-incubation of the community with a considerable density of pho cells.
+
+the filtered sample containing the 20 um microbial community was acclimated to laboratory conditions by being placed under the light and temperature conditions described above for batch cultures for a period of 48 h and was then used for the exposure experiment.exposure experimenta simplified scheme of the experimental design for the exposure experiment is provided supplementary figure s1.
+
+flasks were vigorously shaken twice daily three flasks from each treatment were retrieved after 6 and 16 days of exposure and used for dna extraction.dna extractioneach flask retrieved from the exposure experiment was vigorously shaken and its contents transferred to a 50 ml falcon tube before centrifugation at 4500 g for 10 min.
+
+in fact when a soil community was exposed to weekly pulses of the natural antimicrobial macrolactins  2.5 ugg soil a 16 loss in alpha diversity chao1 was observed over 4 weeks  - a considerably milder impact than the one herein reported over a shorter exposure period.effect of pho allelochemicals on specific taxawe observed that at different taxonomic levels several taxa were strongly affected by exposure to the allelochemicals .
+

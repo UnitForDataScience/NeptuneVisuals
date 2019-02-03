@@ -1,0 +1,30 @@
+ dimitrios j. floros12  12  clifford a. kapono12  12  123  rob knight456 and pieter c. dorrestein1251 skaggs school of pharmacy and pharmaceutical sciences university of california san diego san diego ca usa2 collaborative mass spectrometry innovation center skaggs school of pharmacy and pharmaceutical sciences university of california san diego san diego ca usa 3 state key laboratory of tea plant biology and utilization anhui agricultural university hefei china 4 department of computer science and engineering university of california san diego san diego ca usa 5 center for microbiome innovation university of california san diego san diego ca usa 6 department of pediatrics university of california san diego san diego ca usaedited bybasil j. nikolau iowa state university usareviewed by norberto peporine lopes university of sao paulo brazilute roessner university of melbourne australiacorrespondence pieter c. dorrestein specialty section this article was submitted to technical advances in plant sciencea section of the journal frontiers in plant sciencereceived 24 january 2017accepted 13 march 2017published 29 march 2017citation floros dj petras d kapono ca melnik av ling t-j knight r and dorrestein pc 2017 mass spectrometry based molecular3d-cartography of plant metabolites.front.
+
+apart from these techniques liquid chromatography based mass spectrometry lc-ms or lc-msms methods separate complex components of a tissue extracts based on physiochemical properties before their introduction to the mass spectrometer mostly via electrospray ionization esi.
+
+msms experiments were performed on a maxis qtof mass spectrometer bruker bremen germany equipped with an esi source in positive mode with mass range 100-2000 mz.
+
+with imaging mass spectrometry we can now add a spatial level typically in the micrometer-to-centimeter range to their compositions essential for a detailed molecular understanding.
+
+together with msms spectra library matching and spectral networking this non-targeted workflow provides the highest sensitivity and selectivity for the molecular annotations and imaging of plants laying the foundation for studies of plant metabolism and plant-environment interactions.keywords plant metabolomics imaging mass spectrometry 3d-imaging tomato pepperintroductionphototrophs form the foundational layer of energy and nutrient capture in essentially all terrestrial and marine ecosystems  .
+
+unlike spectroscopic techniques mass spectrometry ms allows highly selective and quantitative measurements to be taken of a broad range of chemical families over a large dynamic range.
+
+with recent advantages in imaging mass spectrometry ims we can obtain metabolic inventories with spatial information from nm to km scale  .
+
+after injecting the samples molecules were eluted from the reverse phase c18 column with a linear gradient of water and acetonitrile and with 0.1 formic acid and infused into hybrid quadrupole-time-of-flight q-tof mass spectrometer.
+
+in order to determine to what degree the individual metabolites vary between tissue types it is necessary to begin grouping individual metabolites identifying those that can be dereplicated and observing families of unknown metabolites.lc-ms features are the first level of mass spectrometric data but molecular fragmentation msms spectra were also collected.
+
+of those 92 consensus spectra matched thereby to spectra from the libraries within a mass error of 20 ppm yielding a 1.6 annotation rate.
+
+in the spatial distribution of an unknown metabolite with the mass 446.2480 mz is shown which is only observed in the tomato.
+
+before analysis the instrument was externally calibrated to1.0 ppm mass accuracy with esi-l low concentration tuning mix agilent waldbronn germany.
+
+with total cycle time of 3 s ions were excluded from reselection after three spectra and released after 20 s. an exclusion list was used to preventsampling of the lock mass.
+
+the mass tolerance was set to 10 ppm and the maximum allowed retention time deviation was set to 10 s. for chromatographic deconvolution the baseline cutoff algorithm with 1.0e4 signal threshold was used.
+
+after isotope peak removal the peak lists of all samples were aligned with the above-mentioned retention time and mass tolerances.
+

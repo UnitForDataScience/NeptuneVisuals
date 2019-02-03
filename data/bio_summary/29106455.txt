@@ -1,0 +1,30 @@
+parallel data analysis with multiple distributed computer nodes brings huge performance advantage compared to a standalone machines.parallel characteristics of genomic databack in the days when widely used algorithms and methods for com- putational genomics were designed the parallel computation was not properly considered.
+
+otherwise the queries can be segmented and distributed to repli- cated database for parallel search .apache hadoop and sparkthe popular distributed computing framework apache hadoop  and the mapreduce   programming model are based on parallel data proc- essing of distributed data.
+
+this sets high performance requirements for the deployment cluster disk io memory allocation data warehousing and networking.virapipe aligns distributed fastq formatted read chunks with bwa-mem from the hdfs read data partitions in parallel and utilizes hadoop-bam library for parallel io operations and read filtering.
+
+the virapipe relies on data parallel computation where the ngs reads are parti- tioned into blocks and processed in parallel.
+
+thus the bwa align- ment is performed in parallel per sample read data partition where each sample is processed separately and the reads of the sample are aligned in parallel.
+
+bioinformatics 346 2018 928-935 doi 10.1093bioinformaticsbtx702advance access publication date 2 november 2017original papergenome analysisvirapipe scalable parallel pipeline for viral metagenome analysis from next generation sequencing readsaltti ilari maarala12 zurab bzhalava3 joakim dillner3 keijo heljanko12 and davit bzhalava31department of computer science aalto university espoo finland 2helsinki institute for information technology hiit espoo finland and 3department of laboratory medicine karolinska institutet stockholm swedento whom correspondence should be addressed.
+
+currently there is an urgent need for scalable analysis pipelines that enable harnessing all the power of parallel computation in computing clusters and in cloud computing environments.
+
+we propose virapipe a scalable metagenome analysis pipeline that is able to analyze thousands of human microbiomes in parallel in tolerable time.
+
+virapipe integrates parallel bwa-mem read aligner megahit de novo assembler and blast and hmmer3 sequence search tools.
+
+the whole process includes parallel decompression read interleaving bwa-mem read alignment filtering and normalizing of non-human reads de novo contigs assembling and searching of sequences with blast and hmmer3 tools.contact availability and implementation 1 introductionthe metagenomics  in the era of next generation sequencing ngs enables the complete sequencing of all microbiological sequences that may be present in a sample.
+
+moreover the existing sequential algorithms and pipelines are run on expensive centralized systems whilst cloud computing environments provide cost-efficient computing power on demand.in our previous work we have been focusing on parallel process- ing of human ngs data formats on hadoop framework with hadoop-bam  and seqpig  .
+
+in this work we design and implement a parallel apache spark based pipeline virapipe for analyzing viral metage- nomes from hundreds of ngs samples.
+
+moreover we run the metagenome analysis experiment on real ngs datasets generated from human samples and evaluate the results.materials and methodsdistributed and parallel computationstoring and processing of genomic data requires large amount of high performance storage space working memory computing power and network capacity.
+
+however data parallel processing is one potential choice for parallelizing genome analysis pipelines without rewriting the existing algorithms.
+
+data locality in multiple nodes of the computing cluster speeds up the processing as data is processed in parallel in local memory without reloading or moving any data.
+

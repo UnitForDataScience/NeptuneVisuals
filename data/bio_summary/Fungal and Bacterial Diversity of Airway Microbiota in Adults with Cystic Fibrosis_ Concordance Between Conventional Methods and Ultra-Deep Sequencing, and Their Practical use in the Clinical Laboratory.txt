@@ -1,0 +1,30 @@
+furthermore uds methods are able to discriminate the fungal taxonomic level genera and sometimes the level of the section such as fumigati or flavi whereas culture-based methods do not give these precisions that are important in the therapeutic management of patients.however uds methods also have inherent bias sources mostly related to extraction protocols or choice of amplification targets which can lead to misrepresentation of some bacterial or fungal taxa -.
+
+3 taxa plots summarising the relative abundance of fungal genera or sections identified in respiratory samples from four cf patients p1 p2 p3 and p4 by three methods culturefirst generation sequencing its-pcr cloning--sequencing and ultra-deep sequencing uds 454 technologycomparison of the three methodsoverall 27 bacterial and 18 fungal genera were detected from the four patients.
+
+2 taxa plots summarising the relative abundance of bacterial genera identified in respiratory samples from four cf patients p1 p2 p3 and p4 by three methods culture first generation sequencing t-rflp and ultra-deep sequencing uds 454 technologyvarying from 1.5 to 9 in 44 patients.
+
+compared with fgs uds efficiency is mostly related to the depth of the new generation sequencing as well as to the inherent limitations of t-rflp and its-pcr cloning.among the bacterial genera identified only through molecular methods 2227 we found as expected a variety of obligate or facultative anaerobic genera which are difficult or impossible to detect using standard culture methods.
+
+in the present study we did a comparative analysis of the bacterial and fungal communities compositions and structures of the airway microbiota of four adult cf patients using two culture-independent methods t-rflp and its-pcr cloning as fgs approach and uds method and a conventional culture-based strategy.our findings are complementary to those of previ- ous studies -   showing major differences between the fungal and bacterial community compo- sition and structure in sputa from cf patients.
+
+however the application range of this method in routine microbiology analyses of cf respiratory spec- imens remains to be defined.the aim of the present study was to examine the bacterial and fungal communities in terms of relative abundance and diversity in four sputum samples from four adult cf patients during the non-exacerbation period using three methods microbial cultures molec- ular methods based on fgs and uds method which targets variable regions of bacterial 16s rdna and the its2 region of fungal rdna.
+
+com- pared with both culture and fgs methods uds has proven to be more efficient and more reliable providing precise taxon identification even with low180mycopathologia 2018 183171-183abundance additional 17 bacterial and 15 fungal genera detected compared with fgs methods.
+
+we could not find bacterial genera common to the four patients and we could not identify a bacterial core 1 some bacterial genera were found with a relative abundance of more than 1 in three of the patients.
+
+.fgs methods t rflp and its pcr-cloning for bacteria and fungi detection respectively with t-rflp the bacterial richness was highly variable between patients and ranged from 1 to 8 genera per patient with a median of four genera fig.
+
+for a given number of genera the value of a diversity index is maximized when all genera are equally abundant.statistical analysesthe comparison of the mean number of genera identified with each method culture molecular char- acterization by pcr-t-rflp for bacteria and its- pcr-cloning for fungi and uds analysis was performed using the friedman variance analysis test for paired data with a significance level of 0.05.resultssamples and patientswe collected four sputum samples from four cf adult females aged between 22 and 39 who were part of a long-term follow-up program at ''centre hospitalier re'gional universitaire de lille'' mucofong projectand of whom two were homozygous for the f508 del mutation and two were heterozygous.
+
+but the cost time and analysis capacity needed for uds are not appropriate for routine use in clinical microbiology laboratories.in conclusion our study despite the limitations related to the small number of enrolled patients highlighted benefits on uds for fungal and bacterial population detection.
+
+the aim of the present study was to compare the bacterial and fungal diversity of sputa from adult cf patients during non-exacerbation period by culture-based and molecular methods and ultra-deep-sequencing uds.
+
+more recently ultra-deep sequencing uds methods have been used to explore the airway microbiome in cf patients    but only a handful of studies looked at the presence of fungi and bacteria together -.
+
+1 boxplot comparison of bacterial a and fungal b taxonomic diversity in the airway microbiota from four cf patients using three methods culture first generation sequenc- ing and ultra-deep sequencing uds 454 technology.
+
+five 18 and 3 16 genera were detected by culture for bacteria and fungi respectively 9 33 and 3 16 by first generation sequencing fgs methods and 26 96 and 18 100 by uds.
+

@@ -1,0 +1,30 @@
+as far back as the 1970s it was estimated that the number of microbial cells mostly bacteria associated with the human body was greater than the number of human cells carrying the human genome 1. this observation has held to the present albeit with narrowed error bars leading to an estimate of 53 microbial cells to 47 human cells 2. an important and more recent observation is that the unique microbial genes greatly outnumber the unique human genes with estimates of the microbial genome catalog typically numbering into the millions 3-5 and dwarfing the 20000 or so human genes 6. the questions of what role all these microbial genes play in drug metabolism and what effect drugs in turn have on the microbiome are just starting to be explored.
+
+because the gut microbiome varies markedly among individuals host-drug interactions mediated by microbial metabolism warrant close consideration in tailoring patient treatment.studying drug cometabolism by the gut microbiota and the human host is complicated by interindividual variability in human genetics diet and other clinical factors.
+
+here we focus primarily on a recent review 16 five large-scale studies 5 17-20 and two large-scale meta-analyses 2122 that summarize these findings.as noted above different sites in the human body host highly distinct microbial communities on a principal coordinates analysis map of the microbiome they emerge as different continents 5 23. however the differences in microbiome composition between for example the mouth andthe gut of the same person are much greater than the differences between soil samples collected from different continents and instead are more comparable to the differences between soil and seawater 24. although different body sites are highly distinct at the level of microbial taxa they are relatively similar in terms of major microbial metabolic functions at least as measured by kyoto encyclopedia of genes and genomes pathways or other broad levels of gene function 5 7.this pattern of microbial biogeography extends to the human gut 10 23 25 26. the micro- biome changes dramatically along the gastrointestinal tract with distinct populations in the oral cavity esophagus stomach and small and large intestines.
+
+1977lack of a core gut microbiome human microbiomeinflammatory bowel diseasediet changesleone et al.
+
+in addition the impact of the gut microbiome on the bioavailability efficacy and toxicity of orally administered drugs xenobiotics and dietary substances was studied for 30 prodrugs 55. many prodrugs that treat gut inflammation are converted to active forms by the gut microbiome.
+
+the gut microbiome not only influences secondary bile acid formation in gut but also modulates the enterohepatic sys- tem by regulating bile acid synthesis in the liver 89. high levels of secondary bile acids are linked to gastrointestinal diseases colon cancer and gallstones 90. for example a meat-based diet is associated with higher levels of taurine conjugation to bile acids and gut production of hydrogen sulfide 91 which can lead to colon cancer.
+
+mouth skin airways and urogenital tract have distinct microbiomes from the gut microbiome but the gut has been most studied in terms of drug response in part because it contains by far the greatest microbial biomass in the human body and therefore the greatest capacity for drug metabolism.
+
+however human genomes are 99.9 the same but gut microbiomes can be 90 different 37. given the rate of microbial metabolism and diversity of microbially encoded enzymes it makes sense to inquire whether differences in drug responses are linked to the gut microbiome.
+
+nutrition contributes significantly to the gut microbiome and the gut microbiome plays an important role in human metabolism.
+
+cyp450 enzymes are highly polymorphic in humans and greatly impact drug response 82. the variability in cyp450 is not limited to humans bacterial cyp450 enzymes vary in copy number function and substrate 83. germ-free mice have different cyp450 ex- pression profiles than those of conventionally raised mice and alterations in expression of other host genes linked to xenobiotic metabolism 84. although differences in the microbiome have not been linked to cyp450 activity in humans accurate prediction of drug metabolism may ul- timately require knowledge of both human cyp450 and the gut microbiota genetics as one of the functional roles of the gut is to partially digest and absorb nutrients and therefore is a ma- jor component of metabolism.
+
+gut microbes 5233-38mataki c magnier bc houten sm annicotte js argmann c et al.
+
+figure motivated by figure 1 in reference 124.such dynamic systems thinking is common in ecology and although many current microbiome research techniques stem from this discipline its application remains relatively rare in medicine.in this review we focus on the human gut microbiome although where appropriate we refer to studies using animal models especially gnotobiotic mice germ-free mice colonized with a defined set of microbes either pure strains or fecal material from a rodent or human donor.
+
+nature 505559-63leone v gibbons sm martinez k hutchison al huang ey et al.
+
+replicating this feat to manipulate weight or other phenotypes in humans remains a goal for future studies.connections between specific gut microbes and action of therapeutic agentsthe literature demonstrating how gut microbes affect the efficacy or toxicity of specific drugs is expanding rapidly.
+
+early experiments showed that some patients' gut microbiota can metabolize digoxin into inactivemetabolites and that pretreatment with antibiotics in individuals harboring these microbiota increased the plasma level of digoxin 62. detailed metagenomic analysis identified a cardiac glycoside reductase cgr operon in some but not other strains of the commensal gut bacteria eggerthella lenta that is responsible for the degradation of this drug 63. studies in animal models revealed that supplementation with the amino acid arginine can suppress the cgr operon and in- crease digoxin bioavailability.
+

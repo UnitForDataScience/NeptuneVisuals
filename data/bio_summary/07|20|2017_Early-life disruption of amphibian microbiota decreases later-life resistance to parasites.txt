@@ -1,0 +1,30 @@
+unweighted scores represent bacterial community membership which is based on the presence or absence of bacterial taxa whereas weighted scores represent bacterial community structure which also takes into account relative abundance of bacterial taxa.to compare relative abundances of bacterial taxa across groups we first removed any phyla that were present in 25 of samples.
+
+in contrast treatment did not affect bacterial diversity of adults bacterial diversity of juveniles was not relatedsignificantly to bacterial diversity of adults and bacterial diversity of adults was not related significantly to adult resistance to infection.
+
+we find that tadpole bacterial diversity is negatively correlated with parasite establishment in adult frogs adult frogs that had reduced bacterial diversity as tadpoles have three times more worms than adults without their microbiota manipulated as tadpoles.
+
+to determine the effect of juvenile water treatment on adult bacterial diversity mass at metamorphosis days to metamorphosis and adult mass as well as theeffect of parasitism on adult bacterial diversity we used generalized linear mixed models glmms with gaussian errors and tank as a random effect.
+
+glm glmm and survival analyses were conducted in rstudio 2013 version 0.98.1062. all figures were made in prism 2008 version 5b.we determined the effect of juvenile water treatment on bacterial community membership unweighted and structure weighted using permanova  with 999 permutations 2008 version 1.0.1 in primer 2008 version 6.1.11.bonferroni post hoc multiple comparison tests were used to compare bacterial communities among treatment levels.
+
+given that the gut bacterial community is largely restructured over the course of metamorphosis we compared relative abundances of bacteria in juveniles and adult frogs separately.relative abundances arcsine square root transformed of bacterial phyla in juveniles and adults were analyzed in jmp version 12 using anovas with watertreatment as an independent variable and for adults with tank as a random effect.
+
+sems were only conducted on tanks for which we had all the measured variables juvenile bacterial diversity gut and skin adult gut bacterial diversity and infection data.
+
+the best model shows that the experimental water treatment reduced bacterial phylogenetic diversity in juveniles and in turn bacterial diversity in juveniles negatively predicted worm establishment in the guts of adults.
+
+in contrast adult bacterial diversity during parasite exposure is not correlated with parasite establishment in adult frogs.
+
+for example at parasite exposure an experi-mental reduction of bacterial diversity in mouse guts increased clostridium infections relative to mice with normal gut micro- biota.
+
+one mechanism by which the bacterial community can protect their host from infections is through direct competition with the parasite .
+
+thus an early-life disrup- tion of the microbiota could also cause hyperimmunity to real infectious agents reducing both infection and disease risk.in our study we show that an early-life disruption of the gut and skin bacterial communities of tadpoles affects later-life resistance to parasitic gut worms in adult frogs.
+
+specifically we show that tadpole bacterial diversity is negatively correlated with parasite establishment in adult frogs.
+
+adult frogs that have reduced bacterial diversity as tadpoles have three times more parasites than adults that did not have their microbiota manipulated as tadpoles.
+
+in contrast adult gut bacterial diversity during parasite exposure is not correlated with parasite estab- lishment in adult frogs.
+

@@ -1,0 +1,30 @@
+the samples studied were from 8 healthy subjects n 6 mm n 2 im 11 ar subjects n 7 mm n 4 imand 46 crs patients 25 crswnp n 13 mm n 12 im and 21 crssnp n 10 mm n 11 im.the mm microbiota of crssnp patients exhibited lower diversity than those of controls healthy and ar sub- jects or crswnp patients p  0.05 nonparametric t test faith's phylogenetic diversity shannon diversity fig.
+
+when separated by clin- ical group healthy ar crssnp and crswnp subjects we found increasing microbiota heterogeneity in patients with rhinologic disease crswnp crssnp and ar than in the healthy subjects p0.003 permutational t test fig.
+
+mean cumulative snot-22 scores were 28.2 in healthy controls range 20 to 46 30.6 inar range 8 to 69 50.82 in crssnp range 21 to 90 and 48.43 in crswnp range 5 to 101. crssnp patients reported significantly worse total snot-22 scores com- pared to healthy individuals and ar subjects p 0.012 and p 0.018 wilcoxon rank sum supporting fig.
+
+the man- tel test confirmed that the im-mm pairs were significantly correlated p0.0001 r0.708 2-sided mantel test table 3. taken together these findings indicate that the composition samples within patients are more alike than when compared to the composition of any given sample between patients.differences in shannon diversity richness and evenness or phylogenetic diversity were not observed between mm and im associated microbiota in healthy ar or crswnp subjects fig.
+
+in a study of patients with ar and healthy controls bacterial diversity was increased and correlated with nasal eosinophils in ar patients compared to controls during allergy season.39 in this study we were unable to reproduce the findings of increased variety and diversity in ar patients compared to controls likely due to smaller sample size and not timing specimen collection to specific allergy season.
+
+we compared the micro- biota of the middle meatus mm and inferior meatus im in healthy allergic rhinitis ar and chronic rhinosinusitis crs subjects to characterize intrasubject intersubject and intergroup differences.methods subjects were recruited in the office and charac- terized into healthy ar and crs groups.
+
+b unweighted unifrac distance shows that within-patient distances are significantly lower indicating that the presence or absence of otus within patients are more similar than intrapatient communities p  0.001 permutational t test.figure 2. a pcoa of a weighted unifrac distance matrix colored by patient showing significant clustering by patient id p 0.012 r2 0.187 permanova.b mean intragroup weighted unifrac distances demonstrating increased microbiota variability in noncrs-ar crswnp and crssnp patients compared to controls bonferroni corrected p  0.003 permutational t test.
+
+for crs subjects lund-kennedy scores ranged from 1 to 12 mean 5.7 median 6. the snot-22 scores of the over- all group ranged from 5 to 101 mean 42.5 median 41.5. crswnp patients had greater radiographic disease bur- den compared to crssnp mean lund-mackay scores were11.72 for crssnp range 3 to 16 and 15.48 for crswnp range 9 to 24 subjects p 0.034 wilcoxon rank sum supporting fig.
+
+although crswnp patients' snot-22 scores were also elevated compared to healthy and ar subjects this did not reach statistical significance p 0.153 wilcoxon rank sum.
+
+c procrustes pcoa of weighted unifrac distance matrix comparing variation of im-mm pairs demonstrates that different sites yield similar pcoa ordination m2  0.498 r  0.709 p  0.0001. since the m2 value was relatively high we performed a mantel test on the weighted unifrac distance matrices and found significant correlation between the im and mm matrix p  0.0001 r  0.708. ar  allergic rhinitis crs  chronic rhinosinusitis crssnp  crs without nasal polyps crswnp  crs with nasal polyps im  inferior meatus mm  middle meatus pcoa  principal coordinates analysis.88 years.
+
+a phylogenetic and b shannon diversity are reduced in middle meatal microbial communities of crssnp patients compared to healthy controls or crswnp patients p  0.05 nonparametric t test.
+
+however these studies need validation in broader cohorts of crs patients.inflammation of the middle meatus mm is a common association in crs2 irrespective of whether this is causative or reflective of the crs diseased state.3-5 10 11 in contrast the anterior nares and the inferior meatus im are usu- ally considered to be uninvolved.2 by studying patterns of the mm microbiota vs im in healthy and crs subjects one may gain insightful information into dysbiosis associ- ated with or causative to crs.
+
+also enriched in crswnp have been de- tected in the sinuses of crs and healthy controls36 37 and co-colonization with staphylococcus streptococcus and anaerobic taxa in the maxillary sinuses of crs patients has been reported.38 while co-colonization may play an impor- tant role in bacterial behavior modification whether and how this organism contributes to sinus inflammation is still unknown.the findings from this study can be placed in the con- text of microbiome studies of the airways in patients with asthma and ar which may have some overlapping fea- tures with crs.
+
+in contrast to healthy ar and crswnp subjects crssnp mm samples exhibited decreased microbiome di- versity and anaerobic enrichment.
+
+while initial studies have reported that variability between sinuses within the single crs patient to be significantly less than variability across different patients5 12 they also demonstrate high intrap- atient microbiota variability in a subset of patients that could not be explained due to small sample size a common limitation in crs microbiome studies.in the current study we surveyed the sinonasal micro- biota of healthy allergic rhinitis ar and crs subjects.
+

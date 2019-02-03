@@ -1,0 +1,30 @@
+the presence of persisters is thought to drive the long course of treatment for tb  therefore isolation of compounds that inhibit dosrst- dependent adaptation may identify new antivirulence therapies targeting the drug-tolerant persister population.similar to the approach described above to discover inhibitors of the phopr regulon a reporter-based hts was conducted to find inhibitors of the dosrst regulon.
+
+in addition to distinguish potential esx-1 inhibitors from compounds generally toxic to bacterial growth mtb cultures were counter-screened for inhibition of growth in vitro.
+
+antivirulence compounds sometimes referred to as anti-infective compounds are an alternative approach to traditional therapeutic1department of microbiology and molecular genetics michigan state university east lansing mi 48824 usacorrespondence r.b.
+
+hts of a proprietary library of 340000 compounds using j774 macrophages infected with an mtb fluorescent reporter identified 727tddif1359 compounds that inhibit intracellular survival with an ic50 value of 50 mm .
+
+in this screen compounds that inhibited the production of gfp fluorescence while leaving the growth of mtb relatively unaffected were hypothesized to be putative inhibitors of phopr signaling.
+
+taken together the t3ss atpase domain of yscn provides an attractive target for development of small-molecule inhibitors that could broadly abrograte secretion of type iii effector proteins.the zinc database of commercially available compounds was screened computationally using a structure-guided rational design scheme against the active site of yscn .
+
+therefore disrupting pathogen mechanisms to thwart host defenses may serve as a thera- peutic approach to combat bacterial infections.conventional drug discovery campaigns often seek to identify compounds with bactericidal or bacteriostatic activity by inhibiting targets essential for growth such as cell-wall integrity protein synthesis and dna replication .
+
+together the increasing understanding of bacterial pathogenesis together with sequencing-based approaches have yielded significant insights into the virulence requirements necessary during infection revealing many potential targets for developing new treatments .this review provides a brief overview of selected mechanisms that bacteria use to cause disease and recently described antivirulence compounds that inhibit them.
+
+compounds that promoted fibroblast cell survival and did not affect bacterial growth were predicted to be small molecules that target esx-1-dependent secretion of esxa .
+
+using the hypoxic shiftdown model of mtb persistence  the newly discovered inhibitors were shown to reduce mtb survival by 50 following 10 days of incubation with the inhibitors under nrp-inducing conditions.
+
+.. however resistance to virstatin has been demonstrated suggesting that new inhibitors with alternative targets will be useful .toxtazins a b and b' were identified in a whole-cell screen for inhibitors of toxt expression  .
+
+thus inhibitors of activating steps in the process of releasing gtd may lead to reduced toxicity and better patient outcomes from cdi.a targeted hts using a fluorescent reporter of cpd activity identified 44 potential inhibitors of the protease .
+
+the topic of how pathogens adapt their metabolism to intracellular environments and specialized approaches to effectively acquire metabolites necessary to promote disease has been recently reviewed  and thus this review will focus specifically on a recent study of inhibitors of mtb cholesterol metabolism.819tddifv-13-009920 v-13-011503 and v-13-012725whole-cell phenotypic screens for inhibitors of metabolic requirements in vivo often suffer from an inability to adequately recapitulate the environment that the pathogen encounters within the host.
+
+using a rational design strategy new fimh antagonists were developed with improved drug-like properties a. this new group of inhibitors aretype i and p pili biogenesisb curli biogenesisfigure 3. bacterial adherence mechanisms tf6t8fidd5hrough type i p pili and curlid8dif.t66a graphical representation of type i and p pili biogenesis in gram-negative pathogens such as uropathogenic e. coli upec.
+
+feature reviewsmall molecules 697tddifthat sabotage bacterial virulencebenjamin k. johnson1 1the continued rise of antibiotic-resistant bacterial infections has motivated alternative strategies for target discovery and treatment of infections.
+

@@ -1,0 +1,30 @@
+m1 14 50 roughage m2 14 75 roughage and m3 14 100 roughage d 14 dry and g 14 green l 14 liquid and s14solid.for interpretation of the references to colour in this figure legend the reader is referred to the web version of this article.showed highest abundance in third 100 roughage treatment.
+
+m1 14 50 roughage m2 14 75 roughage and m3 14 100 roughage d 14 dry and g 14 green l 14 liquid and s14solid.for interpretation of the references to colour in this figure legend the reader is referred to the web version of this article.phylum.
+
+aa 14 auxiliary activities gh 14 glycoside hydrolases ce14carboxyl esterases pl14polysaccharide lyases and gt 14 gylcosyl transferases m1 14 50 roughage m2 14 75 roughage and m3 14 100 roughage.glucosidase linkages was the most active in degradation with highest abundance in m2 .
+
+m1 14 50 roughage m2 14 75 roughage and m3 14 100 roughage l 14 liquid and s 14 solid.for interpretation of the references to colour in this figure legend the reader is referred to the web version of this article.roughage treatment correlated with higher annotation of genes from carbohydrate metabolism at level 2 and was decreasing with decrease in roughage proportion in diets.
+
+m1 14 50 roughage m2 14 75 roughage and m3 14 100 roughage l 14 liquid and s 14 solid.for interpretation of the references to colour in this figure legend the reader is referred to the web version of this article.fig.
+
+m1 14 50 roughage m2 14 75 roughage and m3 14 100 roughage.cazymes annotationin order to get a more in-depth knowledge of the carbohydrate related enzymes present in rumen during different treatment and fraction we compared the contigs with local cazy database.
+
+2. principle component analysis between three treatments among a. liquid fraction samples at phylum level b. liquid samples at genus level c. solid fraction samples at phylum level and d. solid fraction samples at genus level.
+
+families like gh13 gh43 gh133 gh77- cbm20 gh94 gh97 were observed to be greater in liquid frac- tion than solid fraction while families like gh3 gh57 gh94 gh19 were observed to be greater in solid fraction as compared to liquid fraction.
+
+4. functional profile of level 2 categories of metabolism using ko database be- tween three treatment among a. liquid and solid fraction samples combined b. liquid fraction samples and c. solid fraction samples.
+
+m1 14 50 roughage m2 14 75 roughage and m3 14 100 roughage.sample while within solid samples genera pseudoflavonifractor maribacter burkholderia streptomyces flavobacterium vibrio chlorobaculum riemerella brucella lactobacillus synechococcus kineococcus shuttleworthia bifidobacterium paenibacillus faecali- bacterium prevotella oribacterium treponema reinekea shewa- nella eubacterium blautia geobacillus desulfovibrio brachyspira ruminococcus propionibacterium holdemania chitinophaga rose- buria parabacteroides and heliobacterium differed significantly p  0.05 table s9.functional annotationfor functional annotation kegg orthology a hierarchical data- base for functional annotation under the mg-rast pipeline was used followed by analysis in stamp.
+
+stamp performs pca through a symmetric eigenvalue decomposition wherein distances are calculated using the euclidean metric.carbohydrate active enzymes cazymes analysisthe raw reads were assembled using clc genomics workbench7 clc bio denmark using default parameters length fraction 0.5 similarity fraction 0.8 word size 22 bubble size auto.
+
+pre- votella p  4.45e-7 bacteroides p  3.2e-8 parabacteroides p  0.113 and poryphyromonas p  0.055 all belonging to bac- teroidetes phylum had higher abundance in liquid fraction as compared to solid fraction and vice versa in case of clostridium p  2.78e-8 ruminococcus p  6.87e-5 and butyrivibrio p  0.006 all belonging to firmicutes phylum table s8.
+
+1. principle component analysis between a. liquid and solid fraction samples at phylum level b. liquid and solid fraction samples at genus level c. green and dry diet samples at phylum level and d. green and dry diet samples at genus level.for interpretation of the references to colour in this figure legend the reader is referred to the web version of this article.fig.
+
+3. taxonomic classification at genus level using m5nr database in mg-rast among samples of a. liquid fraction and b. solid fraction.
+
+proportion of gh families was observed to be higher in liquid fraction as compared to the solid fraction also it was increasing with increase in roughage propor- tion.
+

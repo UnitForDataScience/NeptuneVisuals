@@ -1,0 +1,30 @@
+2 spearman correlation between a toc removal efficiency and effluent ph in reactor a b toc removal efficiency and effluent ph in reactor b c effluent ph and vfa concentration d toc removal efficiency and vfa concentration and e toc removal efficiency and effluent ss concentrationstable 2summary of the concentration of nitrogen species from day 400 to day 700nh3 mg-nlno - mg-nlno - mg-nl influent40.8 - 8.10.0 - 0.00.9 - 0.4reactor a6.4 - 5.40.0 - 0.00.8 - 0.2reactor b7.5 - 6.60.0 - 0.00.8 - 0.2reactor 20.3 - 0.60.0 - 0.12.2 - 1.5toc ammonia and retained biomass concentrations shared similar trend along the reactors in both reactors.
+
+the color of the biomass on the sponges became black from brown and the efficiency dropped significantly to 50. after correcting the mistake it took 40 days for the efficiency recovered back to 80 for reactor a and even longer timefor reactor b. despite the efficiency fluctuation in reactors a and b reactor 2 could consistently achieve an overall efficien- cy at 98 from day 300 and guaranteed the toc of the efflu- ent from reactor 2 consistently at 20 mgl.correlations between toc removal efficiency and related parametersspearman correlation test was used to correlate key operation parameters with the toc removal efficiency.
+
+s1 and the toc removal efficiency decreased to 60. it took 30 days for the removal efficiency recovered back to 80. at around day 600 a sudden drop in toc removal efficiency was observed with both reactors and this was caused by forgetting to add inorganic components ammoni- um and phosphorus in the synthetic feed during preparation.
+
+compared with a previous anaerobic process used to treat the same synthetic wastewater the dhs reactor in this study achieved a compatible organic removal efficiency  98 at the same hrt 1.5 days narihiro et al.
+
+when the effluent ph was 7.5 the vfa concentration was mostly 4 mm and the toc removal efficiency was mostly 80. the effluent ss concentrations were also measured at different toc removal efficiencies from reactors a and b. the spearman correlation test p value 0.5 rho -0.65 indicated that a high effluent ss concentration cor- related with a low toc removal efficiency fig.
+
+based on the shapiro- wilk tests the distribution of toc removal efficiency of both reactors during the entire operation did not follow a normal distribution and the wilcoxon and kruskal-wallis tests further verified that these two efficiency data sets could be considered as nearly identical to each other.occasionally poor toc removal performance with reac- tors a and b was observed at different time points due to primarily biomass sloughing.
+
+to collect the biomass in individual sponges the biomass was first collected by scrambling the surface biomass and thoroughly squeezing and washing bio- mass in the sponge out using distilled water onodera et al.
+
+in general the combination of anaerobic processes and dhs reactors was reported to achieve at least 90 of organic removal in most studies el-kamah et al.
+
+by contrast anaerobic processes have been widely applied to treat high-organic-strength wastewater primarily because of their characteristics including low oper- ation cost high organic loading tolerance low excessive sludge yield and reasonable treatment efficiency around 80 cod removal kalyuzhnyi et al.
+
+the effluent nitro- gen species removal efficiency in reactors in a and b did not correlate with the toc removal efficiency.vertical profiles of reactor performance in the dhs reactorschanges of toc nitrogen species and tssvss along the reactor height were only determined on day 666 when reactor a became stable and reactor b just suffered from sloughing fig.
+
+as higher ss was correlated with lower organic removal efficiency losing these populations due to sloughing events from the upper part of the dhs system could lead to poor organic removal effi- ciency.
+
+in this study theamount of retained biomass recorded was 46.8 g-vssl- sponge at an olr of 4.9 kg codm3 per day and these two numbers were higher than reported 12.8 g-vssl-sponge and2.9 codm3 per day respectively in a dhs reactor that treats agricultural drainage wastewater fleifle et al.
+
+in ad- dition it was observed that the retained biomass in a dhs reactor treating gray wastewater increased when the olr was increased tawfik et al.
+
+this study and other stud- ies all suggested that the upper part of the dhs reactor con- tains higher retained biomass than the lower part due to higher olr fleifle et al.
+
+onodera et al.. once the retained biomass was developed dhs reac- tor could effectively treat high-strength wastewater.the feasibility of dhs in treating the high-strength waste- water here was also related to the organic composition of the wastewater i.e.
+

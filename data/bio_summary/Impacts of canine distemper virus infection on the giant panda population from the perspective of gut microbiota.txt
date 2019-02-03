@@ -1,0 +1,30 @@
+considering the potential relationship between viral infection and the gut microbiomeand the vital role that the immune system plays in regulating the gut microbiome understanding how the composition of the microbiota changes as a result of cdv infection and the implications of these changes on the prevalence of disease-causing pathogens is vitally important.to evaluate the role of cdv infection in shaping the gut microbiome to determine how cdv affects the con-tent and stability of the gut microbiome in pandas and to understand the role and influence of cdv dynamics in this outbreak we collected fecal samples from four individuals who were infected with cdv as well as from six healthy individuals and followed the gut bacterial community of two cdv-positive individuals gp-603 and gp-754.
+
+the healthy controls included six healthy individuals that were matched to the cdv-infected individuals in terms of sex and age t1.a total of 16 samples from 10 giant pandas were collected between december 2014 and march 2015. fecal samples were collected immediately after defecation in the early morning and the dates of stools collected includ- ing the repeated samples were shown in 1. the fresh fecal samples were collected from the inside feces into sterile plastic container snap-frozen in liquid n2 stored on dry ice and delivered to the lab in thirty-minutes and immediately stored at -80 degc until further analysis.
+
+moreover the genera arcanobacterium corynebacterium peptoniphilus and prevotella exhibited spikes in abun- dance when pandas were infected with cdv especially during the late stages of infection 4. these genera contain opportunistic pathogens and were never detected at high abundances in the six healthy pandas surveyed previously.figure 3. the taxa whose abundances differed between the cdv-infected individuals and the healthy controls were identified by lefse.
+
+asterisks indicate significant differences p 0.01 and the error bars denote 95 confidence intervals for the mean values.composition was significantly more variable in the samples from the cdv-infected individuals than in the healthy control samples p  0.01 2a.euclidean distance metrics bray-curtis dissimilarity metrics and weighted unifrac distance metrics showedthat in terms of changes in frequency relative abundance and the presence or absence of bacterial phylotypes the communities of the cdv-infected individuals were less stable than those of the healthy controls p  0.01 2b.cdv-associated alterations in fecal microbiota.
+
+this analysis showed that the virus infection samples and healthy samples con- tained 20 and 11 unique otus respectively 1d.to measure the degree to which the gut microbiota of the cdv-infected individuals differed from the micro- biota of the healthy controls a principal coordinate analysis pcoa was conducted based on the euclidean distance between the fecal samples.
+
+it will be important to determine whether the cdv infection-induced increase in the frequency of disease-associated genera could serve as an early predictor and pose health risks to hosts.in general the novel findings of the present study suggested that cdv infection disturbed the gut bacterial composition in pandas.
+
+by investigating the influence of cdv infection on gut bacterial communities in infected and uninfected individuals and throughout the course of infection we found that cdv infection distorted the gut microbiota composition by reducing the prevalenceof the dominant genera escherichia and clostridium and increasing microbial diversity.
+
+these results may provide new insights into therapeutics that target the microbiota to attenuate the progression of cdv disease and to reduce the risk of gut-linked disease in individuals with cdv.
+
+thus new insights may be pro- vided into therapeutics that target the microbiota to attenuate the progression of cdv disease and to reduce the risk of gut-linked disease in individuals with cdv.
+
+additionally we observed 1.5-fold to 2-fold upregulation of pro-inflammatory cytokines in the cdv-positive pandas compared to that in the healthy controls p  0.01 6.discussionin this outbreak cdv produced an acute febrile and highly fatal disease in captive giant pandas in china.
+
+the cdv-infected individuals included four giant pandas that were infected with cdv as confirmed by antigen diagnose and real-time rt-pcr identification.
+
+we were thus able to investigate alteration of the gut microbiome in individuals with or without cdv infection and to track the composition of the gut microbiota as the disease progressed in infected individuals.resultscharacteristics of the individuals and 16 s rrna gene sequence data.
+
+thus no explicit evidence has shown that cdv infection influ- ences the gut microbiota through the immunosuppressive ability of the virus.furthermore increased intestinal inflammation 5 and systemic pro-inflammatory cytokine levels were evaluated in cdv-positive individuals 6. expansion of the pro-inflammatory cytokines tnf-a il-1b il-6 and il-18 in the peripheral blood presumably is important for the immune responses of infectious individuals.
+
+email table 1. source reads and otu counts of fecal samples from giant pandas that became naturally infected with cdv and healthy controls.
+
+we sequenced the v3-v4 region of the 16s rrna genes in sixteen fecal samples collected from cdv-infected individuals n  4 including ten cdv-positive fecal samples collected during different stages of the infection and six collected from healthy controls.
+

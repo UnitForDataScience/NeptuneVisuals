@@ -1,0 +1,30 @@
+data access can be requested directly from the pi or from the norwegian institute of public health .funding this project has been funded by the norwegian research council grant agreement human infant gut microbiota no 214324f 20 the funders had no role in study design data collection and analysis decision to publish or preparation of the manuscript.competing interests the authors have declared that no competing interests exist.abbreviations bmi body mass index dag directed acyclic graph or causal graph gbs group b streptococcus ibd inflammatory bowel disease lmp last menstrual period mbr medical birth registry nomic the norwegian microbiota study shannon shannon diversity index a calculated measure of gut alpha diversity pcoa principal coordinate analysis pd whole tree phylogenetic whole tree a calculated measure of gut alpha diversity observed otus number of observed operational taxonomic units a calculated measure of gut alpha diversity otu operational taxonomic unit gene sequence corresponding to one specimen of bacteria qiime quantitative insights into microbial ecology.odds 95 ci 4.2 72. mothers delivering prematurely also had lower abundance of otus belonging to bifidobacterium and streptococcus and of the clostridiales order.conclusionanalysis of maternal gut microbiota using next-generation sequencing shows that low gut diversity with a distinct microbial composition is associated with spontaneous preterm delivery.introductionpreterm delivery defined as birth before 37 weeks of pregnancy is the cause of many neonatal deaths worldwide but the underlying etiology is not well understood  .
+
+contrary to our results shiozaki et al  reported a lower abundance of bacteroides and a higher abundance of lactobacillales in association between maternal gut diversity and spontaneous preterm delivery n  121 from the nomic study.p-value0.05.a due to the different scales of the metrics the ors are different.b interquartile range 75th-25th percentilec unadjusted odds ratios per 1-unit change in alpha diversity with 95 confidence intervals n preterm  19 n term  102d odds ratios per 1-unit change in alpha diversity with 95 confidence intervals adjusted for maternal age ethnicity parity marital status bmi education income antibiotic use and pets in the household n preterm  19 n term  102e odds ratios per 1-unit change in alpha diversity with 95 confidence intervals.
+
+eight otus were selected for further scrutiny  and after correction for multi- ple-testing 4 otus were found to have a significantly lower abundance in mothers of preterm deliveries compared to term q  0.04 wilcoxon rank-sum test otu1142029 ncbi blasttsurumiense otu4425214 ncbi blast s.vestibularis or s. salivarius otu4412546 ruminococcaceae clostridium cluster iv and otu208539 mogibacteriaceae clostridium family xiii incertae sedis.discussionin this case-control study of 121 mothers with vaginal deliveries mothers giving birth prema- turely were found to have lower alpha diversity in the gut and the association was stronger when adjusting for potential confounders such as antibiotic use during pregnancy.
+
+measures of alpha diversity shannon phylogenetic diversity and observed operational taxonomic units and microbiome composition were combined with information from the medical birth registry pregnancy journals and questionnaires.resultsthe association between maternal gut diversity and preterm delivery was examined using logistic regression.
+
+intake of probiotic foods has previously been found to influence spontaneous preterm birth in the norwegian mother and child cohort  and more studies are needed to determine whether this could affect the association between gut diversity and preterm birth.conclusionin this state-of-the-art study on the maternal gut microbiome's role in preterm delivery we report an association between low bacterial diversity and increased risk of spontaneous preterm delivery.
+
+the sponta- neous preterm delivery mothers also had significantly lower abundance of otus belonging to the genera bifidobacterium and streptococcus and to families in the clostridiales order.to our knowledge this is the first study comparing bacterial gut diversity in mothers of pre- term and term deliveries using next-generation sequencing as well as taking into account maternal characteristics that could confound the association.
+
+to assess this we compared median gut diversity in mothers delivering prematurely by caesarian section to mothers delivering at term in nomic.
+
+gut diversity measured by shannon in mothers of 4 delivery types vaginal term n  102 c-section term n  19 c-section preterm n  21 and vaginal pretermn  19. mothers reporting antibiotic use during or after delivery were excluded.
+
+alpha diversity is a mea- sure of diversity within a subject  which enables comparisons between mothers.
+
+low diversity microbiomes from pregnant women induce inflammatory markers when transplanted into germ free mice indicating that low gut diversity may be one underlying cause of increased inflammation .
+
+gut diversity at 4 days postpartum was used as a proxy for diversity at the end of pregnancy.
+
+between communities gut diversity beta diversity in unweighted unifrac visual- ized with principal coordinate analysis pcoa.docxs4 fig.
+
+2017 gut microbiome of mothers delivering prematurely shows reduced diversity and lower relative abundance of bifidobacterium and streptococcus.
+
+a rich and diverse microbial composition in the gut indicates increased robustness and strength against pathogen attack   whereas low gut diversity is found in diseases associated with a heightened inflammatory state such as ibd and obesity .
+
+we hypothesize that premature birth will be associated with lower overall diversity and differences in specific taxa in the maternal gut microbiome postpartum when compared to full term births.materials and methodsstudy cohortthe norwegian microbiota study nomic was established to study the composition of mother and infant gut microbiota and subsequent health outcomes.
+

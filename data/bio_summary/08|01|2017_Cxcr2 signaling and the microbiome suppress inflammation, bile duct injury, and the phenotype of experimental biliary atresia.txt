@@ -1,0 +1,30 @@
+within the group of cxcr2-- mice smztmp increased the abundance of actinobacteria 0.07 in regular diet vs. 0.73 in smztmp treatment p  0.01 .enrichment of bacterial genus by smztmp in neonatal cxcr2-- miceto more directly investigate which changes in the microbiome are linked to the improved phe- notype induced by smztmp we focused on the analysis of the otu data from cxcr2-- mice which had a general predominance of firmicutes and actinobacteria .
+
+among these tissierellaceae actinobacteria and corynebac- teriaceae were represented at 2 2 levels in a cladogram  with variable population of the genera in individual mice with the exception of anaerococcus that was not detected in all cxcr2-- mice of the regular diet group .only the smztmp-treated cxcr2-- mice showed improvement in the ba-disease pheno- types  but clustering the smztmp-treated cxcr2-- mice using all otus  was not successful.
+
+p0.05  p0.01  p0.001  p0.0001.anaerococcus lactolyticus most clearly differentiates high from low survivability in neonatal cxcr2-- miceto more precisely link specific microbiome changes with the biliary atresia phenotype we compared otu data in the group of cxcr2-- mice without symptoms after rrv infectionchanges in the intestinal microbiome induced by smztmp in cxcr2-- mice after rrv infection.
+
+in keeping with this possibility we found a consis- tent enrichment with anaerococcus in cxcr2-- mice resistant to the biliary atresia phenotype when compared to susceptible diseased mice.although little is known about the mechanisms by which cxcr2 cxcr2 in humans or its ligands cxcl-1 2 5 il-8 in humans modulate the phenotypes of hepatobiliary diseases via changes in the intestinal microbiome the cxrc2-dependent circuit plays an important role in neutrophil-migration into infected or ulcerated site of an intestinal tract  .
+
+black bar comparison between regular-wt and smztmp-wt yellow bar regular-wt and regular- cxcr2-- green bar regular-wt and smztmp- cxcr2-- gray bar smztmp-wt and regular-cxcr2-- blue bar smztmp-wt and smztmp-cxcr2--.
+
+thus selecting otus to distinctly cluster the smztmp-treated cxcr2-- mice from other groups would be a potential analytical strategy to investigate the link between bacterial profiles and the improved phenotype in neonatal mice infected with rrv.selective bacterial enrichment by smztmp in neonatal cxcr2-- micethe analysis of the microbiome at the phylum level has been used to characterize various dis- eases in early life .
+
+among these only anaerococcus lactolyticus amplicon size 150 bp was detected from the resistant cxcr2-- mice .microbiome changes in cxcr2-- mice with symptoms diseased and without symptoms resistant 14 days after rrv infection.
+
+notably the inactivation of cxcr2 alone induced a similar switch with the additional exposure of cxcr2-- mice to smztmp enriching the bacterial signature with corynebacterium anaerococcus and streptococcus in those mice with improved cholestasis and survival.
+
+research articlecxcr2 signaling and the microbiome suppress inflammation bile duct injury and the phenotype of experimental biliary atresiajunbae jee1 reena mourya1 pranavkumar shivakumar1 lin fei2 michael wagner3 jorge a. bezerra11 divisions of gastroenterology hepatology and nutrition cincinnati children's hospital medical center cincinnati ohio united states of america 2 division of biostatistics and epidemiology cincinnati children's hospital medical center cincinnati ohio united states of america 3 division of biomedical informatics cincinnati children's hospital medical center cincinnati ohio united states of america abstractopen accesscitation jee j mourya r shivakumar p fei l wagner m bezerra ja 2017 cxcr2 signaling and the microbiome suppress inflammation bile duct injury and the phenotype of experimental biliary atresia.
+
+among these cells neutrophils and the il-8cxcl-8 signaling via its cxcr2 receptor have been linked to bile duct injury.
+
+adult wild-type wt and cxcr2-- mice were fed a diet supplemented with sulfamethoxazoletrimethoprim smztmp during pregnancy and lactation and their pups were injected intraperitoneally with rhesus rotavirus rrv within 24 hours of life to induce experimental biliary atresia.
+
+the maternal exposure to smztmp significantly lowered the incidence of jaundice and bile duct obstruction and resulted in improved survival especially in cxcr2-- mice.
+
+interestingly the genetic inactivation of cxcr2 alone produced a similar bacterial shift.
+
+when treated with smztmp cxcr2-- mice infected with rrv to induce experimental biliary atresia showed further enrichment of corynebacterium anaerococcus and streptococcus.
+
+we found that maternally administered antibiotics vertically affect the development of the gut-microbiome of neonatal balbc mice and protect them from the development of experimental biliary atresia in mice that lack a functional cxcr2.
+

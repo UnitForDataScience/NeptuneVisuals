@@ -1,0 +1,30 @@
+after 24 days on a shared diet of primarily hay supplemented by maize eight animals were randomly assigned to a pelleted concentrate-based diet conc main compo- nent maize while the remaining animals were fed a pelleted forage-based diet forg main component al- falfa.
+
+similarly the per- node variation in reads mapped within a diet group is less than that between diets for almost all nodes reinforcing the point that the two diets differ in their network struc- ture additional file figure s2.figure illustrate that the forg animals showed less animal-to-animal variation in the normalized read count for each node than did conc animals mann-whit- ney-wilcoxon test p  10-10. however fewer total reads were mapped in the conc animals so it is possible that this difference in variation is due sample size.
+
+however because we were comparing the pearson correlation observed from the real data to those seen in the randomized data our approach should not suffer from violations of normal- ity assumptions.simulation of a diet shiftthe initial diet of the sixteen animals studied was similar to the later forg diet.
+
+in this framework if the target vector was from the concentrate diet we could simulate a diet shift while if the target were from the forage-fed animals we would simulate the maintenance of the same diet.
+
+a diet richer in simple carbohydrates a concentrate diet induces a meta- bolic network closer in network space to the host's reac- tions while a diet composed of complex plant matter a forage diet induces a more complex network that is also more distant from that of the host.
+
+however in general the observation that the forage animals are more similar in their metabolic networks than were the concentrate-fed animals was supported by all of these analyses.concentrate-fed animals show large pairwise distances between each other in both taxonomy and in the metabolic networkgiven that the principle component analyses were not completely informative we sought to more explicitly ex- plore this apparent difference between the two diets ina0.4bra0.4hahararara0.2raha0.2sura su0hahasuhasu0rara-0.2hasu ha ra susu ra ra suhaha rahaha-0.4-0.3-0.2-0.10taxonomy pc168 of total variancecd-0.28-0.26-0.24met.
+
+second we found that at the very high cutoff of 95 amino acid identity substantially more reads mapped from samples drawn from animals fed a forage diet than matched with samples drawn from concentrate-fed animals 0.45 and 0.17 of reads mapping respectively.
+
+we then computed standard euclidian distances between all pairs of vectors vi and vj from the animals ij for nodes and for otus.we compared these differences to the results of pooling all reads from each diet and randomly reas- signing them proportionally to the animals.
+
+for each of the eight forage animals we ran ten simulated annealing analyses for the shift to the concentrate diet and ten for remaining on the forage diet.
+
+it is tempting to ascribe this difference to the fact that the forg diet is more similar to the evolved diet of these animals.
+
+the animals were all originally on a forage-like diet so it is possible that it was the switch to the conc diet that allowed this animal-to- animal variation to arise.
+
+this pattern of multiple ecosystem- level metabolic networks with similar properties can be partly replicated by network simulations of the process of the diet shift suggesting that such metabolic networks maintain considerable flexibility.additional filesabbreviationsconc concentrate-based diet forg forage-based diet otu operational taxonomic unit pca principal component analysis rfi residual feed intakeacknowledgementswe would like to thank m. becchi j. decker j.c. pires r. schnabel l. sheets and j. taylor for helpful discussions in the preparation of this manuscript.
+
+we fit log-normal distributions to the number of reads mapped to each node  s. there is a significant difference in the distribu- tion mapped to the forage-fed forg and concentrate- fed conc animals p 10-10 likelihood ratio test with 5 degrees of freedom more reads are mapped to each node in the conc network than the forg one 53.8 reads per node per 106 reads mapped and 41.4 reads per node for106 reads respectively with less overall spread in thenumber of reads mapped per node in the conc animals log-variance 2.7 and 2.9 respectively.
+
+however with the metabolic network nodes most of the variation is accounted for by a pc that sepa- rates not diets but three conc animals from the remaining 13 animals fig.
+
+for both the number of reads mapped to nodes and to otus the forg animals showed small and relatively uniform pair- wise differences although these differences were still larger than can be explained by sampling p 0.001. for the conc animals there was a much wider spread of distances both for the otus and for the nodes p 0.001 fig.
+

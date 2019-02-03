@@ -1,0 +1,30 @@
+s1 available in the online version of this article for more details about the groups see shutt et al.
+
+we did not observe significant differences in fgcm levels among the studied groups which is in contrast to shutt et al.
+
+u1 and u2 unhabituated groups h1 and h2 habituated groups.
+
+short communicationvlckova et al.
+
+otus detected fewer than five times across the entire data set andor in fewer than three in one and two individuals were removed to avoid including probable sequence arti- facts in the analyses.fgcm measurements were performed using a 11b-hydroxy- etiocholanolone 3a11 b-dihydroxy-cm enzyme immunoas- say as previously validated in shutt et al.
+
+we used the statistics package to perform linear regression models  the psych package  for spearman rank cor- relations used with false discovery rate analyses the pgirm- ess package  to calculate kruskal-wallis tests adjusted for multiple comparisons the vegan package  to calcu- late permanova shannon diversity indices and princi-pal coordinate analysis pcoa conducted on the square root transformed relative abundance of each operational taxonomic unit otu based on bray-curtis dissimilarity matrices and the ggplot2 package  to plot the pcoa with colour key.the median of the fgcm levels fgcmg of faeces wasmin 26.74 max 243.61 for more details see shutt et al.
+
+cell host microbe 201517592-602.borre ye o'keeffe gw clarke g stanton c dinan tg et al.
+
+world j gastroenterol 2005112016-2021.antonopoulos da huse sm morrison hg schmidt tm sogin ml et al.
+
+plos biol 20086e280.galley jd nelson mc yu z dowd se walter j et al.
+
+bmc microbiol 201414189-13.de palma g blennerhassett p lu j deng y park aj et al.
+
+nat commun 201567735-13.bailey mt dowd se parry nm galley jd schauer db et al.
+
+dev psychobiol 199935146-155.bailey mt dowd se galley jd hufnagle ar allen rg et al.
+
+brain behav immun 201125397-407.shutt k heistermann m kasim a todd a kalousova b et al.
+
+mol ecol 2015242551-2565.gomez a rothman jm petrzelkova k yeoman cj vlckova k et al.
+
+vienna austria r foundation for statistical computing 2008.oksanen j blanchet fg kindt r legendre p minchin pr et al.
+

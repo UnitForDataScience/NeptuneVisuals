@@ -1,0 +1,30 @@
+the average distribution of these 6.7 million reads among 48 samples was 141444 range 42366 to 391421 with a standard deviation of 84832 contigs.the following microbial diversity composition and association analyses are presented first for all cases versus controls n48 and second for cases versus controls stratified by management group n16 per management group - 8 cases and 8 controls.fig.
+
+the family campylobacteraceae had the largest estimated fold-change associated with cases compared to con- trols fc 3.066 ci 1.518 6.191 q 0.023. erysipelotrichaceae was also observed more frequently in the cases compared to the controlsweeksellaceae fc0.310 ci  0.172 0.559 q  0.007 methylobacasmataceae fc 0.435 ci 0.241 0.786 q 0.039 were the three taxonomic families with the most extreme estimated fold changes in the controls compared to cases that had a q-value less than 0.05. the genus mycoplasma family mycoplasmataceae was more abundant in the controls  0.424 ci 0.233 0.769 however this was not statisti- cally significant q  0.468. an unknown genus of the family weeksellaceae note weeksellaceae included a taxonomic change by the database curators was estimated to be significantly more abundant in the control group fc 0.019 ci 0.003 0.095 q 0.001. no other known genera met the false discovery rate threshold of 0.05.moraxellaceae the family that contains the genus moraxella was notcalves based on our model fc0.707 ci  0.399 1.255 q  0.357.classified as unassigned.
+
+the pca indicated differences between management groups that were not observed between all cases and controls.although mycoplasma was significantly differentially abundant between cases and controls in our model it had a higher fold change in the controls compared to the cases.
+
+however the differences observed related to the amount of an organism rather than the presence of completely different species that might have predisposed calves to or protected calves from ibk.the largest differences in magnitude between cases and controls occurred within the group c calves but overall the largest differences occurred based on management group i.e.
+
+rarefaction curves are presented below as a method to estimate the sampling depth.analysismicrobial diversity composition and statistical associations were carried out for two sets of comparisons 1 cases versus controls and 2 cases versus controls within each management group e.g.
+
+overall alpha diversity based on the chao1 estimator indicated there was no significant difference in species0.45 a. similarly species richness based on observed otus was also not significant between cases and controls cohen's d 0.47  1.06 0.12 b. higher microbial diversity was observed in the cases compared to the controls based on faith's pd cohen'sd 0.67  1.27 0.08 c. rarefaction curves based on observed otus by disease group are depicted in d. the rarefaction curves suggest that additional sampling of calf eyes would not likely result in additional observed otus.
+
+mycoplasma had higher mean relative abundance in the controls 26.86 compared to the cases 18.29. moraxella was observed more frequently in the controls 3.29 com- pared to the cases 2.66.community association.
+
+only the genus arcobacter family campylobacteraceae had an estimated fold change that was statistically significant fc 54.604 ci 9.816 303.754 q 0.008.group cno fold changes between group c cases and controls at the familyscale bacterial community differences at the genera level between all cases and controls.
+
+cases versus controls and cases versus controls stratified by management group.
+
+overall the largest differences were observed between the calves from group a and group b and between calves from group a and group c.genera vagococcus of the family enterococcaceae being more abundant27.101fied this genus as nearly statistically significant q  0.064.group bbetween group b cases and controls only the families pasteurellaceae q  0.038 campylobacteraceae q  0.038 and marinilabiaceae q  0.038 were significant while setting the false discoveryrateat0.05.whilepasteurellaceaecontrols both campylobacteraceae fc9.874 ci  2.951 33.044 andfig.
+
+cases were randomly selected from ibk positive calves and controls were selected from ibk negative calves i.e.
+
+dna extraction was processed in three runs and all runs included cases and controls so batch effects should be distributed across the cases and controls.study sizethe number of samples collected was pragmatic and based on budget.
+
+5. volcano plots of log2 fold-change against-log10 p-values for cases versus controls and man- agement groups groups a group b and group c.differentially abundant in the cases.
+
+however multiple genera were more differentially abundant in the group c controls and were significant aggregatibacter0.170 0.633 q  0.019 mycoplasma fc0.195 ci  0.070 0.549fc0.354 ci  0.183 0.686 q  0.023. alternatively the genera1.355 4.315 q  0.027 and clostridium fc2.049 ci  1.227 3.421moraxellaceae was not significantly differentially abundant in the cases or controls for any management group.
+
+swab collection transfer storage etc..the most hypothesis generating results came from the comparison of cases and controls in the group c calves.
+

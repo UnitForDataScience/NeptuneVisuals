@@ -1,0 +1,30 @@
+we also validated our results in a french population.resultsthe crc prediction performance based on fecal microbiome varied among different classifiers in the chinese populationto systematically assess the performance of different supervised machine learning algorithms in the realm of crc detection based on fecal microbiome we first imported the otus dataset in the species rank on the study population a table 1 for patient data into the weka software.
+
+a the testperformance of different classifiers using fecal microbiome combined with fobt on study population a was displayed with auc.b the test performance of different models using fecal microbiome combined with fobt on study population b was displayed using auc.
+
+hence bayes net algorithm outperformed all other classifiers and should be prioritized.it is worth noting that simple logistic and lmt algorithm two algorithms reached the highest test performance in population a only displayed limited performance of 0.714 auc and 0.762 auc in population b respectively figure 1d indicating the performance of different prediction models may varytable 1 summary of study population a and bconsiderably between populationsraces.
+
+arrived at the same conclusion that fecal microbiota would allow for accurate crc screening but using lasso models 20. a third model random forest classifier was also employed to test the diagnostic value of fecal microbiome for crc with the performance reached as high as 0.96 auc 21. despite the increasing recognition of the crc screening potential for fecal microbiome the selection of classification models is diverse and remains an unaddressed question.
+
+b the test performance of different models using fecal microbiome on study population b was displayed using auc.c roc curves show the prediction ability of the bayes net and random forest models on study population a and b respectively.
+
+we also listed the overall summary of performance included tpr fpr precision recall f measure and mcc for these four algorithms to better evaluate them table 2.figure 1 the crc prediction performance based on fecal microbiome varied among different classifiers and populations.
+
+to assess whether fobt could help improve the test performance of fecal microbiome we combined fobt and fecal microbiome information.
+
+as the bayes net and random forest model also maintained high performance of 0.93 auc and 0.94 auc on study population a we speculated these two models were better models using fecal microbiome to predict crc regardless of geographical or cultural disparity or technical variations.
+
+a the test performance of different models using fecal microbiome on study population a was displayed using area under roc curve auc.
+
+c and d roc curves show the test performance of the bayes net and random forest models using fecal microbiome in combination with fobt on study population a and b respectively.
+
+an independent data and safety committee monitored the trial and reviewed the results.acquisition of published fecal microbiome datain parallel another fecal microbiome dataset 20 was used as study population b to validate our results table 1. mainly 141 subjects that consisted of 61 normal individuals 27 patients with small adenomas andfigure 4 interpretation of gut microbial species in the prediction model.
+
+unclassified otus were better inputs than classified otus.materials and methodssample collection for study population aparticipants of population a were selected from consecutive patients who had undergone colonoscopy or colorectal carcinoma surgery in the renji hospital between 1 january 2012 and 30 july 2012. the inclusion criteria for participants to enter the study were the same as our previous study 32. in brief patients were over 50 years of age had a normal bowel frequency and patients underwent colonoscopies with adequate withdrawal time by well-trained gastroenterologists using standard colonoscopy equipment.
+
+consistently algorithms used gut microbiome from population b showed poorer test performance relative to that from population a. however in line with the case in crc bayes net still showed satisfactory test performance of 0.871 auc sd 0.13 in population a supplementary figure s1.
+
+but he only got a test performance of 0.798 auc much lower than our 0.93 auc performance.
+
+it is also unclear if certain classifier model may have universal applicability in different populations and races.here we systematically evaluated the performance of the supervised classifiers to predict crc based on fecal microbiota.
+

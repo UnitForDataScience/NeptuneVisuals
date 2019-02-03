@@ -1,0 +1,30 @@
+fm and mm identified 923 e.c.s in common while 175 and 40 e.c.s were uniquely identi- fied by faser and mg-rast respectively figure c. in other words for the same artificial metagenome faser an- notates 14 more functions e.c.s than mg-rast al- gorithms.
+
+fg returned 909 e.c.s 65 588 e.c.s are gs-set specific while mm returned 1 627 e.c.s 65 1 062 e.c.s are md5nr specific.
+
+we considered both algorithm and database levels using the i faser algorithm with the gs- set database fg the mi-faser pipeline ii faser algo- rithm with the md5nr database  fm faser-md5nriii mg-rast algorithm with md5nr database mm the mg-rast pipeline supplementary figure s2 methods.
+
+further an exponential decay curve as for hssp calculations  can be used to iden- tify the alignments in this space as true positives alignments of peptides to proteins of identical function that fall above or on the curve false positives different functions above or on the curve true negatives different functions below the curve and false negatives identical functions below the curve.
+
+however both pipelines agreed that i samples taken in the same phase were highly functionally correlated supplementary tables s1 and s2 ii samples in oil phase were functionally more correlated with samples in recovered phase than pre-oil phase supplementary tables s1 and s2 which may indicate that the environment has not fully re- covered from the contamination and iii 20 of reads in all samples mapped to housekeeping functions house- keeping e.c.s complied from .
+
+we created faser functional annotation of sequencing reads an algorithm that is optimized to map reads to molecular functions encoded by the read-correspondent genes.
+
+notably fm still annotates 8 more functions than mm supple- mentary figure s4.to summarize the faser method comprises an exponen- tial decay curve separating the two-dimensional space of alignment length versus sequence identity into 'same func- tion' and 'different functions' peptide-protein alignments.
+
+functions that are associated with inflammation inducers acetaldehyde and lipopolysaccharide are enriched in cd patient microbiomes as are the functions that help bacteria survive inflammation conditions glutathione metabolism rrna methytransferase and rna pseudouridine synthase.
+
+note that pathways above are toy examples for illustration purposes only light gray nodes indicate enriched functions and white nodes indicate unchanged or undetected functions.
+
+the mi- faser microbiome analysis pipeline combining faser with our manually curated reference database of protein functions accurately annotates microbiome molecular functionality.
+
+from the pe1-set we further extracted proteins whose functions are experimentally verified evidence 'any experimental assertion' exp-set.from the catalytic site atlas database csa-set  we extracted all proteins that had literature-based annota- tions.
+
+when comparing across sand metagenome samples from different phases sample-specific e.c.s were removed as uninformative 1 of total e.c.s in both cases.
+
+note that the precision reported infigure 3. the faser algorithm in combination with the gs database annotates the artificial metagenome functions in a manner complementary to mg- rast.
+
+for example for os-a oil phase fm annotated 50 more reads than mm supplementary figure s5a moreover there were 220e.c.s unique to fm and 42 e.c.s unique to mm sup- plementary figure s5c.
+
+we further developed faser functional annotation of sequencing reads an algorithm that uses alignments of translated sequencing reads to full-length proteins to anno- tate read-'parent protein' molecular functionality.
+

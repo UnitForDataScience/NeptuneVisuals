@@ -1,0 +1,30 @@
+many ruminant mi- crobiota profiling studies have focused on cattle because of their im- portance in the beef and dairy industry brulc et al.
+
+2009 callaway et al.
+
+2010 jami  mizrahi 2012 welkie stevenson  weimer 2010. hindgut fermenter microbiota research has similarly focused on the horse because of the economic importance of this species as work and performance animals costa et al.
+
+2012 daly stewart flint  shirazi beechey 2001 o' donnell et al.
+
+ley hamady et al.
+
+the study concluded that gut microbiota diversity was influenced by diet type herbivorous carniv- orous or omnivorous and host phylogeny with herbivorous animals having the most diverse microbiota ley hamady et al.
+
+2008. a fol- low-up study examined the animal fecal microbiota to assess whether diet or host phylogeny determined the animals microbiota muegge et al.
+
+diet and not phylogeny of the host had the greatest influence on the gut microbiota taxa present muegge et al.
+
+total bacterial genomic dna was isolated from the feces according to the repeat bead beating plus column method rbbc yu  morrison 2004. the extracted dna was then used as a template in the v4 region pcr amplifications using a method outlined previously o' donnell et al.
+
+representative sequences were aligned using pynast caporaso et al.
+
+2009 using the best match from the greengenes core set desantis et al.
+
+2006. taxonomy was assigned from phylum to genus level using the rdp classifier cole et al.
+
+2005 with a minimum confidence value of 0.5. chimeric sequences were re- moved using chimeraslayer haas et al.
+
+venny an online venn diagram tool was used to create a figure representing the core genera oliveros 2007. a heatmap for the genera present in each animal species was generated using r team r. c 2014 and bioconducter gentleman et al.
+
+observed species shannon index and phylogenetic diversity metrics were calculated as previously outlined o' donnell et al.
+

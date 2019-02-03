@@ -1,0 +1,30 @@
+considering the number of different putative fungal species the highest number was found at king george 73 species deception 33 species dee 28 species and lagotellerie 22 species islands.
+
+the localities that shared the highest number of otu were deception and king george 101 otu dee and king george 71 otu robert and king george 37 otu and dee and deception 36 otu.
+
+considering the cultivable yeasts isolated from the same samples by our group only vishniacozyma victoriae and goffeauzyma gastrica were also found in the otu and unseq analysis respectively.phylogenetic analysis and worldwide distributionfor phylogenetic analysis only the fungal otu having sequence length 500 nt were considered together with their closest blast-hit which were clustered into 11 classes .each class contained sequences reported from countries on several continents with the exception of one class that included uncultured fungal sequences reported mainly from northeast san diego county ca united states and other localities in north america.
+
+the higher number of otu sequences with blast-hits obtained atthe species level were from king george island and union glacier in which the major species corresponded to circinaria fruticulosa and xanthophyllomyces dendrorhous respectively .
+
+if the comparison is restricted to viable antarctic yeast species described in the literature only two and one were found in otu and unseq analysis respectively .
+
+x. dendrorhous and e. diaphanum which were found in 6 6 and 5 localities respectively.thirty-six fungal genera were found in the analysis of both otu and unseq sequences while 47 and 46 genera were found only in otu and unseq respectively  .
+
+among fungi 87 genera and 123 species were found of which species belonging to 37 fungal genera not previously cultivated from antarctica were detected.
+
+the fungal blast-hits were distributed in87 genera and 123 species of which the highest numbers were found for the genera xanthophyllomyces circinaria verticillium malassezia and verrucaria  and the species x. dendrorhous c. fruticulosa verticillium sp.
+
+the putative algae and diatom species found in antarctic soils in this work have been described as ubiquitous environmental species.
+
+nov. a new anamorphic ascomycetous yeast species associated with antarctic endolithic microbial communities and transfer of four lalaria species in the genus taphrina.
+
+only sequences from yeast type species from the taxonomic revision of basidiomycota were used as references   which were downloaded from the ncbi database.resultslocalities at similar latitude are more similar at molecular levelthe number of otu and unseq sequences generated were similar when considering all data and the length of most of them ranged from 500 to 550 nt .
+
+primers were designed based on the otu sequences ofdendrorhous and malassezia species for which a high number of blast-hits were obtained especially from king george island and union glacier to perform pcr reactions with newly purified dna from soil samples from different localities using new dna extraction kits reagents and enzymes these were performed under a laminar flow chamber.
+
+sequences were compared and those having 97 identity were clustered into an operational taxonomic unit otu sequences that were not grouped into otu were classified as unique sequences unseqs.
+
+all sites were compared based on their shared otu and geographical distances between them.hierarchical clustering combined with heat mapping shown for distance and otu.
+
+a fungal genera b yeast species cultivable yeasts isolated by our group from same samples used in the present amplicon-metagenomic analysis.
+

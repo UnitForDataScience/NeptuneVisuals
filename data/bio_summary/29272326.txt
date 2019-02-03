@@ -1,0 +1,30 @@
+the culture-based methods used for the assessment of biodiversity in bioaerosols generally in- volve a first culture step of the sampled microbial pop- ulation a subsequent sub-culture step of the different types of grown colonies and then an identification pro- cess of each selected colony supplementary table s1.the criteria used for the identification microbial iso- lates included the classical description of macroscopic and microscopic phenotypes as well as biochemical chemical and bio-molecular features.
+
+this will impair the correct identification of colonies with chemical bi- ochemical as well as molecular identification methods and requires a purification checking which is laborious as well material and time consuming.
+
+2 139-146doi 10.1093annwehwxx096 advance access publication 20 december 2017reviewreviewon the identification of culturable microorganisms for the assessment of biodiversity in bioaerosolsphilippe duquennedepartment of pollutants metrology institut national de recherche et de securite inrs vandoeuvre-les nancy 54500 france.author to whom correspondence should be addressed.
+
+the method involves the cultivation of bioaerosol samples on agar media and the pick-up of grown colonies 16s rrna gene amplification subsequent clon- ing sequencing and identification of bacterial isolates through the assignment against known gene databases.
+
+the aim of the present paper is to discuss the contribution of the proposed method in regards with the already proposed approaches used for identification of cultured bacteria.
+
+it details the new proposed method and discusses its contribution to the existing culture-based identification methods.
+
+as both culture-based and culture-independent methods could therefore be used for the characterization of the occupational environmental microbiome further applications in other occupational environments as well as additional comparisons with both cul- ture-based and culture-independent methods would complete its characterization.keywords bioaerosol culturable microorganisms culture-independent method identification microbiomeintroductionmicroorganisms are microscopic living organisms that are ubiquitous in the environment.
+
+this approach would avoid pure culture isolation in the future.the aim of the present paper is to discuss the con- tribution of the proposed method in regards with thealready proposed approaches used for identification of cultured bacteria in bioaerosols.presentation of the new methodthe different step of the method proposed by is presented in .
+
+then the amplicon-mixture is used to generate clone libraries that are sequenced the gene sequences are finally aligned against the ncbi database for bacterial identification.
+
+the method was first evaluated with an experimental microbiome pre- pared by mixing pure bacterial cultures grown in labo- ratory conditions  and then tested with bioaerosol samples collected in a ducks hatchery .overview of published culture-based methodsthe biodiversity of airborne microbial population in occupational environments was mainly assessed by cul- tivation of microorganisms on nutrient media prior to identification.
+
+for example bacterial isolates are gram-stained for differencing gram-positive and gram-negative bacteria before identification.
+
+few bioaerosol studies focused on the use of fatty acid methyl ester fame analysis for the identification of microbial isolates   .
+
+matrix-assisted laser de- sorptionionization time off light maldi-tof mass spectrometry has recently been proposed for microbial identification .
+
+the maldi-tof identification process is based on the characterization of the proteome of microbial isolates from intact cells as well as cell extracts and its comparison against a known142annals of work exposures and health 2018 vol.
+
+the 16s rrna gene is the mostly targeted gene for bacterial identification in bioaerosols.contribution to the existing culture-based methodsthe method proposed by schafer et al.
+

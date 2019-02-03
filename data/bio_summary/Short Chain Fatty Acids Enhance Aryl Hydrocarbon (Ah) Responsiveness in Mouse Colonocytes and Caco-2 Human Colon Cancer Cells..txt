@@ -1,0 +1,30 @@
+the identification of health-promoting compounds as ahr ligands has spurred research on the development and applications of ahr-active chemicals for chemotherapeutic applications.the ahr plays a particularly important role in maintaining gastrointestinal health and several studies show that ahr expression in subsets of gut epithelial cells are important for bacterial resistance gut inflammation and integrity and this has been associated with induction of t regulatory treg cells foxp3 and interleukin-22-.
+
+interestingly short chain fatty acids scfas such as butyrate exhibit activities sim- ilar to that observed for ahr agonists including induction of treg cells anti-inflammatory activity and induction of interleukin 22-. since microbiota simultaneously produce both ahr ligands and scfas we used human caco-2 anticancer cells and mouse ymac colonocytes as models to investigate the interaction of scfas and ahr ligands and their effects on ah-responsive gene expression.
+
+however since recent reports indicate that both the ahr and cyp1a1 are necessary for maintaining health-promoting levels of microbiota-derived natural ahr ligands- it is possible that scfas also play a role in maintaining intestinal ahr and enhanced cyp1a1 activity in vivo.
+
+butyrate synergistically enhanced ahr ligand-induced cyp1a1cyp1a1 in these cells with comparable enhancement being observed for 2378-tetrachlorodibenzo-p-dioxin tcdd and also microbiota- derived ahr ligands tryptamine indole and 14-dihydroxy-2-naphthoic acid dhna.
+
+the effects of butyrate on enhancing induction of cyp1b1cyp1b1 ahr repressor ahrrahrr and tcdd-inducible polyadp-ribosepolymerase tiparptiparp by ahr ligands were gene- and cell context-dependent with the caco-2 cells being the most responsive cell line.
+
+the ahr partners with the ahr nuclear translocator arnt to form a nuclear heterodimer that binds with cis-acting xeno- biotic response element xres in target gene promoters to induce expression of ah-responsive genes such as cyp1a1 .
+
+although the ahr is an essential target for mediating the toxicity of tcdd and structurally-related compounds  there is increasing evidence that the ahr plays an essential role in maintaining tissue-specific homeostasis-.
+
+butyrate increased expression of ahr protein in both cell lines and tcdd alone or in combination with butyrate decreased expression of ahr protein.
+
+minimal interactions 2-fold were observed for ahr expres- sion however the effects of butyrate on dhna and the relative weak ahr agonists tryptamine and indole were comparable to those observed for tcdd fig.
+
+cells were treated with dmso different ahr ligands alone or in combination with 5 mm butyrate and effects on expression of ahr a cyp1a1cyp1a1 b cyp1b1cyp1b1 c ahrrahrr d and tiparptiparp e mrna levels were determined by real time pcr.
+
+with the exception of ahrr mrna ahr ligands significantly induced all other ah-responsive genes and significant p 0.05 enhancement by butyrate is indicated .results are expressed as means -se for at least 3 separate determinations for each treatment group.scfas enhance histone acetylation and recruitment of the ahr to cyp1a1cyp1a1 promoters.
+
+we also investigated butyrate-tcddahr interactions with an ah-responsive dre-containing region of the cyp1a1 promoter in yamc cells in a chip assay and observed that tcdd butyrate and their combination induced recruitment of the ahr to the promoter and cotreatment did not further enhance ahr recruitment fig.
+
+the hdac inhibitors enhanced ahr ligand-mediated induction of cyp1b1 ahrr and tiparp in caco-2 cells whereas in yamc cells the enhance- ment was minimal to non-detectable and this was similar to that observed for scfas.the reasons for the gene- and cell-specific interactions of scfas and ahr ligands and their impacts on intes- tinal health are unknown and are currently under investigation.
+
+openreceived 27 april 2017accepted 15 august 2017 published xx xx xxxxshort chain fatty acids enhance aryl hydrocarbon ah responsiveness in mousecolonocytes and caco-2 humancolon cancer cellsun-ho jin1yating cheng1 hyejin park1 laurie a. davidson2 evelyn s. callaway2 robert s. chapkin2 arul jayaraman3 andrew asante4 clinton allred2 evelyn a. weaver5  stephen safe 1aryl hydrocarbon receptor ahr ligands are important for gastrointestinal health and play a role in gut inflammation and the induction of t regulatory cells and the short chain fatty acids scfas butyrate propionate and acetate also induce similar protective responses.
+
+like butyrate and propionate the prototypical hydroxyamic acid-derived histone deacetylase hdac inhibitors panobinostat and vorinostat also enhanced ahr ligand-mediated induction and this was accompanied by enhanced histone acetylation.
+

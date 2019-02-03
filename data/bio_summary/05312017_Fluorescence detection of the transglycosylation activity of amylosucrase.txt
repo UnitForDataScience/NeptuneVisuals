@@ -1,0 +1,30 @@
+a b michaelis-menten plot on the transglycosylation activity of npas with varied mu a and sucrose b c lineweaver-burk plots on the transglycosylation activity of npas with varied mu d eadie-hofstee plots on the transglycosylation activity of npas with varied concentration sucrose.table 1kinetic parameters of npas for sucrose and mu at 35 oc.kinetic parameters indicated that the second sucrose binding site led to changes in the binding affinity of the donor at high sucrose concentrations.the kcatkm value of dgas-b was significantly higher than that of dgas using sucrose as the sole substrate .
+
+the order of overall performance kcatkm of transglycosylation activity for mu among dgas dgas-b and npas was as follows dgas-b 8.1  dgas 5.0  npas 0.4. the fluorescence-based transglycosylation assay using mu has a potential to be used as the detection of transglycosylation activity of asase and to screen novel asase variants which may be improved in their transglycosylation activities.c 2017 elsevier inc. all rights reserved.introductionenzymatic transglycosylation involves the transfer of glycosyl units to the hydroxyl groups of aglycone or other glycosides by glycosyltransferase gtase ec 2.4 or glycoside hydrolase ghase ec 3.2.1 and is often used to improve the water solubility and stability of functional compounds .
+
+instead the kinetic parameters for sucrose as the sole substrate were divided at a critical sucrose concentra- tion 20 mm due to the presence of a second sucrose binding site .
+
+4. lineweaver-burk plots on the transglycosylation activity of dgas a b and dgas-b c d with varied concentration mu a c and varied concentration sucrose b d.table 2kinetic parameter of dgas and dgas-b for sucrose and mu at 40 o c.dgasacceptor mudonor sucrosekm mm3.942 - 0.98258.097 - 12.097vmax mmoleminmg0.267 - 0.0550.071 - 0.006kcat min-119.561 5.171kcatkm min-1mm4.962 0.089dgas-bacceptor mudonor sucrosekm mm3.607 - 1.66857.789 - 10.456vmax mmoleminmg0.398 - 0.1510.130 - 0.010kcat min-129.091 9.536kcatkm min-1mm8.065 0.165determined to be 0.17 and 8.07 mm-1 min-1 respectively and were increased by 1.9- and 1.6-fold for the acceptor and donor respec- tively for dgas-b compared with those of dgas.recently npas variants which could utilize non-natural ac- ceptors such as allyl 2-acetamido-2-deoxy-a-d-glucopyranoside have been constructed by saturation mutagenesis .
+
+thus we concluded that this fluorescence-based transglycosylation assay using mu may have the potential to screen novel asase var- iants with improved transglycosylation activities.conclusionthis study presents the simple and easy fluorescence-based assay for the measurement of the transglycosylation activity of asase using mu as an acceptor.
+
+for determination of the km of sucrose mu was held constant at 1 mm and sucrose was varied between 0.4 and 200 mm.
+
+hence kinetic studies of npas dgas and dgas-b were performed to determine the kinetic parameters with sucrose as a donor molecule and mu as an acceptor molecule.reactions catalyzed by npas with mu and sucrose were moni- tored by hplc.
+
+the kinetic parameters for sucrose as a donor and mu as an acceptor were also separated at a sucrose concentration of 21 mm.
+
+the overall performance kcatkm for sucrose concentrations lower than 21 mm was higher than that for sucrose concentrations higher than 21 mm.
+
+the catalytic constant values of dgas-b for mu 29.09 min-1 and sucrose 9.54 min-1 were higher than those of dgas for mu 19.56 min-1 and sucrose 5.17 min-1.
+
+the transglycosylation activity of asase from deinococcus geothermalis dgas asase from neisseria polysaccharea npas and dgas-b chimeric asase wherein the b domain from dgas was exchanged with the b domain of npas in a dgas background was applied to modify 4-methlylumberlliferone mu to 4-methylumberlliferone glucoside mug using mu as an acceptor and sucrose as a glucoside donor.
+
+however the trans- glycosylation reaction of ghases displays low conversion yield and produces various by-products.amylosucrase asase ec 2.4.1.4 has transglycosylation activity that results in the synthesis of a-14-glucan from sucrose as the sole substrate .
+
+showed that non-natural sugars could be utilized as acceptors by engineered asases variants.although various asase variants having improved enzymatic properties such as thermostability asase activity and acceptor specificity have been constructed by molecular engineering tech- niques conventional screening methods are not suitable for high- throughput screening of the transglycosylation activity of asase e. one screening method developed for analysis of trans- glycosylation activity combined the sucrose plate assay method and reducing sugar assay method .
+
+all solvents were filtered degassed and kept under pressure.results and discussionbioconversion of mu to mug by asasesthe transglycosylation activities of dgas npas and dgas-b were applied to convert mu to mug using mu as an acceptor and sucrose as a glucoside donor .
+
+2. hplc analysis of transglycosylation reaction products by asases with mu and sucrose as an acceptor and donor respectively.transglycosylation activity of asase.
+

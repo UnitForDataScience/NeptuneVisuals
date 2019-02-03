@@ -1,0 +1,30 @@
+we again used a generalized linear model binomial family to evaluate the accuracy of association between ecotype and disease status accuracy 77.6 p-value  0.001. this finding was further confirmed by a permanova adjusted for age and gender which showed an increase of the r2-value with the usage of four clusters permanova healthy vs. disease r2-value 0.44 p-value  0.001. furthermore the four ecotypes showed significantly different microbiota ecotype1 vs. sub-ecotype a r2-value 0.31 p-value  0.01 ecotype1 vs. sub-ecotype b r2-value 0.20 p-value  0.01 ecotype1 vs. sub-ecotype c r2- value 0.33 p-value  0.01 sub-ecotype a vs. sub-ecotype b r2-value 0.19 p-value  0.01 sub-ecotype a vs. sub-ecotype c r2-value 0.36 p-value  0.01 sub-ecotype b vs. sub-ecotype c r2-value 0.42 p-value  0.01.sub-ecotype a contain one moderatesevere periodontitis- patient 6.7 and was significantly richer than the two other sub-ecotypes  with a higher dominance index and a lower biomass of bacteria .
+
+we found 62 otus divergent between the sub-ecotype a and b bray- curtis distance 0.33 29 otus between the sub-ecotype b and c bray-curtis distance 0.33 and 84 otus between the two extreme sub-ecotype a and c bray-curtis distance 0.51. furthermore most of the divergent otus showed a clear gradient pattern of abundance from sub-ecotype a to sub-ecotype b to sub-ecotype c .
+
+t. forsythia showed an increase in sub-ecotype b and then further in sub-ecotype c.interestingly abundance of f. nucleatum was one of the decisive discriminators that differentiated healthy person in ecotype 1 from healthy subjects from the ecotype 2 sub-ecotype b. f. nucleatum declined from sub-ecotype a to b to c in abundance.
+
+therefore samples from this sub-ecotype a are phenotypically closer related to the healthy samples from ecotype 1.on the opposite sub-ecotype c showed the highest pd the highest al a low richness and a high biomass .
+
+this sub-ecotype contained most of the moderatesevere periodontitis patients with increased al median 5.5 mm pds median 5 mm.yet sub-ecotype b showed an intermediate phenotype with a low richness associated to a high biomass and dominance.
+
+despite the fact that none of the other clinical measurements was significantly different among the three clusters we observed in patients from the ecotype 2 a division from healthy carrier without clinical signs of periodontitis but mild signs of gingival bleeding sub- ecotype a to severely diseased patients sub-ecotype c with an intermediate stage sub-ecotype b.ecotype 2 shows heterogeneous microbiota and a clear gradient of distinct pathogensdifferentiation of microbial ecotype 2 into three clusters was suggestive for a gradual division of microbial changesbetween groups supplementary table s2.
+
+based on socranski definition of the key pathogens in periodontitis    we observed that sub-ecotype a which mainly contained healthy people had higher relative abundances of the known green complex and yellow complex bacteria as well as one species from the orange complex f. nucleatum vincentii whereas the other orange and red complex bacteria showed up in sub-ecotype b and c respectively  and for a close-up .
+
+whereas p. gingivalis was not overall different between ecotypes 1 and 2  it turned out that within the ecotype 2 there was a clear and significant evolution p. gingivalis increased significantly in abundance in sub-ecotype c where it became highly abundant up to 35. of note ecotype 1 and sub-ecotype a and b contained p. gingivalis albeit at low abundance.
+
+in the second stage sub-ecotype b mild pd and reduced bone loss t. forsythia increases significantly and remains at this abundance while p. gingivalis becomes the dominant species during the severe stage sub-ecotype c severe pd and bone loss.
+
+our findings match very well with those resultsas our sub-ecotype a and b together compared to the sub-ecotype c display the same contrast as the one showed by .
+
+f. nucleatum increases greatly in early stages of the disease sub-ecotype a minor pd and bone loss.
+
+also the three clusters depicted by  seem to be reflected by our cohorts from the ecotype 1 healthy cohort the sub-ecotypes a and b mild disease gingivitis and the sub-ecotype c periodontitis.
+
+finally the sub-ecotype c clinically reflects the most severe stage of the disease with deep pockets frequent bop and high al those changes go along with further alterations in the microbiota notably an increase of species from the red complex e.g.
+
+therefore the microbial disease ecotypes observed in our population can lead to an establishment of an early microbial risk profile for clinically healthy patients.keywords periodontitis microbiome subgingival plaque microbial ecology polymicrobial infectionsintroductionperiodontitis is a chronic inflammatory disease caused by a dysbiosis of the oral microbiota     and by the host response to these alterations   .
+
+however most of the actual studies focus on extremes of the disease mostly healthy versus severe disease.
+

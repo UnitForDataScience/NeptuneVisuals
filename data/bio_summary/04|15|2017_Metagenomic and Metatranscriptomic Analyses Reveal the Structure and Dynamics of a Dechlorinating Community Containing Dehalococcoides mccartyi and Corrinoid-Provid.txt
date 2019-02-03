@@ -1,0 +1,30 @@
+here rt-qpcr using specific primers targeting corrinoid synthesis genes identified from the veillonellaceae bin-genome as well as dehalococcoides microarrays seemed to be more sensitive in detecting the differential gene expression than metatranscriptomic sequencing by avoid- ing the interference of structural rnas and mrnas of housekeeping genes.
+
+in order to investigate the structural and functional activity dynamics in the community when no exogenous cobalamin was available we first compared the metatranscriptomes of hitce without b12 and hitceb12 with b12 on day 2. although similar numbers of transcripts were detected in the two metatranscriptomes  approximately 550 functional genes exhibited more than 5-fold greater transcript abundance in hitce than in hitceb12 .fig 3 taxonomic distribution of the upregulated genes in hitce 5-fold difference based on meta- transcriptomic analysis over a time course.moreover about 75 of those upregulated genes were assigned to the veillonellaceae bin-genome .
+
+although the other two firmicutes bin-genomes those of sedimentibacter and clostridium also possess a suite of sporulation-related genes the sporulation activities were insignificant with only 2 to 4 genes actively transcribed tables s4 and s5.complementary molecular approaches for differential gene expression analy- ses.
+
+however only the dehalococcoides btud gene geneid5163 transcript was detected in the metatranscriptomes with about 2 times more abundance in the enrichment without exogenous cobalamin than that with exogenous cobalamin table s4.sporulation-related genes in the veillonellaceae bin-genome.
+
+to further validate the metatranscriptomic sequencing results related to the dehalococcoides bin-genome we compared differential gene expression obtained from a dehalococcoides genus-wide microarray to that obtained from the metatranscrip- tomic sequencing.
+
+in addition the transcripts of cobalt abc transporters were detected only at t1 indicating that corrinoid biosynthesis occurred at an early phase and its activity decreased afterwards when corrinoids reached an adequate level.fig 6 relative gene expression ratios hitcehitceb12 at t1 by rt-qpcr targeting corrinoid biosyn- thesis genes in the veillonellaceae bin-genome red lines indicate 2-fold difference reference gene tcea representing dechlorination activity.we also analyzed the presence and transcriptional activities of the corrinoid abc transporter operon btufcd in all bin-genomes.
+
+interestingly consistent with the metatranscriptomic data  and table s4 one gene annotated as cobs1 geneid5485 exhibited higher relative expression in hitce while another gene annotated as cobs2 geneid6498 had a higher transcript abundance in hitceb12  in this qpcr analysis.microarrays are another complementary approach to analyze differential gene expression.
+
+the cdna was then relatively quantified by qpcr using fast sybr green pcr reagent applied biosystems life technologies grand island ny according to the manufacturer's instructions.the relative gene expression ratio was calculated using equation 1r  2dcthitceref - target - dcthitceb12ref - target  2ddct1where dcthitceref - target and dcthitceb12ref - target are the differences in threshold cycle ct values of a reference gene and the targeted corrinoid-related gene in the hitce and hitceb12 samples respectively.
+
+as the transcript abundances of the tcea gene in hitce and hitceb12 at t1 were at about the same level tcea was used as the reference gene for the relative gene expression ratio calculation.
+
+among these genes sporulation-related genes exhibited the highest differential expression when cobala- min was not added suggesting a possible release route of corrinoids from corrinoid producers.
+
+microbial compositions and functional genes of dehalococcoides- containing dechlorinating communities have been reported in several metagenomic studies    and the active community members and the genes involved in carbon metabolism in the community have been investigated by brdu-incorporated dna sequencing .
+
+numbers of upregulated genes are indicated next to the names the family with the most upregulated genes is highlighted in bold in panel b..related taxa  .
+
+in the veillonellaceae bin-genome the transcripts of the two genes encoding the corrinoid-dependent methylmalonyl-coa mutase and methylmalonyl-coa carboxyltransferase were less abundant in hitce than in hitceb12 whereas the other genes in this pathway exhibited higher expression in hitce especially for lactate permease.
+
+according to microarray results 96 genes were upregulated and 2 genes were down- regulated in hitce compared to hitceb12.
+
+eighty-six out of the 96 upregulated genes and one of the two downregulated genes were detected in the metatranscriptomes table s6 although the transcript abundance ratios of hitce to hitceb12 according to rna sequencing were less significant than the signal intensity ratios by rna microarray.
+

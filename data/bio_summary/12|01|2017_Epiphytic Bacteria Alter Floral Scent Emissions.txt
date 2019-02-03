@@ -1,0 +1,30 @@
+robert r. junker 1 department of ecology and evolution university of salzburg hellbrunnerstrasse 34 5020 salzburg austriain order to test the effect of bacteria on floral scent emis- sions we compared vocs of plants cultivated under sterile conditions and of plants cultivated under sterile conditions and inoculated with defined bacterial communities three days prior to floral scent collection.
+
+j agric food chem 542695-2704penuelas j farre-armengol g llusia j gargallo-garriga a rico l sardans j terradas j filella i 2014 removal of floral microbiota reduces floral terpene emissions.
+
+control plants sterile were treated with pbs in the same way.voc collection and analyses vocs were collected from 19 sterile and eight inoculated plants as well as from three plants grown under greenhouse conditions by using the dynamic headspace methods as described earlier etl et al.
+
+however the lack of many compounds in the greenhouse samples as well as the higher emission rates of other compounds table  demonstrate that sterile plants do emit different bouquets of vocs than plants with a natural microbiome.
+
+after voc sampling bacterial abundances on flowers were checked by isolating bacterial strains from flowers as de- scribed above.statistical analyses in order to test for differences in vocs of sterile and inoculated plants we performed a random forest analysis ntree  10000 bootstrap samples with mtry  6 com- pounds randomly selected at each node using the r package randomforest.
+
+j chem ecol 424300-304huang j cardoza yj schmelz ea raina r engelberth j tumlinson jh 2003 differential volatile emissions and salicylic acid levels from tobacco plants in response to different strains of pseudomonas syringae.
+
+by comparing volatiles of sterile and inoculated plants we found that bacteria may add components induce or reduce the emission of compounds and potentially catabolize others.
+
+three days after the inoculation individual plants in full bloom were taken out of the microboxes including roots and agar and were bagged in polyethylene oven bags 7 x 10 cm toppits germany under sterile conditions sterile bench.
+
+the number of studies on possible ecological consequences of bac- terial contributions to the floral phenotype is limited but our results underline that bacteria should not be overlooked when studying floral scents and the interactions they mediate.acknowledgements we thank the deutsche forschungsgemeinschaft for financial support dfg ju28561-1.open access this article is distributed under the terms of the creative commons attribution 4 .0 international license http creativecommons.orglicensesby4.0 which permits unrestricted use distribution and reproduction in any medium provided you give appro- priate credit to the original authors and the source provide a link to the creative commons license and indicate if changes were made.referencesabanda-nkpwatt d musch m tschiersch j boettner m schwab w 2006 molecular interaction between methylobacterium extorquens and seedlings growth promotion methanol consumption and local- ization of the methanol emission site.
+
+given that bacteria reduce alter or emit behaviorally relevant vocs these mod- ifications of floral scent may prevent initial attraction either by reducing the emission rate of attractive compounds or by adding repellent compounds to the bouquet.
+
+our study contributes to the understanding of how bacteria influence plant traits and provides a basis for future studies testing the role of bacteria in plant-pollinator interactions and sexual plant reproduction.methods and materialsstudy organisms we used fast-cycling brassica rapa l. plants brassicaceae wisconsin fast plants 1-033 standard rapid-cycling brassica collection university of wisconsin-madison department of plant pathology madison usa.
+
+samples taken from greenhouse-grown plants which harbored a more natural bac- terial community than the flowers inoculated with ourartificial community also differed from the experimentally treated plants fig.
+
+first bacteria induce volatile emissions in plants in response to pathogen attack and avirulent bacterial strains huang et al.
+
+alternatively they might be synthesized by the plants as a response to bacterial colonization or be breakdown-products of plant vocs.
+
+a study on sambucus nigra plants showed that flowers after treatment with antibiotics release proportionally altered and reduced emission rates of terpenes suggesting that bacteria influence floral scent emissions penuelas et al.
+

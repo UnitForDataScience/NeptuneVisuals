@@ -1,0 +1,30 @@
+it gives a constant overdis-dances summing to afcth1persion parameter to all marginal beta binomial distribu- tions and small negative correlations between all taxa .specification of the marginal univariate distributions and assuming independence between the taxa the negative bi- nomial distribution was used to generate counts for each taxon separately.separate specification of the marginal univariate distribu- tions and the correlation structure between the taxa the negative binomial and beta binomial were considered as marginal distributions but now a realistic correlation struc- ture between the taxa was imposed.
+
+as a conse- quence researchers should treat the list of significant taxa with great suspicion particularly when taxa are only marginally sig- nificant and the fold changes and sample sizes are small.in publications in which new methods for testing for differ-ential abundance are introduced  as well as in comparative simulation studies    authors have failed to report on the fdr and only compared methods in terms of the sensitivity specificity trade-off.
+
+however 40 of the taxa reported in this study are not differentially abundant in reality.for this reason researchers often choose for controlling thefalse discovery rate fdr which is the expected fraction of non- differentially abundant taxa among the taxa called significant the discoveries .
+
+taxa with a non-zero count in 5 of the samples were trimmed.parametric simulationdistributions and parametersin general terms the parametric simulation of abundances of taxa required the specification of the joint distribution of the abundances of these taxa.
+
+they attempt to only detect the minority of the taxa that initially responded to the physio- logical change although no clear mathematical definition exists that discriminates between this group and the taxa that undergo changes in relative abundances as a consequence of changes in other taxa.some differential abundance methods for microbiome data have been developed     but they are not widely used and no consensus exists on their performance because of lack of benchmarking studies in the microbiome field.
+
+the departure from uniformity in the lib- eral direction varies considerably between the taxa for all the aforementioned methods and deseq2 there are subgroups of taxa with a considerable liberal area.
+
+as a result these technolo- gies do not allow inference on absolute abundances of the taxa in the sample and differential abundance is usually defined as a difference in mean relative abundances taxon count relative to total count of all taxa in the sample between groups .
+
+however an increase of some taxa's relative abundances in re- sponse to a physiological change automatically results in changes in the relative abundances of all other taxa.
+
+suppose that in a microbiome study 1000 taxa have to be tested for differential abundance for which 100 taxa are truly differentially abundant.
+
+typically only the discoveries significant taxa are reported in the literature and only these taxa are considered in follow-up studies.
+
+simseq proceeds as follows first a factor that is believed to be associated to some of the taxa abundances is selected and all taxa are tested for differen- tial abundance between the factor-defined groups.
+
+these differentially abun- dant taxa are subsequently sampled from the taxa with an lfdr below a cutoff of 5 with sampling probabilities equal to one minus the lfdrs.
+
+a user-specified number of non- differentially abundant taxa are next sampled with uniform weights from the taxa with an lfdr above the cutoff .
+
+however when only a minority of the taxa is differentially abundant it is possible for the specificity to be close to 1 whereas the true fdr exceeds the nominal level.therefore sensitivity and fdr rather than specificity should be the two criteria of interest in benchmarking studies.our simulations showed that the raw p-values of some taxa are stochastically smaller than uniform under the null hypoth- esis for the wilcoxon rank sum test edger limma-voom aldex2 and metagenomeseq.
+
+it has re- cently been suggested that methods developed for rna sequencing rna-seq data could easily be adapted to micro- biome data as both data types are in essence read count data mapped to a reference database .the differentially abundant taxa are usually of great scien- tific interest.
+

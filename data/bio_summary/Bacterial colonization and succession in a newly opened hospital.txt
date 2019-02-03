@@ -1,0 +1,30 @@
+this may be due to regularlax et al.page 3cleaning of the hospital floors or more likely the diversity of other individuals walking throughout the hospital who were not sampled in this study.to investigate the degree to which the microbiota of individual patient rooms varied over the year we calculated the variability of the core microbiome figure 3a.
+
+to develop a community level understating of how microorganisms colonize and move through the hospital environment we mapped microbial dynamics between hospital surfaces air and water to patients and staff over the course of one year as a new hospital became operational.
+
+2010 75335-336. pubmed 20383131lax et al.page 7eren a murat et al.
+
+sample groups are clustered based on similarity in beta diversity patterns and median distances within individual sample types are highlighted in black along the diagonal.lax et al.page 9figure 2. heat map of pc space correlations between sample typeswithin- and between-environment comparisons are differentiated by color scheme.lax et al.page 10figure 3. variability in patient room microbiotaa scatter plot of the percent of 16s reads in the core microbiome for the 8 rooms sampled weekly with the core definition on the x-axis and the percent of reads in the core on the y-axis.
+
+we collected 6523 microbiallax et al.page 2samples from multiple sites table s1 in 10 patient care rooms and two nursing stations across two hospital levels.
+
+2005 71128228-8235. pubmed 16332807lax et al.page 8figure 1. alpha and beta diversity of hospital sample typesa average alpha diversity of sample types based on faith's phylogenetic diversity x-axis and the shannon diversity index y-axis.
+
+staff hand microbial communities were significantly more similar to the microbiota of built hospital surfaces than were patient hands likely as a result of greater staff mobility within the hospital.
+
+we have demonstrated that the building parameters shape the microbial sharing between occupants but that these drivers are linked to seasonal humidity trends driven by local climate.lax et al.page 4methodssample collectionsamples were collected by trained technicians at the center for care and discovery at the medical center of the university of chicago in compliance with irb12-1508.
+
+the sequence identity cutoff set at 97 and taxonomy was assigned to the high quality 1 incorrect bases candidate otus using the parallelassigntaxonomyrdp.py script of thelax et al.page 5qiime software.
+
+the models were run using the supervisedlearning.py command in qiime with 1000 trees per model and 10-fold cross validation.lax et al.page 6supplementary materialrefer to web version on pubmed central for supplementary material.referenceslax simon nagler cathryn r. gilbert jack a. our interface with the built environment immunity and the indoor microbiota.
+
+2015 363121-123. pubmed 25754179fujimura kei e. et al.
+
+2014 1112805-810.stefka andrew t. et al.
+
+2009 712887-894. pubmed 19898491adams rachel i. et al.
+
+2015 311-18. pubmed 25621171wood mariah et al.
+
+2015 311-8. pubmed 25621171lax simon et al.
+

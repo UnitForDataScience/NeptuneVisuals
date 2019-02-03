@@ -1,0 +1,30 @@
+we demonstrate that the composition of the gut microbiome was shaped by gut region whereas the structure of the hindgut microbiome was influenced by developmental stage.keywords cultured spiny lobster gut microbiome developmental stage gut region tenericutes proteobacteriaintroductionthe ornate spiny lobster panulirus ornatus is widely distributed over the indo-west pacific region where it supports important artisanal and commercial fisheries.
+
+12figure 4. venn diagrams showing shared and unique otus in a different gut regions and b different developmental stages in gut samples of juvenile p. ornatus see table for abbreviation of samples.therefore some microorganisms may be recruited to gut as- semblages even if they possess no functional capacity within the host in an artificial culture environment.
+
+tel 613 63243801 fax 613 63243804 e-mail one sentence summary this is the first study to explore gut microbiomes of ornate spiny lobster juveniles and demonstrates that the gut-associated bacteria are influenced by gut region and developmental stage.editor julian marchesimei c. ooi abstractwith recent technologies making it possible for commercial scale closed life-cycle aquaculture production of spiny lobster panulirus ornatus comes a strong impetus to further understand aspects of lobster health.
+
+herein we characterise and compare gut microbiomes across different developmental stages 6-7 days post-emergence dpe 52 dpe and 13 months post-emergence mpe and gut regions foregut midgut and hindgut of cultured p. ornatus juveniles.
+
+.although the host and external factors may affect the com- position of the gut microbiome spor koren and ley  less is known regarding the microbiota of different gut regions and how the developmental stage influences the microbial commu- nities.
+
+12table 2. sampling depth for gut sequence libraries of juvenile p. ornatus.samplesampling depthdevelopmental stageidpost-emergenceaindividual no.filtered sequencesobs otusgood'scoverage phylum class order family genusforegutfg13m113 months1641161717871mg13m113 months1569476 8399.198.9hg13m113 months1595094 13498.798.1a6-7 days and 52 days batch 1 13 months batch 2.observed otus of 13 months post-emergence lobsters not sharing common letters were significantly different p  0.05.table 3. richness and alpha diversity indices for gut sequence libraries of juvenile p. ornatus.samplerichness estimatorsdiversity indicesdevelopmental stageidpost-emergenceaindividual no.chaoacejackknifenp shannonsimpsonforegut869810313913689a64104147ab15218587a67101107b1451490.94a1.181.021.44ab1.891.310.66a0.54 a0.620.50a0.34 a0.50a6-7 days and 52 days batch 1 13 months batch 2.112731731831941321842.382.550.150.15indices of 13 months post-emergence lobsters not sharing common letters were significantly different p  0.05.consistent with the hindgut library being significantly more di- verse than the foregut and midgut libraries of 13 mpe animals according to the nonparametric shannon and simpson indices p  0.01. however there were no significant differences in the number of otus or bacterial richness and diversity chao acejackknife shannon and simpson indices in the hindgut 6-7 dpe vs 52 dpe vs 13 mpe of animals at different developmen- tal stages p  0.05. rarefaction curves for all samples tended to plateau indicating the sequencing of all the samples reached saturation fig.
+
+from the 41 and 37 shared otus the core gut microbiomes were from classes mollicutes gammaproteobac- teria and alphaproteobacteria.discussionthis is the first study to comprehensively explore gut micro- biomes of the juvenile spiny lobster.
+
+most of the tenericutes identified in thisfigure 3. relative abundance of otus in gut samples of juvenile p. ornatus at phylum class order and family levels see table for abbreviation of samples.study were in the class mollicutes which included the preva- lence of the genus candidatus hepatoplasma family mycoplas- mataceae in gut samples of 13 mpe lobsters.
+
+the composition of the gut microbiomes was influenced by gut region and developmental stage.
+
+with an increased understand- ing of the gut microbiomes of healthy lobsters we may iden- tify specific bacterial groups as indicators of health disease and productivity traits and identify gut symbionts as probiotic can-didates to improve lobster health.acknowledgementswe thank stephen battaglene and personnel at imas taroona for their kind guidance and assistance.fundingthis study was supported by the australian research council research hub for commercial development of rock lobster cul- ture systems ih120100032.conflict of interest.
+
+the gut microbiome plays a crucial role in host health affecting growth digestion immune responses and pathogen resistance.
+
+gut samples were analysed using 16s rrna next-generation sequencing.
+
+core gut microbiomes of p. ornatus comprised the phyla tenericutes and proteobacteria.
+
+within class gammaproteobacteria families pseudoalteromonadaceae and vibrionaceae were dominant members across the majority of the gut microbiomes.
+
+this is the first study to explore gut microbiomes of spiny lobster juveniles.
+

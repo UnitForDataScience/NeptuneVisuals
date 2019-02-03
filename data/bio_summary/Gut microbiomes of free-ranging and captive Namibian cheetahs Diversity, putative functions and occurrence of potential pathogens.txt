@@ -1,0 +1,30 @@
+we expected that captive cheetahs harbour a distinct microbiome diversity and abun- dance pattern and that this distortion leads to a higher susceptibility to pathogens in captive than in free-ranging individuals.
+
+1991 terio munson marker aldridge  solnick 2005. an altered diet has been suggested as one of the fac- tors responsible for gastrointestinal diseases in captive cheetahs whitehouse-tedd lefebvre  janssens 2015. in namibia captive individuals held on private farms are mainly fed with horse and don- key meat and occasionally with game meat whereas free-ranging cheetahs feed predominantly on gemsbok oryx gazelle hartebeest alcelaphus buselaphus warthog phacochoerus africanus and spring- bok antidorcas marsupialis voigt et al.
+
+2013. as we have studied free-ranging and captive cheetahs living under the same climatic conditions thereby reducing the effect of abiotic factors to a minimum we suggest that direct or indirect effects of diet are the most likely explanation for differences in microbial communities between free-ranging and captive namibian cheetahs.the structural differences in the gut microbiomes of free-ranging and captive cheetahs also induced variation in their predicted func- tions.
+
+for this purpose pairwise relatedness for all individuals was calculated using the implemented allele frequency distribution method after kono- valov and heg 2008. further we partitioned all individuals into groups using the full sibling reconstruction fsr approach by applying both i the strict hypothesis of either full-sibling or unre- lated individuals and ii the complex hypothesis of full-siblinghalf- siblingcousin or unrelated individuals with 1000 iterations.
+
+captive individuals revealed marked differ- ences in their gut microbiome structure and composition thatin the cheetah core microbiome the two bacterial classes clostridia 67.9 and fusobacteria 18.4 were the dominant taxa at the class level.
+
+p  .01p  .001proportions of major pathways between free-ranging and captive individuals were observed student's t test with 999 permutations p  .01 figure 4. predicted functional pathways related to environ- ment adaptation membrane transport immune system and translation were more abundant in free-ranging individuals whereas pathways related to cellular processes and signalling lipid metabolism transport and catabolism metabolism of other amino acids immune system diseases neurodegenerative diseases metabolism excretory system xenobiotics biodegradation and metabolism and other poorly characterized factors were more abundant in captive individuals.in the overall data set nine potential pathogenic genera were detected using the default rdp classifier.
+
+among the shared otus twenty otus differed significantly in their abundance p  .05 between free-ranging and captive individuals with all showing a higher abun- dance in captive individuals table s3.
+
+erysipelotrichi abundance has been shown to increase in the gut microbiome of mice after they have been switched to a high-energy fat diet greiner  beurackhed 2011. this is in accordance with the observation that free-ranging cheetahs first eat the high-energy fat that surrounds the abdominal organs of their prey and then move to other parts tordiffe wachter heinrich reyers  mienie 2016. in contrast the diet of captive cheetahs is deprived of fat and mostly contains muscle because cheetah keep- ers often remove surplus fat and discard nutrient-rich organs becker hesta hollants janssens  huys 2014 tordiffe et al.
+
+plos biology 11 1-9.galan m. razzauti m. bard e. bernard m. brouat c. charbonnel n... .
+
+nature 486 207-214.kelly m. j. laurenson m. k. fitzgibbon c. d. collins d. a. durant s. m. frame g. w. .. .
+
+vienna austria.razzauti m. galan m. bernard m. maman s. klopp c. charbonnel n. .. .
+
+plos one 10 e0120903.yatsunenko t. rey f. e. manary m. j. trehan i. dominguez-bello m. g. contreras m. ... gordon j. i.
+
+cell host  microbe 14 195-206.schnorr s. l. candela m. rampelli s. centanni m. consolandi c. basaglia g. ... crittenden a. n. 2014. gut microbiome of the hadza hunter-gatherers.
+
+nature communications 6 6440.wang j. linnenbrink m. kueurnzel s. fernandes r. nadeau m. j. rosen- stiel p.  baines j. f. 2014. dietary history contributes to enterotype- like clustering and functional metagenomic content in the intestinal microbiome of wild mice.
+
+trends in endocrinology and metabolism 22 117-123.heikinheimo a. lindstroeurm m. granum p. e.  korkeala h. 2006. humans as reservoir for enterotoxin gene-carrying clostridium per- fringens type a. emerging infectious diseases 12 1724-1729.human microbiome project consortium 2013. structure function and diversity of the healthy human microbiome.
+

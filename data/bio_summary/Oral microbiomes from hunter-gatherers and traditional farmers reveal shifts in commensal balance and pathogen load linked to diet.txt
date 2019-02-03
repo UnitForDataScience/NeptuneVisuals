@@ -1,0 +1,30 @@
+this setting offers an experimental design of three independent replicates with a comparable level of genetic and eco- logical differentiation between the populations within pairs so that any systematic difference in the microbiome species composition between the two groups of populations should be primarily driven by the difference in subsistence strategies and lifestyle.for each of those populations we sampled saliva from four indi- viduals in good oral health from which we deep-sequenced the whole extracted dna yielding between 167 and 662 million reads per sample of which 77.0 to 94.7 could be assigned to the human genome resulting in 29-209 depth table s1.
+
+2015 torrungruang jitpakdeebor- din charatkulangkun  gleebbua 2015 prevotella intermedia por- phyromonas gingivalis treponema denticola tannerella forsythia aggregatibacter actinomycetemcomitans and eubacterium nodatumwere associated with foraging and farming subsistence strategies figure 3. intriguingly despite carrying taxa associated with peri- odontal disease at higher rates than the tfs the hgs in the philip- pines are seemingly in far better oral health a. bamberg migliano personal observations.this apparent lack of a negative effect of taxa previously associ- ated with periodontal disease in developed countries on the hgs' oral health suggests these might behave as commensals in hgs and participate in the processing of foods specific to the foragers' diet.
+
+201827182-195.the human microbiome the sum of diverse microbial ecosystems colonizing the various niches offered by the human body is known to play an important role in human health lloyd-price abu-ali  hut- tenhower 2016 yang et al.
+
+2014 the human microbiome project consortium 2012. these data were processed with state-of-the-art taxonomic assignation and phylogenetic diversity pd analyses to tease apart the effect of diet environment and human genetic make-up in shaping the composition of the oral microbiome.
+
+genetics 1953 693-702. the human microbiome project consortium 2012. structure function and diversity of the healthy human microbiome.
+
+2014. they live in close proximity to the tf populations tagbanua zambal and casigurani respectively who are all descendants of a later wave of settlement carino 2012. the geographic distances between the locations occupied by the pairs of populations range from 1 to 10 km figure 1 table s1.food exchange between hgs and tfs is common with up to 50 of the hgs' meals nowadays including rice page et al.
+
+pairs of hg and tf populations live in close enough proximity to likely be exposed to similar environmental sources of microbes but their lifestyles differ substantially the hgs usually live in lean-tos without walls while tfs live in houses with walls hgs do not brush their teeth while tfs go to school andreceive education relating to oral prophylaxis and usually have access to toothpaste and a brush a. bamberg migliano personal observations.
+
+genetic differentiation and admixture between human populationswe explored the genetic structure of the human populations using a robust probabilistic framework suitable for low and variable sequenc- ing depth fumagalli 2013 skotte korneliussen  albrechtsen 2013. principal component analysis and admixture analysis cluster together all individuals from the three tf populations in accordance with their recent common ancestry figures s2 and s3.
+
+three libraries were prepared each grouping eight individuals library1 4 aeta hgs  4 zambal neighbouring tfs library 2 4 batak hgs  4 tagbanua neighbouring tfs and library 3 4 agta hgs  4 casigurani neighbouring tfs.the libraries 1 and 2 were sequenced on one illumina flow cell each eight lanes one per individual while the library 3 was sequenced in two rounds using two flow cells 16 lanes two per indi- vidual.
+
+is not recovered by the kraken analysis possibly due to the high variance of estimated abundances for wc samples ranging between 0 and 18 of the microbiome composi- tion the higher prevalence of the heamophilus genus in tfs than in hgs is however confirmed by the kraken analysis supplemental data online at  indicat- ing that the depletion of this taxon in hgs is a robust feature.the enrichment in neisseria spp.
+
+a ser- ies of studies have investigated the microbiome composition of mod- ern hgs in comparison to neighbouring populations of traditional farmers tfs or more distant western individuals clemente et al.
+
+reference genomes was investigated by browsing the interpro database last accessed 11 october 2016. results and discussion  study designto circumvent the problem of lack of replication in previous studies on the oral microbiome of hgs we set up a design analysing three pairs of hg populations and their tf neighbours.
+
+this microbiome composition gradient becomes even more evident when the group of individuals with a western diet is included in the analysis as tf populations appear as intermediates between hgs and wcs figure 2ab.
+
+dewhirst f. e. chen t. izard j. paster b. j. tanner a. c. r. yu w.- h. ... wade w. g. 2010. the human oral microbiome.
+
+the isme journal 66 1176-1185. hasan n. a. young b. a. minard-smith a. t. saeed k. li h. heizere.
+

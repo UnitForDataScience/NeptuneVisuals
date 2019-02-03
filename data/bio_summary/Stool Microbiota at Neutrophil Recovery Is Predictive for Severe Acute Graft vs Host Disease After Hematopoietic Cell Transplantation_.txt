@@ -1,0 +1,30 @@
+abbreviations auc area under the curve bwpd balanced weighted phylogenetic diversity gvhd graft-versus-host disease hct hematopoietic cell transplantation invsh inverse shannon roc receiver operator characteristic.p  0.05. figure 2b shows the receiver operator characteristic roc curve for bwpd area under the curve auc of 0.56 and invsh diversity auc of 0.63 at neutrophil recovery as a predictor for eventual development of severe acute gvhd grade 3-4.specific bacteria and development of severe acute graft-versus-host diseaseto test for correlations between specific bacteria identified to species or genus level at neutrophil recovery and the subsequent development of severe acute gvhd we used an ancom-like analysis in which we calculated the log of the ratio of counts of each species or genus to each other genus and then performed logistic regression for each ratio to the endpoint acute severe gvhd or not 25. we then selected the organisms that were consistently significantly positively or negatively correlated with subsequent severe acute gvhd table 2. members of the bacteroides genus b. thetaiotaomicron b. ovatus and b. caccae were negatively correlated with subsequent acute severe gvhd while others b. dorei were positively correlated.
+
+the difference between grade 3 acute gvhd and no acute gvhd was significant p  0.05 as per gee regression.diversity of the stool microbiota of hematopoietic cell transplantation recipients and donorsfigure 2a shows the alpha diversity of hct donors and hct recipients stratified by acute gvhd grade.
+
+when using all samples for a given patient or just the sample closest to neutrophil recovery there was a trend to lower alpha diversity invsh or bwpd at higher grades of acute gvhd.by gee regression with an independence correlation structure both bwpd and invsh alpha diversity were statistically signif- icantly lower in patients with grade 3 or 4 gvhd when com- pared to those with no acute gvhd or grade 1-2 acute gvhdstool microbiota predicts graft versus host disease  cid 201765 15 december  1987figure 2. alpha diversity and graft-versus-host disease gvhd.
+
+our results are broadly com- parable with the prior published work 6 7 but point to specific species rather than alpha diversity as a more predictive micro- biome factor for eventual development of severe acute gvhd.1988  cid 201765 15 december  golob et altable 2. organisms at neutrophil recovery negatively or positively correlated with subsequent development of severe acute graft-versus-host diseasecorrelation with severe acute graft-versus-host diseaseaorganismbsembp corrlineagesevere graft-versus-host disease is grade 3-4.micrococcineae micrococcaceae rothiaaan ancom analysis of composition of microbiomes-style 25 analysis was performed.
+
+figure 3a shows the gradient for all samples for our recipients stratified by acute gvhd grade there is a slight trend to a higher gradient in those with higher grades of acute gvhd.
+
+we described several distinct bacterial species positively or negatively correlated with the subsequent development of severe acute gvhd when present around neu- trophil recovery and used these organisms in a metric to predict subsequent severe acute gvhd.
+
+clinical infectious diseases majo r articl e stool microbiota at neutrophil recovery is predictive for severe acute graft vs host disease after hematopoietic cell transplantationjonathan l. golob12 steven a. pergam12 sujatha srinivasan1 tina l. fiedler1 congzhou liu1 kristina garcia1 marco mielcarek34 daisy ko1 sarah aker1 sara marquis1 tillie loeffelholz1 anna plantinga5 michael c. wu6 kevin celustka1 alex morrison1 maresa woodfield1 and david n. fredricks1271vaccine and infectious disease division fred hutchinson cancer institute 2division of allergy and infectious diseases university of washington 3clinical research division fred hutchinson cancer institute departments of 4medicine and 5biostatistics university of washington 6public health sciences division fred hutchinson cancer institute and 7department of microbiology university of washington seattlebackground.
+
+a gradient of bacterial species difference of the sum of the relative abundance of positive correlates minus the sum of the relative abundance of negative correlates was most predictive receiver operator characteristic area under the curve of 0.83 of subsequent severe acute gvhd.conclusions.
+
+the stool microbiota around the time of neutrophil recovery post-hct is predictive of subsequent development of severe acute gvhd in this study.keywords.
+
+we show an associ- ation between lower bacterial species diversity and severe acute gvhd with a modest predictive strength when tested at re- covery of neutrophils post-transplant.
+
+we also identify severalspecific organisms whose relative abundance at neutrophil re- covery appears to predict severe acute gvhd of the gut.methodsmicrobiome sample collectionweekly kits that contained polyurethane foam swabs epicenter biotechnologies madison wisconsin were provided to par- ticipants to self-collect stool samples at home nurses collected swabs from inpatients.
+
+all patients had stage iib to iv gut gvhd to be called severe acute gvhd in our study.
+
+the acute gvhd start date is defined as the onset of any symptoms while the stage is deter- mined by the worst conditions observed in the patient typically after the onset of symptoms.
+
+the correlation between alpha diversity and severe acute gvhd was as follows when all time points con- sidered for an individual were used generalized estimating equations gees using an independence working correlationstool microbiota predicts graft versus host disease  cid 201765 15 december  1985and a binomial family with a logit link function were used.
+
+for the correlation between organisms and severe grade 3-4 acute gvhd similar to analysis of the composition of micro- biomes ancom 25 for each observed organism identified to the genus or species level and each genus identified a log ratio of the species count plus 1 over the genus count plus 1 was calculated.
+

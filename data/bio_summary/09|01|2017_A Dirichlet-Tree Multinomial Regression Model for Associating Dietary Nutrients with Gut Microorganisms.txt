@@ -1,0 +1,30 @@
+we believe our method of coupling l1 and l2 regularizations with the dirichlet-tree multinomial model would provide a useful data analysis tool for associating covariates such as dietary nutrients with multivariate over-dispersed and tree-structured count data such as taxa counts.in the literature several schemes have been proposed to take advantage of the tree structure over either the covariates or responses see for example zhao et al.
+
+in particular our statistical methods for extracting meaningful supplementary materialsweb appendices a and b referenced in sections 5 and 6 simulated data and computer code are available with this article at thebiometrics website on wiley online library.wang and zhaopage 2information from microbiome studies have not been developed as quickly as experimental techniques.to process raw data from either targeted amplicon or metagenomic sequencing studies kuczynski et al.
+
+an analysis of a data set relating dietary nutrients with bacterial counts is used to show that the incorporation of the tree structure into the model helps increase the prediction power.keywordsdirichlet distributions over-dispersion sparse group lasso tree-structured learningintroductionnext generation sequencing of dna extracted from microbial communities has advanced our knowledge of the role of microbiota in human health and disease cho and blaser 2012. researchers have found that changes in the human microbiota are associated with a number of pathological states such as obesity and inflammatory bowel disease clemente et al.
+
+in the real data example the tree is learned from 16s rrna sequences using a fast and approximate maximumwang and zhaopage 13likelihood method price et al.
+
+indeed tree mis-specification could be a major risk for shotgun sequencing data matsen et al.
+
+2013. after these processing steps a microbial community can be characterized by a list of otus and their counts their phylogenetic relationships andor their taxonomy.the data that motivated the statistical method in this article were part of a human gut microbiome study conducted at the university of pennsylvania wu et al.
+
+2001 proposed an alternative distribution for over-dispersed multivariate count data called the logistic normal multinomial distribution by replacing the dirichlet distribution for p with aitchison's logistic normal distribution aitchison 1982. the corresponding regression model which relates covariates to the count vector was studied by billheimer et al.
+
+2014. one important goal of microbiome studies is thus to identify which food constituents specifically promoteinhibit growth and functionality of which microorganisms in the human gut.wang and zhaopage 11the data we consider come from a cross-sectional study associating nutrient intake with the human gut microbiota composition wu et al.
+
+2010. note that the dirichlet-tree multinomial regression reduces to the dirichlet multinomial regression when the tree is a comb tree that is the root node of the tree is the only internal node see figure 1 for illustration.
+
+typically the most abundant sequence in an otu is chosen as the representative sequence and representative sequences from all the otus are used to construct a phylogenetic tree among all the otus andor to map otus to a taxonomic reference database schloss et al.
+
+the results are summarized in table 2. we can see that the incorporation of the tree structure helped improve the prediction accuracy.to see how dietary nutrients affected bacterial taxa we set g  0.25 and concentrated on two genera bacteroides and prevetella that were previously used to define enterotypes of the human gut microbiome arumugam et al.
+
+for this study both gut microbiome data and nutrient intake data were available see section 6 for details.
+
+the conclusions are qualitatively similar if they vary in magnitude.wang and zhaopage 10we generated 100 data sets in this way and for each data set we applied our method with the tuning parameter l selected by bic.
+
+the average roc curves over 100 data replications are shown in figure 4. we can see that for this simulation setup the sparse group lasso g  0.25 or g  0.5 performs better than the lasso g  0 and the group lasso g  1.for each data set we further generated a separate set of size n  25 and computed the prediction error using the following cost functionwhereare test samples anddenotes a predicted value of.
+
+second the components are mutually independent up to the constraint that they must sum up to one mosimann 1962. finally the distribution fails to take into account the special and inherent property of microbiome count data namely microbial taxa are not independent of each other but are related evolutionarily in a phylogenetic tree.
+

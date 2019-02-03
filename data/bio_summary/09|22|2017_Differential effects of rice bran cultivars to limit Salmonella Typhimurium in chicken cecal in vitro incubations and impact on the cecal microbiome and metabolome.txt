@@ -1,0 +1,30 @@
+to investigate the possi- ble effects of prebiotics or prebiotic-like materials on these anaerobic bacteria and their inter- action with prebiotics and salmonella an anaerobic mixed culture system has been employed as a screening tool .inhibition of s. typhimurium by rice bran was previously investigated across rice varieties in mice   and these findings are relevant to the present study for chickens as the previous studies compared three different cultivars of rice jasmine red wells and calrose that were examined as treatment candidates in the current study.
+
+metabolites were classified into possible pathways using the kegg and pubchem databases.statistical analysisthe log cfuml for control feed only cecal only feed  cecal and experimental treatments feed  cecal  jasmine red wells or calrose rice bran were determined by averaging all bio- logical replicates and one way analysis of variance anova was conducted to compare dif- ferences of bacterial population or relative abundance among groups with jmp genomics 7.0 sas institute inc. cary nc at p  0.05. a student's t-test was also used to compare mean abundances of metabolites between calrose and the no rice bran control nc.
+
+since the salmonella belongs to the family enterobacteriaceae the significant decreases in relative abundance of enterobacteria- ceae by calrose treatment determined by microbiome analysis are in accordance with the results showing a significant reduction in salmonella populations by calrose treatment deter- mined by bacterial culture method.metabolite profiles reveal small molecules and metabolic pathways with potential anti-salmonella activitymetabolite analysis was performed with only the calrose supplemented incubations since cal- rose showed the most significant antimicrobial activity among the three cultivars of rice tested.
+
+metabolomic analysis by gas chromatography- mass spec- trometry gc-ms of 24 h anaerobic cultures with and without rice bran was also investigatedto examine metabolites of rice bran or of rice bran fermentation that might have roles in reducing salmonella growth.
+
+together with illumina miseq dna sequencing of 16s ribosomal dna from these cultures we present a comprehensive view of rice bran effects in a controlled system that approximates the anaerobic conditions and microbiota of the chicken hindgut.the findings indicate the potential utility of rice bran or components thereof in the control of salmonella in the preharvest broiler chicken and contribute to a better understanding of eco- logical and metabolic changes in the ceca upon exposure to rice bran.materials and methodsbacterial strainsalmonella enterica serovar typhimurium marker strain st97 a nalidixic acid-resistant nar strain was kindly provided by dr. billy hargis department of poultry science university of arkansas fayetteville ar.
+
+calrose rice contains a brown bran and this bran has been shown to exhibit a synergistic effect with probiotics on the elimi- nation of rotavirus and norovirus-induced diarrhea in orally-challenged gnotobiotic neonatal pigs  .in this study we used cecal contents collected from broiler chickens which possess a fairly diverse microbiota to investigate empirical effects of different rice bran on reducing the salmonella population.
+
+a controls contained 1 feed 2 cecal content and 3 feed and cecal contents without rice bran while treatments contained feed cecal content and different amounts of rice bran including jasmine red wells and calrose.
+
+nd not detected detection limit 10 cfuml.a-cmean values in the same column and experimental condition denoted by different superscript letters represent statistically significant differences p  0.05.average log cfu data comes from 3 independent experiments using different cecal contents.in contrast s. typhimurium survival was significantly reduced under the adapted incuba- tion conditions group 2 treatments by calrose rice bran compared to the control with feed cecal contents but no rice bran .
+
+a potentially interesting metabolite of unknown structure designated 552 was considerably reduced in calrose cultures compared to control cultures at 24 h .in conclusion the cultures containing calrose bran had significantly less salmonella recov- ered compared to control cultures without rice bran.
+
+salmonella typhimurium was added to controls feed only cecal only and feed  cecal material and treatments feed  cecal  different rice brans and s. typhi- murium populations were enumerated at 0 24 and 48 h. two experimental conditions were applied 1 unadapted condition in which s. typhimurium was added at the beginning of the culture incubation and 2 adapted condition in which s. typhimurium was added after a 24 hour pre-incubation of the cecal bacteria with the feed andor rice bran.
+
+in summary it appears that rice bran from specific rice cultivars may be effective as a means to reduce salmonella in the chicken ceca.
+
+rice bran is an underutilized product of rice milling and contains a variety of components including proteins amino acids complex carbohydrates minerals vitamins phytonutrients phospholipids essential fatty acids and antioxidants that have nutritional value .
+
+rice bran also possesses various components that exhibit prebiotic activities which can modulate microbiota in the intestine and potentially help to prevent chronic diseases  and evidence supports that the antimicrobial activity of rice bran against salmonella typhimurium can vary across cultivars .
+
+rice bran has been investi- gated for its prebiotic properties and several studies have demonstrated that s. typhimurium colonization in the animal gastrointestinal tract can be reduced by inclusion of rice bran in the diet -.
+
+there is no information on the general ability of rice bran to reduce salmonella when fed to poultry or on the relative potency of brans derived from different rice cultivars in specifically reducing salmonella in the poultry gastrointestinal tract.the main site of salmonella colonization in poultry is the ceca .
+

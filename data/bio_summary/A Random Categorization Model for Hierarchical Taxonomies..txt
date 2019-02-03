@@ -1,0 +1,30 @@
+we could also achieve a similar smeared distribution by assigning probabilities to each child category according to some continuous distribution rather than equally or by dividing categories into a randomly varying number of child categories.of course b is itself a random variable that depends on the particular leaf and the structure of the random tree.given a random tree with q leaves the probability that a randomly chosen leaf has depth b is given bypb q  2-b cq - 1 b .gq  12here c is an unsigned stirling number of the first kind which obeys the recursion relationcn  1 k  ncn k  cn k - 13with boundary conditions cn 0 0 for n  0 and cn k 0 for k  0 with cn n 1 for n  0. from this and the definition of the gamma function we derive a recursion relation for the probabilitypb q  1  q - 1 pb q  2 pb - 1 qq  1q  14with boundary conditions p0 1  1 p0 q  0 for q  0. this recursion relation allows an efficient numerical calculation of the probabilities for arbitrary b q values.this distribution is approximately normal in b near its maximum with variance s2  q2j - 4j2  -3.4  2 ln q and mean u  q2j -0.85  2 ln qqj2qj2 where the approximations are valid atlarge q. since the probabilities p are related to b by p  2-b the variance in ln p is2ln p ln22 -3.4  2 ln q.5note that if q is the number of species the functional relation between the variance and the number of species is similar to the canonical lognormal eq.
+
+of the three datasets for which one or more continuous distri- bution outperforms the random model in one cath the best model lognormal is very close to the random model.
+
+the success of the random model is quite remarkable given the model's lack of adjustable parameters and suggests that the decisions made in designing hierarchical categoriza- tion systems follow a general pattern that our random categorization model is capturing.as a test we also compare the model to four categorizations that are not hierarchical taxonomies and where we would therefore not expect it to perform well populations of german cities u.s. counties world countries and the number of speakers per language.
+
+if we wish to obtain an expected number k of nonempty categories we should choose q by solving the nonlinear equation k  q1 - feq n. we use the value qk n that solves this equation for the number of categories we generate to model a dataset with given k n.these steps can be thought of as generating a random partition of n into q. the probability distribution of these random partitions does not have a simple analytical expression as far as we are aware but it is not difficult to sample numerically.
+
+openreceived 5 april 2017accepted 20 november 2017 published xx xx xxxxa random categorization model for hierarchical taxonomiesguido d'amico12 raul rabadan3  matthew kleban2a taxonomy is a standardized framework to classify and organize items into categories.
+
+for this reason sugihara's model produces an approximation to a lognormal distribution but the same would hold for any random process involving repeated subdivisions including the one studied here.
+
+as we will see sequential random categorization appears to successfully account for the item abundance distribution in large hierarchical taxonomies including many that have nothing to do with ecology.
+
+random categorization can account for both the lognormal distributions observed in well-sampled datasets and the skewed shape of more poorly sampled taxonomies.
+
+of course there are many models of random categorization in addition to the one studied in.
+
+the data is shown in magenta 100 realizations of the random model are in light blue and their average in dark blue and the best-fit lognormal distribution is in orange.
+
+the horizontal axis is the ordinal rank of each category operational taxonomic units in this case with category 1 the most abundant while the vertical axis is the item count in that category bacterial counts in this case.distribution with the minimum possible variance see more general random subdivision models for details.
+
+the random categorization model is quite successful in reproducing our data compared to these distributions despite its lack of adjustable parameters see comparison with data for details.random categorization model.
+
+grey is data and we show kernel density estimates of the average of the random categorization model blue curves and the best fit lognormal orange curves.
+
+in each plot the horizontal axis is the log of the fraction of items in the category and the vertical axis is the log of the number of categories in each bin.a random binary tree fig.
+
+.figure 4. magenta points are data and light blue points are 100 realizations of the random model whose average is the blue curve.
+

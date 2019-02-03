@@ -1,0 +1,30 @@
+the only differences in the dhc sequence analysis were that sequences were delin- eated at 99  similarity and only complete data 114261 dhc sequences were used because of the comparable number of dhc sequences retrieved from each treatment range 13000- 15000.to assess the relative distribution of major dhc populations across different treatments otus represented by more than 1000 sequences 71884 sequences were compared by ran- domly selecting dhc representative sequences from each otu.
+
+the relativedistributions of sequences in each otu from different treat- ments were presented in a bar graph along with the phyloge- netic tree.we have also compared the dhc sequences retrieved direct- ly with the bacterial sequencing 3755 dhc sequences to the dhc sequences retrieved using the nested pcr approach 114261 dhc sequences using rdp and mothur.quantitative pcrdhc abundance from these columns as reported previously mirza et al.
+
+reeder and knight  suggested that the best evidence for genuine existence of a rare species or a sequence is that it appears across many distinct biological samples and our study sequences in the otus containing more than 1000 sequences were retrieved from eight different columns and ii about 60  of the total dhc sequences were placed into the two major phylogenetic groups that contained the sequences of all dhc pure culture isolates.
+
+mb dhc mccartyi strain 195genbank accession number for pure culture reference isolates was presented in table s1 along with other uncultured dhc sequences from genbankwere statistically significant global r  0.85 p  0.001. pairwise comparison of microbial communities among differ- ent columns suggested that communities established in whey and oil treated columns were significantly different from each other as well as from the non-stimulated control columns p  0.01. the impact of bioaugmentation with the br en- richment culture influenced overall microbial community structure in only the eol-treated column p  0.05. both the subsampled data 128400 sequences fig.
+
+hence we analyzed both randomly subsampled data 6000 sequences per sample core 144000 total sequences and the complete data set 236149 se- quences to evaluate any discrepancies that may occur due to the variation in the number of sequences across different samples.nucleotide sequence accession numbersthe general bacterial and dhc-specific 16s rrna gene se- quences were deposited in the ncbi sequence read archive sra under accession numbers srp039499 and srp057649 respectively.resultsdehalococcoides population structure and diversitydhc population structure evaluated from the otus containing10 sequences represented by 95414 was grouped into two major clusters.
+
+the detailed distribution of pure culture isolates and uncultured sequences from genbank within pinellas and cornell groups was reported in table s1.in the complete tce dehalogenating w columns the cornell group-related sequences were dominant and repre- sented about 78  of the sequences in the most abundant 13 otus.
+
+relatively low numbers of proteobacteria 7-8  sequences were observed in the com- plete tce dehalogenating w columns as compared to all other columns which contained 22-54  of sequences from the proteobacteria.
+
+.comparison of dhc sequences retrieved with bacterial sequencing and nested pcr amplificationthere was a total of 3755 dhc sequences found across all of the columns using direct general bacterial sequencing but the number from individual columns or treatments was highlyvariable fig.
+
+in bioaugmented oil-amended columns eol and eoln dhc were 7-9  of the total bacterial sequences while in the complete tce dehalogenating w columns dhc were detected only as a minor component consisting of up to only 0.1  of the general bacterial sequences fig.
+
+each otu with 1000 sequences 71884 sequences total 63  of all dhc sequences table  was related to the pinellas and cornell dhc subgroups fig.
+
+about 95  of these dhc sequences were found in the four oil- and lactate-treated columns whereas the dhc sequences retrieved from the control and whey treatments were relatively low fig.
+
+overall we observed more variation in the microbial community structure composition and abundance than microbial diversity species richness chao1 estimator and shannon diversity across different treatments.rarefaction curve analysis for the bacterial 16s rrna gene sequences indicated that the number of otus at 97  simi- larity did not reach an asymptote for most of the treatments which suggests that 18000 sequences per treatment were not sufficient to capture all of the microbial diversity present in these columns fig.
+
+the identifiable bacterial genera were similar in both eol- and eoln-treated columns but dhc-related sequences were more abundant in the bioaugmented columns of both treatments fig.
+
+however most of these studies have assessed changes in the dhc pop- ulations using either clone libraries or the proportion of dhc to reductive dehalogenase genes.fine scale analysis of the 13 dominant otus represented by 1000 sequences each indicated that in non- limited and partial tce dehalogenating columns the dhc strains belonged to the pinellas group while in the complete tce dehalogenating w columns the cornell group-related strains were dominant fig.
+
+the relative abundance of dhc-related sequences retrieved from the general bacterial sequencing was higher in the limited eol and partial eoln tce dehalogenating columns as compared to the complete tce dehalogenating w columns fig.
+

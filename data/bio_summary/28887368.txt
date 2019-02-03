@@ -1,0 +1,30 @@
+in-feed antibiotics increase the expres- sion of genes involved in immune and antigen processes in both the jejunum and ileum while genes related to metabolic processes are altered predominantly only in the jejunum.
+
+the network also showed a cluster of genes related to metabolic function including akr1c family genes treh spr downregulated in the jejunum and cpo upregulated.586segment-specific responses of intestine to antibioticsfig.
+
+numbers for total differentially expressed genes degs as well as the up- and downregulated genes are given.
+
+5. the nodes represent genes the weights of the edges represent how specifically two genes are associated together and the colors indicate the jejunum- specific ileum-specific or overlapping degs.
+
+of the 2 dashed circles 1 includes a cluster of genes related to metabolic function and another in- cludes a cluster of genes related to immune function.two intestinal tissues before and after antibiotic treatment.
+
+although the magnitude of fold change obtained by the two methods was different in some instances the expres- sion trends of these genes remained similar.correlation between bacterial abundance and intestinal genes expression.
+
+the results indicate that in-feed antibiotics increased expression of genes involved in immune functions in both the jejunum and ileum some of which were clustered in the coexpression network.
+
+intestinal changes induced by antibiotics include reduction of epithelial tight junction proteins 4 lossof inflammasome function 12 thinning of the intestinal mucus layer 8 and decreased epithelial cell turnover in the colon 31. in addition several studies have shown that the expression of a large number of intestinal genes is altered by antibiotic treatments 7 31. nevertheless the intestinal epi- thelium exhibits extensive functional specialization along its proximal-distal axis characterized by distinct gene expression programs 3 35. the impact of antibiotics on the segment- specific function of host intestinal epithelium has been not been given much attention.in addition to being directly affected by antibiotics intesti- nal function can also be altered by the changing microbiota of the gastrointestinal tract and carries out a number of functions in the host's immune system and epithelium development apart from offering protection against pathogens and nutrient extraction 4. several studies indicate that antibiotic treatment leads to substantial taxonomic changes in the composition and capabilities of gut microbiota 5 19 23 which contributes to alterations of host metabolic functions 5 7 28 32. in previous studies we examined the effects of low doses of in-feed antibiotics on the metabolic profiles of jejunum serum and urine metabolome in a piglet model and uncovered altered metabolic phenotypes 25. the mechanisms mediating these effects might be related to the modified function of the intes- tinal epithelium.in this study we performed denaturing gradient gel electro- phoresis dgge and real-time pcr analyses to characterize microbial communities in antibiotic-fed piglets and nonantibi- otic-fed controls.
+
+we identified differen- tial expression of genes and gene response pathways in the jejunum and ileum between antibiotic-fed piglets and controls.
+
+in the graph nodes represent genes colors indicate the jejunum specific blue ileum specific green and overlapping degs red and color depths rep- resents up- dark and downregulation light.
+
+specifically an average of 14892.2 and 14919.8 genes were expressed in the jejunum and ileum of pigs respectively.degs were screened with the noiseq package with fold change 2 and probability 0.75 as the filtering conditions.
+
+genes related to antigen and immune process including tap2 mmp1 and ifitm1-like were upregulated both in the jejunum as well as the ileum fig.
+
+noiseq analysis showed that there were 87 and 76 degs for jejunum control jej-c vs. jejunum antibiotic treatment jej-a and ileum control ile-c vs. ileum antibiotic treatment ile-a respectively fig.
+
+in total 47 go terms were altered significantly of which 10 were common to both jejunum and ileum 20 were specific to the jejunum and 17 were specific to the ileum fig.
+
+response to tumor cell and ph were enriched in both jejunum and ileum whereas response to hormone and platelet-derived growth factor were enriched only in the jejunum and response to external biotic stimulus and defense response were highly enriched in the ileum.
+

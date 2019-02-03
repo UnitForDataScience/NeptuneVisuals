@@ -1,0 +1,30 @@
+it has been argued that electronic health records ehrs provide a rapidly increasing source of data and hold promise as a tool for knowledge generation in healthcare krumholz 2014. however the emergence of big data such as ehrs and a range of mechanisms that enable data sharing are creating new challenges around data owner- ship privacy and confidentiality while promoting new re- search and commercial opportunities kostkova et al.
+
+we have outlined the cheo ibd centre research initiative to illustrate how patient- specific microbial data can contribute to therapeutic decisions and development of precision care for ibd.as with human genetic and human genomic data the inte- gration of patient-specific microbial data into clinical practice warrants careful consideration of data storage privacy and confidentiality.
+
+it sought to develop and evaluate tools and services that in- tegrate ehrs and other data sources to facilitate decision support for diagnosis identification of patients eligible for research and standardization of data elements.the use of big data in an lhs raises many important questions regarding their ethical management and use in healthcare.
+
+general practitioners were seen as being pulled in two contradicting directions with obligations to protect their patients' data under the data protection act while having to transfer data to hscic under the health and social care act.
+
+to date much discussion in this context has focused on the potential of human genomic data and not yet on human microbiome data.
+
+some of these questions include the challenges of data stewardship data governance transparency and ac- countability to patients providing practitioners other stake- holders and the public schilsky et al.
+
+big data usage also requires the development of advanced algorithms and new analytic tools and a careful balance of privacy and security issues with the value of data sharing.
+
+data and biosamples for research and sharing and enhance patient trust.effective patient engagement is particularly important for successful implementation of initiatives that involve the sharing of large amounts of patient data across multiple in- stitutions.
+
+a bbc poll of 860 adults esti- mated that over two-thirds could not recall receiving theleaflet vallance 2014.public outcry over the lack of clarity about data safety and patient privacy deepened with news that patient data had been sold to private organizations including insurance and drugcompanies presser et al.
+
+despite considerable excitement in both the scien- tific and public communities about the medical applications of human microbiome research most discussion regarding the integration of research and clinical care has focused on the potential of human genetic and human genomic data and not yet on human microbiome data.
+
+2013. at present it is uncertain whether an individual's microbial data can provide additional information that is personal and sensitive beyond genetic data.
+
+2013.if microbial data can be used with genetic and other types of information in ways that are personally revealing this suggests the need for careful consideration of how microbial data may be stored and integrated into clinical care as part of an lhs.
+
+2016. who owns the data open data for healthcare.
+
+we first review the key elements of lhss and discuss possibilities of big data and patient engagement.
+
+with rapid growth in human microbiome research patient- specific microbial data will begin to contribute in important ways to precision medicine.
+

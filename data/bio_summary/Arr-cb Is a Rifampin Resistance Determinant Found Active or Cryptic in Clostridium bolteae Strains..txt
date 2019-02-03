@@ -1,0 +1,30 @@
+mechanisms of resistancearr-cb is a rifampin resistance determinant found active or cryptic in clostridium bolteae strainsjean-christophe marvaud thierry lambertea 4043 unite bacteries pathogenes et sante ubaps universite paris-sud universite paris-saclay chatenay- malabry franceabstract clostridium bolteae which belongs to the clostridium clostridioforme com- plex is a member of the human gut microbiota.
+
+the most common mechanism of rifampin resistance is a nucleotide mutation within the rpob gene which encodes the subunit of rna polymerase .
+
+the second arr-ms confers intrinsic resistance to rifam- pin on the opportunistic pathogen mycobacterium smegmatis  and the third arr-sc is from environmental streptomyces coelicolor .recent genomic comparison inside the clostridium clostridioforme group has re- vealed the presence of an arr-like determinant in clostridium bolteae .
+
+anaerobes of the gut microbiota represent a reservoir for antibiotic resistance determinants .
+
+c. bolteae 90a5 90a9 90b3 90b7 90b8 and atcc baa613 were very susceptible to rifampin mics 0.006 ugml meanwhile 90a7 was resistant mic 32 ugml .in silico analysis of rifampin resistance in c. bolteae.
+
+to rule out the possibility that the rifampin resistance of 90a7 resulted from a mutation of the target the rpob sequence was compared to that of the susceptible c. bolteae strains included in this study.
+
+a clustalw alignment of the deduced rpob sequences showed that the subunit of rna polymerase of the seven c. bolteae strains differed at most by three amino acid residues located outside the four clusters involved in rifampin resistance .
+
+involvement of this mutation in the rifampin resistance of 90a7 was unlikely since this position has never been reported to be involved in resistance.ncbi genbank analysis including other c. bolteae genomes such as that of cag59 strain wal-14578 indicated an arr gene as part of the core genome  whereas it was not found in other species.
+
+the arr-cb90a7 gene cloned into puc18 conferred rifampin resistance on e. coli .
+
+the lack of resistance in the hosts could be due to either an amino acid substitution leading to a nonfunctional protein or failure of transcription.
+
+the mutated gene was unable to confer rifampin resistance on e. coli  confirming that position 127 is crucial for that activity.
+
+this determinant borne by the core genome of c. bolteae was able to confer resistance however it was also found to be cryptic in certain members of the species because of either a gene mutation or a polymorphism in the regulatory region leading to transcription attenuation.
+
+the resulting 447-bp fragment was cloned into vector puc18 by placing the resistance gene under the control of the plac promoter.
+
+site-directed mutagenesis was performed to demonstrate in e. coli that the unique substitution change between arr-cb from 90a7 and that from 90b3 and 90a9 is crucial for resistance activity.
+
+.o'connor jr galang ma sambol sp hecht dw vedantam g gerding dn johnson s. 2008. rifampin and rifaximin resistance in clinical isolates of clostridium difficile.
+

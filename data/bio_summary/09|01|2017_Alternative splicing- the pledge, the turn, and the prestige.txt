@@ -1,0 +1,30 @@
+binding of specific splicing factors sf to intronic or exonic splicing enhancers ise and ese respectively promotes the inclusion of the alternative exon whereas binding of given splicing factors to intronic or exonic splicing silencers iss and ess respectively inhibits the splicing of the alternative exonfig.
+
+in fact aberrant splicing itself has been proposed as a novel hallmark of cancer ladomery .srsf1 splicing factor and its associated kinase srpk1 for instance have been implicated in the regulation of splicing events with prominent roles in several oncogenic signatures including the retention of intron 4 in the cyc- lin d1b splice variant that promotes cellular transformation olshavsky et al.
+
+tcga data were also used in systematic pan-cancer analyses revealing a pool of splicing events commonly altered across different cancer types and splicing factors whose expression strongly associates to cancer-specific splicing signatures such as that of rbfox2 qki ptbp1 mbnl12 and celf2sebestyen et al.
+
+.given the large amount of information that tcga and other sample collections provide involving several types of omics data and associated clinical features the chal- lenge now is integrating this knowledge to identify cancer- specific core regulatory mechanisms upstream of altered splicing networks and to characterise the functional signifi- cance and cause-effect relationship between cancer-specific changes in as and oncogenesis.splicing therapythe previous sections of this review describe how misregu- lation of as namely through perturbation of trans-acting factors that can trigger widespread splicing defects and or disruptions in cis that can alter splice sites and other splicing sequence regulatory elements can have an impact in human health garcia-blanco et al.
+
+doi 10.1007s00439-017-1790-yalternative splicing the pledge the turn and the prestigethe key role of alternative splicing in human biological systemsm.
+
+this testis-specific signature was observed in human chimpanzee and mouse and includes the organ-specific expression of several splicing regulators such as sf3a2 srpk1 srpk2 as well as core snrnp components.however a considerable number of splicing events in human testis are not conserved in other closely related organisms and many of them account for non-functional protein products by introducing premature stop codons in transcripts' sequences.
+
+based on these observations it has been proposed that part of the testis-specific splicing may represent background noise induced by high levels of cell proliferation decrease of quality control or unspecific fluc- tuations in the expression of splicing regulators elliott and grellscheid .
+
+could bind to fgfr splice variants in the sperm acrosome to reg- ulate fertilisation-related events.a recent rna-seq study evidenced a prominent repro- gramming of the splicing environment during male meiosis in mice identifying more than a hundred splicing switches including skipping of exon 2 in the odf2cenexin tran- script and mutually exclusive exons in the ate1 gene schmid et al.
+
+further studies are required not only to validate in humans the abundant evidence for as modula- tion observed during mouse spermatogenesis but also tocomprehensively characterise the global splicing regulatory mechanisms governing human germ cell differentiation and reproduction.alternative splicing in muscular tissuesthe functional unit of myofibrils in striated muscular tis- sues is the sarcomere fig.
+
+bottom gradient panel shows the upregulation of the non-germ cell-specific splicing factors spf27 rbm5 ptbp2 tra2b celf1 and celf2 and the germ cell-spe- cific splicing factors sam68 t-star hnrnpgt and rbmy.
+
+some of the alterations in the splicing programme in dm1 are related to its symptoms such as the aberrant splicing of the skeletal muscle-specific chloride channel 1 clcn1 containing a premature stop codon that leads to its downregulation in association to myotonia or the increase of skipping of exon 11 of insulin receptor 1 ir1 leading to insulin resistance savkur et al.
+
+the expression of rbm24 regulated muscle- specific as by binding to an intronic splicing enhancer in the vicinity of target muscle-specific exons overcoming their repression by other splicing factors.
+
+hur a splicing factor encoded by elavl1 has also been shown to play a role in the splicing of several hundreds of tran- scripts mainly those involved in glycolysis the citric acid tca cycle and oxidative phosphorylation all pathways upregulated following b-cell activation demicco et al.
+
+disruption of this regulatory layer by snps can lead to diseases particularly to autoimmunity which underscores the importance of unveiling new mecha- nisms and alterations to splicing regulation in the context of the immune system.alternative splicing and transcriptomic crosstalk with human microbiotainfectious diseases are one of the main causes of mortality worldwide and the problem increases with the development of drug-resistant pathogens.
+
+one of these protein effectors is ipah9.8 shown to translocate into and accumulate within the nucleus where it disrupts splicing activity upon binding to the u2af35 splicing factor and reduces the expression of chemokines and cytokines involved in neutrophil recruit- ment and proinflammatory responses okuda et al.
+

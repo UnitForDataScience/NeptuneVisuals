@@ -1,0 +1,30 @@
+2016. additionally as described in the community anal- ysis section some b-proteobacteria were found to per- sist during pure acetic acid experiments and thus could be diverting a small portion of acetic acid during open- circuit stimulus.considering the acetic acid production rate of8.6 mg h-1 during open-circuit conditions compared with the acetic acid removal rate of 58.7 mg h-1 achieved using 0.5 g cod l-1 of pure acetic acid additional file1 table s3 it is clear that the exoelectrogenic microbial subpopulation is capable of converting acetic acid at higher rates than it is being produced from boap.
+
+1. a hydrogen productivity and current density for batch experiments with boap and acetic acid aa as the substrate during first 24 h.b efficiency during batch experiments with boap and acetic acid as substrate during first 24 h.three-fold higher with 0.5 g cod l-1 boap compared with 0.1 g cod l-1 acetic acid additional file 1 table s2.
+
+lastly microbial community characterization was conducted to gain insights into the relative changes in fermentative methanogenic and exoelectrogenic popula- tions during these experiments to understand biocom- plexity.results and discussionh2 production from boap versus acetic acid in meccurrent and hydrogen production from two different sub- strates boap and acetic acid was investigated tounderstand the transformation of boap in a bioanode.
+
+continued efforts in these areas can lead to the development of an optimal microbial community manage- ment strategy for developing stable and high-performing electroactive biofilms while contributing to overall strate- gies for engineering microbial communities for additional industrial applications.conclusionsrenewable h2 production from biomass-derived streams is approaching targets for practical application utilizing bioelectrochemical systems that leverage the emergent capabilities of microbial communities.
+
+the follow- ing coupled investigations were conducted to parse the effects of the interacting parametersconversion of boap under poised conditionsconversion of acetic acid under poised conditionsconversion of boap under open-circuit conditions to assess fermentative conversion while restricting exo- electrogenesisthe underlying hypothesis we investigate is that the formation of acetic acid from the complex boap sub- strate is rate limiting.
+
+approximately 43.20 of the elec- tron equivalents present in the substrate were converted to acetic acid during the first two hours of open-circuit stimulus which increased to 68.3 by the end of 4 h. these results demonstrate that acetic acid is the major collective fermentation end-product from the communityfig.
+
+additionally their concentra- tion was an order of magnitude lower than acetic acid indicating that acetic acid was the dominant branching point to exoelectrogenesis.
+
+with boap as the substrate the methanogenic euryarchaeota increased from 2.2 to 17.2 while their population decreased from 13.1 to 1.8 with acetic acid as the substrate.two inferences can be derived from these results.first batch additions of acetic acid as well as boap provide a large amount of acetate which is preferred by geobacter for growth and exoelectrogenesis thustable 1. removal rates of individual compound in mg h-1 during batch experiment with boap as the substrate during 2 h blocks of time for the first 10 h followed by the following 14 h block.time24681024levoglucosan16.590.597.830.592.360.040.040.180.010.240.080.06acetic acid6.554.366.482.119.620.858.381.063.661.050.240.03propionic acid2.830.81.070.632.970.141.301.371.450.880.470.03hmf0.550.440.050.390.170.280.140.030.170.150.080.0325h-furanone0.390.10.020.020.000.000.000.00catechol0.070.070.030.010.030.020.020.010.010.030.020.02furfural1.350.230.190.010.000.000.000.00phenol0.010.130.040.040.010.040.010.060.000.040.01cod32.4333.0143.4310.42na3.19fig.
+
+an experiment conducted after acetic acid run using boap as the substrate showed similar hydro- gen productivity as that prior to the use of acetic acid as substrate in the mecadditional file fig.
+
+the comparative studies with boap and acetic acid show that the micro- bial groups were established and enriched in the anode to collectively participate in a fermentative chain that is capable of oxidizing the complex carbon compounds within boap progressively to acetic acid.
+
+2011. this pathway generates acetic acid and thus the con- version of levoglucosan to acetic acid can occur in a sin- gle organism.
+
+additionally a concentra- tion of 0.1 g cod l-1 was also used for acetic acid as this approximately corresponds to the amount of acetic acid present at time zero in 0.5 g cod l-1 boap.
+
+additionally the anode reservoir ph was adjusted at this time from 6.6 to 7.0. boap conversion was slower compared with acetic acid so experimental run times were extended for boap experiments to 72 h while acetic acid experiments at a concentration of 0.1 and 0.5 g l-1 were run for 6 and 24 h respectively.
+
+second the observation that 0.5 g cod l-1 boap could produce three-fold more h2 compared with 0.1 g cod l-1 acetic acid at high anode efficiency indicates that the microbial community is capable of breaking down boap into inter- mediates which serve as substrates for exoelectrogens.
+
+the enriched microbial commu- nity demonstrated efficient and simultaneous conversion of a wide range of compounds through synergistic divi- sion of labour strategy and multisubstrate syntrophy demonstrated by open-circuit stimulus-response effec- tively directing the biomass electrons to intermediates such as acetic acid at an efficiency of 68.3. however the rate of fermentation and production of intermediates which could serve as substrates for exoelectrogenesis limited the system productivity.
+

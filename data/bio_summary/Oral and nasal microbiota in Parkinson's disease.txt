@@ -1,0 +1,30 @@
+methods we compared the oral and nasal bacterial communities of pd patients oral n 14 72 nasal n 14 69 and control subjects oral n 14 76 nasal n 14 67 using a 16s rrna gene amplicon sequencing approach.results oral and nasal microbiota differed markedly from each other with no notable similarity within subjects.
+
+additionally we excluded subjects with any known active chronic disease of the nasal or oral cavity nasal sinuses salivary glands or pharynx with the exception of mild allergic or nonspecific rhinitis.
+
+for nasal samples single use sterile nasal specula were used for insertion of the swab to avoid contact with the nares.
+
+the swab was inserted into the nasal passage between the septum and middle turbinate aiming towards the upper part of the nasal cavity.
+
+full methodological details are provided in the supplement.due to technical reasons the numbers of subjects included in the final oral and nasal sample sets differed the oral data set consisted of 72 pd patients and 76 control subjects while the nasal data set had 69 pd patients and 67 control subjects.
+
+oral and nasal samples from the same individual did not appear more similar than those of unrelated subjects wilcoxon rank sum test p 0.88 for dissimilarity of oral and nasal microbiota in related vs. unrelated pairs of samples fig.
+
+eoral and nasal microbiota in parkinson's diseasepedro a.b.
+
+in this study our objective was to explore a possible connection between nasal and oral microbiota and pd.
+
+our data did not reveal convincing differences be- tween the nasal microbiota of control subjects and pd patients.conclusion the oral microbiome deserves additional research regarding its connection to pd and its biomarker potential.
+
+based on our promising findings regarding gut microbiota in pd and the strong involvement of olfactory and perioral tissues in early pd we carried out a corresponding analysis on nasal and oral samples from 1353-8020c 2017 elsevier ltd. all rights reserved.subjects who had been included in our gut microbiome study.materials and methodsthe study was approved by the ethics committee of the hospital district of helsinki and uusimaa and all participants gave informed consent.
+
+periodontal disease or dental caries were not excluded and patients did not undergo a systematic clinical assessment of the nasal and oral cavity or dental status.
+
+we excluded patients with a history of major ear nose or throat ent surgery with the following exceptions enrolment was allowed 6 months after antrostomia septal surgery or surgery for obstructive sleep apnea and those that reported one or more of the following in the preceding 2 months inflammation of oral or perioral tissues a major dental procedure more than twice-weekly use of gluco- corticoids nasal inhaled oral or parenteral or intranasal anti- congestive drugs.
+
+the total amount of raw reads for the oral data set was 21 645 150 and for the nasal data set 8 638 162. raw sequence data have been uploaded to the european nucleotide archive accession no.
+
+oligotyping of nasal staphylococcus sequences was done using the oligotyping pipeline as instructed by the authors .
+
+a history of cholecys- tectomy was more common in the pd group and this difference was statistically significant in the nasal data set p 0.017 but not in the larger oral dataset p 0.073. all but two pd patients were using antiparkinsonian medications.
+

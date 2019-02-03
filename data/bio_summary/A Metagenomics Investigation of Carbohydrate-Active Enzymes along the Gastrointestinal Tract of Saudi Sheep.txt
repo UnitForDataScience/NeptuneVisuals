@@ -1,0 +1,30 @@
+overall the bacterial communities were mostly dominated by firmicutes 42.5 of the total sequences and 72 of different otus followed by bacteroidetes 21.5 sequences and 13.9 otus proteobacteria 11.5 of total sequences and 2.6 of otus candidate division tm7 7.7 of sequences and 3.4 of otus actinobacteria 2.5 of total sequences and 2.8 of otus and planctomycetes 6 of sequences and 1.5 of otus.
+
+the size of the circles is proportional to the  of sequences and the color represents the number of unique otus for each given taxonomic group and sample.supplementary figure 3  hierarchical clustering of samples based on beta diversity.supplementary figure 4  scatterplot of shannon's diversity index h and fisher's alpha diversity index for all samples.supplementary table 1  dna concentration for each extracted subsite.supplementary table 2  sequencing and assembly statistics for metagenomics data obtained with each sample.supplementary table 3  abundance number of 16s rrna sequences and diversity number of unique otus across the three sheep and the various intestinal subsites at the genus level.supplementary table 4  abundance number of 16s rrna sequences and diversity number of unique otus across the three sheep and the various intestinal subsites at the phylum level.supplementary table 5  number of cazymes detected by family for each animal and each subsite.referencesangelakis e. armougom f. carriere f. bachar d. laugier r. lagier j. c. et al.
+
+supplementary table 2 reports the sequencing and assembly statistics for each sample.carbohydrate-active enzymes analysis from metagenomics datathe detection of the assembled dna sequences that encode carbohydrate-active enzymes was done using fasty pearson et al.
+
+1997 against a custom sequence library made of the catalytic domains of 150000 sequences of glycoside hydrolase gh polysaccharide lyase pl glycosyl transferases gt carbohydrate esterases ce auxiliary activity aa and of their associated carbohydrate-binding modules cbms derived from the carbohydrate-active enzymes database  lombard et al.
+
+in consequence we argue that ruminant feces which are often analyzed for the search of microbial genes involved in plant cell wall degradation are probably a poor proxy for the lignocellulolytic potential of the host.keywords sheep intestinal microbiota taxonomic diversity carbohydrate-active enzymes cazymes shotgun metagenomics small intestine large intestine rectumintroductionthe digestive tract of humans and animals is home to a diverse ecosystem of trillions of microbial cells qin et al.
+
+2010 costello et al.
+
+encoded by the host genome digestive capabilities of mammals is extremely reduced and is essentially limited to starch sucrose and lactose cantarel et al.
+
+2012 el kaoutari et al.
+
+the digestive microbiota of other mammals has also been studied extensively essentially by sampling feces and subjecting them to an analysis of the taxonomical diversity via 16s rna sequencing ley et al.
+
+2008. in comparison fewer studies have attempted to address the question of the functional digestive potential although muegge et al.
+
+the major drivers of these taxonomical and functional shifts correspond to the digestive tract itself multichamber foregut vs. hindgut fermenters and to the actual food composition sanders et al.
+
+this digestion of plant derived complex carbohydrates is notoriously difficult because of the recalcitrant nature of most plant carbohydrates that have evolved to be resistant to enzymatic digestion mba medie et al.
+
+2012 and because the variety of bonds to cleave is such that no single genome can encode the corresponding variety enzymes necessary to break plant polysaccharides to fermentable sugars el kaoutari et al.
+
+like all sheep these animals have a typical ruminant gastrointestinal tract git including four fermentation chambers composed of the rumen the reticulum the omasum and the abomasum followed by a small intestine and a large intestine figure 1. it is widely accepted that the breakdown and fermentation of roughage is performed in the first four fermentation chambers herrero et al.
+
+2013 morgavi et al.
+

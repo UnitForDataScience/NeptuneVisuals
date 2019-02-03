@@ -1,0 +1,30 @@
+notably while confirming the relationship between bacterial community composition and soil ph and cn wetable 1 groups of representative explanatory variables used to explain sources of variation in bacterial community composition and the relative abundances of selected bacterial taxaaspacenztm easting and nztm northingclimateannual rainfallb solar radiation january maximum temp july minimum temp elevationbsoilph total carbonb anaerobic mineralizable nitrogen amn cn olsen phosphorus olsen pb no3-n nh4-nc bulk density macroporosity aluminum bariumb chromiumb copperb magnesiumb rubidiumb strontiumb slopecasee table s3 in the supplemental material for correlating explanatory variables.bvariable was log transformed before being used in analyses to reduce skewedness.cvariable was log transformed after all values were increased by a value of 1 to remove null values which cannot be log transformed.also uncovered important relationships between the bacterial communities and olsenp.
+
+second which environmental variables correlate with changes in bacterial community composition while we expect to find consistent with other studies that ph has a dominant effect on bacterial communities we also anticipate that we will be able to uncover important relationships between bacterial community structure and other soil variables that are indicators of soil condition.
+
+furthermore it also suggests that bacterial communities may respond in a somewhat predictable manner to environmental variation brought about by land use change and management indicating that bacterial community data may indeed be a useful tool for assessing the status of the soil at least within the area from which our samples were collected.consistent with what has been previously reported ph explained the greatest portion of variability in bacterial community composition in our study.
+
+if shown to be reliable microbial community indicators could offer significant advantages over traditional chemical and biological measures in terms of the relative speed and ease of data analysis and of the minimization of site disturbance during sample collection .for bacterial community attributes to be a viable indicator of soil condition it is desirable that natural spatial variations in bacterial community composition be less than the variation caused by anthropogenic factors.
+
+this would be the first step toward supporting the broad-scale use of bacterial data as a viable indicator of soil health.in support of their ability to indicate the condition of the soil environment previous biogeographic studies have identified several variables that correlate with changes in soil bacterial community composition.
+
+the pairing of large-scale surveys of soil bacterial communities to data gathered through long-term soil monitoring programs    provides opportunities to uncover and quantify the strength of relationships between bacterial communities and a much wider range of soil physicochemical variables than had previously been achieved.
+
+this would then define which chemical and physical stresses on the soil environment are reliably portrayed by bacterial communities.to date many studies have assessed changes in bacterial communities only as a whole rather than assessing the responses of individual taxa  .
+
+the absence of studies assessing the responses of important taxa on an individual basis hinders not only our ability to expand our knowledge of the ecological attributes ofthese important community members but also our ability to truly assess the potential of bacterial taxa to serve as biological indicators of ecosystem health.by pairing bacterial community data and extensive metadata gathered from 110 sites we asked three main questions.
+
+first is variation in bacterial communities more strongly related to environmental changes or to the geographic distance separating the communities we predict that soil bacterial communities would be more strongly correlated with soil environmental factors rather than with purely spatial factors.
+
+these otus represented 56 bacterial phyla 613 families and 987 genera.relationships among spatial variables soil factors and bacterial community composition at the regional scale.
+
+a significant relationship between bacterial community dissimilarity and changes in climate was observed only for dairy and dry stock sites indicating that overall this was not an important variable affecting the bacterial communities at the scale of our sample collection.
+
+r  -0.45 and -0.37 and p  0.007 and 0.02 for samples taken from horticultural and dairy land uses respectively.discussionour study which combined comprehensive bacterial community data with detailed site metadata was able to identify key relationships of bacterial communities or individual taxa with their environment.
+
+another previously reported trend that we ob- served for our samples was the relationship between bacterial communities and the ratio of carbon to nitrogen in the soil   .however as predicted we were able to uncover relationships between the com- position of bacterial communities and important soil variables less frequently included in investigations of soil microbial biogeography.
+
+regardless members of the family chitinophagaceae appear to be good candidates as indicators of environmental perturbations and to provide proof of concept for the use of bacterial taxa as indicators of soil status.overall our results indicate that bacterial communities and specific taxa are indeed capable of reflecting the changes occurring in a soil environment due to anthropogenic activity.
+
+although the success of such models is promising it remains to be seen if they can be applied to detect subtler changes induced by land use management which would likely result in weaker and less-specific selective forces acting on the bacterial com- munities.to conclude our study showed that changes in the soil environment largely brought about by anthropogenic activity correlate more strongly with changes in bacterial community composition than with spatial factors.
+

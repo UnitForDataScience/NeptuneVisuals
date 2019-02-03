@@ -1,0 +1,30 @@
+after normalization the sequence reads of all three groups figs and  are mostly proteobacteria 43 genera actinobacteria 18 genera and bacteroidetes 4 genera and the remaining 4 phyla each contain a single genus and firmicutes has no genus assigned to.at the species level the 69 genera of the core tick bacterial flora have 1219 species for wild 1307 species for r1 and 74 species for r8 of which 70 species are shared by both wild and r1.
+
+based on high-coverage genomic sequences from three experimental groups-wild reared for a single generation or r1 and reared for eight generations or r8 -we identify the core bacterial flora of i. persulca- tus which contains 70 species that belong to 69 genera of 8 phyla such a core is from the r8 group which is reduced from 4625 species belonging to 1153 genera of 29 phyla in the wild group.
+
+for example wild has 38 species of rickettsia genus r1 has 22 and r8 has 7 the 7 species of r8 are all shared by the rest 2 groups.discussionas a predominant hard tick species in europe central and northern asia china and japan i. persulcatus has been studied by using metagenomics  .
+
+we also attempt to define the bacterial flora initially and to narrow the scope of the taxonomic diversity of the i. persulcatus core bacterial flora.phylogenetic tree of the shared phyla and genera by the three groups.study to the core bacterial flora due to poor annotations of the eukaryotic components such as unknow fungi and molds.
+
+at the phylum level the annotated read distribution is 29 for wild 31 for r1 and 8 for r8 where all 8 phyla in r8 are shared by the rest representing candi- dates for the core bacterial flora.
+
+however it still remains unknown that how tick-borne metagenomes vary among hosts and under pathogen-free rearing conditions espe- cially in the definition of species-associated core microbialbacterial flora     .to explore such core symbiotic bacterial flora of i. persulcatus we start from wild i. persul- catus rear the tick in specific pathogen-free spf mice in a sterile environment and examine its flora over multiple generations.
+
+we notice that the number of species is almost equal to that of the genera as the tick core bacterial flora and such a phenomenon is rather common due to relative less certainty at the species level.
+
+in this study we focus our attention on the bacterial heatmap of the shared phyla a and genera b of the three groups to highlight the abundance of taxonomic classes.communities and their diversity shift between wild ticks and those reared under spf environ- ment over multiple generations.in our study concerning methodology we took one of the two popular approaches genome-wide sequencing approach rather than transcriptomes sequencing and hope to pro- vide an initial definition of the tick core bacterial flora.
+
+the unique genera identified among the groups indicates the same result 128 for wild 168 for r1 and 69 for r8.the bacterial core flora of i. persulcatus.
+
+our study provides a novel example of tick core bacterial flora acquired based on wild-to-reared comparison which paves a way for future research on tick metagenomics and tick-borne disease pandemics.introductionthe tick ixodes persulcatus is a predominant hard tick species found in europe central and northern asia china and japan.
+
+third we have identified a tentative species-associated core bacterial flora that is com- posed of 69 genera and 70 species.
+
+we annotate 80.39 89.96 and 26.31 of all assigned bacterial reads of the groups wild r1 and r8 respectively at the kingdom level .
+
+high-throughput sequencing technology has led to the idea and technology of metagenomics and based on whole genome and 16s rrna sequencing ample metagenomic data have been put forward for many symbiont bacterial species - includ- ing those of the tick  and its variability in life cycle  some studies have focused on metagenomic changes among different tick species  between the two sexes   geog- raphies   and before-and-after meal .
+
+research articleon the core bacterial flora of ixodes persulcatus taiga tickshuo sui12 yu yang3 yi sun4 xumin wang12 guoliang wang1 guangle shan1 jiancheng wang3 jun yu121 cas key laboratory of genome sciences and information beijing institute of genomics chinese academy of sciences beijing china 2 university of chinese academy of sciences beijing china3 chinese academy of inspection and quarantine beijing china 4 beijing institute of microbiology and epidemiology beijing china these authors contributed equally to this work.
+
+2017 on the core bacterial flora of ixodes persulcatus taiga tick.
+

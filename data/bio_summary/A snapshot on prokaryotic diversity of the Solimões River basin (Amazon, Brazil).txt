@@ -1,0 +1,30 @@
+were 9u jx669902 - jx670045 8s jx670046 - jx670296 6s jx670297 - jx670460 3s jx670461 - jx670633 and 1s jx670634 - jx670812.for phylogeny inference we have used the following sequences as reference uncultureda snapshot on prokaryotic diversity of the solimoes river7freshwater ld12 bacterium z99997.1 candidatus pelagibacter ubique nr074224 candidatus planktophila limnetica fj428831 polynucleobacter acidiphobus nr125545 polynucleobacter necessarius subsp asymbioticus nr074689 polynucleobacter cosmopolitanus nr125487 polynucleobacter rarus nr125547 ilumatobacter fluminis nr041633 acinetobacter calcoaceticus nr117619 acinetobacter baumannii cp008706 acinetobacter junii nr117623 acinetobacter parvus ab859679.resultsthirteen libraries of the bacterial 16s rrna gene were built using sequences from 7 locations along the solimoes river the urucu river and the purus river and 6 lakes adjacent to the solimoes river details on sampling site in table 1. the libraries contained 288 sequenced clones for each sample.
+
+letters indicate the location of the sampling sites as follows s solimoes river sampling points l lake sampling points u urucu river p purus river lp lake poraque.d.
+
+the solimoes river sampling site 4s was located downstream the confluence with purus river figure 2 which might have exerted an additive effect on the main river microbial community.
+
+the site with higher microbial diversity was in the solimoes river 4s downstream the confluence with purus river.
+
+our results provide the first insight into the microbial diversity of the world's largest river basin.introductionkey words amazon freshwater clone libraries 16s rrna gene bacteria archaeathe solimoesamazon river forms a huge floodplain which extends for about 1700 km from its andean headwaters to reach the atlantic ocean.
+
+a metagenomic study carried out in one single sample of river water of the solimoes river revealed a large microbial diversity and a vast array of potential metabolisms ghai et al.
+
+2015 studied the microbial communities in the lower amazon river closer to the river mouth.
+
+considering our limited knowledge on the microbial diversity of this hydrographic basinthe aim of this study was to provide insights into the composition of the microbial community in the upper solimoes river and some of its tributaries purus and urucu rivers and adjacent lakes in order to elucidate which microorganisms inhabit the different types of aquatic environments of the river basin and how diversity varies among these environments rivers and lakes.material and methodssampling and limnological parameterssampling took place in september 2008 in the upper solimoes urucu and purus rivers and some adjacent lakes between the cities of manaus and coari in the amazon state of brazil figure 1 and table 1. water samples were collected at 50 of water column depth at each sample point which ranged from 1 to 17 m using a 10-l van dorn bottle.
+
+table 3. taxonomic composition of river samples using different approaches.number of clones for each genus present in river samples from the amazon region was identified by the eztaxondatabase and the mothur software.d.
+
+toyama et al.10 table 4. taxonomic composition of lake samples using different approaches.the number of clones for each genus present in lake samples from the amazon region was identified by the eztaxondatabase and the mothur software.in the phylum actinobacteria our analyses revealed the presence of candidate speciescandidatus planktophila limnetica in the amazon rivers and lake samples tables 3 and 4. methanotrophic bacteria were also observed in the amazon samples tables 3 and4 as well as the typically marine genus ilumatobacter figure 4 candidatus pelagibacter spp that were abundant in river samples figure 4 and some cyanobacterium clones mostly represented by cyanobium and synechococcus which were present in nearly all lake samples figures 3 and 4.the distribution of the different genera in river and lake samples is shown in figure4.
+
+the genera aquabacterium 95 and acinetobacter 78 were more abundant in river samples while the cyanobacteria from genera synechococcus 82 and cyanobium 98 were more abundant in the lake samples.the data presented in figure 5 reveal the relationship of the representative clones from the 16s rrna libraries from amazon rivers and lakes with the species candidatus pelagibacter ubique putative ld12 sequence and ilumatobacter fluminis.we also found members of archaea in the solimoes river i.e.
+
+samples from the lake anana 5l and solimoes river 4s after the confluence with purus river had the highest diversity measured as alpha diversity indexes.
+
+diversidade e potencial de controle biologico de bacterias endofiticas e rizosfericas associadas ao sisal agave sisalana perrine a snapshot on prokaryotic diversity of the solimoes river basin amazon brazild.
+
+however there is a lack of studies on aquatic microbial biodiversity in the solimoes river one of its main water courses.
+
+to investigate the microbial biodiversity of this region we performed 16s rrna gene clone libraries from solimoes river and adjacent rivers and lakes.
+

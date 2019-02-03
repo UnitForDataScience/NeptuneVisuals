@@ -1,0 +1,30 @@
+in this review we focus on the role of the fungal mycobiome in their interactions with the gut bacteria and their potential implications in the host figure .figure 1. the multifaceted factors influencing gut microbiome and mycobiome interaction.fungi that are found in the gi tractreports using next generation sequencing have found diverse fungal communities in all sections of the human gut consisting mainly of the phyla ascomycota basidiomycota and zygomycota -.
+
+found altered bacterial and fungal microbiota--less operational taxonomic units otus less firmicutes more proteobacteria and larger fungal load in cd patients compared to healthy subjects.
+
+b-glucan a major component of the fungal cell wall decreased fecal e. coli counts in animals  suggesting the metabolism of the fungal cell wall in the gut might influence the growth of e. coli and other bacteria.
+
+dectin-1 is one such prr classified as a c-type lectin receptor which recognizes the fungal polysaccharide b-13 glucan motif found on the fungal cell walls and mediates host immune response to these fungi reviewed in .
+
+reviewthe fungal mycobiome and its interaction with gut bacteria in the hostqi hui sam 1 matthew wook chang 23 and louis yi ann chai 14division of infectious diseases university medicine cluster national university health system singapore 119228 singapore department of biochemistry yong loo lin school of medicine national university of singapore14 medical drive singapore 117599 singapore nus synthetic biology for clinical and technological innovation syncti life sciences institute national university of singapore 28 medical drive singapore 117456 singaporeyong loo lin school of medicine national university of singapore nuhs tower block level 111e kent ridge road singapore 119228 singaporecorrespondence chailouishotmail.com tel.
+
+less however is understood of the silent population--the fungal species also known as the mycobiome.
+
+the fungal mycobiome studies therefore are important in characterizing these fungi and pave a way for the good fungi to be studied.
+
+the burden of fungal disease forms a substantial amount of the total infectious diseases spectrum.
+
+a large proportion consists of fungal infections in immunocompromised patients with an estimated mortality between 35 to 45 reviewed in .currently the gut microbiome has been linked to many gut-linked conditions such as inflammatory bowel disease ibd and obesity as well as many seemingly unrelated conditions such as maturation of the immune system and even cardiac size .
+
+using classical culture methods before the advent of sequencing fungal candida species was mostly isolated from human stool and colonic samples .
+
+one study found 16 fungal species in stool samples  with galactomyces geotrichum being the most prevalent.
+
+as seen above a large variety of fungi are found in the human gi tract and there is no consensus yet on the ideal fungal mycobiome--a subject which can be explored in future studies.there are two general habitats of colonization in the gi tract the luminalfecal contents and the mucosa .
+
+as most human gut micro- and mycobiome studies use the less-invasive way of taking fecal specimens they may not be fully representative of the gi flora and may contain many microbial organisms which are just passing through.to characterize the mycobiota by sequencing variable portions of the fungi genome are targeted which characterize the fungi to genus-level such as the 18s rdna or the fungal internal transcribed spacer its of the rrna locus reviewed in .
+
+problems do exist with assigning taxonomy to sequencing reads due to poor annotation of fungal database misspellings unfamiliarity with nomenclature incomplete representation etc.
+
+this gives us an insight into the inter-relations between the gut bacteria and fungi.anti-bacterials can work to promote or inhibit pathogenic fungal growth reviewed in .
+

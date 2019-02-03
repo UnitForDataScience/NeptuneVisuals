@@ -1,0 +1,30 @@
+the relative abundance of each gene in a simulated metagenome was defined as the relative abundance of the respective genome.to calculate gene abundances via direct mapping to the reference the simulated metage- nomic reads were mapped to the sequences of the target gene group using bowtie parameters-t -f -v 3 -k 1. the relative abundance of each gene in a simulated metagenome was defined as the total length of the mapped reads normalized by the gene length.we calculated correlations between the ground truth and each of our catalogue-based method and direct mapping method using the relative abundance data over a range of control parameter values including the percent identity threshold see .
+
+this discrepancy is likely linked to the fact that although uc is also an inflammatory bowel disease unlike cd it commonly affects certain parts of the intestinal tract is associated with a less extreme gut microbial phe- notype  and is subject to less frequent antibiotic treatment .profiling of the genes belonging to a recently discovered major gut bacteriophage crassphage showed that although this phage was present globally its abundance varied across populations worldwide with the highest levels in the usa and china.
+
+the ripp cluster abundance analysis was modified to make it similar to the original analysis as follows  non-biosynthetic genes were excluded a cluster was considered present in a metagenome if the total length of the mapped readswas 2 500 bp for at least 50 of its genes any cluster with coverage higher than 50000 bp was assigned the value of 50000 bp and the relative abundance of a cluster was calculated as an average abundance level of its genes.
+
+research articleabundance profiling of specific gene groups using precomputed gut metagenomes yields novel biological hypotheseskonstantin yarygin12 alexander tyakht12 andrey larin1 elena kostryukova12 sergei kolchenko23 vilgelm bitner23 dmitry alexeev121 federal research and clinical centre of physical-chemical medicine frcc cpm malaya pirogovskaya 1a moscow 119435 russia 2 moscow institute of physics and technology institutsky lane 9 dolgoprudny moscow region 141700 russia 3 hpc hub llc prospect mira 112 bld.12 moscow 129626 russia abstract the gut microbiota is essentially a multifunctional bioreactor within a human being.
+
+for example as a part of the metahit project metagenomic reads from 124 gut metagenomes were assembled de novo to obtain a representative 3.3 mln gut microbial gene catalogue  a useful reference for the analysis of new metagenomic datasets.
+
+gut microbes can transfer ar genes with the help of mobile genetic elements both within the gut and with microbes from other environments i.e.
+
+recent large-scale studies of world populations identified a rich coun- try-specific diversity of ar genes in gut metagenomes  .the list of the newly examined specific activities of the gut microbiota and the studies highlighting the genes responsible for these functions keeps growing.
+
+recently a dominating gut viral component crassphage was identified in gut metagenomes from multiple studies .
+
+2017 abundance profiling of specific gene groups using precomputed gut metagenomes yields novel biological hypotheses.
+
+our approach provides a computationally efficient and flexible method to estimate the facets of the functional potential of the human gut microbiota which is a biomedically important object.materials and methodsworkflow of the methodthe workflow of our method for calculating the relative abundance of user-defined gene groups in metagenomes contains two basic steps.
+
+firstly we calculate the abundance for each of the 3.3 mln genes represented in metahit gene catalogue  in each metagenome this step is performed only once the obtained data are then re-used for any user-defined gene group.next the correspondence between the sequences in gene catalogue and sequences of gene group of interest is determined.initially the reads of each metagenome are aligned against a non-redundant catalogue con- taining 3.3 mln sequences from gut microbial genes.
+
+additionally analysis of the crassphage presence was performed for 3 new metagenomes from the russian population obtained using alternative sample preparation protocols see alternative sample preparation protocols.to demonstrate the applicability of our method we estimate the relative abundance of genes in five following clinically relevant groupsgenes encoding determinants of antibiotic resistancegenes of phage terminases used as marker genes for phage detection in gut microbiotacrassphage genesripps biosynthesis gene clustersgenes encoding starch-degrading cazymes.antibiotic resistance gene sequences were taken from the ardb database .
+
+fig 3 and s2 fig was plotted using beeswarm r package .results and discussionwe developed a pipeline to assess the relative abundance of a user-defined group of genes in human gut metagenomes.
+
+briefly the approach consists of finding genes similar to the targeted group in a global gut microbial gene catalogue and extracting the abundance values for the detected matching genes basing on a precomputed mapping of metagenomic datasets on the global catalogue see .
+
+the relative abundance distributions for 341 ref- erence bacterial genomes  were estimated from a published dataset of real gut meta- genomes from the chinese population .
+

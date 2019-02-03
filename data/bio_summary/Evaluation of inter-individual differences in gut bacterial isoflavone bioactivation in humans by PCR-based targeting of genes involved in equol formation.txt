@@ -1,0 +1,30 @@
+braune and m. blautdepartment of gastrointestinal microbiology german institute of human nutrition potsdam-rehbruecke nuthetal germanykeywordsdaidzein dihydrodaidzein reductase equol human intestinal microbiota isoflavone tetrahydrodaidzein reductase.correspondenceannett braune department of gastrointestinal microbiology german institute of human nutrition potsdam- rehbruecke arthur-scheunert-allee 114-116 d-14558 nuthetal germany.e-mail 20171357 received 13 july 2017 revised 26september 2017 and accepted 17 october2017doi10.1111jam.13616abstractaim to identify human subjects harbouring intestinal bacteria that bioactivate daidzein to equol using a targeted pcr-based approach.methods and results in a pilot study including 17 human subjects equol formation was determined in faecal slurries.
+
+formation of equol black bars and dihydrodaidzein grey bars from daidzein within a 24 h and b 48 h. formation of equol black bars and daidzein white bars from dihydrodaidzein within c 24 h and d 48 h. the sequence of donor appearance on the x axis is according to the amount of equol formed from daidzein by the corresponding faecal sample.
+
+2011. however equol formation is observed in only 25-60 of human subjects with a higher percentage in asian popu- lations setchell and clerici 2010. moreover the rates of bacterial equol formation andor absorption may vary considerably rowland et al.
+
+2006.resultsscreening of human faecal samples for equol formationfaecal samples of eight of the 17 subjects fs 3 fs 6 fs 8 fs 10 fs 11 fs 12 fs 15 fs 17 formed equol from daidzein with dihydrodaidzein as an intermediate fig.
+
+no pcr products were detected with genomic dna of closely related non equol-forming members of the coriobacteriaceae such as slackia exigua slackia faecicanis slackia heliotrinireducens eggerthella lenta dsm 2243 and e. lenta rk3.application of primers targeting dhdr and thdr genes in the microbiome of human faecal samples with varying equol-forming abilitygenomic dna was isolated from fs of the 17 human donors which had been tested for equol formation as described above.
+
+analysis of clone libraries revealed the amplification of sequences exclusively related to adlercreutzia equolifaciens in four of the subjects tested positive for equol formation whereas in three of the equol producers only sequences related to slackia isoflavoniconvertens were observed.
+
+2016 frankenfeld 2017. the definition of the equol producer phenotype is currently based on urinary or serum equol concentrations.
+
+while three fs fs 3 fs 6 fs 8 showed nearly complete conversion of daidzein to equol a very low equol concentration was detected only after 48 h of incu- bation in the faecal slurry from fs 11. all but one of the remaining microbiotas transformed daidzein to dihydro- daidzein at varying rates fig.
+
+amplicons were only sporadically observed in the nonequol producers.conclusion the majority of human subjects who produced equol were also detected with the developed pcr-based approach.significance and impact of the study the obtained results shed light on the distribution and the diversity of known equol-forming bacterial species in the study group and indicate the presence of as yet unknown equol-forming bacteria.introductionintestinal bacteria play a crucial role in the metabolism of dietary isoflavones which are suggested to protect against certain cancer types cardiovascular disease osteoporosis and menopausal symptoms ko 2014 messina 2016. thus the health-promoting effects of this class of flavo- noids have been attributed to derivatives produced by bacteria in the intestine duda-chodak et al.
+
+2008 2009.other bacteria isolated from human faeces catalyse only individual reactions strain tm-40 converts daidzein to dihydrodaidzein and strain julong 732 converts dihydro- daidzein to equol wang et al.
+
+2013.here we present a pilot study to evaluate the distribu- tion and diversity of genes encoding dhdr and thdr in the intestinal microbiomes of human subjects who var- ied in the ability of their faecal microbiota to convert daidzein to equol.
+
+certain human faecal bacteria only catalyse single steps in this pathway such as the conversion of daidzein to dihydrodaidzein or the conversion of dihydrodaidzein to equol wang et al.
+
+the amplicon sequence obtained for fs 13 was most similar to the thdr gene segment of a. equo- lifaciens 96 identity whereas its identity to the thdr gene segment of e. mucosicola was somewhat lower 93.discussionhuman subjects vary largely in the ability of their intesti- nal microbiomes to bioactivate the isoflavone daidzein via dihydrodadzein to equol setchell and clerici 2010. to determine the bacteria-mediated equol-forming status of the human host a pcr-based approach targeting the encoding genes of isoflavone-converting enzymes would offer several advantages over the methods used so far.
+
+2014. the challenge of this approach is to develop appropriate degenerate pcr primers which essentially target all genes encoding a specific key enzyme in different bacterial species.although information about enzymes involved in the formation of equol by gut bacteria and their encoding genes is still limited in a first approach we detected genes related to this conversion in the complex human microbiome using pcr amplification with newly designed and validated primers.
+
+primer sets targeting the genes encoding dhdr and thdr were used for pcr on genomic template dna isolated from fs of 17 human donors varying in their ability to form equol.
+

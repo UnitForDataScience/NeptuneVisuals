@@ -1,0 +1,30 @@
+thl and thh where selected for each network so that only top 5 of the highest positive and lowest negative weights were kept for building the networks.networks represented by these adjacency matrix were transformed into the edge-list format a two column table of the connected nodes in a network were each row represents an edge and visualized in cytoscape shannon et al.
+
+supplementary figure 3 shows the pattern of changes induced by the diet in three components of the network microbiota  transcriptomics.the largest network in terms of nodes is the microbiota  transcriptomics network.
+
+this weight is represented by the matrix value mij.to further prune the network of possibly spurious interaction two additional thresholds thl  0 and thh  0 were imposed to obtain an unweighted adjacency matrix ax yof size nx x nyall significantly different data-points were used in the integration which was initially performed with two datasets at a time so that from the 5 datasets 10 integrated networks were generated.1 if mij  thh or mij  thl0 if mij  thl and mij  thh3the integration was performed using the function spls sparse partial least squares in regression mode with ncomp  5 from the r package mixomics le cao et al.
+
+we obtained values for the following topological properties of the merged network barabasi and oltvai 2004 csardi and nepusz 2006 zhu et al.
+
+there are several methods to choose a threshold based on the data use assigned p-values as threshold use network characteristics of the correlations or use a percentage of the correlation distribution.when evaluated by borate et al.
+
+2014. the observation that in our network these genes are shared between s24-7 and bifidobacteria underscores the here hypothesized importance of s24-7 and indicates that these two bacterial groups are indeed closely related in function as hypothesized before ormerod et al.
+
+we only work with the acyl-carnitine measurement in urine.data integration network generation and network assessmentwhere cor xi yj is pearson's correlation between elements i and j from datasets x and y respectively.
+
+network density ratio between the total number of existing edges and the total number of possible edges given the number of nodes in the network.
+
+connected components maximal subgraphs in a network such that each node is connected to all the rest by means of network paths.
+
+cytoscape was used for network visualization.literature miningto investigate the co-occurrence of the names of the connected nodes in the association network we used the r package rentrez winter 2016. this package searches for selected keywords in pubmed abstracts while making use of the mesh medical subject headings thesaurus to maximize results via the api from ncbi.
+
+furthermore all the measured variables in metabolomics urine were found to be significantly different in at least one comparison.pairwise data association and network generationwe performed the integration by linking two data-types at a time and in such a way that after the pairwise analysis all the observed association data could be combined to build a multi-level interaction network.
+
+in two of the networks metabolomics urine  microbiota and metabolomics urine  cytokine the smallest network the significance of the negative correlation values could not be established as we observed a considerable overlap between the negative correlation values of this network and the negative thresholds of the random networks.
+
+for five of the networks we observed a very clear separation of the random thresholds and the start of the correlation values in the network supplementary figure 4. the other networks showed slight overlaps between the random threshold distribution and the network correlation distribution.
+
+the first hub tnfa has the highest number of literature results among all the nodes in the network and the other hub glutathione has literature validations to the most number of data-types.tnfa is a connectivity hub in the merged network with links to several neighbors belonging to the four other types of data.
+
+these observations indicate that the presented merged network represents at least in part associations of biological phenomena.potential relevance of selected connectivity hubsthere are 30 connectivity hubs in the merged network that do not co-occur with their connected nodes in our literature search.
+

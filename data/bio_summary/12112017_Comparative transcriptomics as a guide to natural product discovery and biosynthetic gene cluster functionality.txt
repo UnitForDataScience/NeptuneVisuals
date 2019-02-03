@@ -1,0 +1,30 @@
+arenicola strains for which genome sequences are available while the 45 s. pacifica strains differed by up to 13. while it remains unknown if malt is associated with the lack of expres- sion in cnt-150 these results illustrate the challenges associ- ated with predicting which bgcs will be expressed under a given set of growth conditions.the final example of a shared but differentially expressed bgc is nrps4 which was expressed in s. arenicola ands.
+
+of the 23 shared bgcs identified in the four salinispora strains 13 were expressed in at least one of the strains and five of these 38 were differentially expressed among strains fig.
+
+the frequent detection of expressed bgcs early in the growth cycle supports the concept that the second- ary nature of these compounds should be reconsidered 63.a variety of tools are now available to identify bgcs from dna sequence data 4. the ability to group similar bgcs into gene cluster families 46 64 or operational biosynthetic units45 based on the prediction that they encode the biosynthesis of similar specialized metabolites is a challenging but critical aspect of assessing bgc diversity and distributions among sequenced genomes 10 or environments 65. here we show that bio- synthetic potential is more complicated than the simple presence or absence of a bgc as more than one-third 38 of the bgcs expressed in at least one strain were differentially expressed between strains.
+
+while this bgc was expressed in all four strains different portions of the bgc were expressed in different strains fig.
+
+while these interpretations remain speculative bgc inactivation has been reported in fungi 69 and warrants further consideration in the strains studied here.while many orphan bgcs were expressed the observationthat some are differentially expressed among strains helps ex- plain the historical importance of strain selection.
+
+the production of staur- osporine was previously recognized as a consistent phenotypic trait of s. arenicola 54 with the associated bgc sta fixed among globally distributed strains 45. staurosporine pro- duction has also been reported sporadically among s. pacifica strains 47. the transcriptome analyses revealed that the sta bgc was expressed in both s. arenicola strains while thes.
+
+2. twelve orphan bgcs were identified in this strain and five of these were expressed above the threshold accounting for 50 of the expressed bgcs table 1. in additiontable 1. summary of bgc expression datato the observation that most bgcs were not silent eight were expressed in exponential phase at levels that often exceeded those detected in the stationary phase.
+
+in ad- dition essential sporulation genes such as ssga 53 were highly expressed in s. tropica and s. pacifica but silent in both s. arenicola strains providing further support that these latter two strains were not sporulating and that the pks4a component of the bgc is critical for spore pigment biosynthesis.the fourth example of differential expression was observed in the sta bgc and provides a different paradigm in which it was not possible to infer meaningful correlations between bgc gene content and expression patterns.
+
+box colors white bgc not present gray bgc silent red bgc expressed red with diagonal lines bgc expressed and products detected.
+
+s2a and the latter based on a close match to published uv maxima 7. our inability to detect lomaiviticins or salinosporamides despite the high levels of bgc expression could be due to the inherent limitations associated with liquid chromatography lcms analyses.similar expression levels were observed for s. arenicola strain cns-205 with 13 of 26 bgcs expressed including seven of 19 orphan bgcs table 1. in this case the products of four ofthe five experimentally verified bgcs were detected when expressed above the threshold level fig.
+
+1 and 75 of all expressed bgcs were expressed across both growth phases fig.
+
+1. al- though there was no a priori mechanism to predict which version of a bgc would be expressed based on gene content alone a comparison of expressed and nonexpressed bgcs revealed subtle differences that provide important clues as to why some bgcs were silent.
+
+a comparison of the bgcs associ- ated with these two expression patterns revealed that the fully expressed bgcs maintain either one s. pacifica or two s. trop- ica luxr homologs while the partially expressed versions maintain only small genes encoding hypothetical proteins of unknownb dfig.
+
+strain cnt-150 possessed the largest proportion of expressed bgcs table 1 including two orphan bgcs nrps35 and pks30 that were unique to this strain and one stpks1 that was only expressed in this strain fig.
+
+our observation that most bgcs are not si- lent supports previous observations made with the myx- obacterium myxococcus xanthus using both global microarrays and proteomics 18 19. while the temporal relationships be- tween bgc expression and specialized metabolite assembly re- main largely unknown our detection of products in 12 of18 cases where experimentally characterized bgcs were expressed above the threshold level established for this study indicates a strong correlation between these processes.during bacterial cultivation it is generally accepted that most specialized metabolism is linked to nutrient limitation following the growth phase 27 61. here we show that 75 of the expressed bgcs were transcribed in both the exponential and stationary phases of growth.
+

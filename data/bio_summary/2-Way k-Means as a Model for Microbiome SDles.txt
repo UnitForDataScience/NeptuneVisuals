@@ -1,0 +1,30 @@
+aside from the top four otus separating the data into discrete clusters obscures how therest of the otus can be characterized.by using each data point's cluster-pair assignment we further separate the data into k2 - k clusters.
+
+after implementing the 2-way k-means algorithm we initialized with k-means k 5 and ran 2- way k-means for 5 rounds on the data.unfortunately the nonlinear arches between the clusters pushed the cluster representatives slightly outside the clus- ters.
+
+we find it illuminating to demonstrate the performance of 2-way k-means versus vanilla k-means on a cartoon example.in figure we simulated n  500 data points in r2 from three clusters with respective means m1  0 0  m2  1 1  and m3  2 0 and covariance matrices s 0 001i.
+
+we construct a model that generalizes k-means clustering by allowing data points to be assigned to a point in the space along the line between two assigned clusters each cluster is still modeled as a gaussian with uniform spherical covari- ances the key difference is the presence of a parameter u  0 1 for each 2-way-assigned data point xi which deter-mines the proportional assignment of xi between its twocluster representatives.
+
+data points are drawn into pairwise clusters byfigure 3 n  500 simulated data points after 10 rounds of 2-way k-means.
+
+we showed that while most of the sampleslie in six clusters four well-defined clusters and two sub- clusters.
+
+specifically xi n xi mijj' s such that mijj'  uimj  1 - ui mj' and s  rdxd is the given uniform spherical covariance matrix.the inference problem involves the inputs of data x andnumber of clusters k seeking output of the generative model parameters that is the vectors of assignments c  c1 ... cn and weights u  u1 ... un .generalized k-means.
+
+points are colored as a linear combination of the clusters they lie between according to u.figure 2 n  500 simulated data points after k-means.
+
+publicly available sequence data for the human microbiome project hmp study srp002462errufigure 6 error rates as a function of cluster variance s wheres  a 0 0 001  0 0 001 .described as metagenomic sequencing of 16s rdna from vaginal and related samples from clinical and twin subjects was downloaded from the ncbi sra database the downloaded sets of data correspond to two separate submis- sions sra169809 16081608 samples were downloaded and sra273234 34133 samples were downloaded for a total of 1642 samples.the sff files were processed and cleaned using the microbial community analysis software mothur based on a standard protocol developed for 454 sequence data processing and quality control the dissimilarities between the samples were calculated using the clayton-yue dissimilarity measure.
+
+the human micro- biome project and its derivatives such as the human vaginal microbiome project have collected and thus analyzed large numbers of samples towards elucidating the structure and composition of microbiota across physiological and pathological states.similar to variation in microbial genomes across different human individuals variants along the nuclear genomes have been summarized by a small number of dimensions how- ever in contrast to analyses of microbiome samples analyses of inherited genetic variation standardly assume and observe samples to be spread across a continuum in the reduced space rather than be clustered samples in between clusters are interpreted as originating from intermediate locales along ageographic cline or as representing different levels of a mixture between cluster-specific populations.in this paper we formally tackle the problem of cluster- ing while allowing elements to belong to two clusters.
+
+the cluster representatives are the larger blue points that are slightly outside the clusters compensating for the nonlinear arches between clusters.over k-means.
+
+an alternative explanation is that the averaged sample represents an intermediate potentially temporary state of the microbial composition between the more stable ones represented by the clusters themselves.technically we formalize this model as a generalization of k-means.
+
+using 2-way k-means we can tell that a large portion of the previously unclustered samples which lie in between two clusters contains shared properties.
+
+we increase the variance of the clusters while fixing cluster prior probabilities data points and cluster centers ratio of a means s  a 0 0 0001  0 0 001 .
+
+analogous to cluster separation as when a  100 the clusters are too close to distinguish.real data.
+

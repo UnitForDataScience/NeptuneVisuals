@@ -1,0 +1,30 @@
+email unknown why some individuals in tb endemic countries where mtb exposure is common never become mtb infected why most latently infected individuals never progress to active tb disease and what may account for treatment failure relapse and re-infection.one emerging factor that remains unstudied in the context of tb susceptibility and treatment is the intestinal microbiota.
+
+in its shortest format treatment of tb requires six months of multidrug therapy with a mixture of broad spectrum and mycobacterial specific antibiotics and treatment of multidrug resistant tb is longer.
+
+the microbiomic perturbation of tb therapy can persist for at least 1.2 years indicating that the effects of tb treatment are long lasting.
+
+these results demonstrate that tb treatment has dramatic effects onthe intestinal microbiome and highlight unexpected durable consequences of treatment for the world'smost common infection on human ecology.each year up to 3-4 of all deaths worldwide from any cause are attributable to infection with the bacterial pathogen mycobacterium tuberculosis mtb the causative agent of tuberculosis tb disease which amounts to almost 5000 tb-related deaths each day.
+
+we also assembled two control cohorts community members without tb infection igra- mtb uninfected and community members with latent tb ltbi igra see table .
+
+a nmds ordination of hrze treated subjects treatment purple or ltbi controls blue based on 16s rdna sequencing b family taxonomic distribution of the intestinal microbiota from subjects with ltbi and subjects with tb on treatment.c heatmap of the top 50 most abundant taxa generated with deseq2 showing unsupervised clustering of tb cases on treatment vs. ltbi controls.
+
+we conclude that tb treat- ment results in long term taxonomic metagenomic and biochemical consequences via perturbation of the intes- tinal microbiome.discussionwe present the first characterization of the short and long term effects of standard hrze tb antibiotic treat- ment on the intestinal microbiome.
+
+understanding the effects of this antibiotic regimen on microbiome ecology thus has impor- tant implications for those treated and cured of tb worldwide.our data indicates that the narrow spectrum of the tb treatment regimen is reflected in the preserved over- all diversity in hrze treated cases.
+
+these potential effects on immunity coupled with the well-documented variability in treatment response to tb may suggest that variability in microbiotic perturbation and peripheral immunity could affect the efficacy of tb treat- ment.
+
+the data presented here will now allow for testing of this hypothesis using prospectively collected cohorts of tb cases beginning treatment with the aim to correlate their microbiomic disruption with microbiologic and immunologic markers of treatment success.our findings are also corroborated by a recent studythat examined the effect of tb treatment in mice.
+
+multiple epidemiological studies have indicated that people cured of tb are at higher risk of a second case of tb due to reinfection .
+
+although multiple environmental and genetic factors likely contribute to this risk including hiv infection the findings in this study raise the possibility that the persistent microbiomic disruption that accompanies curative tb treatment could contribute to post-treatment susceptibility to reinfection perhaps not just with mtb but also with other diseases associated with an altered immune state.in summary we have shown that tb treatment with hrze in humans perturbs the intestinal microbiome in distinct and long lasting ways.
+
+this study should therefore stimulate additional investigations into the role of microbiomic disruption in response to tb therapy and post tb health.methodsstudy approval.
+
+all cases with active pulmonary tb receive periodic follow-up appointments while on treatment and anyone with known contact to an active tb patient receives a six-month follow-up and is re-screened for igra status.
+
+openreceived 4 may 2017accepted 8 august 2017 published xx xx xxxxantibiotic treatment for tuberculosis induces a profound dysbiosis of the microbiome that persists long after therapy is completedmatthew f. wipperman14 daniel w. fitzgerald35 marc antoine jean juste5 ying taur2 sivaranjani namasivayam6 alan sher6 james m. bean13 vanni bucci7  michael s. glickman123mycobacterium tuberculosis the cause of tuberculosis tb infects one third of the world's population and causes substantial mortality worldwide.
+

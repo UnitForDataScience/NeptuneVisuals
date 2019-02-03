@@ -1,0 +1,30 @@
+these data indicate that torc1 activity is decreased in worms fed heat-killed bacteria and that vb2 supplementation significantly recovers the activity.we obtained further evidence that torc1 acts downstream of vb2 by showing that torc1 acti-vation is sufficient to mimic the effect of vb2 in boosting intestinal protease activity and food usage.figure 4. torc1 mediates the impact of vb2 on the expression of digest enzymes and food usage.
+
+taken together these data support that worms down-regulate digestive enzymes in response to vb2 deficiency.proteases asp-13 and asp-14 and gata factor elt-2 play critical roles in vb2-promoted protease activity and food usabilityto identify the proteases regulated by vb2 we examined the mrna levels of 27 intestine-enriched protease genes .
+
+therefore lack of sufficient fad and fmn likely contributes to the low quality of heat-killed bacteria as a food source.to test if fad also mediates the vb2 impact on torc1 and protease production we showed that fad supplementation improved food uptake intestinal protease activity and elt-2 expression as vb2 does  .
+
+figure supplement 1. vb2 supplementation-induced increase in protease activity and growth rescue in worms fed hk-food depend on intestinal expression of asp-13 and asp-14.figure supplement 2. roles of protease asp-13 and asp-14 and gata factor elt-2 in vb2-induced food uptake and growth of worms fed heat-killed bacteria.vb2 on protease expression and food usability.
+
+to confirm this we measured the vb2 level in bacteria and found that vb2 level is low in heat-killed op50 .vitamin b2 promotes intestinal protease activityto understand how vb2 affects food uptake in worms we tested the role of the digestive system by feeding worms with hk-op50 culture pre-treated with exogenous digestive enzymes.
+
+we have established a system to analyze the intestinal response to vitamin b2 vb2 deficiency in caenorhabditis elegans and demonstrated that vb2 level critically impacts food uptake and foraging behavior by regulating specific protease gene expression and intestinal protease activity.
+
+the similarity of the data between flad-1 and rft-2 further supports that fad plays the key role in mediating vb2 effect on intestinal protease activity.figure 5. change in fad may mediate the effect of vb2 on food usage by worms fed heat-killed bacteria.
+
+these data strongly support a critical role of asp-13 and asp-14 in the vb2-induced increase in protease activity and uptake of heat-killed bacteria.to identify transcription factors that regulate the expression of intestinal protease genes in response to vb2 supplementation we combined rnai with the protease assay to screen 18 tran- scription factors previously shown to be enriched in the intestine   .
+
+figure supplement 2. lgg-1gfp as a marker for activity downstream of torc1 and the impact of food source on apical membrane polarity and vha-6 localization in the intestine of c. elegans.specifically we found that the nprl-3lf mutation significantly improved intestinal protease activity the expression of asp-13 and asp-14 larval growth measured by gonad length and dwelling behavior of worms fed hk-op50  however this rescue was not because vb2 level was recov- ered as vb2 level in nprl-3 lf mutants fed heat-killed food did not increase  .
+
+we found that pretreatment with rnai target- ing either daf-15raptor or ragc-1 encoding two key torc1 components    essentially eliminated the effect of vb2 supplemen- tation on protease activity  indicating that vb2 induction of protease activity is torc1 dependent.
+
+all data are representative of at least three independent experiments.the following source data and figure supplement are available for figure 1figure 1 continued on next pagefigure 1 continuedsource data 1. numerical data of and .
+
+all data are representative of at least three independent experiments.the following source data and figure supplements are available for figure 2source data 1. numerical data of and .
+
+all data are representative of at least three independent experiments.the following source data and figure supplements are available for figure 3source data 1. numerical data of and  .
+
+additional tests supported the hypothesis that down-regulating asp-13 and asp-14 by a low elt-2 level critically contributes to the poor food usage in worms fed hk-op50 .torc1 mediates vb2-dependent regulation of protease activities and worm growthdespite extensive studies on nutrient sensing by torc1 its role in food quality evaluation processes which include not only the detection of deficiency of a specific nutrient but also specific downstream physiological responses in live animals remain to be explored particularly for micronutrients such as vb2.
+
+all data are representative of at least three independent experiments.the following source data and figure supplements are available for figure 4source data 1. numerical data of and  .
+

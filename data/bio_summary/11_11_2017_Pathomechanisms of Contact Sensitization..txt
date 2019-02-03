@@ -1,0 +1,30 @@
+in their fluorescein isothiocyanate fitc chs model knock out of arcarg3.1 resulted in dc migration defects and abrogated mounting of t cell responses  further highlighting the role of dc migra- tion in acd.whether or not only dendritic cells need to take up the antigens get fully activated in the skin expressing co- stimulatory molecules on their surface together with the re- lease of pro-inflammatory cytokines and thus are responsible for the initial priming of naive t cells after egress from the skin to the draining local lymph node or if langerhans cells lc also play a potentiating and not just inhibitory role is currently under debate.while the role of dc activation and migration in acd seems quite clear understanding the role of lc in acd pa- thology has been complicated by contradicting early results using different models for lc depletion.
+
+this leads on the one hand to an enhanced accumulation ofcd8 t cells in the lns within 3 h after sensitization and on the other hand to an impaired egress of cd8 t cells due to an inhibition of cd62l a homing molecule mediating ln hom- ing shedding by the t cells in the ln that was attributed to an impaired adam17 activation by the lack of atp.
+
+langerhans cells protect from allergic contact dermatitis in mice by tolerizing cd8 t cells and activating foxp3 regulatory t cells.
+
+this observation was supported by a report showing upregulated gene expressions of 5- lipoxygenase and leukotriene a4 hydrolase two critical en- zymes for ltb4 synthesis blt1 and elevated ltb4 levels in skin lesions of oxazolone oxa-induced acd .interestingly in a repeated elicitation model of oxazolone acd selective deletion of e prostanoid receptor 4 ep4 one of the receptors for pge2 in t cells prevented hapten-induced il-22 production in vivo and thereby limited atopic-like skin inflammation in the oxazolone-induced acd model .a new therapeutic target has recently been described by ufer et al.
+
+201675265-75.oakes t popple al williams j et al.
+
+without the full activation of immature dendritic cells via danger signals and the re- spective pro-inflammatory milieu no activation and priming of naive t cells and thus no adaptive immune response occur .
+
+moreover the activation of neutrophils mast cells and nk cells by contact sensitizers directly contributes to the inflammation of the skin -.in contrast metal sensitizers such as nickel cobalt and palladium induce the initial pro-inflammatory milieu by direct binding to human but not mouse tlr4 -.
+
+as a t cell-mediated de- layed type type iv hypersensitivity reaction t cell epitopes need to be presented to t cells by professional antigen- presenting cells on major histocompatibility complexes mhc or cd1 molecules  .
+
+so far the role of cd1a which is highly abundant on human langerhans cells in the skin in inflammatory skin diseases remained unclear due to the lack of cd1a expression in murine cells.
+
+in addition evidence that cd1a expres- sion on langerhans cells is vital for efficient induction of urushiol-mediated chs responses driven by cd4 th17 cells leading to il-17 and il-22 expressions was provided using a novel transgenic mouse model .
+
+in this model the role of lcs seemed to be redundant  and the major cell type respon- sible for the reduction in chs responses was dermal langerin- expressing dcs .more recently the development of hudtr mice allowing the acute ablation of only epidermal lcs indicated that lcs indeed are responsible for the suppression of chs responses and that one mechanism might be the induction of anergy in sensitizer-specific effector t cells and the activation of cd4 foxp3 regulatory t cells and il-10 release  .
+
+specu- lated that in this setting lcs may function to limit cd49a nk cell priming as a mechanism to suppress inappropriate responses to benign stimuli.major executive cellular players in acd are cd8 tc1 tc17 cells - though cd4 cells th1th17 also seem to play a role   -.
+
+in addition to the conventional ab t cell subsets dermal gd t cells also play an important role in primary chs through their production of il-17 .recently it was shown for nickel acd that the development of cd4 th17 cells depends on tlr4 p38 mitogen-activated protein kinase nfkb and jak-stat activations and on il-23 production by dcs .
+
+under repeated elicitation the ear swelling response in tlr3 ko mice was reduced and the shift in the time course of the hypersen- sitivity response from a typical delayed-type response to an early-type response as observed in wt mice was delayed  indicating that other tlrs apart from the well-known tlr2 and tlr4 play a role in the severity of acd reactions.one important function downregulating the very early phases of sensitization is the degradation of extracellular atp by cd39 regulatory t cells treg cells .
+
+compensatory role of langerhans cells and langerin-positive dermal dendritic cells in the sensitization phase of murine contact hypersensitivity.
+

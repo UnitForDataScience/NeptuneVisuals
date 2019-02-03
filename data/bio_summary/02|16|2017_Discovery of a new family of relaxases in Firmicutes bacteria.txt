@@ -1,0 +1,30 @@
+in summary in silico analyses suggested that pls0cat gene 58 may encode a relaxase.pls20cat gene 58 is the prototype of a new family of genes whose orthologs are widespread in firmicutes bacteriaif pls20cat gene 58 indeed encodes for a relaxase then it could be the founding member of a novel relaxase family.
+
+these results showed that pls20cat gene 58 was required for conjugation as would be expected for a relaxase gene.the origin of transfer region of pls20cat oritls20 is located upstream of gene 56 and is intrinsically bentthe results presented above show that rells20 can function in trans.
+
+interestingly unlike many other conjugative plasmids the pls20 putative relaxase gene is not located adjacent to the gene predicted to encode t4cps  pls20cat gene 48.although the overall similarity is limited a stretch of 17 amino acids residues 147-163 of the deduced protein p58 sequence showed similarity to part of motifs iii present in many relaxases.
+
+strikingly all these genes are almost exclusively present in the phylum firmicutes.pls20cat gene 58 is essential for conjugationsince processing of dna to produce the t-dna strand that is transferred into the recipient cell is a vital step in the conjugation process it was expected that gene 58 would be essential for conjugation if it encoded the relaxase of pls20cat.
+
+in the case of pls20cat the orit and the relaxase are separated by a region of 865 bp containing two putative genes.the relaxase rells20the relaxase of pls20cat was not identified by performing standard blast searches.
+
+residues of the deduced pls20cat p58 sequence are highlighted against a light grey dark grey and black background when they are conserved with respect to the consensus sequence present in one two or three of the mob families respectively.doi10.1371journal.pgen.1006586.g001family of relaxases which we name mobl and which contains over 800 members that are almost exclusively encoded by firmicutes bacteria.we next performed additional analyses to gain insights into the evolutionary relationship between the newly identified mobl family of relaxases and the previously described relaxase families.
+
+consequently it was expected that pls20cat could mobilize a compatible plasmid containing the orit region of pls20cat but lacking the relaxase gene.
+
+together these results show that gene 58 encodes the relaxase gene of pls20cat which we named rells20.
+
+the upstream region of gene 56 pcr-up-56 and the downstream region of gene 58 pcr-dn-58 were amplified by pcr using pls20cat as template dna in combination with primer sets ogr56ogr57 and ogr58ogr59 respectively.
+
+altogether these data corroborate the view that rells20 and the identified related putative proteins constitute a new mob family and that mobl is closest related to the mobp family of relaxases.members of the mobl family can be divided into two cladesrells20 contains eight out of the ten mobl signatures .
+
+most other mobl members also contain most but not all mobl signatures indicating that the mobl family is composed of different clades.
+
+we therefore first tested a 1.75 kb fragment named fragment 1 which encompasses the 3'-region of pls20cat gene 55 till the middle of gene 57 see for a schematic representation.
+
+the resulting strains are listed in .the pls20cat gene 58 rells20 was cloned as follows in the e. coli expression vector pet28b to generate a fusion gene containing a c-terminal his6 extension.
+
+surprisingly none of the deduced pls20cat proteins was identified as being a putative relaxase after search- ing pls20cat against the cdd.
+
+amplification by pcr of pls20cat regions was performed using total dna isolated from pls20cat harboring strain pks11 as template.
+

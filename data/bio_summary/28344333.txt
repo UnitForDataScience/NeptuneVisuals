@@ -1,0 +1,30 @@
+stressor exposure had a more predominant effect on s24-7 relative abundance which was significantly increased in sdr-cr mice across the duration of the experiment regardless of whether they were treated with vehicle or with l. reuteri main effect of stress p 0.001. parabacteroides and lactobacillus levels were also sig- nificantly reduced by stressor exposure throughout the experiment main effect of stress p  0.001 and there was a tendency for l. reuteri treatment to normalize parabacteroides main effect of treatment p  0.02 not significant after correcting for multiple comparisons t2.redundancy analysis rda using canoco further highlighted these results.
+
+when the data were collapsed across all of the experimental runs the adonis statistic indicated that exposure to the stressor p  0.001 r2  0.01705 and c. rodentium infection p  0.001 r2  0.02176 were associated with significant differences in microbial community composition whereas probiotic gavage with l. reuteri did not affect the microbiota structure in the overall community p 0.258 r2  0.00779. however the adonis statistic also indi- cated that microbial community composition was significantly different across each of the experimental runs regardless of treatment condition p 0.001 r2  0.02517. therefore in order to visualize the effects of experi- mental treatments on community composition using a pcoa plot a custom axis for experimental run was added at the expense of the third pcoa axis.
+
+moreover treatment with l. reuteri did not significantly affect the relative abundance of any bacterial phyla t1.at lower taxonomic levels s24-7 p 0.001 and enterobacteriaceae p 0.05 were significantly increased in infected mice whereas prevotella p 0.05 and parabacteroides p  0.005 were reduced in those mice.
+
+l. reuteri treatment did not affect relative abundances.was significantly increased in mice exposed to the sdr stressor as indicated by a significant interaction between stress and dpi p 0.001. post-hoc tests indicate that mice exposed to sdr had significantly greater colon mass at 12 dpi p 0.005 and marginally increased colon mass at 1 dpi p 0.069 and 24 dpi p 0.064 .
+
+the british journal of nutrition 108 130-139 2012.preidis g. a. d. m. saulnier s. e. blutt t. a. mistretta k. p. riehle a. m. major s. f. venable m. j. finegold j. f. petrosino m. e. conner  j. versalovic.
+
+likewise an interaction effect existed between stresstreatment p 0.05 indicating that over the course of infection sdr-cr-veh mice had significantly more c. rodentium than non-stressed hcc-cr-veh control mice treated with vehicle p  0.005. sdr-cr-lr mice had marginally increased pathogenic burden over hcc-cr-lr mice that received the probiotic p 0.06.we have previously demonstrated that stressor-induced increases in c. rodentium levels are associated withincreases in c. rodentium-induced colonic pathology and that l. reuteri can attenuate the effects of the stressor on colonic pathology.
+
+firmicutes were reduced across the different dpi as indicated by a significant main effect in the anova p 0.001. this main effect was due to significant reductions on 6 12 and 24 dpi compared with 1 dpi p  0.01. in contrast bacteroidetes were increased across the different dpi p 0.001 with significant increases observed on 6 12 and 24 dpi compared with 1 dpi p 0.01. interestingly the relative abundances of these phyla were also impacted by stressor expo- sure.
+
+administering probiotic l. reuteri only affected microbial populations at 1 dpi even though l. reuteri administration wasfigure 7. probiotic lactobacillus reuteri treatment abrogates stressor-induced increase in c. rodentium- induced colonic inflammation.
+
+when chao1 was assessed there was a significant main effect of l. reuteri treatment in the 3 factor anova p 0.05 1c indicating that l. reuteri in general increased chao1 alpha diversity across the different dpi.
+
+prevotella levels were significantly reduced at 12 dpi p 0.001 t2.when the effects of stressor exposure and of l. reuteri treatment on the relative abundance of bacterial taxawere tested it was evident that stressor exposure but not l. reuteri treatment impacted the microbiota t2.
+
+plos one 7 e47713 2012.bailey m. t. s. e. dowd n. m. parry j. d. galley d. b. schauer  m. lyte.
+
+maternal separation disrupts the integrity of the intestinal microflora in infant rhesus monkeys.developmental psychobiology 35 146-155 1999.galley j. d. m. c. nelson z. yu s. e. dowd j. walter p. s. kumar m. lyte  m. t. bailey.
+
+gastrointestinal and liver physiology 302 g608-617 2012.galley j. d. n. m. parry b. m. ahmer j. g. fox  m. t. bailey.
+
+gastrointestinal and liver physiology 296 g534-542 2009.mackos a. r. j. d. galley t. d. eubank r. s. easterling n. m. parry j. g. fox m. lyte  m. t. bailey.
+
+dpi p  0.01 f 4.2 stress p  0.01 f 3.4 and infection p  0.05 f 1.8 were all significant on the rda plot.
+

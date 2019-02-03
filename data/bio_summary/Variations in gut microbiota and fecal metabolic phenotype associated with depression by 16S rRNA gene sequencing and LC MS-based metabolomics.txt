@@ -1,0 +1,30 @@
+however the altered gut microbiota and its effects on metabolic phenotype in the host under depressive con- ditions remain unknown and would be a focal point to interpret the possible mechanisms of depression.meanwhile regarding the relationship of gut microbiota with the host metabolic phenotype the consequential question of how microbial communities affect the metabolic function can be explored by non-targeted metabolomics.
+
+recently metabolomics of fecal samples have unraveled that metabolic phenotype changes are correlated with gut microbiota perturbations in the development of diseases such as obesity nonalcoholic fatty liver disease ibs and crohn'sdisease in the present work fecal metabolic profile of depression was performed and we found the fecal metabolic pro- file of depression model rats were significantly different from those of the normal controls.
+
+the metabolomic profil-0731-7085c 2017 elsevier b.v. all rights reserved.ing approach could disclose aberrant metabolites and metabolic pathways involved in complex diseases including depression and anxiety non-targeted fecal metabolome studies have been used to unravel metabolic phenotype variations associated with gut microbiota perturbations in disease development.
+
+however such reports delineating fecal metabolic profiles are scarce and no information is available regarding the changes of fecal metabolic phenotype in depression.
+
+the pcoa score plot from sequences at the otu level with97 similarity revealed that the community composition of the model group after cvs treatment was far from that of the con- trol group a. moreover hierarchical clustering analysis using the unweighted pair group method with arithmetic mean upgma also showed a clear separation of model from control rats b. a total of four bacterial phyla were identified with the rest classi- fied into other unclassified bacteria c. the dominant phyla including firmicutes and bacteroidetes showed significant differ- ences with reduced firmicutes and increased bacteroidetes levels after cvs treatment d. in addition 11 genera showed statisti- cally significant differences between the model and control groups a. the fold changes for these genera are shown in b.fecal metabolic profiling of cvs-induced depressionfecal metabolic profiles of cvs treated rats and control animals were acquired by lc-ms. the typical base peak intensity bpi chro- matograms of each experimental group are shown in fig.
+
+in summary cvs-induced depression changed the structurecomposition of the gut microbiota disturbed hippocampus catecholamine levels and substantially altered fecal metabolic phenotype.discussionan integrated 16s rrna gene sequencing and lc-ms based metabolomics approach was performed to explore the impact of cvs-induced depression on the gut microbiota and fecal metabolic phenotype.
+
+therefore our results further confirmed that the variations in gutmicrobiota and fecal metabolic phenotype associated with the development of depression.conclusions16s rrna gene sequencing and lc-ms based metabolomics were combined to assess the effects of cvs-induced depression on the gut microbiota and fecal metabolic phenotype.
+
+variations in gut microbiota and fecal metabolic phenotype associated with depression by 16s rrna gene sequencing and lcms-based metabolomicsmeng yu hongmei jia chao zhou yong yang yang zhao maohua yang zhongmei zouinstitute of medicinal plant development chinese academy of medical sciences and peking union medical college beijing 100193 pr chinaa r t i c l ei n f oa b s t r a c tarticle historyreceived 25 october 2016received in revised form 3 february 2017 accepted 4 february 2017available online 10 february 2017keywords depression gut microbiota metabolomics16s rrna gene sequencing lc-msas a prevalent life-threatening and highly recurrent psychiatric illness depression is characterized by a wide range of pathological changes however its etiology remains incompletely understood.
+
+to assess the impact of gut microbiota on fecal metabolic phenotype in depressive conditions an integrated approach of 16s rrna gene sequencing combined with ultra high-performance liquid chromatography-mass spectrome- try uhplc-ms based metabolomics was performed in chronic variable stress cvs-induced depression rat model.
+
+meanwhile distinct changes in fecal metabolic phenotype of depressive rats were also found including lower levels of amino acids and fatty acids and higher amounts of bile acids hypoxanthine and stercobilins.
+
+demonstrated an altered metabolic activity of gut microbiota in patients with ulcerative colitis uc or irritable bowel syndrome ibs and jansson et al.
+
+therefore it is very important to assess the gut microbiota-related fecal metabolic phenotype alterations which would help further understand the pathophysiological mechanism of depression and explore the role of gut microbiota in the devel- opment of depression.in this study a rat model of cvs-induced depression was estab- lished to explore the role of gut microbiota and the underlyingmetabolic mechanisms in depression.
+
+16s rrna gene sequenc- ing and lc-ms based metabolomics were applied to analyze gut microbiota and fecal metabolic phenotype changes in cvs-induced depression.experimentalreagents and materialshplc-grade acetonitrile was bought from fisher scientific fisher scientific pittsburgh pa. purified water 18.2 mq was prepared using on a milli-q water purification system millipore usa.
+
+they were placed in sterile conical tubes and immediately frozen at 80 c for further metabolic pro- filing and microbial community analysis respectively.blood was collected under urethane anaesthesia by intraperi- toneal injection at the end of the experiment.
+
+bacterial analysis of bray-curtis dissimilarities calculated according to the levels of altered gut microbiota was performed using r version 3.2.1 with the 'vegan' package.fecal metabolic profilingsample preparationfecal pellets was weighed and homogenized on ice.
+

@@ -1,0 +1,30 @@
+microb ecol 2017 74510-521 doi 10.1007s00248-017-0967-1bacterial signatures of bred-operculum disease in the gut of crucian carp carassius auratustongtong li 12  huan li12  francois-joel gatesoupe 3  rong she 4  qiang lin12 xuefeng yan12  jiabao li12  xiangzhen li12received 8 november 2016  accepted 16 march 2017  published online 1 april 2017 springer sciencebusiness media new york 2017abstract fish gut microbiota play important roles in fish immunity nutrition and the adaptation to environmental changes.
+
+many gastrointestinal diseases are associated with the shifts of gut microbiota in mammals and lower vertebrates such as fish - and this stimulates the interests in understanding how gut microbial communities are assembled and how they im- pact host fitness.
+
+since host immunity may alter gut microbial compositions  water quality can mod- ulate the assembly of gut microbiota through its influence on fish immunity   -.
+
+using 16s rrna gene miseq sequencing we compared the gut microbiota in diseased and healthy fish to identify the key bacterialphylotypes that linked with the disease and to determine the environmental factors that may influence the composition and diversity of fish gut microbiota.materials and methodssample collection and dna extractionsevere bred-operculum disease outbreaks in cultured crucian carp ponds occurred from the may to august 2015 in yancheng city jiangsu province china.
+
+in order to assess the relationship between biodiversity and thestability of fish gut microbiota linear regression analysis was carried out between observed species and alpha variability.resultsoverall microbial community compositiona total of 131 samples from 4 ponds cb cn s and w were collected from may to august 2015 including 83 gut sam- ples 36 diseased fish and 47 healthy fish 24 water samples 10 from diseased pond and 14 from normal pond and 24 sediment samples 10 from diseased pond and 14 from normal pond table s1.
+
+our data showed that the al- pha variability of gut bacterial communities increased signif- icantly in the diseased fish diseased 0.20 - 0.034 healthy 0.068 - 0.046 anova f  17.25 p  0.009. in additionthe decrease in bacterial biodiversity correlated with the in- crease in alpha variability indicating a positive correlation between alpha bacterial diversity and the stability of fish gut microbiota fig.
+
+tep and nh3-n strongly correlated the microbial community of fish while two most important factors shaping the community composition of wa- ter were tep and do.in addition the correlations between those abundant genera in fish gut mentioned in table s2 and water physicochemical factors were estimated in order to understand the influence of environmental factors on the gut microbiota.
+
+thus less diversity and stability of gut microbiota in fish may be associated with diseases.in addition the structure of the fish gut bacterial commu- nity was primarily influenced by the disease even though the sampling location and time had significant impacts on the clustering patterns fig.
+
+this may help to explain why the bred- operculum disease was common and seasonal.bacterial signatures of red-operculum disease in the gut of crucian carpcetobacterium fusobacteria was the most abundant genus in fish gut and the relative abundance of this genus was much higher in healthy fish than those in diseased fish table s2.
+
+gut 63121913-1920. doiberg rd 1992 translocation and the indigenous gut flora.
+
+to date few studies have focused on the interactions among environmental factors fish diseases and gut microbi- ota compositions.
+
+we compared the gut bacterial communities of healthy crucian carps carassius auratus with those of individuals affected by bred-operculum disease and corre- sponding water and sediment microbiota in four fish farm ponds.
+
+distinct gut bacterial communities were observed in healthy and diseased fish.
+
+the differences in bacterial community composi- tions between diseased and healthy fish were explained by the changes in the relative abundances of some specific bacterial otus which belonged to the genera such as vibrio aeromonas and shewanella and they were prevalent in dis- eased fish but rare or even absent in environmental samples.water temperature and ammonia concentration were the two most important environmental factors that impacted gut mi- crobiota in diseased fish.
+
+these results highlighted the surge of some potential pathogens as bacterial signatures that were associated with bred-operculum disease in crucian carps.keywords gut microbiota .
+

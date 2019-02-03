@@ -1,0 +1,30 @@
+the goal of this study was to demonstrate that the nsp4 vpd forms an ion channel and determine whether the channel can conduct ca2.
+
+channel insertion was detected by the appearance of channel activity.
+
+although this type of spiky ion channel activity is commonly observed among many viroporins conductance measurements require that the channel remain in the open state for a duration long enough to determine the current plateau with minimal error due to noise.
+
+while it does provide evidence of ion channel activity when the channel is in the fast kinetic state it is not possible to accurately determine the number of channels in the bilayer or patch or measure the single-channel conductance due to the transient nature of the openings.
+
+since fast current fluctuations did not occur while the channel was already open to a well-defined conductance level but rather stretches with fast and prolonged current transitions were consecutive this recording originates from a single channel which oscillates between the two kinetics states and not from multiple channels with different kinetic properties.altogether we obtained 109 planar lipid bilayer recordings and 54 patch clamp recordings that showed that the vpd-wt peptide alone is capable of conducting monovalent ions.
+
+thus the iv plot of an ideal k-selective channel would intersect the abscissa 0 pa at -58 mv while that of an ideal cl--selective channel would intersect the abscissa at  58 mv.
+
+at a pipette voltage of70 mv or -70 mv we observed well-defined levels of conductance measuring 42 ps in symmetric buffer a conditions occasionally a smaller 13 ps open state could also be observed marked by the arrow in 5. when buffer ca was perfused into the bath we continued to observe well-defined channel openings at both positive and negative voltages indicating that the channel is indeed permeable to ca2 the sole cation able to sustain a current at negative pipette potentials .
+
+illustrates that channel activity is indeed detect- able in symmetric ba2 conditions indicating that the channel can also conduct ba2 ions.
+
+unlike most other viroporins nsp4 has a long cytoplasmic coiled-coil domain ccd immediately downstream of the vpd that is not necessary for viroporin or ion channel activity but nevertheless may contain motifs that serve to regulate nsp4 channel activity.
+
+thus this study establishes the basis for future investigations on how nsp4 ion channel activity might be regulated through the ccd by changes in cytosolic ph or ca2 levels during the course of a rv infection.the elevation in cytosolic ca2 by nsp4 ion channel activity is critical for productive rv replication throughactivation of a ca2-dependent autophagy pathway.
+
+openreceived 10 november 2016accepted 24 january 2017published 03 march 2017the rotavirus nsp4 viroporin domain is a calcium-conducting ion channelthieng pham1 jacob l. perry2 timothy l. dosey3 anne h. delcour1  joseph m. hyser2viroporins are small virus-encoded ion channel proteins.
+
+using planar lipid bilayer and liposome patch clamp electrophysiology we show that a synthetic peptide of the nsp4 vpd has ion channel activity.
+
+the nsp4 vpd was selective for cations over anions and channel activity was observed to have both well-defined square top openings as well as fast current fluctuations similar to other viroporins.
+
+the primary sequence of the vpd-mut peptide details the mutations underlined in the amphipathic domain.er ca2 these data confirmed that nsp4 viroporin activity is responsible for the loss of er ca2 in rv-infected cells and is the trigger for elevating ca2c which is critical for rv replication.our previously proposed model in which nsp4 viroporin activity depletes er ca2 implies that the nsp4 viroporin domain forms a pore or ion channel that can conduct ca2.
+
+the purpose of this study was to first demonstrate that the nsp4 viroporin domain is able to form a bona fide ion channel and to determine whether nsp4 viroporin domain ion channels can conduct ca2 ions.
+

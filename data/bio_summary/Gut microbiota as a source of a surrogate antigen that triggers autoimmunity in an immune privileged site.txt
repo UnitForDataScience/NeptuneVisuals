@@ -1,0 +1,30 @@
+this emphasized that the development of spontaneous uveitis in r161h mice is not restricted to a unique gut flora composition or a single animal facility.figure 1. a cocktail of broad-spectrum antibiotics amnv changes the composition of the microbiota in r161h mice.
+
+fecal pellets of r161h mice untreated n 18 or treated with antibiotics n 17 amnv were collected at various ages 3-4 wk 6-7 wk  11 wk and metagenome analyses was done by 16s rdna sequencing.figure 2. single antibiotic treatment did not attenuate spontane- ous uveitis in r161h mice.
+
+r161h mice were treated with ampi- cillin n 13 metronidazole n 15 neomycin n 4 or vancomycin n 14 and eyes were collected for histology between 11 and 14 weeks of age and compared to age-matched r161h mice untreated none n 13 or treated with a cocktail of all 4 antibiotics amnv n 40. antibiotics were given in the drinking water at 1 gl except for vancomycin 0.5 gl and treat- ments started to the pregnant dam and continued indefinitely for the pups after weaning.
+
+we also monocolonized germ-free r161h mice with our turicibacter h121 to test if it can promote spontaneous uveitis but there was no significant enhancement of disease or of th17 induction in the gut in the monocolonized r161h mice unpublished data.finally we performed extensive bioinformatics analyses searching for sequences related to the irbp160-180 peptide in the microbial protein database obtaining a number of sequences with partial homol- ogy with irbp161-180.
+
+all r161h mice develop spontaneous uveitis that starts soon after weaning and reaches its peak by 3 months of age.in the classical model of uveitis induced by immunization with irbp161-180 in complete freund's adjuvant cfa the adjuvant provides necessary innate signals via receptors for pathogen-associated molecular patterns that promote antigen presenting cell maturation which then present the irbp161-180antigen to autoreactive t cells in the host in the con- text of danger signals that drive them to a patho- genic tissue destructive phenotype.although in the spontaneous r161h uveitis model the irbp-specific t cells were seen to signal through their autoreactive tcrs in the gut environment in a microbiota-dependent fashion this does not negate the possibility that innate adjuvant effects are needed together with the tcr signal to activate these cells for pathogenicity.
+
+upon immunization with the irbp peptide the antibiotic treated wt mice developed full blown disease indistinguishable in severity from non- treated wt mice immunized as controls.
+
+since r161h mice are bred heterozygously we had wt littermates treated long-term with antibiotics at our disposal.
+
+not surprisingly 16s rdna sequencing meta analysis of the microbiota composi- tion in r161h mice treated or untreated with the anti- biotic cocktail revealed multiple groups of bacteria that were present at the phylum level.
+
+the meta-analy- sis of the microbiota composition in r161h mice treated or untreated with the antibiotic cocktail revealed differences in bacterial phyla.
+
+these data suggest a pronounced shift in community composition and structure following anti- biotic treatment.in an attempt to narrow down the gut bacterial spe- cies that could be responsible for promoting disease in r161h mice we treated them with each of four antibi- otics ampicillin metronidazole neomycin or vanco- mycin individually to eliminate a more limited spectrum of microorganisms.
+
+in this context it is also impor- tant to mention that r161h mice kept in other animal facilities at nih elsewhere in the us and abroad all develop spontaneous uveitis.
+
+there was statistical significance ofp  0.0001 between the untreated group and the amnv group by mann-whitney u test.an anecdotal story worth recounting involves r161h mice monocolonized with what turned out to be a new turicibacter sp.
+
+one of two contaminated r161h mice showed disease.
+
+these results underscore the difficulties inherent in connecting particular candidate organisms and the putative antigens they encode to disease pathogenesis.antigen or superantigennur77-gfp reporter mice which turn on gfp in t cells when their antigen receptor is engageddemon- strated that the retina-specific r161h cells weretable 1. commensal bacteria-derived peptides that were used for analysis based on homology search to human irbp161-180 peptide.receiving a tcr signal in the gut.however before concluding that the tcr signal must come from cross-reactive antigen mimic it was necessary to examine the possibility that the tcr could be engaged by a bacterial superantigen.
+
+while we cannot completely discount the possibility of a yet to be identified superantigen we believe that these findings make that possibility unlikely and a microbiota dependent non-cognate antigen mimic remains our preferred interpretation.unresolved questions and future perspectivesour data provide strong support for the notion that t cells first primed in the gut reach the eye and elicitfigure 3. r161h mice with uveitis have no evidence of inflammation in the intestine.
+

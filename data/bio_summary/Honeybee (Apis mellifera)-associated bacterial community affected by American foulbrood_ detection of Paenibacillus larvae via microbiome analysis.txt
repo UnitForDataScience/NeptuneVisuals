@@ -1,0 +1,30 @@
+for the samples we coded afb as follows i afb0 control bees from outside the afb zone with no signs of afb ii afb1 bees from asymptomatic colonies within afb apiaries and iii afb2 bees from colonies exhibiting clinical afb symptoms.
+
+we coded afb as follows i afb0 control bees from colonies outside the afb zone with no signs of afb ii afb1 bees from asymptomatic colonies in afb apiaries and iii afb2 bees from colonies exhibiting clinical symptoms of afb.
+
+legend a afb0 control bees from outside the afb zone with no signs of afb b afb1 bees from asymptomatic colonies in afb apiaries c afb2 bees from colonies exhibiting clinical symptoms of afbd comparison of the number of p. larvae sequences.table 1. metastats analysis results of the relative abundance of the environmentalpathogenic bacteria cut- off microbiome.
+
+the microbiome was analyzed in workers outside of the afb zone control - afb0 in workers from asymptomatic colonies in an afb apiary afb1 and in workers from colonies exhibiting clinical afb symptoms afb2.
+
+approximately 3000 p. larvae spores per adult bee may represent the threshold for the appearance of clinical afb symptoms and the same authors observed at least a 2-fold reduction in the number of spores in bees from colonies without clinical symptoms relative to the number in bees from colonies with afb symptoms.
+
+figure shows the number of p. larvae sequences in afb0 afb1 and afb2 however the statistical comparison was performed using the relative abundance of p. larvae see otu3 in table .as a factor afb was found to have no or only a marginal effect on the number of otus in the total parasitic environmental microbiome datasets the inverse simpson diversity index was not affected table .
+
+this result is supported by hts analyses in other experiments unpublished data unrelated to afb in some colonies we identified reads corresponding to p. larvae whereas in others no reads corresponding to p. larvae were identi- fied.
+
+it is not surprising that colonies with clinical signs of afb were dominated by p. larvae and in cases where pupae survive to adulthood these individuals should be considered vectors of p. larvae in their colony.methodological note - the cut-off microbiome.
+
+no correlation was observed between afb status and varroosis level but afb influenced the worker bee bacterial community primarily the pathogenic environmental bacteria.
+
+as a factor afb did not influence the distribution of bacteria in the worker microbiome total microbiome according to the analysis of molecular variance amova fs  1.291 p 0.195 and the sample variability was not significantly different based on the homogeneity of molecular variance test homova bv  0.460 p  0.093. in contrast the dataset for environmental and parasitic bacteria was signif- icantly influenced by afb according to the amova fs  4.466 p  0.001. the bonferroni-corrected values revealed significant differences p 0.05 among all afb-derived samples.
+
+samples of honeybee colonies with afb2 and without afb1 clinical symptoms from afb apiaries and control afb0 samples outside the afb zone were compared.
+
+the fact that k. pneumoniae and m. plutonius were more abundant in workers from asymptomatic colonies than in either control bees or colonies with afb symptoms implies an association of these bacteria with the initial stage of afb development in the colony.
+
+apiaries were selected according to their presence in the afb zones denoted by the state veterinary administration of the czech republic note that an afb zone in czechia is defined as a 5-km flight radius surrounding a diseased apiary.
+
+after sampling colonies exhibiting afb symptoms in afb apiaries were burned according to the regulations of czechia therefore subsequent sample collection was impossible.
+
+the spores of p. larvae are extremely infectious but colonies differ in their resistance to afb out- breaks.
+

@@ -1,0 +1,30 @@
+williamsia was the most dominant otu in both r. pallescens samples noted mainly in pm2 chao1 index  222 ace index  510 a additional file 1principal coordinate analysis pcoa showed a clear difference in the structure of the bacterial communities present in r. pallescens compared to those found in t. maculata nonetheless mpc2 was grouped with samples of r. pallescens b.discussionfew microbial species are generally contained into the insect gut compared to mammalian guts .
+
+some samples showed low equitability due to the dominance of specific bacterial genera as williamsia in samples of r. pallescens and gordonia and unclassified bacillales in mpc2 and mpc11 respectively this fact was represented by diversity indexes shannon and inverse simpson index which were low in these samples and the abundance patron is observed with high values of the estimators of richness based on abundance chao 1 and ace a.in the other side the spatial distribution of the t. maculata samples was different to r. pallescens samples in pcoa b the only dif- ference lies on mpc2 sample which was grouped near r. pallescens samples and two samples without clustering.
+
+interestingly the presence of parasites is another important factor that should promote or decrease certain bacterial po- pulations .at present time bacterial communities present in the intestine of t. maculata and r. pallescens have not been studied.
+
+moreover representative genera of each species were found such as williamsia and kocuria in r. pallescens and dietzia aeromonas and pelomonas in t. maculata .in this study dominant bacterial species belonged to the actinobacteria phylum was reported for r. pallescens.
+
+there are around 140 known species with the ability to transmit the parasite out of which 27 are distributed in colombia and of those 15 have been found naturally infected with t. cruzi .in colombia the most important species of triatomines in relation to the vectorial capacity are r. prolixus and t. dimidiata   because they can inhabit human dwellings and successfully transmit the parasite between reservoirs wild and domestic mammalsabbreviations ace abundance-based coverage estimators index anla acronym in spanish for national agency of environmental permission bcei acronym in spanish for biology and control of infectious diseases research group of the universidad de antioquia cnsg acronym in spanish for national center for genomic sequencing at the universidad de antioquia mpc samples collected in puerto carreno colombia identified as triatoma maculata ntd neglected tropical disease otus operational taxonomic units pe pair-end reads pm samples collected in magdalena colombia identified as rhodnius pallescens corresponding author.e-mail address g.e.
+
+firmicutes phylum was also ob- served but in low quantity except for mpc11 sample which presents 95 of bacillales  supplementary material.the full processing of the raw fastq files using mothur showed a low alpha diversity in all samples of r. pallescens compared to t. ma- culata where the sample that showed the highest alpha-diversity was mpc7 shannon index  3.7 invsimpson  23.8. only mpc2 and mpc11 presented low diversity for t. maculata samples shannon index  1.1 and 0.2 invsimpson  1.5 and 1.1 respectively.
+
+each insect was rinsed twice withtable 1summary of reads obtained after of massive sequencing of the v4 region of bacterial 16s rrna gene in the midgut of rhodnius pallescens labeled as pm and triatoma maculata labeled as mpc.
+
+rhodnius pallescens species labeled as pm and triatoma maculata labeled as mpc were analyzed by sequencing of the v4 region of bacterial 16s rrna gene.
+
+it has been demonstrated that bacterial communities interfere with the invasion of parasites and at meantime some t. cruzi and t. rangeli strains can modulate this microbiota successfully invading the intestinal environ- ment .
+
+ad- ditionally samples of triatoma maculata did not show any flagellate form in feces data not shown.this is the first study of bacterial composition in these two species of triatomines endemics from colombia.
+
+williamsia and kocuria were the most common in r. pallescens and dietzia aeromonas and pelomonas were only observed in t. maculata samples.
+
+nonetheless there are other important species that live in the peridomicile as well others that have wild habitats secondary vectors which include t. maculata r. pallescens and r. co- lombiensis .
+
+on the other hand r. pallescens is a primary vector in panama and an important secondary vector in colombia al- though it is normally found in wild habitat it has recently been re- ported inside dwellings and it has been found naturally infected with t. cruzi .the intestine of triatomines is an environment of continuing inter- action between bacteria and parasites that can invade them.
+
+the aim of this study was to describe bac- terial diversity in natural populations of t. maculata and r. pallescens collected from the rural areas in colombia using the miseq platform of illumina.
+
+species of pseudomonas are associated with the production of antiparasitic molecules in insect guts .serratia is perhaps the most important proteobacteria genera stu- died due to antiparasitic activity against some t. cruzi strains demon- strated in vitro  in contrast to the reported for triatomines midgut microbiota mainly in brazil   serratia was not reported in our conditions this may be due to two possible causes 1 serratia is absent into the gut microbial of triatomines in the ecosystem studied.
+

@@ -1,0 +1,30 @@
+prokaryotesgenome sequence of geobacillus stearothermophilus dsm 458 an antimicrobial-producing thermophilic bacterium isolated from a sugar beet factorya philip kellehera ab bc r. paul rossab bc abschool of microbiology university college cork cork city irelanda apc microbiome institute university college cork cork city irelandb teagasc food research centre moorepark fermoy co. cork irelandcabstract this paper reports the full genome sequence of the antimicrobial-pro- ducing bacterium geobacillus stearothermophilus dsm 458 isolated in a sugar beet fac- tory in austria.
+
+.rutherford k parkhill j crook j horsnell t rice p rajandream m-abarrell b.
+
+here we report the full genome sequence of geobacillus stearothermophilus dsm 458 which was isolated from sugar beet juice obtained from extraction installations in austria.
+
+in order to identify the genes responsible for the production of this antimicrobial substance we com- pleted full-genome sequencing of this bacterium for which the 16s rrna sequence hadpreviously been determined genbank accession number ay608931.cells of g. stearothermophilus dsm 458 were grown to mid-log phase in brain heart infusion bhi broth and centrifuged at 5000 rpm for 20 min.
+
+chromosomal dna was isolated by commercial sequence provider gatc biotech ltd. konstanz germany.
+
+the linocin m18-like bacteriocin was determined to have a 25 identity to the linocin m18 protein sequence as determined by pairwise alignment using blastp .combining the in silico analysis with in vitro experimentation should ultimately lead to characterization and greater understanding of the antimicrobial potentialnature of this strain.
+
+the full genome sequence of geobacillus stearothermophilusdsm 458 has been deposited in genbank under the accession number .acknowledgmentsk.e.
+
+int j syst evol microbiol 51433- 446.
+
+afr j bio- technol 117711.
+
+.pokusaeva k kuisiene n jasinskyte d rutiene k saleikiene j chitavi- chius d. 2009. novel bacteriocins produced by geobacillus stearother- mophilus.
+
+cent eur j biol 4196 -203.
+
+j mol biol 215403- 410.
+
+2000. artemis sequence visualization and annotation.
+
+.lowe tm eddy sr. 1997. trnascan-se a program for improved detec- tion of transfer rna genes in genomic sequence.
+
+.van heel aj de jong a montalban-lopez m kok j kuipers op.
+

@@ -1,0 +1,30 @@
+because the three different lineages of p. australis are widespread and grow sympatrically across north america this species provides a unique opportunity to study the similaritiesand differences in the rhizosphere bacterial communities both among plant lineages with known phylogenies and across a wide range of geographical distances.here we investigated whether there were distinct rhizosphere bacterial communities associated with different p. australis lineages in both a field survey and common garden experiment.
+
+numerous studies have documented the importance of local environmental features in structuring soil microbial communities  - thus the divergence in bacterial communities between sympatriclineages growing in the same system suggests that lineage over- whelms local environmental conditions in determining rhizo- sphere bacterial community structure--results we were able to confirm with a common garden experiment.differences between native and introduced p. australis have been observed in associated oomycete and archaeal commu- nities.
+
+the higher belowground biomass of the introduced p. australis lineage compared to the native lineage and to other native wetland plants it displaces suggests that invasion-induced changes in microbial community could be widespread though further work is needed to determine how far into the bulk soil these changes propagate.
+
+2 permanova f275  8.13 p  0.001 indicating that lineage may be a sufficiently strong determinant of bacterial community structure that it overwhelms local environmental conditions even among the active commu- nity which would be more likely to respond to local environ- mental variation.the rhizosphere bacterial communities within the gulf and native lineages demonstrated stronger within-lineage similarity than the introduced lineage fig.
+
+the greater change in bacterial turnover with distance in the introduced lineage compared to the other lineages suggests that introduced populations have a greater reliance on novel associations in soils from the introduced range that are derived from the pool of local microflora a pool thatwould be expected to decrease in similarity with distance from the source population.our results support that the p. australis lineage played a critical role in structuring bacterial communities across large spatial scales.
+
+1. at three locations block island ri great bay nh and falmouth ma we collected rhizosphere soil samples from co- occurring native and introduced p. australis populations allowing us to more closely examine the relative strength of both lineage and geographic proximity in structuring rhizosphere bacterial communities.
+
+we calculated a core microbiome defined as taxa that were present in 100 of the samples within a given lineage using qiime and we assessed significant differences in taxonomic abundance among the different lineages using a kruskal-wallis test followed by a benjamini-hochberg correction to correct for false discovery.we assessed differences in bacterial community structure among native gulf and introduced p. australis lineages using adonis which is a permanovaimplemented in qiime with significance assessed at an alpha of 0.01. we assessed changes in community structure with distance by plotting the pairwise bray-curtis dissimilarity coefficient against pairwise distance between locations and calculated the linear regression between the two in r. we used picrust which assigns function based on 16s rrna marker sequences using an ancestral state reconstruction approach to determine bacterial metabolisms.
+
+b. the similarity among the bacterial communities within the introduced lineage decreased with distance a pattern not observed in the native and gulf lineagesand indicative of a higher rate of bacterial turnover in the introduced lineage rhizospheres.we examined the core microbiome of each lineage taxa present in 100 of samples collected from across the continent.
+
+colored bars indicate the taxon was present in 100 of the samples for that lineage whereas gray bars indicate that it was only present in some samplesexperiment indicate that the rhizosphere bacterial community is structured by plant lineage with the introduced lineage demon- strating evidence of decreased enemy attack compared to the gulf and native lineages.resultsoverview of experiments.
+
+these consistent differences between native and intro- duced lineages across multiple microbial domains support the view that lineage exerts a dominant control on soil rhizosphere communities one that may promote invasion success through plant-soil feedbacks spillover and soil legacies.
+
+to investigate experimentally how different p. australis lineages shape the rhizosphere community and whether this ecosystem engineering contributes to plant fit- ness we performed a common garden experiment on a subset of the field populations supplementary table 1. we also sought to tease apart the effects of lineage on plant performance as medi- ated by lineage-specific effects on the soil bacterial community.
+
+we use field surveys and a common garden experiment to analyze bacterial communities in the rhizosphere of p. australis stands from native introduced and gulf lineages to determine lineage-specific controls on rhizosphere bacteria.
+
+since soil microbes are typically controlled bylocal edaphic characteristics- homogeneity of rhizospherebacteria within p. australis lineages across the sampling range along with heterogeneity among lineages in our field experiment would be consistent with our hypothesis that lineage-specific forcing is structuring rhizosphere bacterial communities.
+
+the abundance of each pathway was significantly lower in the introduced lineage rhizosphere microbial communites than in those communities associated with the gulf and native lineages.
+
+during the summer and fall of 2015 we collected soil samples to assess the bacterial communities associated with native introduced and gulf p. australis rhizosphere supplementary table 1 supplementary fig.
+

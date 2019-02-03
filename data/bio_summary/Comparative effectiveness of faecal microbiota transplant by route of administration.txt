@@ -1,0 +1,30 @@
+journal of hospital infection 96 2017 349e352table icharacteristics associated with cure in patients receiving faecal microbiota transplant at university of alabama at birmingham 2013e2016sexnumber of cdi episodes 53932 78.07 77.81.00 0.73e1.370.99ee5119 22.02 22.2ref ccistratified by cci 5 n1429bmi body mass index cci charlson comorbidity index cdi clostridium difficile infection ci confidence interval fmt faecal microbiota transplant ref reference category ngt nasogastric tube rr risk ratio sd standard deviation.bold typeface indicates statistical significance at 0.05 level.missing data ethnicity 1 upper 1 malignancy 5 upper 4 lower 1 white blood cells 13 upper 11 lower 2 albumin 14 upper 11lower 3 lactic acid 28 upper 18 lower 10.a a patient was classified as 'cured' if there was no diarrhoea or a marked reduction in stool frequency at two weeks otherwise they were classified as 'relapsed'.b risk ratios calculated by log binomial regression model except for route and malignancy where modified poisson method was used due to zerocell frequency.c risk ratios calculated by modified poisson regression method.
+
+patients in the ngt group were more overweight obese than patients in the lower endoscopic group mean bmi28.2 kgm2 and 24.7 kgm2 respectively.
+
+however patients with mild disease may still benefit from ngt delivery whereas patients with severe disease should receive lower endoscopic delivery unless otherwise contraindicated.conflict of interest statementnone declared.funding sourcesnone.appendix a. supplementary datasupplementary data related to this article can be found at .referencese.e.e.e.
+
+which also found a significant difference between ngt and lower endoscopic cure rates however none of these studies compared the two de- livery methods directly .this study included patients with a wide range of disease severity and suggests that sicker individuals may gain greater benefit from lower endoscopic delivery of fmt.
+
+fmt was performed in patients with two or more recurrences or patients withsevere disease refractory to standard therapy.
+
+the initial randomized control trial of fmt utilized an upper delivery method with initial cure rates of 81 and an eventual cure rate of 94. however this study sample included relatively healthy out- patients and excluded critically ill or immunocompromised patients .
+
+when patients were stratified by illness severity nasogastric delivery achieved similar cure rates in healthier individuals whereas lower endoscopic delivery was preferred for relatively ill individuals.
+
+nasogastric delivery may be less effective than lower endoscopic delivery however when taking the cost preparation and potential risk into account this difference may not be clinically significant for patients with mild disease.a 2017 the healthcare infection society.
+
+the goal was to determine overall initial efficacy of each de- livery route and to determine which patients would gain the greatest benefit from different delivery methods.methodsin this observational prospective follow-up study all pa- tients receiving fmt for cdi via ngt or lower endoscopy at the university of alabama at birmingham uab from 2013 to 2016 were included in the analysis.
+
+no patients in the lower endoscopic group received repeat fmt in the first two weeks.
+
+all patients were adults and the mean age of those receiving fmt by ngt and lower endoscopy was 63.6 and 58.6 years respectively.
+
+despite these reservations some patients are too sick for endoscopy and single or sequential ngt fmt may prove to be more valuable than standard medical therapy and should be pursued in those who are not operative candidates.both lower and upper delivery of fmt for outpatients with recurrent cdi remains reasonable as the number of comorbid- ities and illness severity is less pronounced.
+
+ran- domized control trials comparing delivery methods are needed to guide future therapy.the optimal route of delivery for fmt remains unknown however this study suggests that in all patients ngt delivery does not result in cure as often as lower endoscopic delivery.
+
+in addition the larger amount of faecal material used in lower endoscopic delivery and its bypass of the acidic stomach are possible reasons for improved cure rates seen in the lower endoscopic group.
+
+several recent cost-effec- tive analyses have shown fmt via lower delivery to be superior to that of upper delivery due to higher cure rates and lower relapse rates .
+

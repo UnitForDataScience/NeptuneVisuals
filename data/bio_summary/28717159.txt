@@ -1,0 +1,30 @@
+track 1 represents transposon insertion densities track 2 indicates forward and reverse genes predicted in b. breve ucc2003 genome track 3 indicates core b. breve genes track 4 indicates b. breve core genes present in single copy track 5 represents b. breve single copy core genes present in bifidobacterium genus core genes track 6 represents tradis predicted essential genes and track 7 represents gc bias khaki indicates values  1 purple  1.represented in our collection.
+
+in order to test this expectation the tradis-deduced essen- tial genes of b. breve ucc2003 were compared to the core genomes of b. breve 1514 genes and bifidobacterium 929 genes which were predicted based on 8 complete b. breve genomesand the genomes of 47 bifidobacterial type strains respectively.
+
+this overlap isfigure 3. a venn diagram representing the overlap between the essential genes determined by tradis analysis for b. breve ucc2003 the bifidobacterium and b. breve core genomes as well as b. breve core genes present in single copy.
+
+the predicted percentage of essential genes is within the range reported from genome-wide surveys of essential genes in other microorganisms which has been shown to range from 5 to 35 of the overall gene content- -.functional annotation of essential genes in b. breve ucc2003functional analysis of predicted essential protein-encoding genes in b. breve ucc2003 was performed.
+
+moreover 11 out of the identified 453 essential genes in b. breve ucc2003 correspond to transcriptional regulators that have not been functionally characterized in bifidobacteria of which nine are predicted to be involved in signal sensing and transduction therefore representing interesting targets for future studies.conserved essential genes in the bifidobacterium and b. breve core genomes comparative genomics has led to important insights with regards to evolutionary drivers and pathways of bac- terial taxa allowing the identification of genes encoding functions that can be lost or acquired through horizon- tal gene transfer as well as those that are seemingly very important as they are maintained across a particular taxonomic group.
+
+this analysis revealed that 377 out of 400 tradis-predicted essential genes in b. breve ucc2003 94 were also part of the b. breve core genome fig.
+
+this analysis revealed that indeed a large proportion of b. breve single-copy core genes 65 are present in the bifidobacterium core-genome including the majority of essential genes identified by transposon insertion mapping in b. breve ucc2003 81 and representatives of all functional categories fig.
+
+for instance among the b. breve ucc2003 essential genes that are not part of either the b. breve or bifidobacterium core genome various predicted defence mechanisms are included such as dna methylases and toxin-antitoxin systems.
+
+indeed further research is required to discern the genes that are required for successful gut colonization of b. breve ucc2003 as opposed to being essential for growth under laboratory conditions.comparison between b. breve ucc2003 essential functions and those found for other gut bacteria.
+
+while iron is an essential cofactor for all living bacteria specially anaerobes the fact that orthologous genes do not appear essential in bacteroides despite their key function in the maintenance of cell homeostasis might either indicate that bacteroides encode additional genes that can compensate the absence of one of the genes or that this systems performs other still undefined essential functions in b. breve ucc2003.moreover the essential genes of b. breve ucc2003 that do not exhibit homology with the two bacteroides essential gene sets include a relatively high proportion of genes which encode proteins of unknown functions or for which only general functional predictions can be obtained 46 nb.
+
+for the comparative analyses extended at genus level since the fully sequenced b. breve ucc2003 was compared with draft genome sequences we decided to apply an extended core-genome that included genes present in at least 80 of the sequences in order to exclude the possibility that genes not sequenced were considered absent.the same blast-based comparative analysis was used to compare the bifidobacterium breve ucc2003 essen- tial genes with those found in other gut bacteria e.g.
+
+all b. breve ucc2003 genes were functionally classified using a combination of cog category assignmentbased on sig- nificant blastpalignment against cog database cut-off e-value 0.0001 with at least 50 identity across at least 50 of either protein sequence and refined with the online available information on b. breve ucc2003 kegg pathways .
+
+bmc genomics 161 832 2015.ruiz l. o'connell-motherway m. lanigan n.  van sinderen d. transposon mutagenesis in bifidobacterium breve construction and characterization of a tn5 transposon mutant library for bifidobacterium breve ucc2003.
+
+openreceived 10 january 2017accepted 2 june 2017 published xx xx xxxxthe essential genomic landscape of the commensal bifidobacterium breve ucc2003lorena ruiz13 francesca bottacini1 christine j. boinett2 amy k. cain2 mary o'connell-motherway1 trevor d. lawley2  douwe van sinderen1bifidobacteria are common gut commensals with purported health-promoting effects.
+
+to overcome this problem and facilitate functional genomic analyses in bifidobacteria we created a large tn5 transposon mutant library of the commensal bifidobacterium breve ucc2003 that was further characterized by means of a transposon directed insertion sequencing tradis approach.
+

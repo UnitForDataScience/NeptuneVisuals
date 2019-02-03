@@ -1,0 +1,30 @@
+this sug- gests there is a signature bacterium for the obesity that has no relation with dietary intake.discussionrecent human microbiome project studies have linked hu- man gut microbes to obesity proving the evidence that gut microbiota plays an important role in the harvesting stor- age and expenditure of energy obtained from diet  our cross-sectional study aimed to identify differences in human gut microbiota associated with bmi in a large-scale metagenome cohort controlled by diet intake information.our results like those of many others do not support the hypothesis that an increased ratio of firmicutes to bacteroidetes may make a significant contribution to the pathophysiology of obesity.
+
+the bmi was classified into categories of underweight bmi  18.5 normal 18.5  bmi  23 overweight 23  bmi  25 and obese bmi  25 accord- ing to the revised asia-pacific bmi criteria by the world health organization western pacific region  underweight subjects were excluded from this study n  41 fig.
+
+this result was also true for the three-group comparison of the normal overweight and obese groups in which the immune- related pathways get over-represented with ascending bmi level additional file table s2.taxonomic comparison by bmia genus-level representation of the three bmi categories was assessed by metagenomeseq with sequence count data as a dependent variable and bmi as a categorical independ- ent variable and with controlling of confounding factors.statistical analysis using sequence-counting data is challenged by the assumption of normal distribution.
+
+bmc microbiology 2017 17151doi 10.1186s12866-017-1052-0comparative analysis of gut microbiota associated with body mass index in a large korean cohortyeojun yun1 han-na kim1 song e. kim1 seong gu heo2 yoosoo chang3 seungho ryu3 hocheol shin3 and hyung-lae kim1backgroundthe growing incidence of obesity and obesity-associated complications including diabetes cardiovascular disease and stroke is a major public health concern worldwide the etiology of obesity which implies an energy imbalance between calories consumed and expended is complicated by biological and environmental factors  recently a large number of studies have demonstrated that gastro- intestinal bacteria can interplay with diet in the develop- ment and propagation of obesity there have been considerable advances in determining possible mechanisms underlying gut microbiota-induced correspondence equal contributors1department of biochemistry ewha medical research institute school of medicine ewha womans university 1071 anyangcheon-ro yangcheon-gu seoul 07985 south koreafull list of author information is available at the end of the articleobesity -.
+
+the large sample sizes in epidemi- ologic studies will provide increased statistical power and help to reveal significant findings involved with human- associated microbiota .here we examined the correlation between the gut microbiota and body mass index bmi in relatively large sample size of asian population.
+
+the distance from normal group was significant greater in obese than overweight group.functional differences of gut microbiota in bmi groups picrust analysis identified that 'energy metabolism' and 'metabolism of cofactors and vitamins' genes were over- represented according to bmi increase as the comparison of obese vs. normal groups fig.
+
+nevertheless further studies on the correlation between significant bacteria and their predicted function will be required to define the role related with obesity.conclusionsalthough there are a lot of gut microbiota studies regarding obesity only recently have there been studies using large- scale epidemiologic data with significant statistical power and long-term diet confounding factors.
+
+the creative commons public domain dedication waiver applies to the data made available in this article unless otherwise stated.however the results of many articles speculating on the potential associations between gut microbiota and obesity are conflicting and have not been replicated in clinical studies.
+
+an adjusted p value of 0.05 was considered statistically significant after bonferroni multiple test correction for all analyses.statistical analysis of microbiome datathe zero-inflated gaussian mixture fitzig model of metagenomeseq package version 1.14.2 was used for cor- relation analysis between bacterial normalized count data as dependent variables and bmi as independent categor- ical variables besides age and sex covariates dietary components with the strongest impact additional file table s1 and total energy intake were chosen for adjust- ment according to the residual nutrient model for regres- sion analysis since this analysis needs conditions with or without nutrient adjustment final sample size was 940 after exclusion of missing data on ffq fig.
+
+these shortcomings prevent designation of a consistent pattern of human gut microbiota that correlates with obesity  .
+
+the results of this study will contribute to establishment of a consistent theory on the extent of the influence of intestinal microbiota on obesity.
+
+curr obes rep. 201542250-61.tilg h moschen ar kaser a. obesity and the microbiota.
+
+200913651476-83.million m lagier jc yahav d paul m. gut bacterial microbiota and obesity.
+
+1993344437-9.greiner t backhed f. effects of the gut microbiota on obesity and glucose homeostasis.
+
+the gut microbiota in human energy homeostasis and obesity.
+

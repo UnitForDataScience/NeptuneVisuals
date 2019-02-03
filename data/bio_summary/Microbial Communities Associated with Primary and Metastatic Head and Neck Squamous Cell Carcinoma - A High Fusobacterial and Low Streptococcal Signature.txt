@@ -1,0 +1,30 @@
+b beta diversity was measured by euclidean distance for normal primary and metastatic hnscc tissue samples.resultsalpha and beta diversity of normal primary and metastatic tissue samples.
+
+the p-values comparing within normal versus within primary within normal versus within metastatic and within primary versus within metastatic were all 0.001 fig.
+
+matched samples normal primary metastatic were used for the pcoa.otus detected with most belonging to the genera streptococcus 24 fusobacterium 4 and neisseria 3. the direction of change was consistent across these 3 genera normal tissue samples had more streptococcus less fusobacterium and less neisseria.in the primary versus metastatic tissue samples there were 60 differentially abundant otus.
+
+the separation between the normal versus primary p 0.11 normal versus metastatic p 0.194 and primary versus metastatic samples p 0.966 was not statistically significant as assessed by the adonis test.random forest regression model to predict hnscc using microbial otus.
+
+among the collected tissue samples i matched normal adjacent primary and metastatic hnscc tissues were obtained from 14 subjects ii matched normal adjacent and primary hnscc tissues were obtained from 10 subjects and metastatic-only tissues were obtained from 10 subjects.
+
+comparing across three sample types the metastatic microbial taxa populations were more closely related to each other than to those in both the normal versus normal and the primary versus primary hnscc tissue samples fig.
+
+received 5 april 2017accepted 31 july 2017 published xx xx xxxxopenmicrobial communities associated with primary and metastatic head and neck squamous cell carcinoma- a high fusobacterial and lowstreptococcal signaturejae m. shin12 ting luo1 pachiyappan kamarajan34 j. christopher fenno2 alexander h.rickard1 yvonne l. kapila34given the potential relationship between head and neck squamous cell carcinoma hnscc and microbial dysbiosis we profiled the microbiome within healthy normal and tumorous primary and metastatic human tissues from the oral cavity larynx-pharynx and lymph nodes using 16s rrna sequencing.
+
+the pairs driving significance were normal versus primary and normal versus metastatic fig.
+
+furthermore the genus lactobacillus parvimonas peptoniphilus rothia and veillonella were differentially abun- dant in the primary hnscc samples collected from the larynx and pharynx compared to the normal samples table .when the samples were pooled by status compared to the normal to the primary hnscc samples the abundance of fusobacterium prevotella and capnocytophaga increased whereas streptococcus veillonella parvimonas lactobacillus and rothia significantly decreased fig.
+
+matched samples normal primary metastatic were examined to assess the accuracy of using microbial diversity to predict normal and hnscc tissue conditions.based on our community analyses the two major differences that were detected in these tissues were related to the abundance of members of the phyla fusobacteria and firmicutes fig.
+
+statistically significant differences in the abundance of proteobacterial populations was present when comparing primary and metastatic tumor samples but not when comparing normal and primary tissue samples fig.
+
+there was 1 fusobacterium otu that was more abundant in the metastatic tissue samples compared to primary tissue samples.the comparison between normal versus metastatic tissue samples was the most disparate in terms of quantity of differential otus which resulted in 104 otus.
+
+the primary and metastatic hnscc samples pooled together with a tighter clustering pattern com- pared to the normal samples and the greatest clustering was noted within the metastatic samples fig.
+
+the predictive accu- racy of the random forest analysis was 39 54140. the majority of misclassifications were metastatic samples misclassified as primary tumor samples and primary tumor samples misclassified as metastatic samples table .
+
+our results demonstrated that the accuracy was low in predicting primary and metastatic samples 19 37 but greatly improved when we grouped the primary and metastatic samples into a single group as 'unhealthy' 76 table .
+

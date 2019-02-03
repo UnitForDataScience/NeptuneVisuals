@@ -1,0 +1,30 @@
+kf747018 psychrobacter sp.kf722342 uncultured psychrobacter sp.ln624621 halomonas titanicae kj416384 halomonas venusta otu halomonasjf499685 halomonas sp.otu pseudomonasln831950 pseudomonas taiwanensis1 kr054998 pseudomonas putida kc178587 pseudomonas oryzihabitansdq991194 xanthomonas axonopodis otu stenotrophomonaskm251298 stenotrophomonas sp.. fj482062 stenotrophomonas nitritireducens cr628336 legionella pneumophilae1 cr628337 legionella pneumophilaecarsonella ruddii sydneykt273280 carsonella ruddii mycopsylla ficigammaproteobacteria0.78carsonella ruddii brisbane carsonella ruddii lhi carsonella ruddii aucklandaf211145 carsonella ruddii panisopelma sp.af077606 carsonella ruddii pachypsylla venusta0.96otu enterococcus kp789119 enterococcus sp.
+
+brisbane lhi auckland sydney males sydney females and sydney nymphs 2 the population data which included only males of the four populations and 3 the sex and stage data which included only males females and nymphs from the sydney population.we calculated the relative abundance of each otu for ev- ery individual.
+
+the latter showed that different populations of a single species harboured different microbiomes both in terms of diversity and relative abundance.in addition to their natural ranges many insect species are now found in new locations due to human activities such as global trade .
+
+in contrast we hypothesised that m. fici from sydney brisbane and lord howe island lhi have different microbiomes likely due to the fact that they face a different climate and longer diver- gence time.
+
+3 relative sequence read abundance of the three major otus in a males of different populations and b different stages and sexes within the sydney population of m. fici.
+
+we also observed differences in relative sequence read abundance of the three main otus between m. fici populations that add insight on the colonisa- tion history of this host species.stream-lined microbiomethe three main endosymbionts recovered carsonella an un- named s-endosymbiont and wolbachia confirmed the find- ings of a previous analysis using shotgun sequencing of total genomic dna from two species of mycopsylla .
+
+here we aimed to assess 1 whether host popu- lation structure m. fici also defines geographic structure in microbiome diversity and composition 2 the effect of a re- cent m. fici introduction event to new zealand and 3 the importance of host sex and developmental stages on bacterial symbiont communities.materials and methodsinsect sampling and 16s ribosomal dna amplicon sequencingfor this microbiome study we chose eight individual males from each of four populations which are sydney lhi and brisbane all in the natural range in australia and auckland new zealand table s1.
+
+681297-1309. doitamames j gil r latorre a et al 2007 the frontier between cell and organelle genome analysis of candidatus carsonella ruddii.
+
+doinakabachi a yamashita a toh h et al 2006 the 160-kilobase genome of the bacterial endosymbiont carsonella.
+
+the pairwise comparison of sydney and auckland was not statistically different amova f  3.3 p  0.1. three otus wolbachia s-endosymbiont and carsonella were responsible for the sample groupings along the pcoa axes.
+
+ruddii s-endosymbiontwolbachiabacterial endosymbiontabundance of carsonella multiplied by 100. means with different letters were significantly different using kruskal-wallis testsfig.
+
+various insect species  tiger mosquito  black soldier fly .grenier et al.
+
+the p-endosymbiont carsonella was acquired from a single infection event100-250 mya followed by long-term co-speciation   as proven by the observation of co-cladogenesis be- tween host species and carsonella .
+
+other studies of insect microbiomes using different regions of the 16s rdna gene and different primer sets such as the v4 region  or the v6- v7 regions  have found higher percentages 51-65 and 10-72 of carsonella reads amongst their microbial se- quences than we did here.
+
+16214-218. doigueguen g vavre f gnankine o et al 2010 endosymbiont metacommunities mtdna diversity and the evolution of the bemisia tabaci hemiptera aleyrodidae species complex.
+

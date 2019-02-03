@@ -1,0 +1,30 @@
+mat mean annual temperature degc map mean annual precipitation mm soil c soil total c content of 0-10 cm soil soil n soil total n content of 0-10 cm soil soil p soil total p content of 0-10 cm soil.
+
+to explore which environmental variables explained most of the variation in microbial community composition we included soil depth soil moisture ph soil c content soil n content soil p content mi- crobial biomass c and n as explanatory variables.all statistical analyses were performed with the statistical software r version 3.2.2.  using the package asreml   and the package vegan  with the ado- nis and envfit functions.resultseffects of n fertilization on soil c n and p content and phsoil c n p and ph differed strongly among different soil depths be- tween subtropical and temperate forests and fig.
+
+table entries are f-values with significance levels indicated by asterisks p b 0.05 p b 0.01 p b 0.001. treat n-fertilization treatment factor with three levels stc total c content per gram dry soil mg g-1 stn total n content per gram dry soil mg g-1 stp total p content per gram dry soil mg g-1.note the uppercase letters in the table indicate a soil microbial biomass c mg kg-1 mbc b soil microbial biomass n mg kg-1 mbn c soil microbial biomass c to microbial biomass n ratio mbcmbn d total plfas content nmol g-1 e bacterial plfas content nmol g-1 f gram-positive bacterial plfas content nmol g-1 g gram-negative bacterial plfas content nmol g-1 h fungal plfas content nmol g-1 i actinomycetic plfas content nmol g-1 j arbuscular mycorrhizal fungal plfas content nmol g-1.d.
+
+second each sample was separated into four subsamples to measure soil moisture contents of carbon nitrogen phosphorus and ph microbial biomass and community composition respectively.measurements of soil contents of c n and p and soil moisture and soil ph2.1.
+
+however n fertiliza- tion generally decreased soil ph and  p  0.04 especially at the 0-10 cm soil depth in subtropical forests where the value of soil ph was below 5 a-b for wys 0-10 cm soil p  0.07.table 2 effects of predictors i.e.
+
+on the con- trary microbial biomass and community structure remained relatively stable in the temperate forests where the average soil ph was 5.7. fur- thermore we found that ph together with other soil properties soil n and c content soil moisture etc.
+
+moreover soil arbuscular mycorrhizal fungi content significantly de- creased with increasing n fertilization at 0-10 cm soil depth in the sub- tropical forests  p  0.02.effects of n fertilization on microbial community compositionthe results of redundancy analysis rda showed that overall mi- crobial community structure and specific taxonomic groups of bacteria fungi and actinomycetes in subtropical forests responded significantly to both n50 and n100 fertilization  except d and h all cases with p b 0.05. in the temperate forests microbial community composi- tion was relatively stable across the different n fertilization treatments  for all cases p n 0.05.furthermore by investigating the specific microbial taxonomic groups indicated by plfa makers table s1 we observed a consistent decrease of the relative abundance of fungi with increasing n fertilizertable 3effects of fixed factors on soil microbial biomass and microbial plfas analyzed by linear mixed-effects models.
+
+although many studies have documented effects of n deposition on plant growth  it still re- mains uncertain how n deposition affects soil microbes and soil nutrient cycling .a previous meta-analysis of 82 field studies revealed that n deposi- tion has negative effect on microbial biomass across different biomes .
+
+twelve for each treat- ment and the control.soil samplingat the end of july 2015 4-5 years after the start of the fertilizer ap- plication we took soil samples from 3 depths of the mineral soil layer after moving the surface litter layer in nine plots at each site.
+
+a second subsample of 30 g was air-dried and then used to deter- mine soil nutrient content including soil total c total n total phosphorus p and ph.
+
+science of the total environment 607-608 2017 1367-13751369table 1general information on four forests sites in the neecf project used in the present study.site location altitude mat mapgrowingsoil typedominantsoil c soil n soil p phsincen deposition treetreestand basalmdegc mmseason monthsspeciesmg g-1dbhcmheight maream2 ha-1gh genhe wy wuying gnj guniujiang wys wuyishan.
+
+during chloroform fumigation the time of soil incubation in gaseous chcl3 was extended from 24 h to 48 h in our experiment to fully kill all soil mi- croorganisms.
+
+after chloroform fumigation the soil samples were ex- tracted using the solution of 0.5 moll k2so4 and the soil extracted solution was then analyzed by multi nc 3100 using oven oxidation method analytik jena jena germany.
+
+forest types subtropical or temperate and n treatments ck n50 n100 were used as predictor variables and the factor soil depth was used as strata to restrict per- mutation within the same soil depths according with .
+
+soil c and n content and ph in temperate forests were significantly higher than that in subtropical forests while soil p showed the opposite pattern.
+

@@ -1,0 +1,30 @@
+appl microbiol biotechnol 2017 1016447-6457 doi 10.1007s00253-017-8388-0the gut eukaryotic microbiota influences the growth performance among cohabitating shrimpwenfang dai 12  weina yu12  jinjie zhang 1  jinyong zhu1  zhen tao1 jinbo xiong 12received 16 march 2017  revised 7 june 2017  accepted 10 june 2017  published online 12 july 2017 springer-verlag gmbh germany 2017abstract increasing evidence has revealed a close interplay between the gut bacterial communities and host growth per- formance.
+
+structural equation modeling revealed that changes in the gut eukaryotic community were positively related to digestive enzyme activ- ities which in turn influenced shrimp growth performance l  0.97 p  0.001. overgrown shrimp exhibited a more complex and cooperative gut eukaryotic interspecies interac- tion than retarded and normal shrimp which may facilitate their nutrient acquisition efficiency.
+
+hence understanding how gut eukaryotic microbiota affects host growth performance is of signifi- cant interest.considering limited information on the relationship be- tween gut eukaryotic microbiota and host growth perfor- mance we characterized eukaryotic communities among three categories retarded overgrown and normal subjects of cohabitating shrimp.
+
+this design allowed us to i determine the relationship among gut eukary- otic community digestive activities and shrimp growth per- formance ii screen dominant genera that contribute differ- ences among retarded normal and overgrown shrimp catego- ries and iii evaluate to what extent that the interspecies interaction of gut eukaryotic microbiota was associated with shrimp growth performance.materials and methodsexperimental design and sample collectionin this study investigated shrimp ponds are located in xiangshan ningbo in eastern china 29deg 29' 11.37'' n 121deg 48' 27.30'' e. there are six cement bottom ponds which are uniform in size 3000 m2 and depth 1.2 m. to maintain a suitable dissolved oxygen level these greenhouse ponds were aerated at the bottom supplementary fig.
+
+we established the sem to validate i whether the gut eukaryotic community directly influenced shrimp growth performance and ii whether the gut eukaryotic community led to changes in enzyme activity which in turn affects shrimp growth per- formance.
+
+no signif- icant differences were observed between samples from the gut and corresponding water and those between gut and unrelated water eukaryotic communities for each shrimp category supplementary fig.
+
+2 nmds plots visualize dissimilarities among retarded normal and overgrown shrimp gut and water eukaryotic communities based on the bray-curtis distancedissimilarities in eukaryotic community among the three shrimp categories these otus primarily belong to chloroplastida alveolata  and holozoa lineages supplementary table s3.the gut eukaryotic communities were significantly corre- lated with shrimp weightsize and enzyme activities mantel test p  0.05 in all cases supplementary table s4.
+
+the gut eukaryotic community contributed significantly positive l  0.23 p  0.05 effects on enzyme activities which in turn promoted shrimp body weightsize l  0.97 p  0.001. by contrast direct effects of the gut eukaryotic communities on shrimp body weightsize were rel- atively weak l  0.05 p  0.148 fig.
+
+notably variations in gut eukaryot- ic community directly translated into changes in digestive en- zyme activities which further affected shrimp growth perfor- mance though the direct effects of gut eukaryotic microbiota on shrimp growth performance were relatively weak fig.
+
+for this reason future work should explore the interplay between shifts in gut keystone species and host growth performance.to our knowledge no study has explored the correlation between the gut eukaryotic microbiota and shrimp growth performance.
+
+to fill this gap we used illumina sequencing technology on eukary- otic 18s rrna gene to compare the structures of gut eukary- otic communities among cohabitating retarded overgrown and normal shrimp obtained from identically managed ponds.
+
+results showed that a significant difference between gut eu- karyotic communities differed significantly between water and intestine and among three shrimp categories.
+
+in summary this study provides an integrated overview on directroles of gut eukaryotic communities in shrimp growth perfor- mance instead of well-studied bacterial assembly.keywords shrimp growth performance .
+
+gut eukaryotic community .
+
+interspecies interactionintroductionaccumulating evidence has shown that gut microbiota plays significant roles in host physiology and metabolism such roles include promoting nutrient digestibility efficient harvest of energy and acting as barrier against pathogen invasion flint et al.
+

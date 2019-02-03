@@ -1,0 +1,24 @@
+prokaryotescomplete genome sequence of the plasmid-bearing lactobacillus fermentum strain snuv175 a probiotic for women's health isolated from the vagina of a healthy south korean womansunghee leeab hyun ju youcde bomi kwonc gwangpyo koabcecenter for microbiome therapeutics kobiolabs inc. seoul republic of koreaa n-bio seoul national university seoul republic of koreab department of environmental health sciences graduate school of public health seoul national university seoul republic of koreac institute of health and environment seoul national university seoul republic of koread center for human and environmental microbiome seoul national university seoul republic of koreaeabstract lactobacillus fermentum snuv175 has been identified as a probiotic strain that inhibits pathogenic microorganisms related to women's health.
+
+here we present the complete genome sequence of this functional probiotic strain.in order to perform the complete genome sequencing of the strain l. fermentum snuv175 massive sequencing technology was implemented using the pacbio platform pacific biosciences menlo park ca usa.
+
+we pres- ent the complete genomic sequence of the strain l. fermentum snuv175 isolated from the vagina of a south korean woman.
+
+help main- tain an acidic environment and produce bacteriocins that inhibit potentially pathogenicmicroorganisms .in this study the strain lactobacillus fermentum snuv175 isolated from the vagina of a healthy south korean woman showed functional properties in the treatment of vaginal infection caused by lactobacilli deficiency.
+
+the l. fermentum snuv175 genome was compared with reference strain l. fermentum ifo3956 genbank accession no.
+
+ap008937.1 using the rapid annotations using subsystems technology rast server .
+
+a 20-kb library was constructed with purified dna on a single-molecule real-time smrt cell and was sequenced using p6-c4 chemistry with a data collection time of 4 h. the sequencing run provided a total of 125532 reads with quality scores q20.
+
+the three plasmids ranged between 29 and 33 kb in size psnu175-2 33413 bp gc content 40.0 psnu175-3 33071 bp gc content 39.6 andpsnu175-3 29166 bp gc content 43.8.the assembled genome sequences were annotated using the prokka annotation pipeline version 1.11  which predicted trna rrna and mrna genes.
+
+curated virulence factors and antibiotic resistance genes were estimated using islandviewer3  against the virulence factor database vfdb  and the comprehensive antibiotic resistance database card .volume 5 issue 12 e00045-17 1lee et al.the genome contains 2272 cdss 59 trnas and 15 rrnas.
+
+through this comparison we detected 116 elements not present in the published strain l. fermentum ifo3956.
+
+fermentum snuv175 may lead to deeper understanding of the mechanisms involved in its effect against bacterial vaginosis.accession numbers.
+
+2008. the rast server rapid annotations using subsystems technology.
+

@@ -1,0 +1,30 @@
+approximately 39  of all identified nonredundant proteins were detected in the phyllospheres of all tree species in our study whereas approx- imately 7  of all nonredundant proteins were observed only in the phyllosphere of t. serratifolia 2  in the phyllosphere of m. schottiana and 2  in the phyllospheres of the ocotea species supplementary material table s4.the most abundant pfam domains in the phyllospheres ofm.
+
+comparing the pfam domains of the 20 most abundant proteins in the phyllospheres of the atlantic forest trees to the pfam domains of the 20 most abundant proteins in the phyllospheres of soy- bean clover and arabidopsis  and to the 20 most abundant pfam domains enriched in the phyllosphere of rice  we observed that no pfam domain was shared among all phyllospheres supplementary material fig.
+
+r. lambais 1  s. e. barrera1  e. c. santos 1  d. e. crowley2  a. jumpponen3received 25 february 2016  accepted 10 october 2016  published online 16 november 2016 springer sciencebusiness media new york 2016abstract the phyllosphere of the brazilian atlantic forest has been estimated to contain several million bacterial species that are associated with approximately 20000 plant species.
+
+significance tests after 1000 permutations provided support for distinct bacterial communities among the tree species p  0.05. even though the variation in the communities among the conspecific individuals was smaller than between individuals of different species fig.
+
+bars represent the 95  confidence intervalson the 95  confidence intervals pseudomonas frequency was lower in the ocotea species the unclassified candidate division tm7 frequency was lower in o. dispersa sphingomonas and singulisphaera occurred in similar fre- quencies in the four plant species and the unclassified spartobacteria da101 was less frequent in t. serratifolia.
+
+notwithstanding the characterization of the evolutionary mechanisms of the phyllosphere bacteria associated with plant species from distinct environments is essential for better un- derstanding of the mechanisms controlling their interactions on plant surfaces.the assignments of the identified proteins to bacterial tax- onomic groups using unipept  revealed that approximately 80  of the proteins were similar to proteins from the species of gammaproteobacteria supplementary material fig.
+
+who proposed that different species within guilds such as the phyllosphere share functional traits and a core suite of func- tional genes regardless of the community species composi- tion.
+
+however acetylene reduction assays on other plant species suggest that biological nitrogen fixation in the phyllosphere is common among plant species in the atlantic forest lambais et al.
+
+in this study we characterized the bacterial communities in the phyllospheres of four tree species of the atlantic forest mollinedia schottiana ocotea dispersa ocotea teleiandra and tabebuia serratifolia and their metaproteomes to exam- ine the basic protein functional groups expressed in the phyllosphere.
+
+in contrast to prior studies on crop plants and arabidopsis a low abundance of otus related to methylobacterium and no proteins associated with the metab- olism of one-carbon molecules were detected in the phyllospheres of the tree species studied here.
+
+in addition to specific traits associated with the habitats of individual plant species a suite of environmental factors also affects the microbial communities of all phyllospheres.
+
+peptide mass spectra were deposited in the pride database  under accession number pxd002246 doi .results and discussionwe evaluated the taxonomic composition and metaproteomes of bacterial communities in the phyllospheres of several tree species in an experimental preserve of a pristine atlantic forest using pyrosequencing of the 16s rrna gene and lc- esi-q-tof of trypsin-digested proteins respectively.16s rrna gene sequencingwe acquired a total of 9260 valid gs-flx sequences after omission of reads with missing primers or dna tags se- quences containing more than one ambiguous base or shorter than 200 nucleotides or representing chimeric and putative chloroplast sequences.
+
+several other bacterial genera also differed in their frequencies in the phyllospheres supplementary material table s2.approximately 50  of the sequences from the phyllosphere of m. schottiana o. dispersa o. teleiandra and t. serratifolia clustered into 38 39 52 and 22 otusrespectively representing approximately 4.6 4.7 6.3 and2.7  of all detected otus in each tree species.
+
+however we detected methylobacterium-related otus at very low abundances approximately 1.5  supplementary material table s2 and no enzymes associated with one- carbon molecule metabolism were detected in the phyllospheres of the examined tree species.
+
+even though data on leaf growth rates and longevity for the trees sampled in our study are not available it is plausible that otus related to methylobacterium are more abundant on the surface of young leaves and in the phyllosphere of plants with a short lifespan such as most of agricultural plants than in mature leaves of perennial species and mature trees.although diverse bacterial taxa composed the phyllosphere communities in our study all phyllospheres shared a core set of proteins involved in processes that are essential for growth and maintenance of biofilms on the leaf surface.
+

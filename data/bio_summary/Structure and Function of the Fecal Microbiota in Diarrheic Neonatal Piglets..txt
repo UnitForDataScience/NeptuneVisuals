@@ -1,0 +1,30 @@
+otu19 prevotella stercorea and otu25 bacteroides caccae were more abundant in diarrheic piglets whereastable 1  significant differences in relative abundance of otus at species level between diarrheic and healthy piglets.otu1 escherichia coli otu116 enterococcus cecorum otu10 lactobacillus delbrueckii otu79 streptococcus luteciae otu135 collinsella aerofacie otu77 and otu106 ruminococcus gnavus otu70 eubacterium biforme otu170 sharpea azabuensis otu56 clostridium hathewayi and otu91 clostridium perfringens were more abundant in healthy piglets.microbial co-occurrence networks amongst marker generathe co-occurrence networks from the 15 marker genera were constructed for the diarrheic and healthy piglets based onspearman's correlation coefficient r separately and supplementary table s3.in general there tended to be negative correlations between obligate anaerobes and facultative anaerobes in healthy samples however in diarrheic piglets these correlations were either reduced in extent or became positive.
+
+md and mh represents the diarrheic sample and healthy sample md and mh represents the metagenomic data from the diarrheic and healthy sample 16sh and 16sd represents the16s rrna gene sequencing data from diarrheic and healthy sample.figure s2  the distribution of kegg functional categories in diarrheic and healthy piglets.
+
+pca plots showed that functional profiles of the fecal microbiome in diarrheic piglets significantly differed from those in healthy subjects and the variability in diarrheic piglet is higher than that in healthy subjects.referencesalain b. p. e. chae j. p. balolong m. p. bum k. h. and kang d. k. 2014. assessment of fecal bacterial diversity among healthy piglets during the weaning transition.
+
+finally20 fecal samples 10 diarrheic and 10 healthy among those collected samples were further chosen for this study healthy samples were selected from the litters with diarrheic piglets.
+
+spearman's correlation analysis was used to assess pivotal functional associations with the bacterial taxa irrespective of statistical threshold.results16s rrna gene profiles in diarrheic and healthy pigletswe sequenced the v4 hypervariable region of 16s rrna gene to identify the fecal bacterial community diversity and composition in diarrheic and healthy piglets.
+
+at the genus level bacteroides was the most dominant in both groups other major genera included escherichia lactobacillus prevotella parabacteroides clostridium memberof clostridiaceae oscillospira phascolarctobacterium p-75- a5 and clostridium member of lachnospiraceae these genera accounted for more than 50 of total sequences .differences of community diversity and bacterial composition between diarrheic and healthy pigletsalpha diversity measures of the fecal bacterial community showed negligible differences between diarrheic and healthy piglets i.e.
+
+diarrhea vs. healthy 6.05 0.16 vs. 6.21 0.20and 642.30 16.90 vs. 617.20 23.80 for shannon index and species richness respectively wilcoxon rank-sum test p  0.05 while beta diversity the variability of otu community structure between samples was higher for diarrheic piglets than for healthy controls wilcoxon rank-sum test p  0.01 .
+
+similarly the nmds plot showing the dissimilarity of microbial community also revealed distinct structure between diarrheic and healthy piglets  and the anosim for differences between the two groups was significant r 0.8536 p 0.001 this observation was supported by unweighted pair-group method with arithmetic means upgma analysis based on the weighted unifrac distances .significant differences in the major taxonomical profiles mean relative abundance  0.1 of fecal microbiota between diarrheic and healthy piglets was further identified using metastats analysis  and supplementary table s2.
+
+in addition to the phylum and genus there were significant differences between the diarrheic and healthy groups in nine classes eight orders and 13 families mean relative abundance  0.1 q  0.05 see in supplementary table s2.when comparing the taxonomical profiles at the otu level 13 otus that can be assigned to species showed significant difference in relative abundance between diarrheic and healthy piglets mean relative abundance  0.1 q  0.05 .
+
+the most obvious example is the negative correlation between the prevotella with the genera escherichia streptococcus and proteus in healthy piglets r  0.6 p  0.05. in diarrhea piglets the genus prevotella was positively correlated with campylobacter r  0.6 p  0.01. the protective genus lactobacillus was negatively correlated with most of obligate anaerobes in healthy piglets but was positively correlated with prevotella andruminococcus in diarrheic piglets r  0.6 p  0.05. these transitions will probably enable pathogenic microorganisms to thrive under diarrheic conditions.
+
+to investigate the composition and functional potential of the fecal microbiota in neonatal piglets we performed 16s rrna gene sequencing on 20 fecal samples from diarrheic piglets and healthy controls and metagenomics sequencing on a subset of six samples.
+
+we found striking compositional and functional differences in fecal microbiota between diarrheic and healthy piglets.
+
+demonstrated that neonatal diarrheic piglets had decreased actinobacteria and firmicutes as well as increased enterococcus and e. coli compared with healthy piglets.
+
+however to the best of our knowledge the response of functional characteristics to the perturbation of microbiota in piglet diarrhea remains unclear.in this study we examined the microbial composition and function of fecal samples from 20 diarrheic and healthy neonatal large white piglets using 16s rrna gene sequencing and followed by metagenomic sequencing of a subset of the samples.
+
+our results indicate striking differences in microbial abundance and function between diarrheic and healthy neonatal piglets.
+

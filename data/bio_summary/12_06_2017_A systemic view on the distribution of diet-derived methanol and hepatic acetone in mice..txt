@@ -1,0 +1,30 @@
+in addition pca and hierarchical clustering clearly separated samples from mice fed a chow diet from lfd mice.
+
+animal models for human disease such as mutant mice provide the possibility to reproduce genetic predisposition to disease thereby allowing in-depth analysis of metabolic and biochemical functions.
+
+for this we fed c57bl6n mice a grain-based chow or a purified low-fat diet thereby modifying the emission of methanol in breath whereas acetone levels were unaffected.
+
+our findings are a first step to the systemic mapping of voc patterns to metabolic functions in mice because differences between vocs could be traced to different sources in the body.
+
+for such approaches stable iso- tope-labeled substrates were administered in mice to follow up specific vocs sinues et al .
+
+evidently mammalian model organisms such as laboratory rats or the c57bl6n mouse facilitated pilot work in this field aprea et al  szymczak et al  huppe et al  kistler et al  sinues et al .we investigated systemic voc distribution in organs blood feces urine and breath of male c57bl 6n mice that were fed a purified low-fat experimental diet or standard laboratory chow.
+
+by using such a system-wide approach the so far largely unex- plored links between several tissues and vocs that finally contribute to the sum signal presented in breath can be investigated and mapped to metabolic functions.material and methodsanimal housing and diet regimesmale mice n34 were housed in type iil poly- carbonate cages with individual ventilation tecni- plast italy in specific pathogen-free conditions at the german mouse clinic gmc fuchs et al .
+
+all mice had ad libitum access to pelleted laboratory chow no.
+
+from the age of 32 weeks on mice were randomly assigned to either continued chow diet feeding or a semi-purified lfd low fat e 15000-04 ssniff soest germany for a period of 3 weeks until the voc analysis measurements were conducted.
+
+all experiments were performed following animal welfare regulations supervised by the district government of upper bavaria regierung von oberbayern.analysis of vocs from ad libitum fed mice was performed between 7 am and 1 pm.
+
+mice were in a postprandial state as they typically feed in the early morning hours.
+
+chow and lfd mice were measured in alternating order to remove potential systemic bias.
+
+mice were weighed immediately before the voc mea- surement to the nearest 0.1 g.proton-transfer reaction tof mass spectrometrya high-sensitivity ptr-ms ionicon analytic gmbh innsbruck austria with a resolution of m dm2000 was used.
+
+we previously found it elevated in the exhaled breath of mice in response to feeding a grain-based chow diet compared to a pur- ified control diet kistler et al .
+
+we hypothesized that breath21.0221 no mz 29.9971 and the two high mass peaks provided by the built-in permascal unit c6h5i mz 203.9431 and c6h5i2 mz 330.8481.a total of 306 peaks were selected manually from the spectra using ptr-ms viewer version 3.2.1.2 ioni- con analytic gmbh innsbruck austria.real-time voc analysis in unrestrained and anaesthesized micea setup and protocol for real-time measurement of vocs in unrestrained mice using respiratory cham- bers was again applied as described previously szymc- zak et al  kistler et al  .
+

@@ -1,0 +1,30 @@
+apicola nucleotide diversity for each individual bee and compared this to the nucleotide diversity present in the entire population of sampled bees figure 2. we found that most individual bees have lower allelic diversity than the entire population indicating that indi- vidual bees possess distinct variants of g. apicola and s. alvi fig- ure 2. at the individual bee level we observed a high level of variation in nucleotide diversity for these two species even in con- trol bees but at days 3 5 and 7 polymorphism was substantially reduced in most treated bees figure 2. however the allelic diver- sity was not reduced in some treated bees which could indicate that the different variants of s. alvi and g. apicola were not equally impacted by the treatment figure 2. decreased allelic diversity is correlated to increased relative abundancein a previous study we showed that antibiotic treatment alters either the relative or absolute abundance of all core species in the honeybee gut microbiota raymann et al.
+
+2012. antibiotic treatment was associated with an increase in fst for both markers of s. alvi and for the g. apicola marker rimm p  .0001 wilcoxon test not significant for the pfla marker indi- cating that treated bees are more differentiated from one another than are the control bees figure 4. this finding suggests that the antibiotic treatment resulted in different allelic compositions that is different variants survived andor expanded following treatment.to analyse the disruptive effect of antibiotic treatment on allelic composition in more detail we built a haplotype network for each gene marker for each treatment day by evenly subsampling bees.
+
+identification of selective sweepswe defined robust populations of g. apicola or s. alvi as those that likely resisted antibiotic treatment based on a relative abundance of over 40 for each species of the total gut community following antibiotic treatment based on 16s rdna gene profiling data from raymann et al.
+
+we found a strong differentiation of s. alvi allelic diversity across bees fst  0.7- 0.8. in contrast g. apicola allelic diversity is much less differentiated across bees fst  0.2-0.3. these results indicate that g. apicola is more frequently exchanged across bees andor that g. apicola engages in homologous recombination with other conspecifics more frequently than s. alvi engel et al.
+
+2017. however the impact of antibiotic treatment on the genetic diversity within these two species could not be characterized with this method.here we applied deep amplicon sequencing of protein-coding gene loci to follow the fine-scale dynamics of two closely associatedand abundant members of the honeybee core gut microbiome s. alvi and g. apicola after antibiotic perturbation.
+
+2016. despite this simplicity strain diver- sity within each of these species is high engel stepanauskas  moran 2014 powell ratnayeke  moran 2016 and the honeybee gut community is spatially organized with most of the bacteria resid- ing in the hindgut kwong  moran 2015. the bee gut community affects growth and metabolism kesnerova mars ellegaard  troilo 2017 zheng powell steele dietrich  moran 2017 as well as immune function and susceptibility to pathogens kwong mance- nido  moran 2017. disrupting this community with antibiotics increases mortality and susceptibility to pathogens raymann shaf- fer  moran 2017. two gram-negative members of the honeybee gut microbiome gilliamella apicola and snograssella alvi dominate in the ileum region of the hindgut where they form a biofilm on the gut wall with s. alvi in direct contact with the host epithelium andg.
+
+2017 recently showed that move- ment of tetr genes among strains of g. apicola and s. alvi is highly dynamic and is affected by recent history of antibiotic exposure.in agreement with a selective sweep scenario for g. apicola we observed three alleles in pfla that reached fixation in nearly all treated bees that displayed a high relative abundance of g. apicola.
+
+this find- ing further suggests that the treatment resulted in heterogeneous allelic compositions through differential variant survival.in some treated bees s. alvi and g. apicola did not appear to be affected by antibiotic treatment.
+
+therefore we defined a sub- group of bees that we refer to as robust bees based on their gut communities exhibiting an increase in relative abundance of s. alvi or g. apicola following antibiotic treatment.
+
+in s. alvi the two gene markers gave similar results consistent with a previous study suggesting that s. alvi recombines less frequently than does g. apicola moran et al.
+
+in fact we did not observe a significant difference in g. apicola or s. alvi genetic diversity between control and treatment bees sampled on day 0 post- treatment.
+
+2017 antibiotic treatment increased the number of g. apicola variants defined at 99 otus suggesting that the diversity of g. apicola increased following treatment.
+
+species genus and not at the strain level.unlike s. alvi the absolute number of g. apicola cells did not decrease in the bee gut after treatment and their relative abundance significantly increased raymann et al.
+
+in our previous study we found that antibiotic treatment resulted in an increase in the relative abundance of g. apicola with little to no effect onabsolute abundance and a decrease in absolute abundance of s. alvi with no effect on relative abundance raymann et al.
+
+2016. overall we found some variability in the response to antibiotic treatment across s. alvi and g. apicola within individual bees.
+

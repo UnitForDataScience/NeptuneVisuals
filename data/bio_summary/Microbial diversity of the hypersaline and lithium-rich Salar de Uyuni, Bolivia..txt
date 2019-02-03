@@ -1,0 +1,30 @@
+microbiological research 199 2017 19-28microbial diversity of the hypersaline and lithium-rich salar de uyuni boliviagotz haferburgjanosch a.d. groningnadja schmidtnicolai-alexeji kummerjuan carlos erquiciamichael schlomanna interdisciplinary ecological center environmental microbiology group tu bergakademie freiberg leipziger strasse 29 09599 freiberg germanyb institute of microbiology allmandring 31 d-70569 stuttgart germanyc institute of hydrogeology and environmental geology tu bergakademie freiberg gustav-zeuner-strasse 12 09599 freiberg germanyd tomas frias autonomous university potosi boliviaa r t i c l ei n f oa b s t r a c tarticle historyreceived 21 february 2017accepted 25 february 2017available online 27 february 2017keywordssalar de uyuni bolivian altiplano hypersaline lake salt flat haloarchaeahalophilic extremophiles 16s rrna metagenomicssalar de uyuni situated in the southwest of the bolivian altiplano is the largest salt flat on earth.
+
+salar de llamara laguna jachucoposa laguna tebenquiche and salar de ascotan  surpris- ingly investigations regarding the halophilic microbial diversity of salar de uyuni have not been published yet to the best of our knowl- edge.
+
+yilgarn craton in western australia harbors a system of ephemeral acidic hypersaline lakes that are fed by saline groundwater of up to 28 salinity and extreme ph 2.4 to moder- ate ph 4-6 acidity the acidic brine is inhabited by a diverse microbial community including haloar- chaea hydrochemically brines of salar de uyuni have been investigated in detail but stud- ies on extremely halophilic microorganisms are missing yet  during several sampling cam- paigns moderately acidic brines of ph values between 4.62 and5.84 were found in a section of the southeastern shore of salar de uyuni in the current study we present the composition of microbial communities dwelling in near neutral and slightly acidic lithium-rich hypersaline brines at four sampling location across the salar.material and methodssite descriptionsalar de uyuni is located in the southwest of bolivia confined by the cordilleras real and occidental as part of the central altiplano it covers an area of 10582 km2 at an altitude of 3653 m within the department potosi.
+
+1. location of the salar de uyuni bolivia within the south american altiplano a. overview of the salar highlighting the brine pools selected for sampling b.amount of estimated 5.4 million tons the salar de uyuni is ranked one of the lithium-richest deposits in the world extremely halophilic microorganisms occur in brine solutions of at least 10 wv salt up to saturation  likewise they can inhabit fluid inclusions of pri- mary or secondary halite crystals and survive or even thrive for millions of years as salt-entrapped cell entities  the halobacteria's confusion to biology larsen's famous lecture on the life of halophiles at the borderland of physio- logical possibilities is continuously repeated for good reasons although some bacterial genera as e.g.
+
+it has been modified to the new pair pro341fpro805r to reach higher coverage also for archaeal rrna gene sequences future ngs based community analyses of habitats from salar de uyuni are planned to be performed with this modified primer pair.the 16s rrna-based metagenomic analysis of the brine pool samples from salar de uyuni revealed a clear predominance of the class halobacteria.
+
+the species richness of the archaeal commu- nity within the less saline neighbouring salar de huasco amounts to sace  44  thus it is far lower than the observed species in the samples of salar de uyuni.
+
+even if the limited taxonomic resolution of the v3-v4 region for halobacteria is considered it seems likely to discover new hitherto undescribed genera of the family halobacteriaceae in this particular habitat of salar de uyuni in future.c 2017 elsevier gmbh.
+
+all rights reserved.introductionin many regards the salar de uyuni offers a plethora of geo- logical and hydrochemical superlatives.
+
+the only permanent sur- face inflows occur south of uyuni through the rio grande de lipez and the rio colorado.
+
+a lacking outflow makes the salar de uyuni a gigantic endorheic basin that encloses stratified salt and mud layers up to a total depth of at least 121 m the salt lay- ers consist of halite nacl and minor amounts of gypsum caso4 whereas the mud layers of lacustrine sediments mainly contain cal- cium carbonate intermixed with gypsum.
+
+however particularly salar de uyuni offers the opportunity to study microbial communities of polyextremophilic organisms in their resilience towards hypersalinity intense uv radiation high lithium and boron concentrations and in various ph ranges.only few brine habitats have been investigated with respect to the composition of halophilic microbial communities with specialemphasis on acidic ph.
+
+thus climatic conditions define salar de uyuni as a desert.
+
+activity of thermal springs in lacustrine sediments is supposed to be the rea- son for the dissolution of salt and a subsequent emergence of brine pools at sampling point p3 sampling sites and sample collectionbrine samples from four wells located in the north and east of the salar de uyuni were collected aseptically.
+
+100 ml brine was collected in september 2014 sampling locations p2 p4 and p5 are in close vicinity to solar salterns operated by local salt workers and d. the sampling location p3 is situated within an area of scattered brine pools at the eastern shore of the salar de uyuni close to the settle- ment colchani.
+
+microbiological research 199 2017 19-28table 1geographic position of sampling sites.table 2hydrochemical parameters of the four investigated brine wells of the salar de uyuni.needleman-wunsch pairwise alignment algorithm database ver- sion silva ssu v.123 was applied  filtered alignments were selected to generate a pairwise distance matrix followed by binning the sequences into operational taxonomic units otus at 3 cutoff corresponding approximately to species and genus levels respectively.
+

@@ -1,0 +1,30 @@
+further specifics of analyses can be found at results and discussionwe identified groups of otus that consistently changed in abun- dance contributing to the characteristic diseased coral micro- biome a reduction in resident otus associated with certain coral colonies colony-specific residents an increase in other resident otus primary responders and colonization by foreign bacteria primary colonizers.
+
+we therefore focused on otus that were more abundant in dosed corals that ultimately displayed disease signs.we identified otus as primary responders if they i were absent from the dose ii were present in time-one corals iii differed significantly by final disease state in time-two and three corals iv were more abundant in dosed diseased corals than controls and v did not differ significantly by colony site or the interaction of site and inoculant.we identified otus as primary colonizers if they 1 were more abundant in the dose than the control inoculant ii dif- fered significantly by final disease state iii were more abundant in dosed diseased corals than control corals at both times two and three and iv did not differ significantly by colony site and the interaction of inoculant and inoculant site.secondary otus differed significantly by final disease state and were more abundant in dosed diseased than control corals at time three but not time two.
+
+.secondary otus are not consistent across sitethe majority of the 1906 identified secondary otus were nei- ther responders 44 otus nor colonizers 222 otus.
+
+these otus equally abundant in dosed corals that re- mained healthy and dosed corals that displayed disease signs are unlikely to be the sole cause of the disease.primary responders in the phylum bacteroidetes which in- cludes families flavobacteriaceae 26 otus cryomorphaceae 22 otus and saprospiraceae 20 otus appeared to respond to both the disease dose and the general stress of the tank en- vironment by increasing in all corals including controls at time three fig.
+
+instead their pattern of abundance was similar to primary colonizer otus belonging to other families including campylobacteraceae 25 otus francisellaceae 38 otus and pasteurellaceae 26 otus--only colonizing corals prior to the development of disease signs and proliferating as the disease progressed fig.
+
+moving away from a static comparison of diseased and healthy bacterial communities we provide a framework to identify key players in other coral diseases.keywords coral disease white band disease staghorn coral acropora cervicornis pathogenesis symbiotic microorganismsintroductionmarine invertebrates are home to some of the most widely stud- ied and complex bacterial symbioses.
+
+these en- dozoicomonas may only survive in healthy coral tissues in other species of coral they have been identified in the endodermal tissues of the host coral bayer et al.
+
+the increasingly algae-dominated panamanian reefs may promote new coral pathogens that cause macroscopic signs similar to canonical wbd.while we identified some consistent actors in the diseased coral microbiome we did not explain the majority of variation between samples indicating there are other factors not exam- ined in this study that shape the coral microbiome.
+
+rhodobacteraceae seem to be important players in health and dis- ease for multiple coral species mouchka hewson and harvell  glasl herndl and frade  possibly as opportunists or as defensive symbionts helping the host to fight off infection by foreign bacteria.primary colonizers are likely putative primary pathogenswe identified primary colonizers as 265 otus that originated in the disease dose and preferentially colonized corals prior to the development of disease signs likely after chemotaxing through the water column towards the host coral and attach- ing to its surface fig.
+
+otus were then grouped according to significance of glmm terms and post hoc calculated means and mean abundance of a subset of otus was plotted using ggplot2 wickham .otu group definitionswe identified colony-specific healthy residents as otus that dif- fered significantly by colony at time one and by final disease state at times two and three with a higher abundance in control than dosed diseased corals.
+
+otus are grouped by family and the number of otus in each group is noted on the top of the mean abundance bar.ck4 55 otus and had the second highest mean abundance af- ter methylococcaceae.
+
+this controlled infection experiment allowed us to answer two main questions about the diseased coral microbiome i where do these disease-associated bacte- ria originate and ii when do they increase in abundance we expected the final diseased-coral microbiome to be shaped by increased abundances of both bacteria originating in the dose here referred to as colonizers and bacteria that were found a priori on the corals responders increasing in abundance ei- ther before primary or after secondary development of dis- ease signs.materials and methodstank infection experimentan infection experiment was set up in july 2014 using acropora cervicornis from two sites ck4 and ck14 600 m apart in coral cay bocas del toro panama site.
+
+the final disease state of a coral was determined based on whether or not that coral ultimately showed disease signs.
+
+for example even though a sample collected at time two came from a healthy-looking coral if that coral displayed disease signs at time three the sam- ple's final disease state was diseased.
+
+the coral pathogen vibrio corallilyticus uses the coral metabolite dimethylsulfoniopropi- onate to locate potential hosts garren et al.
+

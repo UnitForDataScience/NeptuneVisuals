@@ -1,0 +1,30 @@
+the subnetworktable 2 network statistics associated with distinct atacama desert aridity classes and modified arid and margin communities randomly sampled to a community richness level equal to the hyperarid communityacommunity richness modified to the hyperarid levelamedian values are reported for each aridity class.
+
+in addition network analysis revealed a deterioration in the density of significant associations between taxa along the arid to hyperarid gradient a pattern that may compromise the resilience of hyperarid communities because they lack properties associated with communities that are more integrated.
+
+nitrates and sulfates were consistently present at depth at all hyperarid sites but their concentrations at the depth of 10 to 20 cm differed significantly between hyperarid sites fig.
+
+in contrast avgsoilrh was low across all hyperarid sites table s1 and thus represented an environmental variable that explained the unique composition of the hyperarid microbial communities that was more consistent and significant than the presence of nitrates or gypsum.
+
+the modified arid and margin communities then had size and degree values comparable to those corresponding to the original hyperarid network  but the average path length betweenness centralization and betweenness values of the modified arid and margin communities were lower than those of the original unmodified hyperarid community .
+
+the arid and margin communities therefore retain higher connectivity than the hyperarid community even when their richness is artificially modified to the level of the hyperarid community.in conclusion the data suggest that the decrease in community connectivity is not simply an artifact of reduced community richness.
+
+within the hyperarid network this taxon was associated with just four of the seven hyperarid clusters.
+
+analysis is limited to phyla with site ra  0.1. aridity class labels h hyperarid m margin a arid as defined in the text.planctomycetes r2  0.76 with the arid communities characterized by 5- to 133-fold greater ras of these taxa than the hyperarid locations .
+
+co-occurrence patterns in soils have been associated with groups of microbes sharing similar ecological niches  thus the hyperarid island topology may indicate a distinct ecological structure for hyperarid soils in which microbial communities separate into isolated assemblages.
+
+graphical representations for the subnetwork arid margin and hyperarid data had rmt thresholds of 0.82 0.92 and 0.84 respectively.some network statistics are impacted by community richness and our three climate classes arid margin and hyperarid differ in their levels of community richness.
+
+here we document correlations between increasing aridity and soil bacterial and archaeal microbiome composition along arid to hyperarid transects traversing the atacama desert chile.
+
+in summary results suggest that arid-soil microbiome stability is sensitive to aridity as demonstrated by decreased community connectivity associated with the transi- tion from the arid class to the hyperarid class and the significant correlations ob- served between soilrh and both diversity and the relative abundances of key micro- bial phyla typically dominant in global soils.importance we identify key environmental and geochemical factors that shape the arid soil microbiome along aridity and vegetation gradients spanning over 300 km of the atacama desert chile.
+
+in this study we exploited steep aridity gradients present in the atacama desert of northern chile to identify specific deterministic factors explaining variation in soil microbial communities in the arid and hyperarid subclasses of dryland ecosystems 0 to 120 mm of mean annual precipitation map.
+
+further we hypothesize that soils with higher average soil relative humidity support denser more tightly connected communities and thatfig 1 map of site locations for baquedano red and yungay yellow transects.the transition from arid to hyperarid moisture regimes is characterized by a significant decrease in networks of co-occurring taxa within the soil microbiome.results and discussionsoil samples were collected in march 2012 from two parallel west-east elevational transects traversing the atacama desert 250 to 300 km from the pacific ocean near antofagasta to the western slopes of the andes near the argentinian border  see also table s1 in the supplemental material.
+
+elevation and rainfall in the atacama desert are closely linked and abundant soil salt and hence hyperarid conditions are confined to 3150 masl along the yun transect and to 2500 masl along the moister baq transect.
+

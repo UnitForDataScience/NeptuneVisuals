@@ -1,0 +1,30 @@
+0  control 1  18 nm spheres 2  43 nm spheres 3  150 nm rods 4 200 nm cubes 5  900 nm cubes 6  25 nm spheres 7  50 nmspheres 8  78 nm rods 9  100 nm spheres 10  400 nmspheres 11  100 nm hexagon 12  150 nm hexagon 13  400 nm hexagon 14  500 nm hexagon.
+
+the particulate forms for 150 nm 200 nm and 900 nm zno smps and rod-shaped 78 nm nano-cu mainly affected the soil microbial metabolic potential while the cu ions released from spherical 25 nm nano-cu 500 nm cu smps and pb ions released from perovskites mainly described the effects to bacterial communities.
+
+the spherical 50 and 100 nm nano-cu showed similar ion release percentages 21-24. approximately 33 of 25 nm nano-cu and 43 of the 500 nm cu smps were dissolved after 96 h. the 78 nm rod- shaped nano-cu showed the lowest ion release rate 14 among all suspensions b. the release of pb ions from 100 and 150 nm hexagonal-shaped perovskites were similar and yielded ion release percentages of 75-78 while 400 and 500 nm hexagonal-shaped per- ovskites display lower ion release percentages of 50-57 at 96 h c. it was also showed that smaller particles of nano-zno and smps nano-cu and perovskites releasing higher amount of ions.
+
+com- paring the ec50 values of the same metal type of enms and smps with different shapes and sizes the spherical 18-43 nm nano-znoparticle had lower ec50 values 1.07-1.52 mgl than the rod-shaped 150 nm and cuboidal 200-900 nm zno smpsparticle 2.06-2.17 mgl d. the ec50 values of spherical 25-100 nm nano-cuparticle 0.28-0.56 mgl were lower than the rod-shaped 78 nm nano- cuparticle 0.74 mgl e. depending on the different shapes of the same type of enms and smps spherical particles were found to be the most toxic among all the tested particles followed by rod and polygonal shaped particles.
+
+both particulate forms and ionic forms of spherical 18 nm 43 nm nano-zno and 50 nm 100 nm nano-cu contribute to the overall response at the ec50 levels.
+
+however the decrease of the concentrations of 500 nm spherical cu smpparticle 26 was higher than the concentrations of rod-shaped 78 nm nano-cuparticle 4 which was due to the higher ion release of spherical 500 nm cu smp than the rod-shaped 78 nm nano-cu e. the decrease of the concentration of perovskitesparticle was even higher up to 13-37 after 96 h depending on the size of the particles f.responses of bacterial communities following exposure to enms and smpsthe dose-response curves of suspensions of enms and smps and their corresponding metal salts are provided in a-c in which the response was expressed as average well color development awcd values of ecoplates in proportion to the control.
+
+the particulate forms for 150 nm 200 nm and 900 nm zno smps and rod-shaped 78 nm nano-cu were the dominant factors governing soil bacterial community utilization carbon sub- strates or metabolic potential.
+
+data are mean - sd n 3.perovskites with the same shape were found to be more toxic than larger sizes f. however the ec50 value of spherical 500 nm cu smps 0.45 mgl was lower than the ec50 value of rod-shaped 78 nm nano-cu 0.74 mgl which was due to the morphology according to the tem observation that rough surface of 500 nm cu smps may cause fast decomposition of the particles.in addition the ec50 values of particulate forms of enms and smps based on initial measured concentrations ci and twa concentrations ctwa are also listed in .
+
+in addition both particulate forms and ionic forms of spherical 18 43 nm nano-zno and 50 nm 100 nm nano-cu contributed to the overall re- sponse at the ec50 levels.
+
+afterdissolution behaviors of enms and smpsthe concentrations of the ionic forms of enms and smps dissolved from the enms and smps are shown in a-c. the overall trend observed was that dissolution appeared to be occurring at a greater rate in the first two time intervals and then levels off after 80 h. the relative amounts of dissolved zn ions were different for differently shaped and sized nano-zno with spherical 18-43 nm nano-zno releasing more zn ions 38-45 whereas only 12-17 of zn ions released from cuboidal 200-900 nm zno smps a. there was a higher cu ion release percentage of spherical nano-cu than in case of the rod-shaped parti- cles.
+
+this could be explained by the largest net surface area however the 500 nm cu smps released more cu ions than 78 nm nano-cu which was due to the smaller particle size of cu smps suspended in the media according to the tem observation.based on the measured total exposure concentrations and ion re-lease profiles of enms and smps the concentrations of the particulate forms during 96 h of incubation in the exposure medium are presented in d-f. the results illustrate that the exposure concentrations for all the particulate form of enms and smps decreased along with time depending on the shapes and sizes of enms and smps.
+
+for the spherical 18-43 nm nano-zno concentrations of the particulate zn after 96 h incubation were 8-10 less than the initial concentrations while slight differences were found in the zn concentrations of 150-900 nm zno smpsparticle along with time d. after 96 hfig.
+
+the ionic forms exhibited higher toxicity than the particle forms to the overall response when bacterial communities exposed to 25 nm nano-a nano particles enms.b submicron particles smps.cu 60 and 500 nm spherical cu smps 76 because of the high levels of cu ions released in the suspensions and high toxicity of cu ions.
+
+note- worthy the ionic form of perovskites contributes far more than the particulate forms and cu ions also contributed significantly when bacterial communities were exposed to 25 nm nano-cu and 500 nm smps.
+
+toxicity caused by the ionic metal species has been reported with spherical 2.8-10.5 nm nano-ag on escherichia coli  20 nm nano-zno on saccharomyces cerevisiae  pseudokirchneriella subcapitata  and nano-ag on hela and a549 cells  including membrane damage mitochondrial damage oxidative stress ros and lipid per- oxidation .
+

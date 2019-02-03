@@ -1,0 +1,30 @@
+2016. however the diversity and specificity of nonsymbiotic microbes associated with legume roots their interactions with the symbiotic microbes and their responses to soil conditions and plant growth remain unclear.therefore the objectives of this study were as fol-lows i to investigate the hierarchical community com- positions of microbes in the four rhizocompartments of legumes - nodule endosphere root endosphere rhizo- sphere and root zone a narrow region outside the rhi- zosphere - providing a spatial gradient to assist in observing the variation in the microbial community from the outer soil to the nodules ii to clarify the structure and composition of legume nodule endo- phytes and iii to illustrate the effects of legumespecies and soil types on the microbial community of each rhizocompartment.materials and methodssoil collection and preparationfarmland soil samples representing the main chinese soil types - chernozem ch mollisol in heilongjiang pro- vince 46deg24010.2''n 125deg21059.5''e cinnamon soils ci alfisol in shaanxi province 34deg4014.88''n 108deg3608.28''e and red earth re acrorthox in jiangxi province 28deg21041.5''n 115deg5500.80''e - were collected separately.
+
+3.the analysis of similarities anosim revealed no sig- nificant difference in microbial communities among bulk soil before planting and at the three sampling stages r  0.1432 p  0.136. anosim revealed a striking difference between the structure of bulk soil and root zone soil microbial communities r  0.1254 p  0.012. the pcoa of all samples based on wuf and uuf con- firmed that the endophytic microbiomes clearly sepa- rated from the soil microbiomes as shown in fig.
+
+c d mean relative abundances  of dominant lineages phylum level in the rhizocompartments nodule root rhizosphere and root zone and bulk soil of soya bean c and alfalfa d. colour figure can be viewed at wileyonlinelibrary.comcompared to that of other rhizocompartments the com- position and structure of microbial communities of the root zone soil were more similar to those of the bulk soil as shown in the venn diagram fig.
+
+substantial components of significantly enriched microbes in nodule c compared with bulk soil root zone soil and rhizosphere soil.
+
+substantial components of significantly depleted microbes in nodule compared with bulk soil root zone soil rhizosphere soil and root d. colour figure can be viewed at wileyonlinelibrary.comsignificantly enriched in nodules belonged to ensifer bradyrhizobium escherichia tardiphaga hydrogenophaga porphyromonas gordonia and other genera fig.
+
+however the interactions among nodule endo- phytes rhizospheric microbes plant species and soil type have not been sufficiently investigated.previous studies of the interactions between plant roots and microbial communities in the rhizosphere have found that nodule-forming legumes are different from other plants due to their symbiosis with diverse bacteria rhizobia in alphaproteobacteria and betapro- teobacteria weir 2016. specific associations between legume species and rhizobial species are determined by symbiotic genes on both sides but are also regulated by soil conditions mendes et al.
+
+1 the flow chart of the experimental design and the sketch of four rhizocompartments which include nodule endosphere root endosphere rhizosphere soil and root zone soil.
+
+each time the samples consisted of four rhizocompartments nod- ule root rhizosphere soil and root zone soil fig.
+
+finally a total of 234 dna samples two plant species 9 three soils 9 three periods 9 four rhi- zocompartments 9 three replicates  three bulk soil no plant cultivation 9 three periods  three bulk soil be- fore transplantation 9 three replicates were used for pcr amplification of the v4-v5 regions and the subse- quent metagenomic sequencing fig.
+
+s1 supporting information.metagenomic dna was extracted from the soil sam- ples 0.5 g for each using the fastdnar spin kit for soil mp biomedicals solon ca usa and from plant tissues roots and nodules 0.5 g each with a dna secureplant kit tiangen biotech beijing china according to the manufacturers' instructions.
+
+the shannon-weiner index and richness significantly increased in the order of nodule  root  rhizosphere  root zone soil figs 2a and s3 tables s3 and s4 supporting information.our results showed that there were significant differ- ences in the shannon-weiner indexes of the micro- biomes of root endosphere rhizosphere and root zone samples among the soil types table s3 supporting information.
+
+in the pre- sent study the discovery that soil type has a major effect on the soil rhizosphere and root zone microbiome and that the plant species had major effects on the endophytic microbiomes supports the suggestion that niche-related selection of functional groups of microbes causes the fil- tration in rhizocompartments.
+
+mexicoabstractthe microbiomes of rhizocompartments nodule endophytes root endophytes rhizo- sphere and root zone in soya bean and alfalfa were analysed using high-throughput sequencing to investigate the interactions among legume species microorganisms and soil types.
+
+the rhizosphere and root zone micro- bial communities were largely influenced by soil type and the nodule and root endophytes were primarily determined by plant species.
+
+in summary this study demonstrated that the enrichment process of nodule endophytes follows a hierarchical filtration and that the bacterial communi- ties in nodule endophytes vary according to the plant species.keywords 16s rrna gene amplicons bacterial community illumina sequencing nodule endo- phytes rhizocompartmentsreceived 16 june 2016 revision received 10 november 2016 accepted 24 december 2016introductionas the driving force in the transformation of organic matter and nutrients soil microorganisms play a vital role in the stability and sustainability of ecosystems kennedy  smith 1995. among plant-associated microorganisms microbiota in the rhizosphere have attracted extensive attention bulgarelli et al.
+

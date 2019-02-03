@@ -1,0 +1,30 @@
+the standard deviation of y at the end of the trajectory sy was somewhat smaller in the cg than in the non-cg case 19.99 versusmm p  0.062. the histogram of the angles between the origin and the end-points of each trajec- tory showed a narrower spread in the cg than the non- cg case.
+
+the path tortuosity was close to 1 in the cg sub- strate 1.07 - 0.03 whereas it was greater than 1 in the non-cg case 1.46 - 0.07. this implies that trajec- tories were much straighter in the cg substrate than in the non-cg case and is consistent with the histo- gram of the angular distributions showing a narrower spread in the cg .the forward migration index fmi represents the preferred direction in the cell movements in 2d spacenxfmi 14 1nxienddiaccumi141 nyfmi 14 1nyienddiaccumi141here 1  i  n is the index of the cells the first cell has the index 1 the last one n x- or y-end is the final position of the trajectories at each time interval in the x and y-axis respectively and daccum is the accumulated distance.
+
+although mechanisms of cg remain elusive  it is now well known that cg cues can drive the elongated shape of a single cell migrat- ing in isolation  fine-tune the differentiation abilities and functions of such a cell  and promote a rapid cell migration .
+
+our results indicate that the combination of cg and empty space compared with empty space alone attenuates the path variance by 72 and augments the migration direc- tionality and coordination by 36. as such cg causes collective cellular migration to become substantially more efficient.methodslentivirus production and transductionin all experiments we used madin-darby canine kidney mdck type ii cells that were gfp labeled for the tight junction protein zo-1.
+
+in addition fingering instabilities appeared at the leading edge in both systems although the fingers in the cg regions were far sharper .trajectories of cells on the cg substrate comparedwith non-cg substrate were not only faster but also straighter .
+
+because cell speeds between cg and non-cg substrates were systemically different we compared trajectory shapes to quantify the effect of cg.
+
+overall cg caused the x variance sx to decrease by 67 and the y variance sy to decrease by 21 .to better understand the effects of the cg on the advancing cell monolayer we quantified the cell trajec- tories in terms of the migration speed path tortuosity and x or y forward migration indices xfmi and yfmi defined below .
+
+standard deviation sspeed was far larger in the cg substrate than in the non-cg case 0.05 versus 0.02 mmmin p  0.005. thelarger deviation sspeed of migration speed in the cg substrate compared with non-cg substrate was attri- butable to intermittent hesitation in forward move- ments and caterpillar-like contraction-elongation .
+
+moreover yfmi was 1.3-fold larger in cg substrate than in the non-cg case p  0.005. these three metrics the migration speed path tortuosity and fmi were mutually consistent and taken together suggest that cg benefits the migration coordination by roughly 30  40.nam et al.
+
+more controlled conditions for the study of cellular motions can be pro- vided by defined grooved patterning of the cell substrate on the micro-nano scale in a process called contact gui- dance cg .
+
+however the effects of cg on collective cellular migration and cellularcooperativity are not well defined .
+
+nevertheless so far a fully comprehensive picture of the collective cell behavior in epithelial wound repair with consideration for cg has not yet been achieved.
+
+here we report a quantitative analysis of collective cellular migra- tion into an empty space with and without cg cues.
+
+chan school of public health 665 huntington avenue boston ma 02115 usacolor versions of one or more of the figures in the article can be found online at .c 2017 taylor  francissoft lithography to create microgroove patterns we have studied the effect of cg on the migration of the advancing madin-darby canine kidney mdck monolayer.
+
+a total of approximately 200 cells were analyzed from multiple independent experi- ments 4 movies 1300 min each for non-cg substrate and 5 movies 800 min each for cg substrate.
+

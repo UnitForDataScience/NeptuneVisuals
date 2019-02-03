@@ -1,0 +1,30 @@
+thus gut microbiota could be a successful biomarker for cancer diagnosis.phylogeny and function of gut microbiota are linked 29. different microbial communities determine different microbial functions and productions thereby contributing to the pathogenesis and development of different diseases 37-39. based on lda selection gut microbial functions involved in leucine and lps biosynthesis enriched whilefigure 6 functional prediction of microbial genes associated with pc using picrust.
+
+importantly based on 40 genera associated with pc microbial markers achieves a high classification power with auc of 0.842. in conclusion gut microbial profile was unique in pc providing a microbial marker for non-invasive pc diagnosis.introductionpancreatic carcinoma pc an aggressively lethal cancer with a poor prognosis is a common cancer worldwide accounting for 216000 new cases annually and has approximately 23 of 1-year survival and 5 of 5-year survival 1 2. there are 46000 estimated new cases and 39590 deaths in the united states 3. it is essential to search for new techniques to improve thediagnosis prognosis and survival of pc.
+
+the gut microbial composition taxonomic difference microbial function prediction and microbial markers were performed.resultsa total of 102 patients with pancreatic neoplasm and 65 hc with matched age gender and body mass index bmi were enrolled initially.
+
+moreover compared to pch-o 6 functions including inosine monophosphate biosynthesis c5 isoprenoid biosynthesis non mevalonate pathway and tyrosine biosynthesis increased whereas 5 functions including threonine biosynthesis sorbitol mannitol transport system and shikimate pathway of phosphoenolpyruvate decreased in pch-uno supplementary data file 6 figure 6b suggesting that these microbial gene functions are closely associated with the bile in the gut.classification power of microbial markers associated with pcto explore classification potential of gut microbial markers in pc area under the receiver operating characteristics curve auroc was performed using the abundance of the bacteria with biggest difference between pc and hc.
+
+the results showed that gut microbial diversity was decreased in pc with an unique microbial profile which partly attributed to its decrease of alpha diversity.
+
+notably 98.0665 and 92.3249 of all reads were assigned into family and genus levels respectively.gut microbial diversity is decreased in pcgut microbial diversity was analyzed after equalizing sample sizes to 15000 reads by random subtraction.
+
+a representative cladogram of fecal microbial structure indicated a significant gut microbial imbalance in pc supplementary figure 4. at the genus level 15 taxa mainly including prevotella veillonella klebsiella selenomonas hallella enterobacter andcronobacter were significantly enriched while 25 taxa mainly including gemmiger bifidobacterium coprococcus clostridium iv blautia flavonifractor anaerostipes butyricicoccus and dorea were remarkably reduced in pc versus hc based on lda selection figure 4c.
+
+these results suggest that gut microbial alterations in pc present significant increase of some potentialfigure 2 microbial alpha diversity decreased in pc patients shown by shannon diversity index.
+
+to further illustrate gut microbial changes along pc progression we analyzed microbial difference between stage i and stage ii.
+
+the results indicated that genera lactobacillus haemophilus and streptococcus were significantly enriched in stage ii versus stage i pc patients figure 5f which might provide novel therapeutic targets to prevent pc progression.functional prediction of microbial geneassociated with pcphylogeny and function of gut microbial community are linked.
+
+the phylogenetic investigation of communities by reconstruction of unobserved states picrust version1.0.0 pipeline 29 and human version 0.99 30 were used to construct kegg pathwaymodule profile and predict functional capacity of microbial communities using 16s rrna marker gene sequences supplementary data file 4. based on lda selection compared with hc 23 predicted microbial functions including leucine biosynthesis isoprenoid biosynthesis non mevalonate pathway and lps biosynthesis enriched while 13 functions includingfigure 5 identification of crucial bacteria associated with the bile in the gut for pc.
+
+gut microbial diversity is significantly decreased and microbial profile is unique in pc partly attributed to the decrease of alpha diversity.
+
+importantly based on the 40 genera associated with pc microbial markers achieve a high classification power between pc and hc providing non-invasive bio-markers for pc diagnosis.gut microbial imbalance in chronic diseases including t2d 33 inflammatory bowel diseases 34 and liver cirrhosis 35 are unique for each disease.
+
+a the 23 predicted microbial functions including leucine biosynthesis isoprenoid biosynthesis non mevalonate pathway and lps biosynthesis were significantly enriched while 13 functions including type v atpase in prokaryotes spermidine putrescine transport system and histidine biosynthesis were remarkably reduced in pc patients versus hc shown by lda score log 10. b the 6 predicted microbial functions including inosine monophosphate biosynthesis c5 isoprenoid biosynthesis non mevalonate pathway and tyrosine biosynthesis were significantly increased whereas 5 functions including threonine biosynthesis sorbitol mannitol transport system and shikimate pathway of phosphoenolpyruvate were decreased in pch-uno versus pch-o patients shown by lda score log 10. picrust phylogenetic investigation of communities by reconstruction of unobserved states lda linear discriminant analysis hc healthy controls pc pancreatic carcinoma pch pc head pch-o pch with obstruction of common bile duct pch-uno pch with unobstruction of common bile duct.spermidine putrescine transport system and histidine biosynthesis reduced in pc.
+
+these microbial functional alterations were consistent with microbial taxonomic changes in pc.
+

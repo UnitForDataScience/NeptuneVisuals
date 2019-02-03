@@ -1,0 +1,30 @@
+and n.j.l.. other sources of contamination are cross-over from previous sequencing runs presence of the phix control dna that is typically used in illumina-based sequencing protocols and human or host dna.library preparation and sequencingthe choice of library preparation and sequencing method rests on availability of materials and services cost ease of automation and dna sample quantification.
+
+we recommend that researchers use both approaches for sequence analysis whenever possible as they complement and validate each other.as for technological improvements in the sequencing of community dna long-read sequencing platforms have matured and are likely to become useful for metagenomics assembly strategies although publi- cations are few at present.
+
+alternatively a two-tiered approach in which shotgun metagenomics is carried out on a subset of samples that have been pre-screened with less expensive microbial surveys such as 16s rrna gene sequencing may be adopted n.s..controls can be difficult to obtain especially for samples from com- plex environments.
+
+one such method shotgun metagenomics is the untargeted 'shotgun' sequencing of all 'meta-' microbial genomes 'genomics' present in a sample.
+
+human mucosal tissues are crucial interfaces between microbes and the immune system but sequencing the mucosal microbiome with shotgun metagenomics is very challenging due the extremely high fraction of human dna and the low microbial biomass.shotgun metagenomic studies also present opportunities such asintegrative meta-omics.
+
+for large data sets with hundreds of samples on which performing or interpreting metagenomics assembly is imprac- tical marker-based approaches are currently the method of choice especially for environments with a substantial fraction of microbial diversity covered by well-characterized sequenced species.genes and metabolic pathways from metagenomeswith a fragmented but high-quality metagenome assembly the genetic repertoire of a microbial community can be identified using adapted single-genome characterization tools.
+
+approaches such as high-throughput 16s rrna gene sequencing which profile selected organisms or single marker genes are sometimes referred to as metagenomics but this is a misnomer as they do not target the entire genomic content of a sample.in the 15 years since it was first used metagenomics has enabled large- scale investigations of complex microbiomes c.q.
+
+reports suggest that this approach is useful for metagenomics especially when coupled with standard shotgun sequencing as it can recon- struct genomes from closely related strains as well as those from rare microorganisms.another outstanding problem in shotgun metagenomics is the accurate reconstruction of strain-level variation from mixtures of genetically related organisms with several proposed solutions c.q.
+
+computational quality control qc steps minimize fundamental sequence biases or artifacts such as removal of sequencing adaptors quality trimming removal of sequencing duplicates using for example fastqc trimmomaticor picard tools.
+
+although complementing dna sequencing with rna protein and metabolomic high-throughput assays is possi- ble with shotgun metatranscriptomics mass-spectrometry-based metaproteomics and metabolomics it is unclear how to integrate and analyze meta-omic data within a common framework.virome shotgun sequencing.
+
+and n.j.l.4 so the portability of the minion raises the tantalizing pos- sibility of metagenomic sequencing in the field.an alternative experimental approach to improving genome recon- struction from metagenomes couples illumina sequencing chemistry with a multiplexed pooling library preparation protocol.
+
+understanding the functions and characterizing specific strains of these communities offers biotechnological promise in therapeutic discovery and innovative ways to synthesize products using microbial factories and can pinpoint the contributions of microorganisms to planetary animal and human health.high-throughput sequencing approaches enable genomic analyses ideally of all microbes in a sample not just those that are amenable to cultivation.
+
+shotgun sequencing can be used to profile taxonomic composition and functional potential of microbial communities and to recover whole genome sequences.
+
+the extraction method must be effective for diverse microbial taxa otherwise sequencing results may be dominated by dna derived only from easy-to-lyse microbes.
+
+the miseq or miniseq may still be useful for sequencing a limited number of samples or to assess library concentrations and barcode pool balancing providing confidence of good results before running on the higher-throughput instruments where individual runs may cost 10000.metagenome assemblynumerous approaches for computationally reconstructing microbial community composition from a pool of sequence reads have been published.
+

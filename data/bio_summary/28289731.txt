@@ -1,0 +1,30 @@
+furthermore otus picked within individual data sets cannot be merged when different centroid sequences are chosen in each data set limiting the ability to combine otu results.
+
+here we describe deblur a novel sub-otu sotu method for fast and accurate identification of exact sequences in amplicon studies and show how it can be used to integrate large data sets.similar in concept to ampliconnoise  a denoising method for pyrosequencing deblur like dada2  and unoise2  attempts to obtain single-nucleotide resolution from illumina data with statistical methods to infer the putative true sequences within a sample that give rise to the distribution of observed error-prone sequences.
+
+an interactive visualization can be viewed at  the coloring used in the static image can be made by selecting the centerprojectname as the scatter field.however we are unaware of a mode of operation free or full version capable of operating on modern large-scale data sets.next we compared dada2 and deblur using a complex natural community and a previously published data set of fecal samples from two species of howler monkeys .
+
+using simulations mock mixtures and real data sets we detected closely related bacterial sequences with single nucleotide differences while removing false positives and maintaining stability in detection suggesting that deblur is limited only by read length and diversity within the amplicon sequences.
+
+because deblur operates on a per-sample level it scales to modern data sets and meta-analyses.
+
+to highlight deblur's ability to integrate data sets we include an interactive exploration of its application to multiple distinct sequencing rounds of the american gut proj- ect.
+
+this algorithm provides a solu- tion to the problem of identifying real ecological differences between taxa whose amplicons differ by a single base pair is applicable in an automated fashion to large-scale sequencing data sets and can integrate sequencing runs collected over time.keywords dna sequencing microbiomen important goal of microbiome research is identifying taxa present in a given sample.
+
+the data were rarefied to 5000 sequences per sample.
+
+run center of sequencing with a subset of american gut project data.
+
+although ap- proaches such as closed-reference and open-reference otu picking  reduce this problem integrating large data sets into a single otu space remains a challenge.
+
+gt data denote the expected ground truth relative frequency for each sotu as informed by the design of the mock community.
+
+dendrograms and colors are the same as described for panel a.using simulated mock and real data sets we compared the performance of deblur with the performance of dada2 and unoise2.
+
+most analyses using real data sets did not complete using the free version of unoise2.
+
+reads were simulated from this real community using art  to produce illumina-like sequence data.
+
+using the miseq data generated from a 22-member commu- nity mock-3  trimmed to the first 150 nucleotides nt due to poor 3 quality we observed that all methods produced results that were close to the ground truth .stability i.e.
+

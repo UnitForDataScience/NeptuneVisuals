@@ -1,0 +1,30 @@
+.gavin c pokrovskii a prentice m sobolev v. 2006. dynamics of a lotka-volterra type model with applications to marine phage popula- tion dynamics.
+
+members of the plankton ecosystem viruses bacteria archaea protists and metazoans have recently been systematically collected in their natural habitats  to explore ecosystem dynamics at the ocean scale.
+
+different levels of abstraction can be defined determined by the community dynamics at the core of the research question.
+
+developed a glv model to describe the dynamics of marine phages preying on bacteria .
+
+the equation form of the model is interpreted as a cooperation mechanism for phage predation andpredicts that the community follows kill-the-winner dynamics where blooming periods are followed by rapid decay.
+
+individual-based models ibms --sometimes referred to as agent-based models--implement monte carlo tech- niques to introduce the randomness required to model the dynamics of single indi- viduals.
+
+under- standing the metabolic cooperation dynamics is fundamental and the bacterial com- position relative abundance and spatial distribution of the species of a biofilm is mainly determined by three processes that take place within the film i conversion of substrates by bacteria ii volume expansion of biomass and iii transport of substrates by molecular diffusion.
+
+where solute diffusion and reaction dynamics are considered to be in a quasi-steady state with respect to biomass growth.
+
+in dynamic fba dfba  for example metabolism is considered to occur faster than external metabolite concentration changes and it is modeled with cbms at a quasi-steady state whereas the slower external dynamics are modeled as differential equations.
+
+coupled these temporal dynamics with spatial discretization in a modeling framework that integrates dfba and pdes.
+
+simulations of cross-feeding bacterial communities could predict cooperation and competition dynamics emerging from the spatial distribution of colonies and nutrients followed by experimental verification.smriga et al.
+
+2016. challenges in microbial ecology building predictive understand- ing of community function and dynamics.
+
+2014. mathematical mod- eling of microbial community dynamics a methodological review.
+
+.salta m wharton ja blache y stokes kr briand j-f. 2013. marine biofilms on artificial surfaces structure and dynamics.
+
+1994. partial differential equa- tions in ecology spatial interactions and population dynamics.
+

@@ -1,0 +1,30 @@
+this can be done using a variety of software for example trim galoretrimmomaticsickleor prinseq.detecting and quantifying resistance genes in metagenomesgaining insights into the resistance gene content of a microbial community from sequence data requires the ability to detect re- sistance genes among sequence fragments derived from a multi- tude of different genes.
+
+diluting the database with such genes means that the total resistance gene content will undoubtedly be overestimated as many of these target genes are ubiquitously occurring essential genes highly conserved between bacterial species.
+
+such approaches have been implemented in assem- blers such as trimetassand the sat-assembler.assembly of genes existing in multiple genomic contextsthe greatest obstacle to enabling the assessment of the context of mobile resistance genes identified in metagenomic data is the na- ture of the resistance genes themselves.
+
+that said since sequence data can be stored and re-used later shotgun metagenomics allows the retrospective analysis of resistance genes identified after the initial study has been completed.shotgun metagenomics has been applied to quantify the abundances of many resistance genes in parallel for example in environments subjected to pharmaceutical pollutionsewage treatment plants-sea watertap waterand the human gut.however in terms of measuring specific gene abundances metagenomics is less sensi- tive i.e.
+
+in the case of mobilized genes their sequences show limited vari- ation once they have appeared on mobile genetic elements mges.because of the inherent dependency on sequence simi- larity selecting an appropriate sequence identity cut-off for calling a matching read a resistance gene becomes crucial.at the same time reads come with a certain degree of sequencing errors and there might be slight differences between resistance genes that do have the same function.
+
+the x-axis is log- transformed for viewing purposes.based on bioinformatic analysis of sequence similarity will never be more accurate than that of the reference sequences select- ing a reference database with high-quality annotation is crucial.simply put if the database only contains resistance genes against b-lactams you will likely grossly underestimate the number of resistance genes present.
+
+on the other hand if the database contains genes incorrectly predicted to have resist- ance functions the abundance and diversity of resistance genes in the sample will be overestimated.
+
+the arg-annot database employs what they refer to as 'relaxed search criteria' to identify resistance genes which in reality means that the database contains a multitude of sequences with poor annotation information and that many entries are unlikely to be functional resistance genes.
+
+genes containing such point mutations may indeed provide resistance but are rarely trans- ferable between bacteria and are--importantly--very similar to the susceptible variants of the target genes.
+
+the database web site clearly states that target genes are present among its sequences and also provides a separate dataset with the target genes removed for use in metagenomic studies.
+
+the use of mg-rast to annotate re- sistance genes has led to some peculiar reports suggesting that al- most 1 in 25 genes found in human faeces would confer antibiotic resistance.the non-stringent identity cut-offs used by default in mg-rast are likely to be a major cause of these results.
+
+however although the rrna genes are well studied and often applied for normalization purposes they can occur in multiple cop- ies within the same genomeand thus other single-copy bac- terial marker genes have been suggested for normalization such as the ribosomal protein rpob gene.that said since these normalization methods have not yet gained traction and because of the legacy of qpcr studies the 16s rrna remains the most com- mon normalization gene for studies of bacterial communities.
+
+such variation may occur for example because of differing 16s rrna copy numbers or because not all variants of the marker gene of choice are detected by the methods used which is a common problem particularly whenread lengths are short.there are also completely different approaches to normalization used in rnaseq based on minimizing the overall fold change between experiments thereby attempting to reduce technical noise.similar thoughts have been carried over into recent metagenomic analysis packagesalthough the task of identifying a subset of genes that can be assumed to be stable between samples is not as straightforward in data from communities comprising mixtures of species.an additional factor that also may influence gene abundance estimates based on reads mapped to a reference database is the length of the reference genes.
+
+however in many explorative studies the bonferroni correction is regarded as too conservative and therefore more relaxed approaches such as the benjamini-hochberg false discovery rateare commonly used in large-scale experiments to control the num- ber of false-positive observations.measuring abundance and diversity of resistance genesnot only the abundance of resistance genes in certain settings may be of importance for determining risks but also the diversity of such genes found.
+
+however it is debated how to best establish the diversity of resistance genes for example whether or not the relative abundances of different genes should be taken into ac- count.
+

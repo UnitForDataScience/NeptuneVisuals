@@ -1,0 +1,26 @@
+prokaryoteswhole-genome shotgun sequence of salmonella bongori first isolated in northwestern italyangelo romanoa alberto bellioa guerrino macoribc paul d. cotterbc daniela manila bianchia silvia gallinaa lucia decastelliafood control and production hygiene unit istituto zooprofilattico sperimentale del piemonte liguria e valle d'aosta turin italya teagasc food research centre moorepark fermoy cork irelandb apc microbiome institute cork irelandcabstract this study describes the whole-genome shotgun sequence of salmo- nella bongori 48z35- originally isolated from a 1-year-old symptomatic patient in northwest italy a typically nonendemic area.
+
+the draft genome sequence contained4.56 mbp and the gc content was 51.27.almonella bongori 48z35- is considered endemic in sicily italy but has not been reported as a clinical isolate responsible for human infection in mainland italy .
+
+the draft genome sequence was annotated using the ncbi genbank annotation pipeline and rast genome annotation server .
+
+a total of 4446 coding sequences were annotated in various functional catego- ries including biological processes and metabolism 1836 genes cellular components 431 genes and molecular functions 828 genes.
+
+here we report the whole-genome shotgun sequence of s. bongori a fecal isolate from a 1-year old symptomatic patient in piedmont in northwestern of italy.
+
+phylogenetic analysis and comprehensive salmonella evolution studies have suggested the genomic relationship between s. bongori and an ancestral salmonella virulence gene set which has been adapted by incorporating virulence determinants highly similar to those found in enteropathogenic escherichia coli .
+
+the version described in this paper is version napq01000000.referencesgiammanco gm pignato s mammina c grimont f grimont pad nastasi a giammanco g. 2002. persistent endemicity of salmonella bongori 48z35- in southern italy molecular characterization of human animaland environmental isolates.
+
+2014. trimmomatic a flexible trimmer for illumina sequence data.
+
+the genomic content of the isolates was analyzed for potential genes that may be involved in virulence and antibiotic resistance.
+
+de novo assembly was performed using the spades genome assembler v3.9.1 .
+
+as a result a total number of 4242 genes were predicted.
+
+2011. salmonella bongori provides insights into the evolu- tion of the salmonellae.
+
+.bankevich a nurk s antipov d gurevich aa dvorkin m kulikov as lesin vm nikolenko si pham s prjibelski ad pyshkin av sirotkin av vyahhi ntesler g alekseyev ma pevzner pa. 2012. spades a new genome as- sembly algorithm and its applications to single-cell sequencing.
+

@@ -1,0 +1,30 @@
+2 marchapril 2017table 1statistics of the hmp samplestypes their similarity will be augmented through the diffu- sion process and if two vertices i and j are different their similarity will be decreased through the process.the final similarity matrix fusing all data types are defined simply as 1 mpm v141p dvth20spectral clusteringwe cluster the microbiome samples in the fused similarity matrix by spectral clustering 26. let l be the normalized laplacian matrix of the final similarity matrix pand l 14 i - d-12pd-12.
+
+given a p times s matrix x and t times s matrix y the basic idea of jnmf is to find k basis vectors w in rpxk and v in rtxk for both profiles that share a common coefficient matrix h in rkxs.
+
+if we have v views of data we write the corresponding weighted matrix as advth.to construct a consensus weighted matrix advthfrommulti-view dataset the simplest way is to average the sin- gle-view weighted matrix.
+
+section 4 provides the discussion and future directions.data and methodsnonnegative matrix factorizationgiven the p times s matrix x nmf is seeking to find two matrices with lower dimensions w and h with dimension p times k and k times s respectively where k  p s is thenmf can also be used for classification.
+
+naturally the col- umns of coefficient matrix h can be used to assign member- ship labels for each sample and dually the rows of w can be used to classify variables or features.joint nonnegative matrix factorizationin microbiome studies it is common to investigate func- tional or phylogenetic composition profiles for microbial community studies.
+
+if we regard w1 w2 ...  wk which are the columns of w  as the basis vectors and hij as the coefficients then xj can be represented by the linear addi- tive sum of basis space spanned by w1 w2 ...  wkkxjhijwi4idaw wh th d1 - athv vhthijlaplacian regularized joint nonnegative matrix factorizationmany studies of nmf approach and its extensions have used regularization to penalize the coefficient matrix h or w .
+
+microbiome data representation by joint nonnegative matrix factorization with laplacian...355manifold structure of data 14. in this study we introduce laplacian regularization on jnmf and we derive the updat- ing formula for this new method.2.3.1lj-nmf objective function and optimizationthe objective function for lj-nmf is defined by adding a laplacian penalty terms to jnmf a1kx - whk2 th a2ky - vhk2 1method also called affinity graph construction 24 because it is a widely used method in most manifold learning algorithms 25. the testing of the graph con- struction methods is interesting but not the principle scope of this study.assume that we can get a distance matrix d among data points from x euclidean distance is used in this paper.
+
+this technique is to define the weight matrix ad1th using  where l is the laplacian matrix of the constructed weighted graph from data.
+
+similarly we can also obtain the weighted matrix ad2th from data matrix y .
+
+however the procedure may not consider the complementarity among different datasets.thus we propose to use a similarity network fusion snf22thtrd00 010dvthfw th th trdcv th th trdxh thand the partial derivatives of l with respect tow  v and hmethod to generate the consensus weighted matrix a .2.4 similarity network fusionare l 14 -2a xw 0 th 2hww 0 th f11in this part we will explain the details of snf 25. after defining affinity matrixa for each view of data a normal-l 14 -2a xv 0 th 2hvv 0 th c12pij 148 2aij  jik146 i wik17 v 2 1 j 14 il 14 -2a w 0x - 2a v 0y 2a hw 0w13the normalization is free of the scale of self-similarity in the diagonal entries and avoids numerical instabilities 25.th 2a2hv 0v th 2hl th cby using karush-kuhn-tucker kkt condition fij cijandto define a kernel matrix which could be used to mea-sure local affinity wang et al.
+
+2 marchapril 2017353microbiome data representation by joint nonnegative matrix factorization with laplacian regularizationxingpeng jiang xiaohua hu and weiwei xuabstract--microbiome datasets are often comprised of different representations or views which provide complementary information to understand microbial communities such as metabolic pathways taxonomic assignments and gene families.
+
+data integration methods including approaches based on nonnegative matrix factorization nmf combine multi-view data to create a comprehensive view of a given microbiome study by integrating multi-view information.
+
+in this paper we proposed a novel variant of nmf which called laplacian regularized joint non-negative matrix factorization lj-nmf for integrating functional and phylogenetic profiles from hmp.
+
+the experimental results indicate that the proposed method offers an efficient framework for microbiome data analysis.index terms--human microbiome nonnegative matrix factorization multi-view clustering data integration data representationc1introductiont was very hard to study the functional and phylogenetic diversity of a microbial ecosystem before the introduction of metagenomics sequencing 1. in recent years the cost of high-throughput sequencing technology including metage- nomics sequencing and rrna 16s or 18s target sequencing has decreased dramatically.
+
+novel methods and software are urgently needed in this field to disentangle complex microbial community using large-scale microbiome data.non-negative matrix factorization nmf also has been applied on analyzing microbiome datasets 12 13. nmf can be viewed as a data representation method--samples or variables could be represented by the linear additive combi- nation of a little number of nmf basis or a clustering method--samples or variables can be assigned a member- ship label by the basis vector of nmf 14. nmf has an advantage that it is a soft-clustering approach by which a sample can be classified into several clusters if it tends to1545-5963 c 2015 ieee.
+

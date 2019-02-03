@@ -1,0 +1,18 @@
+prokaryotesdraft genome sequences of 14 staphylococcus aureus sequence type 5 isolates from california usasamantha j. haua darrell o. baylesb david p. altb tracy l. nicholsonbdepartment of veterinary diagnostic and production animal medicine college of veterinary medicine iowa state university ames iowa usaa national animal disease center agricultural research service usda ames iowa usababstract staphylococcus aureus is part of the human epithelial microbiota how- ever it is also a pathogen.
+
+this re- port details the draft genome sequences of 14 clinical s. aureus isolates.taphylococcus aureus is part of the microbiota found on the skin of humans and other animals.
+
+isolates were grown in trypticase soy broth bd biosciences sparks md and total genomic dna was extracted using the high pure pcr template preparation kit roche applied science indianapolis in.draft genome sequences were generated using an illumina miseq instrument.
+
+libraries were pooled and sequenced using the miseq version 2 500-cycle reagent kit yielding 2 x 250-bp paired-end reads illumina.draft genome assemblies were generated using mira version 4.0.2  resulting in the average coverages indicated here for each isolate uci3 56x uci9 82x uci11 72x uci19 47x uci21 66x uci24 62x uci27 40x uci43 46x uci45 53x uci46 73x uci4846x uci52 33x uci56 36x and uci64 52x.
+
+following assembly only contigs1500 bp in length having a coverage of 66 of the average genome coverage were retained.
+
+the draft genome sequences obtained for these isolates were entered into ddbjenagenbank with accession numbers as follows uci3  uci9  uci11  uci19 volume 5 issue 13 e00098-17 1hau et al.uci21  uci24  uci27  uci43  uci45  uci46  uci48  uci52  uci56  and uci64 .acknowledgmentsthe research herein was funded by the united states department of agriculture agricultural research service and by the national pork board.
+
+1998. staphylococcus aureus infections.
+
+.monecke s coombs g shore ac coleman dc akpaka p borg m chow h ip m jatzwauk l jonas d kadlec k kearns a laurent f o'brien fg pearson j ruppelt a schwarz s scicluna e slickers p tan hl weber s ehricht r. 2011. a field guide to pandemic epidemic and sporadic clones of methicillin-resistant staphylococcus aureus.
+
+2013. diversity of methicillin-resistant staphylococcus au- reus mrsa strains isolated from inpatients of 30 hospitals in orange county california.
+

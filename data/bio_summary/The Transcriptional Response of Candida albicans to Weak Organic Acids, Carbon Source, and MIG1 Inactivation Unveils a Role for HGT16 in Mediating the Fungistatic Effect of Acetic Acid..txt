@@ -1,0 +1,30 @@
+rpkm reads per kilobase per million mapped reads woas weak organic acids ypd yeast extract-peptone-dextrose media ypm media with identical composition to ypd except d-glucose replaced by maltose.wild-type strain sc5314 displayed a significantly lower growth rate in the presence of woas while grown in ypm vs. ypd media figure s1 in file s2.
+
+maltose transporter mal31 maltase mal32 and a-glucosidase mal2 were all upregulated by a factor of at least 17. this regulation is indicative of an adaptation of c. albicans to an alternative carbon source.acetic and butyric acid responseswe formerly described the transcriptional response of c. albicans to lactic acetic butyric and propionic acid in mrs media a glucose-rich media 2 at ph 5.5 cottier et al.
+
+mig1 inactivation increased sensitivity to acetic acid by 80 and by 20 for lactic and butyric acid in yeast extract-peptone- dextrose ypd media cottier et al.
+
+2015ab characterized the transcriptional response of c. albicans to woas in mrs media ph 5.5 and identified mig1p as a general transcriptional factor involved in woa sensitivity in ypd media ph 5.5. the latter effect was dependent on the carbon source as yeast were more sensitive to woas when glucose was replaced by maltose in ypd media.
+
+woas weak organic acids ypd yeast extract-peptone- dextrose media ypm media with identical composition to ypd except d-glucose replaced by maltose.woas in different media and genetic backgrounds we aimed to iden- tify the core components of this yeast sensitivity to woas.
+
+to investigate the transcriptional responses to i glucose ypd vs. ypm ii mig1 sc5314 vs. mig1d in ypd media iii acetic and butyric acid in ypd and iv woas and carbon source simultaneously we performed pair-by-pair comparisons.
+
+under those conditions only 52 genes were similarly regulated in response to acetic acid in addition to the media of culture mrs or ypd and in agreement with our previous analysis genes involved in arginine biosynthesis arg1 arg3 arg56 cpa1 and cpa2 were upregulated in both media.mig1 responsewe previously demonstrated the central role of mig1p in woa sensitivity as the mig1 mutant showed a decreased growth rate in response to lactic acetic propionic and butyric acids when com- pared to the sc5314 control strain cottier et al.
+
+yeasts strains were grown in ypd media 1 wv yeast extract 2 wv peptone and 2 wv d-glucose supplemented with 1.5 wv agar for solid media only or ypm identical composition to ypd except d-glucose was replaced by maltose at 37deg in a shaking incubator at 150 rpm.
+
+woas weak organic acids ypd yeast extract-peptone-dextrose media ypm media with identical composition to ypd except d-glucose replaced by maltose.woas was enhanced implicating that the functions of these genes are associated with increasing sensitivity to woas rather than inhibition of a resistance mechanism.
+
+rpkm reads per kilobase per million mapped reads woas weak organic acids ypd yeast ex- tract-peptone-dextrose media ypm media with identical composition to ypd except d-glucose replaced by maltose.figure s3b in file s2.
+
+the transcrip- tional profiles of sc5314 in mrs and ypd media with or without acetic or butyric acid were analyzed and we observed major differ- ences between the two media figure s2 in file s2.
+
+up- and downregulated genes obtained by comparison of transcriptional profiles between ypd supplemented with acetic or butyric acid over ypd media for sc3514 strain.
+
+in this study we also report a significant enrichment in upregulated genes for the processes of ribosome biogenesis and rna processing in ypd me- dia but these were observed to be strongly downregulated in mrs media cottier et al.
+
+the mig1 mutant displayed a significantly higher sensitivity to both acetic and butyric acid than the control strain under the same conditions respectively 75 and 20. we also confirmed that the sc5314 strain displayed a significantly higher sensitivity to acetic and butyric acid when grown in ypm compared to ypd media.
+
+compared to the control condition ypd addition of acetic acid to the media induced upregulation of 1251 genes and downregulation of 316 while these numbers were respectively 895 and 202 for butyric acid figure 2b.
+

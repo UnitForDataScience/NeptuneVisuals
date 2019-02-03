@@ -1,0 +1,30 @@
+2015. thus the most represented phyla are actinobacteria 37 genomes 9.3 of the analyzed genomes bacteroidetes 69 genomes 17.3 firmicutes 197 genomes 49.6 andproteobacteria 71 genomes 17.9.approach tools and databasesthe pubseed platform was used to annotate the genes responsible for the degradation of mucin glycans using the following comparative genomics approach.
+
+the most frequently observed problems are as follows1 the absence of known gal transporters in 30 genomes mostly firmicutes 2 the absence of l-fuculose phosphate aldolase in 23 genomes belonging to bacteroidetes clostridia and some actinobacteria 3 the absence of l-fuculokinase in 19 genomes belonging to bacteroidetes clostridia and some actinobacteria and 4 the absence of galactose kinase which was observed in 7 genomes of firmicutes.
+
+additionally we predicted potential feeding pathways for mucin glycan-derived monosaccharides the specificity of various hgm strains for different types of mucin glycans and mutualistic relationships for the cleavage of mucin glycans by different hgm organisms.materials and methodsanalyzed genomesthe analyzed genomes were selected using the following steps.all genomes listed in the human microbiome project hmp as of 17.09.2015 and 459 genomes with the body site gastrointestinal tract i.e.
+
+2013. this transporter is highly distributed in the analyzed genomes co-clustering with the fuc genes in 88 genomes and with the fcl genes in 4 genomes.
+
+this transporter was found in 33 genomes belonging mostly to actinobacteria and clostridia.generally a-l-fucosidases were found in 131 analyzed genomes whereas fuc cps were found in 133 genomes.
+
+therefore obtaining the finished genomes for the studied organisms will help us to fill the gaps in the incomplete pathways.the problem of pathway incompleteness is only partially resolved by the finished versions of the analyzed genomes because incomplete pathways were also found in 13 finished genomes.
+
+our key results are as follows i genes for the cleavage of mucin glycans were found in 86 of the analyzed genomes which significantly higher than a previous estimation.ii genes for the catabolism of derived monosaccharides were found in 89 of the analyzed genomes.
+
+6 genes that co-occurred in the genomes with only agas were annotated as agaa and genes that co-occurred in the genomes with only nagb were annotated as naga.
+
+finished genomes were selected because draft genomes do not allow us to distinguish the actual absence of the gene in the genome or the location of the gene in an unsequenced part of the genome.
+
+candidate functional analogs of galt were identified as genes present in genomes having only galk but absent in genomes having galkt genes.
+
+3 genes encoding orthologs for this protein were clustered with the gale gene in 15 analyzed genomes as wall with the galmp operon in two analyzed genomes.prediction of a novel galactose-specific transporter a new gal-specific transporter was predicted based on co- clustering of its gene together with galk in the genomes of propionibacterium spp.
+
+the genes for the pathway through fucolactone fclabcde were found in only 8 genomes all belonging to actinobacteria.in total three different fuc-specific transport systems were found in the analyzed genomes including two different permeases and one abc transporter.
+
+all the b- n-hexosaminidases found in the analyzed genomes belong to the gh3 or gh20 families.galnac utilization pathway including agas and agaa genes see annotation of homologous enzymes for galnac and glcnac metabolism for details on annotation was found in 76 analyzed genomes.
+
+notably more than half of these genes are chromosomally clustered with the nagkp operon or with genes for b-n-hexosaminidases figure s8.overall glcnac cp was found in 218 analyzed genomes whereas glcnac-ghs were found in 266 genomes.
+
+most of these genomes are bacteroidetes only 3 of them belong to firmicutes and a. muciniphila is a representative of verrucomicrobia.the cps were found in 187 analyzed genomes belonging to all bacterial phyla with the exception of synergistetes and tenericutes.
+

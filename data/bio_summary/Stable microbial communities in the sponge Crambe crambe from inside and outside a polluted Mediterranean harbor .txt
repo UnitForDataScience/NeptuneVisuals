@@ -1,0 +1,30 @@
+blastn results showed that 5 of the top 10 otus were most closely matched 97-100 identity to proteobacteria associated with other spec- imens of c. crambe and other sponge species table  while the remaining five otus matched closely 98-100 to proteobacte- ria associated with corals seawater or sediment samples ta- ble .discussionthis study demonstrated that the microbial community of crambe crambe distinctly differs in composition and structure from the free-living community observed in ambient seawater consistent with previous studies of sponge microbiomes lee et al.
+
+tel 910-962-2326 fax 910-962-2410 e-mail one sentence summary the microbiome of the common mediterranean sponge crambe crambe exhibited greater stability and pollution tolerance than free-living microbial counterparts.editor yu-zhong zhangpatrick m. erwin abstractmarine sponges have been shown to harbor diverse microbial symbiont communities that play key roles in host functioning yet little is known about how anthropogenic disturbances impact sponge-microbe interactions.
+
+these results indicate that sponge microbiomes exhibit greater stability and pollution tolerance than their free-living microbial counterparts potentially mitigating the effects of pollutants on coastal marine communities.keywords microbiome heavy metals low microbial abundance lma intraspecific variation bioindicator anthropogenic effectsintroductionsponges phylum porifera are an ancient metazoan taxon ap- pearing in the fossil record as early as 580 million years ago li chen and hua .
+
+11figure 2. cluster dendrogram based on bray-curtis dissimilarity matrices of microbial communities in the sponge crambe crambe cc from blanes harbor bh red triangles and punta santa anna sa orange triangles and ambient seawater sw from blanes harbor bh dark blue squares and punta santa anna sa light blue diamonds.permanova p  0.004. in contrast microbial communities inc. crambe did not differ in overall structure across locations per- manova p  0.115.in total 10 otus contributed to 70 of the 17.66 observed overall community dissimilarity between the microbiomes of c. crambe collected inside and outside the harbor table .
+
+as such the stability of the microbiome in c. crambe across natural and heavy metal-impacted locations is particularly notable and suggests that not all sponge-associated microbial communities are disrupted by exposure to pollution and heavy metals.crambe crambe has been categorized as a low microbial abun- dance lma sponge via electron microscopy gloeckner et al.
+
+in fact some sponge species are so laden with microbes that bacterial and archaeal symbionts account for as much as 38 of sponge biomass vacelet .received 10 march 2017 accepted 16 may 2017qc fems 2017. all rights reserved.
+
+locatedtable 2. taxonomic classification and top blastn matches sources in parenthesis sponge species names in italics of common bacterial otusin the sponge c. crambe.
+
+fems microbiology letters 364 2017 fnx105doi 10.1093femslefnx105advance access publication date 18 may 2017 research letterr e s e a rch l e t t e r - environmental microbiologystable microbial communities in the sponge crambe crambe from inside and outside a polluted mediterranean harborshelby e. gantt susanna lo' pez-legentil and patrick m. erwindepartment of biology and marine biology center for marine science university of north carolina wilmington 5600 marvin k. moss lane wilmington nc 28409 usacorresponding author department of biology and marine biology center for marine science university of north carolina wilmington 5600 marvin k. moss lane wilmington nc 28409 usa.
+
+triplicate sponge and ambient seawater samples were collected from each site and the microbial composition of each sample was determined by 16s rrna gene sequence analysis illumina hi-seq platform.
+
+for ex- ample diseased sponges exhibited alterations in their microbial community structure compared to healthy sponges possibly re- sulting from direct effects of the disease-causing microbes and indirect effects of nutrient release from degraded sponge tis- sues webster et al.
+
+showing that cop- per exposure caused changes in the microbial community of the indo-pacific sponge rhopaloeides odorabile.
+
+here we assessed the effects of anthropogenically disturbed habitats on the diversity composi- tion and structure of microbial symbionts associated with the orange-red encrusting sponge c. crambe.
+
+to achieve this goal we characterized and compared microbial communities in c. crambe and seawater collected from a polluted harbor blanes harbor and an adjacent 1 km natural habitat outside the har- bor punta santa anna.methodssample collectiontriplicate samples of crambe crambe schmidt  and ambient seawater 1 l were collected at two locations separated by 1 km inside blanes harbor bh 41.6742n 2.7992e and at punta santa anna sa 41.6725n 2.8038e in october 2012. sediment and sponge samples previously collected from bh exhibited high copper 97.7 and 153.2 mgg and lead 69.0 and 4.2 mgg respec- tively levels compared to sa copper 6.0 and 13.2 mgg lead31.0 and 2.4 mgg respectively identified as 'blanes' in cebrian uriz and turon .
+
+permutational multivariate analysesfigure 1. phylum level composition of microbial communities in the sponge crambe crambe cc and ambient seawater sw from a natural habitat punta santa anna sa and heavy metal-contaminated harbor blanes harbor bh.
+
+basic local alignment search tool blast analyses were conducted with 16s rrna nucleotide se- quences of the 10 most common otus in c. crambe to compare symbiont sequences herein to those in the genbank database recording percentage identity and sources of top matches.resultscomparative analysis of microbial community diversity and compositionof the total 6434 otus recovered 2271 were associated with the sponge crambe crambe and 4170 were detected in the seawater samples.
+

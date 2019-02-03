@@ -1,0 +1,30 @@
+given the risk of invasive disease resulting from colonization these results reveal important host and pathogen determined changes in the nasal microbiome that could be exploited to limit pneumococcal disease.resultsexperimental set upto determine the contributions of il-17 signalling to the composition and behaviour of the nasopharyngeal and lung microbiome before and after pneumococcal colonization we utilized il-17ra knockout mice and wild type mice both bred in house and cohoused for 6 weeks after weaning as described in the methods.
+
+in both groups of mice the alterations in interactions between the members of the microbiome were still evident 14 days after pneumococcal inoculation.the lung microbiome of wild type animals showed no disruption following pneumococcal nasal colonization but in the absence of il-17 signalling there was a significant alteration in the composition of the microflora.
+
+in the upper respiratory tract of un-exposed animals there was a strong positive correlation between otu1 and otu2 p  0.0001 whereas among exposed animals the correlation was strongly negative p  0.0001. a similar pattern was repeated in the lower respiratory tract samples among exposed mice p  0.0001 although in this case there was no correlation among unexposed mice p0.25.differences in gene function between wild type and il-17ra ko nasal microbiomesfinally we compared the gene function of the nasal microbiome between wild type and il-17ra knockout animals using tax4fun as described in the methods to infer gene composition from the 16s amplicon analysis.
+
+although the immune mechanisms by which il-17 provides defence against pneumococcal colonization have been well described no studies have been made of the ef- fects of this cytokine on the nasopharyngeal and lung microbiome before and after pneumococcal colonization.
+
+pneumococcal bacteriocins can also kill related bacterial species such as micrococcus and lactococcus species  the biological importance of such activity in establishing colonization is not clear.we hypothesised that il-17 would be important in deter- mining the composition of the normal nasopharyngeal and lung microbiome and that following pneumococcal colonization il-17 would drive changes in nasopharyngeal microbiome composition.
+
+numerical estimate of sample coverage using the abundance-based coverage esti- mator showed a median otu coverage of 92.7 with no significant difference between wild type and il-17ra knockout animals additional file figure s1b.to confirm that a lack of the il-17ra receptor resulted in expected changes in il-17 cytokine targets we assayed for known il-17 targets following srl1 infection in wild type and il-17ra knockout mice additional file  figure s2.
+
+in- deed another study investigating the role of type iii interferon in susceptibility to staphylococcus aureus superinfection found a significant impact of deletion of the gene encoding the type iii interferon receptor on the composition and dynamics of the murine nasal micro- biome following influenza infection in contrast to the differences observed in the nasal microbiome be- tween wild type and il17ra ko animals we found very similar bacterial communities in the lungs of these animals.our experiments utilised animals with a genetic defect in il-17ra the common receptor subunit for il-17 family cytokines.
+
+a previous study of pneumococcal colonization found a drop in diversity after pneumococcal inoculation but not the other differences outlined above probably because it utilised a 10 x greater inoculating dose of pneumococci .how then does the pneumococcus establish itself in the nasal bacterial community and outcompete the other con- stituents as seen in many of the inoculated animals studied here that this was much more marked in the absence of il-17 signalling implies il-17 driven defence mechanisms are important in normal control of such colonization.
+
+such changes may influence the ability of the invading pneumococcus to establish colonization and potentially could be manipulated as a therapeutic intervention.conclusionswe show here that the signalling from the il-17 family cyto- kines profoundly influences the nasopharyngeal microbiometable 1 frequency of kegg orthologs in the imputed metagenome of the murine nasal microbiome calculated using tax4fundifferences were analysed using mann-whitney tests corrected for multiple comparisons using the method of benjamini krieger and yekutieli with a false discovery rate of 1. significant differences between wild type and il-17rako animals are shown in bold  q value  0.01of experimental mice.
+
+in both sites levels of this otu were significantly higher in the il-17ra knockout animals compared to wild type 2-way anova p  0.05 for both sites.changes in the relative abundance of the top 20 most abundant otus within the nose following pneumococcal colonization are shown in fig.
+
+following pneumococcal colonization there were marked changes in nasal microbiome composition with wild type animals becoming to resemble the il17ra ko animals with an increase in proteobacteria.
+
+for the microbiome studies wild type and il17rako animals were cohoused for 6 weeks prior to the nasal sampling and pneumococcal colonization.
+
+we confirmed that the known il-17 target genes beta- defensin 4 s100a8 and macrophage inhibitory protein-1 alpha  were strongly induced following srl1 infection in wild type animals but their expression was significantly and strongly abrogated in il-17ra knockout mice.resting nasal microbiomethe wild type nasal microbiome had a median of 292 otus observed per sample.
+
+most wild type mice had low abundance 10 of otu 2 and no mouse exceeding 25. in contrast several il17ra ko mice had high abun- dances of otu 2 exceeding 50 these results are summa- rized in fig.
+
+for both wild type and il17ra ko mice there was a significant difference in the microbiome composition following pneumococcal inocu- lation shown using non-metric multidimensional scaling fig.
+

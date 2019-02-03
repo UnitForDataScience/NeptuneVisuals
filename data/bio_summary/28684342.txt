@@ -1,0 +1,30 @@
+among the primer sets the second primer set showed higher efficiency than primer set 1. the efficiencies of primer set 1 and set 2 in pure culture were at 100. in fecal samples primer set1 showed 98.75 efficiency whereas primer set 2 showed 99.59 efficiency and in the gut samples primer set 1 showed 98.29 while primer set 2 showed 99.07 efficiency.
+
+a pure culture with primer set 1 b simulated fecal sample with primer set 1 c simulated gut sample with primer set 1 d pure culture with primer set 2 e simulated fecal sample with primer set 2 and f simulated gut sample with primer set 2.any bacterial treatment in animal models with the use of species- specific primers for targeted bacterial quantification in gut samples.acknowledgmentsa portion of the work was supported by a grant from the department of defense w81xwh-10-1-0257.referencesc.
+
+lanes 1 to 4 show bands of pcr amplified dna from p. histicola dsm-19854 1 and 2 and p. histicola mci001 3 and 4. lanes 5 to 8 show the bands of pcr amplified dna from p. melaninogenica dsm-7089 using a prevotella genus specific primer set b primer set 1 and c primer set 2. results are representative of three individual experiments.the type strain of p. histicola dsm-19854 was obtained from dsmz germany and p. melaninogenica atcc 25845 was acquired from atcc usa.
+
+the rt-pcr reaction volume was kept at 25 ml comprising of 12.5 ml of master mix 1 ml of forward primer 1 mm 1 ml of reverse primer 1 mm 2 ml of template dna and 8.5 ml of pcr grade sterile water sigma.
+
+a primer set 1 b primer set 2 lanes indicate1 p. buccae 2 p. denticola 3 p. multiformis 4 p. nigrescens 5p.
+
+the two designed primer sets showed specificity for the target 16s rrna gene ofp.
+
+the selected primer sequences were subjected to blast search to check similarity and specificity and only those matching with p. histicola were included into the study.
+
+two primer sets that were specific for p. histicola in the in silico studies  were synthesized integrated dna technologies.
+
+1. specificity of p. histicola primer sets.
+
+to avoid cross-reactivity of the designed primers in pcr reaction we have validated the specificity of the p. histicola primer sets with phylo- genetically closely related species.
+
+in addi- tion ten different prevotella species and 12 other anaerobic bac- terial species regarded as gut commensals were used to demonstrate primer specificity .
+
+the two designed primer sets only amplified target dna sequences from the p. histicola isolate and did not amplify any of the closely related species .
+
+also a prevotella genus specific primer set was used to validate the re- sults it amplified all prevotella species included in this study data not shown.
+
+2. specificity of the primer sets validated with related anaerobes.
+
+ott m. musfeldt u. ullmann j. hampe s. schreiber quantification of intestinal bacterial populations by real-time pcr with a universal primer set and minor groove binder probes a global approach to the enteric flora j. clin.microbiol.
+

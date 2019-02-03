@@ -1,0 +1,30 @@
+all authors approved of the final manuscript.fundingthis work has received funding from the european union's horizon 2020 research and innovation programme under the marie sklodowska-curie grant agreement number 624575 alff and anr project idealg anr-10-btbr-04investissements d'avenir biotechnologies-bioressources.acknowledgmentsthe authors would like to thank bernard billoud for help with statistical analyses laurence dartevelle for help with algal culturing akira peters for providing the algal cultures dominique marie for help with the flow cytometry the genomer platform station biologique de roscoff for access to their sequencing equipment the abims platform station biologique de roscoff for technical support and server time laetitia mest lolita lecompte and maeva harrivel for their participation in early isolation experiments christophe destombe and thomas wichard for helpful discussions and angelique gobet for critical reading of the manuscript.supplementary materialthe supplementary material for this article can be found online at table s1  bacterial growth media recipes for lb r2a zobell pyg ec-based and lnhm.table s2  antibiotics used to reduce the abundance of halomonas sp.table s3  number of bacterial isolates obtained per experimental treatment.table s4  number of cultivable bacterial strains found in metabarcoding experiments depending on sample origin and sequencing library.referencesamann r. i. ludwig w. and schleifer k. h. 1995. phylogenetic identification and in situ detection of individual microbial cells without cultivation.
+
+this allowed for the calculation of the ratio of cultivable to total bacteria the latterdetermined via flow cytometry in these experiments estimated culturability.isolation of bacteria from algae with a reduced microbial florasize-fractionation of algal growth mediaas a second strategy to reduce bacterial cell numbers before plating size-fractionation sf was used to facilitate the growth of smaller and less abundant bacterial strains.
+
+we put forward the hypothesis that in analogy to uncultivable microbes that become cultivable by improving cultivation conditions at least part of the undetected strains may therefore become barcodable merely by significantly increasing sequencing depths   andor the temporal resolution of the study.perspectives metagenome-guided cultivation and inference of metabolic networksin this study we show that a remarkably high number of bacterial cells  50 associated with ectocarpus was cultivable using a range of cultivation techniques.
+
+non-inoculated bacterial growth media a contamination with limnobacter from the water source used to prepare the bacterial growth media is unlikely.members of the genus bosea are known to be multidrug- resistant    .
+
+microbiology 85 272-282. sogin m. l. morrison h. g. huber j. a. welch d. m. huse s. m. neal p. r. et al.
+
+68 3878-3885. croft m. t. lawrence a. d. raux-deery e. warren m. j. and smith a. g. 2005. algae acquire vitamin b12 through a symbiotic relationship with bacteria.
+
+188 67-81. morris r. m. rappe m. s. connon s. a. vergin k. l. siebold w. a. carlsonc.
+
+in both cases plates were incubated until single colonies were visible 3-20 days and the latter identified with 16s rrna amplicon sequencing as described below.antibiotic-treatments of algal tissue and growth media antibiotics were used to reduce the abundance of dominant bacterial strains from the algal tissue andor growth media in our case especially halomonas sp.
+
+23 1656-1660. dittami s. m. gravot a. goulitquer s. rousvoal s. peters a. f. bouchereau a. et al.
+
+more isolates were derived from tissueprotoplasts compared to algal growth medium p 1.92e- 13 suggesting a close association between ectocarpus and the halomonas sp.in summary each cultivation strategy resulted in the cultivation of unique strains that were not cultivated with any of the other methods.
+
+each cultivation strategy resulted in another dominant genus or weed-species bosea for antibiotic- treated algae limnobacter for dilution-to-extinction cultivation and each strategy also led to the cultivation of unique isolates that were not found with any other cultivation method.
+
+ph.d. dissertation dtu chemical engineering kongens lyngby.bengtsson m. m. sjotun k. and ovreas l. 2010. seasonal dynamics of bacterial biofilms on the kelp laminaria hyperborea.
+
+the experiment was performed twice within a 6 month interval dte1 in march 2016 and dte2 in september 2016. flow cytometry was used to obtain both the bacterial cell counts of the inocula and to monitor bacterial growth.
+
+u.s.a. 103 12115-12120. spoerner m. wichard t. bachhuber t. stratmann j. and oertel w. 2012. growth and thallus morphogenesis of ulva mutabilis chlorophyta depends on a combination of two bacterial species excreting regulatory factors.
+
+all isolates with identical 16s rrna sequences are considered to belong to the same strain.resultsisolation and characterization of algae-associated bacteriaglobal taxonomic distribution of cultivable bacteria 16s rrna gene sequences were obtained for 388 bacterial isolates and they were distributed among four phyla 15 bacterial orders 34 genera and 46 taxonomically unique strains.
+

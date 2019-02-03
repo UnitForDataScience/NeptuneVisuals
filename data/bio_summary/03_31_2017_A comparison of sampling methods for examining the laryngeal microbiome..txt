@@ -1,0 +1,30 @@
+controls were removed from further analysis.in total 164196 sequences were distributed across 47 successful samples with an average of 3493.5 sequences per sample range 750-11602. the average good's coverage was 98.0 with the lowest 89.6 suggesting sufficient coverage of communities.values for chao 1 richness estimates range 48.90-355.67 mean 139.37 inverse simpson index range 1.48-40.00 mean 16.44 and shannon's diversity indices range 0.90-4.12 mean 3.21  were not significantly different for samples from the two slaughterhouses nor did comparisons differ significantly between samples taken from the left and ride sides.
+
+these results suggest that samples taken via swabs are sufficient to assess the community and that samples taken from the false vocal folds may be used as proxies for the true vocal folds.
+
+as expected both samples resulted in bacterial sequences though community composition was different than the total community in pig samples whether they were compared with pcoas constructed from theta yc values or unweighted or weighted unifrac .
+
+six otus were present in higher average abun- dance in biopsy samples while four were higher in swab samples.
+
+four otus were pres- ent in higher average abundance in true vocal fold samples while one was higher in false vocal fold samples.
+
+however chao 1 richness estimates were significantly different between swab and biopsy samples despite only samples from pig 2 swab and biopsy differing in individual pigs .
+
+overall communities from individual samples tended to cluster with other samples from the same pig .
+
+this further supports that the communities found using swabs and biopsies do not differ significantly and that these two sampling techniques could be used inter- changeably much as true and false vocal folds could be used as proxies for each other when sampling.an ideal study of shifts in laryngeal microbiota associated with disease states would include experimental controls such as biological replicates disease-free samples and samples with a known microbial population.
+
+noninvasive swabbing remains the sampling technique of choice in most locations however it is not well known if this method samples the entire community or only those members that are easily removed from the surface.
+
+true and false vocal fold mucosal samples swabbed and biop- sied were collected from six pigs and used for 454 pyrosequencing of the v3-v5 region of the 16s rrna gene.
+
+most of the alpha and beta measures of diversity were found to be sig- nificantly similar between swabbed and biopsied tissue samples.
+
+eight samples in total were collected from each larynx using sterile instruments including swabs sterile catch-all sample collection swab epicen- tre madison wi and biopsies of the bilateral true and false vocal folds .
+
+samples were immediately placed into sterile screw top tubes containing 150-200 mg of 400 ml silica beads and 300 ml of tissue and cell lysis solution epicenter masterpure complete dna and rna extraction kit.
+
+triplicate pcr samples were pooled together and each sample was run on a low melt agarose gel.
+
+samples were sequenced across four picotiter plates.
+

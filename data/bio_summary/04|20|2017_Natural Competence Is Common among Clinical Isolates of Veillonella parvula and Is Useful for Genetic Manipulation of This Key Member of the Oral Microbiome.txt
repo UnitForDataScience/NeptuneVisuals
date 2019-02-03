@@ -1,0 +1,30 @@
+for v. parvula plasmid transformations the structure of the transforming dna may be an additional contributing factor to its much lower efficiency as most plasmid dna is circular whereas pcr products and gdna are both linear.given the apparent poor transformability of plasmid dna in v. parvula figure 3b we suspect that our original lack of observable transformants in v. atypica and v. dispar is probably a consequence of using pbsjl1 for competence screening since both species likely encode the same dna uptake machinery as v. parvula figure 4. therefore as a general rule it is probably advisable to screen for natural competence in bacteria using gdna rather than plasmids perhaps with gdna derived from a spontaneous antibiotic resistant mutant.
+
+to the best of our knowledge this study is the first demonstration of natural competence and targeted allelic exchange mutagenesis within the entire veillonellaceae family and demonstrates a simple and rapid method to study veillonella genetics.keywords oral bacteria natural competence veillonella natural transformation type ii secretion dna uptake type iv piliintroductionof the 13 species in the genus veillonella aujoulat et al.
+
+2014 six are typically found in the oral cavities of humans v. atypica v. dispar v. parvula v. denticariosi v. rogosae and v. tobetsuensis where they comprise significant fractions of the oral flora found within supra- and subgingival dental plaque as well as on the oral mucosa aas et al.
+
+500 ng of spectinomycin resistant mutant genomic dna 50 ug ml-1 was added to each transformation reaction and transformants were selected on sk agar plates supplemented with 350 ug ml-1 spectinomycin.comparison of transformation efficiencies using plasmid pcr product and genomic dnathe same previously described natural transformation protocol was used to transform wild-type skv38 with either 300 ng pbsjl1 145 ng of competence locus deletion pcr product or 500 ng genomic dna.
+
+thus for unknown reasons v. parvula natural competence exhibits a clear hierarchy of preference for the sourcetype of dna with plasmids being the least efficiently transformed and genomic dna being the most efficient.putative natural competence loci are widely encoded in the veillonellaceae familygiven the relatively low efficiency of plasmid transformations inv.
+
+2001 meibom et al.2005 antonova and hammer 2011 nishikawa and tanaka 2013.one of the major advantages of natural competence for the transformation of genetic constructs is that the import of transforming dna is coupled with the nucleolytic degradation of one of its strands chen and dubnau 2004. this protects newly imported dna from restriction enzyme cleavage as these enzymes specifically target dsdna substrates bickle and kruger 1993 kobayashi 2001. in contrast electroporation injects double stranded dna into the cell making it much more susceptible to restriction.
+
+data are expressed as the average and standard deviations of at least three independent experiments performed in triplicate.transformation of v. parvula strains with genomic dnathe same natural transformation protocol described for pbsjl1 transformation was used to transform a panel of wild-type v.parvula strains with 500 ng genomic dna derived from a tetracycline resistant competence locus deletion mutant of strain skv38.
+
+thus both deletions resulted in a minimum of 3-log reductions in transformability.veillonella natural transformation exhibits an uptake bias for the source of dnagiven the apparent disparities in the rates of transformation between pcr products and gdna we were curious to directly compare transformation efficiencies between the two sources of dna.
+
+183 897-908. doi liu j. merritt j. and qi f. 2011. genetic transformation of veillonella liu j. xie z. merritt j. and qi f. 2012. establishment of a tractable genetic transformation system in veillonella spp.
+
+interestingly v. parvula natural competence was found to exhibit a clear hierarchy of preference for different sources of dna plasmid  pcr product  genomic dna which is unlike most naturally competent species.
+
+2011. while this strain of v. parvula proved to be resistant to electrotransformation with all other sources of dna this was not the case for the v. atypica clinical isolate ok5 which was later used to develop the first veillonella genetic system liu et al.
+
+57 973-980. doi hughes c. v. kolenbrander p. e. andersen r. n. and moore l. v. 1988. coaggregation properties of human oral veillonella spp.
+
+as a final confirmation plasmid dna was extracted from these transformants and then retransformed into e. coli resulting in the expected acquisition of antibiotic resistance figure 1c.allelic replacement mutagenesis using natural competencegiven the success with pbsjl1 transformation we were next curious to test whether the same procedure could be used for targeted mutagenesis of v. parvula via allelic exchange mutagenesis with pcr products.
+
+the key hindrance for observing natural competence among new species lies in the transformation procedure itself as it is extremely difficult to predict the appropriate growth conditions required to trigger competence gene expression in species unknown to be naturally competent.for v. parvula we fortuitously discovered that the combination of sk medium and agar plate growth serves as a reliable approach to activate its natural competence ability.
+
+23 344-347. doi berndt c. meier p. and wackernagel w. 2003. dna restriction is a barrier to natural transformation in pseudomonas stutzeri jm300.
+

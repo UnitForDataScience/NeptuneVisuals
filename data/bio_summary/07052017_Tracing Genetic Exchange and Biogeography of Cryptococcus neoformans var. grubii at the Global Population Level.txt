@@ -1,0 +1,30 @@
+grubiithe total number of isolates number of segregating sites p and tajima's d are given for each population.and both vni and vnb and could play a role in reproductive isolation of the vnii lineage.population measures and biogeographystrikingly recently identified vnb genotypes from south america are placed in the phylogeny as basally branching clades for each vnb subgroup which otherwise consist of genotypes from africa figure 1. all of the six south amer- ican vnb isolates contain the mata genotype.
+
+2014. dn and ds measures were calculated from fixed snps in each lineage using codeml version 4.9c yang 2007. to examine the distribution of the alleles within vnb we first identified 445193 alleles private to vnb present in at least one vnb isolate and no vni or vnii isolates.
+
+for vni ancestry sites these isolates had very different genotypes with ftc260-1 most closely re- lated to a diverse set of african isolates in vni whereas both bt125 and bt131 are more closely related to highly clonal clades of vni isolates figure s2 a c and e. similarly for a separate phylogenetic analysis of vnb ancestry sites bt125 and bt131 were placed within the vnbii subclade of vnb while ftc260-1 was placed in vnbi figure s2 b d and f. this supports that these three hybrids originated from very different genotypes of vni and vnb parental isolates.diploid isolates and genome plasticityas noted above a total of 24 sequenced isolates displayed heterozygous snp positions across the genome.
+
+vni and vnii were the most differentiated of the three lineages as shown by pairwise whole genome fixation indexes fst weir and cockerham 1984. the highest average chromosome fst value is 0.874 between vni and vnii isolates while the average chromo- some fst values of vni-vnb and vnb-vnii are 0.595 and 0.707 respectively table 4.to further examine the evolutionary history of the novel south american vnb isolates we subdivided vnb into four subclades vnbi-south america vnbi-africa vnbii-south america and vnbii-africa and calculated alleles unique to each subclade and shared across vnb groups or geography materials and methods.
+
+fur- thermore there was a greater number of unique alleles shared within the vnb groups from different geographic regions than were shared across vnb groups within the same geographic region figure 6. this geographically and phylogenetically segregated diversity suggests that multiple ancient migration events occurred between south america and africa during the diversification of vnb followed by geographic isolation.
+
+our linked coancestry model found the highest level of sharing among vnb isolates in addition there is evidence of strong haplo- type donation from south american vnb isolates v2 v31 and v87 to all other lineages and continents suggestive of ancestral recombination figure 7. independent confirma- tion of ancestry using structure confirmed that v87 includes primarily vnb ancestry with 1 vni alleles table s7.
+
+grubii diploid isolates table s3 diagnostic snps for vnb and vnii were present exclusively in the respective groups and called for all vnb vnii and 100 vni isolates.
+
+diagnostic snps for vni were present exclusively in vnii and vnb and called for all vnb vnii and 100 vni isolates.population genetic measures including nucleotide diver- sity p fixation index fst and tajima's d were calculated using popgenome pfeifer et al.
+
+we subdivided vnb into four clades vnbi- south america vnbi-africa vnbii-south america and vnbii-africa and calculated the number of those private alleles unique to each clade present in that one clade and no others and shared across vnb groups or geography pre- sent in the two compared clades but no others.
+
+for vni and vnb both clinical and envi- ronmental isolates were included with 25 vni isolates orig- inating from avian guano or trees and 8 vnb isolates from trees or other environmental sources table s1.
+
+by comparing the snp variants across isolates using pca we found there are three major clusters corre- sponding to the vni vnii and vnb lineages figure 2. the five isolates that showed intermediate positions in phyloge- netic analysis figure s1 also appeared at intermediate po- sitions by pca placed between vni and vnb.
+
+while the basal branching vnb isolates from brazil could suggest a hybrid ancestry all appear to be uniformly vnb .99 of sites.next we identifiedtheancestry contribution of eachisolateusing structure with three population subdivisions.
+
+snp sites for the vni-vnb hybrids contain an average of 40.8 vni ancestry and 59.2 vnb ancestry whereas the vnii-vnb hybrids have 85.8 vnii and 14.2 vnb ancestry table s2.
+
+for example chromosome 1 has three large blocks of different ancestry in bt125 four in bt131 and two in ftc260-1 figure 3 a-c. while all chromosomes contained regions of both vni and vnb ances- try groups in bt125 and ftc260-1 two chromosomes of bt131 chromosome 6 and 9 have only large regions of vnb ancestry.
+
+three of the isolates cng9 pmhc1045 and 102-14 have similar frequencies of such vnii and vnb alleles whereas bt66 is comprised of vni and vnb predictive alleles table s3.
+

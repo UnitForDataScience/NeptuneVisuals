@@ -1,0 +1,30 @@
+bacteroidetes subgroup prophyromonadaceae genus unclassi- fied 2.98 - 0.53 was abundant in the large-intestinal lumen and mucus 2.for the lactobacillus genus the populations from different anatomic sites showed homogeneous composi-tions including members from different species such as l. hamsteri l. intestinalis l. acetotolerans l. amylo- lyticus l. hominis l. johnsonii l. taiwanensis l. gasseri l. saniviri l. reuteri l. antri l. frumenti l. pontisl.
+
+therefore the sampling sites for each subject included gastric contents sto duodenal contents duo jejunal contents jej ileal contents ile cecal contents and mucus cec and cem proximal colonic contents and mucus pcc and pcm middle colonic contents and mucus mcc and mcm distal colonic contents and mucus dcc and dcm and feces fec.
+
+different letters ab above the points mean significant differences between sampling sites nemenyi's post hoc multiple comparison test fdr  0.05. sto gastric contents duo duodenal contents jej jejunal contents ile ileal contents cec cecal contents pcc proximal colonic contents mcc middle colonic contents dcc distal colonic contents fec feces cem cecal mucus pcm proximal colonic mucus mcm middle colonic mucus dcm distal colonic mucus.
+
+the clade near l. hominis l. johnsonii l. taiwanensis and l. gasserifigure 2. longitudinal and transverse distribution of dominant taxonomic groups at the genus level.the relative abundance of different genera was adjusted by the 16s rrna copy number data.
+
+otus from the same genus were positively correlated with each other such as otu5972 versus otu2043 new reference turicibacter rho  0.904 fdr  0 and also otu588197 versus otu574021 greengenes reference l. hominis l. johnsonii l. taiwanensis and l. gasseri rho  0.872 fdr  0.for each anatomic region the core microbiota across subjects was calculated via a detailed phylotype anal-ysis.
+
+these shared taxa accounted for 71.92 84.45 63.62 and 61.13 of the bacterial population in gas- tric contents small-intestinal contents the large-intestinal lumen and the mucus layer respectively here the large-intestinal lumen region also involved fecal samples given the fact that colonic contents are precursor of feces.
+
+gastroenterology 112 1036-1040 1997.albenberg l. et al.
+
+correlation between intraluminal oxygen gradient and radial partitioning of intestinal microbiota.gastroenterology 147 1055-1063 2014.sonnenburg j. l. et al.
+
+on the opposite side of the spectrum shannon diversity in colonic mucus layers was much more consistent across subjects than in any of the other sites tested.manichanh et al.
+
+mucosae l. plantarum l. oeni and l. murinus supplemental fig.
+
+this was exemplified by the lack of correla- tion between otu5972 new reference turicibacter and otu588197 greengenes reference l. reuteri l. antri and l. frumenti rho  -0.413 fdr  6.16e-4.
+
+on the other hand four facultative anaerobic genera with relatively low abundance globicatella lactococcus staphylococcus and streptococcus composed a small module which might perform a unique function in this region.notably the large-intestinal lumen 43 genera and mucus layer 42 genera had the largest core microbiota k. despite community memberships overlapping to some extent the co-occurrence networks for these two adjacent compartments showed distinct topological properties l. in the large-intestinal lumen core microbiota formed a relatively sparse network diameter 8 centralization 0.18 density 0.17 where 28 anaer- obic organisms belonging to 3 different phyla connected on average to 4.571 neighbors.
+
+the composition of core microbiota of a gastric contents b small-intestinal contents c large-intestinal lumen and d mucus layer.
+
+co-occurrence patterns amongst the core genera across samples from e gastric contents g small-intestinal contents i large-intestinal lumen and k mucus layer as determined by the spearman's rank correlation analysis.
+
+the correlations were controlled for multiple testing by false discovery rate and the genera were clustered using the upgma hierarchical clustering method fdr  0.05 fdr  0.01 and fdr  0.001. refined co-occurrence networks for f gastric contents h small-intestinal contents j large-intestinal lumen and l mucus layer only based on correlations with absolute value of spearman's rho 0.7 and fdr  0.05. each node represents a genus colored according to its phylum- level taxonomic affiliation supplemental fig.
+

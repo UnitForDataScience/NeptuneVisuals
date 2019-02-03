@@ -1,0 +1,30 @@
+the most frequent read of each otu was selected as a representative to be added to the ltp123 database the all-species living tree project and aligned using the sina tool silva incremental aligner.the aligned sequences were inserted into the default tree using the parsimony tool implemented in the arb software package.the resulting insertions were manually inspected to recognize all representative sequences affiliating closely with either type strain sequences or clearly within a genus lineage.
+
+in addition opu287 was identified as a chloroplast.top 10 most abundant species and two-component modelthe top ten most abundant opus of each vulture summed to a total of 32 opus covering between 88.1 and 99.3 of their respective total reads  supplementary tables s3-s5.
+
+approximately three closest relative sequences repre- senting uncultured organisms were selected for each independent lineage made by the otu representatives and exported to the ltp123 database.a subset of sequences containing i all pacbio otu representative sequences ii the selection of the reference type strains and the silva ref123 recruited sequences and iii the neighbor-joining supporting sequence data set was used to reconstruct a neighbor-joining tree.
+
+data containing ambiguous bases was removed primer sequences and adapters were excised from the filtered reads and sequences outside of the 10-1490 nucleotide positions were trimmed.for the illumina miseq sequencing the pcr amplification of the v3-v4 region of the bacterial 16s rrna was performed using universal primers 341f 5'-cct acg ggn ggc wgc ag-3' and 805r 5'-gac tac hvg ggt atc taa tcc-3'.
+
+insertion and deletion rates were obtained by comparing the final alignment of all representative selected sequences with the corresponding reference sequence in the ltp123.microbiome-guided culturingthe species with putative medical significance as suggested by the microbiome analysis such as c. perfringens were attempted to be isolated from fecal swabs and analyzed for virulence genes and genetic diversity.resultsuse of the almost full-length 16s rrna gene for opu assignment the pacbio platform rendered a total of 89 412 raw 16s rrna sequence reads for the nine vultures with an average of 9935 - 1182 each.
+
+three of the four most abundant opus opu107 opu123 and opu236 gathering 57.9 of the total reads and summing to 1540 representative otu sequences were selected for a deeper analysis of the insertion and deletion rates compared with the corresponding type strain reference sequence in the ltp123.
+
+it was remarkable that the two opus cp c. perfringens opu107 and p. russellii opu123 accounted for 51.7 of the total reads ranging from 26.3 to 71.9 in each individual sample.
+
+the 4223 otus were classified into 314 opus with 78 - 49.6 per vulture  1. the amplification for the v3-v4 region using the illumina miseq system rendered a total of 826 772 high-quality reads with a mean of 91 864 - 23 335 per vulture with average of 443 - 3.1 bp in length.
+
+using the pacific biosciences sequencing platform we obtained 54 135 high-quality reads of 16s rrna amplicons with an average of 1442 - 6.9 bp in length and 6015 - 1058 reads per vulture.
+
+correspondence jg xue-mail received 25 september 2016 revised 25 november 2016 accepted 12 december 2016amplicon sequences is that the phylogenetic inference can be done after a de novo tree reconstruction instead of just the addition of partial sequences using the parsimony algorithm.this is probably the most accurate way to analyze the diversity based on 16s rrna gene amplicons.materials and methodsvulture samplingthe vultures were live-captured in qinghai province china.
+
+after quality filtering and the removal of chimeras a total of 54 135 64.1 high-quality reads were retained with an average 6015 - 1058 per vulture ranging from 3914 to 7501 reads.
+
+aquatilis respectively.the 102 known species gathered between 57.6 and 91.4 of the reads in each vulture and 73.0 of the total reads for all vultures.
+
+these 50 new species accounted for between 3.6 and 27.5 of the reads in the individual vultures and 15.9 of the total reads for all vultures 3 supplementary table s4.
+
+these summed to between 0.4 and 33.0 of the reads of each individual vulture supplementary table s5 and 11.0 of the total reads for all vultures.
+
+clostridium perfringens was the most abundant and present in all vultures accounting for 30.8 of the total reads.
+

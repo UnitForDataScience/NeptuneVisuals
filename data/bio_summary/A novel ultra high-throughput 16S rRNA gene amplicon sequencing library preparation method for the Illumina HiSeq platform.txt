@@ -1,0 +1,30 @@
+plasmid concentrations were then measured before blending to equal proportions at a final concentration of 1e9 plasmidsml.library preparationfor an initial miseq sequencing run the pcr1 amplifica- tion was carried out with the following reaction mixture 9 ml h2o 10 ml 5prime hot master mix gaithersburg md usa 2.5 ml of 1 mm pcr1 forward primer 2.5 ml of 1 mm pcr1 reverse primer and 1 ml mock community template at either 2.5e6 or 2.5e7 moleculesml.
+
+finally we compared our sequencing technique with the widely used emp protocol dataset 7 additional file  table s9.effect of pcr1 indexingtwelve forward and eight reverse pcr1 primers were used in this design to generate 96 pcr1 index combinationsdataset 1 additional file table s3 i.e.
+
+to examine this effect we amplified the same template the mock- community library 2.5e6 input molecules per reaction using 96 pcr1 primer combinations employing 35 cycles of pcr1 and 10 cycles of pcr2 amplification the same pcr2 forward and reverse primer was used for all reac- tions.
+
+we compared relative species abundances measured in five sets of pcr1 products four per set for a total of 20 samples amplified using 35 cycles with each set of 4 samples using a different pcr2 index pri- mer dataset 2 additional file table s4 and 10 cycles of amplification.
+
+quality of the sequenced data was verified using fastqc v0.11.3  and was sum- marised using multiqc v0.3.1 downstream analyses of mock community datalow quality reads were trimmed and illumina adapters were removed using trimmomatic v0.36  with default settings.
+
+bray-curtis distance matrix computation adonis modeling permutational multivariate analysis of variance using distance matrices and anosim using bray-curtis dissimilar- ities and 10000 permutations were carried out using the r package vegan.environmental sample sequencinga standardized environmental sample was made by suspending a fresh fecal sample 32.5 g from a healthy infant in 500 ml of pbs.
+
+we did not observe any significant interaction effects between template amount and pcr cycle number p  0.94 and 0.98 for pcr1 and pcr2 respectively adonis models or be- tween pcr1 and pcr2 cycle regime p  0.82 adonis model.
+
+a second pcr reaction pcr2 is then per- formed using each amplicon pool as template which primes on the ends of the oligos used for pcr1 fig.
+
+for later hiseq sequencing runs additional files and  tables s6-8 the library preparation procedure was identical to the miseq protocol with 35 and 10 cycles for pcr1 and pcr2 re- spectively with the following exception the repeated melting steps during both pcr amplifications were increased from 10 to 30 s.illumina sequencingpaired-end sequencing was performed on a miseq illumina san diego ca usa using v3 reagents generating 300 bp reads per end or on a hiseq 2500 illumina in rapid mode with v2 reagents producing 250 bp reads per end according to manufacturer's in- structions at the norwegian sequencing centre oslonorway.
+
+by far the largest proportion of inter- sample variation in bray-curtis distances was explained by differences caused by pcr1 reverse priming oligos 82.7 adonis model with the main difference be- tween samples amplified using r1 and r10 additional file figure s7.
+
+briefly we performed pcr1 amplification using either 25 30 or 35 cycles 16 samples per treat- ment.
+
+furthermore within each combination of pcr cycle number regimes initial pcr1 amplification was carried out using either relatively low 2.5e6 molecules or high 2.5e7 molecules amounts of dna template 24 samples per treatment.
+
+this species was observed in 15 out of 16 sequenced samples albeit at very low abundances when using 25 pcr1 cycles but only in 5 out of 32 samples at higher cycle numbers relative abun- dances 0.01. another noteworthy example is the uncultivated gemmatimonadetes species gc of 62 which was readily observed after 25 and 30 pcr cycles but dropped sharply at 35. conversely we observed a positive relationship for four species of low or intermedi- ate gc content fig.
+
+the remainder can be eliminated using one of several available chimera detection programs  .we only observed relatively subtle effects of pcr1 cycle number and estimated relative abundances of species in the mock community.
+
+the exact value of the correction factor in our case 0.18 per percent increase in gc should be corroborated by further experimentation.unexpectedly we observed greatly reduced sequencing output for samples using identical index sequences on the forward and reverse primers during pcr1 a reduced output by a factor of around 10 was observed in all 15 cases.
+

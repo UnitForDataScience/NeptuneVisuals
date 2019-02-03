@@ -1,0 +1,30 @@
+the relative abundance  of bacterial groups that showed statistical signifi- cance based on the correlation analysis of the gut microbiota with glucose metabolism index.docxacknowledgmentswe are very grateful to beijing compass biotechnology company for excellent technical assis- tance with 16s sequencing experiments.author contributionsconceptualization xinhua xiao.formal analysis ming li miao yu fan ping xiaojing wang.funding acquisition qian zhang.methodology qian zhang jia zheng tong wang.validation qian zhang jia zheng tong wang.writing - original draft qian zhang.writing - review  editing xinhua xiao.referencesbaothman oa zamzami ma taher i abubaker j abu-farha m. the role of gut microbiota in the development of obesity and diabetes.
+
+this is an open access article distributed under the terms of the  which permits unrestricted use distribution and reproduction in any medium provided the original author and source are credited.emerging evidence supports a key role for the gut microbiota in metabolic diseases includ- ing type 2 diabetes t2d and obesity.
+
+pyrosequencing of the v3-v4 regions of 16s rrna genes revealed that vildagliptin significantly altered the gut microbiota.
+
+mice fed with a high- fat and high-sugar diet showed a shift in the structure of the gut microbiota even within a sin- gle day .
+
+transferring the fecal microbiota from obob mice to germ-free mice results in increased body weight and insulin resistance  .
+
+the following pathways are involved insulin signaling  inflammation  glucose homeostasis  and increased glucagon-like peptide 1 glp-1 and peptide yy pyy secretion through short-chain fatty acids scfa stimulation .therefore therapy that modulates the gut microbiota may prevent the growing t2d epidemic .vildagliptin a dipeptidyl peptidase-4 inhibitor was approved by the european agency in 2008 for the treatment of t2d.
+
+however studies about the effect of the whole gut microbiota in diabetic rats are limited.
+
+therefore we employed 454 pyrosequencing to explore the change in gut microbiota in vildagliptin-treated diabetic rats.
+
+vildagliptin treatment reduced the blood glu- cose levels before and after glucose load and the area under the curve of blood glucose p0.01 .fasting insulin and homeostasis model assessment of insulin resistance homa-ir glp-1 and il-6serum insulin level homa-ir and il-6 level in the diabetic rats were higher than that in the normal controls p0.01  however the serum glp-1 level was lower in the diabetic rats than in the normal controls p0.01  vildagliptin reduced the serum insulin and il-6 levels alleviated insulin resistance and increased serum glp-1 in diabetic rats p0.05 .global structural changes in the gut microbiota in response to vildagliptin treatmenta total of 1609238 usable pyrosequencing reads 61894 unique sequences were obtained from 30 samples.
+
+the chao 1 index indicated that the gut microbiota richness in the hfdstz group was significantly lower than in the nc group p0.01  however there was similar richness among hfdstz hfdstzlv and hfdstzhv groupseffect of vildagliptin treatment on body weight blood glucose hba1c serum insulin homa-ir glp-1 and il-6.
+
+p0.05  p0.01 ns not significant.pcoa plots of weighted unifrac distances of fecal microbial communities.bifidobacteriaceae family ruminococcaceaeucg-010 from the ruminococcaceae family acinetobacter from the moraxellaceae family and alistipes from the rikenellaceae family.the microbiota in the hfdstz rats featured a high percentage of firmicutes and both a low percentage of bacteroidetes and a low ratio of bacteroidetes firmicutes p0.01  .
+
+a cladogram representation of the microbiota structure of these three conditions the predominant bacteria in each condition performed by lefse and the greatest differences in taxa among the three communities are presented in and .
+
+we further discovered the key variables that separated the gut microbiota under vildagliptin treatment and identified 15 phylotypes as high-dimensional biomarkers.
+
+in addition there were fourteen genera positively associated with fasting insulinheat map of the relative abundance log10 transformation of specific taxa in the fecal microbiota of rats in phyla level.levels parasutterella desulfovibrio christensenellaceaer-7group lachnospiraceaeucg- 010 oscillibacter anaerotruncus familyxiiiad3011group ruminococcaceaeucg-010 anaerovorax kurthia parvibacter and eubacteriumbrachygroup.discussionas expected our study showed that vildagliptin diminished fasting blood glucose levels and prevented both glucose intolerance and insulin resistance.
+
+dietary weight loss interventions have been shown to increase the gene richness of the microbiota .
+

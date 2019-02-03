@@ -1,0 +1,30 @@
+therefore according to the model an organism's intracellular antioxidant capacity affects the critical dose rate at low cell concentra- tions whereas the extracellular capacity determines how the growth-inhibitory critical dose rate increases with increasing cell concentration.in contrast if the data show no change in growth-inhibitory critical dose rate with cell con- centration the role of extracellular antioxidants is predicted to be negligible.
+
+comparison of cell killing and cell proliferation during continuous irradiation for six different cell lines.
+
+this finding sug- gested some form of cellular cooperation under cir between ir-resistant and ir-sensitive microorganisms but the idea was dismissed at the time due to lack of experimental evidence.survival following exposure to air can be facilitated by cell division delays which allow radiogenic damage to be repaired before cell replication -.
+
+under cir however damage induction is relentless and an excessively prolonged cell division delay leads to cell death.
+
+we therefore hypothesized that qualitative differences exist between physiological factors needed to counteract air and cir stresses air resistance requires coping with massive amounts of accumulated radiogenic damage whereas cir resistance requires rapid rates of damage repair to counteract continuous damage production.reactive oxygen species ros are important contributors to ir-induced cell damage and are counteracted by antioxidants as well as by cell concentration-dependent defenses and by intercellular communication -.
+
+for example at 67 gyh dr grew robustly at high cell concentrations dilutions 0 -1 -2. however when the cell concentration de- creased 10-fold from dilution -2 to -3 dr growth at the same dose rate was extinguished .
+
+also the per cell oxygen consumption rates of closely related ec1 and ec2 strains are likely to be similar but the dependences of cir resistance on cell concentration for these strains were quite different a marked increase in ec2 resistance occurred between -1 and 0 dilutions whereas no change occurred at these same dilutions for ec1 .
+
+discrepancies between predictions and data occurred mostly at the lowest cell concentration -5 dilution where the reliability of a deterministic model is limited due to possible stochastic extinction of all of the few plated cells 10 cells.the model quantified evidence of cooperative cell radioprotection through extracellular mechanisms by the slope parameter in materials and methods mechanistic mathematical model.
+
+for simplicity the slope calculation used arbitrary cell concentration units c the cell concentration was assumed to be 10dil where dil is the log10 serial dilution from 0 to -5. for example at dil  0 c  1 whereas at dil  -3 c  0.001. the intercept parameter  materi- als and methods mechanistic mathematical model provided information about intracellular antioxidant capacities with units of dose rate gyh.
+
+model-based predictions at cell concentrations higher than those tested had very large uncertainties for ec2 and sc and therefore the prediction curves were truncated at cell concentrations slightly above 0 dilution for these organisms.these bounds for the slope provide an indication of whether there is evidence for cooperative radioprotection a positive lower 95 ci bound or not a negative lower 95 ci bound.
+
+according to our model the increase in growth-inhibitory critical dose rate with increasing cell concentration provides evidence for intercellular cooperation as observed most notably for dr ec2 and tm among those microorganisms where cir resistance at different cell concentrations was studied in detail .
+
+in the model an organism's intracellular antioxidant capacity affects the critical cir dose rate at low cell concentrations whereas the extracellular capacity determines how the critical dose rate increases with increasing cell concentration.supporting evidence resistance to air d10 was not a strong predictor of the ability to grow under high- level cir in fungi  and bacteria.co-culture with wild-type dr increased post-air survival of ec1 only marginally  whereas dr strongly protected ec1 from cir .interpretations acute and chronic ir stresses are qualitatively distinct and resistance to one does not necessarily imply resistance to both.
+
+viewed from the perspective of a given cell the term a1 represents the antioxidant concentra- tion within this cell when there are no other cells in the vicinity.
+
+the intercept is the value of rcrit when the cell concentration is close to zero the predicted growth-inhibitory critical dose rate when only one cell is present and there are no neighboring cells to contribute antioxidants to the growth medium.
+
+importantly we demonstrate that cir resistance can depend on cell concentration and that certain resis- tant microbial cells protect their neighbors not only conspecifics but even radiosensitive spe- cies from a different phylum from high-level cir.
+

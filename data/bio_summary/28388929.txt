@@ -1,0 +1,30 @@
+supple- mented with ii 18s and 28s rrna gene sequences of more recently obtained specimens or cultures of early diverging fungal lineages iii 18s and 28s rrna gene sequences of at least one representative of all fungal or- ders except ascomycetes for which representatives of ca.
+
+altogether 138 otus were represented by both 18s and 28s rrna gene sequences whereas sequencing failed completely for 25 otus.
+
+individual reads were generally of high quality indicating the sequence origin to be that of a single organism.we obtained high-quality 18s andor 28s rrna gene sanger sequences for 90.5 of the targeted otus in- cluding all but two major groups 10 otus.
+
+for each of these taxa we de- signed reverse and forward primers in the variable part of the its region according to the following criteria i melting temperature of primers 54-58 degc ii atcg ra- tio 33-62 iii primer length 16-21 bases iv perfect match of the last 10 bases to 20 otus in the whole data set usually matching no other otus and v dis- tance from the flanking 5.8s and 28s rrna genes 20 bases to allow detection of unspecific amplification.to amplify the 18s rrna gene the specific reverse primers were paired with the ns5a and ns7a primers additional file table s1.
+
+the most common is- sues with specific primers included i multipleamplicons seen as smear on the gel 18s rrna gene no amplification 18s and 28s rrna genes and poor fit- ting of the complementary sequencing primer resulting in poor signal 18s rrna gene.
+
+high- quality sequences were mainly recovered from samples with relatively high abundance of target dna 0.2 of its sequences but in many cases 18s and 28s rrna gene data could be recovered from singletons i.e.
+
+.the 18s and 28s rrna gene sequences were further compared with metadata and phylograms in the literature from which the other environmental sequences used in phylograms were obtained additional file table s2.
+
+to ensure that all major taxonomic clusters 10 otus were covered we se- lected 203 individual otus and 23 groups of closely re- lated otus altogether comprising 60 otus with sequence similarity 95 within groups for design of taxon-specific primers and more detailed phylogenetic analyses.
+
+70 orders and all classes were included and 18s or 28s rrna gene sequences of the best blastn hits at least 600 bases of our otus.
+
+individual se- quences were further blastn-queried against genbank to detect inconsistencies in the identification of 18s rrna gene its1 its2 and 28s rrna gene sequences.
+
+2 phylogenetic placement of soil-inhabiting fungi among identified taxa and other sequences from the environment based on a simplified concatenated 18s and 28s rrna gene maximum likelihood phylogram.
+
+in the 18s rrna gene and concatenated gene analyses the clade gs01 was placed in a sister position to all remaining fungi al- though the statistical support for this and most other early branching configurations remained poor additional file  figures s1-s3.altogether 11 clades gs2-gs12 and three distinct branches 32 of previously unclassified soil fungi were placed within rozellomycota cryptomycota.
+
+the soil powder was subjected to chem- ical analysis of macro- and micronutrients and dna ex- traction 2 g and 454 pyrosequencing followed by quality filtering clustering at 98 sequence similarity and removal of singletons from the final data set of 50589 operational taxonomic units otus we identi- fied taxa originally assigned to fungi or rare protist groups as well as taxa with unknown taxonomicfig.
+
+poorly aligned regions were removed using gblocks v. 0.91b  with the following parameters minimum num- ber of sequences for a conserved position  50 of se- quences minimum number of sequences for a flank position  75 of sequences minimum number of contigu- ous non-conserved positions  20 minimum length of a block  2 and allowed gap positions  all.
+
+at 80 similarity level the selected otus rep- resented 1111 otus and 15515 sequences.
+

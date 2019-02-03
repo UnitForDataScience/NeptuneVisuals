@@ -1,0 +1,30 @@
+gsts marked with an asterisk using the ec model a are combined with other gsts after cluster analysis at the 99.6 similarity level one snp b. squares of increasing shading represent gsts at proportions from 1 very pale to 100 black associated with individual animal and extraction method i.e.
+
+thus recombination events associated with the transfer of o-agcmay result in novel gsts but with no change of o-antigenicity.although on average 30 gsts were associated with each library some low abundance gsts with a total count of 10 reads across our p  0.015 test dataset or present in datasets with a lower quality threshold may havebeen overlooked using culture-independent methods.
+
+however the identification of additional low abundance gsts considered as noise after application of the ec model only provides a minor contribution to community structure where the proportions of the most abundant gsts remain relatively unchanged.currently the gnd database generated in this study contains 240 separate gsts that differ from a consensus sequence by between 3 and 62 snps.
+
+the ec model however identifies gsts by including a specified error based on the respective relative abundance of parent and daughter gsts and removes gsts where their relative abundance is assigned a probability of being generated in error.
+
+using e. coli sequence data a database of 240 gnd sequence types gsts was constructed containing representative 284 bp gnd sequences from all 184 recognised e. coli o serogroups supplementary table  28 gsts from e. coli described as untypable or 'rough' and three new as yet undesig- nated o serogroups.
+
+symbols close together indicate libraries containing similar gsts symbols far apart indicate libraries containing dissimilar gsts.
+
+b diversity of gsts obtained from 20 calves using shannon index to illustrate the number of different gsts and the variation in gst relative abundance obtained from each of the four extraction methods pre-enrichment 'pre' post-enrichment boiled lysate 'pob' post-enrichment spin-column 'por' and faecal'fec' for each animal.
+
+sequence data obtained from the four libraries originating from calf 96 contained between 3 and 13 different gsts in contrast sequence data obtained from the four libraries originating from calf 137 contained between 40 and 82 different gsts.
+
+at the level of a single snp and 148 gsts including 62 matching with the gnd database and 86 novel gsts were identified.
+
+however 7 gsts matching database cultured entries clustered with other gsts that differed by one snp supplementary table  suggesting a potential limitation of simple clustering methods.e.g.
+
+the application of the error correction ec model on the p  0.015 test dataset resulted in 188 gsts being removed and the identification of 160 gsts of which 92 were novel and 68 matched the data- base supplementary table .
+
+thus the o17 and o176 gsts that differ by one snpfigure 2. effect of clustering using cd-hit and ec model on relative abundance and total number of gsts.
+
+when the 92 novel gsts identified using the ec model were compared with gsts from the gnd database to identify snps supplementary fig.
+
+snps were also mapped against the 3 codon positions of novel gsts and gsts removed using the ec model supplementary fig.
+
+therefore to provide an initial comparison of gsts obtained from culture-independent and culture dependent methods sanger sequencing of the gnd allele from culturedisolates was undertaken and compared to gsts obtained from matching animalslibraries using high throughput sequencing methods.
+

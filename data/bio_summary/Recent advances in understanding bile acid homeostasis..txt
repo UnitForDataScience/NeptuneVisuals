@@ -1,0 +1,30 @@
+however the underlying mechanism of bile acid signaling in improving dia- betes after bariatric surgery is not clear and needs to be elucidated to develop therapeutic strategies to cure diabetes and nafld.abbreviationsbsh bile salt hydrolase c4 7a-hydroxy-4-cholesten-3-one ca cholic acid cdca chenodeoxycholic acid cyp7a1 cholesterol 7a-hydroxylase cyp7b1 oxysterol 7a-hydroxylase cyp8b1 sterol 12a-hydroxylase cyp27a1 sterol 27-hydroxylase dca deoxycholic acid dio diet-induced obesity ec50 con- centration of a drug that gives half-maximal response fgf15 fibroblast growth factor 15 fxr farnesoid x receptor glp-1 glucagon-like peptide 1 gpbar-1 g protein-coupled bile acid receptor-1 lca lithocholic acid ldl low-density lipoprotein mca muricholic acid nafld non-alcoholic fatty liver disease nash non-alcoholic steatohepatitis ost organic solute trans- porter s1pr2 sphingosine-1-phosphate receptor 2 shp small heterodimer partner t-mca tauro-muricholic acid tca tauro-cholic acid tgr5 takeda g protein receptor 5 udca ursodeoxycholic acid.competing intereststhe author declares that he has no competing interests.grant informationthis research was supported by national institutes of health grants dk44442 and dk58379.the funders had no role in study design data collection and analysis decision to publish or preparation of the manuscript.chiang jy bile acid metabolism and signaling.
+
+this review will cover recent advances in bile acid signaling and emerging concepts about the classic and alternative bile acid synthesis pathway bile acid composition and bile acid pool size and intestinal bile acid signaling and gut microbiome in regulation of bile acid homeostasis.introductionbile acid synthesis is tightly regulated by a network of feedback mechanisms that is complex and not completely understood.
+
+in cyp7a1-- mice the alternative pathway is stimulated to produce bile acids to maintain a smaller but more hydrophilic bile acid pool with reduced tauro-cholic acid tca and increased t-mcas and taurodeoxycholic acid.bile acid pool size versus bile acid compositionbile acid pool size the bile acid pool is defined as the total bile acids circulating in the enterohepatic circulation including bile acids in the liver 1-2  intestine 75-80 and gallbladder 15-20. small amounts 1 of bile acids spilled over from the circulation to serum and urine are not included in the pool.
+
+this review will briefly discuss recent advances in understanding how bile acid homeostasis is maintained by 1 the classic bile acid synthesis pathway versus the alternative bile acid synthesis pathway 2 regulation of bile acid pool size versus composition 3 fxr signaling in liver versus intestine and4 the gut microbiota-to-liver axis.
+
+the cyp7a1-specific activity in rat liver is about 100-fold higher than in human and mouse liver.bile acid homeostasisthe classic bile acid synthesis pathways versus the alternative bile acid pathwaycyp7a1 is the only rate-limiting enzyme in the classic bile acid synthesis pathway.
+
+thus bile acid composition rather than bile acid pool size plays an important role in regulation of bile acid and cholesterol homeosta- sis and protects against dio and insulin resistance.bile acid signaling in metabolic regulationemerging research in the last two decades has uncovered that bile acids are endogenous signaling molecules that activate the nuclear receptor fxr and membrane tgr5 also known as gpbar-1 and s1pr2 in the gastrointestinal system.
+
+in the liver the classic bile acid synthesis pathway is initiated by cholesterol 7a-hydroxylase cyp7a1 to synthesize cholic acid ca which requires sterol 12a-hydroxylase cyp8b1 and chenodeoxycholic acid cdca.
+
+it is therapeutically important to assay the total bile acid pool size and changes in bile acid contents in the liver intestine and gallbladder bile.bile acid composition most bile acids in the pool are conjugated bile acids.
+
+in transgenic mice overexpressing cyp7a1 cyp7a-tg increasing bile acid syn- thesis stimulates de novo cholesterol synthesis biliary bile acid and cholesterol secretion and fecal excretion to main- tain bile acid and cholesterol homeostasis and prevent dio and diabetes.
+
+bile acid sequestrants reduce bile acid pool size induce bile acid synthesis and reduce intracellular cholesterol.
+
+however the role of the s1pr2 pathway in the regulation of bile acid synthesis is not clear and requires further study.the gut microbiota and bile acid homeostasisthe gut-to-liver axis plays a critical role in bile acid metabolism.
+
+recent studies have identified bile acids as signaling molecules that activate nuclear farnesoid x receptor fxr and membrane g protein-coupled bile acid receptor-1 gpbar-1 also known as tgr5 to maintain metabolic homeostasis and protect liver and other tissues and cells from bile acid toxicity.
+
+recent research using mouse genetic models and human patients has shown that bile acids are signaling molecules that activate nuclear farnesoid x receptor fxr membrane g protein-coupled bile acid receptor-1 gpbar-1 also known as takeda g protein- coupled receptor 5 or tgr5 and sphingosine-1-phosphate receptor 2 s1pr2 to regulate not only bile acid synthesis in the liver but also lipid glucose and energy metabolism in tissues including the liver intestine macrophages and adipose tissues.
+
+many investigators are not familiar with the concepts of bile acid homeostasis or bile acid pool and composition in maintaining metabolic homeostasis.
+
+only key references published in last 3-4 years are cited.bile acid synthesisbile acid synthesis involves about a dozen enzymes located in the cytosol endoplasmic reticulum mitochondria and peroxisomes to convert cholesterol to bile acids in hepatocytes.
+

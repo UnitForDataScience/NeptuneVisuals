@@ -1,0 +1,30 @@
+the large terminase subunit references for staphylococcus and propionibacterium phages were from the ncbi gene sequence database staphylococcus phage accessed 2015-09-14 search term phage terminase large subunit staphylococcus and virusesporgn txid10239 not orf not hypothetical not putative propionibacterium phage accessed 2015-09-15 search term phage terminase large subunit propionibacterium and virusesporgn txid10239.
+
+this is consistent with data from the human microbiome project cohort .fewer staphylococcus phage marker genes were identified compared to hpvs likely because staphylococcus phage genomes are orders of magnitude longer than hpvgenomes thereby decreasing the probability that contigs covered the entire genome.
+
+the hpv snps were predicted to be significantly more likely to impact phenotype than the staphylococcus phage snps median hpv  45 staphylococcus phage  17 p-value  2.2e-16 suggesting that snps impact functionality differently between viruses.diversity generating retroelements as a mechanism for targeted hypervariabilitydiversity generating retroelements are a genetic system used by bacteriophages as well as bacteria and archea to promote targeted hypervariability in genes .
+
+we performed a blastx alignment e-value 1e-10 percent identity threshold 75 of the genes within the aclame prophage database  a blastx alignment with integrase genes from uniprot database and a blastn alignment of the staphylococcus phage contigs to staphylococcus bacterial reference genomes.
+
+of the staphylococcus phage contigs identified 49.6 123 out of 248 contigs were predicted to be lysogenic based on similarity to lysogenic phages in the aclame database integrase genes in the uniprot database and staphylococcus reference genomes from the ncbi nucleotide database as described previously   .
+
+hpv hypervariable loci were under significantly greater purifying selection than those of staphylococcus phages median hpv  0.21 staphylococcus phage  0.41 p- value  4.64e-9 .
+
+we observed nearly neutral pressure across hpvs and staphylococcus phages that mirrored pressures to those observed in the regions adjacent to the hypervariable loci median hpv  1.0 staphylococcus phage  0.81 p-value  3.2e-5 .functional implications of targeted substitutions within hypervariable lociin order to evaluate the specific nucleotide changes occurring at hypervariable loci as well as to evaluate the implications of specific nucleotide polymorphisms we quantified the frequency of individual nucleotide substitutions within hypervariable loci.
+
+staphylococcus phages demonstrate greater genomic diversity and may be capable of infecting a broader range of hosts.we observed greater selective pressure on hpvs compared to staphylococcus phages which may reflect greater pressures from the human immune system compared to phage bacterial hosts.
+
+we focus on three prominent cutaneous viruses human papillomavirus hpv propionibacterium phage and staphylococcus phage.
+
+the average reference gene lengths were all longer than this threshold average reference gene length hpv  2519 bp staphylococcus phage  1307 bp propionibacterium phage  1511 bp.contig and reference marker genes were aligned using the smith-waterman algorithm and 1000 iterations as implemented by the mafft aligner v7.221  .
+
+hpv was not identified as a major virus in our analysis of the retroauricular crease however molluscum contagiosum virus a poxvirus that causes cutaneous growths that become severe in immunocompromised states was present in high relative abundance in agreement with the original published findings .similar to our primary analysis we identified 158 hypervariable loci within the staphylococcus phage communities and observed only 12 hypervariable loci associated with propionibacterium phages further highlighting the overall lack of genetic variabilityof the propionibacterium phage communities.
+
+the staphylococcus phage hypervariable loci were associated with purifying selection yielding a pnps ratio slightly below 0.4  recapitulating our findings in the primary dataset.staphylococcus phage nucleotide substitutions were associated with transitions between guanine and adenine residues as we observed in our primary analysis .
+
+the phylogenetic tree was visualized using figtree .identification of temperate phage contigsas has been described previously we identified temperate lysogenic phage contigs using three genomic markers contig nucleotide similarity to 1 phage integrase genesprophage genes within the aclame prophage database and 3 bacterial reference genomes.
+
+staphylococcus phages can modulate staphylococcus pathogenic gene expression and facilitate transmission of antibiotic resistance  .
+
+the staphylococcus phage contigs belonged to the phietalikevirus genus and orphan virus groups those that have not yet been classified .
+

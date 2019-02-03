@@ -1,0 +1,30 @@
+for example when a comparative microbiotamicrobiome analysis indicates particular species or strains as effector species or strains the culturability of the corresponding species can be first confirmed by the presence of corresponding dna signatures in culture-recovered bacterial populations before any attempt can be made to isolate the target species strains for further evaluation as promising probiotics.
+
+gasseri was found significantly higher in m-im as compared to m-cm p  0.05.otu heatmap at species levelthe otu heatmap that consists of only lactobacillus species constructed with qiime revealed that l. aviarius andl.
+
+failure to recover these species from mrs agar may be due to the followings reasons these species either i require strictly anaerobic condition l. aviarius or ii grow well under anaerobic condition although being facultative anaerobic l. fornicalis as compared to microaerophilic condition at 37c which was used in this study      .
+
+81389.doi to gain better understanding of the distributions of the culturable lactobacillus species in the chicken intestinal tract we collected ceca and distal ileum from 10 3-weeks- old broiler chickens.
+
+in summary lactobacillus populations recovered on mrs vary with different regions and locations in chicken git which might indicate their distinct functional roles in different gastrointestinal tract git niches and some species of lactobacillus are not culturable on mrs agar media.
+
+microbes that are commonly used as probiotics include various species of the genera lactobacillus bifidobacterium and enterococcus  .
+
+if necessary this step can be followed by identification and isolation of the species that demonstrate promising utility as probiotics based on comparative metagenomic analysis 16s rrna gene profiling andor shot-gun metagenomics.
+
+although mrs agar is the most commonly used medium for isolation of lactobacillus strains the scope of the culturability on mrs agar for diverse lactobacillus species has not been systematically evaluated.
+
+in addition since the use of candidate lactobacillus strains for probiotic applications would require the culturability of the strains in this study we adopted the approach of characterizing lactobacillus strains recovered on mrs agar plates.the precise identification of lactobacillus isolates by phenotypic method is difficult because phenotypic properties beyond the common fermentation tests are often required and around 17 phenotypic tests are required to identify lactobacillus at species level  .
+
+only around 30 of the total vaginal and intestinal lactobacilli from humans were identified correctly at the species level by the most commonly used commercially available biochemical kit  .
+
+alternatively taxonomic identification of the strains belonging to genus lactobacillus can be performed at species level with high accuracy based on dna sequencing of the variable regions in 16s ribosomal rna 16s rrna gene    .hence the main aim of this study is to analyze bacterial populations recovered on mrs agar media via deep sequencing of the v1-v3 region of 16s rrna gene in order to better understand the structure and distribution of the culturable subpopulations of lactobacillus in different regions and locations of the git of broiler chickens.materials and methodssample collection and processingcobb 500 broiler chickens were provided ad libitum access to water and an antibiotic-free corn-soybean meal diet.
+
+however their distribution at species level and functional activity maywas collected serially diluted and plated on mrs agar plates.
+
+we used this database instead of greengenes database for better taxonomic assignment at species level.
+
+lactobacillus was observed significantly higher in m-im and m-cl as compared to m-cm p  0.01 whereas citrobacter was significantly higher in m-cm as compared to m-im p  0.05. although lactobacillus was predominant genus in each mrs group recovery of other genera demonstrated that mrs agar medium also supports the growth of the strains belonging to enterococcus and citrobacter.species levelamong the major lactobacillus species identified relative abundance of l. salivarius was highest in all three groups followed by l. johnsonii.
+
+although these species were found only in a subset of t-cl samples their relative abundance was significantly high as indicated by the green colors.
+

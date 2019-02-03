@@ -1,0 +1,30 @@
+accession numbers of in vivo piglet feces and in vitro fermentative medium nucleotide sequences are samn05736398-samn05736406 and samn05736407- samn05736412 respectively.resultsin vivo and in vitro measurement of ph and redox potentialin vivo mean values of -283.5 - 23.0 mv and 5.95 - 0.38 n  4 were obtained in the colon of piglets for redox potential and ph respectively.
+
+in vitro results were in accordance with in vivo data with an average value of -288.3 - 8.9 mv for redox potential and a mean ph in the fermentative medium of6.20 - 0.02 when measured during the overall nt experiment from days 7 to 28 with the exception of the stab phase from days 0 to 7.in vivo and in vitro production of microbial metabolitespercentages of co2 h2 and ch4 atmospheric gases were measured daily during each phase of in vitro fermentations in the pigutivm.
+
+nevertheless the pearson correlation coeffi- cients between in vitro and in vivo data were higher than0.95 for all tested populations except for bacteroides show- ing the relevance of our in vitro model for mimicking the in vivo situation.
+
+doi 10.1007s00253-017-8122-ydevelopment and validation of a new dynamic in vitro model of the piglet colon pigutivm application to the studyof probioticsmickael alain fleury123  olivier le goff1  sylvain denis1 frederique chaucheyras-durand14  eric jouy 23  isabelle kempf 23  monique alric 1 stephanie blanquet-diot1received 22 july 2016  revised 5 january 2017  accepted 10 january 2017  published online 10 february 2017 springer-verlag berlin heidelberg 2017abstract for ethical technical regulatory and cost reasons in vitro methods are increasingly used as an alternative to in vivo experimentations.
+
+the aim of the present study was to validate according to in vivo data in living animals a new in vitro model of the piglet colon the pigutivm under both control conditions and antibiotic disturbance by the widely used colistin.
+
+under both control and antibiotic-treated conditions qpcr analyses showed that the main bacterial populations of piglet gut mi- crobiota were similar in vitro and in vivo with pearson corre- lation coefficient higher than 0.9. during colistin administra- tion both in piglets and in the in vitro model a significantmickael alain fleury and olivier le goff authors contributed equally to this work.monique alric and stephanie blanquet-diot are co-senior authors.electronic supplementary material the online version of this article doiy contains supplementary material which is available to authorized users.
+
+scfa concentrations were similar in vitro and in vivo and were not modified by colistin.
+
+compared to in vivo assays in vitro techniques save labor and time offer flexibility and allow a good reproduc- ibility between experiments due to standardized conditions getting rid of inter or intra individual variability.most of in vitro models that have been developed to date to reproduce the pig colon are simple batch systems jonathan et al.
+
+based on in vivo data this model integrates the main biotic and abiotic parameters of the piglet colon namely temperature ph colonic retention time supply of simulated ileal effluents presence of a complex high-den- sity metabolically active microbiota and anaerobiosis self- maintained by microbial fermentations.
+
+this model was vali- dated by comparison with in vivo data with respect to gut microbial composition and activity both under control condi- tions and when colistin an antibiotic widely used to treat piglet colibacillosis diarrhea kempf et al.
+
+lastly as an example of the potential applications of the model the effect of a probiotic feed additive on the piglet gut microbiome was assessed.materials and methodstest compoundsthe widely used antibiotic colistin was utilized at a field dos- age for in vitro colivet solution ceva libourne france and in vivo concentrat vo 49-2 colistine 200 sogeval laval france assays.
+
+were used under the continuous mode to reproduce the average conditions found in the piglet colonic environ- ment based on in vivo data.
+
+pigutivm is a one stage continuous fermentation model reproducing the main parameters of the piglet colonic environment based on in vivo data temperature ph redox potential supply of simulated ileal effluentscolonic retention time presence of a complex high-density metabolically active microbiota and anaerobiosis maintained by the sole activity of the resident microbiotafrance to continuously monitor the ph and adjust it at a constant value of 6.2 with automatic addition of 2 m naoh.
+
+results are expressed as mean percentages - standard deviationsin vivo experiments with colistinthe experiments were performed in the piggeries of the anses ploufragan north-west france in accordance with the french animal welfare regulations and the protocol was approved by the cometh ansesenvaupec ethical com- mittee authorization 140212-3. eight-weeks old spf pig- lets were treated by receiving an in-feed colistin medication at the field dosage of 3600 iug of feed.
+
+colonic ph and redox potential as well as body temperature were measured in the nt animals at slaughtering n  4. fecal samples were regularly collected throughout the experiment from col and nt animals and stored at -80 degc under anaerobiosis until analysis.in vivo and in vitro microbial metabolites analysisthe concentrations of the three main short-chain fatty acids - scfa- acetic propionic and butyric acids were measured in the piglet fecal samples at days 0 14 and 24 and daily deter- mined in the in vitro fermentation medium by using hplc analysis hitachi elite lachrom san jose usa.
+

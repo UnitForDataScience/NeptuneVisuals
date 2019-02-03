@@ -1,0 +1,30 @@
+1c.inspection of the predicted microbiota in frc bc and fc groupsexploring the predicted taxonomic profiles at phylum level for the analysed samples clearly shows that the bc frc and fc groups possess a distinct microbiota composition fig.
+
+next generation sequencing of these selected six fc- and bc-samples table 2 produced a total of 53 219 426 raw reads that were filtered for human and poultry dna and by quality resulting in 13 876 919 fil- tered reads that were used for further analyses.notably the taxonomic prediction achieved by the meta- genomic analyses was consistent with that obtained by 16s rrna profiling analysis highlighting a preponderance in the relative abundance of bacteria belonging to thetable 2. shotgun metagenomics raw data of fc and bc samples.bacteroidetes and to firmicutes phyla in fc and bc ani- mals respectively supporting information table s2 and supporting information figure s4.functional characterization of the feral chicken cecal microbiomethe reconstruction of the cecal microbiome of feral chick- ens allowed functional classification through the eggnog database huerta-cepas et al.
+
+1. evaluation of a- and b- diversity in various poultry groups.the average rarefaction curve representing variation of the shannon diversity index at increasing sequencing depth of bermuda bc and frc samples.the average rarefaction curve representing variation of the simpson diversity index at increasing sequencing depth of bermuda bc and frc samples.the predicted pcoa encompassing all bermuda bc and frc data sets through three-dimensional images.the predicted pcoa encompassing all bermuda and frc data sets through three-dimensional images.
+
+both free-range bermuda broilers and free- range bermuda layers were dominated by the bacter- oides genus respectively 18 and 30 followed by u. m. of ruminococcaceae family 9 and 7 respectively supporting information figure s3.differences in cecal microbiota composition between bc frc and fc chickensin order to evaluate microbiota differences between bermuda poultry bc and frc samples we analysed the b-diversity based on unweighted unifrac for these groupstable 1. chicken samples collected in this study.samples name ber50 ber52ber53 ber55 ber56 ber57a ber57b ber58 berxx berrearingmethods originfeedantibioticsreferences fcst.
+
+conversely the fc-group cecal microbiota was dominated by members of the bacteroidetes phylum with an average relative abundance of 38.6. firmicutes in the fc- derived samples were present at a lower level in compari- son with those from bc samples 32 p-value  0.05 while the proteobacteria phylum was shown to be present at a significantly lower abundance 18.5 p-value  0.05 in comparison to the frc cecal samples.in order to further identify differences in microbiota com- position between bc frc and fc the microbiota composition was explored at genus level evaluating differ- ences of bacterial genera present at an average relative abundance of  0.5 in at least one sample groupfig.
+
+gh gt ce cbm and pl indicate respectively glycosyl hydrolase glycosyl transferase carbohydrate esterase carbohydrate-binding module and polysaccharide lyase.a heat map reporting variation of pathways involved in formate acetate propionate and butyrate production in bc and frc samples.relative abundance of predicted enzymes involved in conveying antibiotic resistance as present in bc and fc shotgun metagenomic data sets.
+
+notably a statistically significant difference p-value  0.05 was detected for genes related to b- lactamase and resistance to bleomycin or vancomycin with an increase of about 66 81 and 91 in bc sam- ples respectively supporting information table s6.in vitro reconstruction of the core microbiota of fc poultryculturomics approaches were applied to those cecal sam- ples of fc and frc animals that had been included in thefc-group fig.
+
+the functional microbiota char- acterization highlighted a selection in fc microbiota of those bacterial genera that are less efficient for energy recovery or host weight gain when compared to bc yet carry a lower number of genes related to antibiotic resistance.in addition we performed a first attempt to reconstruct the cecal microbiota of fc.
+
+formerly domesticated wild-living chickens abbreviated here as frc bc and fc respectively by means of omics approaches that used metagenomic and culturomics techni- ques and also involved bacterial cultivation approaches based on multiple culture conditions lagier et al.
+
+sample categorization in frc bc or fc was per- formed subsequent to obtaining the results from the pcoas as reported in fig.
+
+2. evaluation of the predicted microbiota in frc bc and fc groups.
+
+sample categorization in frc bc or fc was performed subsequent to obtaining the pcoa results as reported in fig.
+
+1c and d.a-c. the 16s rrna-microbial profiling of aggregate fc bc and frc groups at phylum family and genus level only taxa with a relative abundance of  0.5 are shown respectively.d.
+
+moreover the relevance of each genus in the fc frc and bc data sets is reported on the right.
+
+2012 also revealed particular differences between fc frc and bc animals fig.
+

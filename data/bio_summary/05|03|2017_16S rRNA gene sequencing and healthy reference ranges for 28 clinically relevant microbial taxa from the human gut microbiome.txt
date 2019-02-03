@@ -1,0 +1,30 @@
+recent advancements in amplification and next- generation sequencing ngs techniques in particular applied to the bacterial and archaeal ribosomal rna encoding genes 16s rrna genes have overcome this problem are increas- ingly used in the clinical microbiology lab  and have enormously expanded our knowl- edge of microbiome composition .however it is still difficult to use the composition of the human gut microbiota as a clinical tool in the diagnosis of chronic health conditions.
+
+verification samples were processed in ubiome microbiome sampling kits using the clinical pipeline described above.results and discussionclinically relevant target identificationto derive a preliminary target list of bacteria and archaea to include in our assay we first iden- tified clinically relevant microorganisms present in the human microbiome.
+
+all of the 28 taxa on the test have been associated with human health in the gut microbiome.
+
+all of the 28 taxa on the test have been associated with human health in the gut microbiome.
+
+analysis of participant data was performed in aggregate and anonymously.sample collection and 16s rrna gene sequencingfecal samples were self-collected by participants at home using commercially available ubiome microbiome sampling kits which have been designed to follow the specifications laid out by the nih human microbiome project .
+
+defining a healthy human gut microbiome current concepts future directions and clinical applications.
+
+2012 12 611-622.pmidmcinnes p cutting m. manual of procedures for human microbiome project core microbiome sam- pling protocol a hmp protocol no.
+
+this is partly caused by large inter- individual variations associated with human geographic dietary genetic and lifestyle differ- ences which made it challenging to define the healthy human microbiome .
+
+therefore most studies comparing microbiomes from healthy controls and diseased patients might be too small to detect small but real differences in gut microbiotas.in this study we present an ngs-based clinical gut microbiome sequencing assay to assess the relative abundance of health condition-associated microorganisms .
+
+defining the healthy ranges for gut microbes with known clinical relevance as done in this study is likely to bring the analysis of the composition of the gut microbiome one step closer to being part of routine health care analysis -.
+
+2017 16s rrna gene sequencing and healthy reference ranges for 28 clinically relevant microbial taxa from the human gut microbiome.
+
+raw fastq reads mapping to the samples and the taxa in the reference databases used in this study were uploaded to ebi's ena under accessionabstractchanges in the relative abundances of many intestinal microorganisms both those that nat- urally occur in the human gut microbiome and those that are considered pathogens have been associated with a range of diseases.
+
+in addi- tion we define the relative abundance ranges of these taxa in stool samples from a large healthy human cohort.material and methodsparticipantsa group of 1000 self-reported healthy individuals who had submitted fecal samples one sam- ple per subject were selected from the ongoing ubiome citizen science microbiome research study manuscript in preparation.
+
+more broadly our method can facilitate epidemiological studies of the microbiome as it relates to overall human health and disease.code prjeb20022  .funding all authors are or were full-time employees of ubiome inc. ubiome inc. funded the study design collection analysis andinterpretation of data writing of the paper and decision to submit for publication.
+
+the correla- tion--or lack thereof--of 16s rrna-based phylogenetic sequence identities with taxonomic levels such as genus or species has been extensively discussed elsewhere -.16s rrna gene sequencing as a clinical screening tool for gut-related conditions has many advantages over traditional culture-based techniques including ease of sampling scalability of the test no need for human interpretation and the ability to provide additional information about gut health.
+

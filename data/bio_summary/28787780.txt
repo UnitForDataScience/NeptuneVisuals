@@ -1,0 +1,30 @@
+edges show a correlation between biomes and antibiotics where a green edges represent forest samples b orange edges represent grassland samples c dark blue edges represent semiarid regions d light blue represents tundra samples and e red edges represent desert samples.
+
+3.principal component analysis pca of taxonomical community com- position was used to examine clustering between communities and showed high correlation between forest and grassland samples  a. tundra samples were clustered with other grasslands probably be- cause the samples were collected during the summer when tundra soil microbial communities are shaped by the summer monocotyledonous growth .
+
+this occurred due to the scarcity of wgs samples related to the tundra biome in pub- lic databases.soil functional profiles from the desert biome group were signifi- cantly less similar to each other than soil profiles within the forest grassland and semiarid biomes c. therefore while semiarid grassland and forest soils with similar vegetation and climate are func- tionally similar even when located in very different geographic regions desert soils buck the trend.
+
+furthermore gt4 enzymes were the most abundant glycosyltransferases gt in all biomes datasets except in tropical forest and it is also most abundant in desert and semiarid biomes among soil samples supplementary fig.
+
+also candidatus solibacter usitatus be- longing to acidobacteria phylum and related to nitrate and nitrite reduc- tion and plant cell wall polysaccharide degradation was found in high frequency .the phyla chloroflexi particularly the thermophilic class thermomicrobia firmicutes and deinococcus-thermus were signifi- cantly more abundant in semiarid and desert samples than in forest grassland and tundra soil samples.
+
+native soil samples were selected from amazon forest brazil dataset to represent the tropical forest biome .
+
+only two metagenomes were available from 8 mediterranean chaparral soils and one metagenome was available from each 9 temperate coniferous 10 temperate deciduous 11 boreal forest and prairie 2 - temperate savanna.boreal forest alaska prairie usa temperate coniferous usa deciduous forest usa hot desert usa and polar desert antarctica datasets were used from a previous work on soil microbial community comparisons .
+
+on the other hand functional modules associated with plant-derived compound metabolism were significantly overrepresented in grassland and forest soils when com- pared to desert samples .although previous studies have already discussed differences in mi- crobial communities among biomes some groups such as semiarid and tundra were poorly discussed or even not considered.
+
+it is also involved in the detoxification of intracellular metabolites virulence and signal trafficking  .a network correlating the arg-like classes to the biomes and their abundance revealed a higher number of args matches to forest and grassland soil samples  supplementary fig.
+
+the caatinga and mediterranean biomes clustered together which is consistent with the fact that these biomes share similar characteristics such as xerophilic vegetation and climate seasons dry summers and rainy winters.functional diversity of the soil microbial communitiesprincipal component analysis pca of seed functional composition clustered the biome groups according to their metabolic potential as demonstrated by seed subsystems annotation b. a pairwise comparison using spearman correlation was calculated to quantify sim- ilarity within and between biomes based on seed cog and kegg data- base.
+
+taxonomic and functional patterns across soil microbial communities of global biomesmelline fontes noronha  gileno vieira lacerda junior  jack a. gilbert  valeria maia de oliveira a microbial resources division multidisciplinary center for chemistry biology and agriculture research cpqba campinas university brazilb institute of biology campinas university brazilc the microbiome center department of surgery university of chicago chicago il usad the microbiome center bioscience division argonne national laboratory lemont il usah i g h l i g h t sstructure of microbial communities dif- fered clearly among the soil biomes.genes related to s fe and p metabolism were more abundant in non-desert soils.cazyme profiling showed enrichmentof biomass-degrading genes in non- desert biomes.osmotic stress resistance genes wereoverrepresented in desert and semiarid soils.antibiotic resistance genes wereenriched in forest and grassland soil biomes.g r a p h i c a l a b s t r a c ta r t i c l ei n f o article historyreceived 30 april 2017received in revised form 17 july 2017accepted 18 july 2017available online 3 august 2017 editor elena paolettikeywordssoil metagenomics microbial community biomescarbohydrateactive enzymes cazymes antibiotics resistance genesa b s t r a c t soil microbial communities have been shown to vary across many spatial scales yet while variability exists be- tween samples closely located in the same soil variation between soils of different ecosystems is larger creating biogeographic trends.
+
+the relative abundance of fungi bacteria and archaea were characterized for all samples.although fungi and other eukaryotes represent a significant pro- portion of soil microbial communities their representation in the datasets based on seed taxonomic annotation was low 0.70-1.60. nonetheless reads annotated to ascomycota were signifi- cantly more abundant in forest and grassland biome groups when compared to semiarid and desert soil samples.
+
+the archaea domain showed lower abundance in forest and grassland soils when com- pared to semiarid soil samples welch's t-test p b 0.05 supple- mentary fig.
+
+1.taxonomic analyses showed that forest grassland and tundra soils had a significant higher proportion of proteobacteria verrucomicrobia and acidobacteria phyla when compared to other soil samples.
+
+1. principal coordinates analyses of taxonomical community a and functional composition b among forest green color range grassland orange color range tundra cyan semiarid blue color range and deserts soil samples red color range.
+

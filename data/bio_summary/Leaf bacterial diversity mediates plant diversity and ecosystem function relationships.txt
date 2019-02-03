@@ -1,0 +1,30 @@
+the covariances between leaf bacterial diversity and the two variables of leaf bacterial community composition were also included in the model.extended data figure 6  structural equation model of plant diversity and identity explaining leaf bacterial diversity and community composition as well as plant community productivity.
+
+here we show that plant-associated microbial diversity is posi- tively related to plant community productivity explaining a portion of the variation in productivity that would otherwise have been attributed to plant diversity and functional traits both adding to the explanatory power of the model of plot productivity and mediating the tree diversity- identity effect on productivity.our finding that leaf bacterial diversity but not community com- position is related to plant community productivity suggests that the effect of bacterial diversity on plant productivity is more likely to be a complementarity effect rather than a selection effect.
+
+despite their potential impor- tance in mediating plant biodiversity-ecosystem function relationships the role of microbial communities in driving ecosystem productivity and function has never been evaluated in an experimental context that allows direct quantification of the association between plant-associated microbes and ecosystem function.in this study we quantified the relationships among leaf bacterial diversity plant species richness plant functional diversity and iden- tity and plant community productivity in a biodiversity-ecosystem function experiment with trees.
+
+the following two covariances were removed from the a priori model  the covariances between plant functional identity and both plant species richness p  0.45 and plant functional diversity p  0.90. we also tested the influence of soil microtopography on plant community produc- tivity and leaf bacterial diversity .
+
+removing the link between leaf bacterial diversity and community productivity in the structural equation model yielded an unstable model kh2  11.906 p  0.008 providing further evidence for thefigure 2  structural equation model of plant diversity and identity explaining leaf bacterial diversity and plant community productivity.
+
+green boxesindicate exogenous variables diversity indices and plot microtopography whereas responses are in yellow for plot-level leaf bacterial diversity and blue for plant community productivity.extended data figure 4  alternative structural equation model excluding the link between leaf bacterial diversity and plant community productivity.
+
+green boxes indicate plot-level plant diversity indices yellowdenotes plot-level leaf bacterial diversity orange indicates plot-level leaf bacterial identity blue denotes for plant community productivity.
+
+green boxes indicate plot-level plant diversity indices yellow denotes plot-level leaf bacterial diversity orange indicates plot-level leaf bacterial identity blue denotes plant community productivity.
+
+likewise host species identity f18535 38.0 p  0.0001 was the strongest determinant of leaf bacterial diversityfunctional diversity0.180.61linear mixed model on leaf bacterial diversity marginal r2  53  followed by functional identity f1474  26.2 p  0.0001 and functional diversity f1302 21.9 p  0.0001. these results sug- gest that host species identity has a dominant role in determining leaf microbial community structure even after accounting for changes in plot-level plant functional diversity identity and species richness.
+
+we hypothesized that 1 host species identity and functional diversity will be the strongest driver of leaf bacterial community structure and diversity on individual trees and 2 a higher leaf bacterial diversity will be positively linked to plant community productivity.
+
+the model formula isleaf diversity  host species identity  functional diversity  functional identity1blockplotwhere fixed effects included leaf bacterial diversity functional diversity and func- tional identity as continuous variables and host species identity as a 19 levels factor.at the plot level we built a structural equation model to test for the direct and indirect effects of host tree identity and diversity on leaf bacterial diversity and plant community productivity and .
+
+3institut des sciences de la foret temperee universite du quebec en outaouais ripon j0v 1v0 quebec canada.table 1  bacterial community structure explained by various factorstable 2  drivers of tree-level leaf bacterial diversityspecies richness1.6810.20.055identity functional21.9013020.0001host species identity xfunctional identityhost species identity xfunctional diversity1.67183.50.0011.18182.50.021diversitydeterminants of leaf bacterial diversity were quantified using the shannon diversity index.
+
+to address the challenge of controlling for changes in leaf bacterial community composition at different bacterial community diversities we quantified leaf bacterial community structure by using the two axes of a non-metric multi- dimensional scaling nmds analysis on bray-curtis dissimilarities of the otu community matrix.
+
+the covariances between leafbacterial diversity and the two variables of leaf bacterial community composition were also included in the model.extended data table 1  host species functional traitstraits are maximum photosynthetic capacity amass drought tolerance dt leaf longevity ll leaf mass per area lma leaf nitrogen content nmass seed mass sm shade tolerance st water tolerance wt and wood density wd from global databases.
+
+at other trophic levels the plant microbiome has been shown to influence host plant fitness and function and host-associated microbes have been proposed to influence ecosystem function through their role in defining the extended phenotype of host organismshowever the importance of the plant microbiome for ecosystem function has not been quantified in the context of the known importance of plant diversity and traits.
+

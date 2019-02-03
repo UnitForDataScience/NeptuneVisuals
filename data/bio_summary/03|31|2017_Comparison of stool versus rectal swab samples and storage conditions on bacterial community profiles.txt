@@ -1,0 +1,30 @@
+b dna diluted 110 for pcr indicated by d after aliquot numberadditionally overall community richness the number of otus per sample did not differ significantly between dif- ferent storage conditions or dilutions within each patient kruskal-wallis test otus per sample a median 89 iqr 83-99.8 b median 62.5 iqr 58-70.8 c median112.5 iqr 107-118.8. our results indicate high similarity between the bacterial communities of aliquots from the same sample even when different storage conditions or di- lutions were used.rectal swab compared to stool specimensto evaluate stool versus swab sample collection we col- lected one stool sample and multiple rectal swabs during the next 24 to 27 h from 8 patients each 6 women and 2 men with a median age of 55 years iqr 47-58 years.
+
+labels indicate sample type f  stool s  swab subject number sample number and approximate sampling time in hours relative to stool sample collection.
+
+for example s1424 indicates a swab sample from subject 1 sample number 4 collected at approximately 24 h after the stool sample.
+
+sample c was a formed stool from an out- patient at hospital b who had completed a two-week course of oral clarithromycin and metronidazole approxi- mately 2 months prior to sample collection.each sample was split into 15 aliquots and tested in triplicate under the 5 storage conditions described in table for stool samples dilution of dna often im- proves pcr amplification.
+
+similarly a previ- ous study found that rectal swabs were a suitable alterna- tive to stool for analyzing the intestinal microbiota using is-pro a method that differentiates bacteria based on in- ternal transcribed spacer its length and phylum-specific fluorescent primers .conclusionsgastrointestinal microbiota studies based on bacterial 16s rrna gene sequencing have options for interim sample storage conditions 4 degc or -20 degc vs. -80 degc and sample collection methods stool vs. rectal swab that may increase sampling feasibility in the hospital setting without altering results.fig.
+
+for the stool and rectal swab comparison samples from different patients regardless of sample collection method were significantly different amova p-values 0.001-0.029 compared to no significant difference between all stool and swab samples amova p-value 0.976. the thyc dissimilarity index between swab and stool samples was significantly lower within individuals median 0.17 iqr 0.10-0.27 than between individuals median 0.93 iqr 0.
+
+85-0.97 wilcoxon test p-value 0.0001 indicating minimal differences between stool and swab samples collected from the same individual over the sampling period.conclusion for gastrointestinal microbiota studies based on bacterial 16s rrna gene sequence analysis interim stool sample storage at 4 degc or -20 degc rather than immediate storage at -80 degc does not significantly alter results.
+
+stool and rectalswab samples were stored up to 27 h at 1-8 degc before being frozen at -80 degc.specimen processing for storage conditions analysisfor the storage conditions analysis each specimen was divided into 15 aliquots to evaluate each of the different storage conditions being tested table aliquots of 0.2 g of stool were prepared in sarstedt tubes in triplicate for each storage condition.
+
+one rectal swab sample yielded dna levels too low for accurate bacterial community analysis likely rendering that sample especially susceptible to con- tamination.
+
+for example a21 is from sample a storage condition number 2 aliquot number 1. the colors of the horizontal bars above labels correspond to sample color-coding in fig.
+
+to detect possible contamination an unused swab and a reagents onlyno sample control were processed through dna isolation and pcr with the stool and swab samples.
+
+in addition regardless of sample col- lection method there were significant differences between all subjects amova p-value 0.001-0.029 compared to no overall difference between all stool and swab samples from within subjects amova p-value 0.976. the thyc distance between swab and stool samples was significantly lower within subjects median 0.17 iqr 0.10-0.27 com- pared to between subjects median 0.93 iqr 0.85-0.97 wilcoxon test p-value 0.0001 fig.
+
+we attempted to confirm the bacterial community compos- ition of s123 from the second swab head of the dual swab sample.
+
+bmc microbiology 2017 1778doi 10.1186s12866-017-0983-9comparison of stool versus rectal swab samples and storage conditions on bacterial community profileschristine m. bassis1 nicholas m. moore2 karen lolans3 anna m. seekatz1 robert a. weinstein3 vincent b. young and mary k. hayden3 for the cdc prevention epicenters programabstractbackground sample collection for gut microbiota analysis from in-patients can be challenging.
+
+in this study we compared the bacterial microbiota from stool stored under different conditions as well as stool and swab samples to assess differences due to sample storage conditions and collection method.methods using bacterial 16s rrna gene sequence analysis we compared the microbiota profiles of stool samples stored and collected under various conditions.
+

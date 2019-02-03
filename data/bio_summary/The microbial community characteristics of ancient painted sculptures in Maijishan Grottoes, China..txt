@@ -1,0 +1,30 @@
+venn diagram showing the unique and shared otus 97 for the bacterial a and fungal b communities among the four samples.bacterial genera among these samples pseudonocardia accounted for the largest number of sequences detected from three painted samples ranging from 41.54 to 65.57 its proportion was far higher in the painted samples than in dust 6.35 indicating a significant community succession on the painted sculptures in the maijishan grottoes over time.
+
+research articlethe microbial community characteristics of ancient painted sculptures in maijishan grottoes chinayulong duan1 fasi wu23 wanfu wang123 dongpeng he2 ji-dong gu4 huyuan feng3 tuo chen1 guangxiu liu1 lizhe an131 key laboratory of extreme environmental microbial resources and engineering gansu province northwest institute of eco-environment and resources university of chinese academy of sciences lanzhou p.r.china 2 national research center for conservation of ancient wall paintings and earthen sites dunhuang academy dunhuang gansu p.r.china 3 moe key laboratory of cell activities and stress adaptations school of life sciences lanzhou university lanzhou p.r.china 4 laboratory of environmental microbiology and toxicology school of biological sciences the university of hong kong hong kong sar p.r.china these authors contributed equally to this work.
+
+overall the best way to con- serve and protect a cultural heritage site is to avoid human intervention to maintain the sophisticated ecosystem balance in the caves.in summary the characterization of the microbial communities on the painted sculptures in the maijishan grottoes showed the presence of complex bacterial and fungal groups on thesepainted sculptures many of which are common core species associated with the biodeteriora- tion of painted sculptures.
+
+our research objectives were to 1 describe the complete bacterial and fungal communities on the painted sculptures in the maijishan grottoes 2 define the corephylogenetic groups among the whole microbial community and 3 assess the potential threat of invasive microbial groups at this study site.
+
+it is generally agreed upon that microorganisms cause serious contamination of the mural paintings and that they colonize and penetrate into the deep layers of the paintings resulting in material loss due to acid corrosion enzymatic degradation and mechanical attack .previously research on the microbial invasions of wall paintings was only carried out at the mogao grottoes a cultural heritage site along the silk road.
+
+thus large amounts of pseudonocardia and rubrobacter were detected on the painted sculptures in the maijishan grottoes and this result is a strong indication of the potential risk of microbial invasion and deterioration.many heterotrophic bacterial genera such as arthrobacter brevibacterium bacillus kocuria pseudomonas streptomyces and saccharopolyspora were also detected in our research these are also the species most frequently isolated from the wall paintings of caves and cata- combs -.
+
+in many cases tiny fractions of microorganisms may result in severe damage to wall paintings due to a lack of sufficient attention or inappropriate management.although no obvious visible microbial damage exists on the painted sculptures in the maijishan grottoes the priceless and fragile artwork is now under multiple threats by different microor- ganisms and human activities.
+
+the results revealed a high bacterial diversity and a relatively low fungal diversity as well as a high bacterial abundance and a low fungal abundance on the painted sculptures of the maijishan grottoes.
+
+scatter plot of the pca-score showing the similarity of the bacterial a and fungal b communities based on the unifrac distance.for bacteria the results suggested that actinobacteria and firmicutes were the most pre- dominant bacterial taxa on the painted sculptures in the maijishan grottoes.
+
+a the geographical location of the maijishan grottoes in china b cave 4-4 of the maijishan grottoes c d and e the painted statues inside cave 4-4 and the sampling locations samples a-c were collected from the shakyamuni sculpture on the east side were mixed thoroughly and were named it as mj4-1.
+
+to a large extent the microfloral characteristics of the deposited dust were highly consistent with the surround- ing atmosphere of the painted sculptures suggesting that the air is an important source of microbes for painted sculptures.in recent years the maijishan grottoes and its elegant artwork and beautiful scenery have attracted an increasing number of tourists exerting tremendous pressure on the conservation and management of this site.
+
+thus the relationship between the conservation of heritage sites and tourism activities has become a hot topic in academic studies.overall to improve the conservation of the cultural heritage preserved in the maijishan grottoes it was necessary to investigate the microbial communities on the painted sculptures.
+
+2017 the microbial community characteristics of ancient painted sculptures in maijishan grottoes china.
+
+this is an open access article distributed under the terms of the  which permits unrestricted use distribution and reproduction in any medium provided the original author and source are credited.data availability statement all miseq sequence files are available from the sra database accession numberssrp095989.abstractin this study a culture-independent illumina miseq sequencing strategy was applied to investigate the microbial communities colonizing the ancient painted sculptures of the mai- jishan grottoes a famous world cultural heritage site listed by unesco in china.
+
+in addition 9 otus were detected in only the mj4-4 library these unique otus comprised a tiny fraction of the reads in mj4-4 ca.0.10 and their effects on the community composition of mj4-4 would be negligible.discussionto investigate the microbial communities of the painted sculptures in the maijishan grottoes a miseq high-throughput sequencing approach was used.
+

@@ -1,0 +1,30 @@
+overall these findings demonstrated that the initial gut microbiome had the potential to predict ogtt outcomes after different types of prebiotic intervention.figure 5. variability of ogtt in two prebiotics intervention a. red dots represent ogtt elevated after both prebiotics.
+
+dots represent predicted x axis and measured ogtt y axis after prebiotic interventionfor a model based a only on the initial ogtt b on the initial ogtt and microbiome c only on the microbiome.
+
+yellow dots represent ogtt reduced after fos intervention but elevated after gos intervention blue dots represent ogtt reduced after gos intervention but elevated after fos intervention glucose profiles changing with prebiotics intervention in participants 104 and b participants 204 c system clustering of microbiota composition at genus level.
+
+the red bar chart represents the bacteria that was more abundant in patients' fecal samples and the blue bar chart represents the controls.formed to obtain a visual representation of the overall dynamic and each participant exhibited different microbial community.since significant individual differences were detected we further used machine learning with a random forest model to test whether metadata such as bmi the type of prebiotics and the initial ogtt in addition to fecal microbial taxa could predict the ogtt outcomes following the prebiotic intervention.
+
+the otus in the model belonged to four phylum bacteroidetes 1840 firmicutes 2040 actinobacteria 140 and proteobacteria 140.and then we only used physiological data including the initial ogtt bmi body fat bmr visceral fat index skeletal muscle to build a baseline model to predict the ogtt outcomes after prebiotic intervention.
+
+the cor- relation coefficient between the measured ogtt values and the predicted ogtt values was statistically sig- nificant r  0.595 p  10-5 fig.
+
+of interest only using the microbial taxa 40 selected otus the correlation coefficient between the measured ogtt values and the predicted ogtt values was still higher than that only using physi- ological data r  0.726 p 10-10 fig.
+
+.according to the model results further exploration indicated that the initial ogtt fasting glucose andbmi were the host factors correlated with the predicted ogtt fig.
+
+the box size to the prediction ogtt indicate the importance of the factor attributed to the ogtt outcomes.
+
+we sought to evaluate the impact of fructooligosaccharides fos and galactooligosaccharides gos on glycemia during oral glucose tolerance test ogtt and intestinal microbiota.
+
+a random forest model using the initial microbiota was developed to predict ogtt levels after prebiotic intervention with relative success r 0.726. our study alerted even though fos and gos increased bifidobacterium they might have adverse effect on glucose metabolism by reducing butyrate-producing microbes.
+
+the increased correlation for the model added with microbiota indicated that the initial fecal bacterial community correlated better with the ogtt outcomes than these known risk factors of glucose intolerance.
+
+in our study further analysis using machine learning indeed suggested a correlation between gut microbiota and the ogtt after prebiotics intervention.
+
+gut microbiota signatures predict host and microbiota responses to dietary interventions in obese individuals.plos one.
+
+faeces sampling ogtt and anthropometric parameters were performed.
+

@@ -1,0 +1,30 @@
+cestimated based on the frequency of universal single-copy genes 136 genes for archaea and 105 genes for bacteria in each bin-genome.and fermentative bacteria affiliated with syntrophaceticus syn8 coprothermobacter cop3 and cop4 anaerobaculum anb5 and clostridiales e.g.
+
+among them we focused on 221 genes that are present only in mes1 supplementary data  and 44 genes that are present in the two reference strains but lost from mes1 supplementary data .
+
+we also found that several genes related to biofilm formation such as genes involved in extracellular polysaccharide bio- synthesis are present only in mes1 supplementary fig.
+
+we comparatively analyzed the genomic features of met2 and met7 by the bbh analysis with h as the reference and extracted 249 genes unique in met2 andor met7 but lost from h and 232 genes present in h but lost from the two reconstructed methanogens fig.
+
+in met20 however the fdhcab genes involved in formate utilization were abundantly expressed and their expression levels were increased on day 200. this result suggested that formate served as an important methanogenic substrate for this methanogen particularly under the high olr condition.interestingly we found that mes1 exhibited increased expression levels of the fwd mtd mer and frt genes which are involved in hydrogenotrophic methanogenesis on day 200 as compared to those on day 122. this result suggested that mes1 preferentially utilizes the hydrogenotrophic pathway rather than the acetoclastic path- way under high olr conditions.
+
+the completeness of bin-genomes was assessed by core-gene analysisusing 107 marker genes for bacteriaand 137 marker genes for archaea.
+
+pfs and bfs in reactors 1 and 2 were subjected to phylogenetic analyses based on 16s rrna genes.
+
+in addition microbialfigure 2. neighbor-joining trees based on nucleotide sequences of mcra genes showing phylogenetic relationships in the genus methanosarcina a and methanothermobacter b. bootstrap values 100 trials only50 are shown are indicated at branching points.
+
+gi numbers are shown in parentheses.populations in reactor 1 were not substantially different between day 122 and day 200 suggesting that the major members of methanogens are stably maintained regardless of olr.phylogenetic analyses of methanogens based on mcra genes.
+
+to phylogenetically assign methano- gens that occurred in the thermophilic digesters we analyzed genes for methyl coenzyme-m reductase mcra that have been used for the classification of methanogens .
+
+genes encoding mcra were extracted from the contigs and subjected to phylogenetic analyses.
+
+in this analysis we detected only a few mcra genes whose host methanogens were affiliated with the genera methanosarcina and methanothermobacter fig.
+
+two mcra genes detected in reactor 1 on days 122 and 200 were both identical to that of methanosarcina sp.
+
+indicated that this genus is divided into two clusters named clusters i and ii and the present study detected mcra genes grouped into both clusters.
+
+thermautotrophicus h .abundance ratios of methanogens in reactor 1 as estimated from rpkm values for mcra genes fig.
+

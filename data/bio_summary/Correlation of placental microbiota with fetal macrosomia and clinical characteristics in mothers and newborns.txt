@@ -1,0 +1,30 @@
+otu operational taxonomic unit bw body weight bmi body mass index bmi1 bmi at the beginning of 1st trimester bmi2 body mass index at the end of 3rd trimester bw1 body weight at the beginning of 1st trimester bw2 body weight at the end of 3rd trimester igf-1 insulin-like growth factor-1.showed that birth weight determines the risks of metabolic syndrome in adult life for the time in a chinese population 20 21. moreover it showed that increasing prevalence of macrosomic births was paralleled in rise in diabetes and obesity in women 9. recently increasing studies demonstrated the existence of a placental microbiota and it was associated with pregnancy outcomes and human health 15-18. more recently the maternal- fetal transmission of microorganisms and microbial colonization of the fetal organism before birth has been suggested.
+
+demonstrated that the microbial structure in placentas from preterm births was associated with excess gestational weight gain 18. our previous data showed that there was significant difference in placenta microbiota composition between full-term low birth weight neonates and controls 19. however the explicit roles of placental microbiota on fetal macrosomia are still unclear.
+
+found that microbiome in placenta was in association with gestational weight gain among women who delivered preterm but not full-term with increased abundance of firmicutes actinobacteria and cyanobacteria 18. a recent study found that the relative levels of certain placenta microbiota taxon genus of acinetobacter were lower in gestational diabetes mellitus gdm which is a high risk of fetal macrosomia 24. the data indicates that aberrations in placental microbiota are significantly correlated with the clinical characteristics of the mothers and newborns in macrosomia which may be due to excess gestational weight gain.
+
+for the infants it indicated that birth weight 4441.50-199.17 vs. 3147.00-78.32p  0.001 body length 52.20-1.32 vs. 49.20-1.03 p 0.001 ponderal index 31.02-2.61 vs. 26.47-1.57 p  0.001 and placenta weight 941.00-114.26 vs. 593.75-69.01 p  0.001 were statistically increased in fetal macrosomia compared with newborns with normal birth weight.
+
+three to four otus were positively correlated with body length and placenta weight body weight and bmi at the end of 3rd trimester body weight and bmi increase during pregnancy of mothers and umbilical cord blood igf-1 concentrations.
+
+both body weight 20.85-4.72 vs. 16.00-3.57 p  0.018 and bmi 7.86-1.98 vs. 5.96-1.33p  0.021 increase during pregnancy were higher in macrosomia compared to control group table 2.validation of the sequencing accuracy and community diversityto profile the differences of birth weight on placenta microbiota structure we performed illumina miseq sequencing of bacterial 16s rrna gene v3 region for 20 placenta samples collected from the two groups.
+
+however significant differences were observed in the estimators of community diversity indices including shannon 2.76-0.52 vs. 1.97-0.66 p  0.02 and simpson 0.12-0.07 vs. 0.34-0.19 p  0.007between the two groups indicating higher micorbiota diversity in placenta from macrosomia table 3.overall structural changes of placental microbiota in response to birth weightcloser analyses of placental microbiota differences by virtue of birth weight were performed.
+
+theheatmap profile also indicated that microbial community structures in placentas had a marked difference between fetal macrosomia and normal birth weight figure 4.placental microbiota composition differ between macrosomias and controlswe further investigated whether or not certain placental microbiota structure correlated with fetal macrosomia.
+
+regression analysis showed a cluster of key operational taxonomic unit otus phyla and genera were significantly correlated with body length ponderal index and placenta weight body weight increase during pregnancy of mothers and cord blood igf-1 and leptin concentrations.
+
+one to two key otus were negatively correlated with body weight and bmi at the beginning of 1st and the end of 3rdtrimester body weight and bmi increase during pregnancy in mothers.
+
+of note prevotellaceaenk3b31group was negatively correlated with several parameters including ponderal index placenta weight body weight and bmi at the end of 3rd trimester and bmi increased.
+
+however our study for the first time showed that placenta with macrosomia have distinct microbial community compositions with higher relative levels of proteobacteria and firmicutes genera.similar to a couple of other studies it showed that pre-pregnancy bmi gestational week and gestational weight gain were strongly associated with fetal macrosomia 22 23. in our study we found both body weight and bmi increases during pregnancy were higher in macrosomia.
+
+fetal macrosomia is defined as a birth weight of 4000 g. it suggested that the wide variation of the sensitivity of ultrasonographic measurement of the fetal weight 25 we accurately weighed all the newborn immediately after birth which is the most accurate way of diagnosing fetal macrosomia.
+
+clinical variables of the infants included sex the mode of delivery birth weight body length ponderal index head circumference and placenta weight gestational age and neonatal complications.
+
+birth weight and body length of neonates were measured after delivery using a calibrated scale for weight and a measuring board for length.
+

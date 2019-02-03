@@ -1,0 +1,30 @@
+in conclusion the intestinal fecal signature may be related with metabolites and microbiota in gout patients.to explore the fecal signature of gout 1h nmr and illuminamiseq were employed to investigate the metabolic profile and microbial community of fecal extracts from gout patients and healthy individuals respectively.
+
+generally intestinal dysbiosis can cause fecal metabolites variation because most of the metabolites are derived from the microbiota   such as short-chain fatty acids scfa trimethylamine and amino acids    .the fecal microbiome and metabolome are simultaneously found to be disordered in colorectal cancer or systemic lupus erythematosus patients compared to healthy controls       .
+
+the detailed concentrations of the 14 significant metabolites were shown in supplementary figure s4.correlations of discrepant microbial taxa and fecal metabolitesto further analyze the associations of alterations in fecal metabolome and microbiome we conducted the correlation of 19 discrepant microbial taxa at the family and genera level and 15 discrepant metabolites using the spearman's rank correlation method.
+
+this study suggests that the combined analysis of the fecal microbiome and metabolome may effectively characterize diseases.keywords gout microbiome metabolome fecal signatureintroductionhuman feces are complex and comprised of multiple elements including proteins nucleic acids metabolites human cells and microorganisms.
+
+to maximize class discrimination and discover the gout- related fecal metabolites a comparative pls-da model was utilized on the targeted metabolite data from the gout patients and healthy controls.
+
+for instance the positive associations were observed between coprococcus 3 or vibrio and citrulline.although the correlation between metabolites and microbial taxa doesn't mean that they exhibit any biological interaction they have the potential to be a combination of fecal signatures.discussionaccumulating evidence indicates that gut microbiota interact with gout which is a concerning strategy for characterizing and treating gout patients    .
+
+briefly the discrepant fecal metabolites in gout patients may involve ua excretion and purine metabolism.the gout disease is not only a metabolic disease but also an autoimmune disease.
+
+as shown in  the signatures of metabolome in male gout patients involve multiple biological processes during the course of gout such as ua excretion purine metabolic disorder and inflammatory responses.three gout-enriched metabolites involving energy production acetate succinate and glucose may provide atp for intestinal epithelial cells to excrete ua through the atp-binding cassette superfamily g member 2   and the solute carrier protein 2 family member 9 in male gout patients   .
+
+therefore the combined fecal microbiome and metabolome signature may provide reliable and comprehensive information to uncover fecal biomarkers of diseases especially metabolic diseases.gout is a purine metabolic disorder disease that is characterized by elevated serum uric acid ua and deposition of urate in and around the joints.
+
+we used high-throughput sequencing of the v3-v4 region of the 16s rrna gene to characterize the fecal microbiome 1h nmr spectra assaying of small molecules to characterize the fecal metabolome.
+
+fecal biomarkers could be micrornas   proteins   microorganisms    and metabolites  .
+
+conversely the family vibrionaceae and its derivatives photobacterium and vibrio the genus coprococcus 3 lachnospiraceae nc2004 grouplachnospiraceae ucg005 ruminococcaceae nk4a214 group and ruminococcaceae ucg011 were all lower in the intestinal microbiota from the gout patients.discrepancy of metabolites in gout patientstypical 1h nmr spectra of fecal extracts of gout and healthy controls were shown in supplementary figure s3.
+
+the spectra of fecal extracts showed 46 targeted metabolites in this study.
+
+and erysipelatoclostridium and some fecal metabolites acetate asparagine.
+
+however the associations were observed among most fecal signatures of metabolome and microbiome.some gout-enriched microbial taxa were associated with the gout-enriched metabolites.
+

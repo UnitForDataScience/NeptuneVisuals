@@ -1,0 +1,8 @@
+doi 10.1186s40168-017-0351-xcorrection to optimization and validation of sample preparation for metagenomic sequencing of viruses in clinical samplesdagmara w. lewandowska1 osvaldo zagordi1 fabienne-desiree geissberger1 verena kufner1 stefan schmutz1 jurg boni1 karin j. metzner12 alexandra trkola1 and michael huber1correctionfollowing publication of the original article  the au- thors were alerted by a colleague of a column duplication in table .
+
+since the summary row was correct though the interpretation and the conclusion of the article were not affected.author details1institute of medical virology university of zurich winterthurerstrasse 1908057 zurich switzerland.
+
+2017 open access this article is distributed under the terms of the creative commons attribution 4.0 international license which permits unrestricted use distribution and reproduction in any medium provided you give appropriate credit to the original authors and the source provide a link to the creative commons license and indicate if changes were made.
+
+the creative commons public domain dedication waiver applies to the data made available in this article unless otherwise stated.table 1 number of reads reported from sequencing a multiplexed viral pathogen reagentfor subsamples of reads the average number of virus reads and detected target viruses in 10 random samplings is shown
+

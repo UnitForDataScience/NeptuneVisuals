@@ -1,0 +1,30 @@
+in agreement with our notion high bp has become one of the three leading risk factors for death according to the global burden of disease study moreover our findings fully support the updated conclu- sion by the systolic blood pressure intervention trial sprint research group that controlling one's sbp to an optimal level lower than 120 mmhg rather than a phtn level below 140 mmhg leads to significantly de- creased occurrence of cardiovascular events and deaththus more attention should be given to the previ- ously neglected populations in phtn and early inter- vention for phtn is strongly appealed.conclusionstaken together we have described clearly the disordered profiles of gm and microbial products in human pa- tients with phtn and htn established the relationship between gut dysbiosis and htn and provided important evidence for the novel role of gm dysbiosis as a key fac- tor for bp changes.
+
+collectively these key issues are the major goal of the present study.to address the questions above we performed deep metagenomic sequencing of stool samples from 196 par- ticipants of healthy control phtn and htn took metabolomic analyses of their metabolic profiles further constructed a disease classifier for phtn and htn based on gm and metabolites and demonstrated the crucial role of disordered gm in triggering thigh bp by human fecal microbiota transplantation into gf mice.resultsgm diversity and enterotype in phtn and htnto identify whether gut microbial changes are associated with htn we performed shotgun metagenomic sequen- cing of fecal samples from a cohort of 196 chinese indi- viduals.
+
+furthermore it has been proved that transplantation of cecal contents from hypertensive obstructive sleep apnea rats on high-fat diet into recipient rats on normal chow diet lead to higher bp levels and a major contributor to the gut dysbiosis of obstructive sleep apnea-induced htn is high-fat diet these studies have emphasized a strong correlation between gut dysbiosis and htn and further implied the significance of gm in bp regulation yet animal models could not perfectly substitute human disease and the sample size of human participants for microbial analysis was quite limited.in consideration of the bp levels being classified into optimal pre-hypertension phtn and htn according to the most recent clinical guidelines  it remains ob- scure how exactly the composition of gut microbes and the products of microbial fermentation change in human patients with htn especially in phtn populations.
+
+altogether these results indicated that the bacterial communities in indi- viduals with phtn and htn are similar and the col- lective effect of these bacteria may account for intestinal dysbiosis in htn.functional alteration in gm of phtn and htnusing the kyoto encyclopedia of genes and genomes kegg and carbohydrate-active enzymes cazy  database we evaluated gut microbial functions acrossgroups in our study cohort.
+
+thus the distinguished metabolic pro- filing in htn was closely connected to intestinal microflora variation although whether these metabolic products were directly metabolized by the intestinal mi- croorganisms remained to be explored.identification of phtn and htn basing on gut microbiometo illustrate the microbial and metabolic signature of phtn and htn and further exploit the potential of gut microbiome and metabolites in htn identification ran- dom forest disease classifier using explanatory variables of cags metabolites and species abundances were per- formed.
+
+among the most discriminatory cags to distinguish phtn or htn from control there were some cags similarly enriched in both phtn and htn subjects including cag-172 prevotella cag-197 prevotella cag-759 faecalibacterium cag-765 faecalibacterium and cag-793 faecalibacterium fig.
+
+these cag markers were the common micro- bial characteristics of phtn and htn and contributed a lot to the identification of phtn and htn.we also investigated the utility of the classifier based on microbial cags  species.
+
+and there was a little difference in the structure of gut microbiome between phtn and htn indicating that phtn is not simply a transition stage between normotensive and hypertensive status upon bp levels but rather a state in which gut dysbiosis has already occurred.
+
+moreover our findings revealed indiscriminate metabolic profilings between phtn and htn consistent with a previous report that the serum spectral profiles of the hosts were similar at a stage of sbp 130 mmhg and at sbp 150 mmhg the close correlation of metabolic products and gm further strengthened and highlighted the importance of phtn.
+
+the cohort consisted of 41 healthy controls 56 subjects with phtn and 99 patients with primary htn.
+
+the rate of acquisition of new genes in control samples rapidly outpaced new gene acquisition in disease samples suggesting lower levels of gene richness in the phtn and htn groups fig.
+
+the number of genes in both phtn and htn groups were significantly decreased as compared to the controls p  0.024 c vs p p  0.04 c vs h kruskal-wallis test fig.
+
+consistently the a diversity at the genus level was much lower in phtn and htn groups p  0.023 c vs p p  0.016 c vs h kruskal-wallis test fig.
+
+the reducedrichness of genes and genera in the gm of phtn and htn groups is consistent with previous findings  suggesting possible deficiency of healthy microflora in hypertensive patients.to explore the difference between the microbial commu- nities at different stages of htn enterotypes were identi- fied based on the abundance of genera using partitioning around medoid pam clustering method.
+
+both contributors in the two enterotypes have been re- ported in european and chinese populations before  there was a higher percentage of pre-hypertensive and hypertensive patients distributed in enterotype 1 48.21 for phtn and 45.45 for htn while more healthy con- trols 73.17 were found in enterotype 2 p  0.02 c vs p p  0.03 c vs h fisher's exact test fig.
+

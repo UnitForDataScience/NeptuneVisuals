@@ -1,0 +1,30 @@
+ 1 1 2  eduardo balsanelli 1  claudia sena 1  miguel d. noseda 1  luiz f. caron 3  1  fabio o. pedrosa 1 and 11 department of biochemistry and molecular biology federal university of parana curitiba brazil 2 department of soils and agricultural engineer federal university of parana curitiba brazil 3 department of pathology federal university of parana curitiba brazilkeywords mannan-oligosaccharides chickens gut microbiota 16s rrna lactobacillusintroductionedited bypeter dovc university of ljubljana sloveniareviewed bykieran g. meade teagasc the irish agriculture and food development authority irelandshaojun liu hunan normal university chinacorrespondencedany mesa emanuel m. souza specialty section this article was submitted to livestock genomicsa section of the journal frontiers in geneticsreceived 12 june 2017accepted 29 september 2017published 17 october 2017citation mesa d lammel dr balsanelli e sena c noseda md caron lfcruz lm pedrosa fo and souza em 2017 cecal microbiota in broilersfed with prebiotics.
+
+nevertheless the knowledge of the structure interactions and functions of the intestinal microbiota is still limited and fragmented oakley and kogut 2016.in this work the effect of dietary supplement with prebiotics derived from yeast wall mannan-oligosaccharide and nucleotide on the cecal microbiota of broilers was evaluated by the massive parallel sequencing of the 16s rrna gene.materials and methodsexperimental design and samplingthirty female newborn chicks hubbartqr  were placed on wood shavings litter for 35 days.
+
+41 171-179. doi hamilton m. j. weingarden a. r. unno t. khoruts a. and sadowsky m.j. 2013. high-throughput dna sequence analysis reveals stable engraftment of gut microbiota following transplantation of previously frozen fecal bacteria.
+
+2011.selective fermentation of some prebiotics has been shown to induce changes in the composition andor activity of the gastrointestinal microbiota improving the health of the host gibson et al.
+
+2009.because the microbiota can be modified khoruts et al.
+
+however successful outcome of such manipulations require a better understanding of the interactions between the host and its microbiota hamilton et al.
+
+2013.the composition and diversity of chicken intestinal microbiota were previously investigated using cultivation-based methodologies fernandez et al.
+
+2007. however the use of dna-based molecular biology techniques such as metagenomics and new generation dna sequencing allowed new opportunities to characterize uncultivable members of intestinal microbiota gong et al.
+
+however they did cause several changes in the gut microbiota.
+
+using multivariate analysis small changes in the microbiota were observed at 14 days but differences were clearer after 35 days table 1. at 14 days firmicutes was the most predominant phylum in all treatments and on average accounted for 84.5 of identified sequences followed by proteobacteria 7.9 and tenericutes 4.3.after 35 days firmicutes remained the most predominant phylum in cecum in all treatments and on average accounted for 61.4 of all the bacterial sequences followed by bacteroidetesof cecal luminal content using powerfecalqrdna isolation29proteobacteria4.5andtenericutes4.2.kit mo bio laboratories inc.. the variable v4 region of 16s rrna gene was amplified using the universal primers 515f and 806r caporaso et al.
+
+2014. basic diversity analysis otu number unifrac-distances and cluster by neighbor-joining method was conducted using qiime and the otu table exported to r for further analyses.statistical analysisstatistical analyses were performed using the stats package included in rstudio software rstudio-team 2015. firstincrease of bacteroidetes counts in the cecum from the thirdweek of life of chickens.by further dissecting the 16s ribosomal sequences a total of 665 otus corresponding to bacterial genera were detected and were identified using the silva database release 123 supplementary material 2. among all identified bacterial genera in the cecal microbiota the most abundant in all treatments were faecalibacterium bacteroides lactobacillus streptococcus lachnoclostridium anaerotruncus ruminiclostridium 5 subdoligranulum parabacteroides escherichia-shigella and alistipes supplementary material 2. at 14 days the most prevalent genera in all groups were faecalibacterium accounting for on average 20.3 of all cecal bacterial sequences.
+
+interestingly the parabacteroides genus increased at 35 days only in the mos treated group while the genera faecalibacterium lachnoclostridium ruminiclostridium 5 and subdoligranulum decreased at 35 days supplementary material 3.moreover principal component analysis of otus representation clearly showed the age explained most of the differences 57.8 followed by treatment 17.4 figure 1. this result was also observed in cluster analysis of microbial community by the neighbor-joining method supplementary material 4.conclusionin conclusion the composition of cecal microbiota is not constant and develops over time in chickens.
+
+88 2262-2272. doi borody t. j. and khoruts a.
+
+2012. fecal microbiota transplantation and emerging applications.
+
+9 88-96. doi caporaso j. g. kuczynski j. stombaugh j. bittinger k. bushmanf.
+

@@ -1,0 +1,30 @@
+moreover pca analysis showed a clear clustering of mock-dna samples according to the target gene while mock-ampl samples grouped together regardless of the target used .
+
+never- theless its use in hts is often preferred thanks to the existence of a more curated andtable 2 significantly different species detected in the mock community analyzed with three different target genesbadifferent letters indicate values significantly different p  0.05 after correction for multiple comparisons as determined by pairwise wilcoxon test among the three target genes.bonly mock-dna samples were considered.fig 4 bar chart showing the relative abundance of the eukaryotic species identified in the biological samples analyzed using three different target genes.rich database compared to that available for ssulsu rrna genes.
+
+on the contrary multivariate analysis of variance manova based on jaccard euclidean and bray curtis distances detected differences in the overall fungal community composition in mock-dna samples according to the target used p  0.05. spearman's correlation between the abundance matrices of mock-dna samples was never higher than 0.61 p18sversus26s 0.61 p18sversusits 0.47 pitsversus26s 0.58. accord-ingly the average bray curtis distance between 26s and 18s was lower than those ofthe other targets while its gave the most different results see fig.
+
+the analysis of environmental samples based on high-throughput sequencing hts technologies allowed for study of the abundance and richness of microbial species directly in the matrix of interest overcoming the limitations imposed by methods based on cultiva- tion yet incurring biases introduced in both wet-lab procedures and bioinformatics data analysis .
+
+by analyzing a mock community and several biological samples we demonstrate that using different amplicon targets may change the results of fungal microbiota analysis and we highlight how a careful choice of the target is fundamental for a thorough description of the fungal communities.keywords fungal diversity primer bias amplicon sequencing high-throughput sequencing microbial ecologyommunities of fungi are of utmost importance in many different environments  and an accurate and detailed description of their structure is desirable in order to address fundamental biological questions in microbial ecology.
+
+in the second case mock-dna the mock com- munity was prepared by pooling the dna of the 19 strains at the same concentration and the pcr was performed afterward.mock-ampl samples did not show significant differences in mycobiotal composition p  0.05 and all the target genes were able to detect the 19 species used .
+
+interestingly the yeast strains metschnikowia pulcherrima and pichia kluyveri with its1-2 lengths of about 180 and 190 bp respec- tively were overrepresented in its mock-dna samples while zygosacharomyces bailii and hanseniaspora guillermondii both with an its1-2 length of about 400 bp were clearly underestimated in its mock-dna samples .
+
+in addition candida zemplinina was detected only in mock-dna samples amplified with the 26s rrna gene and .analysis of mycobiota in biological samples.
+
+samples sequenced via 26s rrna showed higher alpha- diversity than samples sequenced via the other targets p  0.05. in addition in all cases we observed striking differences in fungal community composition according to the type of amplicon used .
+
+2014. amplicon-based metagenomic analysis of mixed fungal samples using proton release amplicon se- quencing.
+
+the mock-ampl samples showed a community composition similar to the theoretical regardless of the target gene used.
+
+this target was proposed as the official primary barcode for fungi thanks to the presence of a rich and up-to-date database which is necessary for data analysis .
+
+indeed when dna of all the strains was amplified in the same pcr resembling the typical condition of an hts analysis primer biases were evident and clear preferential amplification phenomena were detected with all the primer sets.
+
+extracted dna was amplified and sequenced as described above.data analysis.
+
+1998. identification and phylogeny of asco- mycetous yeasts from analysis of nuclear large subunit 26s ribosomal dna partial sequences.
+

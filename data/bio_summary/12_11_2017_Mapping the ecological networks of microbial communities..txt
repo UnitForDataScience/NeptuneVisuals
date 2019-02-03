@@ -1,0 +1,30 @@
+all the steady-state samples containing taxon i.in case the samples are not collected exactly at steady states of the microbial community or there is noise in abundance measurements those samples containing taxon i will not exactly align onto a hyperplane.
+
+let i be the set of all steady-state samples sharing taxon i. then for any two of those samples xi and xk where the superscripts i k i denote the collections of present taxa in those samples we can prove that the sign-pattern of the i-th row of jacobian matrix denoted as a ternary vector si  0 n is orthogonal to xi xk see eq.
+
+under a very mild assumption that j x s x x ds 0 holds if and only if j 0 where x and x are two steady-state samples sharing taxon iwe find that the steady-state samples can be used to infer theab promotioninhibitionpriorsignj  ---csignj  - 0 0 - 0-  -fig.
+
+there are four steady-state samples xf1g xf12g xf13g xf123g that share common taxon 1. those four steady-state samples represent four points in the state space and they align onto a plane light red.
+
+we assume that the steady-state samples collected in a data set x correspond to those n on-trivial steadydata is challenging and even ethically questionable as it requires applying drastic and frequent perturbations to the microbial community with unknown effects on the host.to circumvent the above fundamental limitations of inference methods based on temporal data here we developed a new method based on steady-state data which does not require any external perturbations.
+
+for example if one steady-state sample differs from another only by addition of one species x and adding x brings down the absolute abundance of species y then we can conclude x inhibits the growth of y. this very simple idea can actually be extended to more complicated cases where steady-state samples differ from each other by more than one species.
+
+withto infer ecological networks of microbial communities the informativeness of independent steady-state data can be enhanced by simply collecting more steady-state samples with distinct taxa collection.
+
+this assumption might be violated if those steady-state samples were collected from the microbial community under drastically differentenvironmental conditions e.g.
+
+since thesolution space of sign-patterns is of size 3n the time complexitysatisfies y xi xk0iof this brute-force method is exponential with n making itd -th 14 i  if we compute the sign-patterns of allimpractical for a microbial community with n  10 taxavectors orthogonal to dx - xk th for all i k 2 ii then si mustbelong to the intersections of those sign-patterns denoted as i. in fact as long as the number o of steady-state samples in is above certain threshold o then i will contain only three sign- patterns a 0 a see remark 5 in the subsection 'inferring thesign-pattern' of supplementary note 1. to decide which of these three remaining sign-patterns is the true one we just need to know the sign of only one non-zero interaction.
+
+for a microbial community following exactly the glv dynamics all its steady-state samples sharing one common taxon will align onto a hyperplane in the state space.
+
+c d. note that for a microbial community of n taxa if we assume that for any subset of the n taxa there is only one stable steady statesuch that all the corresponding taxa have non-zero abundance then there are at most omax 2n 1 possible steady-state samples.
+
+the steady-state samples were experimentally collected from a synthetic soil microbial community of eight bacterial species.
+
+later on we will show that this heuristic algorithm can indeed infer the interaction types with high accuracy.in reality due to measurement noise andor transient behavior of the microbial community the abundance profiles of the collected samples may not exactly represent steady states of the microbial community.
+
+steady-state samples consisting of different subsets of species would allow us to infer the interaction types.
+
+we will show later that the number ofindependent steady-state samples is crucial for inferring the ecological network.mathematically the intra- and inter-taxa ecological interac- tions i.e.
+

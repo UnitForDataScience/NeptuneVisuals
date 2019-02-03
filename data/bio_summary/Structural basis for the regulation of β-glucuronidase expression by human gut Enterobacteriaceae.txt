@@ -1,0 +1,30 @@
+the hth is the most common dna binding fold in bacterial transcriptional factors and is highly conserved within the tetr family of ligand-controlled regulators 41. previous crystal structures of e. coli tetr protein data bank pdb id code 1qpi and staphylococcus aureus qacr saqacr pdb id code1jt0 which both share a 3.4-a rmsd and 17 sequence identity with ecgusr reveal that these repressor proteins utilize their hth motifs to bind as homodimers to their palindromic oper- ator sites 42 43. in 1987 blanco reported that the gus op- eron in e. coli was under the control of gusr and uxur a second tetr-like repressor that shares 14 sequence identity with ecgusr and that both repressors appeared to bind to two operator elements sites 1 and 2 44. site 1 is 30 base pairs bp in length and is located 200 bp upstream from the gus operon's ribosome binding site rbs while site 2 40 bp is only 50 bp from the same rbs fig.
+
+the 1987 report employed cell- based lac gene fusion experiments to examine operator site in- teractions 44. here we studied the specificity of e. coli gusr and uxur interactions with predicted operator sites in vitro using isothermal titration calorimetry itc.we cloned the gene for e. coli uxur ecuxur recombinantlyoverexpressed the protein in e. coli and purified it to homoge- neity.
+
+thus for e. coli while ecuxur showed no affinity for these dna duplexes site 1 was validated as an element capable of binding ecgusr in vitro.next we sought to understand the effect that a specific duplexdna element might have on ecgusr's ability to bind a glucu- ronide ligand.
+
+similar to the lac and other e. coli operons the gus operon is also sensitive to catabolite repression by glucose the global metabolic regulator 13 37 38. in e. coli gusr and a related repressor uxur were previously found to bind to two operator elements termed sites 1 and 2 in the regulatory region of the gus operon 14-16 39 40. to date however the structural and biochemicalauthor contributions m.s.l.
+
+as shown here only the enterobacteriaceae including several opportunistic bacterial pathogens contain a gus operon and gusr.bases of the interaction between gusr and the operator dna as well as the binding of glucuronides to gusr have remained undefined.here we describe the crystal structures of two enterobacteriaceae gusr proteins from e. coli and from s. enterica and outline the dna binding characteristics of e. coli gusr within the regula- tory region of its gus operon.
+
+nb no binding.aa10 a5a7a9a8 a6a4ecgusr cpfadra1a2a3repress the gus operon allowing for gusa expression and an increase of gus enzyme activity in cultured e. coli cells.last we examined how specific gusr residues affect the production of gus activity in living e. coli cells.
+
+this variant exhibited robust repression of gus activity in e. coli cells indicating that specific contacts in the e. coli gus operon were formed with this mutant of segusr to block gus expression in cells fig.
+
+j bacteriol 1872377-2385.wilson kj hughes sg jefferson ra 1992 the escherichia coli gus operon induction and expression of the gus operon in e. coli and the occurrence and use of gus in other bacteria.
+
+2009 precolonized human commensal escherichia coli strainsserve as a barrier to e. coli o157h7 growth in the streptomycin-treated mouse in- testine.
+
+we determined the 2.1-a-resolution crystal structures of the gusr proteins from the gut microbial enter- obacteriaceae species e. coli ecgusr and s. enterica segusr in complexes with p-nitrophenyl-b-d-glucuronide pnpg table s1.
+
+ecgusr and segusr also share 3.4- and 3.5-a rmsd and 17 and 16 sequence identity respectively with the e. coli tetr protein that defines this family of ligand-regulated transcriptional repressors.
+
+one e. coli gusr dbd is not visualized likely due to motion within the crystal.b ribbon representation of the 2.1-a crystal structure of the segusr blue pdb id code 6ayh homodimer bound to pnpg yellow and red composed of res- idues 5 to 195 and intact dbds and ebds in both monomers.experiments revealed no binding by ecgusr to either operator site when glucuronide ligand is present fig.
+
+b initial gus enzyme velocities in e. coli bl21 cells harboring either an empty vector or expression vectors for ecgusr ecuxur and segusr genes induced with 1 mm pnpg.
+
+however we noted that the dbds from ecgusr and segusr are highly similar in sequence and deviate within the hth region by only four amino acid po- sitions scai in ecgusr asdm in segusr.
+
+an m87l mu- tation in ecgusr reduced pnpg binding by 8-fold table s2 and an ecgusr m87a mutation led to a greater than 100-fold re- duction in pnpg affinity compared with wild type fig.
+

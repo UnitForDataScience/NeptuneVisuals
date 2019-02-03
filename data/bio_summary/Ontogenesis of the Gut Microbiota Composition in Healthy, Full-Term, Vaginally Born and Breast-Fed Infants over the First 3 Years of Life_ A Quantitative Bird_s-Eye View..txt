@@ -1,0 +1,30 @@
+in this context we have previously established a novel and sensitive analytical system for human intestinal microbiota analysis based on reverse-transcription- quantitative-pcr rt-qpcr assays targeting bacterial 16s rrna 'molecules' wherein we had methodologically validated that this rt-qpcr approach is relatively highly sensitive detection limit 103-104 bacterial cellsg feces approximately 100- to 1000-fold higher than that of other molecular methods including qpcr and t-rflp and provides fecal bacterial enumeration comparable to the viable cell counts as enumerated by culturing and fluorescent in situ hybridization methods       .utilizing this sensitive quantitative approach in longitudinalstudies to examine the development of early life gut microbiota composition in a cohort of more than 150 japanese infants we have recently demonstrated that the mode of delivery vaginal vs. cesarean birth and the feeding type breast-milk vs. formula- feed have a strong influence on the intestinal carriage of various important bacterial clades and that the effects of these influences on gut microbiota start building up as early as the first day or week of life    .
+
+in summary the data demonstrate a quantitative bird's-eye view of the ontogenesis of early-life gut microbiota in typically natural and healthy milieus and should be informative and facilitative for future studies exploring various aspects of the human gut microbiota.keywords bacterial quantification gut bacterial communities gut microbiome intestinal microbiota development rt-qpcrintroductionthe past decade has been remarkable in revealing the fundamental role of human gut microbiota in various aspects of host health and disease.
+
+however majority of the available knowledge has been acquired using bacterial 16s rrna gene-based sequencing methods which while being remarkably elaborative and comprehensive are largely qualitative and may not provide precise data on fecal bacterial counts.
+
+the bacterial count of various important bacterial clades dwelling in the infant gut during early life remains limited and disparate.
+
+unlike previous reports wherein we presented the data largely in the form of bacterial count and prevalence      this addendum focuses mainly on the relative proportions of various important gut bacterial groups and the ratios between obligate and facultative anaerobes as well as between firmicutes bacteroides actinobacteria and proteobacteria thereby outlining a characteristic profile of the early-life gut microbiota structure in a 'healthy' infant cohort that may be reflective of characteristics common to the present-day healthy japanese infant population.materials and methodsthe study includes 19 healthy japanese infants enrolled at the gonohashi obstetrics and gynecology hospital tokyo.
+
+briefly to obtain an accurate description of the population levels of specific gut bacterial groups and to precisely enumerate changes in their fecal carriage we used a highly sensitive analytical approach based on rt-qpcr assays targeting bacterial 16s rrna molecules table 1  general characteristics of the 19 infants enrolled in the study.characteristicsage1 day7 days1 month3 months6 months3 yearsgirl  boy10  9-days avg.
+
+the total bacterial count was estimated as the sum of the counts of these 11 bacterial clades.
+
+fermentum.the proportions of each bacterial group were calculated with regard to the total bacterial count.
+
+normalization was done by dividing the values of each bacterial group by the value obtained for the 'total bacterial count.'
+
+nonetheless the data do hint that even at 3 years of age there are considerable individual-level differences in the microbiota composition within this small but controlled cohort.similar individual-specific differences were also reflected when we estimated the bacterial predominance by evaluating the counts of different bacterial groups and tagging the most abundant clade i.e.
+
+another limitation is that the bacteria were quantified by rt-qpcr assays using specific primer sets for major gut bacterial groups and genera and hence the microbiota data presented in here may not truly represent the whole array of the gut microbiota although we have previously validated that the sum of the fecal counts of all the bacterial groups enumerated herein using rt-qpcr assays correspond to 71.3 - 9.4 mean - sd of total intestinalbacterial count as estimated by in situ hybridization using a universal probe  .
+
+however 'quantitative' data on the actual population levels of gut bacterial communities when these influences are controlled for is relatively rare.
+
+fecal microbiota at age 1 and 7 days 1 3 and 6 months and 3 years is quantified using highly sensitive reverse-transcription-quantitative-pcr assays targeting bacterial rrna molecules.
+
+undeniably even in this golden age of revolutionary sequence tools the quantitative data denoting the 'gold standard' viable bacterial count still remains of indispensable worth.
+
+using this analytical approach we aimed to cover a wide-range of the human gut microbiota by targeting a wide array of anaerobic facultative anaerobic gram-positive gram-negative predominant subdominant indigenous pathobiont and opportunistic pathogenic bacterial clades etc.
+

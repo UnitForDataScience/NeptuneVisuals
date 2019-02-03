@@ -1,0 +1,30 @@
+2015 will enable unprecedented resolution of molecular mechanisms by which resident microbes affect the nervous system and in turn by which the nervous system affects resident microbial communities.in summary there are many exciting areas in which the well-established genetic and imaging zebrafish toolkit can be combined with gnotobiotic husbandry to investigate mechanisms by which resident microbiota influence host development physiology metabolism and behavior.melancon et al.page 15solutionshere we list solutions required for each procedure.embryo medium emstock solutionsa 250 ml ro h2o 20 g nacl 1 g kclb 100 ml ro h2o 0.358 g na2hpo4 anhydrous 0.6 g kh2po4 monobasicc 250 ml ro h2o 4.68 g cacl2 dihydrated 250 ml ro h2o 6.15 g mgso47h2oe 250 ml ro h2o 8.75 g nahco3 preparation 5205 mladd 5 l of ro water to a 5 l carboyadd 50 ml stock solution aadd 5 ml stock solution badd 50 ml stock solution cadd 50 ml stock solution dadd 50 ml stock solution eadjust ph to 7.2 with 1 m hclantibiotic embryo medium abem500 ml ampicillin fisher scientific bp1760-25 100 mgml 100 mgml final50 ml kanamycin fisher scientific bp906-5 50 mgml 5 mgml final15.6 ml amphotericin b vwr 97061-608 8 mgml 250 ngml final500 ml emmix and filter sterilize with 0.2 mm filtration unit0.003 bleach solution125 ml 6.0 laboratory-grade bleach solution fisher scientific ss290-1250 ml emmix and filter sterilize with 0.2 mm filtration unit0.1 polyvinylpyrrolidone-iodine pvp-i solutionmelancon et al.page 162.5 ml 10 pvp-i stock ovadine western chemical inc. 5 g pvp-i in 50 ml nanopure water247.5 ml emmix and filter sterilize with 0.2 mm filtration unitmodified neff's media mnmdissolve 3 mg fecl36h2o in 500 ml ro water add10 g proteose peptone vwr criterion hardy diagnostics 89405-9222.5 g yeast extract fisher bioreagents bp9727-5005 g glucose fisher scientific ac410950010add ro water to 1 lautoclavecaution fecl36h2o is corrosive and hygroscopic.proteose peptone yeast media ppye0.75 g proteose peptone0.75 g yeast extractadd ro water to 300 mlautoclaveusing sterile technique dispense 15 ml media into 50 ml conical sterile tubessterile 30 organic egg emulsion in embryo media materialsorganic chicken eggsmicro-90 concentrated cleaning solution vwr 89210-138double distilled water dh2o1 l polypropylene beaker for egg soakingscotch-brite abrasive use once and dispose afterward250 ml autoclaved beakers1 l autoclaved plastic waste beaker70 ethanolaluminum foiln x 50 ml conical tubes n  number of eggsmelancon et al.page 17p-1000 sterile pipet tips250 ml sterile em1 x 50 ml sterile wrapped serological pipet proceduresoak organic eggs in 1 micro-90 concentrated cleaning solution in a 1 l plastic beaker for at least 3 h.scrub shells of three eggs with an abrasive sponge.rinse 3 times in dh2o.replace dh2o with 70 etoh soak at least 1 h.transfer each egg to a separate 250 ml beaker and cover with fresh 70 etoh.
+
+shading differentiates days in the procedure sequencemelancon et al.page 32melancon et al.page 33bacterial association of gf zebrafish materialstable 4melancon et al.page 34table 5microbial association of gf zebrafish procedure.
+
+we hope this chapter serves as a useful guide for researchers interested in pursing zebrafish gnotobiology.1melancon et al.page 2importance of gnotobiology researchthe body surfaces of all animals are inhabited by resident microbial communities referred to as microbiota which play profound roles in host development physiology and evolution mcfall-ngai et al.
+
+the first fish species to be derived gf was platyfishmelancon et al.page 4xiphophorus maculatus and survival on sterilized diets was achieved for several weeks after yolk resorption baker et al.
+
+2004 camp jazwa trent  rawls 2012. in the future use of post-larval gf zebrafish can complement and extend existing efforts to understand microbial contributions to fat storage and energy balance.immunity--during the first few weeks post fertilization zebrafish lack an adaptive immune system and instead rely exclusively on the innate immune system to respond to immune challenges kanther  rawls 2010. development of tissues and organs involved in adaptive immunity and the humoral response is observed about 4-6 weeks postmelancon et al.page 14fertilization lam chua gong lam  sin 2004 langenau et al.
+
+3melancon et al.page 35melancon et al.page 36table 6additional materials for long-term gf husbandry.
+
+the term gnotobiology gnos known bios life was coined to describe the study of animals raised in the absence of microorganisms or in the presence of known microbial strains or communities reyniers et al.
+
+our groups have established zebrafish as a gnotobiotic model bates et al.
+
+for example we established that the resident microbiota are necessary for host intestinal epithelial maturation and turnover lipid absorption and immune homeostasis bates akerlund mittge  guillemin 2007 bates et al.
+
+2006 cheesman neal mittge seredick  guillemin 2011 kanther et al.
+
+2011 rawls et al.
+
+2004 rolig parthasarathy burns bohannan  guillemin 2015 semova et al.
+
+2012. in some cases generic bacterial products such as lipopolysaccharide are sufficient to mediate microbiota effects whereas in other cases microbial signals are more specific to particular bacterial lineages bates et al.
+
+2006 rawls mahowald ley  gordon 2006. we have also demonstrated that the host modulates bacterial dynamics and competition within the intestine jemielita et al.
+
+2014 rawls mahowald goodman trent  gordon 2007 taormina et al.
+

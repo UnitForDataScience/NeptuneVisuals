@@ -1,0 +1,30 @@
+curd comprises mainly casein micelles approximately 24 which aggregate in milk during cheese-making and in fat globules approximately 34 entrapped in the coagulum 21. among the milk fractions lipid fractions contained the most amount of rna data not shown which is consistent with the findings of a recent study 22. in the present study curd with a high rna content wasfborrin1edd aayndtothdernyritpheenecudrfdosr 1a2ndaayts 8a-nd102c2 days at 15ocderived rna 23.bioanalyzer electropherograms were used to determine the rna distribution patterns for small rnas where the apparent cellular ratio of 28s rrna to 18s rrna was approximately 21 fig.
+
+the quality quantity and integrity of the rna extracts were assessed with an agilent 2100 bioanalyzer using an rna 6000 pico and small rna kit both from agilent technologies usa according to the manufacturer's protocols.quantitative reverse transcription pcr to detect mirnasrt-qpcr was performed using a miscript system qiagenaccording to the manufacturer's instructions with some modifications.
+
+fungal ribosomal rna was not detected in 12d-s and 22d-s which were ripened with p. candidum possibly because the rna purification kit employed in the present study was not specific for fungal rna purification.immune-related mirnas in samples collected during the cheese-making processto evaluate changes in mirnas during the cheese- making and ripening processes we quantified the amounts of immune-related mirnas in raw milk ltlt milk whey fresh curd and the inner center and surface fractions of the 12- and 22-day aged cheese.
+
+we hypothetically set thetable 3. comparison of total rna yield from milk and cheese samples.total rna isolated and yield of mirnas were evaluated using the nanoq spectrophotometer and rna pico kit with the agilent 2100 bioanalyzer.
+
+a recent study demonstrated that milk is one of the richest sources of mirnas and that mirnas are highly conserved in different fractions such as milk cells milk lipids and skim milk 39. each fraction contains different concentrations of rna and mirnas with the highest quantities in cell and lipid fractions and the lowest in the skim milk fraction 22. our study showed that fresh curd produced during cheese- making contained 4.5 times more total rna than raw whole milk and that the cheese was rich in rna throughout ripening.
+
+1.38 16. during mothur processing of the raw sequence data sequencing errors and chimeras were removed by referring to the standard operating procedures for 454 sequences 17 18. the sequences were classified into operational taxonomic units based on 97 similarity and the sequence number was normalized by subsampling randomly for the downstream analyses of alpha-diversity phylogenetic information chao 1 shannon and simpson and beta-diversity principal coordinates analysis.total rna extractionto extract total rna 0.2 ml of fluid samples or 200 mg of curd and cheese samples was mixed with 0.8 ml 4x of the sample of qiazol and thoroughly homogenized by pipetting 20 times or bead beating for 90 sec and then incubated for 5 min at room temperature.
+
+2. total rna yield and rna distribution of each sample during the manufacturing and ripening of camembert cheese.a simple flow diagram representing the process employed to determine microbial diversity and to evaluate mirnas.
+
+cellular rna and whey after heating were used to compare rna distributions in samples collected during manufacturing of the soft cheese.micrornas and microbiota in soft cheese1571milk ltlt milk whey fresh curd and the inner center and surface fractions when p. candidum appeared on the 12- and 22-day aged cheese.
+
+we extracted total rna from the same weights of all fractions 200 ml for milk or 200 mg for cheese which contained abundant mirnas according to our previously described methods 14. the quantity and distribution of the extracted total rna and contents of mirnas were assessed by the nanoq spectrophotometer and bioanalyzer 2100 respectively fig.
+
+a recent study demonstrated that small rna sequences and contigs in the human microbiome are derived from plants presumably with dietary origins 43. the extracellular vesicles of prokaryotes known as outer membrane vesicles as well as eukaryotes including yeasts and molds contain distinct biomolecules such as rna particularly small rna-like sequences 44 45. however little is known about homologous mirnas from lactic acid bacteria or ripening fungi such as p. candidum.
+
+our results indicated that the rna contents per 200 mg200 ul of the sample increased significantly during cheese-making and ripening.
+
+the inner cheese fractions had higher rna contents than the surfaces after 12 and 22 days of ripening in a time- dependent manner 21.9 and 13.2 times higher in the inner and surface fractions than raw milk respectively.
+
+previously our group indicated that immune-related mirnas in market milks including the high-temperature short time low-temperaturelong-time ltlt and ultra- high-temperature treated types of milk as well as in colostrum and raw milk can be evaluated using a simple and rapid method based on rna isolation and rt-qpcr 14. however few studies have evaluated mirnas in dairy products during cheese-making and ripening.
+
+the total rna extract was reconstituted with 40 ul of nuclease-free water.
+
+briefly to generate complementary dna 50 ng of total rna was reverse transcribed using a miscript ii rt kit qiagen.
+

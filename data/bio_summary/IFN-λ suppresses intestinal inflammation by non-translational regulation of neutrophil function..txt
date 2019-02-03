@@ -1,0 +1,30 @@
+6j and supplementary table 2 suggestive of a non-transcriptional and non-translational effect of ifn-l. although we cannot rule out the possibility that under inflammatory conditions immune cells other than the ones we assessed dcs macrophages natural killer cells neutrophils group 3 innate lymphoid cells t cells and b cells might acquire ifnlr1 expression and responsiveness to ifn-l in vivo overall our data indicated that ifn-l signaling in neutrophils mediated the diminished colon shortening tissue damage and oxidative stress.because ifn-l has a critical role in modifying epithelial-cellresponses341936 we induced dss-mediated colitis in irradiatedwt-wt wt-ifnlr1-kob 10wt-wtc 6 wt-ifnlr1-kowt-wt wt-ifnlr1-kodwt-wtwt-ifnlr1-ko10584100ns6295901 2 3 4 5 6 7time d40utdssefghi0.030.020.010.00nswt-wt wt-ifnlr1-ko1.00.80.60.40.20.0nswt-wt wt-ifnlr1-ko0.0150.0100.0050.000wt-wt wt-ifnlr1-ko864ut dss8ifnlr1flfl6vilcreifnlr1flfl420ifnlr1flflvilcreifnlr1flfljkifnlr1flflvilcreifnlr1flfl864ns 3ifnlr1flflvilcreifnlr1flfl422100figure 6 the protective effect of ifn-l in dss-induced colitis is independent of ifnlr1 expression in epithelial cells.
+
+other innate and adaptive immune cells analyzed conven- tional and plasmacytoid dendritic cells dcs t cells and b cells and peritoneal macrophages did not express ifnlr1 and did not induce viperin expression in response to recombinant ifn-l fig.
+
+pmns were selected as ly6gcd11b cells nk1.1 cells were selected as nk1.1cd49b cells and group 3 innate lymphoid cells were selected as cd45cd90cd127lin- cells.the populations sorted as described above were treated with 100 uml ifn-l or 100 uml ifn-b for 2 h or not or were treated with 10ugml lps or 100 ngml tnf for 1 h or not.
+
+6e.notably even though ifnlr was expressed by epithelial cells in ifnlr1-ko-wt chimeras data not shown epithelial cells in those mice showed more oxidative stress than that of epithelial cells in wt-wt chimeras fig.
+
+b qpcr analysis of viperin mrna in neutrophils left plasmacytoid dcs middle or conventional dcs right left unstimulated us or stimulated for 3 h with ifn-l or ifn-b 100 uml each key results presented as in a. c qpcr analysis of ifnlr1 in cells as in a as well as t cells b cells and peritoneal macrophages pm0 left unstimulated or stimulated for 3 h with lps 10 ugml or tnf100 ngml key.
+
+cd4 and cd8 t cells were selected respectively as cd3cd4 cells and cd3cd8 cells.
+
+in addition the phosphorylation of jak2 in the ifnlr1-expressing raw264.7 macrophages described above was impaired when these cells were stimulated with ifn-l in the presence of hbc relative to that of cells treated with ifn-l alone supplementary fig.
+
+we generated bone- marrow chimeras by transferring wild-type bone-marrow cells into irradiated wild-type recipient mice wt-wt or by transferring ifnlr1-deficient ifnlr1-- ifnlr1-ko bone marrow cells into irradiated wild-type recipient mice ifnlr1-ko-wt chimerism analysis supplementary fig.
+
+6a-g. because those data did not exclude the possibil- ity of confounding effects of other non-immune cells or radio-resist- ant immune cells we induced dss-mediated colitis in vilcreifnlr1flfl c57bl6 mice in which ifnlr1 is deleted in the intestinal epithe- lial cell compartment via cre expressed from the promoter of the mouse gene encoding the actin-modifying protein villin-1 vil136 supplementary fig.
+
+at barrier sites such as the lungs liver and intestine epithelia are the most-prominent stromal cells and neutrophils are the most rapidly recruited immune cells.
+
+a-c colitis progression and severity in wt-wt and ifnlr1- ko-wt chimeras treated with 2.5 dss in the drinking water for 7 d or not ut in a assessed as colon length a disease activity index b and histology c. d qpcr analysis of hmox1 and sod2 in intestinal epithelial cells from mice as in a-c results presented relative to those of gapdh.e-g colitis progression and severity in mrp8creifnlr1flfl and ifnlr1flfl littermates treated with 2.5 dss in the drinking water for 7 d or not ut in e assessed as colon length e disease activity index f and histology g. h qpcr analysis of hmox1 and sod2 in intestinal epithelial cells from mice as in e-g presented as in d. original magnification cg x10.
+
+raw cells expressing ifnlr1-3ha were subjected for sorting by flow cytometry to an extent that 85 of the cells were positive for human cd2 in comparison to the untransduced parental cell lines.neutrophil isolation and functional assays.
+
+mature neutrophils were sorted as ly6ghisschi cells while immature neutrophils were sorted as ly6gint-hisscint cells.
+
+after 2 weeks the spleen was harvested and plasmacytoid dcs pdcs and conventional dcs cdcs were obtained by cell sorting with a bd facsaria purity 90. pdcs were sorted as cd11cb220mhcii cells and cdcs were sorted as cd11cmhciib220- cells.
+
+where indicated intestinal epithelial cells or lp cells purified as described above were lysed and rna was purified with genejet rna purification kit according to the manufacturer's instructions life technologies.
+

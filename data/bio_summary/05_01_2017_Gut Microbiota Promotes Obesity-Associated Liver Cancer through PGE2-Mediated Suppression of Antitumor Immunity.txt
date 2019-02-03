@@ -1,0 +1,30 @@
+these findings provide valuable new insights into the regulation of the tumor microenvironment and the development of potent anticancer drugs and may facilitate the prevention and treatment of obesity-associated liver cancer although further studies are needed to identify the functioning pge2 receptor in human noncirrhotic nash- associated hcc.methodsmice and dietc57bl6 mice were purchased from clea japan inc. the tlr2-- mice c57bl6 were purchased from oriental yeast co. ltd. male mice were used for all the experiments in this study.
+
+2division of cancer biol- ogy cancer institute japanese foundation for cancer research tokyo japan.
+
+phone 81-6-6645-3710 fax 81-6-6645-3712 e-mail doi 10.11582159-8290.cd-16-0932c2017 american association for cancer research.introductionobesity has become a worldwide health problem and is known to increase the risk of diabetes cardiovascular disease and several types of cancer 1. although hypernutrition- related systemic alterations are thought to be involved in cancer development 2-4 the molecular mechanisms that integrate these events still remain largely unclear.
+
+j cell biol 2011192547-56.campisi j andersen jk kapahi p melov s. cellular senescence a link between cancer and age-related degenerative disease semin cancer biol 201121354-9.collado m serrano m. senescence in tumours evidence from mice and humans.
+
+in our previous study we showed that vancomycin treatment significantly reduced obesity-asso- ciated liver cancer development 4. however vancomycin treatment with dca plus lta significantly promoted liver cancer development accompanied by increased levels of sasp factors supplementary fig.
+
+various studies have suggested that bioactive lipid mediators such as omega-3 and omega-6 polyunsaturated fatty acids pufa exhibited a variety of bio- logical effects including pro- or anti-inflammatory and pro- cancer effects 30-32. therefore to analyze whether pufas were overproduced in hfd-induced liver tumors liver tissues from dmba-treated hfd-fed mice were subjected to lc ms-ms-based lipidomics analysis 31. high amounts of prostaglandins pg cox-mediated metabolites of arachi- donic acid were detected in liver tumor tissues as compared with the levels in nontumor areas supplementary fig.
+
+our current study provides important mechanistic insights into the relevance of the gut-liver axis in obesity-associated liver carcinogenesis.resultsa normal diet delays liver carcinogenesis compared with an hfdwe previously reported that neonatal dmba treatment in hfd-fed mice resulted in development of hcc within 30 weeks and demonstrated that dca an obesity-associated gut microbial metabolite is a critical factor promoting obesity- associated hcc development 4. to further define the role of dca itself dmba-treated mice were fed dca with a normal diet nd fig.
+
+1b-d. senescence markers such as upregulation of p21 and the dna damage response marker 53bp1 were detected in hscs in the livers of mice fed dca and an nd reaching levels similar to those in the livers of hfd-fed mice at 30 weeks fig.
+
+however at this time point the frequency of sasp induction in hscs was much lower in livers from mice fed dca and an nd as compared with that in mice fed an hfd fig.
+
+accordingly we searched for factors that promote obesity- associated hcc progression based on i the obesity-induced gut microbial components and ii the increased lipid storage in the liver tumor areas of hfd-fed obese mice.lta- and tlr2-mediated signaling promotes obesity-associated hcc developmentwhen we reanalyzed the gut microbial profiles of dmba- treated mice we again noted that hfd-fed mice exhibited a dramatic increase in gram-positive gut microbiota in their feces supplementary fig.
+
+in addition we observed the increased expression of the precancerous marker glypican 3 within hepatocytes in the livers of dca- or dca plus lta-treated nd-fed mice but not vehicle-treated mice supplementary fig.
+
+these results suggest that pgs in the tumor areas are produced through a pathway where gram-positive bacteria are involved.we found that excess production of pge2 was detected in a-sma-positive hscs and that the frequency of pge2- producing hscs was significantly decreased in the livers from tlr2-deficient mice or vancomycin-treated mice with decreased accumulation of lta in the liver fig.
+
+notably phosphorylation of the inhibitor of kb ikb an indicator of the activation of nf-kb was detected in hscs in the liver tumor tissue from hfd-fed wild-type mice but not in hscs from tlr2-deficient or vancomycin-treated mice fig.
+
+interestingly hcc development in aat-008- treated mice was strongly attenuated compared with vehicle- treated mice fig.
+
+4division of pathology cancer institute japanese foundation for cancer research tokyo japan.
+

@@ -1,0 +1,30 @@
+in the present study we leverage the power of the specificity index in characterizing the habitat-specific specialist taxa for quantifying the csts of the human vaginal microbial communities.material and methodsthe five community state types csts of the human vaginal microbiome and relevant datasetsas briefly reviewed in the 'introduction' the five csts first proposed by and later supplemented by  include five major types and two sub-types under cst iv i.e.
+
+quantifying the human vaginal community state types csts with the species specificity indexzhanshan sam ma and lianwei licomputational biology and medical ecology lab state key laboratory of genetic resources and evolution kunming institute of zoology chinese academy of sciences kunming yunnan chinasubmitted 1 june 2016accepted 28 april 2017published 27 june 2017corresponding author zhanshan sam ma doi copyright2017 ma and li open accesssubjects bioinformatics ecology microbiology women's health computational science keywords species specificity community diversity community state type cst human vaginal microbial community specificity aggregation index saiintroductionbased on a cross-sectional study of 394 healthy women at reproductive ages classified the human vaginal microbial communities hvmc into five community state types csts.
+
+specifically the dominant species l. crispatus l. gasseri l. iners and l. jensenii command the top position with a series of specificity value of 0.952 0.923type itype iitype iiitype ivtype vspeciesspecificityspeciesspecificityspeciesspecificityspeciesspecificityspeciesspecificity0.778 and 0.915 in their respective cst i ii iii and v. in cst iv the specificity values of top 10 species are rather dispersed less aggregated with a range from 0.504 to 0.783 which is far less aggregated than the range in the other four csts the most aggregated in the other four groups ranges from 0.114 to 0.923 besides lacking a predominant 'leader' as in cst i ii iii and v.the specificity aggregation index sai values for the five csts are 0.558 0.242 0.451 0.009 and 0.333 respectively as displayed in .
+
+the contrasting difference between cst iv and other csts is even more conspicuous from another index the ratio to cst iv which is the sai of the other csts divided by the sai of cst-iv and the ratios are 62 27 50 and 37 for cst i ii iii and v respectively.
+
+quantitatively the sai of cst iv is approximately 15-160of the sai of other types.in addition as demonstrated below in the 'discussion' cst iv has significantly higher community diversity than the other four csts which can also be harnessed to distinguish cst iv from the other csts.
+
+but as explained previously community diversity alone can only distinguish the cst iv from the ldt the other four types.beyond offering a quantitative tool to characterize csts specificity also explains the underlying mechanism that shapes the csts.
+
+and also exhibit an interesting phenomenon that some of the higher order hill numbers alpha diversities beyond order zero species richness may display significant differences among csts but there is not a consistent pattern other than the consistently significant difference between cst iv and other csts.shows the box plots of the hill numbers y-axis corresponding to different csts x-axis based on the information from  which contains the alpha diversity in the hill numbers of the 400-cross-sectional cohort.
+
+specifically csts i ii iii and v are dominated by l. crispatus l. gasseriiners and l. jensenii respectively i.e.
+
+a signature of cst-iv is higher community evenness due to the lack of dominant species.how to cite this article ma and li 2017 quantifying the human vaginal community state types csts with the species specificity in- dex.
+
+the commonalities between ethnic groups seem to be far more significant than their differences and the distinction between csts is far more conspicuous and consistent than the difference between various ethnic groups  .
+
+secondly although the intra-subject or temporal heterogeneity of the hvmc is rather dramatic demonstrated that the most effective characterization of the temporal dynamics was still the csts i.e.
+
+for this reason emphasized the necessity to make distinctions among community state types csts i.e.
+
+on the other hand the original community-state typing was based on sophisticated data analysis specifically csts are clusters of community states derived from hierarchical clustering using ward linkage and jensen-shannon divergence dissimilarity measure.
+
+these five types can be distinguished as two categories one category including cst i ii iii and v. this category of csts is dominated by lactobacillus spp.
+
+the following table shows the classification of csts in the cross-sectional study of 394 subjects  which we term as 400-cross-sectional cohort as well as in the longitudinal study of 32 subjects  studies which we term as 32-longitudinal cohort in this report.
+

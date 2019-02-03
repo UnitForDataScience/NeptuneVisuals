@@ -1,0 +1,30 @@
+since 90- 95 of the total rna consists of ribosomal rna the ribominus transcriptome isolation kit yeast and bacteria invitrogen usa was applied according to the manual and the rna was precipitated with the help of glycogen and two volumes 100 ethanol.
+
+bmc genomics 2017 18216doi 10.1186s12864-017-3586-9differentiation of ncrnas from small mrnas in escherichia coli o157h7 edl933 ehec by combined rnaseq and riboseq- ryhb encodes the regulatory rna ryhb and a peptide ryhpklaus neuhaus12 richard landstorfer1 svenja simon3 steffen schober4 patrick r. wright5 cameron smith5 rolf backofen5 romy wecko1 daniel a. keim3 and siegfried scherer1backgroundbacterial rna molecules consist of non-coding rnas ncrnas including rrnas and trnas and protein-coding mrnas.
+
+the rna was extracted from the gel slice as described results of pilot experiments showed that rnase i cuts the 5' ends of the 16s rrna producing a fragment of about the size expected for the footprints contributing about 50 to the size-selected rna fragments after sequencing.
+
+to even further reduce the possibility that the expressed rna and not the peptide itself causes the phenotype we changed all codons of the orf such that the same peptide is produced but the underlying rna sequence differs maximally from the wild type sequence p2.
+
+if this opening facilitates ribosomal binding for translation initiation of the ryhb rna and subse- quent progression of ribosomes along the rna must remain open.conclusionin the past very short proteins or peptides were ex- cluded from annotation and believed to be unlikely.
+
+the rna population which is covered by ribosomes is termed translatome and bioinformatics tools are now available to analyze these novel data combined with strand-specific rna-sequencing we suggest that this approach provides additional evidence to distin- guish between non-coding rnas and rnas covered by ribosomes.in the past rnas have been found which function as ncrna i.e.
+
+having a function as rna molecule not based on encoding a peptide chain and at the same time as mrna i.e.
+
+base-pairing and protein binding the latter describes the fact that the dna-encoded entity functions on the level of rna hence non-coding and additionally on the level of anpeptide i.e.
+
+but was adapted to sequence bacterial footprints using strand-specific libraries obtained with the truseq small rna sample preparation kit illumina usa.
+
+to ensure that rna which is not protected by ribosomes is fully digested and to get a highly enriched ribosomal fraction the procedure of rnase-digestion and gradient centrifugation was repeated the ribosomal fraction was diluted 11 with gradient buffer without sybr gold and sucrose and was loaded on a sucrose gradient without the 10 sucrose layer.
+
+to obtain the protected ribosomal footprints 1 ml tri- zol was added to 200 ml of the ribosome suspension following the manual for trizol extraction of rna life technologies usa.
+
+enriched footprint-rnas were dephosphorylated using antarctic phosphatase 10 units per 300 ng rna supplemented with 10 units superase 37 degc for 30 min.
+
+finally the entire sample was processed with the truseq small rna sample preparation kit illumina according to the manual using 11 pcr cycles and was sequenced on an illumina miseq.transcriptome sequencingthe same cultures used for ribosomal footprinting were also used for transcriptome sequencing i.e.
+
+fifty ml of the diluted cell extract with an a260nm of 200 units see above were added to one 1 ml of trizol and total rna was isolated.
+
+one mg rna was fragmented as described  and the rna- fragments were precipitated with glycogen and 2.5volumes 100 ethanol.
+

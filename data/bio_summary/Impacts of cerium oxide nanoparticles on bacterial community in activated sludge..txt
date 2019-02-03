@@ -1,0 +1,30 @@
+the diversity index shannon revealed a fluctuation in diversity as shannon values for each sam- ples were not inversely proportional to the increase of nceo2 np in the reactors as sample containing 40 mgl- nceo2 had high diversity index 8.178 while those with 30 mgl-nceo2 nps was the lowest 7.689. besides the fact that control samples had the highest diversity index 10.267 no significant difference p  0.05 between treated samples in terms of diversity index was observed and this revealed that nceo2 nps impacted more on the microbial abundance than on the diversity.
+
+a further confirmation was noted as the species richness test indicated a drastic decrease of approximately 97.23- 98.48 when comparing the control samples to nceo2 np treated samples.when considering the lower taxonomic levels genus it was observed that nceo2 nps could mostly affect the bacterial diversity and abundance of bacterialcommunity as the control samples showed 239 genera whereas treated samples have genera decreasing from 123 to 99 genera.
+
+the jaccard index exhibited a moderate or no similarity between all bacterial samples ranging with values from 0.479 to 0.999 with the sa 10 mgl and sc 30 mgl bacterial community showing the most similarity 0.479 as compared to others.table 1 diversity indices of samples treated with nceo2 nps during 5 days of incubationschange of bacterial community in activated sludge over nceo2 np effectsin the present study proteobacteria has been noted asthe most predominant phylum in our samples with an average number of reads of 18330 out of 28201 assigned to it in the control samples.
+
+to further investigate the impacts of nceo2 nps on the bac- terial communitydiversity it was revealed that 18 phyla were generated from the control samples whereas in the nceo2 nps-treatment samples over 11 phyla 13 phyla 10 phyla and 10 phyla in sa 10 mgl sb 20 mgl sc 30 mgl and sd 40 mgl samples respectively.
+
+since activated sludge is the most widely used wastewater treatment option the present study aimed at assessing the effect of nceo2 nps to activated sludge microorganisms.materials and methodsbioreactorsfresh activated sludge 1 l each was collected from the northern wastewater works johannesburg chipped to the laboratory in a cooler box 4c and used within 24 h. the collected activated sludge 100 ml was then inocu- lated in a reactor containing 300 ml of culture media d-glucose anhydrate 2.5 gl mgso47h2o 0.5 gl and kno3 0.18 gl in distilled water and treated with differ- ent concentration of ceo2 nps 10 20 30 and 40 mgl.
+
+the effect of nceo2 nps was mostly observed with less abundant bacterial species such as sludge bulk- ing bacterial species dechloromonas and thauera ammonia-oxidizing bacterial species zoogloea methy- loversatilis denitrifying bacterial species thauera azoarcus acidovorax comamonas pseudomonas para- coccus ochrobactrum hyphomicrobium and nitrospira sulfate-reducing bacterial genera desulfomicrobium and paracoccus phosphate removing bacteria genera dechloromonas azospira unclassifiedburkholderiales incertaesedis and bacteria involved in flocs stabiliza- tion caldilinea which showed an significant decrease over the gradual increase of nceo nps juretschko et al.
+
+although the nceo2 nps were noted to promote the growth of some bacterial species while slowing those of others it was unclear to know the real cause of suchbehavior as unclassified bacteria were mostly affected by the toxic effects of test nps.
+
+although very little informa- tion is available on how these nceo2 nps affect micro- bial communities in activated sludge effect of other nps have been reported.
+
+more studies are needed to further understand the mechanism involved in the enhancement of bacteria growth by nceo2 nps as well as the inhibition of phosphate due to continuous addition of nceo2-nps.additional fileabbreviationsadk adenylate kinase cod chemical oxygen demand dra dna data base of japan sequence read archive do dissolved oxygen ec electrical conduc- tivity ebpr enhanced biological phosphorus removal nar nitrate reductase nir nitrite reductase nps nanoparticles otus operational taxonomic units ppk polyphosphate kinase rdp ribosomal database project sem scanning electronic microscope wwtp wastewater treatment plant.authors' contributionsik made substantial contributions to conception and design acquisi- tion of data analysis and interpretation of data been involved in drafting and critical review of the manuscript.
+
+however it is unknown how nceo2 nps affect essential activities of these key microorganisms in acti- vated sludge.
+
+the impact of nceo2 nps on the microbial complexity and abundance in the samples was also revealed by using the shan- non-weaver index and chao1 richness estimator at 3cutoff table .
+
+furthermore number of reads assigned for proteobacteria appeared to decrease in the nceo2 np-treated samples as the concentration of test nps increases.
+
+thissample idnotuchao1shannonevennesssituation revealed that in our reactors nceo2 nps could0.877more diverse as the sequences were classified into lowercontrol samples approximately 21521 reads revealed high abundance than the treated samples 19303 14023 13840 and 11501 reads from sa sb sc and sd respectively.
+
+the study revealed1086420adkppknarnirtype of enzymethat nceo2 nps affected the diversity of the microbial population while enhancing the growth of particular microbial species.fig.
+
+to our knowledge the impact of nceo2 nps on activated sludge microbial community as well as on the bacteria is still unknown.
+

@@ -1,0 +1,30 @@
+because very few de genes were shared among all treatments this provided a unique opportunity to search for universally responsive co- option gene candidates that would be identifiable based on their shared significance across treatment categories.co-optionthe co-option analysis was done by searching for com- mon de genes shared among the nutrition-immunity and hormonal-xenobiotic treatment categories .
+
+genomic resources recently have been developed for many termite species but as yet they have not been applied to address complex sociobiology questions such as gene or symbiota co-option.the goal of this study was to using existing data sets from 3 prior published studiesto identify poten- tially co-opted master genes of the lower termite retic- ulitermes flavipes and its gut symbiota.
+
+of the 4 master genes identified it is possible that the symbiont spry domain gene with homology to microbial-responsive antimicrobial genes of solitary organisms is a legitimate co-option candidate and could play a central role in regulating gut symbiont numbers andor composition as well as host processes.another trend emerging from the co-option analysis is that gut symbiota seem to play a larger role in the interplay between nutrition and immunity functions while the host termite plays a larger role in mounting responses to hormonal and xenobiotic challenges.
+
+b1-4 glucans in plants and b1-3 glucans in microbes.the rationale for including the fi and bi treatments in the hormonal- xenobiotic co-option category came from previous findings showing signatures of endocrine-linked gut remodeling in response to imidacloprid pathogen challenges.alternatively the ls sh and lr treat- ments were excluded from the co-option analyses because of the relatively small number of significant de genes present in these treatment categories  and .contrary to conventional perceptions on the relative importance of digestion and immunity the hormonal- xenobiotic data set shared 17.5x more responsive genes in common n 245 than did the nutrition-immunity data set n 14. in terms of host vs. symbiont origins for common de genes the relative proportions between the two data sets contrasted somewhat.
+
+the 4 genes were signifi- cantly homologous to trna methylthiotransferase septicolysin spry domain protein and ubiquitin protein ligase table s3 .although it has highest homology to a bacterial trna methylthiotransferase trmt the trmt gene is the only host-derived gene out of the 4 universally respon- sive master genes identified.
+
+the column denoted by an asterisk indicates the normalization strategy and p-value cutoff used for co-option analyses.non-normalizednormalized by treatment or treatment category identical results0.01 level0.05 level0.01 level0.05 level treatment categorytreatmentpqpqpqpqfcifigure 2. cluster analysis results showing significant colony effects that supersede treatment effects when non-normalized data are used.
+
+the worker termite digestive tract thus underlies many aspects of termite social living.two factors that pose key challenges to termite societies are maintenance of symbiont populations and group living in pathogen-rich soil environments.
+
+these findings thus reveal new insights into host-symbiont interactions that underlie various aspects of termite biology as well as important co-opted genes that direct socially relevant biochemical and physiologic processes in the termite gut.
+
+these findings suggest the identified termite trmt plays a central role in responses to stress possibly with links to insulin signaling which has documented links to termite caste differentiation and physiology.the second master gene encodes a symbiont-derived septicolysin protein toxin.
+
+the focus species was the lower termite r. flavipes which hosts gut symbiota that include a combination of 11 eukaryotic protistsand 4000 species level bacterial otus.gut cdnas were synthesized concurrently from total eukaryotic gut mrna obtained after dietary social hormonal immunological or xenobiotic bioassay treatments as detailed previously.these prior stud- ies elucidated details of responsive genes unique to each treatment category.
+
+first the spry domain gene is unique among the 4 master genes in that it was the only one showing downregulation in any treatments which occurred exclusively in wood and cellulose dietaryfeeding treatments it was upregulated along with the other 3 master genes in all other treatments .
+
+the goal of the topology analysis shown in a was to determine relationships of treatments to one another based on gene expression while the goal of the analysis outlined in b to identify candidate master genes responsive across treatment categories.
+
+we used an experimental metatran- scriptome approach to analyze gene expression topologies across diverse challenge treatments and to look for mas- ter genes that responded across diverse treatment catego- ries.
+
+in lower termites the worker caste is a sterile developmentally plastic immature stage that comprises the majority of termite colonies.lower termite workers also perform the majority of lignocellulose feeding and digestion and they house many thousands of species of eukaryotic and prokary- otic symbiota within their guts.
+
+treatments compared in the nutrition- immunity category were w c b and f in the hormonal- xenobiotic category they were jh i fi and bi .in the nutrition-immunity category there were 14 common de genes shared among treatments of which 10 were from symbiont origins and 4 from host termite gut tissue table s1.
+

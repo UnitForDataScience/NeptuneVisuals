@@ -1,0 +1,30 @@
+we also address questions related to the number of rocks that neededto be sampled to determine a representative list of the cyanobacterial community composition a richness estimate of the cyanobacterial op- erational taxonomic units otus per rock and how this varies with location and rock size and cyanobacterial diversity as a function of rock characteristics size quartz crystal or quartz matrix.2  materials and methods  study site and sampling schemethe study site was 10 km south of kalkarindji nt australia tracy et al.
+
+in order to test whether rock characteristics had an effect on the commu- nity structure a distance-based linear model and redundancy analysis dbrda was conducted with factors distance class rock size weight and size dimensions and rock type crystal vs. matrix.
+
+an additional 5.0 of the variance was explained by rock length p  .011 and 4.6 by rock type p  .011 while rock weight did not contribute to the model fig.
+
+distance remained the largest source of variation in the bacterial community data with a square root of the component of variation of 39 p  .001 compared to 13 for rock length p  .001 residual 46. there was a weak interaction effect between distance and rock length p  .06 indicating that the im- pact of distance upon the community slightly differed based on rock length.
+
+our results indicate that distance can be a determinant of cya- nobacterial community composition at a scale as small as 10 m as evidenced by the cyanobacterial community at distance zero being significantly different from that at 10 m figure 6. however this dis- tance effect also depended on the variability of inter-rock communi- ties at a site as illustrated by the cyanobacterial communities at the sites at 10 m e and 1 km g which had low within-site similarity and which did not differ from each other nor those at 100 m f figure 6. the site at 10 m showed large variations in rock lengths and oncethe last five taxa listed were included because they were in the top 20 most abundant taxa for sites e f g or h.table 2 a list of the top 20 average relative abundance of sequence counts taxa for combined sites abcd ranked from most to least abundanttable 3 rock characteristics per distance groupnumbers are median rock characteristics with the range in brackets.
+
+2010 found that the community composition was similar under rocks sampled within an area of 100 m2 but few studies have inves- tigated patterns of hypolithic cyanobacterial community composition at distances small enough that climatic factors do not vary but great enough that immediate rock to rock dispersal is unlikely.
+
+to address a secondary research question on the impact of rock size on the community con- tinuous factor rock length was also included as a co-variable to the permanova design.the distance-decay relationship was explored in stata-14 using a generalized linear mixed model with a restricted maximum likelihood and the natural log of the bray-curtis similarities as outcome variable and the natural log of the distances between quadrats 1 as fixed factor and the quadrat combinations as random factors.
+
+data were displayed using graphpad prism 6 graphpad software ca usa.to test for otus changing between distance classes a negative binomial model was conducted in phyloseq on the variance stabilized otu data implemented as described above.operational taxonomic unit data were log transformed in stata-14 and otus occurring at more than 0.1 in a sample were displayed in a cytoscape network using the edge-weighted spring-embedded layout.secondary analyses addressed the question of the impact of rock type crystal vs. matrix and rock dimensions mass length width and thickness upon the cyanobacterial community.
+
+no difference in the number of otus otu rich- ness nor shannon diversity was found between different rock types rock weight or linear dimensions mann-whitney tests or spearman's rank correlations p value ranged from .09 to .9 for all comparisons.
+
+to assess whether rock length explained some of the differences in the bacterial com- munity observed between the different distance classes rock length was added as a continuous covariable to the permanova analysis with distance as a fixed factor.
+
+the community at distance zero was also significantly different from that at all of the more distant locations 100 m 1 km and 10 km figure 6. these patterns of distribution are more easily explained under a colonization model in which hypolithic cyanobacteria disperse and colonize from rock to rock with a possible dormant stage between rocks pointing 2016 warren-rhodes et al.
+
+2010 nine rocks were sampled opportunistically with the main goals of comparing the com- munities with those from other deserts of the world and describing the hypolithic communities under different rock types quartz crystals quartz matrix small crystals resulting in a milky appearance agate and prehnite.
+
+the hypolithic communities were diverse under all the rock types and the high diversity from such a small sample of rocks suggested that a larger sample might reveal many more species.
+
+the common midpoint corner of quadrats a b c andd was defined as distance zero and quadrats e f g and h were located10 100 1000 and 10000 m south of that pointan evaluation of species richness and cyanobacterial diversity at the level of the individual rock short distances and longer distances.
+
+six quartz rocks were collected from each quadrat in august 2014. in addition to its location of origin we measured the following physical characteristics of each rock mass g length mm width mm depth mm and whether the quartz consisted of small crystals matrix or larger crystals crystals.
+

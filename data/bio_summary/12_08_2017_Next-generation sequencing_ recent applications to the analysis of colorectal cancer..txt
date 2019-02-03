@@ -1,0 +1,30 @@
+further- more it is known that approximately 15 of crc mostly sporadic show also msi arising from the mlh1 pro- moter methylation .connections between crc and gut microbiotarecently the existence of an influence exerted by gut microbiota on crc development has been highlightedsince gut microbiota seems to be directly involved in the regulation of intestinal immune system and promotion of intestinal inflammation.
+
+at the same level investments should be made for appropriate education and formation of clini- cians about the interpretation of the clinical significance of the data obtained.in conclusion ngs technology surely represents a giant step forward in the direction toward personalized medicine against crc but further analyses are necessary to reach more complete results and higher level in our view of the big picture.abbreviationsngs next generation sequencing crc colorectal cancer mcrc metastatic colorectal cancer fap familial adenomatous polyposis map mutyh-asso- ciated polyposis hnpcc hereditary nonpolyposis colorectal cancer mmr mismatch repair cin chromosomal instability msi microsatellite instability cimp cpg islands methylator phenotype ros reactive oxygen species nos nitrative oxygen species vegf vascular endothelial growth factor egfr epidermal growth factor receptor folfox folinic acid fluorouracil oxaliplatin folfiri folinic acid fluorouracil irinotecan zmw zero mode-waveguideemt epithelial-to-mesenchymal transition 3'utr 3'untranslated region ctc circulating tumor cells.authors' contributionsfdv wrote the manuscript vm collected ngs crc results adm and cc provided technical information about ngs technologies dc fz cc and ea revised manuscript at conceived the topic and revised the manuscript.
+
+we describe and discuss i ngs main applications and platforms ii main features of crc pathogenesis and therapy iii ngs application in crc by taking into consideration diagnos- tics of actionable genes novel mutations less frequently mutant genes transcriptomics epigenetics alterations other possible directions.
+
+further analyses will add this new per- spective to the crc induction mechanisms.crc therapythe classical way to treat crc is surgical resection fol- lowed by chemotherapy.
+
+the authors analyzed the response of 7 crc cell lines to cetuximab as well as primary tumors liver and lung metastasis from 25 crc patients treated with cetuximab or panitumumab by evaluating ngs illumina mutation profiles of 48 cancer- related genes egfr and e-cadherin expression.
+
+theyseem to be correlated to a clinically distinct crc subtype with better prognosis.ngs transcriptomics analysispost-transcriptional events in crc gained attention and interesting results have been collected by ngs table .
+
+some scientists took advantage of ngs technology to sequence human crc mrnas to verify rna changes such as alternative cleavage and polyadenylation apa during crc progression .
+
+175 crcsnormal tissue pairsilluminahiseq truseqhct116 crc cell lineillumina hiseqrnaseq crc vs. normal differentially expressed genesrna-seq snp profiles from single cell and bulk crc1138 up-regulated695 down-regulatedgenes in wnt pi3kca p53 tgf-b mmrpathways fusion transcriptsslattery et al.
+
+used 20 crc cell lines to identify 20 top genes responsible for resistancesensitivity to irinotecan and further validated 7 of them cdc20 ctnnal1 fzd7 cited2 abr arhgef7 and rnmt by qpcr in tworesistant and sensitive crc cell lines.
+
+eight differen- tially expressed isoforms encoded by ogdh col6a3 icam1 phpt1 ppp2r5d slc29a1 and trib3 fur-ther validated by qrt-pcr resulted up-regulated in crc providing evidence about tumor specific alternative transcripts of genes involved in metabolism which puta- tively play a role in crc.epigenetics analysisnext-gen technology has been also applied to epige- netics studies principally focused on evaluating the methylation level or micrornas expression in crc.
+
+some valuable profiling researches were conducted to sequence the methylome of crc samples being dnamethylation of several genes reported in crc .
+
+in this context deep molecular characterization of tumors is a key element for optimal patient's management and uni- fied guidelines to detect and classify variants interpret and report results should be recommended and adopted .colorectal cancer crc is one of the most interest- ing fields of ngs application.
+
+crc is among the most lethal and frequent types of tumors in the industrialized world and is characterized by a great quantity of activat- ing mutations .
+
+this review is intended to condense the state of the art about next-gen technologies and their applications in crc throughout the last years to provide a useful synopsis.
+
+the system was successfully validated on ffpe crc samples in comparison to other known plat- forms .bionano technologiesbionano genomics put sequencing technologies on new track using the optical mapping concept.
+

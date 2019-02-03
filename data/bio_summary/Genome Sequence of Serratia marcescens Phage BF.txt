@@ -1,0 +1,24 @@
+based on the extensive homology between bf and these rak2-like members we propose to assign bf to this phage group.volume 5 issue 23 e00211-17 1casey et al.the novelty of the bf genome allows functional predictions for 165 of the 549 deduced gene products with no evident modular genome organization.
+
+here we report the com- plete genome of the novel s. marcescens phage bf representing the third-largest phage genome sequenced to date.erratia marcescens is a gram-negative rod-shaped bacterium belonging to the family enterobacteriaceae .
+
+therefore bf propagation was achieved by picking the zone of lysis and incubating this with 50 ml of s. marcescens ucc2017 culture for 6 h. following filtration 0.45 um and dnase treatment of the lysate bacteriophage dna was isolated employing a phage dna isolation kit norgen biotek canada.illumina miseq sequencing mean coverage depth of 21.55-fold was performed followed by genome assembly using mira version 4.0.2 through the megannotator pipeline .
+
+transfer rna gene predic- tion was performed with trnascan-se version 1.21.the bf genome measures 357154 bp with a gc content of 35.3 and 549 predicted cdss.
+
+comparative genome analysis revealed the closest relatives of bf to be cronobacter sp.
+
+bf also encodes five putative chromosome con- densation proteins bf0546 to bf0550 similar to that specified by just a single copy in gap32  and presumably aiding in packaging the large genome into the capsid.accession numbers.
+
+the bf genome has been deposited in the ncbigenbank database under the accession number .acknowledgmentsd.v.s.
+
+despite repeated attempts the isolated phage hereafter named bf was unable to produce plaques.
+
+phage gap32 358 kb this allows for the classification of bf as a jumbo phage .
+
+hhpred anal- ysis predicted small clusters such as the phage baseplate bf0232 to bf0241 which encodes two potential receptor-binding proteins rbps--the product of bf0258 showing structural similarity to the coliphage t5 rbp and that of bf0259 which is similar to the carbohydrate-binding domains of c. perfringens --suggesting that the bf receptor is saccharidic in nature.
+
+to date the genomes of just two phages myovirus 'll qiao gan you xi fei yu liao mang qiang hyqiao gyeolqiao nc021563 and ps2 nc024121 unknown morphology infecting s. marcescens are available from the ncbi viral genome database .environmental sample screening led to the isolation of s. marcescens ucc2017 verified by 16s rrna sequencing from composted grass.
+
+this makes it the third-largest bacteriophage genome sequenced to date following bacillus megaterium phage g 498 kb and cronobacter sp.
+

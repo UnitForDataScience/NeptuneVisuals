@@ -1,0 +1,30 @@
+10 studied orogastrically infected guinea pigs to identify routes by which l. monocytogenes disseminates from the intestine to the liver mesenteric lymph nodes mlns and spleen and they have characterized how l. monocytogenes traffics between ma- ternal organs and the placenta 7 10. however none of thesestudies measured nb sizes in these organs.here we used stamp to map l. monocytogenes dissemina- tion routes and quantify nb sizes following orogastric og andi.v.
+
+this discrepancy suggests that mmcs do not play a major role in modulating l. monocytogenes' initial access to and establishment within hepatocytes but that these cells restrict the subsequent expansion of the l. monocytogenes population per- haps by killing l. monocytogenes released from lysed hepatocytes during the later stage of l. monocytogenes proliferation 21 23.mice were also treated with antibody to tnf-a a cytokine that promotes the activity of macrophages including kupffer cells in the liver monocytes and neutrophils 27-29. for these experi- ments tissue samples were collected 2 d after i.v.
+
+even though there was nb'  9 in the gb samples mean nb'  3 nb' range 1-9 the numbers of l. monocytogenes cfus recovered from these samples were comparable to the numbers found in other tissues fig.
+
+for both infection protocols we found that nb size was highest for the liver and spleen suggesting that a subset of the og inoculum escapes from the gi tract before constriction of the l. monocytogenes nb there.
+
+monocytogenes to establish infection in this model the different nb sizes in the tested host tissues reveal that additional tissue- specific bottlenecks constrain the capacity of l. monocytogenes to access different host organs.the lowest nb' values were found in the gb.
+
+the number of cfus recovered from brain samples was highly correlated with cfu numbers from blood samples r2  0.81 consistent with the model that blood-borne organisms seed the brain.we enumerated cfus recovered from each of these sites and estimated the size of the nb by comparing the frequencies of tags in the inoculum with the frequencies in organisms recovered from the different samples yielding nb and adjusting it with the cali- bration curve yielding nb' 8. in general similar numbers ofl.
+
+notably despite the relatively large nb' value observed in the colon mean  46 the nb' value in the feces was very low and similar to the nb' value in the gb sug- gesting that fecal organisms are not principally derived from intracellular organisms replicating within colonic tissue.historically many studies have used i.v.
+
+listeria monocytogenes is a gram-positive food-borne patho- gen that can spread from the gastrointestinal gi tract where it can cause gastroenteritis to distal sites including the spleen liver gallbladder gb brain and placenta which can result in meningitis septic abortion and other manifestations of systemic infection 9-12. a variety of pathogen factors that enable the organism to grow within host cells and to spread from cell to cell have been identified additionally studies of host-pathogen in- teractions have yielded considerable insight into the host re- sponse to l. monocytogenes 13-17. however there is relatively little knowledge of l. monocytogenes population dynamics during infection.
+
+monocytogenes cells during this stage 23. most 80 ofthe l. monocytogenes cells that reach the liver are thought to be captured and subsequently inactivated by kupffer cells during the lag phase whereas the remaining l. monocytogenes cells enter hepatocytes where they can replicate 23-25.mice were treated with an antibody to gr-1 which is expressed on myelomonocytic cells mmcs including neutrophils and monocytes at doses known to deplete cells bearing this marker 26. this treatment leads to an accelerated course of disease 22 therefore tissue samples for analyses were obtained 24 h after infection.
+
+although fecal-oral transmission is not an important route of l. monocytogenes transmission in humans it is thought to be important in ruminants in the wild 36. thus if the gbs of ruminant animals are colonized with l. monocytogenes in a pauciclonal manner as we have observed in mice then it is likely that pauciclonal fecal-oral transmission ofl.
+
+indeeddeeper understanding of the l. monocytogenes factors that facili- tate its replication in the gb could contribute to the creation of safer live-attenuated l. monocytogenes strains for use as vaccine vectors and in cancer therapeutics 38.materials and methodsthe stamp protocol used here was similar to the stamp protocol described by abel et al.
+
+we created a genetically barcoded library of muri- nized l. monocytogenes and then used deep sequencing to track the pathogen's dissemination routes and quantify its founding pop- ulation nb sizes in different organs.
+
+the nb' values for the si at 3 dpi pre- dominantly reflect intracellular l. monocytogenes because they were similar for tissue treated with gentamicin which kills extra- cellular organisms and untreated si tissues fig.
+
+b cfu and nb sizes for the indicated tissues at 3 dpi of mice inoculated orogastrically with 3 x109 cfus of dchea l. monocytogenes.
+
+to begin to ex- plore the host factors that control l. monocytogenes nb sizes in various tissues we treated mice with antibodies against compo- nents of the innate immune response before inoculation of the pathogen.
+

@@ -1,0 +1,30 @@
+for both the bacterioplankton and microeukaryote community in xkb the partial mantel coef- ficients were higher for environmental distance bacterioplankton r  0.5414 for unifrac and r  0.4211 for betamntd microeukaryotes r  0.6883 for unifrac and r  0.5698 for betamntd all p  0.01 than for spatial distance bacterioplankton r  0.2793 for unifrac and r  0.2596 for betamntd microeukaryotes r  0.4036 for unifrac and r  0.0625 for betamntd table .
+
+dissolved inorganic nitrogen including ammonia ni-trogen nh -n nitrate nitrogen no --n and nitrite ni-43the aims of the present study focused on the following three aspects i does the microbial community includ- ing bacterioplankton and microeukaryotes of freshwater lakes differ between the different nutrient loading lake zones ii do environmental factors impact the microbial communities differently in the two lake zones iii what are the differences between the deterministic and stochas- tic processes that play a role in the assembly of microbial communities in the two lake zones as far as we know this is the first study to evaluate the roles of deterministic and stochastic processes in the assembly of both bacterioplankton and microeukaryote communities in freshwater lake ecosystems.trogen no --n were measured with continuous colorimet- ric flow analysis skalar san plus system skalar analytical bv breda the netherlands.
+
+significantly higher otu richness p  0.01 and phylogenetic diversity p  0.05 were found in the bacterioplankton community of mlb than those of the bacterioplankton community of xkb.
+
+1 the richness and alpha diversities based on both taxonomic a c and phylogenetic indexes b d of bacterioplankton a b and microeukaryotes c d. different letters above columns indicate significant differences between the meiliang bay mlb and xukou bay xkb lake zonesboth the bacterioplankton and microeukaryotes whereas environmental factors did not show a significant correla- tion with the microbial community composition in mlb except for the weak correlation between doc and the microeukaryote community.
+
+2 non-parametric multidimensional scaling nmds plots derived from the taxonomy-based on bray-curtis distance a c and the phylogeny- based unifrac distance b d of community composition of bacterioplankton a b and microeukaryotes c d. mlb meiliang bay lake zone xkb xukou bay lake zone5918appl microbiol biotechnol 2017 1015913-5923table 2 differences of microbial community composition between the meiliang bay mlb and xukou bay xkb lake zones investigated by analysis of similarity anosimthe environmental factors maintained stronger correlations with the relative abundance of the main phylasubphyla of bacterioplankton in xkb supplementary fig.
+
+previously described the assembly of both the bacterioplankton and microeukaryote communities collected in xkb was governed by deterministic processes ofmlbxkbmlbxkbenvironmental variablesr values4no --n0.092 -0.150-0.078-0.155no --n-0.220 -0.080-0.0370.053doc-0.1030.2420.4200.444ph-0.1380.553 -0.0230.351t-0.2540.3620.1040.672ec-0.0280.446-0.0600.385orp-0.2490.7740.1050.591significant correlations are indicated in italicstn total nitrogen tp total phosphorus nh  -n ammonium nitrogenmeasured environmental variables whereas the microbial com- munities derived from the mlb lake zone were assembled by unknown processes.discussionin this study we examined the discrepancies in community com- position of freshwater bacterioplankton and microeukaryotes and the relative importance of deterministic and stochastic processes across two lake zones with different nutrient loading levels.
+
+the results indicated that both the bacterioplankton and microeukaryote community composition derived from the two lake zones were significantly different.
+
+significantly higher operational taxonomic unit otu richness p  0.01 and phylogenetic diversity p  0.05 were found for the bacterioplankton community of mlb.
+
+however a comparable alpha diversity was found between the microeukaryotedayong zhao and xinyi cao contributed equally to this work.electronic supplementary material the online version of this article doi0 contains supplementary material which is available to authorized users.dayong zhao zhongbo yu 1 state key laboratory of hydrology-water resources and hydraulic engineering hohai university nanjing 210098 china2 college of hydrology and water resources hohai university nanjing 210098 china3 department of microbiology and plant biology university of oklahoma norman ok usa4 state key laboratory of lake science and environment nanjing institute of geography and limnology chinese academy of sciences nanjing 210008 chinacommunities of mlb and xkb p  0.05. environmental factors significantly affected the community compositions in xkb for both the bacterioplankton and microeukaryotes.
+
+moreover the results of the phylogenetic structure suggest that deterministic processes played overwhelming roles in driving the assembly of both the bacterioplankton and microeukaryote community in xkb.keywords community composition .
+
+bacterioplankton .
+
+taihu lakeintroductionin freshwater ecosystems microorganisms including bacterioplankton and microeukaryotes have received in- creasing attention as important components of aquatic ecosystems grossart and ploug  newton et al.
+
+it has also been observed that the community structure of bacterioplankton changed in response to the addition of nutrients to the ecosystem zhou et al.
+
+the high nutrient levels could affect the compo- sition of bacterioplankton haukka et al.
+
+however studies evaluating the response of the microeukaryote com- munity assembly and the differences between the community assembly of bacterioplankton and microeukaryotes to changes in the nutrient loading level in freshwater lakes are not available.characterizing the processes that underlie spatial variation in biotic communities across an ecosystem is another major theme of ecological research martiny et al.
+

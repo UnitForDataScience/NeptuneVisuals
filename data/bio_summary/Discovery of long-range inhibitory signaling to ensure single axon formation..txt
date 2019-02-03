@@ -1,0 +1,30 @@
+the time-dependent concentration of rho-kinase in the soma is represented by cst  copt where co and pt indicate the rho-kinase concentrations in the cell body during photoactivation and the time course of photoactivation in which the binary variables 0 and 1 represent without and with photoactivation respectively.notice that this model did not include active transport of rho-kinase from the cell body to neurite tips in contrast to previous models   .
+
+these ca2 waves increase rhoa activity in the cell body through calciumcalmodulin-dependent protein kinase i. optogenetic control of rho-kinase combined with computational modeling reveals that active rho-kinase diffuses to growingother immature neurites and inhibits their outgrowth.
+
+4e f. altogether these results validate the use of the lovtrap approach as a means to manipulate rho-kinase activity in living cells.given that the minor neurite retraction induced by nt-3 approximately 15 min was preceded by activation of rhoa 3-5 min figs a and a b we used the lovtrap-rhoa and lovtrap-rho-kinase to evaluate whether local activation of rhoa or rho-kinase in the cell body could induce minor neurite retraction.
+
+d as followsdldt 14 mli th f0 th figdrithd2thrdlth14 c0cosh l1pffidffiffiffiffiffikffiffid1thwhere t li m fo fi and ri indicate time the length of the ith neurite the retraction coefficient the constitutive growth force shared by all neurites the growth force of the ith neurite and thewhere r co li d and k indicate the rho-kinase concentration at the neurite tip the rho-kinase concentration in the cell body during photoactivation the length of the neurite the diffusion rate and the inactivation and degradation rate respectively.
+
+local application of nt-3 50 mgml in a micropipette peprotech anti-nt-3 500 mgml ionomycin 1 mm xestospongin c 2 mm dantrolene 20 mm skf96365 3 mm ryanodine 100 mm bapta-amt 14 d x2 kcd3thwith boundary conditions of cx  0 t  cst and cxxl  0 where t x l c cs d and k indicate time the space coordinate along a neurite the length of the neurite the concentration of rho-kinase along the neurite the concentration of rho-kinase in the cell body the diffusion rate and the inactivation and degradation rates respectively.
+
+a and supplementary movie 2. to determine the source of these long-range ca2 waves we measured ca2 concentrations in the cell bodies of hippocampal neurons treated with several specific inhibitors the inhibitors including inhibitors of ryanodine receptors the most downstream source of cytoplasmic ca2 abolished the nt-3-induced elevation of ca2 concentration in the cell body fig.
+
+we found that rho-kinase-dependent growth-discouraging behavior was increased in minor neurites that were within 75 mm of the cell body but not in axons over 100 mm away from the cell body blue and red dots in fig.
+
+consistently the attenuation of long-range ca2 propagations from the axon to the cell body and the subsequent camki activity in the cell body induced minor neurite elongation fig.
+
+to test whether photoactivated rho-kinase could diffuse from cell bodies into short minor neurites but not into long axons we developed a mathematical model.
+
+in the model rho-kinase undergoesphotoactivation in the cell body passively diffuses along a neurite and is then inactivated by becoming trapped in mitochondria andfig.
+
+f photoactivation of rhoa or rho-kinase in the cell body induced minor neurite retraction.
+
+h. these results suggest that active rho-kinase diffuses from the cell body to short minor neurites but not to long axons and subsequently retracts the growing minor neurites.rhoarho-kinase regulates single axon formation.
+
+interestingly when nt-3 was locally applied to the axon rho-kinase was enriched in the cell body and minor neurites compared with the axon supplemen- tary fig.
+
+rhoa rho-kinase activity in the cell body is important for preventing the formation of unnecessary axons.
+
+we found that photo-activation of rhoa or rho-kinase in the cell body resulted in rapid minor neurite retraction but not axon retraction.
+

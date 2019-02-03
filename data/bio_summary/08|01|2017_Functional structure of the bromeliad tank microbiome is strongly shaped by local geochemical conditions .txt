@@ -1,0 +1,30 @@
+the complete list of functional annota- tions including supporting literature is available as supporting information data 1. throughout the paper unless otherwise mentioned otu-based relative abundances of functional groups are given with respect to the total number of sequences that could be assigned to at least one functional group.
+
+to estimate the relative abundances of various metabolic functional groups such as potentially involved in methanogenesis or denitrification we performed shotgun environmental dna sequencing metagenomics and counted the number of metagenomic sequences associated with each functional group.
+
+this functional redundancy presumably allows each metabolic niche to be occupied at similar densities in each bromeliad but by alternative microorganisms while the precise com- position within each functional group may be determined by processes other than metabolic niche effects.
+
+for example biotic interactions such as phage-host dynamics or priority effects have been suggested previously as potential drivers of variation within functional groups even if the overall functional community structure is constant louca et al.
+
+functional community structure was similar across all bro- meliads although functional similarity was highest for bromeliads of the same species.
+
+2. relative abundances of functional groups in bromeliads.box-plots of relative gene abundances based on metagenomic sequences shown separately for a. nudicaulis red and n. cruenta blue one box per functional group and per bromeliad species.
+
+2006 would thus greatly enhance our understanding of bromeliad tank biogeochemistry.relating functional community structure to environmental conditionsto assess the potential effects of individual environmental conditions on community function and vice versa we cal- culated spearman rank correlations between the relative abundances of metagenomic functional groups and sev- eral environmental variables.
+
+these differences between bromeliads and lake sediments or between bromeliads and soil are likely largely driven by the particular geo- chemical features of these environments.comparison of functionally classified otus showed clear differences in functional group proportions with 6 out of 15 functional groups having significantly p  0.05taxonomic dissimilaritiescfunctionally annotated otusmds 11010101.0mds 1otu proportionsfig.
+
+otus from jurubatiba soil samples and bromeliads were functionally annotated at the same time 535 out of 2201 otus could be assigned to at least one functional group yielding 628 functional annotations.
+
+from the emp samples 6197 out of 23 497 otus could be assigned to at least one functional group yielding a total of 7037 functional annotations.statistical analysescorrelation analysis.
+
+to assess the extent to which environ- mental conditions related to functional community structure we calculated spearman rank correlations between the rela- tive abundances of individual metagenomic functional groups on the one hand and various environmental variables on the other hand.
+
+acta limnologica brasiliensia 18 47-53.hahn a. hanson n. kim d. konwar k. and hallam s. 2015 assembly independent functional annotation of short-read data using sofa short-orf functional annota- tion.
+
+we used metagenomic sequencing for functional community profiling and 16s sequencing for taxo- nomic profiling.
+
+we estimated the correlation between functional groups and various environmen- tal variables and compared communities between bromeliad species.
+
+functional community structure correlated strongly with environmental vari- ables between and within a single bromeliad species.
+

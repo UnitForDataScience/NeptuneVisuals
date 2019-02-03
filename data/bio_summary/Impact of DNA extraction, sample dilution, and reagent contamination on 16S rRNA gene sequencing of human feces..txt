@@ -1,0 +1,30 @@
+c d online resource 4. at the genus level the pattern was variable among samples among the most abundant genera more reads from blautia coprococcus unclassified lachnospiraceae and collinsella were obtained with mobio whereas oscillospira and unclassified ruminococcaceae were overrepresented with qiagen online resource 4.in terms of alpha-diversity the analysis of the subset of undiluted samples d0 indicated that most of the microbes of these samples were captured in our sequencing online resource 5. in addition the two dna extraction kits allowed inferring communities with similar diversity suggesting that their coverage of the gut microbiota was similar number of observed otus mobio  243 qiagen  285 p  0.10 shannon diversity index mobio  3.52 qiagen  3.70 p  0.10 inverse simpson index mobio  19.05 qiagen  19.70 p  0.69.dilution of human feces has a moderate impact on the gut microbiota inferencethe composition of the microbial community inferred from fecal samples independently of dilution was significantly different to that of negative controls with the exception of dilution d5 treated with qiagen online resource 6. regarding fecal samples only dilution in general had a statistically significant effect on microbial inference explaining 6-14 of the observed variance depending on the b-diversity measure evaluated table  onlineresource 3. unexpectedly however this effect was mod- erate and did not introduce severe bias into the microbial inference.
+
+in our case samples with as low as 2 mg of feces allowed obtaining both high num- bers of 16s rrna gene reads and a representation of the gut microbiota similar to that obtained with samples with 100 times more biomass.our results are particularly relevant now that multiple calls for the standardization of procedures have been made in the microbial ecology community alivisatos et al.
+
+among them the acquisition of genetic material has been shown to be a critical step on which multiple biases can be juan s. escobar 1 vidarium--nutrition health and wellness research center grupo empresarial nutresa calle 8 sur 50-67 medellin 050023 colombia2 present address max planck institute for developmental biology spemannstrasse 35 72076 tubingen germanyintroduced and that can result in an erroneous representation of the microbial community under scrutiny.differences in dna extraction protocols are known to affect the studied microbial community causing the overrepresenta- tion or underrepresentation of given microbial groups ariefdjohan et al.
+
+here we assess the sequencing yield composition and diversity of the gut microbiota studied from human fecal samples which were serially diluted and processed using two commercially available dna extraction kits to determine the impact of dna extraction initial sample biomass and reagent contamination on the evaluation of this microbial community using the 16s rrna gene as marker.materials and methodsdna extraction serial dilutions and 16s rrna gene sequencingmicrobial dna was obtained from fecal samples from five human donors online resource 1. samples were kept at- 80 degc since collection until dna extraction.
+
+noteworthy analyses were not affected by unevenness in the number of reads among samples as separate permanova on atable 1 permanova onb-diversity measuresunweighted unifracweighted unifracbray-curtiseffectr2p valuer2p valuer2p valuea kit refers to dna extraction kitrestricted dataset considering only samples with  10000 readssample output similar results online resource 3. differences in sex or bmi among donors might be at the origin of variation in the gut microbiota in these datasets online resource 1. large inter-subject variation is a com- mon observation in studies of the human gut microbiota costello et al.
+
+this limited effect of dilution in the inferred gut microbial community isunexpected since previous reports demonstrated that sam- ples with low microbial biomass basically amplify contam- inating dna salter et al.
+
+samples with low biomass are more prone to being affected by contaminant genetic material as they provide little template dna to compete with that contained in laboratory reagents grahn et al.
+
+the question of how to address comparisons between studies and meta- analyses remains open however the fact that measure- ments between samples extracted with different kits can be statistically significant strengthens the idea that compar- isons between studies that employed different extraction methods should be discouraged henderson et al.
+
+biases introduced during dna extraction can result in erro- neous representations of the microbial community particular- ly in samples with low microbial biomass.
+
+to be conservative in a given study total microbial dna should be extracted with the same kit ideally the same kit lot and caution must be taken when comparing data from different studies.importantly we demonstrate that highly diluted samples exhibit a microbial community profile distinguishable in most cases from that of laboratory reagents.
+
+although samples with such low biomass are unsuitable for robust microbial inference and unrealis- tic in most study designs their microbial signature is still distinguishable from that of laboratory reagents especially looking at the presenceabsence of data.
+
+microbiomeintroductionadvancements in culture-independent methods have granted the possibility to study microbial diversity with unprecedented detail revolutionizing our understanding of life on earth brazelton et al.
+
+both 16s ribosomal rna rrna gene and metagenomic analyses are non-specific and sensitive to contamination with foreign microbial dna tanner et al.
+
+at the genus level distortion of the community was idiosyncratic of each sample online resource 7.discussionprevious studies have explored the impact of dna extraction on the inferred microbial communities ariefdjohan et al.
+
+it has been repeatedly reported that protocols incorporating bead-containing lysing matrix and vigorous shaking extract larger amounts of dna and produce a more comprehensive microbial profile than protocols basedon chemical lysis alone ariefdjohan et al.
+

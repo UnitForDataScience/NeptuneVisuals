@@ -1,0 +1,8 @@
+prokaryotesgenome sequences of potential probiotic lactobacillus rhamnosus isolates from human infantsjason w. arnolda andrea monteagudo-meraa eric altermannbdmaria belen cadenasa amanda l. thompsonc m. andrea azcarate-periladivision of gastroenterology and hepatology and microbiome core facility department of medicine center for gastrointestinal biology and disease university of north carolina chapel hill north carolina usaa agresearch ltd. palmerston north new zealandb departments of anthropology and nutrition university of north carolina chapel hill north carolina usac riddet institute massey university palmerston north new zealanddabstract probiotics provide health benefits to their hosts including modulation of host immune response inhibition of colonization by pathogens modulation of the gut microbiota and epithelial barrier enhancement.
+
+assembled contigs were annotated using an updated version of the gamola annotation pipeline .amc010 has a gc content of 46.6 53 annotated trna genes and 3171 annotated coding sequences cdss with 162 unique genes compared to other sequenced and annotated l. rhamnosus genomes using the edgar genome analysis software .
+
+amc143 has a gc content of 46.6 47 annotated trna genes and 2835 annotated cdss with 73 unique genes compared to other sequenced and annotated l. rhamnosus genomes.
+
+gastroenterol clin north am 34483- 498 ix.
+

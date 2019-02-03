@@ -1,0 +1,30 @@
+2005unit normal direction of the boundary-vininflow velocity md17.3 assumedacuppericoncentration of chemical species i at the upper inlet molm3cupper1 0 assumedacupper2 0 assumedacupper3 0 assumedacupper4 0.2 assumedaclowericoncentration of chemical species i at the lower inlet molm3clower1 0.2 assumedaclower2 0 assumedaclower3 0 assumedaclower4 0 assumedahdepth of the flow cell m15 10-6hchance of a cell being inoculated10 assumedaeinitial biomass concentration in a cell being inoculated40 of saturated biomass assumedafkinitialinitial fraction of biomass species k in a cell being inoculatedf1initial 0.5 assumedaf2initial 0.5 assumedaf3initial 0.0 assumedattemperature k298 assumedahthcproton concentration in the reactor molm31.0 10-4 assumedahco3-c bicarbonate concentration in the reactor molm310 assumedaasystem-specific values are assumed and they are based on typical experimental conditions for biological uiv reduction.bthe diffusion coefficient of a chemical species within the biofilm is reduced by 20 compared to its value in water rittmann and mccarty 2001.equations for chemical speciesadvection diffusion and reaction of chemical species are governed byci2t 14 dir ci -r ducithth kid3thin which ci is the concentration of chemical species i di is the diffusion coefficient of chemical species i within the fluid ki is the net change rate of chemical species i due to biological reactions and its expression is summarized in table iii.
+
+the flow and biofilm interact while the biofilms are generally oriented along the flow directions due to shearing effects the flow velocity and porosity both decrease in the pore due to biomass growth.
+
+the no- slip boundary conditions are enforced on solid including biofilm cell surfaces through the half-way bounce-back scheme sukop and thorne 2007 which means that the physical boundary is located half-way between the fluid and solid cells.the resulting flow field and the biomass concentration field from the previous time t are used to solve the chemical species equation equation 3 through the explicit finite difference method in which small time steps are used to ensure numerical stability.the resulting chemical species concentration field and the flow field are used to solve the biomass equations equations 7-10 using the cellular automaton.
+
+biofilm cells m mmax have no flow and the corresponding diffusion coefficients are reduced compared to those in water see notes intang and liu modeling biofilms in porous media1681biotechnology and bioengineeringsimulate the interaction between biofilm and fluid flow.
+
+vin cupperin clowerin in table i we simulate the distribution of biomass species concentrations of chemical species and fluid flow in the flow cell for 500 days.distribution of biomass speciesfigure 3 shows the simulated distributions of biomass species.
+
+m-mmax.estimate the shear stress t in the destination cell using equation 10 white 1991t 14 6mjujhd10thwhere h is the depth of the flow cell and m is the dynamic viscosity of water.
+
+water res 47155729-5742.tang y valocchi aj werth cj liu h. 2013. an improved pore-scale biofilm model and comparison with an experiment in a micro-fluidic flow cell.
+
+2009. to accurately simulate the interaction of the flow biofilm and transport of chemical species in the transverse mixing zone which strongly depends on themorphology of the biofilms a multi-dimensional pore-scale biofilm model is a good fit.
+
+in this work we simulate a microfluidic flow cell that mimics the transverse mixing zone in bioremediation of uiv.
+
+thus two-dimensional simulation will be conducted throughout this work.numerical modelsimulated scenariothe microfluidic flow cell that we simulate is widely used to study the pore-scale porous media e.g.
+
+2010. as shown in figure 1 the dimensions of the flow cell are small 1820 mm length 1820 mm width 15 mm depth to save computa- tional time.
+
+since the depth of the flow cell is two orders of magnitude smaller than the length and width the model can be simplified to be two-dimensional i.e.
+
+2013. the flow cell contains a staggered periodic array of uniform cylindrical posts 300 mm in diameter with 180 mm pore bodies 40 mm pore throats and a porosity of 0.39. fluid comes into the pore network from the left side and out from the right side.
+
+2000b tang and valocchi 2013. details on fraction change can be found in tang and valocchi 2013. if the closest destination cells cannot accommodate all the excess biomass we increase the searching radius by one cell to find more potential fluid cells to hold the excess biomass.numerical solutionthis problem includes three dynamic processes fluid flow chemical species transport and reaction and biomass growth.
+
+this outputs the biomass concentration field at the next time t dt which provides the input geometry to determine the flow field for the next time t th dt.in this study the grid cell size is 5 5 mm and the time step for biomass growth dt is one day.
+

@@ -1,0 +1,30 @@
+guaymas basin gb a hydro- thermally active seafloor-spreading center in the gulf of california is characterized by high primary production rapid sedimentation and deposition and hydrothermal pro- cessing of buried organic matter within its massive sedi- ment cover hydrothermal alterations transform the deposited carbon and produce large amounts of methane petroleum-like compounds alkanes and polycyclic aro- matic hydrocarbons pahs organic acids and ammonia - these substrates get distributed throughout the sediments by hydrothermal circulation and are readily assimilated by the local microbial community  for example hydrothermal fluids containing high concentra- tions of methane  15 mm mixing with seawater sulfate 28 mm favor the anaerobic oxidation of methane aom which occurs at high temperatures in guaymas basin sedi- ments -aom is usually carried out in a syntrophic relationship between anaerobic methanotrophic anme archaea and members of the deltaproteobacteria that couple the oxidation of methane with the reduction of sulfate in hydrothermal sediments of guaymas basin aom is also performed at high temperatures by a syn- trophic consortium of anme-1 archaea and the deeply- branching hydrogenotrophic sulfate-reducing bacterium candidatus desulfofervidus auxilii - in contrast to this well-studied interaction little is known about the deg- radation of other abundant hydrocarbons such as pahs and alkanes by the gb microbiome.the microbial community composition of gb sedimentshas been thoroughly described using marker-gene studies  .
+
+addition- ally selecting a wider dataset including sites spanning a broader depth and temperature profile will help deter- mine whether the functional diversity in this study reflects the diversity present in hydrothermal vents as a whole.conclusionsgb hydrothermal vent sediments are hotspots for microbial carbon cycling and contain high concentrations of methane and hydrocarbons including alkanes and pahs the metabolic reconstruction of 115 new microbial mags revealed the substrate-dependent connectivity among deep- sea inhabiting microorganisms.
+
+the guaymas basin hiking guide to hydrothermal mounds chimneys and microbial mats complex seafloor expressions of subsurface hydrothermal circulation.
+
+microbiome 2017 5106doi 10.1186s40168-017-0322-2genomic insights into potential interdependencies in microbial hydrocarbon and nutrient cycling in hydrothermal sedimentsnina dombrowski1 kiley w. seitz1 andreas p. teske2 and brett j. baker1abstractbackground deep-sea hydrothermal vents are hotspots for productivity and biodiversity.
+
+methane concentrations dissolved organic carbon concentrations sulfate and sulfide con- centrations as well as thermal profiles of the sampling site are available to compare microbial community com- position across sediment cores   for 4484-1 full metadata are included in dowell et al.
+
+thermal and geochemical influences on microbial biogeography in the hydrothermal sediments of guaymas basin gulf of california.
+
+microbial communities in methane- and short chain alkane-rich hydrothermal sediments of guaymas basin.
+
+2016183073-91.meyer s wegener g lloyd kg teske a boetius a ramette a. microbial habitat connectivity across spatial scales and hydrothermal temperature gradients at guaymas basin.
+
+here we resolved the metabolic potential and community-level interactions of these diverse communities by reconstructing and analyzing microbial genomes from metagenomic sequencing data.results we reconstructed 115 microbial metagenome-assembled genomes comprising 27 distinct archaeal and bacterial phyla.
+
+our results further suggest a network of biogeochemical interdependencies in organic matter utilization hydrocarbon degradation and respiratory sulfur cycling among deep-sea-inhabiting microbial communities.keywords deep sea microbiome metagenome bacteria archaea population genomes comparative genomics correspondence equal contributors1department of marine science marine science institute university of texas austin port aransas tx usafull list of author information is available at the end of the articlec the authors.
+
+accompanying biogeochemical data for these two sites suggest that in addition to abundant methane short-chain alkanes c1 to c6 are available in substantial concentra- tions 20 to 100 mm consistent with the frequent de- tection of sulfate-reducing microbial populations that use hydrogen as preferred electron donor porewater hydrogen concentrations are consistently low  10 nm there- fore we hypothesize that this habitat is suitable for syn- trophic alkane oxidation by consortia of alkane-oxidizing archaea and sulfate-reducing bacteria that catalyze the ter- minal electron transfer from alkane to sulfate.
+
+additionally we aim to address whether the deposition and subsequent alteration of abundant organic carbon favors an unusually diverse microbial community in guaymas basin sediments .
+
+this broad access todifferent carbon sources appears highly characteristic for sediment environments including aquifers and estuaries suggesting that the microbial utilization of organic car- bon is a central driver of nutrient cycles in marine sedi- ments  although guaymas basin has unique hydrothermally active sediments these sediments share many characteristics with other sedimentary environ- ments such as the white oak river estuary  .
+
+the relative abundance of each mag was calculated by normalizing the recruited reads per mag by the genome size accounting for differences in sampling depth of the respective metagenome and then multiplying by 1000000. a total of 31363251 archaeal and 116888222 bacterial reads mapped back to the original metagenomes and represented  15 archaea and  49 bacteria of the sequenced community.gene calling taxonomic assignment and functional characterizationgene calling and taxonomic assignment for the four metagenomic samples and individual mags was per- formed using the joint genome institute-production genomics facility jgi-pgf integrated microbial ge- nomes with microbiome imgm system.
+
+dombrowski et al.
+

@@ -1,0 +1,30 @@
+a previ- ous high-throughput 16s rrna gene amplicon anal- ysis indicated that the bacterial microbiota occupying surfaces of lacustrine cladophora glomerata displayed high levels of taxonomic and inferred functional diversity including cyanobacteria and other bacterial genera many of which are known to be associated with methane-oxidation nitrogen-fixa- tion and cellulose-degradation zulkifly et al.
+
+because multiple methanotrophic bacterial genera possibly reflecting func- tional redundancy were inferred for cladophora microbiota sampled from the same site in 2011 yet a metagenomic analysis of cladophora microbiota sampled in 2012 did not reveal this guild we also examined the occurrence of methanotrophs in 2014.resultsepibiotic bacterial communities sampled from lake mendota wisconsin usa cladophora glomer- ata at six time points and three microsites during the growing season of 2014 included 57901 total possible otus present in 52 separate assemblages of 16s rrna gene sequenced reads.
+
+spatiotemporal occurrence of the 30 most abundant bacterial genera can be found in figure s4 in the supporting information.in contrast to null hypotheses of spatial and tem- poral homogeneity analysis of all reads identified as bacterial in origin indicated substantial temporal and spatial variation.
+
+methanotrophic bacterial genera were inferred to be most abundant at the south microsite through- out the summer of 2014 and in early summer at thediscussionthe goals of this study were to statistically test the null hypotheses that lacustrine cladophora glomerata- associated bacterial communities were relatively homogeneous across the growing season of 2014 and that communities were relatively homogenous among relatively close microsites at the same sam- pling locale.
+
+our observations of bacterial com- munities associated with lacustrine cladophora dur- ing the growing season of 2014 reveal patterns of change in bacterial genera that might be ecologi- cally significant and thus warrant further investiga- tion.
+
+even so futureexplorations of interannual variation in cladophora epibiotic bacterial communities and possible envi- ronmental correlates seem justified in view of poten- tially powerful ecosystem functions such as methanotrophy.our observation that 30 bacterial genera includ- ing functionally important representatives zulkifly et al.
+
+53 1255-1262 2017c 2017 phycological society of america doi 10.1111jpy.12573spatiotemporal dynamics of the bacterial microbiota on lacustrinecladophora glomerata chlorophyta1michael j. braus2linda e. grahamdepartment of botany university of wisconsin-madison 430 lincoln dr. madison wisconsin 53707 usaand thea l. whitmandepartment of soil science university of wisconsin-madison 1525 observatory dr. madison wisconsin 53706 usathe branched periphytic green alga cladophora glomerata often abundant in nearshore waters of lakes and rivers worldwide plays important ecosystem roles some mediated by epibiotic microbiota that benefit from host-provided surface organic c and o2.
+
+here we report the results of 16s rrna amplicon-based phylum-to-genus taxonomic analysis of cladophora-associated bacterial epibiota sampled in replicate from three microsites and at six times during the open-water season of 2014 from the same lake locale picnic point lake mendota dane co. wi usa explored by high-throughput sequencing studies in two previous years.
+
+statistical methods were used to test null hypotheses that the bacterial community i is homogeneous across microsites tested and ii does not change over the course of a growth season or among successive years.
+
+a surprising diversity of bacterial genera known to be associated with the key function of methane-oxidation methan- otrophy including relatively high-abundance of crenothrix methylomonas methylovulum and methylocaldum-showed intraseasonal and interannual variability possibly related to temperature differences and microsite preferences possibly related to variation in methane abundance.
+
+by contrast a core assemblage of bacterial genera seems to persist over a growth season and from year to year possibly transmitted by a persistent attached host resting stage.key index words cladophora epibacterial diversity microbiota spatiotemporal dynamicsabbreviations dna deoxyribonucleic acid nmds nonmetric multidimensional scaling n north1received 22 march 2017. accepted 24 july 2017. first publishedonline 8 august 2017. published online 11 september 2017 wiley online library wileyonlinelibrary.com.2author for correspondence e-mail editorial responsibility m. vis associate editorthe periphytic filamentous green alga cladophoracommonly occurs in marine and freshwaters world- wide is particularly abundant in environments affected by eutrophication and plays important roles in ecosystem materials cycling and providing habitat for other organisms reviewed by zulkifly et al.
+
+2012. a subsequent metagenomic analysis of clado- phora sampled from the same locale revealed high archaeal bacterial and eukaryotic epibiont taxo- nomic diversity as well as diverse functional genes such as prokaryotic nifh a marker for nitrogen- fixation amo ammonia monooxygenases genes involved in aerobic and anaerobic biosynthesis of vitamin b12 required by the host and prokaryotic and eukaryotic genes encoding putative cellulases graham et al.
+
+to address these issues we used 16s rrna gene amplicon sequencing to classify and compare bacterial microbiota of cladophora glomerata sampled in triplicate and at six time points during the growth season of 2014 from three microsites at the same lacustrine locale employed in two previous high-throughput but less well-replicated studies zulkifly et al.
+
+we used statistical methods to test the null hypotheses that the c. glomerata epibiotic bacterial community i was relatively homogeneous across microsites tested and ii did not change substantially over the course of a growth season.
+
+we aimed to determine whether seasonality or small-scale geographical variation was the more important driver of epibiotic bacterial community variation during a growth season.
+

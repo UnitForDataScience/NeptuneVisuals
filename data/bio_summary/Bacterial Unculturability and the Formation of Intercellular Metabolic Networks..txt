@@ -1,0 +1,30 @@
+this evolutionary scenario consists of four main steps which are discussed in turn.step 1 release of metabolites into the external environmentit is well known that bacteria frequently release proteins as well as primary and secondary metabolites into the external milieu .
+
+accumulating pools of extracellular metabolites create an ecological niche that benefits auxotrophic mutants which have lost the ability to autonomously produce the corresponding metabolites.
+
+thus metabolites that are biosynthesized in close proximity to the point267tddif at which a given substrate enters a cell's metabolic networkddti62f8will be produced at higher rates than metabolites that are produced at some distance from the substrate's entry point .
+
+when primary metabolites are sufficiently available in the environment bacterial mutants that have lost the ability to autono- mously produce the corresponding metabolites are selectively favoured .
+
+bacteria commonly release metabolites into the external environment.
+
+these flux differences can cause an active or passive release of surplus metabolites as metabolic by-products.moreover a strong competition between different bacterial genotypes that compete for the same substrates likely selects for fast-growing bacteria that optimise fluxes through their metabolic network such that they minimize the investment of resources per unit biomass produced.
+
+the switch between fermentation and respiration represents an example for such a rate-yield trade-off bacteria can either maximize their growth rate at the expense of an inefficient use of resources and increased rates at which metabolites are released into the environment i.e.
+
+however given the fact that the nutritional environment of bacteria changes frequently  it is reasonable to assume that a certain subset of genotypes from a bacterial community will always be maladapted to the currently available spectrum of resources and thus release metabolites into the cell-external environment.275tddifv mutation-induced metabolic disequilibrium273tddifbacteria face a constant mutational pressure.
+
+their increased darwinian fitness will likely allow them to export their enhancedproductivity also to other local patches leading to a dissemination of cooperative cross-feeding within and between microbial communities.coevolutionary consequencesthe first mutation deactivating a gene that is vitally involved in the biosynthesis of an essential metabolite such as amino acids or nucleotides renders the survival of the resulting mutant obligately dependent on an environmental supply of the lacking metabolite b. auxo- trophic bacteria that derive key metabolites from other organisms should thus experience a strong selection pressure to remain associated with cells that can satisfy their requirements.
+
+most bacteria will therefore not grow under laboratory conditions in monocultures if compatible interaction partners are absent that can provide the required metabolites or biochemical functions.
+
+the discrepancy between the number of bacteria that can be cultivated under laboratory conditions on the one hand and the number of bacteria present in an environmental sample on the other can differ by several orders of magnitudes .
+
+this pattern has been discovered in groups of co-occurring endosymbiotic bacteria as well as in free-living communities such as consortia of bacteria used for yoghurt fermentation and fresh-water bacterial communities .
+
+together the abovementioned studies provide compelling evidence that obligate cross-feeding interactions  are actually common in natural bacterial communities.evolution of obligate cross-feeding interactionshow can we envisage the emergence of obligate cross-feeding interactions that could explain the abovementioned unculturability of environmental bacteria in the following we present a working hypothesis that provides an adaptive explanation for why bacteria become metaboli- cally dependent on one another as well as detail the evolutionary consequences resulting from this loss of metabolic autonomy.
+
+in this way bacteria not only modify their local environment but possibly also create an ecological niche that can benefit other bacteria in the vicinity.
+
+given the diversity and sensitivity of chemosensory pathways in bacteria  it is conceivable that bacteria could use these systems to find and preferentially interact with suitable interaction partners.figure 2. contact-dependent interactions among cells lead to the emergence of multicellular clusters.
+

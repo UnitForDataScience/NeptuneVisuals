@@ -1,0 +1,30 @@
+the dendrogram graphs show that samples were converged according to both hp and disease states supplementary figure 5. while there is a clear dispersion of hp negative and hp positive samples gc samples tended to group together.
+
+although samples were largely converged according to the relative abundance of hp a clear separation of gc and other samples was recovered.
+
+whilst there was a strong inverse association between hp relative abundance and bacterial diversity this association was weak in gc samples which tended to have lower bacterialdiversity compared with other samples with similar hp levels.
+
+while hp was the dominant bacterium in hp positive samples other proteobacteria including haemophilus serratia neisseria and stenotrophomonas dominated the hp negative samples 1a.
+
+mann-whitney test was used to calculate the p-value.notably both the paired antrum and corpus as well as the paired tumor and adjacent non-tumor tissue samples had considerably similar bacterial compositions as shown by permanova analysis supplementary table 3.in order to show the similarity of different samples we performed pcoa analysis based on otus rela- tive abundance profiles.
+
+the 2-d plot of the first two principal coordinates shows a clear divergence of can- cer samples with other samples 1c.
+
+this pattern remained even after removing the hp related otus supplementary figure 4. hp gastritis samples overlapped with im samples even after excluding hp otus.otu1 which belonged to hp had the strongest negative correlation spearman correlation coefficient  - 0.87 p 1e-6 with the first principal coordinate.
+
+although the effect of hp status was largely reduced by remov- ing hp otus the convergence of gc samples still remained supplementary figure 6. the lefse analysis on otus identified 13 high abundance otus enriched in cancer samples compared with other histological sam- ples supplementary figure 7. these otus can be annotated to flavobacterium klebsiella serratia marcescens stenotrophomnonas achromobacter and pseudomonas.
+
+the meaningof box is the same with b donut chart of major bacterial phyla in pre- and post-eradication samples as well as normal control samples.
+
+whilst there was an inverse association between hp abun- dance and bacterial diversity in non-cancer gastric samples including normal gastritis and im this inverse asso- ciation was weak in cancer samples.
+
+nevertheless we still observed a separation of gastric cancer samples with other samples.
+
+our results showed that gastritis samples were largely overlapped with im samples.
+
+moreover it remains to be determined whether the disturbed gastric microbiota in hp infected subjects could be reversed by hp eradication therapy.this study attempted to characterize the changes in gastric microbiota after hp eradication and the changes in gastric microbiota in individuals with different histological stages of gastric carcinogenesis.resultspatients' samples.we sequenced 60 biopsy samples from 33 individuals including subjects with hp-associated chronic gastritis gastric im gastric adenocarcinoma and hp-negative controls1department of medicine the university of hong kong hong kong.
+
+email figure 1. genus composition and dispersion of 60 sequencing samples.
+
+a the relative abundance distribution of major genera across 60 sequencing samples.
+

@@ -1,0 +1,30 @@
+one pcp sample was excluded from diversity analyses due to a read number  1000sample after processing.the dominating phyla in pcp- and pcp patients were firmicutes with 41.3 - 34.2 sd and 60.0 - 31.8 sd mean relative abundance and proteobacteria with 39.1 - 38.7 sd and 24.8 - 32.5 sdrespectively fig.
+
+it is unclear so far if a specific dysbiosis of the lung microbiota may promote uncontrolled colonization and overt disease in immuno- compromised patients like it is suggested for aspergillus fumigatus although we found differences in the mean relative abundance of the microbial composition of pcp and pcp- patients these differences were not statistically sig- nificant which was also due to a highly heterogenous microbial composition of the individual pcp samples indicated by high standard deviations for individual taxacomparable in its extent to the heterogenous group of pcp- patients.
+
+a dominant single speciesusually composes the vast majority of sequences from bal in bacterial pneumonia during chronic or acute lung disease other than bacterial pneumonia a shift towards pro- teobacteria of the gastrointestinal tract including a loss of diversity has been reported 12. the composition of the lung microbiome in pcp patients with presence of proteo- bacteria as second most abundant phylum indicates a shift towards the microbiome of critically ill patients with other diseases although the average abundance of the presence of proteobacteria tends to be lower in pcp patients com- pared with pcp- patients in our study.all patients included in our study received mechanical ventilation.
+
+in this study we evaluated the lung micro- biota in broncho-alveolar lavages bal from patients with pneumocystosis and critically ill patients without pneumocystis pneumonia pcp by sequencing bacterial 16s rrna amplicons in the v3v4 regions.
+
+thirty -four bal samples of pneumocystosis pcp patients treated between 2013 and 2016 were in- cluded in the analysis.
+
+sample collection of pcp patients including direct dna-extraction was performed over a period of 4 years 2013-2016 and pcp- samples from the years 2013 and 2014 were lacking.
+
+we determined the sequence variants that were significantly different dis- tributed between pcp of both periods 2013-2014 vs. 2015-2016 and excluded them from further analyses.
+
+therefore we filtered the merged sequences output of pcp patients calculated the statistically significant se- quence variants by kruskal-wallis one-way analysis of variance by using the groupsignificance.py qiime script with p  0.05 without correction for multiple test- ing.
+
+qiime2 taxa barplot command was used for viewing the taxonomic composition of the samples.alpha and beta-diversity analyses were performed with the q2-diversity plugin in qiime2 at a sampling depth of 1000. one pcp sample was excluded from these analyses due to a sequence frequency of 251. alpha di- versity was calculated by shannon's diversity index ob- served otus pielou's measure of species evenness and faith's phylogenetic diversity.
+
+all pcp patients exhibited lung infiltrates in chest radiography.
+
+in sixbal samples from the pcp group cysts were found by immune fluorescence microscopy.
+
+the patient character- istics of all 65 patients are displayed in table after processing of the demultiplexed fastq files with the dada2 package we excluded amplicon sequence variants significantly different distributed between pcp patients from 2013 to 2014 and 2015-2016 from all samples.
+
+on the genus level the most abundant genera were staphylococcus 13.1 - 23.5 sd for pcp- and 14.5 - 23.2 sd for pcp patients enterococcus 9.5 - 24.5 sd and 14.0 - 29.1 sd streptococ-cus 6.5 - 17.7 sd and 10.2 - 18.0 sd escheri-chia 3.3 - 15.2 sd and 7.0 - 21.0 sd serratia6.1 - 23.3 sd and 0.5 - 2.9 sd lactobacillus4.1 - 8.7 sd and 6.9 - 15.8 sd veillonella1.5 - 4.0 sd and 5.8 - 12.7 sd neisseria 6.1- 16.0 sd and 1.4 - 5.3 sd and prevotella 4.6 - 9.9 sd and 3.2 - 4.5 sd fig.
+
+on class order family and genus level no significant differ- ences corrected for multiple testing were observed between pcp- and pcp patients.
+
+the microbial composition of eachtable 1 characteristics of pcp and pcp- patientspcppcp-age in years mean min-max55 18-8665 31-86 sexmale2123female138diagnosismalignancy1212abfig.
+

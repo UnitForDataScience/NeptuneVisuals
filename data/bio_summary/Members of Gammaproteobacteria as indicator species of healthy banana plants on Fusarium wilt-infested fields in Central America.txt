@@ -1,0 +1,30 @@
+the biggest difference between healthy and foc-infected state was observed for the rhizosphere soil of plants cultivated in costa rica p 0.09 adonis test.however profile clustering network analyses confirmed that individual taxonomic groups were not evenlydistributed in healthy and foc-infected banana plants 2. the gammaproteobacterial communities of plants were more sensitive to the foc infection in costa rica than in nicaragua 2. in both countries more taxa appeared in considerably higher abundances in the healthy state of the plant with the exception of enterobacteriaceae which mostly revealed higher presence in fusarium-infected banana plants especially in those from costa rica.
+
+healthy plants revealed an increase in potentially plant-beneficial pseudomonas and stenotrophomonas while diseased plants showed a preferential occurrence of enterobacteriaceae known for their plant-degrading capacity.significantly higher microbial rhizosphere diversity found in healthy plants could be indicative of pathogen suppression events preventing or minimizing disease expression.
+
+openreceived 25 october 2016accepted 21 february 2017published 27 march 2017members of gammaproteobacteria as indicator species of healthy banana plants on fusarium wilt- infested fields in central americamartina koberl1 miguel dita23 alfonso martinuz3 charles staver4  gabriele berg1culminating in the 1950's bananas the world's most extensive perennial monoculture suffered one of the most devastating disease epidemics in history.
+
+comparative microbiome analyses performed between healthy and diseased gros michel plants on fw-infested farms in nicaragua and costa rica revealed significant shifts in the gammaproteobacterial microbiome.
+
+although little is known about the plant and soil microbiome profiles and potential relationships to fw infestation in banana we hypothesize a substantial response of gammaproteobacteria.in the present study we analyzed the relation of the gammaproteobacterial microbiome of gros michel bananas and fw foc r1 by comparing fw-infested and healthy banana plants under afs in costa rica and nicaragua.
+
+a barcoded 16s rrna gene amplicon sequencing approach based on illumina miseq sequencing of the gammaproteobacterial microbiota associated to the rhizosphere endorhiza pseudostem and leaves of healthy and foc-infected banana plants grown in nicaragua and costa rica yielded in 4473541 gammaproteobacterial quality sequences with a read length 200 nucleotides between 4822 and 111332 quality reads per sample.
+
+no influence of fw infestation on the gam- maproteobacterial diversity of the different microenvironments was observed except the rhizosphere of bananas cultivated in costa rica where healthy plants showed a significantly higher diversity p 0.025 independent samples t-test fig.
+
+the taxonomic composition of the gammaproteobacterial banana microbi- ome inhabiting the individual microenvironments of healthy gros michel plants cultivated in nicaragua and costa rica was analyzed in detail in our previous study comparing different agroforestry conditions.
+
+in the present study encompassing samples from healthy and fw-infested plants nearly all quality sequences could be assigned below the class level.
+
+members of the family pseudoalteromonadaceae were exclusively detected in healthy plants.impact of fusarium wilt on the gammaproteobacterial banana microbiome.
+
+principal coordinate analyses of the gammaproteobacterial communities colonizing the banana plant in its different microenviron- ments were performed in order to compare healthy and foc-infected plants 1. endorhiza and pseudostem samples exhibited similar scatters for both countries with a relatively large overlap.
+
+although the pcoa plots based on weighted unifrac distances indicated slight differences in the gammapro- teobacterial community patterns of healthy and infested plants no significant differences p  0.05 adonis testfigure 1. principal coordinate analysis pcoa plots of the gammaproteobacterial communities inhabiting rhizosphere soil a endorhiza b pseudostem c and leaves d of banana plants infected by fusarium oxysporum f. sp.
+
+cubense foc in comparison to healthy plants.
+
+pcoa biplots are based on weighted unifrac distances of gammaproteobacterial 16 s rrna gene amplicon libraries jackknife-supported by ten replicates.the plots indicate grouping of samples by country separating samples from healthy green and infested red plants whereby different colored symbols point to individual farms.
+
+statistical comparisons of healthy and foc-infected plants based on weighted unifrac distances are shown in the supplementary information table s2.could be calculated table s2.
+

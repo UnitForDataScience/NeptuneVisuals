@@ -1,0 +1,30 @@
+conversely while comparing the shannon weaver index h1 it was found to be higher in ht group in contrast to control group that denoted the bacterial overgrowth in the diseased group.
+
+the bacterial dna samples within each group or individual samples were divided into two clusters based on weighted unifrac metrics depicted in corresponding to samples of ht and normal control group analogous to the pattern of pcr-dgge.gut microbiota population at phyla levelthe gut microbial taxa composed of more than 1-0.5 were focused and composition was assessed on the taxonomic basis at phylum family genus and species level.gut microbial organization at family levelat the family level 83 different families were sequenced among 10 top most families the prevalence of bacteroidaceae enterobacteriaceae and alcaligenaceae were higher in the diseased group as compared to control shown in .
+
+syngene software detected the sums of 278 bands in 29 tracks of ht with an average band of 9.2 - 3.75. a total 96 bands were detected in 12 tracks of the control group with an average of 8.00 - 2.04. stool microbial diversity among patients and normal control group were analyzed by applying nonparametric un- paired t-test to evaluate the h1 shannon weaver diversity index.
+
+taxon tag was ave. 72810.35 in all samples of both ht and control group and the total unique tag count detected in diseased and control group was 12241 and 10457 respectively with ave. 1134.9 in all samples.
+
+in10 top most genera there was raised an abundance of bacteroides escherichia-shigella and parasutterella genera in the diseased group in contrast to control group shown in .
+
+h or c represent hashimoto and control group respectively.dissimilarity at species level between ht and control group.
+
+the statistical ana- lysis of a -diversity nonparametric chao1 algorithm ace and ob- served species was significantly elevated in the diseased group as compared to healthy control while good's coverage was significantly higher in control group.
+
+less in inter- group as compared to intra-group that by previous research findings  demonstrating the dissimilarity of gut microbial com- position in ht patients as compared to control group.
+
+h or c represent hashimoto and control group respectively.actinobacteria showed a raised level in the diseased group as compared to control which is consistent with previous work of physiological stress and gut microbiota .
+
+we observed the declined abundance of prevotella9 and dialister while elevated genera of the diseased group included escherichia-shigella and parasutterella.
+
+h or c represent hashimoto and control group respectively.profiles were computed by using the upgma method based on the dice similarity coefficient band-based.
+
+similarities among the samples were shown through graphical dendrogram b and d. clustering algorithm and upgma arithmetic averages were deployed to estimate unweighted pair group dendrograms .shannon weaver diversity index h1 was estimated with the help of the following equation.shanon-weaver index h1s piinpiexcision of bands and sequencingphysically a sterilized scalpel was used to excise the dominant band of interest from the gel with care.
+
+shigella flexneri in ht patients.real time pcrby applying real time pcr bifidobacterium clostridium leptum bacteroides vulgatus and lactobacillus were quantified the resultant copy number of bifidobacterium and lactobacillus were significantly p  0.05 reduced in the diseased group as compared to healthy subjects.
+
+on the other hand the replica count of bacteroides vulgatus elevated non-significantly and clostridium leptum was lowered non- significantly in the patients while comparing to control group respec- tively.
+
+the sum of the unique tag from the two groups was 22698 that exhibited the whole phylotypes in the current study after deletion oflinkage primers the length of the average sequence was 418 bp.table 3sequencing of pcr genomic amplicons slashed from dgge gel profile and recognition linkingto blast database.table 4qpcr enumeration of different gut bacteria.bacteriahealthy subjectspatientsp valueat phylum level total 13 phyla were sequenced depicted in table s1 among the 10 top most phyla the more phyla abundance of proteobacteria and cyanobacteria and less firmicutes and bacteroidetes in the study group as compared to the normal healthycontrols shown in .
+

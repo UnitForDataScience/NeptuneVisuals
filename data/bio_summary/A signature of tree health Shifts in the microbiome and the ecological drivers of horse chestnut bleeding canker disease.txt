@@ -1,0 +1,30 @@
+for the presenceabsence analysis of either the bacteria or the leaf miner if xi is taken as the linear predictor for tree i the model structure was accordingly of the formxi 14 a th f dlongitudei  latitudeithth f dlog tree diameteri  log tree heighti thth f ddateith th f daltitudeithth f dzitheqn 1i index tree identity a the overall intercept other terms as described by name zi taken to reflect damage by the bacteria if x pertains to the leaf miner and damage by the leaf miner if x per- tains to the bacteria.
+
+this lack of an observed relationship between leaf miner infestation and bleeding canker symptoms was echoed by the finding that leaf miner infestation explained no significant variation in the composition of bark-associated microbiota across the subset of 46 trees for which microbiome sequencing was suc- cessful table 2. by contrast there was both a clear difference in bacterial community composition across asymptomatic and symptomatic bark tissues fig.
+
+leaves were selected at random from the lower branches of each tree and the number of mines per leaf the percentage of leaf damaged by mines and the length of each leaf were recorded.we did not have any a priori expectations about appropriate parametric models of the relationships between bleeding canker and leaf miner presence or damage.
+
+a location of each tree sampled indicating presence or absence of disease symptoms with symptomatic trees represented by red circles presence of leaf miners blue circles co-infection purple circles or absence of either grey circles.b probability of bleeding canker disease across trees of varying height and trunk diameters black lines indicate contours of disease probability which are also reflected in the colours.
+
+furthermore symptoms associated with bleed- ing canker disease were not found to be associated with leaf miner damage and in line with previous observational studies straw  williams 2013 leaf miner damage did not explain significant variation in symptoms associated with bleeding canker.
+
+indeed recent experi- mental evidence suggests necrotic lesion canker size is positively correlated with leaf miner infestation perhaps as a result of sup- pression of key defensive enzymes percival  banks 2014. in this study we leveraged this emerging and potentially interactive disease system to explore the determinants of disease susceptibil- ity across scales.
+
+d probability of leaf miner infestation across trees of varying height and trunk diameter black lines indicate contours of infestation probability which are also shown by the colours.new phytologistusing the same metrics used in the forestry commission's 2007 survey bleeds on the trunk bleeds in the upper branches cracks and splits on the bark and crown dieback each scored 0-3. intensity of leaf miner infestation was also measured for each tree by visual assessment of 15 leaves per tree.
+
+2006. permutational anova tests were run using the 'adonis' function from the vegan package in rusing month leaf miner infection tissue sample type symptomatic or healthy latitude symptom severity and tree dbh as main effects with unifrac distances as a response term with 9999 permutations.resultsspatial distributionoverall our results indicate that the bacterial pathogen is present across the uk while the leaf miner pest has a more restricted dis- tribution figs 1a s3.
+
+2012 but also because of the lack of an observed one-to-one relationship between a particular sign of dysbiosis and a given disease out- come olesen  alm 2016. however a common phenomenon linking dysbiosis in human studies is the observation that disease is often associated with decreased alpha diversity manichanh et al.
+
+2014.the horse chestnut leaf miner c. orhidella causes defoliation ofhippocastanum leaves and has been shown to decrease the reproductive output of trees via both reduced seed weight thal- mann et al.
+
+these associations reflect the biology of the leaf miner including its recent invasion from europe gilbert et al.
+
+thus to determine how the relative abundance of the pathogen is influenced by ecological factors or across space would require sequencing at a finer resolution than offered by 16s rrna.distinguishing 'healthy' microbiomes from those associated with a diseased state is proving to be complex in part because of the great unexplained variation in microbiome composition and diversity across 'healthy' individuals beurackhed et al.
+
+a mixed effect model with tissue type tree age symptom index score leaf miner presence month and latitude as fixed effects with tree id as a random effect found a significant effect of tissue type on observed otu counts a mea- sure of species richness f150  16.1 p  0.01. in addition we found a main effect of latitude f150  9.5 p  0.004 but no effect of dbh f150  0.11 p  0.73 leaf miner infestation f150  0.62 p  0.43 or symptom index f150  2.6 p  0.11on observed otu counts.
+
+2004.unlike leaf miner presence neither spatial location nor alti- tude seemed to explain variance in bleeding canker symptoms table 1 suggesting a more erratic dispersal biology and conse- quently that obligate vectoring of the bacterial agent by the leaf miner is unlikely.
+
+by combining this large-scale data set across multiple biotic and abiotic factors we aimed to uncover the key ecological and community correlates of horse chestnut tree health across space.materials and methodsstudy systemour focal ecological system includes four key players the horse chestnut tree aesculus hippocastanum l. the bacterial pathogen pseudomonas syringae pv aesculi pae the leaf miner pest cameraria ohridella and the bark-associated bacterial microbiota of the tree.
+

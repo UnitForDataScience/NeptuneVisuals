@@ -1,0 +1,30 @@
+2 il-10ra expression was not changed by ptx pretreatment suggesting that butyrate induction of il-10ra is independent of gpr109a.butyrate-induced il-10ra is essential for barrier formationwe next investigated how changes in il-10ra expression as in the case with butyrate levels influenced barrier formation.
+
+a relative il-10ra mrna in t84 cells transduced with lentivirus shrna targeting il-10ra shil-10ra v. shcontrol by qpcr.b il-10ra gene expression by qpcr in t84 cells transduced with il-10ra orf lentivirus lentiorf oeil10-ra versus shcontrol cells data normalized to b-actin.
+
+based on direct evidence of h3k9 acetylation and the use of tsa we concluded that one signaling mechanism for the induction of il-10ra was hdaci a function for which butyrate is well established 19. it is interesting to note that propionate and ace- tate also increased il-10ra mrna which could be due to their ability to inhibit hdacs to a lesser degree although they are far less potent than butyrate as hdacis 44 45. we did not find an induction of il-10ra with hypoxia treatment nor hif stabiliza- tion data not shown.a surprising observation was the absolute dependence of il-10ra expression for epithelial barrier formation.
+
+to generate short hairpin rna shrna-targeting il-10ra and oeil10-ra cell lines lentiviruses encoding shrna-targeting il-10ra or il-10ra open reading frames orfs were used mission trc shrna or ccsb-broad university of colorado functional genomics facility.
+
+these results identify the induction of functional il-10ra by butyrate.butyrate regulates il-10ra expression via stat3 activation and hdac inhibitionwe next examined mechanisms of butyrate induction of il-10ra.
+
+3d 26. these results are supported by a previous analysis that demonstrated increased il-10ra expression from an array investigating the role of war- burg effect on butyrate-mediated colonocyte proliferation gene expression omnibus geo accession number gse 41113 27. together these findings support the hdac inhibitory function of butyrate in induction of il-10ra.recently activation of the butyrate-binding g-protein coupled receptor 109a gpr109a in the colon was found to suppress colonic inflammation and promote differentiation of regulatory t cells and il-10-producing t cells 28. gpr109a is a gigo protein-coupled signaling receptor that is inhibited with per- tussis toxin ptx 29. to determine if g-protein coupling contributes to the induction of il-10ra we pretreated caco-2 and t84 cells with ptx followed by butyrate and measured il-10ra mrna by qpcr.
+
+using human intestinal epithelial cells iecs we discovered that scfas particularly butyrate enhanced iec barrier formation induced il-10ra mrna il-10ra protein and transactivation through activated stat3 and hdac inhibition.
+
+il-10 is produced by iecs and leukocytes and inhibits the secretion of tnf-a and ifn-g 8. the il-10 receptor a subunit il-10ra is expressed on numerous cell types including iecs 9 10. the functional il-10 receptor is comprised of the ligand-binding a subunit il-10ra and a b subunit il-10rb which is shared with other il-10 receptor family members 11. the binding of il-10 to il-10r results in activation of the jak-stat signaling pathway and transactivation of latent transcription factors.
+
+numerous studies have shown that stat3 activation is critical to the ligand's anti- inflammatory activity 12 13. mice deficient in il-10 or il-10ra develop severe colitis and mice conditionally lacking intestinal epithelial il-10ra show increased susceptibility to colitis 14-16. although the host has developed defense mechanisms to counter threats from prokaryotes in the gut bacterial pathogens and com- mensals have also evolved countermeasures to modulate the host intestinal epithelium.
+
+2d p  0.01 with the same exposure and chose to focus on butyrate for ongoing studies.to further characterize the relationship between il-10ra and butyrate we exposed caco-2 and t84 cells to increasing con- centrations of butyrate and examined il-10ra protein by im- munoblot fig.
+
+in this study we analyzed if stat3 a downstream target of il-10ra could regulate il-10ra through feed-forward mecha- nisms similar to il-10 23. t84 cells were treated with butyrate for 18 h followed by il-10 for 1 h before harvest.
+
+3b p  0.05 24. these results indicate that butyrate regulates il-10ra through stat3 activation.additionally butyrate is a potent hdaci 19. in this study we investigated whether butyrate mediates il-10ra expression through hdac inhibition.
+
+t84 cells were transduced with shrna-encoding lentivirus against il-10ra knockdown or il-10ra lentiorf overexpression.
+
+however the molecular details of butyrate actions on epithelial barrier function remain incompletely understood.we confirmed previously published findings that butyrate pro- motes barrier formation 17. this action of butyrate on increasing both the rate and the magnitude of barrier formation was remi- niscent of recent work implicating epithelial il-10ra signaling 16. extensions of these initial findings revealed that butyrate and to a lesser extent propionate prominently induces il-10ra.
+
+third conditional deletion of il-10ra in iecs revealed both increased baseline permeability and a high susceptibility to dss-induced colitis suggesting an important role for il-10ra in barrier function and recovery following insult.
+

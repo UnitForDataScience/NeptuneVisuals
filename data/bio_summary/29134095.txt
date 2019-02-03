@@ -1,0 +1,30 @@
+this apparent taphonomic bias may be a reflection of the harsh alkaline treatment that is an integral part of the parchment production process which might selectively degrade the more loosely packed euchromatin over the tightly bound heterochromatin electronic supplementary material figure s2.a mapdamage2.0  analysis was completed on the filtered host reads recovered from the york gospels to explore dna damage patterns and recovered dna authenticity electronic supplementary material figure s3.
+
+insufficient data were recovered from two samples taken from the fourteenth century additions to the gospels to confidently assign the source species using solely genetic methods however both samples were previously conclusively identified as sheep via ezooms.genetic analysis4 dna sequences recovered from the parchment samples were stringently electronic supplementary material table s3 aligned to the genome of the identified host production species to estimate the proportion of endogenous source species dna retained within the bifolia of the york gospels electronic supplementary material methods.
+
+two further internal groupings are then revealed electronic supplementary material figure s8 one composed of the non-conserved york gospel samples and two borthwick archive samples ba39 and ba74 and a second containing the remaining borthwick archive samples 46.to investigate the relationship between the metagenomes of the york gospels and the borthwick archive samples further stamp  was used to profile a metaphlan2 analysis electronic supplementary material.
+
+158 over 19 of recovered reads were mapped to the human genome electronic supplementary material table s5 this dropped to 16 when filters for mapping quality were applied electronic supplementary material table s5.
+
+the increased prevalence of saccharopolyspora inba39 and ba74 may therefore indicate why these documents cluster with the york gospel samples given 7 the significant presence of this genus on the manuscript electronic supplementary material figure s9b.a final comparison was conducted in stamp welch's t-test between the filtered borthwick archive dataset ba39 and ba74 removed and the non-conserved york gospel samples electronic supplementary material figure s9c highlighting five significantly differentiated taxa between the groups saccharopolyspora pseudonocardia actinopolyspora propionibacterium and staphylococcus.
+
+dry cleaning with pvc erasers is a common and widely used conservation technique that allows the surface of the parchment to be cleaned without causing damage to the object  and we analyse the waste material from this process which would otherwise be discarded.we apply our approach to document for the first time the vast array of biological information contained within a single codex recovering both dna and proteins from the dry eraser waste of skins from the york gospels electronic supplementary material york minster ms. add.
+
+as further studies of geographically and temporally localized animal bone reveal the genetic landscape of medieval cattle we will be in a stronger position to localize these and future parchment objects.sex identification  was attempted for all eight bifolia sampled for dna analysis electronic supplementary material table s2 with high confidence assignments being deduced for five.
+
+given that the dna fragment lengths are also short in these recovered sequences electronic supplementary material figure s4 this result may suggest that different dna degradation processes are active in parchment and bone.sufficient sequence data were recovered from three samples fol.
+
+however the overall dnafragment lengths of the endogenous and exogenous molecules are comparable with a possible slight 5 shift to lower fragment lengths in the endogenous parchment molecules electronic supplementary material figure s4.for two york gospel samples fol.
+
+folio 158 15.3 was the subject of extensive and invasive conservation treatment in the last century and the exogenous dna fragment lengths from this parchment show striking periodicity consistent with histone wrapping  a result that may be indicative of a significant amount of dna degradation electronic supplementary material figure s4.
+
+importantly these skin microbiome signatures are absent in the control sample electronic supplementary material figure s8 suggesting they reflect microbiota colonizing the parchment itself and are not the result of laboratory contamination .
+
+as cattle are slaughtered for parchment production as juveniles electronic supplementary material male calves of lesser reproductive value than females would be hypothesized to be most often selected for this purpose.
+
+with a single modification the use of eraser crumbs ca 150-250 ul in place of cut parchment samples electronic supplementary material.
+
+this analysis resulted in a mean endogenous percentage of 19.3 range 0.7-51.4 over all the samples electronic supplementary material table s3.
+
+these samples were placed onto a reference dataset of modern cattle  in a principal component analysis pcoa electronic supplementary material figure s5ab using the laser2.0 software .
+

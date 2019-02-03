@@ -1,0 +1,30 @@
+42d633- d642.costa m. c. j. a. bessegatto a. a. alfieri j. s. weese j. a. b. filho and a. oba.
+
+we found that 8 and2 functional categories were enriched by avilamycin treatment in the ileal and cecal bacterial communities respectively and one and 3 functional categories wereinfluence of avilamycin on chicken gut microbiota977table 1. summary on the characteristics of ileal and cecal microbial communities of avilamycin-fed chickens.ileumcecumbacterial alpha diversity1ad  cdad  cdbacterial beta diversity2ad  cdnot changedsignificant changes in microbiota between of ad and cd groups3yesnotaxonomy of enriched otu4lactobacillus reuteri clostridiumn  2butyricicoccus acidaminococcaceaeunclassified bacteria n  3taxonomy of reduced otu4lactobacillus crispatus n  1flavonifractor anaerofilumlachnospiraceae bacteroidetes ruminococcaceae clostridiales firmicutes unclassified bacteria n  121bacterial alpha diversity was compared between control-diet cd and avilamycin-diet ad groups based on shannon's and gini-simpson's diversity indices.2bacterial beta diversity was compared between cd and ad groups based on bray-curtis dissimilarity values.3changes in microbiota were evaluated by anosim mrpp adonis and pcoa analyses.4lefse analysis was used to select the otu enriched or reduced in the ad group.decreased in the ileal and cecal microbiota respectively considering only the functional categories of bacterial orthologs whose abundances were significantly differ- ent p  0.05 by at least 3 of the 4 statistical tests figure .
+
+all bacterial sequences from both intesti- nal regions were assigned to 9 phyla figure a. the ileal microbiota were dominated by the phylum firmi- cutes 99.7 0.2 of total reads whereas the cecal mi- crobiota were dominated by firmicutes 49.7 14.1 and bacteroidetes 42.1 15.5. cecal samples shared proteobacteria as a regular component 0.1 in all samples in addition to the 2 dominant phyla.
+
+12611-622.ballou a. l. r. a. ali m. a. mendoza j. c. ellis h. m. hassanw.
+
+5381-420.kaczmarek s. a. a. barri m. hejdysz and a. rutkowski.
+
+heneghan a. nadimpalli n. hubert e. zale y. wang y. huang b. theriault aaron r. dinner mark w. musch ken- neth a. kudsk brian j. prendergast jack a. gilbert eu- gene and b. chang.
+
+951598- 1608.pedroso a. a. j. f. menten m. r. lambais a. m. c. racanicci f.longo and j. o. b. sorbara.
+
+.influence of avilamycin on the taxonomic components of ileal and cecal microbiotato assess the differences induced by avilamycin sup- plementation in the bacterial community members ofthe ileal and cecal microbiota we sorted the otu whose abundance differed significantly between the ad and cd groups figure .
+
+.beta-diversity analysis based on bray-curtis dis- tances between the profiles of non-singleton otu de- fined at a 97 similarity cutoff illustrated that the bacterial communities of the ileum and cecum were clearly distinguished figure a and b. the differ- ence between the cecal and ileal bacterial community compositions was supported by the statistics obtained from anosim r  1 p  0.001 mrpp a  0.49 p  0.001 and adonis r2  0.75 p  0.001 anal- yses.
+
+18117-143.cole j. r. q. wang j. a. fish b. chai d. m. mcgarrell y. sun c. t. brown a. porras-alfaro c. r. kuske and j. m. tiedje.
+
+schueler d. s. stapleton w. zhao e. i. vivas b. s. yan- dell a. t. broman b. hagenbuch a. d. attie and f. e. rey.
+
+92671-683.wellenreiter r. h. d. h. mowrey l. a. stobbs and j. a. d'assonville.
+
+961387-1393.yatsunenko t. f. e. rey m. j. manary i. trehan m. g. dominguez-bello m. contreras m. magris g. hidalgo r. n. baldassano a. p. anokhin a. c. heath b. warner j. reederj.
+
+also were applied in addition to the lefse method.results and discussionbacterial community structures of ileal and cecal microbiotataxonomic compositions of the ileal and cecal bac- terial communities were analyzed at the phylum and genus levels.
+
+.at the genus level lactobacillus was the onlyidentifiable regular member of the ileal microbiota 99.0 1.44 and was more abundant in the ilea than in the ceca p  0.001. cecal samples contained a number of core microbial taxa at the genus level including alistipes bacteroides butyricicoccus fae- calibacterium lactobacillus odoribacter and pseud- oflavonibacter with an abundance of 0.1 in all cecal samples figure c. the dominance of lacto- bacillus observed in the ileal microbiota was consistent with previous suggestions that lactate fermentation by lactobacillus is the main microbial function in the up- per git stanley et al.
+

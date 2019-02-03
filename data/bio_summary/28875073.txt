@@ -1,0 +1,30 @@
+two phyla planctomycetes and nitrospira were only observed in the shallow samples whereas gemmatimonadetes and verrucomicrobia were uniquely observed in deep samples  right panel.the community profile analysis at the genus level revealed from the rarefied analyses revealed a total of 38 different genus-level otus 19 of them were shared between shallow and deep samples while 8 and 11 were exclusively isolated from shallow and deep samples respectively .
+
+the binning of the 173137 high quality reads resulted in 803 operational taxonomic units otus  .nmds ordination based on the relative dissimilarities of the samples bray curtis shows that shallow samples have higher dispersion and are separated from the deep samples by axis 1 .
+
+overall 15 otus were plotted representing the core taxa of these only four otus were shared between all six coral samples with all other being shared between more than three samples .we then proceeded to determine which taxa changed significantly selected otus with p  0.05 between shallow and deep samples by employing a log-likelihood ratio test.
+
+for a further description of the study area please see  and .within this site six a. cervicornis colonies were collected in august of 2015. three of them were collected at a depth of 1.5 m hereafter ''shallow'' samples and three from 11 m depth hereafter ''deep'' samples.
+
+a detailed repository and tutorial with all the necessary intermediary files and scripts to serve as a guide to generatethe plots and perform the analyses used in this publication is available on github .resultsalpha and beta diversity estimates of corals at different depthscoral individuals collected at 1.5 m shallow samples 1 2 and 3 hereafter received more solar radiation compared to those at 11 m deep samples 1 2 and 3 hereafter.
+
+a total of 173137 sequences were used for analysis in which the average - standard deviation of the number of reads was 29135 - 177.4 for the shallow samples and 28578 - 368 for deep samples.
+
+when visualizing the most abundant bacterial taxa associated with each sample biplot indicated that rickettsiales serratia marcescens and lactococcus were most likely to be found in shallow coral samples while prevotella lactobacillus and campylobacterales were more likely associated with the deep samples .
+
+the other dominant phylum in the non-rickettsiales group was firmicutes 18 with the most dominant genus being lactococcus and peptostreptococcaceae mostly in the shallow samples while lactobacillus anaerococcus and bacillus were most dominant in the deep samples.to gauge the diversity of the rickettsiales-like otus we performed a community profile analysis comparing rickettsiales-like otus within shallow and deep samples using a rarefaction of 23472 sequences .
+
+for plotting purposes we selected those 44 otus whose p  0.00001 .differences in the microbiome of a. cervicornis corals inhabiting different depthsonce the microbial taxonomic profiles of a. cervicornis naturally inhabiting different depths was established we next focused our analysis on those otus present in all three samples of one depth and absent in all the samples of the other depth core depth analyses.
+
+this analysis revealed that the taxa shared by all shallow samples were mainly streptococcus haemophillus paucibacter and porphyromonas and in the deep samples the shared taxa were dominated by campylobacterales bradyrhizobium and lactobacillus.
+
+among the taxa that varied significantly between depths we found unclassified rhodobacteraceae lactococcus comamonadaceae and serratia to be more abundant in the shallow samples as compared to deep samples and top panel.
+
+shallow samples were collected from the reef crest and were at least 5-6 m apart from each other.
+
+deep samples were collected from at least 8-10 m apart within the back-reef zone.
+
+samples were stored at -80 c until processing.
+
+sampling was approved by the department of natural and environmental resources of puerto rico permit number drna 2016-ic-175 issued to carlos toledo-hernandez.dna extractioncoral samples were prepared for dna extraction by scraping the surfaces of the tips top 1.5 cm of the branches see  with sterile scalpel blades.
+

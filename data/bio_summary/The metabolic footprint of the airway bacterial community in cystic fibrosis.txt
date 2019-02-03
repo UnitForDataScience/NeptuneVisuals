@@ -1,0 +1,30 @@
+the relative abundances of pseudomonas and staphylo- coccus were significantly enriched in cf samples neis- seria veillonella and leptotrichia were enriched in control samples while both streptococcus and prevotella were similar in cf and control samples fig.
+
+homogeneity of molecular variance homova a nonparametric analog to bartlett's test for homogeneity of variance was used to determine if subjects differed signifi- cantly from each other with respect to overall variability in community structure  analysis of molecular variance amova a non-parametric equivalent to anova was used to test whether the variation between two samples was different from considering the samples as a single population 34. differences in taxonomic distribution of sequences by genus between groups were examined using metastats with q value corrections for false discovery .analysis of paired samplesfor the additional paired analysis on the samples col- lected from two separate clinic visits a separate analysis was done using mothur.
+
+as expected pseudomonas was significantly enriched in cf samples while streptococcus and prevotella were similarly abundant in both cf and control samples.
+
+only modest separation between cf and control samples is noted in both pca plotsdifferent from the control samples fig.
+
+samples from control subjects occupied a similar space on the or- dination plot whereas the samples from cf subjects clustered less well suggesting differences in dominant genera both within this group and compared to con- trol subjects.
+
+examination of an nmds ordination plot sug- gested that the paired samples did not separate into clusters additional file the chao1 index inverse simpson index shannon diversity index and the numbers of genera did not differ between the two sets of samples additional file .
+
+these data sug- gested that the cf microbiome remained stable with reference to taxonomy and diversity during periods of clinical stability.cf samples have lower diversity and richnessas expected the cf samples were found to have signifi- cantly lower alpha diversity and richness when com- pared to controls as measured by the uncensored number of genera richness inverse simpson diversity chao1 richness and shannon diversity indices fig.
+
+corrected awcd had but a loose correlation when compared to uncensored number of genera in cf samples and no correlation in control samples fig.
+
+cf samples then were stratified into pa-dominant and pa-non-dominant based on positive or negative growth of pa cultures in clinical microbiology reports from samples at the time of clinic visits.
+
+while the sample col- lected during visit one was used for the primary analysis in this study samples from both visits were used for an additional paired analysis comparing the state of the microbiome between both clinic visits.sample processingsputum samples were divided for clinical and research use immediately after collection.
+
+16s rrna v4 amplicon sequencing was used to characterize the taxonomy and diversity of the samples.
+
+in an additional paired analysis sputum from seven cf subjects were collected at two separate clinic visits and compared for oxidative activity taxonomy and diversity.results significant differences in oxidative metabolic activity microbial taxonomy and diversity were found between the cf and control sputum samples.
+
+paired analysis of cf samples at separate clinic visits revealed comparable oxidative activity that correlated with similar stability in taxonomy and diversity.conclusions the clpp assay used in this study complements existing sequencing methods to delineate the oxidative metabolic footprint of the cf airway bacterial community.
+
+while the assay has been used in some studies to identify isolated pathogens from human clinical samples - to date only one case report has used clpp technology to examine the func- tion of a microbiome in human subjects with cf in this study we extend the use of clpp to study the oxidative metabolic activity of the airway microbiome in patients with cf.
+
+cf subjects also had higher absolute blood neutrophil counts p  0.005 and percent of neutrophils in the white blood cell count p  0.007 compared to control subjects.table 1 demographics and clinical parameters of study subjectsabsolute blood eosinophil counts and serum ige con- centrations did not differ significantly between the cf and control subjects.the demographic details of the seven cf subjects used in the additional paired analysis are summarized in add- itional file the clinical parameters fvc fev1 blood eosinophil counts serum ige concentrations and blood neutrophil counts did not differ between visits.cf samples have lower oxidative activityoxidative metabolic activity of the airway microbial communities from cf and control subjects was assessed using the biolog gen iii microplate.
+

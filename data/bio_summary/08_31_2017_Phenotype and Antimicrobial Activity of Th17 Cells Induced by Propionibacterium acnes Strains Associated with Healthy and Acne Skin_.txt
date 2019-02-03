@@ -1,0 +1,30 @@
+even though we observed a 1-log reduction in cfus using neat supernatants for some pa-specific clones including pa-1 this was not significant c. we therefore classified the il-10thil-17thil-22thil-26th-secreting clones as protective th17 prth17 and the ifn-gthil-17thil- 22thil-26th-secreting clones as pathogenic th17 path17 because our data corroborate recent evidence that broadly categorize rorthth17 cells into two groups first host- protective th17 cells that express both il-17 and il-10   and second a highly inflammatory population that express il-17 il-22 and ifn-g .we next used electron microscopy to determine whether supernatants from activated prth17 like other antimicrobial peptides kill bacteria by pore formation and membrane disruption.
+
+pa-specific clones expressed both th17- and th1-associated transcriptional factors rorc and tbet in contrast to ph-specific clones that expressed only il-17 b. in addition elisa cytokine profiles indicate that pa-specific clones secreted ifn-g il-17 il-22 and il-26 whereas the ph-specific clones secreted il-10 il-17 il-22 and il-26 and maintained this capacity at later time points cef and supplementary figure s2bee.
+
+briefly cd4thil-17th t-cell clones at 5 x 104 cellswell were seeded into 96-well flat-bottom microplates bd biosciences containing 2.5 x 104 autologous monocytes in t-cell media withwithout p. acnes strains one multiplicity of infection that was originally used as a stimulus to generate the clones.
+
+acnes strains associated with healthy skin q quadrant.that ph and pa strains can modulate the t-cell responses in vitro leading to induction of an il-17ifn-g ifn-gthil- 17thil-22thil-26th andor the il-17il-10 il-10thil-17thil-22thil-26th-producing phenotypes.not all th17 clones secrete molecules that are sufficient to kill p. acnesgiven the importance of il-26 as a cationic amphipathic protein that is able to kill extracellular bacteria via membrane pore formation  we next sought to determine whether th17-derived molecules had microbicidal activity against p. acnes.
+
+therefore to investigate whether pa- and ph-specific clones express and secrete functional mole- cules associated with th17 cells clones underwent cos- timulation by a-cd3a-cd28 antibodies.
+
+we next generated ph and pa strain-specific th17 clones and show that p. acnes strains induce th17 cells of varied phenotype and function that are stable in the presence of il-2 and il-23.
+
+together our data suggest that certain subsets of th17 cells may be involved in providing protection against p. acnes.our observations that certain pa strains induced higher il-17 levels than ph strains suggest that p. acnes strains ex- press different antigenic componentsligands on their surface structure which may be responsible for the differential th17 responses.
+
+pa propionibacterium acnes strains associated with acne ph p. acnes strains associated with healthy skin path17 pathogenic t helper type 17 cell prth17 protective t helper type 17 cell.differentiation program and vice versa it is likely that poly- functional il-17il-10 but not il-17ifn-gesecreting th17 cells may be beneficial in containing p. acnes.
+
+a better mechanistic understanding of how p. acnes strains modulate immune responses can inform future microbiome studies and probiotic designs.in summary we show that p. acnes strains differentially modulate the cd4th t-cell responses leading to the generation of th17 cells that may contribute either to homeostasis or pathogenesis in acne vulgaris.
+
+strains of p. acnes have also been shown to have differences in pathogenic potential and secretome profiles 1division of dermatology david geffen school of medicine at ucla los angeles california usa and 2california nanosystems institute university of california los angeles california usacorrespondence george w. agak division of dermatology university of california los angeles 52-139 chs 10833 le conte ave los angeles california 90095-1782. e-mail abbreviations cfu colony-forming unit pa propionibacterium acnes strains associated with acne path17 pathogenic t helper type 17 cell pbmc peripheral blood mononuclear cell ph propionibacterium acnes strains associated with healthy skin prth17 protective t helper type 17 cell rt ribotype th t helperreceived 7 march 2017 revised 14 july 2017 accepted 26 july 2017 accepted manuscript published online 31 august 2017 corrected proof published online 3 november 2017 because they differ in their ability to induce human b-defensin 2 and to in- fluence cell growth differentiation and viability of skin resident cells and activation of both the innate and adap- tive arms of the immune response  .a role for the adaptive immune response has also been suggested based on the detection of cd4th t cells in the inflammatory infiltrate from early acne lesions  .
+
+although ph- and pa-specific clones expressed similar levels of ll-37 and defb4 only ph-specific clones secreted molecules sufficient to killp.
+
+to specifically address the role of il-23 as a stabilizing factor for the in vitro developed ph- and pa-specific clones we tested the ability of the clones to survive in vitro both in the presence and absence of il-23.
+
+the loss of the th17 phenotype was irreversible because exth17 clones could not regain il-17 protein secretion even though both il-23etreated and un- treated clones showed il23r expression as measured by quantitative pcr see supplementary figure s1b s1c.
+
+how- ever we noted no loss of il-17 secretion in ph- and pa-specific clones that were maintained in the presence of il-23 see supplementary figure s2 online.ph and pa strains induce th17 clones of varied phenotypewe developed a cloning system that uses the whole ph and pa microbes and autologous monocytes as apc.
+
+b specificity of pa and ph specific clones as determined by 3h thymidine incorporation in t-cell proliferation assays.c facs on clones stimulated with a-cd3a-cd28 0.75 mgml and stained with antibodies to il-17 and ifn-g. dee real-time pcr of th17-associated genes analyzed 6 hours after - no or th a-cd3a-cd28 stimulation.
+

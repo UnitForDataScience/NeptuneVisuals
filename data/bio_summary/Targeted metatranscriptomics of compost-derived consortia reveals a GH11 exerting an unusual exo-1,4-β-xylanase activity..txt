@@ -1,0 +1,30 @@
+the column was washed with 4 volumes of wash buffer 20 mm tris-hcl 300 mm nacl 5 mm imidazole 5 vv glycerol 10 mm b-me 1 mm pmsf ph 8.0 and in-column digestion was performed by adding cleavage buffer 20 mm tris- hcl 300 mm nacl 5 vv glycerol 10 mm b-me 1 mm pmsf ph 8.0 and 150 tevprotein measuredbiosciences corporation picataway usa column previ- ously equilibrated with 20 mm tris-hcl 200 mm nacl ph 8.0. the protein purity was determined by sodium dodecyl sulfate-polyacrylamide gel electrophoresis sds-page and coomassie blue staining .sequence analysis and enzyme characterizationmultiple alignment of amino acid sequence was per- formed with clustal omega   .
+
+sugarcane bagasse and microbial biomass were separated from cul- ture supernatant by centrifugation at 3000xg for 5 min at room temperature and used for nucleic acid extraction and biomass analysis.biomass analysisprior analysis sugarcane bagasse obtained from com- posting cultures was washed dried and ground to a fine powder using ball milling tissuelyser ii qiagen hilden germany for 60 s at 30 hz.
+
+residual activ- ity was tested by incubating the enzyme at optimal buffer ph for up to 48 h. aliquots were removed and activity assays at optimal conditions were performed.thermal stability analysis using thermofluorto investigate the effect of ph on thermal stability the protein was mixed with sypro orange invitrogen waltham ma usa a reporter dye that binds nonspe- cifically to hydrophobic regions of the protein.
+
+at least 10 images per sample were acquired from different areas to certify the reproducibility of the results.nucleic acid extraction from sugarcane composting culturesa culture pellet 0.5 g of sugarcane bagasse and micro- bial cells was used for cell lysis and nucleic acid extrac- tion following a protocol modified from griffiths et al.
+
+this enzyme was able to degrade xylooligomers which are known inhibitors to commercially available cellulase cocktails  as well as xylan yielding xylobiose as the only reaction product.resultscompositional and morphological changes in sugarcane bagassethe compositional analysis of sugarcane bagasse col- lected weekly from in vitro composting cultures was investigated using ssnmr.
+
+in contrast five weeks of microbial growth caused a complete loss in the biomass integrity with separation of the fibers and decrease of particles' size.functional and phylogenetic characteristics of the sugarcane bagasse degrading microbial communityto examine the transcriptional responses of the sugar- cane bagasse degrading microbial community we per- formed rna-seq metatranscriptomic analysis on weekly cultures grown for up to 5 weeks.
+
+the program used was as follows flow rate 0.6 mlmin 65 degc isocratic 5 mm h2so4.xylooligosaccharide hydrolysis inhibition2 wv avicel hydrolysis by accellerase 1500 dupont wilmington de usa was performed in 50 mm sodium citrate ph 5.0 to access xylooligosaccharides inhibition at 8 gl and activity improvement by compost21gh11 addition at 0.1 gl.
+
+thermal shift assays see  additional file  figure s4 confirmed the alkaliphilic behavior of the enzyme with the highest thermostability at ph 6 to 9. the optimal tem- perature was assayed at both ph 6.0 where the enzyme was found to maintain  70 maximum activity and10.0.
+
+ground sugarcane bagasse was hydrated for 24 h prior analysis a drop was directly applied to the sample pedes- tal and dried at room temperature for 12 h. after dryinganucleic acid thermo fisher scientific waltham ma usa for 15 min at 37 degc.
+
+therefore in biomass treatment processes where xylo- oligomers accumulate  supplementing cocktails with compost21gh11 will improve enzyme performance.conclusionsin summary our results indicate the ability of sugarcane bagasse adapted microbial community in deconstruct- ing lignocellulosic biomass by removing the cellulose and hemicellulose fractions.
+
+c13 displayed highest activity at ph 6.0 and retained  50 of its activ- ity over a broad ph range ph 3.0-10.0 additional file  figure s3c.
+
+finally this frac- tion was multiplied by the initial percentage of the com- ponent in the raw sugarcane bagasse as reported by lima et al.
+
+based on sugarcane bagasse biomass analysis we showed that the lignin component remained mostly unchanged and was not significantly modified bymicrobial activities.
+
+20147495.mhuantong w charoensawan v kanokratana p tangphatsornruang s champreda v. comparative analysis of sugarcane bagasse metagenome reveals unique and conserved biomass-degrading enzymes among lignocellulolytic microbial communities.
+
+the optimum temperature for enzyme activ- ity was 65 degc at ph 6.0. these conditions were subse- quently applied to test the enzyme specificity.
+

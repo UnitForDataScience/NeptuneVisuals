@@ -1,0 +1,30 @@
+we also integrate the text mining results from the scientific literature as prior knowledge for inferring the microbes graph structure the proposed algorithm microbial prior lasso mplasso turns out to be more accurate than other existing methods on inferring the microbial associations.
+
+p  50n  200 p  100 n  200 and p  100 n  400. as can be seen the mplasso red curve performs better than all other methods except the band4 graph when p  100 n  400. pdfs5 fig.
+
+consequently newopen accesscitation lo c marculescu r 2017 mplasso inferring microbial association networks using prior microbial knowledge.
+
+we propose a novel framework called microbial prior lasso mplasso which inte- grates graph learning algorithm with microbial co-occurrences and associations obtained from scientific literature by using automated text mining.
+
+to the best of knowledge this is the first work to propose this automated pipeline to infer the associations on microbial data show its feasibility and measure performance metrics on both synthetic and real datasets.we have also shown that our proposed algorithm microbial prior lasso mplasso outper- forms all other existing methods when using synthetic data with different graph structures which simulate different levels of sparsity.
+
+only 10 of the edges in prior information are true edges whereas the other 90 are spurious ones mplasso can still achieve up to an aver- age 0.65 in aupr for the case where p  50 n  50 see .since mplasso is able to infer the sign of the edge we also report the performance of differ- ent algorithms on accuracy of edge sign recovery which is defined as the number of correctly inferred edge signs over the total number of inferred edges.
+
+research articlemplasso inferring microbial association networks using prior microbial knowledgechieh lo radu marculescudepartment of electrical and computer engineering carnegie mellon university pittsburgh pennsylvania united states of america abstractdue to the recent advances in high-throughput sequencing technologies it becomes possi- ble to directly analyze microbial communities in human body and environment.
+
+therefore by incorporating the prior information into the penalty matrix p the proposed mplasso can be formulated as followso 14 arg max flog detdoth - trdoc th - rjp 0 oj1gd2thwhere c is the empirical covariance of the microbial data and o is the precision matrix of the estimated associations among microbes.
+
+we compare three different sets of samplesize and otu numbers p  50 n  50 p  50 n  100 and p  100 n  100. as can be seen the red curve mplasso performs better than all other methods in random and hub graphs.pdfs4 fig.
+
+p  50 n  50 p  50 n  100 and p  50 n  200. as can be seen the mplasso red curve performs better than all other methods.pdfs7 fig.
+
+p  100 n  100 p  100 n  200 and p  100 n  400. as can be seen the mplasso red curve performs better than all other methods.pdfs8 fig.
+
+additionally the mplasso accuracy on edge recovery rate is up to 95 on average.third we show that mplasso can robustly and accurately estimate the associations among microbes with a reproducibility up to 90. additionally the associations found with our approach correlate well with the experimental findings reported in the scientific literature.our proposed framework of inferring microbial association network.
+
+the proposed mplasso pipeline is shown in .we assess the performance of mplasso in the presence of prior knowledge by first compar- ing it against other previously proposed methods e.g.
+
+in summary our results show that mplasso works well with many different distributions and graph structures even in the cases with low preci- sion levels and less prior information.hmp datasetemboldened by the success of our proposed algorithm on synthetic data we have applied mplasso to infer the associations among microbes for hmp data.
+
+the covariance matrix is then computed to generate multivariate normal samples d. since the number of samples can be around the same order as the number of otu in real datasets we generate a small number of samples to evaluate the performances of mplasso and other methods.more specifically we evaluate 6 different combinations namely p  50 n  50 100 200 and p  100 n  100 200 400. for each combination we simulate 100 runs and calculate the mean value and standard deviation for all performance metrics.
+

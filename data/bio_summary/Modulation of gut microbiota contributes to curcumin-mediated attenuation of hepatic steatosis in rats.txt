@@ -1,0 +1,16 @@
+pcr amplified templates out of genomic dna using the surrounding conserved region v4-v5 primers with overhang adapters 515fin t t c c c t a c a c g a c g c t c t t c c g a t c t g t g c c a g c m g c c g c g g t a a 926ring a g t t c c t t g g c a c c c g a g a a t t c c a c c g t c a a t t c m t t t g a g t t t. samples wereamplified individually for the 16s 'v4-v5' regions by the phusion high fidelity pcr master mix with hf buffer new england biolabs england.
+
+515fout a a t g a t a c g g c g a c c a c c gagatctaca c -nn nnnn n n-tct tt ccct acacgac g c t c 926rout c a a g c a g a a g a c g g c a t a c g a g a t-n n n n n n n n-g t g a c t g g a g t t c c t t g g c a c c c g a g a.after purification on axygen axyprep dna gel extraction kit axygen scientific union city ca usa the libraries were then normalized according to ftc-3000tm real-time pcr.
+
+modulation of gut microbiota contributes to curcumin-mediated attenuation of hepatic steatosis in ratswenhuan feng hongdong wang pengzi zhang caixia gao junxian tao zhijuan ge dalong zhu yan bidepartment of endocrinology drum tower hospital affiliated to nanjing university medical school no 321 zhongshan road nanjing 210008 people's republic of chinaa r t i c l e i n f o keywords curcumin hepatic steatosis gut microbiotaa b s t r a c t background structural disruption of gut microbiota contributes to the development of non-alcoholic fatty liver disease nafld and modulating the gut microbiota represents a novel strategy for nafld prevention.
+
+b c pcoa score plot based on unweighted b and weighted c unifrac metrics.
+
+b protein levels of occluding zo-1 and b-actin in the ileum of rats n  4. c d ultrastructural observation of the tight junctions in the ileal mucosa transmission electron microscopy 29000 x and the width of the tight junction gap n  5 rats per group.
+
+c protein levels of tlr4 pnf-kb total nf-kb and b-actin in the ileum of rats n  4. d immunohistochemical staining for cd8 t lymphocytes in the lamina propria of the ileal mucosa n  5 rats per group.
+
+there were no significant differences in richness as indicated by rarefaction otu estimates and diversity between the hfd and control groups while curcumin significantly reduced both richness and diversity of thegut microbiota in rats c d.next the overall structural changes of the gut microbiota were analyzed using multivariate analyses including principal component analysis pca and unifrac distance-based principal coordinate analysis pcoa.
+
+c d rarefaction out estimates and shannon index of each group after rarefying the sequencing depth to 1500 for all the samples.
+

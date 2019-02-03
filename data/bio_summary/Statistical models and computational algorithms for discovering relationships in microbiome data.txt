@@ -1,0 +1,30 @@
+the flexibility of a finite mixture model can be thought of as an additional means of accommodating the heterogeneity of the data that cannot simply be attributed to covariates such as through a linear model and can even be superior to them finite mixtures of the dm were developed previously for microbiome analysis to identify subgroups based on abundance similar to previously considered enterotypes 011. parameter and group memberships of finite mixture models are typically solved using the expectation-maximization em algorithm or one of its variants.evolutionary algorithmsan evolutionary algorithm ea is a means of finding optimal solutions to a problem that mimics natural selection whereby organisms possible solutions with better genes properties are favoured over successive generations iterations.
+
+for instance if a1  a2 already in one candidate model at one stage of the ea and the constraint a2  a3 is imposed on the model the constraint a1  a3 must automatically be imposed.
+
+the data used to analyze microbiomes is one of the newest types the result of high-throughput technology and the means to analyze these data is still rapidly evolving.
+
+it has also specifically been favoured in the context of fmms l2 for many reasons including as a model selection criterion f2.4 examplesbefore analyzing our motivating data we illustrate our method using a small simulated data set.
+
+we apply our new method in two real microbiome data sets one from human nasal passages and another from human stool samples.keywords composition constraints dirichlet-multinomial evolutionary algorithms microbiome model selection.1 introductionhuman microbiomes are populations of microscopic organisms which live on or in a person.
+
+this concept of maintaining the sum of the ag values is drawn from the theoretical property of complete neutrality 2. this property states that the removal of one variable in the model will not impact the values of the other parameters in the model and so their relative ratios will remain stable.
+
+we end the manuscript with a discussion of the advantages and limitations of using our method to make inferences from microbiome data in motivating examplesnasal datathe first dataset motivating our methodology is a result of a study from data collected in 2011-2012 from the upper airways of 74 infants 10 children and 33 adults from nasal 69 and oral 49 passages totalling 118 samples.
+
+this analysis employed a variety of methods including discovering differential abundance comparing diversity and other class comparison approaches which is not the goal of our work.twins datathe second motivating data set is well-known in the microbiome data used to analyze stool samples of lean and obese twins and their mothers tgrouped at the genera level the original analysis discovered compositions and phylogenic similarities varied with consanguinity.methodologybefore introducing the proposed method itself we first discuss the necessary technical detail of the back- ground material used to develop the method.
+
+this can alter our impression of the data by suggesting there is more dispersion than may actually exist in the data.
+
+we specifically explain how to interpret results in various forms of a symmetric heatmap with this simple data before using it on our more complicated real data in following sections.m.r.
+
+shaikh and j. beyene discovering relationships in microbiome data  7abthe final parameter is completely unconstrainedfree.the final parameter is constrained to equal the variables in the second block of parameters.figure 1 heatmap representation of two potential solutions sets of constraints corresponding to the simulated data.
+
+in light of the second example if genera were desired to be constrained by compositional similarity a criterion that penalizes free parameters even more can make the algorithm find constraints even among agglomerated data as in the case of the twins data set example.
+
+the original paper imposed prior distributions altering the distribution of the data from a pure dm to one that is compounded with an inverse gamma.
+
+given how much data is agglomerated at the genera level rather than with otus it is understandable that the model is unable to find entire genera that should exist at the same level as other genera.
+
+positive correlations do exist in microbiome data and to an extent our algorithm indirectly finds them but a model for the microbiome that directly permits positive correlations would be more suitable.
+

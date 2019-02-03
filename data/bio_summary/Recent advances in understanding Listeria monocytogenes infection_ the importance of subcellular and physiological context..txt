@@ -1,0 +1,30 @@
+genome-wide sirna screen identifies complementary signaling pathways involved in listeria infection and reveals different actin nucleation mechanisms during listeria cell invasion and actin comet tail formation.
+
+in the near future high-throughput sequencing and bioinformatics of multiple listeria species will yield more insights into the mechanisms by which lm subverts the host during infection in vivo.abbreviationsacta actin assembly-inducing protein arp23 actin-related protein 23 arpc1-5 arp complex proteins 1-5 cdc42 cell division cycle protein 42 e-cad epithelial-cadherin enavaspenabledvasodilator-stimulated phosphoprotein er endoplasmic reticulum gp96 glycoprotein of 96 kda inl internalin isg15 interferon-stimulated gene 15 llo listeriolysin o lm listeria monocytogenes pi3-k phosphoinositide 3-kinase prfa positive regulatory factor a rock rho-associated kinase.competing intereststhe authors declare that they have no competing interests.grant informationdaryl j.v.
+
+recent work has also uncovered the interaction between lm and the host gut microbiota highlighting the importance of considering not only standard laboratory strains of lm but also other strains as a source of discovery of novel virulence factors.subversion of host cell processesdetection of the host cell environment the role of glutathione and l-glutamineupon entry into the host cell lm is known to modify its tran- scriptional program.
+
+it will be interesting to see if there are other strategies used by lm to perturb trafficking between endomembrane components especially in the context of different cell types.in vivo listeria behaviorovercoming physiological barrierslm pathogenesis relies on the ability of the bacterium to traverse several physiological barriers including the intestinal epithelium and the placenta and survive in multiple cell types.passage through the intestinal epithelial barrier is the first port of entry for lm into the host.
+
+altogether these recent studies highlight the fruitful collaboration of studies of f-actin polymerization in cell migration and lm propulsion.in addition to actin comet tails lm also induces actin-based bacterial protrusions at the host cell plasma membrane to drive cell-to-cell spread.
+
+membrane-tethered actin polymerizers are thought to mechani- cally and transiently link actin protrusions to the leading edge plasma membrane of a migratory cell.
+
+whether lm intra- cellular propulsion is driven by individual actin filament elongation or by elasticity of the actin network was unclear.recent cryo-electron tomography of lm-associated actin comet tails both within the celland within cell-free extractshas shed some light on this process.
+
+the canonical view of arp23-mediated branched actin networks of lamellipodia- was challenged by a report implicating very little branched actin but instead many overlapping parallel actin bundles.
+
+2017 399 113-32.  hamon ma ribet d stavru f et al.
+
+2012 208 360-8. toledo-arana a dussurget o nikitas g et al.
+
+2009 4597249 950-6.   camejo a buchrieser c couve e et al.
+
+mraheil ma billion a mohamed w et al.
+
+2017 145 460-70.   leimeister-wachter m haffner c domann e et al.
+
+1990 8721 8336-40.  mengaud j dramsi s gouin e et al.
+
+1991 59 2273-83. johansson j mandin p renzoni a et al.
+

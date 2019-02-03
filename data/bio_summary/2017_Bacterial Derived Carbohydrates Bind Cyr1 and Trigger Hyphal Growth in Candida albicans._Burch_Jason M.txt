@@ -1,0 +1,30 @@
+finally using a surface plasma resonance spr assay previously developed in our lab to characterize the nod2-mdp interaction-we characterize the ability of the lrr domain to bind a subset of bacterial derived carbohydrates.results and discussiona binding assay for a lrr containing protein nod2 and apeptidoglycan fragment was established in our laboratory.infigure 3. spr assay to determine lrr affinity for mtp and daunosamine.
+
+our laboratory has developed a surface plasmon resonance spr assay which has been used to measure the binding of bacterial peptidoglycan fragments to the lrr domain of the innate immune receptor nod2.this assay was modified todetermine the affinity of the lrr from cyr1 to the bacterialderived carbohydrates.
+
+albicans is a dimorphic fungus capable of growing as budding yeast or as filamentous hyphae.it is the hyphae form which allows c. albicans to form biofilmsand become invasive by either endocytosis by the host cell or active penetration of the plasma membrane by the hyphae.
+
+showed that dna topoisomerase inhibitors specifically anthracyclines altered the morphology of c. albicans.the ability of anthracyclines such as doxorubicin 2  to induce c. albicans hyphae formation is intriguing as the compounds are natural products produced by streptomycespeucetius and contain the l-sugar daunosamine 3 .
+
+using this spr assay it was determined that the lrr bound to 4 with a kd of176 - 68 nm and to 3 with a kd of 287 - 88 nm b. these data demonstrate that the lrr is capable of binding diverse carbohydrates with high affinity.
+
+microbiology and molecular biology reviews mmbr 75 2 213-67.rocha c. r. schroppel k. harcus d. marcil a. dignard d. taylor b. n. thomas d. y. whiteway m. and leberer e. 2001 signaling through adenylyl cyclase is essential for hyphal growth andvirulence in the pathogenic fungus candida albicans.
+
+interestingly fragments of the bacterial cellincluding the camp-pka mapk cell cycle arrest and ph pathways regulate the morphogenesis of c. albicans.
+
+daunosamine 3 is the sugar moiety of the stretomyces peucetiusnatural product and chemotherapeutic agent doxorubicin 2.figure 2. bacterial derived carbohydrates elicit hyphae formation in c. albicans.
+
+the development of this assay will allow for the potential identification of compounds that inhibit carbohydrate binding and subsequent hyphae formation ultimately leading to novel therapeutics which can be coadministered with antibiotics or chemotherapeutics to prevent systemic c. albicans infections.for full experimental details regarding materials synthetic protocols protein expression and purification spr procedures and the hyphal activation assay refer to the .synthesis of mtp.
+
+chemotherapy has been linked to an increased risk for systemic candida infections in cancer patients.we hypothesized that the bacterial derived carbohydrate could play a role in this phenotype and sought to establish a robust biochemical assay to probe the importance of the carbohydrate.in this work we expanded the scope of bacterial derived carbohydrates capable of eliciting a hyphae response inc. albicans.
+
+39 3 309-17.morgan j. meltzer m. i. plikaytis b. d. sofair a. n. huie- white s. wilcox s. harrison l. h. seaberg e. c. hajjeh r. a. and teutsch s. m. 2005 excess mortality hospital stay and cost due to candidemia a case-control study using data from population-based candidemia surveillance.
+
+3 4 264-270.schaefer a. k. melnyk j. e. baksh m. m. lazor k. m. finng.
+
+albicans infections increase with fluctuations in microbiome composition especially those caused by antibiotic treat- ment.-cyr1 contains a leucine-rich repeat lrr domain an evolutionary conserved motif common in many innate immune receptors found in both mammals and plants.like many of these receptors cyr1 is able to bind to peptidoglycan fragments specifically muramyl dipeptide mdp 1 .
+
+a preincubation with 4 reduced binding to 3 by 49.5 and 4 by 54.5 b 3 reduced binding to 3 by 43.7 and 4 by 49.5 c 1 reduced binding to 3 by 44.6 and 4 by 41.5 and d 2 reduced binding to 3 by 61.4 and 4 by66.9.denaturerenature purification procedure cyr1's lrr was obtained in large quantity and high purity.with the purified protein in hand an assay was developed todetermine if the compounds capable of inducing hyphae growth  could bind to the lrr domain of cyr1.
+
+1 ml c. albicans cultures were grown overnight at 37 degc in ypd media in the presence of 10 fetal bovine serum fbs or 1 mm of the indicated compound.
+

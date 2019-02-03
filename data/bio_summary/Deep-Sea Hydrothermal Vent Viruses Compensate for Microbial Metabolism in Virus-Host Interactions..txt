@@ -1,0 +1,30 @@
+the viral dna or microbial dna was amplified using the genomiphi v2 dna amplification kit which can amplify whole-genome dna according to the manufacturer's instructions ge healthcare life science buckinghamshire uk.
+
+in this context this unique deep-sea vent ecosystem offers an excellent opportunity to explore whether the existence of phages is beneficial for deep-sea microbial survival and adaptation to environments.to explore whether viruses are beneficial or harmful to their hosts viromes without exogenous dna contamination and microbiomes of three deep-sea hydrothermal vents at different geographical distances were analyzed in this study.
+
+the resulting metagenomic dna was pyrosequenced using illumina hiseq 2000 by shanghai majorbio bio-pharm technology co. ltd.for the metagenomic dna sequencing the dna was checked on a 1 agarose gel purified using the axyprep dna gel extraction kit axygen china and quantified with the quantifluor-st fluorescence quantitative system promega ca usa.
+
+after blast searching of the sequence contigs against the sequences of the nr database it was revealed that lower proportions of sequence contigs were significantly similar to the sequences of viruses in the nr database accounting for 1.18 2.65 and 7.54 in swir-s004 swir-s021 and swir-s024 respectively .table 2 analysis of viral and microbial genomic dataamatched contigs were evaluated based on blastx similarity search e value 10-3 to the sequences deposited in the nonredundant protein database.fig 3 viral and microbial metagenomes in deep-sea hydrothermal vents.
+
+in the pathway through which udp-glucuronate udp-glca was transformed to 4-deoxy- 4-formamido-alpha-l-arabinopyranosyl di-transocta-cis-undecaprenyl phosphate undecaprenyl phosphate alpha-l-ara4fn microorganisms lacked the udp-4- amino-4-deoxy-l-arabinose-oxoglutarate aminotransferase ec 2.6.1.87 to catalyze udp-beta-l-threo-pentapyranos-4-ulose udp-l-ara4o which must be completed by the viral udp-4-amino-4-deoxy-l-arabinose-oxoglutarate aminotransferase ec 2.6.1.87  showing the requirement for viruses in microbial metabolism.taken together these findings showed that the microbial metabolic compensation mediated by viral genes played key roles in the metabolism of microorganisms which was formed during the long-term processes of virus-microorganism interactions in the deep-sea hydrothermal vents.discussionto date the virus-host interactions have been intensively explored.
+
+the results excluded the exogenous dna contamination of viral metag- enomic dna and .
+
+for each sample the viral dna or microbial dna was amplified three times and then the dnas were pooled.
+
+the metabolic compensation of hosts mediated by viruses may help hosts to adapt to extreme environments and may be essential for host survival.keywords deep-sea hydrothermal vent marine virus metabolic compensation microbial metabolismn deep-sea hydrothermal vents the wide chemical and thermal gradients around the vent chimneys provide habitats for microorganisms and benthonic animals .
+
+the analysis revealed that viruses had compensation effects on microbial metabolisms in the deep-sea vent ecosystem.resultsbacterial communities in deep-sea hydrothermal vents.
+
+these results reflected the fact that the viral genes of deep-sea vent viruses might participate in the cell metabolism of their hosts.in the microbiomes similar profiles of microbial functional genes were found in the swir-s004 swir-s021 and swir-s024 samples .
+
+showing that the results of bacterial 16s rrna gene sequencing were reliable and that there was no dna contamination for the dna extraction.
+
+at the same time the results of bacterial 16s rrna gene sequencing revealed that there was no dna contamination for the dna extraction.
+
+microbial dna was extracted from microorganism-containing retentate using the power water dna isolation kit mo bio laboratories usa.
+
+to exclude dna contamination the microbial dna was also extracted from microorganism-containing retentate by the cetyltrimethylammonium bromide ctab method .
+
+the microbial dna extracted with the power water dna isolation kit mo bio laboratories usa or the ctab method was subjected to bacterial 16s rrna gene sequencing.
+

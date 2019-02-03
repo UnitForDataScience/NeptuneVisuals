@@ -1,0 +1,30 @@
+abundant bacterial taxa in the e. prolifera-containing pond were gener- ally absent from the pond without e. prolifera.
+
+interestingly pond water with e. prolifera was dominated by actinomycetales  50 as well as by anaerobic bacteria in the underlying sediment desulfobacterales and desulfuromonadales  20. pond water in which e. pro- lifera-free was dominated by rhodobacterales 58.19 as well as aerobic and facultative anaerobic bacteria in the sediment.
+
+this analysis clustered the microbial communities according to different samples analysis of similarity anosim p  0.001. the clustering results also indicated that groups of pond sediment communities were more similar to each other than to those of the pond water samples.
+
+in addition pond water samples with e. prolifera clustered together and they were separated from inlet water and pond water without e. prolifera indicating that bacterial com- munities in the cpew were affected by e. prolifera.taxonomic compositionall sequences were classified from phylum to genus according to the program qiime using the default setting and 53 different phyla or groups were identified in the samples.
+
+the dominant genera and familiesin the sww were vibrio 8.24 rhodobacteraceae 7.97 lactococcus 3.90 and piscir- ickettsiaceae 3.54. the cpew was characterized by microbacteriaceae 11.87-22.12 candidatus aquiluna 8.64-23.02 and rhodobacteraceae 4.01-14.41. the cpw was dominated by rhodobacteraceae mainly marivita 33.31 rhodobacteraceae 12.34differences in bacterial communities between the source water sww and sws pond water with e. prolifera cpew and cpes and pond water in which e. prolifera-free cpw and cps.
+
+a phylum taxonomic level b order taxonomic level.heatmap showing the phylogenetic distribution between the source water sww and sws pond water with e. prolifera cpew and cpes and pond water in which e. prolifera -free cpw and cps.
+
+these findings indicate that the samples obtained from pond water with e. prolifera had distinctly different species compositions com- pared with the samples from the pond without e. prolifera anova p  0.01.discussionthe purpose of this study was to explore the bacterial diversity from source seawater to the aquaculture environment and especially to compare bacterial communities in environments with or without e. prolifera.
+
+that should be mainly explained the reason that high bacterial diversity of bacterial community were found in e. prolifera ponds.when we consider the dominant individual taxa a distinct difference was observed between the cpe and cp environments anova p  0.01. the most prominent exampleheatmap showing the differences in the distributions of the most abundant bacterial species  1 among the source water sww and sws pond water with e. prolifera cpew and cpes and pond water in which e. prolifera -free cpw and cps.
+
+colored bars represent relative percentages.detrended correspondence analysis dca of bacterial community between the source of water sww and sws pond water with e. prolifera cpew and cpes and pond water in which e. prolifera -free cpw and cps.of this difference is the presence in the cpw and cps of many species that are rare in the cpew and cpes samples .
+
+there were also many dominant bacterial taxa such as roseobacter saprospiraceae thalassobaculum loktanella and lutibacterium in the pond water of cpw which were rare in the cpew pond.
+
+in this study for the first time an illumina sequencing analysis was used to inves- tigate bacterial communities in source water aquaculture ponds with e. prolifera and an aquaculture pond in which e. prolifera -free.
+
+principal coordinate and phylogenic analyses revealed obvious differences among the bacterial communities in the pond water with and without e. prolifera.
+
+the area of each aquaculture pond is approximately 66600 m2.
+
+one pond did not have an occurrence of e. prolifera.
+
+sam- ples included seawater sources seawater sww sediment sws three culture ponds withprolifera water cpew1 cpew2 and cpew3 sediment cpes1 cpes2 and cpes3 and one culture pond in which e. prolifera-free water cpw sediment cps.
+

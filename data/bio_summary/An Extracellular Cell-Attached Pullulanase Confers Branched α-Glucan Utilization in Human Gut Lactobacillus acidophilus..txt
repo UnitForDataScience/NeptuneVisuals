@@ -1,0 +1,30 @@
+the supernatants from the growth experiments were assayed for pullulanase activity using the standard reducing sugar assay described below whereas the cells were washed twice with 0.9 nacl before measurements of pullulanase activity described below.additional growth experiments were performed to compare the growth of l. acidophilus ncfm to those of l. acidophilus dsm-20242 which possesses identical organization of the maltodextrin utilization cluster as l. acidophilus ncfm and is used as a control and l. acidophilus dsm-9126 which possesses a typical maltodextrin utilization locus and lacks the inserted transposase present in both l. acidophilus ncfm and dsm-20242.
+
+b relative cell-associated pullulan- hydrolyzing activity of l. acidophilus ncfm cells harvested after 10 h of growth on the a-glucans shown in panel a. c growth of l. acidophilus ncfm on a total 0.5 wtvol mixture of maltose maltotriose and maltotetraose 111 based on weight.
+
+in short 1.1-ml reaction mixtures containing substrate 0.225 mg ml-1 pullulan for specific activity 0.02 to 1 mg ml-1 pullulan and 0.1 to 10 mg ml-1 potato amylopectin dissolved in 8 volvol dimethyl sulfoxide dmso or 0.225 to 9 mg ml-1 -limit dextrin for kinetic analysis and lapul1314 0.05 to 1.5 nm in assay buffer 20 mm sodium acetate ph 5.0 5 mm cacl2 0.005 triton x-100 were incubated at 37degc and aliquots 200 ul for pullulan and 100 ul for amylopectin and -limit dextrin were removed at five time points 3 6 9 12 and 15 min and added to 500 ul stop solutions 0.4 m sodium carbonate ph 10.7 2.5 mm cuso2 2.5 mm 44-dicarboxy-12-biquinoline 6 mm l-serine.
+
+after each run the column was regenerated with a constant concentration of 0.1 m naoh and 400 mm sodium acetate for 5 min followed by a gradient from 400 mm to 37.5 mm sodium acetate over 5 min and finally an equilibration with 37.5 mm sodium acetate and 0.1 m naoh for 5 min.construction of lba1710 lapul1314 deletion mutant.
+
+the inactivation of the gene encoding this enzyme abolished the cell-attached pullu- lanase activity providing compelling evidence that lapul1314 is the sole extracellular a-glucan-debranching enzyme in l. acidophilus ncfm .the gene encoding lapul1314 resides on a separate locus than that of themaltodextrin utilization cluster .
+
+growth experiments on two additional l. acidophilus strains confirmed that the strain possessing the transposase grew similarly poorly as l. acidophilus ncfm whereas the strain that lacks this insertion displayed better relative growth on maltotriose and maltotetraose see fig.
+
+b cell-associated pullulan-hydrolyzing activity of cells har- vested after 10 h of growth.maltotriose and maltotetraose were also taken up albeit at a considerably lower rate .to verify that the measured cell-associated pullulan-hydrolyzing activity stems from lapul1314 the gene encoding this enzyme was deleted and the l. acidophilus ncfm gene knockout ko strain was grown on glucose or maltose.
+
+abbreviations sp signal peptide cbm41 starch binding module of cbm41 in the cazy database n-dom n-terminal domain of unknown function cbm48 starch binding module of cbm48 gh1314 catalytic module assigned to glycoside hydrolase family 13 subfamily 14 c-dom c-terminal domain conserved in pullulanases of gh13 slap surface layer association protein domain.measured upon growth of l. acidophilus ncfm on a range of oligomeric and polymeric a-glucans whereas this activity is repressed upon growth on glucose.
+
+the prevalence of this domain in the s-layer exoproteome of distinct lactobacilli is also in agreement with this role .in this study we present the functional characterization of the slap domain- containing enzyme from l. acidophilus ncfm that is active on starch-derived dietary glucans.table 2 binding of cyclodextrins to lapul1314 determined by surface plasmon resonancelapul1314 is a cell-attached debranching enzyme that exclusively confers the utilization of branched o-glucans in l. acidophilus.
+
+after washing with 10 column volumes of buffer a including 26 mm imidazole bound protein was eluted with a linear gradient from 3 to 80 buffer b 10 mm hepes ph 7.4 400 mm imidazole 40 glycerol 0.5 m nacl 1 mm cacl2.
+
+-limit dextrin produced from -amylase hydrolysis of amylopectin is used to provide experimental evidence for the preference of lapul1314 for short branches compared to amylopectin.fig 3 a growth of l. acidophilus ncfm on different a-glucans.
+
+maltose was clearly the preferred substrate but bothfig 4 a comparison of the growth of wild-type l. acidophilus ncfm and the lapul1314 gene deletion strain dlba1710 on glucose or maltose.
+
+the starting reaction volume was 300 ul including branched substrate 0.0625 to 1 mm and 0.53 nm lapul1314 in 20 mm sodium acetate ph 5.0 5 mm cacl2 0.005 volvol triton x-100.
+
+the products were quantified based on peak areas from hpaec-pad analysis which was performed as described above.the described standard reducing sugar assay was also used to determine the pullulanase activity in the l. acidophilus culture supernatant and in the washed cell pellets with the following exceptions cells from 1 ml of culture in the late log phase see above were resuspended in 600 ul preheated 37degc pullulan solution 0.4 mg ml-1 pullulan 40 mm sodium acetate ph 5.0 0.5 mm cacl2 0.005 volvol triton x-100 while 100 ul culture supernatant was mixed with 500 ul 0.48-mg ml-1 pullulan solution.
+
+only the debranched maltose mainly and maltotriose are used from -limit dextrin during growth on this substrate which explains the much lower degree of growth per mass of substrate compared to maltose.displayed the highest cell-associated pullulanase activity when maltose was used as a carbon source but maltotriose maltotetraose and -limit dextrin also resulted in a significant pullulanase activity .
+

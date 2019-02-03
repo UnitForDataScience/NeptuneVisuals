@@ -1,0 +1,30 @@
+3.de vargas c. audic s. henry n. decelle j. mahe f. logares r. lara e. berney c. le bescot n. probert i. carmichael m. poulain j. romac s. colin s. aury j.-m. bittner l. chaffron s. dunthorn m. engelen s. flegontova o. guidi l. horak a. jaillon o. lima-mendez g. lukes j. malviya s. morard r. mulot m. scalco e. siano r. vincent f. zingone a. dimier c. picheral m. searson s. kandels-lewis s. coordinators tara oceans acinas s.g. bork p. bowler c. gorsky g. grimsley n. hingamp p. iudicone d. not f. ogata h. pesant s. raes j. sieracki m.e.
+
+full- length sequences of the three standards were confirmed by forward sanger dna sequencing genewiz inc. south plainfield nj.the copy number of each standard copy ml-1 was calculated using the concentration of gel-purified pcr product and amplicon length ac- cording to 1quantitation reagent molecular probes eugene or with lambda dna standards bracketed in the appropriate range step 1.construction of standards for quantitative smrt cell sequencingcopy ml-1ng dna ml-16 022 102314 bp length1 x 109650d1ththree standards spanning the range of expected amplicon sizes for the v7-9 region of 18s ssu rrna genes were constructed from saccharomyces cerevisiae and schizosaccharomyces pombe genomic dna kindly provided by chaoyang xue and nancy walworth rutgers medical school nj.
+
+kuse r. lacroix y. lin s. lundquist p. ma c.c.marks p. maxham m. murphy d. park i. pham t. phillips m. roy j. sebra r. shen g. sorenson j. tomaney a. travers k. trulson m. vieceli j. wegener j. wu d. yang a. zaccarin d. zhao p. zhong f. korlach j. turner s. 2009. fichot e.b.
+
+lyons m. fu y. homer n. sedova m. miao x. reed b. sabina j. feierstein e. schorn m. alanjary m. dimalanta e. dressman d. kasinskas r. sokolsky t. fidanza j.a.
+
+sequencing using the smrt platform is rapid and it only costs 350 to sequence a single smrt cell as of january 2017. use of the new pacific biosciences sequel system that enables seven times more reads for each smrt cell could substantially increase qsmrt coverage.
+
+the pacific biosciences smrt platform has a single pass read error rate of  15 due to misincorporation of incorrect nucleotides  but this is overcome by ligating dna molecules into hairpin structures to form circularized fragments smrt bells enabling multiple pass coverage.
+
+digests were run on a 4 agarose gel at 70 v for 3 h and the fragments containing the v7-9f and v7-9r primer sites were ex- cised 153 and 278 bp gel purified using a qiaquick gel extraction kit18s ssu rdna amplification for smrt cell sequencingprior to the generation of amplicons for smrt cell sequencing dna from each sample was serially diluted and amplified in order to obtain a suitable dilution factor to minimize the effects of pcr inhibitors and en- able optimal amplicon generation step 2a.
+
+quantitative pcr amplifications were per- formed using high fidelity platinum taq dna polymerase in 20 ml reac- tions containing 0.2 mm dntps 3.0 mm mgcl2 1u polymerase 1 x platinum pcr buffer invitrogen grand island ny 0.5 mm of each hplc-purified primer integrated dna technologies coralville ia and 1 ml of dna.
+
+these standards are termed sc s. cerevisiae sp s. pombe and spmod modified s. pombe.
+
+one-way anova analysis in- dicated that there was no significant difference in the proportions of any of the three sequences p  0.40. since the standards varied in length 431-542 bp this contrasts with previous reports of size selectivity during smrt cell sequencing .quantitative smrt sequencing was used to investigate the distribu- tion and dynamics of protistans present in the ross sea during the aus- tral summer of 2011. quantification data for the 30 most numerically dominant otus obtained during this study are given in supplemental data s1.
+
+for example the pacific biosciences single molecule real-time smrt platform has emerged as a unique approach harnessing dna polymerase activity to sequence template molecules enabling long reads at low costs.
+
+.we applied the smrt ccs method to characterize and quantify pro- tistan sequences from environmental samples collected in the ross sea between january-february 2011. following dna extraction environ- mentally-derived 18s rdna molecules were quantified via qpcr.
+
+negative controls were included in all steps.each smrt cell required 1 mg of dna for sequencing.
+
+pcr amplicons of the hypervariable v7-9 region of 18s rdna 454-615 bp were generated from the resulting dna mixture 85 environmental dna 15 standards.
+
+sc 517 bp and sp 542 bp were amplicons generated from 100 ng genomic dna ampli- fied in 50 ml reactions containing 0.8 mm dntps 2.5u redtaq dna po- lymerase sigma-aldrich st. louis mo 1x redtaq reaction buffer and0.75 mm of forward v7-9f and reverse primer v7-9r.
+

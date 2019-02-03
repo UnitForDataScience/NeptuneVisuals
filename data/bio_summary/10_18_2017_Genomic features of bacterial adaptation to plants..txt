@@ -1,0 +1,30 @@
+only genomes that were at least 95 complete and no more than 5 contaminated were used.high-quality gene annotation genomes that passed this filter had at least 90 genome sequence coding for genes with an exception--in thebartonella genus most genomes have coding base percentages below 90.nonredundancy we computed whole-genome average nucleotide identity and alignment fraction values for each pair of genomes.
+
+individual cells were isolated by flow cytometry followed by dna amplification with mda and 16s rdna screening as described previously.dna from isolates and single cells was sequenced on next-generation sequencing platforms mostly using illumina hiseq technology supplementary table 3. sequenced genomic dna was assembled via different assembly methods supplementary table 3. genomes were annotated using the doe-jgi microbial genome annotation pipeline mgap v.4and deposited at the img database urls ena or genbank for public use.data compilation of 3837 isolate genomes and their isolation-site metadata.
+
+2.next we examined whether certain gene categories are enriched or depleted in plant-associated genomes versus in their npa coun- terparts using 26 broad functional gene categories supplementary table 6. we used the phyloglm test fig.
+
+we combined the newly sequenced genomes with existing genomes to create a dataset of 3837 high-quality non- redundant genomes.
+
+finally the remaining genomes were labeled as npa genomes these were iso- lated from diverse sources including humans non-human animals air sediments and aquatic environments.we carried out stringent quality control to remove low-quality or redundant genomes methods.
+
+comparison of the size of plant-associated soil and npa genomes showed that plant-associated andor soil genomes were signifi- cantly larger than npa genomes p  0.05 phyloglm and t-testssupplementary fig.
+
+21 supplementary table 21. the number of preparados was four- fold higher than the number of domains that overlapped repro-ducible npasoil-associated domains and plant domains n  15. the preparados were relatively abundant in genomes of plant- associated bacteroidetes and xanthomonadaceae  0.5 of all domains on average supplementary fig.
+
+all new genomes supplementary table 3 were submitted and are publicly available in at least one of the following databanks see accessions in supplementary table 3imgm genbank ena a dedicated website for the dangl lab the dedicated website contains nucleotide and amino acid fasta files of all datasets used proteindomain annotations cog ko tigrfam pfam metadata phylogenetic trees orthofinder orthogroups orthogroup hidden markov models full enrichment datasets correlation between orthogroups and predicted operons urls.links to different scripts that were used in analysis are included in the urls section.
+
+scoary is the most stringent method of all and yielded the fewest predictions supplementary table 18. future experimental validation should prioritize genes predicted insecretion systems supplementary table 21. notably plant proteins carrying 35 of these domains belonged to the nlr class of intracellu- lar innate immune receptors supplementary fig.
+
+b differences in gene categories between plant-associated and npa genomes top and between root-associated and soil- associated genomes bottom of the same taxon.
+
+datasets at the dangl lab's dedicated website dataset 1 fna--nucleotide fasta files of the 3837 genomes dataset 2 faa--fasta files of all proteins used in the analysis dataset 3 cogkegg orthologypfamtigrfam img annotations of all genes used in analysis dataset 4 metadata of all genomes dataset 5 phylogenetic trees of each of the nine taxa dataset 6 pangenome matrices dataset 7 pangeneome data frames dataset 8 orthofinder orthogroup fasta files dataset 9 mafft msa of all orthogroups dataset 10 hidden markov models of all orthogroups dataset 11 plant-associatednpa and root-asso- ciatedsoil-associated enrichment tables dataset 12 correlation matrices dataset 13 predicted operons dsmz  atcc  ncbi biosample  img  gold  phytozome brassicadb  sm r package  vegan r package  ape r package  fpc r package  phylolmr package  scripts used to compute the orthogroups  scripts used to run the gene enrich- ment tests  scripts used to perform the pcoa .methodsmethods including statements of data availability and any asso- ciated accession codes and references are available at .received 20 january 2017 accepted 10 november 2017published online 18 december 2017referencesley r. e. et al.
+
+.thus we identified thousands of plant-associated and root- associated gene clusters by using five different statistical approaches supplementary table 18 and validated them by means of compu- tational and experimental approaches broadening our understand- ing of the genetic basis of plant-microbe interactions and providing a valuable resource to drive further experimentation.protein domains reproducibly enriched in diverse plant-asso- ciated genomes.
+
+namely a plant-associated gene is a gene derived from a plant-associated gene cluster and a plant-associated genome.the three main approaches were the hypergeometric test hyperg phyloglm and scoary.
+
+genomes of plant-associated bacteria encode more carbohydrate metabolism functions and fewer mobile elements than related non-plant-associated genomes do.
+
+isolate genomes also provide genomic and evolutionary context for individual genes as well as the poten- tial to access genomes of rare organisms that might be missed bymetagenomics because of limited sequencing depth.
+

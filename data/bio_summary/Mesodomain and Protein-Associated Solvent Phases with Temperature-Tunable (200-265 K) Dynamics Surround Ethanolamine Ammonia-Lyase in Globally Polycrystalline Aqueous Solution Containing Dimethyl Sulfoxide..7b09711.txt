@@ -1,0 +1,30 @@
+the lifetime of the rotational diffusion of tempol is governed by the solution viscosity e and the thermal energy kbt in accord with the stokes-einstein expressionwith approximately 0 intercept within the uncertainty in thet  4pea3c3kbt 3where a is the effective hydrodynamic radius of tempol 4pa3 is the effective tempol volume in the spherical particle limit and kb is the boltzmann constant.
+
+here we support this proposal by quantitatively describing the t dependence over 200-265 k of the mobility of solvent phases that surround eal in frozen 1 vv dimethyl sulfoxide dmso solution using the nitroxide aminoxyl electron spin probe tempol and continuous-wave electron paramagnetic resonance cw-epr spectroscopy.the tempol mobility in frozen aqueous eal solution without cosolvent 0 dmso is also determined for comparison.nitroxides are stable radicals that have been used to address the t dependence of solvent mobility including phase transitions and glass formation in aqueous phases.-the rotational motion tumbling of nitroxides is dependent on the medium viscosity and is thus a proxy for solvent mobility.
+
+the comparison of the line shapes in shows that the tumbling motion of tempol in 1 vv added dmso is activated at an 30 k lower temperature relative to the 0 dmso solution.temperature dependence of the tempol rotational correlation times and normalized component weights in frozen aqueous solution with eal 0 dmso.
+
+at t  245 k narrowing of the overall spectral width and widths of individual features indicates the commencement of tempol tumbling motion which results in further line-narrowing at t  245 k.temperature dependence of the tempol epr line shape in frozen aqueous solution with eal 1 vv dmso.
+
+the origin of the two tempol motional components in the presence of eal was addressed by examining the motional properties of tempol in solution-only samples.
+
+three-line tempol epr spectra are observed at all t values in 0 dmso solution in the presence of eal a. in contrast a weak epr signal with unresolved hyperfine features is observed in the absence of eal  which indicates tempol aggregation and consequent paramagnetic broadening and quenching.the excellent match of the epr spectra and two-component epr simulations at each t value   indicates that population of this aggregate species is not significant in the presence of eal.
+
+the protein-vicinal solvent region is rigid at t  230 k region 1. at 230 k detectable tempol mobility signals fluidization of a dominant solvent phase wf  0.8 whereas a smaller tempol component ws  0.2 indicates a solvent phase that remains relatively solid.
+
+a movement of 30 of the total tempol population frompad to mesodomain occurs upon t decrease between 215 and 205 k. this suggests partial exclusion of tempol from the pad upon its solidification which is facilitated by admittance into the still-fluid mesodomain.behavior at t values above the mobility transition in the eal 1 vv dmso system.
+
+these twin effects and thevalues of log tcffsand log tcs indicate that the volumes of themaintenance of two-component tempol mobility suggest that tempol partitions from the protein-vicinal region into a fluidizing yet relatively viscous aqueous solvent region and that the volume of this aqueous region grows with increasing t. over 255-265 k ws achieves a constant value of 0.8. the saturation of ws at t  255 k region iii may correspond to a limit on the spatial range of melting of the ice-crystalline region that surrounds the protein.origin of the mobility components in the eal 1 vv dmso condition.
+
+detectably rigid dark gray or fluid light gray mesodomain and protein-associated domain pad phases are reported by tempol small circles stoichiometry 10 per eal oligomer where tempol is rigid tc 10-7 s dark red or tumbling tc  10-7 s red.
+
+5 the higher 1a value for the slow component suggests that the reference viscosity e0 for the pad is larger than that for the mesodomain assuming the same effective volume of tempol in each phase.conclusionsthe mobility parameters correlation times componentweights obtained from epr spectroscopy and simulations of the tempol spin probe spectra resolve solvent phases that surround the eal protein at low t in the frozen globally polycrystalline aqueous solution and report on the t dependence of their rigid and fluid states.
+
+the x-band continuous-wave epr spin probe approach is sensitive to tempol tumbling motion in the tc range of 10-11 rapid limit to 10-7 s defined as the rigid limit.
+
+the spin probe approach has been used to characterize the mesodomain in frozen aqueous sucroseand aqueous glycerolsolutions in the absence of protein.here we describe a systematic experimental and analytical strategy that leads to identification of solvent components phases around the protein and characterization of their t- dependent motional properties in frozen pure aqueous and 1 vv dmso aqueous solutions in the presence of eal 2-20 mm and trace tempol 0.00034 wv 0.2 mm.
+
+the results identify two tempol mobility components with distinct t dependences in both 0 and 1 vv dmso solutions with eal.
+
+the eal protein from salmonella typhimurium overexpressed in e. coli overexpression system was purified as describedwith modifications.the specific activity of purified eal with aminoethanol as a substrate was 20 mmolminmg t  298 k p  1 atm as determined using the coupled assay with alcohol dehydrogen-ase and nadh.protein samples included 10 mm potassium phosphate buffer ph 7.5 2-20 mm eal protein 20 mm was the standard concentration and 0.2 mm tempol spin probe 4-hydroxy-tempo sigma-aldrich in a final volume of 0.3 ml.
+

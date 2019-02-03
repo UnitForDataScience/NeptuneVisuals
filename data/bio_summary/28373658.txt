@@ -1,0 +1,30 @@
+hfd significantly increased the abundance of clostridia and deltaproteobacteria in both wt and nod2-- mice and also deferribacteres in nod2-- mice whereas lfd significantly increased the abundance of bacteroida bacilli and erysipelotrichia in both wt and nod2-- mice and also candidatus saccharibacteria in wt mice.at other taxonomic levels significant differences in abundance in the following numbers of orders families genera species and otus out of total of 27 47 109 223 and 4425 were detected between wt hfd and nod2-- hfd mice 2 2 9 26 and 548 between wt lfd and nod2-- lfd mice 6 10 20 46 and 601 betweenwt hfd and wt lfd 8 14 24 48 and 535 and between nod2-- hfd and nod2-- lfd mice 6 9 16 35 and 288 respectively ncbi sra accession no.
+
+p  0.05 p  0.001 nod2-- hfd versus wt hfd p  0.05 p  0.001 nod2-- hfd versus nod2-- lfd p  0.05 p  0.001 wt hfd versus wt lfd p  0.05 p  0.001 nod2-- lfd versus wt lfd.
+
+p  0.05p  0.001 nod2-- hfd versus wt hfd p  0.05 p  0.001 nod2-- hfd versus nod2-- lfdp  0.05 wt hfd versus wt lfd and p  0.05 nod2-- lfd versus wt lfd.proteins associated with biosynthesis of glycerolipids.
+
+p  0.05 and p  0.001 nod2-- abx  hfd versus nod2--hfd.structure gene expression cell cycle development neural processes transport cytoskeleton and extracellular matrix were also differentially expressed between nod2-- hfd mice compared with wt hfd mice which sug- gest the development of a complex pathology.obesity is often associated with non-alcoholic fatty liver disease and nod2-- mice on hfd also exhibit similar manifestations including enlarged fatty liver elevated levels of cholesterol and triglycerides in the liver and large lds in the hepatocytes.
+
+but no significant difference in glucose compared with control nod2-- mice on hfd alone.thus our results demonstrate that the gut microbiota in nod2-- hfd mice is required for the development of diet-dependent obesity steatosis and hyperlipidemia in nod2-- mice and that long-term treatment with broad-spectrum antibiotics abolishes weight gain and several aspects of metabolic dysfunction.intestinal microbiota from nod2-- mice on high fat diet increases sensitivity to obesity.
+
+wt hfd mice had significantly increased abundance of epsilonproteobacteria compared with nod2-- hfd mice and nod2-- hfd mice had significantly increased abundance of deferribacteres compared with wt hfd mice.
+
+srp076031.either nod2-- hfd mice or wt hfd mice and also by weekly gavaging with microbiota from either nod2-- hfd mice or wt hfd mice.
+
+p  0.05 and p  0.001 nod2-- abx  hfd versus nod2-- hfd.figure 7. intestinal microbiota from nod2-- mice on hfd increases susceptibility of germ-free mice to hfd-induced obesity and metabolic dysfunction.
+
+the effect of nod2 deletion on hfd-induced obesity is strain-dependent as nod2-- and wt c57bl6 mice on hfd gain similar weight but nod2-- c57bl6 mice exhibit more severe insulin resist- ancethan nod2-- balbc mice.
+
+these data indicate that the larger lds in nod2-- hfd mice compared with wt hfd mice are accompa- nied by changes in lipid metabolizing enzymes and in vesicle trafficking proteins.nod2-- mice on hfd had enlarged adipocytes with significantly larger area than wt hfd mice fig.
+
+thus our results demonstrate that nod2-- hfd mice develop hyperlipidemia hyperglycemia and glucose intolerance which are hallmark manifestations of metabolic syndrome in humans.to determine any differences in the total energy extracted from food between nod2-- hfd mice and wt hfd mice we measured the total calories present in the stool samples of these mice.
+
+nod2-- hfd mice compared with wt hfd mice had significantly higher levels of abhd5 agpat2 gpam and gpd2 but decreased levels of gpat4figure 1. nod2-- mice on hfd become obese and develop hyperlipidemia hyperglycemia and glucose intolerance.
+
+the fold ratio for individual nod2-- hfd mice to the average of wt hfd mice were computed lanes 1 to 5 with the average of the fold for all nod2-- hfd mice.
+
+the fold ratio for individual nod2-- hfd mice to the average of wt hfd mice was computed and is shown lanes 1 to 6 with the average of the fold for all nod2-- hfd mice.genes that had a fold change of 2 or 0.5 -2 and p  0.05 with 5 fdr are included in the heatmap.
+
+both shannon diversity indices h and shannon equitability indices eh reflecting microbiome evenness were significantly higher for the species in nod2-- hfd than in wt hfd mice and for both the species and otus in wt lfd than in nod2-- lfd mice and also for both the species and otus in wt lfd than in wt hfd mice supplementary fig.
+

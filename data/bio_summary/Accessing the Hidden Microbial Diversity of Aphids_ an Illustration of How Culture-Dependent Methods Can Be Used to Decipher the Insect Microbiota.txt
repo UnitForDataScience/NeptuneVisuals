@@ -1,0 +1,30 @@
+total dna of the isolated bacterial and fungal strains was extracted from biomass grown at 20 degc for 2 to 5 days on 868 agar plates.identification of isolatesin order to identify the isolates and to discriminate between similar isolates a multilocus gene sequencing approach was attempted consisting in amplifying and sequencing fragments of the 16s ribosomal rna rrna gyrb and reca genes for the bacterial isolates and the nearly complete 18s rrna gene and the internal transcribed spacer its region for the fungal isolates.
+
+the identification at the genus level was determined based on sequencing the its region using universal primers for ascomycota isolates and basidiomycete-specific primers for the basidiomycota isolates table s3.after identification the 68 bacterial isolates were assigned to 24 bacterial genera belonging to three different phyla i.e.
+
+the identification of our isolates was carried out at the genus level.diagnostic pcrfor the isolates identified as potentially staphylococcus saprophyticus or staphylococcus xylosus based on the 16s rrna sequencing a diagnostic pcr was performed in order to discriminate between the two species.
+
+based on initial microscopic observations the candidate iso- lates included both bacterial 68 isolates and fungal six isolates.all bacterial isolates were initially identified at the genus level by sequencing a 570-590-bp fragment of the 16s rrna gene spanning the v3-v5 hypervariable regions table s2.
+
+we tried to improve the initial results by sequencing the nearly complete gyrb gene from a few gammaproteobacterial isolates and a 212-bp fragment of the reca gene from 36 isolates but no additional resolution was obtained at the species level.
+
+the obtained pcr products were further purified using the gfx pcr dna and gel band kit ge healthcare buckinghamshire uk according to the manufacturer's indications and sequenced at the giga center at the university of liege using the big dye v3.1 kitand an abi 3730 dna analyzer applied biosystemslife technologies carlsbad ca usa.for all bacterial isolates the nearly complete 16s rrna gene was pcr amplified using the universal primers 16sp0 and 16sp6.
+
+those for which a 16s rrna gene sequence length higher than 1000 bp is provided in table s3 the nearly complete 16s rrna gene was sequenced using the additional primers f1 f2 f3 f4 r1 r2 r3 and r4 as well as the primers 16sp0 and 16sp6 used for the pcr amplification.in addition to the 16s rrna gene a fragment of approximately 950 bp of the gyrb gene of some gammaproteobacterial isolates i.e.
+
+artichoke a4.1 was amplified using primers gyr-320 and rgyr-1260 and a 212-bp fragment of the reca gene was amplified from 36 bacterial isolates using primers recaf and recar.
+
+the same pcr primers were then used for sequencing the amplified fragments.for all fungal isolates the nearly complete 18s rrna gene was amplified with primers pria and prib and using the same pcr program as for the 16s rrna amplification except that 30 pcr cycles were performed instead of 26. the 18s rrna genes were then sequenced using the pcr primers and primers sr2 sr7 sr7r and sr10r.
+
+in addition to the 18s rrna gene the its region was amplified with the universal primers its1 and its4 for the ascomycota iso- lates and with specific primers its1-f and its4-b for the basidiomycota isolates.
+
+the pcr products were resolved by elec- trophoresis on 1 wv agarose gels stained with 1 mgml ethidium bromide.phylogenetic treesthe 16s and 18s rrna gene sequeences obtained here for the bacterial and fungal isolates were optimally aligned with dnaman version 7 lynnon corp. quebec canada using clustalw .
+
+1 phylogenetic relationships between the bacterial isolates obtained in this study based on the 16s rrna gene sequences corresponding to the v3-v5 hypervariable regions.
+
+but in order to verify whether that fragment provided enough information for identification the nearly complete 16s rrna gene of 11 isolates i.e.
+
+only two isolates could not be well identified at the genus level isolate gossypii a4 pantoeakluyveraenterobacter and isolate aspa8.2  salinibacterium  galbitalea  homoserinimonas  table s3.
+
+furthermore a few isolates ap5a-a2.1 ap5a-a2.2 agosa2.2 agosa6.1 and agosa10.1 which could belong to the genus rosenbergiella were broadly identified as enterobacteriaceae bacterium due to the high similarity with poorly identified microorganisms isolated from other insects and organisms table s3 fig.
+

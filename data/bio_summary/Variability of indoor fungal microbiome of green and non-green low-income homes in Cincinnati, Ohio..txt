@@ -1,0 +1,30 @@
+each sample was included in six comparisonsa comparison between all green and all non-green samplesa comparison between all baseline samples and all 12-month samplesa set of comparisons separated by particular sample type air bed or floor to compare green and non-green samplesa set of comparisons separated by particular sample type air bed or floor to compare baseline and 12-month samplesa set of comparisons broken down by sample type and time point for example baseline air samples comparing green and non-greena set of comparisons by particular sample type particular renova- tion status for example green bed samples for baseline vs. 12- month.a bonferroni correction was applied to a p-value of 0.05 resulting in a significance level set at p  0.008.to explore differential abundance in the taxa between the housing environments the linear discriminant analysis effect size estimator lefse software was used .
+
+ms-f60 atlanta ga usa.h i g h l i g h t sno difference was found in the mycobiome between green and non- green buildings.mycobiomes obtained in each home 12 months apart differed.largest differences were observed in mycobiomes from air floor and bed samples.g r a p h i c a l a b s t r a c ta r t i c l ei n f o article historyreceived 9 march 2017received in revised form 26 july 2017accepted 31 july 2017available online 10 august 2017 editor d. barcelokeywords mycobiome occupancy air samplingdust sampling sequencinga b s t r a c t green housing is designed to use low-impact materials increase energy efficiency and improve occupant health.
+
+both euclidean and pearson distance measures were used generating similar results.finally the jaccard distance was calculated to assess how much the composition of each sample type in each home changed from baseline to 12-months in green versus non-green homes.resultspost quality trimming there were over 2.3 million fungal reads from air samples approximately 1.25 million from green samples and 1.1 million from non-green samples over 1.2 million fungal sequences from bed dust samples 521826 from green samples and 726690 from non-green samples and over 7.7 million sequences from floor samples approximately 4 million from green samples and 3.7 million from non-green samples.principal component analysis pca and hierarchical clustering were performed in order to assess clustering and potential separation of samples of different housing type e.g.
+
+the few studies of fungal taxa within homes have mostly investigated swabbed surfaces vacuumed floor dust or indoor air using either gravity settled air samples or portable air samplers  .
+
+penicillium sinulosum was more frequent in air samples collected in green than in non-green at baseline and in air samples collected in non-green buildings at 12 months than at baseline.
+
+to the best oftable 1 summary of jaccard distance analysis comparing air bed and floor dust samples collected at baseline and 12-months post-renovation from green and non-green homes.sample typerenovation statusmean jaccard valuep-valueour knowledge no prior studies compared bed samples to air and floor samples using next generation sequencing.
+
+this resulted in a chance corrected within-group agreement of 0.084 and p-value of 0.001 indicating that the beta diver- sity was significantly different among the three sample types.furthermore shannon's diversity index showed samples collectedfrom air to have the lowest diversity in taxa followed by floor and bed samples a. similarly the chao 1 richness index showed samples collected from air to have the least amount of richness in taxa followed by bed and floor samples b. there was no difference in diversity or richness between green and non-green units or between the baseline and 12-month samples fig.
+
+dust sam- ples represent longer term average than air samples  and therefore are not expected to follow the variation in the outdoor mycobiome as readily as air samples.additionally bed samples had a higher richness of taxa in non-green than green homes.
+
+for example trametopsis cervina wood rotting fungus was more frequently present in air samples collected in green than in non-green homes at baseline and aspergillus unguis was more often present in floor samples collected from green than in non-green homes at 12 months.
+
+the bed samples were not sieved because it was homogeneous throughout the surface of a bed and made of small fine particles that would typically go through a sieve.the number of air and bed samples included in the analysis was not the same as the floor samples because 12 of the air samples failed ei- ther the filter was damaged or the flow rate decreased n 10 and 57 of the beds did not contain sufficient amounts of dust for analysis.
+
+the following taxa were found among the ten most abundant in two of the three sample types clavispora in air and floor dust penicillium in air and bed dust and cryptococcus eurotium and fusarium in bed and floor dust.
+
+the highest jaccard dis- tance values were observed for air samples indicating that fungal com- position changed more in air samples than the bed or floor samples between baseline and 12-months.
+
+large variation of the bacterial communities in indoor air within one year has recently been reported  supporting the conclusion that air sampling in multiple time points is needed to characterize microbial communities in indoor air.many of the fungal taxa that we found alternaria aspergillus cryp- tococcus eurotium fusarium penicillium rhodotorula have been fre- quently reported in studies that used conventional culture or microscopy methods as well as in studies that employed next genera- tion sequencing  .
+
+in the current study the mycobiome in air bed dust and floor dust was compared between green study site and non-green control site low-income homes in cincinnati ohio.
+
+here we characterize and compare the mycobiomes fungal microbiomes of indoor air bed dust and floor dust between green and non-green homes in cincinnati ohio.
+

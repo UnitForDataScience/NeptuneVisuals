@@ -1,0 +1,30 @@
+most proteins of bacterial and eukaryotic pathogens are not accessible to bind to host proteins but some of their proteins either bind to host surface receptors  or enter the host cell and interact with host cytoplasmic proteins.
+
+molecular mimicry follows the principle suggested over two decades ago that proteins with dif- ferent global structures can interact in similar ways -.interface mimicry is frequently observed within intra- - and inter-species    intra-species interface mimicry distinct proteins from the same species having the samesimilar interfaces inter-species interface mimicry proteins from different species hijack the same interface architectures.
+
+there are also bacte- rial acetyltransferases vopa of vibrio parahaemolyticus  yopjyopp of yersinia  avra of salmonella typhimurium  kinases ospg of shigella  nleh1 and nleh2 ofcoli  phosphatases ptpa of mycobacterium tuberculosis  ubiquitin ligases ipah4.5 of shigella  deubiquitylases ssel of salmonella typhimurium  and many more that inhibit either mapk nf-kb or both pathways.since the traf3-dependent path gives rise to anti-viral immune responses several viral proteins such as m  and plpro  proteins of sars coronavirus and gn of ny-1 hanta- virus   inhibit this protein to limit ifn production .here we listed only a couple of microbial proteins targeting tlr pathway as examples.
+
+2011 1149.pmid pubmed central pmcid pmcpmc3269379.hagai t azia a babu mm andino r. use of host-like peptide motifs in viral proteins is a prevalent strategy in host-virus interactions.
+
+for instance bacterial tir-containing proteins such as tlpa of salmonella  tirs of staphylo- coccus aureus  tcpc of e. coli  and tcpb of brucella melitensis  compete with endogenous tir-containing proteins and interfere with the assembly of the tir-domain sig- nalosome and prevent downstream signaling.
+
+since these microbial proteins do not enzymati- cally modify the endogenous proteins elucidation of their inhibition mechanism requires structural information.
+
+structures can detail which endogenous host ppis are disrupted by the hmis possible consequences of muta- tions on either host proteins or pathogenic proteins and whether variants of a virulence factor in different strains of the same species have distinct hmis.
+
+hub and bottleneck proteins at the crossroads of several host pathways were suggested to be the major targets of viral and bacterial proteins   and interface mimics allow transient interactions with the hub .
+
+a high-resolution metaorganism network where grey nodes represent host proteins red nodes microbial proteins black edges host ppis and red edges hmis.
+
+2016 72126-35. pmid pubmed central pmcid pmcpmc4856449.kahn ra fu h roy cr.
+
+2014 23 6518-26. pmid pubmed central pmcid pmcpmc4009622.thaiss ca levy m itav s elinav e. integration of innate immune signaling.
+
+pmid pubmed central pmcid pmcpmc4337569.hube b. from commensal to pathogen stage- and tissue-specific gene expression of candida albi- cans.
+
+2015 6235. pmid pubmed central pmcid pmcpmc4391036.guven-maiorov e tsai cj nussinov r. pathogen mimicry of host protein-protein interfaces modu- lates immunity.
+
+2015 7113-38.pmid pubmed central pmcid pmcpmc4339634.finlay bb mcfadden g. anti-immunology evasion of the host immune system by bacterial and viral pathogens.
+
+2000 6895321-8. pmid  pubmed central pmcid pmcpmc101795.franzosa ea xia y. structural principles within the human-virus protein-protein interaction network.
+

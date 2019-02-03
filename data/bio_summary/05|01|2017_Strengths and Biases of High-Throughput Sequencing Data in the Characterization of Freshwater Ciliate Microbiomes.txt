@@ -1,0 +1,30 @@
+one way to better evaluate the significance of hts data is to directly compare them with sur- veys performed on the same samples using traditional morpho- logical methods this has been rarely done because the time and taxonomic skills required are considerable  -.in this paper we compare illumina sequencing data on ciliate communities with a morphological analysis performed on the same samples .
+
+all corresponding outputs from other pipelines are reported in online resource 3.number and abundance of ciliate otusthe number of ciliate contigs in each sample varied up to almost sixfold 5.7-31.0 x 104 while the number of otus was more consistent 115-235 and the two measures did not correlate spearman's rs  0.08. fully saturated rarefaction curves online resource 4 provide strong evidence that an increased sequencing coverage would not have pro- duced additional otus.the number of abundant otus those including 1 or more of the contigs was 3-12 times smaller than the number of rare otus those including 0.1 or less of the contigs but abundant otus still accounted for the majority of contigs 64.3-87.9.taxonomyotu number and abundance for each ciliate class are shown in fig.
+
+b. nmds calculated on morphological presence absence data failed to cluster samples according to their origin online resource 7 as did morphology-based statistical anal- yses performed previously on more samples from the investi- gated area .discussionprotocolsequencing depth seems not to be an important factor affect- ing our results and the molecular diversity contained in se- quenced libraries is fully covered.
+
+observed similar problems in a comparative study on diatoms but the incongruence did not extend to the bdiatom index which was consistent when calculated from morphological and molecular data.final remarks on biogeographyin the morphological survey on these and other samples from the same geographic area  we concluded that no clear biogeographic pattern could be inferred citing as a possible explanation that microhabitat rather than the entire ecosys- tem has a larger influence on ciliate communities.
+
+j eukaryot microbiol 61404-409medinger r nolte v pandey rv 2010 diversity in a hidden world potential and limitation of next-generation sequencing for surveys of molecular diversity of eukaryotic microorganisms.
+
+isme j 8854- 866del campo j mallo d massana r de vargas c richards ta ruiz-trillo i 2015 diversity and distribution of unicellular opisthokonts along the european coast analysed using high- throughput sequencing.
+
+nucleic acids res 321363-1371dunthorn m klier j bunge j stoeck t 2012 comparing the hyper-variable v4 and v9 regions of the small subunit rdna for assessment of ciliate environmental diversity.
+
+microb ecol 2017 73865-875 doi 10.1007s00248-016-0912-8strengths and biases of high-throughput sequencing data in the characterization of freshwater ciliate microbiomesvittorio boscaro12  alessia rossi 1  claudia vannini 1  franco verni1 sergei i. fokin13  giulio petroni 1received 30 july 2016  accepted 5 december 2016  published online 28 december 2016 springer sciencebusiness media new york 2016abstract molecular surveys of eukaryotic microbial commu- nities employing high-throughput sequencing hts tech- niques are rapidly supplanting traditional morphological ap- proaches due to their larger data output and reduced bench work time.
+
+about 15 ml of the same samples used for morphological analyses were fixed in 70 ethanol immediately after collec- tion and stored at -20 degc.dna extraction and illumina library preparationfixed samples were centrifuged at 5000g for 10 min in order to collect sediment and organic material at the bottom of falcon tubes and discard the ethanol.
+
+the classification and terminology of lynn  was employed.comparison between morphological and molecular otusin the previously performed morphological survey on the same samples  otus were defined within each sample as morphotypes distinguishable in vivo and abundances were only qualitatively expressed.
+
+here we directly compare morphological and illumina data obtained from the same samples in an effort to characterize ciliate faunas from sediments in freshwater envi- ronments.
+
+there is no correlation between the number of ciliate taxa estimated by the two methods in each sample spearman's rs  -0.12. the difference is not only due to the ability of hts data to distinguish among similarmorphospecies in most samples the molecular datasets contain entire classes that were not detected in the morphological sur- vey.
+
+indeed most ciliate classes were reported everywhere by the molecular analysis making samples appear more homoge- neous at this taxonomic rank online resource 6. additionally taxa detected by the morphological observation did not neces- sarily correspond to the most abundant hts otus in the same samples.discrepancies between the two approaches are strongly influenced by taxonomy.
+
+in particular the two bstrict pipelines do not significantly differ in the final numbers of ciliate contigs and otus but only if the bnoise removal step is performed online resource 3. even when otu rich- ness differs among pipelines the relative quantities and statistical patterns presented in the next sections exhibit hardly any discrepancy within ciliates.
+
+samples collected in spring are labeled as bb samples col- lected in autumn are labeled as bc table .
+

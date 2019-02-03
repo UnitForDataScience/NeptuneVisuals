@@ -1,0 +1,30 @@
+when comparing the two sets of sequences we found that the lowest value of the pairwise similarities of the groel gene is 79.1 b. magnum and b. tsurumiense and the average pairwise similarities value is 86.3 whereas the lowest value of the pairwise similarities of the 16s rrna gene is 90.9 b. magnum and b. crudilactis and the average pairwise similarities value is 93.8. thus the groel gene provids higher resolution power than that provided by the 16s rrna gene.
+
+lactis bb12 b. bifidum ccfm641 b. breve ccfm623 b. dentium fjsnt63m4 b. longum subsp.
+
+lactis 11 b. bifidum 12 b. breve 13 b. dentium 14 b. longum subsp.
+
+using the regression shown in figure  we found that the variation trend of the average pairwise similarities values were similar between the groel and 16s rrna genes.a atcc american type culture collection dsm deutsche sammlung von mikroorganismen und zellkulturen jcm japanese collection of microorganisms lmg laboratorium voor microbiologie university of ghent.figure 1. association between the degree of sequence identity of 16s rdna and the groel gene for pairs of genomes assigned to the same species.phylogenetic analysis of the partial groel genethe study determined the selected partial sequences of the groel gene and v3-v4 region of the 16s rrna gene of 120 bifidobacterial strains from 54 species subspecies table s1.
+
+m marker 1 a. odontolyticus 2 b. uniformis 3 e. coli 4 e. faecalis 5 l. acidophilus 6 l. plantarum 7 r. dentocariosa 8 b. adolescentis 9 b. animalis subsp.
+
+to identify bifidobacterium species a region of 487 or 496 base pairs bp located at positions 1066 to 1552 b. animalis or 1561 b. breve of the complete groel gene of ca.
+
+the results by blast revealed that the lowest value of the pairwise similarities of the partial groel gene is 74.9 b. commune r-52791 and b. animalis subsp.
+
+however the phylogenetic dendrogram delineated in this study showed that b. catenulatum and b. pseudocatenulatum could be easily distinguished because of the 93.9 nucleotide sequence similarity between the two organisms in the selected region of the groel gene.
+
+according to the multiple sequence alignment method used in the study we selected a fragment of about 490 bp for pcr amplification with the designed degenerate primers and the selected partial groel nucleotide sequence identities among different bifidobacterium species ranged from 74.3 to 96.7 mean 85.0. in addition the phylogenetic tree depicted using the selected region of the groel gene or even complete groel gene nucleotide sequences about 1600 bp of bifidobacterium species  was similar to the one based on the 16s rrna gene sequences .
+
+maybe groel gene combined with more genes like 16s rrna rpob and clpc are good in differentiating these different bifidobacterial species with a high similarity of groel similarity values .conclusionsin conclusion a bifidobacterium-specific primer pair that targets a hypervariable region of about 490 bp within the groel gene can specifically differentiate bifidobacterium species from bacterial species and the lod of the novel designed primer set based on the miseq illumina sequencing platform was 104 cfuml.
+
+to test the robustness of the novel designed primer set we analyzed bifidobacterium species in human and rat fecal samples using the designed primer set on the basis of the miseq illumina sequencing platform.materials and methodsbacterial strains culture media and dna extractionthe bifidobacterial strains used in the study were as follows b. adolescentis ccfm626 b. animalis subsp.
+
+longum ccfm642 b. pseudocatenulatum ccfm749 and b. pseudolongum fjswx2m9.
+
+the total bifidobacteria and the main bifidobacteria of b. pseudocatenulatum and b. longum subsp.
+
+b. pseudocatenulatum ccfm749 and b. longum subsp.
+
+longum 16 b. pseudocatenulatum 17 b. pseudolongum c control.to evaluate the accuracy and sensitivity of the novel designed primer set we developed artificial samples consisting of known dna amounts of different bifidobacterial species.
+

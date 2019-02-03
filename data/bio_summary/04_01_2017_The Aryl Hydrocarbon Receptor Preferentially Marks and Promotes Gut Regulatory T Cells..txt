@@ -1,0 +1,30 @@
+the results were displayed as relative expression values normalized to b-actin.t cell-mediated transfer model of colitisnaive 4x105 cd4cd25-cd45rbhigh cells from the spleen and lymph nodes of cd45.1 congenic mice were intravenously injected into rag1-- mice with or without 4x104 cd4yfp splenic tregs sorted from ahrffoxp3yfp-cre or littermate ahrf-foxp3yfp-cre mice or cd4yfpgfp or cd4yfpgfp- splenic tregs sorted from ahrcairfoxp3yfp-cre mice.
+
+the reduction of nrp1-rorgt tregs was confirmed in germ-free mice demonstrating that their accumulation and differentiation are dependent on microbiota figures 3e and 3f.intriguingly ahr expression in tregs was unaffected in antibiotics-treated mice or germ-free mice figures 3c 3d 3g and 3h suggesting that environmental factors other than microbiota drive the gut-specific expression of ahr in tregs.
+
+large intestinal lpls from congenically marked ahrfoxp3yfp-cre cd45.145.2 mice or ahrf-foxp3yfp-cre cd45.245.2 mice were mixed at equal ratio and transferred to rag1-- mice.
+
+co-transferred gfp- tregs maintained foxp3 expression compared to gfp tregs suggesting that ahr is dispensable for foxp3 expression andor stability figure s7b.in contrast to tregs from ahrffoxp3yfp-cre mice that suppressed t-cell transfer colitis tregs purified from ahrf-foxp3yfp-cre mice had impaired suppressive function as revealed by worsened gut histopathological changes and enhanced gut inflammation in rag1-- recipient mice while maintaining foxp3 expression figures s7c-s7h.
+
+likewise comparable in vivo treg differentiation by ova treatment was observed in recipient mice that was adoptively transferred with naive non-treg cells from ahrf-foxp3yfp-cre ot-ii mice compared to those from ahrffoxp3yfp-cre ot-ii mice data not shown.
+
+the weight change of recipient rag1-- mice were monitored for 8 weeks or the mice were sacrificed for analysis 2 weeks after cell transfer.methylation analysisgenomic dna of facs-sorted large intestinal cd4tcrbyfp tregs from ahrffoxp3yfp-cre or littermate ahrf-foxp3yfp-cre mice was isolated with dneasy tissue kit qiagen.
+
+mice were analyzed for the percentages of tregs among cd4 t cells a percentages of nrp1-rorgt cells among tregs b and percentages of ahr cells among ttregs c and ptregs d in the gut of ahrfoxp3yfp-cre mice or percentages of tregs among cd4 t cells i and ahr-gfp cells among tregs j in the gut of ahrcairfoxp3yfp-cre mice.
+
+data are representative of four independent experiments a-d or complied from three independent experiments i and j and shown as mean - sd n  4 mice per group.e f g and h germ-free wildtype mice were gavaged with or without feces collected from specific pathogen free spf mice.
+
+data are representative of three independent experiments.f and g large intestinal lpls from ahrfoxp3yfp-cre cd45.145.2 mice ctr andahrf-foxp3yfp-cre cd45.245.2 cko mice were mixed and around 1x107 cells were adoptively transferred into rag1-- mice.
+
+systemic analysis of tregs in different anatomic locations revealed a gut-specific expression pattern of ahr in tregs and a role for ahr in directing treg gut homing and function.ye et al.page 4resultsdevelopment of ahr conditional knock-in mice expressing a constitutively active form of ahr with gfp reporterto investigate the expression pattern of ahr and the consequence of ahr activation in vivo we used a cre-loxp site-specific recombination approach to generate an ahr knock-in mouse model ahrcair mice in which constitutively active ahr ca-ahr that lacks the pas-b domain is expressed in a cre-inducible manner and marked by gfp.
+
+accordingly ahrcaircair mice have a defect in innate lymphoid cells in the gut thus phenocopying ahr null mice figure s1d and kiss et al.
+
+intriguingly although their identity remains to be determined a population of tregs that express both nrp1 and rorgt was upregulated in the gut of ahrf-foxp3yfp-cre mice figures 2b and 2c and s3g.together these data support a model that ahr facilitates the differentiation andor accumulation of ptregs in a tissue- and cell-specific manner.ye et al.page 6treg-specific activation of ahr promotes ptregs in the gutusing the ahrcairfoxp3yfp-cre mice we next investigated the effect of in vivo ahr activation on the accumulation of intestinal foxp3 tregs.
+
+data are shown as mean - sd n3 mice per group.see also figure s1 and s2.ye et al.page 20figure 2. ahr play essential roles in the intestinal ptrega and d percentages and absolute numbers of tregs among cd4 t cells in various tissues of the indicated mice.
+
+data are shown as mean - sd n  6 mice per group.see also figure s3.ye et al.page 21figure 3. microbiota have distinct impact on gut tregsa b c d i and j 3-week-old mice were treated with antibiotics abx or pbs for 2 to 3 weeks.
+
+flow cytometry analysis of rorgt and nrp1 gated on cd4tcrbfoxp3 cells e or of ahr and foxp3 gated on cd4tcrb cells g. percentages of nrp1-rorgt cells among tregs f and percentages of ahr cells among tregs h. data are representative of two independent experiments and shown as mean - sd n  3 mice per group.ye et al.page 22figure 4. regulation of intestinal treg transcriptional program by ahrlarge intestinal tregs were sorted from ahrffoxp3yfp-cre control or littermateahrf-foxp3yfp-cre mice by flow cytometry and subjected to genome-wide mrna analysis rna-seq.
+

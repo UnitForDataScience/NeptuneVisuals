@@ -1,0 +1,30 @@
+in the decade since many more effectors have been found to inhibit map kinase cascades providing not only a mecha- nistic understanding of pathogenesis and immunity in plants but also the identification of previously unknown enzymes.introductionmolecular genetic studies at the end of last millennium uncovered a plant surveil- lance system consisting of innate immune receptors localized at the cell surface and within the cytoplasm.
+
+the cell-surface- localized immune receptors are structur- ally related receptor kinases rks or receptor-like proteins rlps whereas cytoplasmic immune receptors are nucle- otide-binding leucine-rich repeat domain proteins nlrs the latter also exists in animals.
+
+in plants these immune recep- tors directly or indirectly recognize spe- cific ''avirulence'' proteins produced by microbial pathogens and activate protec- tive immune responses.
+
+parallel studies searching for plant receptors for path- ogen-derived ''elicitors'' or pathogen- associated molecular patterns pamps such as bacterial flagellin and the fungal cell wall component chitin identified additional immune rks and rlps that are functionally analogous to toll-like re- ceptors tlrs in animals  .
+
+it was soon realized that the pathogens' so- called avirulence proteins are effectors that first evolved to promote pathogen- esis in the plant apoplast or cytoplasm but essentially betray the pathogen when they are sensed by the host plant's surveillance system.
+
+syringae mutant strains lacking the type iii secretion system were found to activate plant immune responses that are normally suppressed by wild-type strains suggesting that type iii effectors t3es actively suppress immunity .
+
+these findings coincided with the proposal of a two-tiered plant innate immune system .
+
+this commentary sum- marizes what we have learned in the last decade from effectors that inhibit map kinase mapk signaling in plants.pathogen effectors directly targeting mapk cascadesthe characterization of the p. syringae t3e hopai1 provided a mechanistic un- derstanding of how a plant pathogen effector inhibits prr-mediated immune signaling.
+
+this activation-dependent destruc- tion of a host component is particularly important for the bacterium as excessive perturbation of the host immune system often results in elevating defenses in the host plant.a mapk cascade guarded by an nlrinvestigation of biochemical function of pathogen effector proteins also advanced our understanding of mechanisms by which plant nlrs recognize specific pathogen effectors.
+
+findings from the inves- tigations of these effectors not only lend strong support for the two-tiered plant innate immune system proposal but also revealed novel enzymes.
+
+map kinase signaling pathwaysa hub of plant-microbe interactionsguozhi biand jian-min zhou1the state key laboratory of plant genomics institute of genetics and developmental biology chinese academy of sciences beijing 100101 chinacorrespondence in 2007 we reported that a phytopathogen effector directly inhibits a map kinase cascade.
+
+these immune receptors are thus called pattern recognition recep- tors prrs in the current literature.
+
+p. syringae causes diseases-- such as blights leaf spots and galls--on numerous plant species including the model species arabidopsis and tomato.
+
+importantly several t3es when expressed directly in plants were found to block immune re- sponses activated by bacterial flagellin a well-studied pamp .
+
+in this model pathogen effectors delivered into the cytoplasm of plant cells are initially evolved to block pattern-trig- gered immunity mediated by prrs.
+

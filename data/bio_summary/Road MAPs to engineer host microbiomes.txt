@@ -1,0 +1,30 @@
+understanding the underlying genetic basis and chemical interplay that drive maps will provide specific markers for plant breeding  guide the design of microbial consortia  cules incorporated into granules or seed coatings for inundative microbial applications to trigger the beneficial activities associated with a particular map .most plant root exudates and microbial specialized metabolites however are considered as 'public goods' presenting a high potential for cross-talk that may adversely affect maps.
+
+the use of recombinant inbred lines to identify microbiome quantitative trait loci microbiome qtls will be highly instrumental in such efforts  harnessed to connect plant genotypes statistically not only to maps but also to the plant metabolites that effectuate them through direct or indirect roles in host selection of microbiota.a confluence of technological advances makes it more feasible than ever to disinter the phylogenetic distribu- tion of microbial and plant traits e.g.
+
+the mathematical maps-first approach proposed here involving quantitative profiling of the variation in maps across genetically variable hosts followed by the identification of the underlying mechanisms and micro- bial consortia that confer these maps will provide a more solid basis to engineer microbiomes to enhance plant growth and plant tolerance to abiotic stress factors.
+
+while throughout our review we draw primarily upon examples from plant-microbe inter- actions we note the broad applicability of our engineering principles for microbiomes of other hosts including the design of microbial consortia for the human gut.maps firsta seminal guiding principal to navigate plant microbiome engineering is 'going back to the roots' to re-instate microbial associations on or in plant roots that may have been lost during the domestication process  orduring breeding for disease resistance .
+
+in other words the fitness of the holobiont nholo may be represented as the sum of the fitness of a germ-free host napo plus the influence the associated microbiome a has on host fitness a.to quantify the impacts of changes in holobiont fitness dnholo as a result of an altered microbiome da equa- tion was also introduced  cially powerful when comparing the impacts of altered microbiomes on germ-free hosts dnapo  0 .
+
+by integrating host and microbial traits these strategies will facilitate targeted engineering of microbiomes to the benefit of agriculture humananimal health and biotechnology.addresses1 bioinformatics group wageningen university wageningen netherlands2 department of microbial ecology netherlands institute of ecologyniooknaw wageningen netherlands3 institute of biology leiden university wageningen netherlands corresponding author raaijmakers jos m introductioninterspecies interactions may affect an organism's fitness across a wide range of ecological and environmental con- ditions .
+
+salt and p concentrations or pathogen load to determine the effect on host in both germ-free and microbiome-associated hostment and stability represent key objectives for engineer-ing maps .based on these empirical findings targeted comparative analysis may focus on the plant and microbial traits of only the most significant emergent map.
+
+by understanding the functional complementarity of micro- bial consortia on roots or shoots of wild relatives of economically important food crops it should be feasible to identify compatible plant and microbial traits that are essential for plant growth development and health.
+
+57.. ' host-microbiome concepts outlined principals of host guided micro- biome selection in animals and plants.microbial community assembly and design guide for designing microbial consortia.kautsar sa suarez duran hg blin k osbourn a medema mh plantismash automated identification annotation and expression analysis of plant biosynthetic gene clusters plantismash automated identification annotation and expression analysis of plant biosynthetic gene clusters.
+
+plant microbe environmental combinations in which maps provide the largest fitness advantage.
+
+we outline strategies for developing 'modular microbiomes' -- synthetic microbial consortia that are engineered in concert with the host genotype to confer different but mutually compatible maps to a single host or host population.
+
+available online at sciencedirectroad maps to engineer host microbiomes ben o oyserman21 jos m raaijmakers3microbiomes contribute directly or indirectly to host health and fitness.
+
+cumulative microbiome effect on the host is reached in time and holobiont fitnessintimacy .stability s2 the variation of a between individuals ora mathematical basis of mapsto quantify the contribution of the microbiome to the holobiont's fitness in a context-dependent manner kopacgenerations equations  and c. we note that the recruitment and stability of fitness are functional parameters which do not require the inheri- tance of specific members of a microbiome across time.figure 1a road map for engineering maps.
+
+beneficial microbiomes provide increases in plant fitness only for a certain range of conditions.
+
+the difference between fitness of genetically identical hosts with different microbiomes da1 - da2  see equation  is depicted in thepanel for plant accession 3 and niche dimension 3. b experimental results may be used to identify the most significant conditions thereby decreasing the parameter space required for mechanistic characterization while providing ecological context and 'metadata' for full analysis.
+

@@ -1,0 +1,22 @@
+here we present the draft genome sequence of s. saprophyticus dpc5671 which will allow a full safety assess-ment and further analysis on its role in cheese ripening.the draft genome of s. saprophyticus dpc5671 was sequenced using paired-end 454 pyrosequencing to a coverage of 23x.
+
+the s. saprophyticus dpc5671 genome was found to have a predicted coding sequence cds for adhesion with similarities examined with the blastp web server to uafa in s. saprophyticus atcc 15305 with 39 of query cover and 97 of protein identity.the availability of the genome sequence of dpc5671 will allow its role in flavor development in cheese ripening to be studied.accession numbers.
+
+prokaryotesgenome sequence of staphylococcus saprophyticus dpc5671 a strain isolated from cheddar cheeseandrea s. bertuzziab caitriona m. guinanec fiona crispiead kieran n. kilcawleya paul l. h. mcsweeneyb mary c. reaadteagasc food research centre moorepark fermoy cork irelanda school of food and nutritional science university college cork cork irelandb department of biological sciences cork institute of technology cork irelandc apc microbiome institute university college cork cork irelanddabstract the draft genome sequence of staphylococcus saprophyticus dpc5671 isolated from cheddar cheese was determined.
+
+s. saprophyticus is a common gram- positive bacterium detected on the surface of smear-ripened cheese and other fer- mented foods.taphylococci are gram-positive catalase-positive bacteria with halotolerance that enables their growth in salted fermented food.
+
+s. saprophyticus is a species frequently detected on the surface of smear-ripened cheese and other fermented foods .
+
+the comprehensive antibiotic resistance data- base card software  was used to determine the presence of genes potentially involved in antibiotic resistance and the presence of known staphylococcal virulence factors was analyzed using the blastp web server .the draft genome of s. saprophyticus dpc5671 includes 2676318 bp with an average gc content of 33.1. it consists of a single circular chromosome and does not appear to harbor any plasmids.
+
+overall the genome of s. saprophyticus dpc5671 shows high similarity tosaprophyticus atcc 15305 in genome size gc content and gene synteny .s.
+
+previous studies showed an involvement of s. saprophyticus in urinary tract infections showing a specific adhesin uafa to be associated with adherence to the eukaryotic cell in the urinary tract .
+
+the draft genome was manually analyzed using the artemis genome browser  and comparative analysis with the genome of s. sapro- phyticus atcc 15305  was performed using the artemis comparison tool act .
+
+saprophyticus dpc5671 is coagulase negative nonhemolytic and does not appear to produce any toxins associated with staphylococcus aureus.
+
+.cogan tm goerges s gelsomino r larpin s hohenegger m bora n jamet e rea mc mounier j vancanneyt m gueguen m desmasures n swings j goodfellow m ward ac sebastiani h irlinger f chamba jf beduhn r scherer s. 2014. biodiversity of the surface microbial consortia from limburger reblochon livarot tilsit and gubbeen cheeses p 219 -250. in donnelly c ed cheese and microbes.
+

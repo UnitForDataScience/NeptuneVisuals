@@ -1,0 +1,30 @@
+the metabolites are adenine f1 d-lactic acid f2 succinic acid f3 5-methoxydimethyltryptamine f4 l-homoserine f5 2-ketobutyric acid f6 2-keto-glutaramic acid f7 guanidoacetic acid f8 indolea- crylic acid f9 n-lauroylglycine f10 5-l-glutamyl-taurine f12 aspartyl-histidine f14 cholic acid f15 3-oxocholic acid f16 deoxycholic acid f17 chenodeoxycholic acid f18 nutriacholic acid f19 12-ketodeoxycholic acid f20 and allodeoxycholic acid f21.
+
+they are leucyl-hydroxyproline u1 3-oxodecanoic acid u2 glycolic acid u3 hydroxypyruvic acid u4 acetylglycine u5 aspartyl-histidine u6 4-phosphopantothenoylcysteine u7 2-methylbenzoic acid u8 3-indole carboxylic acid glucuronide u9 2-indolecarboxylic acid u10 3-methyldioxyindole u11 niacinamide u12 5-l-glutamyl-taurine u13 xanthosine u15 2-ketobutyric acid u17 and ascorbic acid u18.
+
+in this study decreased levels of cholic acid f15 deoxycholic acid f17 chenodeoxycholic acid f18 nutriacholic acid f19 and allodeoxycholic acid f21 were observed in feces samples of gut microbiota dysbiosis rats which can be explained bile acid metabolism involved in the dysbiosis of gut microbiota.
+
+the pca and pls-da model were performed to evaluate the metabolic patterns of antibiotic-induced gut microbiota dysbiosis rats after csgs treatment and the metabolic profile of rats in csgs treated group fairly differed from the antibiotic group but was similar to the control group indicating the deviations induced by antibiotic were significantly improved after csgs treatment.identification of potential fecal biomarkers associated with gut microbiota dysbiosis.
+
+pattern recognition with multivariate statistical analysis allowed the metabolic pro- files of urine and feces of antibiotic-induced gut microbiota dysbiosis group clearly separated from the control group and the csgs treated group was closer to the control group.
+
+email figure 1. the gut microbiota patterns of control group c antibiotic group a and csgs  antibiotic group ac differentiated by pcoa a. the gut microbiota composition profiles at the phylum b and genus c levels in the control and model group revealed by 16s rrna gene sequencing each color represents one bacterial phylum or genus.establishes that both the pathological symptoms and the gut microbiota dysbiosis can be alleviated by traditional chinese medicines tcms.
+
+all rats in each group were housed in metabolic cages 1 per cage for collecting the 24 h urine samples at day 20. a total of 23 urine samples except one of control group were collected and stored at -80 degc until analysis.feces samples were collected at day 20 of the each group.
+
+taken together the decreased urine levels of hydroxypyruvic acid u4 acetylglycine u5 and 2-ketobutyric acid u17 and increased feces levels of l-homoserine f5 guanidoacetic acid f8 and 2-ketobutyric acid f6 indicated the dysbiosis of gut microbiota.
+
+the dominant phyla including firmicutes and bacteroidetes and thefigure 2. increasing of the body weight in rats c control group a antibiotic group ac csgs  antibiotic group.figure 3. pca score plot of urine samples collected from different treatment groups of rat in a r2x  0.902 q2 cum 0.775 positive ion mode pls-da score plot of urine samples collected from different treatment groups of rat in b r2x  0.942 r2y  0.797 q2 cum 0.670 positive ion mode opls-da score plot and s-plot of the control and antibiotic group in cd positive ion mode.
+
+c control group a antibiotic group ac csgs  antibiotic group qc quality control samples.antibiotic treatment resulted in significant reduction in levels of firmicutes and increase levels of bacteroidetes whereas these two disturbed gut microbiota phyla could be regulated after csgs treatment 1b.
+
+however the metabolic profile of rats in csgs treated group fairly differed from the antibiotic group but was similar to the control indicating that the antibiotic-induced deviations significantly improved after csgs treatment.identification of potential urinary biomarkers associated with gut microbiota dysbiosis.
+
+as shown in  the opls-da and s-plot based on fecal metabolic profiles between the control group and the antibiotic group indicated 21 ions that contributed to the clustering in positive ion mode.
+
+c control group a antibiotic group ac csgs  antibiotic group qc quality control samples.figure 6. significant changes in fecal metabolites are expressed as a heatmap showing metabolite changes in all treatment groups detected by uplc-q-tofms.
+
+blue squares indicate significant positive correlations r  0.5 p  0.05 white squares indicate nonsignificant correlations p  0.05 and red squares indicate significant negative correlations r  -0.5 p  0.05.the antibiotic treatment induced a significant taxonomic perturbation in the gut microbiota which in turn substan- tially alters the metabolic phenotype of the gut microbiota as evidenced by changes in diverse gut microbiota-related metabolites and metabolic pathways.key metabolic pathways associations with gut microbiota dysbiosis validation.
+
+the rats were housed individually in cages and maintained 20-25 degc and 40-60 humidity under controlled conditions of 12 h light-12 h dark cycles lights on from 600 a.m.-600 p.m. and water available ad libitum.the rats were randomly divided into three groups n  8 1 control group c orally normal saline 2 antibiotic group a dosed with antibiotic imipenemcilastatin sodium at a daily dose of 50 mgkg of body weight from day 1 to day 21 3 csgs  antibiotic treated group ac rats received the same dose of antibiotic imipenemcilastatin sodium for 21 days and orally csgs water extracts at the dose of 7.0 g kg-1 once daily for 21 days.
+

@@ -1,0 +1,30 @@
+c a systematic approach to bypass restriction-modification systems based on recreating methylation patterns.middle step - bypassing the host's defense systems - is recognized as the most challenging and is discussed in more detail below.bacteria possess a collection of innate and acquired defense systems that protect them from invasive genetic material.
+
+instead the most prevalent means of achieving genome editing have involved crispr-cas systems prokaryotic immune systems that use short guide rnas to direct the system's cas nucleases to bind and cleave complementary sequences.
+
+further advances could include eliminating the recombinases or relying on endogenous crispr-cas systems present in many bac- teria to further limit the number of required components .while many advances have been made in cas9-mediated genome engineering in e. coli successful genome editing remains to be reported beyond only a few other bacteria  including limited examples of bacteria native to the human gut .
+
+genetic screens based on crispr-based repression therefore offer one of the most promising approaches to quickly interrogate genetic functions in diverse bacteria.conclusions and outlookour ability to progress a newly cultured host-associated bacterium to a genetically tractable host has greatlyimproved with advances in enhancing dna delivery predictable expression of genes and operons and the use of crispr technologies for genome editing and gene regulation.
+
+the efficiency of cas9-based edit- ing with plasmid-encoded recombination templates allowed garst and co-workers to perform high-throughput genome editing in e. coli through a methodology termedfigure 4applying crispr-based tools for genome editing and gene regulation.
+
+however in bacteria evidence suggested that cas nuclease-mediated genome cleavage cannot be readily repaired resulting in a lethal double- stranded break that kills the bacterium a. to perform genome editing the dna sequence is modified through recombination and the unmodified dna is subsequently targeted for cleavage by cas9 .
+
+with the development of recursive editing strategies  recombineering could achieve efficient multi- plexed genome editing without direct selection of thegenetic tools for host-associated bacteria waller et al.
+
+recent work by cui and bikard challenged this paradigm by reporting that dou- ble-stranded breaks by cas9 in the e. coli are rarely lethal  reca-mediated homologous recombination presumably by using an intact genomic copy as the template a. they further showed that a plasmid with point mutations flanked by homology arms resulted in efficient genome editing potentially explaining why plasmid-encoded recombination templates are more effective than oligo-mediated recombination for cas9- based editing .
+
+these insights impact the mechanism of cas9-mediated genome editing in bacteria and whether editing occurs through repair or through selection.49.
+
+well-known systems include restriction-modifi- cation crispr-cas abortive infection prokaryotic argonaute and the recently discovered brex  b. of these restriction-modification systems are the most prevalent appearing in approximately 95 of all sequenced bacterial genomes  considered the greatest barrier to dna transfer.
+
+furthermore these systems can be poorly conserved among related species resulting in restriction barriers that vary even between related strains .traditional strategies to overcome these defense systems involved modifying the methylation pattern using differ- ent intermediate hosts with varying methylation patterns or incubating the plasmid with a commercially available dna methyltransferase.
+
+these systems can be co-opted from the host bacterium such as inducible systems that respond to the complex carbohydrates mannan chondroitin sulfate ara- binogalactan and rhamnose in bacteroides thetaiotamicron .
+
+alternatively heterologous inducible systems have been imported or modified from other organisms to function in the intended microbial host with some success such as the nisin and sppipip-673 induction systems in lactobacilli the anhydrotetracy- cline-responsive repressor tetr the isopropyl b-d-1- thiogalactopyranoside iptg-responsive repressor laci and ligand -responsive riboswitches .constitutive promoters are convenient because they do not require additional accessory factors although identi- fied promoters might not exhibit the required expression strength.
+
+among gut bacteria dcas9-mediated gene repression has been implemented in b. thetaiotamicron to yield up to 45-fold downregulation of a reporter gene  cas proteins have also been harnessed for gene repression  offering a more diverse toolbox for crispr- mediated repression and opens the opportunity to co-opt endogenous crispr-cas systems for this purpose.one attractive feature of dcas9-mediated repression is how readily it can be scaled for high-throughput genetic screens d. this feat was first demonstrated by peters and co-workers in b. subtilis by creating a genome- wide library to screen for essential genes  same strategy could be implemented in other culturable transformable bacteria to perform genome-wide func- tional screens.
+
+d high-throughput genetic screens can be performed with dcas9-mediated gene repression.162 microbiotacreate crispr-enabled trackable genome engi- neering b. as part of the method the recombination template introduced the desired modifi- cation along with a silent mutation to the required pro- tospacer-adjacent motif pam.
+

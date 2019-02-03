@@ -1,0 +1,30 @@
+only positive results are shown for clarity.resultsthe intestinal environment promotes bacteriophage host jumpour experimental approach involved a tripartite network consist- ing of 1 a novel virulent bacteriophage p10 related to the myovirus felix o1 2 its host the pathogenic escherichia coli strain lf82 and 3 the commensal e. coli strain mg1655 to which p10 cannot bind and is therefore non-infective up to 1010 pfu were tested figure s1.
+
+the alignment of sequences from p10 and 20 isolated adp10 numbered 1-20 is deduced from pcr amplification of the genomic region encompassing all amino acid substitutions highlighted in pink and yellow found within this protein.figure 3. homologous intragenomic recom- bination events are widespread in bacterio- phage tail fibersschematic representation of the interspersed duplication red arrow of the hypervariable region of gp91 red box in gp90 coupled by the deletion of the corresponding region in gp90 orange box in adp10 compared with the wild-type p10.
+
+we studied the role of this putative intermediate host in the host jump of p10 re- sulting in adp10 by using co-cultures in vitro we mixed p10 with strains mec1 or mg1655 with or without the presence of strain lf82 or with a mix of the three e. coli strains.
+
+after 7 days of in- cubation the efficacy with which the wild-type p10 population infected mec1 increased 10-fold whenever this strain was pre- sent a. if strain mg1655 was also present the host jump was observed although it was delayed to day 24 when the preferential host of p10 lf82 was in the system  a and 4b.
+
+no other bacteriophage than p10 was ever purified and sequenced from amplification on strains lf82 or mg1655.for researching higr events in other bacteriophage genomes we downloaded the annotation of all bacteriophages available on phantome  september 2016 and looked for homologous regions in all annotated tail fiber sequences within each bacteriophage genome using megablast blastn v2.2.18 with option -f f. genome mutations were identified using the breseq variant report - v0.26 pipeline  and the annotation of identified variants was processed using snpeff v4.1 .bacteriophage recombinationan adenine to guanidine substitution at nucleotide position 55079 of p10 genome was introduced in the gp91 gene by site-directed mutagenesis using polymerase chain reaction pcr.
+
+no plaques on mg1655 were observed for the control group.bacteriophage fitness testthe infection efficiency of the recombinant p10 bacteriophage rp10 carrying the y284h mutation in the gp91 protein compared to the wild type p10 bacteriophage was measured as follows.
+
+we propose that for bacteriophages to persist within this highly competitive environment they exploit the microbiota as a base to jump between different bacte- rial hosts.cell host  microbe 22 801-808 december 13 2017 a 2017 elsevier inc. 801legend on next pagefigure 2. broad host range variations are associated with bacteriophage adaptationadp10 n  16 were tested for infectivity light blue versus 105 enterobacteriaceae see table s1 and compared with the ancestral p10 bacteriophage purple.
+
+we screened for ''host jumps'' or in other words a gain of function by p10 the function being the ability to infect the previously insensitive host strain mg1655.
+
+interestingly bacterio- phage p10 variants adapted to strain mg1655 hereafter named adp10 and still infecting strain lf82 were isolated but onlyfrom the gut of conventional mice 20 rate.
+
+no p10 variants able to jump hosts were obtained from dixenic mice or in vitro a and s2.adapted bacteriophages have extensively diversified host rangewe investigated whether the ability of adp10 in infecting a pre- viously insensitive host was associated with a more generalized effect on the bacteriophage host range.
+
+almost half of the adp10 isolates had a reduced host range than the wild-type strain up to 50 reduction and most others showed marginal difference one exceptional adp10 variant had expanded its host range to 11 more strains than the wild-type p10 .an unusual genome recombination event associated with host jump in virulent bacteriophagesto gain insight into the host-jump mechanism and its variable effect on the host range of adapted bacteriophages we sequenced the genomes of two adp10 isolates.
+
+in both ge- nomes a stretch of 216 or 280 nucleotides of the hypervariable region of the tail fiber gene gp91 underwent duplication resultingfigure 1. bacteriophage host jump only occurs in the gut of conventional miceschematic representation of three experimental conditions where bacteriophage p10 was mixed with two e. coli strains mg1655 and lf82 in vitro and in vivo in dixenic mice dm or conventional mice cm for 24 days.
+
+inoculation with bacteria and p10 is shown as black arrows.
+
+gray arrows indicate control ct sampling prior to inoculation followed by sampling of bacteria and p10.
+
+symbols show a map of snpsindels present at a frequency higher than 5 in p10 populations after 24 days in vitro iv in cm and dm in the presence of one strain 1s lf82 or two strains 2s lf82 and mg1655.
+

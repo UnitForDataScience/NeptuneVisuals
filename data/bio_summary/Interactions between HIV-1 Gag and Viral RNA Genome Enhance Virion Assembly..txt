@@ -1,0 +1,30 @@
+during the initiation of hiv-1 rna dimerization the rna-rna interaction either exposes or increases the number of specific gag binding sites which allows binding of multiple gag proteins effectively increasing the local gag concentration this process facilitates a switch in gag conformation making key surfaces of gag more accessible for gag-gag interactions leading to particle assembly.
+
+thus the mlv packaging signal is functional in the context of mw-rna.these packaging experiments showed that 1-rna can be efficiently packaged by hiv-1 gag but not mlv gag whereas mw-rna can be packaged more efficiently by mlv gag than hiv-1 gag.
+
+briefly this construct expresses an 3-kb packageable hiv-1 rna that harbors the 5 utr 350 nucleotides of gag rre bsl and the 3 utr but does not express any viral proteins.plasmid mw-rna is similar to 1-rna except for the following modifications the hiv-1 ltr and 5 leader sequence were replaced with the cmv promoter from pcmvdr8.2 as a result most of the hiv-1 leader sequence is deleted and gag contains a frameshift mutation.
+
+to test this hypothesis we examined the effects of an hiv-1 rna with deletion in the packaging signal on hiv-1 particle production and the effect of hiv-1 rna on the particle production of mlv gag which does not efficiently package hiv-1 rna  .
+
+we also tagged hiv-1 gag with cerulean fluorescent protein cefp when gag-cefp is coexpressed with untagged gag particles that are morphologically indistinguishable from immature hiv-1 particles can be gen- erated  .
+
+rna that can be packaged by hiv-1 gag was expressed from a construct 1-rna that encodes a nearly full-length hiv-1 genome containing a frameshift mutation in gag and stem-loops bsl in the pol gene that are recognized by the escherichia coli bglg protein .
+
+furthermore 1-rna was efficiently packaged into the gag particles because most of the cefp particles from the samples cotransfected with 1-rna contained yfp signals  the results of rna incorporation into hiv-1 particles from three sets of independent experiments are summarized in .plasmids 1-gagpol 1-gagcefp and 1-rna were all derived from hiv-1 molecular clone nl4-3 and rnas expressed from these constructs contain largely hiv-1 se- quences.
+
+a general structures of hiv-1 helper constructs that express hiv-1 gaggagpol or hiv-1 gag tagged with cefp.
+
+the gag- membrane interaction is mediated by the n-terminal ma domain of gag which targets gag to the inner leaflet of the plasma membrane which is the major site of gag multimerization and particle assembly.
+
+these results imply that when gag is expressed from one integrated provirus the presence of viral rna is likely to enhance hiv-1 particle assembly.specific recognition between gag and packageable rna is required to enhance particle production.
+
+therefore the enhancement of assembly is dependent upon the specific recognition between gag and the viral rna genome.discussionduring the assembly of an infectious virion hiv-1 gag needs to interact with viral components and host cell factors.
+
+e particle production measured by quantitation of western blot data from five hiv-1 gag and three mlv gag independent experiments.
+
+furthermore a significant number of hiv-1 gag molecules are required to stabilize the rna dimer .it has been suggested that the role of the rna in assembly is to induce gag multimerization .
+
+it is possible that viral rna is superior to cellular mrna in increasing the local concentration of gag to initiate the cooperative binding .taken together we propose the following hypothesis for virus assembly gag binds to both hiv-1 rna and nonviral rna in the cell and on the plasma membrane.
+
+structure and assemblyinteractions between hiv-1 gag and viral rna genome enhance virion assemblykari a. dilleya olga a. nikolaitchika andrea gallia ryan c. burdickb louis levinea kelvin lic d vinay k. pathakb wei-shau huaviral recombination sectiona viral mutation sectionb and retroviral assembly sectiond hiv dynamics and replication program center for cancer research national cancer institute frederick maryland usa university of pittsburgh school of medicine the center for medicine and the microbiome pittsburgh pennsylvania usacabstract most hiv-1 virions contain two copies of full-length viral rna indicat- ing that genome packaging is efficient and tightly regulated.
+

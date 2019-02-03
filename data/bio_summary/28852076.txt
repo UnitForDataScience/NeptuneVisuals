@@ -1,0 +1,30 @@
+to our knowledge this is the only available approach implemented as 'drugbug' tool for the prediction of xenobioticdrug metabolism by metabolic enzymes of human gut microbiota.the human gut harbours more than 100 trillion microbial cells belonging to about 1000 different bacterial spe- cies and hence it constitutes a huge reservoir of metabolic enzymes in the gut capable of showing a vast array of metabolic activities in addition to those carried out by the host enzymes.
+
+furthermore all the gut bacteria harbouring the identified enzymes were considered as the gut bacteria capable of metabolizing the query molecule.referencesguinane c. m.  cotter p. d. role of the gut microbiota in health and chronic gastrointestinal disease understanding a hidden metabolic organ.
+
+therefore the molecular properties of substrates of all known metabolic enzymes encoded by the gut microbiota can be used to predict the metabolic enzymes and gut bacteria which can potentially carry out the biotransformation of xenobioticdrug molecules-.
+
+to develop an approach for the prediction of metabolic enzymes and gut bacteria which can potentially act on a xenobioticdrug molecule the first step is the construc- tion of a comprehensive dataset of metabolic enzymes and their substrates from all known human gut bacteria.
+
+considering the promiscuous nature of the metabolic enzymes all the gut microbial metabolic enzymes belonging to a particular four-digit ec number were identified as the metabolic enzymes capable of biotransforming the xenobioticdrug molecule.
+
+therefore for most of the orally administered drugs that encounter gut microbiota before their absorption the gut microbial species and the corresponding enzymes capable of their metabolism are largely unknown.
+
+to our knowledge there is no tool or computational approach available to predict the biotransformation of xenobioticdrug in human gut by the metabolic enzymes encoded by the gut bacteria.
+
+therefore a database of metabolic enzymes was constructed from 491 human gut bacterial genomes which contained 324697 metabolic enzymes assigned with ec numbers.
+
+however it will not predict the enzymes from a different ec class or ec sub-class.prediction of gut microbial enzymes for the biotransformation of known drugs using 'drugbug'.
+
+drugbug was used to predict the enzymes and gut bacteria harbouring these enzymes which could potentially metabolize these drug molecules.
+
+in this work we are predicting the enzyme from human gut bacteria which could carry out the firstinitial step in the biotransformation of the given input molecule and we are not predicting the later enzymes or the resultant metabolic products.furthermore during the training set construction the substrates which could be metabolized by enzymes from multiple ec classes were not included in the training dataset.
+
+the web server is available at .methodsto develop a tool for the prediction of gut microbial enzymes which could potentially biotransform a xenobiotic drug molecule two key information were required i a set of known microbial metabolic enzymes along with their ec numbers and ii their corresponding substrate molecules.
+
+the identified metabolic enzymes along with their ec and bac- terial genome annotation were pooled together to create a database of metabolic enzymes for the gut bacterial metagenome.
+
+therefore if a molecule is a substrate for multiple enzymes and those enzymes belong to the same ec sub-class then drugbug approach will predict all the enzymes.
+
+openreceived 5 april 2017accepted 7 august 2017 published xx xx xxxxa novel approach for the prediction of species-specific biotransformation of xenobiotic drug molecules by the human gut microbiotaashok k. sharma shubham k. jaiswal nikhil chaudhary  vineet k. sharmathe human gut microbiota is constituted of a diverse group of microbial species harbouring an enormous metabolic potential which can alter the metabolism of orally administered drugs leading to individualpopulation-specific differences in drug responses.
+

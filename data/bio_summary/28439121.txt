@@ -1,0 +1,30 @@
+actinobacteria and chloroflexi were consistently identified in all samples with significant increase in a samples while bacteroidetes showed higheraverage relative abundance in dwh and i samples fig.
+
+phylum actinobacteria and class actinobacteria which were detected as biomarkers in the a samples exhibited significant correlations with almost all differentially abundant kos for a samples including hydrocarbon degrading genes as pcag phenol-2-monooxygenase bbsh and pcal data not shown.in osc samples over-represented taxa methylobacterium was associated with genes involved in degradation of furfural and other hydrocarbons supplementary fig.
+
+importantly a number of biomarkers identified here for the taiga samples such as phenylobacterium sphingomonadaceae novosphingobium and rhodococcus were detected as habitat specialists in oil contaminated taiga samples recently by yang et al..anaerobic photoautotrophic ignavibacteriaceae was identified as a biomarker in i samples table supplementary fig.
+
+acidobacteria was detected in large numbers in all samples with notably decreased mean relative abundances in the osc ostpu ostpm and ostpd samples fig.
+
+additionally chlorobi was detected in high mean relative abundance only in m and i samples with increased gemmatimonadetes abundance identified in a c and m samples fig.
+
+for instance acidobacterales had a 21 mean relative abundance in i while burkholderiales had an average relative abundance of 30 across ostp samples and caulobacerales had an average relative abundance of 19 in taiga samples fig.
+
+additionally xanthomonadales showed increased mean relative abundance 15-20 in i and dwh samples and actinomycetales dominated a samples with an average relative abundance of 24 fig.
+
+samples from 12 environments are depicted by different colors see legend.candidatus koribacter methylobacterium caulobacter and rhodococcus were attributed as biomarkers for ostpu ostpm a c dwh i osc tb and tu samples respectively supplementary fig.
+
+the largest number of differentially abundant modules were attributed to the osc samples 70 while the least 8 were attributed to the ostpm samples supplementary fig.
+
+for example three different kegg modules for lysine biosynthe- sis m00525-m00527 and one each for threonine methionine and cysteine biosynthesis m00018 m00017 m00021 were significantly abundant in tb samples while kegg modules for valineisoleucine phenylalanine tyrosine leucine and isoleucine biosynthesis m00019 m00024 m00026 m00040 m00432 m00535 m00570 were over-represented in tp samples fig.
+
+for example abundance for alkane-1-monooxygenase k00496 was contributed mainly by alteromonadaceae in dwh samples comammonadaceae in i mycobacteriaceae and nocardiaceae in c propionibacteriaceae in osc and a mixture of acetobacteraceae mycobacteriaceae nocardiaceae and rhodospirillaceae in the taiga samples supplementary fig.
+
+similarly for protocatechuate-45-dioxygenase k04100-01 alteromonadaceae was again the major contributor for dwh samples comamonadaceae and methylobacteriaceae for osc rhodocyclaceae for i rhodocyclaceae and comamonadaceae in ostp and comamonadaceae and bradyrhizobiaceae for taiga samples supplementary fig.
+
+however at the genus level it was seen that while hb2.32.21 was the dominant effector organism in dwh samples marinobacter was the largest metagen- omic contributor for k03381 in the m samples supplementary fig.
+
+we deliberately kept the taiga and ostp samples separate even though we expected high amounts of similarity between them in certain aspects when compared to other samples due to evidence of ample distinctive characteristics in the said samples in their parent studies .
+
+other highly specific increases in average relative abundance at the family level as compared to other samples included microbacteriaceae 19 for a sam- ples alteromonadaceae 14 xanthomonadaceae 20 for dwh samples and moraxellaceae 26 for osc samples supplementary table .similarity in bacterial community structure and detection of taxonomic biomarkers of oil pol- luted environments.
+

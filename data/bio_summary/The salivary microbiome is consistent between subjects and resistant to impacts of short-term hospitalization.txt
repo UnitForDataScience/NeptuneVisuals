@@ -1,0 +1,30 @@
+together the higher sequence diversity detected by v1v2 and the known limitations of v4v5 from our mock community analysis suggest that the v1v2 region may be preferable for analysis of the salivary microbiome.when we compared the beta diversity of both regions we found that the average bray-curtis dissimilarity between samples was significantly higher when using the v1v2 region compared to the v4v5 region fig.
+
+similarly the v1v2 dataset was dominated by a small number of genera using v1v2 however we could detect staphylococcus - a major component of the hm-783d mock community that was undetected using v4v5 fig.
+
+we found that the simpson diversity was considerably higher for the v1v2 region in comparison to the v4v5 region indicating that v1v2 was superior in detecting the evenness of our community and suggesting that v1v2 is better suited to analyze communities of oral bacteria fig.
+
+therefore it is evident that the oral microbiome is a major determinant of oral and possibly overall health.while its link to oral health is well established studies suggest that the oral microbiome may be important in systemic diseases as well.
+
+using our pipeline we demonstrate that there is comparatively little inter-individual variation in the composition of the salivary microbiome a finding that contrasts sharply with what has been previously reported using the gut microbiota.additionally we demonstrate that the salivary microbiome is largely unaffected by short-term hospitalization suggesting that these communities are temporally stable during the timeframe that we tested.
+
+d theoretical and observed relative abundances of genera detected in hm-783d using the v1v2 and v4v5 hypervariable regions.this further suggests that the v4v5 may not accurately represent the true proportions of bacteria typically found in the oral cavity.v1v2 is preferred for salivary microbiome analysis.
+
+our preliminary data using the hmp mock community suggested that the v1v2 region can detect more unique taxa within the mock community.
+
+we also observed that the samples sequenced using v4v5 in general clustered closer together than those using v1v2.
+
+the salivary microbiota as a diagnostic indicator of oral cancer a descriptive non-randomized study of cancer- free and oral squamous cell carcinoma subjects.
+
+though our novel mock community contained many of the most abundant taxa typically found in the oral cavity any mock community is unlikely to completely recapitulate the true diversity found within host-associated microbial communities.
+
+using our methodology we analyzed the salivary microbiomes of patients before and during hospitalization or azithromycin treatment to profile impacts on this community.
+
+using a community that is more temporally consistent such as the salivary microbiome may improve our understanding of how different treatments or per- turbations affect the human microbiota.
+
+thus the combination of the salivary microbiome's stability in the absence of perturbations and its responsiveness to systemic disease make it an intriguing option for analysis in clinical studies.an added benefit of using this community is that the collection of saliva samples from human patients is significantly less intrusive than fecal collection in both inpatient and outpatient settings.
+
+our findings indicate that azithromycin alters the diversity and taxonomic composition of the salivary microbiome however we also found that short-term hospitalization does not impact the richness or structure of this community suggesting that the oral cavity may be less susceptible to dysbiosis during short-term hospitalization.to date the majority of human microbiome research has focused on profiling bacterial communities within the gut due to their well-established links with multiple disease states such as crohn's disease and obesity-.
+
+while these early studies are intriguing more research is necessary to deepen our under- standing of the links between microbial communities human health and medical intervention.the oral microbiome specifically the salivary microbiome presents numerous intrinsic advantages that may allow researchers to rapidly profile changes in community structure and link those changes to human health.
+

@@ -1,0 +1,30 @@
+open access 5 137-145.mora-ortiz m. swain m. t. vickers m. j. hegarty m. j. kelly r. smith l. m. j. and skot l. 2016. de-novo transcriptome assembly for gene identification analysis annotation and molecular marker discovery in onobrychis viciifolia.
+
+267 2008-2013.schulze t. t. ali j. m. bartlett m. l. mcfarland m. m.clement e. j. won h. i. sanford a. g. monzingo e. b. martens m. c. hemsley r. m. et al.
+
+2016 2687605.haas b. j. papanicolaou a. yassour m. grabherr m. blood p. d. bowden j. couger m. b. eccles d. li b. lieber m. et al.
+
+8 1494-1512.jafari m. salehi m. ahmadi s. asgari a. abasnezhad m. and hajigholamali m. 2012. the role of oxidative stress in diazinon-induced tissues toxicity in wistar and norway rats.
+
+in add- ition we also demonstrated that diazinon exposure activated diverse stress response pathways and profoundly impaired en- ergy metabolism of gut bacteria.materials and methodsanimals and exposure.
+
+the entire set of raw fastq data have been deposited to mg-rast server last accessed march 22 2016 with job ids 292137 292138 292139 292140 292141292142 292143 292144 292145 292146 292147 292148 292149292150 292151 292152 292153 292154 292195 and 292156. inaddition processed data have been uploaded into the mg-rast server with the submission job ids 302500 and 302501.resultsdiazinon exposure altered the expression profile of gut metatranscriptomewe found that diazinon exposure altered the expression profile of gut metatranscriptome with 278 and 399 microbial transcripts being down- and up-regulated respectively .
+
+these significant perturbed functional categories include cell motility and cell wallmembraneenvelope biogene- sis and metabolism pathways of diverse compounds.diazinon exposure disturbed quorum sensing systempreviously we and others reported that toxicant exposure per- turbed the gut microbiome community structures or composi- tions    .
+
+in summary these results indicated that diazinon exposure may have deteriorated the gut ecology and caused stress to the gut microbiome.diazinon exposure altered genes in cell wall componentscell wall components such as lipopolysaccharide lps largely contribute to the toxic effects of bacteria which can translocate into host circulation and tissues leading to inflammatory responses.
+
+these increased genes of lps pathways may contribute to elevated serum levels of lps in diazinon-treated mice supplementary figure 1.diazinon exposure activated stress response pathwaysas mentioned above diazinon exposure led to adverse gut eco- logical environmental and challenges to the gut microbiome.
+
+immunogenetics 68 719-731.lu k. abo r. p. schlieper k. a. graffam m. e. levine s. wishnok j. s. swenberg j. a. tannenbaum s. r. andfox j. g. 2014. arsenic exposure perturbs the gut micro- biome and its metabolic profile in mice an integrated meta- genomics and metabolomics analysis.
+
+neurotoxicology 33 575-584.boussabbeh m. ben salem i. hamdi m. ben fradj s. abid- essefi s. and bacha h. 2016. diazinon an organophos- phate pesticide induces oxidative stress and genotoxicity in cells deriving from large intestine.
+
+219 181-189.gosalbes m. j. durban a. pignatelli m. abellan j. j. jimenez- hernandez n. perez-cobas a. e. latorre a. and moya a.
+
+plos one 6 e17447.grabherr m. g. haas b. j. yassour m. levin j. z. thompson d. a. amit i. adiconis x. fan l. raychowdhury r. zeng q. et al.
+
+29 644-652.gweon t. g. kim j. lim c.-h. park j. m. lee d.-g. lee i. s.cho y.-s. kim s. w. and choi m. g. 2016. fecal microbiota transplantation using upper gastrointestinal tract for the treatment of refractory or severe complicated clostridium dif- ficile infection in elderly patients in poor medical condition the first study in an asian country.
+
+j. genomics 4 29-41.serbanescu m. a. cordova m. krastel k. flick r. beloglazova n. latos a. yakunin a. f. senadheera d. b. and cvitkovitch d. g. 2015. role of the streptococcus mutans crispr-cas systems in immunity and cell physiology.
+

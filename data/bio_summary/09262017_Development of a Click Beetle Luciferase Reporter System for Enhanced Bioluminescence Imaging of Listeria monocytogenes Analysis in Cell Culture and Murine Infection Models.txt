@@ -1,0 +1,30 @@
+in particular l. monocytogenes egdeppl2cbropt was clearly visible through multiple layers of raw beef steak whereas the penetrating power of light generated in l. monocytogenes egdeppl2luxphelp was poor and below detectable limits .bli of cbropt during a cell invasion assaythe ppl2luxphelp vector has previously proved effective for the imaging of l. monocytogenes infection in cultured mammalian cells  .
+
+for this purpose l. monocytogenes egdeppl2cbropt l. monocytogenes egdeppl2luxphelpand l. monocytogenes egdeppl2lux were used to infect c2bbe1 cells for 1 h and the levels of bioluminescence and number of the intracellular bacteria were determined .
+
+of these the highest number of cfu was recovered from the spleen where cfuml were in the range of 1 103.notably mice infected with l. monocytogenes egdemppl2cbropt produced detectable bioluminescence signals at 48 h post-infection while no signals were detected from mice infected with l. monocytogenes egdemppl2luxphelp or the l. monocytogenes egdemppl2lux control.
+
+l. monocytogenes egde   and murinized l. monocytogenes egdem   were grown aerobically at 30c in brain heart infusion bhi medium oxoid basingstoke united kingdom.
+
+from each successful transformant one colony carrying the anticipated genotype was chosen for further bioluminescence analysis using an ivis lumina ii system perkinelmer.in vitro tissue depth modellisteria monocytogenes egdeppl2cbropt l. monocytogenes egdeppl2lux silent vector or l. monocytogenes egdeppl2- luxphelp expressing bacterial lux operon  were grown over night in bhi medium.
+
+the sequence of the insert was verified and the novel vector was then transformed and integrated into the l. monocytogenes egde wild type strain and an engineered l. monocytogenes variant egdem expressing a murine-specific inla  .
+
+we directly compared the bioluminescence of l. monocytogenes egdeppl2cbropt with the l. monocytogenes egdeppl2luxphelp strain as both bioluminescent vectors are constructed using the ppl2 backbone with expression of luciferase under the same phelp promoter system  .
+
+signal transmission and total flux of bacterial luciferase l. monocytogenes egdeppl2luxphelp quickly declined as the thickness of the tissue increased as compared to cbropt l. monocytogenes egdeppl2cbropt.
+
+48 308-313. mead p. s. slutsker l. dietz v. and mccaig l. f. 2000. food-related illness and death in the united states.
+
+we have developed a click beetle red luciferase cbr-luc based vector ppl2cbropt expressing codon optimized cbr-luc under the control of a highly expressed listerial promoter phelp for l. monocytogenes and have compared this to a lux-based system expressing bacterial luciferase for bli of the pathogen using in vitro growth experiments and in vivo models.
+
+the cbr-luc plasmid stably integrates into the l. monocytogenes chromosome and can be used to label field isolates and laboratory strains of the pathogen.
+
+growth experiments revealed that cbr-luc labeled l. monocytogenes emits a bright signal in exponential phase that is maintained during stationary phase.
+
+overall we demonstrate that this novel cbr reporter system provides efficient red-shifted light production relative to lux and may have significant applications in the analysis of l. monocytogenes pathogenesis.keywords listeria monocytogenes click beetle luciferase bioluminescence in vivo imaging pathogen virulence clinicalintroductionlisteria monocytogenes is an opportunistic facultative intracellular pathogen which is capable of withstanding harsh environmental conditions including stresses encountered during the processing packaging and storage of foods   .
+
+l. monocytogenes infection in mice has been used as an important model for the analysis of intracellular parasitism and subsequent immunity and this research has benefited from the development of molecular tools to analyze bacterial and host responses in vivo    .bioluminescence imaging bli is a non-invasive technology that permits the molecular analysis of cells through the expression of proteins that emit visible light  .
+
+this has implications for whole body imaging experiments as blue- green light is of a relatively short wavelength 400-490 nm and therefore has a reduced ability to penetrate host tissues compared with light emitted in the red region of the spectrum    .to date bli vectors utilized in l. monocytogenes have successfully exploited the bacterial lux operon for in vivo localization studies             and for in situ analysis of microbial gene expression        .
+

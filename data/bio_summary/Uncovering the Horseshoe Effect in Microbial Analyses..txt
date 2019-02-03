@@ -1,0 +1,30 @@
+this can yield unintuitive properties sample 10 could be less dissimilar to sample 1 than sample 20. for instance sample 10 could represent a medium-ph environment sample 1 could represent a low-ph environment and sample 20 could represent a high-ph environment.
+
+but as far as euclidean distance is concerned sample 10 is just as dissimilar to sample 1 as sample 20 just because there are no common bacteria shared between these samples.
+
+sample 20 is expected to be more different from sample 1 than sample 10 since it contains very different microbes that thrive in high-ph environments.
+
+all analyses can be found under .the mean gradient used for the 2 case studies was calculated as followsgn g xi 1x  l i ld xi1j1 jwhere xi is the proportion of otu x in sample i g x is the mean gradient of otu x and gi is the sample gradient at sample i. this calculation can be found in the gneiss package under the function meannicheestimator.
+
+the overlap of the first sample in the band table and sample 10 and beyond disappears and the distance between these samples is maximized.
+
+to calculate the distance between sample 1 and sample 2 the probability mass of species 1 and species 2 needs to be shuffled over to species 3 and species 4. this concept is analogous to computing maximum flow along a pipe and can be calculated using earth mover's distance metric .for the 88 soil samples fig.
+
+therefore even if two samples are not overlapping samples closer together have a smaller distance value than samples further apart in the gradient.
+
+s1a sample 1 and sample 2 have 4 species proportions each.
+
+b distance saturation of chi-squared metric plotting the chi-squared distance of the first sample versus all of the other samples.
+
+e unifrac distance of a given sample from the last time point versus all of the samples.
+
+in the 88-soil-sample study the table was sorted by sample ph and mean ph of the samples in which the organisms were observed.
+
+here we propose a rationale for the observed horseshoe effect from multiple dimensionality reduction techniques applied to simulations soil samples and samples from post- mortem mice.
+
+c heat map of log transformed otu counts from the 88 soil samples with the samples sorted by ph and the otus sorted by mean ph.
+
+this provides further evidence that this saturation property could explain the horseshoe phenomenon.for the 88-soil-sample study a permutational multivariate analysis of variance permanova was used to investigate the difference between soil samples with a ph less than 3 and soil samples with a ph greater than 8. with the embad metric the permanova gave a pseudo-f-statistic value of 650.5 and a p value of 0.0003 thus representing a much larger effect size than the original chi-squared distance metric with a pseudo-f-statistic value of 3.8 and a p value of 0.0004 with 9999 permutations.
+
+here we provide some insight into the mathematical struc- ture of horseshoes.in  we show a simulated band table where each vertical band is represented by a sample and contains 10 nonzero values.
+

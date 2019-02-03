@@ -1,0 +1,30 @@
+for each fold the training set was taken from one data set a2 while the test set was taken from a replicate data set a1 and m2 for cross-platform and cross-hospital analyses respectively.
+
+the original and synthetic data sets are displayed in  demonstrating segregation between the two classes while synthetic samples are grouped together with the original samples of the same class.to validate the synthetic data set we compared the distribution of each peak in the original data set to that in the synthetic data set.
+
+a balanced training set 400 samples was subsampled from the sim data set and the rest of the samples were perturbed and used as a test set.
+
+the simulated data set was validated by i comparing the feature distributions of the original data set and the simulated data by using the kolmogorov-smirnov test ii calculating the concordance correlation coefficient per class between the average profile of the original data set and that of the simulated data and iii using a learning curve.
+
+in the between-platform comparison we considered the a1 data set a reference data set and the a2 data set its replicate.
+
+on the basis of this assessment the synthetic data set was regarded as valid for further experiments.the predictive accuracy of the original data set was assessed by using seven different classifiers that obtained similar performance with the area under the curve auc ranging from 0.85 for l2-regularized logistic regression to 0.92 for nearest shrunken centroids nsc .
+
+uc and cd were taken together as a single ibd group since both presented similar variations see below for details.we used a learning curve of increasing training set sizes to assess the predictability of the synthetic data and to determine the optimal training set size that should be sampled.
+
+training sets of 400 samples were repeatedly subsampled 100 times from the sim data set while the rest of the samples served as a test set.
+
+ten balanced training sets of 400 samples each were subsampled from every data set while the rest of the samples were used as a test set.
+
+each classifier was trained by using samples from one data set and tested on samples from a replicate data set.
+
+all models were trained by using the a2 data set n  116 and the test set was limited to the 28 samples that were shared by all three data sets.shows that while the cross-platform accuracy blue was relatively low the cross-hospital accuracy pink was comparable to the within-data-set models' accuracy green.
+
+all values of 6 log2 rfu were set to 0. this simulation was used to complete the original data set to a total of 10000 samples balanced between healthy and ibd samples.
+
+we subsampled 400 unperturbed samples from the sim data set balanced between groups to be used as a training set for the classifier.
+
+in the between-hospital comparison we considered the a2 data set the reference and the m2 data set the replicate.
+
+additionally a large synthetic data set was used to simulate various perturbations and study their effects on the accuracy of different classifiers.
+

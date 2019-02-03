@@ -1,0 +1,30 @@
+to investigate the relationships of sasp ibd and gut microbiome we used 246-trinitrobenzenesulfonic acid tnbs to induce experimental colitis in rats and analyzed the microbiota in the fecal samples which come from the control group treated with ethanol  saline the model group treated with tnbs-ethanol  saline and the sasp group treated with tnbs-ethanol  sasp with 16s gene sequencing and followed up a subset sample using shotgun sequencing.
+
+thus the tnbs-induced colitis offer an inexpensiveand reproducible model for exploring the relationships of ibd sasp and gut microbiome.in order to evaluate how gut microbiome contributes to the colonic inflammatory etiopathogenesis and depict the trait of gut microbiome reacting to sasp we investigated the effects of sasp treatment on host disease status and on gut microbiome composition and function in tnbs-induced colitis model with 16s rrna gene sequencing and shotgun metagenomic sequencing.
+
+the taxonomic profiling demonstrated that sasp treatment could increase the level of firmicutes and reduce the level of proteobacteria and bacteroidetes modulating the gut composition of rats with experimental colitis to levels similar to that of the control group.key phylotypes responding to the sasp treatment in tnbs-induced colitiswe used lefse to identify the specific bacterial phylotypes that were altered by tnbs administration and sasp treatment.
+
+in addition the mycoplasmataceae including mycoplasma associated with infertility were significantly more abundant in the sasp group compared with the model group.additionally to identify gut microbiome responses associated with sasp and legacy effects we determined the microbial clade differences between the control group and the sasp group using lefse supplementary figures s3 s4.
+
+moreover a higher proportion of mycoplasma in the sasp group relative to the model and control groups may be used to explain the side effect of fertility in patients treated with sasp.microbial metabolic functions associated with sasp treatment in tnbs-induced colitisto investigate the gut microbiome functions related to the tnbs administration and sasp treatment we adopted picrust to infer putative metagenomes from 16s rrna gene profiles.
+
+meanwhile the increase of mycoplasma in the sasp group may provide a clue to explain why infertility was more prevalent in ibd patients with sasp treatment than the patients without sasp treatment.
+
+considering the relationship of gut microbiome sasp and ibd there is a possible way to clarify the mechanism of sasp from the perspective of gut microbiome.
+
+in addition the increased mycoplasma in the sasp group may be used to explain why infertility would occur in those ibd patients with sasp treatment.materials and methodsinduction of experimental colitisanimal experiments were permitted and performed in strict accordance with the manuals of institutional animal care and use committee iacuc of guangzhou university of chinese medicine.
+
+after acclimatization for 7 days a total of 18 rats were randomly and equally divided into three groups as follows the control group treated with ethanol saline the model group treated with tnbs-ethanol saline and the sasp group treated with tnbs-ethanol sasp.
+
+after 2 weeks' tnbs administration rats in the control group and the model group were subjected to gavage with normal saline by equal volume of sasp while the sasp group were orally administered at a dose of 300 mgkgday for 16 consecutive days respectively.
+
+the dai of the sasp group was significantly lower than that of the model group while it was higher than the control group implying that colitis with sasp treatment could attenuate inflammation.mpo activity is positively correlated with the neutrophil inflammatory infiltration  .
+
+collectively it was conclude that the tnbs-induced colitis shared similar symptoms with cd and sasp could alleviate inflammation in rats with colitis vs. the rats in the model group.overall structure modulation of intestinal flora with saspthe impact of sasp on intestinal flora composition was examined by analyzing bacterial 16s rrna v4 region with miseq platform.
+
+meanwhile as shown in  the value of observed otus in the sasp group was significantly lower than the control group p  0.05.figure 1  sasp reduces inflammation in tnbs-induced colitis.
+
+effects of sasp treatment on the disease activity index a mpo activity b the length of the colon c histopathological score g. and the representative pathological section of the colon tissues from rats in the model group d the control group e and the sasp group f. scale bar 200 um.
+
+thus the changes in the microbiota revealed the intestinal dysbiosis involved in the experimental colitis.moreover to investigate the effects of the sasp treatment on the microbiome the differentiated taxon between the sasp group and the model group was assessed.
+

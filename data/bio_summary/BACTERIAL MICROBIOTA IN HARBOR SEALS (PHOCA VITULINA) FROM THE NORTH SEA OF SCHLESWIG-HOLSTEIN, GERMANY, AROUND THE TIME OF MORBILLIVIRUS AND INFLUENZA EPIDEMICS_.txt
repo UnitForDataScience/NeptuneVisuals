@@ -1,0 +1,30 @@
+harbor seal influenza microbiologic findings north sea phoca vitulina phocine distemper.introductionthe population of harbor seals phoca vitulina in the wadden sea of the north sea has been decreasing since the mid-1970s largely from the effects of hunting e.g.
+
+201-214c wildlife disease association 2017bacterial microbiota in harbor seals phoca vitulina from the north sea of schleswig-holstein germany around the time of morbillivirus and influenza epidemicsursula siebert14 marion rademaker1 sophie a. ulrich1 peter wohlsein2 katrin ronnenberg1 and ellen prenger-berninghoff31 institute for terrestrial and aquatic wildlife research university of veterinary medicine hannover werftstrasse 6 25761 buesum germany2 department of pathology university of veterinary medicine hannover buenteweg 17 d-30559 hannover germany3 institut fu r hygiene und infektionskrankheiten der tiere justus-liebig-universita t giessen frankfurter strasse 85-89 35392 giessen germany4 corresponding author email ursula.sieberttiho-hannover.deabstract we present microbiologic findings in harbor seal phoca phoca vitulina carcasses collected from the north sea of schleswig-holstein germany 1996-2014 and interpret results in relation to potential variations caused by phocine distemper virus and influenza a virus mass mortalities.
+
+were isolated from harbor and gray seals halichoerus grypus and harbor porpoises phocoena phocoena along the german north sea coast prenger-berning- hoff et al.
+
+2013. we analyze results of microbiologic investigations conducted on harbor seals collected from the north sea coast and discuss their relevance for harbor seal health.
+
+2k.discussionthe occurrence of a large variety of bacteria and fungi in harbor seals from the german north sea since 1996 is comparable to investigations on harbor porpoises from the same area siebert et al.
+
+bacterial microbiota in harbor seals phoca vitulina from the north sea of schleswig- holstein germany around the time of morbillivirus and influenza epidemicsauthors ursula siebert marion rademaker sophie a. ulrich peter wohlsein katrin ronnenberg and ellen prenger-berninghoffsource journal of wildlife diseases 532201-214. published by wildlife disease association url bioone  is a nonprofit online aggregation of core research in the biological ecological and environmental sciences.
+
+we conducted microbiologic investigations on 2124 tissue samples from lung liver kidney spleen intestine and mesenteric lymph nodes from 549 dead harbor seals of the german north sea.
+
+subsequently the importance of management and conservation of harbor seals was recognized by the establishment of thetrilateral wadden sea agreement.
+
+the ban- ning of hunting reduction of pollution sourc- es establishment of national parks in german waters and recognition of the wadden sea as a united nations educational scientific and cultural organization world heritage site in 2009 facilitated the recovery of the harbor seal population reijnders et al.
+
+2014. in 1988-89 and 2002 the north sea and baltic sea harbor201seal populations experienced two epizootics of phocine distemper kennedy 1998 ha rko nen et al.
+
+we also analyze effects of time space and life-history traits.materials and methodsto determine the health of harbor seals from german waters 2105 individuals found dead or moribund along the north sea coast were collected by the stranding network of schles- wig-holstein between 1996 and 2014 as de- scribed by siebert et al.
+
+1995. additionally thiosulfate-citrate-bile salt-sucrose vibrio-selective agar e. merck brucella agar base with brucella-selective sup- plement oxoid wesel germany kimmig agar e. merck for selective culturing of fungi and a selective medium for the isolation of erysipelo- thrix rhusiopathiae modified by bo hm 1971 were incubated according to the respective methods necessary for culturing each organismfigure 1. locations along the north sea coast of schleswig-holstein germany where harbor seals phoca vitulina were found between 1996 and 2014.for example brucella selective agar was incubat- ed with 10 co2 for at least 5 d for isolation of fungi kimmig agar incubation occurred at 28-30 c for 3-14 d siebert et al.
+
+all analyses were run in r 3.1.2 r core team 2014. the gams were calculated in the package mgcv wood 2011.resultsmany bacterial and a few fungal species and genera were isolated from tissue samples of the 549 investigated harbor seals table 1. several of these are potentially pathogenic to humans and animals including harbor seals e.g.
+
+the occurrence of b. bronchiseptica was also significantly associated with both the morbillivirus and the influenza-associated die- off v214206.4 df142 p0.001.table 1. frequency of bacterial isolated from organtable 1. continued.samples of 549 harbor seals phoca vitulina collected along the north sea coast of schleswig-holstein germany 1996-2014.name of bacteriumfungusisolation frequencypseudotuberculosis atypicxerosiscronobacter malonaticus1delftia acidovorans2edwardsiella tarda8rhodotorula yeasts16salmonella spp.gr.
+
+in harbor seals phoca vitulina in the north sea 1996-2014. the left column shows the trend over the study period the right column shows the cyclic term day of the year as a term for seasonal dependencies.
+

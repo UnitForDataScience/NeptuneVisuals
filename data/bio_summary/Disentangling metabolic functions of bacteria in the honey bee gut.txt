@@ -1,0 +1,30 @@
+we found 3 com- pound classes to be strongly enriched flavonoids 20 of 36 annotated ions one-sided fisher's exact test p  0.001 and both purine nucleosides and analogues and pyrimidine nucleo- sides and analogues in total eight of nine annotated ions both p  0.01. seven flavonoids three nucleosides and a nucleoside precursor orotate mz 155.009 were also among the 28 substrate ions with the most discriminatory power for distinguishing cl versus md bees as based on opls-da .
+
+in contrast we identified four ions among the bacterial products that could result from biodegradation of aromatic amino acids and flavonoid agly- cones two ions annotated as hydroxy- and dihydroxyphenylpropionate mz 165.055 and mz 181.050 both of which are known c-ring cleavage products of flavonoids and two ions anno- tated as maleylacetate mz 157.013 and hydroxy-3-oxoadipate mz 175.024 which are inter- mediates of aromatic compound degradation pathways  -.
+
+three compound classes were to some extent enriched among the bacterial products  carboxylic acids and derivatives seven of 26 annotated ions one-sided fisher's exact testp  0.03 fatty acids and conjugates seven of 29 annotated ions p  0.05 and eicosa- noids five of eight annotated ions p  0.01.fermentation products.
+
+flavonoids were enriched substrates for firm-5 11 of 126 substrate ions p  0.01 and b. asteroides six of 55 substrate ions p  0.01 and many flavonoids were also utilized by firm-4 seven of 107 substrate ions p  0.051 and .
+
+in order to be certain that only pollen-derived substrates were included for every strain only ions that displayed a significant negative log2fold change exclusively in the base medium supplemented with pollen extract were considered as in vitro pollen substrates.to identify ions that might be cross-fed between g. apicola and s. alvi ions were selected that increased during the growth of g. apicola and were depleted when s. alvi was grown in this conditioned medium mixed 11 with fresh base medium.
+
+the two o-hydroxy acid ions 91018-trihydroxystearate mz 315.254 and 910-dihydroxystearate mz 331.248 that were identified among the most dis- criminatory substrate ions and  have been reported to be major constituents of sporopollenin  the biochemically inert and heterogeneous biopolymer forming the rigid structure of the outer pollen wall the exine .
+
+however we found that 27 of the 28 most discriminatory substrate ions and 15 of the 22 most discriminatory prod- uct ions showed qualitatively the same changes in hive bees as in cl bees  welch's t test bh adj.
+
+p s 0.01. on the substrate side this included most flavonoid ions all nucleosides quinate and citrate as well as the ions annotated as o-hydroxy acids and phenolamides from the outer pollen wall.
+
+a bar graphs show the fraction of the metabolic changes explained by mono-colonizations and hive bees for substrates 240 ions and products 132 ions.
+
+ions annotated as glycosylated flavonoids flavonoid aglycones non-glycosylated flavonoids or putative flavonoid breakdown products are shown in color when they displayed log2fold changes 1. other annotated ions are plotted in grey.
+
+we annotated a total of 1031 ions  of which 427 41 were also present among the 1079 ions from the in vivo dataset.
+
+seven of these 13 substrates belonged to the most discriminatory substrate ions for cl versus md bees  three flavonoids quercitrin afzelin and rutin one nucleoside inosine and ions annotated as quinate citrate and 2-fuorate.
+
+for reasons of trans- parency we carried out four different pcas on all annotated ions or the subset of ions with robust changes between cl and md bees and on log2-normalized or z-score normalized ion intensities.
+
+the results of the full anova analysis can be explored in .for this study the focus was on differences between any group and md bees which were con- sidered significant when having a tukey hsd post hoc adjusted p value s 0.05. when for a specific mono-colonization group this significance cut-off was met and the direction of the change was the same as that for cl versus md the ion was considered to be explained by this group.in order to enrich for pollen ions we only considered ions with an arithmetic mean inten- sity of 2'10000 in the pollen samples in addition to being highly significantly different from water-matrix control samples welch t test with bh correction s 0.001 t.test and p.adjustx method  bh in r combined with log2fold change difference of 2' 2.for the in vitro data  the goal was to identify pollen substrates and bacterial prod- ucts for which changes in levels were observed in vivo and in vitro.
+
+an orthogonal projection of least squares-differentiation analysis opls-da based s-plot of metabolite changes shows the ions responsible for cl and md separation.
+

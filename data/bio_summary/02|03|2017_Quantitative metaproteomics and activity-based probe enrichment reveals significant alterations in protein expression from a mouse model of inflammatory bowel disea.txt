@@ -1,0 +1,30 @@
+close clustering was observed among the rag-- control experimental replicates as well as for the ibd mouse samples suggesting differences in the proteomic makeup between control and ibd mice supporting information figure s4.despite the conservation of the overall number of detected peptides in the ms data quantitative differences in peptide abundance were evident between the control and ibd mice.
+
+utilizing the protein ratio values from census and applying a student's t-test combined with a benjamini-hochberg adjustment to correct for multiple testing we identified 89 proteins significantly more abundant in ibd mice and 112 proteins significantly reduced in ibd in comparison to the rag-- control group figures 2a b. of the proteins with greater abundance in the ibd mice 33 were murine including serpinc1 mug1 pzp and serpina3c.
+
+despite these persistent proteins from the silam spirulina diet we were able to quantitate many host and microbial proteins that are differentially present between control and ibd mice.ibd mice overexpress host protease inhibitors and inflammatory proteinswe focused metaproteomic data collection and analysis on week-8 endpoint samples when inflammation was most severe and the differences in protein expression between the rag-- control and ibd mice would be greatest.
+
+mice were placed on an isotopically enriched spirulina-based chow 14 days post t cell transfer whereby the rag-- control group 10 mice receivedthe 15n isotopically labeled spirulina and the ibd group 10 mice were fed the corresponding unlabeled natural abundance 14n spirulina.1011 lc-msms mudpit data collection and quantitative analysis were performed on the unenriched fecal bacterial samples within the first 24 hr on the spirulina-based chow.
+
+our proof-of-principle study with labeling introduced the probe after the 11 mix of 14n15n silam fecal samples in order to equally enrich the samples with the bioglycmk probe.enrichment with bioglycmk resulted in identification of an average of 1837-293 peptides corresponding to 1088-160 proteins and 968-128 peptides with 895-114 protein matches for the 14n ibd and 15n control samples respectively.
+
+while the rag---associated functions are indicative of normal metabolic pathways the depletion of these microbial proteins in ibd mice may suggest a limited abundance of resources for biosynthesis.mayers et al.page 11differences in taxonomic composition between control and ibd miceaside from the identification and quantitation of microbial proteins we wanted to evaluate the ability of our metaproteomics data to estimate the microbial composition of the samples analyzed.
+
+cd3cd4cd8-cd25-foxp3- naive t cells collected via fluorescence- activated cell sorting from the spleens of donor foxp3-egfp reporter mice jackson laboratories stock 006772 were transferred retro-orbitally to 10 rag1-- mice approximately 5x105 t cells per mouse hereafter referred to as ibd mice.
+
+may have improved ability tomayers et al.page 10survive over food-dependent luminal bacteria in stressful gastrointestinal conditions.4344 our results demonstrate that application of quantitative metaproteomics to microbiome studies will complement sequencing efforts and help shed light on the phylogenetic alterations associated with microbiome-associated intestinal diseases.proteins increased in control mice are primarily from microbesthe majority of significantly increased proteins in the rag-- mice or depleted in the ibd mice are of microbial origin.
+
+go term analysis with the gsea algorithm shows a statistically significant increase in peptides from microbial peptidases and hydrolases from the ibd microbiome samples and proteolysis ranked as the most highly enriched biological process table 2. while our probe only targeted the subset of cysteine-based proteases it is clear from these results as well as the unenriched data set where host-produced protease inhibitors are tremendously increased that proteolytic activity is a critical component of the ibd mouse model.
+
+use of abps with more specific spectrums of target functionalities will likely generate enriched datasets that fall within the detection limit of tandem mass spectrometers and would further improve the reproducibility of both biological and technical proteomic data replicates.application of bioglycmk probe highlights additional differences in control and ibd mice we focused our analysis to quantitate differences among the bioglycmk-enriched rag-- control and ibd proteomic datasets to those peptides and proteins uniquely identified incomparison to the unenriched data sets.
+
+all ibd mice were confirmed to have intestinal inflammation by histology supporting information figure s2 and were included in the experiment.fecal microbiome sample preparation for lc-msms analysispooled fecal samples were thawed in 3 ml of cold pbs and vigorously vortexed to break up fecal pellets.
+
+prepared soluble microbiome samples from rag-- control and ibd mice were mixed 11 in aliquots containing 50 mg each 15n and 14n labeled proteome figure 1b.
+
+mass spectrometry data obtained from the 14n ibd mice demonstrated these fecal samples to have a relatively low number of spirulina proteins with respect to all host and bacterial proteins supporting information figure s3.
+
+the attributable presence of spirulina proteins in the ibd mice samples reached a 1.3 maximum of all identifiable proteins.
+
+proteins in ibd microbiota samples correlates with several previous studies on humans and mice.
+

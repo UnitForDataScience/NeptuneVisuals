@@ -1,0 +1,30 @@
+very recently  showed that the structure of the eps of l. casei bl23 consists of a-rha a-glc b-glcnac and b-galnac forming a branched heptasaccharide repeating unit variant 1 with an additional partial substitution with a-glc variant 2 and a modified non-reducing octasaccharide end corresponding to a terminal unit of the eps variant 3. we showed that the survival rate of zebrafish was significantly higher in fish treated with epsp of bl23 at 10-20 ugml than in control fish after a. veronii infection  p  0.001. in addition the epsp induced more expression of tlr1 tlr2 il-10 and tnf-a and reduced the expression of il-1b in zfl cells  p  0.05. these findings indicated that the epsp enhanced zebrafish immuneresponse against a. veronii might involve the tlr1tlr2 signal pathway.conclusionour results indicated that the l. casei bl23 showed high efficiency against a. veronii infection in zebrafish irrespective of cell viability.
+
+wherever applicable p-values are reported and a p-value of 0.05 is considered significant.resultsidentification of probiotic bacteria that mitigate a. veronii infection inpre-colonized zebrafish larvaein order to screen the probiotic strains that protect zebrafish larva from damage induced by a. veronii infection we pre-colonized unhatched 3 dpf conventional zebrafish larvae with 17 gram-positive bacteria commonly often used as probiotics in aquaculture and elsewhere in the food industry .
+
+these gut microbiota recipient larvae were then infected with a. veronii at 7 dpf and their mortality was compared to that of the a. veronii-infected gf larvae.
+
+the mrna levels of tnf-a il-1b il-10 and saa were higher in l. casei bl23-treated larvae than in gf larvae at 24 h  p  0.01 and lower except il-10 at 48 h after challenge with a. veronii p  0.05.collectively these data indicated that the protection of l. casei bl23 against a. veronii infection in zebrafish larvae was mediated by baceterium itself and did not involve the microbiota.protective effect of l. casei bl23 irrespective of cells' viabilityin order to determine whether protective effect of l. casei bl23 in zebrafish is mediated by cellular metabolites or cell structural components we tested the effect of live and dead 4 paraformaldehyde fixed cells of l. casei bl23 in both conventional and gf zebrafish.
+
+the results showed that for both conventional and gf zebrafish live and dead cells of l. casei bl23 both efficiently increased the survival rate of zebrafish larvae after infection with a. veronii  2ef p  0.05. in addition a similar difference in cytokine expression was observed between dead bl23-treated larvae and live bl23-treated larvae after a. veronii infection .
+
+then the larvae were infected with a. veronii at 7 dpf and the survival rates of these fish were compared to the a. veronii-infected gf fish.
+
+in addition we showed that both live and dead cells of l. casei bl23 significantly increased resistance against a. veronii infection in gf and conventional zebrafish   p  0.05. l. casei bl23 also modulated the expression of the pro-inflammatory cytokines il-1b and tnf-a the inflammation marker saa and the regulator cytokine il-10 after a. veronii infection  p  0.05. we speculated that the anti-infective effect of l. casei bl23 was mediated by the enhancement of immune responses against pathogens in zebrafish which was induced by certain cellular structural components of bl23 but not mediated by metabolites.
+
+29 2-14. newaj-fyzul a. al-harbi a. h. and austin b.
+
+we found that lactobacillus casei bl23 significantly increased the survival of zebrafish larvae upon a. veronii infection.
+
+a. veronii was grown in luria-bertani lb broth for 18 h at 37c with 200 rpm shaking.animalsadult zebrafish and larvae danio rerio tu line were reared in the lab.
+
+we found l. casei bl23 able to robustly protect zebrafish larvae from a. veronii infection from 17 potential probiotic bacterial strains.
+
+at 7 dpf fish were infected with virulent a. veronii at a dose of 2 107 cfuml after water renewal.
+
+after 3 days of colonization fish were challenged with a. veronii at a dose of 2.0 107 cfuml after gzm was renewed.
+
+after three days of probiotics exposure fish were then infected with virulent a. veronii at a dose of 2 107 cfuml after gzm was renewed.
+
+the primer sequences are listed in .table 2  primers for rt-qpcr.primersequence 5 -3 rps11 facagaaatgccccttcactgrps11 rgcctcttctcaaaacggttgrpl13 ftctggaggactgtaagaggtatgcrpl13 rtcagacgcacaatcttgagagcagtnf-a fcagagttgtatccacctgttatnf-a rttcacgctccataagacccail-10 fatttgtggagggctttccttil-10 ragagctgttggcagaatggtsaa fcgcagaggcaattcagatsaa rcaggcctttaagtctgtatttgttgil-1b fgagacagacggtgctgtttail-1b rgtaagacggcactgaatccatlr-4a ftgtcaagatgccacatcagatlr-4a rtccacaagaacaagcctttgtlr3 fctacgtgatagctccgcctctlr3 racaagcgtagaacaagggcatlr5a fcattctggtggtgcttgtttlr5a rctgctgcttcaggattgtttlr2 fatacaagccaaacggaaaccttlr2 rcttctcacatttccgcatcatnf-kb fgcaagatgagaacggagacacnf-kb rctaccagcaatcgcaaacaatlr5b fgtgaggagcctgatcctgatagtlr5b rcatactaaatgtataataagtctaccatgmyd88 ftccacagggactgacacctgagamyd88 rgctgagtcttcagcacagcagattlr1 fcccaagcttgaaggcgactgtgtlr1 rgtactttgagggaatgagatacagil-6 ftcaacttctccagcgtgatgil-6 rtctttccctcttttcctcctgpre-colonized larvae were then infected at 7 dpf with a. veronii and their mortality rate was compared to that of the control larvae.
+

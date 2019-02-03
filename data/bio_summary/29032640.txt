@@ -1,0 +1,30 @@
+it varies from 0 to 1 and the index increases as the diversity decreases 23.when we compare shannon-weaver or simpson diversity indices between samples with different number of sequences normalization of the number of sequences in all samples is important before examining microbial community diversity because these diversity index values increase as the number of sample size increases hence normalization is crucial to avoid biases in the results 21.rarefactionwhen microbiota are collected from a certain niche there is a need to evaluate how well a sample reflects the true diversity of the specific niche which is synonymous with species richness and relative abundance in time and space 14. the advent of cutting-edge biological techniques such as high-throughput sequencing technology has uncoveredtable 1. ecological diversity measures commonly used in microbial ecology studies.diversity indicesparametersdescriptionformulareferenceshannon diversity index hsimpson's index destimator of species richness and species evenness more weight on species richnessestimator of species richness and species evenness more weight on species evennessh  -pi ln pii1where s is the number of otus and pi is the proportion of the community represented by otu i.
+
+relative richness measurement of otus actually observed in samples whereas ace abundance-based coverage estimator and chao1 indices are used to estimate richness estimated richn s measurement of otus ewxepreecitdedentiinfiesdaminptlhese sgaimvepnlesall1t6h-e1b8a.cterial species that in the analysis of microbial community diversity there is no general agreement on which diversity index is the best to use 19. however the uses of shannon-weaver andsimpson diversity indices have been recommended to robustly measure microbial diversity 20. here in we describe the estimates of species richness and evenness in the study of structure function and evolution of microbial communities.
+
+in this review important questions concerning microbial diversity are addressed.shannon-weaver and simpson diversity indicesa definition of biodiversity is widely cited as follows biological diversity means the variability among living organisms from the ecological complexes of which organisms are part and it is defined as species richness and relative species abundance in space and time 14. a variety of approaches have been used to quantify biological diversity.
+
+even though there is no general agreement on which diversity index is the best to use diversity indices have been used to compare the diversity among samples and between treatments with controls.
+
+shannon-weaver and simpson diversity indices have been traditionally used to measure the diversity of communities 15.shannon-weaver and simpson diversity indices provide more inference about the community composition than simple species richness or evenness table 1. both also contemplate the relative abundances of different species.
+
+information from this review should facilitate evidence-based strategies to explore microbial communities.introductionkeywords microbiota microbial diversity microbial ecology diversity indexpresent in the gi tract 3-5.the majority of the bacteria in the git are yet to bethe microbiome the totality of microbes is found in and on all subjects from plants to animals.
+
+species identification with high-resolution the important features of a bacterial community in a certain niche are characterized by the number of species present and their numerical composition bacterial diversity.been developed 13-15. shannon-weaver and simpsonin order to compare the bacterial diversity from samples ofmicroorganisms a variety of bioinformatics tools havediversity indices are commonly used in bacterial diversity measurement based on operational taxonomic units otus.
+
+a species diversity index denotes a mathematical measure of species diversity in a community.
+
+2017 2712 2089-2093 httpsdoi.org10.4014jmb.1709.09027 review jmbdeciphering diversity indices for a better understanding of microbial communities1111223bo-ra kim  jiwon shin  robin b. guevarra  jun hyung lee  doo wan kim  kuk-hwan seol  ju-hoon lee 14hyeun bum kim  and richard e. isaacsondepartment of animal resources science dankook university cheonan 31116 republic of korea national institute of animal science rural development administration wanju 55365 republic of koreadepartment of food science and biotechnology institute of life science and resources kyung hee university youngin 17104 republic of korea department of veterinary and biomedical sciences university of minnesota st. paul mn 55108 usathe past decades have been a golden era during which great tasks were accomplished in the field of microbiology including food microbiology.
+
+in the past culture-dependent methods have been the primary choice to investigate bacterial diversity.
+
+consequently understanding microbial diversity becomes of greater importance when investigating the composition function and dynamics of the microbiota associated with health and diseases.
+
+tools such as the shannon- weaver index and simpson index can be used to describe population diversity in samples.
+
+the purpose of this review is to explain the principles of diversity indices such as shannon- weaver and simpson to aid general microbiologists in better understanding bacterial communities.
+
+in this review important questions concerning microbial diversity are addressed.
+
+the development of a culture-independent method based on the pcr amplification cloning and sequencing of the 16s rrna gene has been limited because of high costs and the lack of throughput 5 6. however the recent application of targeted dna sequence analysis of the 16s rrna gene coupled with next-generation sequencing technologies now enables us to intensively explore microbial communities of the gi tract and describe overall diversity 7 8.with the development of high-throughput dna sequencing characterization of microbial populations is advancing at an accelerated pace.
+

@@ -1,0 +1,30 @@
+finally we analyzed sfgfp expression by flow cytometry using mcherry expression to identify our sensor bacteria among the native microbiota and other particles appendix fig s20.each ligand activates its corresponding sensor and these responses are attenuated when the tcss are inactivated by muta- tion appendix figs s21 and s22.
+
+however there is no known genetically encoded thiosulfate sensor and the only known geneti- cally encoded tetrathionate sensor is the ttrsr two-component system tcs from s. typhimurium hensel et al 1999 price-carter et al 2001. this tcs comprises ttrs a membrane-bound sensor histidine kinase sk that phosphorylates the cytoplasmic response regulator rr ttrr in the presence of tetrathionate.
+
+thus we hypothe- sized that a bioinformatic search for a tcs containing a sensor kinase sk with a phnd-like sensor domain located near a thiosulfate reduc- tase might reveal an uncharacterized thiosulfate sensor.we searched the uniprotkb sequence database for all sks with phnd-like sensor domains resulting in 838 proteins materials and methods and dataset ev1.
+
+these results suggest that either our engineered s. baltica ttrsr construct does not function in vivo or tetrathionate concentration in the lumen of dss-treated mice where our sensor bacteria likely reside in this 6-h protocol is below the1 lm limit of detection fig 4f.discussionwe have discovered and validated the first genetically encoded thio- sulfate sensor thssr and a tetrathionate sensor s. baltica ttrsr with improved performance features relative to the only previously known variant.
+
+we then re-measured ligand activation which revealed that this alteration does not change the performance of either sensor appendix figs s15 and s16.then we analyzed the performance of each nissle sensor strain in anaerobic conditions in vitro materials and methods.
+
+we observe a weak correla- tion between fluorescence output and histopathology score for the wild-type sensor but not the inactive d57a sensor appendix fig s27.
+
+here we computationally identify the first biological thiosulfate sensor and an improved tetrathionate sensor both two-component systems from marine shewanella species and validate them in laboratory escherichia coli.
+
+in a fourth study a sensor bacterium was designed to measure host fucose levels in response to toll-like receptor activation via fluores- cence microscopy pickard et al 2014. however the mice in this study and the three previous studies were either raised in germ- free conditions or pre-treated with antibiotics to clear the native microbiota prior to administration of the engineered sensor strains.
+
+using histologic scoring we demonstrate that our thiosulfate sensor is activated by colon inflammation suggesting thiosulfate may be a novel biomarker and that our sensor bacteria have potential as a non-invasive diagnostic of colitis.
+
+these data suggest that crp binding is required for full activation of pphsa342 consistent with known anaerobic respiration pathways in shewanella saffarini et al 2003 wu et al 2015.characterization and optimization of the tetrathionate sensor sbal19538598 shewanella baltica ttrsrwe next characterized the putative tetrathionate sensor that we had identified computationally.
+
+overall our efforts yielded gut-optimized sensors with similar low and high outputs and dynamic range as the initial in vitro-optimized versions fig 4b and e. finally anaer- obic growth results in a 17-fold fig 4f increase in sensitivity of the re-optimized s. baltica ttrsr toward tetrathionate possibly due to a reduction in fnr binding to pttrb185-269 relative to aerobic conditions.to examine whether our sensor bacteria function in the complex colonic environment whole colons were excised from healthy mice tied and injected with sensor bacteria and either 0 mm or 5 mm thiosulfate or 0 mm or 1 mm tetrathionate.
+
+these mice were then orally gavaged with either 109 cfus of e. coli nissle containing the sensor or 109 cfus of e. coli nissle contain- ing a sensor with the rr inactivating mutation d57a for thiosul- fate and d55a for tetrathionate.
+
+third a majority of known shewanella reductase promoters are not regulated by fnr or nitrate maier  myers 2001 wu et al 2015 reducing the chance of unwanted cross-regulation in e. coli.shal31289 is a thiosulfate sensor thssrthe candidate thiosulfate-sensing sk shal3128 and predicted fixj- like rr shal3129 reside adjacent to a 342-bp intergenic regionhereafter pphsa342 appendix fig s2a upstream of shal3127-5 which encodes a predicted thiosulfate reductase fig 1a.
+
+though glucose decreases absolute transcriptional output bacteria expressing this sensor are still activated by tetrathionate 0 mm tetrathionate 81 - 6 mefl 1 mm tetrathion- ate 425 - 120 mefl appendix fig s13.using the same set of inactivating mutations as before we vali- dated that the tetrathionate response is due to canonical tcs phos- pho-signaling through s. baltica ttrsr fig 3e.
+
+finally unlike thssr s. baltica ttrsr is not inhibited by any of the alternative teas appendix fig s14.optimizing thssr and shewanella baltica ttrsr for the gut environmentwe performed the above sensor development studies aerobically in monoculture in a domesticated laboratory strain and using chemi- cal inducers to optimize sk and rr expression levels.
+

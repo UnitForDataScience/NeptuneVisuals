@@ -1,0 +1,30 @@
+furthermore cbirtox treated dcs induce considerable iga production in vitro from a subset of naive b cells via a mechanism that is in part dependent on ra signaling.collectively these data suggest that cbirtox modulates mtor signaling in apcs to induce cd4foxp3 tregs directed at microbiota antigen thereby establishing it as a novel inducer of the treg-iga pathway and tolerance.resultsthe ctb-a2-cbir1 fusion protein cbirtox activates cbir1 tg t cells in vitrothe antigenic portion of the fusion protein cbirtox which replaces the toxic a1 subunit of ct is composed of a 261 base pair fragment of the carboxy terminus of cbir1 flagellin that expresses the dominant cbir1 tcr transgenic epitope and is genetically fused to the a2 linker of ct and expressed recombinantly with ctb .
+
+dcs pulsed with cbirtox for as little as five minutes were able to induce significant proliferation in cbir1 tcr tg cd4 t cells demonstrating that cbirtox efficiently presents antigen and is capable of activating antigen-specific cd4 t cells in vitro .dcs and b cells pulsed with cbirtox selectively induce cd4foxp3 cbir1 tg t cell in vitrofoxp3 tregs are important mediators of the immune response and function to control teff cell responses as well as provide help to iga b cells in the intestine .
+
+addition of rapamycin caused a slight though not significant increase in foxp3 induc- tion in cbir1 peptide cultures but elicited no change in cbirtox treated cultures .since rapamycin did not augment foxp3 expression in cbirtox treated cultures we inferred that cbirtox may downregulate mtor signaling.
+
+in order to amplify the treg- iga pathway we have generated a fusion protein cbirtox comprised of a portion of the carboxy terminus of cbir1 a microbiota flagellin genetically coupled to cholera toxin b subunit ctb via the a2 linker of ct. both dendritic cells dcs and b cells pulsed with cbir- tox selectively induced functional cd4foxp3 tregs in vitro and cbirtox augmented cd4foxp3 cell numbers in vivo.
+
+c cd11c dcs were pulsed with 1 mgml of cbirtox for 1 hour 30 minutes or 5 minutes and then co-cultured 110 with cfse labeled cd4 cbir1 tcr tg t cells for 3 days in vitro before flow cytometry analysis in order to verify biological activity of cbirtox.
+
+in order to test the biological activity and antigen presentation properties of cbirtox splenic cd11c dcs were pulsed with 1 mgml cbirtox corresponding to 0.025 mg of cbir1 flagellin for multiple time points and subsequently cultured with caroboxyfluorescein diacetate succinimidyl ester cfse labeled cbir1 tcr tg cd4 t cells for three days in vitro before analysis with flow cytometry.
+
+in order to deter- mine if cbirtox was capable of inducing foxp3 expression in naive t cells cbirtox pulsed apcs were incubated with cd4cd25- cbir1 tg t cells in vitro.
+
+cbirtox selectively induced foxp3 expression as both b cells and dcs pulsed with cbirtox did not promote production of ifn-g after stimulation with pma and ionomycin in contrast to apcs pulsed with cbir1 peptide .
+
+in order to determinethe phenotype of tregs induced after cbirtox treatment rna was collected from sorted cd4foxp3gfp tregs generated via co-culture of lps-free cbirtox pulsed splenic cd19 b cells and cd4cd25- cbir1 tg t cells using b6.10bitfoxp3gfpcbir1tg mice .
+
+shown are selected gene transcripts associated with tregs that are up or downregulated in cbirtox tregs.dcs and b cells pulsed with cbirtox specifically induce cd4foxp3 cbir1 tg t cell in vitro.
+
+a-b splenic cd11c dcs were pulsed with 1 mgml cbirtox or cbir1 peptide for 1 hour while cd19 b cells or yamc cells were pulsed with 2 mgml cbirtox or cbir peptide for 2 or 4 hours respectively and co-cultured with cd4cd25- cbir1 tg t cells for 4 days before flow cytometry analysis.
+
+in order to determine if cbirtox induced foxp3 in vivo cbir1 tg mice were injected intravenously with cbirtox or pbs and the cd4foxp3 treg population in the spleen and mlns was analyzed one week later.
+
+to circumvent this issue and deter- mine if ra plays a role in foxp3 induction after cbirtox treatment of dcs ra or the ra receptor inhibitor le135 was added to cultures of cbirtox pulsed dcs and cbir1 t cells.cbirtox induces antigen specific cd4foxp3 tregs in vitro and in vivo.
+
+a-b splenic cd19 b cells were pulsed with1 mg of cbirtox or ovatox a pseudo-toxin similar to cbirtox with a portion of ova protein containing ovap323-339 replacing the cbir1 fragment for 2 hours prior to co-culture with cd4cd25- cbir1 or ot-ii tg t cells for 4 days prior to flow cytometry analysis.
+
+in order to determine if mtor may be inhibited in apcs after cbirtox treatment rapamycin the canonical mtor inhibitor was added to cultures of cbir1 tcr tg cd4 t cells with either cbirtox or cbir1 peptide pulsed b cells.
+

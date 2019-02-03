@@ -1,0 +1,30 @@
+further dtp rates were determined for each position of the 16s rrna gene from nucleotide positions 25 to 1000. this approach was used to account for difference in 16s rrna amplification and sequencing strategies.evaluation of s. enterica false positive ratean evaluation of the false positive rate of resphera insight to accurately detect s. enterica was performed using 16s rrna amplicon datasets reflecting raw milk cheese samples spiked with variable levels of escherichia coli o157h7 or o103.
+
+however using linear regression the maximum predicted false positive rate was only 0.11 given a completely homogenous community comprised entirely of e. coli .moreover in silico simulations in which sequencing reads are composed entirely of enterobacteriaceae 16s rrna gene sequences and no background flora utilizing artificial reads from two amplicon regions v1 - v3 and v3 - v4 of the 16s rrna gene from pure isolates of 15 different enterobacteriaceae members indicate that false positive rates for salmonella detection approach 0.2 when closely related members such as citrobacter and enterobacter spp.
+
+the relative abundance of enterococcus and pediococcus also significantly increased from un-enriched to enriched time point samples .table 1  salmonella enterica false positive rates for v1-v3 and v3-v4 16s rrna amplicon regions.due to the intrinsic noise of 16s rrna-based community profiling investigators are forced to choose a minimum abundance threshold defined as the percentage of reads assigned to s. enterica in a sample to determine the outcome of a diagnostic assignment presenceabsence.
+
+merged reads and any unmerged read 1 sequences were then screened for 16s rrna fragments using bowtie2   against a broad database of 16s rrna sequences.
+
+patients with fewer than 500 final sequences per duplicate miseq run were removed from analysis.resultsaccuracy for s. enterica identificationwe assessed how performance of three 16s rrna signature identification algorithms insight rdp and uclust changed according to changing sequencing read length and 16s rrna gene position.
+
+we obtained and reprocessed the original 16s rrna amplicon sequences from two replicate miseq runs run1 and run2 requiring that passing samples have at least 500 high-quality 16s rrna sequences in both runs after removal of bacterial contaminants identified in negative controls see materials and methods.
+
+we also demonstrate the utility of this approach to detect salmonella in the clinical setting in this case bloodborne infections.keywords 16s rrna community profiling microbiome salmonella metagenomicsintroductionsalmonella infection is a common bacterial disease throughout the developed and developing world causing considerable morbidity and mortality.
+
+for example if a 16s fragment is ambiguous between s. enterica and s. bongori the algorithm will provide the assignment salmonellabongorisalmonellaenterica.here our statistic of performance sensitivity is the diagnostic true positive rate dtp defined as the percentage of 16s rrna sequences that were correctly and unambiguously assigned tos.
+
+while this method is reliable for higher taxonomic levels species-level inference with 16s rrna gene sequencing has remained a significant challenge particularly for accurate identification of salmonella enterica and other enteric pathogens.
+
+previously we evaluated the performance of resphera insight a high-resolution 16s rrna sequence analysis pipeline for identification of listeriatracking of s. enterica in a modified us fda bam protocol for detection of salmonella through reduced enrichment   .
+
+in silico simulations for related enterobacteriaceae were performed by first aligning primer sequences v1-v3 or v3-v4 region to corresponding reference 16s rrna genes to determine exact coordinates of the expected amplicon sequences and subsequently generating sequences from those coordinates using a random nucleotide error rate of 0.5 10000 sequences per species for both regions.bacterial strains for inoculationcilantro was spiked with salmonella newport s. tennessee ors.
+
+in this larger evaluation we observed a very consistent detection profile nearly identical to that seen for the 512 random subset dataset  including high accuracy within the first 250 bp of the 16s rrna gene for sequences that are at least 300 bp in length .false positive rates for s. entericadetectionin addition to assessing the accuracy to detect salmonella we also sought to define the type i error or false positive rate associated with detection of s. enterica i.e.
+
+simply statedthe more escherichiashigella 16s rrna sequences contained in the microbiome sample in terms of relative abundance the more likely it was to produce a salmonella false positive.
+
+interestingly false positive rates were only observed for those enterobacteriaceae species that are phylogenetically close to salmonella with on average slightly higher false positive rates observed for the v3 - v4 region .identification of s. enterica in food samplesto demonstrate and evaluate the utility of resphera insight to detect s. enterica and characterize overall microbial community composition we performed 16s rrna community profiling on microbial enrichment samples of i ice cream ii cilantro and iii chili powder.
+
+for example as demonstrated in this study with salmonella and in a previous study of listeria targeting the v1 to v3 region of the 16s rrna gene improves sensitivity and specificity of detection of these pathogens  .
+

@@ -1,0 +1,30 @@
+following quality trim- ming a total of 54833910 85.13 of the total remained including for 7809729 reads for pgd average read length of 408 - 138 bp 7303470 reads for mal average read length of 408 - 138 bp 6414174 reads for vl1 average read length of 200 - 68 bp and 5920270 reads for pyn average read length of 193 - 64 bp.
+
+the classes within firmicutes and actinobacteria phyla have similar diversity and percentage of reads assigned to their top classes across all of the kerala samples.a majority of the reads assigned to archaea 1.32 - 0.44 of total reads mapped to the phylum euryarchaeota 81.77 - 7.02 across all four samples fig.
+
+reads that mapped to these particular classes were not even found or barely registered in any of the ocean samples which instead had thermococci and methanococci as the most prevalent classes among the ocean reads that mapped to the euryarchaeota phyla.less than 2 of the total reads from any sample mapped to eukaryota.
+
+a total ofgb 64 million reads were obtained across all four of the kerala mangrove samples and 54 million reads 85.13 were retained for further analysis following quality control.
+
+collectively bacterial sequences dom- inated the overall reads accounting for 96.81 of the total assigned reads with eukaryota and archaea assigned 1.8 and 1.32 respectively.
+
+of the 1.32 of the assigned reads that mapped to eukaryotatable 2. class taxonomic distribution across the samples isolated from a mangrove forest in kerala india.90 of those reads were found across 8 phyla fig.
+
+the reads that mapped to each genus were calculated and only those genera with more than 1 of the total mapped reads were noted fig.
+
+very few virus reads were found.figure 2. taxonomic structure and diversity of the reads mapping to archaea.
+
+3 of the ocean reads mapped to archaea and more than 95 of the arboreal reads both mangrove and rain forest are bacterial.
+
+the forest samples had similar profiles the exception being protein metabolism where the india mangrove sample pgd had many fewer reads supplementary table 2 and the ocean sample with a clear majority of mapping reads.
+
+email table 1. summary of reads and distribution across kingdoms in the samples from india brazil puerto rico and from the isolates taken from the south china sea.except for absorption of nutrients transformation processes of nutrients can also be important for avoiding eutrophication.the impact that mangrove forests and their supporting ecosystem extends beyond their local ecological impact.
+
+in thisfigure 1. taxonomic structure and diversity of the reads mapping to bacteria.
+
+a total of 64413433 sequencing reads were obtained from the four samples from kerala with an average length of 254 - 12.75 bases.
+
+the sequences for these reads are publicly available from the mg-rast server under the following ids 4671371 4671370 467136 and 4671368. of the sequences that passed quality control each had a certain percentage that mapped to proteins of known pgd 39 mal 41.2 vl1 35.4 and pyn 35.4 and also to proteins of unknown function pgd 7.5 mal 41.2 vl1 44.5 and pyn 44.1. asymptotic rarefaction curves were generated for each sample indicating that the majority of taxonomic diversity was covered in the samples data not shown.taxonomic diversity across the kerala samples.
+
+a total of 13269130 representative sequences were assigned to different taxonomies using the refseq database from all the four data- sets accounting for more than 99 of the reads for pyn mal vl1 and pgd samples respectively table .
+

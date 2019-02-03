@@ -1,0 +1,30 @@
+in t cells and liver cells rev-erba binds to a consensus sequence in the nfil3 gene locus and represses transcription resulting in a rhythmic diurnal nfil3 expression pattern 6 10. rev-erba transcript and protein abundance also oscillated diurnally in intestinal epithelial cells but was higher in germ-free than in conventional mice fig.
+
+emerging evidence indicates that the microbiota interacts with the circadian clock in ways that profoundly impact host metabolism and that disrupting these interactions can lead to obesity and other metabolic diseases 4 5. however little is known about the mechanisms that govern microbiota interactions with the circadian clock and how these interactions alter host metabolism.nfil3 also known as e4bp4 is a basic leucine zipper transcription factor that is expressed in a variety of immune cells and controls immune functions that vary by cell type 6 7. we found that small intestinal epithelial cells also expressed nfil3 and that expression was markedly reduced in germ-free mice fig.
+
+2g suggesting a requirement for dendritic cells dcs.to further test for dc involvement we used a mouse model of dc depletion in whichdiphtheria toxin receptor dtr is expressed under the control of the cd11c promoter 12.wang et al.page 4on administration of diphtheria toxin dt cd11c cells are selectively killed 12. on cd11c cell depletion rev-erba expression was increased and nfil3 expression was decreased fig.
+
+nfil3 transcription is controlled by the circadian clock 9 and accordingly nfil3 transcript abundance oscillated diurnally in an enriched population of small intestinal epithelial cells acquired by laser capture microdissection fig.
+
+indeed rev-erba bound directly to the nfil3 promoter in intestinal epithelial cells as assessed by chromatin immunoprecipitation chip assay fig.
+
+we quantified rev-erba and nfil3 transcripts in epithelial cells from myd88-- mice and wild-type littermates at zeitgeber time zt4 which is when nfil3 expression is near-peak in conventional mice fig.
+
+while epithelial myd88 was dispensable for microbiota-induced alterations in rev-erba and nfil3 expression myd88 expression in a cd11c cell population which includes some dendritic cells was required for maximal repression of rev-erba and induction of nfil3 fig.
+
+rag1-- mice which lack t and b cells showed decreased epithelial rev-erba expression and increased nfil3 expression fig.
+
+rorgt-deficient rorcgfpgfp mice 19 which lack both th17 cells and ilc3 showed circadian rev-erba and nfil3 expression patterns fig.
+
+2k further supporting the idea that the subepithelial dc-ilc3 circuit relays microbiota signals to epithelial cells to regulate nfil3 expression.the intestinal dc-ilc3 circuit can be triggered by flagellin or lipopolysaccharide lps which is present in the outer membranes of gram-negative bacteria 2021. accordingly treatment of germ-free mice with flagellin and lps decreased rev-erba expression and increased nfil3 expression fig.
+
+stat3 binding was markedly reduced in epithelial cells from germ-free mice fig.
+
+co-transfection of stat3-encoding vectors with luciferase reporters fused to the rev-erba promoter resulted in decreased luciferase activity in hek-293t cells fig.
+
+3d supporting prior findings that il-22 activates stat3 in intestinal epithelial cells 14. at the same time expression of rev-erba was decreased and expression of nfil3 was increased compared to controls fig.
+
+the expression of stat3 and the activation of stat3 in intestinal epithelial cells did not exhibit diurnal rhythms fig.
+
+these included cd36 encoding a transporter that imports dietary fatty acids into cells 23 scd1 encoding a stearoyl-coa-desaturase 1 24 cyp2e1 encoding a fatty acid hydroxylase 25 and fabp4 encoding a fatty acid binding protein 26. deletion of each of these genes protects against hfd-induced obesity andor insulin-resistance 24-27 suggesting that their lowered expression in nfil3diec mice could account in part for the metabolic phenotypes of these mice.we further analyzed cd36 and scd1 transcripts by qrt-pcr confirming that expression of both genes required epithelial nfil3 and the microbiota fig.
+

@@ -1,0 +1,30 @@
+overall storage at -20degc and freeze-thaw cycles had little impact on metabolite profiles however storage at 4degc shifted metabolite abundances significantly.
+
+all replicates from both samples are shown including those subjected to one or two freeze-thaw cycles.fig 5 the vips from a supervised random-forest analysis to determine which metabolites best distinguish a patient 1 and 2 samples and b storage at -20degc versus storage at 4degc.
+
+in previous work we observed that cf sputum sample metabolite profiles determined by lc-ms were unstable after sample storage at 4degc .in this study we captured smaller aqueous and more volatile metabolites in cf sputum by acetonitrile-isopropyl alcohol-water extraction followed by untargetedfig 7 violin plot of the cvs of each metabolite with storage at 4degc or -20degc.
+
+an analysis of metabolite stability under various storage conditions in sputum samples from a greater number of individuals is required to better demonstrate the generalizability of our findings.in summary storage of cf sputum samples at 4degc leads to changes in metaboliteprofiles within a day with greater variation in metabolite abundances and an increase in the abundance of many of the metabolites including several amino acids detected by untargeted gc-ms profiling.
+
+research articlehost-microbe biologymaking it last storage time and temperature have differential impacts on metabolite profiles of airway samples from cystic fibrosis patientsstephen wandroa lisa carmodyb tara gallaghera john j. lipumab katrine whitesonadepartment of molecular biology and biochemistry university of california irvine california usaa department of pediatrics and communicable diseases university of michigan medical school ann arbor michigan usababstract metabolites of human or microbial origin have the potential to be im- portant biomarkers of the disease state in cystic fibrosis cf.
+
+clinical sample collec- tion and storage conditions may impact metabolite abundances with clinical rele- vance.
+
+however the metabolite profiles of samples stored at 4degc shifted after 1 day and continued to change over the course of 4 weeks average change in bray-curtis dis- tance 0.31 - 0.12. the abundances of several amino acids and other metabolites increased with time of storage at 4degc but remained constant at -20degc.
+
+storage tem- perature was a significant factor driving the metabolite composition permutational multivariate analysis of variance r2 0.32 to 0.49 p  0.001. cf sputum samples stored at -20degc at the time of sampling maintain a relatively stable untargeted gc-ms profile.
+
+however sample storage timing and temperature may alter the abundance of clinically relevant metabolites.
+
+to assess whether existing samples are stable and to direct future study design we conducted untargeted gc-ms metabolomic analysis of cf sputum samples after one or two freeze-thaw cycles and storage at 4degc and -20degc for 4 to 8 weeks.
+
+in this study we assessed the impact of storage temperature and time on the metabolite composition of sputum samples collected from people with cystic fibrosis cf.
+
+respiratory samples including expectorated sputum and bronchoalveolar lavage fluid are most often obtained from patients in clinical settings where immediate freezing and storage are not practical.
+
+while studies have addressed the impact of storage temperature on the metabolomic analysis of clinical samples such as plasma and urine  comparable studies assessing sputum are lacking.
+
+we previously examined the impact of storage conditions on cf sputum metabolomic profiles based on liquid chromatography-mass spectrometry lc-ms and found that profiles were stable in samples stored for at least 4 weeks at -20degc .
+
+a critical element of such studies however is a more complete understanding of the impact of sample storage on measurements of metabolites detected by gc-ms. in the study reported here we assessed the stability of a wide range of volatile metabolites in sputum samples stored at 4degc and -20degc for various periods of time with one or two freeze-thaw cycles.resultsbacterial community profiles.
+

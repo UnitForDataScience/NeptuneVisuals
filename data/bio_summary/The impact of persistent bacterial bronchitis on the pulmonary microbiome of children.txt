@@ -1,0 +1,30 @@
+no significant difference in alpha diversity was observed between the blind and non-blind brushes using richness observed number of species z  1.843 p  0.068 shannon-weiner bias towards rare organismsz  -0.017 p  1 simpsons reciprocal bias toward more dominant organisms z  0.261p  0.812 and evenness z  -0.052 p  0.973 .considering community composition no significant differences were observed between the different sampling methods adonis r2  0.012 p  0.344. hierarchical clustering using bray-curtis dissimilarity revealed that the samples clustered more closely between patients than within sampling groups .pbb versus healthy controlsthe bacterial community of patients diagnosed with pbb n  24 was compared to healthy controls n  18. samples were rarefied to 1150 reads resulting in the loss of 2 control patients.
+
+only fifteen of the 24 patients 62.5 cultured the dominant organism that was identified by sequencing.neither parental smoking habits r2  0.037 p  0.145 or breastfeeding r2  0.012p  0.846 were found to influence the bacterial community differences between patients with pbb and healthy controls.to ascertain if wheeze explained any of the variation in the bacterial community observed between patients wheeze diagnosis was investigated.
+
+to investigate if these sampling methods were comparable samples were rarefied to 1154 reads 4 samples were lost after rarefaction after which non-metric multidi- mensional scaling nmds using bray-curtis distance was used to investigate clustering based on bacterial community similarity .notably samples from the same mother did not cluster together .
+
+rarefaction resulted in the removal of some samples due to low sequence num- bers the paired samples from these patients were removed to allow paired analysis.
+
+samples above the 1000 read cut off recommended by qiime were rarefied to the minimum number of reads found in the samples.blind versus non-blind brushpbb patients were sampled using both blind and non-blind brushing methods to test for potential differences in the bacterial community due to sampling method.
+
+only a single case was observed where the maternal oro- pharyngeal community and their child's lower airway bacterial communities were similar and these samples were found to be dominated by the same organism.the inclusion of lower airway samples from healthy controls provides a challenge particu- larly in paediatric studies due to the invasive nature of the sampling methods required to access the lower respiratory tract.
+
+seventeen 70.83 of the 24 patients cultured haemophilus influenzae while only 9 52.94 of the same patients were found to be haemophilus dominated by sequencing.
+
+no control patients were diagnosed with wheeze.impact of respiratory virus on bacterial compositionpbb patients were tested for the presence of respiratory viruses.
+
+a significant decrease in bacterial diversity p  0.001 and change in community composition r2  0.08 p  0.004 was observed among controls in comparison with patients.
+
+the presence of a virus r2  0.166 p  0.167 or number of different viruses present r2  0.227 p  0.095 in patients had no significant effect on the bacterial community composition.
+
+despite many neisseria species being con- sidered non-pathogenic they have been implicated in cases of pneumonia  periodontal disease  and copd .no significant differences in the bacterial community of pbb patients whose parents were smokers compared to non-smokers were found.
+
+comparison of community alpha diversity measures between blind and non-blind brushes from pbb patients.
+
+the difference in the bacterial community of 21 paired samples were assessed using both alpha and beta diver- sity measurements.
+
+in the majority of cases however the community composition of the mothers' samples were signifi- cantly different from their children.
+
+dna was extracted quantified using a 16s rrna gene quantitative pcr assay prior to microbial community analysis by 16s rrna gene sequencing.resultsno significant difference in bacterial diversity or community composition r2  0.01 p  0.36 was observed between paired blind and non-blind brushes showing that blind brush- ings are a valid means of accessing the airway microbiota.
+

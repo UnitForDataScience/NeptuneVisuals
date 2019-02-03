@@ -1,0 +1,30 @@
+2007 18 18.57 kuhn m. wing j. weston s. williams a. keefer c. engelhardt a. cooper t. mayer z. kenkel b. r core team benesty m. lescarbeau r. ziem a. scrucca l. tang y. candan c. hunt t. caret classification and regression training version 6.0-73 accessed january 2017.58 liaw a. wiener m. r news 2002 2 18-22.cao m. fraser k. huege j. featonby t. rasmussen s. jones c. metabolomics 2015 11 696-706.wohlgemuth g. mehta s. s. mejia r. f. neumann s. pedrosa d. pluskal t. schymanski e. l. willighagen e. l. wilson m. wishart d. s. arita m. dorrestein p. c. bandeira n. wang m. schulze t. salek r. m. steinbeck c. nainala v. c. mistrik r. nishioka t. fiehn o. nat.
+
+2001 98 381-382.horai h. arita m. kanaya s. nihei y. ikeda t. suwa k. ojima y. tanaka k. tanaka s. aoshima k. oda y. kakazu y. kusano m. tohge t. matsuda f. sawada y. hirai m. y. nakanishi h. ikeda k. akimoto n. maoka t. takahashi h. ara t. sakurai n. suzuki h. shibata d. neumann s. iida t. tanaka k. funatsu k. matsuura f. soga t. taguchi r. saito k. nishioka t. j. mass spectrom.
+
+2008 9 504.benton h. p. want e. j. ebbels t. m. d. bioinformatics 201026 2488.cao y. charisi a. cheng l.-c. jiang t. girke t.bioinformatics 2008 24 1733-1734.horan k. girke t. chemmineob r interface to a subset of openbabel functionalities version 1.12.0 accessed october 2016.chang w. cheng j. allaire j. xie y. mcpherson j. shiny web application framework for r version 1.0.0 accessed january 2017.xie y. dt a wrapper of the javascript library 'datatables' version 0.2 accessed october 2016.fan f. y. pubmedwordcloud 'pubmed' word clouds version 0.3.3 accessed january 2017.csardi g. nepusz t. interjournal complex systems 2006 1 1695.owen j. rhandsontable interface to the 'handsontable.js' library version 0.3.4 accessed december 2016.ardia d. mullen k. m. peterson b. g. ulrich j. deoptim differential evolution in r version 2.2-4 accessed january 2017.mullen k. ardia d. gil d. windover d. cline j. j. stat.
+
+paulse c. creasy d. flashner l. kani k. moulding c. seymour s. l. nuwaysir l. m. lefebvre b. kuhlmann f. roark j. rainer p. detlev s. hemenway t. huhmer a. langridge j. connolly b. chadick t. holly k. eckels j. deutsch e. w. moritzr.
+
+paulse c. creasy d. flashner l. kani k. moulding c. seymour s. l. nuwaysir l. m. lefebvre b. kuhlmann f. roark j. rainer p. detlev s. hemenway t. huhmer a. langridge j. connolly b. chadick t. holly k. eckels j. deutsch e. w. moritzr.
+
+forsythe i. tang p. shrivastava s. jeroncic k. stothard p. amegbey g. block d. hau d. d. wagner j. miniaci j. clements m. gebremedhin m. guo n. zhang y. duggan g. e. macinnis g. d. weljie a. m. dowlatabadi r. bamforth f. clive d. greiner r. li l. marrie t. sykes b. d. vogel h. j. querengesser l. nucleic acids res.
+
+2016 34 1099-1101.wishart d. s. tzur d. knox c. eisner r. guo a. c. young n. cheng d. jewell k. arndt d. sawhney s. fung c. nikolai l. lewis m. coutouly m.-a.
+
+2007 35 database d521-d526.sud m. fahy e. cotter d. brown a. dennis e. a. glass c. k. merrill a. h. murphy r. c. raetz c. r. h. russell d. w. subramaniam s. nucleic acids res.
+
+j. enerback s. schrader j. yegutkin g. g. muller c. e. pfeifer a.nature 2014 516 395-399.pfalzer a. c. nesbeth p.-d. c. parnell l. d. iyer l. k. liu z. kane a. v. chen c.-y.
+
+2014 86 9496-9503.kangas l. j. metz t. o. isaac g. schrom b. t. ginovska- pangovska b. wang l. tan l. lewis r. r. miller j. h. bioinformatics 2012 28 1705-1713.allen f. pon a. wilson m. greiner r. wishart d. nucleic acids res.
+
+l. neumann s. gatto l. fischer b. pratt b. egertson j. hoff k. kessner d. tasman n. shulman n. frewen b. baker t. a. brusniak m.-y.
+
+l. neumann s. gatto l. fischer b. pratt b. egertson j. hoff k. kessner d. tasman n. shulman n. frewen b. baker t. a. brusniak m.-y.
+
+o. tai a. k. bowman t. a. obin m. s. mason j. b. greenberg a. s. choi s.-w. selhub j. paul l. crott j. w. plos one 2015 10 e0135758.mabley j. rabinovitch a. mol.
+
+softw.2011 40 1-26.ardia d. boudt k. carl p. mullen k. m. peterson b. g. r j.2011 3 27-34.ardia d. david j. arango o. gomez n. d. g. wilmott magazine 2011 55 76-79.price k. v. storn r. m. lampinen j. a. differential evolution apractical approach to global optimization springer-verlag berlin germany 2006.roberts r. j. proc.
+
+2010 45 703-714.willing b. p. vacharaksa a. croxen m. thanachayanont t. finlay b. b. plos one 2011 6 e26988.golde w. t. gollobin p. rodriguez l. l. lab anim.
+

@@ -1,0 +1,30 @@
+the infection status of workers was repeatedly confirmed with pcr presence of known mollicutes operational taxonomic units otus entacro1 or entacro2 see results   before the start of the experiment and the following combinations of brood and workers were setup to monitor different transmission patterns ae360 pupae ae360 workers transmission toward brood within a single colony where workers were infected with entacro1 ae507 pupae ae322 workers transmission across colonies with different mollicutes infection entacro1 and weak entacro2 pupae versus entacro2 and weak entacro1workers ac2012-2 pupae ac2012-3 workers and ac2012-3 pupae ac2012-2 workers transmission across colonies with similar double mollicutes infection entacro1 and weak entacro2.
+
+we thus hypothesize that mollicutes bacteria infect hemolymph and surrounding tissues of leaf-cutting ants during remodeling of the internal anatomy in the pupal stage but further work will be needed to substantiate this.in some solitary insects mollicutes increase longevity and fecundity of their vector hosts   but it remains as yet unclear whether and how mollicutes entacro1 and entacro2 are beneficial for acromyrmex and atta leaf-cutting ants.
+
+recent studies have shown that the diversity of the gut bacterial community of adult workers of acromyrmex echinatior is as low as in honeybee workers and mainly composed of a handful of wolbachia mollicutes and rhizobiales bacteria whereas gut microbiome diversity in atta cephalotes workers including mollicutes and rhizobiales is only slightly higher    sapountzis et al.
+
+we could not localize mollicutes in larval and pupal guts from the lab colony of a. cephalotes confirming that bacterial presence including mollicutes in these stages is very low .
+
+the mollicutes-like bacteria that we observed with tem lacked a cell wall which is a unique feature of mollicutes and had rod shapes with an average diameter 0.4 um and a length range of 0.7-1.9 um .test of the hypothesis of social transmission for mollicutesbefore the bacterial transmission experiment  we tested mollicutes infection status in workers from the lab colonies.
+
+in contrast many of the workers that had been in contact with other workers for 21 days after eclosion showed a significant increase in mollicutes density suggesting that interaction with workers in the absence of fungus garden is enough for mollicutes transmission between ants from the same or different colonies.discussiondiversity and density of gut bacteria during different developmental stageslike other hymenoptera ants undergo complete metamorphosis in which larvae stop feeding and purge their gut before pupation.
+
+the first mollicutes otus above each plots correspond to the known infections of the colony from which pupae were taken and the second after the  to the known infections of the nursing workers that interacted with callows emerging from these pupae in brackets when mollicutes were not present in all tested workers or were present in low abundances for more information see supplementary table s8.
+
+we found that wolbachia was the absolute dominant bacterial species across developmental stages in acromyrmex and we confirmed that atta lacks wolbachia also in the immature stages and had mostly mollicutes bacteria in the adult worker guts.
+
+in contrast mollicutes were socially transmitted from old workers to newly emerged callows.
+
+our results reveal that transmission pathways for bacterial symbionts may be very different both between developmental stages and between sister genera and that identifying the mechanisms of bacterial acquisition and loss will be important to clarify their putative mutualistic functions.keywords symbiosis gut microbiota bacterial transmission mollicutes wolbachia 16s rrna sequencingintroductionbacterial symbionts of insects can either be vertically transmitted or acquired de novo from the environment in every generation.
+
+the rhizobiales form biofilms in the adult worker hindgut and appear to have nitrogen acquisition or preservation functions   whereas the putative function of the mollicutes remains to be clarified.
+
+there is no indication that mollicutes bacteria living in acromyrmex and atta leaf-cutting ants are pathogens because they are abundantly present in healthy ant workers.in other insects the presence of symbiotic bacteria in specific developmental stages has been used to narrow down the highly diverse potential spectrum of putative functions which include supplementation of essential nutrients defense against pathogens and detoxification of poisonous compounds      .
+
+data were deposited in genbank bioproject prjna383138.pcr and droplet digital pcr ddpcrto check if mollicutes are present in different developmental stages of ants from lab colonies we used 16s rrna gene- specific primers for entacro1 and entacro2 supplementary table s1.
+
+similar procedures were performed to quantify mollicutes density in transmission experiments with 16s rrna gene-specific primers for entacro1 and entacro2   supplementary table s1 except that two additional steps were added for pcr 1 cycle at 95c for 5 min 40 cycles at 95c for 15 s 40 s at the annealing temperature supplementary table s1 and 40 s at 72c 1 cycle at 4c for 5 min and 1 cycle at 90c for 5 min all at ramp rate of 2cs.data analysesto compare bacterial 16s rrna gene copy densities across different samples we used non-parametric tests in past3 because data were not normally distributed  .
+
+bray-curtis indices were also calculated in past3 while unifrac distances were computed in mothur.to compare mollicutes density in the transmission experiment we ran a negative binomial regression model for the ddpcr counts in r   because negative binomial models show a good fit to overdispersed data.
+

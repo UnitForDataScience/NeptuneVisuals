@@ -1,0 +1,30 @@
+transcription of saa was also induced in epithelial cells co-cultured in vitro with sfb and this induction was further enhanced by f-actin inhibitory drugs suggesting that cortical actin rearrangements triggered by adhesion of sfb to epithelial cells participate in signal transduction  of cd4 t cells into th17 cells by enhancing the pro- duction of il-6 il-23p19 or il-1b in cd11c myeloid cells  unexpectedly given the induction of saa transcripts in epithelial cells cocultured with sfb the striking up- regulation of saa12 in epithelial cells by sfb in vivo was dependent on il-22 production by ilc3 cells in response to il-23 signals  saa both directly in epithelial cells and indirectly by stimulating the production of il-23 in a subset of den- dritic cells which in turn stimulates il-22 in ilc3.
+
+recently showedthatwhile rorgt th cells seeded the duodenum and the ileum to similar levels in the presence of sfb il17-gfp reporter mice revealed that il-17 upregulation failed to occur in th17 cells in the duodenum and colon but occurred in 60 of the th17 cells in the ileum the site of maximal sfb coloniza- tion  resident macrophages but may also involve il-23 production by dcs see below  tissues and more generally all secondary lymphoid organs t cells might migrate into the ileal mucosa even if not specific of sfb or other intraluminal antigens and convert locally into th17 cells in response to the environmental cues induced by sfb likely as a consequence of its strong adhesion to the ileal epithelium.induction of intestinal th17 cell by sfb depends on epithelial adhesionthat sfb adhesion to epithelium is indispensable for th17 induction was elegantly demonstrated in a recent study by atarashi et al.
+
+this suggestion is in keeping with recent findings showing that functional differentiation of intestinal rorgt t cells into foxp3 tregs or th17 cells is determined by local concentrations in cytokines and either retinoic acid or short chain fatty acids  .induction of the homeostatic gut th17 response by sfb requires monocyte-derived cellsas discussed above many th17 cells in sfb-colonized mice are specific for sfb and their in vitro induction by sfb antigens required expression of major histocompati- bility complex class ii mhcii by antigen-presenting cells .
+
+sfb colonization thereby helps protect the host from a range of different pathogens while the heightened immune activation fos- tered by sfb leads to collateral damage to augment certain autoimmune diseases.colonization by sfb is indispensable to induce homeostatic intestinal th17 cells in the normal mouse gutth17 cells form a subset of cd4 t cells defined by expression of the nuclear transcription factor rorgt and production of the interleukins il-17a il-17f and pos- sibly il-21 and il-22.
+
+in one study using otii mice intestinal th17 cells were observed in mice on a rag- sufficient but not on a rag deficient background sug- gesting that only t cells harboring alternative endoge- nous t cell receptors could differentiate into th17 cells presumably as the consequence of cognate recognition of sfb or other microbial antigens .
+
+alto- gether these data indicate that sfb-specific t cells need organized gut lymphoid tissues to initiate their differen- tiation from naive t cells into th17 cells.
+
+via il-22 produced by type 3 innate lymphoid cells ilc3 cd4 t cells and possibly neutrophils sfb can notably induce fucosyl transferase 2 fut2 in epithelial cells allowing the addition to epithelial glycocalyx of fucosyl residues which fuel the metabolism of commensal bacteroides species .
+
+in contrast to most commensals which grow in the intestinal lumen and are entrapped within the mucus sfb adhere tightly to absorptive intestinal epithelial cells in the ileum and to cells overlying peyer's patches.
+
+sfb colonizationcan expand the number of ifng il-10 and foxp3-containing cd4 t cells in the lamina propria of c3hhen mice but the most striking effect of sfb is the potent induction of th17 cells thereby altering the overall homeostatic t cell environ- ment in the gut .this review highlights recent exciting new findings of the molecular and cellular details in the sfb-mediated th17 response.
+
+and ccl20 a chemokine that attracts th17 cells and type 3 innate lymphoid cells ilc3 a major source of il-22.
+
+.th17 cells are strikingly scarce or absent in the gut mucosa of newborns and germ-free mice  and their development is strictly dependent on microbial coloniza- tion reaching at the steady state an abundance of 10-25 of cd4 t cells in the small intestinal lamina propria  compartment in the small intestine is now well recog- nized and was demonstrated by two different approaches.
+
+simultaneously the devel- opment of th17 cells in the small intestine of c57bl6 mice was shown to vary depending on their commercial origin and 16s dna analysis revealed that sfb was one species present exclusively in the microbiota of mice harboring intestinal th17 cells .
+
+accordingly a small expansion of foxp3 regulatory t cells tregs and of il-10-producing cells were observed in c3hhen mice monocolonized by sfb notably in the colon .
+
+the host genetic background is also an important factor for t cell responses to sfb and th17 cell stimulation by sfb is much weaker in balbc mice than in c57bl6 mice coinciding with reduced production of il-1b by cd11c cells and serum amyloid a saa by epithelial cells sfb induces specific th17 responses but also licenses homeostatic th17 responses against other members of the microbiotathe th17 response in conventional mice harboring sfb is largely specific to sfb accounting for over 60 of the total th17 population detected by il-17a elispot assay and hybridoma cloning .
+
+in c57bl6 mice the sfb-specific th17 cells were polyclonal but enriched in cells with a t cell receptor containing a vb14 variableregion .
+

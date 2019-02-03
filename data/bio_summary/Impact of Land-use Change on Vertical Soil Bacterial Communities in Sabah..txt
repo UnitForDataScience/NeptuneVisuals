@@ -1,0 +1,30 @@
+such relationships define the very existence of the forest types and dictate the physiochemical properties of these ecosystems.any effort to evaluate the impact of land-use and changes to the natural forest ecosystem warrants an in-depth investigation across a gradient of forest types such as primary forest second- ary forestlogged forest and oil palm plantation.
+
+this study reports the changes in bacterial community structure in organ- ic soil 0-5 cm o-horizon and organic-mineral soil 5- 15 cm a-horizon across maliau basin conservation area old growth forest mbog fragment e logged forest felf located in kalabakan forest reserve to benta wawasan oil palm plantation bwop using two-step pcr amplicon anal- ysis of bacteria dna on illumina miseq next generation se- quencing.
+
+2 venn eular diagram in comparison of bacteria otus between the two soil typesmbog 5806organicorganic mineralmbog 3610organic o-horizon andorganic-mineral layer a- horizon of maliau basin old growth forest mbog fragment e logged forest felf and benta wawasan oil palm plantation bwopbwop 518348.6 49.2 42.4 felf 4597bwop 517933.9 51.0 42.4 felf 4208a total of 40 otus were selected with relatively high abundances in the respective soils at organic and organic- mineral layers for the forest types and affiliated to the cultured bacteria at species level fig.
+
+microb ecol 2018 75459-467 doi 10.1007s00248-017-1043-6impact of land-use change on vertical soil bacterial communities in sabahhoe seng tin1  kishneth palaniveloo 1  junia anilik1  mathavan vickneswaran1 yukihiro tashiro 23  charles s. vairappan1 kenji sakai23received 1 february 2017  accepted 10 july 2017  published online 4 august 2017 springer sciencebusiness media llc 2017abstract decline in forest productivity due to forest conver- sion is defining the bornean landscape.
+
+rapid rates of forest conversion and degradation have prompted intergovernmental agreements between indonesia malaysia and brunei darussalam to pro- tect and sustainably use the forests that remain in borneo via heart of borneo initiative.to date 5.8 million ha of tropical forest in borneo has been converted for agriculture especially for oil palm elates guineensis plantation because of the increasing global demand for cheaper sources of oil for food and biofuel  .
+
+timber extraction result- ed in conversion of habitat from primary forest to secondary forest which was then further degraded-fragmented for ag- ricultural purposes primarily for the monocultures of oil palm .land-use change significantly affects the balance and sta- bility of biodiversity and ecosystem processes.
+
+bacteria community structure of pristine forest logged forest and oil palm plantation has been studied    but has only focused on topsoil bacterial community structure at the phylum level.
+
+this study reports on the dynamics of vertical gradients in bacterial community in the top organic soil layer 0-5 cm o-horizonand the organic-mineral soil layer 5-15 cm a-horizon across land-use gradients at species level .materials and methodsstudy area the study was based in the belian plot of the maliau basin conservation area 4deg 44' n 116deg 58' e which is old growth forest dominated numerically by large dipterocarpaceae and has never been logged referred to as maliau basin old growth forest.
+
+physiochemical properties of soil collected are summa- rized in supplementary table 1.field sampling fieldwork was conducted from may to june 2015. a total of 45 soil cores were collected from old growth forest 15 soil cores logged forest 15 soil cores and oil palm plantation 15 soil cores.
+
+the aver- age number of otus per sample was 29792 ranging from 10185 to 71594. organic layer soils from maliau basin old growth forest mbog are dominated by proteobacteria 30.3 while actinobacteria dominate in fragment e logged forest felf and benta wawasan oil palm planta- tion bwop with 30.5 and 29.3 respectively fig.
+
+1 relative abundance of dominant bacteria taxa in maliau basin old growth forest mbog fragment e logged forest felf and benta wawasan oil palm plantation bwop on organic o-horizon and organic-mineral a-horizon.
+
+3 heatmap of 40 bacterial otus based on average relative abundance greenblack across different soils of maliau basin old growth forest mbog fragment e logged forest felf and bentawawasan oil palm plantation bwop and related species with pairwise homology percentage.
+
+darker colour indicates lower relative abundancetable 1specific otus of maliau basin old growth forest mbog fragment e logged forest felf and benta wawasan oil palm plantation bwop in both organic and organic-mineral soil layers with related species and their percentages of pairwise homologybacteria species such as thermogemmatispora foliorum ho- mology percentages 83.0 ktedonobacter racemifer 83.4-87.4 shaerobacter thermophiles 79.1 cyanobacteria species microcoleus paludosus 95.3 and firmicutes spe- cies paenibacillus ehimensis 77.4-95.3 were specifically found in the bwop plantation organic layer.higher bacterial species richness chao 1 species even- ness shannon index and observed otus for bacterial com- munities were found in the organic layer of bwop plantation soil comparable to the organic soil in mbog fig.
+
+4 a-diversity analysis of bacteria otus across soil types of maliau basin old growth organic mbog-o maliau basin old growth organic- mineral mbog-om fragment e logged forest organic felf-o fragment e logged forest organic-mineral felf-om benta wawasanoil palm organic bwop-o and benta wawasan oil palm organic- mineral bwop-om layers based on 10185-otu read at 3 dissimilarity.
+
+organic layer in danum valley sabah found that acidobacteria were dominant in unlogged pristine forest and once-logged forest while twice-logged and oil palm planta- tion soils were dominated by firmicutes.
+

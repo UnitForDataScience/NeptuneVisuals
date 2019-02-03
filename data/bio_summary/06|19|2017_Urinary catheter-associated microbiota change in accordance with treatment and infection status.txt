@@ -1,0 +1,30 @@
+single factor anova showed that the microbial diversities of the three patients were significantly different f of 5.9  fcrit of 3.4. based on two-tailed student's t-tests the commu- nity diversity indices for patients 1 and 3 were not significantly different t stat 0.98  t criti- cal two-tail 2.13. in contrast the diversity of the microbiota for patient 2 was significantly different from that of patient 1 t stat 3.22  t critical two-tail 2.23 and was also significantly different from patient 3 t stat -2.22  -t critical two-tail 2.18. overall patient 2 had lower microbial diversity but higher variance compared to patients 1 and 3. interestingly patient 2 had a history of recurrent symptomatic uti while patients 1 and 3 did not.
+
+while there was a trend of patientshaving distinct microbiomes based on the community sequencing data patients 2 and 3 were more similar to each other than to patient 1 which was the most different from the other two patients.to compare the communities between patients shannon-wiener diversity indices were calculated for the microbial community of each patient based on the illumina sequence data .
+
+patients 1 and 3 had supra- pubic catheters while patient 2 had an indwelling urethral catheter.twenty five samples were analysed where nine of these were from patient 1. for this patient samples collected during the probiotic treatment were at months 1 3 and 6. during the post-treatment period an additional 6 samples were collected.
+
+based on these results we propose that monitoring a patient's microbial community can be used to track the health of chronically catheterized patients and thus can be used as part of a health-status monitoring program.data collection and analysis decision to publish or preparation of the manuscript.competing interests the authors have declared that no competing interests exist.introductioncatheterised patients particularly those with spinal cord injuries sci are highly susceptible to microbial colonization and hence are at increased risk of symptomatic infection -.
+
+changes in the urine microbiomes of renal transplant patients were linked to transplant rejection and infection episodes suggesting that such changes in community composition can be predictive of poor outcomes for patients .
+
+when the microbiomes were analysed patient 1 was colonised by 10 otus and patients 2 and 3 had 9 otus each.across the three patients proteobacteria was the dominant phylum  averaging 79 of the total bacterial community sequences.
+
+this clustering suggests that the communities were significantly different between patients with a high intrapatient similarity permanova p  0.001. community sequencing data gave similar results as the t-rflp data  which also indicated that the microflora of the three patients had significant inter-patient differences.
+
+this informa- tion could be used to as a management tool by clinicians to determine whether to change cath- eters more frequently or pre-emptive antibiotic therapy.in summary the data presented here highlight that each of the three patients were colonized by a community that was unique to the individual and few organisms were shared across the three patients.
+
+similarly the samples from patients 1 and 3 blue triangles and greytaxonomic distribution of microorganisms in catheterized patients.
+
+the separation of the samples for patients 1 and 3 into two clusters was associated with whether the patients were on or off of the probiotic treatment described in detail below.
+
+six samples were collected from the post-treatmentshannon diversity indices of the three patients at the genus level from meta-sequencing data.the microbial community composition from patient 1 during and after probiotic treatment.
+
+closer scrutiny of patient 3's samples also revealed that at month 6 of probiotic treatment the microbial community resembled the post-treatment community rather than probiotic microbiota.
+
+this was especially clear for the 16s sequence data where the communities segregated into twodistinct groups based on treatment green triangles on the right in  or no treatment samples on the left in .to further understand the differences in communities between the samples collected at dif- ferent time points the community sequence data were examined based on changes in otus at the genus level for each time point.
+
+the difference between communities was especially clear for the sequence based data where the communities segregated into two distinct groups based on treatment months 3 and 5 samples on the left in  or no treatment samples on thethe microbial community composition from patient 2 during and after probiotic treatment.
+
+surprisingly the sample collected at month 6 green triangle apr 13 of probiotic treatment appeared to be similar to the no treat- ment samples non-green triangles .to further understand the differences in communities between the samples collected at dif- ferent time points the community sequence data was examined based on changes in otus at the genus level for each time point.
+

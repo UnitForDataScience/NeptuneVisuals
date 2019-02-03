@@ -1,0 +1,30 @@
+empty boxes denote missing data that means sample pairs with sequence coverage or read depth too low to comparetransplants were with un-related donors while two of the transplants were done with donors from spouses supplementary table 5. the dna from fecal samples was prepared processed and sequenced using the illumina hiseq2500 platform with 100 base paired-end reads with an average of 38 million reads per sample supplementary table 5. the species abundance was estimated using the computational tool metaphlan2 that relies on mapping whole genome sequence read data to a clade specific marker database.the microbe composition of the recipient's pre transplant was dominated with microbes such as escherichia coli lactobacillus salivarius and klebsiella oxytoca that were not found or were found in very low relative abundance in the donors or in the recipients post transplant and were not used for subsequent pairwise comparisons supplementary table 8. using the metaphelan2 data at the species level we generated a pcoa plot bray-curtis that show the relationship of the microbe commu- nities of the donor and pre and post-fmt samples supplementary data.the wss was calculated for all possible pairwise comparisons offmt samples all donor-donor donor-recipient fmt and recipient fmt-recipient fmt combinations where there was sufficient genome coverage supplementary table 6. the sample pairs were grouped in two categories.
+
+from the classifier we identified the wss cutoff value that differentiates a related sample from a non-related sample supplementary table 7approach window-based snv similarity wss which measures snv variation between two samples fig.
+
+orange dots represent related sample pairs with wss scores below the boundary cutoff and red dots represent related sample pairs with wss scores above the boundary cutoff see supplementary data.
+
+using the classifier based on full hmp as a training dataset we classified the fmt-related sample pairs into related represent same snv pattern and unrelated the sample pair does not share same snv pattern implying that sample pair might have different microbial species supplementary table 7 fig.
+
+b and supplementary table 8. it is possible these f. prausnitzii strains came from dormant microbes that had been sequestered in niches of the recipient and thus not in the fecal samples possibly as a result of the extensive antibiotics used in the c. difficile recipients.alternatively it is also possible that the new strain in the recipient was a minority strain in the donor sample and thus not detected in the donor but was at a competitive advantage following in the recipient post fmt.
+
+wss method used to determine the similarity of two samples a and b for two different species species 1 and 2. the metagenome dna sequences were aligned to reference genomes to call snvs.
+
+the wss was calculated for all possible pairwise comparisons of samples for each microbial species of which 21 selected species are shown in fig.
+
+red shaded boxes display wss scores above the wss boundary cutoff as determined by the classifier suggesting shared microbial species between the two samples.
+
+wss scores for all pairwise sample comparisons of species detected in the hmp dataset were determined.
+
+from the classifier we identified the wss cutoff value that differentiates a related sample from a non-related sample supplementary table 7.we applied the window-based snv method to samples obtained from six donors and seven fmt recipients treated forc.
+
+wss scores were calculated for all possible sample pairs donor-donor donor-recipient post-fmt and recipient post fmt-recipient post fmt.
+
+donor and recipient post transplant samples from seven different fmt were analyzed fmt a-f. da-t1a refers to donor a compared to recipient fmt a at time 1 da-t2a refers to donor a compared to recipient fmt at time 2. these 2-year samples were only available for fmt-a and fmt-b.
+
+we first constructed a reference sequence of 93 microbial species commonly found in healthy and fmt samples supple- mentary table 1 71 most abundant species from the healthy microbiome were selected from schloissnig et al.
+
+the number of dots for a given species was proportional to the number of samples where the species is present at depth  5x.
+
+although 93 species were analyzed the results from the 21 species that were present in the fmt samples are shown.
+

@@ -1,0 +1,30 @@
+p  0.01 and p  0.001 compared with the control value p  0.05 and p  0.01 compared with treated cells with daptlr4 mrna expression did not seem to be significantly modified after nod1 activation figure 5. nod1 expression in ileum and colon from tlr2-- tlr4-- and tlr24-- miceto corroborate our previous results we analyzed nod1 expression in the ileum and colon of tlr2-- tlr4-- and tlr24-- mice.
+
+results  nod1 activation inhibits 5-ht uptake sert expression in caco-2tc7 cellsrecent studies described nod1 expression in different cell types being mainly expressed in intestinal epithelial cells ting et al.
+
+p  0.05 and p  0.001 compared with the control valuealso decreases sert molecular expression suggesting that long- term nod1 activation may reduce sert expression by transcrip- tional andor post-transcriptional mechanisms.
+
+in agreement the erkmapk intracellular pathway has been implicated in sert and 5-ht effects liu suzuki day  fanburg however another study where erkmapk downstream signaling was studied in neuronal sert downregulation showed that this pathway would not be involved in sert modification even if the same erk inhibitor and concentration were used samuvel jayanthi bhat  ramamoor- thy therefore it seems that the involvement of the erk pathway on sert could depend on the cell model used.since nod1 activation by dap inhibits sert activity and expression 5-ht extracellular levels would be increased and might regulate nod1 expression in the intestinal epithelium by a feedback mechanism.
+
+our results have shown that 5-ht decreased nod1 expression suggesting a negative feedback regulation that under physiological conditions 5-ht 10-8 m may maintain a low level of nod1 expression.
+
+however under elevated 5-ht concentration 10-4 m that occurs in inflammatory pathologies mawe  hoffman the level of nod1 expression increases thus aggravating pathological nod1 responses.as discussed above nod1 activation could lead to a state of exacerbated or uncontrolled inflammation through a feedback mechanism with 5-ht as it has been observed in prolonged and excessive activation of tlrs davies  abreu however recent evidence have shown that nlrs and tlrs collaborate in mounting and balancing an efficient innate immune response to microbial pathogens foley wang redmond  wang in this regard and considering that tlr2 and tlr4 also inhibit sert expression and activity latorre et al.
+
+whereas other authors have suggested that nod1 would not synergize with tlr2 in this process lee  kim our results showed that tlr2 activation leads to an increment in nod1 expression mrna and protein in caco-2tc7 cells and supporting this interdependence nod1 activation produced a decrement in tlr2 expression.
+
+furthermore in the ileum of tlr4-- mice nod1 expression increased which corroborates the fact that tlr4 activation could downregulate nod1 mrna and protein expression.
+
+surprisingly tlr2-- mice also showed an increased nod1 expression in the ileum although tlr2 activation upregulated nod1 expression.
+
+these data would be supported by the results obtained in intestinal tract of tlr2 deficient mice which showed in addition to the nod1 increased expression an increase in sert expression latorre et al.
+
+at the same time serotonin exerts counter-effects on the expression of nod1 and tlr2 a pathological increment of 5-ht would increase nod1 expression and decrease tlr2 levels proving the negative crosstalk between nod1 and tlr2.the above results show the complicated network between prrs which seems to be controversial and unclear.
+
+our results showed that nod1 activation inhibits sert activity and expression in caco-2 tc7 cells through the extracellular signal-regulated kinase erk signaling pathway.
+
+a negative feedback between 5-ht and nod1 expression was also described.
+
+the results showed that tlr2 and tlr4 activation seems to regulate nod1 expression in caco-2 tc7 cells.
+
+to assess the extend of cross-talk between nod1 and tlrs nod1 expression was measured in the intestinal tract ileum and colon of wild type mice and mice with individual knockouts of tlr2 and tlr4 as well as double knockout tlr2 tlr4 mice.
+

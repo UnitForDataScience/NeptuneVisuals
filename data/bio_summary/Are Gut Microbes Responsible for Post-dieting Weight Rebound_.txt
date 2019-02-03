@@ -1,0 +1,24 @@
+in a recent article de- monstrate how the gut microbiome is involved in post-dieting weight rebound through energy expenditure and how sup- plementing mice with flavonoids over- rides this phenomenon eventually reset- ting the rebound clock.the segal and elinav labs from the weizmann institute have taken a simple yet powerful approach to tackle this challenge .
+
+however due to the complex interaction of the diet the microbiome and energy expenditure the identification of causal mediators of weight rebound remains a major unaddressed challenge.
+
+they de- signed cyclical diets with hfd periods interspaced with normal chow nc diet periods to model the post-diet weight rebound in mice.
+
+through 16s rdna phylogenetic profiling and shotgun sequencing of microbial genes com- bined with the use of antibiotics and fecal microbiome transplantation fmt they abrogated exacerbated weight gain during hfd cycling whereas treat- ment with celestrol--a weight loss inducer--or with a leptin signaling antag- onist did not mitigate weight rebound.
+
+these profiles are marked by reduced alpha diversity and only 45 of otus operational taxonomic units returning to pre-obesity levels holding the latent potential for a future rebound--particu- larly affecting total body fat determined by mri enhanced glucose intolerance elevated leptin and low-density lipopro- teins.
+
+additionally treating mice with an- tibiotics during the dieting nadir cancels out the rebound.
+
+strikingly the lean microbiome abrogated the rebound in the recipient mice during their second cycle of hfd.turning to shotgun sequencing and metagenomics showed that isoflavonoid metabolism is among the microbial pathways pertaining to this signature that are permanently affected by the first hfd episode.
+
+the authors then set up a daily supple- mentation with microbiome-derived fla- vonoids apigenin or naringenin so-called post-biotics which results in suppress- ing the weight rebound during the second course of hfd .
+
+remarkably treatment with flavonoids is able to abrogate weight gain potentiation after hfd re-exposure but does not abrogate the weight gain due to the hfd.as rightly pointed out by  the role of flavonoids and poly- phenols in obesity has been studied for a long time for instance naringenin plays a role in preventing obesity and non- shivering thermogenesis through ucp16 cell metabolism 25 january 10 2017 a 2017 elsevier inc.cell metabolismpreviewsfigure 1. overview of the role of the microbiome in post-diet weight rebound by .
+
+it should be no surprise that the study by brings in these ''usual suspects'' for weight rebound unifying a series of observations.
+
+this work is also reminis- cent of sustained metabolomic shifts involving microbial metabolites caused by post-weaning diets in pigs   and provides another example of dietary-induced losses in key microbial functions that had also been reported in diets poor in microbiota- accessible carbohydrates  .altogether the study by is in many ways representative of the current shift in microbiome stu- dies first they use a simplified design second they perform in-depth pheno- typing such as calorimetry and magnetic resonance imaging and third they mixhigh-throughput data such as 16s shotgun sequencing and metabolo- mics with state-of-the-art bioinformatics and machine learning approaches to reveal the deeper molecular intri- cacies of microbiome-driven determi- nants of the post-diet weight rebound.
+
+this work opens new research avenues for ''post-biotic'' and fmt interven- tion studies designed to break the rebound cycle.acknowledgmentsthis work is supported by a grant from the eu metacardis under agreement health-f4-2012- 305312.references .
+

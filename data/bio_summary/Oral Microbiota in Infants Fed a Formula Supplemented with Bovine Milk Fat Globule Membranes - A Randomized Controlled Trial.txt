@@ -1,0 +1,30 @@
+similarly at 4 months of age 98 of the sequences were found in 10 genera streptococ- cus 64 rothia 9 veillonella 8 neisseria 4 alloprevotella 3 gemella 3 pre-votella 2 actinomyces 2 granulicatella 2 and haemophilus 1. the most striking differences between 4 and 12 months of age were a decrease in streptococcus to 46 an increase in neisseria to 13 and appearance of fusobacteria 3 leptotrichia 1 and porphyromonas 1. full lists of detection prevalence  of the total number of sequences in 4 and12 months old infants together with p-values are presented for phyla and genera   and for speciesphylotypes .core microbiome at 4 and 12 months of agetwenty-two hot taxa were identified in 295 of all 4 and 12 months old infants.
+
+when the infants were 12 months old a statistically significant pls regression model was still seen but it was weaker cross validated predictive power q2 of 30 and the set of species associated with having been breast-fed from birth to at least 6 months of age ver- sus formula-fed differed from those seen at 4 months of age .being delivered by caesarean section was modestly associated pls correlation 0.1 with being in the sf group at both 4 and 12 months of age.
+
+the funders had no role in study design data collection and analysis decision to publish or preparation of the manuscript.backgroundin a recent study supplementation of infant formula with milk fat globule membranes mfgm decreased the incidence of otitis media in infants 6 months of age.objectivesthe aim of the present study was to characterize the oral microbiota in infants fed mfgm- supplemented formula and compare it to that of infants fed standard formula or breast milk.methodsin a prospective double-blinded randomized controlled trial exclusively formula-fed infants2 months of age were randomized to be fed experimental formula ef n  80 with reduced energy and protein and supplemented with a bovine mfgm concentrate or standard for- mula sf n  80 until 6 months of age.
+
+the inclusion criteria were 2 months of age gestational age at birth 37-42 weeks birth weight 2 500-4 500 g absence of chronic illness and exclusively formula-fed at baseline and for the breast-fed reference group that the infant was exclusively breast-fed at inclusion and that the mother had the intention to breast-feed until 6 months.
+
+all caregivers were recommended to not give any taste portions of comple- mentary foods until the infant was 4 months of age and then only small amounts up to 6 months of age.
+
+besides the explanatory r2-value pls regression provides a cross validated predictive value q2 of the model.resultsof the infants included in the basic trial sequencing of the oral microbiota was performed in 64 56 and 49 of the 4 months old and 81 81 and 72 of the 12 months old infants in the ef sf and bfr groups respectively.
+
+the mean 95 ci number of filtered sequences per sample were at 4 months of age 57 399 54 398-60 399 and at 12 months of age 49 164 46 493-51 835 with no difference between feeding groups at either age .
+
+of 234 unique hot taxa 202 were present in 4 months old and 229 in 12 months old infants.
+
+the 234 unique hot taxaclusters represented 10 phyladivisions actinobacteria bacteriodetes firmicutes fusobacteria gno2 proteobacteria sr1 synergistes tenericutes and tm7 and 64 genera .at 4 months of age 98 of the sequences were found in the phyla firmicutes 77 actino- bacteria 11 proteobacteria 5 and bacteriodetes 5. at 12 months of age the propor- tions were lower for firmicutes 60 higher for proteobacteria 18 but similar for otherphyla.
+
+a shows plot for 4 months and b for 12 months old infants.
+
+at 12 months they still tended to have lower species richness than formula-fed groups but the difference was not statistically significant.pcoa modeling of the 469 original otus at 4 months tended to cluster bfr infants together whereas ef and sf infants were scattered .
+
+the figure provides a map of how infants relate to each other by feeding type based on a model including genera and speciesphylotypes identified by homd blasting after exclusion of otus with 15 sequences sex mode of delivery anthropometric measures and lactobacilli by culture at a 4 months and b 12 months of age.
+
+for full list and univariate p-values see and tables.doi10.1371journal.pone.0169831.g007months of age the pls regression model was considerably weaker cross-validated predictive power q2 of 5 and the hot-taxa influential for being in the ef versus sf group at 4 months of age did not remain influential .the taxa detection pattern differed markedly between infants in the bfr and sf groups at 4 months of age and pls regression yielded a strong model cross validated predictive power q2 57. being breast-fed was mainly characterized by lactobacilli by culture bifidobacter- ium b. breve lactobacillus l. rhamnosus and l. gasseri kingella oralis ralstonia ralstonia sp.
+
+notably this difference in species richness was gone when the infants were 12 months old while some differences in the oral microbiota remained even though breast-feeding in most cases was discontinued since several months.
+
+in this perspective it is interesting that m. catar- rhalis was less prevalent in oral swabs from the 4 months old ef infants compared to those in the sf group.one more notable observation in the present study was that at 12 months of age the pres- ence of s. mutans an opportunistic bacterial species associated with early childhood caries  was more prevalent in formula-fed than in breast-fed infants.
+

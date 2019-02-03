@@ -1,0 +1,30 @@
+multiple comparative genomic analyses were performed to identify common insect virulence-associated genes and gene clusters lost in these attenuated virulence strains.first we generated a list of orfs present within the genomes of highly virulent strains xbi and xbj but absenttable 4. infection kinetics of x. bovienii strains and x. nematophila in g. mellonella and s. littoralishazard ratios for each x. bovienii strain were generated from the time-to-death data at a the dose of 10 cells per insect in g. mellonella and at b the dose of 1000 cells per insect in s. littoralis.
+
+competi- tion between xn and x. bovienii t6ss- strains was consid- ered as a positive control since x. nematophila is known to produce bacteriocins active against x. bovienii .
+
+furthermore we used a comparative genomics approach to identify candidate genes andor genomic regions that may contribute to the variable virulence of x. bovienii strains.methodsisolation and rearing of bacterial culturesnine x. bovienii strains xbffl xbfm xbfsn xbi xbj xbkbu xbkca xbp and xbo isolated from six different steinernema spp.
+
+first it could target the insect's gut microbiota which is known to translocate into the haemocoel when the nem- atodes migrate from the insect gut into the haemocoel .second it could help protect the insect cadaver from necrotrophic microbial competitors keeping it preserved until the xenorhabdus-steinernema life cycle is complete .
+
+the inability of x. bovienii cs03 to infect the tested insects alone was attributed in part to its susceptibility to cationic antimicrobial peptides which are produced by the insect host as a response to bacterial infection .
+
+these results indicate that virulence in x. bovienii varies at the intraspecific level in two different insect hosts.
+
+in this respect we speculate that differences in metabolic path- ways could reflect specialization of x. bovienii for certain hosts - both nematode and insect - and could also contrib- ute to the relative success of virulent strains.intriguingly one set of syntenic genes we identified as pres- ent in the virulent strains and absent in the attenuated ones appears to encode a t6ss.
+
+thus we speculate that the t6ss in x. bovienii may be another addition to the arse- nal of antibacterial mechanisms expressed by these bacteria in an insect where it could potentially play one of three roles.
+
+in general doses greater than 10 cells per insect did not show substantial differences in mortality between the x. bovienii strains .
+
+once ijs enter a susceptible insect host they release xenorhabdus bacteria into the insect haemocoel leading to septicaemia.
+
+therefore the insect cadaver becomes a suitableenvironment that not only allows xenorhabdus to multiply but also permits steinernema to mature and reproduce .received 13 december 2016 accepted 10 february 2017author affiliations 1school of animal and comparative biomedical sciences university of arizona tucson az usa 2postdoctoral excellence in research and teaching pert fellow center for insect science university of arizona tucson az usa 3dgimi inra universite de montpellier montpellier france 4department of entomology university of arizona forbes bldg.
+
+room 410 1140 e. south campus dr tucson az 85750 usa.correspondence s. patricia stock keywords xenorhabdus bacterial competition virulence genome analysis bioassays.abbreviations go gene ontology ij infective juvenile rgp region of genomic plasticity rmst restricted mean survival time t6ss type vi secre- tion system.three supplementary figures and eight supplementary tables are available with the online supplementary material.000449 a 2017 the authors byas food resources in the insect cadaver are depleted steiner- nema nematodes become ijs and re-associate with xeno- rhabdus before leaving the insect host .several studies have demonstrated that certain xenorhabdus spp.
+
+xbffl xbfm xbfsn xbkbu xbkca xbo and xbp were significantly different from xn and their respective death rates varied from 5.3 to 41.7 times slower than xn .we then further characterized the virulence of these nine strains by screening insect mortality in s. littoralis at a dose of 1000 cells per insect which is an established and robust method for identifying attenuated virulence strains of xen- orhabdus spp.
+
+in both of the tested insect hosts xbi and xbj were able to induce insect mortality within the entire or almost entire injected population within a 48 h period while xbffl xbfsn and xbo were not fig.
+
+x. nematophila was used as a positive control since this bacterium is known to be competitive against x. bovie- nii due to bacteriocin activity .
+

@@ -1,0 +1,30 @@
+observed otus in lung samples were greater than in sinuses indicating greater richness though the difference was not significant a. using the shannon diversity index sinuses were characterized by greater unevenness relative to lung samples consistent with the high prevalence of dominant sinus genera b. when ordered by rank an average of 10 and 20 genera accounted for 99 of sequences in sinus and lung samples respectively c. these data indicate that the lung bacterial community is greater in both richness and evenness relative to the sinuses.spearman correlations were then calculated to assess relationships between bacterial load alpha diversity and patient clinical data d. these data revealed a significant inverse correlation between shannon diversity in the sinus and lung r  - 0.664 p  0.022. because the data show a similar richness between sites and both sinus and lung shannon diversity revealed positive relationships with observed otus sinus r  0.881 p  3.35 x 10-4 lung r  0.774 p  0.007we infer that diversity differences are driven by evenness in these niches.
+
+contrary to our hypothesis within-patient sample pairs did not cluster together nearly as strongly as they did by sampling site a which rejected the null hypothesis the groupings sinuses and lungs had the same centroid permanova p  0.019. lung samples also demonstrated considerable phylo- genetic variation when compared to sinus samples a. when relative abundances from dominant taxa pseudomonas and staphylococcus were overlaid there was a strong association with the pcoa sample distribution b. these analysesdemonstrate that overall community structure is largely driven by dominant genera and that upper and lower airways select for unique bacterial community structures despite sharing individual taxa.predicted metagenomes show phenotypic conservation between sitesto gain insight into bacterial community function picrustwas implemented to infer bacterial metagenomes based on 16s rrna gene content.
+
+on average sinus specimens contained 2.72 x 103 iqr  2.69 x 102 -1.72 x 103 16s gene copies per ng genomic dna while lung sputum harbored 5.33 x 104 iqr  6.18 x 102 - 5.02 x 104. these data suggest a modest difference in 16s gene abundance between sample types a p  0.0637. interestingly patient age was positively associated with 16s gene abundance in sinus samples but this relationship was not observed for the lung b. we also assessed the relationship between bacterial load and two clinical metrics fev1 and snot-22 neither of which significantly correlated with 16s copy number in either sample group b. taken together these data suggest that the specific composition of each bacterial commu- nity rather than bacterial abundance contributes to disease states in both sinus and lung niches.bacterial community membership varies with locationbacterial composition was profiled using 16s rrna gene sequencing.
+
+lung samples display significantly greater evenness in otu distribution relative to sinus samples paired student's t-test p  0.0127. b. rank abundance curves reveal that both sinus and lung bacterial communities are dominated by a few organisms.
+
+these samples are herein referred to as sinus and lung samples denoting their anatomical origin.
+
+a dominant genus was present in 100 of sinus samples but only 33 of lung samples.
+
+based on these previous studies we hypothesized that samples would cluster more closely by patient rather than by sampling site.to address this hypothesis we compared samples utilizing weighted unifrac an abundance-sensitive phylogenetically- relevant diversity metric .
+
+gram-negative genera contrib- uting to this phenotype were more varied in lung samples and included veillonella prevotella neisseria stenotrophomonas supporting the increased richness observed in these samples.
+
+this phenotype was influenced by the presence of pseudomonas in both airway sites but burkholderiaand achromobacter both differentiated sinus from lung samples while neisseria and stenotrophomonas were more highly represented in lung samples.
+
+given the emerging evidence of anaerobes being causative agents of pulmonary disease  increased use of culture- independent diagnostics to detect these bacteria throughout the airways is warranted.our most intriguing data were that several sinus samples harbored canonical cf pathogens yet these bacteria were absent in the paired lung samples.
+
+here we compare bacterial communities of matched sinus and lung mucus samples from cystic fibrosis cf subjects undergoing endoscopic surgery for treatment of chronic sinusitis.methods mucus from one maxillary sinus and expectorated sputum were collected from twelve patients.
+
+red patient numbers indicate samples where bacterial membership was significantly correlated within pairs.
+
+however a group-wise comparison of paired samples showed a weaker correlation spearman r  0.32 p  0.001. these results highlight the potential for bacterial communities of the upper and lower airways to be similar within a given patient yet the group correlation underlines the general dissimilarity in microbiota between sinus and lung microenvironmentbacterial diversity varies between upper and lower airwaysas described above few taxa dominated most sequences in each sample.
+
+bugbase identified that gene functions associated with anaerobiosis were enriched in lung samples p  0.01 and could be attributed to three genera veillonella prevotella and porphyromonas a. gram-negative ultrastructure and biofilm formation are two bacterial phenotypes often associated with airway pathogenicity however our analysis showed that these phenotypes did not differ significantly between sites.
+
+together these observations may partially explain why patient response to therapy is poor and suggest that the expanded use of non-invasive sequence-based sinonasal sampling measures could be beneficial in steering patient therapies.often in microbiome surveys bacterial membership may differ dramatically between samples but functional capabilities remain conserved .
+

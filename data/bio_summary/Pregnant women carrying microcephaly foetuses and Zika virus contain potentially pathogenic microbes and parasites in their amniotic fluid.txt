@@ -1,0 +1,30 @@
+the aim of the present study was to analyse the microbial prokaryotic and eukaryotic and parasitic diversity in the af of these two cases patients 1 and 2. additionally we compared these two cases with metatranscriptomic sequences from 16 pregnant women collected at various times in their pregnancies four prenatal samples 18-24 weeks six late preterm samples 34-36 weeks and six term samples 39-40 weeks the illumina sequences obtained from these two cases and the 16 metatranscriptomes used as controls were pre-processed using prinseq software to remove reads smaller than 35 bp and sequences with quality scores lower than phred 20. the pear program paired- end read merger  was used to merge and extend the paired-end illumina reads using the default parameters with max-overlap  400 bp.
+
+showed that controls were more diverse than the two zika infected af samples altough only the comparissons between zika patients and term control considering simpson index and zika patients and preterm control considering shannon index were statistically significant additional file  table s2.
+
+the permanova showed a statistical diference in the bacterial species composition between the type of the samples additional file table s3 even as the nmds analysis also showed that zika patients clustering together a part from the three controls groups additional file figure s1286 1.5 and 1183 4.8 reads burkholderia 2801.47 and 713 2.87 reads flavobacterium 2441.28 and 533 2.15 reads streptococcus 78 0.41and 515 2.1 reads and paucibacter 146 077 and 295 1.19 reads fig.
+
+prenatal preterm and term control sequences were processed following the same protocol used for the previous sequences patients 1 and 2. the shannon and simpson indices were calculated using the vegan package from r language using genus counts.
+
+the statistical significance of the results was evaluated using multiple t tests with a significance level of alpha  0.05. to test the hypothesis that the taxonomic composition of the af was the same in the four sample types two infected zika patients prenatal preterm and term permutational multivariate ana- lysis of variance permanova was performed using the adonis function of the vegan package  bray- curtis distances and 999 permutations.
+
+zika positive af patients 1 and 2 were more diverse shannon index  2.578 and 2.678 simpson index  091 and 090 than prenatal and preterm controls samples shannonindex  2.44 simpson index  0.88 and shannon index  2.54 simpson index  0.9 respectivelly fig.
+
+however previous studies comparing the bacterial diversity in patients with immuno-deficient syndrome hiv showed that there is an increase in bac- terial diversity in hiv-positive patients compared to hiv-negative patients .
+
+we thank the comments of renato santana and ana bispo in previous versions of this paper.fundingthese work was done using fundings from cnpq capes and faperj.availability of data and materialsdata obtained in this study from the two patients is available at ncbi sra experiment accession srx1830267.control samples prenatal 1 2 3 and 4 late preterm 1 2 3 4 5 and 6and term 1 2 3 4 5 and 6 were obtained from ncbi sra section under bioproject id authors' contributionsdat processed analyzed the sequence data and write the manuscript lso carried out the sample sequences participated in the sequence analysis and drafted the manuscript ll participated in the sequence analysis and drafted the manuscript at conceived of the study and participated in its design and coordination ft conceived of the study and participated in its design and coordination and draft the manuscript.
+
+enterobacteria phage phix174 sequences were found in both patients 537 87.9 and 625 31.19 reads.
+
+to remove human se- quences the extended reads were analysed using the deconseq program  against human genomeassembly version 37 with relaxed parameters iden- tity and coverage  70. the non-human reads result- ing from the previous step were analysed against the non-redundant genbank nucleotide database nt-db 34295694 sequences using blastn software lim- ited to the five best hits and e-value  1e-5.
+
+unidentified bacterial sequences were the most abundant group found in both samples 3483 reads in the sample from patient 1 and 6538 reads in the sample from patient 2. shannon and simpson indexes for eukariotic species fig.
+
+in our study microbial and parasitic diversity of the af was lower p  0.05 in patients infected by zikv compared to that of prenatal and preterm controls additional file table s2 additional file table s3.
+
+inside the uterus the foetus is surrounded by the am- niotic fluid af a proximal fluid that contains foetal and maternal cells as well as microorganisms - the most common bacterial species found in the af of women who undergo preterm labour with intact mem- branes are ureaplasma urealyticum fusobacterium sp.
+
+digiulio also reported that sneathia bacteroides prevotella streptococcus leptotrichia peptostreptococcus escherichia gardner- ella bacillus bergeyella citrobacter delftia lactoba- cillus neisseria clostridiales and staphylococcus were identified in the af of women in preterm labour.case presentationa recent study has reported the presence of the zika virus in the amniotic fluid collected in the 28th gesta- tional week of two pregnant women carrying micro- cephaly foetuses in brazil the virus was detected by means of real-time pcr and metatranscriptomic ana- lysis.
+
+the blastn results were processed using megan 6 soft- ware and the taxonomic assignment of the sequences was obtained using the last common ancestor method with default parameters  sequences generated by kamath-rayne and colleagues were used as the three controls i.e.
+

@@ -1,0 +1,30 @@
+compositionally the cf flora only marginally overlapped with those of the healthy and smoker populations.observed microbiota in cf subjects match clinical diagnosisfor five of the six cf subjects all bacterial pathogens identified in the clinical culture diagnosis were alsoidentified through the dna sequencing each with at least 10000 bp mapped to their genome additional file table s2.
+
+the code for this analysis is available at mlst and phylogenetic placement of abundant clonal specieswe constructed a maximum likelihood tree for s. malto- philia using raxml under the gtrcat model with 1000 bootstraps using the concatenated sequence composed of the seven housekeeping genes atpd gapa guaa mutm nuod ppsa and reca.
+
+the creative commons public domain dedication waiver applies to the data made available in this article unless otherwise stated.the cf lungs are colonized by a number of pathogenic bacteria commonly including staphylococcus aureus pseudomonas aeruginosa haemophilus influenzae and burkholderia cepacia while prompt and aggressive antibiotic therapies can often control infections pro- longed antibiotic treatments may favor the emergence of antibiotic resistances and can facilitate colonization by multidrug-resistant pathogens such as achromobacter xylosoxidans and stenotrophomonas maltophilia currently culture-based techniques are routinely employed to identify and classify lung pathogens often using selective culture media designed for specific groups of pathogens however the culture conditions and procedures are necessarily biased towards known previously encountered pathogens--whereas novel slow-growing or rare microbes might potentially be missed e.g.
+
+using the workflow we established a detailed genomic profile can be generated for any lung pathogen from which suffi- cient dna can be prepared including also potentially unknown pathogens.results and discussionsputum samples contain diagnostically useful dnawe collected sputum samples from a total of 17 sub- jects 6 cf patients 4 patients with copd and 7 healthy controls 3 smokers 4 non-smokers.
+
+hypothetically even atypical pathogens that are not yet annotated in any database would become discernable although we have not encountered such a case among our samples.multi-locus sequence typing of pathogens using unbiased sputum sequencesmulti-locus sequence typing mlst is a well- established method to characterize isolates of a given microbial species in the context of previously observed strains of that species via dna sequencing of a limited pre-defined group of diagnostic genes traditional mlst requires the isolation and culture of microbes of interest followed by specific pcr assays targeting the genes used for strain typing.
+
+the sequences of previously typed strains used for building the tree were downloaded from the tree was rooted using bordetella pertussis genbank accession ln849008 as an outgroup.identification of antibiotic resistance genes and cassettes we used the comprehensive antibiotic resistance data- base to search for resistance-conferring genes in our samples.
+
+using whole-genomeshotgun sequencing we observed several known pul- monary pathogens whose genome coverage routinely exceeded 95 allowing us to type the strains with very high precision using existing multi-locus sequence typ- ing mlst databases.
+
+we assembled contigs from the remaining read pairs using the spades assem- bler under the only assembly setting.taxonomic annotation and diversity estimationwe searched the contigs against the ncbi nucleotide database as of june 2014 using blastn with an e value cutoff of e-15.
+
+ploidy was set to 10 to predict variants present at dif- fering frequencies and the minimum read count for supporting alternate alleles was set to 3. the predicted variants were further filtered with the help of vcffilter available with the freebayes package using a minimum quality score of 30 and minimum total read depth of 6 reads per position.contig binning via entropy landscapeswe recruited all paired-end reads that had contributed to the assembly process back against the non-human contigs using bowtie2.
+
+we then separated and quantified human and non-human read pairs the latter were further assembled into contigs additional file table s1 and annotated using homology-based searches see .the observed dna concentrations in sputum varied across subject groups with cf and copd patients pre- senting on average higher dna concentrations than the healthy controls fig.
+
+a recent study revealed that several commercial test systems used in different diagnostic laboratories were unable to distinguish different achromobacter spe- cies infecting cf patients and would often identify them incorrectly as a. xylosoxidans using the appropriate gene set for this genus we again performed mlst.
+
+for healthy subjects we found an overall higher diversity average shannon entropy of 3.07 in the healthy non-smoker lungs versus1.08 in the cf lungs p  0.038. interestingly thediversity was found to be reduced not only in the spu- tum of cf and copd patients but also to some extent in smokers additional file figure s3.
+
+d schematic model of the t6ss protein structure based on present knowledgeconclusionsin this study we have introduced a culture-independent technique for characterizing airway pathogens in the chronically inflamed lung using routine non-invasive sputum sampling coupled to unbiased wgs sequencing.
+
+we performed mlst using a standard set of seven housekeeping genes all of which werefound with 100 sequence coverage in our sample.
+
+instead we placed our sequences on a phylogenetic tree encompass- ing the entire genus constructed using concatenated housekeeping genes from all species and type strains avail- able in the pubmlst database    fig.
+

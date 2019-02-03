@@ -1,0 +1,30 @@
+articlelateral gene transfer in the adaptation of the anaerobic parasite blastocystis to the gutgraphical abstracthighlightsd 2.5 of blastocystis sp.
+
+here we present an in-depth investigation of lateral gene transfer lgt in the genome of blastocystis sp.
+
+we have sequenced the genome and transcriptome of the nandii strain of blastocystis sp.
+
+as part of their analyses of blastocystis sp.
+
+we combined these with multiple additional lines of evidence to rigorously investigate the role of lgt in the evolution of blastocystis sp.
+
+finally we report a number of novel candidate drug targets that occur not only in blastocystis but also in other protozoan pathogens.results and discussionoverall patterns of lgtwe analyzed 6544 predicted proteins from the genome and transcriptome of blastocystis sp.
+
+see also figure s1 table s1 and mendeley data.99909910010079bacteria 188 archaea 18565alicyclobacillus pohliae wp018130819 nad synthetase1067syntrophomonas wolfei wp011640843 nad synthetase65firmicutes tenericutes firmicutesgammaproteobacteriafirmicutesdesulfitibacter alkalitolerans wp035270412 nad synthetase77100100100100100leptospira interrogans wp000431115 hypothetical proteinlegionella shakespearei wp051078218 nad synthetaselegionella longbeachae wp003631873 nad synthetaseplesiocystis pacifica wp006974012 nad synthetase entamoeba invadens xp004183796 nh3-dependent nad synthetase putative entamoeba invadens ban42510 nh3-dependent nad synthetase putativespirochaetesgammaroteobacteriadeltaproteobacteria829910099 entamoeba dispar xp001734444 nh3-dependent nad synthetaseentamoeba histolytica emd45149 nad synthetase putativeentamoeba nuttalli xp008860270 nad synthase domain containing proteinentamoeba histolytica xp652135 nad synthetaseentamoeba histolytica ban38666 nad synthetase putativeameobozoa9910098naegleria gruberi xp002683178 predicted proteintrichomonas vaginalis xp001328005 nad synthetase family proteincoptotermes formosanus agm32667 nad synthetase family protein828199100100spironucleus salmonicida est42160 nh3-dependent nad synthetasegiardia intestinalis eet01057 nh3-dependent nad synthetasegiardia intestinalis esu40659 nad synthasegiardia lamblia efo61466 nh3-dependent nad synthetaseexacavata100 giardia lamblia xp001704996 nh3-dependent nad synthetase100 giardia intestinalis esu35669 nad synthase90blastocystis sp.
+
+st4 xp014524806 nad synthase100blastocystis sp.
+
+st7 xp012898230 uncharacterized proteinblastocystis sp.
+
+st7 xp012897988 uncharacterized proteinblastocystis91 blastocystis sp.
+
+st1 nandii oao17827.1100 blastocystis sp.
+
+st1 nandii oao14164.1809293trypanosoma rangeli esl10644 nad synthasetrypanosoma cruzi ekf33249 nad synthase putativetrypanosoma cruzi xp810731 nad synthase10010095 trypanosoma cruzi xp804150 nad synthasetrypanosoma cruzi ekg04780 nad synthase putativetrypanosoma congolense ccd12847 unnamed protein productsphaeroforma arctica xp014159873 opisthokonta nad synthetaseopisthokontatrypanosoma brucei xp011780812 nad synthase putative82 trypanosoma brucei xp829545 nad synthasetrypanosoma grayi xp009306398 putative nad synthasebodo saltans cug87258 hypothetical protein putative9095100100100phytomonas sp.
+
+ccw62817 unnamed protein productphytomonas sp.
+
+ccw70653 unnamed protein product angomonas desouzai agu68104 nad synthase glutamine hydrolysing angomonas deanei epy28413 nad synthase glutamine hydrolysing100100 angomonas deanei epy38080 nad synthase glutamine hydrolysingherpetomonas muscarum agu68175 nad synthase glutamine hydrolysing100 strigomonas culicis epy23128 nad synthaseexcavata79 100100strigomonas culicis epy26862 nad synthase glutamine hydrolysing strigomonas galati agu68223 nad synthase glutamine hydrolysing strigomonas oncopelti agu68136 nad synthase glutamine hydrolysing97100crithidia acanthocephali agu68165 nad synthase glutamine hydrolysing leptomonas pyrrhocoris kpa84717 putative nad synthase leptomonas seymouri kpi90793 putative nad synthaseleishmania braziliensis xp001567539 putative nad synthaseleishmania panamensis xp010701861 nad synthase putative100100leishmania mexicana xp003878011 putative nad synthaseleishmania major xp001685485 putative nad synthase10099 97100 leishmania donovani xp003863591 nad synthase putative100 leishmania infantum xp001467851 putative nad synthase flavobacteriales bacterium kjs06310 nad synthetasecryomorphaceae bacterium kro64731 nad synthetase trichodesmium erythraeum wp047160999 nad synthetase cryomorphaceae bacterium kro88285 nad synthetaseornithobacterium rhinotracheale wp014790238 nad synthetasecyanobacteria92 9710010010097prochlorococcus phage air93516 putative nad synthetase synechococcus phage yp004324310 nad synthetase candidatus pelagibacter wp023855111 nad synthetasepelagibacter phage yp007518027 nh3-dependent nad synthetase nade bacteroidetes 4alpharoteobacteriaviruses89887288 9288 7689 100bacteroidetes bacterium wp055425476 nad synthetaseepilithonimonas sp.
+
+wp034967792 nad synthetase bacteroidetes 8elizabethkingia anophelis wp058879280 nad synthetase betaproteobacteria 17bacteroidetes 7 leucothrix mucor wp022950547 nad synthetase dokdonia sp.
+

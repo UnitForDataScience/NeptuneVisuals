@@ -1,0 +1,30 @@
+differences in the amount of human adna content were observed for different archeological sites kruskal-wallis p  6.124e-05 but not for freshly recovered and stored in museum samples wilcoxon p  0.3160. marginal statistical significance was observed between older ko mz and younger si na me go lo samples wilcoxon p  0.0467 with a higher share ofendogenous human dna in older samples average  11.7 and7.8 median  3.2 and 0.75 for older and younger samples respectively.analysesmicrobiomes of human archaeological remainsto characterize the microbiomes of analyzed archaeological samples we used metaphlan2.
+
+accordingly the analyzed dna could come from i microorganisms that formed the human microbiome and ex- isted in the human organism before death or ii environmen- tal species that contaminated human remains or participated in the body's decomposition process.in this study we analyzed 161 datasets total sequencing  63 bbp collected from 7 different archaeological sites.
+
+conceived the overall idea of the study participated in the study design analyzed and discussed the data coordinated studies and was responsible for the final version of the manuscript all authors read and approved the final manuscript.12philips et al.referencesfu q posth c hajdinjak m et al.
+
+gigascience 6 2017 1-13doi 10.1093gigasciencegix044advance access publication date 13 june 2017 researchresearchcomprehensive analysis of microorganisms accompanying human archaeological remainsanna philips ireneusz stolarek bogna kuczkowska anna jurasluiza handschuh janusz piontek piotr kozlowski and marek figlerowicz1european center for bioinformatics and genomics institute of bioorganic chemistry polish academy of sciences poznan 61-704 poland 2department of human evolutionary biology institute of anthropology faculty of biology adam mickiewicz university in poznan poznan 61-614 poland 3department of hematology and bone marrow transplantation university of medical sciences poznan 60-569 poland 4institute of technology and chemical engineering poznan university of technology poznan 60-965 poland and 5institute of computing science poznan university of technology poznan 60-965 polandcorrespondence address.
+
+however comprehen- sive characterization of microbial dna accompanying human remains has never been done.the current study was performed to characterize microor- ganisms associated with human archaeological remains.
+
+c percentage of reads mapped to the human genome y-axis per archaeological site x-axis.table 1 characteristics of the samples extracted from ancient human remainsshallow next-generation sequencing ngs with the usage of an illumina single-end standard protocol including blunt-end dna repair and 75 bp sequencing run.
+
+b. detailed information on each sample is summarized in supplementary table s1.all reads were mapped to the reference human genome and the percentage of human reads was determined for each sample.
+
+c the fraction of human adna ranged from 0.01 to 91.9 however in most cases 100 samples it was less than 5. nine samples had more than 50 human adna con- tent.
+
+34 typ- ically found in the human digestive system and in the oral cav- ity was the most abundant taxon in the other human-related group as only m. smithii human gut flora component were iden- tified in our samples supplementary table s2.
+
+addition- ally we mapped reads against a reference human genome to compare in each sample the level of dna damage in human and microbial genomes.
+
+microbial dna damage values differed significantly between samples with different fractions of environmental components 1-way anova ds p  0.0413 dd p  0.0001 1l-1 p  0.0001. the samples with the low- est 25 contribution of environmental bacteria displayed the highest level of microbial dna damage on average ds  0.2643 dd  0.0067 1l-1  2.7933 comparable with those observed for endogenous human adna on average ds  0.3571 dd  0.0279 1l-1  1.6667. noticeably the damage of human adna did not depend on the amount of environmental bacteria in a sample 1-way anova ds p  0.8630 dd p  0.3530 1l-1 p  0.4770 fig.
+
+barplots indicating deamination rate in single-stranded dna overhangs ds and double-stranded dna fragments dd in microbial left-hand site and human dna right-hand site grouped based on the fraction of en- vironmental bacteriaarchaea in the sample and the length of single-stranded dna overhangs l expressed as 1l-1 calculated for 77 representative bacte- riaarchaea and endogenous human adna.
+
+s6.in order to confirm that the major source of microbes observed in human archeological samples was the environ- ment we compared their microbiomes with the microbiomes of6philips et al.figure 4 bacterial and archaeal types environmental light green oral blue other yellow and pathogenic red detected in analyzed archaeological samples.
+
+following uv irradiation the roots of the teeth were drilled using dremelqr  and bone powder was collected to sterile tubes 2 ml and digested for 48 hours at 56c in a buffer con- taining edta urea and proteinase k as described in juras et al.
+
+after digestion dna was purified using the minelute kit qiagen rridscr 008539 according to yang et al.
+

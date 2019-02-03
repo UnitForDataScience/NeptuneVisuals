@@ -1,0 +1,30 @@
+the buffers used were as follows 50 mm mcilvaine buffer for ph 2.2-8.0 50 mm tris-hcl for ph 8.0-9.0 and 50 mm glycine-naoh for ph 9.0-10.0.the optimum temperature was determined by assaying the enzyme activity at various temperatures from 0 to 50 degc in 50 mm tris-hcl buffer ph 8.0. enzyme thermostability was determined after pre-incubating the enzyme in 50 mm tris-hcl buffer ph 8.0 at 37 40 and 45 degc without substrate during 1 h or at 25 degc and 35 degc for 0-26 h with the untreated enzyme defining 100 activity.the effect of metal ions and chemicals on purified catpl12 activity was measured in 50 mm tris-hcl buffer ph 8.0 at 25 degc with different metal salts and chemical agents at a final concentration of 1 mm.
+
+the bradford method was used to determine protein concentration using bovine serum albumin as the standard.the optimum ph was determined at 30 degc in buffers at different ph levels ph 2.2-10.0. the stability of purified catpl12 at different ph levels was estimated by measuring the enzyme activity after incubating the enzyme solution in the buffers at 30 degc for 1 h with the untreated enzyme defining 100 activity.
+
+one unit of enzyme activity was defined as the amount of enzyme required to form 1 umol product per min.
+
+the extinction coefficients of the product of 3-methylcatechol 4-methylcatechol 4- chlorocatechol hydroquinone and protocatechuate were 18000m cm at 260 nm 14300m cm at 255 nm 12500m cm at 259 nm 11000m cm at 320 nm and 3890m cm at 290 nm .the kinetic parameters were calculated by a non-linear regression analysis using origin 8.5 software reactions were performed in 50 mm tris- hcl buffer ph 8.0 at 25 degc with catechol at concentrations ranging from 0.03 to 0.5 mm.the impact of inhibitors on enzyme activity of purified catpl12 was evaluated by incubating the enzyme with various phenols for 5 min at room temperature and then assaying the residual activity under optimal temperature and ph conditions.
+
+the enzyme was stable at 25 and 37 degc retaining 100 activity after pre-incubation for 1 h. when temperature exceeded 45 degc the enzyme stability decreased rapidly.
+
+conversely hg2 co2 zn2 and sds at a concentration of 1 mm dramatically reduced the enzymatic activity.previous studies reported that many c12o were ferric- dependent enzyme which ferric ion were used as the sole cofactors for c12o however some studies have shown that c12o activity was completely inhibited by different concentrations of fe3 thus effects of different fe3 concentrations on recombinant enzyme catpl12 were studied table when the fe3 concentration was 0.5 mm the promoting effect was most obvious.
+
+most of the phenolic com- pounds studied affected enzyme activity of catpl12 at concentrations of 0.1 and 0.5 mm but the effects were not obvious table  discussioncatechol 12-dioxygenase is the key enzyme for catalyzing the cleavage of the aromatic ring of catechol to ccma.
+
+therefore fe2 or fe3 was essential for c12o activity substitution of ferric ions with other metal ions in c12o might cause alterations in enzyme conformation and lead to partial or a total loss of enzyme activity however metal ions had different influences on the activity of c12o.
+
+for cata 1 h of pre- incubation at 25 and 37 degc resulted in 35 and 100 loss of enzyme activity respectively however 100 of the catpl12 enzyme activity was retained after 1 h of incubation at 25 and 37 degc.
+
+to meet commercial demands improvement of the specific activity by means of protein engineering and optimization of enzyme yield will be our future objective.over the past years the possibility of novel enzyme discovery through functional metagenomics has developed rapidly.
+
+it proved to be quite successful in discovering and characterizing a novel functioning enzyme such as endoglucanase glycoside hydrolases and xylanase from metagenomic library of gastrointestinal tract recently metagenomic ap- proaches have been useful in retrieving genes involved in the metabolism of aromatic compounds from microbial commu- nities mainly in soil and activated sludge and sewage.
+
+the final volume was adjusted to 3 ml with 50 mm tris-hcl buffer ph 8.0. after the addition of the enzyme mixtures were incubated at 25 degc in a water-bath for 5 min.
+
+the effects of different fe3 concentrations on purified catpl12 activity were studied under standard conditions with fecl3 at a final concentration of 0.1 0.5 1.0 5.0 and 10.0 mm.the substrate specificity of catpl12 was evaluated by incubating the enzyme with 0.5 mm 3-methylcatechol 4-methylcatechol 4-chlorocatechol hydroquinone and protocatechuate for assaying the activity under optimal temperature and ph conditions.
+
+assay of c12o was performed in the same way as in the case of non-inhibited enzyme.
+
+2. expression and purification of recombinant c12othe c12o gene catpl12 was expressed in e. coli bl21 de3 and induced with 0.7 mm iptg at 20 degc for 20 h. the crude enzyme extracted from recombinant e. coli bl21 de3 cells was purified to electrophoretic homogeneity by ni2-nta metal chelating affinity chromatography fig.
+

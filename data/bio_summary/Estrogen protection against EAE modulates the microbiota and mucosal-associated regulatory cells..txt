@@ -1,0 +1,30 @@
+1. interestingly the increased diversity in e2-treated animals was a relatively early event observed at d7 and d10 post-eae induction time points of disease onset in sham- treated animals.our results suggest that e2 limits the loss of microbial diversity and outgrowth of specific phyla for instance proteobacteria that is observed during the course of eae in sham-treated animals.e2 treatment affects the microbiota composition before eae inductionin order to further evaluate e2 effects on the gut microbiota in- dependent from the effects of eae we compared mice 7 days post-e2 or sham treatment prior to eae induction.
+
+b fold change log2 of mi- crobial families that exhibited a significant difference in relative abundance in the feces of e2 and sham treated mice at the same time point day 0. a negative binomial generalized linear model implemented in deseq2 was used to identify differentially abundant mi- crobial families between groups with a significance threshold of p  0.05 following benjamini-hochberg correction for multiple comparisons.permanova p  0.05. further to these observations we were able to identify three bacterial ordersfamilies that were significantly dif- ferent between sham and e2 treated mice on day 0 lactobacillaceae coriobacteriaceae and unidentified family from the bacillales order were significantly enriched after e2 treatment compared to sham p  0.001. these data demonstrate that high levels of estrogen affect the composition of the gut microbiota of female mice.e2 treatment affects the microbiota composition during eaein order to evaluate the effect of eae on the microbiota of e2 or sham treated mice we performed a pcoa analysis which combined data from mice on day 0 and day 21 p.i.
+
+previously we demonstrated that 17b-estradiol e2 mediated protection against eae was dependent on the presence of il-10 and programed death ligand 1 pdl1 expressing regulatory b cells bregs which were increased with e2 treatment in spleen spinal cord and brain  .
+
+sig- nificantly different taxa were defined as taxa that had a log fold change between groups of at least 1 and adjusted p-value of 0.10.data availabilitythe datasets generated during andor analyzed during the current study are available from the corresponding author upon reasonable request.resultse2-mediated prevention of eae modulates the intestinal microbiotain order to evaluate the effect of e2 on gut microbiota and immune response 11 week old female c57bl6 wt mice that were housed for 3 weeks in the same conditions were either sham treated or implanted with e2 pellets 7 days prior to immunization with mmog-35-55 pep- tidecfaptx.
+
+it is possible that e2 treatment may therefore limit disease by similar me- chanisms to nlrp12 or indeed directly promote nlrp12 expression.previously we demonstrated that e2 protection against eae is medi- ated by regulatory b cells and m2 macrophages  .
+
+a negative binomial generalized linear model implemented in deseq2 was used to identify dif- ferentially abundant microbial families between groups with a significance threshold of p  0.05 following benjamini- hochberg correction for multiple comparisons.e2 protection against eae induces a regulatory phenotype in the mesenteric lymph nodes and spinal cordwe previously reported that e2 treatment can induce bregs that are involved in ameliorating clinical signs of eae through pdl1 and il-10 dependent mechanisms  .
+
+it was reported that fatty acids that are metabolized by gut microbiota could affect the course of eae long-chain fatty acids were shown to enhance th1 and th17 cell responses and exacerbate eae whereas short-chain fatty acids were shown to promote regulatory t cell responses and ameliorate eae .recent studies also demonstrated that sex hormones either impact the gut microbiota or could be affected by it.
+
+as demonstrated in a while e2 day 0 mice and e2 day 21 mice clustered together sham day 0 mice significantly differed from sham day 21 mice permanova p  0.001. we further identified eight bacterial ordersfamilies that were significantly increased in e2eae mice and eight bacterial orders families that were significantly increased in shameae mice on day 21p.i.
+
+however in light of the clear impact of e2 administration on the gut microbiota we hypothesized that e2 may promote the local ex- pansion of intestinal bregs or other regulatory immune cell populations.
+
+1. e2 treatment protects female c57bl6 mice from eae.
+
+as demonstrated before e2 treated mice were com- pletely protected against eae compared to sham treated mice.
+
+a principal coordinate analysis pcoa plot of unweighted distances between e2-pretreated red dots and sham blue dots mice before eae induction day 0. mice were implanted with e2 or sham for seven days.
+
+4. e2 treatment reduces gut dysbiosis during eae.
+
+5. e2 treatment protects against eae by inducing regulatory b cells and anti-inflammatory macrophage in mln.
+
+or cd19il-10 cells in e2 n  6 or sham n  6 treated il10gfp mice on day 21 p.i.p  0.05 p  0.001 student's t-test.. it was reported that different strains of lactobacilli might attenuate eae by inducing il-10 producing cells .
+

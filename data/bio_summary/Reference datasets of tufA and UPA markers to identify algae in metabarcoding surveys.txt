@@ -1,0 +1,30 @@
+rossetto marcelino h. verbruggen  data in brief 11 2017 273-276how data was acquiredgenbank data compilation amplicon sequencing and chloroplast genome sequencingdata formatfilteredexperimental factors endolithic algae lineages were identified with metabarcoding and chloroplast genome sequencingexperimental featuresgenes were extracted from genbank data closely related organisms were fil- tered out and file was converted to a ready-to-use format.data source location melbourne australiadata accessibilitythe data are available with this articlevalue of the datathe tufa and upa reference datasets facilitate biodiversity assessments of cyanobacterial and eukaryotic algal communities using high-throughput sequencing.when used with the naive bayesian classifier rdp classifier implemented in qiime  the taxonomic metadata of the reference datasets provided here allow classifying operational taxonomic units otus at higher taxonomic ranks when no match is found at lower ranks.
+
+for example an otu with no close relatives at species or genus level can be classified at the family level facilitating the interpretation of the results.we incorporate in the datasets recently discovered endolithic limestone-boring algal lineages to facilitate the identification of these algae in other studies.the script provided here facilitates the development of custom reference databases for non- standard metabarcoding markers.datathe datasets of this article provide reference sequences of the elongation factor tu tufa and the universal plastid amplicon upa loci and their corresponding taxonomic information.
+
+data articlereference datasets of tufa and upa markers to identify algae in metabarcoding surveysvanessa rossetto marcelino  heroen verbruggenschool of biosciences university of melbourne melbourne victoria 3010 australiaa r t i c l e i n f o article historyreceived 21 december 2016 received in revised form15 january 2017accepted 6 february 2017available online 13 february 2017keywords metabarcoding ostreobium tufardp classifier upareference sequencesa b s t r a c t the data presented here are related to the research article multi- marker metabarcoding of coral skeletons reveals a rich micro- biome and diverse evolutionary origins of endolithic algae mar- celino and verbruggen 2016 .
+
+the tufa reference dataset contains bacterial and chloroplast tufa sequences including green algae red algae heterokonts cryptophytes and haptophytes.
+
+rossetto marcelino h. verbruggen  data in brief 11 2017 273-276275did not receive the same nomenclature as the tufa lineages because the correspondence between the tufa and the upa algal clades was unknown.
+
+since there are no reference sequences for ostreobium clade 1 and clade 2 it is possible that otus belonging to ostreobium clades 1 and 2 will be classified as clades 3 and 4 or will be only classified at higher taxonomic levels.the reference datasets were equalized so as not to contain identical sequences or a disproportional number of closely related species which yields downstream benefits for taxonomic assignment see .
+
+to equalize the datasets and exclude closely related or identical reference sequences we built a upgma tree of the sequences with a jc69 model.
+
+is a set of identified tufa reference sequences in fasta format.
+
+is a tab- delimited file containing the taxonomic information of the tufa reference sequences.
+
+here we provide reference datasets of the elongation factor tu tufa and the universal plastid amplicon upa markers in a format that is ready-to-use in the qiime pipeline caporaso et al.
+
+in addition to sequences previously available in genbank we included newly discovered endolithic algae lineages using both amplicon sequencing mar- celino and verbruggen 2016 and chloroplast genome data marcelino et al.
+
+the tufa and upa reference datasets are made publicly available here to facilitate biodiversity assessments of microalgal communities.
+
+each of these datasets consists of 1 a fasta file con- taining the reference dna sequences and short sequence identifiers and 2 a text file matching the sequence identifiers to their taxonomic metadata.
+
+to produce these datasets we first mined sequences from genbank by querying the marker name and downloading all matching items as full genbank records.
+
+to solve this issue and match tufa and upa clades we used chloroplast genome data.
+

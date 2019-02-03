@@ -1,0 +1,30 @@
+also herewe tested whether residuals followed a normal distribution using shapiro-wilk tests resulting in pln1 transformation of the data.all analyses were performed with r 3.2.2 r core team.resultseffect of mineral fertilizer supply and som on plant- and aphid biomass and plant cn ratiofertilizer supply had a positive effect on aboveground plant biomass but only under low som conditions whereas high som content had only a positive effect on plant biomass under low mineral fertilizer supply .
+
+plant bio- mass was neither related to leaf cn ratio r  -0.01 p  0.90 nor to aphid biomass r  -0.00 p  0.99 but leaf cn ratio was negatively related to aphid biomass r  0.76 p0.0001.effect of adding r. solani on plant- and aphid biomass under different soil conditionsthe addition of rhizoctonia solani affected both plant and aphid biomass in unsterilized soils but the effects were different depending on the soil conditions soil organic matter som con- tent and fertilizer supply .
+
+these different responses of plant biomass production and cn ratio to som and fertilizer could explain why an increase in som content could have a smaller positive effect on aphid biomass than mineral fertilizer supply while the effect on plant biomass is similar.
+
+in soils with low som content r. solani addi- tion tended to decrease aphid biomass whereas it tended to increase aphid biomass in soil with high som content  resulting in a significant interaction between som and r. solani addition .
+
+the combination of r. solani addition and mineral fertilizer supply did not result in a significant interaction although the trend was similar to the interaction between som content and r. solani addition .effects of r. solani under sterilized and unsterilized soil conditionsthe effect of r. solani addition on plant biomass changed with soil sterilization f  6.97p  0.01 n  88. in non-sterilized soil r. solani addition increased plant biomass whereas it tended to decrease plant biomass under sterilized conditions .
+
+anova models explaining fresh aphid biomass sitobion avenae pln1 transformed aboveground dried plant biomass stem and flower biomass of wheat triticum aestivum and plant cn ratio p transformed by soil organic matter som content fertilizer supply rhizocto-nia solani addition and all possible interactions.
+
+to examine the influence of the existing soil microbiome on the pathogen effects we used both unsterilized field soil and sterilized field soil.in unsterilized soil with low som content r. solani addition had a negative effect on aphid biomass whereas it enhanced aphid biomass in soil with high som content.
+
+here we demonstrate that a belowground pathogen may also influence aboveground plant-insect interactions and we show that effects depend on soil organic matter som content and mineral fertilizer supply.we hypothesized that rhizoctonia solani addition would lead to a decrease in plant biomass and an increase in aphid biomass and that enhanced som content and mineral fertilizer sup- ply would reduce these effects.
+
+however we found a pattern that opposed our hypothesis under low som content r. solani addition tended to decrease aphid sitobion avenae biomass whereas it tended to increase aphid biomass under high som content.
+
+however the effect of fertilizer supply changed with som content  in soil with high som content the positive effect of fertilizer supply on aphid biomass was greater than in soil with the lower som content .
+
+linear models explaining fresh aphid biomass sitobion avenae pln1 trans- formed aboveground dried plant biomass stem and flower biomass of wheat triticumaestivum and plant cn ratio p transformed by soil sterilization soil organic mattersom content rhizoctonia solani addition and all possible interactions.docacknowledgmentswe thank christian chabot gregor disveld florentine van noppen and erik reichman for technical assistance.
+
+we tested the following hypotheses 1 enhanced som content and higher min- eral fertilizer supply decrease the effect of r. solani on aphid biomass and its negative effect on plant biomass.
+
+we ran separate models for the three response variables aboveground plant biomass shoots and spikes fresh aphid biomass and plant quality cn ratio and used som fertilizer supply level and r. solani addition and all possible interactions as explanatory vari- ables.
+
+2 mineral fertilizer supply reduces plant cn ratio more than an increase in som content so that aphid biomass will be higher under enhanced mineral fertilizer supply than under enhanced som content.
+
+poten- tially an r. solani infection increases immunity of the crop plant against aphids in some situations.our second hypothesis was that mineral fertilizer supply would reduce plant cn ratio more than an increase in som content so that aphid biomass will be higher under enhanced mineral fertilizer supply than under enhanced som content.
+

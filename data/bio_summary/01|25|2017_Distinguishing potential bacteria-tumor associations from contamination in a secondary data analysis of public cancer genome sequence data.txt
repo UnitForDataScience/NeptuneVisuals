@@ -1,0 +1,30 @@
+however it is important to note that only 3 of 26 normal samples and 87 of 425 tumor samples contained bacterial read pairs at the time this data was downloaded and analyzed table from the samples containing bacteria the normal samples only had 4526 bacterial read pairs compared to 983611 bacterial read pairs from the tumor samples table the gbm dataset had approximately the same number of bacterial read pairs per sample for both the tumor and paired normal samples table both the tumor and normal samples had about a third of the read pairs from ralstonia picketti with low levels of read pairs from enterobacteriaceae pseudomonas aeruginosa and m. tu- berculosis complex additional file figure s3.
+
+therefore for example pseudomonas reads should be considered pseudomonas- like reads.nine cancer types were examined table and found to have differing abundances of putative bacterial read pairs ranging from 11 of patients with at least one sample containing bacterial read pairs in lung squamous cell carcinoma lusc to 100 of patients having at least one sample with bacterial read pairs in stad table stad aml and ovarian serous cystadeno- carcinoma ov have large proportions of pseudomonas acinetobacter and mycobacterium read pairs respect- ively fig.
+
+enterobacteriaceae propionibacterium ralstonia and staphylococcus taxa microview.dominant bacteria in tcga sequencing projectsall of the cancer types investigated had one or more samples containing read pairs present that were assigned to bacterial taxa table however only stad and kid- ney papillary carcinoma kirp had more sequencingruns with bacterial read pairs than sequencing runs without any bacterial read pairs present table additional file figure s2.
+
+in addition all ralstonia read pairs were removed from the aml dataset and all mycobacterium read pairs were removed from the ov and gbm datasets.gene feature calculationsthe mappings of each bacterial read pair to all of the complete bacterial genomes in refseq were combined with genome annotations to determine the gene features for each bacterial read pair alignment.additional filesauthors' contributionskmr drafted the manuscript developed the pipeline analyzed the data and provided guidance to kea.
+
+read pairs in each sample divided by the total number of read pairs in each sample.log ratio calculations comparing select bacterial read pairsmycobacterium m acinetobacter a and pseudo- monas ps read pairs were defined as microbiome- associated bacteria.
+
+4 the log10-transformed ratios of bacterial read pairs from a specific taxon to the total number of bacterial read pairs from that patient were calculated for all aml samples as described in fig.
+
+5 the log10-transformed ratios of bacterial read pairs from a specific taxon to the total number of bacterial read pairs from that patient were calculated for all ovarian cancer patients.
+
+while the wgs and wxs data also contained bacterial read pairs from proteobacteria these read pairs were in the minority additional file figure s6.there may also be a difference in the types of genes found from each bacterial taxa additional file table s1.
+
+therefore all cancer types were subsampled to the number of bacterial read pairs from gbm which had the fewest bacterial read pairs.
+
+to compare results we normalized by the total number of read pairs sequenced using the log10-trans- formed ratio of mycobacterium read pairs to total read pairs.
+
+a disproportionate number of ov samples se- quenced at the broad institute had a log10 ratio of mycobacterium read pairs to a total read pairs of -7 table meaning there was at least one mycobacteriumread pair for every ten million read pairs sequenced.
+
+although kidney clear cell carcinoma kirc also had pseudomonas read pairs present in the samples it was responsible for 10 of the total bacterial read pairs microview.
+
+the main difference in bacterial proportions when comparing the tumor and healthy tissue samples for ov is the increased abundance of mycobacterium read pairs in the tumor samples as well as the pres- ence of rhodobacteraceae read pairs in the normal samples fig.
+
+in samplesupon evaluating the samples with read pairs that had assigned bacterial taxa it was surprising that read pairs designated as m. tuberculosis complex could be found in both the tumor and paired-normal samples of ov and gbm fig.
+
+3 the log10-transformed ratios of bacterial read pairs are shown for all nine cancer types comparing counts of mycobacterium m acinetobacter a pseudomonas ps staphylococcus epidermidis s ralstonia r and propionibacterium p read pairs.
+

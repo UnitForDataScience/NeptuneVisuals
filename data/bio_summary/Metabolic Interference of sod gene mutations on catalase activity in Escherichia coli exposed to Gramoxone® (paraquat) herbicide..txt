@@ -1,0 +1,30 @@
+a more significant decrease in cell viability was found after gramoxoner exposure p0.000 to p  0.032 supplementary material 3. in this case increased enzyme synthesis in response to stress caused by the herbicide likely impaired cellular functions and decreased cellular viability.enzymatic responses to herbicide-induced oxidative stresssuperoxide dismutasein general sod is critical to the antioxidant responses to stress caused by herbicides heavy metals and other biotic and abiotic factors 10. three sod isoenzymes have been characterized in e. coli k-12 depending on the genotypes and conditions evaluated mn-sod soda fe-sod sodb and cuzn-sod sodc which we identified on non- denaturing page of after 5 or 9 h of growth in the presence and absence of gramoxoner .the wt strain had three electrophoretic bands corresponding to mn- sod fe-sod and cuzn-sod whereas the dsoda and dsodb strains exhibited only two bands corresponding to fe-sod and mn-sod respectively.
+
+sod is the first line of defense against oxidative stress  and is found in this bacterium in the form of three isoenzymes manganese sod mn-sod iron sod fe-sod which are both located in the cytoplasm and a copperzinc sod cuzn-sod which is present in the periplasmic space .
+
+the isoenzyme cuzn-sod despite its increased activity in response to gramoxoner in the wt strain had no detectable activity in both mutant strains probably because metal cofactors can interfere in sod activity regulation.high levels of growth in the presence of gramoxoner were observed in all studied strains.
+
+the variation in the activity of fe-sod was less pronounced than that of mn-sod  and this result agrees with the fact that sodb expression is constitutive and the oxidative stress indices evaluated h2o2  mda  and cell viability  were similar in the strains dsoda and wt strains.the loss of cuzn-sod activity in the dsoda and dsodb strains is noteworthy .
+
+herbicides have the potential to increase the intracellular concentrations of ros   and may cause lipid peroxidation a membrane lipid modification that affects bacterial growth  .in the present study we evaluated the effects of the herbicideparaquat gramoxoner on the physiological and adaptive responses of mutant e. coli k-12 strains carrying deletions of genes encoding mn- sod soda and fe-sod sodb.material and methodsbacterial strainsescherichia coli strain bw25133 derived from e. coli k-12 strain and designated wt was used as the control .
+
+moreover h2o2 levels in the dsoda strain we examined were not significantly greater p  0.095 to p  1.000 supplementary material 1 during gramoxoner exposure than the levels found in thecontrol .the e. coli mutants deficient for cytoplasmic sod produced h2o2 in excess promoting inhibition of the tricarboxylic acid cycle tca and showing growth defects that require amino acid supplementation .
+
+the excess of h2o2 has to be controlled by the increase in cat activity .in contrast in the dsodb strain there was a major reversal in thecat activity pattern between 5 and 9 h compared with the other strains examined .
+
+bonferroni and fischer's test with p  0.05 was used and the bars represent the standard error.peroxidation levels after 5 h of growth than after 9 h of growth and these results are consistent with our previous results for h2o2 levels.the mda levels is the dsodb strain probably induced by the higher concentration of h2o2 were significantly greater p0.000 supplementary material 2 than those of the control in both growth periods evaluated.
+
+statistical analyses were performed withstata 12 software using factor analysis and the anova test for comparisons between strains treatments and growth periods and using the bonferroni's correction for the analysis of h2o2 mda and cell viability.results and discussioncharacterization of herbicides as stress factors for e. coli k-12influence of gramoxoner on bacterial growthin the present study growth rate h2o2 generation lipid peroxida- tion and cell viability were used to analyze ros damage to e. coli k-12 caused by paraquat gramoxoner.
+
+the quantification of ros in the wt dsoda and dsodb strains in the presence of gramoxoner is shown in .it was observed that the h2o2 levels increased only when the dsodb strain was exposed to gramoxoner probably due to the mode of action of this herbicide and that the cell's defense responses involve the soda gene.
+
+this isoenzyme does not respond specifically to gramoxoner perhaps because it presents a h2o2 feedback inactivation.there was no significant difference p  0.095 to p  1.000 in h2o2 levels between control and gramoxoner so the increase of h2o2  level and cat activity at 9 h can be considered normal for a cell in an aerobic growth.
+
+the results in show that the presence of gramoxoner induced h2o2 production and lowered but did not inhibit the growth rates of the wt dsoda and dsodb e.coli strains in a very similar way as was reported in .lipid peroxidationmda is a dialdehyde formed as a secondary metabolite during the oxidation of polyunsaturated fatty acids and has been used as an indicator of lipid peroxidation in several studies on oxidative stress generated by a variety of stressors  .
+
+mutations in soda and sodb interfered with the cu zn-sod and cat activities.the fe-sod present in dsoda strain had its activity decreased by feedback by h2o2 unlike mn-sod present in the dsodb strain.
+
+the redundancy of antioxidant enzymes represented by different isoforms of sod and cat is an important key component for bacteria maintaining fitness.conclusionsthe herbicide gramoxoner has a high electronegative potential which promotes a redox imbalance and oxidative stress in e. coli k-12 strains.
+
+2. quantification of h2o2 in control and gramoxoner-exposed e. coli k-12 strains after growth for 5 and 9 h. the means were compared by anova.
+

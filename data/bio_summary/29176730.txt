@@ -1,0 +1,30 @@
+rapsearch2 based on the translated nucleotide sequence similarity search against the nr protein database shows a slightly higher microbial diversity of blowflies when compared to houseflies median of5.18 and 5.04 respectively while the dbassign analysis based on the assignment of reads to reference genomesin a database showed the opposite blowflies  1.69 houseflies  3.15. the otu operational taxonomic unitfigure 3. microbiome of blowflies and houseflies.
+
+see figure s4 for alpha-diversity indices.richness analysis showed an average number of 551 - 373 bacterial species for blowflies and 228 - 157 bacterial species for houseflies using rapsearch2 figure s5 and 37 - 22 otus for blowflies and 42 - 20 otus for house- flies using dbassign figure s5.
+
+the remaining non-host fraction of the datasets was used for the individual microbiome analyses of 62 blowflies 53 houseflies and 1 pool of lab-reared flies used as environ- mental control.
+
+are more abundant on the abdomen and have been isolated from whole insects and from the gut of blowflies stable flies houseflies and fruit flies also showing a varied virulence and mortality in d. melanogaster47 by being capable of avoiding their detection by the insect immune system48.
+
+the detailed microbiome profiles of samples gl64 bra131 aj63 and aj68 are shown in figure s8.despite the fact that blowflies and houseflies share more than half of their microbiomes host-species specific bacterial taxa were also detected with a cutoff of a minimum of 500 reads per species.
+
+further evidence of bacterial viability on the outer body of a fly was verified with bacterial growth from sterile buffer used for washing individual flies collected in urban environ- ments.
+
+anova indicates no significant discrimination of the microbiome of flies collected in different countries p  0.05. permanova suggests that the geographic origin has a minor effect on the beta-diversity of the microbiome r2  0.057 p-value  0.002 for rapseach2 r2  0.074 p-value  0.001 for dbassign thus explaining a small proportion of the variation observed.
+
+brazil is the second largest producer of potatoes in south america with cultivation restricted mainly to the southern and southeastern regions of the country where most of the fly samples were collected food and agriculture organization of the united nations - faostat 2008.aeromonas salmonicida an animal-associated species was identified in the housefly microbiome associated with flies collected at a farm in brazil where there was a lake used for recreational fishing.
+
+prwf-1 together with the more extensive incidence of e. cloacae e. coli and p. carotovorum suggest that the microbiomes of carrion-feeding flies represent a combination of host-inherited microorganisms and those acquired from a similar habitat andor migrations.the microbiome of fly body parts.
+
+however many of these studies have been restricted to 16s sequencing7 which generally limits the identification of microbial taxa by the exper- imental shortcomings and biases of pcr-based andor cultivation-based methods yet providing a record of the phylum- and genus-level diversity.despite their medical forensic and sanitary importance an assessment of the microbiome of mechanical vectors such as blowflies diptera calliphoridae and houseflies diptera muscidae has not been undertaken by large-scale metagenomic approaches.
+
+strains can influence the resistance of different hosts to viruses25.figure 2. higher rank taxonomy of the microbiome of blowflies and houseflies.
+
+proteobacteria dominates the microbiome of blowflies and houseflies followed by bacteroidetes and firmicutes.
+
+host-specific microbial taxa were observed but blowflies and houseflies share more than 50 of their microbiome that is likely acquired from similar habitats where they feed and breed.
+
+the precision of our taxonomic identification of bacterial species allows the conclusion that carrion flies are a proxy for the environment from which a significant part of their microbiome is acquired.
+
+if included in public health surveillance programs it will be possible to predict and prevent routes of transmission of microbes and potential pathogens mediated by these mechanical vectors.conclusionsby sequencing the holobiomes of individual insects we demonstrate that houseflies and blowflies contain a host-specific microbiome.
+

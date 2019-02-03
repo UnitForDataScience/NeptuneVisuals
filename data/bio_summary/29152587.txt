@@ -1,0 +1,30 @@
+ms conditions were set as follows mass rangeacquisition 50 to 2000 mz ionization mode electrospray ionization negative esi- sensitivity mode scan time 0.5 s collision energy 6 ev capillary voltage 2.5 kv sampling cone 40 v source temperature 100degc desolvation temperature 350degc cone gas flow 50 litersh desolvation gas flow 550 litersh and low mass lm resolution 4.7. for accurate mass acquisition a lock mass of leucine enkephalin m - h-  554.2615 was used.
+
+for example synthetic communities have been assembled from marine waters onto artificial parti- cles to observe community primary succession and the resulting functional changes in model heterotrophic particles  and phototrophic biofilms  spatially constrained synthetic communities have been used to investigate reciprocal syntrophy  and computationally modeled synthetic communities have been applied to predict cocul- ture growth given the metabolic needs of the members .
+
+we suggest that the most limiting factor is access to mass spectrometers and expertise in mass spectral analysis which if not available locally is accessible via research support facilities.as is true for any laboratory-scale experimental system this synthetic community system also has several limitations.
+
+mobile phase a consisted of 5 mm ammonium acetate in water ph 3 and mobile phase b consisted of 95 acetonitrile-5 5 mm ammonium acetate in water ph 3. ms conditions were set as follows mass range acquisition 50 to 2000 mz ionization mode esi sensitivity mode scan time 0.1 s collision energy 6 ev capillary voltage 3.0 kv sampling cone 35 v source temperature 100degc desolvation temperature 350degc cone gas flow 25 litersh desolvation gas flow 600 litersh and lm resolution 4.7. for accurate mass acquisition a lock mass of leucine enkephalin m  h  556.2771 was used.
+
+fifty-seven mass spectral files were analyzed 4 time series replicates 5 time pointsseries 2 mass spectral replicatestime point 4 negative controls with 2 mass spectral replicates each 6 qc samples and 3 qc dilution series samples.
+
+thus this synthetic community system has utility to address fundamental questions about a diversity of possible microbial interactions that occur in both natural and engineered ecosys- tems.keywords burkholderia chromobacterium pseudomonas syringae community ecology microbial metabolomics model microbial systems synthetic communitieshere is modest knowledge about how microorganisms interact with each other in their native habitats and whether these microbial interactions have implications for emergent community or ecosystem properties.
+
+these studies and others demonstrate that synthetic microbial communities can be applied in diverse and creative ways to provide insights into the dynamic biological and ecological interactions of microbiomes   with the anticipation that these insights then can be applied to manage these communities toward desired outcomes.we have developed a simple synthetic community system to interrogate exome- tabolite interactions among microbial community members.
+
+these data show that the synthetic community system offers experimental consistency in mass spectral results.we observed directional changes in the three-member community's nonpolar exo- metabolite profile over time explained by axis 1 in the principal-component analysis pca .
+
+mass spectral replicates were reproducible  median pearson's r  0.98 range 0.96 to 0.99 all p values of 0.0001. as expected our quality control qc samples had similar profiles even though they were analyzed at different times over the mass spectral operation see fig.
+
+the qc sample was used to condition the column at the beginning of the mass spectral analysis  and to assess instrument stability at six time points over the course of the mass spectral analysis .
+
+for ms-ms analysis similar uplc conditions and ms conditions were used with the following exceptions ms set mass 383.1 ms-ms range acquisition 40 to 600 mz lm resolution 17.0 and collision energy ramp 20 to 80 ev.peak selection quality control and global analysis of nonpolar mass spectral data.
+
+methods and protocolsnovel systems biology techniquesa synthetic community system for probing microbial interactions driven by exometabolitesjohn l. chodkowskia abdepartment of microbiology and molecular genetics michigan state university east lansing michigan usaa department of plant soil and microbial sciences program in ecology evolutionary biology and behavior the doe great lakes bioenergy center and the plant resilience institute michigan state university east lansing michigan usababstract though most microorganisms live within a community we have mod- est knowledge about microbial interactions and their implications for community properties and ecosystem functions.
+
+to advance understanding of microbial interac- tions we describe a straightforward synthetic community system that can be used to interrogate exometabolite interactions among microorganisms.
+
+the synthetic community design allows for determination of the consequences of microbiome diversity for emergent community properties and for functional changes over time or after perturbation.
+
+because it is versatile scalable and accessible this synthetic community system has the potential to practically advance knowledge of microbial interactions that occur within both natural and artificial communities.importance understanding microbial interactions is a fundamental objective in microbiology and ecology.
+

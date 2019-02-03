@@ -1,0 +1,30 @@
+finally to further illustrate the most abundant bacterial taxa and community relationships across host species a heatmap and dendrogram was generated with bray-curtis dissimilarity index and bacterial otus representing 5 reads removed in r v3.3.3 -.table 2. bacterial 16s barcoding sequencing depth and quality.cosmopterigidaecandywrap-case candywrap-case candywrap-casetable 2. cont.data availability1 species have not been formally described.bacterial 16s reads for each sample were submitted to genbank single read archive sra database under accession numbers samn07806952-samn07806982.results and discussionthe bacterial microbiomes of select endemic hawaiian insect species were surveyed to provide baseline understanding of their community diversity and potential influence on host ecology and evolution.
+
+obligate bacterial and facultative symbionts found in sap-feeding leafhoppers and seed bugs2 drosophila  wekiu bug drosophila spp.
+
+these bacterial taxa have been identified as core members of the gut microbiomes in non-hawaiian drosophila species across the globe and also in other insects including termites and honeybees -.although the importance of these microbes in hawaiian drosophila remain unknown given their widely conserved nature it is plausible that they play important roles in shaping host ecological adaptations.
+
+similarly the hawaiian drosophila maintain a fairly diverse microbiome but they contain several species in lower abundance that are uniquely shared between hawaiian drosophila and also with drosophila species worldwide.
+
+broadly our results reveal that hawaiian insects harbor a wide diversity of bacterial lineages comprising over 10 bacterial phyla see table s1.
+
+finally some groups such as the hawaiian drosophila have relatively diverse microbiomes with a conserved core of bacterial taxa across multiple species and islands.keywords insect-microbe interactions microbial ecology symbiosis microbiome hawaiian insects wolbachiainsects 2017 8 130 doiintroductionall complex multicellular life evolved either in alliance with or in defense from microbes which have dominated earth for billions of years .
+
+and nesophrosyne spp.. in the case of drosophila host insects appear to share members of their bacterial communities across replicates distinct species and geographic locations figures -.
+
+although our sampling here is limited to four species of almost 1000 species our preliminary survey found evidence that the hawaiian drosophila microbiome maintains a conserved set of bacterial taxa.
+
+the identities of the most abundant bacterial species across drosophila samples are similar regardless of whether guts or whole-bodies were sampled figures - table .
+
+surveys of hawaiian drosophila microbiome communities should include these microbial groups as they likely have important implications for host ecology and evolution .figure 3. relative abundance of bacterial groups observed in insects with different feeding behaviors.
+
+kopp a. bacterial communities of diverse drosophila species ecological context of a host-microbe model system.
+
+to initiate this effort we have sequenced the bacterial microbiomes of thirteen species representing iconic endemic hawaiian insect groups.
+
+recently a large body of literature has revealed that bacterial symbionts shape insect ecology and evolution by providing a range of environmental services or by manipulating host reproduction .
+
+to introduce this effort we describe--for the first time--the bacterial diversity of 13 endemic hawaiian insect species eight genera and seven families.
+
+pcr amplification targeting the meta-barcoding v4 region of bacterial 16srrna was achieved by the primer pair 515f 5 -gtgycagcmgccgcggtaa-3  and 806r 5 -ggactacnvgggtwtctaat-3  .
+

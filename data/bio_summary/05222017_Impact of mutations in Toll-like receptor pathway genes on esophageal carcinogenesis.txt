@@ -1,0 +1,30 @@
+finally we aimed to determine the broader relevance of tlr pathway muta- tions in other cancers using tcga data and the cosmic database.resultsthe tlr pathway is significantly mutated in eacto determine whether the tlr signaling pathway is dysregulated through somatic mutations in eac we interrogated the mutational profiles of 171 eac tumors and matched germline controls that were sequenced as part of the international cancer genome consortium icgc esophageal study.
+
+tlr pathway mutated tumors did not show significant differences in the numbers of total snvs welch's t-test p  0.134 or non-synonymous snvs p  0.147 compared to wild-type tumors and did not show significant enrichment of any of the molecular subtypes recently defined on the basis of their dominant molecular signature fisher's exact test p  0.57  .to investigate other potential sources of altered function of the tlr pathway genes we inves- tigated copy number and structural variants potentially affecting the tlr pathway in the icgc cohort.
+
+grey pathway components have no tlr pathway mutations in either cohort.mutational spectrum with non-synonymous mutations in tlr pathway genes in 33149 22.1 pathscan p  0.05 of eac samples .
+
+we validated our findings using rna-seq data from 23 independent tumors of which 2 were mutated in the tlr pathway and significant upregu- lation was found only for nlrp6 p  0.004. nlrp6 is involved in pathogen recognition through the inflammasome pathway and has overlap in function with the tlr pathway.
+
+in contrast to hek293 cells no significant decrease in tlr4 signaling was observed for mutant e439g stimulated with lps in the eac cell lines suggesting that the strong agonist lps was still able to trigger tlr signaling despite mutation of the ligand binding site.upregulation of nlrp6 expression in eac tumors with tlr pathway mutationsour experiments in cell lines suggest that tlr4 mutations impair tlr signaling and nf-kb activation in hek293 cells and il-8 secretion by eac cell lines.
+
+eleven out of 171 samples showed structural variants whose breakpoints overlap with tlr pathway genes or lead to a potential fusion with a tlr pathway gene .
+
+this trend was also present when looking only at the fraction of tlr4 mutant tumors p  0.028.clinical relevance of tlr pathway mutationsnext we investigated the clinical relevance of tlr pathway mutations through correlation with clinical outcome data.
+
+dif- ferential expression analysis between tlr pathway mutated vs. wild-type tlr pathway vs. control and wild-type vs. control samples was performed using deseq2 .statistical analysisthe analysis for luciferase reporter assays was performed using the anova test and the tukey post-test in graphpad prism 6. within graphpad the nonparametric kruskal-wallis test and dunns post-test was used to compare means for elisa assays.
+
+additionally analysis of tcga expression data suggested that nlrp6 is upre- gulated in tlr mutant tumors which may reflect cross-talk between the tlr pathway and nod-like receptor signaling pathway.
+
+the cut-offs for classification are deletion-rcn  -2 loss--rcn  -1 no change---1rcn1 gain-- rcn  1 amplification--rcn  2.tlr pathway analysiswe defined a list of genes that are specific to the tlr pathway based on the kegg toll-like receptor signaling pathway.
+
+tlr mutant tumors originated more proximally at the level of the gastro-esophageal junction or above siewert type 1-2 or esophageal fisher's exact test p  0.012. there was a trend towards decreased survival in patients with tlr mutations in comparison to wild-type although this did not reach statistical significance possibly due to the limited number of tlr mutant cases and length of follow-up .
+
+three samples showed homozygous deletions in tlr path- way genes myd88 in icgc-30 irak1 in icgc-24 and tlr7 tlr8 and irak1 in icgc-10.interestingly several tlr pathway genes were affected by loss of heterozygosity.
+
+no other tlr pathwaydistribution of tlr pathway mutations in eac and other cancers.
+
+d schematic of the tlr signaling pathway summarizing the somatic mutations from the combined icgc and tcga cohorts with mutated pathway components highlighted in color and large bold font.
+
+we hypothesized that mutations targeting the toll-like receptor tlr pathway could disrupt innate immune signaling and promote a microenvironment that favors tumorigene- sis.
+

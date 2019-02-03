@@ -1,0 +1,30 @@
+next the blast hits are extracted by default blca only extracts the blast hits from blast pairwise alignments with at least 95 identity and 95 coverage with respect to the query but users can easily change these parameters using the command- line at execution as well as setting an additional criterion to retain only the blast hits whose bit scores arewithin a certain percentage of difference from the top hits the same criterion used by megan.
+
+conversely the results from blca which showed higher accuracy than megan remained robust to thetable 2 blca accuracy is insenesitve to the inclusion of dissimilar blast hitsthe parameter toppercent is for keeping only the blast hits whose bit scores are within a given percentage of the best blast hit.
+
+the f-scores of blca are much less sensitive to the value of toppercent when compared to megannumber of included blast hits table since bad blast hits are penalized using posterior probability scores assigned by the blca algorithm.
+
+minimum blast bit scores maximum blast ex- pected values and the percent of blast hits for both blca and megan.
+
+in our current implementation the pairwise alignment score between the query sequence and blast hit sequence is computed from the multiple sequence align- ment which tends to be more accurate than the original blast pairwise alignment because blast alignment performs local alignment whereas muscle is a global alignment program.
+
+in addition spingo cannot do subspecies classification nor can it do family or higher level classification whereas blca can classify reads from any level ranging from subspecies to phylum though there are not enough annotated subspeciesdatasets at ncbi for evaluating blca subspecies-level classification accuracy.even though the standard release of the rdp classifier cannot classify 16s sequences at the species level we obtained the training script from the rdp classifier's development team personal communications and re-trained the rdp classifier for species-level classifica- tion with the same ncbi 16s database that blca uses.
+
+without any filtering of kraken's output which is the default setting for kraken blca still significantly outperforms kraken with all tested 16s regions from the species to the family level.in addition to using simulated datasets to evaluate blca and other software table shows that blca had either higher or comparable classification accuracies when tested with a real-world 16s dataset.
+
+the default value in megan for this parameter is 10. in our comparisons we set the value of toppercent to be 5 10 and 20 for both blca and megan the recommended range by the original megan publication to compare the performance of blca and megan under different stringencies of retaining blast hits.
+
+using the previous example in which a query sequence has one blast hit from l. acidophilus and the other from l. casei the posterior probability for the genus level of lactobacillus for the query is the sum of the posterior probabilities for l. acidophilus and l. casei respectively.based on the posterior probabilities calculated for all the nodes in the taxonomic tree a bootstrap confidence score is derived to evaluate the reliability of the taxo- nomic assignment for each node.
+
+specifically aligned nucleotide positions in the multiple sequence alignment between query and blast hits are randomly sampled with replacement the total number of sampled nucleo- tide positions is the same as the length of the query sequence i.e.
+
+the most important megan parameter for extracting blast hits for downstream analysis is the parameter toppercent used to keep only the blast hits whose bit scores are within a given per- centage of the best blast hit.
+
+the default value in megan for this parameter is 10. for example if the top blast hit has a bit score of 1000 we only retain blast hits for downstream analysis if their blast bit scores are at least 900 i.e.
+
+we show that blca provides signifi- cantly more accurate classification results at the species level when compared to all other existing tools.implementationthe blca method is implemented as a python package which is freely available at under the gnu general public license.
+
+in order to ensure that megan and spingo can be compared against blca and other programs using the same reference taxonomic annotation.resultsto compare blca against other software we reviewed all recently published 16s taxonomic classification tools.
+
+to have a fair comparison with blca we have replaced kraken's default database with the same ncbi 16s database used for blca thus increasing its sensitivity to classify a broader range of bacterial taxa.
+

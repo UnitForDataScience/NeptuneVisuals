@@ -1,0 +1,30 @@
+bc bar plots indicating mean - sem retinoid sensitivity calculated as time-to-log phase for treated cultures versus time-to-log phase for vehicle alone dmso control cultures for b b. vulgatus atcc 8482 versus b. dorei dsm 17855 or c b. vulgatus strain atcc 8482 versus b. vulgatus strain 257h4 isolated from a healthy malawian infant 16. for example the sensitivity value of 20.8-2.1 for wildtype b.hibberd et al.page 32vulgatus incubated in medium containing 10 um retinol in panel b was calculated by dividing the total incubation period in this case 95 h by the time required for vehicle alone- treated control cultures of the same strain to cross the od600 threshold of 0.3. mean values - sem are shown except under those conditions in panel c where the concentration of retinol tested completely inhibited growth.
+
+acute vitamin a deficiency had the largest effect on bacterial community structure and meta-transcriptome with bacteroides vulgatus a prominent responder increasing its abundance in the absence of vitaminapplying retinol selection to a library of 30300 b. vulgatus transposon mutants revealed that disruption of acrr abrogated retinol sensitivity.
+
+the concentration range 0.1-10 um of retinol and other retinoids used was based on previous reports of their concentrations in mouse small intestinal contents and feces and human feces 29 30. treatment with 10 um retinol completely inhibited the growth of b. vulgatus p0.0001 compared to control incubations containing vehicle 0.02 dmso alone retinal p0.0001 and retinyl palmitate p0.0002 also produced significant though much weaker growth inhibition compared to retinol at the same concentration in contrast geranylgeraniol had no significant effect p0.99 one-way anova bonferroni multiple comparisons test fig.
+
+retinoid sensitivity experiments were performed as described above using monocultures of isolated tn mutant strains.complementation of b. vulgatus tn mutantstn mutants of b. vulgatus were complemented using the genomic insertion vector pnbu2tetq 40. the coding sequence of acrr bvu0240 was amplified by pcr with phusion hf master mix new england biolabs massachusetts usa from purified genomic dna from wildtype b. vulgatus.
+
+none of the micronutrient-deficient diets resulted in a significant change in body weight in these adult mice table s9 p0.05 two- way repeated measures anova dunnett's test.identification of a member of the tetr family of transcriptional repressors that mediates the sensitivity of b. vulgatus to retinolto examine the mechanisms underlying the in vivo response of b. vulgatus to dietary vitamin a availability we cultured the strain in vitro under anaerobic conditions in a defined medium with or without addition of a range of concentrations of retinol retinal retinyl palmitate all-trans retinoic acid or b-carotene the diterpene alcohol geranylgeraniol was used as a control.
+
+6a.phenylalanine-arginine b-naphthylamide pabn is a known inhibitor of multidrug efflux systems including acrab-tolc 41. wildtype acrrin and complemented strains of b. vulgatus were treated with pabn in the presence or absence of retinol wildtype b. dorei was used as a reference control unlike wildtype b. vulgatus it is resistant to retinol-hibberd et al.page 11mediated growth inhibition fig.
+
+incubation of the b. vulgatus acrrin strain which exhibits increased expression of its efflux system components compared to wildtype or wildtype b. dorei with 25 ugml pabn in the absence of retinol did not result in a statistically significant effect on growth compared to untreated control cultures p0.99 b. vulgatus acrrin p0.99 wildtype b. dorei one-way anova bonferroni multiple comparisons test table s15a.
+
+2. the distinct retinol sensitivity phenotypes of b. vulgatus strains and b. dorei in vitroa growth curves of b. vulgatus in defined medium with and without various retinoids.
+
+f retinol 10 um sensitivity of the wildtype acrrin genome location 361472 mutant and complemented b. vulgatus acrrin  pnbu2acrr mutant strains abbreviated comp plus a control b. vulgatus acrrin strain containing the empty vector.
+
+4. transcriptional response of the b. vulgatus locus containing the acrab-tolc efflux pump to insertional mutagenesis of acrr or lpxamicrobial rna-seq analysis of gene expression in mid-log phase b. vulgatus wildtype wt acrrin and lpxain genome location 362422 strains cultured in the absence of retinol.
+
+s2b retinol produced significantly less growth inhibition of b. dorei in vitro compared to b. vulgatus p0.0001 for both 5 um and 10 um retinol compared to vehicle alone control incubations t-test bonferroni correction fig.
+
+however addition of the efflux pump inhibitor produced a significant increase in retinol sensitivity in the b. vulgatus acrrin mutant p0.0001 and in wildtype b. dorei p0.0001 compared to cultures with retinol alone fig.
+
+e retinol sensitivity of b. vulgatus wildtype wt and tn mutants grown in monoculture in defined medium treated with 1 um 5 um and 10 um retinol versus 0.02 vv dmso as a reference vehicle control.
+
+6. role of the acrab-tolc efflux pump in regulating the sensitivity of b. vulgatus to retinol and deoxycholic acida retinol efflux assay.
+
+finally these binding assays also suggest that the differential sensitivity of the two bacteroides species cannot be simply ascribed to differences in the interactions of acrr with either retinol or the identified target dna binding site.further evidence that the bacterial acrab-tolc efflux system affects retinol sensitivitywe hypothesized that the acrab-tolc efflux system whose expression was upregulated when expression of the acrr repressor was abrogated operated to reduce local toxic concentrations of retinol in either the periplasm or cytoplasm.
+

@@ -1,0 +1,30 @@
+the authors could show that the presence of pathogens in the community would lead to the loss of important metabolic functions of the host cell as well as that the microbiome is able to synthesize numerous precursors of hormone metabolism and thus support in silico the hypothesis that the gut microbiome can serve as an endocrine organ.metabolic modeling of the gut microbiome and integration with omics dataomics data are crucial during the reconstruction process of genres most notably genomic  but also proteo- mic  and metabolomics  data.
+
+finally van hoek and merks  pub- lished a spatial dynamic flux balance analysis modeling framework to study microbe population dynamics and evolution in the human gut microbiome.cobra studies of the gut microbiomein the decade since the first microbial community cobra model was published very few community models have been used to study gut microbialinteractions.
+
+other approaches include setting a lower bound on every microbe's growth rate while maxi- mizing the collective community growth for example heinken and thiele  cobra studies of the human gut microbiome will explore the use of personalized gut microbiome metabolic models for example based on metagenomics data from stool samples.
+
+here we review metabolic modeling studies that have investigated metabolic functions of the gut microbiome.addressluxembourg centre for systems biomedicine university of luxembourg esch-sur-alzette luxembourgcorresponding authorintroductionthe gut microbiome is beneficial to human metabolism as the gut microbes break down large indigestible com- pounds from the diet e.g.
+
+the authors applied steady- com to a community of nine human gut microbes and predicted relative abundances in the in silico community that resembled experimentally observed microbiome compositions.
+
+available online at sciencedirectmodeling metabolism of the human gut microbiomestefani'a magnu' sdo' ttir and ines thielethe human gut microbiome plays an important part in human health.
+
+here we review cobra studies that have investigated microbiome metabolic interactions with special focus on human gut microbial studies .genome-scale metabolic reconstructions of human gut microbesgenres are based on a collection of metabolic func- tions which can be inferred from the list of genes identi- fied in an organism .
+
+.57.. combined in silico metabolic modeling with results from in vivo mousemodels to assess the effects of the microbiome on the host amino acid metabolism.heinken a ravcheev da baldini f heirendt l fleming rmt thiele i personalized modeling of the human gut microbiome reveals distinct bile acid deconjugation and biotransformation potential in healthy and ibd individuals.
+
+for instance metagenomics data can be used to determine the microbiome community structure for example by mapping metagenomic reads from stool samples to a set of gut microbial reference genomes for example provided by  using the sequence alignment tools such as samtools .
+
+in addition despite the high vari- ability of the microbiome among individuals and the diverse influences to the microbiome composition func- tional annotations see  seem to be stable among diverse microbiomes in healthy individuals .despite our steadily increasing knowledge about the microbiome much remains to be discovered concerning how microbes interact metabolically both among each other and with the human host.
+
+in silico systems biology studies of the microbiome can help to identify metabolite exchanges among gut microbes.
+
+using current experimental methods it is difficult and time-consuming to elucidate detailed mechanisms under- lying metabolic exchanges among hundreds of microbesand how these exchanges may affect the human metabolism.several factors can affect the gut microbiome composi- tion.
+
+cobra studies of the gut microbiome are based on genome-scale metabolic reconstructions genres which represent the full known set of metabolic pathways that occur in that organism based on genomic and experi- mental knowledge.
+
+to date only two studies have been published on in silico modeling of a gut microbiome using host metabolic models.
+
+despite the increasing availability of 'omics' data and integration platforms only few studies  have used 'omics' data to constrain gut microbial com- munity genres leaving many open opportunities for future in silico microbiome studies.conclusionscobra methods have been applied successfully in the analysis of small microbial communities consisting of up to eleven microbes  communities matched metabolomics data from represen- tative in vitro studies  showing that cobra methods are suitable for studying microbial communities.
+

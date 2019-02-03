@@ -1,0 +1,30 @@
+these results suggested bacterial ribonucleotide metabolism as the primary mediator of drug toxicity in c. elegans 1.to mechanistically explore the bacterial mediation of 5-fu toxicity on the host we performed in vivo and in vitro measurements together with metabolomic analysis and found that microbes have the capacity to modify and excrete activated toxic fluoronucleotides including fump futp and fdump which are ultimately responsible for the increased efficacy of drug therapy.
+
+crucially profiles of 5-fu metabolites isolated from worms were identical to profiles of the bacterial strain they were co-cultured with indicating that bacterial metabolism dictates drug metabolism rather than that of the worm.
+
+like us worms establish a symbiotic relationship with their microbes requiring them for optimal development and metabolic health 3.we utilised the unique advantages of the c. elegans model to explore how bacteria can change the host response to the antimetabolite pro-drug 5-fluorouracil 5-fu commonly used in the treatment of colorectal cancer crc 3.
+
+5-fu is intracellularly converted into cytotoxic fluoropyrimidines by ribonucleotide pathways the predominant of which fdump inhibits a key enzyme thymidylate synthase ts thereby blocking the production of thymidylate and disrupting dna replication and cellular division 4. given the evolutionary conservation of these pathways in prokaryotes wepostulated that microbes may be capable of modifying the host's response to this class of drugs.fluoropyrimidines inhibit development fecundity and cancer-like germline hyper-proliferation in c. elegans enabling a robust and high-throughput readout of drug efficacy.
+
+to thoroughly define the microbial mechanisms behind modulation of drug efficacy on the host we devised an innovative 3-way host-microbe- drug high-throughput screen of c. elegans using the keio collection of e. coli single deletion mutants 1 5. from more than 55000 individual conditions tested this screen identified vitamins b6 and b9 and ribonucleotide metabolism as key contributors to 5-fu action in the host.
+
+disruption of the bacterial b6 and b9-associated pathways glycine cleavage system and one-carbon metabolism which are linked to ribonucleotide metabolism via ts reduced drug efficacy in the host.
+
+ac.ukkeywords microbiota 5-fluorouracil elegans cancer drugsreceived september 22 2017published october 25 2017references1.scott ta et al.
+
+these activated compounds as well as the toxic effects of 5-fu were abrogated in a genetically modified bacterial strain lacking genes encoding the enzymes of ribonucleotide salvage upp udk and udp.
+
+in addition we demonstrated that the ability for bacteria to convert 5-fu leads to reduced germline hyperproliferation and promotes survival in nematode cancer models 1.we also identified a secondary mechanism by which bacteria are able to manipulate fluoropyrimidine efficacy in c. elegans.
+
+similarly the gut microbe fusobacterium nucleatum promotes resistance to combinatorial chemotherapy of 5-fu and oxaliplatin in crc patients by modulating autophagy 6. altogether these studies demonstrate that microbes regulate chemotherapy by direct biochemical conversion of toxic chemotherapy pro-drugs 1 5 or indirectly by regulating the tumour microenvironment 1 6.the power of understanding the mechanisms behind microbial manipulation of chemotherapy and other drugs is difficult to exaggerate.
+
+microbes may interfere with host-targeted drugs directly metabolic transformation andor indirectly regulating host metabolism andor cellular signalling.
+
+2017 169442-456.spanogiannopoulos p et al.
+
+2016 14273-287.cabreiro f et al.
+
+2013 51300-1310.longley db et al.
+
+2003 3330-338.garcia-gonzalez ap et al.
+

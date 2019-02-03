@@ -1,0 +1,30 @@
+geosmin 2-mib b-cyclocitral and b- ionone are odor compounds of cyanobacteria while some of these volatile compounds can affect the dynamics of bacterioplankton due to their lytic and inhibitory character- istics.in addition to cyanobacteria actinomycetes actino- bacteria also may produce geosmin and 2-mib in soil and aquatic environments.in our study 2-mib was found to be positively correlated with a shift toward a cyanobacteria- enriched community and inversely correlated with actino- bacteria otus while actinomycetes group otus were raresuggesting that cyanobacteria were the main off-flavor compound contributors.
+
+this suggested that bacterial community near the bottom waters had greater evenness compared to the surface community which was largely dominated by a few cyanobacterial otus that were more abundant.observations from the two-dimensional nmds plot that showed the distribution of samples and otus demonstrated a small but significant distinction between surface and bottom communities a. again day and night samples were indistinguishable from the sample plot a. correlating the relative abundance of the otus with axes demonstrate that cyanobacteria i.e.
+
+no2 no3 2-mib and b-cyclocitral b.figure 5. regression showing comparison between the relative abundance of cyanobacterial populations in the bacterial community 16s rrna cyanobacteria and 16s rrna total bacteria estimated by qpcr and amplicon sequence classification.relationship between community structure environmental factors and secondary metabolites.
+
+we speculate that this could be due to the core functions of the cyanobacterial bloom associated community being conserved across a wide variety of taxa as demonstrated in several studies.further investigation on the metagenomes of cyanobacterial blooms of other dominant species could shed light on the functional association of the bacterial consortium in cyanobacteria-dominant ecology.vertical stratification of the bacterial community was alsodemonstrated although not to a large extent.
+
+this study aims to i determine the bacterial community associated with planktothricoides bloom ii investigate diel and vertical variations of physiochemical variables cyanobacterial metabolites and microbial community and iii identify potential metabolite producers using 16s rrna amplicon sequencing combined with correlation analysis.materials and methodssite description and sampling.
+
+the proportion of cyanobacteria in the total bacterial community was estimated from relative abundances of cyanobacterial otus obtained from sequencing as well as from qpcr measurements i.e.
+
+and sphingopyxis sp.. this finding is also in line with the suggestion that functional pathways encoding for nitrogen cycling are conserved in bloom-associated microbial communities.table 2. sequential test results of environmental variables on the composition of bacterial community and cyanobacterial population predicted by distance-based linear model distlm using forward procedure adjusted r2 criterion and 4999 permutations0.223190.560935784.20.520750.708281187.0the occurrence of cyanobacterial secondary metabolites implied the presence of their corresponding producers in the waters.
+
+significant diurnalfigure 2. abundance of total bacteria total cyanobacteria and two common cyanobacteria genera analyzed based on molecular quantification methods for different sampling times.
+
+a total of 361 out of 3447 10.5 bacterial otus were assigned as cyanobacteria on the basis of the silva reference.of the 37 phyla detected in the system phyla with highest relative sequence abundance were cyanobacteria 39 proteobacteria 29 bacteroidetes 15 and actinobacteria 10  comparable to other studies of freshwater systems.other bacterial phyla detected including plancto- mycetes verrucomicrobia chloroflexi acidobacteria and armatimonadetes in sum contributing 6.6 of the total sequences.
+
+synechococcus planktothrix pseudanabaena leptolyngbya prochorothrix and anabaena and bacteriodetes sphingobacteriia shifted community toward the positive direction along axis 1 while proteobacteria alpha- beta- and gammaproteobacteria shifted community to the negative side.
+
+cyan circles represent surface 0.1 m samples while blue squares represent bottom 3.2 m samples other markers indicate otus assigned to different taxa groups  planktothricoides cyanobacteria  other cyanobacteria  proteobacteria v bacteroidetes  actinobacteria x others and  unclassified.
+
+in addition there was no interactive effect between depth and time on the community composition detected by permanova p  0.05. an examination of the otus composition using simper found that differences between surface and bottom samples were attributed to the relative abundance instead of bacterial taxa which was true either including or excluding cyanobacteria in the analysis .
+
+distlm analysis generated a model that explained a considerable proportion of variation in bacterial composition 56.1 using 10 parameters as well as a model for cyanobacteria explaining 70.1 of the variation using nine parameters tables and .projecting the environmental vectors on the same axes based on spearman correlation indicated that 14 out of 27 variables covaried significantly with the changes in community assemblage b. for axis 1 from the nmds variables that caused a positive shift were mic cyl temperature do and ph.
+
+the proportion of cyanobacteria in the total bacterial community estimated using molecular quantifi- cation tools was well-correlated r2  0.8 with the results obtained from amplicon sequencing.
+
+for instance flavobacterium streptomyces and oxalobacteraceae can en- hance cyanobacterial growth pedobacter and arthrobacter may cause negative impactswhile limnobacter rhizobium and lacibacter develop symbiotic relationships with cyanobacteria.
+

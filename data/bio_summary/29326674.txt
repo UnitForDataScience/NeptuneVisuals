@@ -1,0 +1,30 @@
+early studies indicated a role of ammonia     and hydrogen cyanide   in disease suppressiveness.old and new approaches to study disease suppressive soilsafter demonstrating the microbial basis of disease suppressiveness of soils by heat treatment biocides andor soil transplantations the next steps taken in past and several present studies typically comprises untargeted large-scale isolation of microbes from bulk soil rhizosphere or endosphere of plants grown in disease suppressive soils followed by testing their activities against the target pathogen both in vitro i.e.
+
+here we review the results of recent 'omics'-based studies on the microbial basis of disease suppressive soils with specific emphasis on the role of rhizosphere bacteria in this intriguing microbiological phenomenon.keywords disease suppressive soil omics technologies rhizosphere microbiome antagonism by rhizobacteria pathogen suppressionintroductiondisease suppressive soils are the best examples of microbiome-mediated protection of plants against root infections by soil-borne pathogens.
+
+collectively these recent studies exemplify that combining different approaches and technologies allows a more in-depth analysis of the microbial and chemical ecology of disease suppressive soils as depicted in .future perspectivesin the early days of research on disease suppressive soils several valuable insights were obtained for the role of individual microbial genera  .
+
+disease suppressive soils were originally defined by  as soils in which the pathogen does not establish or persist establishes but causes little or no damage or establishes and causes disease for a while but thereafter the disease is less important although the pathogen may persist in the soil.
+
+addition of siderophore-producing pseudomonas from suppressive soils or their siderophores into conducive soils rendered these soils suppressive to f. oxysporum and alsog.
+
+to date several microbial genera have been proposed as key players in disease suppressiveness of soils but the complexity of the microbial interactions as well as the underlying mechanisms and microbial traits remain elusive for most disease suppressive soils.
+
+since then specific suppressiveness of soils has been reported for a range of pathogens including fungi such as gaeumannomyces graminis var tritici      fusarium oxysporum       fusarium solani     rhizoctonia solani         verticillium dahliae   pyrenochaeta lycopersici   sclerotinia sclerotiorum   alternaria triticina   oomycetes such as phytophthora cinnamomi    pythium ultimum   and aphanomyces euteiches   bacteria such as streptomyces scabies           ralstonia solanacearum   and agrobacterium radiobacter var tumefaciens   protists such as plasmodiophora brassicae   and nematodes such as meloidogyne incognita     heterodera schachtii   heterodera glycines   and criconemella xenoplax  .the microbiological basis of disease suppressive soils was first addressed by  and later widely demonstrated in other studies via soil pasteurization application of biocides           and via soil transplantation         .
+
+furthermore higher microbial diversities have been detected in disease suppressive soils than in conducive soils  .
+
+the results of these and other recent studies are summarized in and discussed below with emphasis on the role of soil and rhizosphere bacteria.new insights into the role of rhizosphere bacteria in disease suppressive soilsseveral 'omics'-based studies have been conducted recently to compare the microbial mainly bacterial community composition of soils suppressive or conducive for specific plant pathogens including f. oxysporum g. graminis var.
+
+recent developments in next generation sequencing and other 'omics' technologies have provided new insights into the microbial ecology of disease suppressive soils and the identification of microbial consortia and traits involved in disease suppressiveness.
+
+understanding the temporal and spatial microbial dynamics of disease suppressive soils as well as the corresponding modes of action will be needed to facilitate the development of effective consistent and durable disease management tools.
+
+relevant functions involved in disease suppressiveness can be executed by multiple microbial taxa but metatranscriptome metaproteome and metabolome studies of disease suppressive soils are still underrepresented.
+
+we will then review recent findings from 'omics'-based studies on the role of soil and rhizosphere bacteria in this intriguing microbiological phenomenon and finally provide a brief outlook.brief history of disease suppressive soilsthe first suppressive soil was reported in 1892 by atkinson for fusarium wilt disease of cotton        .
+
+specific suppressiveness of soils can in contrast to general suppressiveness be transferred to conducive soils by mixing small amounts 1-10 ww of the suppressive soil into the conducive soil      .
+
+soils 51 553-562. shiomi y. nishiyama m. onizuka t. and marumoto t. 1999. comparison of bacterial community structures in the rhizoplane of tomato plants grown in soils suppressive and conducive towards bacterial wilt.
+

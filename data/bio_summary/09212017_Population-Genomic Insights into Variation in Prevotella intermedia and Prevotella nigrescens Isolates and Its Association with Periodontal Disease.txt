@@ -1,0 +1,30 @@
+algr and arcb in diseased samples and evgs rcsc and bara in healthy samples figure 5b figure s1.we identified the kos that merely existabsent in pi- disease or pn-disease samples as well.
+
+disease-derived samples had gained or lost several metabolic genes compared to healthy-derived samples which could be linked with the difference in virulence performance between diseased and healthy sample groups.
+
+in some cases the same subjects contributed samples of healthy and diseased areas.general genome features of pooled samplesgenome sequencing data were generated from four pooled samples as described below.
+
+intermedia and p. nigrescens samples from diseased and healthy sites are listed in table 1. about 80 of reads oftable 1  summary of analyzed genome data.clinical samples of p. intermedia could be mapped to the p.sampletotalreadsmappedreadstotal basesmappedbases ofcoverageand pi-health sample groups were that partial reads in pi-disease can be mapped to acidithiobacillus ferrivorans anaerofustis stercorihominis mycoplasma fermentans ruminococcaceae species and treponema sp.
+
+2016. then all predicted proteins were analyzed for sequence similarities against the uniprot database the uniprot consortium 2015. the total predicted orfs in each group were pi-disease 8020 pi-health 6255 pn-disease 6943 and pn-health 7710. there were 813 orthologous genesthe reads of p. intermedia samples were mapped against the reference p. intermedia 17. the reads of p. nigrescens samples were mapped against reference p. nigrescens atcc 33563.shared by the pi-disease pi-health and reference sequences figure 2a.
+
+in total 3210 genes were shared between the pi- disease and pi-health groups whereas pi-disease samples had more group-specific genes than pi-health samples 1987 vs. 1049. totally 794 orthologous genes were shared by the pn- disease pn-health and reference sequences.
+
+only pi-disease and pn-disease samples possessed specific sequences that could match proteasome-associated atpase mpa gene.metabolic pathway reconstructionswe performed a comparison of metabolic networks between combined disease pi pn- disease and combined health samples pi pn- health.
+
+diseased samples were enriched in 17 cogs mostly related to gene regulation signal transduction biosynthesis and function of cell wall structure cell growth processes and transport or metabolism functions whereas healthy samples were enriched in only 1 cog related to energy production and conversion.
+
+prophages included intact prophages and defective prophages.prophages with pn-disease and pi-health samples having more than pi-disease and pn-health samples.crispr array sequencesthe numbers of spacers in pi-disease pi-healthy pn-disease and pn-healthy samples were 577 183 980 and 522 respectively.
+
+in pi-disease and pn-disease samples 4.7 and 4.8 spacers showed significant nucleotide similarity to the phage database slightly higher than for pn-healthy 4.4 and pi-healthy 2.7 samples.
+
+more spacers matched the plasmid database in pi-disease 3.3 and pi-healthy 3.3 samples than in pn-disease 2.7 and pn-healthy 2.9 samples figure s3.discussionpi-health was higher than that in pi-disease group while the ratio in pn-disease and pn-health groups were similar.
+
+however disease-derived samples had gained or lost several metabolic genes compared to healthy-derived samples.
+
+2011. besides our results showed that pi-disease samples gainedlost more genes than pn-disease samples indicating p. intermedia could be more adaptable to disease environment.
+
+the major differences between disease-derived and health-derived samples of p. intermedia and p. nigrescens were factors related to genome modification and recombination indicating that the prevotella isolates from disease sites may be more capable of genomic reconstruction.
+
+the differentially represented pathways between samples from disease and health were related to energy metabolism carbohydrate and lipid metabolism and amino acid metabolism consistent with data from the whole subgingival microbiome in periodontal disease and health.
+

@@ -1,0 +1,30 @@
+given short reads from a microbial community that contain genomic materials from known and unknown bacteria the method works by i first separating reads from known bacteria and unknown bacteria and then ii clustering reads from unknown bacteria into multiple clusters each cluster rep- resents a hypothetical unknown bacterium.
+
+we however will pro- vide an analysis that demonstrates that at least in the con- text of oral microbial communities the 16s rrna gene retains sufficient information to allow us detect unknown bacteria.methodsoverviewour method for identifying unknown bacteria from short reads that come from 16s rrna genes of all bacteria including known and unknown bacteria in an environ- mental sample works as follows1.
+
+our analysis with a dataset that consists of 889 bacteria in the human oral microbiome database suggests that the use of the 16s rrna gene as marker is justified because there is a suffi- cient amount of information in this gene among different bacteria to help distinguish these bacteria.
+
+the result shows that accuracy starts dropping dramatically when the concentration of unknown bacteria reaches 16. we hope that future improvements can increase this number.conclusionsalthough it is known that 16s rrna genes can be used to distinguish known bacteria we demonstrated that only reads from these genes can be used to predict the num- ber of unknown bacteria in oral microbial communities.
+
+then reads are assigned to the genome based on the highest number of matches of the reads' k-mers to a target-specific k-mer set.although the main objective of metagenomics analy- sis focuses on profiling known bacteria it is complicated by the presence of unknown bacteria or those without sequenced genomes.
+
+to the best of our knowledge only microbegps provides a basic analysis of unknown bacteria in how they are similar to known bacteria.
+
+at this point it is possible and actually expected that i some reads that belong to unknown bacteria have been mistakenly mapped to r and ii some reads that belong to the 16s rrna gene of some known bacteria are mistakenlythus the uniqueness score uk gi is a conservative measure of uniqueness of gi in the whole set g. the closer uk gi is to 1 the more unique it is and the more likely that reads much longer than k from gi will not be mistakenly mapped to any other gene gj in g.figure shows for different values of k the distribu- tions of uk gi of 889 16s rrna genes obtained from the human oral microbiome database.
+
+each mock community consists of a known bacteria whose 16s rrna genes were used to filter out known bacteria and b unknownbacteria whose 16s rrna genes must be identified and separated into different clusters representing different unknown bacteria.these mock communities were synthetically created to evaluate various aspects of our method.
+
+in this exper- iment 80x appears to be a good coverage.the affect of unknown bacteria concentrationto study the affect of the amount of unknown bacte- ria has on prediction accuracy we evaluated our method with mock communities in which percentage of unknown bacteria varied from 2 to 16 while read coverage was kept constant at 40x with 10 random replicates at each percentage.the result of this experiment is summarized in the box plot in fig.
+
+bmc bioinformatics 2017 18suppl 14499 doi 10.1186s12859-017-1901-8using 16s rrna gene as marker to detect unknown bacteria in microbial communitiesquang tran diem-trang pham and vinhthuy phanfrom the 14th annual mcbios conference little rock ar usa.
+
+23-25 march 2017backgroundin these profiling microbial communities the main objec- tive is to identify which bacteria and how much they are present in the environments.
+
+most microbial profil- ing methods focus on the identification and quantification of bacteria with already sequenced genomes.
+
+it does not address the scenario where unknown bacte- rial genomes are vastly different from already-sequencedcorrespondence department of computer science university of memphis 38152 memphis tn usareference genomes.to address this challenge this work focuses on iden- tifying and quantifying unknown bacteria in microbialc the authors.
+
+in this context unknown bacteria are those whose genomes have not been sequenced.
+
+reads are first roughly assigned to known bacteria.
+

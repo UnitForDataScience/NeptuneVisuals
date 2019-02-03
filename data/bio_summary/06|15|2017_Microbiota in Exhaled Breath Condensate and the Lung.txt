@@ -1,0 +1,30 @@
+we conclude that while ebc and psb samples do not produce equivalent microbiota samples the study of the ebc micro- biota may still be of interest.keywords 16s rrna ebc colistimethate sodium colistin lung microbiota respiratory microbiota sheephe study of the lung microbiota is a relatively new field in comparison to other areas of microbiota research.
+
+the most abundant otus on average in the different sample types were as follows staphylococcus equorum 10.7 mannheimia 6.5 and staph- ylococcus sciuri 5.6 in psb samples staphylococcus equorum 5.5 neisseriaceae 4.7 and paracoccus 4.3 in ebc samples from conscious sheep cons and staphy- lococcus equorum 5.1 staphylococcus epidermidis 3.7 and peptostreptococcus an- aerobius 3.2 in ebc samples from anesthetized sheep anaes.psb samples contain more bacterial dna than ebc samples.
+
+dna extraction kit reagent controls are labeled as extraction kit batch 1 to 4. ebc samples from conscious and from anesthetized sheep are labeled ebc cons and ebc anaes respectively.
+
+psb samples contained significantly more bacterial dna p  0.005 than any other respiratory sample type or control.0.182 by wilcoxon signed-rank test however psb samples contained significantly more dna than both ebc cons p  0.002 by wilcoxon signed-rank test and ebc anaes p  0.002 wilcoxon signed-rank test samples.no significant clustering of ebc by sampling method.
+
+dna extraction kit reagent controls are labeled as extraction kit batch 1 to 4. ebc samples from conscious and anesthetized sheep are labeled ebc cons and ebc anaes respectively.
+
+for both ebc cons and ebc anaes samples pre- and post- treatment samples did not differ significantly by bacterial community structure p fig 4 pcoa graph showing the significantly separate clustering of ebc anaes and psb samples from sheep p  0.011 by amova which may be due to the difference in variation between the two sample types p  0.026 by homova.
+
+ebc anaes and ebc cons samples did not cluster separately from one another.studies examining the utility of ebc for identifying lung-colonizing microorganisms have shown variable results.
+
+in this study we compared ebc samples collected from conscious sheep and from the same sheep under anes- thesia to psb samples taken from four spatially disparate sites within the lungs.we then extended this to address whether ebc analysis has the capacity to detect changes in bacterial community compositions by attempting to directly manipulate the lung microbiota with an inhaled antibiotic colistimethate sodium cms which is active against gram-negative bacteria.
+
+since ebc samples from conscious sheep would be expected to include more bacteria from the upper respira- tory tract than ebc samples from anesthetized sheep it was expected that these two groups of samples would cluster separately from one another.
+
+we compared psb samples with ebc anaes samples as we hypothesized that these would be less likely to be contaminated by upper respiratory tract microbes than ebc cons samples.
+
+one otu designated pseudomonas veronii which was the 4th most abundant otu in psb samples was found to be significantly more abundant in psb samples psb samples mean - sd 3.9 - 1.3 ebc only one sequence readfig 3 heatmap showing ebc samples grouped by sheep and time point.
+
+however the five most abundant otus found in dna extraction kit reagent controls burkholderia neisseriaceae aggregatibac- ter pseudomonadaceae and methylobacterium were not found to be significantly differently represented between psb samples and ebc anaes samples metastats q value  1. therefore it seems unlikely that the separate clustering of these groups was due merely to the increased effect of contamination on ebc anaes samples.changes in the bacterial communities found in respiratory samples before and after cms treatment.
+
+the otu p. veronii was increased in posttreatment samples pretreatment mean - sd 0.74 - 0.39 posttreatment 7.1 - 2.4 metastats q value  0.043 and a further 97 low-abundance 0.1 otus were found to significantly differentiate pre- and post- treatment samples.using the wilcoxon signed-rank test it was found that the concentrations of dna in respiratory samples before and after cms treatment did not differ significantly psb samples p  0.689 ebc cons samples p  0.345 and ebc anaes samples p  0.248. the concentrations of colistin a identified in sheep lungs are shown in .discussionin this study we sought to identify whether invasive lung microbiota sampling techniques could be replaced by a less invasive method.
+
+we found that ebc samples contained significantly less bacterial dna than the psb samples and that psb samples clustered separately from ebc anaes samples by the composition of their bacterial communities.
+
+a study comparing ebc and sputum samples from asthma patients showed a 100 overlap in the culturable fungi identified between the two sample types  and a study examining the bacterial pathogens cultured from bal and ebc samples in patients with ventilator-associated pneumonia showed a high concor- dance between the two sampling methods .
+

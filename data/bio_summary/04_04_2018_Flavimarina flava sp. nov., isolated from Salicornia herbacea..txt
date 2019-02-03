@@ -1,0 +1,30 @@
+for the rpob gene analysis a partial sequence of the rpob gene of strain mbln091t was amplified by using the primers rpob1698f 5c-aaya- tyggwttgathtcwtc-3c and rpob2041r 5c- tgacgcatcatgttdgawcccat-3c which weredesigned based on a slight modification of the sequences previously described by dahllof et al.
+
+the 16s rrna gene and rpob gene sequences were obtained and assembled as described previously by roh et al.
+
+the taxonomic position of strain mbln091t was deter- mined by phenotypic phylogenetic and chemotaxonomic analyses.author affiliations 1department of bioengineering and nano-bioengineering graduate school of incheon national university incheon 22012 republic of korea 2division of bioengineering incheon national university incheon 22012 republic of korea 3korean culture center of microorganisms seoul 03641 republic of korea 4microbiology and functionality research group world institute of kimchi gwangju 61755 republic of korea 5department of food science and biotechnology cha university sungnam 13488 republic of korea 6research center phyto corporation seoul 08826 republic of korea 7research group of gut microbiome korea food research institute seongnam 13539 republic of korea.correspondence young-do nam youngdo98kfri.re.kr myung-ji seo keywords flavobacteriaceae flavimarina flava salicornia herbacea polyphasic taxonomy.abbreviations caps 3-cyclohexylamino-1-propanesulfonic acid mes 2-n-morpholinoethanesulfonic acid.these authors contributed equally to this work.the genbankemblddbj accession number for the 16s rrna gene sequence of strain mbln091t is kx664463 and the rna polymerase subunit b gene sequences of strains mbln091t and flavimarina pacifica kctc 32466t are mf152607 and mf152606 respectively.one supplementary figure is available with the online supplementary material.002292 a 2017 iums bya bacterial strain designated strain mbln091t was iso- lated from salicornia herbacea on the western coast 35o02c 36.5 n 126o 10c 59.9 e of the republic of korea.
+
+for phylogenetic analysis the 16s rrna gene and the rna polymerase sub- unit b rpob gene were amplified by pcr.
+
+1. neighbour-joining nj phylogenetic tree based on the 16s rrna gene a and rpob gene b sequences showing the position and relationship between strain mbln091t and and other related taxa.
+
+one of these isolates designated strain mbln091t showed relatedness with the genus on the basis of 16s rrna gene sequence similarity.
+
+in this study 120 bacterial colonies were obtained and they were identified by pcr screening of the 16s rrna gene sequence.
+
+bacterial univer- sal primers 27f and 1492r  were used to amplify the 16s rrna gene of strain mbln091t.
+
+silva  was used to align the 16s rrna gene sequence of strain mbln091t with related species .
+
+the obtained nucleotides of the 16s rrna gene sequence of strain mbnl091t were 1460 bp in length.
+
+the rpob gene sequences from strain mbln091t and kctc 32466t were both 339 bp in length.
+
+the degree of 16s rrna gene sequence similarity between strain mbnl091t and idsw-73t was 94.8 .
+
+other valid publishedspecies of the family exhibited 92.3--92.8  16s rrna gene sequence similarity with mem- bers of the genus .
+
+the rpob gene sequence similarities between strain mbln091t and kctc 32466t and dsm3653t were 80.5 and 80.2  respectively .
+
+in the phylogenetic analysis based on the rpob gene strain mbln091t also grouped with kctc 32466t.
+

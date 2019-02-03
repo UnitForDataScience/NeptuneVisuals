@@ -1,0 +1,30 @@
+therefore identifying new network properties that can capture the difference between positive and negative corre- lations is likely to remedy the insufficiency of standard correla- tion network analysis in analyzing the microbiome network and to offer a potentially powerful tool for detecting the changes occurred in the diseased microbiome.we postulate that the simple counts of the positive and negative links in the microbiome species correlation network is likely to offer us such an apparatus for remedying some of the above described issues of standard correlation network anal- ysis.
+
+the main results from scn analysis are a series of network properties such as network degree and modularity but the metrics for these network properties often produce inconsistent evidence.
+
+as illustrated in the following results and discussion section the main results from a standard cor- relation network analysis also known as species co- occurrence network in the field of ecological network analy- sis often failed to produce conclusive and sometimes may even produce conflicting evidence for differentiating between healthy and diseased microbiomes.
+
+the second category of network properties includes the number of nodes edges connected components number of communities average path length network modularity and network diameter and they are designed to measure network-wide property.
+
+for exam- ple existing correlation network analysis technique assumes that nodes are 'homogenous' other than the heterogeneity intheir correlations levels which are captured by the so-termed node degree or network degree distribution with their immedi- ate neighbors.
+
+perhaps an even more serious issue is that the definitions for most standard network properties such as network degree and density do not differentiate between the types of correla- tions positive vs. negative correlation at all even though the positive and negative links are often marked with different colors.
+
+from each sampling process a network was reconstructed and the network properties including the numbers of trios were computed.
+
+no sampling operation was needed for the other four datasets since the sample sizes between the healthy and disease treatments in each case are rather close to each otherfollowing flowchart i calculating the otu correlation co- efficients with either spearman's or pearson's definitionsii removing false correlations with fdr false discovery rate control iii constructing the otu species correlation networks scn with standard network analysis software packages such as cytoscape  or igraph  but this step is only needed if one wishes to see the visualization of the network and is therefore optional and iv computing the pn ratio with our r-program pnratio.r supplied in the online supplementary materials.
+
+overall these commonly computed network parameters are often inadequate in differentiating between the healthy and diseased microbiomes.table 2network properties of species correlation networks scn from the five case studies on the human microbiome associated diseasesthe pn positive-to-negative links ratio in the microbiome networksfigures and show the scn network graphs for the vaginal microbiome of the healthy and bv treatments respectively.
+
+66371-389. ma zs guan q ye c zhang c foster ja forney lj 2015 network analysis suggests a potentially 'evil' alliance of opportu- nistic pathogens inhibited by a cooperative network in human milk bacterial communities.
+
+network analysis has increasingly been called for the task but most currently available microbiome datasets only allows for the construction of simple species correlation networks scns.
+
+we propose a simple new network property the pn ratio defined as the ratio of positive links to the number of negative links in the microbial scn.
+
+microbiome network .
+
+the inherent deficien- cy with diversity analysis is even more obvious from the per- spective of microbial species correlation network scn.
+
+indeed some successful applications of network analysis in microbiome research have been reported e.g.
+

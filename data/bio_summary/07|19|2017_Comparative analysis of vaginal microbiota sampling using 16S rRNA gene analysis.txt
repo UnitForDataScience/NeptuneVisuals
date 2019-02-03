@@ -1,0 +1,30 @@
+the a260a230 ratio was also good median 1.3-1.8 in all samples other than the scrapes s 0.7 assumingly for the same reasons as above.quantification of bacteriato specifically quantify bacterial dna in the different extracts we used bacteria-specific qpcr assay and calculated the results as the number of 16s rrna genes per ng of template dna ng-1 dna in order to normalize for the high device-driven variation in the absolute dna yields.we then multiplied the number of 16s rrna copies per ng with the dna yield corrected for the protein aliquot to get the number of copies per sample.
+
+the median of a260a280 ratio was good 1.8-2.0 except for the scrape samples it varied from 2.4 to 4.8. as all samples were treated with rnase during the dna extractions the higher a260a280 ratio of scrape samples probably reflects the limitations of the nanodrop performance with very low concentration samples median 2.2-5.8 ngml dna or vulnerability to extraction artifactserrors for the same reason.
+
+hence although self-sampling brush collected significantly more dna in absolute terms these samples had similar bacterial content to the scrapes and other samples highlighting that the majority of the dna collected by the self-sample is of non-bacterial origin.we observed a trend towards a lower bacterial content in the cervix compared to the vagina in line with a previous study  that collected vaginal and cervical samples from 100 women and observed higher bacterial load in the vagina measured by qpcr.
+
+in contrast the amount of the captured total genomic dna but not the proportion of bacterial dna is strongly dependent on the sampling device and to a lesser amount on the anatomical site of the sampling.among the tested sampling strategies the choice of a sampling tool had the largest impact on the dna yield from vaginal samples.
+
+the self-sampling brush collected a mean of 19 mg of genomic dna per sample vastly exceeding the dna yields obtained with the other tools mean ranging from 0.6 mg to 9.1 mg making it therefore ideal for applications requiring a large amount of cells or dna.
+
+2-fold lower than our dna yields from physician-collected spatially constrained flocked swabs.in order to specifically quantify the amount of bacterial dna in the samples we quantified the 16s rrna gene in each sample using qpcr.
+
+while the sampling device had the largest impact on the dna yield the amount ofbacterial dna in the samples was driven strongly by inter-individual variation with minor non-significant differences arising from the sampling methods .
+
+the dna yield of the self-taken sample was significantly higher than that of scrapes cervical brush samples or right fornix flocked swab samples all p-values  0.05. pair-wise comparison between the other devices did not yield significant differences.
+
+our results emphasize the fact that the dna yield from vaginal samples is merely a qualitative readout which can- not be used as an indication of bacterial load or microbiota diversity in the samples.
+
+dna from the lysates was purified using qiaamp dna minikit qiagen hilden germany without the lysis step according to the manufacturer's instructions.
+
+bacterial dna was quantified by amplifying 0.5 ng aliquots of each dna extract with univer- sal bacterial primers targeting the 16s rrna gene .
+
+the mean dna yield per device thus ranged from 596 ng to 19 mg. the highest dna yield was obtained with self-sampling brush followed by flock swabs cervical brush andscrapes.
+
+bleeding or bv- status did not have effect on dna yield fig a-b in .to assess the purity of different dna preps we compared their a260a280 and a260a230 ratios from the nanodrop measurement.
+
+based on the visual inspection of the cell pellets during dna extraction the large surface area of the self-sampling brush collected several times more vagi- nal content than the other devices especially the scrapes and this evidently contributed to the large difference in the dna yields between the devices.
+
+we did not attempt to normalize the dna concentrations for sample weight but rather calculated the total yield of genomic dna per each device to reflect the real-life situation.
+

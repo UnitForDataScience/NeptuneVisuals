@@ -1,0 +1,30 @@
+to this end we have applied r h whittaker's classic diversity indicesto actinobacterial diversity of a hyper-arid--extreme hyper-arid landscape at five distinct habitats covering an altitude range of approximately 900-2500 m absl.
+
+our research in this context has shown that members of the phylum actinobacteriaare found throughout the extremobiosphere and is based on the rationale of size and diversity of the taxon its geographic dispersal and its ecological and biotechnological rele- vance.
+
+consequently the low diversity of actinobacteria observed using selective cultivation techniqueshas provided impetus for the present investigation.
+
+as a first step in such an approach specifically to actinobacterial diversity in the atacama desert we have carried out community profiling based on 454 pyrosequencing.
+
+our choice of this particular platform in part was based on its high classification efficiency and evidence that deep pyrosequencing of 16s tags is well-suited for distin- guishing site specific similarities and differences among rare bacteria.the principle objectives of this study were to determine how diverse actinobacterial communities are in the atacama desert and how big a resource this presents for biotechnology exploitation and to dissect such diversity in terms of actinobacterial rare and previously undetected dark matter .
+
+based on trial experiments analyses were restricted to generic and family ranks and we have not attempted correlations of local diversity sensu a-diversity with environmental factors.
+
+we opine that the results obtained reinforce the view that rather than being devoid of life the atacama desert is a microbial treasure trove in the search for the next generation of bioactive natural products.the purpose of this paper is to report the remarkably high diversity of actinobacteria in the atacama desert and highlight its exceptional significance for biodiscovery campaigns.
+
+metagenome sequencing has revealed a strong correlation between global geographic distance and biome type and the biosynthetic diversity residing in soils a conclusion that strongly resonates with our decision to explore the unique and poorly studied microbi- omes of the atacama desert.resultsover 90000 sequence reads were obtained from the 12 sites fig.
+
+the total detected diversity at the generic rank numbered 297 only 60 of which were assigned to validly published taxa.pyrosequencing data for microbiota diversities in other world deserts show significant variations in the occurrence of actinobacteria.
+
+construction of rarefaction curves enabled us to compare genus richness and gauge the extent to which total diversity had been recovered at each of the atacama sites fig.
+
+most of the curves closely approached asymptotes a few others remained curvilinear indicating that further actinobacterial diversity remained to be sequenced.
+
+neither did we observe a major change in overall actinobacterial ecological diversity h 1-d between extreme hyper-arid and hyper-arid locations a result indicating that they are dominated by relatively few abundant taxa.
+
+chao 1 predicted richness was high at both types of location exceeding the observed otu numbers by 63 extreme hyper-arid and 41 hyper-arid and providing further evidence of diversity yet to be sequenced.
+
+it should be noted that non-parametric richness estimators such as chao 1 predict counts of the number of taxa in this case genera and families present at a site but cannot be used to compare the genetic diversity between sites.
+
+the reciprocal of the simpson index 1d is sensitive to the degree of dominance in a community increases in the index indicate increases in diversity.
+

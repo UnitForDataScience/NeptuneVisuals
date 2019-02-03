@@ -1,0 +1,30 @@
+previous studies have reported that the complex microbiota of the hindgut is highly responsive to diet changes     thus the coordinated change in gene expression of environmental adaptation may suggest that the hg diet was stressful to colonic mucosal bacteria at the initial feeding stageand that long-term exposure to hg diet can result in the adaption of the bacterial community to an hg diet.
+
+previous studies have found that massive hindgut fermentation led to inflammation and laminitis which may be induced by amines endotoxins or bacteria that are able to across through a breach in the intestinal barrier    .although many studies to date have assessed the adaptation of the bacteria associated with ruminal epithelium in response to dietary changes in cows       and goats   as well as the morphological and functional      adaptation of the ruminal epithelium in ruminants little information is available on the time course of the mucosal microbial communities and epithelial functional adaption of hindgut to an hg diet despite the fact that the hindgut of a ruminant also plays an important role in the animal's overall health productivity and welfare  .here we hypothesized that there is a time course of adaptation of colonic mucosa-associated microbiota composition to an hg diet.
+
+in the adaptation stage following the preparation period three hg groups were fed a step-up diet the hg was increased by15 3.50 of body weight per day for 4 days until they were fed with a 60 concentrate mix supplementary table s1 the control con group continued to receive the forage-based diet.
+
+the total vfa concentration slaughter point increased linearly from 27.12 umolg for con group to 43.68 for hg7 group 48.56 umolg for hg14 group and 65.49 umolg for hg28 group p  0.001. acetate propionate and butyrate levels increased linearly with number of days fed an hg diet p  0.001 for all and the lactate concentration also increased linearly with number of days fed an hg diet p 0.015. the concentration of valerate decreased from con group to hg7 group and then recovered to the level of con group quadratic p  0.001. the concentrations of starch and isobutyrate increased from con group to hg7 group and then decreased at hg14 group followed by an increase at hg28 group cubic p 0.030 and p  0.001 respectively.
+
+b ace abundance-based coverage estimator.at the 97 similarity level the otu numbers ace value and chao 1 decreased linearly with number of days fed an hg diet p  0.001. however the shannon index was only affected by hg treatment p  0.001 while the time of being fed an hg diet had no effect on the indices p  0.05.the results of unweighted unifrac distance-based pcoa demonstrated that the mucosa-associated bacterial communities of con hg7 hg14 and hg28 groups were independently gathered .
+
+inaccordance with a previous study that reported feeding an hg diet can reduce the diversity and functionality of the microbiome in digestive tract of ruminant   our results showed a linear decrease in the bacterial richness and diversity of microbial communities in the hindgut with number of days fed an hg diet.
+
+the current study showed that the relative abundance of genes associated with environmental adaptation decreased after being fed an hg diet for 7 days and then recovered to the con level with days fed an hg diet.
+
+in our research an hg diet caused the slough of the surface layer epithelium and the severity of the slough gradually increased with number of days fed an hg diet.
+
+our results also showed that the concentration of total vfa linearly increased with number of days fed an hg diet which may contribute to the colonic mucosal injury.consistent with the previous studies that hg feeding resulted in colon inflammation in goats     the current study showed that the expression of inflammation cytokines and tlrs such as il-1b il-6 tnf-a and tlr3 increased linearly with days fed hg diet.
+
+    and jiangsu key laboratory of gastrointestinal nutrition and animal health laboratory of gastrointestinal microbiology college of animal science and technology nanjing agricultural university nanjing chinaedited bykuldeep dhama indian veterinary research instituteivri indiareviewed byvincenzo tufarelli universita degli studi di bari aldomoro italy maryam dadarrazi vaccine and serum researchinstitute irancorrespondence shengyong mao specialty section this article was submitted to microbial immunologya section of the journal frontiers in microbiologyreceived 19 august 2017accepted 11 october 2017published 26 october 2017citation wang y xu l liu j zhu w and mao s 2017 a high grain diet dynamically shifted the composition of mucosa-associated microbiota and induced mucosal injuriesin the colon of sheep.
+
+82080.doi this study investigated the dynamic shifts in mucosa-associated microbiota composition and mucosal morphology in the colon of sheep fed a high grain hg diet.
+
+the sheep in first group received hay diet.
+
+the animals in other 3 groups were fed an hg diet for 7 hg7 14 hg14 or 28 hg28 days respectively.
+
+as time advanced results revealed that colonic ph linearly decreased p  0.007 and the concentrations of total vfa linearly increased p  0.001. microbial analysis showed that an hg diet linearly reduced p  0.050 the diversity and richness of the colonic microbiota.
+
+the principal coordinate analysis results showed that the colonic mucosa-associated bacterial communities of the four groups significantly shifted with number of days fed an hg diet.
+

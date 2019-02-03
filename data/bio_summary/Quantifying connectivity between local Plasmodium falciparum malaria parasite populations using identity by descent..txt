@@ -1,0 +1,30 @@
+this is an open access article distributed under the terms of the  which permits unrestricted use distribution and reproduction in any medium provided the original author and source are credited.data availability statement in compliance with plos journals requirement that all data underlying the findings described are made fully available without restriction barcode data are provided as supplementary s1 data while wgs data are available via the ncbi sequence read archive accession prjna262567  .
+
+importantly where a tradeoff must be made between sequencing effort and sample sizes we show that robust spatial trends can be recovered using 93-snp barcodes providing a cheap and simple approach to implementing these analyses in the field.resultsthe genomic data included 1173 single-infection parasite samples genotyped at 93 snps  henceforth referred to as barcode data and 178 single-infection parasite samples for which whole genome sequences wgs were available henceforth referred to as wgs data .
+
+as a result despite increasing efforts to collect genomic data for epidemiological surveillance of malaria on local spatial scales methods for making sense of them and guidelines for study design are lacking.on large or continental scales or where recombination is limited p. falciparum genetic data have been usefully employed to identify spatial relationships between parasite populations using standard approaches .
+
+explicitly spatial meth- ods applied to these data include tests and scans of spatial autocorrelation  which are typically suited to highly resolved geo-referenced data.
+
+epidemi- ological models parameterized by human mobility data have been used to estimate the spatial spread of pathogens in some cases - but data on human migration are difficult to obtain particularly in sparsely populated areas and in regions near international borders where there are political sensitivities around measuring migration.analyses of spatial genetic structure are common beyond malaria e.g.
+
+the spatial trend was of the spatial trends in fst estimates based on barcode data.b represent spatial trends based on untransformed variablesb and b represent spatial trends based on transformations that are linearly related under one and two-dimensional models of isolation by distance respectively .
+
+those based on wgs data were an order of magnitude larger  but there was no evidence of spatial trends between clinics based on either barcode or wgs data .
+
+they could thus prove useful as ibs surrogates in spatial studies of other recombining organisms -.in summary we propose that ibd-based relatedness will prove useful in the malaria field and in other infectious disease systems to compare data collected from local sites from areas with more complex topologies and where data are available to compare human and parasitemovement.
+
+error bars represent 95 confidence intervals based on bootstrapping over highly related parasite sample pair labels equal to 1 if p ibd  05 and 0 otherwise and are therefore zero where thereare no p ibd  05.same order as the temporal trend badjusted dweeks  -0.021 p-value  0.002. the impact of distance decreased with time but the interaction was very small badjusted dweeks x ddis- tance  0.0001 p-value  0.002. importantly the spatial and temporal trends were also nega- tive upon exclusion of repeat barcodes within clinics table c of .wgs data showed similarly negative spatial trends and .
+
+spatial trend estimates were based on regression of highly related parasite sample pair labels equal to 1 if p ibd  05 and 0 otherwise onto distance within temporally adjusted models badjusted ddistance km for barcode data and badjusted 2014 ddistance km for wgs data.where a trade-off must be made between sample size and sequencing effort 93 snps were suf- ficient to recover robust spatial trends using relatively few additional parasite samples com- pared with wgs.
+
+to monitor disease transmission  relatedness within multiple- genotype infections  to aid surveillance of antimalarial resistance  and to detect sig- nals of selection .to explore the utility of ibd for estimating connectivity between very local parasite popu- lations we analyzed one of the largest joint data sets of both genotyping and sequencing data collected between 2001-2014 from four shoklo malaria research unit smru clinics on the thai-myanmar border .
+
+this is an important practical insight given the wide availability of historical barcode data and the relative cost-effectiveness and ease of generating barcode data compared to whole genome sequences.
+
+akin to ibd-based analyses chromopainter leverages the wealth of haplotypic information in wgs data but struggles to resolve variation in 93-snp barcode data for which it was never intended.
+
+given little evidence of differences in allele frequency point estimates across clinics or over years  we used allele fre- quency estimates based on data across all years and clinics for both barcode and wgs data respectively.highly related parasite sample pairs.
+
+random subsets ranged from50 to 176 parasite samples for wgs data and 50 to 1171 for barcode data.
+

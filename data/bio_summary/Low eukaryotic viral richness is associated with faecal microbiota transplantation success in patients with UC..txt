@@ -1,0 +1,30 @@
+overall the most abundant eukaryotic viral families found were anelloviridae circoviridae picobirnaviridae and virgavi- ridae see online to investigate donor virome retentionpatient 3patient 4 patient 5 patient 6 patient 7 patient 8 ypatient 9 -1 p 1 24681624 weeksdonor sample collected patient sample collected antibiotics course remission period second fmt procedurey samples collected at screening 1 week before fmtfigure 1 overview of the sample collection from patients and donors and their respective remission periods.
+
+two patients with uc achieved long-lasting complete remission with mucosal healingfigure 2 a phageome and b eukaryotic virome richness comparisons between 1 healthy donor and patients 2 responders and non-responders at baseline and 3 donors of responders and non-responders at baseline.2 years  patient 1 and 3 andone patient reported temporary remission for 6 weeks  patient 4.the remaining six patients did not respond to treatment.
+
+gut online first published on october 24 2017 as 10.1136gutjnl-2017-315281 postscript letterlow eukaryotic viral richness is associated with faecal microbiota transplantation success in patients with uca15010050we read with interest the recent gut study by zuo and colleagues showing that a good outcome of faecal microbiota trans- plantation fmt in clostridium diffi- cile infection cdi was associated with bacteriophage transfer.fmt is an estab- lished treatment to restore a balance in disturbed intestinal microbiotas of patients with cdi and recent multicentre randomised double-blind placebo-con- trolled trials showed its effectiveness in inducing clinical and endoscopic remission in patients with uc.we examined the gut virome dynamics of nine patients with uc who were undergoing fmt 64 patient0donor n8b151050donor n8patient n9patient n9non-responder n6non-responder n6responder n3responder n3non-responder n6non-responder n6responder n3responder n3and 8 healthy donor samples.
+
+using the netovir protocol we analysed the faecal virome both rna dna genomes of phages and eukaryotic viruses using tailored bioinformatics approaches see online irrespective of their outcome no statistical differences were observed inpatient 1patient 2 phageome richness between patients with uc and healthy donors  at any time point in contrast with the findings of norman and colleagues who observed a lower dna phage richness in healthy controls compared with ibd patients.
+
+while we did not observe any transferred eukaryotic viral families only the full responder patient 1 presented nine transferred phage otus.our results highlight for the first time the importance of the eukaryotic virome in uc.
+
+the fact that the phageome was successfully associated with fmt in cdiwhile eukaryotic viruses seem more relevant in uc suggests that virome interactions are disease specific and fmt guidelines should be tailored to the pathology at hand.nadia conceicao-neto12 ward deboutte1tim dierckx2 kathleen machiels3 jun wang45 kwe claude yinda12 piet maes2marc van ranst2 marie joossens45 jeroen raes45 severine vermeire3 jelle matthijnssens11department of microbiology and immunology ku leuven--university of leuven laboratory of viral metagenomics rega institute leuven belgium 2department of microbiology and immunology ku leuven--university of leuven laboratory of clinical virology rega institute leuven belgium 3translational research center for gastrointestinal disorders targid university hospital leuven ku leuven leuven belgium4department of microbiology and immunology ku leuven - university of leuven laboratory of molecular bacteriology rega institute leuven belgium5center for microbiology vib leuven belgiumcorrespondence to professor jelle matthijnssens department of microbiology and immunology ku leuven - university of leuven laboratory of viral metagenomics rega institute leuven 3000 belgium contributors ncn jr sv and jm designed the experiments.
+
+patient 3 vomited after the first fmt leading to bilateral aspiration and bilateral pneumonia for which the patient was treated for 14 days with broad- spectrum antibiotics.
+
+on patient's request a second fmt was administered 8 weeks later and the patient has been in clinical remission ever since.
+
+however for the eukaryotic virome healthy donors presented a significantly lower richness than patients at baseline  p value0.033.
+
+the published bacteriome analyses on the same cohort showed that responders had significantly higher transferred bacte- rial phylotypes.moreover only the full responder presented transferred phage otus suggesting phage transfer concom- itant with their respective hosts.in summary our study shows that virome prescreening of patients with uc prior to fmt might be a valuable biomarker for response prediction.
+
+these two observations suggest that eukaryotic virome richness is a poten- tial novel diagnostic marker for uc and uc fmt response.
+
+in our study fmt responders already presented a significant lower eukaryotic virome richness than non-responders at baseline  which is a feature of the healthy donors.
+
+fmt faecal microbiota transplantation.gut month 2017 vol 0 no 0we adapted the bacteriome concept of trans- ferred phylotypesand defined a transferred viral operational taxonomic unit otu as being present in the donor sample and intro- duced or increased in the patient samples post-fmt.
+
+disease-specific alterations in the enteric virome in article disease-specific alterations in the enteric virome in inflammatory bowel disease.
+
+it is clear that eukaryotic viruses and phages have different ways of affecting the human host and our findings now highlight the importance of analysing the phageome and eukary- otic virome separately.
+

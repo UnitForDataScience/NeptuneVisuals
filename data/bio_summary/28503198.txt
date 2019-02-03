@@ -1,0 +1,30 @@
+it has also been identified as a dominant genus in anaerobic na-degrading cultures possibly play- ing a syntrophic role with methanogenic species in the degradation of nas .it is interesting that methanoregula was obviously enriched in both the pahs and nas media and even dominated the archaeal community 43 in the pahs consortia and 30 in nas.
+
+however a clear evolu- tion in the microbial community occurred by day 14 withmethanobacterium occupying the sole dominant role and whose relative abundance increased to 65 from 5 day 0. the second dominant genus was methanoregula whose relative abundance increased from 2 day 0 to 30 day 14. the dominant bacterial genus was identified as clostridium whose relative abundance increased from 26 day 0 to 90 day 14 in all incubations fig.
+
+two rarely reported microorganisms a hydrogenotrophic methanogen candidatus methanoregula anda saccharolytic fermenter kosmotoga were found to be prevalent in the pahs and ofpw microcosms and are likely to play an important role in the syntrophic degradation of pahs and ofpw cooperating with methanogens such as methanoregula methanosarcina or methanobacterium.conclusions the dominant phyla varied in certain patterns during the incubations depending on the biomass source feed type and variation in nutrients.
+
+this hypothesis would agree with the results from the pahs incubations with og bio- mass table .microbiome dynamics in the ofpw consortiain the ms community 14 different phyla additional file  figure s3 were observed on day 42 and the dominant phyla were chloroflexi proteobacteria thermotogaeand synergistetes with a relative abundance of 30 18 16 and 13 respectively.
+
+1 the relative abundance of each key genus in the methanogenic community a and the bacterial microbiome b in the pahs enrichment culturestable 1 a-diversity indices of the microbial communities in the incubations with pahs nas and ofpwsampleosn chao1 shannon invsimpsonpah culturesmsd01197 1735 4.221.3msd141115 1664 4.325.1ogd01021 1446 3.68.9ogd421579 2321 4.623.5na culturesogd0958 1519 3.512.4msd01010 1565 3.18.650 bmp 150 mg l-1d14 622 1096 1.93.150 bmp 500 mg l-1d14 568 924 1.72.5200 bmp 500 mg l-1d14 534 1001 1.93.0ofpw culturesms01422 2069 4.427.3ms141312 1959 4.633.3ms281162 1746 4.740.0ms421007 1680 4.530.5og01612 2170 4.425.6og141137 1647 3.35.4og281079 1553 4.116.8og421545 2136 4.633.0richness was observed with the og sludge communi- ties and it is notable that the cod removal efficiency of the og groups 70 on day 42 was also higher than the ms groups 57 on day 42 fig.
+
+a followed by the hydrogenotrophic methano- gen methanobacterium 20. after the first 14-days of incubation methanosaeta accounted for 60 of the archaeal gene population while the relative abundance of methanobacterium decreased to 18. the og sludge contained a different archaeal community methanobac- terium was the most dominant genus 67 on day 0 followed by the versatile methanogenic genus methano- sarcina 33. however the previously low-abundance methanoregula became the most dominant methano- genic genus 43 after the 42-day incubation followed by methanosaeta 24 and methanobacterium 15.one of the dominant bacterial genera that were iden- tified in the mixed sludge was t78 fig.
+
+within the og group clostridium domi- nated the community with a relative abundance of 57 on day 14 but gradually decreased to 7 by day 42. the relative abundance of prevotella accounted for 22 on day 28 which was much higher than the earlier num- ber of 10 on day 14. however its dominant role was replaced by treponema by day 42 which increased in abundance from 6.4 to 20.the a-diversity results for the ofpw consortia table  showed that the richness decreased with time within the ms group while the evenness increased from 28 to a maximum of 40 within 28 days.
+
+shows that with all bmp concentra- tions the number of both the bacterial and archaeal 16s genes decreased with an increase in the concentration of na from 150 to 500 mg l-1 and with an increase in bmp media concentration exceeding 100. for exam- ple for the group incubated in 50 bmp  150 mg l-1 nas the bacterial 16s gene copy concentration was 105 gene copies per gramme sludge while for the 50 bmp  500 mg l-1 nas group the value was almost one order of magnitude lower.the mixed and og sludge communities degrading nas had been primed by degrading nas prior to beingutilised for enrichment cultures.
+
+c which reveal a clear evolution of the microbial community in the og group but only a slight change in the mixed group.microbiome dynamics in the na consortiafirmicutes were the dominant bacterial phylum additional file  figure s2 with a clear increase in its relative abundance from 3 day 0 to 54 with 50 bmp  150 mg l-1 nas and 93 50bmp  500 mg l-1 nas.
+
+however ofpw is difficult to biologically degrade because it contains complex compounds such as naphthenic acids nas or polycyclic aromatic hydrocarbons pahs.
+
+both were incubated in replicate microcosms fed with pahs nas or ofpw.
+
+the results showed that the pahs nas and ofpw feeds could rapidly alter the metha- nogenic microbiomes even after 14 days while the og sludge adapted faster than the mixed sludge in all the incubations.
+
+for this reason our aim in this paper was to elucidate the dynamic patterns of methanogenic micro- biomes when introducing pahs nas and ofpw to the cultures under anaerobic conditions.
+
+we used a batch incubation method accompanied by the next-generation sequencing tools to select and identify microbial commu- nities that contained desirable catabolic traits to degrade pahs nas and ofpw.
+
+for the above reasons anacclimation process allows microorganisms to survive and remain active under unfavourable conditions and the lack of it could lead to bioaugmentation failures .conclusionsin this study we aimed to understand the systematic and taxonomical structure of the microbial consor- tia taking part in biodegrading pahs nas and ofpw and more importantly to learn how these communities evolved under different substrate pressures.
+

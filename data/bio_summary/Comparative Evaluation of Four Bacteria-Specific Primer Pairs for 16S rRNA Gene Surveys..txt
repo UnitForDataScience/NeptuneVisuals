@@ -1,0 +1,30 @@
+commonly for all primer pairs 59 bacterial features from phylum to species level were found to differ between the uncontaminated bulk soil tnt- contaminated bulk soil and non-contaminated rhizosphere samples at an lda of 2 p  0.05. supplementary figure 8 shows the most significant features with lda scores of 3.5 or higher with acidobacteriaceaesubgroup3 acidobacteriales gammaproteobacteria mizugakiibacter and rhodanobacter enriched in the tnt-contaminated bulk soil whereas nitrospira pedomicrobium and many uncultured bacteria belonging to other acidobacterial groups were significantly enriched in the non-contaminated bulk soil and clostridia clostridiales and firmicutes were more enriched in the rhizosphere soils.
+
+this suggests the high utility of primer pair 341f785r for soil and plant-associated bacterial microbiome studies.keywords pyrosequencing 16s rrna gene sequence primers microbial communities soil explosives contaminationintroductionhigh-throughput amplicon sequencing of taxonomic marker genes has become a widely used technique to obtain information on the microbial community composition diversity and richness at high resolution in diverse environmental samples caporaso et al.
+
+soil bacterial communities have therefore been the subject of bioremediation studies aiming to optimize bacterial community function for accelerating biodegradation and soil remediation yang et al.
+
+the tnt-contaminated soil had an average ph of 6.1 moisture content of 66.2 conductivity of 340 us per cm cation exchange capacity of 9.2 meq per 100 g dry weight using the ammonium acetate method at ph 7 chapman1965 and 3.1 mg organic labile carbon per kg dry weight soil measured using the permanganate oxidation method culman et al.
+
+previously primer pair 68f518r was used to amplify iron-oxidizing zetaproteobacteria in soil but it has not been extensively validated as a primer for soil microbial community characterization mcallister et al.
+
+primer pair 341f785r detected an enrichment in the tnt- polluted soil of xanthomonadaceae gammaproteobacteria bradyrhizobiaceae caulobacteracae and alphaicluster of the rhizobiales alphaproteobacteria and chitinophagaceae bacteroidetes suggesting these taxa are quite tolerant to high tnt-concentrations 5. a higher prevalence of gamma- and alpha-proteobacteria has been reported in a hydrocarbon contaminated soil yergeau et al.
+
+with respect to tnt-contaminated soil some of the groups detected in this study are in agreement with the results from clone libraries and dgge-analyses of tnt-contaminated soil in the uk travis et al.
+
+the primer pairs were tested empirically on a 246- trinitrotoluene tnt-contaminated soil a non-contaminated forest bulk soil and acer pseudoplatanus rhizosphere soil habitats known to harbor diverse sets of bacteria.
+
+additionally tnt was found to significantly alter soil bacterial community structure and change the relative abundance of several otus.materials and methodsstudy site and soil samplingsoil samples were collected from a military tnt-production facility in zwijndrecht belgium 5111'40.0''n 419'29.6''e on july 8th 2013. the soil was a loamy sand with a moderately thick litter layer and humus with undecomposed and partly degraded organic matter.
+
+the concentration of explosives in the contaminated soil was on average 48835 mg tnt per kg dw soil 190 mg 135-trinitrobenzene 73 mg nitrobenzene 1267 mgaminodinitrotoluene and 182 mg dinitrotoluene per kg dw soil.
+
+primer pair 341f785r detected a significant lower taxon richness in the tnt-contaminated bulk soil samples 565 - 12 compared to the non-contaminated bulk soil 622 - 5 and rhizosphere samples 641 - 14 while the other primer pairs detected only a decreasing trend supplementary table 3. on the other hand primer pair 967f1391r detected a significantly higher number of otus in the rhizosphere 456 - 4 compared to the bulk soil 427 - 17 while no statistical difference was observed for primer pairs 341f785r and 799f1193r and a significant decrease with 68f518r.phylum-level taxonomic distributionall four primer pairs detected a different number of phyla and class level taxa.
+
+besides primer 68f518r the heatmap also showed that the tnt-contaminated soil samples clustered in a separate group from the non-contaminated bulk soil and rhizosphere sampleswith 75 jackknife support while the non-contaminated bulk soil and rhizosphere communities could not be significantly discriminated from each other npmanova p  0.26.family and genus-level pcr biasthe relative abundance of the 10 most abundant families detected differed between the primer pairs figure 3b.
+
+the relative abundance bar charts show the 12 most dominant phyla and proteobacteria classes a and seven most dominant families b per primer pair and soil type based on pyrosequencing data of bulk soil and acer pseudoplatanus rhizosphere soil samples zwijndrecht belgium.
+
+we showed that primer pair 341f785r performed well on 3 different soil types including explosives contaminated soil samples non-contaminated humus-rich forest soil samples and sycamore rhizosphere samples.
+
+thethe silva ssu non-redundant database release 123 was used for the analyses which contains 597607 bacterial sequences.tnt-polluted soil harbored a bacterial community that shifted toward a higher relative abundance of the gammaproteobacteria lda  4.5 p  0.05 compared to the non-contaminated bulk soil supplementary figure 8. although different primer pairs indicated different dominant otus a few bacterial groups were commonly identified as more abundant in the tnt- contaminated bulk soil including acidobacteriasubgroup1 acidobacteriales mizugakiibacter and rhodanobacter.
+

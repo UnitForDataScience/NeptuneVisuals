@@ -1,0 +1,30 @@
+there was no significant difference in overall community composition between baseline samples lng-ius samples and cu-iud samples  amova p-value 0.623. if samples were further split into lng-ius baseline lng-ius 6 months lng-ius 12 months cu-iud baseline cu-iud 6 months and cu-iud 12 months there was still not a statistically-0.4-0.20.00.20.40.6axis1 17.4fig.
+
+consistent with the high stability of the vaginal microbiota of women with l. iners-dominant group 1 vaginal microbiota based on thyc distances  81.5 of vaginal microbiotas in group 1 at 6 months were also in group 1 at 12 months .were using lng-iuss had more stable vaginal bacterial communities over the next 6 months than women with diverse group 3 communities using cu-iuds with a significantly lower thyc distance between 6 month and 12 month communities kruskal-wallis test p-value 0.0331 dunn's multiple comparisons posttest between group 1 lng-ius and group 3 cu-iud p-value 0.05 b. there were still no significant differences in 6 to 12 month thyc distances between contraceptive types within commu- nity groups.
+
+amova on the thyc distances indicated no differences between vaginal bacterial communities at baseline after 6 or 12 months with a lng-ius and after 6 or 12 months with a cu-iud amova p-value 0.623.distances between baseline and 12 months kruskal-wallis test p-value 0.0247 a and between 6 months and 12 months kruskal-wallis test p-value 0.0107 b. the thyc distances between baseline and 6-month communities followed a similar trend with the lowest median distance in women with l. iners-dominant group 1 communities at baseline but the difference was not statistically significant kruskal-wallis test p-value 0.1444 data not shown.although there were transitions between different com- munity groups most vaginal microbiotas remained in the same community group over time .
+
+1 and 2.3.3. use of intrauterine contraception was not associated with altered overall community compositionotu 3gardnerellaotu 5prevotellaotu 17coriobacteriaceaegroup 1group 2group 3we tested if either type of intrauterine contraception was associated with vaginal community composition by amova on thyc distances between all baseline samples all 6 and 12 months combined lng-ius samples and all 6 and 12 months combined cu-iud samples.
+
+all baseline samples are gray 6 and 12 month lng-ius samples are green and 6 and 12 month cu-iud samples are orange.
+
+subjects were grouped based on their community group at 6 months and were included only if their 6 month and 12 month samples each yielded at least 3437 v4 region sequences group 1 lng-ius n15 cu-iud11 group 2 lng-ius n10 cu-iud6 group 3 lng-ius n7 cu-iud8.
+
+additionally we did not observe a clear difference in vaginal microbiota stability with cu-iud versus lng-ius use.conclusions although the vaginal microbiota can be highly dynamic alterations in the community associated with the use of intrauterine contraception cu-iud or lng-ius were not detected over 12 months.implications we found no evidence that intrauterine contraception cu-iud or lng-ius altered the vaginal microbiota composition.
+
+subjects were grouped based on baseline community group and were included only if their baseline and 12 month samples each yielded at least 3437 v4 region sequences group 1 lng-ius n13 cu-iud13 group 2 lng-ius n11 cu-iud7 group 3 lng-ius n8 cu-iud6.
+
+dna was isolated from vaginal swab samples from all subjects cu-iud n36 lng-ius n40 at baseline and 6 months and from 69 subjects at 12 months cu-iud n33 lng-ius n36.
+
+the objectives of this study were to determine if intrauterine contraception altered the vaginal microbiota and to compare the effects of a copper intrauterine device cu-iud and a levonorgestrel intrauterine system lng-ius on the vaginal microbiota.study design dna was isolated from the vaginal swab samples of 76 women using cu-iud n36 or lng-ius n40 collected prior to insertion of intrauterine contraception baseline and at 6 months.
+
+however the difference in 6 to 12 month thyc distances between cu-iud and lng-ius users with diverse group 3 communities at 6 months was approaching statistical significance mann-whitney u test p-value 0.0932 so with more subjects a statistically significant difference may be detected.discussionthere is a clear knowledge gap concerning how iuds affect the vaginal microbiota and consequently women's health.
+
+subjects self-collected their vaginal swab samples with the baseline samples collected in clinic and the 6 and 12 months samples collected at home and returned by mail.
+
+the vaginal microbiota of women with l. iners-dominant group1 vaginal microbiota at baseline or 6 months was more stable than the vaginal microbiota of women with diverse group 3 communities with significantly smaller thycwas optimal with 3 groups based on the highest laplace value found by testing groupings with up to 6 partitions.
+
+to determine community stability we calculated the thyc distance between communities at baseline and 6 months between communities at baseline and 12 months and between 6 months and 12 months within each woman.
+
+subjects were grouped based on their community group at 6 months and were included only if their 6 month and 12 month samples each yielded at least 3437 v4 region sequences group 1 n26 group 2 n16 group 3 n15.
+

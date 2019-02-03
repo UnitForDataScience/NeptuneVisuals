@@ -1,0 +1,30 @@
+we found that mean per gut values for male flies ranged from 47 cfus line 306 to 3035 cfus line 307. as we transferred the flies to autoclaved media the morning before the measurements were made these measurements are lower than those made with conventionally reared flies .production of reactive oxygen species does not correlate with commensal bacterial levelsit is known that the gut's production of reactive oxygen species ros contributes to commen- sal bacteria regulation as perturbing flies' basal production of ros leads to dramatic changes correlations between relative commensal bacterial level.spearman's r. p  0.05 p  0.01 p  0.0001bacterial population size was calculated as the ratio of bacterial dna to fly dna as measured with qpcr.
+
+recent evidence fur- ther shows that fly genotype affects the relative abundance of observed bacterial strains  leading to natural variation in the composition of fly gut bacterial communities within the same environment.while drosophila has no obligate gut microbe the presence of a microbiome does have fit- ness consequences for the host.
+
+in total we used 36 fly lines from the drosophila genetic reference panel dgrp  a set of inbred fly lines sampled from a single population in north carolina.
+
+we find that this trait does vary among flies in a heritable fashion and is largely robust to different bacterial genotypes.resultsdrosophila haplotypes harbor commensal bacteria populations of variable sizeto test whether fly genotype affects the quantity of retained commensal bacteria we created sets of gnotobiotic fly lines that were each colonized by a single bacterial strain.
+
+using these test and background gene sets we performed gene ontology go analysis with the david  panther  and gorilla  analysis programs.measurement of fly gut lengthguts of 5-day-old conventionally reared female flies were dissected in pbs and directly mounted between slide and coverslip in af1 mounting solution citifluor ltd. guts were scanned with an lsm500 zeiss confocal microscope acquiring the autofluorescent signal of drosophila midguts with broad gfp filter and with automatic tiling to cover the entire sur- face of the gut.
+
+at the flies' dawn we transferred them to fresh autoclaved vials with sterile food media.since flies increase their feeding rate in the morning  this helped ensure that flies ingested a minimal amount of external bacteria in the hours preceding their sampling.
+
+for each fly genotype we created sets of four gnotobiotic lines that were colonized with a single bacterial strain that is known toreside in the fly gut acetobacter tropicalis enterococcus faecalis lactobacillus brevis or l. plan- tarum.
+
+these concerns are partially alleviated by our previous observation that total midgut lengths in males and females do correlate r2  0.8781 .commensal bacterial titer correlates with an index of fly nutrient storageprevious studies of these fly lines have measured a number of additional phenotypes including starvation resistance  recovery time from chill coma  life span  competitive fit- ness  oxidative stress  and nutritional indices .
+
+in the three cases where bacteria were reliably detected in the fly we found strong correlations between commensal bacterial levels  suggesting that the effect of host genotype is relatively constant across bacterial taxa.interestingly variation in the amount of bacteria present in the fly does not appear driven by variation in basal immune activity.
+
+does the fly's use of glucose modify the gut environment enabling higher bacterial growth or conversely does harboring a larger bacte- rial population change the nutrients available to the fly altering its metabolism and glucose storage interestingly we are not the first to find a tie between glucose and microbiota galenza et al.
+
+rather we treated each bacterial strain as being measured with arbitrary units and when comparing across bacteria we based our analysis on the relative rank order of the fly lines.to test the effect of fly genotype on bacterial level we constructed a linear mixed model using the lme4 package in r .
+
+three replicates of the experiment were per- formed for three separate fly generations.measurement of ros levelswe measured the ros levels in the fly intestine by following the ferric-xylenol orange fox assay .
+
+only a small subset of the microbes encountered by the fly survive within the gut  and there are certain bacterial taxa that are repeatedly sampled across drosophila species and habitats.
+
+relative commensal bacterial level was determined using quantitative pcr and was calculated relative to levels of a single copy drosophila gene drosophila gene ct--bacterial gene ct. the y-axis shows the residuals of these measurements from a model accounting for block effect mean - 1 s.d.. units are on a log2 scale.
+
+when introduced as monocultures into axenic flies three of the four bacterial strains were reliably detected within the fly.
+

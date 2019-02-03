@@ -1,0 +1,30 @@
+gut microbiota modifies brain amino acids777a121086420microbial environment p 0.05age p 0.005microbial environment x age p 0.005b65432microbial environment p 0.05 age p 0.05microbial environment x age p 0.057 weeks16 weeks7 weeks16 weeksc1000800microbial environment p 0.005 age p 0.01microbial environment x age p 0.05d400300microbial environment p 0.005 age p 0.05microbial environment x age p 0.0560020040010020007 weeks16 weeks7 weeks16 weekse1200900600300microbial environment p 0.0001 age p 0.01microbial environment x age p 0.01f420035002800210014007000microbial environment p 0.05 age p 0.005microbial environment x age p 0.0017 weeks16 weeks7 weeks16 weeksfig.
+
+gut microbiota modifies brain amino acids779a2321microbial environment p 0.05 q 0.05age p 0.05 q 0.05microbial environment x age p 0.005 q 0.05b40003500microbial environment p 0.001 q 0.005age p 0.05 q 0.05microbial environment x age p 0.005 q 0.05193000172500157 weeks16 weeks20007 weeks16 weeksc900800microbial environment p 0.0001 q 0.001age p 0.0005 q 0.001microbial environment x age p 0.0005 q 0.005d10 0009000microbial environment p 0.05 q 0.05age p 0.05 q 0.05microbial environment x age p 0.0001 q 0.001700800060070005007 weeks16 weeks60007 weeks16 weekse1000900800700microbial environment p 0.05 q 0.05age p 0.0001 q 0.001microbial environment x age p 0.005 q 0.05f300025002000microbial environment p 0.0005 q 0.005age p 0.0001 q 0.001microbial environment x age p 0.05 q 0.056007 weeks16 weeks15007 weeks16 weeksfig.
+
+kawase et al.a3500microbial environment p 0.05 q 0.05age p 0.05 q 0.05microbial environment x age p 0.005 q 0.05b1000microbial environment p 0.05 q 0.05age p 0.005 q 0.005microbial environment x age p 0.001 q 0.0530002500900800700c20003007 weeks16 weeksmicrobial environment p 0.0005 q 0.0005age p 0.0005 q 0.01microbial environment x age p 0.001 q 0.01d6001607 weeks16 weeksmicrobial environment p 0.05 q 0.05age p 0.0005 q 0.005microbial environment x age p 0.005 q 0.052501402001201501007 weeks16 weeks7 weeks16 weekse15 00014 00013 00012 00011 00010 000microbial environment p 0.05 q 0.05age p 0.05 q 0.05microbial environment x age p 0.01 q 0.057 weeks16 weeksfig.
+
+data in the online supplementary table s2 have no significant main effects or interactions.in the plasma the interaction between the microbial envi- ronment and age was significant at p  0005 for d-asp p  005 for d-ser p  005 for l-alanine l-ala p  005 for l-arginine l-arg p  001 for l-glutamine l-gln and p  0001 for tau f. the concentrations of d-asp l-ala l-gln and tau decreased in spf mice from 7 to 16 weeks of age but with the gf mice the concentrations were constant between 7 and 16 weeks of age.
+
+there were no differences in l-asp concentration between gf and spf mice at 16 weeks of age.the mean values of amino acid concentrations without significant interactions were used to produce heat maps 4. regarding the main effect of gut microbiota spf mice had significantly higher concentrations of l-asp p  001 d-ala p  00001 l-his p  005 l-isoleucine l-ile p  001 l-leucinel-leup  00001l-phenylalaninel-phe p  00005 and l-val p  0001 in plasma than did gf mice 4a.
+
+the proportion of asp decreased in the cerebellum p  00001 and hypothalamus p  00001 with age but increased in the cerebral cortex p  00001. the differences in the proportions of d- and l-ser between the gf and spf mice increased in the plasma as the mice aged p  005 but in the striatum although there was a large difference at 7 weeks of age they decreased as the mice aged p  005 online supplementary fig.
+
+in the plasma the concentrations of l-tyrosine l-tyr p  0005 l-ile p  00005 l-leu p  00005 l-phe p  00005 and l-valp  00005 increased with age 4a.in the brainstem the concentrations of l-arg q  00005 l-ala q  005 and l-gln q  005 were higher in the spf mice than those in the gf mice whereas the opposite was true for the concentrations of d-asp q  0001 and l-ser q  0001 4b.
+
+the interaction between the microbial environment and age for asp was significant in the plasma p  00001 hippocampus p  0005 striatum p  005 and thalamus p  005 online supplementary fig.
+
+regarding the main effect of the gut microbiota the proportion of asp in the brainstem p  00001 cerebellum p  005 cerebral cortex p  00001 and the hypothalamus p  005 of spf mice was significantly lower than it was in gf micedownloaded from .
+
+the spf mice had a higher proportion of ser in the brainstem than did the gf mice p  005. in contrast the gf mice had a higher proportion of ser in the cerebral cortex p  001 hippocampus p  00001 and thalamus p  0005 than did the spf mice online supplementary online supplementary table s4.
+
+statistical criteria for significant differences were set at p  005 for the two-way anova and p  001 for the outlier test.
+
+the concentrations of l-tyr p  0005 l-phe p  001 and l-ile q  005 decreased as the mice aged.in the thalamus the concentrations of l-arg q  00005 l-gln q  00005 and l-leu q  0005 were significantly higher in the spf mice than in the gf mice whereas the opposite was true for the concentrations of d-asp q  005 d-ser q  00005 and l-ser q  00005 4h.
+
+in general the proportion of ser increased in the cerebral cortex p  005 but decreased in the thalamus p  00001 as the mice aged.discussionseveral differences were observed between spf and gf mice in terms of fluctuating plasma amino acid concentrations.
+
+to evaluate the brain region-specific effects on each amino acid q values were calculated using p values derived from seven different brain regions in each factor such as the microbial environment age and interaction.
+
+benjamini- hochberg multiple testing corrections were used for q values adjusting p values and significance was set at q  005.resultsall data showing significant interactions between the microbial environment and age are shown in -the remaining data showing significant main effects were used to produce the heat maps shown in 4. the details of are shown in the online supplementary table s1.
+

@@ -1,0 +1,30 @@
+this method is similar to open-reference clustering except that in our approach all sequences are subjected to de novo clustering following classification whereas in open-reference clustering only those sequences that cannot be classified are subjected to de novo clustering.
+
+we evaluated the quality of the sequence clustering the reproducibility of the clustering the speed of clustering and the amount of memory required to complete the clustering.
+
+here we described a new clustering method that seeks to optimize clustering based on an objective criterion that measures clustering quality in real time.
+
+in the current study we developed and benchmarked a new de novo clustering algorithm that uses real-time calculation of the mcc to direct the progress of the clustering.
+
+the justification for allowing incomplete conver- gence was based on the observation that numerous iterations are performed that extend the time required to complete the clustering with minimal improvement in clustering fig.
+
+seven heuristic methods were also used including abundance-based greedy clustering agc and distance- based greedy clustering dgc as implemented in usearch v.6.1  and vsearch v.2.3.3  otuclust v.0.1  and sumaclust v.1.0.20 and swarm v.2.1.9 .
+
+furthermore on average opticlust was 94.6 times faster than the average neighbor algorithm and just as fast as distance-based greedy clustering with vsearch.
+
+a third category of algorithm is open- reference clustering which is a hybrid approach  .
+
+here sequences are assigned to otus using closed-reference clustering and sequences that are not within a thresh- old of a reference sequence are then clustered using a de novo approach.
+
+this category blends the strengths and weaknesses of the other method and adds the complication that closed-reference and de novo clustering use different otu definitions.
+
+as an alternative we developed an approach to objectively benchmark the clustering quality of otu assignments   .
+
+the distance-based greedy clustering as implemented in vsearch has also performed well.
+
+0.03 a list of all sequence names in the data set and the metric that should be used to assess clustering quality.
+
+the location that results in the best clustering quality indicates whether the sequence should remain in its current otu or be moved to a different or new otu.
+
+when we seeded the opticlust algorithm with each sequence in a separate otu and ran the algorithm until complete convergence the mcc values averaged 15.2 and 16.5 higher than the otus using average neighbor and distance-based greedy clustering dgc with vsearch respectively  table s1.
+

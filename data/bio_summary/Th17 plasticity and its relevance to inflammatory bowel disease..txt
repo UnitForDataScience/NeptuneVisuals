@@ -1,0 +1,30 @@
+furthermore patients with ibd demonstrate increased numbers of transdifferentiated t cell populations suggestive of heightened plasticity.this review will consider the mechanisms and roles of th17 plasticity in the pathogenesis of ibd.c 2018 elsevier ltd. all rights reserved.contentsintroduction39inflammatory bowel disease39topology of inflammation and th17 development in the gut39heterogeneity of th1740th17 plasticity in ibd40th17-th1 transdifferentiation40treg-th17 transdifferentiation41th17-th22 plasticity41innate lymphoid cells ilc plasticity41il-17th cd8th t cells tc17 plasticity41influence of ikaros family in th17 plasticity41ikaros ikzf143helios ikzf243aiolos ikzf343 corresponding author.
+
+interest- ingly a lineage marker of progenitor th17 cells cd161 is still sus- tained in th1 cells converted from th17 in human  and murine models  of ibd and serves as evidence for the trans- differentiation of th17 cells into th1 cells since the conventional th1 population does not express cd161.treg-th17 transdifferentiationgut-resident foxp3th cd4th treg cells demonstrate a unique phenotype which is restricted by antigen-specificity against intes- tinal components comprised of harmless dietary antigens and gut microbiota .
+
+furthermore th17 cells and treg are implicated in both cd and uc with th17 cells thought to play a pathogenic role whereas treg play a crucial anti- inflammatory and immunoregulatory role .
+
+this cytokine milieu can be a matrix of initiators of t cell transdifferentiation or plasticity.heterogeneity of th17in response to the surrounding microenvironment th17 cells can secrete ifn-g and il-22 and express foxp3 in addition to the canonical th17 cytokines e.g.
+
+for example il-12 and il- 23 can enhance t-bet and promote a switch to a th1 phenotype or il-17th ifngth cells e whilst il-4 can increase gata3 and induce il-4 expression in th17 cells  and anti-tnf-a via cmaf and aiolos could drive il-10 expression in th17 cells .
+
+il-10 production by th17 cells has been strongly related to the acquisi- tion of regulatory properties by th17 cells and the resolution of intestinal inflammation .
+
+in addition th17 cells occasionally express foxp3 to maintain immune cell suppression for homeo- static status of the gut e. this could explain the greater plasticity of th17 cells compared to other t cell classes when exposed to a change in cytokine milieu.
+
+it has beensimilar to ikaros aiolos may favour a th17 outcome as th17 frequencies are reduced and th1 cells increased in aiolos deficient mice.
+
+although the full mechanism by which aiolos favours th17 development remains unclear its ability to suppress il-2 expression  a property also shared by ikaros and eos  might be involved since il-2 is inhibitory to th17 differ- entiation.
+
+tumour necrosis factor a tnfa is a key inflammatory mediator produced by m4 and other immune cells and is responsible for a diverse range of signalling events within immune and non-immune cells leading to accelerating inflammation.table 2list of ikaros family influencing t cell development and plasticity.environmental cues towards th17 plasticitythe gut microbiotasince transdifferentiation between treg and th17 is diminished in germ-free conditions the microbiota is considered a major player in the generation of this population in the gut e. clostridia species in particular are recognised for their contribution to gut homeostasis through t cell plasticity.
+
+flagellin expressed by sfb induces il-23 from cd103th dc via tlr-5 and these dc are known to drive th17 in response to enteric pathogens e. therefore the influence of intestinal bacteria such as clostridia spp demonstrates plasticity between treg and th17 cells in the intes- tine.
+
+furthermore atra signalling is essential for limiting th1-cell conversion into th17 and for pre- venting pathogenic th17 responses in vivo .
+
+transdifferentiation of th17 into tol- erogenic treg ifn-g secreting th1 and il-22 secreting th22-like cells in response to changing environmental conditions allows fine-tuning of the immune response and makes th17 cells central to the maintenance of immune balance.
+
+re- ported the increased prevalence of th17 cells in patients with ibd compared to healthy individuals .
+
+inter- estingly ibd gwas suggest at least 24 snps linked to loci associated with th17-regulating intracellular networks and signal trans- duction implying an important role of th17 towards the patho- genesis of ibd.
+

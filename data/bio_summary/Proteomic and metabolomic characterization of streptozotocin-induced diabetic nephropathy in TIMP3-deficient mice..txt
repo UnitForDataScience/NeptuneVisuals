@@ -1,0 +1,30 @@
+part of springer nature 2017abstractaims the tissue inhibitor of metalloproteinase timp3 is a stromal protein that restrains the activity of both protease and receptor in the extracellular matrix and has been found to be down-regulated in diabetic nephropathy dn the leading cause of end-stage renal disease in developed countries.methods in order to gain deeper insights on the association of loss of timp3 and dn we performed differential proteomic analysis of kidney and blood metabolic profiling of wild-type and timp3-knockout mice before and after streptozotocin stz treatment widely used to induce insulin deficiency and hyperglycemia.results kidney proteomic data and blood metabolic profiles suggest significant alterations of peroxisomal and mitochondrial fatty acids b-oxidation in timp3-knockout mice compared to wild-type mice under basal condition.
+
+a list of analyzed metabolites of their ms ionization source settings and of their abbrevia- tions as used in text are available in online resource 1. fold changes of ac levels following stz treatment were cal- culated for both mouse strains as xi - xmean x 100xmean where xi is the measured concentration measured in blood of wt or timp3-- mice of the ith ac after stz treatment and xmean is the mean concentration calculated for the same ac from analysis of blood of wt or timp3-- mice under basal conditions.statistical analysistwo-way anova followed by fischer least significant dif- ference lsd post hoc test was performed using the gen- eral linear model glm approach which takes account of unequal sample size of the study groups.
+
+of note altered expression levels of alb catalase cat serotransferrin tf and calb1 were predicted to be in line with increased reactive oxygen species production in timp3-- mice.blood acylcarnitine and amino acid profilingin order to assess the impact of loss of timp3 alone or in combination with stz treatment on peripheral aa and ac profiles we performed targeted dims analysis of blood col- lected by wt and timp3-- mice under basal conditions and after stz treatment.upon basal conditions we found that timp3-- miceshow lower levels of blood acetylcarnitine c2 valerylcar- nitine c5 palmitoylcarnitine c16 and stearoylcarnitine c18 compared with wt mice fig.
+
+in par- ticular medium-chain acs such as c14 c141 c161 and c181 show opposite fold change directions in the mouse strains increasing in timp3-- mice and decreasing in wt mice.finally we did not find significant alteration of blood aas with exception of glutamic acid glu that was higher in timp3-- stz compared with wt stz mice online resource 9.discussiontimp3 is the most highly expressed timp in the kid- ney.
+
+therefore in order to further support the hypothesis that the loss of timp3 is associated with a higher risk to develop dn we performed targeted metabolomic analysis of whole blood samples from wt and timp3-- mice before and after stz treatment.we found that after the stz treatment timp3-- miceshow lower levels of c0 compared with wt mice.
+
+c.the potential involvement of loss of timp3 in the onset of dn was further investigated by differential proteomic analysis of kidney extracts from wt and timp3-- mice after stz treatment timp3-- stz and wt stz respec- tively.
+
+a online resource 9. in contrast we did not find significant differences in the blood aa profile.after stz treatment we found that blood levels of free carnitine c0 and short odd-chain beta-hydroxy- and dicarboxy-acs such as c2 c5 3-hydroxy-valerylcarnitine c5oh and methylmalonylcarnitine c4dc were lower in timp3-- stz compared with wt stz mice.
+
+therefore we decided to perform targeted analysis of both acs and aas in whole blood collected from the wt and timp3-- mice under baseline conditions and after the stz treatment.materials and methodsmouse modelswt and timp3-- mice on a c57bl6 background have been already described .
+
+further- more blood butyrylcarnitine c4 shows a trend toward lower levels in transgenic mice compared with wt mice after stz treatment.
+
+calb1 is up-regulated in timp3-- mice upon baseline condition and down-regulated in timp3-- after stz treatment compared with wt mice.
+
+in fact we found that after stz treatment timp3-- mice show higher blood levels of long- and medium-chain acs compared with wt mice.
+
+we identified a total of 218 proteins online resource 6. twenty-four of them were differentially expressed 9 up-regulated and 15 down-regulated proteins in timp3-- stz compared with wt stz mice online resource 4 panel b and 7. these proteins were associated with enriched go terms such as oxygen transporter activ- ity negative regulation of mitochondrial membrane perme- ability involved in apoptotic process and mitochondrial function fig.
+
+b ipa graphical representation of the molecular connectivity between proteins differentially expressedin timp3-- stz versus wt stz mice.
+
+in contrast blood levels of mediumand long-chain acs such as myristoylcarnitine c14 hexa- decenoylcarnitine c161 and oleylcarnitine c181 were higher in timp3-- stz compared with wt stz mice.furthermore the fold changes of ac levels associated with the stz treatment and calculated for c0 c14 tetrade- cenoylcarnitine c141 c161 c16 and c181 fig.
+
+we identified a total of 221 proteins across the study groups online resource 2. among them our analysis identifies 24 up-regulated and 12 down-regu- lated proteins in timp3-- mice compared with wt mice online resource 3 and 4 panel a. bioinformatic analysis was then performed in order to identify the main biologicalpathways and functional categories over-represented among the differentially expressed proteins.
+

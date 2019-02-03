@@ -1,0 +1,30 @@
+to compare the microbiome composition of the hospitalized israeli patients to that of healthy individ- uals we used data from a healthy adult israeli populationaged 17-80 israeli healthy 1 and a local cohort of healthy volunteers israeli healthy 2 supplementary table .
+
+data from healthy individuals were obtained from a healthy adult israeli cohortisraeli healthy 1 and local healthy volunteers' israeli healthy 2 fecal samples were collected and analyzed similarly to the hospitalized samples.
+
+interestingly we noted a significant lower helicobacter from the campylobacteraceae family in hospitalized israeli cohort in comparison israeli healthy 1 but higher abundance of helicobacter was noted in israeli healthy 2.high proteobacteria abundance seen by 16s-seq cannot be explained by positive stool cul- ture results.
+
+bonferroni corrected compared to hospitalized population q  3.0e- 44 for proteobacteria abundance in mann whitney test between hospitalized and healthy 1 and q  2.7e-3 and between hospitalized and healthy 2. in the healthy israeli population 95 of samples had less than 10 abun- dance of taxa from the proteobacteria phylum fig.
+
+showed that hospitalized israeli samples had significant higher b-diversity than the healthy israeli population by cohort bonferroni corrected mann whitney test q 1.3e-2 between hospi- talized and healthy 1  2. interestingly significantly lower a-diversity was noted in age-matched adult hospital- ized patients with positive stool molecular testing for clostridium difficile compared to those with negative testing supplementary fig.
+
+as the israeli healthy adult dataincluded repeating samples from some individuals samples with a unifracscore under 0.05 similarity to other samples within the dataset were removed.
+
+maaslin analysis was performed for younger 4 versus older 18-70 ages within the hospitalized israeli population while controlling for gender and for israeli hospi- talized and israeli healthy 1 while controlling for gender and age group 0-4 4-18 18-70 and 70. fold change was calculated at the genus level for taxa that had a q value lower than 0.05. fold change between two groups was calculated by dividing the mean abundance of taxa in those groups.declarationsethics approval.
+
+of the 14 samples that were positive for campylobacter the relative abundance of campylobacter varied remarkably 6 samples had 1 6 samples had1 but 10 and 2 had 10 relative abundance.
+
+young hospitalized patients 0- 4 years with suspected infectious diarrhea had a higher abundance of taxa from actinobacteria phyla lower abundance of the bacteroidetes phyla and a diverse fold change at the genus level within the firmicutes and proteobacteria phyla.microbiota from hospitalized patients show significant high abundance of proteobacteria taxa.
+
+the hospitalized israeli population had the highest frac- tion 60 of samples having proteobacteria abundance above 10 with abundance 90 in some samples.
+
+healthy individual's data were obtained from publicly avail- able databasesisraeli healthy 1. in this study our primary goal was to characterize the microbial composition and diversity of non-selected israeli hospitalized individuals with suspected infectious diarrhea in comparison to healthy population.
+
+showed no significant difference between hospitalized israeli and the healthy israeli population by cohort bonferroni corrected mann whitney q  0.39 between hospitalized and healthy 1  2. b-diversity between cohorts fig.
+
+fold change of significant associations between the israel hospitalized cohort relative to israeli healthy 1 and israeli healthy 2 for specific taxa at the genus level was calculated for the proteobacteria taxa fig.
+
+fold change in taxonomic abundance of the israel hospitalized cohort relative to healthy israeli population israeli health 1 2 is shown.
+
+however when we tested the fold change of the israeli healthy cohorts relative to the hospitalized population we noted similar difference with increase abundance of those taxa in hospitalized israeli.
+

@@ -1,0 +1,30 @@
+specifically we show that il-1b induces a decrease in hippocampal npc neurosphere ex- pansion which is consistent with previous reports 28 30. this decrease is associated with a significant reduction in tlx expression--a regulator of npc proliferation--and an increase in p21 expression a mediator of cell-cycle ar- rest and reduced proliferation 55-57. in addition we demonstrate that il-1b recruits the nf-kb pathway in embryonic hippocampal npc neurospheres and that pharmacologic inhibition of this pathway is sufficient to reverse the negative effects of il-1b on tlx expression.
+
+d relative mrna expression of tlx in untreated and il-1b-treated npcs at 8 h 16 h and 24 h post-il-1b treatment n  3. e  relative mrna expression of p21 in untreated and il-1b-treated npcs at 10 min 30 min 1 h 2 h and 4 h post-il-1b treatment n  3. f  relative mrna expression of p21 in untreated and il-1b-treated npcs at 8 h 16 h and 24 h post--1b treatment n  3. ctrl control.
+
+p  0.01 p  0.0001 compared with control anova with bonferroni post hoc test.il-1b decreased mrna expression of tlx after a short treatment duration for up to 24 h as well as after a longer treatment duration of 5 d. this supports previously published data that report an il-1b- induced decrease in the protein expression of tlx at both 24 h 28 and 7 d 30. as tlx promotes cell proliferation suppressionof neurosphere expansion in response to il-1b is po- tentially mediated via reduced expression levels of tlx.
+
+p21 is a potent suppressor of the cell cycle and subsequently is an important regulator of cell pro- liferation 56. tlx has previously been shown to suppress the expression of p21 in neural stem cell cultures un- known source which is correlated with an increase in npc proliferation55 however the study didnotattempt to manipulate the increase in p21 expression--either by knockdown oranother method of inhibition--to assess the direct role of p21 on neural stem cell proliferation 55. the importance of p21 in regulating the proliferation of hip- pocampal npcs has since been establishedin p2122mice for which there is a significant increase in npc pro- liferation 59 therefore it is reasonable to suggest that the mechanism by which tlx regulates proliferation involves the regulation of p21 expression.
+
+we demonstrate here that when tlx expression is suppressed by il-1b there is a concurrent increase in p21 expression which suggests that il-1b may suppress npc proliferation by enhancing p21 expression.
+
+here we identify the nf-kb signaling path- way as a key mediator of the effects of il-1b on tlx expression and demonstrate that the restoration of tlx expression is sufficient to prevent the negative effects of il-1b on npc expansion in vitro.
+
+this is con- sistent with a previous report that demonstrated that il-1b reduced protein expression levels of tlx in hippocampal npcs after 7 div 30. il-1b did not induce a reduction in cell viability at this dose and over this timeframe data not shown which is in agreement with previous data 27.il-1b induces rapid activation of nf-kbto assess whether il-1b administration induced the translocation of the nf-kb subunit p65 to the nucleus in hippocampal npcs--an indicator of nf-kb activation-- we assessed the ratio of nuclear to cytoplasmic expression of p65 rel a a key signaling component of the nf-kb pathway.
+
+this corroborates previous data that show a reduction in tlx protein expression at 24 h in response to il-1b 28. as tlx functions as a transcriptional suppressor we assessed the effect of il-1b on the expression of the tlx target gene and the suppressor of proliferation p21.
+
+therefore we extended our treatment times and observed that after 8 htlx is an intrinsic regulator of the negative effects of il-1b615figure 1. il-1b-induced suppression of hippocampal neurosphere expansion is associated with increased p21 expression and reduced tlx expression.
+
+data are expressed as means 6 sem p  0.05 p  0.01 student's t test.of il-1b exposure there was no change in p21 expression compared with control however after 16 and 24 h p21 mrna expression was significantly higher than controls f3 8  12.16 p  0.01 fig.
+
+3f.il-1b mediates its effects on tlx expressionvia nf-kb pathway activationto assess whether the il-1b-induced activation of the nf- kb pathway is responsible for the il-1b-induced decrease in tlx expression we pretreated hippocampal npcs with jsh-23 an inhibitor of nf-kb activation 54. we demon- strated that when this pathway is inhibited the il-1b- induced reduction in tlx mrna expression is attenuated f3 8  12.14 p  0.001 vs. control p  0.05 vs. il-1b fig.4a.
+
+changes in tlx mrna expression were mirrored by those in tlx protein expression f3 796  75.57 p 0.001 vs. control p  0.001 vs. il-1b fig.
+
+both gfp- andtlx-overexpressing cells display an increase in mrna expression of ikba in response to il-1b treatment how- ever the increase in expression only reaches significance in tlx-transduced neurospheres f3 19  5.71 p  0.001 vs. tlx fig 5g.discussionthe present study demonstrates that tlx may protect against the il-1b-induced suppression of hippocampal npc proliferation and therefore tlx is an importantregulator of neuroinflammatory-induced changes in hip- pocampal neurogenesis.
+
+in addition we observed an increase in mrna expres- sion of the tlx target gene p21 after il-1b treatment for up to 5 d. p21 expression in suppressed by tlx and when its expression is increased it induces cell-cycle618vol.
+
+a b relative mrna expression of tlx a and nuclear tlx protein expression b in untreated il-1b-treated jsh-23-treated and il-1bjsh-23-treated hippocampal npcs.
+

@@ -1,0 +1,30 @@
+correlation between the number of hours after delivery the placenta was sampled c and the observed number of otus and median inter-individual unweighted unifrac distance d.outcome measures we entered time after the delivery the placenta was sampled as a covariate in all subsequent regression analyses.the microbiome found in the placental tissues at delivery is distinctshows across the population analysed the 25 commonest organisms detected within placental tissues.
+
+all regression models used to examine associations between otus and birth outcomes were adjusted for the possible effects of the intervention maternal bmi at enrolment maternal age proxy for socioeconomic status number of previous pregnancies anaemia at enrolment site of enrolment mode of delivery and time between delivery and placenta sampling.
+
+birth weight was measured as soon as possible after delivery while newborn length and head circum- ference were measured at the infant's first clinic visit at 1-2 weeks old.sample collectionafter delivery the placenta was transferred to a sterile container in the hospital health centre or home wherever delivery took place where it was kept in a covered container at temperatures ranging between 20c-40c.
+
+tissue sampling of the placenta occurred immediately after deliv- ery unless delivery occurred overnight in which case the placenta was sampled the following morning or at home in which case the container had to be transported to the nearest study clinic first.
+
+placenta and fetal membranes had a mean sd unifrac distance across all individuals of 0.69 0.06 and 0.71 0.06 respectively compared to 0.50 0.09 in the oral cavity and 0.59 0.11 in the vagina.variation in the placenta microbiome is determined by the abundance of a limited range of speciesshows that higher bacterial loads as determined by qpcr were observed when there were fewer otus as determined by 16s rdna amplicon sequencing.
+
+those with severe chorioamnionitis also had a lower observed number of otus in the placenta p  0029  and fetal mem- branes p  0025  and increased intra-individual unweighted unifrac distances in the placenta p  0034  and fetal membranes p  0003 .severe chorioamnionitis was also associated with distinct phyla.
+
+a high proportion of organisms found within the placenta and fetal membranes did not have an obvious source .participants were hierarchically clustered by presence of the 14 vaginally sourced otus within either their placenta or fetal membrane tissues .
+
+we found no significant associations between home delivery and bacterial diversity and no associations between the time after delivery the placenta was sampled and any of the primary outcome measures .
+
+adjusted model p values were calculated using linear regression adjusting for the nutritional intervention maternal bmi at enrolment maternal age proxy for socioeconomic status number of previous pregnancies anaemia site of enrolment mode of delivery and time between delivery and placenta sampling.leuconostocaceae enterococcaceae and lactobacillales whose abundances were positively corre- lated with each other.
+
+adjusted model p values were calculated using linear regression adjusting for the intervention maternal bmi at enrolment maternal age proxy for socioeconomic status number of previous pregnancies anaemia site of enrolment mode of delivery and time between delivery and placenta sampling p0.05 p0.01.of pregnancy .
+
+all models were adjusted for the intervention maternal bmi at enrolment maternal age proxy for socioeconomic status number of previous pregnancies anaemia site of enrolment mode of delivery and time between delivery and placenta sampling.the source of bacteria in placental tissuessourcetracker  was used to identify the likely source for the bacteria detected in the pla- cental and fetal membrane tissues.
+
+b comparison between the proportion of otus found in placenta and fetal membranes sourced from the vagina stratified by participants who delivered vaginally or by caesarean section.presence of otus in both vagina and placental tissue associated with a lower length-for-age z-score.
+
+asterisks indicate p005 association between higher load of that bacterial phyla or family and prevalence of severe chorioamnionitis.adjusted model p values were calculated using linear regression adjusting for the nutritional intervention maternal bmi at enrolment maternal age proxy for socioeconomic status num- ber of previous pregnancies anaemia site of enrolment mode of delivery and time between delivery and placenta sampling.tiffs3 fig.
+
+box-and-whisker plots showing the association between the time after delivery the placenta was sampled and prevalence of a preterm birthlow birth weight c stunting and d small-head circumference.
+
+we also collected oral and vaginal swabs from the same individuals to study the potential source of organisms found in the microbiomes of the placenta and fetal membranes.materials and methodsstudy design and enrolmentthis cross-sectional study was part of a larger clinical trial assessing whether providing lipid-based nutrient supplements lns to mothers during pregnancy and for 6 monthspostpartum and to the infant from 6 to 18 months of age improves child growth to a greater extent than prenatal iron and folic acid ifa or multiple micronutrient mmn tablets .
+

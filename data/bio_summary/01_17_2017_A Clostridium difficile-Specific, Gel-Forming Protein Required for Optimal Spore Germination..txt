@@ -1,0 +1,30 @@
+given that spore germination is essential for c. difficile to initiate infection and that c. difficile uses a unique pathway to initiate germination methods that inhibit distinct elements of germination could selectively prevent c. difficile disease recurrence.
+
+consistent with this possibility we observed a 10-fold variation in slec mutant spore germination between spore preparations see table s3 at .in spite of these differences the germination defect of all slec mutations could be complemented in both the 630derm and jir8094 strain backgrounds see table s2 at  and artificial germination of 630derm dslec and dgerg spores using thioglycolate and lysozyme rescued the ability of these spores to produce colonies to wild-type levels fig.
+
+since spore germination dynamics can be measured on a single-spore basis this assay allows germination heterogeneity to be assessed in contrast with bulk population-wide measurements such as the optical density assay in .when wild-type spores were incubated with the lowest concentration of germinant tested 0.025 taurocholate 0.5 mm 95 of the spores completed germination within 10 min at 37degc  see table s4 at .
+
+while germination was essentially maximal in wild-type and dgerggerg spores at 0.25 ta 5 mm dgerg spore germination increased in a dose-dependent manner up to the maximum concentration of taurocholate tested 1 19 mm .spore germination was also more heterogeneous in dgerg spores than in wild-type and dgerggerg spores .
+
+.stewart ka yi x ghosh s setlow p. 2012. germination protein levels and rates of germination of spores of bacillus subtilis with overexpressed or deleted genes encoding germination proteins.
+
+the reduced levels of csps in gerg spores correlate with reduced responsiveness to bile salt germinants and increased germination heterogeneity in single-spore germination assays.
+
+interestingly gerg appears to be conserved exclusively in c. difficile unlike previously identified germination regulators.to test whether gerg plays a role in regulating sporulation andor germination we constructed targetron mutations in gerg in the jir8094 and 630dermdpyre strain backgrounds as well as a clean deletion of gerg in the 630dermdpyre background see fig.
+
+in contrast dgerg and gergermb gerg- negative spores exhibited 30- and 10-fold decreases in germination efficiency relative to the wild type respectively when plated on brain heart infusion-supplemented bhis plates containing taurocholate ta  p  0.0001. jir8094 gergermb spores exhibited a 500-fold defect in germination efficiency relative to the wild type fig.
+
+however in 630derm the dslec mutant had only an 3-log defect in spore germination  see table s2 at  whereas the jir8094 slecermb targetron mutant slec-negative exhibited an 5-log germination defect fig.
+
+if spore germination was assayed earlier than this time point 630dermdslec spores appeared to be completely defective in germination.
+
+having established that gerg is necessary for optimal spore germination we sought to identify the stage of germination affected by loss of gerg.
+
+importantly complementation of dgerg restored wild-type levels of csps in spores indicating that gerg regulates the incorporation of csp germination regulators into spores andor their stability in mature spores.based on these findings we wondered whether overproduction of csp family members might rescue the germination defect of dgerg spores.
+
+the increased csp levels however did not affect sporulating cell heat resistance or spore germination efficiency in dgergcspbac spores relative to dgerg spores.since the moderate increase in csp levels in dgergcspba-cspc spores may have been insufficient to restore germination to wild-type levels we tested whether plasmid- based overexpression of cspbac might produce enough cspba and cspc to bypass the need for gerg to incorporate csp family members into mature spores.
+
+when the germination dynamics of 15 individual dgerg spores were analyzed germination was observed between 10 and 120 min of germinant addition.
+
+although dgerg spores exhibited greater variability in the time to initiate germination than did the wild type dgerg spores completed germination with similar kinetics as the wild-type spores as evidenced by the kinetics of the sharp decrease in optical refrac- tility.
+

@@ -1,0 +1,30 @@
+this is particularly true for pediatric non-expectorating subjects with cf in whom oropharyngeal op cultures are used as a surrogate for lower airway bacteria .in the pediatric studies op swabs have ranged from 30 to 68 of samples collected     and therefore represent an important sample type in early cf.sequencing is becoming more widely used to evaluate bacterial communities in cf airway samples .
+
+in this work we build on these two previous cf studies to evaluate the effect of dna extraction using enzymatic digestion enzd on bacterial communities detected from oropharyngeal swab op and sputum samples collected from patients with cf.materials  methodspatient demographics and samplessputum and op samples were obtained from patients with cf as part of standard of care for monitoring bacterial infection during routine patient visits.
+
+analyses were calculated using r version 3.2.4 revised 2016-03-16 r70336.resultssample collectionwe analyzed 81 airway samples 39 sputum and 42 op  collected from 63 patients with cystic fibrosis ranging in age from 1.5 to 24 years 9-24 sputum and 1.5-23 op.
+
+for sputum the ra for bacteroidetes and proteobacteria were lower with enzd  consistent with findings in op samples .phylaenzdnon-enzdestimated change in rap-valuecorrectedp-valuegenera with a statistically significantly higher ra following enzd for op swabs consisted of gemella streptococcus actinomyces johnsonella and rothia.
+
+eleven sputum samples had 5 ra pseudomonas prior to enzd the ra increased after enzd in six of these samples median 18.7 range 1.1-68.4 in those where ra decreased the median and range was -6.1 -1.2 to 42.0 .overall community changesthe shannon-h alpha diversity index was significantly lower p  0.01 with enzd in sputum samples  due to higher ra of staphylococcus resulting in a significantly less even community shannon-h wilcoxon signed rank p  0.01. for op samples thea0.60.4actinobacteriabacteroidetesfirmicutesfusobacteriaproteobacteriap0.01 p0.06p0.01 p0.01p0.01 p0.08p0.01 p0.01p0.01 p0.010.20.0-0.2opsputumopsputumopsputumopsputumopsputumbneisseriaactinomyces0.60.30.0-0.30.01p0.500.01p0.010.01p0.010.01p0.010.01p0.50fusobacteriumrothia0.60.30.0-0.30.60.30.0-0.30.01p0.010.01p0.010.01p0.020.01p0.010.01p0.010.01p0.020.01p0.01staphylococcus0.01p0.010.01p0.27opsputumopsputumopsputumopsputumopsputumshannon-h alpha diversity index was also lower likely due to higher ra of streptococcus with enzd although this result did not reach statistical significance shannon-h wilcoxon signed rank p  0.06. richness and evenness were also not significantly affected by enzd in op samples.
+
+we sought to evaluate the effect of enzymatic digestion enzd prior to dna extraction on bacterial communities identified in sputum and oropharyngeal swab op samples from patients with cf.methods.
+
+dna from 81 samples 39 sputum and 42 op collected from 63 patients with cf was extracted in duplicate with and without enzd.
+
+shannon diversity index alpha-diversity decreased in sputum and op samples with the use of enzd.
+
+larger shifts in community composition were observed for op samples beta-diversity measured by morisita-horn whereas less change in communities was observed for sputum samples.
+
+the use of enzd with op swabs resulted in significant increase in ra for the genera gemella p  0.01 streptococcus p  0.01 and rothia p  0.01. staphylococcus p  0.01 was the only genus with a significant increase in ra from sputum whereas the following genera decreased in ra with enzd veillonella p  0.01 granulicatella p  0.01 prevotella p  0.01 and gemella p0.02.
+
+in op samples higher ra of gram-positive taxa was associated with larger changes in microbial community composition.discussion.
+
+we show that the application of enzd to cf airway samples particularly op swabs results in differences in microbial communities detected by sequencing.
+
+use of enzd can result in large changes in bacterial community composition and is particularly useful for detection of staphylococcus in cf op samples.
+
+the enhanced identification of staphylococcus aureus is a strong indication to utilize enzd in studies that use op swabs to monitor cf airway communities.subjects microbiology respiratory medicinekeywords 16s sequencing microbiome sputum gram positive beta diversity dna extractionhow to cite this article williamson et al.
+
+op swabs are commonly used when children are unable to expectorate .
+

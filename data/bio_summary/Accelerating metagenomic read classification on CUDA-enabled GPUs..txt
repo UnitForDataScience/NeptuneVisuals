@@ -1,0 +1,30 @@
+we have used the full mode for clark light and default k-mer length k  27. for cuclark light the reducedtable 3 classification speed for different sampling factors at species-level for the hiseq dataset in terms of 106 sequencesmin and corresponding main memory consumptiontable 4 classification speed comparison between clark light and cuclark light at species-level in terms of 106 classified sequencesminthe bottom row reports the speedup of cucalrk light compared to clark light executed with 16 cpu threadsdatabase is smaller than 720 mb and leaves enough space for batch data even on graphics cards with only 1 gb of memory.
+
+for miseq wgsim200 wgsim250 and fqion kraken using 16 threads is still 1.4-1.8 times faster than clark with the same number oftable 1 classification speed of clark kraken and cuclark at species-level measured in terms of 106 classified sequences reads per minutethe bottom two rows report the speedups between cuclark over clark and kraken executed with 16 cpu threadstable 2 classification speed of clark kraken and cuclark at genus-level measured in terms of 106 classified sequences reads per minutethe two bottom rows report the speedups of cuclark over clark and kraken executed with 16 cpu threadsthreads.
+
+in our experiments we needed four cycles when using a gpu with 12 gb of memory and the ncbi refseq database of december 2015. in this configuration achieved speedups for species-level classification range between 3.2 and 6.6 2.6 and 3.3 on a single titan x gpu compared to clark kraken when executed with 16 threads on a xeon e5- 2683v4 16-core cpu.the light mode of cuclark is able to reach even higher speeds than the full version.
+
+cuclark light is up to 6.6 times faster on a single gpu than clark light using 16 cpu threads.as our experiments have shown the classification speed of our program heavily correlates with the amount of available video ram and the memory bandwidth.
+
+cuclark supports classification on a workstation with a single gpu and compute nodes withmultiple gpus.despite the differences in implementation clark and cuclark produce the same target scores for each input object.
+
+cuclark has been executed on a titan x for single gpu experiments.for cuclark we have decided to process the input files in 16 batches so the space required for each batch is small enough to leave most graphics memory for the database parts.
+
+bmc bioinformatics 2017 1811doi 10.1186s12859-016-1434-6accelerating metagenomic read classification on cuda-enabled gpusrobin kobus christian hundt andre muller and bertil schmidtbackgroundmetagenomic read classification is a common and increasingly important bioinformatics technique where short dna reads stemming from a genomic sample are automatically annotated with a taxonomic label such as species or genus identifiers by mapping them onto a large set of reference genomes.
+
+as an example online services suchcorrespondence institute of computer science johannes gutenberg university mainz staudingerweg 9 55435 mainz germanyas mbiome see  are currently performing the sequencing and analysis of a human gut sample for less than us 100. thus the design and imple- mentation of exceedingly fast and precise metagenomic read classification algorithms remains an important topic for academic research and commercial solutions.a number of approaches have been proposed to solve the read classification problem by employing machine learning techniques on top of nearest neighbor infor- mation between probed reads and reference genomes.
+
+figure shows the database structure of cuclark.we use page-locked host memory to store the database in ram to improve the transfer bandwidth to the graphics memory over the pcie bus.
+
+first the length of the contained dna sequences is determined in order to allocate sufficient memory for both input sequences and classification results.
+
+next the sequence data of a batch is transferred to graphics memory for classification.aside from higher transfer speeds the use of page- locked memory allows for batches to be processed asyn- chronously by the gpu.
+
+this fast but small memory can be accessed simultaneously by all threads of a block for caching data from the global graphics memory or to store intermediate results.
+
+the drawback of the limited amount of shared memory is that less blocks can be processed concurrently if they require too much memory each.
+
+future accelerator cards from the professional tesla branch e.g the to be released tesla p100 chip will feature 16 gb of high bandwidth stacked memory this novel memory type allows for significantly higher bandwidths in compar- ison to current gddr5 and gddr5x modules.
+
+nbc the naive bayes classification tool webserver for taxonomic classification of metagenomic reads.
+

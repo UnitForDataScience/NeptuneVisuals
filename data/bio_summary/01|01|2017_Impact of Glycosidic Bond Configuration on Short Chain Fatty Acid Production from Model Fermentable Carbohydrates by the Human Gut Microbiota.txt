@@ -1,0 +1,30 @@
+however at present it is not straightforward to selectively manipulate production of individual scfa in the diet of humans because the factors which drive the production of one scfa over another are not well understood.the profile of scfa production is thought to be related to the physicochemical properties of ndcs reaching the colon which in turn may determine which members of the gut microbiota consortium are able to derive energy from ndc fermentation yielding scfa as the reduced end-products .
+
+despite some differences in the scfa production of different glucose disaccharides there was no clear relationship between scfa production and bond configuration suggesting that other factors may be responsible for promoting selective scfa production by the gut microbiota from different carbohydrates.keywords colonic fermentation gut microbiota non-digestible carbohydrates short chain fatty acids glycosidic bondintroductionthere is increasing evidence that bioactive molecules produced during colonic bacterial fermentation play a central role in the beneficial effects of non-digestible carbohydrates ndc .
+
+scfa concentrations were calculated using the ratio of each scfa to the internal standard 73.8 mm 2-ethylbutyric acid calibrated for individual scfa response in the detector using an external standard acetic acid 183.51 mm propionic acid 132.52 mm butyric acid 107.06 mm valeric acid 88.63 mm caproic acid 74.36 mm enanthic acid 66.25 mm caprylic acid 57.84 mm isobutyric acid 104.13 mm isovaleric acid 86.59 mm and isocaproic acid 50.93 mm all in 2 m naoh.statistical analysis was conducted using spss version 22 ibm chicago il usa.
+
+understanding determinants of individual scfa production would enable substrate choice to be tailored for colonic scfa manipulation.
+
+short chain fatty acids scfa are the main products of saccharolytic bacterial fermentation of ndc with acetate propionate and butyrate being the principal scfa produced .
+
+with increased interest in the effects of scfa on human metabolic health  there is a growing need to understand how ndcs and the gut microbiota interact to yield different patterns of scfa production and if certain profiles are related to improved health outcomes.acetate is a central metabolite in intermediary metabolism and is involved in lipid and cholesterol synthesis  and central appetite regulation .
+
+however the relationship between ndc solubility and scfa production is not truly representative of the human diet and its mixed ndc composition exemplified by the fact that insoluble high molecular weight resistant starch is abundant in the human diet and highly fermentable by the human gut microbiota .fermentation of some mono- and di-saccharides appears to favor selective scfa production.
+
+scfa production is also influenced by the composition of these complex ndc where the fermentability of each of the constituent sugars may determine the differences in scfa produced .
+
+using a differential equation model many of the changes in the microbiota and key metabolites such as scfa have been simulated in continuous flow fermenters inoculated with human fecal microbiota .in the present study the relationship between glycosidic bond orientation and position and scfa production was investigated using glucose-glucose disaccharides as model ndc substrates.
+
+this allowed for experimental control of confounding factors such as solubility and monosaccharide compositions on scfa production.materials and methodssubstratesglucose-glucose disaccharides diglucoses were used as model substrates to explore all bond options on scfa production with the exception of diglucose b1-1 b b b-trahalose which was not commercially feasible.
+
+at both 8 and 24 h of fermentation the ph for diglucose a1-1 was significantly higher than all other substrates in the a orientation p  0.05 and diglucose b1-1 p  0.01. in the b orientation b1-6 had the lowest ph at 24 h which was significantly lower than both b1-3 and b1-4 p  0.05.table 1. ph of the fermenter system after 0 8 and 24 h of fermentation.mean sem different letters within a column indicate significant differences p  0.05.  indicates differences between bond anomers p  0.01. a1-1 b1-4 n  15 b1-1 n  9 all others n  10.effects of glycosidic bond position on scfa productionthere was no difference in total scfa production as a result of different glycosidic bond position however varying glycosidic bond position led to significant differences in acetate and butyrate production table .
+
+mean sem a1-1 b1-4 n  15 b1-1 n  9 all others n  10. a indicates significant differences to a1-1 b indicates significant differences from b1-4 p  0.05.  indicates p  0.086 vs. a1-1  indicates p  0.057 vs. b1-4  indicates p  0.051 vs. b1-4  indicates p  0.078 vs. a1-1.effects of glycosidic bond orientation a or b on scfa productionthe effect of anomeric orientation on scfa production is illustrated in figure and table .
+
+diglucose a1-1 led to significantly more butyrate 29.3 4.9 vs. 6.7 2.7 p  0.001 and significantly less acetate production 58.3 5.2 vs. 88.0 3.3 p  0.001 compared with diglucose b1-1 figure .table 2. scfa production mmolg carbohydrateday after 24 h of fermentation.acetatepropionatebutyratetotalmean sem different letters within a column indicate significant differences p  0.05.  indicates differences between bond anomers p  0.05 a1-1 b1-4 n  15 b1-1 n  9 all others n  10.figure 2. scfa production after 24 h of fermentation mmolg carbohydrateday.
+
+mean sem a1-1b1-4 n  15 b1-1 n  9 all others n  10.  significant differences between bond anomers.subject scfa variabilitysignificant variability in scfa production was observed between the individual donor samples.
+
+there was no consistent pattern across the substrates and participants for high scfa yield.figure 3. individually plotted absolute scfa production.
+

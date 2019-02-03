@@ -1,0 +1,30 @@
+a1  baby spinach day 0 a2  baby spinach day 7 stored at 8degc a3  baby spinach day 7 stored at 15degc b1  mixed-ingredient salad day 0 b2  mixed-ingredient salad day 7 stored at 8degc b3  mixed-ingredient salad day 7 stored at 15degc.
+
+relative abundances of bacterial phyla associated with control samples of baby spinach and mixed-ingredient salad are shown in .pseudomonadales was the dominant order on day 0 and day 7 both for samples with plain baby spinach and mixed-ingredient salad and regardless of storage temperature.
+
+so far few studies investigating microbiota in leafy vegetables have had a focus on the final product to be consumed such as rte leafy vege- tables subject to refrigerated storage.the objective of the present study was to compare the bacterial communities before and after seven days storage of rte baby spinach and mixed-ingredient salad baby spinach mixed with chicken meat at refrigerator temperature 8degc in sweden or tempera- ture abuse conditions 15degc.
+
+during each trial one replicate of baby spinach and mixed-ingredient salad sample controls respectively was collected on day 0. on day 7 this was repeated for both control samples and inoculated samples that had been stored at 8 or 15degc.inoculated bacterial strainsto test for pathogen growth strains of l. monocytogenes slv-444 ccug 69007 y. enterocolitica slv-408 ccug 45643 and e. coli o157h7 shigatoxin 1 and 2 negative eae positive obtained from the swedish public health agency solna sweden registry no.
+
+these strains were inoculated into samples at an initial level of 50-100 cfu g-1 with separate samples used for each inoculated strain.sample collection and processingat the start of the experiment day 0 and after seven days of incubation at 8 and 15degc the contents of indi- vidual bags of baby spinach or mixed-ingredient salad were homogenized as described in soderqvist et al.
+
+each sequence was checked by sequence scanner version 1.0 software and the identity of each strain was confirmed by blastn  .changes in microbiota during storageto explore changes in microbiota during storage the average proportion and associated standard error for each bacterial order was calculated for non-inocu- lated baby spinach and mixed-ingredient salad on day 0 and after storage for seven days at 8 or 15degc.
+
+for some bacterial orders there were differences in their con- tribution to the community between samples of plain baby spinach and mixed-ingredient salad .
+
+the order lactobacillales contain many families however only carnobacteriaceae genus carnobacterium and enterococcaceae genus vagococcus were detected in our study.figure 1. relative abundance of bacterial orders in control samples of baby spinach and mixed-ingredient salad before and after storage at 8 and 15degc.
+
+the power of pre- diction q2cum was high for all models 0.82 0.55 and0.61 for l. monocytogenes pathogenic y. enterocolitica and e. coli o157h7 gfp respectively.the type of inoculated strain or absence thereof in the controls did not appear to affect the composi- tion of the bacterial orders in the microbiota accord- ing to kruskal-wallis test p  0.58.comparing sequences and culture counts of inoculated strains with otusthe mixed-ingredient salads stored at 15degc for seven days featured the highest absolute viable counts of inoculated strains with l. monocytogenes concentra- tions of approximately 109 cfu g-1 and this was paralleled by abundance distribution patterns for one highly correlated otu.
+
+7 1328963httpsdoi.org10.108020008686.2017.1328963research articleemerging microbiota during cold storage and temperature abuse of ready-to-eat saladkarin soderqvist omneya ahmed osman cecilia wolff stefan bertilsson ivar vagsholm and sofia boqvistadepartment of biomedical sciences and veterinary public health swedish university of agricultural sciences uppsala swedenbdepartment of ecology and genetics limnology and science for life laboratory uppsala university uppsala swedenarticle historyreceived 13 january 2017accepted 3 may 2017keywordsbaby spinach escherichia coli o157h7 listeria monocytogenesmixed-ingredient salad pathogenic yersinia enterocolitica phyllosphereintroductionconsumption of healthy and convenient foods such as ready-to-eat rte leafy vegetables or mixed-ingredi- ent salads has increased during recent years in many high-income countries.
+
+for each sample with plain baby spinach an aver- age of 66 otus was detected while the corresponding number for samples with mixed-ingredient salad was 50 otus.
+
+at this level the genus pseudomonas was the most represented with the highest relative abundance in samples stored at 8degc for seven days mean 50 and 66 of reads in baby spinach and mixed-ingredient salad samples respectively.
+
+in samples with mixed-ingredient salad commercial grilled diced chicken meat was added to the baby spinach.
+
+bacteria affiliated with bacillales were for example present in very low proportions on day 0 but increased markedly during storage at 8 and 15degc in mixed-ingredient salad while no such growth was observed in plain baby spinach.
+
+the lower number of otus for mixed-ingredient salad average 50 may at first appear surprising as there are more nutrients available in these samples compared to the plain baby spinach.
+

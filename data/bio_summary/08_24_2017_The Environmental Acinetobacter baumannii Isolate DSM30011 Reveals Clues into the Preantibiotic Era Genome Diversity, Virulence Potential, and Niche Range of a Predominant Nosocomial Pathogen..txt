@@ -1,0 +1,30 @@
+the presence of these two genes in the chromosome of this environmental strain reinforces proposals that both provided for the intrinsic b-lactamase gene repertoire of a. baumannii     .dsm30011 also contains a caro variant iv homolog dsm3001104565 described only in a. baumannii  andanoprdoccab1homolog dsm3001117845 two genes encoding outer membrane om proteins proposed to participate in the permeation of carbapenems into the periplasm a. resistance to cephalosporins and carbapenems in mdr strains of a. baumannii generally results besides contributions of reduced om permeability  an  from the overproduction of adc-type and oxa-type enzymes mediated by is insertions generating more efficient promoters upstream the corresponding b-lac- tamase genes    .
+
+when applied to a. baumannii these approaches provided valuable information on both the pre- sent a. baumannii population structure and the mechanisms of acquisition and evolution of antimicrobial resistance     .
+
+for details see supplementary table s2 supplementary material online and the a. baumannii mlst databases website  .antimicrobial susceptibility testingthe general antimicrobial susceptibility of a. baumannii strains dsm30011 atcc17978 and atcc19606 was evaluated using the vitek 2 system biome'rieux following the criteria recommended by the clsi clinical and laboratory standards institute 2016 performance standards for antimicrobial sus- ceptibility testing.
+
+s1b supplementary material online in what represents a typical phenotype asso- ciated to a. baumannii but not to other acinetobacter mem- bers  .dsm30011 thus provided us with an a. baumannii strain originally isolated in the usa from a resinous desert plant70 years ago that is on the verge of the massive introduc- tion of antibiotic therapy to treat infections .
+
+blasting the 243 cds against a larger database containing5000 complete genomes from archaea and major bacterial phyla including 43 a. baumannii proteomes revealed 89 cds with significant best hits in a. baumannii 52 cds were affiliated with other gammaproteobacteria 20 with other bacterial phyla 69 e value  1 x e-4 provided no sig- nificant hits false positives and 13 showed no hits at all sup- plementary table s4 supplementary material online.
+
+in addition seven other catabolic loci present in dsm30011 were not identified in a. baylyi including three eut pen and tau assigned to the use of ethanolamine penicillin and taurine respectively in other a. baumannii strains  .
+
+this biofilm- associated om protein has been shown to participate in biofilm maturation on different abiotic surfaces and in adherence to eukaryotic cells in some a. baumannii strainstable 4presence in dsm30011 of virulence and environmental persistence factors proposed for a. baumannii .
+
+therefore the conspicuous absence of cpaa in dsm30011  and in the a. baumannii strains atcc 17978 and atcc 19606 isolated by the middle of last century supplementary table s1 supplementary material online supports proposals that this gene was recently acquired by a. baumannii in the clinical setting as the result of horizontal gene transfer events .fig.
+
+in turn it opens the possibility that certain phytophagous insects feeding in these plants    represent vectors for the dissem- ination of a. baumannii in the environment.further studies on other a. baumannii strains of non-clin- ical origin are certainly required to elucidate the processes that led to the recent evolution of this species toward an oppor- tunistic pathogen of humans.acknowledgmentswe thank x. charpentier ciri lyon france for the kind gift of the dsm30011 strain.
+
+lyon universite' lyon 1 cnrs umr5558 villeurbanne francecorresponding author e-mailaccepted august 24 2017data deposition the whole genome shotgun project for a. baumannii dsm30011 has been deposited at ddbjenagenbank under the accession jjoc00000000.
+
+here we traced the origins of the collection strain a. baumannii dsm30011 to an isolate first reported in 1944 obtained from the enriched microbiota responsible of the aerobic decomposition of the resinous desert shrub guayule.
+
+comparative studies with 32 complete a. baumannii genomes revealed the presence of 12 unique accessory chromosomal regions in dsm30011 including five encompassing phage-related genes five containing toxin genes of the type-6 secretion system and one with an atypical crisprscas cluster.
+
+this strain thus revealed important clues into the genomic diversity virulence potential and niche ranges of the preantibiotic era a. baumannii population and may provide an useful tool for our understanding of the processes that led to the recent evolution of this species toward an opportunistic pathogen of humans.key words comparative genomics preantibiotic era bacterium virulence factors crisprscas.introductionthe genus acinetobacter family moraxellaceae class gammaproteobacteria is characterized by gram-negative aerobic coccobacilli of ubiquitous environmental distribution and large metabolic capabilities .among the genus the phylogenetically closely-related species composing the acinetobacter calcoaceticus-acinetobacter baumannii acb complex represent nowadays important op- portunistic pathogens .
+
+the combination of the above factors added to the intrinsic resis- tance of a. baumannii to desiccation and fever-associated temperatures are considered main factors of persistence of pathogenic strains in the nosocomial environment   .whole-genome sequence wgs comparisons have be- come commonplace in examining strain-to-strain variability and in comparing pathogenic strains with environmental less aggressive relatives in efforts to identify underlying ge- netic determinants and mechanisms responsible for pheno- typic dissimilarities.
+
+it is now generally accepted that a. baumannii arose from other members of the acb complex as the result of an ancient population bottleneck followed by a recent population expansion from a few clinically- relevant clones endowed with a diverse arsenal of resistance genes   .
+

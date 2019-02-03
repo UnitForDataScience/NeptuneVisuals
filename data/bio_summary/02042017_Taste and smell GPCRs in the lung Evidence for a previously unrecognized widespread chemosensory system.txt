@@ -1,0 +1,30 @@
+these methods enable the study of hundreds of cells under multiple conditions and thereby provide a robust dataset for single-cell analyses of cellular mechanics.in magnetic twisting cytometry mtc a ferrimagnetic microbead  5 mm in diameter is functionalized to the cytoskeleton of living cells both stress-bearing cytoskeletal structures and the contractile ap- paratus through cell surface integrin receptors using a arg-gly-asp linker .
+
+indeed changes in cell stiffness as measured by mtc closely track active stresses within individual hasm cells as measured by the other methods .in fourier transformed traction microscopy fttm fluorescentbeads 0.2 mm in diameter are embedded in a flexible polyacrylamide gel and used as fiduciary markers for deformation fields exerted by ad- herent cells .
+
+since these studies were performed on isolated hasm cells the results confirm that the action of tas2r agonists on intact bronchi is due to receptors being activated on hasm rather than indirectly via signaling from the airway epitheli- um or other airway cells.
+
+transfected hek-293 cells showed an increase in intracellular camp in response to acetate and propionate  but not formate or bu- tyrate consistent with other studies of or51e2olfr78.or51e2 signaling in hasmbased on the transfection studies we fully expected that activation of or51e2 in hasm would lead to relaxation given that it generated camp in the transfected cells.
+
+however cytoskeletal remodeling dynamics were signifi- cantly reduced by the known agonists for or51e2 acetate and propionate a. airway smooth muscle cells from c57bl6 mice also displayed this response to acetate and propionate which was ab- sent in crisprcas9 promoted olfr78 gene knockout cells .another feature of increased smooth muscle mass in asthma is smooth muscle cell hyperplasia.
+
+of note asthmatic hasm cells are known to proliferate at higher rates than nonasthmatic hasm cells and they also exhibit enhanced cyto- skeletal remodeling dynamics unpublished data.
+
+we have identified bitter taste receptors tas2rs and olfactory receptors ors on human airway smooth muscle hasm cells.
+
+we have recently found sensory gpcrs of the bitter taste receptor tas2r family  and the olfactory receptor or family expressed deep in the lung on human airway smooth muscle hasm cells.
+
+these findings of receptors in the wrong place was initially met with skepticism because of the bias that such specialized receptors were only expressed on taste cells of the tongue and sensory neurons in the nose responding to external ligands involved in taste and smell perceptions respectively.we have now extensively characterized these receptors on hasm  and it is now clear that tas2rs and ors are expressed on other cell- types in different organs as well.
+
+quanti- tative rt-pcr was performed using 25 subtype-specific primers to determine mrna levels in cultured hasm cells derived from subjects without lung disease.
+
+in taste cells tas2rs couple to the g-protein gustducin and the by subunits released from the heterotrimer activate phos- pholipase cb plcb resulting in an increase in inositol 1 4 5-tri- phosphate ip3.
+
+in taste cells the increase in ca2i activates a transient receptor potential trp channel depolarizing the mem- brane with release of neurotransmitter and subsequent activation of the type iii cell which signals to the brain.
+
+this suggested a deviation of signaling if these receptors were functional in hasm compared to taste cells.
+
+p b 0.05 vs isoproterenol n  5.tas2rs increase ca2i in hasmusing a panel of known tas2r agonists we observed increases in ca2i in hasm cells that were consistent with the subtype expression profiles b .
+
+unlike what is observed in taste cells though tas2r agonists caused hyperpolarization of the cell mem- brane .
+

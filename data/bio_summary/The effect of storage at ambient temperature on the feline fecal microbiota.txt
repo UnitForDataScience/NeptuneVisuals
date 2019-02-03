@@ -1,0 +1,30 @@
+the effects of different sampling and stor- age methods on the fecal bacterial population of healthy and diseased human subjects were examined fecal samples were aliquoted within 10 min of defecation and stored at different temperatures -80 degc at -20 degc for a week at 4 degc for 24 h and at ambient temperature for 24 h. no significant differences were found in the num- ber of operational taxonomic units otus diversity or richness between the different storage temperatures  this study agreed with the results of previous studies but is in contradiction with others that reported a mild gradual difference in the fecal bacterial composition when samples were stored at ambient temperature for24 h compared to the composition assessed around defecation studies evaluating the impact of storage conditions on fecal microbiota in companion an- imals are scarce.
+
+however when cat was analysed as the group the error rate was only 15 indicating a much stronger ability to assign samples to the appropriate cat.discussionthe results from the study imply that there are no sig- nificant changes in feline fecal microbiota evenness di- versity and richness as well as community membership and structure over 96 h while fecal samples are kept at ambient temperature.microbiota assessment in feline fecal samples can pro- vide important insight.
+
+since very little research exists on the effects of storage on fecal samples in general and even more so in cats more research is warranted prior to solid conclusions in regards to short-term fecal storage recommendations.conclusionsthis study demonstrate that several-day-storage of healthy cats' feces at ambient temperature has no effect on microbial biodiversity.
+
+upon arrival samples were weighed1 manually homoge- nized and aliquoted into 200 mg samples.
+
+the most readily apparent numerical difference was a decrease in the relative abundance over time of mega- sphaera a genus of relatively fastidious anaerobes therefore the trend for decreased megasphaera abun- dance over time could correspond to air exposure during storage something that might have been accentuated by manual homogenization during preparation of fecal samples.
+
+this should be sufficient time in field studies to transport samples to better storage conditions such as refrigeration or freezing.
+
+2015105e0126685.lauber cl zhou n gordon ji knight r fierer n. effect of storage conditions on the assessment of bacterial community structure in soil and human- associated samples.
+
+megasphaera was shown to play a dominant role in bacterial composition of the feline gi tract it isassociated with ruminal fermentation of lactate into short-chain fatty acids scfa and is especially related to butyrate formation due to its fermentation cap- acity the bacterium was shown to have beneficial effects on the gi health of some monogastric mammals however further research is required for the under- standing of the underlined role of megasphaera in the cat an obligate carnivore especially when increased protein content may promote a steep decrease in mega- sphaera abundance as well as jeopardise the gi micro- biota health while the extent of studies investigating the impact of storage on feline fecal microbiota has been limited the results of this study are similar to other studies that have shown limited or no impact of short-term storage.
+
+the sample size wasrelatively small but it was based on a recent storage study in companion animals as well as on human storage studies that used a similar smaller sample size.
+
+although sample freezing at-80 degc is recommended for long term storage the current study suggests that short term storage up to 4 days at ambient temperatures can be appropriate es- pecially when field studies are performed.endnotes1denver maxx denver instrument bohemia new york usa2class ii type a2 biosafety 283 cabinet thermo fi-scher scientific waltham massachusetts usa3e.z.n.a.
+
+the objective of this study was to deter- mine the effect of ambient temperature exposure on the feline fecal microbiota.methodssample collectionfresh fecal samples were collected from 12 healthy cats located at a cat boarding facility in guelph ontario from june to july 2016. the subjects were determined to be healthy based on information provided to the facility manager by cat owners prior to boarding.
+
+cats wereobserved closely by facility personnel and fecal samples were collected within 15 min of defecation.
+
+samples were maintained unrefrigerated until arrival at the laboratory.
+
+one aliquot was frozen at -80 degc within 1 hour of defecation time pointt 0. the remaining aliquots were kept at ambient temperature 20 to 23 degc in a biosafety cabinet.2 aliquots were frozen at -80 degc at the following time points 6 12 24 36 48 72 96 h. downstream processing was then per- formed on samples that had all undergone the same freeze- thaw cycle and were processed as a batch.dna extractionfor dna extraction a commercial stool extraction kit3 was used according to the manufacturer's instructions.
+
+to prepare the 16s rrna gene amplicons for the illumina miseq system5 all dna samples were diluted if needed to a range of 30 to 100 ngml.
+

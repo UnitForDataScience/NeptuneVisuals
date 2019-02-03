@@ -1,0 +1,30 @@
+this means that a perturbation of almost any part of metabolism results in a global response in which a large number of enzymes have to alter theirabfigure 2. illustration of the concept of integrative data analysis using metabolic networksillustration of how a metabolic map represented by a genome-scale metabolic model gem can be used for integrative analysis of omics data e.g.
+
+the pentose phosphate pathway ensuring regeneration of nadph used in glutathione metabolism.through specification of the stoichiometry of the different re- actions in a metabolic network gems can be used for simulation of metabolic functions using the concept of flux balance analysis .
+
+furthermore n-of-1 trials will provide information on variations of biomarkers both within and between individuals and this will be important for identification of biomarkers that are truly predictive and can therefore be used for stratification of cohorts not included in the n-of-1 study.the so-called genome-scale metabolic model gem can be used as a scaffold for integrative analysis with the objective to identify novel prognostic biomarkers that can assist in the advancement toward personalized and precision medicine.challenges for systems medicineadvancing systems medicine faces several challenges 1 the challenge of analyzing large datasets 2 the difficulties in iden- tifying mechanistic causes for many biomarkers and drug tar- gets 3 problems with translation from model systems to the clinic and 4 problems with sample heterogeneity.the detailed analysis underlying systems medicine results in generation of very large datasets generally referred to as big data.
+
+thus a recent analysis demonstrated that with four different data types the resources required for data analysis are larger than the resources for data generation for only four datasets and the resource requirement for data analysis increases rapidly when more datasets are to be analyzed  .
+
+this resulted in the identification of mannose metabolism to be significantly altered in insulin-resistant patients and subsequent analysis of metabolomics from more than 1000 subjects could validate mannose as a novel biomarker for insulin resistance  .the above-mentioned studies are all examples of how sys- tems biology analysis of specific human tissues resulted in the identification of changes in specific parts of the metabolic network and these changes resulted in altered plasma metabo- lite levels.
+
+here i will discuss the challenges of systems medicine and illustrate how one type of mathematical modelbfigure 1. principles of personalized medicineillustration of how analysis of big data obtained from detailed omics analysis of patient cohorts can result in detailed phenotyping and thereby lead to stratification of patients into different groups.
+
+it will be illustrated how the concept of genome-scale metabolic models can be used for integrative analysis of big data with the objective of identifying novel biomarkers that are foundational for personalized and precision medicine.introductionhealthcare costs are rapidly increasing in the developing coun- tries and in 2011 the total healthcare spending in the united states accounted for about 18 of its gdp  a 63 inflation-adjusted increase since 1997  .
+
+this concept is already widely used for monitoring of triacylglycerides and cholesterols in the blood but analysis of blood chemistry could probably be used much more widely for diagnosis.
+
+the adipocyte model was used for integrative analysis with the objective of gaining insight into metabolic reprogramming in abdominal fat tissues in response to obesity and it was found that respiratory metabolism was significantly reduced in obese subjects.
+
+this is because different data types need to be pre-pro-cessed separately before they can be used for integrative analysis.
+
+transcriptome or proteome data from different tissues in large cohorts and detailed models that can be used for integrative analysis of such data.
+
+more detailed analysis of metabolic alterations in different tissues is required for obtaining a mechanistic explanation for this finding and this will require both large datasets e.g.
+
+in yeast atp is used in more than 200 out of about 1500 metabolic reactions and metabolism therefore forms a highly connected metabolic network j.n.
+
+furthermore metabolites circulating in the blood are determined not only by the metabolic activity of the different tissues but also by the food intake and by the metabolic activity of the human gut microbiota.
+
+this resulted in the generation of a very large amount of data for each individual a virtual data cloud consisting of billions of data points and the challenge ahead is to ensure efficient analysis of these data and extract information that can be used for direct advice on lifestyle andor treatment strategies .
+

@@ -1,0 +1,30 @@
+thus we categorized the disease phases according to body weight changes during the experimental period before dss administration phase 1 progressive phase phase 2 a peak of weight loss phase 3 recovery phase phase 4.figure 1. monitoring of body weight changes and bleeding score of dextran sulfate sodium dss-treated mice.
+
+bleeding dashed lines in mice was scored according to the following criteria no bleeding 0 bleeding 1 gross bleeding 2. the disease phases were categorized according to body weight changes during the experimental period before dss administration phase 1 white progressive phase phase 2 red a peak of weight loss phase 3 yellow recovery phase phase 4 blue.
+
+immunity 2014 40 128-139.  atarashi k. tanoue t. shima t. imaoka a. kuwahara t. momose y. cheng g. yamasaki s. saito t. ohba y. et al.
+
+nature 2013 500 232-236.  ohkusa t. nomura t. terai t. miwa h. kobayashi o. hojo m. takei y. ogihara t. hirai s. okayasu i. et al.
+
+the abundances of the bacteroidaceae 38.7 - 16.5 enterobacteriaceae 25.0 - 15.4 clostridiaceae 2.8 - 1.2 and porphyromonadaceae 1.6 - 0.7 increased in the phase of colitis progression but rapidly decreased in the recovery phase figure a. on the other hand the onset of dss-induced colitis resulted in a significant decrease in the abundances of bifidobacteriaceae 0.7 - 0.4 uncultured bacteroidales family s24-7 0.5 - 0.5 rikenellaceae 0.1 - 0.1 lachnospiraceae 0.3 - 0.1and ruminococcaceae 0.03 - 0.03. furthermore these four bacterial families did not increase in the recovery phase.
+
+2016 22 1078-1087.  qazi t. amaratunga t. barnes e.l. fischer m. kassam z. allegretti j.r. the risk of inflammatory bowel disease flares after fecal microbiota transplantation systematic review and meta-analysis.
+
+okada t. fukuda s. hase k. nishiumi s. izumi y. yoshida m. hagiwara t. kawashima r. yamazaki m. oshio t. et al.
+
+science 2017 356 315-319.  ariake k. ohkusa t. sakurazawa t. kumagai j. eishi y. hoshi s. yajima t. roles of mucosal bacteria and succinic acid in colitis caused by dextran sulfate sodium in mice.
+
+as mentioned in previous reports - the nmr peaks of interest were assigned using two web databases spinassign hmdb with assistance of 2-dimension nmr spectra 1h-13c heteronuclear single quantum coherence data of fecal samples in dss-treated mice which was collected in another research project.measurements of lactate and succinate in fecal samplesfecal samples collected from five mice were suspended in distilled water.
+
+after centrifugation lactate and succinate in the deproteinized supernatants were measured with an ion chromatography ics2100 thermo fisher scientific inc. waltham ma usa and a liquid chromatography electrospray quadrupole time-of-flight mass spectrometry xevo g2-xs qtof waters corp. milford ma usa.statistical analysismultidimensional scaling mds of fecal microbiome and principal component analysis pca of fecal metabolome were performed using the r software package ver 2.15.3 .
+
+a changes in the relative abundance at the family level in each dss-treated mouse b multidimensional scaling mds plot of fecal microbiome at the family level at each time point.furthermore we identified abundant bacterial phylotypes in each phase.
+
+fecal levels of succinate transiently increased around the peak of weight loss and decreased to the baseline levels in the recovery phase.
+
+on the other hand fecal levels of lactate gradually decreased after the onset of colitis but increased to the baseline level in the recovery phase.
+
+a change in the fecal succinate level was positively correlated with seventeen otus r  0.5 p  0.0004. nine otus r  0.51-0.63 had 96.0-99.4 similarities with 16s rrna sequence of lactobacillus intestinalis eu381126 four otus r  0.52-0.57 had 95.8-99.7 similarities with bacteroides caecimuris kr364741 two otus r  0.51-0.63 had 97.4 and 98.0 similarities with b. thetaiotaomicron lc033799 and cp012937 one otu r  0.51 had 97.6 similarity with b. acidifaciens ab021159 and one otu r  0.53 had 92.0 similarity with parasutterella excrementihominis lt558827.figure 4. characteristics of changes in fecal metabolites of dss-treated mice.
+
+data of fecal lactate and succinate levels are mean - standard error of the mean sem n  5.discussionour results on the microbiome during the colitis progressive phase demonstrate transient expansions of two specific bacterial families including the bacteroidaceae and the enterobacteriaceae.
+

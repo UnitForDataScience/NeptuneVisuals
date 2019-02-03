@@ -1,0 +1,30 @@
+to determine which otus were most dominant in cyclists with 2.5 prevotella the total community of prevotella in each sample was normalized to 100 and relative abun- dances of prevotella otus were calculated additional file in agreement with mwgs abundance data p. copri otu1 was the dominant species in the cyclists based on 16s rrna reads with the exception of cyclist giant whose sample had 2.5 prevotella based on mwgs data.metatranscriptomic sequencing reveals further insight into the gut microbiomes of cyclistsfor further characterization of the gut microbiomes of cy- clists and to gain further insight into the most active taxaand their metabolism metatranscriptomic sequencing rna-seq was performed on all 33 cyclists' fecal samples.
+
+prevotella was negatively correlated with a number of other pathways involved in amino acid metabolism and carbohydrate metabolism including short chain fatty acid scfa metabolism as well as pathways involving nitro- gen sulfur and methane metabolism.we evaluated the species of prevotella within samples that contained 2.5 prevotella to determine if there was one species driving these correlations with metabolic func- tion.
+
+prevotella was positively correlated r  0.5 p  0.01 to a number of amino acid metabolism pathways including lysine biosynthesis alanine aspartatetable 1 reported metadata diet alcohol consumption exercise load prevotella abundance mwgs taxonomic cluster and race category as recorded from and glutamate metabolism and d-glutamine and d- glutamate metabolism fig.
+
+this showed that prevotella copri was the most abun- dant species 51-98 of the total prevotella community in every sample additional files and .
+
+these differences however could be attributed to the number of fully sequenced genomes at time of publica- tion only two genomes of both p. copri and p. stercorea were available and all four were incomplete while there were dozens of sequenced bacteroides genomes.a separate analysis based on identifying operational taxo- nomic units otus with 16s rrna sequencing reads iden- tified 11 different prevotella otus in the 17 cyclists with2.5 prevotella.
+
+the results confirmed the presence of this archaeon in fecal gdna from cyclists that had m. smithii in rna-seq analysis with the exception ofcyclists yeti additional file influence of transcriptional activity by prevotella and methanobrevibacter on metabolic functions in the gut communityfor insight into what metabolic functions correlate with transcriptional activity by prevotella and methanobrevibac- ter spearman's rank correlation coefficients r were deter- mined between these two genera and kegg pathway analyses performed with rna-seq reads see additional file for all kegg pathway abundances.
+
+prevotella is more often found in individuals from certain areas of asia   and rural africa  and this enrichment for prevotella is often reflective of diets high in complex carbohydrates including high dietary fiber from various sources including fruits and vegetables egg food items and high vitamins and minerals  .
+
+furthermore we hypothesize that cyclists have dif- ferent species of prevotella that have yet to be character- ized as our 16s otu analysis identified 11 different prevotella otus across all 33 cyclists but only 4 of these otus were 97 identical to the closest taxonomic hit and none had 100 identity.metatranscriptome analysis uncovered further character- istics of the cyclists' microbial communities.
+
+and while there were fewer significant correlations between prevotella and kegg pathways with rna-seq read data there was still strong agreement in what type of metabolic pathways were enriched for when prevotella was more abundant with regards to both mwgs and rna-seq read data.
+
+of interest was the upregulation of branched chain amino acid bcaa biosynthesis when there was an increase in prevotella transcripts and the cor- responding downregulation in the degradation of bcaas from the mwgs dataset when prevotella was highly abun- dant.
+
+to assess confidence in the clustering approximately unbiased au p values were generated and the strongest cluster au p value of 94 within the dendrogram cluster 1 was characterized by a high relative abundance of the genus prevotella and low abundances of bacteroides.
+
+a second cluster of 12 cyclists au p value of 90 was characterized by a high relative abundance of bacter- oides and either low or no prevotella.
+
+the third cluster au p value of 76 containing the remaining 14 cyclists did not have a single genera driving the community but instead was characterized by a mix of genera including bacteroides prevotella eubacterium ruminococcus and akkermansia.
+
+from these analyses we found a significant correlation between exer- cise load and the abundance of prevotella.
+
+the abundance of prevotella was highest for cyclists reporting either 20 or 16-20 h of exercise per week with median abundances of 14.75 and 12.12 respectively fig.
+

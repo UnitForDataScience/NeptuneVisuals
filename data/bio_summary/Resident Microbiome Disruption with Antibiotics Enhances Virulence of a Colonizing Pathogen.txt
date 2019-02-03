@@ -1,0 +1,30 @@
+here we use a natural wildlife disease system house finches and the conjunctival bacterial pathogen mycoplasmagallisepticum mg to experimentally examine the impact of the ocular microbiome on host damage and pathogen virulence factors during infection.
+
+from the pathogen side key virulence factors of mycoplasmas can be characterized phenotypically and include cytadherence ability to bind to host cells and sialidase activity associated with pathogen colonization nutri- tion and cellular degradation.
+
+post-hoc tests indicated that the effects of antibiotics on pathogen load were strongest at day 5 post-infection supplementary table s2 by day 8 pathogen loads were similar among all three treatments.mg virulence factors.
+
+no significant dif- ferences were detected in sialidase enzyme activity or cytadherence between the two antibiotic treatment groups short versus long p  0.76.discussionantibiotic-induced dysbiosis of the resident ocular microbiome in house finches resulted in more severe infection-induced tissue damage and enhanced activity of pathogen virulence factors during experimental infec- tion with a commonly occurring ocular bacterial pathogen mg. house finches treated with a broad-spectrumfigure 3. effects of prior b-lactam antibiotic perturbation on mycoplasma gallisepticum sialidase activity and the relationship between sialidase activity and tissue inflammation at the time of mg isolation.
+
+because pathogen load and inflammation scores are tightly linked in this system we also quantified relative inflammation severity as a metric of the degree of inflammation present at a given pathogen burden.
+
+pathogen load data were log10 transformed prior to analysis.because we had repeated measures over time in response to mg inoculation disease response data inflam- mation score and pathogen load were analyzed using factorial generalized linear mixed effects models glmms in package lme4.
+
+models were simplified using single-term deletion of non-significant terms from type iii wald chi-square tests p  0.1 criterion to arrive at the minimally adequate models.because pathogen load and inflammation severity are positively correlated in this system we also calculatedrelative inflammation severity ris as a metric of the degree of inflammation controlling for pathogen load.
+
+commensal microbes promote innate and adaptive immune responses in vertebrates and intact microbiomes can minimize pathogen invasion via colonization resistance.
+
+however little is known about the role of symbiotic microbes in mediating pathogen virulence or pathogenicity following successful host invasion.
+
+understanding how microbi- omes influence the level of harm that pathogens cause their hosts is critical to fully elucidating the role of micro- bial symbionts in host health.virulence defined here as the level of damage that pathogens cause their hosts is a function of intrinsically-linked host and pathogen traits.
+
+symbiotic microbes can influence pathogen virulence via several non-mutually exclusive pathways.
+
+first symbionts can limit pathogen growthvia diverse mechanisms including interbacterial warfare metabolic defense or physical interference.
+
+these effects minimize a host's pathogen burden which often underlies the extent of host exploitation and virulence.
+
+finally symbiotic microbes could directly or indirectly alter the expression or activity of pathogen virulence factors.
+
+similarly virulence of the invasive enteric pathogen salmonella enterica is reduced in the presence of a small molecule produced by commensal clostridium species in the human gut which minimizes host cell invasion and expres- sion of genes linked with pathogenicity.
+

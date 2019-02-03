@@ -1,0 +1,30 @@
+the nmds-plots represent the microbial cytometric diversity of saliva samples of five subjects each who used two different mouth rinses 0.2 chlorhexidine a and listeriner b. the color of the points represents the involved subjects see  and the size of the points demonstrates the times of sample collection baseline 0 h  small points 5 min  medium small points 2 h  medium big points 8 h after rinsing  big points.
+
+for instance quantitative real- time pcr of bacterial counts in untreated saliva samples revealed values ranging from 1.56 106 to 1.08 108 cellssample 65. second cell numbers of two subjects subjects 6 10 that rinsed with chx mouth-rinse were taken before treatment 0 h and at three time points 5 min 2 h 8 h afterwards .
+
+two different subjects are compared subjects 6 and 4. four samples were collected within 8 h time points 0 h 5 min 2 h and 8 h. all gates of all samples were used to compare the similarity of the samples.
+
+the cell number of the samples collected at 0 h baseline 5 min 2 h and 8 h after treatment with 0.2 chx mouth-rinse is demonstrated per ml and per entire sample amount for two subjects subjects 6 and 10. all samples show a clear decrease in cell number after 8 h. both the cell number per entire sample and per ml decreased after rinsing for about 1.8 and 2.6 times subject 6 and 1.2 and 2.1 times subject 10 respectively indicating a successful effect of chx.collectively to a united structure as could have been suggested by an assumed dominance of acidogenic phylotypes under such con- ditions.
+
+trouble shooting different oral hygiene habits techniques fre- quency dissimilarity of oral health state subjects' eating habits lack of examination of intimate partners current respiratory tract infectionssample collectionthe subject was instructed to carry out the last oral hygiene procedure until 12 am of the day before collection unless other- wise indicated.
+
+for the evaluation of the microbial cytometric data bioinformatic tools such as cytometric barcoding flowcybar are available that allow a nearly automatic interpreta- tion of the data .aim of this study was to establish a cytometric protocol for the analysis of saliva microbiota to enable fast monitoring of changes in and between diverse microbiota.
+
+extended investigation of other oral niches like periodontal pockets or the inclusion of subjects with oral diseases can yield further insights on the relation between changes of the microbial composition community dynamics and pathogenesis.acknowledgementsspecial thanks are given to claudia ruger for assistance and organization and to all subjects for their time and effort.
+
+thus the data obtained by illuminar sequencing strongly supported the trends calculated on the basis of cytometric data by representing the high intra- individual constancy of otu types in the microbiome of subject 1 and inter-individual diversities variation of otu types of micro- biomes of subjects 1 6 and 10. the beta-diversity among the micro- biomes of those three subjects was existent but low.oral microbiota and stressit is verified that an excessive intake of sugars and acids leads to an increased risk for oral diseases like caries and dental erosion .
+
+a second depiction of the cytometric data is possible by creating box- plots that show the distribution of the relative abundances of gate cell numbers of each gate  b.furthermore non-metric multidimensional scaling nmds wasperformed based on the relative gate cell abundances of all sam- ples.
+
+the nmds-plots compare the microbial cytometric diversity of samples collected at baseline 0 h small points and after stress 8 h big points caused by sugars a or acids b. the color of the points represents the involved subjects see .
+
+a previous sequencing project revealed an association between salivary bacterial profiles and oral health and disease thus bacteria from local oral diseased sites are also detectable in saliva .
+
+as stated before the cytometric microbiome data suggested only a minor change after short term impact of sug- ars and acids but without affecting the general structures of the individual microbiomes that much and thus saliva seems to accomplish its function as protective reservoir of a healthy micro- biome for such periods.mouth-rinses and cell numbersmouth-rinses are used with the intention to reduce the micro- bial load in the oral cavity .
+
+based on these techniques a large-scale project including approximately 200 healthy subjects was launched with the result of the human oral microbiome database homd with global information on approximately 700 bacterial species detected in the oral cavity .
+
+unstimulated saliva sam- ples were collected from ten oral healthy subjects.
+
+here a cytometric workflow was established which allows to routinely ana- lyze salivary microbiomes on the example of ten oral healthy subjects.
+

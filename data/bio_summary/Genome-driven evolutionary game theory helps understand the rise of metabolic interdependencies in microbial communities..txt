@@ -1,0 +1,30 @@
+a.a11011000balacost increasesval asp gly ser asn glu leu pro thr gln ile lys cys phe arg tyr methis11 01 10 001100 0000 00 10 1000 00 01 0100 00 01 01 10 1000 00 00 01 01 0100 00 00 10 10 1000 00 00 01 01 01 10 1001 1000 00 01 1000 00 00 10 01 10 10 1000 00 00 01 01 01 01 1000 00 00 01 00 10 01 01 01 10 10 1010 1111 1101 1100 1100 11 10 1100 11 01 1100 11 01 1000 00 00 11 01 1000 00 00 10 01 10 10 10 10 1100 00 00 01 00 10 01 01 01 10 10 10 10 11no pure strategy nash equilibriumc1000110nash equilibrium000.22 row player's payoffd100ile11lys  00ile01lys 1075502500255075 100lys leakiness level 11  wild-type01  lys-10  ile-00  lys-ile-75502500255075 100glu leakiness level 11  wild-type01  glu-10  leu-00  glu-leu-fig.
+
+for arginine and glutamate and glycine and threonine see below.for the first anomalous pair arginine and glutamate nash equilibria in the sustainable leakiness region includes 10 11 and 00 11 but not the cross-feeding state 01 10 fig.
+
+b. what prevents 00 11 from being a nash equilibrium here one of the conditions for 00 11 to be a nash equilibrium is that in the presence of 11 the fitness of the non-producer 00 should be higher than any of the partial producers 01 and 10 as one would intuitively expect because 00 does not incur the production cost of the two amino acids.
+
+a gene whose modification affectsmore than one metabolic phenotype and illustrates how core biochemistry can impact ecological interactions.a more complex scenario occurs for the glycine and threonine pair where cross-feeding 01 10 is the only nash equilibrium that emerges in the sustainable leakiness region fig.
+
+8. c a small population of 01 and 10 invades a residentpopulation of 11. this models an alternative scenario for the two-step loss of leaky functions leading to stable cross-feeders two partial producer mutant genotypes 01 and 10 simultaneously originate from 11 followed by the rise of the 00 genotype from 01 andor 10 in a later stage.
+
+the sustainable leakiness region with 00 11 and 01 10 as nash equilibria.
+
+evolutionary game theory is the application of classical game theory to model the evolutionary dynamics of mixed populations.
+
+an evolutionary stable strategy is a similar concept in evolutionary game theory it is a nash equilibrium which is evolutionarily stable i.e.
+
+by perform- ing a number of targeted in silico invasion experiments see methods we found that this depends strongly on the initiala4030f  99f  13f  13f  13b20100010203040lys leakiness level time htime h010203040lys leakiness level time hc403020100010203040lys leakiness level time htime hfig.
+
+b we expect the leakiness of the two amino acids by e. coli in natural environments to lie in this region as any leakiness levels outside this region would lead to extinction of the wt.another feature common to several amino acid pairs in fig.
+
+however a systematic analysis of the possible equilibrium states of interacting species as a function of the leakiness of various metabolites and of their underlying metabolic circuits is still lacking.here we propose a hybrid modeling approach that combines the theoretical insight of evolutionary game theory with the organism-specific-detailed analysis of cell-wide metabolic net- works.
+
+01 10 is the only viable association excessive leakiness in this region makes the full producer 11 non-viable e.g.
+
+we systematically computed all nash equilibria at varying leakiness levels for 189 amino acid pairs corre- sponding to all possible pairs of 20 amino acids fig.
+
+00 01 10 and 00 01 10 11 are possible as well.
+
+these alternative out-comes include the mutually beneficial game where producers dominate and the snowdrift game where producers and non- producers coexist.we constructed the in silico producer and non-producer strains using the iaz900 yeast metabolic model and inferred the nash equilibria of the system as a function of the glucose fructose capture efficiency and the invertase production cost seemethods and supplementary methods for details of flux balance analysis formulations to estimate the payoffs.
+

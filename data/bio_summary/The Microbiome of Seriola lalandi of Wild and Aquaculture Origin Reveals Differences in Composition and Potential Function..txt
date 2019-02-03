@@ -1,0 +1,30 @@
+furthermore permanova and anosim tests p  0.05 confirmed the significant differences in the composition of the microbiota depending on the origin of the fish table 1.composition of microbial communitiesthe taxonomic compositions of the s. lalandi intestinal microbiota of wild and aquacultured origin primarily present representatives of the phyla proteobacteria firmicutes and actinobacteria followed by bacteroidetes planctomycetestable 1  comparison of similarities in microbiota composition between wild and aquaculture yellowtail kingfish.7 alphaproteobacteria 5 and betaproteobacteria 3. at the order level the following bacteria were observed in the wild yellowtail samples pseudomonadales 52 alteromonadales 23 actinomycetales 8 vibrionales 5 bacillales 3 and lactobacillales 3 whereas aquacultured yellowtail presented bacillales 34 lactobacillales 20actinomycetales 14 pseudomonadales 10 clostridiales6 and sphingomonadales 4 table s2.differential abundances of the bacterial populations associated with originspecific taxa that were differentially distributed between the wild and aquacultured yellowtail were identified using deseq2 software package.
+
+these match with our results where the s. lalandi microbiota of aquacultured fish under ras was dominated by bacteria of the order bacilales.the differences in relative abundances of the components of the intestinal microbiota of s. lalandi shown in figure 4 indicate that in the case of wild yellowtail the predominant phylum is proteobacteria.
+
+rep. 624340. doi llewellyn m. s. boutin s. hoseinifar s. h. and derome n. 2014. teleost microbiomes the state of the art in their characterization manipulation and importance in aquaculture and fisheries.
+
+the significant differences in bacterial functionbetween wild and aquacultured yellowtail is detailed in table 3.discussionto our knowledge this is the first study to characterize and compare the intestinal microbiota of wild and aquaculturedcompilations indicate that structure of fish microbiomes could be more similar to the microbiome of their environments than those of mammals in fact previous reports addressing gut microbiota in fish have showed that gut microbiota composition was different from those found in the surrounding environment such as feed or water kormas et al.
+
+2007. molecular characterization of the intestinal microbiota of farmed atlantic salmon salmo salar l.. aquaculture 272 581-588. doi hutson k. s. ernst i. and whittington i.
+
+to our knowledge this is the first study to characterize and compare the intestinal microbiota of s. lalandi of wild and aquaculture origin using high-throughput sequencing.keywords microbiota high-throughput sequencing yellowtail seriolaintroductionseriola lalandi yellowtail kingfish is a marine pelagic and carnivorous fish found globally in subtropical and temperate waters of the pacific and indian oceans fowler et al.
+
+45 733-741. doi alavandi s. vijayan k. santiago t. poornima m. jithendran k. ali s. et al.
+
+28 531-537. doi chen b. n. qin j. g. carragher j. f. clarke s. m. kumar m. s. and hutchinson w. g. 2007. deleterious effects of food restrictions in yellowtail kingfish seriola lalandi during early development.
+
+aquaculture 271 326-335. doi cordero h. f. a. guardiola f. s. t. tapia-paniagua s. a. cuesta a. j. meseguer j. balebona m. et al.
+
+45 608-618. doi dailey f. e. mcgraw j. e. jensen b. j. bishop s. s. lokken j. p. dorff k. j. et al.
+
+58 987-994. doi doughari h. j. ndakidemi p. a. human i. s. and benade s. 2011. the ecology biology and pathogenesis of acinetobacter spp.
+
+aquaculture 448 464-475. doi giri s. sukumaran v. sen s. and jena p. 2014. effects of dietary supplementation of potential probiotic bacillus subtilis vsg1 singularly or in combination with lactobacillus plantarum vsg3 orand pseudomonas aeruginosa vsg2 on the growth immunity and disease resistance of labeo rohita.
+
+aquaculture 288 36-43. doi ringo e. sperstad s. myklebust r. refstie s. and krogdahl a.
+
+aquaculture 261 829-841. doi ringo e. strom e. and tabachek t. 1995. intestinal microflora of salmonids romero j. feijoo c. g. and navarrete p. 2012. antibiotics in aquaculture - use abuse and alternatives in health and environment in aquaculture ed e. carvalho rijeka intech 159-198.sakai m. yoshida t. s. atsuta s. and kobayas m. 1995. enhancement of resistance to vibriosis in rainbow trout oncorhynchus mykiss walbaum by oral administration of clostridium butyricum bacterin.
+
+82 4470-4481. doi shapiro s. s. and wilk m. b.
+

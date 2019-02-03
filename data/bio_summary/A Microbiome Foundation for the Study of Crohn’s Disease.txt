@@ -1,0 +1,30 @@
+a microbiome foundationfor the study of crohn's diseasedirk geverssubra kugathasandan knightsaleksandar d. kosticrob knightand ramnik j. xavier1janssen human microbiome institute at janssen research and development llc cambridge ma 02142 usa2division of gastroenterology hepatology and nutrition department of pediatrics emory university atlanta ga 30322 usa3department of computer science and engineering university of minnesota minneapolis mn 55108 usa4biotechnology institute university of minnesota st. paul mn 55108 usa5research division joslin diabetes center boston ma 02215 usa6department of microbiology and immunobiology harvard medical school boston ma 02115 usa7biofrontiers institute university of colorado boulder co 80309 usa8department of chemistry and biochemistry university of colorado boulder co 80309 usa9howard hughes medical institute boulder co 80309 usa10broad institute of mit and harvard cambridge ma 02142 usa 11gastrointestinal unit and center for the study of inflammatory bowel disease 12center for computational and integrative biologymassachusetts general hospital and harvard medical school boston ma 02114 usacorrespondence our 2014 study published in cell host  microbe ''the treatment-naive microbiome in new-onset crohn's disease'' was designed to improve our understanding of the microbiome's role in crohn's disease by study- ing a unique well-suited cohort and sample set.
+
+the small cohorts were underpowered to link the microbiome to disease severity the microbiome changed over time both with disease severity and with treatment making it difficult to associate microbial changes with disease and most impor- tantly many of the biomarker findings could not be replicated in other cohorts.moreover many of the new-onset studies that existed at the time examined only the fecal microbiome.
+
+our 2014 study published in cell host  microbe ''the treatment-naive microbiome in new- onset crohn's disease'' was a subset of this larger study designed to improve our understanding of how the microbiome contributes to the inflammatory cascade of cd pathogenesis  .at the onset of the study we knew that inflammatory bowel disease ibd is a complex disorder involving both genetic and environmental components and large-scale genome-wide associationstudies had linked ibd to host-microbe pathways.
+
+previous studies had exam- ined the role of the microbiome in patients with established disease but these studies had important limitations.
+
+to date this study remains the largest sin- gle-cohort microbiome study related to new-onset ibd n  447 and represents the largest characterization of mucosal- associated microbiota in non-ibd sub- jects n  221. we were able to include patients representing the variety of dis- ease phenotypes with respect to location severity and behavior.
+
+a sub- set of patients also provided a fecal sample.the use of a large cohort increased the resolution and statistical power for study- ing the role of the microbiome in disease.
+
+when we analyzed the mu- cosa-associated microbiome we found that inflammatory conditions were most strongly associated with an overall drop in species diversity and a change in the abundance of several taxa some of which had been identified in previous studies.
+
+although 1100 pa- tients were recruited for the larger study sample collection for microbiome analysis was not mandated but optional.
+
+thus we were able to capture microbiome data only from a smaller subset of patients.
+
+finally we did not collect follow-up biopsy samples from these patients following their treatment to see how the microbiome changes with intervention.
+
+interestingly pretreatment microbiome signatures may be able to predict remission and response to treat- ment with 76.5 accuracy   which holds tremendous transla- tional potential.potential culpritsbefore we initiated this study we knew that microbial dysbiosis existed in pa-of disease  and the colo- nization of germ-free mouse models of disease with specific groupings of organ- isms identified from this study and others.
+
+the scientific community is already starting to pursue a series of interventions that target the microbiome in cd patients.
+
+specifically the md-in- dex strongly correlated with clinical dis- ease severity and negatively correlated with species richness demonstrating that a severe disease state manifests as reduced species diversity in favor of more extreme dysbiosis.the wide variation of the microbiome can be collapsed into the md-index which makes this a potentially powerful diagnostic tool.
+
+we envision the md-index to one day become part of the cd diagnostic arma- mentarium to stratify patients based on predicted treatment response.antibiotics are not the solutionat the time of the publication of our study overwhelming evidence already existed that antibiotics are detrimental to a healthy microbiome and it was our hypothesis that the use of antibiotics impacts the overall community structure and increases the potential for dysbiosis.
+
+to date it re- mains one of the most requested datasets in microbiome research.three-year outcome data for the risk cohort have been analyzed and will soonbe made available upon publication.
+

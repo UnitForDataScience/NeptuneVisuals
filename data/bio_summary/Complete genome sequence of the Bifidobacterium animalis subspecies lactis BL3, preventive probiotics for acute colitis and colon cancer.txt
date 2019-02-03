@@ -1,0 +1,30 @@
+genomic features of b. animalis subspe- cies lactis bl3 are presented in .we found that the closest strain was bifidobacterium animalis subspecies lactis dsm 10140 accession no.
+
+lim s. limand y.-d. nam1 research group of gut microbiome korea food research institute sungnam 2 department of food biotechnology korea university of science and technology daejeon and 3 research and development center cell biotech co. ltd. gimpo republic of koreaabstractwe report the genome sequence of bifidobacterium animalis subspecies lactis bl3 which has preventive properties on acute colitis and colon cancer.
+
+therefore modulation of intestinal flora could be a therapy for ibd treatment.previously we isolated bifidobacterium animalis subspecies lactis bl3 strain from korean faeces which showed a preventive effect on acute colitis and colitis-associated colon cancer by inhibiting nf-kb activity .
+
+in order to gain better insight into the preventive effects of probiotic bifidobacterium on ibd we ana- lysed the genome sequence of b. animalis subspecies lactis bl3.
+
+currently only seven genomes of b. animalis subspecies lactis strains are available so the genetic information of this species is still insufficient.
+
+therefore in this study we analysed the whole genome sequence of b. animalis subspecies lactis bl3 to elucidate and understand preventive effect of probiotics on ibd and related disorders.
+
+further characterization of genomic contents in probiotic bifidobacterium such as b. animalis subspecies lactis bl3 will be needed to develop health-promoting probiotics.new microbe and new infect 2017 19 34-37c 2017 the authors.
+
+1. circular map of genomic features of bifidobacterium animalis subspecies lactis bl3 plotting seven tracks.
+
+track 7 light green and purple gc skew.materials and methodsbacteria strains and dna preparationpreviously isolated b. animalis subspecies lactis bl3 from korean faeces was cultivated on bl medium at 37degc for 18 hours in an anaerobic condition.
+
+the purity quality and quantity of extracted dna was examined by a nanodrop 2000 uv-vis spectrophotometer thermo fisher waltham ma usa and qubit 2.0 fluorometer life technologies carlsbad ca usa respectively.genome sequencing assembly and annotation the whole genome of b. animalis subspecies lactis was sequenced by the pacbio rs ii platform.
+
+pan-genomic study using panseq was performed to investigate the genomic conservation and find novel sections in the sequenced genome.results and discussionthe high depth of single-molecule real-time sequencing enabled to produce a finished-level complete genome sequence in the analysis of b. animalis subspecies lactis bl3.
+
+the genetic study on the current probiotic micro- organism will increase our knowledge of their biologic mech- anisms against preventing human diseases and may lead to genome-based biotechnologic applications in the humanhealthcare and food industries utilizing bifidobacterium strains.nucleotide sequence accession numberthe assembled and annotated genome of b. animalis subspecies lactis bl3 has been deposited at dna data bank of japan european molecular biology laboratory and genbank under accession number cp017098.
+
+complete genome sequence of the bifidobacterium animalis subspecieslactis bl3 preventive probiotics for acute colitis and colon cancerj.
+
+the genome of bl3 which was isolated from korean faeces consisted of a 1 944 323 bp size single chromosome and its gc content was 60.5. genome comparison against the closest bifidobacterium animalis strain revealed that bl3 had particularly different regions of four areas encoding flavin-nucleotide-binding protein transposase multidrug abc transporter and atp binding protein.c 2017 the authors.
+
+published by elsevier ltd on behalf of european society of clinical microbiology and infectious diseases nmni 19 34-37 this is an open access article under the cc by-nc-nd license .table 1. genome summary of bifidobacterium animalissubspecies lactis bl3 and dsm 10140of the coding genes was performed using blastp search against the clusters of orthologous groups cogs database .
+

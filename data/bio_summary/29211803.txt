@@ -1,0 +1,30 @@
+major and minor cores were defined and tested for significant differences using awks and pre- sented in abundance-variability plots that included ubiquity data .characterization of genus bacteroides sequence data was accomplished using two distinct approaches picrust tool  to characterize the predicted genus bacteroides related metagen- omes and the ribosomal database project toolbox  k-mer search strategy using sequencematch utility.
+
+the ribosomal database project toolbox was used to map bacteroides sequence from this study to sequences of bacteroides retrieved from the databases using k-mer search strategy n  7 sab0.87 using sequencematch utility.
+
+the distribution of identified strains was linked to existing published physiological and medical reports on particular bacteroides strains.metastats  was used to identify groups of sequences binned into bacteroides species based on k-mers that differed significantly between experimental variants p0.05.the variation partitioning approach was used to determine the hierarchy of most important metadata from all measured variables n  231  associated with the dispersion of bacterial communities at 97 otu and genus levels to determine the extent of explained and stochastic variation in microbial structure.
+
+hamb exhibited normal bss types fecal retention times defecation frequency  iec  and inflammation markers edn ba in intestinal tract in comparison to hbr and nbr  indicating a healthy physiological state in hamb despite the negative effects of hypoxia evident in inactive hbr participants.hypoxia was associated with 10 reduced capillary oxyhemoglobin saturation in hbr and hamb .
+
+various phenols exhibit impor- tant roles in the initiation andor progression of intestinal permeability leading to leaky gut and increased inflammation.amplicon sequencing of bacterial 16s rrna genes using v1-v2 and v6-v7 hypervariable regionstotal genomic dna was extracted from fecal samples using the mobio power fecal dna extraction kit mobio california usa according to the manufacturer's instructions using triplicate homogenized subsamples of 0.25 g fresh weight.
+
+to the latter purpose full ambulatory polysomnography nicolet one viasys health- care neurocare madison wi usa was performed using standard setups .during the bed rest phase of the nbr and hbr campaigns the participants were confined to bed in the horizontal position for 24 hday and all activities of daily life took place in bed.one pillow was allowed for head support.
+
+heatmaps were constructed using heatmap.2 function as implemented in r package gplots v3.0.1 .resultsgeneral microbial diversity and composition are largely unaffected by 21-day inactivity and hypoxiaunweighted unifrac metrics based either on bray-curtis thetayc and jaccard indices at the level of 97 otu or genus did not result in significant differences in the microbiome compo- sition between nbr hbr and hamb participants of the planhab experiment over timep  0.16. there were also no significant differences in microbial diversity over time based on analysis of numerous ecological diversity indices p  0.44 .
+
+however a large proportion of bacteroides species 75.7 was shared between experimental groups  and also matched the physiologically charac- terized strains described in published literature exhibiting many detrimental and inflamma- genic characteristics related to mucin degradation bile acid resistance intestinal tract inflammation opportunistic infections or those preceding autoimmune disorders in type 1 diabetes in youngsters .picrust tool was used to impute genus bacteroides related metagenomes based on the avail- ability of 16s rrna sequences from sequenced genomes.
+
+total polyphenol content was only transiently increased in nbr participants with large fluctuations between participants whereas remained largely stable in hbr and hamb.
+
+the injection volume for polyphenols was set to 100 ml.in analogy with fast fingerprinting of microbial communities separate chemical finger- printing of sterols and polyphenols was used to determine the total content and relative distri- bution of peaks within each class of compounds that were further used for calculation of chemical diversity of compounds in samples using program mothur .deconvolution of dissolved organic matter dom spectral derivatives of biological importancefecal samples were centrifuged at 13.000 x g and dillutions 110 150 1100 of supernatants in mq were prepared.
+
+abundance increases towards the right of the plot.microbiomes at start-up of planhab experiment b hypoxic ambulatory hamb c hypoxic bed rest hbr and d normoxic bed rest nbr.of defecation as the number of defecation events per week progressively decreased over the course of bed rest in nbr and was more pronounced in hbr under hypoxia .
+
+in contrast the acute cessation of exercise in nbr and hbr induced significant changes in human physiology that were further aggra- vated by hypoxia in hbr.
+
+general fatigue tiredness tension recovery delay negative affective responses induced subjectiveness were also largest in hbr followed by nbr whereas almost undetectable at hamb despite equal hypoxia levels as in hbr .
+
+species b. thetaiotamicron b. fragilis b. dorei and other bacteroides with reported relevance for dys- biotic medical conditions were significantly enriched in hbr characterized with most severe inflammation symptoms indicating a shift towards host mucin degradation and proinflam- matory immune crosstalk.acknowledge the support of slovenian research agency  next generationsequencing research grants and young research fellowship awarded to bs for rs sra37426.
+
+the specific and significant increase in the levels of various bacteroides species in hbr can be seen p0.05.responded to inactivity and hypoxia over the 21-day experiment .
+

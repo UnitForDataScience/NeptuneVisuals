@@ -1,0 +1,30 @@
+to investigate the compositionand diversity of the microbiome of airway we analyzed and compared the microbiota of balf sputum and owf using bacterial 16s rrna gene sequencing technique.our data showed that the community richness and diversity of balf were higher than those in owf or in sputum.
+
+the number of otus shared among balf sputum and owf was 571 the number shared between balf and sputum was 109 while the number of otus shared between sputum and owf was just 21 figure 1f.discussionchanges of bacterial microbiome are associated with pathogenesis of infectious and noninfectious diseases.
+
+individuals with a history of smoking upper respiratory tract infection within 4 weeks and antibiotics used within 3 months were excluded from the study.three types of samples oral wash fluid owf induced sputum and bronchoalveolar lavage fluid balf were obtained from participants according to standardized procedures.3 the isolation amplification and sequencing of bacterial dna from each sample were performed by majorbio bio-pharm technology co. ltd. shanghai china.
+
+the most two abundant bacterial phyla in terms of both sequences and otus were proteobacteria and firmicutes in balf sputum and owf the proportion of which accounted for all sequences in samples was 77.69 65.86 and 63.96 respectively.
+
+in balf sputum and owf the most relative abundances of microbiota were proteobacteria and firmicutes phylum.
+
+moreover there was substantial overlap in the microbial composition among the samples and the percentages of total number of otus in sputum consistence with balf or owf were highly represented as 85.55 and 79.39 respectively.
+
+otus were clustered with a 97 similarity threshold e relative abundance of the bacterial phyla in balf sputum and owf.
+
+the relative abundance of 1 had been classified as others f overlaps of balf sputum and owf in otus composition.
+
+p  0.05p  0.01 balf bronchoalveolar lavage fluid owf oral wash fluid otus operational taxonomic units.could be a potential source for exploring microbiota in the lower airways because it is convenient to be obtained and makes less discomfort of individuals.financial support and sponsorshipthis study was supported by the grants from the national natural science foundation of china no.
+
+comparison of composition and diversity of bacterial microbiome in human upper and lower respiratory tractzhi-hong feng1 qin li2 si-ran liu2 xiao-nan du2 chen wang34 xiu-hong nie1 wei wang2 sun ying21department of respiratory medicine beijing xuanwu hospital capital medical university beijing 100053 china2department of immunology and the research centre of microbiome school of basic medical sciences capital medical university beijing 100069 china3department of respiratory disease capital medical university beijing 100069 china4china-japan friendship hospital national clinical research center for respiratory diseases beijing 100029 china zhi-hong feng and qin li contributed equally to the study.key words 16s rrna gene sequencing bronchoalveolar lavage fluid microbiota respiratory tract sputumintroductionmicrobiome residing in the airways and parenchymal tissues as a biological barrier of respiratory tract plays an important role in maintaining the normal functions of individual's respiratory system and preventing the invasion and colonization of exogenous pathogens.1 changes of microbial community may result in the occurrence and progression of infectious pneumonia and acute exacerbation of chronic diseases through disordering commensal microorganisms and increasing invasive ability of pathogens.2 traditional methods for detecting bacteria normally rely on culture technique which have a number of critical problems including time-consuming and relatively low positive rate of detection.
+
+in the last 10 years 16s rrna gene sequencing technique has been thought to be more comprehensive and reliable than those of culture-dependent methods for monitoring bacterial microbiome in skin organs and tracts quantitatively and qualitatively.3 in this case choosing credible samples are critical to evaluate the community composition of microbiome in the host tracts including respiratory tract.
+
+in the present study we aimed to compare the composition and diversity of bacterial community structure in different samples collected from the individuals' airways using 16s rrna gene sequencing technique.methodsethical approvalthe study was approved by the medical ethics committeeof xuanwu hospital capital medical university china.
+
+alpha-diversity analysis estimating community richness chao and ace indices and diversity shannon and simpson indices was calculated using mothur software .
+
+alpha-diversity analysis showed that community richness ace and chao indices of balf was higher than those in oral wash or in sputum p  0.05 figure 1a and 1b.
+
+furthermore there was also a significant difference in the community diversity shannon and simpson indices between balf and sputum p  0.05 figure 1c and 1d.
+

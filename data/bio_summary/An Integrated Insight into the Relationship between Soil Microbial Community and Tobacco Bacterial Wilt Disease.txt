@@ -1,0 +1,30 @@
+ten phyla showed significantly negative correlation with wilt infection rate which included acidobacteria pearson 0.629 p 0.012 brc1 pearson 0.762p0.001 crenarchaeota pearson0.573 p0.026euryarchaeota pearson0.612 p0.015 hydrogene-dentespearson0.559 p0.030 ignavibacteriae pearson0.607 p0.016 latescibacteria pearson0.6510.009 pacearchaeota pearson0.737 p 0.002 synergistetes pearson 0.677 p 0.006 and woesearchaeota pearson 0.546 p 0.035. the most abundant genus in soils was acidobacteriagp16 5.31 followed by nitrososphaera 4.97 sphingomonas 3.66 and gemmatimonas 3.06 and the genus acidobacteriagp16 showed significantly negative correlation with tobacco wilt infection ratepearson 0.641 p 0.010. as we focused on the wilt disease caused by ralstonia we investigated the relationship between relative abundance of the genus ralstonia and the wilt disease.
+
+in soils with plants severely infected by bacterial wilt the network maintaining taxa also varied.discussionmultiple soil factors are responsible for bacterial wilt infection as the soil microbiome plays an important part of tobacco wilt severity.
+
+in this study we focused on the relationship between the soil microbiome and tobacco ralstonia wilt infection and found that wilt infection was closely related to the diversity composition and inferred microbe-microbe interactions of soil microbial communities.tobacco wilt infection was associated with soil microbial community diversity as indicated by observed otu number andchao1 index.
+
+among them ph pearson 0.606 p 0.017 and calcium pearson 0.591 p 0.020 showed significantly negative correlation with wilt infection rate supplementary figure s1 and the remaining three parameters didn't show significant correlation with plant wilt symptom.microbial communitya total of 8366296 reads were obtained from 147 samples and 21429 otus were identified from the reads.
+
+even though not all bcas or pathogenic antagonists are known and some bcas or pathogenic antagonistic members could become plant pathogens under specific circumstances we can propose that soils with a similar microbial community structure of the 'healthy' branch are likely to suppress the outbreak of tobacco wilt disease.to further reveal which soil microbes may be important for inhibiting wilt disease outbreaks we attempted to identify 'inferred' key microbial groups in molecular ecological networks.
+
+ hongwu yang1  juan li1  123  yabing gu23  hongwei liu23  yili liang23  xueduan liu23  23  23 and 231 college of agronomy hunan agricultural university changsha china 2 school of minerals processing and bioengineering central south university changsha china 3 key laboratory of biometallurgy ministry of education changsha chinaedited bystephane hacquard max planck institute for plant breeding research mpg germanyreviewed bymatthew agler friedrich-schiller-universitat jenagermany ravin poudeluniversity of florida united stateszhili he university of oklahoma united statescorrespondencehuaqun yin yinhuaquncssina.com delong meng  these authors have contributedequally to this work.specialty section this article was submitted to plant microbe interactions a section of the journal frontiers in microbiologyreceived 26 june 2017accepted 24 october 2017published 07 november 2017citation yang h li j xiao y gu y liu h liang y liu x hu j meng d and yin h 2017 an integrated insight into the relationship between soil microbial community and tobaccobacterial wilt disease.
+
+this study provides new insights into our understanding the relationship between the soil microbiome and plant health.keywords tobacco wilt disease plant health soil microbial community microbial community composition molecular ecology networksintroductionsoil borne pathogens attack crops and causing huge yield losses.
+
+the importance of soil microbes in controlling of plant disease is well recognized and soil microbiome links to plant disease in many ways stimulating production of plant growth hormones competing with pathogens for nutrients production of compounds e.g.
+
+the genus ralstonia had relative low abundance in soils 0.002-0.21 and showed significantly positive correlation with tobacco wilt morbidity pearson  0.518 p  0.048.molecular ecology networksto unravel the relationship between soil microbe-microbe interactions and tobacco bacterial wilt disease we constructed a co-occurrence network for each field .
+
+pearson correlation analysis indicated that average k pearson 0.656 p 0.008 number of links pearson 0.684 p 0.005 and number of modules pearson0.543 p 0.037 showed a strong negative correlation with tobacco bacterial wilt infection  meaning sites with more complex and more modular networks have lower wilt infection rate.network key taxato reveal the key microbes in the networks we looked into the nodes with max degree max betweenness max stress centrality and max eigenvector centrality .
+
+even though the correlation between the shannon index and wilt infection was not strong our results showed that the microbial community diversity had a positive correlation with wilt infection rate.
+
+a rmt- based network can automatically identify the threshold for network construction   using 16s rrna gene sequencing data creating a molecular ecology network that is objective rather than subjective    .the aim of the present study is to evaluate the relationship between soil microbiome and plant health and to reveal which microbes may play a role in inhibiting bacterial wilt disease.
+
+this might be because the rhizosphere and the surrounding bulk soils have very different bacterial communities       and ecological networks were more complicated in rhizosphere than in surrounding bulk soils.the present study showed a range of correlations between plant wilt infection and soil microbial properties.
+
+we found that i soil microbial diversity had a strong effect on plant disease level with diversity and rate of wilt disease showing an inverse relationship and ii soils with similar microbial community composition have similar disease infection rate.
+
+2011. bacillus subtilis sqr 9 can control fusarium wilt in cucumber by colonizing plant roots.
+

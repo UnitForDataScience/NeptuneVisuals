@@ -1,0 +1,30 @@
+color figure can be viewed in the online issue which is available at table iv.multivariate permutation anova linear model.dd negative  fungal detection positive 5 0.428 dd positive  fungal detection negative 5 1.000 dd negative  fungal detection positive 5 0.667 dd positive  fungal detection positive 5 2.817 5 interaction between anova 5 analysis of variance dd 5 double densities on computed tomography scan fungal detection 5 on microscopy or cultured.presence of double densities on the ct scan.
+
+crs 5 chronic rhinosinusitis its 5 internal transcribed spacer iqr 5 interquar- tile range.
+
+demographic information is summarized in table i.table i.summary of patient data.crs 5 chronic rhinosinusitis f 5 female hpf 5 high power field m 5 male.fungal status using traditional detection techniquesfungi were not detected in any of the 27 control patients using traditional techniques described above.
+
+the topmost otustable ii.summary of the fungus-detected group.crswnp 5 chronic rhinosinusitis with nasal polyps crssnp 5 chronic rhinosinusitis with nasal polyps without nasal polyps lms 5 lund-mackay score pt 5 patient.assigned are shown in table iii.
+
+1. there was a significantly higher its concentration in the fungus-detected group compared with crs without fungus detection post-hoc p 5 0.012 and compared with control group post-hoc p 5 0.012.fig.
+
+crs 5 chronic rhinosinusitis iqr 5 interquartile range.
+
+crs 5 chronic rhinosinusitis iqr 5 interquartile range.
+
+when an otu could not be assigned confidently by the taxonomy assigner at the genus rank the lowest common ancestor identified was indicated table iii.relative abundance of aspergillusthe relative abundance of the genus aspergillus being the highest genus detected in our study was com- pared between the groups which demonstrated a signifi- cantly higher mean relative abundance of aspergillus in the fungus-detected group permutation anova p 5 0.0054. the mean relative abundance was 48.55 in the fungus-detected group versus 4.61 in controls post-hoc test p 5 0.021 and versus 12.3 in the crs- without-fungus-detected group post-hoc test p 5 0.021 fig.
+
+however these were not statistically significant between the groups.alpha diversitythere was a significant difference in the shannon's diversity index between the groups permutation anova p 5 0.008. post-hoc tests demonstrated a sig- nificantly lower shannon's index in the fungus-detected group 3.08 compared to the control group 4.11 p 5 0.018 and compared to the crs-without-fungus- detected group 3.75 p 5 0.030 fig.
+
+despite advances in the char- acterization of bacterial communities in crs the study of the fungal microecology or mycobiome in crs patients is lacking.
+
+ethics approval was obtained from the queen elizabeth human ethics committee approval human research ethics commit- tee14tqehlmh222.patients were included in the disease group if they had a diagnosis of crs as per the european position paper on crs epos12 and underwent endoscopic sinus surgery as part of their treatment.
+
+patients were phenotyped as crs with nasal polyps crswnp or crs without nasal polyps crssnp based on the macroscopic presence or absence of polyps accord- ing to epos guidelines.sample collectionendoscopic guarded flocculated microbiome swabs copan italia s.p.a. brescia italy were taken intraoperatively from the middle meatus of patients.
+
+this showed that fungal detection and double densities were the most important regressors relative importance of 38.37 and 43.06. on the other hand the remaining four regressors--nasal polyps lund-mackay score eosinophilia  10 and pres- ence of eosinophilic mucus--were of comparably negligi- ble relative importance 8.92 2.99 3.58 and respectively.discussionthe results of this article demonstrate that its sequencing provided an accurate way of characterizing the sinonasal mycobiome because it showed correlation with traditional fungal detection techniques the highest its amplicon concentration was found in crs patients in whom fungi were detected histologically or on culture as compared to those crs patients without fungus iden- tified and control patients.
+
+perhaps most importantly our results suggest that fungal overgrowth and dysbiosis only occurs in a selected subset of crs patients once again refuting the hypothesis that fungus or fungal dys- biosis is responsible for all forms of chronic rhinosinusitis.our understanding of the role of infection in crs has evolved from a focus on a single pathological organ- ism to a more holistic view of the microbiome of the sinus cavity and how disturbances of this ecological niche can lead to disease.
+
+targeted the 18s rrna gene to analyze the sinonasal mycobiome in crs patients finding that crs patients had a greater abundance of fungus compared with controls with cryptococcus being the most abun- dant organism.5 cleland et al.
+

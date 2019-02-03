@@ -1,0 +1,30 @@
+for example the lung micro- biota has been related to progression of idiopathic pul- monary fibrosis and the gut microbiota to overall survival after allogeneic blood and bone marrow trans- plant additional otu-level studies with survival out- comes have shown associations between the intestinal microbiota and development of atopic dermatitis and allergic rhinitis in children.to address this critical gap in the literature in this paper we propose a test for association between the microbiota and censored survival outcomes mirkat-s account- ing for covariates and potential confounders.
+
+qiao cheng qiao i  iti ci is the event indicator for subject i. we wish to test whether taxonomic profiles z are associated with survival time adjusting for covariates x.the most commonly used model for censored survival times is the cox proportional hazards model due to its flexibility and relative robustness.
+
+set- ting 2 is comparable to setting 1 when the associated cluster is common since in both cases the abundance of common otus is associated with survival times but it lacks setting 1's close phylogenetic relationship between associated otus.in setting 3 the presence or absence of each otu in a cluster was associated with survival time.
+
+we selected an abundant cluster containing 19.7 of all reads and a rare cluster containing 0.9 of all reads to be associated with exponentially distributed survival times through the model -loguias in setting 1 we simulated situations where an abundant cluster containing 19.7 of all reads was associated with the outcome and where a rare cluster containing 0.9 of all reads was associated with the outcome.finally in setting 4 the presence or absence of 40 ran- domly selected otus was associated with the survival time.
+
+when the otu counts of a rare cluster are associated with survival time panel c or when the presence or absence of an abun- dant cluster is associated with survival time panel b the otu effect is small and similar across most individuals.
+
+in particular the marginal analysis has power to detect an association between counts of otus in a cluster and survival times but virtually no power to detect associations between presenceabsence of clustered otus and survival or asso- ciations involving unclustered otus.
+
+however the asso- ciation between overall survival and the microbiota istable 3 analysis of gut microbiome after allogeneic transplantp values from mirkat-s using the weighted kw and unweighted ku unifrac kernels the generalized unifrac kernel with a  0.5 k0.5 and the bray-curtis kernel kbc with outcomes of overall survival and severe at least grade 3 graft-versus-host disease.
+
+accordingly the high significance of mirkat-s using k0.5 may indicate that one of those settings holds either moderately rare clusters of otus are driving the relationship between the microbiota and overall survival or multiple clusters of otus some of which are abundant and some of which are rare are associated with over- all survival.
+
+however without further analysis we cannot determine which otus or clusters are associated with survival times in agvhd patients.discussionwe propose mirkat-s for testing the association between the human microbiota and survival outcomes.
+
+microbiome 2017 517doi 10.1186s40168-017-0239-9mirkat-s a community-level test of association between the microbiota and survival timesanna plantinga1 xiang zhan2 ni zhao3 jun chen4 robert r. jenq5 and michael c. wu12backgroundthe human microbiota or the collection of microorgan- isms that inhabits the human body plays an important role in many areas of health and disease.
+
+mirkat is equivalent to distance-based analysis but has the added advantages of flexible modeling of the relationship between the microbiota and outcome mea- sures natural incorporation of covariates and efficient computation of p values.a limitation of existing community-level analysis approaches is that they cannot accommodate cen- sored survival outcomes.
+
+to formally test the association between the microbiota as encoded in the kernel matrix and censored survival times we use a variance-component score test.
+
+we demonstrate the performance of mirkat-s using real and simulated data summarized by a variety of kernels commonly used in microbial ecology.this work represents the translation of existing methods in genetic studies with survival outcomes to applications in microbiome research.
+
+the first major contribution of this work is to allow survival outcomes in the kernel machine regression framework with kernels that appro- priately encode microbiome data.
+
+our small sample cor- rection method provides proper control of type i error and improved power when using microbiota-appropriate ker- nels whereas the kernel machine regression-based test as implemented for genetic studies has almost no power to detect relationships between microbial taxonomic profiles and survival.
+

@@ -1,0 +1,30 @@
+with the reference strain of b. coprocola dsm 17136 we observed that generally there are more snps in the hc group compared to those in the t2d group at the gene level 12681300 additional file table s4.to select the genes with the most differentiated snp distributions we examined the group bias of each snp site fisher's exact test p  0.05 and identified 65 b. coprocola genes with significant enrichment of biased snps against the 1300 genes as a background hypergeo- metric test q  0.05. phylogenetic trees constructed based on the nucleotide sequences of the 65 genes are shown together with their associated gene snp distribu- tions the top two genes with the most differentiated snp distribution are shown in fig.
+
+the q value with storey and tibshirani's method r package qvalue v1.43.0 was applied for mul- tiple testing correction  to identify species and genes with significantly biased snp distribution.resultsbased on gut metagenomics data from 344 individuals 170 t2d patients and 174 healthy controls we identified a total of 356 bacterial species additional file table s1 additional file figure s3 and their relative abundances.
+
+previous large-scale t2d-related metage- nomics research has shown that the proportion of phylum firmicutes and class clostridia cells in the microbiome is significantly reduced in t2d  and that the gut microbiota of t2d patients tends to have fewer butyrate-producing bacteria such as roseburia intestinalis and faecalibacterium prausnitzii .to the best of our knowledge no prior study has resolved the association between t2d and the gut microbiome at a strain or snp level.
+
+the results are consistent and imply that t2d patients may share a spe- cific set of b. coprocola strains.examination of the snp distributions of the protein- coding genes of the selected 20 gut bacteria revealed that 51579 genes in the 20 microbe species had valid cover- age with sufficient prevalence see section.
+
+the gut microbe species b. coprocola which had a similarrelative abundance between the t2d and hc groups ex- hibited biased snp distribution at both the genome and the gene level.
+
+coprocola was previously reported to have high snp density in the gut microbiota but the correlation between its snps and diseases had not been investigated.
+
+only the species and genes that met these criteria were subjected to sub- sequent snp analyses.snp and intra-sample variation calling and filteringtwo tools bcftools  and varscan2  were applied to identify snps of the metagenome.
+
+the muafs of sites were defined as the mean values of outputs by bcftools and varscan2 which were highly correlated r2  0.997. to examine whether intra-sample variations affect the result snps with a0.8 muaf were selected for a parallel snp analysis.annotation of genes and snpsgene ontology go annotations of each genome were downloaded from uniprot snps were annotated insnpeff with the -eff parameter.
+
+relative abundance did not differ between the groups for 270 of the 356 species 75.8 analyzed mann-whitney test p  0.05 additional file table s2.we selected 20 bacterial species with sufficiently sup- porting ngs reads in a sufficient number of samples see section additional file table s3 for analysis of snp distribution.
+
+we further found that 9.08 of the snps in edu99824.1 and 26.46 of the snps in edv02303.1 werenon-synonymous and non-synonymous snps were differ- entially distributed between the two clusters fisher's exact test p  0.02431 p  1.97e-09 respectively.
+
+interestingly the products of 25 genes 2565 38.46 are annotated to be localized to the cell membrane.conclusionthe present analysis of a chinese metagenomics dataset revealed that the gut microbiota of t2d patients and hc individuals had different snp distributions.
+
+the distributions within these 20 species of the normalized bi-allelic snp densities calculated for genome regions with valid coverage 10x in the t2d and hc groups are reported in additional file figure s2.
+
+the snp density distribution differed significantly be- tween the t2d and hc groups mann-whitney test p  0.0083 q  0.0258 for only one of the 20 species namely bacteroides coprocola reference strain dsm 17136 genbank accession gca000154845.1.
+
+reported considerable differences based on gene deletions in the gene content of strains within the same species in the human gut .
+
+here we utilized a public ngs dataset resource and performed a compara- tive study examining the snps of gut metagenomes in t2d patients relative to hcs.methodst2d and control datasetraw ngs datasets of dna obtained from fecal samples of 170 t2d patients and 174 hcs in china were downloaded from the ncbi sequence read archive total data 1.2 terabases average sample size 3.5 giga- bases accession numbers sra045646 and sra050230.
+

@@ -1,0 +1,30 @@
+u.s.a. 77 5817-5821. lundberg d. s. lebeis s. l. paredes s. h. yourstone s. gehring j. malfatti s. et al.
+
+3624 2707-2720. dudeja s. s. giri r. saini r. suneja-madan p. and kothe e. 2012. interaction of endophytic microbes with legumes.
+
+our results suggest that bacterial endophytic communities of plants growing in land reclamation systems are a subset of the rhizosphere community and selection is driven by plant factors.keywords oil sands land reclamation rhizosphere bacteria endophytic bacteria 16s rrna gene sequencing ngs analysisintroductionsoil microbial communities represent the greatest known reservoir of biological diversity  .
+
+in an attempt to unravel the root associated bacterial microbiome of plants growing in reclamation soils we used 16s rrna high-throughput amplicon sequencing to characterize endophytic and rhizosphere bacterial communities associated with two plant species in one of the athabasca oil sands reclamation sites.illumina miseq of pcr amplicons and sequence analyses revealed that both endophytic and rhizosphere bacterial profiles varied considerably across the different sampling locations.
+
+in fact our results indicate thattable 2  alpha richness and diversity of endophytic and rhizosphere communities associated with barley and sweet clover plants.different letters indicate significant differences tukey hsd p  0.05.figure 6  heatmap based on relative abundance of sweet clover and barley associated endophytic communities.
+
+both yersinia and lentzea were mostly detected in barley endophytic profiles which may suggest these organisms are adapted to survive as part of their lifecycle in barley but encounter a less favorable environment in sweet clover.to the best of our knowledge this study provided the first in-depth analysis of bacterial endophytic profiles of plants growingin oil sands reclamation areas.
+
+44 32-41. mastretta c. barac t. vangronsveld j. newman l. taghavi s. and van der lelie d. 2013. biotechnology and genetic engineering reviews endophytic bacteria and their potential application to improve the phytoremediation of contaminated environments.
+
+31 447-460. bromfield e. s. p. tambong j. t. cloutier s. prevost d. laguerre g. van berkum p. et al.
+
+white new york ny crc press 199-236.kozich j. j. westcott s. l. baxter n. t. highlander s. k. and schloss p. d. 2013. development of a dual-index sequencing strategy and curation pipeline for analyzing amplicon sequence data on the miseq illumina sequencing platform.
+
+44 53-57.ryan r. p. monchy s. cardinale m. taghavi s. crossman l. avisonm.
+
+159 2675-2683. zarraonaindia i. owens s. m. weisenhorn p. west k. hampton-marcell j. lax s. et al.
+
+endophytic bacterial profiles varied within the same plant species at different sampling locations however these differences were driven by factors other than slope positions or cover management.
+
+available phosphorus and potassium were measured using a modified kelowna extraction   and available sulfate by a calcium chloride extraction  .survey of rhizosphere and endophytic bacteria communityplant roots and adhering soil 5 g were placed into an erlenmeyer flask containing 195 ml of phosphate-buffered saline pbs 1.2 g of na2hpo4l-1 0.18 g of nah2po4l-1 8.5 gof nacll-1 buffer and shaken on a rotary shaker 150 rpmat 22c for 25 min.
+
+root nodules from sweet clover plants were removed prior to dna extraction.dna extractiontotal endophytic community dna was extracted from surface disinfected root samples using the powerplantqr pro dna isolation kit mobio laboratories inc. carlsbad ca usa and the rhizosphere soil community dna was extracted using the mobio powersoilqr extraction kit mobio laboratories inc. carlsbad ca usa.
+
+rarefaction curves values and simpson diversity were also generated using mothur2 3 sequences and 13107 unique otus 3 dissimilarity across 120 endophytic and 120 rhizosphere bacterial community samples.the bacterial community consisted of 19 different phyla however for most bacterial communities analyzed only 4 different phyla represented at least 80 of the profile.
+

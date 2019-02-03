@@ -1,0 +1,30 @@
+the bacitracin resistance genes bcra atp binding domain of atp trans- porter bcrb membrane-bound permease of abc transporter and bcrr regulatory protein of the bcrabd operon were identified in st 55 isolate 12 using the specialty gene finder inminimum inhibitory concentration mic via broth microdilution and etest results for macaque chamber e. faecalis isolates as compared to atcc e. faecalis 29212. sequence types and historical recording chamber antimicrobial exposure are indicated for each macaque isolate.doi10.1371journal.pone.0169293.g002 selected antimicrobial resistance mic results and resistance genes identified from whole genome sequence data.a high-level aminoglycoside resistance hlar is indicated by boxesbmic determined by etestcisolate resistance aside from known intrinsic resistance and hlar is indicated by red shading with bold text isolate mic values exceeding atcc 29212 are indicated in blue shading with bold text.dassembled genomes were uploaded to resfinder with a 98 threshold for gene identification and a minimum length of 60. the patric specialty genefinder tool was used to identify bcrabr genes.
+
+four genes encoding resistance to aminoglycosides were identified including str in st 4 aph3'-iii and ant6-ia in st 55 and the bifunctional aminoglycoside-modifying enzyme aac6'-aph2 in st 4 isolate 1. other genes noted among the three isolates included macrolide resistance genes lsaa and ermb tetracycline resistance genes tetm tets and tetl and the chloramphenicol resistance gene cat.
+
+the e. faecalis isolates displayed multi-drug resistant phe- notypes with resistance to ciprofloxacin enrofloxacin trimethoprim-sulfamethoxazole tetracycline chloramphenicol bacitracin and erythromycin as well as high-level aminogly- coside resistance.
+
+mic determi- nation for the 15 e. faecalis isolates confirmed high-level resistance to aminoglycosides as well as resistance to bacitracin chloramphenicol fluoroquinolones erythromycin tetracycline and aerobic bacterial culture results from 45 chambers1of research macaques n  25.1cultures were pooled for animals with multiple recording chambersdoi10.1371journal.pone.0169293.t003trimethoprim-sulfamethoxazole .
+
+mean normalized od570 for pooled data were 2.016 -.0.016 for st 4 isolates1.500 - 0.2942 for st 55 isolates 8.191 - 0.1489 for the st 330 isolate and 1.894 - 0.1833 for the atcc 29212 control strain.doi10.1371journal.pone.0169293.g003presence of high-level aminoglycoside resistance is significant because it abolishes synergistic treatment with the combination of an aminoglycoside and cell-wall inhibitor  .the plasmid-derived bcrabd operon with an upstream regulator bcrr has previously been identified to confer bacitracin resistance in e. faecalis .
+
+aminoglycoside resistance was especially prevalent with 1415 isolates displaying high-level resistance to streptomycin 715 isolates resistant to neomycin and 415 isolates with high-level resistance to gentamicin.
+
+control strains included vancomycin-susceptible atcc e. fae- calis 29212 and vancomycin-resistant atcc e. faecalis 51299.dna extractiondna was extracted from overnight broth cultures of e. faecalis using a commercially available kit qiagen dneasy blood and tissue kit usa.
+
+macaque e. faecalis isolates and positive control atcc e. faecalis 29212 were plated on tryptic soy agar containing 5 sheep blood and incubated at 37c in 5 co2 for 24 h. sterile 1 ml disposable loops were used to inoculateisolates into 5 ml of tryptic soy broth supplemented with 1 glucose wv.
+
+macaque 3 had chamber exposure to dilute enrofloxacin but e. faecalis was not isolated from the chamber of this individual.the ability of the enterococci to form biofilms contributes to the pathogenicity of implant- associated infections as mature biofilms allow e. faecalis to withstand antimicrobial agents at 10-1000-fold greater concentrations than those required to control planktonic bacteria .
+
+sequence types were identified using the enterococcus faecalis mlst website  at the university of oxford .whole genome sequencing antimicrobial resistance genes and virulence factor identificatione.
+
+due to the prevalence of e. faecalis in our colony we further investigated the antimicrobial resistance characteristics of these isolates.
+
+specifically the main two e. faecalis sequence types st 4 and st 55 detected in the macaque population have been previously identified as agents of human infection -.while the majority of chamber infections are subclinical in the macaque colony the potential importance of meningitis cephalic abscess and bacteremiasepticemia to animal health main- tenance necessitates a thorough understanding of the bacterial species colonizing implants their antimicrobial resistance profiles and the appropriate use of antimicrobials when war- ranted.
+
+acquired bacitracin resistance in enterococcus faecalis is mediated by an abc transporter and a novel regulatory protein bcrr.
+
+synergy characterization for enterococcus faecalis strains displaying moderately high-level gentamicin and streptomycin resistance.
+
+molecular characterization of resistance viru- lence and clonality in vancomycin-resistant enterococcus faecium and enterococcus faecalis a hospi- tal-based study in beijing china.
+

@@ -1,0 +1,30 @@
+quantified relative abundances based on qpcr of noszi gene copy numbers relative to 16s gene copy numbers.would need to be conducted to see if mere proximity to an oyster or oyster reef influences the shell microbiome or if once an oyster's shell microbiome is established the microbiome remains after the animal has expired.
+
+of the oyster-related microbiomes the sediment microbiome showed the greatest number of families n  12.5 - 1.7 and the lowest percent of sequences identified 47.7 - 6.7 the oyster digestive gland microbiome showed the lowest number of families n  1.3 - 0.5 and the highest number of sequences identified 73.1 - 24.5 and the oystershell microbiome fell somewhere in the middle n  8.8 - 2.5 59.7 - 7.7 .
+
+for diversity metrics both shell live and shell only treatments described previously were combined to form the shell microbiome for prin- ciple coordinate analysis pcoa shell live and shell only microbiomes were analyzed sepa- rately to determine shell microbiome structure similarity.to conduct phylotype and denitrification gene inference analyses using paprica a custom- ized paprica database was constructed with 5445 complete and 222 draft bacterial genomes and tables.
+
+additional studies com- bining 16s rrna gene studies and metabolic data are necessary to further validate the use of gene-based metabolic inferences as a reliable method for assessing the metabolic potential of microbiomes.conclusionsby using a customized genome and denitrification gene database with the paprica program and 16s ngs data we were able to characterize oyster microbiome structures and infer poten- tial denitrifiers in the oyster digestive gland shell and sediment microbiomes.
+
+our main objectives were to 1 compare the oyster microbiomes' taxonomic classifications determined by paprica and other taxonomic databases 2 examine the structure and diversity of the oyster microbiomes using a taxonomically independent otu analysis and 3 connect the oyster microbiome to rates of denitrification by comparing the relative abundances and composition of denitrification genes in each microbiome to measured n2 fluxes.
+
+like oyster reef sediments the shell microbiome is exposed to increased c and n from biodeposits and excretions which may enhance denitrification.both the gut and shell microbiomes are likely important contributors to oyster denitrifica- tion however no previous studies have identified denitrifying taxa or genes in the oyster microbiome.studies investigating the composition of oyster microbiomes are also limited compared to those regarding sediment microbiomes.
+
+finally this is the first study combining qpcr and n2 flux measurements to validate the use of16s rrna gene based metabolic inference as an alternative to whole genome sequencing in an effort to assess microbiome structure and connect microbiome function to the environment.supporting informations1 fig.
+
+follow-up microbiome studies using 16s ngs included further examination of the oyster gut microbiome as well as microbiomes of oyster gills mantle and hemolymph -.
+
+for comparisons between the oyster shell and sediment microbiomes relative abundances of the digestive gland microbiome and shell live micro- biome were combined to form the oyster microbiome.
+
+copy numbers of noszi genes from oyster digestive gland microbiome samples were below detection level and thus were excluded from the regression analysis.discussionpaprica's taxonomical classification of the oyster digestive gland oyster shell and sediment microbiomes was comparable to other reference databases regarding the pattern of dominant families found within each microbiome .
+
+both shell and sediment microbiomes had relatively similar overall abundances of nir only genes yet nirk only was significantly more abundant in the shell microbiome while nirs only was significantly more abundant in the sediment microbiome.
+
+similarly the inferred noszi gene abundances were also higher in the oyster and shell microbiomes than in the sediment microbiome.
+
+between the shell and sediment microbiomes the shell microbiome had a significantly higher relative abundance of bacteria carrying the nirk only gene unpaired t-test t5  6.48 p  2.6x10-5 while the sediment had a significantly higher abundance of the nirs only unpaired t-test t7  8.75 p  2.6x10-5 and a higher but not significant abundance of nosz only unpaired t-test t7  2.74 p0.05 genes.
+
+however none of the studies to date haveattempted to connect the oyster microbiome structure to its function using ngs of 16s rrna gene amplicons.exploring the linkage between the structure and function of microbiomes presents a finan- cial and logistical challenge.
+
+shell microbiome had moderate diversity and richness chao 1  18025 - 3.2x103 shan-non  5.7 - 0.5 with an average otu abundance of 6264 - 1.5x103 and the oyster digestive glands had the lowest levels of diversity and richness chao 1  1234 - 1.7x102 shan-non  1.2 - 0.1 with an average otu abundance of 525 - 4.1x101.microbiome denitrification gene inferences with the paprica databasethe sediment and shell microbiomes had an inferred average relative abundance of23.8 - 2.8 and 26.1 - 3.0 respectively of denitrification genes .
+

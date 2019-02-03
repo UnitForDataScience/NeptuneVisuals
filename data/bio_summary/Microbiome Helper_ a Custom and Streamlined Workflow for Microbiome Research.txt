@@ -1,0 +1,30 @@
+.caporaso jg kuczynski j stombaugh j bittinger k bushman fd costello ek fierer n pena ag goodrich jk gordon ji huttley ga kelley st knights d koenig je ley re lozupone ca mcdonald d muegge bd pirrung m reeder j sevinsky jr turnbaugh pj walters wa widmann j yatsunenko t zaneveld j knight r. 2010. qiime allows analysis of high-throughput community sequencing data.
+
+currently illumina sequencing is the most prevalent next-generation sequencing ngs technology for microbiome sequencing and several studies have outlined different methods and strategies for processing samples .
+
+.brown j de vos wm distefano ps dore j huttenhower c knight r lawley td raes j turnbaugh p. 2013. translating the human micro- biome.
+
+.abubucker s segata n goll j schubert am izard j cantarel bl rodriguez-mueller b zucker j thiagarajan m henrissat b white o kelley st methe b schloss pd gevers d mitreva m huttenhower c. 2012. metabolic reconstruction for metagenomic data and its applica- tion to the human microbiome.
+
+at one point illumina sequencing had difficulties with low-sequence-complexity libraries like those resulting from 16s rrna gene profiling and a large proportion of phix control dna was spiked in to improve sequencing quality.
+
+2013. development of a dual-index sequencing strategy and curation pipeline for analyzing amplicon sequence data on the miseq illumina sequencing platform.
+
+.mysara m leys n raes j monsieurs p. 2016. iped a highly efficient denoising tool for illumina miseq paired-end 16s rrna gene amplicon sequencing data.
+
+.smith am heisler le mellor j kaper f thompson mj chee m roth fp giaever g nislow c. 2009. quantitative phenotyping via deep barcode sequencing.
+
+.kembel sw jones e kline j northcutt d stenson j womack am bohannan bj brown gz green jl.
+
+.caporaso jg lauber cl walters wa berg-lyons d huntley j fierer n owens sm betley j fraser l bauer m gormley n gilbert ja smith g knight r. 2012. ultra-high-throughput microbial community analysis on the illumina hiseq and miseq platforms.
+
+.nelson mc morrison hg benjamino j grim sl graf j.
+
+methods and protocolsnovel systems biology techniquesmicrobiome helper a custom and streamlined workflow for microbiome researchandre m. comeau gavin m. douglas morgan g. i. langillecgeb-integrated microbiome resource imr and department of pharmacology dalhousie university halifax canadaabstract sequence-based approaches to study microbiomes such as 16s rrna gene sequencing and metagenomics are uncovering associations between microbial taxa and a myriad of factors.
+
+a drawback of these approaches is that the necessary sequencing library preparation and bioinformatic analyses are complicated and con- tinuously changing which can be a barrier for researchers new to the field.
+
+we pres- ent three essential components to conducting a microbiome experiment from start to finish first a simplified and step-by-step custom gene sequencing protocol that requires limited lab equipment is cost-effective and has been thoroughly tested and utilized on various sample types second a series of scripts to integrate various commonly used bioinformatic tools that is available as a standalone installation or as a single downloadable virtual image and third a set of bioinformatic workflows and tutorials to provide step-by-step guidance and education for those new to the microbiome field.
+
+we outline here a streamlined and custom approach to processing samples from detailed sequencing library construction to step-by-step bioinformatic standard operating procedures.
+

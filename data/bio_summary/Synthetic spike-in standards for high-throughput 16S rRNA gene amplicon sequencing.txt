@@ -1,0 +1,30 @@
+note that symbol shape indicates sample type soil sludge1 and sludge2 and symbol colors distinguish unamended and spiked samples across panels c d and e. all data are for primer set 515f806r data for primer set 008f355r are provided in supplementary figures s13 and s14.as observed for sample e above several spike-ins ap- peared to be sensitive to varying read trimming settings figure b which contributed to the reduced correlations between predicted and modeled read counts when more ag- gressive read trimming was applied figure a. therefore we sought to evaluate the presence of otus with low read quality in our environmental 16s-seq datasets.
+
+c base call error rates for read 1 r1 read 2 r2 and merged reads r1r2 following default read quality trimming condition 'qtrim515' see materials and methods.
+
+symbols show data from two technical replicates.slope constraint were variable among the spike-in stan- dards consistent with the variable detection rates observed for sample e figure b. taken together these data ver- ified that quantitative detection of the spike-in standards was reliable validating their further use as quantification standards in 16s-seq.strong linear relationships between spike-in read count and input amount were also observed for aggregated dose-response curves based on multiple spike-in standards with varying input concentrations in a single mixture figure b. the constant relationship between spike-in amount and read count was further evident from the slopes of the negative binomial glm fits relating read count to spike-in amount 1.08 0.04 supplementary table s8.
+
+un- less stated otherwise reads were processed with default read trimming 'qtrim515' and count data generated based on de novo otu clustering using the uparse pipeline at a nominal identity threshold of 97. spike-in standards ac- counted for 16.5 2.9 of total reads in a given library supplementary table s9.as shown in figure a for primer set 515f806r nor- malized read counts for the 100 spike-in mix were highly consistent with normalized read counts in the spiked en- vironmental dna extracts.
+
+we then generated three datasets with varying degrees of quality trimming namely 'noqtrim' no qual- ity trimming 'qtrim515' read trimming by trimmomatic with options slidingwindow515 minlen75 and 'qtrim520' read trimming by trimmomatic with options slidingwindow520 minlen75.
+
+graphics were prepared are provided in the supplementary methods.data availabilityall raw read data have been deposited in the ncbi sequence read archive sra under accession number sra434741 bioproject srp076838.
+
+read quality trimming as expected resulted in lower error rates and substantial variability in error rates was observed de- pending on read direction template and sequenced region supplementary figure s4.
+
+read data were processed with default quality trimming settings 'qtrim515' and count data were gen- erated by tallying reads mapped against the reference se- quences at a global identity threshold of 97 after removal of putative chimera by uchime.we inspected dose-response characteristics of individual spike-ins by plotting read counts after adjustment for un- even sequencing depth by single rarefaction 4600 spike-in reads per library as a function of spike-in amount across the four sb samples.
+
+as shown in figure a for primer set 515f806r mild read processing 'noqtrim' and 'qtrim515' yielded strong correlations between ob- served and predicted read counts with a narrow distribu- tion of pearson's r values among libraries.
+
+a scatter plot of pearson's correlation coefficients of the linear relationship between modeled and observed spike-in read counts across libraries subjected to read processing with varying quality thresholds.
+
+c plot illustrating the effect of read processing on read counts for a spiked environmental microbiota sample.
+
+data represent the percentage of reads removed as a result of read processing as compared to read counts in the 'noqtrim' dataset.
+
+for panels c d and e data represent the mean and standard deviation of three technical replicates.of the performance of otu clustering and also accommo- date emerging algorithms aimed at achieving sub-otu or single-nucleotide level resolution in 16s-seq read data anal- ysis .the observation that certain spike-in displayed compar- atively low sequencing quality also highlighted the need to better understand systematic biases and errors in illumina read data .
+
+the spike-in standards captured a range of read qualities and may hence serve as a useful reference for fine-tuning read processing parameters with the recognition that this will dependentupon the 16s rrna gene region sequenced as well as the sequencing technology used.the spike-in standards can be readily adopted for a range of uses in addition to routine quality control and quan- tification.
+
+the spike-ins represent full-length 16s rrna genes containing artificial variable regions with negligible identity to known nucleotide sequences permitting unambiguous identification of spike-in sequences in 16s-seq read data from any microbiome sample.
+

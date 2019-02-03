@@ -1,0 +1,30 @@
+in addition arcobacter is known to be resistant to a wide array of commonly used antibiotics with varying resistance profiles observed in different species    but the genes that enable antibiotic resistance are mostly unknown  .how to cite this article millar and raghavan 2017 accumulation and expression of multiple antibiotic resistance genes in arcobacter cryaerophilus that thrives in sewage.
+
+accumulation and expression of multiple antibiotic resistance genes in arcobacter cryaerophilus that thrives in sewagejess a. millar and rahul raghavanbiology department portland state university portland or united statessubmitted 30 november 2016accepted 3 april 2017published 25 april 2017corresponding author rahul raghavan doi copyright2017 millar and raghavan open accesssubjects environmental sciences genomics microbiologykeywords arcobacter cryaerophilus sewage multidrug resistanceintroductionover the past few decades based on numerous studies that examined the bacterial composition of wastewater during varying stages of treatment there is growing evidence that sewage is an important hub for horizontal gene transfer hgt of antibiotic resistance genes e.g.
+
+remaining contigs either did not have significant blasthits or mapped to unidentified environmental samples however all contigs were used in downstream analyses detection of antibiotic resistance genes virulence factors etc..identification of antibiotic resistance genes virulence factors transposases and bacteriophage genescontigs were run through metaprodigal  to identify encoded orfs which were annotated by mapping to antibiotic resistance genes virulence factors bacterial transposases and prophages obtained respectively from card patric interpro and phast databases using phmmer with an e-value of at least 1e-10 as the cutoff     .
+
+cryaerophilus 23 were present in a. butzleri with two categories glycylcycline and roxithromycin resistance found only in a. cryaerophilus and six categories bicyclomycin elfamycin isoniazid kanamycin streptomycin and teicoplanin resistance exclusive toa.
+
+cryaerophilus args were of low abundance.signatures of hgt in a. cryaerophilus genomewe compared our draft genome of a. cryaerophilus to the published genome of a. butzleri  a closely related human and animal pathogen that has been studied much more extensively than a. cryaerophilus    .
+
+after conducting genomic binning of the arcobacter contigs utilizing various factors such as coverage depth gc and tetranucleotide frequency  we were able to identify 80 of these contigs as belonging to a. cryaerophilus an emerging human pathogen that is commonly associated with diseases such as bovine reproductive disorders diarrhea and hemorrhagic colitis in cattle and sheep   .presence and expression of multiple args in a. cryaerophilusto better characterize a. cryaerophilus we assembled a near-complete genome from the dna-seq reads .
+
+around 100 eg of rna from each sample was used to prepare directionalmrna-seq libraries using the illumina small rna sample preparation kit and directional mrna-seq sample preparation protocol provided by illumina inc. dna samples were further purified using dneasy kit qiagen and around 5 ug of dna from each sample was used to prepare paired-end dna-seq libraries using the paired-end sample preparation kit illumina.
+
+several putative hgt genes were examined using phylogenetic analysis to validate the hgtector data .phylogenetic analysisnucleotide sequence alignment for all trees was performed using clustal omega   and ambiguously aligned regions were removed using gblocks  .
+
+we identified 140 putative genes belonging to 29 antibiotic resistance categories in a. butzleri and out of the 25 antibiotic resistance categories present ina.
+
+of these 1589 genes from 35 categories were expressed with ''intracellular survival and replication'' 548 35 ''invasion'' 318 20 and ''adhesion'' 229 14 being the top three categories  .our data suggest that untreated sewage contains several genes that potentially promote bacterial antibiotic resistance and virulence and that a. cryaerophilus a potential human pathogen that contains multiple drug resistance and virulence factors is a major component of this sewage system.
+
+a comparison of the two genomes was also conducted using rast  which showed that merely 846 genes with known functions were shared between a. butzleri and a. cryaerophilus .
+
+concomitantly even after using a very conservative threshold we detected 209 9 and 228 10 horizontally acquired genes in a. cryaerophilus and a. butzleri respectively .
+
+butzlerioverlapnotes.a includes partial genes at the ends of contigs.hgt-origin genes were shared between the two genomes indicating that parallel hgt events have molded the genomes of the two arcobacter species.hgt is known to promote arg dissemination between bacteria     hence we compared args present in a. cryaerophilus to those present in a. butzleri in order to identify those that are of possible hgt origin.
+
+all arcobacter gene sequences were downloaded from ncbi and using phmmer arcobacter contigs present in our data were identified with at least 1e-10 e-value as the cutoff.these contigs were extracted and run through the differential coverage binning procedure for metagenomic data as described previously .
+
+each library was assembled into contigs using 17000000 reads and idba-ud   and normalized to the smallest library size 6000 contigs using seqtk  .
+

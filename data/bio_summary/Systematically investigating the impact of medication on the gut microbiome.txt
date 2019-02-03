@@ -1,0 +1,30 @@
+a comprehensive understanding of how therapeutics interact with gut microbes will open up the path for further mechanistic dissection of such interactions and ultimately improve not only our understanding of the gut microbiome but also drug safety and efficacy.addresses1 european molecular biology laboratory genome biology unit heidelberg germany2 european molecular biology laboratory structural and computationalbiology unit heidelberg germanycorresponding author typas athanasios our understanding of the human microbiome has increased dramatically in the past decade.
+
+as many bacterial genera of the human gut are absent of the mouse gut and vice versa  human-microbiota associated mice  or animal sys- tems with more human-like microbiome compositions areoften used in microbiome studies e.g.
+
+evi- dence for this comes from metformin an antidiabetic drug inducing strong microbiome shifts in type ii diabe- tes t2d patients  was shown that fecal transfer from metformin-exposed individuals into germ-free mice improved glucose toler- ance  thus not active in the liver increased drug efficacy microbiome-mediated mechanism behind metformin's antihyperglymic moa.overall the role of medication on our gut microbiome composition is likely to be much larger than previously anticipated.
+
+unfortunately these simpler model systems do not mimic the anaerobic ormicroaerophilic environments of the human gut and therefore many representatives of human microbiome cannot be studied with them.the most prominent and widely accepted model organ- ism in the field is the lab mouse due to availability of inbred and outbred strains genetic tractability the option for germ-free or gnotobiotic husbandry techniques simi- larity to human microbiome composition at least at a phylumfamily level and broad availability of disease models developed over the past decades.
+
+many more human-targeting drugs or non-antibacterial anti- infectives are known to inhibit growth of particular microbes but their mechanistic basis or what is the full extent of such effects whether they are relevant for gut microbes and whether they can occur in vivo in the gut drug concentration microbial communities are all elusive matters that need to be systematically addressed in the future.more challenging to experimentally address is whether reported microbiome effects are part of the drug's primary moa or just a side effect.
+
+drugs can be also modified by gut microbes thereby being activated inactivated or metab- olized to toxic products  are known to be converted by the microbiome  with most well understood examples including beta-glucuro- nidases re-activating the toxicity of the chemotherapeutic irinotecan in the gut  and a specific cytochrome oxidase of eggerthella lenta reducing the potency of the cardiac drug digoxin .
+
+this vast improvement in chartographing the human microbiome has been fueled by advances in metagenomics and associated data analysis pipelines allowing us to go from phylumgenus-level to strain-level views of the microbiome of thousands of individuals world-wide.
+
+for example many psychotro- pic drugs induce weight changes  and a possible contribution to this adverse effect by the gut microbiome has been recently proposed .
+
+more generally gastro- intestinal side effects are common for many drugs and could be partially due to the drug impact on the gut microbiome.
+
+although earlier studies reported specific gut microbiome signa- tures for t2d patients  the signal turned out later to be due to metformin the leading drug against t2d and not the disease itself  subsequent interventional study metformin treatment of naive t2d patients significantly altered the relative abundance of 80 bacterial strains  systematically study the drug-microbiome interface in controlled manner single drugs have to be first moni- tored and other contributing factors other medication health status geographicagegender biases micro- biome diversity of cohort need to be taken into account.
+
+similarly it is hard to currently estimate the influence of gut microbiome diversity in such results.
+
+mouse microbiome resource panel.36.tramontano m andrejev s pruteanu m klu nemann m tramontano m andrejev s pruteanu m klu nemann m nutritional preferences of human gut bacteria reveal their metabolic idiosyncrasies.
+
+available online at sciencedirectsystematically investigating the impact of medication on the gut microbiomelisa maierand athanasios typas2in the recent years there is accumulating evidence for a strong impact of medication on the gut microbiota composition.
+
+here we discuss approaches considerations experimental setups and strategies that can be used to tackle this need but can be also readily transmitted to related questions in the microbiome field.
+
+at the same time associations between microbiome shifts and lifestyle diet and disease markers are increasingly being reported.
+

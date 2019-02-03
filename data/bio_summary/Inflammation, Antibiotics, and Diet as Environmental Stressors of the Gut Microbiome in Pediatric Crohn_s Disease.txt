@@ -1,0 +1,10 @@
+we filtered out low abundance gene pathways with max abundance  0.1 across all samples or present in 0 samples.the correct version should read as followswe filtered out the samples with non-human reads  30000 and bacterial genera with max abundance  1 across all samples or present in 10 of all samples.
+
+the originally published version appears here with typos indicated in italic textwe filtered out the samples with non-human reads  30000 and bacterial genera with max abundance  1 across all samples or present in 0 of all samples.
+
+gene pathway abundance was measured by humann.
+
+gene pathway abundance was measured by humann.
+
+we filtered out low-abundance gene pathways with max abundance  0.1 across all samples or present in 10 samples.the production department apologizes for any confusion.a 2017 elsevier inc.diversity of functionally permissive sequences in the receptor-binding siteof influenza hemagglutininnicholas c. wu jia xie tianqing zheng corwin m. nycholat geramie grande james c. paulson richard a. lerner and ian a. wilsoncorrespondence r.a.l.
+

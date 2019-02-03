@@ -1,0 +1,30 @@
+based on the detailed comparisons among those web-based tools table  it is evident that micro- biomeanalyst offers a unique set of features and functions with regards to comprehensive statistical data analysis and visualization metabolic network visual analysis taxon set enrichment analysis and meta-analysis.limitations and future directionsthe data processing and statistical methods in mdp and sdp modules can be used for analysis and visualization of data for both human and environmental microbiome studies.
+
+microbiomeanalyst contains four modulesthe marker data profiling module offers various options for community profiling comparative anal- ysis and functional prediction based on 16s rrna marker gene data the shotgun data profiling module supports exploratory data analysis functional pro- filing and metabolic network visualization of shot- gun metagenomics or metatranscriptomics data the taxon set enrichment analysis module helps inter- pret taxonomic signatures via enrichment analysis against 300 taxon sets manually curated from litera- ture and public databases finally the projection with public data module allows users to visually explore their data with a public reference data for pattern dis- covery and biological insights.
+
+the key fea- tures of microbiomeanalyst includesupport for a wide array of common as well as advanced methods for taxonomic diversity analysis functional pro- filing visualization and significance testingcomprehensive support for various data filtering and transformation methods coupled with well-established as well as more recent algorithms for differential abundance analysisa powerful fully-featured metabolic network visualiza- tion framework for intuitive exploration of results from functional profilingsupport for meta-analysis with compatible public datasets for context reference and pattern discovery using 3d visual analyticsenrichment analysis based on 300 taxon sets manually collected from literature and public databases.microbiomeanalyst also contains a comprehensive list of frequently asked questions faqs and tutorials to help researchers easily navigate different analysis tasks.
+
+for most researchers their primary challenge in data analysis is how to make sense of the abundance tables or biom files within the con- text of different experimental factors or study conditions.microbiome data analysis can be placed into four gen- eral categories i taxonomic profiling - to characterize community compositions based on methods developed in ecology such as alpha-diversity within-sample diversity or beta-diversity between-sample diversity ii functional profiling - to assign genes into different functional groups i.e.
+
+in addition with the increasing number of public datasets and our growing knowledge about microbiome it is now possible to perform meta-analyses to reveal larger pictures or novel insights be- yond a single study such as using compatible public datasets for contextualizing new experiments  pooling new data with existing cohorts for increased power  or compar- ing microbial signatures with those reported from other studies .to address these gaps as well as to meet new requests aris- ing from current microbiome data analysis we have devel- oped microbiomeanalyst a web-based program to allow clinical and basic scientists to easily perform exploratory analysis on common abundance profiles and taxonomic sig- natures generated from microbiome studies.
+
+it is also used for those comparative analysis methods without a known pref- erence for certain normalization procedures such as uni- variate statistics and linear discriminant analysis effect size lefse.
+
+such a list can be those significant features identified in differen- tial abundance analysis or those exhibiting similar behav- iors based on clustering analysis.
+
+the focus has shifted toward down- stream statistical analysis and functional interpreta- tion.
+
+here we introduce microbiomeanalyst a user- friendly tool that integrates recent progress in statis- tics and visualization techniques coupled with novel knowledge bases to enable comprehensive analysis of common data outputs produced from microbiome studies.
+
+metabolic pathways or biological processes to under- stand their collective functional capacities iii comparative analysis - to identify features that are significantly differ- ent among conditions under study and iv meta-analysis- to integrate user data with public data or knowledge accumulated for improved statistical power or biological understanding.
+
+these unique characteris- tics have made it inappropriate to directly apply methods developed in other omics fields to perform comparative analysis on microbiome data.
+
+for instance the metagenomeseq algorithm integrates cumulative-sum scal- ing css method and a statistical model based on the zero- inflated gaussian zig distribution to improve the power for differential abundance analysis of microbiome data .
+
+in particular the phyloseq package has been developed to provide a unified framework to al- low r users to explore different statistical algorithms formicrobiome data analysis .
+
+there is an urgent demand for user-friendly tools that support these recent approaches for comprehensive statistical analysis of microbiome data.
+
+collec- tively these features consist of comprehensive tool suites for microbiome data analysis.
+

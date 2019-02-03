@@ -1,0 +1,30 @@
+s1 a common marker of dysbiosis 1. thus an expansion of enterobacteriaceae in the gut-associated microbial community is a microbial signature of epithelial dysfunction which has important ramifications for targeting ppar-g-signaling as a potential intervention strategy.materials and methodsbacterial culture conditionsthe 17 human clostridia isolates were kindly provided by k. honda 20 26 and were cultured individually as described previously 10. e. coli strains wild-type e. coli nissle 1917 e. coli nissle 1917 napa narz narg mutant 2 e. coli nissle 1917 cydab mutant e. coli nissle 1917 cydab napa narz narg mutant e. coli jb2 27 e. coli mg1655 e. coli mg1655 cyda mutant and s. typhmurium strains wild-type atcc14028 resistant to nalidixic acid ir715 ir715 inva spib mutant ir715 cyxa mutant or ir715 inva spib cyxa mutant 3 were routinely grown aerobically at 37degc in lb broth bd biosciences or on lb plates.
+
+plasmid pfrc12 was propagated in e. coli dh5a lpir and introduced into a streptomycin resistant e. coli mg1655 strain by conjugation using e. coli s17-1 lpir as a donor strain.
+
+to investigate whether inhibition of ppar-g signaling would support a nitrate respiration-dependent expansion of e. coli without antibiotic treatment mice were mock-treated inoculation with sterile pbs or treated with the ppar-g antagonist gw9662 and then infected with e. coli indicator strains.
+
+to directly test whether butyrate was responsible for inhibiting nitrate respiration of e. coli in littermate control animals mice were treated with streptomycin infected the next day with e. coli indicator strains and inoculated one day later with 123-tributyrylglycerol tributyrin.
+
+single colonies of endogenous coliforms isolated on mcconkey agar from the feces of charles river mice were subjected to species identification using enteropluri test liofilchem italy per the manufacturers recommendations.construction of e. coli mutantsto construct an e. coli nissle 1917 cyda mutant upstream and downstream regions of approximately 0.5kb in length flanking the cyda gene were amplified by pcr and purified using the minielute kit qiagen.
+
+plasmid pyl9 was then transformed into e. coli s17-1 lpir and conjugation performed with e. coli nissle 1917 carrying the temperature-sensitive plasmid psw172 for counter selection 4. conjugation was performed at 30degc and exconjugants in which the suicide plasmid had integrated into the chromosome were recovered on lb plates containing carbenicilin and chloramphenicol.
+
+plasmid pcal61 2 was transformed into the e. coli nissle 1917 cyda mutant strain to introduce a selective marker.to generate an e. coli nissle 1917 cyda napa narg narz mutant e. coil nissle 1917 cyda psw172 served as recipient for sequential conjugations and sucrose selections using conjugational donor strains carrying plasmids psw224 psw225 and psw237 4 respectively.
+
+at day 4 of dss treatment mice were inoculated with 1 x 109 cfu of a 11 mixture of e. coli nissle 1917 and e. coli nissle 1917 cyda mutant or 11 mixture of a s. typhimurium inva spib mutant and a s. typhimurium inva spib cyxa mutant.
+
+increased recovery of a wild-type e. coli strain by comparison with an isogenic derivative deficient for nitrate respiration napa narg narz mutant was observed in mice c57bl6 from jackson infected with a 11 mixture of both strains fig.
+
+supplementing streptomycin-treated mice with the inos inhibitor aminoguanidine hydrochloride ag abrogated the growth advantage conferred upon e. coli by nitrate respiration fig.
+
+s1.next we used e. coli indicator strains to investigate whether silencing ppar-g signaling would increase the bioavailability of nitrate in the colon.
+
+to this end mice were inoculated with a 11 mixture of a nitrate respiration-proficient indicator strain e. coli wild type and an isogenic nitrate respiration-deficient indicator strain napa narg narz mutant.
+
+treatment with the ppar-g agonist rosiglitazone abrogated the fitness advantage conferred to wild- type e. coli by nitrate respiration in streptomycin-treated mice fig.
+
+treatment with gw9662 significantly increased the overall number of e. coli recovered from the colon of mice p  0.05 fig.
+
+1i by driving a nitrate respiration- dependent e. coli expansion as shown by increased recovery of the wild type over a nitrate respiration-deficient mutant p  0.05 fig.
+

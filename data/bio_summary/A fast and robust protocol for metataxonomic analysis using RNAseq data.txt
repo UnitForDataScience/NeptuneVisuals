@@ -1,0 +1,30 @@
+moreover its performance is better than state-of-the-art methods for metataxonomics.additional filesabbreviations16s prokaryotic 16s ribosomal rna gene sequencing 18s fungal 18s ribosomal rna gene sequencing asf altered schaedler flora dnaseq shotgun dna sequencing fdr false discovery ratefpkm fragments per kilobase of exon per million reads mapped a normalized unit for gene expression measurement its internal transcribed spacer lca lowest common ancestor ncbi national center for biotechnology information rnaseq ribosomal depleted shotgun rna sequencing tpr true positive rateacknowledgementsthe authors are grateful to the cchmc division of biomedical informatics for large volume storage and computing resources enabling the conduct of this study.fundingthis work was supported by the national institutes of health 5r01hl119190 to a.p..availability of data and materialssimulated datasets and databases supporting the conclusions of this article are available in the figshare repository project name imsaaproject home page archived version imsa-aoperating system linux programming language python 2.7other requirements imsaa depends on many other software tools.
+
+then we illustrate the performance of the developed protocol on a real rnaseq data derived from mice with a controlled microbiome whose com- positional species are not included in the reference database.simulation experimentsthe simulation conditions were chosen to represent difficult taxonomy classification circumstances high number of species present from multiple kingdoms 30 bacteria 15 fungi and 10 viruses as well as a variable microbial composition high host sequencing percentage 95 leading to low microbiome sequen- cing depth and 1 sequencing error rate.
+
+to make metatranscriptomic data sufficient for metataxonomics new analytical workflows are needed to deal with sparse and taxonomically less informative sequencing data.results we present a new protocol imsaa for accurate taxonomy classification based on metatranscriptome data of any read length that can efficiently and robustly identify bacteria fungi and viruses in the same sample.
+
+megan ce versions are much more conservative al- though still yielding more false positives than the imsaa protocol six and nine by diamond and blastn respectively vs two by imsaa.
+
+to address this issue the imsaa protocol includes the following innovations1 assembles all rnaseq reads thereby reducing the degree of ambiguity 2 ignores ambiguous sequences and 3 uses only high-quality genome assemblies as a reference database.we recommend using imsaa with the oases assem- bler based on its lower fdr than inchworm.
+
+the remaining two gen- era are unrelated to the asf species.we compared the output from imsaa oases to kraken and megan ce megan version 6 table megan blastn used the same custom database as imsaa allowing for a direct comparison of imsaa to megan ce blastn.
+
+the ability of the protocol to classify micro- biome samples containing organisms which are not represented in the reference database is evaluated below see .impact of assemblertwo assemblers capable of de novo metatranscriptome sequence assembly were evaluated for inclusion in the metataxonomics protocol.
+
+the results show the protocol performs similarly to the simulation datasets with controlled gene expression and relative abundance table virus classification performance under these conditions shows fdr of 0.18. thus with highly variable expression the protocol may have some difficulties in detecting viruses.table 2 average taxonomic classification performance by counting schemeatpr and fdr are averaged across all 36 experiments see additional file  table s1 and additional file  table s2 for details statistically significant results highlighted in italicstable 3 average classification performance by metagenome database usedtpr and fdr are averaged across 18 experiments each statistically significant results highlighted in boldreal data analysisaltered schaedler flora asf has long been used as a standardized gut microbiota to colonize germ-free ro- dents.
+
+if the inchworm-based protocol leads to the identification of 50 more organ- isms than oases this may indicate that the sequencing data suffers from low coverage of the microbiome.
+
+metataxonomics tools analyze high-throughput sequencing data primarily from 16s rrna gene sequencing and dnaseq to identify microorganisms and viruses within a complex mixture.
+
+imsaa is available at conclusions the developed protocol addresses the need for taxonomy classification from rnaseq data.previously not utilized i.e.
+
+the reader may refer to additional file survey of metataxonomic tools for further details on existing tools.ribosomal depleted shotgun rna sequencing rnaseq is a high-throughput sequencing tech- nique that enables the analysis of transcriptomic landscapes of the microbiome -.
+
+the new rnaseq-based metataxonomics protocol dubbed imsaa incorporates imsa transcript reads assemblers oases and inch- wormtrinity and a modified imsa counting scheme for taxonomy assignments.
+
+sev- eral assemblers were recently evaluated measuring their performance with metatranscriptome data of these two transcriptome assemblers oases and inch- wormtrinity were chosen to be used in the imsaa protocol.
+
+sequencing depth of 70 million was chosen to reflect our real sequencing data not presented in this work.
+

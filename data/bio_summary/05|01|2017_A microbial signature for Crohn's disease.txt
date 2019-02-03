@@ -1,0 +1,30 @@
+c taxonomic differences were detected between hc and uc and between hc and cd using kruskal-wallis test corrected p values false discovery rate 0.01. cd crohn's disease npmanova non-parametric multivariate analysis of variance.unifrac distances for cd p0.001 for unweighted and p0.004 for weighted unifrac distances for uc a. patients with cd and uc also showed a significant difference in their microbiome npmanova test p0.001 for weighted and unweighted unifrac distances.
+
+while only two genera were enriched in patients with uc compared with one in hc fdr0.03 thereby suggesting that dysbiosis is also greater in cd than in patients with uc at the taxonomic level with a sig- nificant overall alteration in 18 genera versus 3 respectively c. in order to uncover microbial signatures of recur- rence we used the kruskal-wallis test to compare the faecal samples of patients with uc and cd at the time of recurrence with those of patients who remained in remission after 1 year of follow-up.
+
+furthermore in order to discover the predictive value of recurrence in patients with cd and uc using the same test we compared the baseline faecal samples of those who developed recurrence later on n13 for cd and n18 for uc with those who remained in remission after 1 year of follow-up n21 for cd and n15 for uc.
+
+calprotectin was measured in the stool of healthy relatives of cd hrcd and uc hr uc patients and in the stool of patients with cd and uc at baseline tp0 and after 1-year in remission rm and at recurrence rc.
+
+eight bacterial genera showed potential to discriminate between hc unrelated hc and patients with cd and uc in the discovery cohort 34 hc and 33 patients with uc and 34 patients with cd a and in the validation cohort of 2045 faecal samples from hc n1247 cd n339 uc n158 ibs n202 and anorexia n99 b. each blue bar represents the presence of each microbial group for each subject.
+
+this result suggests that the presence of streptococcus in stool samples before surgery is a predictive marker of future recurrence.to evaluate the specificity of the markers to detect cd versus uc we analysed a cohort of 41 patients with uc enrolled at the university hospital vall d'hebron spanish uc cohort.
+
+here we aimed to compare the faecal microbiome of cd with patients having uc and with non-ibd subjects in a longitudinal study.design we analysed a cohort of 2045 non-ibd and ibd faecal samples from four countries spain belgium the uk and germany applied a 16s rrna sequencing approach and analysed a total dataset of 115 million sequences.results in the spanish cohort dysbiosis was found significantly greater in patients with cd than with uc as shown by a more reduced diversity a less stable microbial community and eight microbial groups were proposed as a specific microbial signature for cd.
+
+tested against the whole cohort the signature achieved an overall sensitivity of 80 and a specificity of 94 94 89 and 91 for the detection of cd versus healthy controls patients with anorexia ibs and uc respectively.conclusions although uc and cd share many epidemiologic immunologic therapeutic and clinical features our results showed that they are two distinct subtypes of ibd at the microbiome level.
+
+although many studies have revealed a clear association between an altered microbiome and ibd they have not addressed the differences between cd and uc at the microbiome level nor have proposed a set of biomarkers that is useful for diagnosis based on stool samples.to deeply characterise the microbiome of uc and cd we combined 669 newly collected samples with 1376 previously sequenced ones thus building one of the largest cohorts cover- ing sequence data generated from four countries spain belgium the uk and germany.
+
+inclusion criteria were a diagnosis of uc and cd confirmed by endoscopy and histology in the past clinical remission for at least 3 months--defined by the validated colitis activity index cai for uc and the cd activity index cdai for cdstable maintenance therapy either amino-salicylates azathioprine or no drug and previous history of at least three clinical recurrences in the past 5 years.
+
+unweighted unifrac distances were calculated between different time periods for healthy relatives hrcd relatives of patients with cd hruc relatives of patients with uc and patients with cd and uc 3m 3 months 6m 6 months 9m9 months 12m 12 months.
+
+samples were tested in duplicate and results were calculated from a standard curve and expressed as mgg stool.validation of the microbiomarkersinvestigators interested in testing our algorithm on their own patient cohort and unable to apply by themselves the described method are invited to contact us using our dedicated email cdmicrobiomarkersgmail.com to have their data processed.resultscd more dysbiotic than ucto characterise the microbial community of ibd we enrolled178 participants 40 hc non-related to the patients and 34 patients with cd and 33 patients with uc and 36 and 35 healthy relatives hr of the patients with cd and uc respect- ively in a longitudinal study discovery cohort.
+
+our findings confirm the results of many other studies reporting the lower relative abundance of faecalibacterium in patients with cd and also show that this genus is not missing in patients with uc thus making it a useful marker to discriminate patients with cd from patients with uc.
+
+however fc concentration did not differ between patients with cd and uc either during remission or at recurrence making them useless to discriminate the two disorders.groups of microbes that presented most significant differences between cd and uc and between cd and hc using the kruskal-wallis fdr0.05 test were selected to develop an algo- rithm with the potential to discriminate cd and non-cd a. this algorithm retains samples that do not contain faecalibacterium or peptostreptococcaceaeg anaerostipes and christensenellaceaeg or contain fusobacterium and escherichia but not collinsella and methanobrevibacter.
+
+collinsella which was found mostly in uc cases allowed us to discriminate between uc and cd.
+

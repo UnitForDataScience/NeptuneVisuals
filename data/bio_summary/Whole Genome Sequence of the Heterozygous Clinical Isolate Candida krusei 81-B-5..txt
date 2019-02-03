@@ -1,0 +1,30 @@
+genome reportwhole genome sequence of the heterozygous clinical isolate candida krusei 81-b-5christina a. cuomo1 terrance shea bo yang reeta rao and anja forche1infectious disease and microbiome program and broad technology labs broad institute of massachusetts institute of technology and harvard cambridge massachusetts 02142 worcester polytechnic institute biology and biotechnology massachusetts 01609 and department of biology bowdoin college brunswick maine 04011orcid id c.a.c.abstract candida krusei is a diploid heterozygous yeast that is an opportunistic fungal pathogen in immu- nocompromised patients.
+
+2017. sequences were compared to the c. krusei assembly using blast no similarity was found at 1e25 requiring an alignment length of 100 bases.comparative genomic analysisgene sets of c. krusei c. lusitaniae butler et al.
+
+the version described in this paper is version nhmm01000000.results and discussionstrain sequenced and phenotypic characterizationthe sequenced isolate c. krusei 81-b-5 number 653 in scherer strain collection was collected from a clinical source prior to 1987 schererfigure 2 karyotype analysis of c. krusei strain 81-b- 5 reveals five chromosomal bands.
+
+cerevisiae and h. wingei standards bio-rad were used for chromosome size estimation of c. krusei chromosomes.figure 3 phylogeny of cdr and mdr proteins in c. krusei and related species.
+
+lusitaniae ck c. krusei pp p. pastoris cg c. glabrata sc s. cerevisiae.figure 4 mating type locus of c. krusei.
+
+our results confirm that c. krusei does not filament as compared to c. albicans figure s2.genome sequencing and assemblywe sequenced the genome of c. krusei using pacbio technology to generate long reads.
+
+this information could guide a search for isolates of the opposite mating type to begin to study whether c. krusei is capable of sexual reproduction.acknowledgmentswe thank the broad technology laboratories and broad genomics platform for generating the genome sequence for candida krusei.
+
+here we report a high-quality genome sequence and assembly for the first clinical isolate of c. krusei strain 81-b-5 into 11 scaffolds generated with pacbio sequencing technology.
+
+this genome will serve as a reference for further genetic studies of this pathogen.keywordscandida krusei81-b-5heterozygosity lohmating type locus transporters genome reportcandida krusei is a diploid heterozygous yeast with an estimated chro- mosome number of six whelan and kwon-chung 1988 samaranayake and samaranayake 1994 essayag et al.
+
+krusei is an opportunistic fungal pathogen in immunocompromised patients and unlike other major pathogenic candida species e.g.c.
+
+albicans does not belong to the cug clade ctg is translated as serine rather than leucine muhlhausen and kollmar 2014. pichia kudriavzevii synomyn issatschenkia orientalis is the teleomorphic sex- ual state of c. krusei kurtzman et al.
+
+2012. in recent years human fungal infections caused by c. krusei have increased in the clinic due mainly to its innate resistance to the azolecopyright c 2017 cuomo et al.doi manuscript received may 25 2017 accepted for publication july 4 2017published early online july 7 2017.this is an open-access article distributed under the terms of the creative commons attribution 4.0 international license   which permits unrestricted use distribution and reproduction in any medium provided the original work is properly cited.supplemental material is available online at doi10.1534g3.117.043547-dc1.1corresponding authors broad institute of mit and harvard 7 cambridge centercambridge ma 02142. e-mail  and department of biology bowdoin college 6500 college station brunswick me 04011. e-mail class of antifungal drugs specifically to fluconazole flu orozco et al.
+
+krusei lischewski et al.
+
+2016. moreover there are incidences of resistance to the echinocandin class of antifungals which are the drug of choice to fight c. krusei infections forastiero et al.
+
+2015. therefore identifying the exact mechanisms that underlie drug resistance and in particular azole re- sistance is of utmost importance.the mechanisms causing c. krusei to be innately resistant to fluco- nazole are not well understood.
+

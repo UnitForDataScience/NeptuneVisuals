@@ -1,0 +1,30 @@
+the crawling movement of the epithelial cell along the crypt-villus axis relies on epithelial cell-substratum inter- actions regulated by the expression of integrins   heparan sulfate proteoglycans  growth factor  cytokine  and chemokine receptors  as well as extracellular matrix such as laminins and collagen iv .when the epithelial cell is shed a discontinuity or gap in the villus epithelial monolayer is created which could potentiallycompromise the epithelial barrier.
+
+pathways of cytokines secreted by intestinal epithelial cells t cells t regulatory cells tregs and dendritic cells dc involved in intestinal epithelial barrier integrity are represented by black arrows with dashes representing cytokines which have been identified but specific role in barrier integrity and subsequent regulation of cell shedding not yet defined.cells causing a breach in the epithelial monolayer too large to be sealed with subsequent loss of barrier function  .balance of cell division migration and shedding maintains barrier integrityepithelial migration is intimately coupled to cell shedding as the two processes must be coordinated to maintain a steady number of epithelial cells on the cryptvillus axis.
+
+however despite the obvious importance of epithelial cell shedding to gut health a central question is how the extrusion of epithelial cells is achieved enabling barrier integrity to be maintained in the healthy gut and restored during inflammation remains largely unanswered.
+
+this review will focus on the evidence and decipher how the signaling systems through which the mucosal immune system and microbiota can regulate epithelial cell shedding and how these mechanisms interact to preserve the viability of the epithelium.keywords intestinal epithelial cells shedding apoptosis necroptosis pyroptosisintroductionthe intestinal barrier separates the body from the contents of the intestine.
+
+in health there is a continuous shedding of epithelial cells from villus tip or colonic surface as a result of migration of the epithelial cell up the crypt-villus axis from stem cells at the base of the crypt .
+
+ifng regulates intestinal epithelial cell proliferation and apoptosis through akt-b-catenin pathways and wnt-b-catenin signaling pathways with tnfa activation of the b-catenin signal- ing through p13k-akt and nf-kb signaling .to untangle these complexities computational modeling of cell division and migration as well as the use of in vivo and in vitro models using epithelial cell lines and keratinocytes have been used   -.
+
+in epithelial cells of the zebrafish fin it has been found that the overcrowding and physical stretching of the epithelial cell as it reaches the tip of the fin is sensed by the stretch activated cation selected ion channel piezo-1.
+
+furthermore it has recently been demonstrated that cellular crowding sensed through piezo1 increases epithelial proliferation in the zebrafish larvae to preserve overall epithelial homeostasis .
+
+this mode of action can be induced through microbial ligands binding to naip family members of the inflammasome complex .bacterial entry and epithelial cell sheddingwhen shedding of multiple adjacent apoptotic cells creates gaps that are too large to be plugged by the redistribution of apical junctional proteins as frequently occurs when tnfconcentrations are high the epithelial barrier is breached at the shedding site .
+
+one effector protein secreted by these bacteria is the protein ospe that enhances epithelial cell-matrix interactions through binding of the integrin-linked kinase of the epithelial cell to the cells actin cytoskeleton resulting in increased integrin expression and thereby increased focal adhesions to the extracellular matrix  .
+
+although salmonella can inhibit cell shedding and thereby interfere with the epithelial cell response to bacterial infection it is not the only mechanism of defense by the epithelial cells.
+
+iels could initiate epithelial cell restitution by stimulating epithelial cell migration into the gap created by cell shedding.
+
+we have found that bifidobacterium breve significantly reduce lpsand tnfa-induced epithelial cell shedding through a nod2- dependent mechanism that requires the exopolysaccharide of the bifidobacteria .although there that been innumerable studies of components of the adaptive and innate immune systems regulating mucosal damage only few studies that specifically investigated the regulation of epithelial cell shedding .
+
+inhibition of stat3 blocks the anti- apoptotic activity of il-6  therefore it is possible that inhibi- tion of stat3 may also disrupt the immunosuppressive action ofil-13 and il-10 which in turn modulates tnfa production and thereby epithelial shedding and apoptosis.conclusionimportant advances have been made in our understanding of the maintenance of epithelial integrity in health and disease.
+
+the mechanisms of extrusion of epithelial cells are now being unraveled though it remains unclear what the determinants are of an individual epithelial cell being shed.
+

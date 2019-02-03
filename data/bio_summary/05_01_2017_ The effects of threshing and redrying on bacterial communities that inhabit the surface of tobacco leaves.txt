@@ -1,0 +1,30 @@
+according to the rdp classifier results sample 1 comprised the greatest num- ber of genus types which agrees with the shannon-weiner index results in which sample 1 showed the highest level of bacterial diversity among the four samples.at the genus level the relative abundance of bacillus was 22.38 for sample 1 which increased to 44.85 after threshing and redrying sample 2 and to 51.61 after 1 year of aging sample 3. the relative abundance of another type of firmicutes bacteria lactococcus was 8.60 for sample 1 17.77 for sample 2 and 19.25 for sample 3. the relative abundances of other major genera in sample 1 including sphingomonas 6.51 stenotrophomonas 5.71 pantoea 4.98 and enterobacter 3.22 decreased after threshing and redrying as well as 1 year of aging table s2.
+
+overall 283 otus were obtained from the four samples using uparse with 77 otus from sample 1 72 otus from sample 2 66 otus from sample 3 and 68 otus from sample 4. good's coverage was 99.64 for sam- ple 1 99.48 for sample 2 99.38 for sample 3 and 99.24for sample 4.as shown in table  bacterial diversity was compared between the four samples.
+
+these samples were designated sample 1 unaged raw tls sample 2 unaged redried tls sample 3 aging raw tls and sample 4 aging redried tls.dna extraction and pcr amplificationmicrobial dna was extracted from tl samples using ane.z.n.a.
+
+the rarefac- tion curves approached the saturation plateau indicatingtable 2profile of unique otus at the phylum level for each compared groupgroup 1 comparing samples 1 and 2 group 2 comparing samples 1 and 3 group 4 comparing samples 2 and 4. sample 1 unaged raw tls sample 2 unaged redried tls sample 3 aging raw tls sample 4 aging redried tlsrepresentation of the majority of dominant bacteria on the tls.
+
+in addition the relative abundance of shared otus shifted between sample 1 and sample 3. however 14 unique otus accounted for 1.00 of the reads in sample 2 while 10 unique otus accounted for 1.41 of the reads in sample 4. according to our analysis of the unique otu profiles at the phylum level bacterial diversity appeared to change slightly as evident in sample 2 and sample 4 table .
+
+the average lengths were 428.07 bp for sample 1 429.02 bp for sample 2 434.00 bp for sample 3 and 428.31 bp for sample 4. a total of 2488 sequencing reads from each sample were randomly selected for bacterial community structure analysis.according to previous studies communities should be com- pared using equal numbers of sequence reads schloss et al.
+
+the shannon value decreased after threshing and redrying sample 2 2.52 as well as after 1 year of aging sample 3 2.33. additionally the shannon value changed slightly 2.53 to 2.33 for redried tls after 1 year of aging.
+
+samples 2 and 4 primarily grouped together then clustered with sample 3 and finally clustered with sample 1. based on these results the bacterial community in sample 1 was vastly different from those in samples 2 and 4 implying there were significant changes in the raw tl bacterial community after threshing and redrying as well as aging.
+
+for sample 1 proteobacteria was the most dom- inant phylum 56.15 followed by firmicutes 38.99. for sample 2 firmicutes 76.49 was the most dominant phylum followed by proteobacteria 21.30. similar re- sults were observed for sample 3  16 .92  for proteobacteria vs. 80.43 for firmicutes and sample 4 17.64 for proteobacteria vs. 79.10 for firmicutes.
+
+comparing these four samples there were 11 unique otus in sample 1 2 unique otus in sample 2 6 unique otus in sample 4 and 0 unique otu in sample 3. samples 1 and 2 shared 57 otus which covered 88.34 and 98.23 of the reads in samples 1 and 2 respectively table s1.
+
+otu numbers decreased after 1 year of aging both on raw and redried tls with 66 otus in aging raw tls 77 otus in unaged raw tls 68 otus in aging redried tls and 72 otus in unaged redried tls.
+
+1 unaged raw tls 2 unaged redried tls 3 aging raw tls 4 aging redried tlsreads and sample 4 contains 10 representative genera ac- counting for 93.13 of reads table s2.
+
+1 unaged raw tls 2 unaged redried tls 3 aging raw tls 4 aging redried tlsanalysis sample 1 was significantly different from the other three samples and was characterized by one main cluster.
+
+sample 3 contains 10 representative genera accounting for 93.05 oftable 1 sequence data analysis of four tl samplesa 1 unaged raw tls 2 unaged redried tls 3 aging raw tls 4 aging redried tlsfig.
+
+for example firmicutes changed from 76.49 sample 2 to 79.10 sample 4 andproteobacteria changed from 21.30 sample 2 to 17.64sample 4.the heatmap results further illustrate genus distributions in the four samples fig.
+

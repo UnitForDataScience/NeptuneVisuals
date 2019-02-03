@@ -1,0 +1,30 @@
+our study demonstrates that archaeal diversity in the great ape gut microbiome greatly ex- ceeds that reported previously and provides the basis for further studies on the role of archaea in the gut microbiome.keywords archaea great apes gut microbiome microbial diversity species interactionsrchaea are well-recognized residents of the human gut microbiome  but the prevalence diversity and evolution of human-associated archaea are still largely unknown.
+
+moreover the universal prokaryotic primers typically used to interrogate microbial communities do not fully capture the breadth of archaeal diversity   which haspotentially left vast amounts of archaeal diversity unobserved.januaryfebruary 2017 volume 2 issue 1 e00026-17msphere.asm.org 1fig 1 archaeal diversity in great ape gut microbiomes.
+
+research articleecological and evolutionary scienceunexplored archaeal diversity in the great ape gut microbiomekasie raymanna andrew h. moellera andrew l. goodmanb howard ochmana department of integrative biology university of texas at austin austin texas usaa department of microbial pathogenesis and microbial sciences institute yale university school of medicine new haven connecticut usababstract archaea are habitual residents of the human gut flora but are detected at substantially lower frequencies than bacteria.
+
+using primers designed to target archaeal rrna genes--as opposed to the universal prokaryotic primers employed in the majority of studies--we show that previous surveys and strain isolation procedures have vastly underestimated the extent of archaeal diversity in the gut microbiome even when interrogated at very high sequencing depths.methanobrevibacter smithii has been reported to occur in 64 to 95 of individuals sampled   and several studies suggest that this species is the most abundant methanogen in the human gut and constitutes up to 10 of the anaerobes found in the colon   .
+
+however several bacterium-archaeon associations are maintained in multiple great ape species suggesting evolutionary conservation and providing a starting point for future investigations on the role of archaea in the gut microbiome.here we show that much of the archaeal diversity in the gut microbiome has been overlooked due to the reliance on prescribed sets of universal prokaryotic primers to characterize microbiomes.
+
+we sequenced the v4-v5 region of the 16s rrna gene using the archaeon-specific primer pair 516f915r see table s1 in the supplemental material   to evaluate the diversity of archaea in the gut microbiomes of humans n  10 and four other great ape species pan troglodytes chimpanzee n  14 pan paniscus bonobo n  18 gorilla gorilla gorilla n  20 and pongo pygmaeus orangutan n  8. to more accurately compare diversity between species all individuals from each species were sampled at a single geographic location humans in the united states chimpanzees in tanzania bonobos in the democratic republic of the congo gorillas in cameroon and orang- utans in the united states.
+
+although recent studies have shown that captivity can cause reductions in bacterial diversity of gut microbiomes   the orangutans which were all sampled from a zoo colony averaged the highest level of archaeal diversity of all great apes--even higher than that of gorillas chimpanzees and bonobos which were sampled from wild populations.
+
+members of these orders have previously been detected in the human gut microbiome  but as noted above only methanobrevibac- ter is reported to be a habitual resident.fig 4 archaeon-bacterium associations in great ape gut microbiomes.
+
+because certain archaea in the gut are known to be metabolically dependent on bacteria we searched for associations between 94 archaeal otus and the bacterial genera present in the gut microbiomes of humans and great apes.
+
+due to their sporadic occurrence and relatively low frequencies in gut microbiomes thaumarchaeota could be transitory and not habitual gut constituents.
+
+the fact that 74 of the 97 otus from the orders methano- bacteriales and methanomassiliicoccales were detected in all great ape species and nine of these shared otus are present in the majority of individuals in each species suggests that these lineages occurred in the ancestor of all great apes and have possibly coevolved with their hosts for millions of years as reported for some bacterial lineages .by studying the gut microbiome great apes in a phylogenetic context we can begin to gain insight into how the composition of the gut microbiome has changed over time.
+
+here we evaluate archaeal diversity in gut micro- biomes using an approach that targets virtually all known members of this domain.
+
+these analyses revealed hundreds of gut-associated archaeal lineages indicating that upwards of 90 of the archaeal diversity in the human and great ape gut microbiomes has been over- looked.
+
+additionally these results indicate a progressive reduction in archaeal diver- sity in the human lineage paralleling the decline reported for bacteria.importance our findings show that archaea are a habitual and vital component of human and great ape gut microbiomes but are largely ignored on account of the failure of previous studies to realize their full diversity.
+
+here we report unprece- dented levels of archaeal diversity in great ape gut microbiomes exceeding that de- tected by conventional 16s rrna gene surveys.
+

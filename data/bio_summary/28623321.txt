@@ -1,0 +1,30 @@
+the short reads aligner bowtie2was employed to eliminate human contamination from the metatranscriptome as a preprocessing step for kegg pathway analysis because bowtie2 provides a tool for extracting not concordantly mapped read pairs.the blastx like tool diamondwas employed to align non-human putative mrna reads against keggprokaryote peptide sequences since diamond is able to accomplish the mapping for such large amount of sequences within acceptable time and still achieve good enough results comparable to blastx.overview - mapping statistics and contribution of bacteria archaea protozoa human and virus transcripts to the metatranscriptome.
+
+before mapping human reads were excluded using bowtie2 by extracting reads that did not align concordantly to the human genome.
+
+gingivalis reads were the second most abundant rrna found in periodontitis after human rrna accounting for 6.7 million reads in all samples based on mapping by bwa.
+
+gingivalis all quality controlled rna reads without removing rrna sequences in silico were mapped against the 7348 non redundant 18s rrna genes from silva using bwa.human transcripts were detected by mapping the reads against the human genome ver.
+
+for counting the abundance of reads mapped to a specific genome alignments with map- ping quality score mapq equal to 0 were excluded 20 of mapped reads because they mapped with similar scores to multiple references.
+
+primers and sequencing adaptors were removed from raw sequencing data fol- lowed by clipping the low quality score bases from the reads to achieve cleaned reads with fastq-mcf.
+
+thereafter the rrna reads were eliminated by using sortmerna v2.0.short reads alignment.
+
+the default smith-waterman scoring strategy of bwa-mem was applied in which alignments with smith-waterman score higher than 30 were reported.to avoid a biased counting for the transcript abundance of species the reads mapped with mapq equal to 0 were excluded the same when counting for archaea and virus species.expression of the viruses and archaea was investigated by mapping the cleaned putative mrna reads against all complete virus and archaea genomes available from ncbi using bwa.
+
+human transcripts accounted for 18.8 and 16.6 of putative mrna reads in periodontitis and health respectively.
+
+reads were mapped against the human reference genome ver.
+
+the data provide evidence on the level of gene expression in vivo for the potentially severe impact of the dysbiotic microbiota on human health.dysbiosis of the human microbiome may play a crucial role in a variety of complex diseases e.g.
+
+viruses and archaea accounted for about 0.1 and 0.22 of total putative mrna reads respectively and a protozoan entamoeba gingivalis was highly enriched in periodontitis.
+
+the short reads aligner bwa with the bwa-memalgorithm was utilized to map metatranscriptomic sequences onto dna sequence references.
+
+virulence factors were identified by mapping all putative mrna reads agains the mvirdb database.
+
+in total the fourteen samples comprised about 581 mil- lion raw reads.
+

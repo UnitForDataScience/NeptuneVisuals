@@ -1,0 +1,30 @@
+the probability of a patient being resistant upon admission is 0.58 while the probability of being diseased upon admission is 0.01. the probability of being susceptible upon admission is chosen randomly from a uniform distribution ranging from 0.21 to 0.40.bintz et al.page 13this value will fix the corresponding probability of being colonized upon admission which will range between 0.01 and 0.20. the probability that a colonized patient will be immunocompromised is a global variable.
+
+3. disease state transitions for cdibintz et al.page 26antibiotic risk proportion scenarios.table 1bintz et al.page 27numbering of combination strategies.table 2table 3median colonizations and diseases for employing a single strategybintz et al.page 29table 4description of room and patient variables of the agent based model.bintz et al.page 30table 5description of global variables of the agent based model.bintz et al.page 31table 6global variables for the half-daily probabilities of becoming colonized.
+
+2008. clostridium difficile produces spores that survive for prolonged periods of time in environmental surfaces bartlett 2002. the risk of a susceptible patient becoming colonized by c. difficile depends significantly on the localbintz et al.page 3pathogen contamination level dubberke et al.
+
+in order for the initial hospital population notbintz et al.page 14to have influence on model outputs the simulation runs 200 time steps before recording outputs.appendix odd protocol submodelsthis section describes in detail the subroutines that make up the main process.update time characteristicspatients' time since admission and with one exception time since current disease status are updated.
+
+antibiotics vary on their effects on the gut microbiota based on their spectrum of action sullivan et al.bintz et al.page 22001. broad-spectrum antibiotics kill a wide range of bacteria and therefore they cause a severe damage on the gut microbiota and subsequently pose a greater risk for c. difficile colonization owens et al.
+
+then the probability p of regaining resistance is given bybintz et al.page 17where pmin  0.2 is the minimum probability of regaining resistance and the parameter value 12 determines the steepness of the logistic curve.if they do not regain resistance there is a probability they will receive an additional antibiotic as described above.
+
+moreover the number of patients being discharged varies significantly each time step since it is ultimately based on the patients' varying lengths of stay and times since admission.for each admission class the probability of a patient being resistant upon admission is 0.58 while the probability of being diseased upon admission is 0.01 lanzas et al.
+
+2011.however for each admission class at each time step the probability of being susceptible upon admission is chosen randomly from a uniform distribution ranging from 0.21 to 0.40. this value will fix the corresponding probability of being colonized upon admission which will range between 0.01 and 0.20.each patient is randomly admitted to a vacant room and their time since admission is initialized.
+
+let ora be the odds ratio associated with antibiotic a and let pa be the half daily probability of the patient becoming colonized given they are being treated with antibiotic a. then the relationshipimpliesbintz et al.page 19odds ratio values for the categories high risk and very-high risk are based on the odds ratio values for the individual antibiotics in these categories bignardi 1998 feazel et al.
+
+simulations illustrate the relative efficacy of several strategies for the reduction of nosocomial colonizations and nosocomial diseases.keywordsclostridium difficile control agent-based modelintroductionhealthcare-associated infections hai are a very significant problem in the u.s. health care system exacting a severe cost in both lives and dollars u.s. department of health and human services 2013. one of the most common cause of hai in the u.s. is the enteric pathogen clostridium difficile lessa et al.
+
+this additional level ofbintz et al.page 18cleaning can be incorporated in the model by modifying the contamination status according patient status if cleaning targets rooms with diseased patients or the probability of effective cleaning if additional cleaning is applied to the whole ward.antibiotic assignmentwhen a patient goes on an antibiotic there is a probability that it will be low high or very high-risk with respect to cdi.
+
+the number of diseased patients per 10000 admissions was 176.2 with a standard deviations of 44.7 the number of diseasedbintz et al.page 10patients was sensitive to the scenario chosen for the incubation time and the probability of being immunocompromised.
+
+2008. at that point the patient will be quarantined and treatment will begin as described in section 7.9. diseased patients who are unsuccessfully screened will not be tested againbintz et al.page 16until after the turnaround time for the test and so are assigned a time since the unsuccessful screening.update contamination statusafter a class of patients is admitted the environment is updated.
+
+2015. clostridium difficile is an anaerobic bacterium that produces spores and toxins leffler and lamont 2015. clostridium difficile toxins cause a range of clinical signs including mild to severe or bloody diarrhea and colon perforation and peritonitis leffler and lamont 2015. antibiotic therapy in hospitalized patients is a strong risk factor for c. difficile infections cdi.
+
+gut microbiota protects against c. difficile colonization by competing with c. difficile for nutrients and producing substances that inhibit c. difficile growth.
+
