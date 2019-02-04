@@ -8,9 +8,9 @@ ini_set('display_errors', 1);
  * Time: 1:17 PM
  */
 
-header('Content-type: application/json');
-$data = scandir('./data/bio_summary');
-$keywords = explode(" ", $_GET["keywords"]);
+//header('Content-type: application/json');
+//$data = scandir('./data/bio_summary');
+//$keywords = explode(" ", $_GET["keywords"]);
 $final_data = [];
 //for ($i = 0; $i < sizeof($data); $i++) {
 //    if ($data[$i] != '.' && $data[$i] != '..') {
