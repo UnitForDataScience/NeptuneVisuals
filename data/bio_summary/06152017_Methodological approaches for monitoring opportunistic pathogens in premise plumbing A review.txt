@@ -1,0 +1,20 @@
+Knowledge gaps and research needs are identified.IntroductionPremise plumbing refers to the portion of potable water distribution systems beyond the property line and in buildings NRC 2006 which includes both hot water and cold water lines and devices such as water heaters showers faucets and filters Figure 1.
+
+To gain a full systems perspective recommended sampling sites for Legionella in healthcare facilities have included incoming water mains water softeners holding tanks water heaters at the inflows and outflows faucets and shower heads Figure 1 CDC 2015.
+
+Further systematic comparisons between biofilm and water samples are needed for other OPPPs to justify sampling plans.Sampling of Water--Three consecutive steps are generally employed for sampling plumbing water turning on a tap or valve adjusting the flow rate and collecting a prescribed volume of water using a sterilized container.
+
+Given these considerations a major shortcoming of water microbiological quality monitoring as recommended by U.S. EPA regulations and other common guidelines for distribution system monitoring is the practice of thorough flushing and disinfection of taps prior to sampling which is unlikely to detect water quality problems related to premise plumbing NRC 2006.With regards to hot water systems Western Pennsylvania Guidelines suggest sampling the first-draw i.e.
+
+For instance one study surveying Legionella occurrence in hot water systems in German single-family residences removed all devices from the taps heated taps with a gas burner and discarded the first 5 L water prior to water collection Mathys et al.
+
+drinking water spa water swimming pool water as controls.
+
+Scottish Health Technical Memorandum 04-01 The control of Legionella hygiene 'safe' hot water cold water and drinking water systems p. 1-15.Helbig JH Luck PC Kunz B Bubert A.
+
+Water systems Health technical memorandum 04-01 The control of Legionella hygiene safe hot water cold water and drinking water systems.
+
+1987Table 2Examples of available analytical methods for OPPP detection in environmental samplesTargeting genusSpeciesif anyMethodSample characteristicsDetection or quantification limitNotesRef.Culturing followed by morphological identification and PCRsequencingTap waterWinck et al.2011q-PCRAnthropogenic water and biofilmsPMA-q-PCRCulture suspension water samples from eyewash station cooling tower wastewater treatment plantAssay LOD trophozoites 3 cells for water samples 10 cells for biofilm samplesDetection range 51.5x105 cellsQvarnstrom assays outperforms Riviere assay for Acanthamoeba detection and quantificationChang et al.
+
+2007aq-PCR and NNA-E. coli culturing methodfowleri cells spiked into water and biofilm samplesLOD in water samples 5 cells in 250 ml water for a 66 detection rate and 10 cells for a 100 detection rateDOL in biofilm samples 1 cell for a 66 detection rate and 5cells for a 100 detection rateCulturing method is less sensitive compared to q- PCR methodPuzon et al.
+

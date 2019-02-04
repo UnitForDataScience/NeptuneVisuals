@@ -1,30 +1,20 @@
-otus classified as mitochondria and chloroplast were discarded from the otu table and nonprevalent otus defined as otus not present in at least 5 of our samples were filtered out.sequence processing for its1.
+OTUs classified as mitochondria and chloroplast were discarded from the OTU table and nonprevalent OTUs defined as OTUs not present in at least 5 of our samples were filtered out.Sequence processing for ITS1.
 
-otus classified as plantae or protista were discarded from the otu table and nonprevalent otus defined as otus not present in at least 5 of our samples were filtered from the data set before analysis.
+OTUs classified as Plantae or Protista were discarded from the OTU table and nonprevalent OTUs defined as OTUs not present in at least 5 of our samples were filtered from the data set before analysis.
 
-after removing chimeric and organellar sequences and filtering out operational taxonomic units otus not present in at least 5 of our samples we identified 12892 otus mean of 29910 reads per sample.root bacterial and archaeal communities exhibit drought-mediated composi- tional shifts.
+After removing chimeric and organellar sequences and filtering out operational taxonomic units OTUs not present in at least 5 of our samples we identified 12892 OTUs mean of 29910 reads per sample.Root bacterial and archaeal communities exhibit drought-mediated composi- tional shifts.
 
-to identify the otus driving these taxonomic shifts we as- sessed the impact of water deprivation on the abundances of individual otus.
+To identify the OTUs driving these taxonomic shifts we as- sessed the impact of water deprivation on the abundances of individual OTUs.
 
-nevertheless the drought-responsive otus detected in the endospheric compartment accounted for the highest cumulative relative abundances within their respective communities a pattern that was consistent across all soil types and .among drought-enriched otus actinobacteria was by far the most highly repre- sented phylum in both rhizosphere and endosphere communities .
+Nevertheless the drought-responsive OTUs detected in the endospheric compartment accounted for the highest cumulative relative abundances within their respective communities a pattern that was consistent across all soil types and .Among drought-enriched OTUs Actinobacteria was by far the most highly repre- sented phylum in both rhizosphere and endosphere communities .
 
-finally in the rhizosphere drought led to an enrichment of otus belonging to classes bacilli phylum firmicutes and planctomycetia phylum planctomycetes.the phylum with the most drought-depleted otus across both rhizocompartments was proteobacteria .
+Finally in the rhizosphere drought led to an enrichment of OTUs belonging to classes Bacilli phylum Firmicutes and Planctomycetia phylum Planctomycetes.The phylum with the most drought-depleted OTUs across both rhizocompartments was Proteobacteria .
 
-only the otus belonging to the most represented higher taxa innermost circle are shown while a complete list of all the differentially abundant otus is provided in data set s1.
+Only the OTUs belonging to the most represented higher taxa innermost circle are shown while a complete list of all the differentially abundant OTUs is provided in Data Set S1.
 
-for example most otus classified as orders gca004 chloroflexi and burkhold- eriales betaproteobacteria were detected in the endosphere whereas most otus belong- ing to classes bacilli firmicutes planctomycetia planctomycetes thermoleophilia actino- bacteria and acidimicrobiia actinobacteria were identified in the rhizosphere fig.
+For example most OTUs classified as orders GCA004 Chloroflexi and Burkhold- eriales Betaproteobacteria were detected in the endosphere whereas most OTUs belong- ing to classes Bacilli Firmicutes Planctomycetia Planctomycetes Thermoleophilia Actino- bacteria and Acidimicrobiia Actinobacteria were identified in the rhizosphere Fig.
 
-a closer inspection of the particular shifts in these otus revealed that in most cases otus experienced a stronger drought effect in the o. glaberrima cultivars than in the o. sativa cultivars.
+A closer inspection of the particular shifts in these OTUs revealed that in most cases OTUs experienced a stronger drought effect in the O. glaberrima cultivars than in the O. sativa cultivars.
 
-after discarding nonprevalent otus see materials and methods we identified 1025 otus mean of 38034 reads per sample clustered at a 97 similarity threshold.
-
-even though the primer set we used was optimized for amplification of fungal its1 sequences   otus without an assigned taxonomy represented a significant portion of these profiles 435 otus that accounted for 20 of our data.
-
-in particular several otus belonging to the phyla actinobacteria and chloroflexi as well as classes alphaproteobacteria bacilli and planctomycetia were significantly enriched under drought whereas otus from the phylum acidobacteria and classes deltaproteobacteria clostridia and bacteroidia were generally depleted.
-
-interestingly classes within firmicutes the other main monoderm phylum showed two distinct responses while bacilli otus were overabundant under drought clostridia otus were depleted.
-
-across all these contrasts we detected 1461 drought- responsive otus that spanned 31 phyla 62 classes 87 orders and 111 families  see data set s1 in the supplemental material.
-
-out of these differentially abundant otus 52 were enriched under drought while 48 were depleted.
+After discarding nonprevalent OTUs see Materials and Methods we identified 1025 OTUs mean of 38034 reads per sample clustered at a 97 similarity threshold.
 

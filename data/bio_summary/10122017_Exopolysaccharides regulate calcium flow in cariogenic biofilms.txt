@@ -1,30 +1,20 @@
-in conclusion this study illustrates the role of eps in terms of the calcium tolerance of cariogenic microbiota by determining the ability of eps to control free calcium concentra- tions within the biofilms as a self-regulating mode of action in the pathogenesis of dental caries.distribution and reproduction in any medium provided the original author and source arecredited.data availability statement all relevant data are within the paper.funding the calorimetry work of o.b.
+In conclusion this study illustrates the role of EPS in terms of the calcium tolerance of cariogenic microbiota by determining the ability of EPS to control free calcium concentra- tions within the biofilms as a self-regulating mode of action in the pathogenesis of dental caries.distribution and reproduction in any medium provided the original author and source arecredited.Data Availability Statement All relevant data are within the paper.Funding The calorimetry work of O.B.
 
-the maximum growth rate 1h of the samples was calculated from the heat flow data collected over time using an expo- nential growth rate model  in r software  n  4.exopolysaccharide eps extractionthe clinical isolates of s. mutans ci2 l. rhamnosus ci and c. albicans ci1 that showed the highest resistance to ca2 ions in the calcium toxicity measurements were chosen for eps extraction.
+The maximum growth rate 1h of the samples was calculated from the heat flow data collected over time using an expo- nential growth rate model  in R software  n  4.Exopolysaccharide EPS extractionThe clinical isolates of S. mutans CI2 L. rhamnosus CI and C. albicans CI1 that showed the highest resistance to Ca2 ions in the calcium toxicity measurements were chosen for EPS extraction.
 
-to determine the concentration of the purified eps 7.5 ml of the final solution was lyophilized integrated speedvac system iss110 savant fischer scientific ag reinach swit- zerland and weighed.acid-base titration of epsproton-binding sites present in eps were determined by acid-base titration.
+To determine the concentration of the purified EPS 7.5 ml of the final solution was lyophilized Integrated SpeedVac System ISS110 Savant Fischer Scientific AG Reinach Swit- zerland and weighed.Acid-base titration of EPSProton-binding sites present in EPS were determined by acid-base titration.
 
-three replicate runs for the two bac- teria strains two runs for candida.fourier transform infrared ftir spectroscopyfourier transform infrared spectroscopy ftir was used to determine the presence of specific functional groups including carboxyl sulfate sulfinic acid thiol hydroxyl and amino groups on eps 37. analyses were conducted on a nexus 670 ftir spectrometer thermo-nicolet inc. waltham ma usa equipped with attenuated total reflectance atr and fitted with a multibounce germanium crystal thermo-nicolet inc.. dry eps samples approx.
+Estimated dissociation pH values for various functional groups present in EPS samples obtained by acid-base titration after EPS was pre- cipitated with ethanol or propanol.
 
-estimated dissociation ph values for various functional groups present in eps samples obtained by acid-base titration after eps was pre- cipitated with ethanol or propanol.
+Finally ester bonds were seen in L. rhamnosus CI EPS making a peak at 1223 cm-1.Calcium binding to EPSIsothermal titration calorimetry ITC showed that EPS from bacterial strains could bind cal- cium more efficiently than lactic or citric acid .
 
-finally ester bonds were seen in l. rhamnosus ci eps making a peak at 1223 cm-1.calcium binding to epsisothermal titration calorimetry itc showed that eps from bacterial strains could bind cal- cium more efficiently than lactic or citric acid .
+However EPS production in other strains such as S. mutans clearly benefits from using sucrose as the substrate for EPS production.
 
-however eps production in other strains such as s. mutans clearly benefits from using sucrose as the substrate for eps production.
+Exopolysaccharides EPS provide a matrix scaffold and an abundance of primary binding sites within biofilms.
 
-exopolysaccharides eps provide a matrix scaffold and an abundance of primary binding sites within biofilms.
+The role of EPS in binding calcium in cariogenic bio- films is only partially understood.
 
-the role of eps in binding calcium in cariogenic bio- films is only partially understood.
+Thus the aim of the present study is to investigate the rela- tionship between the calcium dissolution rates and calcium tolerance of caries-associated bacteria and yeast as well as to examine the properties of EPS to quantify its binding affinity for dissolved calcium.
 
-thus the aim of the present study is to investigate the rela- tionship between the calcium dissolution rates and calcium tolerance of caries-associated bacteria and yeast as well as to examine the properties of eps to quantify its binding affinity for dissolved calcium.
-
-finally itc revealed eps to have a higher binding affinity for calcium compared for example to lactic acid.
-
-in progressive stages of caries however up to 30 of the microflora in the lesions consists of mutans strepto- cocci due to their acidogenic and aciduric properties compared to other streptococci .acidic conditions on the demineralizeddecayed tooth surface serve as a selective factor enhancing virulent multispecies biofilm formation that is predominated by s. mutans lacto- bacillus species aciduric strains of actinomyces and oral yeasts .in cariogenic biofilms exopolysaccharides eps provide an abundance of primary binding sites and form the core of the matrix-scaffold .
-
-eps consist of high-molecular weight poly- mers composed of insoluble complex-structured sugar residues such as glucans andor fruc- tans .
-
-furthermore eps increase the bulk and structural porosity of the biofilm providing a highly structurally organized matrix including nutrition channels thereby allowing more fermentable carbohydrate sub- strates to diffuse to the dental hard tissue surface enhancing the development of progredient dental caries.
-
-eps bear many different chemical functional groups such as carboxyl phosphate and amine groups .
+Finally ITC revealed EPS to have a higher binding affinity for calcium compared for example to lactic acid.
 

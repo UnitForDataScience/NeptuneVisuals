@@ -1,30 +1,20 @@
-minimizing contamination and maintaining low0740-0020crown copyright c 2017 published by elsevier ltd. all rights reserved.temperature of vp meat is considered key to reduce the incidence of blown pack spoilage caused by excessive co2 production by sso .beef cuts have been used in many studies of vp red meat spoilage a aeureuraeur but less information is avail- able for the spoilage of vp lamb meat which typically has a higher ph and more adipose tissue .
+The mean total viable counts TVC and lactic acid bacterial viable counts LAB were observed to increase to log 7.5 CFUcm2 and 7 CFUcm2 after 6 and 42 days at 8 oC and -1.2 oC and stayed stable until shelf-life termination after 13 and 124 days respectively.
 
-the main questions that we wanted to answer in the study included i what particular mi- crobial species predominate on vp lamb meat under different temperatures and how variable is this association ii how do initial bacterial populations on meat surfaces derived from exposure to the abattoir environment associate with resultant spoilage and iii determine how growth dynamics of sso vary from the packaging step to product spoilage and how this relates back to the initial bacterial colonisation process in the abattoir.
+The sequence data showed initial communities were patchily distributed and were mainly derived from skin microbiome taxa likely prevalent within the abattoir.
 
-dynamics of bacterial growth of the primary spoilage taxa could be assessed with reasonable accuracy from the sequence data by utilizing the tvc data with clear observations possible between spoilage bacteria growth in relation to progressive product spoilage.material and methodssample collection and storagethe meat cut studied consisted of bone-in hind shank that did not undergo any form of treatment before the experiment.
+The combination of negligible O2 levels elevated CO2 meat pH chill storage and po- tential antimicrobial activities of microbes that grow under VP conditions  synergistically interact to dictate meat stability.
 
-for the tvc data we argue that we havetable 1bacterial diversity on vp lamb at 8 oc and -1.2 oc storage until after spoilage was obtained.a average values were calculated for the diversity indices only for samples that maintained a high-quality vacuum throughout the experiment samples n 2 to 5.b the chao-2 species richness values were calculated using rarefaction with subsamples 10000 reads randomly extracted from each dataset.c spoilage attained in samples below the dashed line with diversity indices indicated in the grey shaded section.fig.
+The storage life for chilled VP lamb meat is shorter than VP beef approximately 12 weeks at 0.3 oC .
 
-eculture-dependent and culture-independent assessment of spoilage community growth on vp lamb meat from packaging to past end of shelf-lifemandeep kaur hongshan shang mark tamplin tom ross john p. bowmantasmanian institute of agriculture school of land and food university of tasmania sandy bay campus hobart tasmania 7005 australiaa r t i c l e i n f o article historyreceived 16 january 2017 received in revised form 13 june 2017accepted 23 june 2017available online 24 june 2017keywords vp lamb shelf-life spoilagemicrobial communitya b s t r a c t packaging and storage temperature are important factors that influence the shelf-life of vacuum packed vp meat.
+The research described here determined the spoilage dynamics of bacteria on VP lamb meat at temperatures that represent the limits of commercially feasible chilling -1 oC and an elevated temperature 8 oC that is indicative of failure of effective refrigeration within a supply chain.
 
-in this study the shelf-life of vp bone-in lamb hind shanks stored at 8 oc and -1.2 oc was determined in parallel to analyses of starting and eventual spoilage bacterial communities via illumina miseq based 16s rrna amplicon sequencing.
+The lamb cut exam- ined here included bone-in hind shank which can be considered to potentially have a more variable shelf-life than bone-less primals due to uneven bone sections potentially causing problems with VPbag sealing as well as potentially greater microbial loads due to being located at the rear of the carcass.
 
-a broad diversity of vp meat associated specific spoilage organisms sso were comparatively abundant in this initial population.
+The main questions that we wanted to answer in the study included i what particular mi- crobial species predominate on VP lamb meat under different temperatures and how variable is this association ii how do initial bacterial populations on meat surfaces derived from exposure to the abattoir environment associate with resultant spoilage and iii determine how growth dynamics of SSO vary from the packaging step to product spoilage and how this relates back to the initial bacterial colonisation process in the abattoir.
 
-overtime meat spoilage communities developed a distinctive and stable microbiome.
+The five samples collected at the point of packaging time 0 were common for both storage temperatures.Microbiological and sensory analysesFor each time point of sampling 5 replicates except at last three time points of storage at -1.2 oC where the numbers of replicates were either 3 or 4 were analysed.
 
-growth curves inferred from the sequence data after taking into account rrna copy number suggested that sso growth rates were consistent with overall growth rates determined from tvc and lab data and are predictable.crown copyright c 2017 published by elsevier ltd. all rights reserved.introductionfood spoilage is considered to be any change in food quality that makes it undesirable for human consumption .
+The colour and odour were observed twice i.e.
 
-spoilage is normally associated with obvious changes in product appearance odour and taste.
-
-since food spoilage is the combination of microbial and biochemical activities  con- trolling microbial growth and maintaining product stability is required to ensure consistent shelf-life and product quality .
-
-combined environmental conditions including temperature ph and gaseous atmosphere dictate the growth rates and yields of specific spoilage organisms sso with temperature being instrumental in determining the length of shelf-life .
-
-whereas high ph favours bacteria with greater spoilage potential to grow and some at relatively higher rate .
-
-speedy spoilage and shorter shelf-life of dark firm dry vp beef is often attributed to its high ph ph 6 favouringthe growth of the members of enterobacteriaceae family  .
-
-the research described here determined the spoilage dynamics of bacteria on vp lamb meat at temperatures that represent the limits of commercially feasible chilling -1 oc and an elevated temperature 8 oc that is indicative of failure of effective refrigeration within a supply chain.
+The meat surface pH was measured using a digital pH meter ORION model 250A.
 

@@ -1,30 +1,20 @@
-recent studies in caenorhabditis elegans indicate that relative to wild-type animals mutations that extend lifespan do indeed extend the period of youthfulness in which animals are motile and resistant to bacterial infection healthspan but also extend the period of decrepitude or frailty where animals are relatively immobile 5 6 other studies in c. elegans that take into account multiple measures of health each normalized to maximal lifespan indicate that mu- tations or conditions that extend lifespan minimally impact or even reduce healthspan depending on the particular measure however all long-lived mutants increased the proportion of time spent in afrail state 1. together these data suggest that a comprehensive assessment of healthspan requires evaluation of survival curves to- gether with additional criteria such as motility tolerance to stressors stem cell resilience and fecundity among others 3. moreover such criteria must be evaluated longitudinally since changes occur in each of these processes at different times and with different rates during normal aging.whereas significant information is available about the factors and mechanisms controlling lifespan much less information is available regarding regulation of healthspan.
+Growing C. elegans on K12DtnaA compared with K12 shifted the Kaplan-Meier survival curve to the left Fig.
 
-2 f-h. quantification of overall healthspan scores indicated that indoles did not extend healthspan thus ahr-1ia3 animals grown on k12 or indole had an identical healthspanfrail span ratio to that seen with ahr-1ia3 mutants or n2 worms grown on k12dtnaa plus vehicle fig.
+1A but was without significant effect on maximal lifespan Fig.
 
-thus indoles provided by commensal bacteria increase healthspan in both young and geriatric mice and indicate that its effects on healthspan are broadly conserved across evolutionarily diverse species from different phyla.discussionyouth is characterized by the capacity to move without impairment to reproduce to tolerate diverse environmental stressors with minimal attendant damage damage tolerance and to regenerate following damage conditions that define healthspan 31-33. as animals age health decreases and frailty increases.
+E. coli OP50 the normal food source for C. elegans which also produces indoles induced a survival curve similar to that seen with K12 Fig.
 
-as a means of quantifying overall healthspan the percentage of animals displaying at least 50 of the maximal response for each parameter at each time point were counted as healthy whereas those falling below this mark were considered frail 1 fig.
+Growth of animals on K12DtnaA supple- mented with 250 mM indole compared with K12DtnaA supplemented with vehicle methanol shifted the Kaplan-Meier survival curve to the right Fig.
 
-when normalized to maximum lifespan these data indicate that indole increased healthspan and concomitantly decreased frail span fig.
+1C but was without significant effect on maximal lifespan Fig.
 
-to identify genes mediating the effects of indoles on healthspan we assessed the effects of indoles on loss-of-function alleles in genes known to mediate conditioning regulate lifespan or modulate stress responses in c. elegans 11 13 21. these included the foxo homolog daf-16 the insulin receptor homolog daf-2 the sirtuin homolog sir2.1 the nrf-2 homolog skn-1 the do- pamine receptor dop-3 the tyrosine hydroxylase cat-2 and ahr-1 22 which encodes an ortholog of the mammalian ahr a xenobiotic receptor that can bind to a variety of small molecules including indole 23. similar to n2 shift in the sur- vival curves was still evident with k12 compared with k12dtnaa in daf-16m26 daf-2e1370 sir2.1ok434 skn-1zu169 dop-3 vs.106 and cat-2e1112 animals fig.
+Notably growth of animals on K12 supplemented with 100 mM indole further shifted the survival curve to the right com- pared with animals grown on K12 alone and marginally extended maximal lifespan suggesting that exogenous indole may provide a therapeutic effect even beyond that of commensal bacteria Fig.
 
-therefore indoles induced an extension of reproductive span possibly owing to an increase in oocyte quality or viability 28. as with other healthspan measures no increase in oocyte production was evident in day 10 ahr-11a3 animals grown on k12 compared with k12dtnaa fig.
+Exposure to indole increased survival of both young 2 d and old 18 d adult worms following thermal stress Fig.
 
-1 and 5. indole-regulated genes required to augment healthspan in c. elegans are generallydistinct from those associated with longevity per se fig.
+Moreover brief preexposure 72 h of young 1 d adults to indole in the absence of K12DtnaA still rendered animals more resistant to heat stress compared with vehicle-treated controls Fig.
 
-2 k and l.while ahr-1 appears necessary for the healthspan measures assessed herein ahr-dependent genes represent only 36 of indole-regulated genes while ahr-independent genes comprise 64 fig.
+However differences were evident after day 15 animals grown with indole exhibited more thrashing motility and pharyngeal pumping and exhibited delayed onset of paralysis compared with animals grown without indole Fig.
 
-fecal transplants or oral probiotic treatments with known indole- producing bacteria offer potential advantages in limiting infirmity associated with dysbiosis 53 54. however durable repopulation with the transplanted species requires an open niche within the in-testinal tract which may necessitate coordinate administration of antibiotics and the procedure is less well tolerated in cases of severe colitis 55. high levels of tryptophan in the diet can likewise aug- ment production of indoles by intestinal bacteria and increasing consumption of tryptophan may represent a viable therapeutic strategy in the context of a microbiota with adequate tnaa activity 56. notably in worms and mice exogenous administration of indole or ica alone can supplement that provided by the micro- biota and further augment healthspan 12 16 fig.
-
-elegans  aging  frailty  aryl hydrocarbon receptor  microbiotaecent advances in health care have contributed to a signifi- cant increase in life expectancy of individuals especially in developed countries which predict an expansion of geriatric populations by as much as 350-fold over the next 40 y 1. how- ever extension of lifespan is often accompanied by increased frailty and attendant increases in global healthcare expenditures are expected to be both massive and unsustainable 2. such data highlight the need to develop means to extend healthspan which is broadly defined as the length of time that an individual remainshealthy and free of age-related infirmities 3 4.healthspan has often been convolved with lifespan and ex- tended healthspan has been associated with slowed onset of normal age-related changes e.g.
-
-the question arises as to whether mechanisms exist that uncouple healthspan from lifespan and extend the former without affecting the latter.commensal microbiota facilitate nutrient metabolism aug- ment integrity of the intestinal epithelial barrier enhance host immunity and limit pathogen colonization 7-9. shifts in com- mensal microbiota occur with aging and may contribute to infir- mity 10. however little is known about the mechanisms by which the microbiota regulates healthspan and frailty.
-
-taken together these data suggest that indole provided eitherexogenously or via k12 extends healthspan of c. elegans.effects of indole on healthspan are conserved in drosophila melanogaster.
-
-taken together survival motility and stressor assays in flies and worms indicate that k12 or indoles augment healthspan across a broad range of evolutionarily diverse species from different phyla.indoles extend healthspan in c. elegans and drosophila via ahr.
-
-2 k and l. thus the effects of indoles on healthspan in c. elegans and drosophila depend upon functional ahr.indole limits age-dependent changes in gene expression and regulates a distinct set of healthspan genes.
+Similar effects were evi- dent when animals were grown on K12 compared with K12DtnaA Fig.
 

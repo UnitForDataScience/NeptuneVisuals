@@ -1,0 +1,20 @@
+DNA samples not digested with the restriction enzyme mix served as a positive control while samples lacking the specific primers for DNA amplification andor DNA template served as negative controls.
+
+By covering 20 of mamma- lian genomes LINE-1 elements are the most abundant transposable elements in the living organisms whose ex- pression is under a tight control of DNA methylation Therefore their methylation status has generally been recognized as a surrogate marker for global DNA methylation status Here we identified that administration of MSD sig- nificantly shifted the patterns of DNA methylation of LINE-1 elements in the mouse proximal jejunum Fig.
+
+The total run time was 17 min.Tissue determination of analytical components of methionine metabolismProximal jejunum samples were flushed with 1X PBS and flash-frozen to further determine levels of methionine S- adenosylmethionine SAM S-adenosylhomocysteine SAH total and free homocysteine and homocystine cyst- eine cystine as well as reduced GSH and oxidized GSSG glutathione using an HPLC-EC method as previ- ously described 0 .Nucleic acids extractionRNA and DNA were extracted simultaneously from flash-frozen tissue using the AllPrep DNARNA extrac- tion kit QIAGEN Valencia CA USA according to the manufacturer's protocol including RNase and DNase di- gestion for DNA and RNA respectively.
+
+Primers were added at a final concentration of 5 mM Additional file Expression of mRNA targets was normalized to the internal control genes Hprt and Gapdh and expressed as fold change according to the DDCt method.Analysis of LINE-1 DNA methylationRecent advances in computational biology have led to classification of LINE-1 elements based on their evolu- tionary age and respective 5'-UTR sequences In this study we assessed the DNA methylation status of seven LINE-1 elements that belong to evolutionary the youngest A-type promoter.
+
+Analysis of the LINE-1 DNA methylation was performed as previously described  Briefly 1 mg of genomic DNA was digested with 1 U of SmaI in 1X CutSmart buffer at 25 degC for 2 h. This was followed by a 16 h digestion at 37 degC in the presence of 1 U of the HpaII HhaI and AciI in 1X CutSmart buffer.
+
+Amplification of the bacterial 16S DNA gene was per- formed from 5 ng of the proximal jejunum gDNA using the following set of primers Fw ACTCCTACGGGAGG CAGCAGT and R TATTACCGCGGCTGCTGGC .Next generation sequencing of gut microbiotaTotal intestinal DNA was extracted using the DNeasy Blood and Tissue Kit QIAGEN.
+
+It has been shown that the loss of DNA methylation oc- curs primarily from the evolutionary younger elements while DNA hypermethylation occur primarily at the oldermore demethylated elements as a result of exposure to ionizing radiation 5 5 2.
+
+While the loss of L1MdAI DNA methylation may be explained by the decreased SAM availability to donate its methyl groups the DNA hypermethylation phenomenon in the older elements would require further investigation.Feeding mice MSD induced significant structural alter- ations in the intestinal wall which exhibited as decreased intestinal mucosal surface length diminished crypt depth and trends towards reduced plasma concentra- tions of the enterocyte metabolic end-product citrulline.
+
+The Ct values were converted into the absolute amount of input DNA using the absolute standard curve method and further normalized towards readings from the respective to each LINE-1 element ORF1 region that lacks CpG sites.
+
+The extracted DNA analyzed by NanoDropTM 2000 ThermoScientific and 1 agarose gel electrophoresis in TBE 0.5 X and sent to Research and Testing Laboratories for 16S ribosomal RNA gene sequencing using the Illumina MiSeq System Research and Testing Laboratories Lubbock TX USA as described before 16S rRNA genes were amplified by universal primers 357wF CCTACGGGNGGCWGCAG and 785R GACTACHVGGGTATCTAATCC using the Qiagen HotStarTaq Master Mix Qiagen.
+

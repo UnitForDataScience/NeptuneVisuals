@@ -1,30 +1,20 @@
-to restrict the analysis to pediatric 18 years patients we removed 2 adult patients from the subsequent analyses leaving 8 patients 3 with gvhd 5 without gvhd.blinded fecal samples from 10 patients who underwent allosct at cin- cinnati children's hospital were obtained as a validation cohort for the bacterial qpcr experiments.
+To restrict the analysis to pediatric 18 years patients we removed 2 adult patients from the subsequent analyses leaving 8 patients 3 with GVHD 5 without GVHD.Blinded fecal samples from 10 patients who underwent alloSCT at Cin- cinnati Children's Hospital were obtained as a validation cohort for the bacterial qPCR experiments.
 
-as with the dallas cohort 3 adult patients were removed from subsequent analyses leaving 7 patients 3 with gvhd 4 without gvhd.sample collection and isolation of fecal gdnafresh fecal samples were collected when patients were admitted for sct and stored at -80degc for further analysis.
+As with the Dallas cohort 3 adult patients were removed from subsequent analyses leaving 7 patients 3 with GVHD 4 without GVHD.Sample Collection and Isolation of Fecal gDNAFresh fecal samples were collected when patients were admitted for SCT and stored at -80degC for further analysis.
 
-as shown in adult sct patients we observed a de- pletion of aic in pediatric sct patients who developed gvhd.
+As shown in adult SCT patients we observed a de- pletion of AIC in pediatric SCT patients who developed GVHD.
 
-patients categorized as having gvhd were those patients with either biopsy-confirmed intestinal gvhd or high-stage 2 to 4 skin or liver gvhd.
+CLEPT and EREC levels decreased up to 10-log fold in some patients preceding GVHD diagnosis whereas in non-GVHD patients levels were relatively stable at most a 2-log fold decrease .
 
-six patients met our inclusion criteria for the non- gvhd cohort absence of any gvhd in any target organ through day 100 after sct and with survival to at least day 100. of note many pediatric sct programs provide transplantation to adult 18 years patients particular- ly if the patient was originally diagnosed with the underlying condition as a child.
+ENTERO levels generally increased in GVHD patients but were more variable in non-GVHD patients.
 
-bacterial group qpcr log10 copiesg feces performed on gdna isolated from fecal specimens collected from patients undergoing allogeneic stem cell transplantation at a children's medical center dallas n  8 and b cincinnati children's hospital n  7. points represent results from individual patients.
+Thus GVHD pa- tients developed a distinct CLEPT P  .00071 linear mixed- effect model likelihood ratio test and EREC P  .078 temporal profile fitted negative slope than non-GVHD patients .Because previous studies in adult SCT patients have used 16S rRNA sequencing  we also analyzed these same fecal samples using 16S rRNA sequencing and found results consistent with prior published reports--namely SCT pa-tients with GVHD have a notable decrease in relative abundance of Clostridiales or AIC bacteria Figure S1.To validate our bacterial qPCR findings in an independent cohort we tested 50 additional fecal samples from 7 pa- tients who underwent alloSCT at Cincinnati Children's Hospital.
 
-clept and erec levels decreased up to 10-log fold in some patients preceding gvhd diagnosis whereas in non-gvhd patients levels were relatively stable at most a 2-log fold decrease .
+Indeed consistent with our original analysis CLEPT and EREC levels declined before the development of GVHD up to 10-log fold decrease in some patients but re- mained more stable at most a 3-log-fold decrease or in some cases increased in non-GVHD patients .
 
-entero levels generally increased in gvhd patients but were more variable in non-gvhd patients.
+For instance clindamycin was used slightly more often and for longer durations in Dallas patients compared with in Cincinnati patients.
 
-thus gvhd pa- tients developed a distinct clept p  .00071 linear mixed- effect model likelihood ratio test and erec p  .078 temporal profile fitted negative slope than non-gvhd patients .because previous studies in adult sct patients have used 16s rrna sequencing  we also analyzed these same fecal samples using 16s rrna sequencing and found results consistent with prior published reports--namely sct pa-tients with gvhd have a notable decrease in relative abundance of clostridiales or aic bacteria figure s1.to validate our bacterial qpcr findings in an independent cohort we tested 50 additional fecal samples from 7 pa- tients who underwent allosct at cincinnati children's hospital.
+In contrast meropenem was used in 86 6 of7 Cincinnati patients but in none of the Dallas patients.
 
-indeed consistent with our original analysis clept and erec levels declined before the development of gvhd up to 10-log fold decrease in some patients but re- mained more stable at most a 3-log-fold decrease or in some cases increased in non-gvhd patients .
-
-for instance clindamycin was used slightly more often and for longer durations in dallas patients compared with in cincinnati patients.
-
-in 1 case clindamycin was used because of a documented vancomycin allergy patient number 5. in contrast meropenem was used in 86 6 of7 cincinnati patients but in none of the dallas patients.
-
-de- tailed patient antibiotic therapy data are shown in figures s2 dallas cohort and s3 cincinnati cohort.because exposure to antibiotics effective against bacteri- al anaerobes specifically piperacillin-tazobactam and imipenem-cilastin has been associated with increased gvhd- related mortality in adult sct patients and mice  we asked whether the cumulative exposure to antianaerobic antibiot- ics was associated with the development of gvhd in pediatric sct patients with the rationale that greater cumulative ex- posure to antianaerobic antibiotics would more effectively deplete anaerobes such as aic.
-
-antibiotic load was calculated up to the day of diagnosis of gvhd or for non-gvhd patients up to day 43 the mean day of gvhd diagnosis for patients who devel- oped gvhd.
-
-although meropenem metronidazole or piperacillintazobactam in- dividual loads were all higher in gvhd patients only clindamycin load was significantly higher  p  .036 mann whitney in gvhd patients.
+De- tailed patient antibiotic therapy data are shown in Figures S2 Dallas cohort and S3 Cincinnati cohort.Because exposure to antibiotics effective against bacteri- al anaerobes specifically piperacillin-tazobactam and imipenem-cilastin has been associated with increased GVHD- related mortality in adult SCT patients and mice  we asked whether the cumulative exposure to antianaerobic antibiot- ics was associated with the development of GVHD in pediatric SCT patients with the rationale that greater cumulative ex- posure to antianaerobic antibiotics would more effectively deplete anaerobes such as AIC.
 

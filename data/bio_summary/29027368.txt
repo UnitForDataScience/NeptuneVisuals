@@ -1,30 +1,20 @@
-4. single-strain biofilms of nisin-induced fluorescent lactobacillus rhamnosus strains after 48 h incubation in aoac medium.a biofilms of cmpg11260 an l. rhamnosus gg strain producing mtagbfp2 phase contrast in grey and fluorescent in blue cmpg11264 an l. rhamnosus gr-1 strain producing mtagbfp2 phase contrast in grey and fluorescent in blue cmpg11269 the cmpg5357 strain producing mtagbfp2 phase contrast in grey and fluorescent in blue cmpg11261 an l. rhamnosus gg strain produc- ing mcherry phase contrast in grey and fluorescent in red cmpg11265 an l. rhamnosus gr-1 strain producing mcherry phase contrast in grey and fluorescent in red and cmpg11270 the cmpg5357 strain producing mcherry phase contrast in grey and fluorescent in red are shown.
+Microbial Biotechnology published by John Wiley  Sons Ltd and Society for Applied Microbiology.This is an open access article under the terms of the License which permits use distribution and reproduction in any medium provided the original work is properly cited.318 I. Spacova et al.1994 Ma et al.
 
-s. typhimurium-gfpmut3 was incubated alone a phase contrast in grey and fluorescent in green in all panels or co-incubated with cmpg11260 producing mtagbfp2 b phase contrast in grey and fluorescent in blue cmpg11261 producing mcherry c phase contrast in grey and fluorescent in red cmpg11264 producing mtagbfp2 d phase con- trast in grey and fluorescent in blue or cmpg11265 producing mcherry e phase contrast in grey and fluorescent in red.
+rhamnosusGR-1 ATCC 5582Wild-type human isolateKankainen et al.2009Wild-type human isolateReid et al.
 
-the recombinant strains that showed the highest count of fluorescent cells and strongest fluo- rescence compared to the wild-type control strains were used to study their behaviour in mixed-species biofilms with salmonella typhimurium-gfpmut3 as well as for interactions with human epithelial cells in vitro.resultsexpression of mtagbfp2 and mcherry in lactobacillus rhamnosus gg and lactobacillus rhamnosus gr-1 results in a fluorescent phenotypethe nice system was implemented for the expression of fluorescent proteins in l. rhamnosus gg and l. rham- nosus gr-1 under the control of the inducible nisa pro- moter as it was previously optimized and successfully used for expression of gfp in l. rhamnosus gg de keersmaecker et al.
+The diluted culture was subsequently induced with commercial nisin from Lactococcus lactis Sigma- Aldrich Diegem Belgium N5764 at a final concentra- tion of 500 ng ml-1 and further incubated for 24 h.Construction of expression vectors and recombinantLactobacillus rhamnosus strainsStandard molecular techniques were used for the con- struction of overexpression plasmids Table 1328 I. Spacova et al.preparation of competent E. coli cells and transformation Sambrook et al.
 
-2007. for example the green fluorescent protein gfp isolated from the aequorea vic- toria jellyfish was the first fluorescent protein to be discov- ered and subsequently cloned in various live bacterial cells chalfie et al.
+Heterologous expression of fluorescent proteins remains one of the most useful and common tools for bacterial imaging Olenych et al.
 
-2011. these developments have signifi- cantly broadened the application potential of fluorescent proteins to study various aspects of bacterial physiology.a wide range of applications for fluorescent proteinexpression are available for common laboratory strains and pathogens including escherichia coli chalfie et al.a 2018 the authors.
+This approach results in higher labelling stability and speci- ficity of live single cells compared with externally added dyes allows prolonged time-lapse imaging and circum- vents the need for exogenous dye internalization.Currently a broad selection of fluorescent proteins with varying fluorescence emission spectra and properties is available due to continuous efforts aimed at expanding the spectral range and improving their brightness and pho- tostability Olenych et al.
 
-although fluorescent pro- tein mrna production for each strain could be demonstrated comparative analysis of mrna levels cor- responding to different fluorescent proteins is compli- cated due to the use of different qrt-pcr primer couples which could affect amplification efficiency.a number of recent studies have shown that fluores-cent proteins other than gfp and its derivatives can indeed be useful for investigating lactobacillus and bifi- dobacterium strains in certain in vivo and in vitro assays russo et al.
+For example the green fluorescent protein GFP isolated from the Aequorea vic- toria jellyfish was the first fluorescent protein to be discov- ered and subsequently cloned in various live bacterial cells Chalfie et al.
 
-typhimurium atcc14028 strain constitutively express- ing the gfpmut3 gene was used combined with the cmpg11260 cmpg11261 cmpg11264 or cmpg11265 fluorescent strains of l. rhamnosus.to prepare fluorescent l. rhamnosus cells for the mixed-species biofilm visualization experiments overnight cultures of cmpg11260 cmpg11261 cmpg11264 orcmpg11265 were first induced with nisin as previously described de keersmaecker et al.
+Improved genetically modified GFP variants in the green GFPuv Crameri et al.
 
-microbial biotechnology published by john wiley  sons ltd and society for applied microbiology.this is an open access article under the terms of the license which permits use distribution and reproduction in any medium provided the original work is properly cited.318 i. spacova et al.1994 ma et al.
+1996 cyan enhanced cyan fluorescent protein ECFP Cubitt et al.
 
-rhamnosusgr-1 atcc 5582wild-type human isolatekankainen et al.2009wild-type human isolatereid et al.
+1995 and yellow mVenus Nagai et al.
 
-the diluted culture was subsequently induced with commercial nisin from lactococcus lactis sigma- aldrich diegem belgium n5764 at a final concentra- tion of 500 ng ml-1 and further incubated for 24 h.construction of expression vectors and recombinantlactobacillus rhamnosus strainsstandard molecular techniques were used for the con- struction of overexpression plasmids table 1328 i. spacova et al.preparation of competent e. coli cells and transformation sambrook et al.
-
-heterologous expression of fluorescent proteins remains one of the most useful and common tools for bacterial imaging olenych et al.
-
-2007 dean and palmer 2014. this approach results in higher labelling stability and speci- ficity of live single cells compared with externally added dyes allows prolonged time-lapse imaging and circum- vents the need for exogenous dye internalization.currently a broad selection of fluorescent proteins with varying fluorescence emission spectra and properties is available due to continuous efforts aimed at expanding the spectral range and improving their brightness and pho- tostability olenych et al.
-
-1996 cyan enhanced cyan fluorescent protein ecfp cubitt et al.
-
-at the same time a new group of fluorescent proteins with other fluorescence emission spectra and efficient maturation at 37degc has been discovered in reef corals and sea anemones includ- ing the monomeric red spectrum protein mcherry shaner et al.
-
-2011 van der veen and abee 2011. however fluorescent labelling of probiotic bacteria known as 'live microorgan- isms that when administered in adequate amounts con- fer a health benefit on the host' hill et al.
+At the same time a new group of fluorescent proteins with other fluorescence emission spectra and efficient maturation at 37degC has been discovered in reef corals and sea anemones includ- ing the monomeric red spectrum protein mCherry Shaner et al.
 

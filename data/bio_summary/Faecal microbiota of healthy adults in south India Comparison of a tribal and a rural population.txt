@@ -1,30 +1,20 @@
-the matched sequences were sorted according to whether others in the group also exhibited similar sequences or whether they were sequences unique to that individual that were not identified in any of the 19 other participants in the metagenomic analysis.
+Bacteria belonging to genus Clostridium were significantly more abundant in the TA group 32.7 10.8-51.1 median interquartile range IQR compared to the RA group 4.8 0.5-10.2.Bacteria belonging to genus Streptococcus were significantly P0.05 less abundant in the TA group 0.4 0.08-1.1 median IQR than in the RA group 2.7 0.3-34.8.
 
-taking each individual participant 96-100 per cent of the sequences could be matched with sequences already available in the ncbi andor silva databases with identities ranging from 83 to 100 per cent.
+TA or RA was the major determinant of the differences for Bifidobacterium Clostridium Lactobacillus Faecalibacterium Prevotella and Streptococcus whereas gender influences predominated for Roseburia and Ruminococcus.Principal component analysis of the distribution of 550 unique taxa showed that the TA and RA group participants clustered according to the community TA or RA with no overlap between the two groups of participants .The most abundant 20 sequences in each individual were identified.
 
-the p test using fast unifrac with 500 permutations showed that clustering was significant p0.01 when sequences present only in ta were compared with sequences present only in ra or shared sequences.discussionthis study on faecal microbiota composition of healthy adults belonging to a tribal and a rural population of south india showed that there were significant differences in the faecal microbiota in these two populations and that they clustered along different patterns.
+A sample distance matrix of genetic distances between the abundant taxa among RA and TA groups showed that only a minority of the TA group taxa coincided with those of the RA group while the majority showed genetic distances of 0.2 or greater .
 
-2006281587-94. pubmed 16937249wang q garrity gm tiedje jm cole jr. naive bayesian classifier for rapid assignment of rrna sequences into the new bacterial taxonomy.
+The P test using Fast UniFrac with 500 permutations showed that clustering was significant P0.01 when sequences present only in TA were compared with sequences present only in RA or shared sequences.DiscussionThis study on faecal microbiota composition of healthy adults belonging to a tribal and a rural population of south India showed that there were significant differences in the faecal microbiota in these two populations and that they clustered along different patterns.
 
-analyses of genetic distance revealed that the microbiota were distinctly different between ta and ra and principal component analysis using 550 distinct taxonomically identifiable sequences revealed a clear separation of microbiota composition in the two groups.
+If one were to use this as a sole measure of eubiosis both the TA group medianratio of 34.0 and the RA group median ratio of 92.9 were strongly tilted in favour of a beneficial gut microbiota when compared to Western adults who have a median Firmicutes to Bacteroidetes ratio of approximately 10.932.
 
-the reads were filtered and trimmed generating flow grams and base called sequences with quality scores following which all high-quality information was output to standard flowgram format sff files one perpicotiterplate region.
+Analyses of genetic distance revealed that the microbiota were distinctly different between TA and RA and principal component analysis using 550 distinct taxonomically identifiable sequences revealed a clear separation of microbiota composition in the two groups.
 
-a search was done to find regions of local similarity between sequences using the silva rrna database  and ncbi blast nucleotide database .
+DNA quantity ranged from 3.2 x 108 to 7.3 x 108median 5.3 x 108 molml in the TA group to 2.9 x 108 to 3.4 x109median 5.8 x 108 molml in the RA group.
 
-pairwise global alignment was done using needleman-wunsch global alignment algorithm to find the optimum alignment including gaps of two sequences along their entire length the alignment was done on selected candidate hits to find the best aligned hit.
+DNA libraries were prepared separately for 10 DNA samples from the TA group and 10 from the RA group using multiplex identifier sequence tags MID- adaptors.
 
-the best hit selected from these steps was used to assign the taxonomic classification.further analysis of the data was made on the basis of the phylogenetic classification of the sequences from each individual.
+The number of reads per individual ranged from 6341 to 18403 in the TA group and from 1705 to 31409 in the RA group this difference was not significant.
 
-trimmed sequences were classified at phylum to genus level using ribosomal databaseproject rdp ii classifier and at species level using rdp ii seqmatch2324.
-
-in addition labelled fasta sequences were aligned using geneious pro version 5.4.6 .
-
-sample distance matrices were constructed based onthe genetic distances between individuals within groups as well as individuals in different groups and shown as heat maps.statistical analysis fast unifrac27 was used to calculate the p test significance and the unifrac significance using 208 of the 210 abundant sequences.
-
-of these sequences 26 were represented in both groups 95 were represented only in group 1 and 87 only in group 2. both p test significance and unifrac significance were calculated using 500 permutations.
-
-a total of 227710 sequences short reads passed the initial quality control and were analyzed.
-
-on an average 1500 distinct microbial sequences were detected per individual of which two-thirds were found in at least one other individual tested in this study while one-third were unique to that individual.
+The presence of galactooligosaccharides in milk and fructooligosaccharides in fruits has been considered to encourage the growth of Bifidobacterium species and the relative scarcity of Actinobacteria in the TA group might be due to the fact that they did not consume milk or milk products and very little fruit.Bacteroidetes which are abundant in many Western populations constituting around 20 per cent of the faecal microbiota5 were comparatively rare in both TA and RA groups.
 

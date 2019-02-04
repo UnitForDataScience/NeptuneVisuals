@@ -1,30 +1,20 @@
-however weimer concluded that ruminal microbiota have a high redundan- cy and resilience that limit the effects of dietary and manage- ment changes on the function and composition of these microbiota.in agreement with many previous studies    the switch to the high-grain diet during the sara challenge and the resulting changes in the conditions and substrate availabil- ities in the rumen reduced the richness and diversity of the microbiota in the rumen fluid and caused the bacterial com- munities in the rumen fluid of the control and sara cows to cluster separately.
+However Weimer concluded that ruminal microbiota have a high redundan- cy and resilience that limit the effects of dietary and manage- ment changes on the function and composition of these microbiota.In agreement with many previous studies    the switch to the high-grain diet during the SARA challenge and the resulting changes in the conditions and substrate availabil- ities in the rumen reduced the richness and diversity of the microbiota in the rumen fluid and caused the bacterial com- munities in the rumen fluid of the control and SARA cows to cluster separately.
 
-microb ecol 2017 74485-495 doi 10.1007s00248-017-0940-zchanges in microbiota in rumen digesta and feces due to a grain-based subacute ruminal acidosis sara challengejan c. plaizier1  shucong li1  anne mette danscher2  hooman derakshani1 pia h. andersen3  ehsan khafipour14received 6 july 2016  accepted 18 january 2017  published online 8 february 2017 springer sciencebusiness media new york 2017abstract the effects of a grain-based subacute ruminal acidosis sara challenge on bacteria in the rumen and feces of lactating dairy cows were determined.
+This study was conducted using high-throughput MiSeq Illumina sequencing to determine the changes in the microbiota in the rumen fluid and feces resulting from a 7-day grain-based SARA challenge on the composition of microbiota in the rumen and feces and to test if these changes in the feces can be used for the diag- nosis of SARA.Materials and MethodsAnimals Feeding and Experimental DesignThe design of this study was described earlier by Danscher et al.
 
-this study was conducted using high-throughput miseq illumina sequencing to determine the changes in the microbiota in the rumen fluid and feces resulting from a 7-day grain-based sara challenge on the composition of microbiota in the rumen and feces and to test if these changes in the feces can be used for the diag- nosis of sara.materials and methodsanimals feeding and experimental designthe design of this study was described earlier by danscher et al.
+Briefly rumen fluid was collected from the ventral sac of the rumen and strained through four layers of sterile cheesecloth.
 
-briefly rumen fluid was collected from the ventral sac of the rumen and strained through four layers of sterile cheesecloth.
+Bacteroidetes and Firmicutes were the most abundant phyla in the rumen fluid and feces and combined they represented 76.9 and 94.4 of the bacterial community in the rumen fluid and the feces re- spectively.
 
-bacteroidetes and firmicutes were the most abundant phyla in the rumen fluid and feces and combined they represented 76.9 and 94.4 of the bacterial community in the rumen fluid and the feces re- spectively.
+The SARA challenge increased the relative abun- dance of Firmicutes and Actinobacteria in the rumen fluid whereas it decreased that of Cyanobacteria and Table 1 Summary statistics of sequences in the rumen fluid of dairy cows under the control and SARA treatments at days 7 and 10 of experimental periods.
 
-the sara challenge increased the relative abun- dance of firmicutes and actinobacteria in the rumen fluid whereas it decreased that of cyanobacteria and table 1 summary statistics of sequences in the rumen fluid of dairy cows under the control and sara treatments at days 7 and 10 of experimental periods.
+described that the SARA induction in- creased the duration of the rumen pH below pH 5.6 from 11 to 295 minday and reduced the average rumen pH and average feces pH from 6.31 to 6.06 and from 6.48 to 6.09 respectively.
 
-described that the sara induction in- creased the duration of the rumen ph below ph 5.6 from 11 to 295 minday and reduced the average rumen ph and average feces ph from 6.31 to 6.06 and from 6.48 to 6.09 respectively.
+The SARA induction also reduced the acetate to propionate ratio in the rumen fluid from 3.23 to 2.52 which is further evidence of the change in the conditions in the rumen and common when the cows are switched from a high-forage to a high-grain diet .
 
-the sara induction also reduced the acetate to propionate ratio in the rumen fluid from 3.23 to 2.52 which is further evidence of the change in the conditions in the rumen and common when the cows are switched from a high-forage to a high-grain diet .
+Hence the changes of these compounds in the rumen digesta may be associated with and signs of chang- es on the composition of rumen microbiota.
 
-hence the changes of these compounds in the rumen digesta may be associated with and signs of chang- es on the composition of rumen microbiota.
+observed that SARA reduced the bacte- rial density in the rumen solids but not in the rumen fluid and feces.
 
-observed that sara reduced the bacte- rial density in the rumen solids but not in the rumen fluid and feces.
-
-rumen fluid samples were collected at day 7 and 10 of experi- mental periods.
-
-extracted dna from the rumen and feces samples was analyzed to assess their bacterial communities using miseq illumina sequencing of the v4 region of the 16s rrna gene.
-
-theelectronic supplementary material the online version of this article doiz contains supplementary material which is available to authorized users.jan c. plaizier ehsan khafipour 1 department of animal science university of manitoba winnipeg mb canada2 department of large animal sciences university of copenhagen copenhagen denmark3 department of clinical sciences swedish university of agricultural sciences uppsala sweden4 department of medical microbiology university of manitoba winnipeg mb canadainduction of sara reduced the richness diversity and stability of bacterial communities and resulted in distinctly different mi- crobiota in the rumen and feces.
-
-bacteroidetes and firmicutes were the most abundant phyla and combined they represented76.9 and 94.4 of the bacterial community in the rumen fluid and the feces respectively.
-
-only the relative abundance of firmicutes in the rumen was increased by the sara challenge.
+Microb Ecol 2017 74485-495 DOI 10.1007s00248-017-0940-zChanges in Microbiota in Rumen Digesta and Feces Due to a Grain-Based Subacute Ruminal Acidosis SARA ChallengeJan C. Plaizier1  Shucong Li1  Anne Mette Danscher2  Hooman Derakshani1 Pia H. Andersen3  Ehsan Khafipour14Received 6 July 2016  Accepted 18 January 2017  Published online 8 February 2017 Springer ScienceBusiness Media New York 2017Abstract The effects of a grain-based subacute ruminal acidosis SARA challenge on bacteria in the rumen and feces of lactating dairy cows were determined.
 

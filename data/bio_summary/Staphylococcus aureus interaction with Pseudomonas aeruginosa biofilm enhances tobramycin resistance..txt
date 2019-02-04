@@ -1,30 +1,20 @@
-using a spa elisa we determined its concentration in the filtrate material to be between 1-14 ugml supplemental table 3. additionally we could effectively remove spa from our filtrates by using igg sepharosecolumns and confirmed this using the spa elisa and gel electrophoresis not shown.the ability of spa to bind to eradicated and persistent isolates from our cohort was determined using a fluorescently labeled spa conjugate spa-fitc in a 96-well plate assay.
+Exo  SpA or from biofilm matrix obtained from a persistent isolate in the presence or absence of 50 ugmL SpA for 2 h. Following 2 h treatment tobramycin was added to a final concentration of 1000 ugmL and biofilm was allowed to grow for an additional 24 h before imaging.
 
-exo  spa or from biofilm matrix obtained from a persistent isolate in the presence or absence of 50 ugml spa for 2 h. following 2 h treatment tobramycin was added to a final concentration of 1000 ugml and biofilm was allowed to grow for an additional 24 h before imaging.
+Additionally we could effectively remove SpA from our filtrates by using IgG sepharosecolumns and confirmed this using the SpA ELISA and gel electrophoresis not shown.The ability of SpA to bind to eradicated and persistent isolates from our cohort was determined using a fluorescently labeled SpA conjugate SpA-FITC in a 96-well plate assay.
 
-6.therefore we looked for a potential interaction between spaand p. aeruginosa.given that spa has been shown to interact with psl we examined how eradicated and persistent isolates behaved in the presence of spa using a psl stain and labeled spa antibody.
+Biofilms were then visualized using confocal microscopy as described above.Extraction of exopolysaccharides from biofilm matrix Exopolysaccharides were extracted from the biofilm matrix of PAO1 PA580 persistent and PA558 eradicated isolates in an adapted version ofmethods previously described.Following EPS extraction biofilms pre-formed by eradicated strains were treated with the crude EPS products with or without the addition of purified SpA.
 
-in the absence of psl components of s. aureus filtrates such as spa were shown to inhibit biofilm formation as measured by crystal violet assays.they attributed this lack of attachment to binding of spa to type 4 pili in p. aeruginosa when psl was not present resulting in decreased attachment.
+In the absence of Psl components of S. aureus filtrates such as SpA were shown to inhibit biofilm formation as measured by crystal violet assays.They attributed this lack of attachment to binding of SpA to type 4 pili in P. aeruginosa when Psl was not present resulting in decreased attachment.
 
-interestingly secreted spa has been associated with biofilm formation and s. aureus aggregation previously.the accumulation of spa in pao1 and persistent isolates may led to a similar phenomenon.the present study has several limitations.
+Interestingly secreted SpA has been associated with biofilm formation and S. aureus aggregation previously.The accumulation of SpA in PAO1 and Persistent isolates may led to a similar phenomenon.The present study has several limitations.
 
-biofilms were then visualized using confocal microscopy as described above.extraction of exopolysaccharides from biofilm matrix exopolysaccharides were extracted from the biofilm matrix of pao1 pa580 persistent and pa558 eradicated isolates in an adapted version ofmethods previously described.following eps extraction biofilms pre-formed by eradicated strains were treated with the crude eps products with or without the addition of purified spa.
+6.Therefore we looked for a potential interaction between SpAand P. aeruginosa.Given that SpA has been shown to interact with Psl we examined how eradicated and persistent isolates behaved in the presence of SpA using a Psl stain and labeled SpA antibody.
 
-the goal of this study was to determine how s. aureus exoproducts affect the establishment and persistence of p. aeruginosa biofilms using a unique collection of new onset p. aeruginosa isolates obtained from cf children before undergoingstandardized antibiotic eradication therapy.by using s. aureus filtrates rather than co-culturing s. aureus and p. aeruginosa in a simple competition assay we have identified an interaction between the secreted s. aureus product staphylococcal protein a spa and psl a p. aeruginosa exopolysaccharide leading to aggregation and increased tobramycin resistance in p. aeruginosa isolates obtained from patients who have failed eradication therapy.resultseffect of s. aureus exoproducts on p. aeruginosa in a biofilm slide chamber modelnew onset p. aeruginosa isolates were collected from 46 patients with cystic fibrosis undergoing standardized antibiotic eradication therapy with inhaled tobramycin.thirty-three p. aeruginosa isolates were obtained from patients who underwent successful eradication therapy eradicated isolates and 13 isolates obtained from patients who failed eradication therapy persistent isolates.
+This difference in observations was likely attributable to the fact that biofilms grown on coverslips rely on initial flagella attachment whereas attachment in crystal violet assays is more dependent on type 4 pili interaction with the surface.The advantage of our current model was the ability to directly visualize the effect of these interactions once a biofilm was established.In our model once biofilm was formed in the continuous presence of S. aureus exoproducts P. aeruginosa formed dense aggregates of bacteria on the surface of coverslips.
 
-one persistent isolate pa565 had very high spa binding but even when this isolate was removed from analysis the mean rfu of spa binding in the persistent group was significantly higher than that of the eradicated group.
+These changes in biofilm structure only occurred after an initial period of biofilm growth by P. aeruginosa and only in wild-type PA01 and persistent isolates.
 
-when grown in a slide chamber for 48 h the presence of spa could reduce the surface coverage of biofilm formed by persistent isolates similar to the effects that were seen with saf fig.
+Psl is a charge-neutral polysaccharide made up of repeating pentasaccharide units and has been well described for its role in cell-cell and cell-substrate attachment adhesion and biofilm formation in vitro.- It has been previously reported that Psl production in P. aeruginosa biofilm is under temporal and spatial regulation.
 
-c eradicated or persistent isolates were grown for 24 h in lb followed by 24 h in lb  - 50 ugml spa or saf with spa removed via igg sepharose column.
-
-isolates were grown in lb alone black bars 10 saf white bars 50 ugml spa dark gray bars or saf with spa removed hashed bars.
-
-average biomass d and  dead e of biofilms as described above in lb black bars lb  tobramycin white bars spa dark gray bars or spa  tobramycin hatched bars.
-
-a-b total volume of psl stain a and spa b in biofilm as determined by voxel counts using volocity software.
-
-eradicated isolates were grown for 24 h in media alone followed by 24 h in the presence of 10 extracted biofilm matrix from an eradicated isolate with 50 ugml spa eradic.
-
-we identified the novel finding that p. aeruginosa psl binding to spa induces bacterial aggregation leading to tobramycin resistance in isolates that have persisted despite tobramycin eradication treatment.secreted factors such as spa have previously been shown to interact with different host factors however it has only recently been described to impact bacterial-bacterial interactions.
+described the role of Psl in the initial attachment of the biofilm monolayers followed by repression of Psl as the biofilm further develops Psl is again expressed specifically in micro-colonies.
 

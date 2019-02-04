@@ -1,30 +1,20 @@
-82699. doi abbreviations ngs next-generation sequencing ct cancer tissue crc colorectal cancer qpcr quantitative polymerase chain reaction otus operational taxonomic units.introductioncolorectal cancer crc is the third most frequent tumor worldwide and is considered as the fourth leading cause of cancer deaths rowland 2009 accounting for about 1.2 million new cases and 600000 deaths per year.
+A dataset of 8595385 high- quality 16S rRNA sequences n  20 patient and control fecal samples n  20 patient and control saliva samples n  10CT samples was obtained.
 
-7 1012-1022. doi aas j. a. paster b. j. stokes l. n. olsen i. and dewhirst f. e. 2005. defining the normal bacterial flora of the oral cavity.
+The results highlighted the presence of different bacterial compositions in particular the fecal samples of CRC patients seemed to be enriched with Bacteroidetes whereas in the fecal samples of healthy controls Firmicutes were one of the major phyla detected though these differences were not statistically significant.
 
-43 5721-5732. doi abdelrhman k. f. a. bacci g. mancusi c. mengoni a. serena f. and ugolini2016.
+The alpha diversity of samples from healthy patients and samples from CRC patients did not report significant differences.
 
-71060. doi akin h. and tozun n. 2014. diet microbiota and colorectal cancer.
+CT samples exhibited a composition of bacterial communities different from that present in stool samples in CRC patients R  0.61 P  0.001.
 
-doi allen-vercoe e. and jobin c. 2014. fusobacterium and enterobacteriaceae important players for crc immunol.
+CT samples showed the highest alpha diversity value compared to other body sites whereas the taxonomic diversity of samples from CRC and healthy patients was similar within the same body site Table S4 and Figure 3.
 
-162 54-61. doi amedei a. munari f. bella c. d. niccolai e. benagiano m. bencini l. et al.
+No significant differences between stool samples of healthy subjects and stool samples of CRC patients were observed Table S5.
 
-9 303-309. doi arthur j. c. perez-chanona e. muhlbauer m. tomkovich s. uronis j. m. fant.
+Moreover neither statistically significant differences were evidenced between saliva samples of healthy and CRC subjects.However results highlighted that F. nucleatum abundance is higher in saliva than stool samples both in healthy subjects p  0.002 and in CRC patients p  0.01.NGS 16S rRNA data were then analyzed taking into account all OTUs assigned to Fusobacterium genus.
 
-science 338 120-123. doi bacci g. bazzicalupo m. benedetti a. and mengoni a.
+Obtained results Figure 6 confirmed qPCR data revealing that stool samples had the lowest number of reads assigned to this genus in contrast with CT samples which showed the highest number of sequences related to Fusobacterium genus.Neither NGS data were underlining differences between healthy controls and CRC patients.Distinct Taxonomic Distribution in Different Body SitesLinear discriminant analysis revealed a distinct microbial distribution in regard of sampling site Figure 7A.
 
-14 426-434. doi belstrom d. 2015. salivary microbiota in oral health and disease in oral infections and general health from molecule to chairside ed a. m. l. pedersen cham springer 115-122.ben-neriah y. and karin m. 2011. inflammation meets cancer with nf-kb as the matchmaker.
+In particular saliva samples were mainly enriched in membersof Actinobacteria Saccharibacteria Proteobacteria Beta class Fusobacteria Firmicutes mainly Negativicutes and Bacilli and Bacteroidetes exclusively represented by members of Flavobacteriia class and Prevotellaceae family whereas stool samples presented a characteristic distribution of Bacteroidetes in particular the Bacteroidia class and Firmicutes mainly Clostridia and Erysipelotrichia classes.
 
-12 715-723. doi bik e. m. long c. d. armitage g. c. loomer p. emerson j. mongodin e. f. et al.
-
-4 962-974. doi bolstad a. i. jensen h. b. and bakken v. 1996. taxonomy biology and periodontal aspects of fusobacterium nucleatum.
-
-20 908-922. doi castellarin.
-
-22 299-306. doi checcucci a. azzarello e. bazzicalupo m. galardini m. lagomarsino a. mancuso s. et al.
-
-7835. doi cole j. r. wang q. fish j. a. chai b. mcgarrell d. m. sun y. et al.
-
-doi dejea c. m. wick e. c. hechenbleikner e. m. white j. r. mark welch j. l. rossetti b. j. et al.
+Despite the increased abundance of members of Fusobacteria in saliva samples Figure 7B biopsy samples were enriched in members of Fusobacterium genus Figure 7C.
 

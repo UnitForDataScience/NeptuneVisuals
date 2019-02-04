@@ -1,30 +1,20 @@
-by day 10 wt mice started to recover and at day 13 had completely recovered from colitis and were healthy while ko mice still displayed severe signs of inflammation interms of weight4476 cancer res 7716 august 15 2017cancer researchhow cx3cr1th gut macrophages control cancer developmentadss 3sacb110100weightcolon length8580day 0710 day 139080wtko707570wt65kodaysdaysil10il20ifngcox21.1x1076.0x1061.0x106800040000ko6000wt400020000150000kowt100000500000ko600000kowtwt4000002000000daysdaysdaysdaystnfail6ilb200000150000100000500000ko200000wt150000100000500000ko3000000kowtwt200000010000000daysdaysdaysd5000040000300002000010000cd45600040002000ly6chi100008000600040002000f480-cd11b8000600040002000cx3cr1-gfp0 wt ko wt ko wt ko0wt ko wt ko wt ko0wt ko wt ko wt ko0 wt ko wt ko wt ko7d10d13d7d10d13d7d10d13d7d10d13dfigure 3.cx3cr1gfpgfp ko mice do not recover from acute colitis after dss treatment.
+By day 10 WT mice started to recover and at day 13 had completely recovered from colitis and were healthy while KO mice still displayed severe signs of inflammation interms of weight4476 Cancer Res 7716 August 15 2017Cancer ResearchHow CX3CR1th Gut Macrophages Control Cancer DevelopmentADSS 3SACB110100WeightColon length8580Day 0710 Day 139080WTKO707570WT65KODaysDaysIL10IL20IFNgCOX21.1x1076.0x1061.0x106800040000KO6000WT400020000150000KOWT100000500000KO600000KOWTWT4000002000000DaysDaysDaysDaysTNFaIL6ILb200000150000100000500000KO200000WT150000100000500000KO3000000KOWTWT200000010000000DaysDaysDaysD5000040000300002000010000CD45600040002000Ly6Chi100008000600040002000F480-CD11b8000600040002000CX3CR1-GFP0 WT KO WT KO WT KO0WT KO WT KO WT KO0WT KO WT KO WT KO0 WT KO WT KO WT KO7d10d13d7d10d13d7d10d13d7d10d13dFigure 3.CX3CR1GFPGFP KO mice do not recover from acute colitis after DSS treatment.
 
-we compared cx3cr1thgfp wt to cx3cr1gfpgfp ko and cx3cr1thgfp-apcmin wt tocx3cr1gfpgfp-apcmin ko.
+We compared CX3CR1thGFP WT to CX3CR1GFPGFP KO and CX3CR1thGFP-APCmin WT toCX3CR1GFPGFP-APCmin KO.
 
-during further cycles the difference between wt and ko became even stronger in particular for the inability of ko mice to regain weight.
+During further cycles the difference between WT and KO became even stronger in particular for the inability of KO mice to regain weight.
 
-disease activity index as described in materials and methods b and polyps' number are higher in ko mice while colon length is shorter c. d immunofluorescence of gfpth macrophages in the polyps of cx3cr1gfpgfp and cx3cr1thgfp mice after treatment with aomdss ko mice have increased infiltration of gfpth macrophages.
+Disease activity index as described in Materials and Methods B and polyps' number are higher in KO mice while colon length is shorter C. D Immunofluorescence of GFPth macrophages in the polyps of CX3CR1GFPGFP and CX3CR1thGFP mice after treatment with AOMDSS KO mice have increased infiltration of GFPth macrophages.
 
-il10 and il20 were higher in ko mice proinflammatory cytokines were still upregulated at day 13 in ko mice while they were decreased in recovering wt mice.
+IL10 and IL20 were higher in KO mice proinflammatory cytokines were still upregulated at day 13 in KO mice while they were decreased in recovering WT mice.
 
-the expression of inflammatory mediators was high at day 10 in both wt and ko mice but at day13 the mrna levels of tnfa il6 il1b and cox2 were decreased in wt mice while ko mice still showed sustained levels in spite of significantly higher production of il10 and il20 fig.
+The expression of inflammatory mediators was high at day 10 in both WT and KO mice but at day13 the mRNA levels of TNFa IL6 IL1b and COX2 were decreased in WT mice while KO mice still showed sustained levels in spite of significantly higher production of IL10 and IL20 Fig.
 
-overall also in a genetic model of gut carcinogenesis magnified by inflammation ko mice are not able to properly control dss- triggered colitis and this condition results in an aberrant inflammatory response and increased tumor formation.the antioxidant enzyme hmox-1 is directly induced by the cx3cl1-cx3cr1 axishmox-1 is an enzyme known to have important antioxidant and anti-inflammatory activities 26-29. we explored the expression of hmox-1 in the colon tissues of wt and ko mice.
+Considering the lower levels of HMOX-1 in KO mice we tested the in vitro phagocytic ability of macrophages from WT and KO mice.
 
-considering the lower levels of hmox-1 in ko mice we tested the in vitro phagocytic ability of macrophages from wt and ko mice.
+At day 0 almost no differences were detectable between WT and KO on the contrary at sacrifice three genera- tions were markedly different between KO and WT samples Akkermansia Lachnospira and Bacteroides.
 
-at day 0 almost no differences were detectable between wt and ko on the contrary at sacrifice three genera- tions were markedly different between ko and wt samples akkermansia lachnospira and bacteroides.
+6B right while it was identically represented at day 0 in untreated WT and KO mice.To test whether the intestinal microbiota can influence the microenvironment and has an impact on the CAC model we cohoused WT and KO mice.
 
-6b right while it was identically represented at day 0 in untreated wt and ko mice.to test whether the intestinal microbiota can influence the microenvironment and has an impact on the cac model we cohoused wt and ko mice.
-
-strikingly treatment with copp was able to switch off inflamma- tion also in ko mice compared with vehicle-treated mice disease index scores were close to 0 and ko mice showed a recovery in weight similar to that of wt mice fig.
-
-d mrna levels of pro- and anti-inflammatory cytokines in the colonic mucosa of cohoused mice were similar in wt and ko mice but hmox-1 was still lower in ko mice.
-
-the phagocytic ability of ko macrophages was also impaired compared with cx3cr1-expressing cells of wt animals in line with a previous report 51. furthermore we observed a profound alteration of the epithelial barrier in ko mice with a marked downregulation of the tight junction marker zo-1.
-
-more- over being the mucus the native habitat of many species of bacteria its alteration results also in a dysregulation of the total microbiome composition 56 57. therefore the dysregulation observed in ko mice may be the consequence of their inability to produce sufficient amounts of hmox-1 and to properly regulate the commensal microbiome and intestinal inflammation.we analyzed whether the microbiome of wt mice was able to positively influence disease behavior of cx3cr1 ko mice.
-
-the results obtained with the cohousing experiment clearly indicated that the mixed composition of wt and ko microbiome had a positive effect in limiting tumor development and all the histo- logic and inflammatory parameters were drastically ameliorated in ko mice.
+Strikingly treatment with coPP was able to switch off inflamma- tion also in KO mice compared with vehicle-treated mice disease index scores were close to 0 and KO mice showed a recovery in weight similar to that of WT mice Fig.
 

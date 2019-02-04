@@ -1,30 +1,20 @@
-we used these 4 kinds of alpha diver- sity parameters to describe the microbiologic species di- versity changes between fa group and fapro group figure 3. student's t-test showed that there were no significant differences of these four indexes figure 3. the re- sults indicated that bb was not strong enough to change population diversity and rich- ness of intestinal microbiota.bb didn't alter intestinal mi- crobiota compositon in micefigure 4. the pcoa of otu profile between fa and fapro mice.
+The results indicated that BB treatment may change immune indexes of food allergy through modu- lation of these OTUs.Treatment with BB shows no effect on alpha- diversity of intestinal microfloraChao 18 and ACE 19 are usually used to compute community richness the higher score the more richness.
 
-in many cases probiotics supplementation was demon- strated to induce tgf-b expression which ameliorates food allergy by suppressing th2 response and inducing foxp3 treg production 10-15. a microarray analysis of intestinal epi- thelial cells from gnotobiotic mice revealed a mechanism that clostridia facilitated immune cells to produce interleukin-22 il-22 regulat- ed innate lymphoid cell function and intestinal epithelial permeability to protect against aller- gen sensitization 3. besides the suppressive effect of probiotics on th17 response has been shown both in murine asthma 16 and atopic dermatitis model 17. however whether probiotics treatment elicited changes in the composition of the intestinal microbiota there- by regulating allergic disease remains poorly understood.the current study investigated the beneficialeffect of bifidobacterium infantis bb in afigure 1. allergic reactions in the mouse intestine were attenuated by bb.
+The present study supports the theory that probiotics can treat food allergy by modulating specific genera of the gut microbiota.Keywords Intestine microbiota food allergy OVA 16S rRNAIntroductionFood allergy is an adverse immune response to certain kinds of food.
 
-143 kos were found to be significantly differ- ent between fa and fapro mice using wilcoxon rank test p value  0.05. among them only 4 kos were enriched in fapro group tablecomparison of otus levels between fa andfapro micenext wilcoxon rank test showed that 92 otus were significantly different between fa group and fapro group.
+The re- sults indicated that BB was not strong enough to change population diversity and rich- ness of intestinal microbiota.BB didn't alter intestinal mi- crobiota compositon in miceFigure 4.
 
-balbc mice were treated with pbs naive group ovact fa group ovactbb fapro group.
+Am J Transl Res 201792376-385ISSN1943-8141AJTR0035123Original ArticleExploration of the effect of probiotics supplementation on intestinal microbiota of food allergic miceBo Yang12 Liang Xiao3 Sheng Liu3 Xiaoyu Liu1 Yan Luo1 Qiongmei Ji1 Pingchang Yang12 Zhigang Liu121Institute of Allergy and Immunology School of Medicine Shenzhen University Shenzhen 518060 China 2KeyLaboratory of Optoelectronic Devices and Systems of Ministry of Education and Guangdong Province College of Optoelectronic Engineering Shenzhen University Shenzhen 518060 China 3BGI Shenzhen Shenzhen China.Equal contributors.Received July 5 2016 Accepted December 29 2016 Epub February 15 2017 Published February 28 2017Abstract Environmental factor-induced alterations in intestinal microbiota have been demonstrated to be associat- ed with increasing prevalence of food allergy.
 
-in addition after chal- lenge with ova the fa mice showed significant diarrhea figure 1d which could be amelio- rated by bb.bb-induced phenotypic improvement was as-sociated with specific otusnext to investigate the effect of bb on gut microbiome we carried out metagenomic sequencing of fecal samples from fa and fapro mice.
+Balbc mice were treated with PBS Naive group OVACT FA group OVACTBB FAPro group.
 
-as shown infigure 1a and 1b treatment with bb for two weeks attenuated sige and sigg1 by 33 and 32 respectively when compared with fa group.
+Among them only 4 KOs were enriched in FAPro group TableComparison of OTUs levels between FA andFAPro miceNext Wilcoxon rank test showed that 92 OTUs were significantly different between FA group and FAPro group.
 
-values represent the relative abundance of bacteria at family level across all samples within fa group and fapro group.
+The diver- gence may be attributed to that they didn't use a kind of probiotics to treat allergic mice.In conclusion this is the first study to explore microbial population changes in food allergic animal model in case of probiotics administra- tion.
 
-furthermore the genera of gut microflora were presented in a time-dependent pattern after bb treatment.growing evidence suggests that the relation- ship among diet probiotics immune system and gut microbiota ecology determines the dis-figure 6. heatmap of gut bacteria in fa and fapro group at otu level.
+The results implied that BB supplementa- tion significantly modified metabolic pathways of gut microbiota.DiscussionGut microbiota plays an important role in the pathogenesis of food allergy.
 
-mode of birth antibiotics diet vaccination sanitation has been observed to be associated with many gastrointestinal dis- eases including food allergy 3 inflammatory bowel diseases 4 or colorectal cancer 5-8. of note intestinal microflora has been demon- strated to play an important role in maintaining the th1th2 balance 9 which is the key mechanism involved in allergic diseases.the role of probiotics in allergic disease has been highlighted recently.
+Of note intestinal microflora has been demon- strated to play an important role in maintaining the Th1Th2 balance 9 which is the key mechanism involved in allergic diseases.The role of probiotics in allergic disease has been highlighted recently.
 
-the results indicated that bb treatment may change immune indexes of food allergy through modu- lation of these otus.treatment with bb shows no effect on alpha- diversity of intestinal microflorachao 18 and ace 19 are usually used to compute community richness the higher score the more richness.
-
-am j transl res 201792376-385issn1943-8141ajtr0035123original articleexploration of the effect of probiotics supplementation on intestinal microbiota of food allergic micebo yang12 liang xiao3 sheng liu3 xiaoyu liu1 yan luo1 qiongmei ji1 pingchang yang12 zhigang liu121institute of allergy and immunology school of medicine shenzhen university shenzhen 518060 china 2keylaboratory of optoelectronic devices and systems of ministry of education and guangdong province college of optoelectronic engineering shenzhen university shenzhen 518060 china 3bgi shenzhen shenzhen china.equal contributors.received july 5 2016 accepted december 29 2016 epub february 15 2017 published february 28 2017abstract environmental factor-induced alterations in intestinal microbiota have been demonstrated to be associat- ed with increasing prevalence of food allergy.
-
-the diver- gence may be attributed to that they didn't use a kind of probiotics to treat allergic mice.in conclusion this is the first study to explore microbial population changes in food allergic animal model in case of probiotics administra- tion.
-
-p  0.01 vs naive group p  0.05 vs fa group.murine model of food allergy at the level of commensal microbiota.
-
-after 24 h the mice were killed and serum and splenocytes were collected for the following analysis as reported previously referred to as fa group 25.bb preparation and supplementationbb was kindly provided by shenzhen kexing biotech co. ltd shenzhen china as lyophi- lized powder and inoculated before giving to mice.
-
-a two-tailedfigure 3. boxplot of 4 kinds of alpha diversity between fa and fapro group.
+However whether probiotics treatment elicited changes in the composition of the intestinal microbiota there- by regulating allergic disease remains poorly understood.The current study investigated the beneficialeffect of Bifidobacterium Infantis BB in aFigure 1.
 

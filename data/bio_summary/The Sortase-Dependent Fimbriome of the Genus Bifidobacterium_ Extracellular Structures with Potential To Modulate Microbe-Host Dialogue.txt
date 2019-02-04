@@ -1,30 +1,20 @@
-various types of pili have been charac- terized including sortase-dependent sd pili types i and ii and type iv pili .
+.Turroni F Serafini F Foroni E Duranti S Motherway MO Taverniti V Mangifesta M Milani C Viappiani A Roversi T Sanchez B Santoni A Gioiosa L Ferrarini A Delledonne M Margolles A Piazza L Palanza P Bolchi A Guglielmetti S van Sinderen D Ventura M. 2013.
 
-the deduced amino acid sequences of fimap and fimbq contain partic- ular consensus motifs and domains characteristic of a pilin primary structure including a sec-dependent secretion signal the sortase recognition site cell wall sorting signal motif the pilin-like motif tvxxk and the e box  .bifidobacteria have also been shown to encode type iv pili which are similar to the tight adherence tad pili  and which since they are essential for gut coloniza- tion are believed to mediate adhesion to the host's surfaces  .the role of pili in modulating adhesion to human gut mucosa while at the same time having an impact on host-microbe dialogue has only been studied for a small number of gut-associated bifidobacterial species  .
+.Bottacini F Milani C Turroni F Sanchez B Foroni E Duranti S Serafini F Viappiani A Strati F Ferrarini A Delledonne M Henrissat B Coutinho P Fitzgerald GF Margolles A van Sinderen D Ventura M. 2012.
 
-notably cross-alignment of all fimap and fimbq genes included in the 15 copgs revealed in addition to high intra-copg similarity and identity high homology be- tween pilus subunits of different copgs which is indicative of horizontal gene transfer hgt events see data set s1 in the supplemental material described below.
+.Milani C Lugli GA Duranti S Turroni F Mancabelli L Ferrario C Man- gifesta M Hevia A Viappiani A Scholz M Arioli S Sanchez B Lane J Ward DV Hickey R Mora D Segata N Margolles A van Sinderen D Ventura M. 2015.
 
-therefore analysis of the 15 identified copgs revealed that a small number contain only a cna domain while others possess both a cna domain as well as a cbm domain .genetic comparison of copgs within the genus bifidobacterium.
+.Turroni F Milani C Duranti S Mancabelli L Mangifesta M Viappiani A Lugli GA Ferrario C Gioiosa L Ferrarini A Li J Palanza P Delledonne M van Sinderen D Ventura M. 2016.
 
-interestingly the pel from nonhuman primates cluster to form copg 14 which is not connected with any other copg  suggesting a divergent evolution followed by copg 14 with respect to copg 13. in contrast copgs 6 and 7 were found in the genomes of bifidobacterial species presentfig 2 genetic comparison of copgs within the genus bifidobacterium.
+.Motherway MO Zomer A Leahy SC Reunanen J Bottacini F Claesson MJ O'Brien F Flynn K Casey PG Munoz JA Kearney B Houston AM O'Mahony C Higgins DG Shanahan F Palva A de Vos WM Fitzgerald GF Ventura M O'Toole PW van Sinderen D. 2011.
 
-within the predicted sd fimbriome of the genus bifidobacterium including typical and atypical pilus loci we identified 156 pel that are shared by different bifidobacterial subspecies and that therefore consti- tute the clusters of orthologous sortase-dependent pilus-encoding genes copgs described below.
+.Milani C Lugli GA Duranti S Turroni F Bottacini F Mangifesta M Sanchez B Viappiani A Mancabelli L Taminiau B Delcenserie V Barr- angou R Margolles A van Sinderen D Ventura M. 2014.
 
-network anal- yses of the predicted sd fimbriome of the genus bifidobacterium highlighted that among the identified 15 copgs cluster 13 as well as clusters 1 and 8 are placed in the central nodes within the reconstructed bifidobacterial pilus-based network .
+.Duranti S Milani C Lugli GA Turroni F Mancabelli L Sanchez B Ferrario C Viappiani A Mangifesta M Mancino W Gueimonde M Margolles A van Sinderen D Ventura M. 2015.
 
-nd not detected.in the gut of social insects  indicating that the sd fimbriome arsenal of bifidobacteria may reflect the ecological niche in which the various bifidobacterial subspecies are commonly encountered.extensive acquisition and loss of copgs during bifidobacterium evolution.
+.Duranti S Milani C Lugli GA Mancabelli L Turroni F Ferrario C Man- gifesta M Viappiani A Sanchez B Margolles A van Sinderen D VenturaM.
 
-these results suggest that sd pilus-like structures of bifidobacteria are involved in the interaction with the host and perhaps also with other members of the microbiota.fig 6 occurrence of bifidobacterial copgs and pel in fecal metagenome and metatranscriptome data sets.
+.Mishra A Das A Cisar JO Ton-That H. 2007.
 
-notably the product of fimbq small subunits of copgs 1 3 and 5 appears to be evolutionary linked to the minor pili subunit-encoding gene rrga of streptococcus pneumoniae as indicated by a similarity of 40. this domain has been shown to be pivotal for immune evasion by s. pneumoniae as well as for mediating adhesion to the extracellular matrix proteins of the host .
-
-this domain is involved in stalk functions improv- ing the projection of the binding domain collagen-binding a region from the bacterial surface .interestingly the small subunit of five copgs also contains a carbohydrate binding module cbm described to sustain the interaction of pili with carbohydrates .
-
-other sd fimbriome clusters that were identified in different bifidobacterial subspe- cies included clusters 4 and 12. notably these latter clusters are identified in the genomes of bifidobacterial taxa residing in the gut of birds whereas the largest part of the network consisting of clusters 1 8 and 13 includes the sd pilus arsenal of bifidobacterial subspecies present in the human gut with the exception of b. mou- kabalense and b. ruminantium .
-
-altogether the phylogenetic inconsistencies gc content deviation and distinctive codon usage indi- cate that elements of the bifidobacterial sd fimbriome similar to the sd fimbriome of other actinobacteria  were acquired through hgt events table s3.transcriptional analysis of bifidobacterial pilus-encoding loci.
-
-nevertheless such different adhesive roles played by the bifidobacterial sd fimbriome might be further influenced by the sd fimbriome or the extracellular structures produced by other members of the gut microbiota.
-
-in sd pili the pilins that constitute the pilus fiber are covalently linked by sortases .
+J Biol Chem 2608262- 8271.Shaik MM Maccagni A Tourcier G Di Guilmi AM Dessen A.
 

@@ -1,30 +1,20 @@
-recent reports suggest that modulation of the gut microbiota might be one promising therapy for ms. here we investigated whether the probiotic escherichia coli strain nissle 1917 ecn could mod- ulate the outcome of experimental autoimmune encephalomyelitis eae a murine model of ms. we evidenced that daily oral treatment with ecn but not with the archetypal k12 e. coli strain mg1655 reduced the severity of eae induced by immunization with the mog35-55 peptide.
+Here we investigated whether the probiotic Escherichia coli strain Nissle 1917 ECN could mod- ulate the outcome of experimental autoimmune encephalomyelitis EAE a murine model of MS. We evidenced that daily oral treatment with ECN but not with the archetypal K12 E. coli strain MG1655 reduced the severity of EAE induced by immunization with the MOG35-55 peptide.
 
-to investigate the impact of ecn treatment on intestinal barrier function during eae progression we measured the intestinal permeability of mice treated daily with ecn 7 and 14 days after mog35-55 immunization.
+To investigate the impact of ECN treatment on intestinal barrier function during EAE progression we measured the intestinal permeability of mice treated daily with ECN 7 and 14 days after MOG35-55 immunization.
 
-it is also possible that ecn may reduce microbial imbal- ance in the eae gut through inter or intraspecies competition for which ecn genome encodes specialized molecules .in conclusion our findings show that alteration of the intes- tinal barrier function is associated with eae progression and severity.
+It is also possible that ECN may reduce microbial imbal- ance in the EAE gut through inter or intraspecies competition for which ECN genome encodes specialized molecules .In conclusion our findings show that alteration of the intes- tinal barrier function is associated with EAE progression and severity.
 
-interestingly ecn-treated mice exhibited increased numbers of mog-specific cd4 t cells in the periphery contrasting with severely reduced numbers in the cns sug- gesting that ecn might affect t cell migration from the periphery to the cns through a modulation of their activation andor differentiation.
+Interestingly ECN-treated mice exhibited increased numbers of MOG-specific CD4 T cells in the periphery contrasting with severely reduced numbers in the CNS sug- gesting that ECN might affect T cell migration from the periphery to the CNS through a modulation of their activation andor differentiation.
 
-we show that ecn administration has beneficial effects on eae and this beneficial effect is associated with changes in t cell compartmen- talization cytokines production by autoreactive cd4 t cells and intestinal permeability.animals and methods animalsc57bl6j male mice were obtained from janvier labs le genest saint-isle france and housed under specific pathogen-freeconditions with ad libitum access to food and water.
+We show that ECN administration has beneficial effects on EAE and this beneficial effect is associated with changes in T cell compartmen- talization cytokines production by autoreactive CD4 T cells and intestinal permeability.aniMals anD MeThODs animalsC57BL6J male mice were obtained from Janvier Labs Le Genest Saint-Isle France and housed under specific pathogen-freeconditions with ad libitum access to food and water.
 
-we further checked whether oral treatment with ecn could modulate the effector function of mog-specific cd4 t cells.
+We further checked whether oral treatment with ECN could modulate the effector function of MOG-specific CD4 T cells.
 
-intriguingly treatment with ecn significantly increased the production of il-10 by mog-specificcd4 t cells  which is a hallmark of tregs  .
+Intriguingly treatment with ECN significantly increased the production of IL-10 by MOG-specificCD4 T cells  which is a hallmark of Tregs  .
 
-taken together these data demonstrate that ecnprotection of the host from cns inflammation is associated to dampened inflammatory cytokine production and reduced migration of mog-specific t cells from the periphery to the cns.eae-mediated perturbation of the intestinal barrier function is prevented by ecn treatmentit has been recently reported that intestinal permeability is increased during the course of eae .
+In contrast to the CNS there was an increase in the total number of MOG-specific CD4 T cells in the inguinal cervical and to larger extent mesenteric lymph nodes of mice treated with ECN.
 
-in contrast to the cns there was an increase in the total number of mog-specific cd4 t cells in the inguinal cervical and to larger extent mesenteric lymph nodes of mice treated with ecn.
+In addition MS patients exhibit defects in regulatory T cells Tregs known to suppress the activity of effec- tor T cells .In recent years the incidence of autoimmune diseases in populations from developed countries has dramatically risen.
 
-in addition ms patients exhibit defects in regulatory t cells tregs known to suppress the activity of effec- tor t cells .in recent years the incidence of autoimmune diseases in populations from developed countries has dramatically risen.
-
-coli intestinal loads were equivalent regardless of the type of strain and .encephalitogenic mog-specific cd4 t cells are trapped in the periphery in ecn-treated animalsperipheral activation and subsequent migration of autoreactive cd4 t cells into the cns are critical steps in the pathogenesis of eae and ms  .
-
-th17 cells express interleukin-10 receptor and are controlled by foxp3- and foxp3 regulatory cd4 t cells in an interleukin-10-dependent manner.
-
-in addition we demonstrated that eae is associated with a profound defect in the intestinal barrier function and that treatment with ecn but not with mg1655 repaired intestinal permeability dysfunction.
-
-collectively our data reveal that eae induces a disruption of the intestinal homeostasis and that ecn protects from disease and restores the intestinal barrier function.keywords escherichia coli nissle 1917 experimental autoimmune encephalomyelitis probiotic intestinal permeability encephalitogenic t-cell central nervous systeminduced intestinal barrier dysfunction.
-
-81096.doi abbreviations cfa complete freund's adjuvant cns central nervous system eae experimental autoimmune encepha- lomyelitis ecn escherichia coli nissle 1917 fd4 fluorescein isothiocyanate-dextran 4 kda ms multiple sclerosis nlr nod-like receptor treg regulatory t cell tlr toll-like receptor.introductionmultiple sclerosis ms is a chronic demyelinating inflammatory disease of the central nervous system cns that predominantly affects young adults -.
+coli intestinal loads were equivalent regardless of the type of strain and .encephalitogenic MOg-specific cD4 T cells are Trapped in the Periphery in ecn-Treated animalsPeripheral activation and subsequent migration of autoreactive CD4 T cells into the CNS are critical steps in the pathogenesis of EAE and MS  .
 

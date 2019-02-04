@@ -1,30 +1,20 @@
-upon reduction the radical sam 4fe-4s1 cluster transfers one electron to sam which results in its reductive fragmentationand usually in the generation of the 5'-deoxyadenosyl radical 5'-da although this species has not been characterized.
+Upon reduction the radical SAM 4Fe-4S1 cluster transfers one electron to SAM which results in its reductive fragmentationand usually in the generation of the 5'-deoxyadenosyl radical 5'-dA although this species has not been characterized.
 
-37. to probe further the sequence and structuralrelationships between these enzymes we performed a phylogenetic analysis that included all the known radical sam epimerases and key representative members from the radical sam superfamily of enzymes 4a.
+To probe further the sequence and structuralrelationships between these enzymes we performed a phylogenetic analysis that included all the known radical SAM epimerases and key representative members from the radical SAM superfamily of enzymes 4a.
 
-a molecular phylogenetic analysis of radical sam epimerases and representative members of the radical sam enzyme superfamily.
+a Molecular phylogenetic analysis of radical SAM epimerases and representative members of the radical SAM enzyme superfamily.
 
-additional studies have shown that the activity of a mutated sp lyase could be rescued by precisely positioning a cysteine residue within the enzyme active site.nature chemistry  vol 9  july 2017  703fessfesfe21radical sam clusternh2fesh2oh oh sam2sfefesfessfenh2oh oh5'-dal-ilenchocys223d-allo-ilehncho2sfe2sfefesfesfesfesspasmclustersfesfehs3cys223cys223sfescys223figure 5  proposed mechanism of the radical sam peptide epimerase yydg.
+44 109-115 2016.Vey J. L.  Drennan C. L. Structural insights into radical generation by the radical SAM superfamily.
 
-altogether these results support that yydg uses one molecule of sam to epimerize one amino acid residue through a radical-based mechanism.yydg defines a novel type of radical sam epimerases present within the human microbiome.
+Why nature uses radical SAM enzymes so widely electron nuclear double resonance studies of lysine 23-aminomutase show the 5'-dAdo 'free radical' is never free.
 
-this result supports that yydg introduced two modifications one located internally in peptide 2 and one in the c-terminus end of the peptide in peptide 3.to identify the nature and position of the modifications catalysed by yydg we repeated the reaction in 90 deuterated buffer because radical sam enzymes are known to abstract but also in some cases to exchange hydrogen atoms during catalysis.
+However it does not possess significant homology with any known radical SAM enzyme.Radical SAM enzymes are emerging as a novel superfamily of enzymes that catalyse a broad range of radical-based reactions many of which having no precedent in biology.
 
-44 109-115 2016.vey j. l.  drennan c. l. structural insights into radical generation by the radical sam superfamily.
+Altogether these results support that YydG uses one molecule of SAM to epimerize one amino acid residue through a radical-based mechanism.YydG defines a novel type of radical SAM epimerases present within the human microbiome.
 
-why nature uses radical sam enzymes so widely electron nuclear double resonance studies of lysine 23-aminomutase show the 5'-dado 'free radical' is never free.
+Additional studies have shown that the activity of a mutated SP lyase could be rescued by precisely positioning a cysteine residue within the enzyme active site.NATURE CHEMISTRY  VOL 9  JULY 2017  703FeSSFeSFe21Radical SAM clusterNH2FeSH2OH OH SAM2SFeFeSFeSSFeNH2OH OH5'-dAL-IleNCHOCys223D-allo-IleHNCHO2SFe2SFeFeSFeSFeSFeSSPASMclusterSFeSFeHS3Cys223Cys223SFeSCys223Figure 5  Proposed mechanism of the radical SAM peptide epimerase YydG.
 
-however it does not possess significant homology with any known radical sam enzyme.radical sam enzymes are emerging as a novel superfamily of enzymes that catalyse a broad range of radical-based reactions many of which having no precedent in biology.
+37 it has been proposed that the reduction of the thiyl radical involves a remote cysteine and the formation of a disulfide anion radical similar to ribonucleotide reductase.
 
-this operon shows positive regu- lation on liars and possesses all the characteristic features of a genetic system that encodes a putative peptide yydf modified by a radical s-adenosyl-l-methionine sam enzyme yydg and a protease yydh.
-
-among these five genes the function of the putative radical sam enzyme yydg was unclear but predicted to be a peptide-modifying enzyme.
-
-to investigate the catalytic function of the putative radical sam enzyme yydg and the biological role of the yydf peptide we expressed the protein in e. coli and assayed its activity against yydf.
-
-e-mail 698nature chemistry  vol 9  july 2017  ayydfdpeptide rsamprotease abc transporter112243648b55 kda35 kda25 kda15 kdaeyydf18-49 m  3h3 1258.3-fsamc0.639414345time minyydfcm  3h3051015time min0.4yydfb1258.30.2yydfam  3h3 1258.3sam5'-da0.0250350450550650wavelength nmm  3h3 1258.3 dithionite39414345time min dithionite051015time minfigure 1  yydg is a radical sam enzyme that catalyses the modification of the yydf peptide.
-
-a structure of the yydfghij operon yydf putative peptide yydg radical sam enzyme yydh protease yydij abc-type transporter.
-
-5. altogether these results establish that yydg is a two 4fe-4s cluster radical sam enzyme that catalyses the modification of the yydf and yydf18-49 peptides.
+The proximity of a 4Fe-4S cluster with a thiyl radical is reminiscent of ferredoxinthioredoxin reductaseand het- erodisulfide reductases for which spectroscopic and structural studies have indicated that the function of a 4Fe-4S2 cluster is to stabilize a thiyl radical which leads to the formation of a pentacoor- dinated iron with unique properties.
 

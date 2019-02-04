@@ -1,30 +1,20 @@
-dr. m. ehrmannmicrobiology zmb faculty of biology university of duisburg-essenuniversit-tsstrasse 2 45117 essen germanythe orcid identification numbers for the authors of this article can be found under 5.although dna could be isolated from some host strains from existing culture collections the other strains had never been isolated before and the gene clusters were therefore synthe- sized directly based on the primary genome or metagenome sequences and cloned into bacterial expression vectors.
+Dr. M. EhrmannMicrobiology ZMB Faculty of Biology University of Duisburg-EssenUniversit-tsstrasse 2 45117 Essen GermanyThe ORCID identification numbers for the authors of this article can be found under 5.Although DNA could be isolated from some host strains from existing culture collections the other strains had never been isolated before and the gene clusters were therefore synthe- sized directly based on the primary genome or metagenome sequences and cloned into bacterial expression vectors.
 
-to assess whether these gene clusters were not only present in these strains but also actively transcribed under conditions of host colonization the authors analyzed publicly available rna- seq data from stool samples and could robustly identify tran- scripts of at least one nrps gene cluster in seven of the eight available analyses.inspection of pyrazinone and dihydropyrazinone biosynthe- sis revealed that all identified nrps gene clusters harbored a c-terminal reductase domain that catalyzes the release of the synthesized peptide through reduction to a c-terminal alde- hyde.
+To assess whether these gene clusters were not only present in these strains but also actively transcribed under conditions of host colonization the authors analyzed publicly available RNA- seq data from stool samples and could robustly identify tran- scripts of at least one NRPS gene cluster in seven of the eight available analyses.Inspection of pyrazinone and dihydropyrazinone biosynthe- sis revealed that all identified NRPS gene clusters harbored a C-terminal reductase domain that catalyzes the release of the synthesized peptide through reduction to a C-terminal alde- hyde.
 
-chang t. p. wyche k. m. backus t. m. acker m. funabashim.
+Chang T. P. Wyche K. M. Backus T. M. Acker M. FunabashiM.
 
-through a novel experimental workflow figure 1.4 a set of publically available metagenome analyses from stool samples that is the gut microbiome of healthy individuals was inspect- ed for the presence of non-ribosomal peptide synthase nrps gene clusters as small molecules play important roles in host- microbiota interactions.2 strikingly 90 of all analyzed stool samples revealed the presence of a specific 47-membered nrps gene family that was not identified in other environmen- tal strains this suggested that these gene clusters might be relevant to the niche of the gut microbiome and potentially to interspecies interactions.
+through a novel experimental workflow Figure 1.4 A set of publically available metagenome analyses from stool samples that is the gut microbiome of healthy individuals was inspect- ed for the presence of non-ribosomal peptide synthase NRPS gene clusters as small molecules play important roles in host- microbiota interactions.2 Strikingly 90 of all analyzed stool samples revealed the presence of a specific 47-membered NRPS gene family that was not identified in other environmen- tal strains this suggested that these gene clusters might be relevant to the niche of the gut microbiome and potentially to interspecies interactions.
 
-using two different bioinfor- matics analyses the authors determined that roughly 90 of all healthy humans harbored microbes with at least one of the investigated gene clusters thus indicating that the gut nprps family is indeed widely distributed in healthy humans.
+Using two different bioinfor- matics analyses the authors determined that roughly 90 of all healthy humans harbored microbes with at least one of the investigated gene clusters thus indicating that the gut NPRPS family is indeed widely distributed in healthy humans.
 
-this hypothesis however raises a question what is the bio- logically relevant and bioactive product of the nrps assembly line in particular as these compounds are biosynthesized in an anaerobic and thus basically oxygen free environment the authors speculated that the peptide aldehydes might be the real active and biologically relevant compounds as peptide aldehydes are well known protease inhibitors and some chem- ical studies performed by the authors indicated a reasonable stability of this compounds in the gut environment.
+This hypothesis however raises a question What is the bio- logically relevant and bioactive product of the NRPS assembly line in particular as these compounds are biosynthesized in an anaerobic and thus basically oxygen free environment The authors speculated that the peptide aldehydes might be the real active and biologically relevant compounds as peptide aldehydes are well known protease inhibitors and some chem- ical studies performed by the authors indicated a reasonable stability of this compounds in the gut environment.
 
-s. donia m. a. fischbach 3 g. m. weinstock 4 c.-j.
+S. Donia M. A. Fischbach 3 G. M. Weinstock 4 C.-J.
 
-these gene clusters were almost exclusively found in anaerobic firmicutes of the clostridia class only some were found in gram-negative bacteroides and desulfovibrio.
+These gene clusters were almost exclusively found in anaerobic Firmicutes of the Clostridia class only some were found in Gram-negative Bacteroides and Desulfovibrio.
 
-as is often the case in metagenome-derived data many of the corresponding organisms had never been isolated or characterized therefore sophisticated approaches for detailed functional understanding were required.a set of 14 example gene clusters originating from all four bacterial clades was heterologously expressed in two common laboratory strains that is escherichia coli and bacillus subtilis.prof.
+As is often the case in metagenome-derived data many of the corresponding organisms had never been isolated or characterized therefore sophisticated approaches for detailed functional understanding were required.A set of 14 example gene clusters originating from all four bacterial clades was heterologously expressed in two common laboratory strains that is Escherichia coli and Bacillus subtilis.Prof.
 
-dr. m. kaiser chemical biology zmbfaculty of biology university of duisburg-essen universit-tsstrasse 2 45117 essen germanyprof.
-
-interestingly one e. coli strain not only produced a pyrazi- none derived from phenylalanine and methionine but also a n-acylated peptide aldehyde of these amino acids.subsequently the authors confirmed that the isolated natu- ral products were also produced in the native host so as to show that they are not an artefact of heterologous expression.
-
-to test this model the authors first used biochemical inhibition assays to demonstrate that dipeptide aldehyde precursors of isolatedchembiochem 2017 18 967 - 968967t 2017 wiley-vch verlag gmbh  co. kgaa weinheimfigure 1. overview of the experimental workflow of guo et al.4dihydropyrazinones and pyrazinones are indeed potent inhibi- tors for example of cathepsin l which was inhibited in the low-nanomolar range.
-
-to evaluate their inhibitory potential in a more unbiased and physiologically relevant manner the authors adopted a competitive chemical proteomics profiling approach with human cell lysates that demonstrated that the dipeptide aldehyde h-phe-phe-h indeed potently inhibited cathepsin l although other cathepsins were only partially or even only marginally affected.
-
-the first step into this excit- ing direction has now been taken by the fischbach group.conflict of interestthe authors declare no conflict of interest.j.
-
-taketani m. s. donia s. nayfach k. s. pollard c. s. craik b. f. cravattj.
+Dr. M. Kaiser Chemical Biology ZMBFaculty of Biology University of Duisburg-Essen Universit-tsstrasse 2 45117 Essen GermanyProf.
 

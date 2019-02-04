@@ -1,30 +1,20 @@
-alveolar macrophages from the abt mice had higher protein and gene levels of arg1 ccl24 il-13 il-10 il-6 and il-1b which could be recovered to normal levels by reconstructing commensal bacteria in the upper respiratory of abt mice.
+b The list of DEGs was converted into Entrez-IDs for GO analysis with R 3.2.3 using the library GOstats 2.34.0 and the R Bioconductor genomewide mouse annotations from the package org.Mm.eg.db version 3.3.0. c The list of DEGs was convertedinto Entrez-IDs for KEGG analysis with R 3.2.3 using the library GOstats 2.34.0 and the R Bioconductor genomewide mouse annotations from the package org.Mm.eg.db version 3.3.0.and the controls gave signal values that were distinguished from the background.
 
-of these 310 degs 249 genes in both abt micefigure 2. altered gene expression in alveolar macrophages isolated from abt mice.
+The information from the gene microarray analysis in this study will help us to further explore the mechanisms by which microbiota regulates the expression of CCL24 in alveolar macrophages.ReferencesThaiss C. A. Zmora N. Levy M.  Elinav E. The microbiome and innate immunity.
 
-here by using an antibiotic-treated abt mouse model we found commensal bacteria depletion induced lower frequencies and numbers of alveolar macrophages.
+The Abt experimental groups were assigned as previously described.
 
-moreover alveolar macrophages performed significant enhancement of m2 functions especially ccl24 secretion in the abt mice challenged with b16f10 melanoma.
+The mice in Abt group were given antibiotics for five weeks.
 
-adoptive transfer of normal alveolar macrophages or antibody neutralization of ccl24 significantly recovered the decrease of gdt17 cells and rescued the defect anti-tumor response of abt mice indicating the elevated amount of alveolar macrophage- derived ccl24 inhibited gdt cell mediated anti-tumor response.
+b The heatmap showed the differential expression of the indicated genes between the Abt group and the control group.
 
-in this study we used an antibiotic-treated abt mouse model and firstly demonstrated that commensal microbiota maintained alveolar macrophages with a low level of ccl24production which was necessary for them to generate anti-tumor activity.materials and methodsmice and antibiotics treatment.
+The mice in Abt group were given antibiotics for five weeks.
 
-the abt experimental groups were assigned as previously described.
+The immune characteristics of alveolar macrophages isolated from the Abt mice and the controls were compared and there were no significant differences in the expression of functional molecules MHC-II CD86 CD127 CD69 CD1632 and CCR7 Supplemental Fig.
 
-il-6 558301 il-1b 560232 il-10 558300 and il-13 558349 were detected by flow cba kit bd pharmingen san diego ca usa.figure 1. decreased numbers of alveolar macrophages in abt mice.
+The mice in Abt group were given antibiotics for five weeks.
 
-c57bl6 mice in the abt group were given 1 gl ampicillin 0.5 gl vancomycin 1 gl neomycin sulfate and 1 gl metronidazole in their drinking water for five weeks.
+The pie chartshowed the distribution of DEGs in Abt group compared with the control.
 
-into the abt mice one day before the b16f10 challenge and additional transfers were performed every week.
-
-into the abt mice 100 mgmouse in 250 ml of pbs one day before b16f10 challenge and additional injections were performed every week.
-
-a p-value  0.05 was considered statistically significant.resultsalveolar macrophage number and gene expression are altered in abt mice.
-
-after five weeks of antibiotics treatment the frequency and number of macrophages were significantly lower in the lungs of the abt mice than in the lungs of the controls fig.
-
-a total of 39430 genes were analyzed in alveolar macrophages to compare the abt mice and the controls.
-
-among 37401 positive signal values 37091 were not altered in the abt mice compared with the controls whereas a greater than 2-fold change was detected for 310 expressed genes.
+The frequencies and numbers of macrophages remained much lower in the lungs of the Abt mice 17 days after challenged with B16F10 melanoma Fig.
 

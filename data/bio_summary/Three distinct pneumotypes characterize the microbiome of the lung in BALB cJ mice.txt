@@ -1,30 +1,20 @@
-pcoa plot showing the cluster- ing of lung samples from two lung sites upper lung ul and lower lung ll.
+PCOA plot showing the cluster- ing of lung samples from two lung sites upper lung UL and lower lung LL.
 
-samples were taken from the superior lobe upper lung ul and inferior lobe lower lung ll of the right lung n  36. the posterior oropharynx urt of the same animal was then collected surgically n  18. individually sterilized and uv treated sets of surgical instruments were used for each anatomical site in each animal.
+In contrast lung samples from individual mice expressed distinct microbiomes.Iterative comparisons between samples suggested that lung tissues could be categorized into three groups i lungbackground having few or no detectable microbes ii lungaspirate expressing a microbiome similar to the URT and iii lungunique comprising a microbiota distinct from that of the URT.A third of all lung samples 33 fell into the lungbackground group.
 
-in contrast lung samples from individual mice expressed distinct microbiomes.iterative comparisons between samples suggested that lung tissues could be categorized into three groups i lungbackground having few or no detectable microbes ii lungaspirate expressing a microbiome similar to the urt and iii lungunique comprising a microbiota distinct from that of the urt.a third of all lung samples 33 fell into the lungbackground group.
+Samples were taken from the superior lobe upper lung UL and inferior lobe lower lung LL of the right lung n  36.
 
-samples from the urt were quite homogeneous and yielded an intra-group correlation coeffi- cient of  0.9 p  0.001. members of the lungaspirate group showed a similarly high intra- group correlation coefficient of 0.86 p  0.001. consistent with the urt being the dominant source of the lungaspirate microbiome the lungaspirate group showed a strong correlation with that of the urt 0.74 p 0.001. there was greater mouse-to-mouse variability among mem- bers of the lungunique group such that their intra-group correlation coefficient was 0.41p  0.001. the lungunique samples showed a poor correlation with urt 0.17 p  0.05 or lungaspirate samples 0.21 p  0.05 .the second approach used to compare the microbiomes of different groups examined their degree of overlap.
+The traditional view that viable bacteria are rarely present in normal healthy lung is consistent with the lung being actively surveilled by immune cells and the observation that 33 of tissue samples were sterile the lungbackground group.
 
-results indicate that the urt micro- biome of different animals overlapped by  70 .microbiome of the lungin contrast to urt samples there was considerable heterogeneity in the frequency and distri- bution of bacterial sequences present in low biomass lung samples.
+The remaining sample contigs were filtered for chimeric sequences using the uchimeref  with comparison against the GOLD database of chimera-free 16S sequences .OTU clustering and taxonomic assignmentBioinformatics analyses such as OTU clustering were performed on sequences from URT and lung samples as a combined data set.
 
-an nmds analysis based on the unifrac distances highlights the tendency of the samples to cluster according to the pneumotypes identified .comparison of the lung and urt microbiomestwo statistical approaches were taken to compare the microbiomes present in lungunique lungaspirate and urt sample groups lungbackground samples were not included as they were devoid of evaluable sequences.
+Results indicate that the URT micro- biome of different animals overlapped by  70 .Microbiome of the lungIn contrast to URT samples there was considerable heterogeneity in the frequency and distri- bution of bacterial sequences present in low biomass lung samples.
 
-results show that the microbial composition of urt samples overlapped by  74. similarly lungaspirate microbiomes showed intra-group overlap of 67 and overlap with urt samples of 75. the intra-group overlap of lungunique samples was only 20 while overlap between lungunique vs lungaspirate and urt sam- ples was 54 and 45 respectively .analysis of groups based on pcoa clusteringthe compositional similarities among samples were evaluated using principle coordinate analysis pcoa .
+An NMDS analysis based on the UniFrac distances highlights the tendency of the samples to cluster according to the pneumotypes identified .Comparison of the lung and URT microbiomesTwo statistical approaches were taken to compare the microbiomes present in lungunique lungaspirate and URT sample groups lungbackground samples were not included as they were devoid of evaluable sequences.
 
-thus the conclu- sion by some groups that human lung microbiota derives primarily from the upper respiratory tract in accordance with the adapted island model of biogeography  must be reconsid- ered in the light of our finding that the murine lung actually encompasses three distinct pneumotypes.
+The group lungaspirate represents a microbiome similar to that of the URT whereas lungunique shows a more distinct and diverse microbiome.The composition of the microbiome in URT samples from co-housed mice was highly repro- ducible allowing for the generation of a representative microbiome .
 
-these observations are con- sistent with our finding that the frequency and type of bacteria present in the lung differs from that of the urt.to clarify the additional sources of lung bacterial dna samples from cage bedding drink- ing water and rodent chow were evaluated.
+The lungaspirate group contained mem- bers of both groups and was enriched in Streptococcus Haemophilus Aggregatibacter Actino- bacillus Mannheimia which is characteristic of the URT as well as with Candidatus and Flavobacterium which is primarily found in lungunique samples .Distribution of genera among groupsHaemophilus Mannheimia and Streptococcus accounted for  90 of all sequence reads in the URT samples.
 
-the traditional view that viable bacteria are rarely present in normal healthy lung is consistent with the lung being actively surveilled by immune cells and the observation that 33 of tissue samples were sterile the lungbackground group.
-
-clustering of lung samples from different lung sites.
-
-the murine lung microbiome changes during lung inflammation and intranasal vancomycin treatment.
-
-alterations of lung micro- biota in a mouse model of lps-induced lung injury.
-
-the remaining sample contigs were filtered for chimeric sequences using the uchimeref  with comparison against the gold database of chimera-free 16s sequences .otu clustering and taxonomic assignmentbioinformatics analyses such as otu clustering were performed on sequences from urt and lung samples as a combined data set.
-
-to identify and remove sequences arising from such contamination 8 reagent controls and 3 waterdiluent samples were amplified and sequenced in parallel with tissue from the lung and urt.
+Thus the conclu- sion by some groups that human lung microbiota derives primarily from the upper respiratory tract in accordance with the adapted island model of biogeography  must be reconsid- ered in the light of our finding that the murine lung actually encompasses three distinct pneumotypes.
 

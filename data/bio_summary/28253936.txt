@@ -1,30 +1,20 @@
-the method does not rely on a comprehensive evaluation of the metagenome and metaproteome data but rather utilizes both to simplify the discovery of proteins exhibiting a desired enzyme activity.metaproteomics is quickly becoming a well-established high-throughput meta-omic approach to study microbial ecology as recently reviewed in and .
+19988186-94.Bankevich A Nurk S Antipov D Gurevich AA Dvorkin M Kulikov AS et al.
 
-the sequenced raw data was assembled to recover original genome information and to predict proteins using the assembly software spades v3.1.1  and annotated using prokka v1.10 .
+20138e69125.Marchler-Bauer A Derbyshire MK Gonzales NR Lu S Chitsaz F Geer LY et al.
 
-the obtained database contained approximately 161000 proteins of which 37.6 were annotated as hypothetical proteins with un- known function.this customized database was then used to analyze the mass spectra obtained from the 14 lipolytically active protein spots additional file table s1.
+Boca Raton CRC Press 2002.Vizcaino JA Deutsch EW Wang R Csordas A Reisinger F Rios D et al.
 
-the limitations of our approach pertain to the difficulties inherent in the isolation of proteins and dna from environmental samples -the complete phylogenetic diversity of a sample could only be harnessed if all dna and all proteins expressed in the sample would be isolated.
+1993 1392041-5.Helling S Vogt S Rhiel A Ramzan R Wen L Marcus K et al.
 
-acknowledges funding from the dfg no4075-1.availability of data and materialssequencing data of the sample was submitted to the european nucleotide archive under project number prjeb16064 and sample accession number erp017906.
+acknowledges funding from the DFG NO4075-1.Availability of data and materialsSequencing data of the sample was submitted to the European Nucleotide Archive under project number PRJEB16064 and sample accession number ERP017906.
 
-after separation proteins were refolded in the gel and an in-gel activity assay based on the fluorogenic lipase substrate para-methylumbelliferyl butyrate pmubwas performed.
+The method does not rely on a comprehensive evaluation of the metagenome and metaproteome data but rather utilizes both to simplify the discovery of proteins exhibiting a desired enzyme activity.Metaproteomics is quickly becoming a well-established high-throughput meta-omic approach to study microbial ecology as recently reviewed in and .
 
-to verify the biocatalytic activity of the uncharacterized hydrolase ml-005 its dna sequence was synthetized based on the metagenome data and cloned into escheri- chia coli in an iptg-inducible pbr322 -based expressionvector with a tac promotor.
+The sequenced raw data was assembled to recover original genome information and to predict proteins using the assembly software SPAdes v3.1.1  and annotated using PROKKA v1.10 .
 
-metaproteo- mics was developed by bond and wilmes to mine micro- biomes for novel proteins from previously uncultured organisms  and one of its earliest applications was the functional study of biocatalysts that degrade organochlor- ide pollutants .we also used a functional metaproteomic approach to identify lipolytic enzymes from environmental sources.
+To verify the biocatalytic activity of the uncharacterized hydrolase ML-005 its DNA sequence was synthetized based on the metagenome data and cloned into Escheri- chia coli in an IPTG-inducible pBR322 -based expressionvector with a tac promotor.
 
-all of these proteins are members of the family of sgnh hydrolases named for their conserved and characteristic serine glycine asparagine and histidine residues which are known to show lipolytic activ- ity towards ester substrates  especially tesa from pseudomonas is known to have a preference for ester substrates with short- and mid-range carbon chain length 18. in addition we identified hydrolase ml- 005 which is distantly homologous 35 identity to the as of yet uncharacterized putative hydrolase yden uniprotkb  p96671.1 from bacillus subtilis.
+After separation proteins were refolded in the gel and an in-gel activity assay based on the fluorogenic lipase substrate para-methylumbelliferyl butyrate pMUBwas performed.
 
-the protein was then het- erologously expressed in e. coli and its lipolytic activity confirmed through in-gel zymography fig.
-
-sukul et al.
-
-pmub is a substrate that can be used to detect a wide variety of lipolytic and hydrolytic en- zymes with high sensitivity lipolytic enzymes present in the gel hydrolyzed pmub and released bu- tyric acid and p-methylumbelliferone which is a fluor- escent dye that can be detected under ultraviolet light.
-
-19988186-94.bankevich a nurk s antipov d gurevich aa dvorkin m kulikov as et al.
-
-20008373-83.lescic asler i ivic n kovacic f schell s knorr j krauss u et al.
-
-20138e69125.marchler-bauer a derbyshire mk gonzales nr lu s chitsaz f geer ly et al.
+The obtained database contained approximately 161000 proteins of which 37.6 were annotated as hypothetical proteins with un- known function.This customized database was then used to analyze the mass spectra obtained from the 14 lipolytically active protein spots Additional file Table S1.
 

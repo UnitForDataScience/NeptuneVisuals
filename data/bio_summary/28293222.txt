@@ -1,30 +1,20 @@
-2015. while the s. marcescens used in this study have excellent potential for bioaugmentation efforts and mechanistic inquiries certain strains of s. marcescens are known opportunistic human pathogens hejazi and falkiner 1997. caution should be taken in working with uncharacterized wild-type strains of this bacteria including safety education of personnel and bsl-2 standards in all laboratory work.in understanding s. marcescens and their anti-bd mechanisms in more detail as it pertains to the cutaneous microbiome we found that the two s. marcescens strains examined in this study had various transcriptomic shifts in response to bd.
+Raw sequencing data of two S. marcescens strains from A. annae were referenced against the S. marcescens WW4 genome with 80 mapping Table 1.
 
-41 150-152.amiche m. ladram a. and nicolas p. 2008. a consistent nomenclature of antimicrobial peptides isolated from frogs of the subfamily antwis r. e. preziosi r. f. harrison x. a. and garner t. w. 2015. amphibian symbiotic bacteria do not show a universal ability to inhibit growth of the global panzootic lineage of batrachochytrium apponyi m. a. pukala t. l. brinkworth c. s. maselli v. m. bowie j. h. tylerm.
+Panamanian frog species host unique skin Bell S. C. Alford R. A. Garland S. Padilla G. and Thomas A. D. 2013.
 
-raw sequencing data of two s. marcescens strains from a. annae were referenced against the s. marcescens ww4 genome with 80 mapping table 1. additionally 47- 74 of reads were mapped to protein coding genes table 1. all degs identified in each treatment were compared to a no- bd control.
+In the live Bd treatment this experiment found 111 differentially expressed genes DEGs in S. marcescens strain one Supplementary Table 6 and 100 DEGs in S. marcescens strain two Supplementary Table 7.
 
-marcescens strain one had 96 degs supplementary table8 and s. marcescens strain two had 73 degs supplementary table 9. pooling results from both strains of s. marcescens used in this study only three significant degs were identified in the bd treatment while five significant degs were identified in the heat-killed bd treatment.
+While the S. marcescens used in this study have excellent potential for bioaugmentation efforts and mechanistic inquiries certain strains of S. marcescens are known opportunistic human pathogens Hejazi and Falkiner 1997.
 
-this preliminary evidence on the role of a t6ss in s. marcescens and other gram negative bacteria in the amphibian-bd system therefore merits further examination.the upregulation of 2-dehydro 3-deoxy-phosphogluconate aldolase gene coding for a key regulatory enzyme in the entner-duodoroff ed pathway was seen in both s. marcescens strains in response to heat-killed bd.
+Caution should be taken in working with uncharacterized wild-type strains of this bacteria including safety education of personnel and BSL-2 standards in all laboratory work.In understanding S. marcescens and their anti-Bd mechanisms in more detail as it pertains to the cutaneous microbiome we found that the two S. marcescens strains examined in this study had various transcriptomic shifts in response to Bd.
 
-mycologia 91 219-227. doi loudon a. h. holland j. a. umile t. p. burzynski e. a. minbiole k. p. and harris r. n. 2014. interactions between amphibians' symbiotic bacteria cause the production of emergent anti-fungal metabolites.
+This preliminary evidence on the role of a T6SS in S. marcescens and other gram negative bacteria in the amphibian-Bd system therefore merits further examination.The upregulation of 2-dehydro 3-deoxy-phosphogluconate aldolase gene coding for a key regulatory enzyme in the Entner-Duodoroff ED pathway was seen in both S. marcescens strains in response to heat-killed Bd.
 
-2014. panamanian frog species host unique skin bell s. c. alford r. a. garland s. padilla g. and thomas a. d. 2013. screening bacterial metabolites for inhibitory effects against batrachochytrium dendrobatidis using a spectrophotometric assay.
+24 1628-1641. doi Belden L. K. Hughey M. C. Rebollar E. A. Umile T. P. Loftus S. C. Burzynski E. A. et al.
 
-24 1628-1641. doi belden l. k. hughey m. c. rebollar e. a. umile t. p. loftus s. c. burzynski e. a. et al.
+doi Woodhams D. C. Rollins-Smith L. A. Alford R. A. Simon M. A. and HarrisR.
 
-in the live bd treatment this experiment found 111 differentially expressed genes degs in s. marcescens strain one supplementary table 6 and 100 degs in s. marcescens strain two supplementary table 7. for the heat-killed bd treatments.
+doi Flechas S. V. Sarmiento C. Cardenas M. E. Medina E. M. Restrepo S. and Amezquita A.
 
-166 221-230. doi rollins-smith l. a. and conlon j. m. 2005. antimicrobial peptide defenses against chytridiomycosis an emerging infectious disease of amphibian rosenblum e. b. poorten t. j. joneson s. and settles m. 2012b.
-
-doi woodhams d. c. rollins-smith l. a. alford r. a. simon m. a. and harrisr.
-
-the serratia genus was the most common identified within the selected anti-bd bacteria isolates s. marcescens was the most common species supplementary table 5 and was found on three of the amphibian species.bacterial challenge assaysof the 90 bacterial isolates examined in the cell-free supernatant challenge assay 10 11.1 exhibited bd inhibition where p 0.05 and 2 2.2 enhanced bd growth figure 3 supplementary table 2. of the 86 isolates examined in the agar-based challenge assay figure 4 supplementary table 3 38 44.2 of isolates were characterized as anti-bd p  0.05. all but one isolate produced a zone-of-inhibition during the experiment supplementary table 3.we also compared the 68 isolates which were examined in both assays overall 30 exhibited anti-bd properties 44.1 supplementary table 4. of these 30 isolates 28 isolates 93.3 were shown to inhibit bd using the agar-based method but not the cell-free supernatant method and four isolates 13.3 were shown to inhibit bd using both methods.
-
-the introduction of other s. marcescens from other amphibian species and individuals would nullify the comparison of bacteria growing in the same environment although would still be interesting but ultimately outside the scope of this study.the results from the transcriptomic analysis portion of this study provide important information of a bacterial species with strongly inhibitory bd properties.
-
-while symbiotic bacteria are an effective defense against bd other innate defenses such as antimicrobial peptides amps secreted by dermal glands are important in conferring anti-bd properties rollins-smith and conlon 2005 conlon 2011. amp secretion has been shown to be variable between amphibian species and families creating many possible dynamics between amps and the amphibian bacterial microbiome conlon 2011. three of the amphibian species examined in this study belong to families known to secrete amps with anti-fungal properties and also host isolates identified as anti-bd by this study apponyi et al.
-
-17 478-486. doi bindschedler s. cailleau g. and verrecchia e. 2016. role of fungibrantl s. 2002. antisense-rna regulation and rna interference.
+doi Murdoch S. L. Trunk K. English G. Fritsch M. J. Pourkarimi E. and Coulthurst S. J.
 

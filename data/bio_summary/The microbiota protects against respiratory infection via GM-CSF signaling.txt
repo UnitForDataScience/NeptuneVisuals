@@ -1,30 +1,20 @@
-a-c il-17a levels in lung tissue 12 h post-inoculation with k. pneumoniae a and s. pneumoniae b c. for microbiota transfer mice were intranasally inoculated with 10 ml of upper respiratory tract lavage fluid and orally inoculated with 200 ml of fecal suspension 72 h prior to s. pneumoniae infection.
+a-c IL-17A levels in lung tissue 12 h post-inoculation with K. pneumoniae a and S. pneumoniae b c. For microbiota transfer mice were intranasally inoculated with 10 mL of upper respiratory tract lavage fluid and orally inoculated with 200 mL of fecal suspension 72 h prior to S. pneumoniae infection.
 
-here we identify members of the microbiota that protect against respiratory infection by the major human pathogens streptococcus pneumoniae and klebsiella pneumoniae.
+f g. Furthermore intranasal administration of recombinant IL-17A to antibiotic-treated mice rescued defects in respiratory GM-CSF production during infection with either K. pneumoniae or S. pneumoniae Fig.
 
-to begin to decipher the mechanisms by which the microbiota protects against respiratory infection we com- pared the effect of the microbiota on the innate response to and pulmonary clearance of s. pneumoniae gram-positive and k. pneumoniae gram-negative both of which are major respira-tory pathogens but rely on different mechanisms to cause dis- ease .
+Antibiotic-treated mice given rGM-CSF showed significantly greater survival during bacterial lung infection compared to antibiotic-treated mice given vehicle control Fig.
 
-to test the role of gm-csf mice were administered a gm-csf- neutralizing antibody concomitant with s. pneumoniae or k. pneumoniae infection.
+Statistical comparisons were by Mann-Whitney a b d-g or by one-way ANOVA with post-hoc Sidak's or Dunnett's test c h and j P  0.05 P  0.01 P  0.001 and NS not significantof non-antibiotic-treated mice into antibiotic-treated mice res- cued this defect in IL-17A production during lung infection Fig.
 
-d-g gm-csf levels in lung tissue 12 h post- inoculation with k. pneumoniae d f and s. pneumoniae e g. indicated groups were intranasally administered an il-17a-neutralizing antibody 100 mgmouse via intraperitoneal injection or isotype control 72 h prior to and concomitant with intranasal infection.
+In mice treated with isotype control antibody there were still significant defects in GM-CSF production during lung infection of mice treated with antibiotics Fig.
 
-f g. furthermore intranasal administration of recombinant il-17a to antibiotic-treated mice rescued defects in respiratory gm-csf production during infection with either k. pneumoniae or s. pneumoniae fig.
+l. Antibiotic-treated mice also suffered increased mortality during infection confirming the importance of the microbiota for protection against respiratory infection Fig.
 
-to do this we orally inoculated either consortium into antibiotic- treated mice prior to infection with s. pneumoniae and k. pneumoniae.
+In wild-type mice there was significantly higher GM-CSF production in response to K. pneumoniae LPS in mice administered the High Nod2-stimulating bacteria in the gastrointestinal tract compared to those given Low Nod2- stimulating bacteria given via the same route Fig.
 
-statistical comparisons were by mann-whitney a-f and h-l and student's t-test g p  0.05 p  0.01. m survival after intranasal challenge with s. pneumoniae n  12-13 micegroup groups were compared using the log-rank mantel-cox test p  0.05. n s. pneumoniae and o k. pneumoniae burden in the lung 12 h post-intranasal inoculation.
+To do this we orally inoculated either consortium into antibiotic- treated mice prior to infection with S. pneumoniae and K. pneumoniae.
 
-article doi 10.1038s41467-017-01803-xopenthe microbiota protects against respiratory infection via gm-csf signalingrebecca l. brown1 richard p. sequeira1  thomas b. clarke1the microbiota promotes resistance to respiratory infection but the mechanistic basis for this is poorly defined.
+To test the role of GM-CSF mice were administered a GM-CSF- neutralizing antibody concomitant with S. pneumoniae or K. pneumoniae infection.
 
-currently howeverthe identity of the microbial groups in the microbiota that are directly responsible for enhancing respiratory defenses why they have a dominant influence and how they integrate with the required host signaling pathways to protect against extra- intestinal infection is unclear.in this study we sought to identify members of the microbiota that drive protection against respiratory infection and to define the mechanistic basis for their effect.
-
-l. antibiotic-treated mice also suffered increased mortality during infection confirming the importance of the microbiota for protection against respiratory infection fig.
-
-to examine the role of il-17a in regulating lung gm- csf production during infection mice were treated with an il- 17a-neutralizing antibody 3 days prior to and concomitant with lung infection.
-
-collectively byidentifying bacteria in the microbiota that protect against respiratory infection and the mechanistic basis for their effect our work paves the way for translational studies investigating the potential of these resident bacteria to combat respiratory infection which remains a major cause of human mortality.methodsbacterial strains.
-
-anti-il-17a rd systems was administered 3 days prior to infection and concomitant with infection via the intraperitoneal route.alveolar macrophage bacterial killing assay.
-
-the microbiota has been shown to protect against sys- temic and respiratory infection by escherichia coli  influenza virus klebsiella pneumoniae  listeria monocytogenes staphylococcus aureus and streptococcus pneumoniae-.
+In line with these similar defects in bacterial clearance there was reduced intra- pulmonary production of GM-CSF chemokine C-X-C motif ligand 2 CXCL2 and CXCL1 critical signaling molecules in the innate response to respiratory infection in antibiotic-treated mice infected with S. pneumoniae Fig.
 

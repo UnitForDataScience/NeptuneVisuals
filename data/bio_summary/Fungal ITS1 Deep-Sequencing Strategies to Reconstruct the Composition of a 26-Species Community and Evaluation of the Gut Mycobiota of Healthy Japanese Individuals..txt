@@ -1,30 +1,20 @@
-these mycobiomes were composed of identifiable fungi such as tricosporon spp.lingzhi hypsizygus sublateritium and a. oryzae as well as a large number of sequences that could not be assigned to a known taxa.although the mycobiota of each individual participant did not show much diversity the identification of those unknown minor fungi in the mycobiota would be the next targets for research on human commensal microorganisms.
+These mycobiomes were composed of identifiable fungi such as Tricosporon spp.lingzhi Hypsizygus sublateritium and A. oryzae as well as a large number of sequences that could not be assigned to a known taxa.Although the mycobiota of each individual participant did not show much diversity the identification of those unknown minor fungi in the mycobiota would be the next targets for research on human commensal microorganisms.
 
-we determined that the mycobiota of healthy japanese individuals is comprised of a simple assemblage consisting of only one or a few species.discussioncomparison of ionpgm miseq and pacbio its1 sequencing for characterization of a fungal communitywe evaluated the performance of three sequencing technologies ionpgm miseq and pacbio for an its1 deep sequencing analysis of a 26-species fungal community.
+The database and methodology described here provide critical tools for the emerging field of mycobiome studies.Keywords mycobiota fungi internal transcribed spacer ITS high-throughtput sequencing HTS the gut mycobiota in JapaneseINTRODUCTIONComprehensive analysis of bacterial communities microbiota has been made possible with the advent of high-throughput sequencing HTS technologies.
 
-for example the its1 sequence of the well-known fungi saccharomyces cerevisiae has a length of approximately 460 bp however ionpgm do not completely read the its1 region with sufficient margins.
+Fungal communities mycobiota in the intestines clearly play an important role in the health of the host.Various genera of fungi have been detected in mycobiota analyses of the healthy human gut and the genera Saccharomyces Candida and Cladosporium have been detected in particularly high percentages        .
 
-for all sequencing technologies the longer its1 sequences shown in red wereunderestimated from the original mock sample and the shorter its1 which are shown in green were overestimated.
+Among the data associated with a small number of full-passes sequences that could not be identified such as those labeled as fungi or other were confirmed to account for less than 10 of sequences and were not present in data sets with a higher number of full-passes.
 
-however it must be noted that some fungi cannot be differentiated by the its region alone which is a limitation of this analysis      .mycobiota analysis of healthy japanese individualsour study is the first report analyzing the mycobiota of the feces of japanese individuals using deep its1 sequencing.
+While THF has sequences for only 1816 species ntF-ITS1 for 6525 species.
 
-the database and methodology described here provide critical tools for the emerging field of mycobiome studies.keywords mycobiota fungi internal transcribed spacer its high-throughtput sequencing hts the gut mycobiota in japaneseintroductioncomprehensive analysis of bacterial communities microbiota has been made possible with the advent of high-throughput sequencing hts technologies.
+However while the 16S rRNAgene used for bacterial microbiota analysis has a virtually identical length regardless of the species the length of the ITS region in fungi varies between species.
 
-fungal communities mycobiota in the intestines clearly play an important role in the health of the host.various genera of fungi have been detected in mycobiota analyses of the healthy human gut and the genera saccharomyces candida and cladosporium have been detected in particularly high percentages        .
+The number of fungal genera and species included in each database were summarized in Supplementary Table S1.Taxonomic Assignment of a Mock CommunityA mock community composed of 26 fungal species representing 15 genera  was used to evaluate the various methods of taxonomic assessment.
 
-because no its1 sequences were identified for rhodosporidium babjevae acremonium alternatum penicilliumdigitatum mucor ramosissimus or rhizopus oryzae in the curated ncbi-nt database we manually added these sequences to our database.
+Using this strategy for deep- sequencing analysis of the gut mycobiota in healthy Japanese individuals revealed two major mycobiota types a single-species type composed of Candida albicans or Saccharomyces cerevisiae and a multi-species type.
 
-raw sequences were trimmed using bbtrim software with mean quality value of 10-30. sequences without full length its1 i.e.
+Moreover analyses of the mycobiota in the oral cavity     and skin          have demonstrated that mycobiota populations vary according to sites on the body    .
 
-among the data associated with a small number of full-passes sequences that could not be identified such as those labeled as fungi or other were confirmed to account for less than 10 of sequences and were not present in data sets with a higher number of full-passes.
-
-dna was collected from the supernatant by isopropanol precipitation.amplification of its1 regions and sanger sequencing of the fungal mock communitypcr was performed using a primer set its1-f 5 -cttggtc atttagaggaagtaa-3  and its2 5 -gcatcgatgaagaacgcagc-3  targeted the its1 region of the its.
-
-in particular the its1 region of candida glabrata which was used as a representative of the genus nakaseomyces had an its1 length of 520 bp.
-
- 1  23  reiko tanaka4  takashi yaguchi4 kazuyoshi gotoh15  yuichi maeda23  yoki furuta2  2  naohisa goto1  teruo yasunaga1  masashi narazaki3  atsushi kumanogoh3  toshihiro horii1 1  2 and 1edited bymartin grube university of graz austriareviewed by nicola segata university of trento italy gerhard g. thallingergraz university of technology austriacorrespondenceshota nakamura  these authors have contributedequally to this work.specialty section this article was submitted to microbial symbiosesa section of the journal frontiers in microbiologyreceived 21 january 2016accepted 03 february 2017published 15 february 2017citation motooka d fujimoto k tanaka r yaguchi t gotoh k maeda y furuta y kurakawa t goto n yasunaga t narazaki m kumanogoh a horii t iida t takeda k and nakamura s 2017 fungal its1 deep-sequencing strategies to reconstructthe composition of a 26-species community and evaluation of the gut mycobiota of healthy japanese individuals.
-
-however the original composition could not be reconstructed accurately when the mqv was set over 21. mycobiota analysis using ionpgm depended largely on the length of the its1 regions.
-
-using this strategy for deep- sequencing analysis of the gut mycobiota in healthy japanese individuals revealed two major mycobiota types a single-species type composed of candida albicans or saccharomyces cerevisiae and a multi-species type.
+Because reports of the analysis of human mycobiomes have been relatively rare and the gut mycobiota is particularly poorly understood         we analyzed the mycobiota of feces from healthy Japanese subjects.
 

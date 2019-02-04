@@ -1,0 +1,20 @@
+The two sites harbored significantly different bacterial community structures on each of the three genes used 16S rDNA PERMANOVA F 5 13.07 R2 5 0.48 p 5 0.001amoA PERMANOVA F 5 5.13 R2 5 0.21 p 5 0.001 nifHPERMANOVA F 5 7.35 R2 5 0.29 p 5 0.001 confirmed bypost hoc tests on NMDS axis Table S7 Figs 2 and 3 while community structures among the three blocks of a same site were not significantly different 16S rDNA PERMANOVA F 5 3.06 R2 5 0.63 p 5 0.81 amoA PERMANOVAF 5 1.32 R2 5 0.36 p 5 0.92 nifH PERMANOVA F 5 1.88R2 5 0.44 p 5 0.89.Whatever the marker pH envfit test p 5 0.001 CN ratio envfit test p  0.007 and OM content envfit test p  0.01 were the three main pedological factors explain- ing the difference between the two sites.Only site T harbored specific bacterial community struc-significantly different bacterial community structures 16S rDNA and nifH post hoc tests Table S7 while mosaic and grassland ones were similar 16S rDNA and nifH post hoc tests Table S7.
+
+Soil analyses are reported in TableCompared to site P site T had higher values of CN ratios F 5 30.8 p 5 4.4 3 1025 total carbon Ctot F 5 13.6 p 5 2.0 3 1023 and soil organic matter OM F 5 23.7 p 5 2.0 3 1024.
+
+Forest and grassland soils were the most different with the lowest values of CN ratio and pH occurring in soils at the forest stage and the highest values in soils at the grassland stage Table 1 respectively F 5 19.7 p 5 0.004 and p 5 0.002 F 5 160.
+
+Richness was significantly higher in soil than in root Table 2 ANOVA p 5 6.78 3 1025 and roots and soil had verydistinct communities PERMANOVA F 5 4.7 R2 5 0.12 p 5 0.001 confirmed by post hoc tests on NMDS axis Table S7.
+
+Inorganic nitrogen Nin and inorganic carbon Cin content were not significantly different between the two sites respectively p 5 0.2 and p 5 0.9.Although marginally significant Permanova p 5 0.076the PCA based on soil properties of site T suggested sta- tistical variation among the three successional stages along axes 1 45.8 and 2 24.5 associated mostly with CN ratio and pH variation data not shown.
+
+In contrast satura- tion was almost reached when the three samples coming from a same site and the same successional stage were pooled Supporting information 1.Richness and diversity Shannon and Simpson indexes on 16S rDNA sequences were significantly higher at site P than at site T Table 3 ANOVA respectively p 5 1.31 3 1028 p 5 1.69 3 1025 and p 5 4.44 3 1028and as expected significantly higher in soil than in nodules on 16S rDNA sequences Table 2 ANOVA p  3.1026 and nifH ANOVA p  2.10214.Whatever the marker no difference in bacterial richness and diversity was observed between successional stages at site P Table 3.
+
+Whatever the genetic marker considered site P communities were evidently not shaped by the successional stages PERMANOVA F 5 0.97 R2 5 0.24 p 5 0.5.Diversity and composition of fungal communitiesThe ITS1 run produced 178057 sequences that belonged to 16266 distinct sequences and clustered in 2824 OTUs.
+
+Compared to previous studies on alders most lineages were detected especially Thelephoraceae and Alnicola genus but the Alpova genus was still particu- larly rare Supporting information 2.Compared to the total fungal community EM species richness was apparently again not influenced by the site ANOVA p 5 0.08 but rather influenced by the source of the soil sample soil vs. roots ANOVA p 5 0.001 and by the successional stage ANOVA p 5 0.0001.
+
+Diversity of Frankia was significantly higher in soil than in nodule ANOVA1 p 5 0.005 but did not vary according to the alder successional stage ANOVA1 p 5 0.5.Using the absolute quantification with a qPCR approach Frankia nifH copy numbers were significantly different between soil samples from the two sites ANOVA F 5 7.5 p-value  0.02 with a higher density of copy at site T than at site P Supporting information 5a.
+
+All pH values were more alka- line at site P F 5 46.6 p 5 4.1e - 6.
+

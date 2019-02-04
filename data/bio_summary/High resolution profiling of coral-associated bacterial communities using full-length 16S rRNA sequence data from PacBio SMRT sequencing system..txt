@@ -1,30 +1,20 @@
-evaluated the validity of species richness estimates calculated using pyrosequencing-derived fragments and their correlations to estimates produced using nearly complete 16s rrna sequences and demonstrated that divergent estimates of otus and species richness could be over- or underestimated depending on the hypervariable regions used.
+The number of processed full-length 16S rRNA sequences per coral sample ranged from 20453 to 60143 with an average of 31761 readssample Table .Due to the high cost of Sanger sequencing the number of full-length 16S rRNA sequences investigated in coral microbiome studies typically ranged from 50 to 200 reads per sample-  which was insufficient to capture the complete diversity of the population.
 
-barcoded 16s rrna amplicons obtained from the secondary pcr were purified using agentcourt ampure xp magnetic beads beckman coulter indianapolis in usa and quantified using a qubit 2.0 fluorometer and a qubit dsdna br assay kit thermo fisher scientific waltham ma usa.
+The number and percentage of bacterial species within each genus identified in our coral microbiome that were classifiable using the V3-V4 V5-V6 or full-length 16S rRNA sequences are shown in Supplementary Table .
 
-to identify candidate members of the core microbiomefull-length 16s rrna sequences were aligned to the non-redundant rdp reference sequences using blast with a sequence identity cutoff of 90.comparison of species detection between full-length and partial 16s rrna amplicons.
+Microbial communities associated with Porites corals also comprised members of other commonly occurring marine and coral bacterial phyla including Bacteroidetes Firmicutes Lentisphaerae and Cyanobacteria.Proteobacteria account for the majority of bacterial diversity in most of the marine environment including tropical coral species  temperate and cold-water scleractinians and octocorals .
 
-this is in agreement with our finding that bacteria that form stable and species-specific associations may be present at low relative abundance in the coral microbiome.superior performance of full-length 16s rrna sequences in taxonomical classification at spe- cies resolution.resolving the taxonomy of 16s rrna sequences based solely on limited segments of the 16s rrna gene derived from next generation sequencing can be challenging.
+Despite the importance of bacterial associates to coral hosts there have been very few studies that focused on the identification and charac- terisation of species-specific association between corals and bacteria.Historically environmental 16S rRNA gene profiling was performed using clone-based Sanger sequencing which provided accurate full-length or near full-length sequences.
 
-the static map of the gulf of thailand and andaman sea displayed was queried from the google maps map datac2016 google using the function 'getmap' in the 'ggmap' package.figure 2. two-step generation of 16s amplicons for pacbio sequencing using m13-tagged barcoded primers.
+OPENReceived 16 January 2017Accepted 24 April 2017 Published xx xx xxxxHigh resolution profiling of coral- associated bacterial communities using full-length 16S rRNA sequence data from PacBio SMRT sequencing systemWirulda Pootakham1 Wuttichai Mhuantong1 ThippawanYoocha1 Lalita Putchim2 Chutima Sonthirod1 Chaiwat Naktang1 Nalinee Thongtham2  Sithichoke Tangphatsornruang1Coral reefs are a complex ecosystem consisting of coral animals and a vast array of associated symbionts including the dinoflagellate Symbiodinium fungi viruses and bacteria.
 
-using a confidence threshold of 80 552908 out of 571710 filtered reads were assigned using the rdp classifiers.
+The similarity among different bacterial assemblages was determined using the Euclidean distance matrix and the dendrogram was calculated using an UPGMA clustering algorithm imple- mented in the STAMP software.Indicator species analysis and identification of P. lutea core microbiome.
 
-it is worth noting that the performance comparison reported here was based on in silico-amplified v3-v4 and v5-v6 fragments which only considered the classification power of the sequences in those regions.however it did not take into account the priming bias of the primers which was one of the important factors responsible for differences in community profiles evaluated using different primer sets.an unusually low proportion 32.33 of total sequences from tc could be classified at the species level using the v3-v4 sequences fig.
+This is in agreement with our finding that bacteria that form stable and species-specific associations may be present at low relative abundance in the coral microbiome.Superior performance of full-length 16S rRNA sequences in taxonomical classification at spe- cies resolution.Resolving the taxonomy of 16S rRNA sequences based solely on limited segments of the 16S rRNA gene derived from next generation sequencing can be challenging.
 
-the similarity among different bacterial assemblages was determined using the euclidean distance matrix and the dendrogram was calculated using an upgma clustering algorithm imple- mented in the stamp software.indicator species analysis and identification of p. lutea core microbiome.
+The full-length 16S rRNA sequences along with their respective V3-V4 and V5-V6 regions werealigned to the non-redundant RDP reference bacterial type strain sequences using BLAST with an E-value cutoff of 10-10.
 
-openreceived 16 january 2017accepted 24 april 2017 published xx xx xxxxhigh resolution profiling of coral- associated bacterial communities using full-length 16s rrna sequence data from pacbio smrt sequencing systemwirulda pootakham1 wuttichai mhuantong1 thippawanyoocha1 lalita putchim2 chutima sonthirod1 chaiwat naktang1 nalinee thongtham2  sithichoke tangphatsornruang1coral reefs are a complex ecosystem consisting of coral animals and a vast array of associated symbionts including the dinoflagellate symbiodinium fungi viruses and bacteria.
+Besides being found embedded deep within tissues of Stylophora pistillata and Pocillopora verrucosa cor- als Endozoicomonas appears to inhabit the coral surface mucus layer and the coral skeletonof both Acropora and Porites corals and its function has been speculated to be involved in biofilm production that allowed other bacteria to colonize coral surfaces.
 
-despite the importance of bacterial associates to coral hosts there have been very few studies that focused on the identification and charac- terisation of species-specific association between corals and bacteria.historically environmental 16s rrna gene profiling was performed using clone-based sanger sequencing which provided accurate full-length or near full-length sequences.
-
-barcoded full-length 16s rrna amplicons were generated using a two-step pcr approach.
-
-even though pacbio sequencing is not as cost-effective as some of the available short-read platforms such as illumina it is still much more economical to obtain full-length 16s rrna gene sequences using pacbio technology compared to the alternative sanger sequencing.
-
-the first round of pcr amplifies full-length 16s rrna fragments using gene-specific primers tailed with universal m13 forward or reverse sequence.
-
-until pcr product bands were barely visible on agarose gels was chosen for both primary and sec- ondary reactions.assessment of p. lutea-associated bacterial diversity using high-coverage pacbio 16s rrna gene sequences.
-
-pcr primer selection or 16s rrna regions used for analyses.figure 3. taxonomic classification of otus at the phylumclass levels based on greengenes database using qiime software.habitat influences on the composition of coral-associated bacterial communities.
+Environ Microbiol 11 2148-2163 doi2009.Neulinger S. C. Jarnegren J. Ludvigsen M. Lochte K.  Dullo W. C. Phenotype-specific bacterial communities in the cold-water coral Lophelia pertusa Scleractinia and their implications for the coral's nutrition health and distribution.
 

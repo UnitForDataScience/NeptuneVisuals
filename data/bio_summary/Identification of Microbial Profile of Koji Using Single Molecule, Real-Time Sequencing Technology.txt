@@ -1,30 +1,20 @@
-bioinformatics262266-7.caporaso jg kuczynski j stombaugh j bittinger k bushman fd costello ek fierer n pena ag goodrich jk gordon ji huttley ga kelley st knights d koenig je ley re lozupone ca mcdonald d muegge bd pirrung m reeder j sevinsky jr turnbaugh pj walters wa widmann j yatsunenko t zaneveld j knight r. 2010b.
+Bioinformatics262266-7.Caporaso JG Kuczynski J Stombaugh J Bittinger K Bushman FD Costello EK Fierer N Pena AG Goodrich JK Gordon JI Huttley GA Kelley ST Knights D Koenig JE Ley RE Lozupone CA McDonald D Muegge BD Pirrung M Reeder J Sevinsky JR Turnbaugh PJ Walters WA Widmann J Yatsunenko T Zaneveld J Knight R. 2010b.
 
-the detection of a different spectrum of bacterial taxa in the koji samples from other traditional fermented foods may be attributed to the fact that koji is a fermentation starter rather than the final fermentation product.taxonomic profiling of fungal community of the koji samplesthe smrt generated a total of 24767 high-quality fungal se- quences from all samples which could be classified into 1552 otus that is 672 otus in sample 1 556 otus in sample 2figure 4-relative abundances of identified bacterial species.figure 5-distribution of fungal operational taxonomic units otus.and 772 otus in sample 3 respectively.
+Int J Food Microbiol 20022-30.Bechman A Phillips RD Chen J.
 
-besides 28 3.7 otus were found in both sample 1 and sample 3. the number of unique otus for the 3 samples were 133 17.4 219 28.7 and 13217.3 respectively.table 1-sample information sequence abundance and microbial diversity of koji samples.nr of readsnr of otusshannon indexsimpson indexchao 1 indexnr of observed speciesfigure 1-rarefaction a and shannon diversity index b curves of the bacterial communities in the koji samples.
+Int J Food Microbiol 1231-2134-41.Chen X Li J Zhang L Xu X Wang A Yang Y.
 
-the black red and blue lines represent samples 1 2 and 3 respectively.the phylogenic distribution of the otus at phylum and genus levels is listed in table 2. proteobacteria was the major phylum across all samples with 99.79 99.7 and 99.55 in samples 1 to 3 respectively.
+J Dairy Sci 98128464-72.Kim AJ Choi JN Kim J Park SB Yeo SH Choi JH Lee CH.
 
-twenty-three 1.3 31 1.8 and 39 2.3 otus were commonly foundbetween samples 1 and 2 samples 2 and 3 and samples 3 and 1 respectively.
+Afr J Biochem Res 9235-39.Sakamoto N Tanaka S Sonomoto K Nakayama J.
 
-the extraction of dna was performed as soon as the samples were delivered to the laboratory.sample pretreatment and dna extractionten grams of koji samples were suspended in 90 ml of phosphate buffer saline and homogenized for 1 h in a shaking incubator.
+Int J Food Microbiol 1443352-9.Shang Y-L Chen L-L Zhang Z-H Lu J.
 
-however they shared a common shortfall of a relatively low taxonomic resolution due to the short sequence reads.rarefaction curves and shannon diversity estimates of the sam- ples shared a similar pattern across all samples and for both bacteria and fungi figures 1 and 2. the results showed that the shannon diversity has reached the saturation phase but the rarefaction curves did not indicating that new phylotypes might be detected with further sequencing though the majority of microbial phylotypes present in the koji samples had already been capture.
+J Food Sci 809M2005-2014.Sun Z Liu W Bao Q Zhang J Hou Q Kwok L Sun T Zhang H. 2014.
 
-our results also found a similar spectrum of microorganisms.taxonomic profiling of bacterial community of the koji samplesthe bacterial otu distribution of the 3 samples is presented with a venn diagram figure 3. one hundred and forty-eight otus 19.4 were common to all samples.
+J Dairy Sci 97106085-96.Tanaka Y Watanabe J Mogi Y.
 
-the black red and blue lines represent samples 1 2 and 3 respectively.figure 2-rarefaction a and shannon diversity index b curves of the fungal communities in the koji samples.
+Dis Aquat Organ 803211-8.Xu H Liu W Gesudu Q Sun Z Zhang J Guo Z Zheng Y Hou Q Yu J Qing Y Kwok LY Menhe B Zhang H. 2015.
 
-int j food microbiol 20022-30.bechman a phillips rd chen j.
-
-int j food microbiol 1231-2134-41.chen x li j zhang l xu x wang a yang y.
-
-int j food microbiol 1443352-9.shang y-l chen l-l zhang z-h lu j.
-
-j food sci 809m2005-2014.sun z liu w bao q zhang j hou q kwok l sun t zhang h. 2014. investigation of bacterial and fungal diversity in tarag using high-throughput sequencing.
-
-5 2017further reproduction without permission is prohibitedjournal of food science 1193materials and methodssampling of kojithe 3 koji samples sample 1 sample 2 and sample 3 were purchased from a japanese supermarket.
-
-int j food microbiol 1303188-95.giri a osako k ohshima t. 2009. extractive components and taste aspects of fermented fish pastes and bean pastes prepared using different koji molds as starters.
+J Food Sci 776M318-322.
 

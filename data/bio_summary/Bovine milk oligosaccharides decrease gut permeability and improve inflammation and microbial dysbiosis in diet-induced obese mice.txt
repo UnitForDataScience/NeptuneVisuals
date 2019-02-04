@@ -1,30 +1,20 @@
-on the other hand at the gut level the wd diet had a profound effect on gut barrier function and gut microbiota as already described cani et al.
+On the other hand at the gut level the WD diet had a profound effect on gut barrier function and gut microbiota as already described Cani et al.
 
-changes in gut barrier function are also seen in obesity and have been proposed to connect microbial dysbiosis to obesity raybould 2012. the gut microbiota and barrier function are highly responsive to gut environment kashyap et al.
+Rarefaction curves A unweighted B and weighted C UniFrac analysis significant changes in relative genus abundance D and average relative abundance of Rikinellaceae E Coprococcus F Allobaculum G Ruminococcus H Lactobacillus I and Bifidobacterium J in cecal CA and colonic CO microbiota of mice fed a control chow C blue or Western diet WD for 7 wk green or WD for 5 wk followed by WD supplemented with bovine milk oligosaccharides WDBMO for 2 wk red.
 
-in particular bmo increased the relative abundance of lactobacillus and reduced the overabundance of allobaculum and ruminococcus which had bloomed with the wd diet.the main effect on gut microbiota induced by addition of bmo to the wd diet in our model was the increased abundance of lactobacillus from an average 6-10 to 30-39.lactobacillus is not known to be the best bacteria to metabolize milk oligosaccharides as opposed to bifidobacterium species which harbor distinctive gene clusters that are specifically induced during growth on hmo barile and rastall 2013. yet several studies reported weak growth of a few species of lactobacillus on hmo in vitro ward et al.
+.Caporaso JG Kuczynski J Stombaugh J Bittinger K Bushman FD Costello EK Fierer N Pena AG Goodrich JK Gordon JI Huttley GA Kelley ST Knights D Koenig JE Ley RE Lozupone CA McDonald D Muegge BD Pirrung M Reeder J Sevinsky JR Turnbaugh PJ Walters WA Widmann J Yatsunenko T Zaneveld J Knight R. QIIME allows analysis of high-throughput community sequencing data.
 
-simpson diversity index in the cecum and the colon was reduced by the wd diet consumption but restored cecum or partially restored colon by addition of bmo to the wd table 1. the shannon diversity index showed the same pattern although addition of bmo did not significantly restore the index to the control level table 1. unweighted unifrac analysis clearly distinguishes the 3 dietary groups with the c samples separating from wd and wdbmo samples along the first axis whereas wd and wdbmo separated along the second axis figure 3b.
+The gut microbiota and barrier function are highly responsive to gut environment Kashyap et al.
 
-there was a significant increase in levels of tnf-a mrna in wd versus c mice in the colonic mucosa addition of bmo to the wd normalized the levels of this inflammatory marker figure 4g.discussionwe demonstrated that whey-extracted bmo ameliorates wd-induced gut microbiota dysbiosis and intestinal barrier function in mice.
+There was a significant increase in levels of tnf-a mRNA in WD versus C mice in the colonic mucosa addition of BMO to the WD normalized the levels of this inflammatory marker Figure 4G.DISCUSSIONWe demonstrated that whey-extracted BMO ameliorates WD-induced gut microbiota dysbiosis and intestinal barrier function in mice.
 
-rarefaction curves a unweighted b and weighted c unifrac analysis significant changes in relative genus abundance d and average relative abundance of rikinellaceae e coprococcus f allobaculum g ruminococcus h lactobacillus i and bifidobacterium j in cecal ca and colonic co microbiota of mice fed a control chow c blue or western diet wd for 7 wk green or wd for 5 wk followed by wd supplemented with bovine milk oligosaccharides wdbmo for 2 wk red.
+In particular BMO increased the relative abundance of Lactobacillus and reduced the overabundance of Allobaculum and Ruminococcus which had bloomed with the WD diet.The main effect on gut microbiota induced by addition of BMO to the WD diet in our model was the increased abundance of Lactobacillus from an average 6-10 to 30-39.Lactobacillus is not known to be the best bacteria to metabolize milk oligosaccharides as opposed to Bifidobacterium species which harbor distinctive gene clusters that are specifically induced during growth on HMO Barile and Rastall 2013.
 
-2015. transfer of the gut microbiota from obese mice into lean germ-free mice recapitulates the obese phenotype turnbaugh et al.
+Transfer of the gut microbiota from obese mice into lean germ-free mice recapitulates the obese phenotype Turnbaugh et al.
 
-2014. moreover dietary components and timing of intervention alter gut microbiota differently clarke et al.
+Moreover dietary components and timing of intervention alter gut microbiota differently Clarke et al.
 
-2017 april  1004 2471-2481. doi10.3168jds.2016-11890.bovine milk oligosaccharides decrease gut permeability and improve inflammation and microbial dysbiosis in diet-induced obese micegaelle boudry1 m. kristina hamilton maciej chichlowski2 saumya wickramasinghe3 daniela bariless karen m. kalanetrass david a. millsss and helen e. raybouldssinra ur1341 alimentation adaptations digestives nerveuses et comportementales saint- gilles france f-35590department of anatomy physiology and cell biology school of veterinary medicine university of california davis 95616department of food science and technology university of california davis 95616ssfoods for health institute university of california davis 95616abstractobesity is characterized by altered gut homeostasis including dysbiosis and increased gut permeability closely linked to the development of metabolic disorders.
+Body weight A plasma leptin levels B fasted glycemia C and plasma LPS-binding protein LBP levels D were measured in mice fed a control chow C diet or Western diet WD for 7 wk or WD for 5 wk followed by WD supplemented with bovine milk oligosaccharides WDBMO for 2 wk.
 
-infantis can reverse the gut microbial dysbiosis and altered gut permeability induced by ingestion of the western diet wd.
-
-body weight a plasma leptin levels b fasted glycemia c and plasma lps-binding protein lbp levels d were measured in mice fed a control chow c diet or western diet wd for 7 wk or wd for 5 wk followed by wd supplemented with bovine milk oligosaccharides wdbmo for 2 wk.
-
-cecal ex vivo permeability to fitc-4000 fd-4 sigma aldrich st. louis mo a and horseradish peroxidase hrp sigma aldrich b cecal conductance c colonic ex vivo permeability to fd-4 d and hrp e colonic conductance f and colonic tumor necrosis factor tnf-a mrna levels g were evaluated in mice fed a control chow c diet or western diet wd for 7 wk or wd for 5 wk followed by wd supplemented with bovine milk oligosaccharides wdbmo for 2 wk.
-
-c mice fed a control chow diet wd mice fed western diet for 7 wk wdbmo mice fed wd for 5 wk followed by wd supplemented with bovine milk oligosaccharides for 2 wk.
-
-the bmo supplementation reduced wd-induced increase in paracellular and transcellular flux in the large intestine as well as mrna levels of the inflammatory marker tumor necrosis factor a. in conclusion bmo are promising prebiotics to modulate gut microbiota and intestinal barrier function for enhanced health.keywordsprebiotic obesity gut homeostasis1corresponding author 2current address mead johnson nutrition evansville in 47721.
-
-the bmo- supplemented mice exhibited improved gut barrier function and microbiota after 2 wk compared with nonsupplemented obese mice however we did not detect b. infantis in theboudry et al.page 3luminal contents of the gut 1 wk after the last gavage.
+Cecal ex vivo permeability to FITC-4000 FD-4 Sigma Aldrich St. Louis MO A and horseradish peroxidase HRP Sigma Aldrich B cecal conductance C colonic ex vivo permeability to FD-4 D and HRP E colonic conductance F and colonic tumor necrosis factor TNF-a mRNA levels G were evaluated in mice fed a control chow C diet or Western diet WD for 7 wk or WD for 5 wk followed by WD supplemented with bovine milk oligosaccharides WDBMO for 2 wk.
 

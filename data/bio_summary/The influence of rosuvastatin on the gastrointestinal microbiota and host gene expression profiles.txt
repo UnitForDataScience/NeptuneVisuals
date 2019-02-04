@@ -1,30 +1,20 @@
-we also demonstrate a significant increase in the expression of the gene encoding the antimicrobial peptide camp one of a family of peptides with known functions in regulating the local composition of the microbiota 60 62. interestingly other groups have shown the induction of muco- sal cathelicidin by statin simvastatin treatment 3 9 whereas the in vitro antimicrobial activity of neutrophils is also en- hanced following exposure to statin mevastatin 9. we also observed a significant increase in local expression of genes encoding inos2 and the mucin muc2 factors that are likely to impact locally on the composition of the microbiota 24.it has been previously shown that oral administration of cholic acid to rats significantly alters the composition of the gut microbiota 21 63. in our study rsv administration in mice reduced expression of cyp3a and cyp27a1 in the liver and reduced overall levels of gallbladder ca tca and tcdca and hepatic and fecal ca and cdca.
+This study suggests that a commonly used statin RSV leads to an altered gut microbial composition in normal mice with attendant impacts on local gene expression profiles a finding that should prompt further studies to investigate the impli- cations of statins for gut microbiota stability and health in humans.NEW  NOTEWORTHY This work demonstrates that rosuvastatin administration in mice affects the gastrointestinal microbiota influ- ences bile acid metabolism and alters transcription of genes encoding factors involved in gut homeostasis and immunity in the gastrointes- tinal tract.bile acid inflammation isoprenoid microbiota statinSTATINS ARE AMONG the most commonly used medications worldwide 26.
 
-relative changes in gene expression were determined using the 2c method 31 with 3-actin as the housekeeping or reference gene.bile acid extraction.
+While immune param- eters and bile acid profiles are known to exert a powerful influence on the microbiota we recognize that other physio- logical parameters including regulation of local cholesterollevels 35 36 may also potentially influence the structure of the gut microbial community.In the current study we demonstrate that oral RSV alters the gut microbiota in mice and also influences bile acid profiles and local gene expression profiles.
 
-b rsv influenced host expression of hmgr in the liver as determined using qrt-pcr.
+BAs can alter the micro- bial content of the gut through impacts on individual microor- ganisms and ratios of various BAs in the gut are likely to influence microbiota composition 21 28 63.
 
-c rsv influenced host expression of ldlr in the liver as determined using qrt-pcr.
+RSV treatment of mice significantly af- fected bile acid metabolism and impacted expression of inflammatory markers known to influence microbial community structure including RegIII-y and Camp in the gut.
 
-relative changes in gene expression are indicated using 3-actin as reference gene.
+B. wadsworthia was not affected by RSV except at the highest concentration 3 mgml.Oral RSV modulates expression of gut defensins and local and systemic cytokines in C57Bl6 mice.
 
-relative changes in gene expression are indicated using 3-actin as reference gene.
+As RSV was seen to alter the gut microbiota in our initial study we carried out a separate experiment to examine the effects of statin treatment on local and hepatic gene expression profiles in the host.
 
-a gene expression profiles of hepatic genes encoding key enzymes in the biosynthesis of bas in control mice or mice administered rsv.1000control800qrt-pcr amplifications performed on a roche lightcycler480 system using appropriate primers.
+We also observed a significant increase in local expression of genes encoding iNOS2 and the mucin Muc2 factors that are likely to impact locally on the composition of the microbiota 24.It has been previously shown that oral administration of cholic acid to rats significantly alters the composition of the gut microbiota 21 63.
 
-analysis of relative gene expression data using real-time quantitative pcr and the 2-delta ct method.
+Ezetimibe and simvastatin modulate gut microbiota and expression of genes related to cholesterol metabolism.
 
-amplicons were pooled and cleaned using the ampure xp purification system beckman and coulter takeley uk and dna concentration was determined using the nanodrop 3300 fluorospectrometer thermo scientific coupled with the quant-it picogreen dsdna assay kit invitrogen.
+Xenobiotics shape the physi- ology and gene expression of the active human gut microbiome.
 
-results were filtered before tree construction and summa- rization by the use of bit scores from within megan where a cut-off bit score of 86 was employed 52 59. the qiime software suite was employed to achieve clustering of sequence reads into operational taxonomic units otus 5. chimeric otus were removed using the chimeraslayer program 16 and phylogenetic trees were constructed using the fasttreemp tool 50.
-
-primers for rt-pcr were designed for targets using the roche probe finder v. 2.5 web-based software and performed using the roche universal probe library for mouse roche no.
-
-04869877001. complementary cdna was synthesized by reverse transcription using roche reverse transcriptase enzyme roche using the applied biosystems veriti 96-well thermal cycler under the following conditions 25degc10 min 55degc30 min 85degc5 min and held forever at 4degc.
-
-am j physiol gastrointest liver physiol 312 g488-g497 2017. first published february 16 2017 doi10.1152ajpgi.00149.2016.research article microbiome and host interactionsthe influence of rosuvastatin on the gastrointestinal microbiota and host gene expression profilesj.
-
-the influence of rosuvastatin on the gastrointestinal microbiota and host gene expression profiles.
-
-rsv treatment of mice significantly af- fected bile acid metabolism and impacted expression of inflammatory markers known to influence microbial community structure including regiii-y and camp in the gut.
+In another recent study administration of simva- statin to mice ad libitum in the diet for 1 wk did not signifi- cantly influence major genera of gut bacteria whose abundance was measured using a targeted qPCR approach 6.
 

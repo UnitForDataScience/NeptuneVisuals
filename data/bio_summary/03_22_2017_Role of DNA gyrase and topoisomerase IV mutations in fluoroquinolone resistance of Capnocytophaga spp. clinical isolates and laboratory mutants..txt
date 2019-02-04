@@ -1,30 +1,20 @@
-for permissions please email table 1. primer sequences used to amplify the qrdrs of gyra gyrb parc and pare of capnocytophaga spp.apairs of specific pcr primers of the table were designed in this study except cgyra.bct ag at and cg correspond respectively to c or t a or g a or t and c or g nucleotides.ccorresponding to amino acid position of gyra of c. gingivalis accession number eek14408.1 gyrb of c. gingivalis accession number eek13479.1 parc of capnocytophaga ochracea accession number wp002673707.1 and c. gingivalis accession number wp002669241.1 and pare of c. sputi- gena wp040361975.1 and c. gingivalis wp002668274.1.dthe primer sets parc6fc4r and pare2 were used for amplification of the parc and pare genes in c. gingivalis.
+Primer sequences used to amplify the QRDRs of gyrA gyrB parC and parE of Capnocytophaga spp.aPairs of specific PCR primers of the table were designed in this study except CgyrA.bCT AG AT and CG correspond respectively to C or T A or G A or T and C or G nucleotides.cCorresponding to amino acid position of GyrA of C. gingivalis accession number EEK14408.1 GyrB of C. gingivalis accession number EEK13479.1 ParC of Capnocytophaga ochracea accession number WP002673707.1 and C. gingivalis accession number WP002669241.1 and ParE of C. sputi- gena WP040361975.1 and C. gingivalis WP002668274.1.dThe primer sets ParC6FC4R and ParE2 were used for amplification of the parC and parE genes in C. gingivalis.
 
-were isolated from the subgingival flora of patients with haematological cancer c. gingivalis aa6 c. gingivalis ag44 and c. sputigena ah47and from a lung infection c. gingivalis a0.species-level identification was per- formed by analysis of 16s rrna sequences.mics were determined by the etest method biome'rieux craponne france for ofloxacin norfloxacin ciprofloxacin levofloxacin and moxifloxa- cinwithout standard interpretation available for the genus capnocytophaga.
+were isolated from the subgingival flora of patients with haematological cancer C. gingivalis Aa6 C. gingivalis Ag44 and C. sputigena Ah47and from a lung infection C. gingivalis A0.Species-level identification was per- formed by analysis of 16S rRNA sequences.MICs were determined by the Etest method bioMe'rieux Craponne France for ofloxacin norfloxacin ciprofloxacin levofloxacin and moxifloxa- cinwithout standard interpretation available for the genus Capnocytophaga.
 
-sputigenaofx ofloxacin cip ciprofloxacin lvx levofloxacin mxf moxifloxacin nor norfloxacin.athe symbol -- indicates the absence of mutation presumed qrdr of gyra c. gingivalis eek14408.1 and c. sputigena eeb66463.1 position 81-82 positioned by sequence homology with b. fragilis cah08193.1 position 81-82and e. coli egt66353.1 position 83-87 presumed qrdr of gyrb c. gingivalis eek13479.1 position 421 and 483 positioned by sequence homology with b. fragilis position 415 and 478 ab017713.1and e. coli position 296 and 359 wp032218993.1 presumed qrdr of parc c. ochracea wp002673707.1 amino acid position 80 positioned by sequence homology with gyra from c. ochracea zp10368497.1 presumed pare qrdr of c. gingivalis wp002668274.1 position 438-451 and c. sputigena wp040361975.1 position 431-444 positioned by sequence homology with e. coli u00096.3 position 445-458x stop codon.bs5m1 mutants were selected from the parental strain s5 on levofloxacin at twice the mic 0.5 mgl.
+sputigenaOFX ofloxacin CIP ciprofloxacin LVX levofloxacin MXF moxifloxacin NOR norfloxacin.aThe symbol -- indicates the absence of mutation presumed QRDR of GyrA C. gingivalis EEK14408.1 and C. sputigena EEB66463.1 position 81-82 positioned by sequence homology with B. fragilis CAH08193.1 position 81-82and E. coli EGT66353.1 position 83-87 presumed QRDR of GyrB C. gingivalis EEK13479.1 position 421 and 483 positioned by sequence homology with B. fragilis position 415 and 478 AB017713.1and E. coli position 296 and 359 WP032218993.1 presumed QRDR of ParC C. ochracea WP002673707.1 amino acid position 80 positioned by sequence homology with GyrA from C. ochracea ZP10368497.1 presumed ParE QRDR of C. gingivalis WP002668274.1 position 438-451 and C. sputigena WP040361975.1 position 431-444 positioned by sequence homology with E. coli U00096.3 position 445-458X stop codon.bS5M1 mutants were selected from the parental strain S5 on levofloxacin at twice the MIC 0.5 mgL.
 
-hitherto unknown was explored in this study.methods two reference strains capnocytophaga gingivalis atcc 33624 and capnocytophaga sputigena atcc 33612 and four capnocytophaga spp.
+hitherto unknown was explored in this study.Methods Two reference strains Capnocytophaga gingivalis ATCC 33624 and Capnocytophaga sputigena ATCC 33612 and four Capnocytophaga spp.
 
-otherwise all primer sets were univer-sally used to amplify gyra and gyrb gene loci in each capnocytophaga species analysed.resistance-determining regions qrdrs of chromosomal dna gyrase and topoisomerase iv genes confer fq resistance.the aim of this study was i to determine the role of dna gyrase and topoisomerase iv mutations gyragyrb and parcpare respectively in resistant clinical capnocytophaga isolates and in laboratory mutants selected in vitro on levofloxacin- supplemented medium and ii to study the mutation frequencies of the strains.materials and methodstwo reference strains s1capnocytophaga gingivalis atcc 33624 and s5capnocytophaga sputigena atcc 33612 and four capnocytophaga spp.
+Otherwise all primer sets were univer-sally used to amplify gyrA and gyrB gene loci in each Capnocytophaga species analysed.resistance-determining regions QRDRs of chromosomal DNA gyrase and topoisomerase IV genes confer FQ resistance.The aim of this study was i to determine the role of DNA gyrase and topoisomerase IV mutations gyrAgyrB and parCparE respectively in resistant clinical Capnocytophaga isolates and in laboratory mutants selected in vitro on levofloxacin- supplemented medium and ii to study the mutation frequencies of the strains.Materials and methodsTwo reference strains S1Capnocytophaga gingivalis ATCC 33624 and S5Capnocytophaga sputigena ATCC 33612 and four Capnocytophaga spp.
 
-gingivalis atcc 33624 and s5c.
+gingivalis ATCC 33624 and S5C.
 
-gingivalis atcc 33624 s5c.
+gingivalis ATCC 33624 S5C.
 
-gingivalis were also obtained by successive inoculations onto blood agar of colonies taken from the vicinity of a disc containing 5 lg of levofloxacin bio-rad laboratories.pairs of pcr primers were designed to amplify the presumed qrdr of dna gyrase gyra and gyrb and topoisomerase iv parc and pare of capnocytophaga spp.
+gingivalis were also obtained by successive inoculations onto blood agar of colonies taken from the vicinity of a disc containing 5 lg of levofloxacin Bio-Rad Laboratories.Pairs of PCR primers were designed to amplify the presumed QRDR of DNA gyrase gyrA and gyrB and topoisomerase IV parC and parE of Capnocytophaga spp.
 
-gingivalis atcc 33624 was plated onto agar containing levofloxacin at 0.5 and 1 mgl table .
+gingivalis ATCC 33624 was plated onto agar containing levofloxacin at 0.5 and 1 mgL Table .
 
-two in vitro mutants c. gingivalis s1md and ag44md derived from the reference strain s1c.
-
-gingivalis atcc 33624 and clinical isolate ag44c.
-
-gingivalis respectively were obtained after four and five successive inoculations respectively.
-
-gingivalis atcc 33624 and s5c.
-
-all resistant isolates and in vitro mutants of c. gingivalis carried a mutation in the qrdr of gyra leading to a substitution between amino acids 80 and 82 g80n d81g s82f or s82y com- pared with wt reference strain s1c.
-
-gingivalis atcc 33624 and susceptible clinical isolates table .
+Two in vitro mutants C. gingivalis S1MD and Ag44MD derived from the reference strain S1C.
 

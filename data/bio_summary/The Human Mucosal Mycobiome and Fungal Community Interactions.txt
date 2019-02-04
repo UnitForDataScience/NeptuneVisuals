@@ -1,30 +1,20 @@
-in this review we will explore these associations along with the interactions between fungal communities and their human and microbial habitat and discuss the future applications of systems biology in determining their role in disease status.keywords mycobiome microbiome bacterial-fungal interactions fungal-fungal interactions host-fungal interactions systems biologyintroductionwith the global burden of fungal diseases rising researchers have begun to turn to next-generation sequencing ngs technology to investigate the role fungi play in the spectrum of human health and disease.
+In this review we will explore these associations along with the interactions between fungal communities and their human and microbial habitat and discuss the future applications of systems biology in determining their role in disease status.Keywords mycobiome microbiome bacterial-fungal interactions fungal-fungal interactions host-fungal interactions systems biologyIntroductionWith the global burden of fungal diseases rising researchers have begun to turn to next-generation sequencing NGS technology to investigate the role fungi play in the spectrum of human health and disease.
 
-therefore like the interactions between p. aeruginosa and c. albicans the outcome of the interaction between s. gordonii and c. albicans is likely to be controlled by the local environment.fungal-fungal interactionsin addition to interacting with bacteria fungi also interact with one another.
+Therefore like the interactions between P. aeruginosa and C. albicans the outcome of the interaction between S. gordonii and C. albicans is likely to be controlled by the local environment.Fungal-Fungal InteractionsIn addition to interacting with bacteria fungi also interact with one another.
 
-the roles these interactions play during infection are still unclear and it is possible that the host environment determines which interactions will prevail.the best-documented agonistic fungal-bacterial interactions occur in the oral cavity during the formation of dental plaque.
+The roles these interactions play during infection are still unclear and it is possible that the host environment determines which interactions will prevail.The best-documented agonistic fungal-bacterial interactions occur in the oral cavity during the formation of dental plaque.
 
-pie charts depict the average relative abundance of fungal taxa a and bacterial taxab observed in the healthy oral cavity  and gastrointestinal tract  of study participants.the oral mycobiomethe concept of a core healthy oral mycobiome was introduced in 2010 by ghannoum and colleagues when they characterized the oral mycobiome of 20 healthy adults .
+Therefore although our current knowledge of the role of the interactions between fungi and bacteria on the microbiota structure and composition are limited there is precedent that these interactions play an important role and require further investigation.Fungal-Bacterial InteractionsFungi and bacteria can interact on multiple levels making polymicrobial interaction studies complex.
 
-within the oral cavity reporting candida albicans candida parapsilosis and candida dubliniensis as the most abundant oral candida species .the constituents of the core healthy oral mycobiome were refined in 2014 when dupuy and colleagues identified only eight of the key oral mycobiome genera originally classified by ghannoum et al.
+Whilst a key component of these interactions are those between the fungi and the host innate and adaptive immune system the specifics of these interactions are covered elsewhere in this special issue.
 
-this attachment promotes invasion of c. glabrata into the oral mucosa and may enhance disseminated c. glabrata infections.
+From this we can see that an ability to model the interactions between host mycobiome and metabolome will be extremely powerful tool in determining the role of host-mycobiome interactions in both health and disease.Modeling of the Mycobiome Microbiome and Host InteractionsMetagenomic analysis can provide information for the genes and species of the bacteria and potentially fungi and through using different functional databases such as KEGG the metabolic functions of these communities can be determined.
 
-for example the presence of c. albicans in oral biofilms promotes the growth of s. mutans through the induction of genes involved in metabolic pathways .
+Using GEMs in community metabolic modeling can successfully predict the contribution of individual species and interactions between them to the overall simplified community metabolism and elucidate the interactions between the bacteria .
 
-although the exact number of fungal genera in the oral cavity varied between participants range 5-39 a core set of genera were identified in the oral cavities of more than 20 percent of study participants candida 75 cladiosporium 60 aureobasidium 50 aspergillus 35 fusarim 30 and cryptococcus 20. the high prevalence of candida in the oral cavity is consistent with previous culture-based studies and subsequent molecular studies confirmed the high prevalence of candida spp.
+Shoaie S. Using systems biology approaches to elucidate cause and effect in host-microbiome interactions.
 
-hoffmann c. dollive s. grunberg s. chen j. li h. wu g.d. lewis j.d.
+Shoaie S. Nielsen J. Elucidating the interactions between the human gut microbiota and its host through metabolic modeling.
 
-nature 2013 498 367-370.  delhaes l. monchy s. frealle e. hubans c. salleron j. leroy s. prevotat a. wallet f. wallaert b. dei-cas e. et al.
-
-2014 5 86.  shoaie s. ghaffari p. kovatcheva-datchary p. mardinoglu a. sen p. pujos-guillot e. de wouters t. juste c. rizkalla s. chilloux j. et al.
-
-2012 6 24.  shoaie s. karlsson f. mardinoglu a. nookaew i. bordel s. nielsen j. understanding the interactions between bacteria in the human gut through metabolic modeling.
-
-this discovery has cause for concern as c. glabrata is inherently resistant the azole class of antifungals  the first drug of choice making disseminated infection hard to treat.the quorum-sensing molecule farnesol secreted by c. albicans is also able to control the morphology of other fungi inhibiting hyphal growth conidiation and germination .
-
-gower-rousseau c. hager c. chandra j. retuerto m.a.
-
-2014 14 405-416.  li q. wang c. tang c. he q. li n. li j. dysbiosis of gut fungal microbiota is associated with mucosal inflammation in crohn's disease.
+Forslund K. Hildebrand F. Nielsen T. Falony G. Le Chatelier E. Sunagawa S. Prifti E. Vieira-Silva S. Gudmundsdottir V. Krogh Pedersen H. et al.
 

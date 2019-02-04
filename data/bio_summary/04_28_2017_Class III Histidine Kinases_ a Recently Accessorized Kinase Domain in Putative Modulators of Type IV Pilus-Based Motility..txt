@@ -1,30 +1,20 @@
-further evidence for the absence of a dimerization domain in hkiiis was obtained by running exhaustive iterative psi-blast searches with the sequence corresponding to the long putative linker identified in an hkiii protein from burkholderia cepacia gi  residues 513 to 627 which retrieved nearly all hkiii sequences detected in this study but failed to retrieve any sequences containing the dimerization domain in the region of sequence similarity to the query.
+Further evidence for the absence of a dimerization domain in HKIIIs was obtained by running exhaustive iterative PSI-BLAST searches with the sequence corresponding to the long putative linker identified in an HKIII protein from Burkholderia cepacia gi  residues 513 to 627 which retrieved nearly all HKIII sequences detected in this study but failed to retrieve any sequences containing the dimerization domain in the region of sequence similarity to the query.
 
-recently a new type of histidine kinase that appeared to have features of both hkis and hkiis was identified and termed hkiii however the details of hkiii's relationship to other two classes of histidine kinases their function and evolutionary history remain unknown.
+The information about a potential function of the HKIII system is limited to a single study where the HKIII protein in Dichelobacter nodosus was implicated in regulating TFP-mediated twitching motility .
 
-to determine whether the presence of hkiii genes correlates with the presence of type iv pilus motility and chemotaxis genes we have searched all genomes that had hkiii genes for the following markers genes for pilt a key component of tfp-mediated motility  chea a chemotaxis hkii histidine kinase which controls flagellar mediated motility and tfp-type chea-like hkii histidine kinase  which mediates tfp motility in many bacterial species e.g.
+The resulting set contained 253 protein se- quences identified as HKIIIs see Data Set S1 in the supplemental material.Structural features of HKIIIs.
 
-first and most important the maximum likelihood phylogenetic tree built from hki hkii and hkiii kinase domains  clearly places hkiii between hki and hkii.
+The sequence logo of HKIIIs shows extensive similarity to the one of HKIIs however a few conserved positions that are shared by HKIIIs and HKIs are not observed in HKIIs see Fig.
 
-the information about a potential function of the hkiii system is limited to a single study where the hkiii protein in dichelobacter nodosus was implicated in regulating tfp-mediated twitching motility .
+Recently a new type of histidine kinase that appeared to have features of both HKIs and HKIIs was identified and termed HKIII however the details of HKIII's relationship to other two classes of histidine kinases their function and evolutionary history remain unknown.
 
-sequences found to contain chew domains were excluded from the hkiii set.for the comparative analysis of hk classes representative sets of hkis and hkiis were used against the complete set of hkiii sequences.
+To determine whether the presence of HKIII genes correlates with the presence of type IV pilus motility and chemotaxis genes we have searched all genomes that had HKIII genes for the following markers genes for PilT a key component of TFP-mediated motility  CheA a chemotaxis HKII histidine kinase which controls flagellar mediated motility and TFP-type CheA-like HKII histidine kinase  which mediates TFP motility in many bacterial species e.g.
 
-while confirming some of the features of hkiii proteins revealed in the early analysis we were able to identify their novel features suggest a new evolutionary scenario for their emergence and propose their putative function.resultsidentification of hkiiis in genomic data.
+First and most important the maximum likelihood phylogenetic tree built from HKI HKII and HKIII kinase domains  clearly places HKIII between HKI and HKII.
 
-although the opposite was not true many bacterial genomes that contain the pilt gene lack hkiii genes.discussionkey structural features of hkiiis.
+Sequences found to contain CheW domains were excluded from the HKIII set.For the comparative analysis of HK classes representative sets of HKIs and HKIIs were used against the complete set of HKIII sequences.
 
-our survey of hkiiis is still very limited and the apparent correlation between hkiii and pilt might as well be by pure chance.
+While confirming some of the features of HKIII proteins revealed in the early analysis we were able to identify their novel features suggest a new evolutionary scenario for their emergence and propose their putative function.RESULTSIdentification of HKIIIs in genomic data.
 
-the resulting set contained 253 protein se- quences identified as hkiiis see data set s1 in the supplemental material.structural features of hkiiis.
-
-notably all sensory domains identified in hkiiis are the subset of those found in chemoreceptors that serve as sensors for hkiis which in turn are the subset of those found in hkis .ii hkiiis lack a dimerization domain.
-
-the sequence logo of hkiiis shows extensive similarity to the one of hkiis however a few conserved positions that are shared by hkiiis and hkis are not observed in hkiis see fig.
-
-similar to hkiis hkiiis contain the hpt domain with a conserved phosphodonor histidine however hpt in hkiis is always located at the very n terminus and is separated from the kinase domain by chey-binding and dimerization domains whereas in hkiiis the hpt domain is located centrally between the sensory domains and the kinase domain.
-
-in addition to a single-domain response regulator hkiii signal transduction systems utilize chex phosphatase and in many instances an unorthodox soluble chemoreceptor that are usual components of chemotaxis signal transduction sys- tems.
-
-however many hkiii genes are found in genomes completely lacking che- motaxis genes thus decoupling their function from chemotaxis.
+The key feature differentiating HKIII from both HKI and HKII is the absence of the dimerization domain.
 

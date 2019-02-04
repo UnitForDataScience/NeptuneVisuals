@@ -1,30 +1,20 @@
-regardless of body site or more closely related at a particular body site for each individual maximum-likelihood phylogenies were constructed using p. acnes-specific hidskinplex mar- kers  65 of the hidskinplex panel enriched in each body site to evaluate p. acnes strain-level variation across all body sites and in- dividuals  s5-s7.
+regardless of body site or more closely related at a particular body site for each individual maximum-likelihood phylogenies were constructed using P. acnes-specific hidSkinPlex mar- kers  65 of the hidSkinPlex panel enriched in each body site to evaluate P. acnes strain-level variation across all body sites and in- dividuals  S5-S7.
 
-the fact that these samples are associated within individuals across body sites in some cases may indicate samples collected from other body sites may be sufficient to identify an individual even if the forensic sample is from an un-tested body site.
+The fact that these samples are associated within individuals across body sites in some cases may indicate samples collected from other body sites may be sufficient to identify an individual even if the forensic sample is from an un-tested body site.
 
-the hidskinplex with rmlr and 1nn offers a supervised approach to identify skin microbiomes sampled from the foot.enrichment of hidskinplex markers provides the capability toidentify skin microbiomes from individuals when the body site is not known to the classifier with up to 97 accuracy using markers shared across fb hp and mb  table s3-s4 and provides the ability to identify the body site of origin of the skin microbiome sample with up to 86 accuracy table s5.
+The hidSkinPlex with RMLR and 1NN offers a supervised approach to identify skin microbiomes sampled from the foot.Enrichment of hidSkinPlex markers provides the capability toidentify skin microbiomes from individuals when the body site is not known to the classifier with up to 97 accuracy using markers shared across Fb Hp and Mb  Table S3-S4 and provides the ability to identify the body site of origin of the skin microbiome sample with up to 86 accuracy Table S5.
 
-while the hidskinplex was not originally designed for body site clas- sification the addition of body site specific markers would likely yield higher body site classification accuracies.
+While the hidSkinPlex was not originally designed for body site clas- sification the addition of body site specific markers would likely yield higher body site classification accuracies.
 
-since  65 of hidskinplex markers are from p. acnes p. acnes strain diversity was assessed across all body sites to determine if strains are more closely related to individuals regardless of body site or more closely related to individuals at a specific body site.
+Since  65 of hidSkinPlex markers are from P. acnes P. acnes strain diversity was assessed across all body sites to determine if strains are more closely related to individuals regardless of body site or more closely related to individuals at a specific body site.
 
-pca of nucleotide diversities of non-universal hidskinplex mar- kers showed clustering of skin microbiome samples from samples collected from all three body sites with greater variance observed across fb than hp and mb thus resolving fb more so from hp and mb.
+PCA of nucleotide diversities of non-universal hidSkinPlex mar- kers showed clustering of skin microbiome samples from samples collected from all three body sites with greater variance observed across Fb than Hp and Mb thus resolving Fb more so from Hp and Mb.
 
-amplification of hidskinplex markers was suc- cessful for all samples n  72 with amplification of 282286 markers across all individuals and body sites average 2117x sequencing read depth and 183 markers were common to all samples.
+Amplification of hidSkinPlex markers was suc- cessful for all samples n  72 with amplification of 282286 markers across all individuals and body sites average 2117x sequencing read depth and 183 markers were common to all samples.
 
-classification was performed for all body site samples combined to test the prediction accuracy when the body site is unknown to the classifier in contrast to previous studies in which the body site was known i.e.
+Classification was performed for all body site samples combined to test the prediction accuracy when the body site is unknown to the classifier in contrast to previous studies in which the body site was known i.e.
 
-another notable difference using targeted enrichment of common markers across body sites was the ability to classify microbiomes to their respective donor using all samples when the body site was unknown to the classifier in contrast to previous studies when the body site was knownassumed .
+Another notable difference using targeted enrichment of common markers across body sites was the ability to classify microbiomes to their respective donor using all samples when the body site was unknown to the classifier in contrast to previous studies when the body site was knownassumed .
 
-attribute selection also was performed to identify subsets of hidskinplex markers that provide similar or greater predictive power than the entire hidskinplex panel for individual classification at each body site.
-
-while the main purpose of the hidskinplex is for individual identification body site identification was evaluated to de- termine if hidskinplex markers could serve a dual classification pur- pose.
-
-subsets of markers were evaluated since hidskinplex mar- kers were selected across 14 body sites at different read depth thresh- olds potentially building in marker redundancy and markers per- forming best at particular body sites.
-
-further analyses of body site specific markers from shotgun metagenomic data would need to be performed to assess the utility of additional marker inclusion to the hidskinplex panel for body site identification capabilities.p.
-
-the hidskinplex was evaluated on skin swab samples collected from eight individuals and three body sites i.e.
-
-thus the hidskinplex can serve a dual purpose providing a method to not only identify individuals but also predict the body site origin of skin microbiome evidentiary samples.
+Attribute selection also was performed to identify subsets of hidSkinPlex markers that provide similar or greater predictive power than the entire hidSkinPlex panel for individual classification at each body site.
 

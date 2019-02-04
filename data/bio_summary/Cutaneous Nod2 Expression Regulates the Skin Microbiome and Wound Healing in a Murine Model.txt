@@ -1,30 +1,20 @@
-the reverse experiment was performed whereby newborn wt and nod2-- litters were co-housed with wt mothers and although there was no rescue of delayed healing in nod2-- mice the wt mice had a variable response with five mice out ofeight having delayed healing see supplementary figure s4a and b online but all showing significantly greater inflammation see supplementary figure s4c suggesting that the maternal microbiome contribution mediated a partial rescue effect in wt mice.next we analyzed the microbial communities in wound tissue from the co-housing experiment using 16s rrna illumina high-throughput sequencing.
+The reverse experiment was performed whereby newborn WT and Nod2-- litters were co-housed with WT mothers and although there was no rescue of delayed healing in Nod2-- mice the WT mice had a variable response with five mice out ofeight having delayed healing see Supplementary Figure S4a and b online but all showing significantly greater inflammation see Supplementary Figure S4c suggesting that the maternal microbiome contribution mediated a partial rescue effect in WT mice.Next we analyzed the microbial communities in wound tissue from the co-housing experiment using 16S rRNA Illumina high-throughput sequencing.
 
-these data confirmed that the presence of pathogenic bacteria similar to woundinfection directly delays murine wound healing and establishes a link to the nod2-- phenotype where adelay in wound repair is associated with an increased cutaneous presence of the genus pseudomonas.discussiona wealth of literature has characterized the role of the host response in regulating gut microbiome with wide-ranging implications for normal physiology and disease perez-chanona et al.
+These data confirmed that the presence of pathogenic bacteria similar to woundinfection directly delays murine wound healing and establishes a link to the Nod2-- phenotype where adelay in wound repair is associated with an increased cutaneous presence of the genus Pseudomonas.DiscussionA wealth of literature has characterized the role of the host response in regulating gut microbiome with wide-ranging implications for normal physiology and disease Perez-Chanona et al.
 
-qpcr showed that specific pathogenic species such as p. aeruginosa and propionibacterium acnes were increased in nod2-- mouse wounds figure 2e which was confirmed by 16s rdna sequencing seesupplementary figure s2d and e. opportunistic pathogenic species of pseudomonas are linked to chronic inflammation and wound infection fazli et al.
+As Nod2-- mice had an altered microbiome an important question was then whether skin dysbiosis was sufficient to alter healing outcome and whether this phenotype could be transferrable.Co-housing from birth directly links skin microbiome to healing outcomeTo address causation and to investigate a potential link between bacterial dysbiosis and healing outcome we mixed newborn WT and Nod2-- mice litters from birth with a Nod2-- mother.
 
-as nod2-- mice had an altered microbiome an important question was then whether skin dysbiosis was sufficient to alter healing outcome and whether this phenotype could be transferrable.co-housing from birth directly links skin microbiome to healing outcometo address causation and to investigate a potential link between bacterial dysbiosis and healing outcome we mixed newborn wt and nod2-- mice litters from birth with a nod2-- mother.
+There was however a trend toward increased overall numbers of bacterial cells in the dermis of Nod2-- skin and a corresponding propensity toward increased abundance ofGram-negative bacteria see Supplementary Figure S1a-c online.Injury exacerbates skin microbiome dysbiosis in Nod2-deficient miceWe next addressed the potential contribution of altered skin microbiome to the healing delay observed in Nod2-- mice Campbell et al.
 
-there was however a trend toward increased overall numbers of bacterial cells in the dermis of nod2-- skin and a corresponding propensity toward increased abundance ofgram-negative bacteria see supplementary figure s1a-c online.injury exacerbates skin microbiome dysbiosis in nod2-deficient micewe next addressed the potential contribution of altered skin microbiome to the healing delay observed in nod2-- mice campbell et al.
+qPCR showed that specific pathogenic species such as P. aeruginosa and Propionibacterium acnes were increased in Nod2-- mouse wounds Figure 2e which was confirmed by 16S rDNA sequencing seeSupplementary Figure S2d and e. Opportunistic pathogenic species of Pseudomonas are linked to chronic inflammation and wound infection Fazli et al.
 
-despite this increase the bacterial diversity induced by injury was less pronounced in nod2-- than wt mice 60 vs. 40 respective similarity score between skin andwound figure 2d which agrees with recent observations from loesche et al.
+Despite this increase the bacterial diversity induced by injury was less pronounced in Nod2-- than WT mice 60 vs. 40 respective similarity score between skin andwound Figure 2d which agrees with recent observations from Loesche et al.
 
-adult injury-induced changes in defensin expression also differed between genotypes with mbd-1 significantly up-regulated in wt wounds whereas nod2-- wounds displayedabnormal induction of mbd-3 and mbd-14 in response to injury figure 3b-d. il-22 a known regulator of mbd-14 expression liang et al.
+Adult injury-induced changes in defensin expression also differed between genotypes with mBD-1 significantly up-regulated in WT wounds whereas Nod2-- wounds displayedabnormal induction of mBD-3 and mBD-14 in response to injury Figure 3b-d. IL-22 a known regulator of mBD-14 expression Liang et al.
 
-toconfirm whether pseudomonas species directly impair wound healing wild-type mice were infected withpseudomonas aeruginosa biofilms and akin to nod2-- mice were found to exhibit a significant delay in wound repair.
+When focusing on specific skin microbiota at the phylum level again using the Shannon-Wiener index there was a significant change in the diversity of Bacteroidetes species between environment separately housed WT versus separately housed Nod2-- and separately housed Nod2-- versus the co-housed mice P  0.05 and P  0.01respectively Figure 5c.
 
-d upgma dendrogram of wound tissue dgge fingerprints showed 60 or less interstrain similarity in the nod-- wound microbiome profile versus 40 or less in wtcontrols.
+Newborn WT and Nod2-- litters were mixed from birth with a Nod2-- mother and then wounded in adulthood.
 
-a representative wounds day 3 histology showed significantly delayed healing in nod2-- versus wt arrows denote wound margins.
-
-wt and nod2-- litters were mixed from birth and wounded in adulthood and their wound microbial communities sequenced.
-
-e upgma dendrogram of wt andnod2-- wound tissue dgge fingerprints.
-
-f total wound eubacterial abundance 16s real-time pcr was significantlyincreased in wt mice co-housed with nod2-- mice.
-
-exposed subcutaneous tissue provides a perfect niche for adventitious pathogens to override the natural microbiome colonizing the wound siddiqui and bernstein 2010. skin cells respond to bacterial invasion via cutaneous pattern recognition receptors prrs including toll-like receptors and the nod leucine-rich repeat-containing receptors kawai and akira 2011. prrs recognize and bind to conserved pathogen-associated molecular patterns which ultimately leads to induction of proinflammatory cytokines and secretion of antimicrobial peptides amps kawai and akira 2011. nod2 is an intracellular receptor that recognizes the muramyl dipeptide motif from bacterial peptidoglycans of both gram-positive and gram-negative bacteria girardin et al.
-
-2012 the role of prrs modulating the wound microbiome during repair remains unclear.although key studies have provided insight into the regulation of the host-microbiome axis grice et al.
+Toconfirm whether Pseudomonas species directly impair wound healing wild-type mice were infected withPseudomonas aeruginosa biofilms and akin to Nod2-- mice were found to exhibit a significant delay in wound repair.
 

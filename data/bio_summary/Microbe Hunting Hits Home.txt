@@ -1,30 +1,20 @@
-at the same time across the country dan cua's group at then schering-plough had identified rorgt in gene expression arrays of th17 cells and together we went ahead to show that the rorgt-expressing t cells in the gut are th17 cells and il-17-expressing gd t cells and that rorgt controls their differentiation .
+In support of this hypothesis co-housing Jackson and Taconic mice led to Th17 cell induction in the former and fecal transplants from Jackson and Taconic mice into germ-free animals had differential ability to recover mucosal Th17 cells  .
 
-the results were encouraging because there was a significant reduction of th17 cells in treated mice albeit only by 50. combining the two approaches i decided to treat mice with the antibiotic cocktail from birth and this completely ablated th17 cell development.
+At the same time across the country Dan Cua's group at then Schering-Plough had identified RORgt in gene expression arrays of Th17 cells and together we went ahead to show that the RORgt-expressing T cells in the gut are Th17 cells and IL-17-expressing gd T cells and that RORgt controls their differentiation .
 
-moreover when antibiotic-treated mice were co-housed with wild-type mice they re-acquired th17 cells.
+Microbe Hunting Hits HomeIvaylo I. Ivanov1Department of Microbiology and Immunology College of Physicians and Surgeons Columbia University New York NY 10032 USACorrespondence Ten years ago we discovered that microbiota composition controls intestinal T cell homeostasis and alters T cell responses of mice in different animal facilities.
 
-in support of this hypothesis co-housing jackson and taconic mice led to th17 cell induction in the former and fecal transplants from jackson and taconic mice into germ-free animals had differential ability to recover mucosal th17 cells  .
+The first examples came from groundbreaking studies by Sarkis Mazmanian and Dennis Kasper demonstrating that the human commensal Bacteroides fragilis can affect systemic Th1Th2 balance and mucosal T cell IL-10 production in germ-free mice thus showing that innocuous intes- tinal microbes can modulate systemic T cell responses and influence suscepti- bility to IBD  .
 
-th17 cells were and still are particularly popular because they represent a novel helper t cell subset in addition to th1 and th2 cells.
+Th17 cells were and still are particularly popular because they represent a novel helper T cell subset in addition to Th1 and Th2 cells.
 
-this revealed unex- pected expression of rorgt in a large fraction of small intestinal lp cd4 t cells and gd t cells.
+The knockout animals almost completely lacked LP Th17 cells and therefore intes- tinal Th17 cell differentiation requires IL-Despite the fact that I had performed the experiment several times with iden- tical results and even prepared a manu- script figure to this effect and despite the fact that this result made sense considering everything we knew about IL-23 I felt uneasy that the control animals I used were C57BL6 B6 mice from our colony.
 
-germ-free animals were completely devoid of lp th17 cells and th17 cells were induced by fecal trans- plants into these animals  .
+Variations in Microbiota Composition Can Skew Experimental InterpretationInvestigating the role of IL-23 in LP Th17 cell differentiation is used as an example.Wild-type B6 animals from Taconic Farms Tac compared to IL-23 knockout animals from Jackson Laboratory.Jackson Jax B6 animals compared to Jackson IL-23 knockout animals.Co-housing or crossbreeding of knockout animals to Taconic B6 mice shows little difference in Th17 cells when compared to littermate controls LM.
 
-the knockout animals almost completely lacked lp th17 cells and therefore intes- tinal th17 cell differentiation requires il-despite the fact that i had performed the experiment several times with iden- tical results and even prepared a manu- script figure to this effect and despite the fact that this result made sense considering everything we knew about il-23 i felt uneasy that the control animals i used were c57bl6 b6 mice from our colony.
+Moreover when antibiotic-treated mice were co-housed with wild-type mice they re-acquired Th17 cells.
 
-because we knew that microbiota is required the results suggested that taconic mice may contain--and jackson mice lack--a th17 cell-inducing compo- nent of the microbiota.
+This suggested that immunomodu- latory microbes might also be present in the endogenous commensal microbiota and serve as environmental modifiers of immune responses.Enter Th17 CellsMy entry into the microbiota field stemmed from our studies on the newly discovered Th17 cell subset of CD4 T cells.
 
-with the help of balfour sartor we examined candidate microbes in monocolonized mice and heroic efforts in brett finlay's laboratory at ubc using fluorescence in situ hybridi- zation fish identified certain phylum dif- ferences in the microbiota of th17 cell- positive taconic and negative jackson mice.
-
-however it should befigure 1. variations in microbiota composition can skew experimental interpretationinvestigating the role of il-23 in lp th17 cell differentiation is used as an example.wild-type b6 animals from taconic farms tac compared to il-23 knockout animals from jackson laboratory.jackson jax b6 animals compared to jackson il-23 knockout animals.co-housing or crossbreeding of knockout animals to taconic b6 mice shows little difference in th17 cells when compared to littermate controls lm.
-
-for example simply assuming that taconic mice have sfb and jackson mice do not would be wrong.
-
-microbe hunting hits homeivaylo i. ivanov1department of microbiology and immunology college of physicians and surgeons columbia university new york ny 10032 usacorrespondence ten years ago we discovered that microbiota composition controls intestinal t cell homeostasis and alters t cell responses of mice in different animal facilities.
-
-it followed that a heteroge- neous microbial community can recover the immune defects in germ-free mice and little was known of how the composi- tion of this community might affect the nature of immune responses.
-
-the first examples came from groundbreaking studies by sarkis mazmanian and dennis kasper demonstrating that the human commensal bacteroides fragilis can affect systemic th1th2 balance and mucosal t cell il-10 production in germ-free mice thus showing that innocuous intes- tinal microbes can modulate systemic t cell responses and influence suscepti- bility to ibd  .
+However although Th17 cells had been shown to produce unique effector cytokines and require unique cytokines for differentiation a transcriptional regu- lator to establish them as a definitive T cell subset was missing.
 

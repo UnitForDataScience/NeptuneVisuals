@@ -1,30 +1,20 @@
-as with asthma hilty et al.
+Carl Woese and others during the late 1970s pioneered sequencing of the small subunit ribosomal 16S rRNA gene rrnA to address bacterial phylogeny.56 This gene was particularly suitable because ribosomes are a conserved component of the transcriptional apparatus of all DNA-based life forms.The gene comprises nine constant regions C and nine hypervariable regions V1-V9.7 The variable regions enable sequence-specific discrimination between different bacteria.
 
-microbiome 2015331.turnbaugh pj ley re hamady m et al.
+For CF there are more than 2000known mutations of the gene encoding CF transmembrane conductance regulator CFTR making stratification of microbial findings by genotype other than D508 daunting.Of interest is that restitution of CFTR function withivacaftor modified the microbiome presumably for the better.32 For idiopathic pulmonary fibrosis IPF the most-common mutation in the gene encoding Mucin 5BMuc5B was found to be associated with the total levels burden of bacteria present.33 More interesting perhaps is the recent study of the Fucosyltransferase 2 FUT2 genotype in non-CF bronchiectasis and its impact on P. aeruginosa dominance of the microbiota present.34 For asthma it is notable that the genetic risk factors identified by genome- wide association studies are expressed by or within the respiratory epithelium perhaps reflecting the importanceof the respiratory microbiome.35 Understanding more about host-microbiome interactions could follow from comparing gene expression in airway samples to microbial communities in various diseases.MetagenomicsAlmost all respiratory microbiome studies to date have relied only on sequencing the 16S rRNA gene.
 
-j microbiol methods 200769330-9.klindworth a pruesse e schweer t et al.
+As with asthma Hilty et al.
 
-nucleic acids res 201341e1.navas-molina ja peralta-sanchez jm gonzalez a et al.
+Microbiome 2015331.Turnbaugh PJ Ley RE Hamady M et al.
 
-methods enzymol 2013531371-444.molyneaux pl mallia p cox mj et al.
+J Microbiol Methods 200769330-9.Klindworth A Pruesse E Schweer T et al.
 
-appl environ microbiol 1998643110- 30.salter sj cox mj turek em et al.
+Nucleic Acids Res 201341e1.Navas-Molina JA Peralta-Sanchez JM Gonzalez A et al.
 
-bmc biol 20141287.segal ln alekseyenko av clemente jc et al.
+Methods Enzymol 2013531371-444.Molyneaux PL Mallia P Cox MJ et al.
 
-expert rev respir med 20137245-57.hilty m burke c pedro h et al.
+Appl Environ Microbiol 1998643110- 30.Salter SJ Cox MJ Turek EM et al.
 
-plos one 20105e8578.charlson es bittinger k haas ar et al.
+BMC Biol 20141287.Segal LN Alekseyenko AV Clemente JC et al.
 
-am j respir crit care med 2011184957-63.dickson rp erb-downward jr freeman cm et al.
-
-mbio 20178e02287-16.cardenas pa cooper pj cox mj et al.
-
-cochrane database syst rev 201612cd012195.accordini s corsico ag braggion m et al.
-
-j allergy clin immunol 20101251178-87.ege mj mayer m normand ac et al.
-
-n engl j med 2011364701-9.huang yj marsland bj bunyavanich s et al.
-
-ann am thorac soc 201411 suppl 1s61-5.whelan fj heirali aa rossi l et al.
+Expert Rev Respir Med 20137245-57.Hilty M Burke C Pedro H et al.
 

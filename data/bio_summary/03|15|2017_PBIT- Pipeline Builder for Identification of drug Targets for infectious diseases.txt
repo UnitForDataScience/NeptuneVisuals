@@ -1,30 +1,20 @@
-the sequence information for druggable targets were obtained from drugbank database version 5 and therapeutic target database ttd.host-pathogen interactionthis module identifies targets that share sequence similarity to microbial proteins known to interact with human proteome .
+The database for human anti-targets human gut microbiota and list of pathogenic organisms were compiled from literature Shanmugham and Pan 2013 Raman et al.
 
-the database for human anti-targets human gut microbiota and list of pathogenic organisms were compiled from literature shanmugham and pan 2013 raman et al.
+This necessitates the filtering out of microbial proteins that share structural similarity with human gut flora proteome in the target identification workflow  Raman et al.
 
-associate editor john hancockreceived on september 8 2016 revised on october 17 2016 editorial decision on november 23 2016 accepted on november 25 2016abstractsummary pbit pipeline builder for identification of drug targets is an online webserver that has been developed for screening of microbial proteomes for critical features of human drug targets such as being non-homologous to human proteome as well as the human gut microbiota essential for the pathogen's survival participation in pathogen-specific pathways etc.
+Associate Editor John HancockReceived on September 8 2016 revised on October 17 2016 editorial decision on November 23 2016 accepted on November 25 2016AbstractSummary PBIT Pipeline Builder for Identification of drug Targets is an online webserver that has been developed for screening of microbial proteomes for critical features of human drug targets such as being non-homologous to human proteome as well as the human gut microbiota essential for the pathogen's survival participation in pathogen-specific pathways etc.
 
-this module helps to screen out se- quences that show significant sequence similarity to known human anti-targets.non-homology analysis against human gut flora proteomes this module helps to screen out sequences that share high sequence similarity with human gut microbiota.
+This module helps to screen out se- quences that show significant sequence similarity to known human anti-targets.Non-homology analysis against human gut flora proteomes This module helps to screen out sequences that share high sequence similarity with human gut microbiota.
 
-2016 therapeutic target database update 2016 enriched re- source for bench to clinical drug target and targeted pathway information.
+The server is hosted on Apache 2.4 webserver.A brief description of the use of various modules available in PBIT is described belowSpecificity analysisNon-homology analysis against human proteomeThis module helps to filter out sequences that share high sequence similarity with human proteome UP000005640.
 
-this necessitates the filtering out of microbial proteins that share structural similarity with human gut flora proteome in the target identification workflow  raman et al.
+The sequence similarity of the input sequences to the human proteome is com- puted using BLAST.Non-homology analysis against human anti-targetsProteins that trigger hazardous side effects under the influence of a drug are termed as 'anti-targets'.
 
-for permissions please e-mail 929930g.shende et al.. druggability can be screened by mining online databases such as drugbank and therapeutic target database ttd  that house information on known drug tar- gets.
+et al.
 
-the server is hosted on apache 2.4 webserver.a brief description of the use of various modules available in pbit is described belowspecificity analysisnon-homology analysis against human proteomethis module helps to filter out sequences that share high sequence similarity with human proteome up000005640.
+et al.
 
-the sequence similarity of the input sequences to the human proteome is com- puted using blast.non-homology analysis against human anti-targetsproteins that trigger hazardous side effects under the influence of a drug are termed as 'anti-targets'.
+et al.
 
-vfdb virulence factor database  and dfvf database of fungal virulence factors  were used as sources of virulent gene information for bacteria and fungi respectively.pathway analysisproteins that are involved in multiple pathogen-specific path- ways are optimal for designing highly potent drugs with reduced side-effects.
-
-the druggability screen has been found to reduce the output of a target discovery pipeline by 65 .in spite of these well-established theories for target identification researchers do not have an online algorithmwebserver that integrates these in silico approaches for screening the proteome of interest for potential drug targets.
-
-using subtract- ive genomics that involves identification of microbial proteins that are non-homologous to human genes and are essential for the sur- vival of the pathogen putative drug targets have been successfully identified for many pathogenic bacteria .
-
-deg database of essential genes was used as the source of essential genes.
-
-information on whether thesepathways are also present in human are provided for the benefit of users.
-
-kegg pathway database was used as a source of path- way information.broad spectrum analysisthis module helps to identify targets that have homologs in multiple pathogenic organisms.
+et al.
 

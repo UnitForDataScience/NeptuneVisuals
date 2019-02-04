@@ -1,30 +1,20 @@
-57177-81.eckert e. m. salcher m. m. posch t.  pernthaler j.
+MW MW101C3 LL LL P Poterioochromonas sp.
 
-considering bacteria associated with mw101c3 poterioochromonas caused a strong reduction of bacte- ria affiliated with alkanindiges 178 times reduced in mw101c3p compared to mw101c3 only fol- lowed by hydrogenophaga which were only two times less table s2.
+MW MW101C3 LL LL P Poterioochromonas sp.interspecific competition in co-cultures as demon- strated by their significant decrease in cell number after 4 d Table 1 Table S2 in the SupportingTABLE 3.
 
-3. permutational multivari- ate analysis of variance suggested that predation was not the main cause of the changes occurring within the communities since it explained only 18 of the variance table 3. the presence of ll was the main factor shaping the beta-diversity of the bacte- rial community 41 while mw101c3 explained only 9 table 3. thus a competitive advantage of the bacteria associated with ll over those associ- ated with mw101c3 seemed to be evident.a different composition of the microbiome associ- ated to synechococcus strains was likely indicating ribotype-dependent functional interplay between the components within the community.
+57177-81.Eckert E. M. Salcher M. M. Posch T.  Pernthaler J.
 
-we thank diego fontaneto for helpful comments on the data analysis and filippo bertoni for the revision of the language.aird d. ross m. g. chen w. s. danielsson m. fennell t. russ c. jaffe d. b. nusbaum c.  gnirke a.
+In this study we experimentally promoted different levels of ecological interaction by mixing two Synechococcus ribotypes MW101C3 and LL and their associated bacteria with and without a nanoflagellate grazer Poterioochromonas sp.
 
-92.callieri c. coci m. corno g. macek m. modenutti b. balseiro e.  bertoni r. 2013. phylogenetic diversity of nonmarine picocyanobacteria.
+Cell abundance of Synechococcus ribotypes MW101C3 and LL Syn non-pigmented associated bacteria bacte- ria 105 events mL-1 SD and Poterioochromonas sp.
 
-1- 29.hahn m. w.  hoeurfle m. g. 1998. grazing pressure by a bacteriv- orous flagellate reverses the relative abundance of coma- monas acidovorans px54 and vibrio strain cb5 in chemostat cocultures.
+Interestingly whereas Pseudomonas related bacteria were not affected by predation in MW101C3 the LL associated Pseudomonas were reduced 700 times under predation.
 
-581-14.manzari c. fosso b. marzano m. annese a. caprioli r. d'erchia a. m. gissi c. et al.
+Thus a competitive advantage of the bacteria associated with LL over those associ- ated with MW101C3 seemed to be evident.A different composition of the microbiome associ- ated to Synechococcus strains was likely indicating ribotype-dependent functional interplay between the components within the community.
 
-in this study we experimentally promoted different levels of ecological interaction by mixing two synechococcus ribotypes mw101c3 and ll and their associated bacteria with and without a nanoflagellate grazer poterioochromonas sp.
+The different pigment composition of cells belonging to MW101C3 and LL generate specific patterns of autoflorescence red signals in the dot plots of channels FL4 67525 nm vs FL3 670 nm thus allowing for their identification discrimination and cell counting also when they were mixed together in the co-cul- tures Callieri et al.
 
-the synechococcus-asso- ciated bacteria were affiliated with gammapro- teobacteria alkanindiges and pseudomonas and flavobacteria flavobacterium in mw101c3 culturestable 2. differences in alpha-diversity chao i depending on the level of complexity of the system where 1 is single culture 2 is either co-culture or under predation and 3 is co-culture and under predation.
+The presence of LL was the main factor shaping the beta-diversity of the bacte- rial community 41 while MW101C3 explained only 9 Table 3.
 
-table is based on anova with tukey's posthoc.table 1. cell abundance of synechococcus ribotypes mw101c3 and ll syn non-pigmented associated bacteria bacte- ria 105 events ml-1 sd and poterioochromonas sp.
-
-bacteria associated with mw101c3 in the single cul- tures were inefficiently grazed.
-
-interestingly whereas pseudomonas related bacteria were not affected by predation in mw101c3 the ll associated pseudomonas were reduced 700 times under predation.
-
-695716-21.di cesare a. eckert e. m. teruggi a. fontaneto d. bertoni r. callieri c.  corno g. 2015. constitutive presence of antibiotic resistance genes within the bacterial community of a large subalpine lake.
-
-2007 using 999 permutations with replicates specified as nested parameter anderson 2001.to find bacterial otus and bacterial genera that were important in defining the communities associated with each cyanobacterial strain random forest analysis was conducted breiman 2001 using the package random forest version 4.6-12. only genera with more than 100 reads were included in the analysis in order not to introduce biases from rare taxa that were potentially under-sampled.
-
-2. abundances of the six most important otus in distinguishing bacterial communities associated to ll and mw101c3 mw in all treatments as determined by random forest analysis.strains.
+We used two Synechococcus strains as preys strain MW101C3 composed by phycocyanin-rich PC cells and belonging to MW101C3 Group I size1.16 0.61 9 0.86 0.45 lm volume 0.84 lm3 and strain LL composed by phycoerythrin-rich PE cells and belonging to the Lake Albano Group A size 1.52 - 1.18 9 1.27 -0.13 lm volume 1.44 lm3 Crosbie et al.
 

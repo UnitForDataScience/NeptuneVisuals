@@ -1,30 +1,20 @@
-a. princi- pal component analysis pca scatter plot based on single cell raman spectra differentiating only between raman spectra of groundwater isolates incubated with d2o and without d2o.
+A. Princi- pal component analysis PCA scatter plot based on single cell Raman spectra differentiating only between Raman spectra of groundwater isolates incubated with D2O and without D2O.
 
-the bottles were incubated with the following substrates all final concentrations 2x h2o and 2x d2o with 4 mm methylamine 2x h2o and 2x d2o with 1 mm veratric acid 2x h2o with 1 mm d6-veratric acid deuterated at both methoxy groups see supporting information 1x h2o and 1x d2o without organic compound.
+The bottles were incubated with the following substrates all final concentrations 2x H2O and 2x D2O with 4 mM methylamine 2x H2O and 2x D2O with 1 mM veratric acid 2x H2O with 1 mM D6-veratric acid deuterated at both methoxy groups see Supporting Information 1x H2O and 1x D2O without organic compound.
 
-microcosms vahab veratric acid and h2o vada b veratric acid and d2o d6ab deuterated veratric acid and h2o all incubated for 26 days microcosms mahab methylamine and h2o madab methylamine and d2o h2od2o no organic compounds and either h2o or d2o all incubated for 42 days.table s1.
+Microcosms VAHAB veratric acid and H2O VADA B veratric acid and D2O D6AB deuterated veratric acid and H2O all incubated for 26 days Microcosms MAHAB methylamine and H2O MADAB methylamine and D2O H2OD2O no organic compounds and either H2O or D2O all incubated for 42 days.Table S1.
 
-the clustering patterns of raman spectra from bacterial cells cultivated with d2o were dis- tinct from those cultivated without d2o and also showed a higher variability along both pc1 and pc2.
+The clustering patterns of Raman spectra from bacterial cells cultivated with D2O were dis- tinct from those cultivated without D2O and also showed a higher variability along both PC1 and PC2.
 
-to quantify the proportion of labelled cells in the samples single cell raman spectra were recorded from between 61 and 141 cells per sample and the pca model established on the groundwater iso- lates was used for tracking d2o incorporation figs 2 and 3a supporting information figs s3 and s4.in the groundwater microcosms supplemented with 30 d2o vv no added organic compounds all cells investi- gated were labelled at the time point after 14 days of incubation and approximately 75 of cells after 20 days fig.
+To quantify the proportion of labelled cells in the samples single cell Raman spectra were recorded from between 61 and 141 cells per sample and the PCA model established on the groundwater iso- lates was used for tracking D2O incorporation Figs 2 and 3A Supporting Information Figs S3 and S4.In the groundwater microcosms supplemented with 30 D2O vv no added organic compounds all cells investi- gated were labelled at the time point after 14 days of incubation and approximately 75 of cells after 20 days Fig.
 
-thecd detected in spectra of cells grown without d2o were caused by raman signals unrelated to the raman c-d vibration and by noise.
+TheCD detected in spectra of cells grown without D2O were caused by Raman signals unrelated to the Raman C-D vibration and by noise.
 
-lastly incubations of groundwater microcosms with deuterated veratric acid were conducted to compare the effects of deuterium labelling from d2o versus deuterium labelled organic compound.resultsdetecting deuterium incorporation in heterotrophic bacterial groundwater isolates grown on complex mediumfive different isolates obtained from groundwater of the hainich cze belonging to the genera flavobacterium 2x iodobacter paenibacillus and bacillus were culti- vated for two days in complex medium r2amod with or without 30 d2o vv to investigate deuterium incorpora- tion into microbial cells.
+Lastly incubations of groundwater microcosms with deuterated veratric acid were conducted to compare the effects of deuterium labelling from D2O versus deuterium labelled organic compound.ResultsDetecting deuterium incorporation in heterotrophic bacterial groundwater isolates grown on complex mediumFive different isolates obtained from groundwater of the Hainich CZE belonging to the genera Flavobacterium 2x Iodobacter Paenibacillus and Bacillus were culti- vated for two days in complex medium R2Amod with or without 30 D2O vv to investigate deuterium incorpora- tion into microbial cells.
 
-2014. total protein extracts of the five hetero- trophic isolates grown in complex medium with 30 d2o vv as well as without d2o were investigated by high res- olution mass spectrometric analysis following tryptic digestion.
+Total protein extracts of the five hetero- trophic isolates grown in complex medium with 30 D2O vv as well as without D2O were investigated by high res- olution mass spectrometric analysis following tryptic digestion.
 
-blue filled symbols represent cells from incubations with d2o red hollow symbols are from incubations without d2o.
+Blue filled symbols represent cells from incubations with D2O red hollow symbols are from incubations without D2O.
 
-2015. the highest average deuterium ria was found in the peptides from microcosms with veratric acid and d2o 21.1 6 1.4 n 5 107 while a significantly lower p  0.001 t-test peptide ria was observed in microcosms with methylamine and d2o 18.9 6 2.7 n 5 136 fig.
-
-asterisks indicate taxonomic groups that showed deuterium incorporation from d2o in the corresponding replicate microcosms with 30 d2o vv indicating metabolic activity of these groups.fig.
-
-5. deuterium incorporation in peptides from groundwater microcosms.peptides from microcosms with 30 d2o and veratric acid va with 30 d2o and methylamine ma and with deuterated veratric acid d6va were analysed for both replicatesn  45 for each replicate.deuterium incorporation from deuterated veratric acid into peptides of two taxonomic groups n  12 for each replicate.
-
-peptide relative isotope abundance of deuterium labelled bacterial families is shown for a microcosms with 30 d2o and veratric acid and b microcosms with 30 d2o and methylamine.
-
-empty symbols depict microcosms without d2o full symbols microcosms with 30 d2o.
-
-first we demonstrated by single cell raman micro- spectroscopy that all measured bacterial cells from groundwater isolates growing in complex medium with d2o were labelled.
+The highest average deuterium RIA was found in the peptides from microcosms with veratric acid and D2O 21.1 6 1.4 n 5 107 while a significantly lower p  0.001 t-test peptide RIA was observed in microcosms with methylamine and D2O 18.9 6 2.7 n 5 136 Fig.
 

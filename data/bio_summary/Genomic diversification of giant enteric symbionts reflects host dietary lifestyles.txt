@@ -1,30 +1,20 @@
-the emerging picture of the nutritional ecology of herbivorous fishes is that they consume and assimilate carbohydrate-rich diets and contain high levels of corresponding fermentation metabolites in their digestive tract 15. the surgeonfishes used in this study are reported to feed either on turfing and filamentous red and green algae acanthurus sohal and acanthurus nigrofuscus 25 or on macroscopic brown algae naso elegans and naso unicornis 26 27. a compilation of ingested algal species found in the stomach of these fishes from the literature fig.
+A compilation of ingested algal species found in the stomach of these fishes from the literature Fig.
 
-images are not drawn to scale.given the variation in dietary constituents of the studied surgeonfish species fig.
+Images are not drawn to scale.Given the variation in dietary constituents of the studied surgeonfish species Fig.
 
-sohal n. elegans and n. unicornis focusing on the midgut section si appendix fig.
+sohal N. elegans and N. unicornis focusing on the midgut section SI Appendix Fig.
 
-s1 where the bolus of algae is usually located and the highest abundances of epulopiscium were reported 17 25. initially the lack of genomes representing diverse epulopiscium clades in the nonredundant nr protein database downloaded on 2015 june 1 hampered our ability to confidently assign metagenomic genes beyond those that were homologous to the reference draft genome of epulopiscium spe- cies type b from naso tonganus 32 that was present in the nr database si appendix fig.
+Initially the lack of genomes representing diverse Epulopiscium clades in the nonredundant NR protein database downloaded on 2015 June 1 hampered our ability to confidently assign metagenomic genes beyond those that were homologous to the reference draft genome of Epulopiscium spe- cies type B from Naso tonganus 32 that was present in the NR database SI Appendix Fig.
 
-phylogenetic anchoring was greatly improved when we seeded the nr database with 14 epulopiscium-like genomes generated in this study see below-- in terms of overall protein alignment 88-95 average amino acid identity 90-91 and the corresponding high number of retrieved homologs si appendix fig.
+Phylogenetic anchoring was greatly improved when we seeded the NR database with 14 Epulopiscium-like genomes generated in this study see below-- in terms of overall protein alignment 88-95 average amino acid identity 90-91 and the corresponding high number of retrieved homologs SI Appendix Fig.
 
-s2 b-d. this was espe- cially pivotal for the naso species improved by 21-60 pre- sumably because they harbor epulopiscium type c and j clades that are highly divergent to the type b clade 20. therefore subsequent taxonomic assignments were done using the custom- ized database applying a blast score cutoff of 50 and alignment coverage of 80. in the analyzed fishes epulopiscium-relatedngugi et al.pnas  published online august 23 2017  e7593sequences were found to dominate the prokaryotic coding genes 12-48 of all genes si appendix fig.
+In the analyzed fishes Epulopiscium-relatedNgugi et al.PNAS  Published online August 23 2017  E7593sequences were found to dominate the prokaryotic coding genes 12-48 of all genes SI Appendix Fig.
 
-of the cazymes directly involved in the digestion of polysaccharides we observed that a. sohal had a relatively higher fraction of glycoside hydrolases ghs compared with the naso species fig.
+Of the CAZymes directly involved in the digestion of polysaccharides we observed that A. sohal had a relatively higher fraction of glycoside hydrolases GHs compared with the Naso species Fig.
 
-consequently a much richer gh complement was found in a. sohal than in the nasospecies 3.6 vs. 0.3-1.4 ghsmbp fig.
+Consequently a much richer GH complement was found in A. sohal than in the Nasospecies 3.6 vs. 0.3-1.4 GHsMbp Fig.
 
-2b however the densities of pls 0.08 vs. 0.04-0.14 plsmbp and ces 0.6 vs.0.1-0.9 cesmbp were within the same range.overall 52-95 of cazymes catalyzing the removal of ester substituents from glycan chains by ces and the cleavage of glycosidic bonds between carbohydrates by ghs were pre- dicted to originate from epulopiscium fig.
+2B however the densities of PLs 0.08 vs. 0.04-0.14 PLsMbp and CEs 0.6 vs.0.1-0.9 CEsMbp were within the same range.Overall 52-95 of CAZymes catalyzing the removal of ester substituents from glycan chains by CEs and the cleavage of glycosidic bonds between carbohydrates by GHs were pre- dicted to originate from Epulopiscium Fig.
 
-however only 32 of the predicted ghs are shared among the three fish species fig.
-
-2c suggesting that their capacity to assimilate different algal diets require func- tionally distinct carbohydrases fig.
-
-phylogenetic inference based on the 16s rrna gene si appendix fig.
-
-s3 and 16 concatenated conserved proteins fig.
-
-these attributes together with the coding density 58-87 imply that epulopiscium clade members are typical firmicutes with features generally similar to other fully sequenced clostridia 35.a comparison of the amino acid identity aai of orthologous genes in these genomes indicates that they likely encompass organisms from distinct genera si appendix fig.
-
-s4 assuming the operational aai cutoff range of 66-72 for this taxonomic rank 36. given their uncultivated status and their phyloge- netically discrete clusters together with their inferred physiol- ogy see below we propose that these epulopiscium-like bacteria belong to three candidate genera encompassing mul- tiple species si appendix fig.
+However only 32 of the predicted GHs are shared among the three fish species Fig.
 

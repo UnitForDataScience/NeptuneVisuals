@@ -1,30 +1,20 @@
-observed mutation rates in bacteria studied in the laboratory are thought to balance this trade-off because a wide range of microorganisms have similar low mutation rates about one mutation per genome per 300 cell divisions .nevertheless bacterial strains with higher than expected mutation rates--known as mutators--have been found in diverse habitats.
+Observed mutation rates in bacteria studied in the laboratory are thought to balance this trade-off because a wide range of microorganisms have similar low mutation rates about one mutation per genome per 300 cell divisions .Nevertheless bacterial strains with higher than expected mutation rates--known as mutators--have been found in diverse habitats.
 
-we also identified diverse mobile elements within the muts sequences of hundreds of environmental and clinical bacteria sug-gesting that these elements could play a role in regulating mutation rates in many bacteria.resultswhole-genome sequencing revealed elevated variable and transition-biased mutation rates in v. splendidus 12b01.
+We also identified diverse mobile elements within the mutS sequences of hundreds of environmental and clinical bacteria sug-gesting that these elements could play a role in regulating mutation rates in many bacteria.RESULTSWhole-genome sequencing revealed elevated variable and transition-biased mutation rates in V. splendidus 12B01.
 
-previous studies have shown that mutations often follow a poisson distribution which assumes a stable average mutation rate   but we found that in all lineages including the hypermutators the variance in the number of new mutations across selection rounds was far greater than that expected under a poisson model  suggesting that the mutation rate in this strain varied substantially more than rates in other commonly studied bacteria such as e. coli   .the mutations in all lineages displayed a dramatic bias toward transition mutations which accounted for 96 of observed mutations or a transition-to-transversion muta- tion ratio of 22.6 x2  3461.67 df  7 p  10-308 table s1.
+Previous studies have shown that mutations often follow a Poisson distribution which assumes a stable average mutation rate   but we found that in all lineages including the hypermutators the variance in the number of new mutations across selection rounds was far greater than that expected under a Poisson model  suggesting that the mutation rate in this strain varied substantially more than rates in other commonly studied bacteria such as E. coli   .The mutations in all lineages displayed a dramatic bias toward transition mutations which accounted for 96 of observed mutations or a transition-to-transversion muta- tion ratio of 22.6 x2  3461.67 df  7 P  10-308 Table S1.
 
-such cooption of prophages or mobile elements for regulating host genes has been called active lysogeny and might be widespread across bacteria .one plausible model consistent with our mutation results is one in which the mobile element within muts reversibly excises itself from the genome producing a variable and characteristic mutation rate.
+Such cooption of prophages or mobile elements for regulating host genes has been called active lysogeny and might be widespread across bacteria .One plausible model consistent with our mutation results is one in which the mobile element within mutS reversibly excises itself from the genome producing a variable and characteristic mutation rate.
 
-in our mutator lineages that retained the mobile element mutation rates were higher and more variable than would be expected if their mutation rate were stable.
+In our mutator lineages that retained the mobile element mutation rates were higher and more variable than would be expected if their mutation rate were stable.
 
-s5 in the supplemental material suggesting that variable mutation loads may be common among bacterial mutators.alternatively our observed mutation profiles in all lineages might be driven by an unidentified mechanism such as the activity of error-prone polymerases or downregu- lation of muts by the bacterial sos response.
+S5 in the supplemental material suggesting that variable mutation loads may be common among bacterial mutators.Alternatively our observed mutation profiles in all lineages might be driven by an unidentified mechanism such as the activity of error-prone polymerases or downregu- lation of mutS by the bacterial SOS response.
 
-evidence suggests that many bacteria balance this trade-off by modulating their mutation rates but few mechanisms have been described for such modulation.
+Evidence suggests that many bacteria balance this trade-off by modulating their mutation rates but few mechanisms have been described for such modulation.
 
-following experimental evolution and whole-genome resequencing of the marine bacterium vibrio splendidus 12b01 we discovered one such mechanism which al- lows this bacterium to switch to an elevated mutation rate.
+Following experimental evolution and whole-genome resequencing of the marine bacterium Vibrio splendidus 12B01 we discovered one such mechanism which al- lows this bacterium to switch to an elevated mutation rate.
 
-in a subset of these bacteria we de- tected excision of the element but not a frameshift mutation the mobile elements leave an intact muts coding sequence after excision.
+In a subset of these bacteria we de- tected excision of the element but not a frameshift mutation the mobile elements leave an intact mutS coding sequence after excision.
 
-our findings reveal a novel mechanism by which one bacterium alters its mutation rate and hint at a possible evolutionary role for mobile elements within muts in other bacteria.importance dna mutations are a double-edged sword.
-
-recent evidence suggests that some bacteria balance this trade-off by altering their mutation rates to suit their environ- ment.
-
-to date however we know of few mechanisms that allow bacteria to change their mutation rates.
-
-in seeking to reconcile the prevalence of bacterial mutators with the deleterious nature of mutations many past theoretical studies found that consti- tutive mutators--bacteria with a fixed elevated mutation rate--can be maintained at low frequencies in asexual populations .
-
-otherwise unchecked rapid accumulation of mutations would make each mutator cell an evolutionary dead end a paradigm akin to mueller's ratchet .it has been proposed that many bacteria might resolve the fidelity versus innovation dilemma by altering their mutation rates.
-
-one strategy involves active regulation of mutation rate or stress-induced mutagenesis .
+Our findings reveal a novel mechanism by which one bacterium alters its mutation rate and hint at a possible evolutionary role for mobile elements within mutS in other bacteria.IMPORTANCE DNA mutations are a double-edged sword.
 

@@ -1,30 +1,20 @@
-the cell pellet about 1000000 cells was washed once in ice-cold pbs and lysed in a cell lysis buffer 20 mmoll tris-hct ph 7.5 150 mmoll nacl 1 mmoll na2edta 1 mmoll egta 1 triton 2.5 mmoll sodium pyrophosphate 1 mmoll na3vo4 1 ugml leupeptin 1 mmoll phenylmethylsulfonyl fluoride cell signaling technology inc. danvers ma usa.
+The opposing effect of butyrate on cell survival signals provides an important mechanistic insight into the observed differential efficacy of cell proliferation and apoptosis in cancerous and noncancerous colon cells.Appropriate control over cell cycle and proliferation depends on many factors.
 
-the opposing effect of butyrate on cell survival signals provides an important mechanistic insight into the observed differential efficacy of cell proliferation and apoptosis in cancerous and noncancerous colon cells.appropriate control over cell cycle and proliferation depends on many factors.
+Conceivably there is continuous butyrate exposure in the colonic epithelium and butyrate may exert several anticarcinogenic effects through the modulation of colon cell proliferation and apoptosis -.Nutrients 2017 9 25 doi10.3390nu9010025A successful chemoprevention agent should have a minimal effect on normal cells but a strong inhibitory effect on cell proliferation and carcinogenic pathways in cancer cells.
 
-conceivably there is continuous butyrate exposure in the colonic epithelium and butyrate may exert several anticarcinogenic effects through the modulation of colon cell proliferation and apoptosis -.nutrients 2017 9 25 doi10.3390nu9010025a successful chemoprevention agent should have a minimal effect on normal cells but a strong inhibitory effect on cell proliferation and carcinogenic pathways in cancer cells.
+In addition previous data have shown that the extracellular-regulated kinase 12 ERK12 and myelocytomatosis c-Myc signaling pathways are both required to drive cell cycle progression during cell proliferation - c-Myc may also modulate p21 expression .
 
-in addition previous data have shown that the extracellular-regulated kinase 12 erk12 and myelocytomatosis c-myc signaling pathways are both required to drive cell cycle progression during cell proliferation - c-myc may also modulate p21 expression .
+The NCM460 colon cell line is an epithelial cell line which is noncancerous and derived from normal colon mucosa .
 
-the ncm460 colon cell line is an epithelial cell line which is noncancerous and derived from normal colon mucosa .
+This cell line has not been infected or transfected with any genetic information and is widely used because there are few other noncancerous colon cell lines .
 
-this cell line has not been infected or transfected with any genetic information and is widely used because there are few other noncancerous colon cell lines .
+HCT116 HT29 and Caco-2 available most of these cell lines are derived from adenocarcinoma and only the HCT116 cell line is derived from carcinoma .
 
-hct116 ht29 and caco-2 available most of these cell lines are derived from adenocarcinoma and only the hct116 cell line is derived from carcinoma .
+Given the fact that NCM460 and HCT116 cells were both originally derived from male adult colon epithelial tissues and are the same cell subtypes we believe that NCM460 and HCT116 cells are the best cell-line pair to use in our present study.In view of the critical role of butyrate in colon cancer prevention - we hypothesize that butyrate inhibits cancerous cell proliferation but to a lesser extent in noncancerous colon cells through signaling pathways regulating apoptosis and cellular survival .
 
-given the fact that ncm460 and hct116 cells were both originally derived from male adult colon epithelial tissues and are the same cell subtypes we believe that ncm460 and hct116 cells are the best cell-line pair to use in our present study.in view of the critical role of butyrate in colon cancer prevention - we hypothesize that butyrate inhibits cancerous cell proliferation but to a lesser extent in noncancerous colon cells through signaling pathways regulating apoptosis and cellular survival .
+Colon crypt cells divide rapidly and travel to the top of the epithelium where they differentiate proliferate and undergo cell cycle progression and apoptosis within 48 h. Thus we focused on the effects of butyrate on colon cell growth and apoptosis for up to 48 h in the present study whereas signaling molecules were examined at early time points e.g.
 
-colon crypt cells divide rapidly and travel to the top of the epithelium where they differentiate proliferate and undergo cell cycle progression and apoptosis within 48 h. thus we focused on the effects of butyrate on colon cell growth and apoptosis for up to 48 h in the present study whereas signaling molecules were examined at early time points e.g.
+Importantly both HCT116 and NCM460 cell lines were grown in DMEM medium with 10 FBS in all subsequent assays.Cell CountGrowth AssayHCT116 and NCM460 cell lines were both cultured in DMEM medium with 10 FBS harvested with 0.25 trypsin Invitrogen and 1 mmolL EDTA and resuspended in 1 mL medium.
 
-importantly both hct116 and ncm460 cell lines were grown in dmem medium with 10 fbs in all subsequent assays.cell countgrowth assayhct116 and ncm460 cell lines were both cultured in dmem medium with 10 fbs harvested with 0.25 trypsin invitrogen and 1 mmoll edta and resuspended in 1 ml medium.
-
-after 15 s sonication the cell lysate was centrifuged at 14000x g for 30 min at 4 c. the supernatant was designated as whole cell protein extract and kept at -80 c. the protein concentration was quantified by the bradford dye-binding assay bio-rad laboratories richmond ca usa.
-
-membrane blots were blocked in phosphate-buffered saline pbs--0.05 tween vv supplemented with 1 wtv nonfat dry milk biorad hercules ca usa overnight at 4 c. membranes were probed with antibodies against c-myc epitomics inc. burlingame ca usa phosphorylated erk12 p-erk12 erk12 acetyl-histone h3 lys9 and p21 antibodies cell signaling technology inc. danvers ma usa and then incubated with an anti-mouserabbit 13000 dilution horseradish peroxidase hrp-conjugated secondary antibody cell signaling technology inc. danvers ma usa in blocking solution for 1 h at room temperature.
-
-cells were then blocked with 10 goat serum sigma chemical corporation st. louis mo usa for 1 h and then incubated with an anti-p21 antibody cell signaling technology inc. danvers ma usa overnight at 4 c. cells after washing with pbs were incubated with anti-rabbit immunoglobulin g igg h and l fab'2 fragment alexa fluorr 488 conjugate green fluorescence cell signaling technology inc. danvers ma usa for 1 h at room temperature with propidium iodide pi 25 ugml.
-
-differences with a p value  0.05 were considered statistically significant.resultsdifferential effects of butyrate nab on cell growththe cell growth rate was inhibited in a dose-dependent manner with a maximum of 58 at 24 h and 84 at 48 h respectively in hct116 cells treated with 0.5 1 1.5 or 2 mmoll nab when compared with that of untreated cells figure .
-
-at 48 h the ic50 of butyrate to inhibit hct116 cell growth was 0.91 mmoll and the 95 confidence interval around this estimate was 0.81 1.02. in contrast the ic50 of butyrate to inhibit ncm460 cell growth was greater than 2 mmoll we could not precisely determine the value because 2 mmoll was the highest concentration of nab used in this study figure b.a1400120100806040200.00.51.01.52.0nab mmollfigure 1. cont.b 1400110.00.51.01.52.0nab mmollfigure 1. effect of sodium butyrate nab treatment for a 24 h and b 48 h on the growth of cancerous hct116 solid lines and non-cancerous ncm460 dashed lines colon cells.
+The cell pellet about 1000000 cells was washed once in ice-cold PBS and lysed in a cell lysis buffer 20 mmolL Tris-HCT pH 7.5 150 mmolL NaCl 1 mmolL Na2EDTA 1 mmolL EGTA 1 Triton 2.5 mmolL sodium pyrophosphate 1 mmolL Na3VO4 1 ugmL leupeptin 1 mmolL phenylmethylsulfonyl fluoride Cell Signaling Technology Inc. Danvers MA USA.
 

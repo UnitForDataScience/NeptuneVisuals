@@ -1,30 +1,20 @@
-cumulative  e1-0e1-96e1-115e1-153e2t1-140e2t2-1690 g nacl l-1 1 g nacl l-1 3 g nacl l-1 3 g nacl l-1 30 g nacl  kcl l-1 30 g nacl l-1the numbers in italics are the one or two most dominating anammox and non-anammox other otus in each individual samplencur new.cleanup.referencea suggested name by anammox phylogenetic tree and greengenes of pyrosequencingdiscussionduring the e1 experiment the system adapted to low salinity 3 g l-1 after an initial shock that severely affected the anammox activity.
+According to some current esti- mates about 50 of all nitrogen gas released into the atmosphere is produced by these bacteria Kartal et al.
 
-samples coded e1-0 0 g nacl l-1 e1-96 1 g nacl l-1 e1-115 3 g nacl l-1 and e1-153 3 g nacl l-1 indicate the samples taken at days 0 96 115 and 153of continuous operation of experiment e1 respectively.
+The anammox process may be advantageous com- pared to the traditional nitrification-denitrification pro- cesses for nitrogen removal as it uses up to 60 less oxygen addition of external organic carbon is not re- quired and sludge production is less Costa et al.
 
-samples coded e1-0 0 g nacl l-1 e1-96 1 g nacl l-1 e1-115 3 g nacl l-1 ande1-153 3 g nacl l-1 indicate the samples taken at days 0 96 115 and153 of continuous operation of experiment e1 respectively.
+Gao and Tao  Kartal et al.
 
-several studies have reported successful adaption of freshwater anammox consortia to high salt concentrations by gradually increasing the salinity from 0 to 15 g l-1 or from 0 to 30 g l-1 during 77-170 days dapena-mora et al.
+Strous et al.
 
-for experiment e1 samples were collected at days 0 96 115 and 153 and were named as e1-0  0 g na cl l- 1  e 1 - 96  1 g na cl l-1 e1-115 3 g nacl l-1 and e1-153 3 g nacl l-1 respectively.
+Additionally it is an important osmotic solute to ensure maintenance of turgor and regulation of the intracellular pH and of stress responses caused by in- creased sodium levels at high salinity Heermann and JungAs shown the anammox process should be combinedwith a partial nitrification process where half of the am- monium is oxidized to nitrite Van Hulle et al.
 
-samples denoted e2t1-140 30 g nacl  kcl l-1 and e2t2-169 30 g nacl l-1 werethe samples taken at days 140 of the treatment 1 and 169 of the treatment 2 of experiment e2 respectivelythe chloroflexi phylum was highly abundant 34-37 only in the two samples with 3 g nacl l-1 e1-115 and e1- 153 in the experiment e1 see fig.
+The combination of partial nitrification and anammox processes is an attractive alternative to remove nitrogenous com- pounds from high nitrogen loaded wastewaters with low organic matter content Dapena-Mora et al.
 
-5 relative abundance of the planctomycetes classes a the four brocadiales otus b. samples denoted e1-0 0 g nacl l-1 e1-96 1 g nacl l-1 e1-115 3 g nacl l-1 and e1-153 3 g nacl l-1indicate the samples taken at days 0 96 115 and 153 of continuousoperation of experiment e1 respectively.
+However many industrial wastewaters rich in ammonium also contain high salt concentrations Kartal et al.
 
-however published studies are partly contradictory because the presence of this genus was reported in an anammox culture which treated wastewater with a sa-linity of 10 g nacl l-1 zhang et al.
+Examples are established effluents produced in the fish canning industry Dapena-Mora et al.
 
-brocadia was the dominating group of anammox bacteria slowly adapted to salinity of 10-15 g nacl l-1 malovanyy et al.
+land-fill leach- ate Jin et al.
 
-and from 4 to 5 to 30 g l-1 during an adaptation period of 60-90 days kartal et al.
-
-reported that the specific anammox activity saa was 45.1 and 67.5lower for adapted stepwise from 0 to 30 g nacl l-1 andno t a dap ted bio mas s  sa line sh oc k lo adi ng of 30 g nacl l-1 respectively compared to the reference bio- mass not exposed to salinity.
-
-moreover reported that the presence of nacl in the media causes a stimulatory effect on the saa for both adapted and non-adapted biomass at concentration between 3 and 15 g na cl l-1 while higher concentration 20 g nacl l-1 caused a decrease in the activity.the bacterial response to osmotic stress represents a mul- tiphase adjustment comprising ion transport processes and.
-
-454 pyrosequencing of the 16s rrna gene amplicons was applied to examine the microbial commu- nity changes during the adaptation from freshwater to low-salinity and then to high-salinity conditions.materials and methodsseed anammox sludgethe seed anammox sludge applied as inoculum had 2.85 g l-1 of total suspended solids tss and 1.71 g l-1 of volatile suspended solids vss.
-
-it was obtained from an anammox reactor running at norwegian institute for water researchniva oslo norway which was initially inoculated with activated sludge from sequencing batch reactor sbr process water treatment plant at the wastewater treatment plant wwtp zka ingolstadt germany.feeding compositionthe reactors were fed with synthetic medium with a1.26 - 0.07-m ratio of nitrite to ammonium and with the following compositions in milli-q water g l-1 0.30 cacl22h2o 0.20 mgso47h2o 0.025 kh2po4 1.0 nahco3 varying nh4hco3 and varying nano2 concentra- tions as well as 1 ml l-1 of trace element solution 1 5.0 feso47h2o and 5.0 edta and solution 2 15 edta 0.43nacl and kcl and the anammox activity was monitored for 140 days fig.
-
-thereafter the salinity was once again decreased to 1 g nacl l-1 before increased stepwise until 3 g nacl l-1 despite a initial drop in tnrr fig.
+leather industry Kartal et al.
 

@@ -1,30 +1,20 @@
-pylori dtlpd h. pylori or dtlpad h. pylori n  10 mice for wt h. pylori dtlpad h. pylori and dtlpd h. pylori n  7 for dtlpa h. pylori.
+pylori DtlpD H. pylori or DtlpAD H. pylori n  10 mice for WT H. pylori DtlpAD H. pylori and DtlpD H. pylori n  7 for DtlpA H. pylori.
 
-we hypothesize that the factors that control h. pylori's ability to colonize the gastric glands will help explain h. pylori's ability to persist long- term in the stomach and to cause gastric diseases.despite living in the stomach h. pylori is not an acidophile and swims away from hydro- chloric acid hcl.
+We hypothesize that the factors that control H. pylori's ability to colonize the gastric glands will help explain H. pylori's ability to persist long- term in the stomach and to cause gastric diseases.Despite living in the stomach H. pylori is not an acidophile and swims away from hydro- chloric acid HCl.
 
-despite the higher loads of dtlpad h. pylori in omeprazole-treated animals the mutant is unable to colo- nize the gastric glands to the same levels as wild-type suggesting that these two chemorecep- tors are important in establishing colonization deep in the gastric glands.our study has identified two new roles for h. pylori's chemoreceptors as acid sensors and demonstrate that h. pylori's ability to detect and respond to the acid gradient is important for its localization within the stomach its interaction with the glandular epithelium and its sur- vival in vivo.resultsh.
+Despite the higher loads of DtlpAD H. pylori in omeprazole-treated animals the mutant is unable to colo- nize the gastric glands to the same levels as wild-type suggesting that these two chemorecep- tors are important in establishing colonization deep in the gastric glands.Our study has identified two new roles for H. pylori's chemoreceptors as acid sensors and demonstrate that H. pylori's ability to detect and respond to the acid gradient is important for its localization within the stomach its interaction with the glandular epithelium and its sur- vival in vivo.ResultsH.
 
-since h. pylori's tlpb chemoreceptor has been reported to detect hcl as a repellent  and we found that it detects urea as a high- sensitivity attractant  we wondered how h. pylori would respond if it were simultaneously exposed to both urea and hcl gradients emanating from one point source.we used our previously described microgradient chemotaxis assay   to record the swimming responses of a live culture of h. pylori strain pmss1 exposed to a microscopic gra- dient of a mixture of 50 mm hcl and 5 mm urea emanating from the tip of a microinjection needle.
+Since H. pylori's TlpB chemoreceptor has been reported to detect HCl as a repellent  and we found that it detects urea as a high- sensitivity attractant  we wondered how H. pylori would respond if it were simultaneously exposed to both urea and HCl gradients emanating from one point source.We used our previously described microgradient chemotaxis assay   to record the swimming responses of a live culture of H. pylori strain PMSS1 exposed to a microscopic gra- dient of a mixture of 50 mM HCl and 5 mM urea emanating from the tip of a microinjection needle.
 
-thus we discovered that h. pylori can sense and respond to small changes in both acidic and basic ph when the change in h is greater than 100 nm.tlpa and tlpd both sense acidic ph while tlpd also detects basic phto further characterize wild-type h. pylori's response to more basic environments we also tested phosphate buffers with ph 7.25 and 9.2. we found that h. pylori is attracted to basic ph solutions .
+This may have critical implications for H. pylori's survival in the stomach.Loss of both TlpA and TlpD creates a deficiency in H. pylori's ability to colonize the stomach and this deficiency can be rescued by inhibiting acid production in the stomachGiven the importance of avoiding the acidic lumen of the stomach environment we next investigated whether DtlpAD H. pylori would be able to colonize the stomachs of mice.
 
-this may have critical implications for h. pylori's survival in the stomach.loss of both tlpa and tlpd creates a deficiency in h. pylori's ability to colonize the stomach and this deficiency can be rescued by inhibiting acid production in the stomachgiven the importance of avoiding the acidic lumen of the stomach environment we next investigated whether dtlpad h. pylori would be able to colonize the stomachs of mice.
+The responses of live cultures of WT H. pylori vs. DtlpB H. pylori vs. DcheW H. pylori to a microgradient of 100mM hydrochloric acid.
 
-the responses of live cultures of wt h. pylori vs. dtlpb h. pylori vs. dchew h. pylori to a microgradient of 100mm hydrochloric acid.
+By directly visualizing H. pylori swimming behavior when encountering a micro-scopic gradient consisting of the repellent acid and attractant urea we found that H. pylori isOPEN ACCESSCitation Huang JY Goers Sweeney E Guillemin K Amieva MR 2017 Multiple Acid Sensors Control Helicobacter pylori Colonization of the Stomach.
 
-by directly visualizing h. pylori swimming behavior when encountering a micro-scopic gradient consisting of the repellent acid and attractant urea we found that h. pylori isopen accesscitation huang jy goers sweeney e guillemin k amieva mr 2017 multiple acid sensors control helicobacter pylori colonization of the stomach.
+We recently reported that TlpB can also sense chemoattractants since it is a high affinity chemore- ceptor for urea that allows H. pylori to sensitively detect and swim towards urea emanating from the gastric epithelium .In this study we initially proceeded to investigate how H. pylori may be sensing both a repellent and an attractant through TlpB.
 
-we recently reported that tlpb can also sense chemoattractants since it is a high affinity chemore- ceptor for urea that allows h. pylori to sensitively detect and swim towards urea emanating from the gastric epithelium .in this study we initially proceeded to investigate how h. pylori may be sensing both a repellent and an attractant through tlpb.
+A Still images of bacterial motility traces lasting 1.5 seconds of PMSS1 wild-type WT H. pylori and DcheW H. pylori within the field of view 1.5 seconds before and 18.5 seconds after exposure to a combined gradient of 5 mM urea and 50 mM hydrochloric acid.
 
-a still images of bacterial motility traces lasting 1.5 seconds of pmss1 wild-type wt h. pylori and dchew h. pylori within the field of view 1.5 seconds before and 18.5 seconds after exposure to a combined gradient of 5 mm urea and 50 mm hydrochloric acid.
-
-dtlpa h. pylori like wild-type responds to a minimal effective concentration of 25 mm hcl while dtlpd h. pylori requires 50 mm hcl to respond .
-
-to confirm that the tlpd-dependent attraction is a response to high ph rather than to a specific basic solution we tested for h. pylori's response to 40 mm sodium hydroxide ph 12.6. we also observed h. pylori being attracted to sodium hydroxide and the response was dependent on tlpd .
-
-recovered colony forming units cfu of h. pylori per gram of stomach tissue after a 2-week infection with wild-type wt h. pylori dtlpah.
-
-we found that in only two out of seven animals infected with dtlpad h. pylori the mutant was able to colonize the antral glands but at significantly lower densities than wild-type h. pylori .
-
-the defect in gland colonization of the mutant however may be attributed to low bacterial numbers in both the mucus and the glands as it has a 100-fold defect in overall bacterial load compared to wild-type h. pylori .we performed a similar analysis of gastric gland colonization of dtlpad h. pylori in animals treated with omeprazole after infection since in these conditions the bacterial load in the stomach was comparable to that of wild-type .
+DtlpA H. pylori like wild-type responds to a minimal effective concentration of 25 mM HCl while DtlpD H. pylori requires 50 mM HCl to respond .
 

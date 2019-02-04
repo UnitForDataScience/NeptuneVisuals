@@ -1,30 +1,20 @@
-overall bacterial diversity tended to be higher for term infants compared to preterm infants p  0.04 for main effect of term vs. preterm status for shannon diversity index p  0.05 for observed number of otus.hierarchical clustering for preterm and term infants based on relative abundance at the genus level.
+Overall bacterial diversity tended to be higher for term infants compared to preterm infants p  0.04 for main effect of term vs. preterm status for Shannon diversity index p  0.05 for observed number of OTUs.Hierarchical clustering for preterm and term infants based on relative abundance at the genus level.
 
-development of the skin microbiome in preterm infants or its determinants in the first 4 weeks of life has not been evaluated.methodswe evaluated the skin microbiome from three body sites antecubital fossa forehead and gluteal region in a prospective cohort of 15 preterm birth weight  1500 g and  32 weeks of gestation and 15 term neonates.
+Development of the skin microbiome in preterm infants or its determinants in the first 4 weeks of life has not been evaluated.MethodsWe evaluated the skin microbiome from three body sites antecubital fossa forehead and gluteal region in a prospective cohort of 15 preterm birth weight  1500 g and  32 weeks of gestation and 15 term neonates.
 
-although the skin microbiome has been examined in term infants early in the first year  it has not been evaluated in preterm neo- nates in the neonatal period in the nicu.we sought to characterize the bacterial diversity and community structure of the skin microbiota in preterm infants in the first 4 weeks of life.
+Although the skin microbiome has been examined in term infants early in the first year  it has not been evaluated in preterm neo- nates in the neonatal period in the NICU.We sought to characterize the bacterial diversity and community structure of the skin microbiota in preterm infants in the first 4 weeks of life.
 
-gesta- tion to that of term neonates 2 37 weeks of gestation and to ii investigate potential clinical correlates of the skin microbiome in preterm neonates.we report on the longitudinal development in the skin microbiome from the antecubital fossa forehead and gluteal region in this neonatal cohort focusing on preterm infants in the nicu.
+gesta- tion to that of term neonates 2 37 weeks of gestation and to ii investigate potential clinical correlates of the skin microbiome in preterm neonates.We report on the longitudinal development in the skin microbiome from the antecubital fossa forehead and gluteal region in this neonatal cohort focusing on preterm infants in the NICU.
 
-we considered the trajectories of preterm and term infants separately given their different sampling schedules.for preterm infants measurements of bacterial richness in the skin showed a decreasing ten- dency between the first and second week of sampling  particularly in the ante- cubital fossa and gluteal region followed by an increase in the weeks thereafter.
+We considered the trajectories of preterm and term infants separately given their different sampling schedules.For preterm infants measurements of bacterial richness in the skin showed a decreasing ten- dency between the first and second week of sampling  particularly in the ante- cubital fossa and gluteal region followed by an increase in the weeks thereafter.
 
-for each skin site the number of otus and shannon diversity index in preterm infants decreased between week 1 and week 2 and then increased over time until week 5. the trend for diversity over time was not significantly different between the three sites in our linear mixed effects model for observed otus and shannon diversity index in preterm infants.
+For preterm infants the mean weighted and unweighted UniFrac distances remained constant between each week and the baseline sample.We used hierarchical clustering to examine the relative abundance of genera in preterm and term infants separately .
 
-for preterm infants the mean weighted and unweighted unifrac distances remained constant between each week and the baseline sample.we used hierarchical clustering to examine the relative abundance of genera in preterm and term infants separately .
+Handling by healthcare staff exposure to equip- ment such as incubators and to the microbes associated with the NICU environment may also have modified the development of cutaneous microbiota in preterm neonates .The longitudinal development of the skin microbiome has not been reported before.Although we did not find a significant linear trend the number of OTUs and Shannon diver- sity index score tended to decreases from week 1 to week 2 and increase during the subsequent weeks at least in the preterm infants These temporal trends may indicate the dynamism of the skin microbiome observed early in life analogous to what is observed in the gut microbiome .
 
-handling by healthcare staff exposure to equip- ment such as incubators and to the microbes associated with the nicu environment may also have modified the development of cutaneous microbiota in preterm neonates .the longitudinal development of the skin microbiome has not been reported before.although we did not find a significant linear trend the number of otus and shannon diver- sity index score tended to decreases from week 1 to week 2 and increase during the subsequent weeks at least in the preterm infants these temporal trends may indicate the dynamism of the skin microbiome observed early in life analogous to what is observed in the gut microbiome .
+Our neonatal unit strongly encourages kangaroo care skin to skin contact by parents in all preterm neonates and hence we were unable to investigate microbiota differences related to kangaroo care in preterm neonates.
 
-our neonatal unit strongly encourages kangaroo care skin to skin contact by parents in all preterm neonates and hence we were unable to investigate microbiota differences related to kangaroo care in preterm neonates.
+RESEARCH ARTICLEDevelopment of the cutaneous microbiome in the preterm infant A prospective longitudinal studyMohan Pammi1 Jacqueline L. O'Brien2 Nadim J. Ajami2 Matthew C. Wong2 James Versalovic3 Joseph F. Petrosino21 Section of Neonatology Dept.
 
-research articledevelopment of the cutaneous microbiome in the preterm infant a prospective longitudinal studymohan pammi1 jacqueline l. o'brien2 nadim j. ajami2 matthew c. wong2 james versalovic3 joseph f. petrosino21 section of neonatology dept.
-
-abstractopen accesscitation pammi m o'brien jl ajami nj wong mc versalovic j petrosino jf 2017 development of the cutaneous microbiome in the preterm infant a prospective longitudinal study.
-
-the work was supported in part by research support from the national institutes of health u01 ca 170930 jv and nih p30 dk56338 jv for the texasbackgroundneonatal sepsis in preterm infants is often due to organisms that colonize the skin including staphylococcus spp.
-
-development and maturation of the skin microbiome in the neonatal period especially in preterm infants may be critical in preventing coloniza- tion with pathogens and subsequent progression to neonatal sepsis.
-
-we used linear mixed effects models to analyze longitudinal data.resultsthe structure and composition of the skin microbiome did not differ between the three sampling sites for term and preterm infants in the neonatal period.
-
-intrave- nous antibiotics negatively impacted the bacterial diversity of the skin but we did not see dif- ferences with respect to feeding or mode of delivery.conclusionsgestational age which influences the maturity of skin structure and function is associated with the development of the preterm cutaneous microbiome.
+AbstractOPEN ACCESSCitation Pammi M O'Brien JL Ajami NJ Wong MC Versalovic J Petrosino JF 2017 Development of the cutaneous microbiome in the preterm infant A prospective longitudinal study.
 

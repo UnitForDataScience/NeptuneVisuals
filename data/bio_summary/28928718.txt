@@ -1,30 +1,20 @@
-72 5069-5072. doi edgar r. c. 2010. search and clustering orders of magnitude faster than blast.bioinformatics 26 2460-2461. doi edgar r. c. 2013. uparse highly accurate otu sequences from microbial amplicon reads.
+Methods 39 23-31. doi Adler D. 2005. vioplot Violin plot.
 
-methods 39 23-31. doi adler d. 2005. vioplot violin plot.
+doi Andersson A. F. Lindberg M. Jakbosson H. Backhed F. Nyren P. and Engstrand L. 2008.
 
-doi andersson a. f. lindberg m. jakbosson h. backhed f. nyren p. and engstrand l. 2008. comparative analysis of human gut microbiota by barcoded pyrosequencing.
+doi Andrews S. 2009.
 
-doi andrews s. 2009. fastqc.
+12878. doi Aoi Y. Kinoshita T. Hata T. Ohta H. Obokata H. and TsunedaS.
 
-12878. doi aoi y. kinoshita t. hata t. ohta h. obokata h. and tsunedas.
+75 3826-3833. doi Asshauer K. P. Wemheuer B. Daniel R. and Meinicke P. 2015.
 
-75 3826-3833. doi asshauer k. p. wemheuer b. daniel r. and meinicke p. 2015. tax4fun predicting functional profiles from metagenomic 16s rrna data.
+Bioinformatics 31 2882-2884. doi Baker G. C. Smith J. J. and Cowan D. A.
 
-bioinformatics 31 2882-2884. doi baker g. c. smith j. j. and cowan d. a.
+Methods 55 541-555. doi BalvocViu-te.
 
-methods 55 541-555. doi balvocviu-te.
+SILVA RDP Greengenes NCBI and OTT - how do these taxonomies compare BMC Genomics 18114. doi Benitez-Paez A. Portune K. J. and Sanz Y.
 
-m. and huson d. h. 2017. silva rdp greengenes ncbi and ott - how do these taxonomies compare bmc genomics 18114. doi benitez-paez a. portune k. j. and sanz y.
+Gigascience 54. doi Bragg L. M. Stone G. Butler M. K. Hugenholtz P. and Tyson G. W. 2013.
 
-gigascience 54. doi bragg l. m. stone g. butler m. k. hugenholtz p. and tyson g. w. 2013. shining a light on dark sequencing characterising errors in ion torrent pgm data.
-
-doi bullard j. h. purdom e. hansen k. d. and dudoit s. 2010. evaluation of statistical methods for normalization and differential expression in mrna-seq experiments.
-
-bmc bioinformatics 1194. doi buttigieg p. l. and ramette a.
-
-90 543-550. doi cadotte m. w. jonathan davies t. regetz j. kembel s. w. cleland e. and oakley t. h. 2010. phylogenetic diversity metrics for ecological communities integrating species richness abundance and evolutionary history.
-
-13 96-105. doi callahan b. j. mcmurdie p. j. rosen m. j. han a. w. johnson a. j. a. and holmes s. p. 2016. dada2 high-resolution sample inference from illumina amplicon data.
-
-13 581-583. doi campbell b. j. yu l. heidelberg j. f. and kirchman d. l. 2011. activity of abundant and rare bacteria in a coastal ocean.
+doi Bullard J. H. Purdom E. Hansen K. D. and Dudoit S. 2010.
 

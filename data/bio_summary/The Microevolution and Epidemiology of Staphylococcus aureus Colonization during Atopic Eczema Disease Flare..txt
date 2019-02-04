@@ -1,30 +1,20 @@
-there was a significant difference in the genetic backgrounds of s. aureus colonizing ae cases versus controls fisher exact test p 0.03. examination of intra-host genetic heterogeneity of the colonizing s. aureus pop- ulations identified evidence of within-host selection in the ae patients with ae variants being potentially selectively advantageous for intracellular persistence and treatment resistance.journal of investigative dermatology 2018 138 336e343 introductionclinical studies have shown a link between staphylococcus aureus and the pathogenesis of atopic eczema ae.
+Examination of intra-host genetic heterogeneity of the colonizing S. aureus pop- ulations identified evidence of within-host selection in the AE patients with AE variants being potentially selectively advantageous for intracellular persistence and treatment resistance.Journal of Investigative Dermatology 2018 138 336e343 INTRODUCTIONClinical studies have shown a link between Staphylococcus aureus and the pathogenesis of atopic eczema AE.
 
-although providing a more holistic overview of microbial population structure in ae current metagenomic approaches have thus far failed to resolve the fine-scale population dynamics of s. aureus in ae or the genetic changes occurring in the colonizing population of this versatile pathogen.whole-genome sequencing is a high-resolution genotyping tool that can be used to study within-host evolution and transmission.
+Although providing a more holistic overview of microbial population structure in AE current metagenomic approaches have thus far failed to resolve the fine-scale population dynamics of S. aureus in AE or the genetic changes occurring in the colonizing population of this versatile pathogen.Whole-genome sequencing is a high-resolution genotyping tool that can be used to study within-host evolution and transmission.
 
-eczema patients were more frequently colonized with sts belonging to clonal complex cc 1 four of the nine ae cases 44 carried sts belonging to cc1 st1 andfigure 1. genetic diversity of s. aureus strains associated with ae flares.
+The levels of diversity we observed in both patients and control partic- ipants were comparable to those of previous studies exam- ining the in-host population diversity of S. aureus during carriage maximum pairwise SNP distance differentiating colonies from AE cases was 26 and in controls was 17 .In AE cases where nasal colonization was detected col- onies derived from skin and nasal sites were interspersedFigure 2.
 
-ae atopic eczema.st188 compared with a single control 6 fisher exact test p 14 0.03. conversely control participants were prin- cipally colonized with cc30 11 of the 18 controls 61 carried sts belonging to cc30 st30 and st2889 compared with one case 11 fisher exact test p 14 0.02. this sug- gested that a subset of the s. aureus population is more frequently associated with colonization in ae.
+The convergent evolution of mutations in this key regulator is evidence of a strong selective pressure favoring reduced virulence in this population.DISCUSSIONDeep sequencing has allowed an unprecedented view of the microevolutionary changes occurring during carriage in AE with evidence of selection for specific strain backgrounds colonizing AE skin.
 
-the levels of diversity we observed in both patients and control partic- ipants were comparable to those of previous studies exam- ining the in-host population diversity of s. aureus during carriage maximum pairwise snp distance differentiating colonies from ae cases was 26 and in controls was 17 .in ae cases where nasal colonization was detected col- onies derived from skin and nasal sites were interspersedfigure 2. clonal expansion and self-transmission in patient 1. amaximum likelihood ml core snps tree illustrating genetic relationships of colonies across three body sites.
+In the future serially sampling AE patients and their family members would enable us to assess the impact that selective sweeps and transmission bottlenecks have on shaping the diversity we observe in AE colonization.From the most mature colonization populations we uncovered clear evidence of selection shaping the pop- ulations providing insights into mechanisms of bacterial persistence and other potential origins of the clonally expanded populations in these individuals.
 
-the convergent evolution of mutations in this key regulator is evidence of a strong selective pressure favoring reduced virulence in this population.discussiondeep sequencing has allowed an unprecedented view of the microevolutionary changes occurring during carriage in ae with evidence of selection for specific strain backgrounds colonizing ae skin.
+A characteristic of atopic eczema AE is colonization by S. aureus with exacerbations associated with an increased bacterial burden of the organism.
 
-in the future serially sampling ae patients and their family members would enable us to assess the impact that selective sweeps and transmission bottlenecks have on shaping the diversity we observe in ae colonization.from the most mature colonization populations we uncovered clear evidence of selection shaping the pop- ulations providing insights into mechanisms of bacterial persistence and other potential origins of the clonally expanded populations in these individuals.
+Despite this the origins and genetic diversity of S. aureus colo- nizing individual patients during AE disease flares is poorly understood.
 
-a characteristic of atopic eczema ae is colonization by s. aureus with exacerbations associated with an increased bacterial burden of the organism.
+aureus colonization we deep sequenced S. aureus populations from nine children with moderate to severe AE and 18 non-atopic children asymptomatically carrying S. aureus nasally.
 
-despite this the origins and genetic diversity of s. aureus colo- nizing individual patients during ae disease flares is poorly understood.
+Colonization by clonal S. aureus populations was observed in both AE patients and control participants with all but one of the individuals carrying colonies belonging to a single sequence type.
 
-aureus colonization we deep sequenced s. aureus populations from nine children with moderate to severe ae and 18 non-atopic children asymptomatically carrying s. aureus nasally.
-
-colonization by clonal s. aureus populations was observed in both ae patients and control participants with all but one of the individuals carrying colonies belonging to a single sequence type.
-
-affected individuals are characteristically prone to colonization by this pathogen  with disease severity correlating to bacterial burden and number of colonized sites .there has been a shift toward understanding how cuta- neous dysbiosis contributes to ae etiology  .
-
-metagenomic analysis has shown that changes in populations of microbial communities are signif- icantly associated with disease activity in ae and that increased in s. aureus is linked to increasing severity.
-
-e-mail abbreviations ae atopic eczema cc clonal complex st sequence type snp single-nucleotide polymorphismreceived 15 may 2017 revised 11 august 2017 accepted 12 september2017 accepted manuscript published online 23 september 2017 correctedproof published online 13 december 2017colonization and to reconstruct the evolutionary events shaping populations .
-
-in this study we deep sequenced s. aureus populations from children with ae enabling us to investigate the microevolution of colonization during disease flare.
+There was a significant difference in the genetic backgrounds of S. aureus colonizing AE cases versus controls Fisher exact test P 0.03.
 

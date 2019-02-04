@@ -1,30 +1,20 @@
-e. coli bl21 de3 and e. coli bl21 tunertm de3 were used for expression following standard trans- formation techniques 28. genomic dna was extracted from e. coli jm109 using a wizardr genomic dna purifi- cation kit promega.
+Expression of genes cloned into pET vectors was induced by IPTG in E. coli BL21 DE3 and E. coli BL21 Tunertm DE3 Novagen.
 
-co-expression of targeted and untargeted ppk1 and ppxthe pcoladuet-1 coexpression vector novagen system encoding two multiple cloning sites mcs each preceded by a t7 promoter lac operator and ribosome binding site was used to express targeted and untargeted e. coli ppk1 and ppx ppx from e. coli jm109 in combination pyy005 pyy007 pyy008 and alone pyy002 pyy010 see table 1. microcompartment purificationrecombinant bmcs were extracted from e. coli as pub- lished 34 supporting information.
+Molecular biology techniquesCloning strains used were E. coli JM109 or E. coli TOP10 Invitrogen.
 
-the blue-colored dashed spectrum is referenced from sodium polyphosphate.enzyme responsible for polyphosphate synthesis in most bacteria therefore remains unknown 45.in e. coli polyphosphate accumulation in wild-type strains occurs with amino acid starvation or in station- ary phase 17 36 46. large amounts of polyphosphate accumulate only if the copy number of ppk1 is increased 11 a heterologous ppk gene is supplied 47 or the phosphate regulatory gene phou is mutated 48 49. even in e. coli strains overexpressing ppk1 initial poly- phosphate accumulation is partially or completely reversed by stationary phase 11 12. because this also occurs in e. coli overexpressing ppk1 with no chromo- somal functioning ppx gene this may be due to product- induced reversal of the ppk-catalyzed reaction or the activity of another cytoplasmic phosphatase 12. we observed a similar reversal of polyphosphate accumula-tion in our overexpressing ppk1 clone accompanied by increasing pi in culture supernatant fig.
+E. coli BL21 DE3 and E. coli BL21 Tunertm DE3 were used for expression following standard trans- formation techniques 28.
 
-coli has been that most of the consequent polyphos- phate increase is temporary probably because of the existence of competing catabolic enzymes 11 12. phos- phate release from cells occurs as polyphosphate is bro- ken down.in e. coli polyphosphate kinase ppk1 e.c.
+Co-expression of targeted and untargeted PPK1 and PPXThe pCOLADuet-1 coexpression vector Novagen system encoding two multiple cloning sites MCS each preceded by a T7 promoter lac operator and ribosome binding site was used to express targeted and untargeted E. coli PPK1 and PPX ppx from E. coli JM109 in combination pYY005 pYY007 pYY008 and alone pYY002 pYY010 see Table 1.
 
-both ppx and gppa are com- petitively inhibited by pppgpp 17. consequently ami- no acid starvation in e. coli leads to accumulation of polyphosphate due to high levels of pppgpp produced in the stringent response 17. in e. coli ppk1 and ppx are adjacent genes forming an operon.
+Research ArticleBacterial microcompartment-directed polyphosphate kinase promotes stable polyphosphate accumulation in E. coli Mingzhi Liang12 Stefanie Frank3 Heinrich Lunsdorf 4 Martin J. Warren2 and Michael B. Prentice1561 Department of Microbiology University College Cork Cork Ireland 2 School of Biosciences University of Kent Canterbury Kent UK 3 Department of Biochemical Engineering University College London London UK 4 Central Facility for Microscopy Helmholtz Center of Infection Research Braunschweig Germany 5 Department of Pathology University College Cork Cork Ireland 6 APC Microbiome Institute University College Cork Cork IrelandProcesses for the biological removal of phosphate from wastewater rely on temporary manipula- tion of bacterial polyphosphate levels by phased environmental stimuli.
 
-expression of genes cloned into pet vectors was induced by iptg in e. coli bl21 de3 and e. coli bl21 tunertm de3 novagen.
+In E. coli polyphosphate levels are controlled via the polyphosphate-synthesizing enzyme polyphosphate kinase PPK1 and exopolyphosphatases PPX and GPPA and are temporarily enhanced by PPK1 overexpression and reduced by PPX overexpression.
 
-molecular biology techniquescloning strains used were e. coli jm109 or e. coli top10 invitrogen.
+We hypothesized that partitioning PPK1 from cytoplasmic exopolyp hosphatases would increase and stabilize E. coli polyphosphate levels.
 
-accumulation occurs in aerobic conditions as intracellular polyphosphate 6 10 with release as pi in anaerobic conditions 43 or when the consortium is sup- plied with organic carbon or heated 10. the best charac- terized enzyme responsible for polyphosphate synthesis ppk1 originally found in e. coli 44 can only be detect- ed in silico in a minority of bacterial genera 45. thefigure 5. phosphorus content of cyto- plasmic granules in e. coli expressing recombinant polyphosphate kinase is confirmed by ultrastructural and elec- tron-loss spectroscopic analysis using energy-filtered transmission electron microscopy eftem and is increased and qualitatively altered by recombinant microcompartment co-expression.
+Partitioning was achieved by co-expression of E. coli PPK1 fused with a microcompartment-targeting sequence and an artificial operon of Citrobacter freundii bacterial microcompartment genes.
 
-research articlebacterial microcompartment-directed polyphosphate kinase promotes stable polyphosphate accumulation in e. coli mingzhi liang12 stefanie frank3 heinrich lunsdorf 4 martin j. warren2 and michael b. prentice1561 department of microbiology university college cork cork ireland 2 school of biosciences university of kent canterbury kent uk 3 department of biochemical engineering university college london london uk 4 central facility for microscopy helmholtz center of infection research braunschweig germany 5 department of pathology university college cork cork ireland 6 apc microbiome institute university college cork cork irelandprocesses for the biological removal of phosphate from wastewater rely on temporary manipula- tion of bacterial polyphosphate levels by phased environmental stimuli.
+The effect of microcompartment-targeting of polyphosphate kinase PPK1 on polyphosphate metabolism in E. coli.
 
-in e. coli polyphosphate levels are controlled via the polyphosphate-synthesizing enzyme polyphosphate kinase ppk1 and exopolyphosphatases ppx and gppa and are temporarily enhanced by ppk1 overexpression and reduced by ppx overexpression.
-
-we hypothesized that partitioning ppk1 from cytoplasmic exopolyp hosphatases would increase and stabilize e. coli polyphosphate levels.
-
-partitioning was achieved by co-expression of e. coli ppk1 fused with a microcompartment-targeting sequence and an artificial operon of citrobacter freundii bacterial microcompartment genes.
-
-polyphosphate-accumulating bacteria arefigure 1. the effect of microcompartment-targeting of polyphosphate kinase ppk1 on polyphosphate metabolism in e. coli.
-
-a proposed mechanism increasing polyphosphate content of e. coli by microcompartment-targeting of polyphosphate kinase ppk1.
-
-b sds-page gel of microcompartment samples isolated from e. coli bl21 de3 strains.
+A Proposed mechanism increasing polyphosphate content of E. coli by microcompartment-targeting of polyphosphate kinase PPK1.
 

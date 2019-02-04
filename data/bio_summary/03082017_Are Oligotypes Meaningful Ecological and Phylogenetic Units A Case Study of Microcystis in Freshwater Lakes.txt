@@ -1,30 +1,20 @@
-the points we raise in this perspective apply equally to the interpretation of oligotyping med dada2 and any other tools attempting to make ecotype inferences from 16s rrna gene amplicons.microcystis case studyto illustrate potential issues with the ecological and evolutionary assumptions made about 16s rrna oligotypes we present a case study of microcystis a colony-forming cyanobacterium that is a prominent component of harmful algal blooms in freshwater systems worldwide    .
+The points we raise in this perspective apply equally to the interpretation of oligotyping MED dada2 and any other tools attempting to make ecotype inferences from 16S rRNA gene amplicons.MICROCYSTIS CASE STUDYTo illustrate potential issues with the ecological and evolutionary assumptions made about 16S rRNA oligotypes we present a case study of Microcystis a colony-forming cyanobacterium that is a prominent component of harmful algal blooms in freshwater systems worldwide    .
 
-furthermore a recent review of global microcystis diversity indicates that 27 strains varying in toxic potential exhibit 99.4-99.93 similarity across the full length 16s rrna gene   so surveys based on shortened 16s rrna gene amplicons are likely to group several toxic and non-toxic populations together.
+Furthermore a recent review of global Microcystis diversity indicates that 27 strains varying in toxic potential exhibit 99.4-99.93 similarity across the full length 16S rRNA gene   so surveys based on shortened 16S rRNA gene amplicons are likely to group several toxic and non-toxic populations together.
 
-9 968-979. eren a. m. zozaya m. taylor c. m. dowd s. e. martin d. h. and ferris m. j.
+Eren A. M. Zozaya M. Taylor C. M. Dowd S. E. Martin D. H. and Ferris M. J.
 
-therefore we recommend that studies employing oligotyping or related tools consider these caveats during data interpretation.keywords oligotypes microbial species ecotypes dada2 16s rrna gene sequencing microcystisinterpretation of oligotyping patterns hinges on mostly untested assumptions regarding the ecological and phylogenetic cohesion of oligotypesmicrobiome studies using 16s rrna gene amplicons typically aggregate sequences into operational taxonomic units otus based on a 97 sequence identity threshold.
+Therefore we recommend that studies employing oligotyping or related tools consider these caveats during data interpretation.Keywords oligotypes microbial species ecotypes dada2 16S rRNA gene sequencing MicrocystisINTERPRETATION OF OLIGOTYPING PATTERNS HINGES ON MOSTLY UNTESTED ASSUMPTIONS REGARDING THE ECOLOGICAL AND PHYLOGENETIC COHESION OF OLIGOTYPESMicrobiome studies using 16S rRNA gene amplicons typically aggregate sequences into operational taxonomic units OTUs based on a 97 sequence identity threshold.
 
-the increased resolution enabled by these new methods should not preclude rigorous use of ecological and evolutionary terms and concepts.data accesssequences used for oligotyping analyses are available under sra accession numbers prjna318386 lake erie 16s rrna gene supplementary table s3 and prjna351875 inland lakes 16s rrna gene and metagenomic data supplementary table s2.
+The increased resolution enabled by these new methods should not preclude rigorous use of ecological and evolutionary terms and concepts.DATA ACCESSSequences used for oligotyping analyses are available under SRA accession numbers PRJNA318386 Lake Erie 16S rRNA gene Supplementary Table S3 and PRJNA351875 inland lakes 16S rRNA gene and metagenomic data Supplementary Table S2.
 
-indeed the relative abundance of ctg was positively correlated with particulate microcystin-lr levels spearman's rho 0.71 p  0.001. however it's important to note that this correlation may be unstable due to the non- stationarity of the data see details in supplementary methods section.the maximum and median relative abundance of ctt was an order of magnitude higher at the offshore station maximum  37.0 median  0.28 than the nearshorestations maximum 2.3 median 0.023. since the offshore station had lower median phosphorus levels supplementary table s1 we hypothesized that the oligotypes might underlie differences in competitive abilities along trophic gradients.next we examined 16s rrna gene and whole genome data from the collection of microcystis isolate cultures supplementary table s2 to further investigate our hypotheses about microcystis oligotypes toxicity and trophic status.
+Since the offshore station had lower median phosphorus levels Supplementary Table S1 we hypothesized that the oligotypes might underlie differences in competitive abilities along trophic gradients.Next we examined 16S rRNA gene and whole genome data from the collection of Microcystis isolate cultures Supplementary Table S2 to further investigate our hypotheses about Microcystis oligotypes toxicity and trophic status.
 
-this manuscript is noaa-glerl contribution number 1847 and ciler contribution number 1105.supplementary materialthe supplementary material for this article can be found online at referencesberry m. a. davis t. w. cory r. m. duhaime m. b. johengen t. h. klingg.
+This manuscript is NOAA-GLERL contribution number 1847 and CILER contribution number 1105.SUPPLEMENTARY MATERIALThe Supplementary Material for this article can be found online at REFERENCESBerry M. A. Davis T. W. Cory R. M. Duhaime M. B. Johengen T. H. KlingG.
 
-50 604-615. harke m. j. steffen m. m. otten t. g. wilhelm s. w. wood s. a. and paerlh.
+Harke M. J. Steffen M. M. Otten T. G. Wilhelm S. W. Wood S. A. and PaerlH.
 
-kozel t. geelhoed and m. schmidt for assistance samplingthe inland lakes m. williams a. fogiel and t. brownell for providing logistical support and c. kozel t. geelhoed and s. flemming for maintaining the microcystis cultures.
+Kozel T. Geelhoed and M. Schmidt for assistance samplingthe inland lakes M. Williams A. Fogiel and T. Brownell for providing logistical support and C. Kozel T. Geelhoed and S. Flemming for maintaining the Microcystis cultures.
 
-we identified three microcystis oligotypes from a western lake erie bacterial community 16s rrna gene v4 region survey that had previously clustered into one otu.
-
-similar to the lake erie dataset all microcystis 16s rrna gene v4 region sequences clustered into one otu but we recovered five oligotypes ctg ccg ctt tcg cct.
-
-our data support this observation and demonstrate the principle that 16s rrna gene hypervariable regions can be poor proxies for evolutionary distance at finer taxonomic scales irrespective of whether the resolution is at the otu or oligotype level.in summary distributions of microcystis oligotypes from an environmental community dataset corresponded with shifts in toxicity and spatial variation in phosphorus levels.
-
-thus microcystis 16s rrna gene amplicons may be useful to discriminate ecologically distinct populations when more complex and presumably multi-genic traits are considered such as shifts on the oligotroph-copiotroph spectrum    .
-
-in some cases the selected marker gene may be a reasonable proxy for ecological groups - trophic preference of microcystis 16s rrna gene oligotypes may represent one such case.
-
-coleman m. l. sullivan m. b. martiny a. c. steglich c. barry k. delong e. f. et al.
+We identified three Microcystis oligotypes from a western Lake Erie bacterial community 16S rRNA gene V4 region survey that had previously clustered into one OTU.
 

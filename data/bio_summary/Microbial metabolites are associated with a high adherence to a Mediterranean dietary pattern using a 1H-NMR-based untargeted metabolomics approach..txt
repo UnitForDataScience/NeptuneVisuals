@@ -1,30 +1,20 @@
-the proposed biomarker may be a better tool for assessing and aiding nutritional epidemiology in future associations between h-mda and the prevention or amelioration of chronic diseases.c 2017 elsevier inc. all rights reserved.keywords microbiota biomarkers metabolomics dietary patterns mediterranean diet high adherenceabbreviations auc area under the curve cvd cardiovascular disease ffq food frequency questionnaire 1h-nmr proton nuclear magnetic resonance h- mda high mediterranean diet adherence hphpa 3-3-hydroxyphenyl-3-hydroxypropanoate l-mda low mediterranean diet adherence meddiet mediterranean diet mets metabolic syndrome predimed prevencion con dieta mediterranea osc-pls-da orthogonal signal correction-partial least squares discriminant analysis pagn phenylacetylglutamine roc receiver operating characteristic vip variable importance in projection.
+The proposed biomarker may be a better tool for assessing and aiding nutritional epidemiology in future associations between H-MDA and the prevention or amelioration of chronic diseases.c 2017 Elsevier Inc. All rights reserved.Keywords Microbiota Biomarkers Metabolomics Dietary patterns Mediterranean diet High adherenceAbbreviations AUC area under the curve CVD cardiovascular disease FFQ food frequency questionnaire 1H-NMR proton nuclear magnetic resonance H- MDA high Mediterranean diet adherence HPHPA 3-3-hydroxyphenyl-3-hydroxypropanoate L-MDA low Mediterranean diet adherence MedDiet Mediterranean diet MetS metabolic syndrome PREDIMED Prevencion con Dieta Mediterranea OSC-PLS-DA orthogonal signal correction-partial least squares discriminant analysis PAGN phenylacetylglutamine ROC receiver operating characteristic VIP variable importance in projection.
 
-in addition participants in the h-mda group had higher levels of metabolites involved in the choline pathway except betaine as well as the inositol niconitate nicotidamide and pyrimidine pathways .prediction model for high adherence to mediterranean dietary patternwe performed a model based on a stepwise binary logistic regression analysis including the previous 34 metabolites identified from the osc-pls-da model and further roc curve analyses to evaluate the resulting model and the individual metabolites included in this.
+In addition participants in the H-MDA group had higher levels of metabolites involved in the choline pathway except betaine as well as the inositol niconitate nicotidamide and pyrimidine pathways .Prediction model for high adherence to Mediterranean dietary patternWe performed a model based on a stepwise binary logistic regression analysis including the previous 34 metabolites identified from the OSC-PLS-DA model and further ROC curve analyses to evaluate the resulting model and the individual metabolites included in this.
 
-n engl j med 2003348 2599-608. schroder h fito m estruch r martinez-gonzalez ma corella d salas-salvado j et al.
+The character- ization of dietary patterns by using metabolomic approaches is important because it would allow insights into the relationship between diet taking into account the bioavailability of MedDiet bioactives and the risk of chronic diseases .In the current study we aimed to determine a robust and accurateurinary biomarker associated with a high adherence to MedDiet pattern that included dietary assessment and its biological effect on the organism by using a 1H-NMR-based untargeted metabolomics approach which can be usefully applied in nutritional epidemiology.Subjects and methodsStudy population and study designThe PREDIMED study is a multicenter randomized parallel and controlled clinical trial conducted in Spain and aimed at assessing the effects of a MedDiet on primary prevention of CVD.
 
-j agric food chem 201765586-95. martinez-gonzalez ma garcia-arellano a toledo e salas-salvado j buil-cosiales p corella d et al.
+Otherwise the three individual metabolites had good correlation with the MedDiet score r0.3-0.6 Pb.001 but weaker or not significant correlations with the intake of individual foods.DiscussionIn the present metabolomic study we identified the urinary metabolite profile consisting of 34 metabolites that enable discrim- ination between 2 groups of individuals with high or low adherence to the score of Mediterranean diet adherence validated in the PREDIMED study .
 
-j nutr 20141441642-9. martinez-gonzalez ma corella d salas-salvado j ros e covas mi fiol m et al.
+To account for multiple comparisons in the metabolomic analysis we used a corrected P value with the Benjamini-Hochberg procedure.Aiming to identify the metabolites with the best discriminantcapability between H-MDA and L-MDA we designed and assessed the performance of a prediction model with the H-MDA as dependent variable and the discriminant metabolites identified from the OSC-PLS-DA model as independent variables .
 
-int j epidemiol 2012 41377-85. estruch r ros e salas-salvado j covas m-i corella d aros f et al.
+This score was aimed at assessing the compliance with a healthy Nordic diet in a population with metabolic syndrome MetS and subsequently used to analyze the effects of diet on cardiometabolic risk factors among those individuals with highest compliance to this diet .
 
-the character- ization of dietary patterns by using metabolomic approaches is important because it would allow insights into the relationship between diet taking into account the bioavailability of meddiet bioactives and the risk of chronic diseases .in the current study we aimed to determine a robust and accurateurinary biomarker associated with a high adherence to meddiet pattern that included dietary assessment and its biological effect on the organism by using a 1h-nmr-based untargeted metabolomics approach which can be usefully applied in nutritional epidemiology.subjects and methodsstudy population and study designthe predimed study is a multicenter randomized parallel and controlled clinical trial conducted in spain and aimed at assessing the effects of a meddiet on primary prevention of cvd.
+Harmon BE Boushey CJ Shvetsov YB Ettienne R Reedy J Wilkens LR et al.
 
-otherwise the three individual metabolites had good correlation with the meddiet score r0.3-0.6 pb.001 but weaker or not significant correlations with the intake of individual foods.discussionin the present metabolomic study we identified the urinary metabolite profile consisting of 34 metabolites that enable discrim- ination between 2 groups of individuals with high or low adherence to the score of mediterranean diet adherence validated in the predimed study .
+Schroder H Fito M Estruch R Martinez-Gonzalez MA Corella D Salas-Salvado J et al.
 
-to account for multiple comparisons in the metabolomic analysis we used a corrected p value with the benjamini-hochberg procedure.aiming to identify the metabolites with the best discriminantcapability between h-mda and l-mda we designed and assessed the performance of a prediction model with the h-mda as dependent variable and the discriminant metabolites identified from the osc-pls-da model as independent variables .
+Martinez-Gonzalez MA Garcia-Arellano A Toledo E Salas-Salvado J Buil-Cosiales P Corella D et al.
 
-this score was aimed at assessing the compliance with a healthy nordic diet in a population with metabolic syndrome mets and subsequently used to analyze the effects of diet on cardiometabolic risk factors among those individuals with highest compliance to this diet .
-
-chapter 2 dietary patterns foods and nutrients and health outcomes 2015. harmon be boushey cj shvetsov yb ettienne r reedy j wilkens lr et al.
-
-am j clin nutr 2015101587-97. andersen m-bs rinnan a manach c poulsen sk pujos-guillot e larsen tm et al.
-
-j proteome res 2014131405-18. garcia-aloy m llorach r urpi-sarda m tulipani s estruch r martinez-gonzalez ma et al.
-
-j proteome res 2014133476-83. heinzmann ss brown ij chan q bictash m dumas m-e kochhar s et al.
-
-am j clin nutr 201092436-43. vazquez-fresno r llorach r urpi-sarda m lupianez-barbero a estruch r corella d et al.
+Martinez-Gonzalez MA Corella D Salas-Salvado J Ros E Covas MI Fiol M et al.
 

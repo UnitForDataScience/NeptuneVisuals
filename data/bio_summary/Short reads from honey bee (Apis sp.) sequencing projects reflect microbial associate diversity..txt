@@ -1,30 +1,20 @@
-we focus on honey bees because 1 there is a large number of short read sequencing projects targeting apis2 the components of healthy and unhealthy apis microbiomes are well established   3 managed populations of the economically important honey bees have been in decline worldwide  and it was hypothesized that certain bacteria and viruses are key players in this decline .
+We focus on honey bees because 1 there is a large number of short read sequencing projects targeting Apis2 the components of healthy and unhealthy Apis microbiomes are well established   3 managed populations of the economically important honey bees have been in decline worldwide  and it was hypothesized that certain bacteria and viruses are key players in this decline .
 
-expression plots for all genes from all investigated projects are shown in -.discussionapis dna sequencing libraries can help to reconstruct the honey bee microbiomewe used bait sequences of apis symbionts and pathogens to determine if microbial data can be retrieved from dna sequencing projects targeting apis honey bees and found evidence for the presence of these taxa in 11 of 993 apis short read libraries.
+Expression plots for all genes from all investigated projects are shown in -.DISCUSSIONApis DNA sequencing libraries can help to reconstruct the honey bee microbiomeWe used bait sequences of Apis symbionts and pathogens to determine if microbial data can be retrieved from DNA sequencing projects targeting Apis honey bees and found evidence for the presence of these taxa in 11 of 993 Apis short read libraries.
 
-our findings demonstrate that a reasonable understanding of honey bee gut microbiome composition could be gained solely from non-target sequences produced as a by-product of honey bee sequencing projects.when we next targeted our screen of dna sequencing libraries only at lactobacillus our protocol detected 25 taxonomically different lactobacillus strains.
+Our findings demonstrate that a reasonable understanding of honey bee gut microbiome composition could be gained solely from non-target sequences produced as a by-product of honey bee sequencing projects.When we next targeted our screen of DNA sequencing libraries only at Lactobacillus our protocol detected 25 taxonomically different Lactobacillus strains.
 
-this includes firm-4 and firm-5 lactobacilli both of which are honey bee hindgut colonizers and l. kunkeei which is common in nectar and hive material and sometimes found in honey bee crops .furthermore we found fructobacillus which share an ecological niche with l. kunkeei i.e.
+This includes Firm-4 and Firm-5 Lactobacilli both of which are honey bee hindgut colonizers and L. kunkeei which is common in nectar and hive material and sometimes found in honey bee crops .Furthermore we found Fructobacillus which share an ecological niche with L. kunkeei i.e.
 
-nosema are microsporidian gut parasites of various honey bee species and while the sampling of our screen is not representative this finding corroborates the recognition of nosema as widespread pathogen of honey bee colonies worldwide  .
+Nosema are microsporidian gut parasites of various honey bee species and while the sampling of our screen is not representative this finding corroborates the recognition of Nosema as widespread pathogen of honey bee colonies worldwide  .
 
-while these genomes cannot be linked to a bacterial clone they still provide information of metabolic capacities within the apis microbiome.in summary our analyses suggest that 'contamination' from honey bee sequencing projects can help to characterize the honey bee microbiome and inform about its composition abundance of specific taxa and through recovery of genomes about metabolic capacities.
+While these genomes cannot be linked to a bacterial clone they still provide information of metabolic capacities within the Apis microbiome.In summary our analyses suggest that 'contamination' from honey bee sequencing projects can help to characterize the honey bee microbiome and inform about its composition abundance of specific taxa and through recovery of genomes about metabolic capacities.
 
-honey bees have a comparatively simple microbiota  and are thus considered suitable models for microbiome-animal interactions and evolution .their enormous economic importance  has driven a large number of honey bee sequencing projects.
+Short reads from honey bee Apis sp.
 
-short reads from honey bee apis sp.
+In bee sequencing projects partial symbiont genomes were previously detected in bumble bees  a mason bee  and the Apis mellifera genome .Here we systematically examine a large number of short reads of honey bee Apis sp.
 
-in bee sequencing projects partial symbiont genomes were previously detected in bumble bees  a mason bee  and the apis mellifera genome .here we systematically examine a large number of short reads of honey bee apis sp.
+Thus any novel genomic data on honey bee symbionts may directly contribute to our understanding of bee disease.To identify 'contaminants' we here use 'bait' sequences of symbionts and pathogens to screen a large number of short read libraries from Apis sequencing projects.
 
-thus any novel genomic data on honey bee symbionts may directly contribute to our understanding of bee disease.to identify 'contaminants' we here use 'bait' sequences of symbionts and pathogens to screen a large number of short read libraries from apis sequencing projects.
-
-we demonstrate that the libraries contain non-target sequences from many sources some of which reflect the natural honey bee microbiome and virome.
-
-fasta files of compiled database sequences are available under .next we searched for honey bee sequencing projects in ncbi's short read archive using the search term 'apis' and created lists of the hits for dna and rna sequencing projects which were subsequently processed separately .
-
-furthermore as an approximate measure for the number of lactobacillus otus recovered with our approach we used the average neighbor clustering algorithm as implemented in mothur version1.34.4 .although our aim was not to recover all but only the highly covered symbiont data from honey bee short reads we wanted to test if our screening approach yields comparable results to more commonly used metagenomic approaches.
-
-several studies have examined differential gene expression of honey bees in response to viral infection and a set of genes commonly responding to pathogens was recently identified via meta-analyses .
-
-of the former we detected most common gut symbionts known to be associated with honey bees  i.e.
+We demonstrate that the libraries contain non-target sequences from many sources some of which reflect the natural honey bee microbiome and virome.
 

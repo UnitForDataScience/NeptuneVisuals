@@ -1,30 +1,20 @@
-comparisons oftable 1 differential characteristics of strain an-chi-1t and some closely related members of the genus cellulomonasphosphohydrolase dna gc content mol67.375.373.874.875.873.9strains 1 c. macrotermitis an-chi-1t 2 c. iranensis jcm 12410t 3 c. flavigena cgmcc 1.1914t 4 c. phragmiteti kb23t rusznyak et al.
+J Bacteriol 173697-703Yoon SH Ha SM Kwon S Lim J Kim Y Seo H Chun J 2017 Introducing EzBioCloud a taxonomically united database of 16S rRNA and whole genome assemblies.
 
-j bacteriol 173697-703yoon sh ha sm kwon s lim j kim y seo h chun j 2017 introducing ezbiocloud a taxonomically united database of 16s rrna and whole genome assemblies.
+Species of this genus have been isolated from various habitats such as the fecal flora of a healthy patient Lagier et al.
 
-the actinobacterial-specific 16s rrna threshold of 99.0 with 1.0 as maximum probability of error is related to dna-dna hybridization values below the 70 threshold recommended for assigning a given prokaryotic strain to a new species wayne et al.. the dna-dna hybridization values between strain an-chi-1t and its closely related species c. iranensis jcm 12410t and c. flavigena cgmcc 1.1914t were 35.4 and 23.7 respectively which are far below the recommended value of 70. these results suggested that an-chi-1t is a novel strain.taxonomic conclusionthe morphological and chemotaxonomic properties of an-chi-1t revealed by this study are consistent withits classification in the genus cellulomonas.
+paddy grains Ahmed et al.
 
-species of this genus have been isolated from various habitats such as the fecal flora of a healthy patient lagier et al.
+soil Elberson et al.
 
-paddy grains ahmed et al.
+Hatayama et al.
 
-soil elberson et al.
+coal mine Shi et al.
 
-hatayama et al.
+sediment and water Jones et al.
 
-coal mine shi et al.
+ocean Zhang et al.
 
-sediment and water jones et al.
+compost Kang et al.
 
-ocean zhang et al.
-
-compost kang et al.
-
-reed periphyton rusz- nyak et al.
-
-air lee et al.
-
-clinical samples brown et al.
-
-and decayed elm tree rivas et al.
+reed periphyton Rusz- nyak et al.
 

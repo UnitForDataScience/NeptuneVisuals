@@ -1,30 +1,20 @@
-bacterial findings were also affected by the age and feed of the animals vulfson et al.
+Received 26 August 2016  Revised 19 November 2016  Accepted 24 November 2016 DOI 10.1002mbo3.434ORIGINAL RESEAR CH The gastrointestinal tract of farmed mink Neovison vison maintains a diverse mucosa-associated microbiota following a 3-day fasting periodMartin I. Bahl1  Anne S. Hammer2  Tove Clausen3  Anabelle Jakobsen2  Soren Skov2  Lars Andresen21Division of Diet Disease prevention and Toxicology National Food Institute Technical University of Denmark Soborg Denmark2Department of Veterinary Disease Biology Faculty of Health and Medical Sciences University of Copenhagen Frederiksberg C Denmark3Danish Fur Breeders Research Centre Holstebro DenmarkCorrespondenceAnne Sofie Hammer Department of Veterinary Disease Biology Faculty of Health and Medical Sciences University of Copenhagen Frederiksberg C Denmark.Email Funding informationThe Danish furbreeders research foundation.1  INTRODUCTION The gut microbial community composition of carnivores in general appears distinct from that of omnivores and herbivores Ley et al.
 
-the pcr mix was subsequently di- luted 10-fold and 1 ml used as template in the second amplification step using the same forward primer with a unique 10-12 bp barcodefor each bacterial community and reverse primer both with sequenc- ing adaptors christensen et al.
+The PCR mix was subsequently di- luted 10-fold and 1 ml used as template in the second amplification step using the same forward primer with a unique 10-12 bp barcodefor each bacterial community and reverse primer both with sequenc- ing adaptors Christensen et al.
 
-it has been suggested that the rapid movement of food through the gastrointestinal tract may not allow enough time for bacterial metabolism to provide an environment that is suitable for growth of anaerobes williams et al.
+The output fasta files were analyzed using the pickde novootus.py pipeline with the usearch OTU picking method at 97 similarity and the RDP method with the Silva111 database for taxo- nomic assignment 0.5 confidence incorporated in the QIIME pipeline Caporaso et al.
 
-further studies are needed to address the association between health issues and gut microbiota in farmed mink.the bacterial culturing data show comparable levels of anaero- bic and aerobic bacteria with an average level of approximately 105- 106 cfug which may in part be due to difficulties culturing many of the clostridia identified by sequencing and is consistent with a previ- ous study enumerating the culturable bacteria from the small intestine mucosa williams et al.
+The average bacterial composition at the class level for each feed type FeedFC and FeedWest and mucosal scrap samples from the fasted and nonfasted animals are shownAlthough most animals were found to be dominated by bacteria belonging to the Firmicutes class Clostridia as also reported in fecal samples from other carnivorous animals Garcia-Mazcorro et al.
 
-the average bacterial composition at the class level for each feed type feedfc and feedwest and mucosal scrap samples from the fasted and nonfasted animals are shownalthough most animals were found to be dominated by bacteria belonging to the firmicutes class clostridia as also reported in fecal samples from other carnivorous animals garcia-mazcorro et al.
+The bacterial composition at the family level is shown for each mucosal scrap sample obtained from individual animals as well as the triplicate feed samples FeedFC and FeedWest2005 Nieminen et al.
 
-the bacterial composition at the family level is shown for each mucosal scrap sample obtained from individual animals as well as the triplicate feed samples feedfc and feedwest2005 nieminen et al.
+2008 and is vastly dominated by species belonging to the Firmicutes phylum and comparatively few Bacteroidetes as demonstrated by 16S rRNA gene sequencing of fecal samples from for example cats and dogs Garcia- Mazcorro et al.
 
-received 26 august 2016  revised 19 november 2016  accepted 24 november 2016 doi 10.1002mbo3.434original resear ch the gastrointestinal tract of farmed mink neovison vison maintains a diverse mucosa-associated microbiota following a 3-day fasting periodmartin i. bahl1  anne s. hammer2  tove clausen3  anabelle jakobsen2  soren skov2  lars andresen21division of diet disease prevention and toxicology national food institute technical university of denmark soborg denmark2department of veterinary disease biology faculty of health and medical sciences university of copenhagen frederiksberg c denmark3danish fur breeders research centre holstebro denmarkcorrespondenceanne sofie hammer department of veterinary disease biology faculty of health and medical sciences university of copenhagen frederiksberg c denmark.email funding informationthe danish furbreeders research foundation.1  introduction the gut microbial community composition of carnivores in general appears distinct from that of omnivores and herbivores ley et al.
+2012 Handl et al.
 
-2008 and is vastly dominated by species belonging to the firmicutes phylum and comparatively few bacteroidetes as demonstrated by 16s rrna gene sequencing of fecal samples from for example cats and dogs garcia- mazcorro et al.
+respectively to be the most frequently isolated Nizza et al.
 
-2012 handl et al.
+httpsdoi.org10.1002mbo3.434  1 of 8were recorded for farmed mink and appeared to vary between males and females Gugolek et al.
 
-respectively to be the most frequently isolated nizza et al.
-
-httpsdoi.org10.1002mbo3.434  1 of 8were recorded for farmed mink and appeared to vary between males and females gugolek et al.
-
-2013. there have been few investiga- tions of the mink gut microbiota and they have mostly applied con- ventional culture-based methods vulfson et al.
-
-2001 2003 williams et al.
-
-2001 2003.depriving animals of feed for a period of time has previously been shown to affect the microbiota composition in a number of phyloge- netically diverse species including fish rodents and dogs kasiraj et al.
-
-2016 kohl et al.
+There have been few investiga- tions of the mink gut microbiota and they have mostly applied con- ventional culture-based methods Vulfson et al.
 

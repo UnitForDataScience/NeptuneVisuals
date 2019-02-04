@@ -1,30 +1,20 @@
-2012 78 6 1909-1916.shanks o. c. white k. kelty c. a. hayes s. sivaganesan m. jenkins m. varma m. haugland r. a. performance assessment pcr-based assays targeting bacteroidales genetic markers of bovine fecal pollution.
+These libraries referred to as fecal taxon libraries FTL are compared with bacterial community profiles from environmental samples to find shared taxa or OTUs betweensources of fecal bacteria in the environment.The intestinal tracts of different animals harbor distinct bacterial communitiesthe two sample types.Several community-based MST studies-have utilizedthat vary in the presence and abundance of specific taxa.This allows for the determination of different fecal sources by using unique bacterial profiles seen within different animals' fecal microbiomes.Currently the most-common MST methods involve the use of quantitative PCR qPCR and molecular markers primers that mainly target the 16S rRNA genes of presumptively host- associated microorganisms.
 
-2013 41 d590-d596.cole j. r. chai b. farris r. j. wang q. kulam s. a.mcgarrell d. m. garrity g. m. tiedje j. m. the ribosomal database project rdp-ii sequences and tools for high- throughput rrna analysis.
+Water site samples are shown in gray scale and in a variety of shapes while animal fecal samples are depicted in colored circles.among animal feces effluent samples and freshwater sites in the Lake Superior-Saint Louis River estuary.
 
-2015 81 20 7067-7077.handl s. dowd s. e. garcia-mazcorro j. f. steiner j. m. suchodolski j. s. massive parallel 16s rrna gene pyrosequencing reveals highly diverse fecal bacterial and fungal communities in healthy dogs and cats.
+To achieve this goal water samples were collected over two years from seven different sites in the Duluth-Superior Harbor and Saint Louis River estuary inDuluth MN along with fecal samples from 11 different types of animal sources and treated wastewater effluent.
 
-2010 76 5 1359-1366.odagiri m. schriewer a. hanley k. wuertz s. misra p. r. panigrahi p. jenkins m. w. validation of bacteroidales quantitative pcr assays targeting human and animal fecal contamination in the public and domestic domains in india.
+This value was divided by the average predicted source proportions of that same sample obtained from the five independent SourceTracker runs.Power analyses were performed on all animal fecal samples to determine whether sufficient samples from each source type were present in the library to avoid increased statistical Type II error.
 
-2016 93 242-253.newton r. j. bootsma m. j. morrison h. g. sogin m. l. mclellan s. l. a microbial signature approach to identify fecalpollution in the waters off an urbanized coast of lake michigan.microb.
+Water samples from seven different locations in the Duluth-Superior Harbor and the Saint Louis River estuary in Duluth MN and animal fecal samples were collected during 2014 and 2015.
 
-2007 35 18 e120.huber j. a. mark welch d. b. morrison h. g. huse s. m. neal p. r. butterfield d. a. sogin m. l. microbial population structures in the deep marine biosphere.
+In contrast members of the families Erysipelotrichaceae Peptos- treptococcaceae and Ruminococcaceae were prevalent in the treated wastewater effluent samples and animal fecal samples were dominated by members of the families Ruminococcaceae Lachnospiraceae and Peptostreptococcaceae B. Nearly30 of the sequencing reads from rabbits swine deer cows and beavers were classified as Ruminococcaceae and Lachnospir- aceae.
 
-2014 10 62.niu q. li p. hao s. zhang y. kim s. w. li h. ma x. gao s. he l. wu w. et al.
+The RSD was calculated by dividing the average standard deviation over five independent SourceTracker runs by the average source proportion also obtained from five independent SourceTracker runs for each water sample and multiplying it by 100.sites.We performed power and relative standard deviation analyses to determine the appropriate size of the FTL as well as acquire an additional error estimation of the SourceTracker program.On average water samples possessed greater microbial diversity than did fecal samples .
 
-2007 73 8 2405-2415.stewart j. r. ellender r. d. gooch j. a. jiang s. myoda s. p. weisberg s. b. recommendations for microbial source tracking lessons from a methods comparison study.
+All fecal samples from animals had large relative abundances of Clostridiales with Bacteroidales as the next most abundantorder except for gulls which was in agreement with previous studies.Turkeys geese chickens and gulls cluster around each other within the fecal cluster .
 
-bioinformatics 2010 26 2266-267.bolger a. m. lohse m. usadel b. trimmomatic a flexible read trimming tool for illumina ngs data.
+Other research has shown that the fecal microbiomes of rabbits and swine consist of Firmicutes Bacteroidetes and Verrucomi- crobia which is also consistent with our study.The fecal microbiome samples from geese dogs cats and chickens exhibited higher levels of variability than other animals .
 
-2012 46 17 5799-5812.unno t. jang j. han d. kim j. h. sadowsky m. j. kim o.- s. chun j. hur h.-g. use of barcoded pyrosequencing and shared otus to determine sources of fecal bacteria in watersheds.
-
-2010 44 20 7777-7782.ebentier d. l. hanley k. t. cao y. badgley b. d. boehm a. b. ervin j. s. goodwin k. d. gourmelon m. griffith j. f. holdenp.
-
-2017 576 326-334.ahmed w. staley c. sadowsky m. j. gyawali p. sidhu j. palmer a. beale d. j. toze s. toolbox approaches using molecular markers and 16s rrna gene amplicon data sets for identification of fecal pollution in surface water.
-
-2013 115 5 1147-1158.shanks o. c. newton r. j. kelty c. a. huse s. m. soginm.
-
-2013 79 9 2906-2913.neave m. luter h. padovan a. townsend s. schobben x. gibb k. multiple approaches to microbial source tracking in tropical northern australia.
-
-plos one2012 7 2 e30126.ishii s. ksoll w. b. hicks r. e. sadowsky m. j. presence and growth of naturalized escherichia coli in temperate soils from lake superior watersheds.
+Similarly E. coli from waterfowl was found to be a significant contributor to fecal inputs at the Duluth Boat Club beach.At the Brewery Creek site geese on average were estimated to make up 5 of the fecal contamination sources while gulls were estimated to have contributed about 30 of the fecal loading at the Saint Louis River site 2.
 

@@ -1,30 +1,20 @@
-variable regions v6-v8 of the bacterial 16s rrna gene were amplified from all purified dna samples and sequenced on an illumina miseq using paired-end 300 bp list of oligonucleotides used for 16s rdna amplification.sequencing .
+The complete taxo- nomic assignments for 16S rRNA sequencing datasets can be found in .Further taxonomic characterization was conducted by 16S sequencing in biological tripli- cate on fecal samples from a subset of four mammals the beaver and the porcupine cellulose- Taxonomic assignments for replicate sequencing of the Arctic wolf coyote beaver and porcupine.
 
-the complete taxo- nomic assignments for 16s rrna sequencing datasets can be found in .further taxonomic characterization was conducted by 16s sequencing in biological tripli- cate on fecal samples from a subset of four mammals the beaver and the porcupine cellulose- taxonomic assignments for replicate sequencing of the arctic wolf coyote beaver and porcupine.
+in cohabiting human microbiomes -.Beyond taxonomic analysis we compared the cellulose-degradation potential of the Arctic wolf coyote beaver and porcupine microbiomes.
 
-our metagenomic sequencing data did not precisely match our 16s rrna sequencing data we reasoned that our metagenomic sequencing data was likely more accurate due to previously reported biases in 16s primer sets .
+The opposite result was true for the coyote and Arctic wolf.Three cellulose-metabolizing genes were identified from the heat map and selected to com- pare relative gene abundances in the porcupine beaver coyote and Arctic Wolf.
 
-alpha rarefaction curves confirmed otu saturation for most of the sequences although the porcupine moose and red deer samples appeared to have less saturated sequencing than the others .the 21 mammalian microbiomes were then compared using weighted unifrac beta-diver- sity analysis of the 16s rrna sequencing data .
+16S rRNA sequencing was validated using metagenomic shotgun sequencing on selected herbivores porcupine beaver and carnivores coyote Arctic wolf.
 
-we initially surveyed 21 mammalian microbiomes using 16s rrna sequencing and clustered them into taxonomic groups .
+Samples were normalized for differences in sequencing depth using DeSeq2's negative binomial distribution  and principle coordinate analysis was performed using UniFrac beta-diversity through QIIME .KEGG Orthologs KO - were inferred using PICRUSt to estimate functional-gene profiles from the triplicate porcupine beaver coyote and Arctic wolf triplicate 16S sequencing data .
 
-if we had selected a different 16s rrna region or had a larger database of known microorganisms we may have seen an increased congruence of microbiomes amongst these animals .
+PICRUSt analysis using 16S sequencing predicted a significant enrichment of the mean relative frequencies of endoglucanase and cellobiose phosphorylase in the beaver 0.099 and 0.015 and porcupine 0.070 and 0.011 in comparison to the Arctic wolf 0.044 and 0.003 and coyote 0.035 and 0.002  p  5.10e-5 and p  3.97e-5 respectively.
 
-using 16s rrna sequencing and gene func- tion classification they identified cellulose-metabolizing bacteria in the panda microbiome.separate groups have identified the cellulolytic potential of other microbiomes such as beavers  ruminants  and termites .
+We focused our attention on four mammals for in-depth 16S analysis in triplicate the porcupine and beaver Rodentia and the coyote and Arctic wolf Canidae.
 
-alpha rarefaction curve of the 21 mammal microbiomes sequenced by 16s rrna sequencing.
+Variable regions V6-V8 of the bacterial 16S rRNA gene were amplified from all purified DNA samples and sequenced on an Illumina MiSeq using paired-end 300 bp List of oligonucleotides used for 16S rDNA amplification.sequencing .
 
-alpha rarefaction curve of the replicate mammal microbiomes sequenced by 16s rrna sequencing.
+After stitching more than 50 of sequences remained in each sample and after screen- ing greater than 43.5 of the original sequences remained .Further taxonomic characterization of the porcupine beaver coyote and Arctic wolf microbiomes was conducted by analyzing the metagenomic shotgun sequencing data.
 
-in cohabiting human microbiomes -.beyond taxonomic analysis we compared the cellulose-degradation potential of the arctic wolf coyote beaver and porcupine microbiomes.
-
-here we report on the bacterial composition in the porcupine microbiome using 16s rrna sequencing and bioin- formatics analysis.
-
-16s rrna sequencing was validated using metagenomic shotgun sequencing on selected herbivores porcupine beaver and carnivores coyote arctic wolf.
-
-data availability statement quality controlled and processed metagenomic and 16s rdna sequence data are available through the sequenceread archive ncbi at accession number srp115632 and srp115643 respectively.funding dalhousie university office of the president dalhousie student union academic innovation fund faculty of medicine faculty of science and the department of microbiology and immunology and the integrated microbiomeintroductionthe microbiome supports animal digestion by detoxifying and breaking down indigestible compounds .
-
-all species were profiled using 16s rrna gene sequencing.mammals in the same order had more similar microbiome profiles compared to those with differing taxonomic classification.
-
-in these four selected mammals dramatic bacterial taxonomic differences were detected using both 16s and metagenomic sequencing methods.
+The microbial taxonomy of the beaver and porcupine microbiomes were similar to each other but diverged from microbiome taxonomies of the Arctic wolf and coyote .
 

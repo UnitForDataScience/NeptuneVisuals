@@ -1,28 +1,20 @@
-dna was extracted using the qiagen dneasy blood and tissue kit qiagen valencia ca.the paired-end sequencing was performed using an illumina miseq sequencer with the illumina miseq reagent kit 600 version 3 according to the illumina 16s meta- genomic library preparation protocol  and the 16s rrna primer set targeting the v3 and v4 regions of the 16s rrna gene .
+DNA was extracted using the Qiagen DNeasy blood and tissue kit Qiagen Valencia CA.The paired-end sequencing was performed using an Illumina MiSeq sequencer with the Illumina MiSeq reagent kit 600 version 3 according to the Illumina 16S meta- genomic library preparation protocol  and the 16S rRNA primer set targeting the V3 and V4 regions of the 16S rRNA gene .
 
-prokaryotesmetagenomic 16s rrna sequencing analysis of pacific oyster crassostrea gigas microbiota from the puget sound region in the united stateszhen lia leyi wangbwashington state department of health public health laboratories shoreline washington usaa ohio department of agriculture animal disease diagnostic laboratory reynoldsburg ohio usababstract this is the first study analyzing pacific oyster microbiota in the puget sound estuarine system using a next-generation sequencing method.
+PROKARYOTESMetagenomic 16S rRNA Sequencing Analysis of Pacific Oyster Crassostrea gigas Microbiota from the Puget Sound Region in the United StatesZhen Lia Leyi WangbWashington State Department of Health Public Health Laboratories Shoreline Washington USAa Ohio Department of Agriculture Animal Disease Diagnostic Laboratory Reynoldsburg Ohio USAbABSTRACT This is the first study analyzing Pacific oyster microbiota in the Puget Sound estuarine system using a next-generation sequencing method.
 
-raw paired-end reads were quality trimmed normalized to 70000 paired-end reads per sample using the fastq toolkit version 2.0.0 on the basespace sequence hub and assembled using pandaseq .
+A total of 13 Hood Canal samples and 11 Oakland Bay samples were collected over this period of time.
 
-16s metagenomic sequencing library preparation protocol preparing 16s ribosomal rna gene amplicons for the illumina miseq system.
+PANDAseq paired-end assembler for Illumina sequences.
 
-chimeric sequences were detected using the decipher chimera detec- tion tool  and removed.
+Oyster samples were collected during low tide at Hood Canal 47.66585 -122.90285 and Oakland Bay 47.228614 -123.063575 growing areas in the Puget Sound estuarine system from July to October 2014.
 
-.wright es yilmaz ls noguera dr. 2012. decipher a search-based ap- proach to chimera identification for 16s rrna sequences.
+The numbers of raw paired-end reads ranged from 79174 to 2497062 in these oyster samples.
 
-taxonomy was assigned to each sequence using the classifier program in ribosomal database project rdp 11.1 .
+Filtered and assembled sequences are also publicly available on the MG-RAST server under the project ID mgp15218 and MG-RAST ID mgm4666675.3 to mgm4666698.3.ACKNOWLEDGMENTSThis project was supported in part by an appointment to the Research Participation Program at the Center for Food Safety and Applied Nutrition by the Oak Ridge Institute for Science and Education through an interagency agreement between the U.S. De- partment of Energy and the U.S. Food and Drug Administration.REFERENCESKaysner CA DePaola A Jr. 2004.
 
-taxonomic abundance analysis was also performed using the metagenomics rast mg-rast server  and the best-hit classification was used via the rdp database with the maximum e value cutoff at 1e-10 minimum identity cutoff at 60 and minimum alignment length cutoff at 15. tenericutes 9.79 to 56.58 chlamydiae 0.71 to 47.18 proteobacteria 2.21 to 23.29 and firmicutes 1.10 to 72.70 were identified as the most abundant phyla in the oyster microbiota from both hood canal and oakland bay sites.
+DECIPHER a search-based ap- proach to chimera identification for 16S rRNA sequences.
 
-2013. evaluation of general 16s ribosomal rna gene pcr primers for classical and next-generation sequencing-based diversity studies.
+Naive Bayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy.
 
-sequences were analyzed via a non-operational taxonomic unit non-otu binning method.
-
-raw sequences were deposited to the ncbi sra database under accession no.
-
-filtered and assembled sequences are also publicly available on the mg-rast server under the project id mgp15218 and mg-rast id mgm4666675.3 to mgm4666698.3.acknowledgmentsthis project was supported in part by an appointment to the research participation program at the center for food safety and applied nutrition by the oak ridge institute for science and education through an interagency agreement between the u.s. de- partment of energy and the u.s. food and drug administration.referenceskaysner ca depaola a jr. 2004. bam vibrio chapter 9. in u.s. food and drug administration ed bacteriological analytical manual online.
-
-2012. pandaseq paired-end assembler for illumina sequences.
-
-.wang q garrity gm tiedje jm cole jr. 2007. naive bayesian classifier for rapid assignment of rrna sequences into the new bacterial taxonomy.
+Small numbers of operational taxonomic units OTUs be- longing to the Vibrio genus were detected in all the oyster microbiome samples.arvesting of Pacific oysters Crassostrea gigas is an important component of the maritime economy in the Puget Sound region.
 

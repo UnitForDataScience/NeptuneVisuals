@@ -1,30 +1,20 @@
-plos one 11 e0153215.bassis c. m. moore n. m. lolans k. seekatz a. m. weinstein r. a. young v. b.
+PLoS ONE 11 e0153215.Bassis C. M. Moore N. M. Lolans K. Seekatz A. M. Weinstein R. A.
 
-journal of zoo animal medicine 11 81-85.brooks a. w. kohl k. d. brucker r. m. van opstal e. j.  borden- stein s. r. 2016. phylosymbiosis relationships and functionaleffects of microbial communities across host evolutionary history.plos biology 14 e2000225.budding a. e. grasman m. e. eck a. bogaards j. a. vandenbroucke- grauls c. m. van bodegraven a. a.  savelkoul p. h. 2014. rectal swabs for analysis of the intestinal microbiota.
+Biological Journal of the Linnean Society 96 406- 414.Ruiz-Rodriguez M. Soler J. J. Lucas F. S. Heeb P. Jose Palacios M. Martin-Galvez D. ... Soler M. 2009.
 
-biological journal of the linnean society 96 406- 414.ruiz-rodriguez m. soler j. j. lucas f. s. heeb p. jose palacios m. martin-galvez d. ... soler m. 2009. bacterial diversity at the cloaca relates to an immune response in magpie pica pica and to body condition of great spotted cuckoo clamator glandarius nestlings.
+Both sampling methods reflected greater dissimilarities to the gut sections further up in the gastrointestinal tract with faecal sam- ples being more distant to the caecum R2  .19 and the ileum R2  .16 as were cloacal samples caecum R2  .14 ileum R2  .15.To directly test how well cloacal swabs and faecal samples repre- sented the microbiota in the gut we calculated community Bray- Curtis distances between the faecal and cloacal samples to each of the three sections of the gut for each individual Figure 2.
 
-journal of avian medicine and surgery 17 131-135.lobato e. geraldes m. melo m. doutrelant c.  covas r. 2017. diversity and composition of cultivable gut bacteria in an endemic island bird and its mainland sister species.
+Poultry Science 85 1151-1164.Bolger A. M. Lohse M.  Usadel B.
 
-proceedings of the national academy of sciences of the united states of america 107 20051- 20056.smith p. willemsen d. popkes m. l. metge f. gandiwa e. reichard m.  valenzano d. r. 2017. regulation of life span by the gut microbiota in the short-lived african turquoise killifish.
+BMC Ecology 13 11.Ewels P. Magnusson M. Lundin S.  KEURaller M. 2016.
 
-received 19 august 2017  revised 17 november 2017  accepted 20 november 2017 doi 10.11111755-0998.12744resource article measuring the gut microbiome in birds comparison of faecal and cloacal samplingelin videvall1 maria strandh1  anel engelbrecht2  schalk cloete23 charlie k. cornwallis11department of biology lund university lund sweden2directorate animal sciences western cape department of agriculture elsenburg south africa3department of animal sciences stellenbosch university matieland south africacorrespondenceelin videvall department of biology lund university lund sweden.email funding informationstiftelsen lunds djurskyddsfond stiftelsen lars hiertas minne stiftelsen leurangmanska kulturfonden knut och alice wallenbergs stiftelse kungliga fysiografiska seurallskapet i lund helge axson johnsons stiftelse vetenskapsroadet western cape government1  introduction the community of bacteria harboured within the gastrointestinal tract of animals - the gut microbiome - has been established as an important determinant of host health and physiology sekirov russell antunes  finlay 2010. although research has largely focused on humans and model organisms it is becoming increasinglyrecognized that the gut microbiome may play an important role in a variety of ecological and evolutionary processes as it has been asso- ciated with disease resistance behaviour mate selection longevity and adaptation brooks kohl brucker van opstal  bordenstein 2016 ezenwa gerardo inouye medina  xavier 2012 koch  schmid-hempel 2011 muegge et al.
+Bioinformatics 32 3047-3048.Ezenwa V. O. Gerardo N. M. Inouye D. W. Medina M.  Xavier J.
 
-this result was due to differences in mean distances between commu- nities not differences in variances as there was no difference in dispersion between sample types multivariate homogeneity test of group dispersions adjusted p  .152. the two most similar sample types were the faeces and colon which resulted in a low r2 .07 whereas the cloaca and colon were more dissimilar r2  .10. both sampling methods reflected greater dissimilarities to the gut sections further up in the gastrointestinal tract with faecal sam- ples being more distant to the caecum r2  .19 and the ileum r2  .16 as were cloacal samples caecum r2  .14 ileum r2  .15.to directly test how well cloacal swabs and faecal samples repre- sented the microbiota in the gut we calculated community bray- curtis distances between the faecal and cloacal samples to each of the three sections of the gut for each individual figure 2. neither sampling technique was particularly good at measuring the micro- biome of the ileum cloacal mean distance  0.87 faecal mean dis- tance  0.84 paired wilcoxon signed rank test v  136 p  .104 or the caecum cloacal mean distance  0.82 faecal mean dis- tance  0.84 v  88 p  .546. however the distances between faecal and colon samples were significantly shorter than the dis- tances between cloacal and colon samples cloacal mean dis- tance  0.74 faecal mean distance  0.63 v  164 p  .027 figure 2.fi gu re 1 overall microbiota similarities and differences between sample types.
+Journal of Avian Medicine and Surgery 17 131-135.Lobato E. Geraldes M. Melo M. Doutrelant C.  Covas R. 2017.
 
-poultry science 85 1151-1164.bolger a. m. lohse m.  usadel b.
+Symbiosis 71 155-164.Lombardo M. P. Thorpe P. A. Cichewicz R. Henshaw M. Millard C. Steen C.  Zeller T. K. 1996.
 
-bmc ecology 13 11.ewels p. magnusson m. lundin s.  keuraller m. 2016. multiqc sum- marize analysis results for multiple tools and samples in a single report.
+Symbiosis 51 97-105.Matson K. D. Versteegh M. A. van der Velde M.  Tieleman B. I.
 
-bioinformatics 32 3047-3048.ezenwa v. o. gerardo n. m. inouye d. w. medina m.  xavier j. b.
-
-symbiosis 71 155-164.lombardo m. p. thorpe p. a. cichewicz r. henshaw m. millard c. steen c.  zeller t. k. 1996. communities of cloacal bacteria in tree swallow families.
-
-symbiosis 51 97-105.matson k. d. versteegh m. a. van der velde m.  tieleman b. i.
-
-plos computational biology 10 e1003531.merkeviciene l. ruzauskaite n. klimiene i. siugzdiniene r. dailidavi- ciene j. virgailis m. ... ruzauskas m. 2017. microbiome and antimicrobial resistance genes in microbiota of cloacal samples fromeuropean herring gulls larus argentatus.
-
-journal of avian biology 40 42-48.santoro m. hernandez g.  caballero m. 2006. aerobic bacterial flora of nesting green turtles chelonia mydas from tortuguero national park costa rica.
-
-npj biofilms and microbiomes 1 15026.debelius j. song s. j. vazquez-baeza y. xu z. z. gonzalez a.  knight r. 2016. tiny microbes enormous impacts what matters in gut microbiome studies genome biology 17 217.desantis t. z. hugenholtz p. larsen n. rojas m. brodie e. l. keller k. .. .
+PLoS Computational Biology 10 e1003531.Merkeviciene L. Ruzauskaite N. Klimiene I. Siugzdiniene R. Dailidavi- ciene J. Virgailis M. ... Ruzauskas M. 2017.
 

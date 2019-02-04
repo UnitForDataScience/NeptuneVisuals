@@ -1,30 +1,20 @@
-sulfate reduction rates decreased significantly to 3.7 - 0.2 umol day-1 at 2 mm sulfate and 7.0 - 1.3 umol day-1 at 5 mm sulfate compared to the electron acceptor limitation at 15.3 - 1.1 umol day-1 with 2 mm sulfate and 43.3 - 0.8 umolday-1 with 5 mm sulfate.
+Sulfate reduction rates decreased significantly to 3.7 - 0.2 umol day-1 at 2 mM sulfate and 7.0 - 1.3 umol day-1 at 5 mM sulfate compared to the electron acceptor limitation at 15.3 - 1.1 umol day-1 with 2 mM sulfate and 43.3 - 0.8 umolday-1 with 5 mM sulfate.
 
-for electron donor limitation experiments tricultures containing s. wolfeidvh 195 were constructed in defined medium see table s2 in the supplemental material with 7.0 mm butyric acid 0.7 mm tce and 2 mm or 5 mm sulfate and n2co2 8020 volvol headspace .
+For electron donor limitation experiments tricultures containing S. wolfeiDvH 195 were constructed in defined medium see Table S2 in the supplemental material with 7.0 mM butyric acid 0.7 mM TCE and 2 mM or 5 mM sulfate and N2CO2 8020 volvol headspace .
 
-in this study 12 mm lactate was amended to the coculture initially as an electron donor whereas 5 mm sulfate and 0.55 mm tce were added as electron acceptors .
+In order to study the competition for H2 by dechlorination and sulfate reduction under electron donor limitation we maintained a triculture of the S. wolfei DvH and 195 strains S. wolfeiDvH195 on 5 mM butyrate 0.7 mM TCE and 2 mM sulfate  with different initial cell ratios of DvH to strain 195 see Table S2 in the supplemental material.
 
-based on stoichiometry 11.1 mm lactate would be required to reduce both electron acceptors 10 mm lactate for sulfate reduction to sulfide and 1.1 mm lactate for tce reduction to ethene creating electron acceptor limitation.
+reported that 10 mM sulfate addition to soil had no significant effect on TCE dechlorination by indigenous microorganisms whereas higher sulfate concentrations 15 and 20 mM yielded slower dechlorination.
 
-in order to study the competition for h2 by dechlorination and sulfate reduction under electron donor limitation we maintained a triculture of the s. wolfei dvh and 195 strains s. wolfeidvh195 on 5 mm butyrate 0.7 mm tce and 2 mm sulfate  with different initial cell ratios of dvh to strain 195 see table s2 in the supplemental material.
+The culture has been maintained in the laboratory for more than 15 years in a continuously stirred semibatch fed reactor and its community structure and dechlorination performance have been previ- ously described   .In order to study the competition between reductive dechlorination and sulfate reduction under electron acceptor limitation electron donor in excess strain 195 and DvH were grown in defined medium with an H2CO2 headspace  with 0.7 mM TCE and 2 or 5 mM sulfate see Table S2 in the supplemental material.
 
-based on stoichiometry see equations in table s1 in the supple- mental material 5.4 mm butyrate would be required to fully reduce each of the electron acceptors 2 mm sulfate to hydrogen sulfide and 0.7 mm tce to ethene.
+In this study 12 mM lactate was amended to the coculture initially as an electron donor whereas 5 mM sulfate and 0.55 mM TCE were added as electron acceptors .
 
-first 5 mm butyrate 2 mm sulfate and 0.7 mm tce were amended and the triculture was routinely subcultured into fresh medium 10 volvol every 14 days after tce was fully reduced to ethene data not shown.
+Based on stoichiometry 11.1 mM lactate would be required to reduce both electron acceptors 10 mM lactate for sulfate reduction to sulfide and 1.1 mM lactate for TCE reduction to ethene creating electron acceptor limitation.
 
-two sulfate concentrations 2 and 5 mm were amended to anas with 20 mm lactate and0.2 mm tce for electron acceptor limitation.
+Based on stoichiometry see equations in Table S1 in the supple- mental material 5.4 mM butyrate would be required to fully reduce each of the electron acceptors 2 mM sulfate to hydrogen sulfide and 0.7 mM TCE to ethene.
 
-sulfate concentration was measured by suppressed ion chromatogra- phy dionex ics 1100 on a dionex ionpac aers500 column 4 mm with 4.5 mm na2co3 and 0.8 mm nahco3 as the eluent.
+First 5 mM butyrate 2 mM sulfate and 0.7 mM TCE were amended and the triculture was routinely subcultured into fresh medium 10 volvol every 14 days after TCE was fully reduced to ethene data not shown.
 
-for s. wolfei another bacterium incapable of sulfate reduction grown with crotonate as electron donor cell growth was not inhibited by 5 mm sulfate addition while 5 mm sulfide decreased cell yields by 40 compared to the control group see fig.
-
-in order to demonstrate that the lack of dechlorination observed in this study was due to sulfide inhibition instead of trace metal insufficiency caused by sulfide precipitation at the end of the experiment day 16 the headspaces of the experimental bottles were flushed for 40 min with sterilized nitrogen gas to remove sulfide and then the bottles were re-amended with 0.5 mm tce and 1 mm lactate.
-
-an additional 0.7 mm tce and 1 mm butyrate were subsequently amended to the culture when the previous dose of tce was depleted.
-
-with equal starting cells of dvh and strain 195 the sulfate reduction rates 14.3 - 0.3 umol day-1 decreased to about half of those in the electron acceptor-limited condition 28.4 - 1.7 umol day-1 at 2 mm sulfate and to about one-quarter with 5 mm sulfate at electron acceptor-limited condition whereas only 26.8 to 28.0 of sulfate was reduced in all three cell ratios see fig.
-
-in order to avoid electron donor limitation another 20 mm lactate was re-amended to the bottles on day 6 and tce reduction resumed within 2 days in the 2 mm sulfate cultures whereas h2 levels remained 20 nm.
-
-dechlorination rates were the same with sulfate amendments as in the control  with cis-dce 81.7 - 3.3 with 5 mm sulfate 90.8 - 1.5 with 2 mm sulfate as the main reduction product on day 8 data not shown.
+Two sulfate concentrations 2 and 5 mM were amended to ANAS with 20 mM lactate and0.2 mM TCE for electron acceptor limitation.
 

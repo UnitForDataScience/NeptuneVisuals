@@ -1,30 +1,20 @@
-currently known species or groups that include bont-producing isolates are clostridium botulinum group i c. botulinum group ii c. botulinum group iii c. argentinense c. baratii c. butyricum and c. sporogenes.
+Currently known species or groups that include BoNT-producing isolates are Clostridium botulinum group I C. botulinum group II C. botulinum group III C. argentinense C. baratii C. butyricum and C. sporogenes.
 
-a multiplex pcr assay was developed to amplify markers for identifying members of c. botulinum group i c. sporogenes the c. botulinum group ii e subgroup and the c. botulinum group ii bef subgroup.
+A multiplex PCR assay was developed to amplify markers for identifying members of C. botulinum group I C. sporogenes the C. botulinum group II E subgroup and the C. botulinum group II BEF subgroup.
 
-target genome ampli- cons have the following approximate sizes c. botulinum group i 775 bp c. sporogenes 310 bp c. botulinum group ii e subgroup 375 bp c. botulinum group ii bef subgroup 480 bp.
+Target genome ampli- cons have the following approximate sizes C. botulinum group I 775 bp C. sporogenes 310 bp C. botulinum group II E subgroup 375 bp C. botulinum group II BEF subgroup 480 bp.
 
-botulinum group i c. sporogenes the c. botulinum group ii e subgroup and the c. botulinum group ii bef subgroup.
+botulinum group I C. sporogenes the C. botulinum group II E subgroup and the C. botulinum group II BEF subgroup.
 
-this report introduces a multiplex pcr assay for differentiating members of c. botulinum group i c. sporogenes and two major subgroups within c. botulinum group ii.
+This report introduces a multiplex PCR assay for differentiating members of C. botulinum group I C. sporogenes and two major subgroups within C. botulinum group II.
 
-the goal of this study was to build on previous works and to develop a pcr assay capable of easily identifying members of four bont-producing speciessubgroups c. botulinum group i c. sporogenes and two major subgroups of c. botulinum group ii.
+The goal of this study was to build on previous works and to develop a PCR assay capable of easily identifying members of four BoNT-producing speciessubgroups C. botulinum group I C. sporogenes and two major subgroups of C. botulinum group II.
 
-the multiplex marker pcr assay presented here can quickly differentiate isolates within c. botulinum group i c. sporogenes and two major subgroups of c. botulinum group ii.
+The multiplex marker PCR assay presented here can quickly differentiate isolates within C. botulinum group I C. sporogenes and two major subgroups of C. botulinum group II.
 
-ls-bsr was run with the blat alignment option.biii c. botulinum group iii iv c. argentinense v c. baratii vi c. butyricum.primers for the identified markers as well as primers targeting the 16s rrna gene  used as an internal amplification control .
+LS-BSR was run with the BLAT alignment option.bIII C. botulinum group III IV C. argentinense V C. baratii VI C. butyricum.primers for the identified markers as well as primers targeting the 16S rRNA gene  used as an internal amplification control .
 
-c. botulinum group i c. sporogenes and the two major subgroups of c. botulinum group ii are the focus of this study.initial confirmation of botulism involves detection and identification of the bonts that might be present.
+C. botulinum group I C. sporogenes and the two major subgroups of C. botulinum group II are the focus of this study.Initial confirmation of botulism involves detection and identification of the BoNTs that might be present.
 
-core genome single nucleotide polymorphism snp phylogenies were used to further differentiate isolates within c. botulinum group i and c. sporogenes as well as c. botulinum group ii   see also data set s1 in the supplemental material.
-
-b members of c. botulinum group i c. sporogenes and members of c. botulinum group ii were further delineated with core genome snp phylogenies.
-
-the snp phylogenies differentiate c. botulinum group i from c. sporogenes and separate c. botulinum group ii into two major subgroups.
-
-for example bontb-containing isolates can be found in three different categories of clostridial species c. botulinum group i c. sporogenes and c. botulinum group ii.
-
-the information provided by the assays can be used to inform epidemiological studies confirm the identity of isolates before whole-genome sequencing or screen mixed cultures for bacteria of interest.materials and methodsbont-producing clostridia within c. botulinum group i c. sporogenes and c. botulinum group ii were differentiated using core genome snp phylogenies.
-
-in this study a multiplex pcr assay was developed to differentiate clostridia that are most commonly isolated in connection with human botulism cases c. botulinum group i c. sporogenes and two major subgroups withinc.
+Core genome single nucleotide polymorphism SNP phylogenies were used to further differentiate isolates within C. botulinum group I and C. sporogenes as well as C. botulinum group II   see also Data Set S1 in the supplemental material.
 

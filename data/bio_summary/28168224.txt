@@ -1,0 +1,20 @@
+.Berry D Stecher B Schintlmeister A Reichert J Brugiroux S Wild B Wanek W Richter A Rauch I Decker T Loy A Wagner M. 2013.
+
+The nonidentical shared genes generally have high sequence identity 99 and include genes for hydrogenase 2 transposases transporters and multiple proteins with unknown functions indicating that the genomes diverged little from one another and that differences consist of only a small number of single nucleotide polymorphisms.Central metabolism.
+
+We detected genes for a putative trimethylamine-N-oxide reductase EC 1.7.2.3 for the reduction of trimethylamine-N-oxide TMAO into trimethylamine TMA which may serve as a trophic link to methylotrophic methanogens in the gut that use methylated amino compounds like TMA in conjunction with H2 during methanogenesis .Secretome and putative interaction genes.
+
+In addition we detected hemolysin-3 a putative colicin V production protein   and seven genes encoding putative 13-lactamases EC 3.5.2.6.Putative horizontally transferred genes.
+
+No homologs of M. schaedleri genes belonging to the T6SS are present in other Deferribacteres genomes and nearly all genes share a node in their phylogenetic trees with just Campylobacter andor Helicobacter Fig.
+
+In total reads mapped to 851 genes 37 of predicted genes in the genome.
+
+Transcripts from 2015 genes 87 of all genes were detected in the RNA sequencing RNA-seq libraries.
+
+Transcripts from 2036 genes 89 of all genes were detected overall.
+
+More than half of the genes in the M. schaedleri genome were putative interphylum-transferred genes which is much greater than the percentage of other abundant gut bacteria transferred.
+
+A gene encoding PilZ a putative T4P assembly protein is located in close vicinity to the T2SST4P genes.
+

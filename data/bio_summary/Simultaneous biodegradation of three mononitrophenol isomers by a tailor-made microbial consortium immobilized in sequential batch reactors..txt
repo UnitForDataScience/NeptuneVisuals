@@ -1,30 +1,20 @@
-arrows above indicate the start of each cycle where the initial concentration of onp mnp and pnp was ranging from 02 to 08 mol l-1 02-04 mol l-1 and 03- 06 mol l-1 respectively.degraded onp mmp and pnp were 28 mol l-1 15 mol l-1 and 23 mol l-1 respectively during the experiment course.
+Arrows above indicate the start of each cycle where the initial concentration of ONP MNP and PNP was ranging from 02 to 08 mol l-1 02-04 mol l-1 and 03- 06 mol l-1 respectively.degraded ONP MMP and PNP were 28 mol l-1 15 mol l-1 and 23 mol l-1 respectively during the experiment course.
 
-strain nyz215 was able to completely degrade up to 08 mol l-1 onp within 140 h. strain jmp134 was able to mineralize mnp of the concentration up to 15 mol l-1 with 22 h while 20 mol l-1 mnp was not mineralized for more than 30 h. strain wbc-3 was able to utilize pnp of the con- centration up to 25 mol l-1 within 30 h.the toxicity of each isomer to the strains degraded two other isomers was also assessed.
+It has been shown that onpA-encoded ONP 2-monooxygenase in strain NyZ215 mnpA-encoded MNP nitroreductase in strain JMP134 and pnpA-encoded PNP 4-monooxygenase in strain WBC-3 catalyse the initial reactions of ONP MNP and PNP catabolism respectively with concomitant release of ammonium or nitrite Xiao et al.
 
-2009. it has been shown that onpa-encoded onp 2-monooxygenase in strain nyz215 mnpa-encoded mnp nitroreductase in strain jmp134 and pnpa-encoded pnp 4-monooxygenase in strain wbc-3 catalyse the initial reactions of onp mnp and pnp catabolism respectively with concomitant release of ammonium or nitrite xiao et al.
+The ONP concentrations mol l-1 were 02 04 06 08. b meta-nitrophenol MNP degradation by strain JMP134 V. The MNP concentrations mol l-1 were 05 10 15 20. c para-nitrophenol PNP by strain WBC-3 .
 
-the onp concentrations mol l-1 were 02 04 06 08. b meta-nitrophenol mnp degradation by strain jmp134 v. the mnp concentrations mol l-1 were 05 10 15 20. c para-nitrophenol pnp by strain wbc-3 .
+Strain NyZ215 was able to completely degrade up to 08 mol l-1 ONP within 140 h. Strain JMP134 was able to mineralize MNP of the concentration up to 15 mol l-1 with 22 h while 20 mol l-1 MNP was not mineralized for more than 30 h. Strain WBC-3 was able to utilize PNP of the con- centration up to 25 mol l-1 within 30 h.The toxicity of each isomer to the strains degraded two other isomers was also assessed.
 
-2 05 mol l-1 mnp and pnp were completely degraded in 12 h but onp in more than 60 h.the degradation of pnp is significantly faster than its two isomers onp and mnp when simultaneous degrada- tion of three isomers was conducted in a single flask fig.
+2 05 mol l-1 MNP and PNP were completely degraded in 12 h but ONP in more than 60 h.The degradation of PNP is significantly faster than its two isomers ONP and MNP when simultaneous degrada- tion of three isomers was conducted in a single flask Fig.
 
-1.to determine the suitable degradable concentration of substrates by individual strains different concentrations of each mononitrophenol 02 04 06 08 mol l-1 for onp 05 10 15 20 mol l-1 for mnp and 05 125 175 25 mol l-1 for pnp were used for their corre- sponding bacteria to grow fig.
+1.To determine the suitable degradable concentration of substrates by individual strains different concentrations of each mononitrophenol 02 04 06 08 mol l-1 for ONP 05 10 15 20 mol l-1 for MNP and 05 125 175 25 mol l-1 for PNP were used for their corre- sponding bacteria to grow Fig.
 
-in a previous report the inhibi- tion of pnp degradation was overcome by increasing the inoculum size which increased the strain's tolerance and degradation of high pnp concentrations zohar et al.
+Meanwhile the amount of nitrite 153 - 008 mol l-1 is almost equiva- lent to the sum of ONP 087 - 006 mol l-1 and PNP 059 - 004 mol l-1 since the strains NyZ215 and WBC-3 degrade their corresponding nitrophenol via oxidative pathways Xiao et al.
 
-2010. meanwhile the amount of nitrite 153 - 008 mol l-1 is almost equiva- lent to the sum of onp 087 - 006 mol l-1 and pnp 059 - 004 mol l-1 since the strains nyz215 and wbc-3 degrade their corresponding nitrophenol via oxidative pathways xiao et al.
+It was found that 05 mol l-1 PNP totally inhibited the degradation ability of strains NyZ215 and JMP134 to degrade 05 mol l-1 ONP and MNP in the flask respectively.
 
-4. the target genes are onpa-encoding onp monooxygenase in strain nyz215 mnpa-encoding mnp reductase in strain jmp134 and pnpa-encoding pnp monooxygenase in strain wbc-3.
+The target genes are onpA-encoding ONP monooxygenase in strain NyZ215 mnpA-encoding MNP reductase in strain JMP134 and pnpA-encoding PNP monooxygenase in strain WBC-3.
 
-it was found that 05 mol l-1 pnp totally inhibited the degradation ability of strains nyz215 and jmp134 to degrade 05 mol l-1 onp and mnp in the flask respectively.
-
-the pnp concentrations mol l-1 were 05 10 15 20 25 30.that pnp due to its toxicity inhibited the degradation activity of strains nyz215 and jmp134.
-
-pilot test was conducted in flasks to demonstrate that a mixture of three mononitrophenols at 05 mol l-1 each could be mineralized by this microbial consortium within 84 h. interestingly neither onp nor mnp was degraded until pnp was almost consumed by strain wbc-3.
-
-each strain was grown overnight in mm supplemented with 05 mol l-1 onp mnp and pnp.
-
-pnp was used uptime hfigure 3 simultaneous degradation of three mononitrophenol iso- mers ortho-nitrophenol onp  meta-nitrophenol mnp v and para-nitrophenol pnp  by strains nyz215 jmp134 and wbc-3 in flasks.
-
-for aerobic degradation it is generally accepted that the substrate is mineralized if dtoc is 70 professor rolf-michael wittich personal correspondence 2011. strains nyz215 jmp134 and wbc-3 were pregrown overnight in mineral medium mm plus corresponding nitrophenol onp mnp or pnp at 05 mol l-1 respectively with an induction per- iod prior to growth in the medium xiao et al.
+In a previous report the inhibi- tion of PNP degradation was overcome by increasing the inoculum size which increased the strain's tolerance and degradation of high PNP concentrations Zohar et al.
 

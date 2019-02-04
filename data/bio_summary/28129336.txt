@@ -1,30 +1,20 @@
-we tested this hypothesis two ways 1 in a cross-sectional an- alysis of tracheal aspirate specimens collected at 7 days of age from mechanically ventilated preterm infants and 2 in a longitudinal analysis evaluating the change in the airway micro- biome in mechanically ventilated preterm infants who had at least 2 tracheal aspirates collected in the first 3 weeks after birth.methodsstudy design and subjectsthe patient specimens and data for this study were obtained from a two-center the university of colorado school of medicine anschutz campus and indiana university school of medicine observational longitudinal study that enrolled a cohort of preterm infants between july 2006 and february 2013. the protocol was approved by the institutional review boards at each of the participating sites and written informed consent was received from the parents or guardians of all participants.
+We tested this hypothesis two ways 1 in a cross-sectional an- alysis of tracheal aspirate specimens collected at 7 days of age from mechanically ventilated preterm infants and 2 in a longitudinal analysis evaluating the change in the airway micro- biome in mechanically ventilated preterm infants who had at least 2 tracheal aspirates collected in the first 3 weeks after birth.MethodsStudy design and subjectsThe patient specimens and data for this study were obtained from a two-center the University of Colorado School of Medicine Anschutz Campus and Indiana University School of Medicine observational longitudinal study that enrolled a cohort of preterm infants between July 2006 and February 2013.
 
-mechanically ventilated infants had tracheal aspirate samples collected at enrollment 7 14 and 21 days of age.bpd was determined by modified nih criteria with oxygen reduction tests infants without bpd were excluded due to low numbers.
+Mechanically ventilated infants had tracheal aspirate samples collected at enrollment 7 14 and 21 days of age.BPD was determined by modified NIH criteria with oxygen reduction tests infants without BPD were excluded due to low numbers.
 
-specifically infants who developed more severe bpd exhibited greater bacterial community turnover with increasing time from birth acquired less staphylo- coccus in the first days after birth and had higher initial ra of ureaplasma.these findings are important because they reveal that the patterns and succession of the air- way microbiome in preterm infants could be a marker that is predictive of bpd severity.while these data do not provide evidence that the airway microbiome directly contributes to bpd it certainly suggests that this possibility is worthy of further investigation and could increase our understanding of the mechanisms of bpd.
+Specifically infants who developed more severe BPD exhibited greater bacterial community turnover with increasing time from birth acquired less Staphylo- coccus in the first days after birth and had higher initial RA of Ureaplasma.These findings are important because they reveal that the patterns and succession of the air- way microbiome in preterm infants could be a marker that is predictive of BPD severity.While these data do not provide evidence that the airway microbiome directly contributes to BPD it certainly suggests that this possibility is worthy of further investigation and could increase our understanding of the mechanisms of BPD.
 
-the thinner lines correspond to subject specific values over time and the thick lines denote the average trend based on the estimated parameters from the model.doi10.1371journal.pone.0170120.g007there have been limited evaluations of the airway microbiome in preterm infants  .our previous study in this area was an observation of only 10 infants all of whom were included in the present study  and the study by lohman et al.
+The thinner lines correspond to subject specific values over time and the thick lines denote the average trend based on the estimated parameters from the model.doi10.1371journal.pone.0170120.g007There have been limited evaluations of the airway microbiome in preterm infants  .Our previous study in this area was an observation of only 10 infants all of whom were included in the present study  and the study by Lohman et al.
 
-additionally since fewer preterm infants are ventilated after birth due to advances in the use of non-invasive ven- tilation techniques and less invasive surfactant administration the results of this study should be confined only to infants who require invasive mechanical ventilation support.
+Additionally since fewer preterm infants are ventilated after birth due to advances in the use of non-invasive ven- tilation techniques and less invasive surfactant administration the results of this study should be confined only to infants who require invasive mechanical ventilation support.
 
-2017 airway microbial community turnover differs by bpd severity in ventilated preterm infants.
+The objective was to identify specific patterns of the early respiratory tract microbiome from tracheal aspirates of mechanically ventilated preterm infants that are associated with the development and severity of BPD.
 
-the objective was to identify specific patterns of the early respiratory tract microbiome from tracheal aspirates of mechanically ventilated preterm infants that are associated with the development and severity of bpd.
+Microbiome analysis was performed on tracheal aspirates from 152 infants 51 49 and 52 with mild moderate and severe BPD respectively.
 
-infants with gestational age  34 weeks and birth weight 500-1250g were prospectively enrolled.
+Seventy-nine of the infants were included in the cross-sectional analysis and 94 in the longitudinal.
 
-microbiome analysis was performed on tracheal aspirates from 152 infants 51 49 and 52 with mild moderate and severe bpd respectively.
+Longitudinal analysis revealed that preterm infants who eventually developed severe BPD exhibited greater bacterial community turnover with age acquired less Staphylococcus in the first days after birth and had higher initial relative abundance of Ureaplasma.
 
-seventy-nine of the infants were included in the cross-sectional analysis and 94 in the longitudinal.
-
-longitudinal analysis revealed that preterm infants who eventually developed severe bpd exhibited greater bacterial community turnover with age acquired less staphylococcus in the first days after birth and had higher initial relative abundance of ureaplasma.
-
-in conclusion longitudinal changes in the airway microbial communities of mechanically ventilated preterm infants may be associated with bpd severity whereas cross-sectional analysis of airway ecology at 7 days of age did not reveal an association with bpd severity.
-
-the presence of ureaplasma in the respiratory tract of preterm infants even without signs of infection has been associated with a pro-inflammatory response and an increased risk for bpd .
-
-therefore we hypothesized that specific patterns of the early respiratory tract microbiome in mechanically ventilated preterm infants bacterial load and diversity would be associated with the develop- ment of bpd and its severity.
-
-infants with gestational age at birth less than 34 weeks and birth weight between 500 and 1250 g were screened for enrollment.
+In conclusion longitudinal changes in the airway microbial communities of mechanically ventilated preterm infants may be associated with BPD severity whereas cross-sectional analysis of airway ecology at 7 days of age did not reveal an association with BPD severity.
 

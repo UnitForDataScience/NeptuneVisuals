@@ -1,24 +1,20 @@
-the e. coli c20 plasmid showed 97 sequence identity with the plasmid phk0653 from s. enterica strain st06-53.
+Phylogenomic analysis of E. coli C20 and 39 other E. coli-related genomes based on 2055 core genes clustered multidrug-resistant strain E. coli C20 into the E. coli K-12 group which also includes substrains DH1 ME8569 BW2952 MC4100 and MG1655.
 
-here we present the draft genomic sequences of e. coli c20 along with that of its plasmid.
+The E. coli C20 plasmid showed 97 sequence identity with the plasmid pHK0653 from S. enterica strain ST06-53.
 
-the final as- sembly yielded a chromosome of 4640940 bp and plasmid of 277380 bp with av- erage coverages of 146.95-fold and 35.63-fold respectively.scherichia coli is frequently used as a representative commensal or pathogenic bacterium being widely distributed among different ecological niches .
+The chromosome and plasmid contigs were separately aligned with the complete genome of E. coli K-12 substrain MG1655 GenBank accession no.
 
-the contigs were then divided into chromosome and plasmid parts according to coverage.
+The resistance genes were annotated in the Comprehensive Antibiotic Resistance Database CARD online server to predict the potential antibiotic resistance determinants in E. coli C20 .The final assembly of C20 genomic DNA sequences yielded a chromosome of 4640940 bp and plasmid of 277380 bp with 45 and 4 superscaffolds and average GC contents of 50.8 and 46.4 respectively.
 
-the chromosome and plasmid contigs were separately aligned with the complete genome of e. coli k-12 substrain mg1655 genbank accession no.
+The results demonstrate that the chicken gut bacterial strain E. coli C20 mainly acquired resistance by transfer of the plasmid from the environmental microbiome.Accession numbers.
 
-cp014225 and salmonella enterica plasmid phk0653 genbank accession no.
+The nucleotide sequence of the E. coli C20 genome was sequenced from a paired-end library with an average insert size of 500 bp using the Illumina HiSeq 2000.
 
-the resistance genes were annotated in the comprehensive antibiotic resistance database card online server to predict the potential antibiotic resistance determinants in e. coli c20 .the final assembly of c20 genomic dna sequences yielded a chromosome of 4640940 bp and plasmid of 277380 bp with 45 and 4 superscaffolds and average gc contents of 50.8 and 46.4 respectively.
+The nucleotide sequences of the four E. coli K-12 genomes shared up to 99 to 100 identity.
 
-the c20 plasmid harbored 350 coding sequences.
+Here we present the draft genomic sequences of E. coli C20 along with that of its plasmid.
 
-altogether 154 antibiotic resistance determinants belonging to 9 different resistance gene families were annotated for the e. coli c20 genome in the card website including 7 resistance genes in the chromosome and 147 in c20 plasmid.
+Altogether 154 antibiotic resistance determinants belonging to 9 different resistance gene families were annotated for the E. coli C20 genome in the CARD website including 7 resistance genes in the chromosome and 147 in C20 plasmid.
 
-among the previously identified 7 antibiotic resistance genes in the multidrug-resistant strain e. coli c20 only the genes conferring resistance to fluoro- quinolone antibiotics including nalidixic acid and ciprofloxacin were identified in thevolume 5 issue 31 e00751-17 1tian and huangchromosome the other 5 resistance genes were found to be expressed in the plasmid  .
-
-however no plasmid sequence was reported and published for k-12 substrains dh1 bw2952 and mg1655.
-
-the results demonstrate that the chicken gut bacterial strain e. coli c20 mainly acquired resistance by transfer of the plasmid from the environmental microbiome.accession numbers.
+Among the previously identified 7 antibiotic resistance genes in the multidrug-resistant strain E. coli C20 only the genes conferring resistance to fluoro- quinolone antibiotics including nalidixic acid and ciprofloxacin were identified in theVolume 5 Issue 31 e00751-17 1Tian and Huangchromosome the other 5 resistance genes were found to be expressed in the plasmid  .
 

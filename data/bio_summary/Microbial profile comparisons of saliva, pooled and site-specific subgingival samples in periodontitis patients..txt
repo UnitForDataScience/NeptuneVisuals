@@ -1,0 +1,20 @@
+We tested the hypotheses that saliva can be an alternative to pooled subgingival samples when screening for presence of periopathogens.DesignSite specific subgingival plaque samples n  54 pooled subgingival plaque samples n 18 and stimulated saliva samples n  18 were collected from 18 patients with generalized chronic periodontitis.
+
+Pres- ence of Porphyromonas gingivalis Treponema denticola Prevotella intermedia Filifactor alocis Tannerella forsythia and Parvimona micra in site-specific subgingival samples were detected in saliva with an AUC of 0.79 sensitivity 0.61 specificity 0.94 compared to an AUC of 0.76 sensitivity 0.56 specificity 0.94 in pooled subgingival samples.ConclusionsSite-specific presence of periodontal pathogens was detected with comparable accuracy in stimulated saliva samples and pooled subgingival plaque samples.
+
+Comparison of correlation in microbial community profiles using Spearman rank correlation coefficient showed completely random distribution of site-specific subgingival plaque samples with no tendency of clustering of samples collected from the same patient .Pooled subgingival samples is not an average of site-specific samplesComparable mean levels of the 20 predominant bacterial genera and 25 predominant bacterial species were identified in averaged site-specific samples and pooled subgingival samples  .
+
+Spearman rank correlation coefficient displayed no correlation between averaged site-specific subgingival plaque samples and pooled subgingival plaque samples collected from the same patient .Site-specific subgingival microbiota.
+
+Data from site-spe- cific samples from each patient was averaged and compared to data from pooled subgingival samples to address if a pooled subgingival sample legitimately provides combined information on site-specific microbial profiles.
+
+To test the efficacy of using saliva and pooled subgingival samples in screening for periopathogens presence of 6 bacterial species P. gingivalis T. denti- cola Prevotella intermedia F. alocis T. forsythia and P. micra in saliva and pooled subgingival samples were compared to site-specific data on the individual level.
+
+AUC sensitivity and spec- ificity were computed for each screening method GraphPad prism 7 San Diego California USA and MeV 481  was used as statistical software.ResultsGeneral informationA total of 3552616 unique sequences were retrieved from 90 microbial samples salivan  18 pooled subgingival samples n  18 site-specific subgingival samples n  54 using high throughput next-generation sequencing.
+
+A significantly higher number of bacterial species observed diversity was recorded in saliva samples n  177 than in site-specific n  134 and pooled subgingival samples n  132 p0.0001 whereas no significant differences in a-diversity Shannon-index was observed p0.05.Subgingival bacterial profiles display major intraindividual site-specific differencesRelative abundance of the 20 predominant bacterial genera and 25 predominant bacterial spe- cies in site-specific subgingival samples is displayed in .
+
+S1-S3 Sample 1-3.Saliva is as proficient as pooled subgingival plaque samples to screen for periopathogensMajor differences in mean levels of the 20 predominant bacterial genera and 25 predominant bacterial species were observed in saliva compared to pooled subgingival samples and averaged site-specific samples .
+
+Presence of P. gingivalis T. denticola P. intermedia F. alocis T. forsythia and P. micra in site-specific subgingival samples were compared to carriage of the same species in saliva and pooled subgingival samples collected from the same patient.
+

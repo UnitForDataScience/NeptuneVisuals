@@ -1,0 +1,20 @@
+Before these investigations are discussed the AFM principle and methodologies are presented to show the wide range of information that can be obtained from AFM experiments.AFM Imaging and SpectroscopyFor biological applications AFM can operate in liquid medium with an accurate control of the temperature and with minimal sample preparation.
+
+Precisely AFM and fluorescence microscopy images revealed how C. albicans takes advantage of the yeast-to- hyphae transition to pierce the macrophage membrane and to escape from phagocytes .Cell Surface InteractionsBesides AFM imaging providing structural insights into the cell surface architecture recent works have shown the power of AFM to decipher the forces governing cell-cell and cell-substrate interactions -.
+
+Moreover the AFM functioning prin- ciple based on force measurements offers an unprece- dented means to probe interaction forces as well as to detect and to localize individual binding sites involved in molecular recognition events on cell surfaces .This review describes how AFM has been applied until now to investigate the surface of fungal pathogens associated with cystic fibrosis.
+
+In this way oscillating modes operating in liquid medium to suppress the capillary layer with sharp tips offer the best perspec- tives to record high-resolution AFM images.Force SpectroscopyBesides its ability to image the topography of samples with high resolution AFM can also be used to investigate various properties of sample surfaces from sensitive force measurements .
+
+To perform such experiments with accuracy reliabil- ity and reproducibility several conditions must be satisfied 1 Cells must be firmly attached to a solid substrate 2 probing specific interactions on cell surfaces requires chemical or biological functional- ization of AFM tips 3 the rupture force of molecules attached to the AFM tip must be much stronger than the intermolecular force studied and 4 the analysis of force curves must be rigorous to discriminate unspecific interactions from specific ones particularly for single-molecule experiments.Before performing a force spectroscopy experiment on an individual cell it has to be firmly attached to a solid substrate for avoiding cell detachment and cell damages during measurements.
+
+AFM studies notably revealed that various bacteria treated with colistin have an increased cell wall elasticity and decreased cell adhesive properties accompanied with cell surface damages -.Regarding fungi AFM has been used recently to study the effects of antifungal treatments on both the morphology and the nanomechanical properties of thealbicans cell wall  .
+
+Besides AFM imaging of the pathogen surface molecular recognition-based exper- iments will contribute to elucidate the role of the cell surface components.As for the antifungal therapy AFM allows to study the dynamic changes of cells exposed to drugs vaccines or antibiotics but it could also open new ways through the control of the host-pathogen inter- actions by nanomedicine.
+
+Jean-Philippe BoucharaReceived 9 May 2017  Accepted 14 September 2017  Published online 11 November 2017c Springer ScienceBusiness Media B.V. 2017Abstract During the past decades atomic force microscopy AFM has emerged as a powerful tool in microbiology.
+
+Although most of the works concerned bacteria AFM also permitted major breakthroughs in the understanding of physiology and pathogenic mechanisms of some fungal species associated with cystic fibrosis.
+
+Complementary to electron micro- scopies AFM offers unprecedented insights to visu- alize the cell wall architecture and components through three-dimensional imaging with nanometer resolution and to follow their dynamic changes during cell growth and division or following the exposure to drugs and chemicals.
+

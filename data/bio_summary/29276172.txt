@@ -1,30 +1,20 @@
-unweighted principal coordi- nate analysis of microbiota composition showed distinct clustering of the microbiota of mock-treated mice compared with that of infected mice a. taxonomic analysis of microbiota composition of mock-treated mice revealed that during s. tm infection the phyla bacteroidetes and firmicutes were significantly decreased b. in particularabcdpopulations of the class clostridia were significantly diminished 3-fold p  0.05. in contrast a bloom of gammaproteobacteria the class to which s. tm belongs was observed c. in agreement with our initial profiling table s1 targeted measure- ments of butyrate by gcms demonstrated that mock-treated mice had nearly 10-fold higher levels of butyrate in their cecal content compared with that of s. tm-infected mice d and a concomitant increase in lactate concentrations a. the fitness advantage conferred by lactate oxidation was time dependent and correlated with the magnitude of cecal inflamma- tion figure s6.
+Compared with healthy control mice strep-tomycin-treated and S. Tm-infected mice exhibited a significant decrease in Clostridia and Bacteroidetes populations and a bloom of the Enterobacteriaceae population A. Cecal butyrate levels were significantly decreased and lactate levels were elevated in streptomycin-treated and S. Tm-infected mice compared with mock-treated controls B and 3C.
 
-compared with healthy control mice strep-tomycin-treated and s. tm-infected mice exhibited a significant decrease in clostridia and bacteroidetes populations and a bloom of the enterobacteriaceae population a. cecal butyrate levels were significantly decreased and lactate levels were elevated in streptomycin-treated and s. tm-infected mice compared with mock-treated controls b and 3c.
+Unweighted principal coordi- nate analysis of microbiota composition showed distinct clustering of the microbiota of mock-treated mice compared with that of infected mice A. Taxonomic analysis of microbiota composition of mock-treated mice revealed that during S. Tm infection the phyla Bacteroidetes and Firmicutes were significantly decreased B.
 
-this analysis identified several extracellular metabolites with differential abundance in the cecal contents of infected mice compared with mock-treated mice.
+This analysis identified several extracellular metabolites with differential abundance in the cecal contents of infected mice compared with mock-treated mice.
 
-as a proof-of-principle experiment germ- free swiss webster mice were either mock treated or receivedabcdefigure 1. the host is a source of lactate during s. tm infectiongroups of swiss webster mice were inoculated with the s. tm wild-type strain wt or mock treated with lb broth.
+After 8 days of infection the mice were euthanized and lactate concentration in the cecal content was analyzed by GCMSMS.Groups of Swiss Webster mice were intragastrically inoculated with a 11 ratio of the indicated S. Tm strains.
 
-after 8 days of infection the mice were euthanized and lactate concentration in the cecal content was analyzed by gcmsms.groups of swiss webster mice were intragastrically inoculated with a 11 ratio of the indicated s. tm strains.
+To determine whether exogenous supple- mentation with butyrate was sufficient to suppress the spike in lactate levels streptomycin-treated mice were orally treated with tributyrin glyceryl tributyrate D. This exogenous supplementation with a butyrate source significantly decreased the cecal lactate concentration 3 days after streptomycin treatment.In germ-free mice colonocytes perform lactate fermentation due to a lack of microbial short-chain fatty acids  .
 
-to determine whether exogenous supple- mentation with butyrate was sufficient to suppress the spike in lactate levels streptomycin-treated mice were orally treated with tributyrin glyceryl tributyrate d. this exogenous supplementation with a butyrate source significantly decreased the cecal lactate concentration 3 days after streptomycin treatment.in germ-free mice colonocytes perform lactate fermentation due to a lack of microbial short-chain fatty acids  .
+In contrast a bloom of Gammaproteobacteria the class to which S. Tm belongs was observed C. In agreement with our initial profiling Table S1 targeted measure- ments of butyrate by GCMS demonstrated that mock-treated mice had nearly 10-fold higher levels of butyrate in their cecal content compared with that of S. Tm-infected mice D and a concomitant increase in lactate concentrations A.
 
-this metabolic switch has also been shown in germ-free mice  and in ex vivo-cultured colonocytes from dss-treated mice   a chemical model of experimental colitis.
+This metabolic switch has also been shown in germ-free mice  and in ex vivo-cultured colonocytes from DSS-treated mice   a chemical model of experimental colitis.
 
-male and female mice aged 6-8 weeks were used for all experiments and no differences between male and female mice were identified.
+Male and female mice aged 6-8 weeks were used for all experiments and no differences between male and female mice were identified.
 
-mice that were euthanized early due to health concerns and mice that were insufficiently colonized 10 colonies in 100 ml of undiluted sample competitive infections only were excluded from analysis.
+Administration of a lactate dehydrogenase inhibitor blunted lactate production in germ-free mice suggesting that lactate was predominantly of host origin.
 
-mice that were euthanized early due to health concerns and mice that were insufficiently colonized 10 colonies in 100 ml of undi- luted sample competitive infections only were excluded from analysis.
-
-administration of a lactate dehydrogenase inhibitor blunted lactate production in germ-free mice suggesting that lactate was predominantly of host origin.
-
-groups of swiss webster mice were intragastrically inoculated with the s. tm wild-type strain or mock treated with lysogeny broth-miller lb broth.
-
-tm infection while only small amounts of this compound were detected in mock-treated mice.
-
-we intragastrically inoculated conventionally raised swiss webster mice with equal amounts of both the s. tm wild-type strain and a dlldd ddld mutant.
-
-the wild-type strain was recovered from the cecal content at significantly higher numbers than the dlldd ddld mutant 13-fold p  0.05 when comparing the individ- ual wild-type and dlldd ddld populations b. to deter- mine whether lactate oxidation provides a fitness advantage in competition with the gut microbiota we intragastrically inocu- lated groups of swiss webster mice with the s. tm wild-type strain and the dlldd ddld mutant respectively single infection.
+Groups of Swiss Webster mice were intragastrically inoculated with the S. Tm wild-type strain or mock treated with Lysogeny Broth-Miller LB broth.
 

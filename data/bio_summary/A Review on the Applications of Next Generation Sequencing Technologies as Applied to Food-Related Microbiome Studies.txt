@@ -1,30 +1,20 @@
-therefore for in-depth species- level or for strain level identification or detailed functional characterization of the different members in the microbiome metagenomics and metatranscriptomics would be useful.examples of different sequencing approaches used to characterize food microbiomesfor the purpose of this review a literature search was performed on the current ncbi pubmed database   using a group of seven phrasesas follows 1 16s rdna sequencing food microbiome 2 16s rrna sequencing food microbiome 3 16s metageneticsmetagenomic food sequencing 5 metagenomic food6 metatranscriptomic food and 7 metatranscriptomic food sequencing.between 2011 and june 2017 a total of 126 papers were published describing the characterization of various food microbiomes figure 1a.
+This review will present the basic principles of the currently available DNA sequencing techniques and how some of these strategies played a key role in understanding microbiomes associated with food with special emphasis on non-fermented foods.WHOLE GENOME SEQUENCINGScientific advances in whole genome sequencing proceeded through three major technological revolutions first generation sequencing whole genome shotgun sequencing next generation sequencing NGS high throughput sequencing and the third generation of sequencing single molecule long read sequencing Loman and Pallen 2015.First Generation DNA Sequencing Whole Genome Shotgun SequencingThe first DNA sequencing strategy was the Sanger Chain Termination Method.
 
- 1  1  sinead proos 2  3 and 11 ucd-centre for food safety science centre south university college dublin dublin ireland 2 food for health ireland science centre south university college dublin dublin ireland 3 teagasc food research centre fermoy irelandedited bywalid alali hamad bin khalifa university qatarreviewed bybiswapriya biswavas misra texas biomedical research instituteunited states vasiliki chiniqatar foundation qatarcorrespondence shabarinath srikumar specialty sectionthis article was submitted tofood microbiology a section of the journal frontiers in microbiologyreceived 14 april 2017accepted 06 september 2017published 21 september 2017citation cao y fanning s proos s jordan k and srikumar s 2017 a review on the applications of next generation sequencing technologies as applied to food-related microbiome studies.front.
+doi Hamady M. Walker J. J. Harris J. K. Gold N. J. and Knight R. 2008.
 
-careful analysis of ngs data can be used to facilitatetable 2  a comprehensive list of publications using next generations sequencing approaches used in characterizing the microbiome of raw food products.the development of safer production processes thereby reducing risk for the consumer.monitoring microbiomes associated with food storage conditionscontrol measures like refrigeration modified atmospheric packaging map nisin treatment and others are often used to extend the shelf life of many perishable food products.
+Utilizing significant advancements in sequencing chemistries DNA sequencing gradually evolved from low throughput DNA fragment sequencing to high throughput next generation NGS and third generation sequencing techniques Loman and Pallen 2015.Traditionally most NGS related food microbiome studies have focussed on fermented foods such as cheese kimchi and sausages Patra et al.
 
-2012. along with an increase in the abundance of antibiotic resistance-encoding genes the up-regulation of genes encoding aminoglycoside o- phosphotransferases showed that antibiotic treatment of farm animals promoted cross-resistance.considerations to improve the current ngs based food microbiome studiesngs methods are highly efficient for microbiome related studies but there are still challenges and limitations to consider when applying these techniques to specific cases on food and food- related environments.quality and quantity of recovered nucleic acidnatural environment samples such as soil and water along with stool and saliva and fermented food samples such as cheese and kimchi contain high numbers of microorganisms.
+91 232-247. doi Caporaso J. G. Kuczynski J. Stombaugh J. Bittinger K. BushmanF.
 
-doi edgar r. c. 2010. search and clustering orders of magnitude faster than blast.bioinformatics 26 2460-2461. doi eid j. fehr a. gray j. luong k. lyle j. otto g. et al.
+Methods 69 330-339. doi Claesson M. J. O'Sullivan O. Wang Q. Nikkila J. Marchesi J. R. Smidt H. et al.
 
-doi de filippis f. parente e. and ercolini d. 2017. metagenomics insights into food fermentations.
+51 3286-3293. doi Hultman J. Rahkila R. Ali J. Rousu J. and Bjorkroth K. J.
 
-323 133-138. doi ercolini d. 2013. high-throughput sequencing and metagenomics moving forward in the culture-independent analysis of food microbial ecology.
+13274. doi Jarvis K. G. White J. R. Grim C. J. Ewing L. Ottesen A. R. Beaubrun J. J.-G. et al.
 
-100 2536-2552. doi rolain j. m. 2013. food and human gut as reservoirs of transferable antibiotic resistance encoding genes.
+163 171-179. doi Jung J. Y. Lee S. H. Kim J. M. Park M. S. Bae J. W. Hahn Y. et al.
 
-242 84-89. doi rossen l. norskov p. holmstrom k. and rasmussen o. f. 1992. inhibition of pcr by components of food samples microbial diagnostic assays and dna-extraction solutions.
+77 2264-2274. doi Kable M. E. Srisengfa Y. Laird M. Zaragoza J. Mcleod J. Heidenreich J. et al.
 
-doi van dyk b. n. de bruin w. du plessis e. m. and korsten l. 2016. microbiological food safety status of commercially produced tomatoes from production to marketing.
-
-therefore there is a burden on different food production systems to provide food safe for consumption.food an indispensable part of everyday life undergoes many processing steps before reaching the consumer.
-
-to this end contemporary advances in multi- omic technologies have enabled microbial community profiling monitoring population fluctuations in different microbial ecosystems and characterization of different microbial species in food matrices.the rapid development of nucleic acid sequencing technologies over the past four decades has improved the capacity to characterize the microbiomes of complex matrices associated with food or environmental samples.
-
-improvements in the maintenance of sanitary standards have enhanced food safety by reducing the number of pathogenic bacteria colonizing these environments and ultimately cross contaminating the final food product.
-
-these studies provide a novel insight into the dynamics of the microbiome and demonstrate how storage processing or temporal fluctuations in the productionenvironment may influence the microbiological quality and safety of food products.monitoring the surface microbiome of ready-to-eat food productsvegetables are known to be vehicles of pathogenic microorganisms and in several cases and have led to outbreaks of foodborne illness buchholz et al.
-
-this development provides an opportunity for spoilage organisms to overgrow resulting in deterioration of the food product following long- term refrigerated storage.marination is another traditional treatment method frequently used during food production process.
+30 197-204. doi Park E. J. Kim K. H. Abell G. C. J. Kim M. S. Roh S. W. and Bae J. W.2011.
 

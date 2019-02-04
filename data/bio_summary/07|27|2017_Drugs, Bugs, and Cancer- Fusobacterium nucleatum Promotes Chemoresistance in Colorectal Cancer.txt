@@ -1,20 +1,20 @@
-while the importance of cell-extrinsic factors in cancer initiation and progression including contributions from the tme is well established our understanding of the tme's influence on therapeutic outcome is in its infancy.
+Mechanisms by which Cancer Cells Co-Opt Inherent or Drug-Induced Features of the TME to Survive TherapyUpon DNA damage induced by doxorubicin endothelial cells in the thymus release cytokines that generate a chemo-protective niche allowing lymphoma cells resident in this organ to survive therapy.Therapy-induced tissue damage can induce the recruitment of both tissue-associated macrophages TAMs and myeloid-derived suppressor cells MDSCs that promote tumor cell survival by the secretion of soluble factors and by dampening anti-tumor immune responses.In the bone marrow leukemic cells can interact with intrinsic features of the TME such as the extracellular matrix ECM via integrin receptors.
 
-by inhibiting apoptosis pathways in favor ofcell 170 july 27 2017 a 2017 published by elsevier inc. 411figure 1. mechanisms by which cancer cells co-opt inherent or drug-induced features of the tme to survive therapyupon dna damage induced by doxorubicin endothelial cells in the thymus release cytokines that generate a chemo-protective niche allowing lymphoma cells resident in this organ to survive therapy.therapy-induced tissue damage can induce the recruitment of both tissue-associated macrophages tams and myeloid-derived suppressor cells mdscs that promote tumor cell survival by the secretion of soluble factors and by dampening anti-tumor immune responses.in the bone marrow leukemic cells can interact with intrinsic features of the tme such as the extracellular matrix ecm via integrin receptors.
+Further insights into how tumor cells co-opt intrinsic or drug- induced features of the TME to survive therapy may allow us to generate new treatment strategies that can target crit- ical TME factors that promote resistance.
 
-further insights into how tumor cells co-opt intrinsic or drug- induced features of the tme to survive therapy may allow us to generate new treatment strategies that can target crit- ical tme factors that promote resistance.
+Experimental studies later showed that this microbe can directly increase Wntb-catenin signaling when its adhesin FadA binds to E-cadherin on tumor cells promoting inflammation and tumor cell growth pathways only in transformed cells .
 
-instead tumor cells arise in the context of non-malignant cellular and non-cellular components of a tissue defined as the tumor microenvironement tme.
+Instead tumor cells arise in the context of non-malignant cellular and non-cellular components of a tissue defined as the tumor microenvironement TME.
 
-current studies have begun to address this question and have uncovered novel roles for the tme in modulating therapeutic efficacy.
+However the concept that neoplastic cells can co-opt pre- existing or treatment-induced signaling networks to survive therapy has emerged as a clear unifying component of treat- ment failure.Tumors that arise at epithelial barrier surfaces of the body have the additional feature of harboring an extensive micro- biota in the TME and the importance of these microbes in human health and dis- ease is now widely appreciated.
 
-in the case of chemoresistance the tme has now been shown to directly promote treatment failure by a diverse set of mechanisms some of which are high- lighted in a-1c  .
+While the importance of cell-extrinsic factors in cancer initiation and progression including contributions from the TME is well established our understanding of the TME's influence on therapeutic outcome is in its infancy.
 
-however the concept that neoplastic cells can co-opt pre- existing or treatment-induced signaling networks to survive therapy has emerged as a clear unifying component of treat- ment failure.tumors that arise at epithelial barrier surfaces of the body have the additional feature of harboring an extensive micro- biota in the tme and the importance of these microbes in human health and dis- ease is now widely appreciated.
+For instance a subset of bac- terial toxins have been shown to directly induce DNA damage responses and genomic instability in mammalian host cells while other microbial proteins including certain virulence factors can engage host pathways that are important in carcinogenesis and inflammation  .
 
-mounting evidence in colorectal cancer crc for instance has linked the microbiota resi- dent in the tme to cancer initiation and progression.
+The authors used a combination of RNA-seq experi- ments and functional assays to demon- strate that Fn induced activation of the autophagy pathway in CRC cells.
 
-present a novel mechanism by which the tme promotes chemoresistance in this issue of cell.
+CRC cells resident in the gut can co-opt this colonization property by interacting with Fn.
 
-similarly the study by yu and colleagues was completed in tumor xenografts that developed outside the normal crc tme and were directly injected with fn to elicit a resistance phenotype.
+TLR4MYD88 activation by this microbe downregulates miRNA-18a and miRNA-4082 inducing a switch from apoptosis to autophagy in CRC cells and allowing them to survive therapy.autophagy Fn also induced resistance to oxaliplatin and 5-FU two drugs commonly used in CRC treatment paradigms.
 

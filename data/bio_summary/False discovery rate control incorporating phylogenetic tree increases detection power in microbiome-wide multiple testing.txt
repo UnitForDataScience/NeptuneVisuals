@@ -1,30 +1,20 @@
-we can see that our procedure significantly outperforms bh and st procedure for scen- ario 1-3 and has comparable performance with bh and st proced- ure for scenario 4 and 5. to summarize when the phylogenetic tree is informative our procedure dominates bh and st procedure and when the tree is not informative our procedure is comparable to bh and st procedure.real data applicationwe demonstrate our method using a real microbiome dataset from a study of long-term dietary effects on the human gut microbiometable 1. the actual fdr at the nominal fdr level 0.01 0.05 and 0.10note gbh-20 is the gbh procedure based on 20 pre-specified groups.
+To summarize when the phylogenetic tree is informative our procedure dominates BH and ST procedure and when the tree is not informative our procedure is comparable to BH and ST procedure.Real data applicationWe demonstrate our method using a real microbiome dataset from a study of long-term dietary effects on the human gut microbiomeTable 1.
 
-despite much progress in multiple testing procedures such as false discovery rate fdr control methods that take into account the phylogenetic tree are largely limited.results we propose a new fdr control procedure that incorporates the prior structure information and apply it to microbiome data.
+Despite much progress in multiple testing procedures such as false discovery rate FDR control methods that take into account the phylogenetic tree are largely limited.Results We propose a new FDR control procedure that incorporates the prior structure information and apply it to microbiome data.
 
-the st procedure fixes a threshold value t esti- mates the fdr and chooses t so that the estimated fdr is no larger than a in st procedure the proportion of null hypothesis is esti- mated through a conservative estimator p0dkth14 fpi  k i 14 1 ...  mgmd1 - kth where k is a tuning parameter.
+The ST procedure fixes a threshold value t esti- mates the FDR and chooses t so that the estimated FDR is no larger than a In ST procedure the proportion of null hypothesis is esti- mated through a conservative estimator p0dkTh14 fpi  k i 14 1 ...  mgmd1 - kTh where k is a tuning parameter.
 
-plots the number of identified otus with different fdr levels based on our procedure bh procedure and st procedure.
+plots the number of identified OTUs with different FDR levels based on our procedure BH procedure and ST procedure.
 
-we then repeated the simulations s1-s5 and compared our procedure to bh and st. we found that our procedure not only has conservative fdr control under data correlation but also has a much higher power than bh and st for phylogeny-informative scenarios.our method is quite flexible and users can specify the prior struc-ture in terms of feature-to-feature distance matrix e.g.
+We then repeated the simulations S1-S5 and compared our procedure to BH and ST. We found that our procedure not only has conservative FDR control under data correlation but also has a much higher power than BH and ST for phylogeny-informative scenarios.Our method is quite flexible and users can specify the prior struc-ture in terms of feature-to-feature distance matrix e.g.
 
-bh procedure is conserva- tive and st procedure has actual fdrs closer to the nominal ones than bh procedure as the proportion of null hypothesis has been incorporated in st procedure.
+BH procedure is conserva- tive and ST procedure has actual FDRs closer to the nominal ones than BH procedure as the proportion of null hypothesis has been incorporated in ST procedure.
 
-we use an empirical bayesian approach to estimate hyperpar-permutation-based fdr control algorithmin this section we use permutation to develop an fdr control pro- cedure based on  the advantage of using permutation is that it adjusts to the unknown null distribution of the test statistic and is robust against different types of dependence such as the correlations in the data dzjlth even when the working models 3 and 4 are mis- specified.
+The actual FDR at the nominal FDR level 0.01 0.05 and 0.10Note GBH-20 is the GBH procedure based on 20 pre-specified groups.
 
-the data correlation has been shown to affect the performance of many fdr procedures including the popular bh procedure .
+We use an empirical Bayesian approach to estimate hyperpar-Permutation-based FDR control algorithmIn this section we use permutation to develop an FDR control pro- cedure based on  The advantage of using permutation is that it adjusts to the unknown null distribution of the test statistic and is robust against different types of dependence such as the correlations in the data dzjlTh even when the working models 3 and 4 are mis- specified.
 
-we also provide a more generic func- tion 'structfdr' which accepts a distance matrix among features in- stead of a tree to perform structure-based fdr control for other genomic data as long as a distance metric is defined between fea- tures.
+The data correlation has been shown to affect the performance of many FDR procedures including the popular BH procedure .
 
-2011 analysis of a data matrix and a graph metagenomic data and the phylogenetic tree.
-
-when the phylogenetic tree is mis-specified or non-informative our procedure achieves a similar power as traditional pro- cedures that do not take into account the tree structure.
-
-third our procedure has substantial power gain when the phylo- genetic tree accurately describes the dependence structure and achieves a similar power as traditional procedures when the phylo- genetic tree is mis-specified or non-informative.
-
-there is a vast literature on fdr control and its applica- tions in various fields such as microarray analysis astronomical surveys and brain imaging among others    .the predominant framework in fdr control is via individualanalysis--testing each hypothesis separately and declaring statistical significance if the p-value is less than a certain threshold   or the test statistic falls into the rejection re- gion .
-
-actual fdr and power are used to measure the performance of different procedures at the nominal fdr level 001 005 and 0.1. the power is defined as the expectation of the ratio of correctly rejected hypotheses and total alternative hypotheses.
-
-this approach controlled the fdr in the simulations and rescued the power to some extent additional simulation 2. to optimally com- bine our method and other fdr methods to further increase the ro- bustness of our approach warrants future investigation.in simulation studies when both positive and negative values ap- pear in a cluster their effects cancel each other out and we do not have any power gain.
+We also provide a more generic func- tion 'structFDR' which accepts a distance matrix among features in- stead of a tree to perform structure-based FDR control for other genomic data as long as a distance metric is defined between fea- tures.
 

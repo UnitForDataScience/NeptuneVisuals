@@ -1,0 +1,20 @@
+The most notable of these the rumen can compose 10-25 of an animal's body weight and the microbes housed within can provide 50-80 of the daily energetic needs of the host In addition toruminants a number of other animals exhibit foregut fermentation such as some macropod marsupials non- human primates and rodents Understanding the evolution and function of foregut fermentation chambers is of considerable interest to biologists because of its key role in facilitating herbivory.The phenotypic and functional variation observed between species is a consequence of differences in gene expression as well as gene content Changes in gene expression profiles associated with hosting foregut mi- crobial communities have been studied in a number of ways.
+
+The Creative Commons Public Domain Dedication waiver applies to the data made available in this article unless otherwise stated.adults - Additionally others have compared gene expression in tissues from various gut chambers such as the fermentative rumen versus the acid-producing abo- masum However the question of which changes in gene expression are associated with hosting a foregut microbial community has not been evaluated in a com- parative sense.
+
+Furthermore this question has only been investigated in ruminants and thus studies into the fore- gut chambers of other mammals may reveal potential convergence in gene expression profiles.Here we compare gene expression profiles in the prox- imal stomach regions of two rodent species that differ in diet stomach morphology and density of associated mi- crobes.
+
+The current study focuses on a comparative analysis of foregut gene expression in order to gain insight into host-microbe interactions in the woodrat foregut.Comparing the gene expression profiles from the fore- gut regions of woodrats and lab rats should reveal genes associated with hosting a foregut microbial community that participates in fermentation of food.
+
+Reads were assigned to a ENSMUSG gene identifier by their maximum crossmatch alignment score and reads that aligned to multiple genes with equivalent scores were evaluated for representation of paralogous genes pseudo- genes overlapping genes and duplicate gene annotations.
+
+In mammals genes involved in the synthesis of the insoluble cornified envelope CE epithelial layer are found in a large gene cluster known as the epidermal differentiation complex or EDC that includes the Late Cornified Envelope Group I genes Lce1 gene sym- bols the Late Cornified Envelope Group 3 genes Lce3 symbols and the Cornifins also known as small proline-rich region proteins Sprr1 Sprr2 Sprr3 andSprr4 families.
+
+From the EDC gene cluster the Sprr1 and Sprr3 genes and the involucrin gene showed higher ex- pression in the lab rat foregut.
+
+BMC Genomics 2017 18697DOI 10.1186s12864-017-4101-zPatterns of host gene expression associated with harboring a foregut microbial communityKevin D. Kohl1  Kelly F. Oakeson2 Diane Dunn4 David K. Meyerholz3 Colin Dale2 Robert B. Weiss4 and M. Denise Dearing2BackgroundComplex and intimate associations with fermentative gut microbes have been instrumental in the success of mammalian herbivores In general these associa- tions take place in enlarged gut compartments that house both the symbiotic microbes and the food mater- ial being digested.
+
+First developmental studies have compared gene Correspondence 1Department of Biological Sciences Vanderbilt University 465 21st Ave South Nashville TN 37235 USAFull list of author information is available at the end of the articleexpression in rumen epithelial tissue from suckling animals before the establishment of fermentation toc The Authors.
+
+To- gether these approaches highlight convergent and diver- gent gene expression profiles associated with hosting a foregut microbial community.MethodsAnimals and tissue collectionStephen's woodrats Neotoma stephensi were collected near Wupatki National Monument AZ USA 35deg30' N 111deg27' W in October 2013.
+

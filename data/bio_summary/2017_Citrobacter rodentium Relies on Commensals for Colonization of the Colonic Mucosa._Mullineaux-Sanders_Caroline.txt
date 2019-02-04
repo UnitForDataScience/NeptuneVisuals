@@ -1,30 +1,20 @@
-rodentium in the aibp state is avirulentwe next examined the infectivity of c. rodentium after 20 kan treatments 26 dpi by co-housing mice harboring aibp c. rodentium with naive untreated mice untreated mice infected with c. rodentium for 7 days were used as a control.
+rodentium in the AIBP State Is AvirulentWe next examined the infectivity of C. rodentium after 20 Kan treatments 26 DPI by co-housing mice harboring AIBP C. rodentium with naive untreated mice untreated mice infected with C. rodentium for 7 days were used as a control.
 
-for microbiome sequencing naive uninfected mice were gavaged with antibiotics stools were collected prior to treatment and 24 hr after 3 daily treatments and immediately flash frozen.germ-free miceall germ-free animal studies were approved by the weizmann institute of science institutional animal care and use committee iacuc application number 28050616. germ-free mice were born in the weizmann institute germ-free facility and routinely monitored for sterility on the day of inoculation germ-free mice were transferred into sterile iso-cages hecht et al.
+rodentium in the AIBP State Are Non-infectiousIn vivo BLI of control and AIBP-donor mice and co-housed naive untreated recipient mice at 2 4 and 7 days post co- habitation DPC showing AIBP C. rodentium is not transmissible.Scanning electron microscopy of mouse fibroblasts infected with C. rodentium isolated from feces of control or AIBP mice.
 
-rodentium in the aibp state are non-infectiousin vivo bli of control and aibp-donor mice and co-housed naive untreated recipient mice at 2 4 and 7 days post co- habitation dpc showing aibp c. rodentium is not transmissible.scanning electron microscopy of mouse fibroblasts infected with c. rodentium isolated from feces of control or aibp mice.
+Mean values - SEM n  5 mice.In vivo BLI of representative mice showing dimming of the ICC690 BL signal over time demonstrating ler downregulation in the AIBP state.See also Figure S2.Figure 3Kan Treatment Displaces C. rodentium from the Colonic MucosaICC180-infected mice were given a single Kan 1000 mgkg or water treatment at 6 DPI and harvested 24 hr later.Quantification of C. rodentium CFUs in the stool.Quantification of tissue-associated C. rodentium CFUs revealing significantly elevated bacterial load in the cecal contents and decreased CFUs in the distal colons of Kan-treated mice.
 
-mean values - sem n  5 mice.in vivo bli of representative mice showing dimming of the icc690 bl signal over time demonstrating ler downregulation in the aibp state.see also figure s2.figure 3kan treatment displaces c. rodentium from the colonic mucosaicc180-infected mice were given a single kan 1000 mgkg or water treatment at 6 dpi and harvested 24 hr later.quantification of c. rodentium cfus in the stool.quantification of tissue-associated c. rodentium cfus revealing significantly elevated bacterial load in the cecal contents and decreased cfus in the distal colons of kan-treated mice.
+Transplantation of the gut microbiota from C57BL6 mice to lethally susceptible C3HHeOuJ mice prevented mortality Ghosh et al.
 
-transplantation of the gut microbiota from c57bl6 mice to lethally susceptible c3hheouj mice prevented mortality ghosh et al.
+rodentium the tissue-associated colonic CFUs of Kan-treated 1000 mgkg mice were determined water-treated mice were used as a control.
 
-rodentium the tissue-associated colonic cfus of kan-treated 1000 mgkg mice were determined water-treated mice were used as a control.
+2012 germ- free mice persistently shed C. rodentium at high titers E. Whereas the BL signal in ICC690- infected mice was dim 2 DPI and bright 8 DPI a diminishing signal was seen at 12 and 14 DPI  F. A bright signal from the control ICC1370 was seen at 14 DPI F with similar CFUs to ICC690 shed in the stool E. These results suggest that cues from the host can upregulate ler gene expression during early C. rodentium infection in vivo.
 
-2014. therefore to investigate whether the inability of c. rodentium to colonize the colonic mucosa of kan-treated mice is due to repression of ler we deleted the negative regulator grlr from icc180 to generate icc1410 which constitutively expresses ler lio and syu 2004. icc1410 hyper-secretes translocators and effectors in non-ler-inducing conditions a and infects cultured cells more robustly than icc180 b. following infections of conventional mice icc1410 behaved similarly to icc180 and colonized the colonic mucosa at 6 dpi c and 5d.importantly following a single kan dose the bl signal was found exclusively in the cecal content  d demonstrating ler downregulation does not account for the inability of icc180 to colonize the colonic mucosa following kan treatment.c.
+Germ-free mice were born in the Weizmann Institute germ-free facility and routinely monitored for sterility on the day of inoculation germ-free mice were transferred into sterile iso-cages Hecht et al.
 
-2012 germ- free mice persistently shed c. rodentium at high titers e. whereas the bl signal in icc690- infected mice was dim 2 dpi and bright 8 dpi a diminishing signal was seen at 12 and 14 dpi  f. a bright signal from the control icc1370 was seen at 14 dpi f with similar cfus to icc690 shed in the stool e. these results suggest that cues from the host can upregulate ler gene expression during early c. rodentium infection in vivo.
+Germ-free mice were given a regular chow diet ad libitum and infected with C. rodentium as described above.Co-housing ExperimentsAn AIBP donor mouse 26 DPI with ICC180 post-20 Kan 1000 mgkgday treatments was co-housed with naive untreated recipient mice.
 
-2014. germ-free mice were given a regular chow diet ad libitum and infected with c. rodentium as described above.co-housing experimentsan aibp donor mouse 26 dpi with icc180 post-20 kan 1000 mgkgday treatments was co-housed with naive untreated recipient mice.
+Significance was determined by a paired two-tailed Student's t test.In vivo and ex vivo BLI of ICC180-infected mice treated with Van or Met showing C. rodentium remain associated with the colonic mucosa.Total gut transit time of uninfected mice 24 hr following a single Kan 1000 mgkg Van Met or water treatment showing no significant differences in gut motility.
 
-significance was determined by a paired two-tailed student's t test.in vivo and ex vivo bli of icc180-infected mice treated with van or met showing c. rodentium remain associated with the colonic mucosa.total gut transit time of uninfected mice 24 hr following a single kan 1000 mgkg van met or water treatment showing no significant differences in gut motility.
-
-bioluminescent and kanamycin kan-resistant c. rodentium persisted avirulently in the cecal lumen of mice continuously treated with kan. a single kan treatment was sufficient to displace c. rodentium from the colonic mucosa a phenomenon not observed following treatment with vancomycin van or metronidazole met.
-
-expression of the master virulence regulator ler is induced in germ-free mice yet c. rodentium is only seen in the cecal lumen.
-
-moreover in conventional mice a single kan treatment was sufficient to displace c. rodentium constitutively expressing ler from the colonic mucosa.
-
-2013. antibiotic-induced dysbiosis increases host susceptibility to bacterial colonization by pre- treating mice with streptomycin pathogenic and non-pathogenic bacteria e.g.
-
-2014. in c57bl6 mice c. rodentium causes a self-limiting infection without the need for antibiotic pre-treatment and triggers robust colitis colonic crypt hyperplasia cch and dysbiosis collins et al.
+Bioluminescent and kanamycin Kan-resistant C. rodentium persisted avirulently in the cecal lumen of mice continuously treated with Kan. A single Kan treatment was sufficient to displace C. rodentium from the colonic mucosa a phenomenon not observed following treatment with vancomycin Van or metronidazole Met.
 

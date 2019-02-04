@@ -1,30 +1,20 @@
-from inward slots 1-4 slot 1 gc skew slot 2 gc content slot 3 open reading frames slot 4 rnas slots 5-8 comparative genome analysis of atcc 8501t atcc 27725 atcc 49185 and 12-1b respectively with 90 aa identity slot 9 prophage and slots 10-11 possible virulence factors autotransporter fada protein and hemagglutinin.1182 family and widely identified orthologs of f. nucleatum strains suggesting that isfv2 could be a general orthologous is among fusobacterium spp.comparative genomics among f. varium genome sequencesto characterize the fv113-g1-specific genetic features we additionally sequenced the draft- genome sequence of f. varium atcc 8501t total 3.3 mb as one of the reference genomestwo plasmids in fv113-g1.
+RESEARCH ARTICLECharacterization of Fusobacterium varium Fv113-g1 isolated from a patient with ulcerative colitis based on complete genome sequence and transcriptome analysisTsuyoshi Sekizuka1 Yumiko Ogasawara1 Toshifumi Ohkusa2 Makoto Kuroda11 Laboratory of Bacterial Genomics Pathogen Genomics Center National Institute of Infectious Diseases Tokyo Japan 2 Department of Microbiota Research Juntendo University Graduate School of Medicine Tokyo Japan AbstractOPEN ACCESSCitation Sekizuka T Ogasawara Y Ohkusa T Kuroda M 2017 Characterization of Fusobacterium varium Fv113-g1 isolated from a patient with ulcerative colitis based on complete genome sequence and transcriptome analysis.
 
-research articlecharacterization of fusobacterium varium fv113-g1 isolated from a patient with ulcerative colitis based on complete genome sequence and transcriptome analysistsuyoshi sekizuka1 yumiko ogasawara1 toshifumi ohkusa2 makoto kuroda11 laboratory of bacterial genomics pathogen genomics center national institute of infectious diseases tokyo japan 2 department of microbiota research juntendo university graduate school of medicine tokyo japan abstractopen accesscitation sekizuka t ogasawara y ohkusa t kuroda m 2017 characterization of fusobacterium varium fv113-g1 isolated from a patient with ulcerative colitis based on complete genome sequence and transcriptome analysis.
+From inward slots 1-4 slot 1 GC skew slot 2 GC content slot 3 open reading frames slot 4 RNAs slots 5-8 comparative genome analysis of ATCC 8501T ATCC 27725 ATCC 49185 and 12-1B respectively with 90 aa identity slot 9 prophage and slots 10-11 possible virulence factors autotransporter FadA protein and hemagglutinin.1182 family and widely identified orthologs of F. nucleatum strains suggesting that ISFv2 could be a general orthologous IS among Fusobacterium spp.Comparative genomics among F. varium genome sequencesTo characterize the Fv113-g1-specific genetic features we additionally sequenced the draft- genome sequence of F. varium ATCC 8501T total 3.3 Mb as one of the reference genomesTwo plasmids in Fv113-g1.
 
-here we report the complete genome sequence of fusobacterium varium fv113-g1 genome size 3.96 mb isolated from a patient with uc.
+Here we report the complete genome sequence of Fusobacterium varium Fv113-g1 genome size 3.96 Mb isolated from a patient with UC.
 
-compared with the genome sequences of f. varium atcc 27725 genome size3.30 mb and other strains of fusobacterium spp.
+Compared with the genome sequences of F. varium ATCC 27725 genome size3.30 Mb and other strains of Fusobacterium spp.
 
-comparative genome analyses totally suggested that fv113-g1 is basically assigned as f. varium in particular it could be reclassified as notable f. varium subsp.
+F. mortiferum and F. varium are frequent residents of the human gut  some experimental data suggest that F. varium can actively invade host epithelial cells .In this study we analyzed the whole-genome sequence of F. varium Fv113-g1 isolated from a patient with UC.
 
-f. mortiferum and f. varium are frequent residents of the human gut  some experimental data suggest that f. varium can actively invade host epithelial cells .in this study we analyzed the whole-genome sequence of f. varium fv113-g1 isolated from a patient with uc.
+Comparative genome analyses totally suggested that Fv113-g1 is basically assigned as F. varium in particular it could be reclassified as notable F. varium subsp.
 
-in addition draft-genome sequence of reference type strain atcc 8501t has been also deposited in dna data bank of japan ddbj accession numbers dra006297.results and discussioncomplete genome sequencing of f. varium fv113-g1first the draft-genome sequencing of f. varium fv113-g1 was obtained with paired-end and mate-pair short-read libraries.
+Genomic information of F. varium Fv113-g1.followed by comparative genome analysis of F. varium ATCC 8501 T and publicly available draft-genome sequence of ATCC 27725 3.3 Mb .
 
-circular representation of the fv113-g1 genome chromosome and two plasmids along with comparative genome information of other f. varium strains .
+Abovementioned comparative genome analyses totally suggested that Fv113-g1 should be basically assigned as F. varium in particular it could be reclassified as notable F. varium subsp.
 
-genomic information of f. varium fv113-g1.followed by comparative genome analysis of f. varium atcc 8501 t and publicly available draft-genome sequence of atcc 27725 3.3 mb .
+Circular representation of the Fv113-g1 genome chromosome and two plasmids along with comparative genome information of other F. varium strains .
 
-abovementioned comparative genome analyses totally suggested that fv113-g1 should be basically assigned as f. varium in particular it could be reclassified as notable f. varium subsp.
-
-annotation was performed in rapid annotation using subsystems technology 2.0 rast  interpro v49.0  and ncbi-blastpblastx.comparative genome sequence analysisthe draft-genome sequencing of f. varium type strain atcc 8501t was performed as described in the abovementioned section followed by de novo assembly using a5-miseq de novo assembler .
-
-to fill the remaining gaps in these five unitigs optical mapping of the whole genome digested with ncoi restriction enzyme was performed followed by gap filling and circulariza- tion with nucleotide alignment and error correction with icorn.the complete genome sequence suggested that fv113-g1 possesses one chromosome and two plasmids pfv113-g1-1 and pfv113-g1-2 as shown in .
-
-on the contrary the coding sequence of isfv2 showed high similarity to is5basic genome information of f. varium fv113-g1.
-
-in addition orthology analysis indicated that 65.5 2198  2853 all clusters 503 singletons in fv113-g1 of gene clusters are identified as core clusters among f. varium related strains whereas 343 orthologous gene clusters between fv113-g1 and f. ulcerans atcc 49185 found to be more than 251 clusters between fv113-g1 and f. varium atcc 27725  and .
-
-rna-seq experiment suggested that these redundant fada homolog genes are differentially regulated to support the well- growing bacteria under variable conditions.conclusionswe determined the complete genome sequence of f. varium fv113-g1 isolated from a patient with uc.
+In addition orthology analysis indicated that 65.5 2198  2853 all clusters 503 singletons in Fv113-g1 of gene clusters are identified as core clusters among F. varium related strains whereas 343 orthologous gene clusters between Fv113-g1 and F. ulcerans ATCC 49185 found to be more than 251 clusters between Fv113-g1 and F. varium ATCC 27725  and .
 

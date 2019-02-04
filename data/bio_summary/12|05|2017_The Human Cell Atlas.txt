@@ -1,30 +1,20 @@
-doi  pmid albayrak c jordi ca zechner c lin j bichsel ca khammash m tay s. 2016. digital quantification of proteins and mrna in single mammalian cells.molecular cell 61914-924. doi  pmid angelo m bendall sc finck r hale mb hitzman c borowsky ad levenson rm lowe jb liu sd zhao s natkunam y nolan gp.
+Assessing the distance to completion will also be a challenge.As a Borgesian thought experiment we could conceive of an imaginary Ultimate Human Cell Atlas that represents all markers in every cell in a person's body every cell's spatial position by adding three dimensions for the body axes every cell at every moment of a person's lifetime by adding another dimension for time relating the cells by a lineage and the superimposition of such cell atlases from every human being annotated according to differences in health genotype lifestyle and environmental exposure.Of course it is not possible to construct such an Ultimate Atlas.
 
-nature medicine 20 436-442. doi pmid angerer p haghverdi l bu ttner m theis fj marr c buettner f. 2016. destiny diffusion maps for large- scale single-cell data in r. bioinformatics 321241- 1243. doi  pmid angermueller c clark sj lee hj macaulay ic teng mj hu tx krueger f smallwood s ponting cp voet t kelsey g stegle o reik w. 2016. parallel single-cell sequencing links transcriptional and epigenetic heterogeneity.
+being a hepatic stellate cell or a cerebellar Purkinje cell while cell state often refers to more transient properties e.g.
 
-pnas 105955-960. doi  pmid barker n van es jh kuipers j kujala p van den born m cozijnsen m haegebarth a korving j begthel h peters pj clevers h. 2007. identification of stem cells in small intestine and colon by marker gene lgr5.nature 4491003-1007. doi  pmid behjati s huch m van boxtel r karthaus w wedge dc tamuri au martincorena i petljak m alexandrov lb gundem g tarpey ps roerink s blokker j maddison m mudie l robinson b nik-zainal s campbell p goldman n van de wetering m et al.2014.
+In humans where such methods cannot be applied human cell lineages can be moni- tored experimentally in vitro or by transplantation of human cells to immunosuppressed mice    or can be inferred from in vivo samples by measuring the DNA differences between individual sampled cells arising from random mutations during cell division and using the genetic distances to con- struct cellular phylogenies or lineages  .therefore articulate the concept of a cell atlas and explore its potential utility for biology and medicine.
 
-doi  pmid nichterwitz s chen g aguila benitez j yilmaz m storvall h cao m sandberg r deng q hedlund e. 2016. laser capture microscopy coupled with smart- seq2 for precise spatial transcriptomic profiling.nature communications 712139. doi  pmid o'brien ca pollett a gallinger s dick je.
+Cell-cell interactomes have also been inferred from profiles of purified cellpopulations based on the secreted and cell sur- face molecules that they express .In tumors from melanoma patients gene- expression analysis involving single-cell data obtained from some patients and bulk tumor data from many more patients deconvoluted based on signatures learned from the single cells found genes that are expressed in one cell type but whose expression levels are correlated with the proportion of a different cell type that does not express them this analysis revealed that high expression of the complement system in cancer-associated fibroblasts in the tumor microenvironment is correlated with increased infiltration of T cells .
 
-nature biotechnology 33503-509. doi  pmid adamson b norman tm jost m cho my nun ez jk chen y villalta je gilbert la horlbeck ma hein my pak ra gray an gross ca dixit a parnas o regev a weissman js.
+For example one might describe each cell by the expressionlevel of each of the 20000 human protein-cod-ing genes that is each cell would be repre- sented as a point in 20000-dimensional space.Of course the set of markers could be expanded to include the expression levels of non-coding genes the levels of the alternatively spliced forms of each transcript the chromatin state of every promoter and enhancer and the levels of each protein or each post-translation- ally modified form of each protein.
 
-doi  pmid scialdone a natarajan kn saraiva lr proserpio v teichmann sa stegle o marioni jc buettner f. 2015. computational assignment of cell-cycle stage from single-cell transcriptome data.
+It will also necessitate the creation of new math- ematical frameworks and computationalapproaches that may have applications far beyond biology - perhaps analogous to how biological 'big data' in agriculture in the 1920s led to the creation by R.A. Fisher and others of key statistical methods including the analysis of variance and experimental design .Taxonomy cell typesThe most fundamental level of analysis is the identification of cell types.
 
-the lancet respiratory medicine 4 181-182. doi  pmid ascoli ga alonso-nanclares l anderson sa barrionuevo g benavides-piccione r burkhalter a buzsa'ki g cauli b defelipe j faire' n a feldmeyer d fishell g fregnac y freund tf gardner d gardner ep goldberg jh helmstaedter m hestrin s karube f et al.
+Simi- larly single-cell expression profiles of epithelial cells from gut organoids  dis- tinguished known cell subtypes each with dis- tinctive functional and histological characteristics while also revealing a new sub- type of enteroendocrine cells which was subse- quently validated experimentally.The nervous system where many cell types have not yet been characterized by any means illustrates both the promise and the challenge.
 
-cell 1621309-1321. doi  pmid bakken te miller ja ding sl sunkin sm smith ka ng l szafer a dalley ra royall jj lemon t shapouri s aiona k arnold j bennett jl bertagnolli d bickley k boe a brouner k butler s byrnes eet al.
+In this example known morphological and other non-molecular classifications matched perfectly to molecular types and new molecu- larly-defined cell types discovered in the single- cell transcriptomic analysis corresponded to unique new morphology and histology.
 
-nature 535367-375. doi pmid bar-joseph z siegfried z brandeis m brors b lu y eils r dynlacht bd simon i.
+For example electrophysiological measurements with patch clamping followed by scRNA-seq used in a recent study of a particular inhibitory cortical cell type showed that the tran- scriptome correlated strongly with the cell's physiological state  .
 
-nature 513422-425. doi  pmid bendall sc davis kl amir el-ad tadmor md simonds ef chen tj shenfeld dk nolan gp pe'er2014.
-
-cell 157714-725. doi  pmid biezuner t spiro a raz o amir s milo l adar r chapal-ilani n berman v fried y ainbinder e cohen g barr hm halaban r shapiro e. 2016. a generic cost-effective and scalable cell lineage analysis platform.
-
-nature communications 7 10256. doi pmid blondel vd guillaume j-l lambiotte r lefebvre e. 2008. fast unfolding of communities in large networks.
-
-doi borges jl hurley a.
-
-philosophical transactions of the royal society b biological sciences 365207-212. doi  pmid brudno jn kochenderfer jn.
-
-blood 1273321-3330. doi  pmid buenrostro jd wu b litzenburger um ruff d gonzales ml snyder mp chang hy greenleaf wj.
+or protein staining   it should be possible to spatially map multiple cell types at once based on expression signatures to see how they relate to each other and to con- nect them with cell types defined by morphol- ogy or function.
 

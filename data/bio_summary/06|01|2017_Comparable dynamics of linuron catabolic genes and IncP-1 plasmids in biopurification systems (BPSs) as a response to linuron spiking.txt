@@ -1,30 +1,20 @@
-the hybridization signal intensities obtained for bps sam- ples taken 60 dps slightly decreased for all genes tested com- pared to bps at 20 dps and the liba gene was even below the detection limit table .both the dcaqi gene of strain srs16 and the dcaqii gene of strain wdl1 were pcr-amplified with the primers originally designed by bers et al.
+The hybridization signal intensities obtained for BPS sam- ples taken 60 DPS slightly decreased for all genes tested com- pared to BPS at 20 DPS and the libA gene was even below the detection limit Table .Both the dcaQI gene of strain SRS16 and the dcaQII gene of strain WDL1 were PCR-amplified with the primers originally designed by Bers et al.
 
-pcr-southern blot- based detection of genes involved in linuron hydrolysis liba and hyla or degradation of its metabolite 34-dichloroaniline dcaqi dcaqii and ccdc in tc-dna showed that the abun- dance of the hyla gene was increased faster and stronger in response to linuron application than that of the liba gene and that the dcaqii gene was more abundant than the isofunctional gene dcaqi 20 and 60 days after linuron addition.
+PCR-Southern blot- based detection of genes involved in linuron hydrolysis libA and hylA or degradation of its metabolite 34-dichloroaniline dcaQI dcaQII and ccdC in TC-DNA showed that the abun- dance of the hylA gene was increased faster and stronger in response to linuron application than that of the libA gene and that the dcaQII gene was more abundant than the isofunctional gene dcaQI 20 and 60 days after linuron addition.
 
-kornelia smalla 1 julius kuhn-institut federal research centre for cultivated plants institute for epidemiology and pathogen diagnostics messeweg 11-12 38104 braunschweig germany2 faculty of agriculture cairo university giza egypt3 division of soil and water management katholieke universiteit leuven 3001 leuven belgiumhorizontal gene transfer hgt events involving a mobile genetic element mge appear to play a major role in bacterial evolution to degrade xenobiotics and in the distribution of cor- responding genes in a microbial community.the localization of genes conferring degradative traits on mges was frequently documented for various pesticide com- pounds de souza et al.
+Kornelia Smalla 1 Julius Kuhn-Institut Federal Research Centre for Cultivated Plants Institute for Epidemiology and Pathogen Diagnostics Messeweg 11-12 38104 Braunschweig Germany2 Faculty of Agriculture Cairo University Giza Egypt3 Division of Soil and Water Management Katholieke Universiteit Leuven 3001 Leuven BelgiumHorizontal gene transfer HGT events involving a mobile genetic element MGE appear to play a major role in bacterial evolution to degrade xenobiotics and in the distribution of cor- responding genes in a microbial community.The localization of genes conferring degradative traits on MGEs was frequently documented for various pesticide com- pounds de Souza et al.
 
-was done to test for statistically signif- icant differences d values between the fingerprints of bps and bps- at different sampling times.real-time pcr-based evaluation of total bacterial and pseudomonas-specific 16s rrna geneand incp-1-specific korb gene copy numbersbacterial 16s rrna gene copy numbers were determined by real-time pcr suzuki et al.
+was done to test for statistically signif- icant differences D values between the fingerprints of BPS and BPS- at different sampling times.Real-time PCR-based evaluation of total bacterial and Pseudomonas-specific 16S rRNA geneand IncP-1-specific korB gene copy numbersBacterial 16S rRNA gene copy numbers were determined by real-time PCR Suzuki et al.
 
-the korb gene copy numbers were related to the total 16s rrna gene copies rrn according to heuer et al.
+The korB gene copy numbers were related to the total 16S rRNA gene copies rrn according to Heuer et al.
 
-and therefore in the present study we mainly focused on changes in the abundance of genes encoding enzymes involved in the linuron degradation liba hyla dcaqi dcaqii and ccdc genes that were recentlydescribed for variovorax strains srs16 and wdl1 family comamonadaceae by bers et al.
+and therefore in the present study we mainly focused on changes in the abundance of genes encoding enzymes involved in the linuron degradation libA hylA dcaQI dcaQII and ccdC genes that were recentlydescribed for Variovorax strains SRS16 and WDL1 family Comamonadaceae by Bers et al.
 
-it is important to note that all degradative genes targeted in the present study except dcaqii were also detectable in the bps- and the linuron spike probably caused the proliferation of bacteria carrying these genes as they were able to utilizelinuron as a substrate.a strong increase in the abundance of incp-1 plasmids was observed in bps samples compared to bps- both by pcr- southern blot hybridization trfa and by qpcr korb confirming previously published data from field and micro- cosm studies that pointed to an involvement of incp-1 plas- mid-carrying bacteria in response to pesticide and linuron ap- plication respectively jechalke et al.
+It is important to note that all degradative genes targeted in the present study except dcaQII were also detectable in the BPS- and the linuron spike probably caused the proliferation of bacteria carrying these genes as they were able to utilizelinuron as a substrate.A strong increase in the abundance of IncP-1 plasmids was observed in BPS samples compared to BPS- both by PCR- Southern blot hybridization trfA and by qPCR korB confirming previously published data from field and micro- cosm studies that pointed to an involvement of IncP-1 plas- mid-carrying bacteria in response to pesticide and linuron ap- plication respectively Jechalke et al.
 
-amplicon sequencing of 16s ribosomal rna rrna gene fragments from tc-dna also allowed dealtry et al.
+Amplicon sequencing of 16S ribosomal RNA rRNA gene fragments from TC-DNA also allowed Dealtry et al.
 
-pcr amplification of bacte- rial 16s rrna gene fragments was performed using primers f984gc and r1378 as described by heuer et al.
+PCR amplification of bacte- rial 16S rRNA gene fragments was performed using primers F984GC and R1378 as described by Heuer et al.
 
-pcr amplification of the 16s rrna gene fragment ofpseudomonas or actinobacteria communities was done as described by weinert et al.
-
-pseudomonas 16s rrna gene copies were determined according to bergmark et al.
-
-the copy numbers of the incp-1-specific korb gene fragment were determined in tc-dna as described by jechalke et al.
-
-strains srs16 and wdl1 respectively while the ccdc gene encoding chlorocatechol 12-dioxygenase was identified in the srs16 strain bers et al.
-
-reported that the ccdc gene could not be amplified from wdl1 using the primers designed on the basis of the sequence of the ccdc gene in srs16 despite the pres- ence of the ccdrcfde gene cluster in the wdl1 strain.
-
-the main aim of this study was how- ever to monitor cultivation-independently by means of pcr amplification from tc-dna and subsequent southern blot anal- ysis the changes in abundance of the different linuron catabolic genes that were recently described in variovorax by bers et al.
+PCR amplification of the 16S rRNA gene fragment ofPseudomonas or Actinobacteria communities was done as described by Weinert et al.
 

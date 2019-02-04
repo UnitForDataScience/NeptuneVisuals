@@ -1,30 +1,20 @@
-developmental cell 5673-690. pmid ferjoux g auge' b boyer k haenlin m waltzer l. 2007. a gatarunx cis-regulatory module couples drosophila blood cell commitment and differentiation into crystal cells.
+E Relative expression TPM of tsetse odorant binding protein-encoding genes in GmmWT larvae and their differential expression measure as fold-change in gene expression in GmmWT compared to GmmApo larvae.
 
-cell host  microbe 15374-381.  pmid kondo s ueda r. 2013. highly improved gene targeting by germline-specific cas9 expression in drosophila.genetics 195715-721.  pmid kriventseva ev tegenfeldt f petty tj waterhouse rm sima o fa pozdnyakov ia ioannidis p zdobnov em.
+Obp6 expression can be restored in GmmApo larvae when their symbiont-cured moms are fed a diet supplemented specif- ically with Wigglesworthia cell extracts  thus demonstrating that expression of this gene is stimulated by a Wigglesworthia derived molecules.
 
-current biology 17649-654.  pmid larter nk sun js carlson jr. 2016. organization and function of drosophila odorant binding proteins.
+C Genes exhibiting significant differential expression measure as fold-change in gene expression in GmmWT compared to GmmApo larvae and a minimum TPM value of 1000.
 
-science 288146-149.  pmid lee wj miura m. 2014. mechanisms of systemic wound response in drosophila.
+Subsequent analysis of larval offspring from siRNA treated moms revealed that obp6 and lozenge expression was significantly reduced in siOBP6 compared to siGFP and siOBP6R larvae while serpent expression was similar in all individuals tested .
 
-cellular and molecular life sciences 67919-929.  pmid makhijani k bru ckner k. 2012. of blood cells and the nervous system hematopoiesis in the drosophila larva.
+As such odorant molecules derived from tsetse and Drosophila enteric microbes could modulate the expression of obp6 and obp28a in the gut of larval flies thus serving as the signal that activates hematopoiesis.In larval tsetse Wigglesworthia is found exclusively within the gut-bacteriome axis and obp6 expression is restricted to this same environment.
 
-cell 1511345-1357. pmid storelli g defaye a erkosar b hols p royet j leulier f. 2011. lactobacillus plantarum promotes drosophila systemic growth by modulating hormonal signals through tor-dependent nutrient sensing.
+Herein we demonstrate that the obligate mutualist Wigglesworthia up-regulates expression of odorant binding protein six in the gut of intrauterine tsetse larvae.
 
-gene 585177-190.  pmid vlisidou i wood w. 2015. drosophila blood cells and their role in immune responses.
+This process is necessary and sufficient to induce systemic expression of the hematopoietic RUNX transcription factor lozenge and the subsequent production of crystal cells which actuate the melanotic immune response in adult tsetse.
 
-frontiers in cellular and infection microbiology 369.  pmid weiss bl maltz m aksoy s. 2012. obligate symbionts activate immune system development in the tsetse fly.the journal of immunology 1883395-3403.  pmid weiss bl wang j aksoy s. 2011. tsetse immune system maturation requires the presence of obligate symbionts in larvae.
+We also dem- onstrate that Drosophila's indigenous microbiota regulates expression of an orthologousfunctionally conserved OBP-encoding gene.
 
-larval drosophila's indigenous microbiota which is acquired from the environment regulates an orthologous hematopoietic pathway in their host.
+Our findings detail a newly characterized evolutionarily conserved component of a blood cell differentiation regulatory pathway that occurs in response to the presence of enteric symbionts.ResultsEnteric symbionts stimulate expression of odorant binding protein 6 in intrauterine tsetse larvaeDrosophila hematopoiesis occurs primarily during early larval development  .
 
-we also dem- onstrate that drosophila's indigenous microbiota regulates expression of an orthologousfunctionally conserved obp-encoding gene.
-
-shown is a representative western blot analysis using drosophila anti-ppo1 and anti-ppo2 antibodies.
-
-taken together these results indicate that when intrauterine tsetse larvae express reduced levels of obp6 they present a dysfunctional melanization cascade during adulthood.obp6 mediates the crystal cell production pathway in larval tsetsein drosophila larvae a specific subset of hemocytes called crystal cells produce the majority of ppo.
-
-in drosophila this treatment indu- ces spontaneous activation of ppo in crystal cells which are then visible as black melanotic spots on the larval cuticle .
-
-these findings suggest that siobp6 larvae house either a reduced number of crystal cells or that thesecells exhibit a dysfunctional ppo pathway.in drosophila's lymph gland prohemocytes express the gata factor serpent and these cells sub- sequently differentiate into either functionally mature plasmatocyte phagocytic hemocytes or crys- tal cell lineages via induction of the hematopoietic transcription factors glial cells missing or lozenge respectively  .
-
-thus symbiont-induced obp6 regulates tsetse hematopoiesis on a sys- temic level.obp28a drosophila's orthologue of tsetse obp6 is also symbiont regulated and functionally conservedhematopoietic signaling pathways and their transcriptional regulators within the niche are function- ally conserved across many animal taxa   .
+RNA-seq analysis revealed that 1166 genes exhibited a differential expression profile in GmmWT compared to GmmApo larvae and approximately 76 of these genes were expressed at higher levels in GmmWT individuals  .
 

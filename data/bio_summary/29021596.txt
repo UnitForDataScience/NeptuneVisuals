@@ -1,18 +1,20 @@
-this study demonstrates that antifungal therapy could promote the evolution of c. albicans strains that are resistant to host immune defences.original article hampe i. a. i. et al.
+Using functional profiling methods the authors classified metabolic core pathways into universal microbiome-enriched and body site-enriched the latter being indicative of functional adaptation by the microbiota to a particular niche.
 
-an acquired mechanism of antifungal drug resistance simultaneously enables candida albicans to escape from intrinsic host defenses.
+Finally the authors characterized microbial and functional variation over time at different body sites.ORIGINAL ARTICLE Lloyd-Price J. Mahurkar A. et al.
 
-albicans adapts to environmental changes particularly in response to stresses such as antifungal treatment.
+Integration into the CRISPR locus is mediated by the CRISPR integrase a heterohexameric complex of four Cas1 and two Cas2 proteins and requires integration host factor IHF however how the integration complex recognizes the CRISPR locus is unknown.
 
-found that an acquired mechanism of antifungal resistance also enabled escape of host intrinsic immunity.
+The authors observed that mutant Mrr1 a transcription factor that upregulates the multidrug efflux pump MDR1 gene strains also caused the overexpression of FLU1 a gene that encodesan efflux pump that confers histatin 5 resistance.
 
-nature 2017bacterial ph ys iologymaking a memorycrispr-cas immune systems integrate short fragments of foreign dna into crispr arrays within the host genome as a record against future encounters.
+RESEARCH HIGHLIGHTS Nature Reviews Microbiology  Published online 12 Oct 2017IN BRIEFMICROBIOM EDiving deeper into the communitiesThe Human Microbiome Project has improved our understanding of microbial and functional diversity.
 
-integration into the crispr locus is mediated by the crispr integrase a heterohexameric complex of four cas1 and two cas2 proteins and requires integration host factor ihf however how the integration complex recognizes the crispr locus is unknown.
+now report an expanded data set from the study comprising 1631 new metagenomes 2355 total from diverse bodysites at multiple time points in 265 individuals.
 
-science 357 1113-1118 2017fungal physiologytwo for the price of onecandida albicans is an opportunistic pathogen that forms part of the commensal microbiota.
+Strain-level metagenomic profiles revealed body site-specific subspecies clades and the authors were able to quantify species with phylogenetic diversity that were under-represented in isolate genomes.
 
-for example gain-of-function mutations in fungal transcription factors confer new phenotypes and are a common cause of antifungal resistance.
+In a recent study Wright Liu et al.
 
-histatin 5 an antimicrobial peptide that is secreted in the saliva has fungicidal activity against c. albicans.
+reported structures of the full CRISPR locus integration complex.
+
+Structures of the CRISPR genome integration complex.
 

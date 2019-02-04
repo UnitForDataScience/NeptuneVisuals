@@ -1,30 +1,20 @@
-kf747018 psychrobacter sp.kf722342 uncultured psychrobacter sp.ln624621 halomonas titanicae kj416384 halomonas venusta otu halomonasjf499685 halomonas sp.otu pseudomonasln831950 pseudomonas taiwanensis1 kr054998 pseudomonas putida kc178587 pseudomonas oryzihabitansdq991194 xanthomonas axonopodis otu stenotrophomonaskm251298 stenotrophomonas sp.. fj482062 stenotrophomonas nitritireducens cr628336 legionella pneumophilae1 cr628337 legionella pneumophilaecarsonella ruddii sydneykt273280 carsonella ruddii mycopsylla ficigammaproteobacteria0.78carsonella ruddii brisbane carsonella ruddii lhi carsonella ruddii aucklandaf211145 carsonella ruddii panisopelma sp.af077606 carsonella ruddii pachypsylla venusta0.96otu enterococcus kp789119 enterococcus sp.
+KF747018 Psychrobacter sp.KF722342 Uncultured Psychrobacter sp.LN624621 Halomonas titanicae KJ416384 Halomonas venusta OTU HalomonasJF499685 Halomonas sp.OTU PseudomonasLN831950 Pseudomonas taiwanensis1 KR054998 Pseudomonas putida KC178587 Pseudomonas oryzihabitansDQ991194 Xanthomonas axonopodis OTU StenotrophomonasKM251298 Stenotrophomonas sp.. FJ482062 Stenotrophomonas nitritireducens CR628336 Legionella pneumophilae1 CR628337 Legionella pneumophilaeCarsonella ruddii SydneyKT273280 Carsonella ruddii Mycopsylla ficiGammaproteobacteria0.78Carsonella ruddii Brisbane Carsonella ruddii LHI Carsonella ruddii AucklandAF211145 Carsonella ruddii Panisopelma sp.AF077606 Carsonella ruddii Pachypsylla venusta0.96OTU Enterococcus KP789119 Enterococcus sp.
 
-brisbane lhi auckland sydney males sydney females and sydney nymphs 2 the population data which included only males of the four populations and 3 the sex and stage data which included only males females and nymphs from the sydney population.we calculated the relative abundance of each otu for ev- ery individual.
+Brisbane LHI Auckland Sydney males Sydney females and Sydney nymphs 2 the population data which included only males of the four populations and 3 the sex and stage data which included only males females and nymphs from the Sydney population.We calculated the relative abundance of each OTU for ev- ery individual.
 
-the latter showed that different populations of a single species harboured different microbiomes both in terms of diversity and relative abundance.in addition to their natural ranges many insect species are now found in new locations due to human activities such as global trade .
+The latter showed that different populations of a single species harboured different microbiomes both in terms of diversity and relative abundance.In addition to their natural ranges many insect species are now found in new locations due to human activities such as global trade .
 
-in contrast we hypothesised that m. fici from sydney brisbane and lord howe island lhi have different microbiomes likely due to the fact that they face a different climate and longer diver- gence time.
+In contrast we hypothesised that M. fici from Sydney Brisbane and Lord Howe Island LHI have different microbiomes likely due to the fact that they face a different climate and longer diver- gence time.
 
-3 relative sequence read abundance of the three major otus in a males of different populations and b different stages and sexes within the sydney population of m. fici.
+Here we aimed to assess 1 whether host popu- lation structure M. fici also defines geographic structure in microbiome diversity and composition 2 the effect of a re- cent M. fici introduction event to New Zealand and 3 the importance of host sex and developmental stages on bacterial symbiont communities.Materials and MethodsInsect Sampling and 16S Ribosomal DNA Amplicon SequencingFor this microbiome study we chose eight individual males from each of four populations which are Sydney LHI and Brisbane all in the natural range in Australia and Auckland New Zealand Table S1.
 
-we also observed differences in relative sequence read abundance of the three main otus between m. fici populations that add insight on the colonisa- tion history of this host species.stream-lined microbiomethe three main endosymbionts recovered carsonella an un- named s-endosymbiont and wolbachia confirmed the find- ings of a previous analysis using shotgun sequencing of total genomic dna from two species of mycopsylla .
+The is- land and mainland populations have likely two different strains and these could cause cytoplasmic incompatibilities between the mainland and LHI populations potentially adding an additional barrier beyond the 600 km of ocean dispersal barrier to gene flow between mainland and LHI populations and enhancing the conditions for speciation of the LHI population.Variation in relative sequence read abundanceAlthough bacterial diversity did not differ between popula- tions we found differences in relative sequence read abun- dances.
 
-here we aimed to assess 1 whether host popu- lation structure m. fici also defines geographic structure in microbiome diversity and composition 2 the effect of a re- cent m. fici introduction event to new zealand and 3 the importance of host sex and developmental stages on bacterial symbiont communities.materials and methodsinsect sampling and 16s ribosomal dna amplicon sequencingfor this microbiome study we chose eight individual males from each of four populations which are sydney lhi and brisbane all in the natural range in australia and auckland new zealand table s1.
+681297-1309. doiTamames J Gil R Latorre A et al 2007 The frontier between cell and organelle genome analysis of Candidatus Carsonella ruddii.
 
-681297-1309. doitamames j gil r latorre a et al 2007 the frontier between cell and organelle genome analysis of candidatus carsonella ruddii.
+doiNakabachi A Yamashita A Toh H et al 2006 The 160-kilobase genome of the bacterial endosymbiont Carsonella.
 
-doinakabachi a yamashita a toh h et al 2006 the 160-kilobase genome of the bacterial endosymbiont carsonella.
+231433- 1444. doiCapinha C Essl F Seebens H et al 2015 The dispersal of alien species redefines biogeography in the Anthropocene.
 
-the pairwise comparison of sydney and auckland was not statistically different amova f  3.3 p  0.1. three otus wolbachia s-endosymbiont and carsonella were responsible for the sample groupings along the pcoa axes.
-
-ruddii s-endosymbiontwolbachiabacterial endosymbiontabundance of carsonella multiplied by 100. means with different letters were significantly different using kruskal-wallis testsfig.
-
-various insect species  tiger mosquito  black soldier fly .grenier et al.
-
-the p-endosymbiont carsonella was acquired from a single infection event100-250 mya followed by long-term co-speciation   as proven by the observation of co-cladogenesis be- tween host species and carsonella .
-
-other studies of insect microbiomes using different regions of the 16s rdna gene and different primer sets such as the v4 region  or the v6- v7 regions  have found higher percentages 51-65 and 10-72 of carsonella reads amongst their microbial se- quences than we did here.
-
-16214-218. doigueguen g vavre f gnankine o et al 2010 endosymbiont metacommunities mtdna diversity and the evolution of the bemisia tabaci hemiptera aleyrodidae species complex.
+The P-endosymbiont Carsonella was acquired from a single infection event100-250 Mya followed by long-term co-speciation   as proven by the observation of co-cladogenesis be- tween host species and Carsonella .
 

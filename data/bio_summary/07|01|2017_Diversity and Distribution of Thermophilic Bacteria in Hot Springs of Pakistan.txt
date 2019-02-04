@@ -1,30 +1,20 @@
-similarly cultures of genus fervidobacterium of the order thermotogales have been isolated from mae fang national park thailand  and changbai mountain china  where the average temperature of the sampling sites is above 80 degc.aquificae otus belonging to the phylum aquificae were predominantly detected in tf-h2-a 91 otus with the most dominant species being sulfurihydrogenibiumuc 59 otus.
+Similarly cultures of genus Fervidobacterium of the order Thermotogales have been isolated from Mae Fang National Park Thailand  and Changbai Mountain China  where the average temperature of the sampling sites is above 80 degC.Aquificae OTUs belonging to the phylum Aquificae were predominantly detected in TF-H2-a 91 OTUs with the most dominant species being Sulfurihydrogenibiumuc 59 OTUs.
 
-otus of phylum actinobacteria were most abundant in tp-h3-b but were comparatively less than the number of otus detected in nccp-h1 fig.
+OTUs of phylum Actinobacteria were most abundant in TP-H3-b but were comparatively less than the number of OTUs detected in NCCP-H1 Fig.
 
-at sites with low silica and high temperature otus belonging to phylum chloroflexi were dominant.
+At sites with low silica and high temperature OTUs belonging to phylum Chloroflexi were dominant.
 
-about 40 of the total otus obtained from these samples were unclassified or uncharacterized suggesting the presence of many undis- covered and unexplored microbiota.
+About 40 of the total OTUs obtained from these samples were unclassified or uncharacterized suggesting the presence of many undis- covered and unexplored microbiota.
 
-operational taxonomic units otus were defined by using the cd-hit program  ata similaritytable 1metadata for total number of reads and dropped reads of all samplesforward primer gagtttgatcmtggctcag reverse primer wttaccgcggctgctggnccp national culture collection pakistan tf tato field tp tatta pani ma murtazaabad h hot springcutoff level of 97. two-way analysis of variance anova on microbial diversity indices and relative sequence abundances of important phyla against physicochemical properties was per- formed.
+Operational taxonomic units OTUs were defined by using the CD-HIT program  ata similarityTable 1Metadata for total number of reads and dropped reads of all samplesForward primer GAGTTTGATCMTGGCTCAG reverse primer WTTACCGCGGCTGCTGGNCCP National Culture Collection Pakistan TF Tato Field TP Tatta Pani MA Murtazaabad H hot springcutoff level of 97.
 
-at 97 otu level the quality reads can be distrib- uted into 5535 otus consisting of 972 microbial genera in 53 phyla table s1 see also figs.
+At 97 OTU level the quality reads can be distrib- uted into 5535 OTUs consisting of 972 microbial genera in 53 phyla Table S1 see also Figs.
 
-among the hot spring samples the highest number of otus for phylum proteobacteria was observed in tp-h3-b and the least in tp-h3-c. the sample tp-h3-b along with control nccp-h1 formed a separate cluster far from samples tp-h3-a and tp-h3-c. this feature may be attributed to the fact that sample tp-h3-b has the lowest temperature 60 degc among all the other sampling sites which might be a feasible temperature for growth of bacteria belonging to phy- lum proteobacteria fig.
+Among the hot spring samples the highest number of OTUs for phylum Proteobacteria was observed in TP-H3-b and the least in TP-H3-c.
 
-at the species level otus belonging to anaerolinaceaeucs were present in tp-h3-c and tf-h2-b and taxonomically unclassified species in ma- h4-a and ma-h4-b fig.
+At the species level OTUs belonging to Anaerolinaceaeucs were present in TP-H3-c and TF-H2-b and taxonomically unclassified species in MA- H4-a and MA-H4-b Fig.
 
-b. for the sample tf-h2-b 29 of bacteria 759 species were constituted by phylum chloroflexi of which 89 belonged to class anaerolineae and the remaining 11 consisted of unclassified otus table s1.
+For the sample TF-H2-b 29 of bacteria 759 species were constituted by phylum Chloroflexi of which 89 belonged to class Anaerolineae and the remaining 11 consisted of unclassified OTUs Table S1.
 
-among the tatta pani hot spring samples tp- h3-a at 75 degc yielded 538 otus belonging to phylum chloroflexi of which 443 belonged to class anaerolineae.
-
-the sample tp-h3-b at 60 degc with 259 chloroflexi otus was the least among other sites.
-
-the sample tp-h3-c at 90 degc had 1062 otus belonging to phylum chloroflexi.
-
-the majority of these otus 934 in total were comprised of class anaerolineae table s1.otus for phylum thermotogae were most abundant in tf-h2-a and ma-h4-a and least in tp-h3-a and tp-h3-b fig.
-
-2 heat map indicating the clustering of otus retrieved from the hot spring samples.
-
-the color indicates the relative abundance of otus in the samples.
+Among the Tatta Pani hot spring samples TP- H3-a at 75 degC yielded 538 OTUs belonging to phylum Chloroflexi of which 443 belonged to class Anaerolineae.
 

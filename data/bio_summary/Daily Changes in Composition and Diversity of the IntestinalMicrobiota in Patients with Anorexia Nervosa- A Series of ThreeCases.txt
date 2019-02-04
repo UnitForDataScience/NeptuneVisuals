@@ -1,30 +1,20 @@
-we characterized daily changes in the intestinal microbiota in three acutely ill patients with anorexia nervosa over the entire course of hospital-based renourishment and found significant patient-specific changes in microbial composition and diversity.
+Structured Clinical Interview for DSM-IV-TR Axis I Disorders Research Version Patient ed.. New York New York State Psychiatric Institute.Haegeman B. Hamelin J. Moriarty J. Neal P. Dushoff J.  Weitz J. S. 2013.
 
-we therefore i characterized daily changes in composition and diversity of the intestinal microbiota in three patients with acute an during hospital-based renourishment and ii identified enteric bacterial groups associated with metabolic changes during treatment.methodsthe study was approved by the biomedical institutional review board at the university of north carolina at chapel hill unc.
+Tsilimigras4 Anthony A. Fodor4 Cynthia M. Bulik256  Ian M. Carroll231APC Microbiome Institute University College Cork Cork Ireland2Department of Nutrition The University of North Carolina at Chapel Hill Chapel Hill NC USA3Department of Medicine The University of North Carolina at Chapel Hill Chapel Hill NC USA4Department of Bioinformatics and Genomics The University of North Carolina at Charlotte Charlotte NC USA5Department of Psychiatry The University of North Carolina at Chapel Hill Chapel Hill NC USA6Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm SwedenAbstractAnorexia nervosa a severe psychiatric illness is associated with an intestinal microbial dysbiosis.
 
-we may have been underpowered to detect changes in more complex longitudinal models but this does not rule out possible associations between changes in microbial composition and diversity and changes in bmi dietary intake or psycho- pathology.
+Caporaso J. G. Kuczynski J. Stombaugh J. Bittinger K. BushmanF.
 
-future work should aim to elucidate temporal changes to the intestinal microbiome during renourishment and associated changes in metabolic activity which will increase understanding of host- microbial dynamics during treatment and could help explainpersistence of weight dysregulation and metabolic changes in individuals who have recovered from an.acknowledgementsthis study was funded by the foundation of hope the unc center of excellence for eating disorders board of visitors fund and tj's fund for eating disorders research academy for eating disorders bulik principal investigator and partially supported by a k01 dk 092330 an r01 mh 105684 and a cgibd pilot feasibility grant p30dk03498 awarded to dr. carroll.
+7.Werner J. J. Zhou D. Caporaso J. G. Knight R.  Angenent L.T.
 
-brief reportdaily changes in composition and diversity of the intestinal microbiota in patients with anorexia nervosa a series of three casessusan c. kleiman12 elaine m. glenny2 emily c. bulik-sullivan3 eun young huh3 matthew c.b.
+We characterized daily changes in the intestinal microbiota in three acutely ill patients with anorexia nervosa over the entire course of hospital-based renourishment and found significant patient-specific changes in microbial composition and diversity.
 
-during renourishment patients with an are prescribed increasing energy intake levels to achieve a target rate of weight gain and often traverse a hypermetabolic period schebendach golden jacobson hertz  shenker 1997. we know little about changes to the intestinal microbiota during this metabolic transition.
+We therefore i characterized daily changes in composition and diversity of the intestinal microbiota in three patients with acute AN during hospital-based renourishment and ii identified enteric bacterial groups associated with metabolic changes during treatment.MethodsThe study was approved by the Biomedical Institutional Review Board at the University of North Carolina at Chapel Hill UNC.
 
-1997. total physical activity expenditure and active energy expenditure were stable during inpatient treatment but increased substantially in patients a and b in partial hospitalization likely reflecting unsanctioned increases in physical activity during time off- unit.in all patients we observed significant changes in composition and diversity of the intestinal microbiota over time at the phylum n  4 class n  8 order n  14 family n  28 and genus n  68 levels figure 1 after fdr correction table s2.
+We may have been underpowered to detect changes in more complex longitudinal models but this does not rule out possible associations between changes in microbial composition and diversity and changes in BMI dietary intake or psycho- pathology.
 
-weekly changes in ree diet- induced thermogenesis and active energy expenditure were also highly correlated with duration of hospitalization and did not generate significant associations with composition or diversity of the intestinal microbiota.discussionthese results support earlier assertions that individuals do not share a core microbiota but rather house unique microbial communities that experience periods of both high variability and relative stability--due to intrinsic and extrinsic factors david et al.
+Future work should aim to elucidate temporal changes to the intestinal microbiome during renourishment and associated changes in metabolic activity which will increase understanding of host- microbial dynamics during treatment and could help explainpersistence of weight dysregulation and metabolic changes in individuals who have recovered from AN.AcknowledgementsThis study was funded by the Foundation of Hope the UNC Center of Excellence for Eating Disorders Board of Visitors Fund and TJ's Fund for Eating Disorders Research Academy for Eating Disorders Bulik Principal Investigator and partially supported by a K01 DK 092330 an R01 MH 105684 and a CGIBD pilot feasibility grant P30DK03498 awarded to Dr. Carroll.
 
-2005. in measuring metabolic changes on a weekly--rather than daily--basis we may have also been underpowered to detect associations with microbial measures despite evidence supporting a role for the intestinal microbiota in metabolic function and dietary energy extraction.
+McCafferty J. Muhlbauer M. Gharaibeh R. Z. Arthur J. C. Perez- Chanona E. Sha W. et al.
 
-2012. last our analysis focused on taxonomic and diversity measures which describes microbial composition but does not account for functional impact.in examining composition and diversity of the intestinal microbiota in three patients undergoing treatment for an wefound significant patient-specific changes during hospital-based renourishment.
-
-copyright c 2017 john wiley  sons ltd and eating disorders association.received 12 april 2017 accepted 22 april 2017keywordsanorexia nervosa intestinal microbiota gut-brain-microbiota axis clinical refeedingcorrespondence dr. ian m. carroll department of medicine university of north carolina at chapel hill 7330 mbrb 111 mason farm road cb 7032 chapel hill nc 27599-7032 usa.
-
-2015.the intestinal microbiota which influences gut motility physiology and energy regulation nieuwdorp gilijamse pai  kaplan 2014 warrants investigation for improving an treatment.
-
-2015. we have documented changes in the intestinalmicrobiota in patients with acute an between hospital admission for renourishment and discharge kleiman et al.
-
-2015 and now provide granular longitudinal exploration of changes over the course of treatment.although individual microbial signatures dominate in healthy samples even over time and under controlled conditions intestinal microbial dysbiosis is associated with many pathologies marchesi et al.
-
-therapeutic renourishment in an generate consistent response in the intestinal microbiota or inter-individual varia- tion predominates in pathologic microbiotas is unknown.
+Wang Q. Garrity G. M. Tiedje J. M.  Cole J. R. 2007.
 

@@ -1,30 +1,20 @@
-these 35 genes included 15 metabolic genes 8 genes related to regulation for transcription translation or post-translational modifica- tion and 3 genes implicated in antibiotic resistance all of which encode efflux pump components.
+These 35 genes included 15 metabolic genes 8 genes related to regulation for transcription translation or post-translational modifica- tion and 3 genes implicated in antibiotic resistance all of which encode efflux pump components.
 
-species of group 5 carried more resistance genes than other species fisher's exact test p  0.0003 namely for resistance against aminoglycosides six additional genes beta-lactams six additional genes chloramphenicol three additional genes and sulfonamides two additional genes.some of these results clarified observations from previous gene-specific pcr-based studies.
+Species of group 5 carried more resistance genes than other species Fisher's exact test P  0.0003 namely for resistance against aminoglycosides six additional genes beta-lactams six additional genes chloramphenicol three additional genes and sulfonamides two additional genes.Some of these results clarified observations from previous gene-specific PCR-based studies.
 
-more specifically the goals were to 1 resolve the taxonomic uncertainties of the genus and 2 identify virulence-associated genes antimicrobial resis- tance genes and other genomic features associated with pathogenicity and host adaptation.
+More specifically the goals were to 1 resolve the taxonomic uncertainties of the genus and 2 identify virulence-associated genes antimicrobial resis- tance genes and other genomic features associated with pathogenicity and host adaptation.
 
-in order to determine whether this information was consistent with the core genome phylogeny we used a binary matrix of presenceab- sence for all flexible genes that is nonunique accessory genes.
+In order to determine whether this information was consistent with the core genome phylogeny we used a binary matrix of presenceab- sence for all flexible genes that is nonunique accessory genes.
 
-contains descriptions and accession numbers for these four genomes along with assembly statistics.phylogenetic reconstructionpan-genome analysis on 59 achromobacter genomes re- vealed that the gene inventory of this genus contained a total of 26365 genes 12272 were unique to specific ge- nomes 12252 were shared among two or more genomes flexible genes and 1841 represented the conserved core genome 31.6 of an average genome.
+contains descriptions and accession numbers for these four genomes along with assembly statistics.Phylogenetic ReconstructionPan-genome analysis on 59 Achromobacter genomes re- vealed that the gene inventory of this genus contained a total of 26365 genes 12272 were unique to specific ge- nomes 12252 were shared among two or more genomes flexible genes and 1841 represented the conserved core genome 31.6 of an average genome.
 
-moreover two pos- itively selected genes were involved in nitrogen metabolism one directly and the other indirectly by being implicated in the synthesis of molybdenum cofactor moco which is essential for molybdoenzymes such as nitrate reductase.pan-genome and accessory genome diversitya large part of the pan-genome resides in the accessory genome that is genes that are not conserved among isolates.
+Moreover two pos- itively selected genes were involved in nitrogen metabolism one directly and the other indirectly by being implicated in the synthesis of molybdenum cofactor MoCo which is essential for molybdoenzymes such as nitrate reductase.Pan-Genome and Accessory Genome DiversityA large part of the pan-genome resides in the accessory genome that is genes that are not conserved among isolates.
 
-for most virulence factor categories namely the type iii secretion system t3ss endotoxins and proteases associated genes were more common but not exclusive to group 5.resistome and mobilomein order to further characterize clinically relevant genomic fea- tures in achromobacter we identified genes associated with antibiotic resistance .
+For most virulence factor categories namely the type III secretion system T3SS endotoxins and proteases associated genes were more common but not exclusive to group 5.Resistome and MobilomeIn order to further characterize clinically relevant genomic fea- tures in Achromobacter we identified genes associated with antibiotic resistance .
 
-considering that lateral gene transfer is a major mechanism in the evolution of resis- tance pathogenicity and virulence in bacteria   we decided to investigate mobile genetic material in a more formal manner using two independent approaches.first we searched for modules of contiguous genes 2 5 genes located in the same strand that matched entries of the ncbi plasmid database.
+Considering that lateral gene transfer is a major mechanism in the evolution of resis- tance pathogenicity and virulence in bacteria   we decided to investigate mobile genetic material in a more formal manner using two independent approaches.First we searched for modules of contiguous genes 2 5 genes located in the same strand that matched entries of the NCBI plasmid database.
 
-the taxonomic content of this tree has much in common with where outermost taxa names were removed for claritytable 3virulence-associated genes in achromobacter speciesvirulence genesaspeciesbacetyltransferase ec 2.3.1.201 invasionchemotaxis regulator--transmits chemoreceptor signals to flagelllar motor components chey146626flagellar motor switch protein flin2protease serine proteasesecretion invasion motilityavirulence-associated genes were extracted from patric  using a combination of databases victors and vfdb.bspecies were determined based on previous core genome phylogeny total number of genomes per species is indicated between parentheses.fig.
+Metabolic genes are often identified in screening approaches aimed at finding genes implicated in virulence but even though metabolism and virulence are known to be intimately linked understanding of detailed mechanisms is extremely limited  .
 
-metabolic genes are often identified in screening approaches aimed at finding genes implicated in virulence but even though metabolism and virulence are known to be intimately linked understanding of detailed mechanisms is extremely limited  .
-
-especially among genes that were more common among clinical isolates we identified multiple hypothetical proteins highlighting the fact that genes with unknown function may play very important roles.
-
-first using all publicly available genomes a combination of phylogenetic analysis based on 1780 conserved genes with average nucleotide identity and accessory genome composition allowed the identi- fication of a largely clinical lineage composed of achromobacter xylosoxidans achromobacter insuavis achromobacter dolens and achromobacter ruhlandii.
-
-within this lineage we identified 35 positively selected genes involved in metabolism regulation and efflux-mediated antibiotic resistance.
-
-second resistome analysis showed that this clinical lineage carried additional antibiotic resis- tance genes compared with other isolates.
-
-genes were considered as orthologous when they shared at least 50 identity over 85 of their length.
+Especially among genes that were more common among clinical isolates we identified multiple hypothetical proteins highlighting the fact that genes with unknown function may play very important roles.
 

@@ -1,30 +1,20 @@
-these results suggest that the induction of mir-21-5p expression by bacterial stimu- lation is mediated by tlrs.mir-21-5p affects intestinal epithelial permeability but not il-8 production from iecsto clarify the role of mir-21-5p in iecs we analyzed the effect of the mir-21-5p locked nucleic acid lna inhibitor on intestinal epithelial permeability using filter-grown caco-2 cells as an intestinal epithelial monolayer model.
+Because the expression of ARF4 and miR-21-5p appears to increase intestinal epithelial permeability it is possible that ARF4 is under the control of miR-21-5p but not directly down- regulated by this miRNA.
 
-1d.commensal bacteria induce mir-21-5p expression in iecswe next investigated the expression of mir-21-5p which was identified as a potential microbiota-dependent mirna by microarray analysis in siecs and liecs of cv and gf mice by qrt-pcr.
+The finding that both ARF4 and miR-21-5p were induced by the microbiota in LIECs also supports the hypothesis that ARF4 is not a direct target of miR-21-5p.
 
-these results confirmed that mir-21-5p expres- sion in iecs was induced by commensal bacteria.furthermore we investigated the regulatory mechanism of mir-21-5p expression in the human iec lines ht-29 sw480 and caco-2.
+Because proteome analysis revealed that ARF4 expression was increased by the miR-21-5p inhibitor we hypothesized that ARF4 is a direct target of miR-21-5p which decreases intestinal epithelial permeability.
 
-treatment with anti-tlr4 antibody inhibited the lps-induced expression of mir-21-5p p  0.130. in addition the anti-tlr2 antibody partially inhibited the induction of mir-21-5p expression by p3csk4 .
+These results suggest that the induction of miR-21-5p expression by bacterial stimu- lation is mediated by TLRs.miR-21-5p affects intestinal epithelial permeability but not IL-8 production from IECsTo clarify the role of miR-21-5p in IECs we analyzed the effect of the miR-21-5p locked nucleic acid LNA inhibitor on intestinal epithelial permeability using filter-grown Caco-2 cells as an intestinal epithelial monolayer model.
 
-these results indicate that mir-21-5p in iecs is involved inabcv gf0.01 0.1 1 0.1 110100 100  mgml nonelpsp3csk4ba ljcd0.01 0.1 1 0.1 110100 100  mgml 0.01 0.1 1 0.1 110100 100  mgml nonelpsp3csk4ba ljnonelpsp3csk4ba ljfigure 2. mir-21-5p expression in iecs is induced by bacterial components.
+One of these spots was identified by MS-MS analysis as ARF4 which was deemed a candidate target molecule of miR-21-5p in IECs as it had 9-fold higher expression in the presence of miR-21-5p inhibitor than in the presence of the control Fig.
 
-p  0.05  p  0.01 versus cells without stimulation.the regulation of intestinal epithelial permeability but not il-8 production upon bacterial stimulation.mir-21-5p increases intestinal epithelial permeability via arf4to identify the mechanisms underlying the modulation of intestinal epithelial permeability by mir-21-5p a proteome analysis was performed on cells treated with mir-21-5p lna inhibitor or control lna.
+1D.Commensal bacteria induce miR-21-5p expression in IECsWe next investigated the expression of miR-21-5p which was identified as a potential microbiota-dependent miRNA by microarray analysis in SIECs and LIECs of CV and GF mice by qRT-PCR.
 
-one of these spots was identified by ms-ms analysis as arf4 which was deemed a candidate target molecule of mir-21-5p in iecs as it had 9-fold higher expression in the presence of mir-21-5p inhibitor than in the presence of the control fig.
+These results confirmed that miR-21-5p expres- sion in IECs was induced by commensal bacteria.Furthermore we investigated the regulatory mechanism of miR-21-5p expression in the human IEC lines HT-29 SW480 and Caco-2.
 
-because the expression of arf4 and mir-21-5p appears to increase intestinal epithelial permeability it is possible that arf4 is under the control of mir-21-5p but not directly down- regulated by this mirna.
+These results indicate that miR-21-5p in IECs is involved inABCV GF0.01 0.1 1 0.1 110100 100  mgml NoneLPSP3CSK4BA LJCD0.01 0.1 1 0.1 110100 100  mgml 0.01 0.1 1 0.1 110100 100  mgml NoneLPSP3CSK4BA LJNoneLPSP3CSK4BA LJFigure 2. miR-21-5p expression in IECs is induced by bacterial components.
 
-the finding that both arf4 and mir-21-5p were induced by the microbiota in liecs also supports the hypothesis that arf4 is not a direct target of mir-21-5p.
+p  0.05  p  0.01 versus cells without stimulation.the regulation of intestinal epithelial permeability but not IL-8 production upon bacterial stimulation.miR-21-5p increases intestinal epithelial permeability via ARF4To identify the mechanisms underlying the modulation of intestinal epithelial permeability by miR-21-5p a proteome analysis was performed on cells treated with miR-21-5p LNA inhibitor or control LNA.
 
-however a previous report has shown that mir-21 is induced by lps in a myd88-dependent manner 21. recently it has been reported that mir-21 is highly expressed in inflamed tissues in diseases such as cancer and ibd 22 23. because these diseases are known to be associated with dysbio- sis of intestinal microbiota our results suggest that mir-21-5p may become a useful marker for inflammatory diseases associ- ated with intestinal dysbiosis.although mir-21-5p is expressed at a physiological level in iecs of cv mice it does not induce severe inflammation under steady-state conditions.
-
-because proteome analysis revealed that arf4 expression was increased by the mir-21-5p inhibitor we hypothesized that arf4 is a direct target of mir-21-5p which decreases intestinal epithelial permeability.
-
-to elucidate whether microrna plays a role in commensal microbiome-dependent intestinal epithelial bar- rier regulation we compared transcripts in intestinal epithelial cells iecs from conventional and germ-free mice and found that commensal bacteria induced the expression of mir-21-5p in iecs.
-
-mir-21-5p increased intestinal epithelial permeability and up-regulated adp ribosylation factor 4 arf4 a small gtpase in the iec line caco-2.
-
-we also found that arf4 expression was up-regulated upon suppression of phosphatase and tensin homolog pten and programmed cell death 4 pdcd4 which are known mir-21-5p targets by rnai.
-
-these results indicate that commensal microbiome- dependent mir-21-5p expression in iecs regulates intestinal epithelial permeability via arf4 which may therefore represent a target for preventing or managing dysfunction of the intestinal epithelial barrier.large numbers of commensal bacteria inhabit the intestinal tract and modulate various host physiological functions as well as help digestion and the absorption of dietary components 1. dysbiosis of the intestinal microbiota is involved in diverse diseases such as inflammatory bowel disease ibd2 and food allergies 2. these diseases are accompanied by exces-sive immune activation and disruption of mucosal barrier function leading to the induction or aggravation of inflammation.iecs which play an important role in the absorption of nutri- ents separate the intestinal lumen from the intestinal contents.
+Because these diseases are known to be associated with dysbio- sis of intestinal microbiota our results suggest that miR-21-5p may become a useful marker for inflammatory diseases associ- ated with intestinal dysbiosis.Although miR-21-5p is expressed at a physiological level in IECs of CV mice it does not induce severe inflammation under steady-state conditions.
 

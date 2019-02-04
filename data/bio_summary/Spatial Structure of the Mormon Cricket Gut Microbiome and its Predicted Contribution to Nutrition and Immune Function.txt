@@ -1,30 +1,20 @@
-finally our phylogenetic analysis of cultured isolates found that mormon cricket gut bacteria are closely related to bacteria associated with plants or the guts of other animals suggesting that gut bacteria are either acquired from the environment in each generation or have not been restricted to mormon crickets over appreciable periods of evolutionary time.our finding that bacterial abundance is lower in the midgut is in agreement with reports from other orthopterans      and termites    and has been attributed to characteristics that make the midgut less hospitable to bacteria than other regions of the alimentary tract  .
+Lanan M. C. Rodrigues P. A. P. Agellon A. Jansma P. and Wheeler D. E. 2016.
 
-pediococcus in the midgut could provide immunological or nutritional benefits to mormon crickets as has been shown for p. acidilactici in other animals   .
+The Mormon cricket midgut was populated by lactic- acid bacteria with Pediococcus specifically exhibiting greater relative abundance in the midgut and hindgut than in the foregut.
 
-the mormon cricket midgut was populated by lactic- acid bacteria with pediococcus specifically exhibiting greater relative abundance in the midgut and hindgut than in the foregut.
+Cintas L. M. Casaus M. P. Herranz C. Nes I. F. and Hernandez P. E. 2001. Review bacteriocins of lactic acid bacteria.
 
-gut microbes 6 214-220. lanan m. c. rodrigues p. a. p. agellon a. jansma p. and wheeler d. e. 2016. a bacterial filter protects and structures the gut microbiome of an insect.
+54 1174-1181.Oksanen J. Blanchet F. G. Kindt R. Legendre P. Minchin P. R. O'Hara R. B. et al.
 
-this suggests that lactate production and antibiotic resistance could play a role in microbe-microbe interactions in the mormon cricket gut microbiome.phylogenetic analysis of cultured isolatesthirteen strains were cultured from the mormon cricket gut based on 99 sequence similarity of their near full-length 16s rrna genes mean sd 1406 30 bp.
+Quast C. Pruesse E. Yilmaz P. Gerken J. Schweer T. Yarza P. et al.
 
-like other studies   however the 16s rrna gene did not have enough signal to resolve relationships among enterobacter and its relatives data not shown so we present a simpler phylogeny with the mormon cricket isolates and type strains from the family .we found that our mormon cricket isolates were interspersed with enterobacter klebsiella and escherichia type strains.
+lactic-acid bacterium associated with the foregut Pediococcus lactic-acid bacteria associated with the midgut and P. agglomerans an enteric bacterium was found in association with the hindgut.
 
-acidilactici 1 phylotype sequenced using the illumina platform in this study and with the p. acidilactici 102222 phylotype associated with variation in mating status in mormon crickets  .
+Inspection of the plots from laboratory animals where the ileum and rectum of the hindgut were dissected separately indicate that P. agglomerans is relatively more abundant in the rectum while the composition of the ileum which is separated from the rectum by the colon closely resembled that of the midgut Supplementary Figure S2.Univariate analyses of these three groups largely confirmed the pattern in the ordination  and Supplementary Figure S3.
 
-similar to p. acidilactici these lactobacillus had high sequence similarity 99.5 to other members of the clade and a short branch length indicating that while it is distinct enough to form its own clade they are closely related to environmental sources of lactobacillus at the 16s rrna locus.our genbank search for lactobacillus isolated from insect guts found sequences from ants bees termites and fruit flies all of which fell into a different clade than lactobacillus isolated from mormon crickets.
+Pediococcus in the midgut could provide immunological or nutritional benefits to Mormon crickets as has been shown for P. acidilactici in other animals   .
 
-56 268-277. srygley r. b. and lorch p. d. 2011. weakness in the band nutrient- mediated trade-offs between migration and immunity of mormon crickets anabrus simplex.
+Finally our phylogenetic analysis of cultured isolates found that Mormon cricket gut bacteria are closely related to bacteria associated with plants or the guts of other animals suggesting that gut bacteria are either acquired from the environment in each generation or have not been restricted to Mormon crickets over appreciable periods of evolutionary time.Our finding that bacterial abundance is lower in the midgut is in agreement with reports from other orthopterans      and termites    and has been attributed to characteristics that make the midgut less hospitable to bacteria than other regions of the alimentary tract  .
 
-sample sizes are foregut n  11 midgut n  11 and hindgut n  9. p  0.05 p  0.01 p  0.001.such as hydrogen peroxide and bacteriocins  .a previous study found that sexual interactions in mormon crickets influences the relative abundance of three pediococcus phylotypes   however spatial information on where in the gut pediococcus is located has been unavailable until now.
-
-22 394-400. callahan b. j. mcmurdie p. j. rosen m. j. han a. w. johnson a. j. a. and holmes s. p. 2016. dada2 high-resolution sample inference from illumina amplicon data.
-
-aquaculture 294 306-313. cintas l. m. casaus m. p. herranz c. nes i. f. and hernandez p. e. 2001. review bacteriocins of lactic acid bacteria.
-
-54 1174-1181.oksanen j. blanchet f. g. kindt r. legendre p. minchin p. r. o'hara r. b. et al.
-
-bioinformatics 28 1823-1829. quast c. pruesse e. yilmaz p. gerken j. schweer t. yarza p. et al.
-
-lactic-acid bacterium associated with the foregut pediococcus lactic-acid bacteria associated with the midgut and p. agglomerans an enteric bacterium was found in association with the hindgut.
+The first clade was comprised of P. acidilactici isolates derived from environmental sources such as plants and various human foodstuffs as well as strains from the human gut.
 

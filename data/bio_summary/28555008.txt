@@ -1,30 +1,20 @@
-gut microbiota has emerged as a mediator in this interaction providing new mechanistic insights at the interface between fat metabolism dysregulation and obesity development.
+Furukawa S. Fujita T. Shimabukuro M. Iwaki M. Yamada Y. Nakajima Y. Nakayama O. Makishima M. Matsuda M. Shimomura I.
 
-our aim was to analyze the interrelationship among obesity diet oxidative stress inflammation and the intestinal microbiota in 68 healthy adults 29.4 normal-weight.
+Million M. Maraninchi M. Henry M. Armougom F. Richet H. Carrieri P. Valero R. Raccah D. Vialettes B. Raoult D. Obesity-associated gut microbiota is enriched in Lactobacillus reuteri and depleted in Bifidobacterium animalis and Methanobrevibacter smithii.
 
-the intestinal microbiota was assessed by quantitative pcr fecal short chain fatty acids by gas chromatography and serum biomarkers by standard protocols.
+Contreras M. Magris M. Hidalgo G. Baldassano R.N.
 
-these results could be useful for designing strategies targeted to obesity prevention.keywords oxidative stress microbiota obesity antioxidant western dietintroductionthe prevalence of obesity is growing worldwide with nearly half a billion of the world's population considered to be overweight.
+Fau-Mahanonda N. Mahanonda N. Fau-Berk M. Berk M. Multiple aberrations in shared inflammatory and oxidative  nitrosative stress IONS pathways explain the co-association of depression and cardiovascular disorder CVD and the increased risk for CVD and due mortality in depressed patients.
 
-however there are still factors in this equation such as the gut microbiota whose contribution remains to be fully elucidated.
+Deboni M. Obesity The greatest epidemic of the 21st century Sao Paulo Med.
 
-it has been proposed that the reduction of carbohydrates accessible to gut microbes from fiber-containing foodstuffs may result in a long-term reduction of microbiota diversity and in the appearance of unhealthy microbiomes -.
+Smits S.A. Tikhonov M. Higginbottom S.K.
 
-in this regard it is known that the major scfa synthesized by the colonic microbiota acetic propionic and butyric play a key role in regulating host energy balance in extra-intestinal organs such as the liver and adipose tissue .
+Delzenne N.M. Gonzalez S. Gueimonde M. Salazar N. Development of functional foods to fight against obesity Opportunities for probiotics and prebiotics.
 
-in this scenario the intestinal microbiota may provide new mechanistic insights at the interface between fat metabolism dysregulation and obesity development.
+Williams S.C. Crowley J. Yanagisawa M. et al.
 
-to the best of our knowledge there are no currently available interdisciplinary studies addressing the interrelationships among obesity diet oxidative stress inflammation and gut microbiota.
+Barbany M. Moreno B. SEEDO 2007 Consensus for the evaluation of overweight and obesity and the establishment of therapeutic intervention criteria.
 
-therefore our aim was to determine differences in the serum concentration of malondialdehyde mda glucose lipid profile and c reactive protein crp according to the grade of obesity to describe the gut microbial composition linked with this pathology and to analyze the role of the diet in the possible associations among these parameters.subjects and methodsparticipantsthis cross-sectional study is part of a research into diet and gut microbiota in different population groups.
-
-moreover three subjects had missing values for fecal microbiota and therefore were not included for further analyses.
-
-also in order to explore the association between the intestinal microbiota and scfa with bmi a linear regression was conducted.using the program r version 3.3.1 for windows a cluster analysis using the ward's method was performed in order to classify the participants based on the similarity of the different obesity related factors evaluated bmi percentage of fat mass serum glucose leptin mda crp and ldlhdl ratio.
-
-regarding the fecal microbial composition and the microbial metabolic activity scfa the levels of lactobacillus group and acetate concentrations were directly related with the grade of obesity table .to explore whether the fecal microbiota may be related with the pro-oxidant and pro-inflammatory status frequently linked to obesity subjects were classified into clusters performed by jointly considering values for bmi fat mass serum glucose ldlhdl ratio serum leptin mda and crp.
-
-crp c reactive protein.when we compared the microbiota variables between both groups no significant differences were found for most of the microbial groups and scfa studied except for acetate which displayed higher fecal concentration in cluster ii and the bacteroides group whose levels resulted higher in cluster i table .table 5. differences in fecal scfa and major microbial groups between clusters.14.0 - 6.716.2 - 7.3butyrate11.1 - 8.011.8 - 7.7model 2. microbial target log no cellsgram of fecesakkermansia6.0 - 1.85.6 - 2.2bacteroides-prevotella-porphyromonas9.0 - 1.08.3 - 1.3 bifidobacterium8.1 - 0.97.9 - 1.8clostridia cluster xiva group7.9 - 1.48.2 - 1.4lactobacillus group6.0 - 1.16.1 - 1.3faecalibacterium prausnitzii7.4 - 0.97.5 - 0.9results derived from multivariate analysis are presented as mean standard deviation.
-
-this group also had lower intake of total carotenoids vitamin c total polyphenols and flavonoids than cluster i.in order to elucidate the role of the fecal microbiota in the observed associations differences in some biomarkers related to obesity according to the tertiles formed with the fecal levels of bacteroides-prevotella-porphyromonas log no cellsgram of feces were assessed figure .
+Ruas-Madiedo P. Gueimonde M. Gonzalez S. Pilot study of diet and microbiota Interactive associations of fibers and polyphenols with human intestinal bacteria.
 

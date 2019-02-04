@@ -1,30 +1,20 @@
-to seek proof of principle that age-related hg-diet-induced phenotypes could be delayed or reversed half of the hg mice consumed the hg diet for 6 mo and then were transferred to the lg diet hereafter hgxolg mice for the last 6 mo of life see schematic in fig.
+To seek proof of principle that age-related HG-diet-induced phenotypes could be delayed or reversed half of the HG mice consumed the HG diet for 6 mo and then were transferred to the LG diet hereafter HGxoLG mice for the last 6 mo of life see schematic in Fig.
 
-all mice gained weight on their study diet but hg mice gained weight more rapidly than the mice fed the lg diet hereafter lg mice fig.
+All mice gained weight on their study diet but HG mice gained weight more rapidly than the mice fed the LG diet hereafter LG mice Fig.
 
-higher levels of hydrophilic metabolites including carbohydrates and amino acids are associated with lower retinal damage scores and consumption of the lg diet whereas higher levels of lipids are associated with higher retinal damage scores and the hg diet fig.
+Higher levels of hydrophilic metabolites including carbohydrates and amino acids are associated with lower retinal damage scores and consumption of the LG diet whereas higher levels of lipids are associated with higher retinal damage scores and the HG diet Fig.
 
-gut microbiota were responsive to diet and we identified microbiota in the clostridiales order as being associated with amdf and the hg diet whereas protection from amdf was associated with the bacteroidales order and the lg diet.
+The shift from the HG to the LG diet was associated with increased Fir- micutes and diminished levels of unclassified phyla thus re- sembling the microbiomes in LG mice Fig.
 
-most of these amdf were prevented or reversed by consuming the lg diet or by switching from the hg diet to the lg diet during maturity.metabolic and biochemical insights into the etiology of amdf.
+Gut microbiota were responsive to diet and we identified microbiota in the Clostridiales order as being associated with AMDf and the HG diet whereas protection from AMDf was associated with the Bacteroidales order and the LG diet.
 
-impressively there was no further photoreceptor cell loss in the hgxolg group after their change to the lg diet implying a rapid diet-related arrest or reversal of hg-induced damage.inner retina layer thinning photoreceptor disorganization and swelling of inner segments as well as photoreceptor de- generation were observed in hg but not in lg or hgxolg mice fig.
+Most of these AMDf were prevented or reversed by consuming the LG diet or by switching from the HG diet to the LG diet during maturity.Metabolic and Biochemical Insights into the Etiology of AMDf.
 
-anova indicated specific metabolites that associated with diet andor retinal damage score be it uniquely additively or as a diet-phenotype interaction fig.
+The con- sumption of a high-glycemia HG diet resulted in many AMD features AMDf including RPE hypopigmentation and atrophy lip- ofuscin accumulation and photoreceptor degeneration whereas consumption of the lower-glycemia LG diet did not.
 
-statistically significantly associated metabolites then were plotted as loadings and colored to indicate the nature of the retina phenotype orand diet associations fig.
+Plant J 521181-1191.Mevik B Wehrens R 2007 The pls package Principal component and partial least squares regression in R. J Stat Softw 181-24.Bylesjo M et al.
 
-4 c and d. plsr diet associations were validated at the level of individual metabolites fig.
+Impressively there was no further photoreceptor cell loss in the HGxoLG group after their change to the LG diet implying a rapid diet-related arrest or reversal of HG-induced damage.Inner retina layer thinning photoreceptor disorganization and swelling of inner segments as well as photoreceptor de- generation were observed in HG but not in LG or HGxoLG mice Fig.
 
-agonists and antagonists of these receptors areneuroprotective against retinopathy 41-44.the associations of microbial cometabolites with diet and amdf fig.
-
-a clear re- lationship between diet and microbiota is corroborated by the separation of the microbiota compositions in the hg group fromthose of the lg and hgxolg groups fig.
-
-s8 a-c. with crossover to the lg diet the gut microbiome was restored to one resembling that in lg mice fig.
-
-the shift from the hg to the lg diet was associated with increased fir- micutes and diminished levels of unclassified phyla thus re- sembling the microbiomes in lg mice fig.
-
-s8d.together the convergence of phenotype diet and microbiota relationships suggest that the diet-induced change in the microbiota in hgxolg mice also contributes to the arrest of amdf in these animals.to extract more metabolic insight into the diet-metabolome- amdf interactions we used a semiquantitative network diagram that integrated associations of urinary metabolites plasma me- tabolites and the gut microbial otus to each other within a retinal damage context fig.
-
-the con- sumption of a high-glycemia hg diet resulted in many amd features amdf including rpe hypopigmentation and atrophy lip- ofuscin accumulation and photoreceptor degeneration whereas consumption of the lower-glycemia lg diet did not.
+ANOVA indicated specific metabolites that associated with diet andor retinal damage score be it uniquely additively or as a diet-phenotype interaction Fig.
 

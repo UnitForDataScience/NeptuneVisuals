@@ -1,30 +1,20 @@
-this modification of ecotype a phenotypes impaired the negative frequency-dependent interaction between the a and b ecotypes since b organisms consumed a-secreted by-products the reduction of the production diversity of a organisms led to the extinction of ecotype b in half of the assays.to exemplify these statistical results we studied in details the evolution of ecotypes a and b in the 10 repetitions of the late population 3 when propagated in the continuous environment .
+This modification of ecotype A phenotypes impaired the negative frequency-dependent interaction between the A and B ecotypes since B organisms consumed A-secreted by-products the reduction of the production diversity of A organisms led to the extinction of ecotype B in half of the assays.To exemplify these statistical results we studied in details the evolution of ecotypes A and B in the 10 repetitions of the late population 3 when propagated in the continuous environment .
 
-indeed in the continuous environment there were more cop- ies of e enzyme coding units than in the periodic environment while the production diver- sity was lower meaning that those units were amplified in the continuous environment to maximize metabolic fluxes thus increasing the genome size.shows an example of organisms a and b evolved in the periodic environment after 500000 time-steps repetition 10. the final best individual of groups a  and b  are represented including their genome  metabolic network and internal metabolic concentrations .
+On the opposite in the continuous environment evolution was driven by periodic selection and competitive exclusion indicating that there was less opportunity for niche construction.Ecological dynamics in the periodic environmentComparative analysis of phylogenetic structure in the different environments revealed that the periodic environment especially favored the evolution of stable cross-feeding interactions leading to two monophyletic ecotypes A and B in 5 of 12 repetitions with the ecotype A feed- ing on the primary resource and possibly on some by-products while ecotype B consumed by- products.
 
-specifically in the periodic environment evolution was driven by multiple niche selection with periodic selection events independently occurring in ecotypes a and b. on the opposite in the continuous environment evolution was driven by periodic selection and competitive exclusion indicating that there was less opportunity for niche construction.ecological dynamics in the periodic environmentcomparative analysis of phylogenetic structure in the different environments revealed that the periodic environment especially favored the evolution of stable cross-feeding interactions leading to two monophyletic ecotypes a and b in 5 of 12 repetitions with the ecotype a feed- ing on the primary resource and possibly on some by-products while ecotype b consumed by- products.
+demonstrates that the ecotypes A and B interaction was frequency- dependent the ecotype B being favored when initially rare and penalized when initially abun- dant.
 
-demonstrates that the ecotypes a and b interaction was frequency- dependent the ecotype b being favored when initially rare and penalized when initially abun- dant.
+shows the variation of B relative fitness over the 333Analysis of the adaptive diversification event leading to the monophyletic ecotypes A and B.
 
-trajectories show that at all initial frequencies of b a stable oscillatory dynamics was reached for each repetition for repetition 1for rep. 3 for rep. 7 for rep. 9 and for rep. 10. the observed vari- ability was due to contingent evolutionary differences between the 5 populations and to a sam- pling effect when the initial frequency of b was low.
+At the beginning of the assays ecotypes A and B interacted through a negative fre- quency-dependent cross-feeding ecotype A organisms produced essential metabolites 2 3 5 7 11 13 17 and 23 ecotype B organisms consumed metabolites 2 3 5 and 7 all secreted by ecotype A organisms.
 
-nine different initial frequencies of b have been tested 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 and 0.9. each trajectory is the mean of the b frequency among the 10 repetitions of each of the 5 populations.
+In order to understand why the interaction between A and B ecotypes was more robust in late than early populations we compared the genomic and metabolic structures of early and late populations independently for A and B ecotypes.
 
-at the beginning of the assays ecotypes a and b interacted through a negative fre- quency-dependent cross-feeding ecotype a organisms produced essential metabolites 2 3 5 7 11 13 17 and 23 ecotype b organisms consumed metabolites 2 3 5 and 7 all secreted by ecotype a organisms.
+In all simulations where A ceased to produce a metabolite pumped-in by B B went to extinction.size amount of non-coding DNA and metabolic redundancy were significantly reduced.
 
-in order to understand why the interaction between a and b ecotypes was more robust in late than early populations we compared the genomic and metabolic structures of early and late populations independently for a and b ecotypes.
+This demonstrates that ecotypes A and B specialized to their own niches and that ecotypes A and B traits diverged by character displacement in complete agreement with the LTEE  .Character displacement explained the apparent robustness of the AB interaction in late populations.
 
-in all simulations where a ceased to produce a metabolite pumped-in by b b went to extinction.size amount of non-coding dna and metabolic redundancy were significantly reduced.
+Thus B organisms were slower out-competed in late than early populations.To assess those conclusions we studied in details the evolution of ecotypes A and B in the 10 repetitions of the early population 3  in the exact same way than in .
 
-this demonstrates that ecotypes a and b specialized to their own niches and that ecotypes a and b traits diverged by character displacement in complete agreement with the ltee  .character displacement explained the apparent robustness of the ab interaction in late populations.
-
-thus b organisms were slower out-competed in late than early populations.to assess those conclusions we studied in details the evolution of ecotypes a and b in the 10 repetitions of the early population 3  in the exact same way than in .
-
-in all simulations where a have ceased to produce a metabolite pumped-in by b b has gone to extinction.tifs1 appendix.
-
-b description of the population and environment levels.
-
-promoter units p contain a floating-point number b 2 0.0 1.0 represent- ing the production rate of the proteins depending on the promoter.
-
-b mutates by add- ing a random number drawn from n 0 01 .
+In all simulations where A have ceased to produce a metabolite pumped-in by B B has gone to extinction.TIFS1 Appendix.
 

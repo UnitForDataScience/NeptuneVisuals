@@ -1,30 +1,20 @@
-openreceived 19 october 2016accepted 28 february 2017published 24 april 2017discovery of tauroursodeoxycholic acid biotransformation enzymes from the gut microbiome of black bears using metagenomicscan song1 bochu wang1 jun tan2 liancai zhu1  deshuai lou1tauroursodeoxycholic acid tudca has been used to treat many diseases effectively.7a-hydroxysteroid dehydrogenase 7a-hsdh and 7b-hydroxysteroid dehydrogenase 7b-hsdh are two key enzymes that drive the efficient biosynthesis of tudca from taurochenodeoxycholic acid tcdca in vitro.
+OPENReceived 19 October 2016accepted 28 February 2017Published 24 April 2017Discovery of tauroursodeoxycholic acid biotransformation enzymes from the gut microbiome of black bears using metagenomicsCan Song1 Bochu Wang1 Jun Tan2 Liancai Zhu1  Deshuai Lou1Tauroursodeoxycholic acid TUDCA has been used to treat many diseases effectively.7a-hydroxysteroid dehydrogenase 7a-HSDH and 7b-hydroxysteroid dehydrogenase 7b-HSDH are two key enzymes that drive the efficient biosynthesis of TUDCA from taurochenodeoxycholic acid TCDCA in vitro.
 
-the 7a-hsdhs from the present study and c. sardiniense c. sordel- lii c. scindens b. fragilis and e.coli belong to the same subgroup.
+The 7a-HSDHs from the present study and C. sardiniense C. sordel- lii C. scindens B. fragilis and E.coli belong to the same subgroup.
 
-21 792-800 2008.duan w.-m. rodrigures c. m. zhao l.-r. steer c. j.  low w. c. tauroursodeoxycholic acid improves the survival and function of nigral transplants in a rat model of parkinson's disease.
+In the past TUDCA was prepared by chemical synthesis and compared to chemical epimerization biotransformation of TUDCA from TCDCA is a mild and environmentally friendly process.Therefore 7a-HSDHs and 7b-HSDHs are two key enzymes for the efficient biotransformation of TCDCA to TUDCA.
 
-in the past tudca was prepared by chemical synthesis and compared to chemical epimerization biotransformation of tudca from tcdca is a mild and environmentally friendly process.therefore 7a-hsdhs and 7b-hsdhs are two key enzymes for the efficient biotransformation of tcdca to tudca.
+Comparing the activity of the discovered five 7a-HSDHs to the known one purified from C. absonum ATCC27555 protein S1-a-1 and S1-a-2 showed five-fold and two-fold enzymatic activity of the known one.
 
-comparing the activity of the discovered five 7a-hsdhs to the known one purified from c. absonum atcc27555 protein s1-a-1 and s1-a-2 showed five-fold and two-fold enzymatic activity of the known one.
+Both free and conjugated bile acids are natural products and fundamental components of bile which plays an important role in the pathways of human fat metabolism.Tauroursodeoxycholic acid TUDCA a kind of conjugated bile acid and the physiologically active form of ursodeoxycholic acid UDCA has various pharmaceutical applications due to its beneficial effects on the treatment of hepatobiliary disease improving therapy effects in Alzheimer's disease and Parkinson's disease and preventing apoptosis-related diseases.
 
-both free and conjugated bile acids are natural products and fundamental components of bile which plays an important role in the pathways of human fat metabolism.tauroursodeoxycholic acid tudca a kind of conjugated bile acid and the physiologically active form of ursodeoxycholic acid udca has various pharmaceutical applications due to its beneficial effects on the treatment of hepatobiliary disease improving therapy effects in alzheimer's disease and parkinson's disease and preventing apoptosis-related diseases.
+The amino acid sequences of 7a-HSDHs from C. sardiniense Clo.sa-a Genebank No.
 
-all the enzymes discovered in the present study were shown to be essential genes and are conserved in multiple bacterial species.the thermostability of the purified five 7a-hsdhs and one 7b-hsdh was examined at temperatures of 4 25 and 37 degc -f. for s1-a-2 h1-a-1 and y1-a-1 no significant loss of activity was observed during incu- bation at 4 degc for 48 h. however after 48 h the residual activity of s1-a-1 h1-a-2 and y1-b-1 were about 80 75 and 71 respectively.
+The amino acid sequences of 7a-HSDHs from C. sardiniense Clo.sa-a Genebank No.
 
-the amino acid sequences of 7a-hsdhs from c. sardiniense clo.sa-a genebank no.
+Five 7a-HSDHs S1-a-1 S1-a-2 H1-a-1 H1-a-2 and Y1-a-1 and one 7b-HSDH Y1-b-1 discovered in the present study together with one known 7a-HSDH Clo.sa-a and 7b-HSDH Clo.sa-b purified from C. absonum ATCC27555 were tested for enzymatic activity respectively.
 
-the amino acid sequences of 7a-hsdhs from c. sardiniense clo.sa-a genebank no.
+We tested the eight proteins five 7a-HSDHs and one 7b-HSDH discovered in the present study and one known 7a-HSDH name as Clo.sa-a and 7b-HSDH name as Clo.sa-b purified from C. absonum ATCC27555 for enzymatic activity 1B.
 
-five 7a-hsdhs s1-a-1 s1-a-2 h1-a-1 h1-a-2 and y1-a-1 and one 7b-hsdh y1-b-1 discovered in the present study together with one known 7a-hsdh clo.sa-a and 7b-hsdh clo.sa-b purified from c. absonum atcc27555 were tested for enzymatic activity respectively.
-
-we tested the eight proteins five 7a-hsdhs and one 7b-hsdh discovered in the present study and one known 7a-hsdh name as clo.sa-a and 7b-hsdh name as clo.sa-b purified from c. absonum atcc27555 for enzymatic activity 1b.
-
-the newly discovered 7b-hsdh presented an enzymatic activity equal to the one purified from c. absonum atcc27555.to identify the conversion ability of the five 7a-hsdhs and one 7b-hsdh the conversion products of the purified enzymes were subjected to hplc 1c.
-
-the six hsdh genes discov- ered above and the 7a- and 7b-hsdh encoding genes from c. absonum atcc27555 were overexpressed as gst- fused recombination proteins and prescission protease was used to excise the gst tag from the recombinant proteins.
-
-all the proteins discovered in the presenttable 1. information of melting temperatures and essentialities of the 7a-hsdhs and 7b-hsdh discovered from fecal samples.study showed enzymatic activity towards their corresponding substrate suggesting that the candidate genes pre- dicted by our metagenomic strategy are enriched in enzymes with relevant activities.
-
-after searching the datasets consisting of the predicted orfs we successfully cloned and purified six full-length hsdh genes from the three fecal samples t1 two 7a-hsdh encoding genes from s1 two 7a-hsdh encoding genes from h1 one 7a-hsdh and one 7b-hsdh encoding gene from sample y1.
+The newly discovered 7b-HSDH presented an enzymatic activity equal to the one purified from C. absonum ATCC27555.To identify the conversion ability of the five 7a-HSDHs and one 7b-HSDH the conversion products of the purified enzymes were subjected to HPLC 1C.
 

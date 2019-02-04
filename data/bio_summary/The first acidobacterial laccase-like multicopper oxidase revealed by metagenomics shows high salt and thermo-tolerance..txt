@@ -1,30 +1,20 @@
-after electrophoresis running at 4 degc the gel was rinsed several times in distilled water to remove sds and equilibrated for 1 h at 50 degc in 100 mm sodium acetate buffer ph 4.0 containing 50 mm cuso4 and 10 mm 22'-azino- bis3-ethylbenzothiazoline-6-sulphonic acid abts or 1 mm 26-dimethoxyphenol 26-dmp.standard abts assaylaccase activity was routinely measured with a spectropho- tometer v460 jasco easton md usa using abts e420nm  36 mm-1 cm-1 as a substrate assay mixtures 1 ml contained 1 mm abts 10 ml of purified protein or 100 ml of crude extract 50 mm cuso4 in a multi-component buffer at ph 4.0 10 mm trizma base 15 mm sodium car- bonate 15 mm phosphoric acid and 250 mm potassium chlo- ride harris et al.
+c. Interestingly when the Hi-trap column was loaded with CuSO4 instead of NiCl2 the activity of the purified enzyme on ABTS tripled indicating the positive effect of copper addition for the enzyme activity at this stage.
 
-one activity unit u was defined as the amount of enzyme required for oxidizing 1 mmol of abts per min.substrate rangethe ability of lacm to oxidize phenolic and nonphenolic compounds was tested with a spectrophotometer using the following substrates at the designed final concentration and wavelength 1 mm 26-dmp e468nm  49.6 mm-1 cm-1 1 mm pyrocatechol e450nm  2.21 mm-1 cm-1 1 mm pyro- gallol e450nm  4.4 mm-1 cm-1 1 mm vanillic acid  e 316n m  2 .
+Activities are reported as values relative to the activity of 2.4 Umg protein set as 100 at pH 4.0. c Effect of temperature on LacM activity using ABTS as a substrate at pH 4.0 in the presence of 50 mM CuSO4.
 
-after centrifugation at 34000xg for 60 min at 4 degc n-terminus his6-tagged lacm was purified from the soluble cytoplasmic fraction by loading e. coli crude extracts heated for 20 min at 50 degc and centrifuged at 17000xg for 30 min onto a 5-ml hitrap chelating affinity column ge healthcare sciences little chalfont uk load- ed with 0.1 mm cuso4 and equilibrated with 20 mm kpi ph 6.7 20 mm imidazole and 300 mm na2so4.
+The activity recorded at time 0 in standard assay condition 25 degC pH 4.0 50 mM CuSO4 is set as 100 2.4 U mg. e Effect of increasing concentrations of NaCl on LacM activity was measured using ABTS.
 
-the recombi- nant protein was eluted with increasing concentrations of 20 mm kpi ph 6.7 300 mm na2so4 and 250 mm imidazole and loaded onto a size-exclusion pd10 sephadex g25 column ge healthcare sciences equilibrated with 20 mm kpi ph6.7.
+At 40 and 60 degC the enzyme maintained 65 and 56 of the maximum activity respectively whereas at 30 degC and 70 degC the activity of LacM was slightly below 40.
 
-curve-fitting using kaleidagraph synergy software reading pa usa was carried out to calculate km and kcat value for lacm.effect of inhibitory compoundseffect of salts up to 1 m final concentration enzyme inhib- itors 25-150 mm nan3 10 mm dithiothreitol dtt deter- gents 1-10 wv triton x-100 nonidet p-40 tween-20 and n-lauryl sarcosine nls organic solvents 1-10 vv etha- nol isopropanol and methanol and a chelating agent edta 20-100 mm on lacm activity was investigated by adding each compound to the assay mixture and using the standard abts assay described above.dye decolorizationdecolorization experiments were conducted in 2-ml dispos- able cuvettes with 1-ml final reaction volume over a panel of dyes remazol brilliant blue r anthraquinone dye maxi- mum of absorbance at 495 nm direct red 80 azo dye 528 nm reactive black 5 azo dye 598 nm brilliant green triphenyl methane dye 625 nm azure b heterocy- clic dye 648 nm bromocresol purple triaryl methine dye 719 nm.
+d but it displayed a substantial heat activation since after 2 h at 40 50 or 60 degC its enzymatic activity increased and it was approximately 1.2 3.5 and 1.2-fold higher that the initial activity.
 
-briefly 10 g of soil were suspended in 10 ml extraction buffer 100 mm tris-hcl 100 mm na-edta ethylenediaminetet- raacetic acid sodium salt 100 mm napo4 1.5 wv nacl 1 wv ctab cetyl trimethylammonium bromide ph 8.0 and sonicated water bath sonicator for 15 min.
+MgSO4 andZnSO4 inhibited LacM activity to a smaller extent than chlo- ride salts while at low concentrations K2SO4 and CoNO3 as well as MgSO4 even increased the enzyme activity.
 
-this effect was confirmed by zymo- gram electrophoresis of purified lacm with 50 mm cuso4 in the developing buffer 100 mm sodium acetate ph 4.0 the intensity of the activity band was significantly enhanced both using abts and 26-dmp as substrates data not shown.
+Among the surfactants tested Nonidet P-40 Tween-20 and NLS considerably reduced LacM activity only at 10 vv final concentration while with 1 vv detergent more than 80 of the original activity was preserved.
 
-activities are reported as values relative to the activity of 2.4 umg protein set as 100 at ph 4.0. c effect of temperature on lacm activity using abts as a substrate at ph 4.0 in the presence of 50 mm cuso4.
+In the presence of DMSO the activity decreased yet almost 50 of the initial activity was retained at 10 vv DMSO.Dye decolorizationEnzymatic decolorization of six synthetic dyes by the purified LacM was assessed in the presence or absence of 10 mM ABTS as a redox mediator.
 
-the activity recorded at time 0 in standard assay condition 25 degc ph 4.0 50 mm cuso4 is set as 100 2.4 u mg. e effect of increasing concentrations of nacl on lacm activity was measured using abts.
+LacM showed higher activity on the non-phenolic ABTS  k cat kM  0.47 s-1 mM-1 for Lac591 8.45 s-1 mM-1 for LacM but lower activity on the phenolic 26-DMP kcat k  283 s-1 mM-1 for Lac591.
 
-the activity measured at ph 4.0 and 25 degc in the presence of 50 mm cuso4 and without nacl 2.4 umg was set as 100. f lacm decolorization of reactive black 5 circles or brilliant green squares in the presence black marks continuous line or absence white marks dotted line of 10 mm abts.
-
-at 40 and 60 degc the enzyme maintained 65 and 56 of the maximum activity respectively whereas at 30 degc and 70 degc the activity of lacm was slightly below 40. furthermore activity of lacm was severely reduced below 20 degc.
-
-interestingly between 95 and 85 of lacm activity was pre- served in the presence of nacl concentrations up to 100 mm and 34 and 10 residual activities were still detectable after enzyme incubation with 500 and 1000 mm nacl fig.
-
-in the presence of dmso the activity decreased yet almost 50 of the initial activity was retained at 10 vv dmso.dye decolorizationenzymatic decolorization of six synthetic dyes by the purified lacm was assessed in the presence or absence of 10 mm abts as a redox mediator.
-
-20 activity preserved even at ph 8.0. the enzyme was thermostable and heat-activated in the interval 40-60 degc with an optimal activity on abts at 50 degc.
-
-34 activity preserved at 500 mm nacl and in the presence of organic solvents.
+Probably only a fraction of the enzyme molecules produced had indeed four copper atoms in the ac- tive site which is in our case supported by the fact that addi- tion of copper was essential for active protein production and purification and significantly enhanced its activity if added to the reaction mixture.A general tendency of bacterial compared to fungal laccases and laccase-like enzymes is their activity in a wider pH range Reiss et al.
 

@@ -1,30 +1,20 @@
-s1 included mice dosed by oral gavage with corn oil vehicle co with 0 0.1 1.0 and 10 mgkg tcdd and mice dosed by oral gavage with ac vehicle with 0 0.1 1.0 and 10 mgkg tcdd.
+S1 included mice dosed by oral gavage with corn oil vehicle CO with 0 0.1 1.0 and 10 mgkg TCDD and mice dosed by oral gavage with AC vehicle with 0 0.1 1.0 and 10 mgkg TCDD.
 
-a volcano plot showing -log10 p value and log2 fold change for bacterial sequences classified at the family level between naive mice and mice dosed with ac and b-d the taxonomic families significantly influenced with acsignificantly influence sfb in this study which had been ob- served previously bhaduri  fader et al.
+a Volcano plot showing -Log10 p value and Log2 fold change for bacterial sequences classified at the family level between naive mice and mice dosed with AC and b-d the taxonomic families significantly influenced with ACsignificantly influence SFB in this study which had been ob- served previously Bhaduri  Fader et al.
 
-herein we examined the bioavailability of tcdd sequestered to ac on a key murine gut commensal and the influence of ac on the community structure of the gut microbiota.
+Herein we examined the bioavailability of TCDD sequestered to AC on a key murine gut commensal and the influence of AC on the community structure of the gut microbiota.
 
-responses were not observed with equivalent tcdd doses administered with ac.the goals of this study were to 1 examine the bioavailabil- ity of tcdd sequestered to ac ac-tcdd on a key gut commensal in the murine model and 2 characterize the influ- ence of ac on the gut microbiota.
+Responses were not observed with equivalent TCDD doses administered with AC.The goals of this study were to 1 examine the bioavailabil- ity of TCDD sequestered to AC AC-TCDD on a key gut commensal in the murine model and 2 characterize the influ- ence of AC on the gut microbiota.
 
-taken together the expression of sfb functional genes further verifies that tcdd was not bioavailable when adsorbed on to ac.effect of ac and co on gut microbiome the 16s rrna gene was sequenced to examine the influence of ac and co on gut microbiota in the ileum.
+Taken together the expression of SFB functional genes further verifies that TCDD was not bioavailable when adsorbed on to AC.Effect of AC and CO on gut microbiome The 16S rRNA gene was sequenced to examine the influence of AC and CO on gut microbiota in the ileum.
 
-therefore the short-term ingestion of ac does not appear to have a threatening influence on the structure of the gut microbiome.results of this study support the remedial use of ac to mute tcdd-induced responses to the gut microbiome of a murine host.
+Therefore the short-term ingestion of AC does not appear to have a threatening influence on the structure of the gut microbiome.Results of this study support the remedial use of AC to mute TCDD-induced responses to the gut microbiome of a murine host.
 
-this ques- tion was partially answered in a recent study examining 2378-tetrachlorodibenzo-p-dioxin tcdd-induced hall- mark toxic responses in mice administered with tcdd se- questered by ac or freely available in corn oil by oral gavage.
+This ques- tion was partially answered in a recent study examining 2378-tetrachlorodibenzo-p-dioxin TCDD-induced hall- mark toxic responses in mice administered with TCDD se- questered by AC or freely available in corn oil by oral gavage.
 
-concordant with previously described stud- ies tcdd administered on ac eliminated both the toxic re- sponse in mice boyd et al.
+Concordant with previously described stud- ies TCDD administered on AC eliminated both the toxic re- sponse in mice Boyd et al.
 
-3 16s rrna gene sequence analysis using dna extracted from ileum comparing naive mice with groups dosed with corn oil co or dosed with activated carbon ac.
+3 16S rRNA gene sequence analysis using DNA extracted from ileum comparing naive mice with groups dosed with corn oil CO or dosed with activated carbon AC.
 
-this was examined here via 16s ribosomal rna rrna gene sequencing using dna extracted from ileal tissues of mice exposed to ac-tcdd.materials and methodsanimals and experimental design pathogen-free female b6c3f1 mice that were 5 to 8 weeks old were purchased from charles river breeding laboratories portage mi usa and handled as previously described boyd et al.
-
-measured in mice feces previous studies have also found that mice deficient in mucosal immunity maintainers displayed a 10- fold increase in sfb abundance upadhyay et al.
-
-doi 10.1007s00253-017-8460-9tcdd administered on activated carbon eliminates bioavailability and subsequent shifts to a key murine gut commensalrobert d. stedtfeld1  j. brett sallach2  robert b. crawford34  tiffany m. stedtfeld1  maggie r. williams1  hassan waseem 1  cliff t. johnston5  hui li2  brian j. teppen2  norbert e. kaminski34  stephen a. boyd2  james m. tiedje6  syed a. hashsham16received 27 march 2017  revised 27 july 2017  accepted 30 july 2017  published online 15 august 2017 springer-verlag gmbh germany 2017abstract activated carbon ac is an increasingly attractive remediation alternative for the sequestration of dioxins at con- taminated sites globally.
-
-however the potential for ac to reduce the bioavailability of dioxins in mammals and the re- siding gut microbiota has received less attention.
-
-results from that study support the use of ac to significantly reduce the bioavailability of tcdd to the host.
-
-such a response was absent when tcdd was sequestered by ac.
+This was examined here via 16S ribosomal RNA rRNA gene sequencing using DNA extracted from ileal tissues of mice exposed to AC-TCDD.Materials and methodsAnimals and experimental design Pathogen-free female B6C3F1 mice that were 5 to 8 weeks old were purchased from Charles River Breeding Laboratories Portage MI USA and handled as previously described Boyd et al.
 

@@ -1,30 +1,20 @@
-b and c sourced higher proportions of otus from upstream soil and sediment soil--22.3 - 23.3 from up- stream soil 44.7 - 26.6 from upstream sediment sediment--38.49 - 26.30 from upstream soil 29.7 - 30.7 from upstreamsediment than from upstream water to soil--0.5 - 11.2 and to sediment--0.1 - 3.5.notably the proportion of sequences in sediment sourced from upstream samples decreased with distance from the source mantel r  0.30 p  0.007 for soil r  0.21 p  0.038 for sediment.
+B and C sourced higher proportions of OTUs from upstream soil and sediment soil--22.3 - 23.3 from up- stream soil 44.7 - 26.6 from upstream sediment sediment--38.49 - 26.30 from upstream soil 29.7 - 30.7 from upstreamsediment than from upstream water to soil--0.5 - 11.2 and to sediment--0.1 - 3.5.Notably the proportion of sequences in sediment sourced from upstream samples decreased with distance from the source Mantel R  0.30 P  0.007 for soil R  0.21 P  0.038 for sediment.
 
-interestingly the soil and sediment communities were more spatially homogenous than the water communities whichfigure 4. bayesian estimation of source communities for downstream a water b soil and c sediment samples.
+Networks in soil and sediment had degree dis- tributions significantly different from those in water Wilcoxon rank-sum test P  2.6 x 10-3 and P  1.6 x 10-24 respectively.Despite their similar power law exponents soil and sediment communities also had significantly different degree distribu- tions Wilcoxon rank-sum test P  5.7 x 10-10 due in part to fewer overall edges in the sediment network.DISCUSSIONConnectivity influences fluvial microbial community structureThe diversity and activity of microbial communities in lotic and soil environments have each received considerable research at- tention Fierer et al.
 
-networks in soil and sediment had degree dis- tributions significantly different from those in water wilcoxon rank-sum test p  2.6 x 10-3 and p  1.6 x 10-24 respectively.despite their similar power law exponents soil and sediment communities also had significantly different degree distribu- tions wilcoxon rank-sum test p  5.7 x 10-10 due in part to fewer overall edges in the sediment network.discussionconnectivity influences fluvial microbial community structurethe diversity and activity of microbial communities in lotic and soil environments have each received considerable research at- tention fierer et al.
+Most of the identified relationships had correlation strengths 0.5 including 1596 re- lationships in soil communities 405 in sediment communities and 1939 in water communities.
 
-bayesian estimation indicated very little connectivity between aquatic and terrestrial soil and sediment sources.to identify whether ground and tile water could serve as dispersal pathways we compared ground and tile water com- munity composition with the soil sediment and river water samples.
+Similar to water and sediment communities water and soil communities were distinct from each other ANOSIM R  0.
 
-a. similar to water and sediment communities water and soil communities were distinct from each other anosim r  0.
-
-most of the identified relationships had correlation strengths 0.5 including 1596 re- lationships in soil communities 405 in sediment communities and 1939 in water communities.
-
-soil pore water collected in the lysimeters was not analyzed for water chemistry due to the lim- ited volume available.dna extraction 16s rrna gene amplification and sequencinggenomic dna was isolated from soil sediment and water filter membrane samples using a modified protocol of the powersoilqr -htp 96-well soil dna isolation kit mo bio labora- tories inc.. the modified protocol includes a step to heat the lysing solution and sample mixtures to 65c for 10 min prior to bead-beating.
+Bayesian estimation indicated very little connectivity between aquatic and terrestrial soil and sediment sources.To identify whether ground and tile water could serve as dispersal pathways we compared ground and tile water com- munity composition with the soil sediment and river water samples.
 
 all water vs water and sediment vs sediment and intergroup e.g.
 
-weighted unifrac distance was higher between than within environments for sediment versus water samples anosim r  0.77 p  0.001. the mean of inter- group pairwise-weighted unifrac distance was 0.53 and those of intragroup comparisons were 0.39 and 0.29 for water and sediment respectively as depicted in the distance histogram fig.
+Interestingly the soil and sediment communities were more spatially homogenous than the water communities whichFigure 4.
 
-the consistent pairwise co-occurrence relationships with r values greater than 0.5 were deter- mined a between water and soil b between soil and sediment and c between water and sediment.
+The consistent pairwise co-occurrence relationships with r values greater than 0.5 were deter- mined A between water and soil B between soil and sediment and C between water and sediment.
 
-c shows that the soil and sediment consortia had a much lower intergroup dissimilarity mean  0.35 that was similar to the corresponding intragroup comparisons anosim r  -0.14 p  0.951. these results indi- cate that microbial communities significantly differ between ter- restrial soil and sediment and aquatic water environments.in addition to environmental species sorting microbial com- munities often display spatial autocorrelation or distance-decay patterns.
+Soil pore water collected in the lysimeters was not analyzed for water chemistry due to the lim- ited volume available.DNA extraction 16S rRNA gene amplification and sequencingGenomic DNA was isolated from soil sediment and water filter membrane samples using a modified protocol of the PowerSoilQR -htp 96-well Soil DNA Isolation Kit MO BIO Labora- tories Inc..
 
-c distribution of distances for all within and between soil and sediment samples showed no statistical significant differences implying these communities were highly similar.mean abundance  36. as expected dominant phyla differed between water and soil communities in the usrb.
-
-the majority of chlo- roflexi and bacteroidetes sequences derived from soil and water samples respectively and the remaining phyla had similar abundances in soil and sediment though much lower abun- dances in water samples.
-
-only 24 relationships were common to the soil and water networks and only 9 relationships were shared between the sediment and water networks.
-
-however there was significantly less contribution from upstream soil and sediment to downstream water samples 0.2 - 0.8 and 0.02 - 0.08 for sediment sources.
+However there was significantly less contribution from upstream soil and sediment to downstream water samples 0.2 - 0.8 and 0.02 - 0.08 for sediment sources.
 

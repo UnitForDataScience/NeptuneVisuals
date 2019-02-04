@@ -1,30 +1,20 @@
-in summary differentiation between the two p. leucopus genetic clusters did not have any significant effect on the liver microbiome and horizontal transmission from the en- vironment may therefore be a stronger factor in shaping liver bacteria communities.conclusionin this study we characterized the liver microbiome from peromyscus leucopus individuals dominated by the lactobacillus genus.
+In summary differentiation between the two P. leucopus genetic clusters did not have any significant effect on the liver microbiome and horizontal transmission from the en- vironment may therefore be a stronger factor in shaping liver bacteria communities.ConclusionIn this study we characterized the liver microbiome from Peromyscus leucopus individuals dominated by the Lactobacillus genus.
 
-andre  a. mouton  v. millien  j. michaux a conservation genetics laboratory university of liege boulevard du rectorat 26 4000 liege belgiumb redpath museum mcgill university 859 sherbrooke west montreal qc h3a oc4 canadac cirad ur agirs f-34398 montpellier francea r t i c l ei n f o article historyreceived 23 november 2016received in revised form 31 march 2017accepted 11 april 2017available online 13 april 2017keywords16s ngsperomyscus leucopus microbiome borreliabartonellaa b s t r a c t microbiome studies generally focus on the gut microbiome which is composed of a large proportion of commen- sal bacteria.
+Besides the detection of a number of pathogens of public health interest we identified Bartonella samples to the species level and tested the hypothesis that different Bartonella species are associated with distinct Borrelia strains as previously reported  .
 
-besides the detection of a number of pathogens of public health interest we identified bartonella samples to the species level and tested the hypothesis that different bartonella species are associated with distinct borrelia strains as previously reported  .
+The strict association between a Bartonella species closely related to B. vinsonii and B. burgdorferi reported by may therefore have been dependent on the Bartonella species involved andthe findings would thus not be applicable to the entire genus.Active Lyme disease surveillance in Canada involves the analysis of heart tissue samples from small mammal hosts e.g.
 
-no association was found between bartonella and borrelia occurrences kendall's tau  -0.049 p  0.49. we then used a specific primer pair for bartonella on 20 randomly selected bartonella-positive samples.
+According to  permutational multivar- iate analysis of variance was then performed on these four dissimilarity matrices using the Adonis function from the VEGAN R package  to detect significant differences in the microbiomes between the two P. leucopus genetic lineages   Andre et al.
 
-the unweighted unifrac index did return a significant difference but with a very small r2 value .borrelia burgdorferi prevalence across different organsanalyses performed at the public health agency of canada on heart tissue samples from our specimens and using a nested pcr protocol targeting two borrelia-specific markers e.g.
+The unweighted UniFrac index did return a significant difference but with a very small r2 value .Borrelia burgdorferi prevalence across different organsAnalyses performed at the Public Health Agency of Canada on heart tissue samples from our specimens and using a nested PCR protocol targeting two Borrelia-specific markers e.g.
 
-the strict association between a bartonella species closely related to b. vinsonii and b. burgdorferi reported by may therefore have been dependent on the bartonella species involved andthe findings would thus not be applicable to the entire genus.active lyme disease surveillance in canada involves the analysis of heart tissue samples from small mammal hosts e.g.
+in the liver using NGS.This is the first study to characterize bacterial communities inhabiting the liver ecosystem of P. leucopus using next generation se- quencing.
 
-we then compared the microbiomes among two p. leucopus genetic clusters occurring on either side of the st. lawrence river and did not detect any effect of the host genotype on their liver microbiome assemblage.
+Relation between the prevalence of Bartonella within each population and the mean circles dashed line y  12205x - 190.25 r2  0.73 and median triangles solid line y  14.698x - 333.46 r2  0.58 Bartonella infection intensities within infected mice.Table 2 Summary of PERMANOVAs performed on the four dissimilarity matrices between the two genetic clades.Dissimilarity indexp-Valuer2process has yet to be documented .
 
-according to  permutational multivar- iate analysis of variance was then performed on these four dissimilarity matrices using the adonis function from the vegan r package  to detect significant differences in the microbiomes between the two p. leucopus genetic lineages   andre et al.
+detection using PCR targeting two markers for B. burgdorferi and rarefied num- ber of Borrelia reads within livers up to 3 replicates spleens and lungs using NGS.
 
-overall no clear distinction between the two p. leucopus lineages was apparent based on their microbiome .
+burgdorferi infection on its reservoir host is very complex  we also focused our analyses on lung and spleen samples from P. leucopus individuals that had tested positive in PCR screening of heart tissues Leo et al.
 
-in the liver using ngs.this is the first study to characterize bacterial communities inhabiting the liver ecosystem of p. leucopus using next generation se- quencing.
-
-4. relation between the prevalence of bartonella within each population and the mean circles dashed line y  12205x - 190.25 r2  0.73 and median triangles solid line y  14.698x - 333.46 r2  0.58 bartonella infection intensities within infected mice.table 2 summary of permanovas performed on the four dissimilarity matrices between the two genetic clades.dissimilarity indexp-valuer2process has yet to be documented .
-
-detection using pcr targeting two markers for b. burgdorferi and rarefied num- ber of borrelia reads within livers up to 3 replicates spleens and lungs using ngs.
-
-to avoid drawing erroneous conclusions we therefore recommend systematic inclusion of several negative control samples in study designs involving low microbial biomass samples.
-
-in addition to being the most abundant genus detected within the samples lactobacillus was also the most prevalent genus between samples with 60 of all mouse liver tissues found to be lactobacillus-positive.lactobacillus is a genus of gram-positive facultative anaerobic bacte- ria belonging to the firmicutes phylum.
-
-burgdorferi infection on its reservoir host is very complex  we also focused our analyses on lung and spleen samples from p. leucopus individuals that had tested positive in pcr screening of heart tissues leo et al.
+To avoid drawing erroneous conclusions we therefore recommend systematic inclusion of several negative control samples in study designs involving low microbial biomass samples.
 

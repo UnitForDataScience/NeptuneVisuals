@@ -1,30 +1,20 @@
-while most beetle associated samples including nematode samples from both years form one large cluster almost all outlier sam- ples are of soil origin suggesting higher variability in soil samples fig.
+While most beetle associated samples including nematode samples from both years form one large cluster almost all outlier sam- ples are of soil origin suggesting higher variability in soil samples Fig.
 
-2. soil nematode community nematode succession and interspecific competition of nematodes.composition of the soil nematode community determined by 18s rna sequencing and the feeding strategy of the resulting species.
+We therefore conclude that i the nematode community on the decaying beetle differs strongly from the soil nematode community and ii the arrested dauer stage of Pristion- chus and Oscheius is the primary source for the reproducing nematodes on the beetle carcass.Abiotic factors of decaying beetle specimensAs abiotic factors are known to influence the dynamics of the decay of biological samples as well as the composition of bacterial communities in decaying matter Lauber et al.
 
-we therefore conclude that i the nematode community on the decaying beetle differs strongly from the soil nematode community and ii the arrested dauer stage of pristion- chus and oscheius is the primary source for the reproducing nematodes on the beetle carcass.abiotic factors of decaying beetle specimensas abiotic factors are known to influence the dynamics of the decay of biological samples as well as the composition of bacterial communities in decaying matter lauber et al.
+1E to analyse soil nematode com- munity and the soil pH.Beetle samples were recovered after 0 36 h and 4 7 8 9 10 and 11 days.
 
-in 2016 the nematode soil community was less diverse with only nine of those species that were found in 2015. among the soil nematodes we identified species such as the omnivore aporcelaimellus and the ecotopara- site dorylaimellus virginianus which are characterized by their long life cycles and high susceptibility to environmen- tal changes and toxins sieriebriennikow et al.
+These samples were collected from five environments the native soil at the sam- ple site n 5 20 the soil surrounding decaying beetles n 5 26 the decaying beetles n 5 25 single worms of the five different nematode species occurring on the carcasses n 5 327 and the beetle gut of O. borbonicus n 5 36.
 
-1e to analyse soil nematode com- munity and the soil ph.beetle samples were recovered after 0 36 h and 4 7 8 9 10 and 11 days.
+Soil nematode community nematode succession and interspecific competition of nematodes.Composition of the soil nematode community determined by 18S RNA sequencing and the feeding strategy of the resulting species.
 
-these samples were collected from five environments the native soil at the sam- ple site n 5 20 the soil surrounding decaying beetles n 5 26 the decaying beetles n 5 25 single worms of the five different nematode species occurring on the carcasses n 5 327 and the beetle gut of o. borbonicus n 5 36. table 1 shows an overview of the number of different sam- ples per environment and time point.
+The decaying beetle is distinct from the other habitats.Number of families with significant changes in relative abundance between the different environments.Number of significantly different families between samples of various nematode species.Heat map showing all significantly different bacterial families between the beetle gut samples blue and decaying beetle samples grey and their relative abundances in all beetle gut and decaying beetle samples.which make up more than 50 of the complete metage- nome in decaying beetles compared with less than 20 in living beetles Supporting Information Fig.
 
-5. the decaying beetle is distinct from the other habitats.number of families with significant changes in relative abundance between the different environments.number of significantly different families between samples of various nematode species.heat map showing all significantly different bacterial families between the beetle gut samples blue and decaying beetle samples grey and their relative abundances in all beetle gut and decaying beetle samples.which make up more than 50 of the complete metage- nome in decaying beetles compared with less than 20 in living beetles supporting information fig.
+Similar to the observation that soil and decaying soil seem to be less stable environments than beetle-associated environments we observed that the presence of the phyla Acidobacteria and Verrucomicrobia distinguishes both soil environments from all three beetle associated environments Kruskal-Wallis-Tukey P  0.001Fig.
 
-similar to the observation that soil and decaying soil seem to be less stable environments than beetle-associated environments we observed that the presence of the phyla acidobacteria and verrucomicrobia distinguishes both soil environments from all three beetle associated environments kruskal-wallis-tukey p  0.001fig.
+In a poly- merase chain reaction PCR experiment we amplified this region from 1 ll of the extracted DNA soil nematodes and nematodes from the decaying beetle using the primers SSU 18A and SSU 26R.SSU 18A AAAGATTAAGCCATGCATGSSU 26R CATTCTTGGCAAATGCTTTCG Blaxter et al.
 
-in a poly- merase chain reaction pcr experiment we amplified this region from 1 ll of the extracted dna soil nematodes and nematodes from the decaying beetle using the primers ssu 18a and ssu 26r.ssu 18a aaagattaagccatgcatgssu 26r cattcttggcaaatgctttcg blaxter et al.
+Raw reads for all samples have been submitted to the European Nucleotide Archive.Determination of soil temperatureTemperature in the soil were measured using TermochronVR iButtonVR .
 
-raw reads for all samples have been submitted to the european nucleotide archive.determination of soil temperaturetemperature in the soil were measured using termochronvr ibuttonvr .
-
-in 2015 the soil samples were composed of bacterivorous nematodes i.e.
-
-left pie chart provides absolute numbers for observed nematodes whereas the right pie chart indicates the feeding types of these nematodes in percentages.emergence and co-existence of nematode species on decaying beetle head top row and abdomen bottom row on different sampling days.
-
-in addi- tion to the previously mentioned packages we also utilized the following non-base r packages ggplot2 wickham 2011a reshape2 wickham 2007 plyr wickham 2011b ggbiplot vu 2011 and geomnet tyner and hofmann 2016.results and discussionthe nematode community on decaying beetles differs from that in soilwe investigated the soil nematode community at the trois bassins sampling site fig.
-
-around 30 different nematode species were found in the soil com- pared with five nematode species on the decaying beetle.
-
-these findings suggest that the soil nematode community contributes little if any to the nematode colonization of the beetle carcass.fig.
+In 2015 the soil samples were composed of bacterivorous nematodes i.e.
 

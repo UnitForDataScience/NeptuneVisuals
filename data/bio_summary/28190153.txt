@@ -1,30 +1,20 @@
-the gc content of strain mt12t 30.44 is lower than those of all compared species 34.0-36.8. similarly the total number of genes 3397 and the number of protein-coding genes 3268 of strain mt12t are smaller than that of all compared species except a. oremlandii 3016. the distribution of genes into cog categories is similar for all compared species except for the presence of 1 protein in the extracellular structures category which is only present in strain mt12t fig.
+Upon identifica- tion 12 MALDI-TOF MS spectra for strain Mt12T were included in the URMITE database.Growth conditionsOptimal growth conditions for strain Mt12T were determined by testing five growth temperatures 25 28 37 45 and 56 degC in an aerobic atmosphere with or without 5 CO2 and under anaerobic and microaer- ophilic conditions using the GENbag Anaer and GENbag microaer systems respectively BioMerieux Marcy l'Etoile France.
 
-upon identifica- tion 12 maldi-tof ms spectra for strain mt12t were included in the urmite database.growth conditionsoptimal growth conditions for strain mt12t were determined by testing five growth temperatures 25 28 37 45 and 56 degc in an aerobic atmosphere with or without 5 co2 and under anaerobic and microaer- ophilic conditions using the genbag anaer and genbag microaer systems respectively biomerieux marcy l'etoile france.
+Strikingly fructose was not metabolised in contrast to most of the compared species.Strain Mt12T was found to be susceptible to rifampicin gentamicin 500 lg tobramycin penicillin G oxacillin ceftriaxone doxycycline and ciproflox- acin but resistant to gentamicin 30 lg imipenem trimethoprimsulfamethoxazole teicoplanin metron- idazole colistin and erythromycin.Genome propertiesThe draft genome of strain Mt12T is 3497275-bp long with a 30.45 GC content Fig.
 
-the scale bar represents 500 nmthe major cellular fatty acids of strain mt12t were identified as c140 46 c161n7 21 and c160 18. c40 a short chain fatty acid was also detected as shown in table .catalase and oxidase activities were absent con- sistent with the anaerobic metabolism of strain mt12t.
+However additional comparative genomics notably with C. profunda are desirable as additional sequences become available.ConclusionConsidering the specific phenotypic properties of strain Mt12T including its low matching MALDI- TOF MS score the 94.9 16S rRNA similarity level with C.profunda and its genomic analysis we hereby suggest the creation of a new genus within the family Clostridiaceae named Inediibacterium with the type species Inediibacterium massiliense type strain Mt12T CSUR P1907  DSM 100590.Description of Inediibacterium gen. novInediibacterium In.e.di.i.bac.te'rium.
 
-strikingly fructose was not metabolised in contrast to most of the compared species.strain mt12t was found to be susceptible to rifampicin gentamicin 500 lg tobramycin penicillin g oxacillin ceftriaxone doxycycline and ciproflox- acin but resistant to gentamicin 30 lg imipenem trimethoprimsulfamethoxazole teicoplanin metron- idazole colistin and erythromycin.genome propertiesthe draft genome of strain mt12t is 3497275-bp long with a 30.45 gc content fig.
+Pierre-Edouard FournierReceived 17 November 2016  Accepted 3 February 2017  Published online 11 February 2017c Springer International Publishing Switzerland 2017Abstract A novel strain Mt12T CSUR P1907  DSM 100590 was isolated from the fecal sample of a 7-month-old girl from Senegal afflicted with severe acute malnutrition.
 
-however additional comparative genomics notably with c. profunda are desirable as additional sequences become available.conclusionconsidering the specific phenotypic properties of strain mt12t including its low matching maldi- tof ms score the 94.9 16s rrna similarity level with c.profunda and its genomic analysis we hereby suggest the creation of a new genus within the family clostridiaceae named inediibacterium with the type species inediibacterium massiliense type strain mt12t csur p1907  dsm 100590.description of inediibacterium gen. novinediibacterium in.e.di.i.bac.te'rium.
+The draft genome of strain Mt12T is 3497275-bp long with a 30.45 of GC content.
 
-pierre-edouard fournierreceived 17 november 2016  accepted 3 february 2017  published online 11 february 2017c springer international publishing switzerland 2017abstract a novel strain mt12t csur p1907  dsm 100590 was isolated from the fecal sample of a 7-month-old girl from senegal afflicted with severe acute malnutrition.
+Raoult P.-E. Fournier URMITE Aix Marseille Universite' UM63 CNRS 7278 IRD 198 INSERM 1095 IHU - Me'diterrane'e Infection 19-21 Boulevard Jean Moulin 13005 Marseille France e-mail C. Sokhna A. DialloUnite' de Recherche sur les Maladies Infectieuses et Tropicales Emergentes IRD 198 CNRS 7278 Aix- Marseille Universite' Marseille Francephylogenetic analysis alongside the dDDH values under 30 and phenotypic characteristics suggest that strain Mt12T represents a new genus within the family Clostridiaceae for which the name Inediibacterium massiliense gen. nov. sp.
 
-the draft genome of strain mt12t is 3497275-bp long with a 30.45 of gc content.
+In the process we isolated a strain strain Mt12T representing a new genus a member of the family Clostridiaceae.
 
-raoult p.-e. fournier urmite aix marseille universite' um63 cnrs 7278 ird 198 inserm 1095 ihu - me'diterrane'e infection 19-21 boulevard jean moulin 13005 marseille france e-mail c. sokhna a. diallounite' de recherche sur les maladies infectieuses et tropicales emergentes ird 198 cnrs 7278 aix- marseille universite' marseille francephylogenetic analysis alongside the dddh values under 30 and phenotypic characteristics suggest that strain mt12t represents a new genus within the family clostridiaceae for which the name inediibacterium massiliense gen. nov. sp.
+We herein describe strain Mt12T CSUR P1907T  DSM 100590T as the type strain of the type species of Inediibacterium massiliense gen. nov. sp.
 
-in the process we isolated a strain strain mt12t representing a new genus a member of the family clostridiaceae.
+Biochemical analysis of strain Mt12T was carried out using API 50CH API 20A API ZYM strips BioMe'rieux in an anaerobic atmosphere.
 
-we herein describe strain mt12t csur p1907t  dsm 100590t as the type strain of the type species of inediibacterium massiliense gen. nov. sp.
-
-biochemical analysis of strain mt12t was carried out using api 50ch api 20a api zym strips biome'rieux in an anaerobic atmosphere.
-
-genomic dna gdna was quantified by a qubit assay with the high sensitivity kit life technologies carlsbad ca usa to123.7 ngll.the genomic dna gdna of strain mt12t was sequenced using a miseq sequencer illumina inc san diego ca usa and the mate pair strategy  .
-
-within this run the index representation for strain mt12t was determined as 9.51. the 1149152 paired reads were trimmed then assembled to 14 scaffolds.genome annotation and analysisopen reading frames orfs were predicted using prodigal hyatt et al.
-
-the genome of strain mt12t was compared to those of alkaliphilus metal- liredigens strain qymf clostridium aceticum strain dsm 1496 alkaliphilus transvaalensis strain sagm1 and alkaliphilus oremlandii strain ohilas.for each selected genome the complete genome sequence proteome genome sequence and orfeome genome sequence were retrieved from the ftp of ncbi.
-
-.results and discussionstrain identification and phylogenetic analysesstrain mt12t was first isolated after a 10-day pre- incubation of a stool sample in an anaerobic blood culture bottle supplemented with 0.2l filter-sterilised rumen and sheep blood and seeding on 5 sheepblood-enriched colombia agar in anaerobic atmo- spheric conditions at 37 degc.
+Genomic DNA gDNA was quantified by a Qubit assay with the high sensitivity kit Life technologies Carlsbad CA USA to123.7 ngll.The genomic DNA gDNA of strain Mt12T was sequenced using a MiSeq sequencer Illumina Inc San Diego CA USA and the mate pair strategy  .
 

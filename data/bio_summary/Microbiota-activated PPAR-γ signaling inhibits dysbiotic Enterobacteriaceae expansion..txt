@@ -1,30 +1,20 @@
-s1 a common marker of dysbiosis 1. thus an expansion of enterobacteriaceae in the gut-associated microbial community is a microbial signature of epithelial dysfunction which has important ramifications for targeting ppar-g-signaling as a potential intervention strategy.materials and methodsbacterial culture conditionsthe 17 human clostridia isolates were kindly provided by k. honda 20 26 and were cultured individually as described previously 10. e. coli strains wild-type e. coli nissle 1917 e. coli nissle 1917 napa narz narg mutant 2 e. coli nissle 1917 cydab mutant e. coli nissle 1917 cydab napa narz narg mutant e. coli jb2 27 e. coli mg1655 e. coli mg1655 cyda mutant and s. typhmurium strains wild-type atcc14028 resistant to nalidixic acid ir715 ir715 inva spib mutant ir715 cyxa mutant or ir715 inva spib cyxa mutant 3 were routinely grown aerobically at 37degc in lb broth bd biosciences or on lb plates.
+E. coli strains wild-type E. coli Nissle 1917 E. coli Nissle 1917 napA narZ narG mutant 2 E. coli Nissle 1917 cydAB mutant E. coli Nissle 1917 cydAB napA narZ narG mutant E. coli JB2 27 E. coli MG1655 E. coli MG1655 cydA mutant and S. Typhmurium strains wild-type ATCC14028 resistant to nalidixic acid IR715 IR715 invA spiB mutant IR715 cyxA mutant or IR715 invA spiB cyxA mutant 3 were routinely grown aerobically at 37degC in LB broth BD Biosciences or on LB plates.
 
-plasmid pfrc12 was propagated in e. coli dh5a lpir and introduced into a streptomycin resistant e. coli mg1655 strain by conjugation using e. coli s17-1 lpir as a donor strain.
+Plasmid pFRC12 was propagated in E. coli DH5a lpir and introduced into a streptomycin resistant E. coli MG1655 strain by conjugation using E. coli S17-1 lpir as a donor strain.
 
-to investigate whether inhibition of ppar-g signaling would support a nitrate respiration-dependent expansion of e. coli without antibiotic treatment mice were mock-treated inoculation with sterile pbs or treated with the ppar-g antagonist gw9662 and then infected with e. coli indicator strains.
+Plasmid pCAL61 2 was transformed into the E. coli Nissle 1917 cydA mutant strain to introduce a selective marker.To generate an E. coli Nissle 1917 cydA napA narG narZ mutant E. coil Nissle 1917 cydA pSW172 served as recipient for sequential conjugations and sucrose selections using conjugational donor strains carrying plasmids pSW224 pSW225 and pSW237 4 respectively.
 
-to directly test whether butyrate was responsible for inhibiting nitrate respiration of e. coli in littermate control animals mice were treated with streptomycin infected the next day with e. coli indicator strains and inoculated one day later with 123-tributyrylglycerol tributyrin.
+To investigate whether inhibition of PPAR-g signaling would support a nitrate respiration-dependent expansion of E. coli without antibiotic treatment mice were mock-treated inoculation with sterile PBS or treated with the PPAR-g antagonist GW9662 and then infected with E. coli indicator strains.
 
-single colonies of endogenous coliforms isolated on mcconkey agar from the feces of charles river mice were subjected to species identification using enteropluri test liofilchem italy per the manufacturers recommendations.construction of e. coli mutantsto construct an e. coli nissle 1917 cyda mutant upstream and downstream regions of approximately 0.5kb in length flanking the cyda gene were amplified by pcr and purified using the minielute kit qiagen.
+To directly test whether butyrate was responsible for inhibiting nitrate respiration of E. coli in littermate control animals mice were treated with streptomycin infected the next day with E. coli indicator strains and inoculated one day later with 123-tributyrylglycerol tributyrin.
 
-plasmid pyl9 was then transformed into e. coli s17-1 lpir and conjugation performed with e. coli nissle 1917 carrying the temperature-sensitive plasmid psw172 for counter selection 4. conjugation was performed at 30degc and exconjugants in which the suicide plasmid had integrated into the chromosome were recovered on lb plates containing carbenicilin and chloramphenicol.
+Single colonies of endogenous coliforms isolated on McConkey agar from the feces of Charles River mice were subjected to species identification using EnteroPluri Test Liofilchem Italy per the manufacturers recommendations.Construction of E. coli mutantsTo construct an E. coli Nissle 1917 cydA mutant upstream and downstream regions of approximately 0.5kb in length flanking the cydA gene were amplified by PCR and purified using the MiniElute kit Qiagen.
 
-plasmid pcal61 2 was transformed into the e. coli nissle 1917 cyda mutant strain to introduce a selective marker.to generate an e. coli nissle 1917 cyda napa narg narz mutant e. coil nissle 1917 cyda psw172 served as recipient for sequential conjugations and sucrose selections using conjugational donor strains carrying plasmids psw224 psw225 and psw237 4 respectively.
+Plasmid pYL9 was then transformed into E. coli S17-1 lpir and conjugation performed with E. coli Nissle 1917 carrying the temperature-sensitive plasmid pSW172 for counter selection 4.
 
-at day 4 of dss treatment mice were inoculated with 1 x 109 cfu of a 11 mixture of e. coli nissle 1917 and e. coli nissle 1917 cyda mutant or 11 mixture of a s. typhimurium inva spib mutant and a s. typhimurium inva spib cyxa mutant.
+At day 4 of DSS treatment mice were inoculated with 1 x 109 CFU of a 11 mixture of E. coli Nissle 1917 and E. coli Nissle 1917 cydA mutant or 11 mixture of a S. Typhimurium invA spiB mutant and a S. Typhimurium invA spiB cyxA mutant.
 
-increased recovery of a wild-type e. coli strain by comparison with an isogenic derivative deficient for nitrate respiration napa narg narz mutant was observed in mice c57bl6 from jackson infected with a 11 mixture of both strains fig.
+Finally plasmid pSW172 was cured and plasmid pCAL61 introduced by transformation into the E. coil Nissle 1917 cydA napA narG narZ mutant strain to introduce a selective marker.To generate a cydA mutant of E. coli strain MG1655 an internal fragment of the cydA gene was amplified by PCR using the primers MGcydAF GAGGTACCGCATGCGATATCGAGCTATGAATCCGGCTACGAAATG and MGcydAR TAGCGATCGAATTCCCGGGAGAGCTCCTGGTCGGTAGAACCAGAA.
 
-supplementing streptomycin-treated mice with the inos inhibitor aminoguanidine hydrochloride ag abrogated the growth advantage conferred upon e. coli by nitrate respiration fig.
-
-s1.next we used e. coli indicator strains to investigate whether silencing ppar-g signaling would increase the bioavailability of nitrate in the colon.
-
-to this end mice were inoculated with a 11 mixture of a nitrate respiration-proficient indicator strain e. coli wild type and an isogenic nitrate respiration-deficient indicator strain napa narg narz mutant.
-
-treatment with the ppar-g agonist rosiglitazone abrogated the fitness advantage conferred to wild- type e. coli by nitrate respiration in streptomycin-treated mice fig.
-
-treatment with gw9662 significantly increased the overall number of e. coli recovered from the colon of mice p  0.05 fig.
-
-1i by driving a nitrate respiration- dependent e. coli expansion as shown by increased recovery of the wild type over a nitrate respiration-deficient mutant p  0.05 fig.
+Increased recovery of a wild-type E. coli strain by comparison with an isogenic derivative deficient for nitrate respiration napA narG narZ mutant was observed in mice C57BL6 from Jackson infected with a 11 mixture of both strains Fig.
 

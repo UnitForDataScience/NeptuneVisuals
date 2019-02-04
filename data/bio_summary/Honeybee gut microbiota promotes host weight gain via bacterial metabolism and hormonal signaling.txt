@@ -1,30 +1,20 @@
-b daily weight gains of gf and cv bees after feeding with sterilized food or food supplemented with hindgut samples of hive nurse bees day 1 to day 15. c  weights of different gut compartments of gf cv and hive nurse bees n  25. bars indicate mean values of 10-15 pooled guts of bees from different hives gf n  4 cv n  4 and hive bees from dif-headabdomen4cv20ilp1ilp2864201010.10gfcvferent hives n  3. d differential expression of ilp inr and vg genes in the head or abdomen of gf and cv bees originating from different hives.
+This procedure yields GF bees with 105 bacteria per gut consisting of an erratic mix of bacterial species versus CV bees with 108 bacteria per gut and consisting primarily of core bee gut species as in naturally inoculated hive bees 19 20.
 
-this procedure yields gf bees with 105 bacteria per gut consisting of an erratic mix of bacterial species versus cv bees with 108 bacteria per gut and consisting primarily of core bee gut species as in naturally inoculated hive bees 19 20. although gf and cv bees showed similar survi- vorship in laboratory experiments cv bees attained greater body weight fig.
+After 15 d the wet weights of both midgut and ileum were also larger in CV bees than in GF bees and were similar to those of nurse bees collected from hives Fig.
 
-weight gain in honey bees has been shown to be associated with insulin insulin insulin-like signaling iis 26. the iis pathway plays a key role in insect growth reproduction and aging 27 and is a regulator of nutrient homeostasis and behavior in honey bees 28 29. the honey bee genome contains genes encoding two insulin-like peptides ilps and two putative insulin receptors inrs for these peptides 30. in addition vitellogenin vg an egg yolk protein interacts with the iis pathway to regulate bee nutritional status 31. the ilps are preferentially expressed in the heads ofworker bees whereas inrs and vg are more highly expressed in abdomens 32.we examined the expression levels of the two ilp genes ilp1 and ilp2 in heads of 7-d-old bees and of two inr genes inr1 and inr2 and one vg gene in the abdomens of the same bees.
+The ILPs are preferentially expressed in the heads ofworker bees whereas InRs and Vg are more highly expressed in abdomens 32.We examined the expression levels of the two ILP genes ilp1 and ilp2 in heads of 7-d-old bees and of two InR genes inR1 and inR2 and one Vg gene in the abdomens of the same bees.
 
-nevertheless such stimulation is consistent with the increase in vg expression in the abdomen.the iis pathway regulates the behavior of worker honey bees including division of labor and sucrose sensitivity 29 36. sucrose sensitivity is an indicator of energy status and satiety in honey bees 37. by measuring the proboscis extension response of both cv and gf bees  we found that the gut microbiota sig- nificantly elevates sucrose sensitivity more cv bees responded to lower concentrations of sucrose i.e.
+CV bees were obtained by feeding newly emerged bees with homogenates of hindguts of nurse bees from their original hive.
 
-these findings in- dicate that the bee gut microbiota has basic roles similar to those found in some other animals and thus provides a model in studies of host-microbe interactions.honeybee  gut microbiota  short-chain fatty acids  insulin  metabolomicsoney bees apis mellifera provide a critical link in global food production as pollinators of agricultural crops 1 and their economic value is over 15 billion annually in the united states alone 2. honey bee populations have undergone elevated colony mortality during the last decade in the united states canada and europe 3. a potential role of gut microbial com- munities in the health of honey bees has recently become more widely appreciated 4. perturbation of the gut microbiota leads to higher mortality within hives and greater susceptibility to a bacterial pathogen suggesting a crucial role of normal microbiota in bee health 5. honey bees are associated with specific in- testinal microbiota that is simpler than the microbiota found in mammals but shares some features including host specificity and social transmission 6 and a shared evolutionary history of bac- terial and host lineages 7 8. the bee gut is dominated by eight core bacterial species that are spatially organized within specific gut regions.
+This inoculation method was chosen because it yields CV bees with robust gut communities similar in size and composition to those of normal bees sampled from hives 19 20 however we cannot entirely rule out effects of other components of the homogenized guts on the treatment bees.
 
-after 15 d the wet weights of both midgut and ileum were also larger in cv bees than in gf bees and were similar to those of nurse bees collected from hives fig.
+B Daily weight gains of GF and CV bees after feeding with sterilized food or food supplemented with hindgut samples of hive nurse bees day 1 to day 15.
 
-bees on high- protein diets exhibit harmful weight gain and short lifespans 26 however the similar survival of cv and gf bees indicates that the weight gain of cv bees does not affect longevity.
+Bars indicate mean values of 10-15 pooled guts of bees from different hives GF n  4 CV n  4 and hive bees from dif-HeadAbdomen4CV20ilp1ilp2864201010.10GFCVferent hives n  3.
 
-cv bees were obtained by feeding newly emerged bees with homogenates of hindguts of nurse bees from their original hive.
+Although GF and CV bees showed similar survi- vorship in laboratory experiments CV bees attained greater body weight Fig.
 
-this inoculation method was chosen because it yields cv bees with robust gut communities similar in size and composition to those of normal bees sampled from hives 19 20 however we cannot entirely rule out effects of other components of the homogenized guts on the treatment bees.
+As observed in previous studies all bees gained weight during the first 10 d following emergence 24 but we found that the gain was almost halved for bees deprived of gut microbiota Fig.
 
-as observed in previous studies all bees gained weight during the first 10 d following emergence 24 but we found that the gain was almost halved for bees deprived of gut microbiota fig.
-
-the ilp1 and vg genes were expressed 5.8 and 4.9 times higher in cv than in gf bees respectively and ilp2 and inr1 also increased expression in cv bees fig.
-
-b and c differentially regulated metabolites in rectum b and ileum c. the metabolites enriched in cv bees are shown in purple and those enriched in gf bees are in green.
-
-cv bees are hungrier than gf bees fig.
-
-axial profiles of ph showed greater acidity in cv bees than in gf bees in the center of each gut region whereas the ph in- creases along the midgut and decreases toward the ileum and rectum in both fig.
-
-especially in the ileum and rectum where most bacteria localize the ph values are lower in cv bees around 5.2 than in gf bees around 6.0 suggesting that the difference reflects microbial activity.
+The ilp1 and Vg genes were expressed 5.8 and 4.9 times higher in CV than in GF bees respectively and ilp2 and inR1 also increased expression in CV bees Fig.
 

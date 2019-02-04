@@ -1,30 +1,20 @@
-this allowed us to establish p. caudatum as a vector to administer a defined dose of foodborne ehec to zebrafish larvae.foodborne e. coli colonizes larval zebrafish more efficiently than waterborne ehec.
+This allowed us to establish P. caudatum as a vector to administer a defined dose of foodborne EHEC to zebrafish larvae.Foodborne E. coli colonizes larval zebrafish more efficiently than waterborne EHEC.
 
-zebrafish were exposed to 108 cfuml of food-borne ehec for 2 h. c ehec sakai isogenic f. tola mutant transformed with mcherry and lee1gfp grown planktonically and during zebrafish colonization.
+Since we observed LEE expression in the zebrafish intestinal tract we next tested if LEE expres- sion and EHEC intestinal colonization levels were linked using the zebrafish model.
 
-since we observed lee expression in the zebrafish intestinal tract we next tested if lee expres- sion and ehec intestinal colonization levels were linked using the zebrafish model.
+Having established that T3SS expression is specifically induced in the zebrafish host and is necessary for efficient intestinal colonization we asked if EHEC ingestion would cause mortality in zebrafish.
 
-having established that t3ss expression is specifically induced in the zebrafish host and is necessary for efficient intestinal colonization we asked if ehec ingestion would cause mortality in zebrafish.
+The zebrafish model allows simultaneous analysis of fecal shedding and fecal-oral transmission from infected fish to naiveFIG 6 EHEC ingestion causes dose-dependent and strain-specific mortality in zebrafish.
 
-the zebrafish model allows simultaneous analysis of fecal shedding and fecal-oral transmission from infected fish to naivefig 6 ehec ingestion causes dose-dependent and strain-specific mortality in zebrafish.
+These data demonstrate that the dynamics of fecal shedding and fecal-oral transmission to naive hosts can be studied using the zebrafish model.The zebrafish microbiota provides a barrier to EHEC colonization.
 
-these data demonstrate that the dynamics of fecal shedding and fecal-oral transmission to naive hosts can be studied using the zebrafish model.the zebrafish microbiota provides a barrier to ehec colonization.
+And yet the interactions between ingested pathogens and the endogenous microbiota and the impact of the microbiota composition on the fate of infection are of interest particularly in the case of EHEC  and it would be desirable to be able to address these issues in the zebrafish infection model.It has been reported that zebrafish acquire a microbiota which rapidly diversifies during early development   .
 
-and yet the interactions between ingested pathogens and the endogenous microbiota and the impact of the microbiota composition on the fate of infection are of interest particularly in the case of ehec  and it would be desirable to be able to address these issues in the zebrafish infection model.it has been reported that zebrafish acquire a microbiota which rapidly diversifies during early development   .
+C Colonization of conventionalized zebrafish with EHEC mCherry following 2 Ci 8 Cii 16 Ciii and 24 h Civ of infection.bacterial burden expanded with increased incubation time and could easily be visual- ized from 16 hpi .DISCUSSIONHere we establish zebrafish larvae as a new vertebrate model for EHEC infection.
 
-c colonization of conventionalized zebrafish with ehec mcherry following 2 ci 8 cii 16 ciii and 24 h civ of infection.bacterial burden expanded with increased incubation time and could easily be visual- ized from 16 hpi .discussionhere we establish zebrafish larvae as a new vertebrate model for ehec infection.
+Limitations of the zebrafish model are that the microbiota of humans and the microbiota of zebrafish are quite different although they share some characteristics in that they act as a colonization barrier against pathogens and are stable and yet individually variable.
 
-zebrafish have been used extensively to study bacterial infections but few gastrointestinal infection models have been described to date and our report provides to our knowledge the first extensive description of a foodborne infection model in zebrafish.
+Whether EHEC displays any altered ability or preference to colonize different intestinal epithelial cell types early in the infection process is still unknown however the similarity between mammalian and zebrafish intestinal epithelial cells and the genetic tractability and optical properties of zebrafish will hopefully provide a useful tool to further dissect these interactions.Human EHEC infection is known to cause a strong proinflammatory response and neutrophil infiltration of the lamina propria and transmigration through the intestinal epithelium into the gut lumen have been described in monkey piglet and rodent models   .
 
-limitations of the zebrafish model are that the microbiota of humans and the microbiota of zebrafish are quite different although they share some characteristics in that they act as a colonization barrier against pathogens and are stable and yet individually variable.
-
-whether ehec displays any altered ability or preference to colonize different intestinal epithelial cell types early in the infection process is still unknown however the similarity between mammalian and zebrafish intestinal epithelial cells and the genetic tractability and optical properties of zebrafish will hopefully provide a useful tool to further dissect these interactions.human ehec infection is known to cause a strong proinflammatory response and neutrophil infiltration of the lamina propria and transmigration through the intestinal epithelium into the gut lumen have been described in monkey piglet and rodent models   .
-
-for waterborne infections the indicated ehec concentrations were directly prepared in e3 medium and added to zebrafish larvae 2 ml10 zebrafish larvae6-well plate.
-
-here we describe the establishment of a vertebrate model for food- borne ehec infection using larval zebrafish danio rerio as a host and the proto- zoan prey paramecium caudatum as a vehicle.
-
-ehec infection led to strain- and lee-dependent mortality in the zebrafish host.
-
-we developed a model which allows us to study foodborne infection in zebrafish a vertebrate host that is transparent and geneti- cally tractable.
+For waterborne infections the indicated EHEC concentrations were directly prepared in E3 medium and added to zebrafish larvae 2 ml10 zebrafish larvae6-well plate.
 

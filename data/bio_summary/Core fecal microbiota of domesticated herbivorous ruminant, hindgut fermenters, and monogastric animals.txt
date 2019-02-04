@@ -1,30 +1,20 @@
-many ruminant mi- crobiota profiling studies have focused on cattle because of their im- portance in the beef and dairy industry brulc et al.
+Proceedings of the National Academy of Sciences of the United States of America 107 14691-14696.De Jesus-Laboy K. M. Godoy-Vitorino F. Piceno Y. M. Tom L. M. Pantoja-Feliciano I. G. Rivera-Rivera M. J.
 
-2009 callaway et al.
+PLoS ONE 8 e70103.Brulc J. M. Antonopoulos D. A. Berg Miller M. E. Wilson M. K. YannarellC.
 
-2010 jami  mizrahi 2012 welkie stevenson  weimer 2010. hindgut fermenter microbiota research has similarly focused on the horse because of the economic importance of this species as work and performance animals costa et al.
+PLoS ONE 8 e83655.O' Donnell M. M. Harris H. M. B. Jeffery I.
 
-2012 daly stewart flint  shirazi beechey 2001 o' donnell et al.
+Received 13 February 2017  Revised 22 May 2017  Accepted 25 May 2017 DOI 10.1002mbo3.509ORIGINAL RESEAR CH Core fecal microbiota of domesticated herbivorous ruminant hindgut fermenters and monogastric animalsMichelle M. O' Donnell12  Hugh M. B. Harris2  R. Paul Ross12  Paul W. O'Toole21Food Biosciences Department Teagasc Food Research Centre Cork Ireland2Department of Microbiology University College Cork Cork IrelandCorrespondencePaul W. O'Toole Department of Microbiology University College Cork Cork IrelandEmail Funding informationScience Foundation Ireland GrantAward Number Principal Investigator Award 07 IN.1B17801  INTRODUCTION Animal digestion types are classified as herbivores ruminants and hindgut fermenters carnivores and omnivores.
 
-ley hamady et al.
+ISME Journal 5 801-809.De Filippo C. Cavalieri D. di Paola M. Ramazzotti M. Poullet J.
 
-the study concluded that gut microbiota diversity was influenced by diet type herbivorous carniv- orous or omnivorous and host phylogeny with herbivorous animals having the most diverse microbiota ley hamady et al.
+BMC Veterinary Research 10 62.Garcia-Amado M. A. Godoy-Vitorino F. Piceno Y. Tom L. Andersen G. Herrera E.  Dominguez-Bello M. 2012.
 
-2008. a fol- low-up study examined the animal fecal microbiota to assess whether diet or host phylogeny determined the animals microbiota muegge et al.
+Microbial Ecology 63 719-725.Gentleman R. C. Carey V. J. Bates D. M. Bolstad B. Dettling M. Dudoit S. ... Gentry J.
 
-diet and not phylogeny of the host had the greatest influence on the gut microbiota taxa present muegge et al.
+Archives of Microbiology 151 399-406.Haas B. J. Gevers D. Earl A. M. Feldgarden M. Ward D. V. Giannoukos G. ... Sodergren E. 2011.
 
-total bacterial genomic dna was isolated from the feces according to the repeat bead beating plus column method rbbc yu  morrison 2004. the extracted dna was then used as a template in the v4 region pcr amplifications using a method outlined previously o' donnell et al.
+FEMS Microbiology Ecology 47 161-177.Kim M. Morrison M.  Yu Z.
 
-representative sequences were aligned using pynast caporaso et al.
-
-2009 using the best match from the greengenes core set desantis et al.
-
-2006. taxonomy was assigned from phylum to genus level using the rdp classifier cole et al.
-
-2005 with a minimum confidence value of 0.5. chimeric sequences were re- moved using chimeraslayer haas et al.
-
-venny an online venn diagram tool was used to create a figure representing the core genera oliveros 2007. a heatmap for the genera present in each animal species was generated using r team r. c 2014 and bioconducter gentleman et al.
-
-observed species shannon index and phylogenetic diversity metrics were calculated as previously outlined o' donnell et al.
+PLoS ONE 6 e22109.Nelson T. M. Rogers T. L.  Brown M. V. 2013.
 

@@ -1,30 +1,20 @@
-after removal of chimeric otus 1371 singleton otus 2218 and further plas- tidic otus 63 362 bacterial otus remained representing a total of 27473 sequences 357-1418 sequences per sample with an average of 981.2 reads per sample supplementary figure .
+After removal of chimeric OTUs 1371 singleton OTUs 2218 and further plas- tidic OTUs 63 362 bacterial OTUs remained representing a total of 27473 sequences 357-1418 sequences per sample with an average of 981.2 reads per sample Supplementary Figure .
 
-previously flores and coworkers 2013analyzed a single kitchen sponge sample from boulder in colorado usa and detected 123 otus of which about 20 were singletons with a phylogenetic diversity metric pd of 7.88. our dataset was based on 14 sponges sepa- rated into top and bottom parts each and yielded 362 otus in total with an average of 31 otus 8-62 and an average pd of 4.28 1.92-7.46 per sample not including singleton otus.
+Our dataset was based on 14 sponges sepa- rated into top and bottom parts each and yielded 362 OTUs in total with an average of 31 OTUs 8-62 and an average PD of 4.28 1.92-7.46 per sample not including singleton OTUs.
 
-if singleton otus were included the total number of otus would increase to 1823 and our dataset would yield an average of 96 otus 42-199 and an average pd of 10.06 5.08-18.50 per sponge sample.
+If singleton OTUs were included the total number of OTUs would increase to 1823 and our dataset would yield an average of 96 OTUs 42-199 and an average PD of 10.06 5.08-18.50 per sponge sample.
 
-also other typical enteropathogenic genera were not detected here such as campylobacter sp.the scarce retrieval of bacterial taxa targeted in previous studies of kitchen sponges such as coliforms can be explained with the very high abundance of total bacteria in the sponges which locally exceeded 1010 bacterial cells per cm3 based on our fish analyses.
+To identify significant patterns of correlated bacteria in the used kitchen sponges the OTUs with a relative frequency higher than 0.5 of the total non-rarified sequence dataset 27 OTUs in total were subjected to a Spearman correlation analysis of the occurrence patterns .
 
-although we calculated the bacterial density of localized heavy colonized sponge sites supplementary video file  a statistically averaged bacterial abundance over whole sponges remains to be assessed.
+Five of the ten most abundant OTUs were closely related to risk group 2 RG2 species previously detected in the BE and kitchen microbiome.
 
-.only seven otus were affiliated with enterobacteriaceae and had a cumulative relative abundance of 1.18. manual blast analysis of these otus yielded the genera enterobacter escherichia citrobacter and leclercia.
+Two of the ten dominant OTUs closely related to the RG2-species Chryseobacterium hominis and Moraxella osloensis showed significantly greater proportions in regularly sanitized sponges thereby questioning such sanitation methods in a long term perspective.
 
-whereas no additional factor significantly affected the alpha-diversity of the sponge microbiome p  0.1. other alpha-diversity metrics simpson index simpson reciprocal index simpson evenness dominance equitability pd whole tree chao1 number of otus were calculated and the results were similar to those obtained for the shannon-weaver index p  0.01 supplementary table  exceptfigure 2. neighbor-joining phylogenetic tree of the ten most abundant otus in the analyzed kitchen sponges as retrieved by pyrosequencing of 16s rrna gene amplicon libraries.
+After lengthquality filtering a total of 33181 high quality sequences were kept Supplementary log File  which were then grouped into 4014 OTUs at 97 sequence similarity threshold.
 
-to identify significant patterns of correlated bacteria in the used kitchen sponges the otus with a relative frequency higher than 0.5 of the total non-rarified sequence dataset 27 otus in total were subjected to a spearman correlation analysis of the occurrence patterns .
+No mitochondrial OTUs occurred.
 
-we analyzed the bacterial microbiome of used kitchen sponges by 454-pyrosequencing of 16s rrna genes and fluorescence in situ hybridization coupled withconfocal laser scanning microscopy fish-clsm.
+The sequence dataset was submitted to EMBL  under the project number PRJEB18578.The taxonomic assignment of the OTUs performed by QIIME according to the RDP database revealed 9 phyla 17 classes 35 orders 73 families and 118 genera Fig.
 
-c pie charts showing the taxonomic composition of the bacterial kitchen sponge microbiome as delivered by pyrosequencing of 16s rrna gene libraries of 28 sponge samples top and bottom samples of 14 sponges respectively.
-
-this evidence as well as the common percep- tion of kitchen sponges as collectors of microorganisms initiated the development of commercial products and devices for effective sanitation of kitchen sponges for example martz 2001. in addition microwave and boil- ing treatments were shown to significantly reduce the bacterial load .
-
-however results were contradictory for example showing effectiveness in the laboratory but not in used kitchen sponges and no method alone seemed to be able to achieve a general bacterial reduction of more than about 60. kitchen sponges not only act as reservoir of microorganisms but also as disseminators over domestic surfaces which can lead to cross-contam- ination of hands and food which is considered a main cause of food-borne disease outbreaks-.
-
-to the best of our knowledge the kitchen spongemicrobiome was investigated by next generation sequencing only in a single study so far in which however the results were stemming from just a single sponge sample analyzed among 82 other kitchen surfaces.in this study we comprehensively analyzed the bacterial microbiome of used domestic kitchen sponges by high-throughput 16s rrna gene sequencing in order to unravel its actual taxonomic assemblage and diversity and to assess the influence of selected intrinsic sponge-specific and extrinsic sponge usage-specific factors supplementary table  on the microbiome structure.
-
-our work closes a gap in the knowledge of the be microbiome and provides new and important infor- mation for an effective domestic hygiene awareness.resultsthe aim of this study was to investigate the bacterial microbiome composition of used kitchen sponges to vis- ualize the spatial distribution of the bacteria within the sponge tissue and to identify factors that influence the microbiome composition.
-
-although new kitchen sponges are probably not sterile the data presented below obviously result from a bacterial coloniza- tion that largely took place during the use of the sponges.pyrosequencing of 16s rrna gene amplicon libraries and phylogenetic analysis.
+The ten most abun- dant OTUs accounted for 68.72 of all sequences and were quite ubiquitous each occurring in 11 to 14 sponges with the only exception of OTU1492 that was detected in 8 sponges only.
 

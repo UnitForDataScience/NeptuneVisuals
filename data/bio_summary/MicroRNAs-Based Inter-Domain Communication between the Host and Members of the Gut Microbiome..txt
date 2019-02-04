@@ -1,30 +1,20 @@
-though the relationship between microrna expression and gut diseases has been extensively studied the full extent of this relationship and the importance of the gut microbiota on this is less clear.microbes associated with gut diseasesdysbiosis of gut microbial communities that results in the loss of host-microbiota symbiosis often results in a shift from symbiont to pathobiont.
+In this review we have discussed potential interactions between the gut microbiome and host microRNAsmicroRNAs and gut diseases and gut diseases and the gut microbiome.
 
-as both micrornas and gut microbes are important in the development of certain gut diseases it is evident that role of micrornas cannot be overlooked in studies focusing on gut microbiome associated diseases.links between exposure to environmental contaminants microrna expression and the gut microbiomeexposure to environmental contaminants can increase the risk for many diseases.
+Three important interactions between the host and gut microbiomeinvolving microRNAs are clear however including i microRNAs regulate host gene expression Figure 1A ii gut microbiota influences host microRNA expression Figure 1B and iii the host influences the gut microbiota through the release of microRNAs Figure 1C.
 
-2016. three important interactions between the host and gut microbiomeinvolving micrornas are clear however including i micrornas regulate host gene expression figure 1a ii gut microbiota influences host microrna expression figure 1b and iii the host influences the gut microbiota through the release of micrornas figure 1c.
+Though the relationship between microRNA expression and gut diseases has been extensively studied the full extent of this relationship and the importance of the gut microbiota on this is less clear.MICROBES ASSOCIATED WITH GUT DISEASESDysbiosis of gut microbial communities that results in the loss of host-microbiota symbiosis often results in a shift from symbiont to pathobiont.
 
-in this review we have discussed potential interactions between the gut microbiome and host micrornasmicrornas and gut diseases and gut diseases and the gut microbiome.
+Though the relationship of microRNA expression to gut diseases as well as the relationship of gut microbiome dysbiosis to gut diseases has been studied their investigation together namely the communication that may be occurring therein has not.
 
-2017. though the relationship of microrna expression to gut diseases as well as the relationship of gut microbiome dysbiosis to gut diseases has been studied their investigation together namely the communication that may be occurring therein has not.
+As both microRNAs and gut microbes are important in the development of certain gut diseases it is evident that role of microRNAs cannot be overlooked in studies focusing on gut microbiome associated diseases.LINKS BETWEEN EXPOSURE TO ENVIRONMENTAL CONTAMINANTS MICRORNA EXPRESSION AND THE GUT MICROBIOMEExposure to environmental contaminants can increase the risk for many diseases.
 
-2012. analysis of gut microbial regulation of host gene expression along the length of the gut and regulation of gut microbial ecology through myd88.
+Analysis of gut microbial regulation of host gene expression along the length of the gut and regulation of gut microbial ecology through MyD88.
 
-uc mice with high il-12il-23p40 expression also had lower expression of mir-10a in intestinal tissues compared with healthy mice suggesting the importance of mir-10a in disease though this may not be due to direct affects.the gut microbiome may also be regulating host micrornas and function in regions beyond the gut.
+We also examine potential links between host microRNA-microbiota communication and exposure to environmental toxicants by reviewing connections between i toxicants and microRNA expression ii toxicants and gut diseases and iii toxicants and the gut microbiome.
 
-microrna expression profiles were determined via microarray and quantitative reverse transcription polymerase chain reaction qrt-pcr by comparing tissues from germ-free n  6 and colonized mice n  6. increased expression of mir-128 mir-200c and mir-342-5p and decreased expression ofmir-465c-5p mir-466d-5p mir-665 and mir-683 was observed in colon tissues table 1. increased expression of mir-298 was observed in ileum tissues.
+2011 the maximum fold change for downregulated microRNAs was 0.2 and for upregulated microRNAs was 4.6.One of the earliest reports of the impact of the gut microbiome on microRNA expression used germ-free mice colonized with gut microbiota from specific pathogen-free SPF mice Dalmasso et al.
 
-we also examine potential links between host microrna-microbiota communication and exposure to environmental toxicants by reviewing connections between i toxicants and microrna expression ii toxicants and gut diseases and iii toxicants and the gut microbiome.
+UC mice with high IL-12IL-23p40 expression also had lower expression of miR-10a in intestinal tissues compared with healthy mice suggesting the importance of miR-10a in disease though this may not be due to direct affects.The gut microbiome may also be regulating host microRNAs and function in regions beyond the gut.
 
-2011 the maximum fold change for downregulated micrornas was 0.2 and for upregulated micrornas was 4.6.one of the earliest reports of the impact of the gut microbiome on microrna expression used germ-free mice colonized with gut microbiota from specific pathogen-free spf mice dalmasso et al.
-
-similar expression profile results were also observed in human subjects when comparing healthy n  12 and active uc patients n  11.dysbiosis of the gut microbiome is also linked with gut diseases such as crohn's disease and uc.
-
-second many outside factors such as environmental exposure to toxicants impact the gut microbiome differential microrna expression and gut diseases.
-
-reviewed in peng and croce 2016.regulation of host gene expression is one means of communication between the gut microbiota and host through the manipulation of host microrna expression figure 1b.
-
-indeed it was found that let-7 family was abundant in both intracellular and extracellular environments while the low metastatic cell line az-521 had much lower levels in both environments which could result in increased expression levels in gastric cancer.characterizing the altered microrna expression in certain gut diseases is important for understanding their role in disease as well as in the development of treatment options.
-
-the importance of commensals in maintaining overall gut homeostasis is clear as evidenced by the success of fecal transplantation in the treatment of gut diseases such as uc borody et al.
+The importance of commensals in maintaining overall gut homeostasis is clear as evidenced by the success of fecal transplantation in the treatment of gut diseases such as UC Borody et al.
 

@@ -1,30 +1,20 @@
-in this formula the value of tgth represents the convergence value of the size of the core genome or the number of new genes singletons.resultsgeneral featuresthe number of contigs in the draft genomes varied from 22 to 244. the genome lengths varied by 613994 bp in size.
+The phylogenetic analysis of the 16S rRNA sequences together with the wgMLST profiles and a phylogenomic tree based on comparisons of genome similarity all supported the clustering of Faecalibacterium strains in different genospecies.
 
-when the analysis considered only the genomes within a cluster the lcbs were larger and less numerous.pangenome calculationto take a global view of the genome of faecalibacterium and to further explore the genome diversity of this genus we calculated the size of the pangenome i.e.
+The genome data of five different F. prausnitzii strains were retrieved from the PATRIC public database.
 
-similarly the extrapolation of the pangenome size calculated for groups a b and c generated a values of 0.63 0.77 and 0.66 respectively figure 6.examination of the core genome showed that 1421 cdss were shared by all genomes which corresponded to less than 50 of the average gene content in each genome 3110.29 cdss and represented 13.71 of the total pangenome.
+The genome of the wild-type strain F. prausnitzii A2-165 F. prausnitziiA2- 165PacBio was sequenced using PacBio single-molecule real- time SMRT technology on an RS system Pacific Bioscience and assembled by the GATC Biotech Company.
 
-unique to a single genome contained 4465 cdss while within- group analyses revealed 2184 988 and 1666 singleton cdss respectively within groups a b and c figure 5. by examiningthe extrapolated curve of the core genome of faecalibacterium ssp.
+The 17 genome sequences were compared with the resulting PGAdb profile using BLASTn with filters of 80 coverage and 90 identity.Average Nucleotide IdentityWe also performed an Average Nucleotide Identity ANI analysis using the whole-genome sequences.
 
-we likewise arrived at the same conclusion by analyzing the development ofthe core genome and singletons the final core genome tended to be larger within each genospecies than within the all-genome analysis.
+The amino-acid sequences from all coding DNA sequences CDSs in each genome were first used in an all-vs.- all BLASTp analysis with an e-value of 10-6 the sequences were then clustered using the MCL algorithm.
 
-81790.doi 1 department of general biology federal university of minas gerais belo horizonte brazil 2 commensals and probiotics-host interactions laboratory micalis institute institut national de la recherche agronomique agroparistech universite paris-saclay jouy-en-josas france 3 faculty of medicine translational research institute university of queensland diamantina institute university of queensland st. lucia qld australia 4 umr 6023 laboratoiremicroorganismes genome et environnement centre national de la recherche scientifique universite clermont auvergne clermont-ferrand france 5 faculte de medecine saint-antoine institut national de la sante et de la recherche medicale u1157umr7203 avenir team gut microbiota and immunity equipe de recherche labelisee universite pierre et marie curie paris france 6 service de gastroenterologie hopital saint-antoine assistance publique--hopitaux de paris paris france 7 department of immunology microbiology and parasitology institute of biological sciences and natural sciences federal university of triangulo mineiro uberaba brazilfaecalibacterium prausnitzii is a commensal bacterium ubiquitous in the gastrointestinal tracts of animals and humans.
+The CDSs observed in all strains were considered to comprise the core genome while the CDSs harbored by only one strain were considered to be singleton genes.To calculate pangenome development we applied Heap's Law with the formula n  kN-a where n is the expected number of genes for a given number of genomes N is the number of genomes and the other terms are constants defined to fit the specific curve.
 
-briefly we performed analyses of 16s rrna gene phylogeny phylogenomics whole genome multi-locus sequence typing wgmlst average nucleotide identity ani gene synteny and pangenome to better elucidate the phylogenetic relationships among strains of faecalibacterium.
+The extrapolations of the curves of the core genome and singletons were calculated using the least- squares fit of the exponential regression decay of the mean values as represented by the formula n  kexp-xttgth where n is the expected subset of genes for x number of genomes exp is Euler's number and the other terms are constants defined to fitFIGURE 1  Phylogenetic analysis based on 16S rRNA gene sequences.
 
-the phylogenetic analysis of the 16s rrna sequences together with the wgmlst profiles and a phylogenomic tree based on comparisons of genome similarity all supported the clustering of faecalibacterium strains in different genospecies.
+The genome lengths varied by 613994 bp in size.
 
-altogetherour results provide evidence not only for the reconsideration of the phylogenetic and genomic relatedness among strains currently assigned to f. prausnitzii but also the need for lineage strain-based differentiation of this taxon to better define how specific members might be associated with positive or negative host interactions.keywords faecalibacterium prausnitzii genome sequencing 16s rrna gene phylogeny phylogenomic analysis average nucleotide identity gene synteny pangenome new speciesintroductionmembers of genus faecalibacterium are commensal bacteria ubiquitous in the gastrointestinal tracts of animals and humans.
+When the analysis considered only the genomes within a cluster the LCBs were larger and less numerous.Pangenome CalculationTo take a global view of the genome of Faecalibacterium and to further explore the genome diversity of this genus we calculated the size of the pangenome i.e.
 
-2012 2017. here we present a new phylogenetic and comparative study of five sequenced genomes of f. prausnitzii available in public databases combined with twelve new genome sequences isolated from healthy volunteers in europe and australia.
-
-these data will enable new insights into the contributions of genus faecalibacterium to gut function.methodsgenome sequencing assembly and annotationthe genomes used in this study are presented in table 1. the genome data of five different f. prausnitzii strains were retrieved from the patric public database.
-
-these were combined with genome data from ten newly isolated f. prausnitzii strains recovered from stool samples of healthy european volunteers martin et al.
-
-the genome of the wild-type strain f. prausnitzii a2-165 f. prausnitziia2- 165pacbio was sequenced using pacbio single-molecule real- time smrt technology on an rs system pacific bioscience and assembled by the gatc biotech company.
-
-2008.phylogenyphylogenetic analyses were performed on 16s rrna sequences whole genome sequences and the results of whole-genome multi-locus sequence typing wgmlst.
-
-for the first analysis the 16s rrna sequence from the genome of f. prausnitziia2- 165pacbio was used to perform a blastn search in the ncbi database for all sequences belonging to the genus faecalibacterium.
+Similarly the extrapolation of the pangenome size calculated for groups A B and C generated a values of 0.63 0.77 and 0.66 respectively Figure 6.Examination of the core genome showed that 1421 CDSs were shared by all genomes which corresponded to less than 50 of the average gene content in each genome 3110.29 CDSs and represented 13.71 of the total pangenome.
 

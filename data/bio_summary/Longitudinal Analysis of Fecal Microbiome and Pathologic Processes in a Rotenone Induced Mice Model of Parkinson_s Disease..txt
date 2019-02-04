@@ -1,30 +1,20 @@
-we found fecal microbiota dysbiosis preceded the major motor dysfunction and central nervous system cns pathology in rotenone induced pd mice model which indicated fecal microbiota perturbation might contribute to rotenone toxicity in the initiation of pd.materials and methodsanimal experimentsmale c57bl6 mice aged between 8 and 9 weeks were purchased from shanghai silaike slac laboratory animal company shanghai china.
+16S rRNA sequencing of fecal microbiome showed rotenone-treated mice exhibited fecal microbiota dysbiosis characterized by an overall decrease in bacterial diversity and a significant change of microbiota composition notably members of the phyla Firmicutes and Bacteroidetes with an increase in FirmicutesBacteroidetes ratio after 3 weeks of rotenone treatment.
 
-16s rrna sequencing of fecal microbiome showed rotenone-treated mice exhibited fecal microbiota dysbiosis characterized by an overall decrease in bacterial diversity and a significant change of microbiota composition notably members of the phyla firmicutes and bacteroidetes with an increase in firmicutesbacteroidetes ratio after 3 weeks of rotenone treatment.
+Novel therapeutic options aimed at modifying the gut microbiota composition might postpone the onset and following cascade of neurodegeneration.Keywords fecal microbiota 16S rRNA gene sequencing rotenone inflammation Parkinson's diseaseINTRODUCTIONParkinson's disease PD is a neurodegenerative disorder estimated to affect more than 1 of the over-65 population.
 
-novel therapeutic options aimed at modifying the gut microbiota composition might postpone the onset and following cascade of neurodegeneration.keywords fecal microbiota 16s rrna gene sequencing rotenone inflammation parkinson's diseaseintroductionparkinson's disease pd is a neurodegenerative disorder estimated to affect more than 1 of the over-65 population.
+In addition study of the gut microbiota in individuals with PD occurs primarily after disease is already manifest limiting the ability to investigate changes in the microbiota that occur early in the disease process.
 
-notwithstanding such information is crucial to better understand the relationship between the microbiota and the pathogenesis of pd and thus improve its prevention diagnosis and treatment.in order to examine the association between fecal microbiota and pd we characterized the succession change of fecalmicrobiota with an ideal model of pd by oral rather than systemic administration of rotenone which is more likely to recapitulate the exposure to pesticide that may occur in normal life klingelhoefer and reichmann 2015 from a longitudinal study.
+Notwithstanding such information is crucial to better understand the relationship between the microbiota and the pathogenesis of PD and thus improve its prevention diagnosis and treatment.In order to examine the association between fecal microbiota and PD we characterized the succession change of fecalmicrobiota with an ideal model of PD by oral rather than systemic administration of rotenone which is more likely to recapitulate the exposure to pesticide that may occur in normal life Klingelhoefer and Reichmann 2015 from a longitudinal study.
 
-the microbiota at 3 weeks clustered in the upper-left part of the plot 4 out of 5 mice at 4 weeks clustered in the lower left part of the plot while the fecal microbiota of before rotenone treatment and at weeks 1 and 2 clustered in the upper-right part of the ordination and could not be divided into separated clusters figure 5c.
+We found fecal microbiota dysbiosis preceded the major motor dysfunction and central nervous system CNS pathology in rotenone induced PD mice model which indicated fecal microbiota perturbation might contribute to rotenone toxicity in the initiation of PD.MATERIALS AND METHODSAnimal ExperimentsMale C57BL6 mice aged between 8 and 9 weeks were purchased from Shanghai SiLaike SLAC Laboratory Animal Company Shanghai China.
 
-in our study we characterized the association between fecal microbiota and pd by using environment-contact administration of rotenone which mimicked the common ways of rotenone entering the human body from a longitudinal study.
+The microbiota at 3 weeks clustered in the upper-left part of the plot 4 out of 5 mice at 4 weeks clustered in the lower left part of the plot while the fecal microbiota of before rotenone treatment and at weeks 1 and 2 clustered in the upper-right part of the ordination and could not be divided into separated clusters Figure 5C.
 
-these results indicated that rotenone causes gastrointestinal dysfunction prior to the occurrence of major motor defects.effect of rotenone on inflammation anda-synuclein pathologycompared with the normal initial status 0 week we observed an inflammatory associated reaction in the colon with increased expression of inflammatory cytokine tnf-a inos il-6 and toll-like receptor 2 tlr2 in rotenone-treated mice and reaching significance at 3 and 4 weeks of rotenone treatment figure 3a.
+Given the important roles of the gut microbiota in regulating normal physiological functions environmental toxicant-induced functional perturbations of the gut microbiota may lead to or exacerbate their toxicity.
 
-these have led to many speculations about a possible etiological role of alterations in gut-brain interactions in pd mulak and bonaz 2015. the gut-brain axis interactions are significantly modulated by the gut microbiota via immune neural and endocrine pathways wang and kasper 2014. changes in the gut microbiota composition may cause alterations in the gut barrier function and intestinal permeability affecting not only gi epithelial cells and immune system but also play an important role in modulating behaviors and brain functions including stress responsiveness emotional behavior pain modulation ingestive behavior and brain biochemistry dinan and cryan 2017 rieder et al.
+9441.doi Recent studies reported an association between gut microbiota composition and Parkinson's disease PD.
 
-however most of the differentially abundant taxa as well as associations of microbiota with clinical variables differed between studies due to confounder from human samples scheperjans 2016. what is more the causal relationship between the microbiota changes and the pathogenesis of pd remains unclear as studies in humans have largely been limited to cross sectional analyses.
+The objective of this study was to describe the evolution of fecal microbiota using an oral rotenone model of PD from a longitudinal study over a period of 4 weeks.
 
-in addition study of the gut microbiota in individuals with pd occurs primarily after disease is already manifest limiting the ability to investigate changes in the microbiota that occur early in the disease process.
-
-given the important roles of the gut microbiota in regulating normal physiological functions environmental toxicant-induced functional perturbations of the gut microbiota may lead to or exacerbate their toxicity.
-
-the objective of this study was to describe the evolution of fecal microbiota using an oral rotenone model of pd from a longitudinal study over a period of 4 weeks.
-
-score plots showed that the groups were well-separated figure 5d.effect of rotenone on the fecal microbiota compositionthe gut bacterial community composition at the phyla level was shown in figure 6a.
-
-interestingly we observed dynamic alterations in fecal microbiota that were correlated with the changes in the pd pathologic processes induced by rotenone.
-
-2015. for onetable 3  summary of key behavioral features biochemical histological and fecal microbiota change with time.times0 week1 week2 weeks3 weeks4 weeksthing the variability between our studies can be introduced furthermore we discovered that the relative abundance of the genus clostridium and sutterella were decreased in rotenone- treated groups along the time while lactococcus was decreased but return to normal after 4 weeks of rotenone exposure.
+Moreover rotenone-induced gastrointestinal and motor dysfunctions were observed to be robustly correlated with changes in the composition of fecal microbiota.
 

@@ -1,30 +1,20 @@
-it models the distribution of sequence dissimilarities from the center sequence within a cluster as a gaussian model and then models sequence clustering as a gaussian mixture model.
+It models the distribution of sequence dissimilarities from the center sequence within a cluster as a Gaussian model and then models sequence clustering as a Gaussian mixture model.
 
-once a hierarchical tree is built otus can be deter- mined efficiently for any given sequence dissimilarity threshold but the cost of constructing such a tree is very high as it requires com- puting all pairwise sequence dissimilarities and storing them in the memory.
+Once a hierarchical tree is built OTUs can be deter- mined efficiently for any given sequence dissimilarity threshold but the cost of constructing such a tree is very high as it requires com- puting all pairwise sequence dissimilarities and storing them in the memory.
 
-here the first sequence becomes the representativecenter of the first cluster and the next sequence is then compared to the existing representatives in order to determine whether it belongs to an existing cluster or starts a new cluster de- pending on its dissimilarities with the representatives.
+Here the first sequence becomes the representativecenter of the first cluster and the next sequence is then compared to the existing representatives in order to determine whether it belongs to an existing cluster or starts a new cluster de- pending on its dissimilarities with the representatives.
 
-in our application notice that xi is a dna sequence lk is the center sequence of the cluster and ddxi lkth defines the dissimilarity score between the twosequences.
+In our application notice that xi is a DNA sequence lk is the center sequence of the cluster and Ddxi lkTh defines the dissimilarity score between the twosequences.
 
-for example a sequence is similar to a sub- string of a much longer sequence.
+For example a sequence is similar to a sub- string of a much longer sequence.
 
-if y is a cen- ter sequence we use sdxth 2 t0 for filtering.a sampling strategy to select the cluster centergiven a cluster the center sequence is defined as the one having min- imum total distance to all other sequences in the clusterlk 14 arg minddxi xjth7xi 2'k xj2'where 'k represents the kth cluster.
+If y is a cen- ter sequence we use sdxTh 2 T0 for filtering.A sampling strategy to select the cluster centerGiven a cluster the center sequence is defined as the one having min- imum total distance to all other sequences in the clusterlk 14 arg minDdxi xjTh7xi 2'k xj2'where 'k represents the kth cluster.
 
-cd-hit-acc clusters a sequence into the closest cluster within a threshold which is different from the de- fault mode that clusters a sequence to the first cluster that meets the threshold.
+CD-HIT-ACC clusters a sequence into the closest cluster within a threshold which is different from the de- fault mode that clusters a sequence to the first cluster that meets the threshold.
 
-bioinformatics 336 2017 834-842 doi 10.1093bioinformaticsbtw722advance access publication date 21 december 2016original papersequence analysisdace a scalable dp-means algorithm for clustering extremely large sequence datalinhao jiang12 yichao dong3 ning chen12 and ting chen1231bioinformatics division center for synthetic and systems biology tnlist department of automation tsinghua university beijing 100084 china 2department of computer science and technology tsinghua university beijing 100084 china and 3program in computational biology and bioinformatics university of southern california los angeles ca 90089 usato whom correspondence should be addressed.
+Bioinformatics 336 2017 834-842 doi 10.1093bioinformaticsbtw722Advance Access Publication Date 21 December 2016Original PaperSequence analysisDACE a scalable DP-means algorithm for clustering extremely large sequence dataLinhao Jiang12 Yichao Dong3 Ning Chen12 and Ting Chen1231Bioinformatics Division Center for Synthetic and Systems Biology TNLIST Department of Automation Tsinghua University Beijing 100084 China 2Department of Computer Science and Technology Tsinghua University Beijing 100084 China and 3Program in Computational Biology and Bioinformatics University of Southern California Los Angeles CA 90089 USATo whom correspondence should be addressed.
 
-therefore a fundamental step in the analysis of 16s18s rrna sequencing data is to cluster gene sequences into otus based on sequence dissimilar- ities.
+Therefore a fundamental step in the analysis of 16S18S rRNA sequencing data is to cluster gene sequences into OTUs based on sequence dissimilar- ities.
 
-to improve the computational efficiency of the hierarch- ical clustering method esprit  calculates pairwise sequence dissimilarities only when needed.
-
-finally crop  takes an unsupervised bayesian approach to sequence clustering.
-
-the dp-means algorithm is similar to k-means clustering except that a new cluster will be generated when a sequence to the nearest cluster is larger than a predefined threshold.
-
-finally when sequence lengths have large variations and most clusters are well separated lsh becomes inefficient and then we apply a big-kmer strategy to perform the last round of cluster- ing.
-
-the big-kmer is specifically designed to solve the case that a se- quence is similar to a substring of a longer sequence.
-
-zng be the cluster assignment variable where zi14 k means that sequence xi is assigned to the kth cluster as denoted by 'k.
+To improve the computational efficiency of the hierarch- ical clustering method ESPRIT  calculates pairwise sequence dissimilarities only when needed.
 

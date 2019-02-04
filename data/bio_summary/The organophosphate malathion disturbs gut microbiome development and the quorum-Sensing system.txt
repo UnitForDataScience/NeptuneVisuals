@@ -1,30 +1,20 @@
-full length articlethe organophosphate malathion disturbs gut microbiome development and the quorum-sensing systembei gao liang chi pengcheng tu xiaoming bian jesse thomas hongyu ru kun lua nih west coast metabolomics center university of california davis ca 95616 united statesb department of environmental health science university of georgia athens 30602 georgiac department of environmental sciences and engineering university of north carolina at chapel hill chapel hill nc 27599 united statesd department of population health and pathobiology north carolina state university raleigh nc 27607 united statesa r t i c l e i n f o keywordsquorum sensinggut microbiome toxicity malathiona b s t r a c t the gut microbiome has tremendous potential to impact health and disease.
+Full Length ArticleThe organophosphate malathion disturbs gut microbiome development and the quorum-Sensing systemBei Gao Liang Chi Pengcheng Tu Xiaoming Bian Jesse Thomas Hongyu Ru Kun Lua NIH West Coast Metabolomics Center University of California Davis CA 95616 United Statesb Department of Environmental Health Science University of Georgia Athens 30602 Georgiac Department of Environmental Sciences and Engineering University of North Carolina at Chapel Hill Chapel Hill NC 27599 United Statesd Department of Population Health and Pathobiology North Carolina State University Raleigh NC 27607 United StatesA R T I C L E I N F O KeywordsQuorum sensingGut microbiome toxicity MalathionA B S T R A C T The gut microbiome has tremendous potential to impact health and disease.
 
-these findings may provide a novel mechanistic understanding of the role of quorum-sensing in the gut microbiome toxicity of malathion.introductionthe gut microbiome is a dynamic and complex ecosystem that is acquired after birth and shaped over time by a combination of various factors including genotype diet environmental exposure and the use of antibiotics .
+The gut microbiome interacts with the host and fulfills pivotal roles in host metabolic function environmental contaminants from various chemical families such as heavy metals HMs and pesticides have been shown to negatively alter the gut microbiome and cause a state of 'dysbiosis'  .
 
-the gut microbiome interacts with the host and fulfills pivotal roles in host metabolic function environmental contaminants from various chemical families such as heavy metals hms and pesticides have been shown to negatively alter the gut microbiome and cause a state of 'dysbiosis'  .
+The DEseq package was used for metagenomics data normalization.ResultsMalathion exposure disturbed gut microbiome development trajectoryThe principal coordinate analysis PCoA of beta diversity plots A showed that at the genus level the trajectories of the gut microbiome community structures from week 0 to week 13 were readily differentiable between the controls and the malathion-treated mice.
 
-1. malathion exposure disturbed the gut microbiome development trajectory as demonstrated by the pcoa plot using the beta diversity metrics a. the fold changes of significantly altered genera compared to the control group after 13-week malathion ex- posure b. fold changes were calculated using the group means for each bacterial genus shows that either the gut bacteria genus was only observed in the malathion group orthe gut bacterial genus was completely depleted in the malathion group..statistical analysis of dataprinciple coordinate analysis pcoa which calculates the beta di- versity difference based on the unifrac distance metric was used to compare the gut microbiome profiles between the control and ma- lathion-treated groups .
+The dose was chosen to examine whether ma- lathion perturbs the gut microbiome and its functions even at the dose that is below the threshold for neurotoxicity 3 mice were provided standard pelleted rodent diet and treated humanely and with regard toalleviate suffering 4 the housing conditions were 22 degC 40-70 hu- midity and a 1212 h lightdark cycle.
 
-the deseq package was used for metagenomics data normalization.resultsmalathion exposure disturbed gut microbiome development trajectorythe principal coordinate analysis pcoa of beta diversity plots a showed that at the genus level the trajectories of the gut microbiome community structures from week 0 to week 13 were readily differentiable between the controls and the malathion-treated mice.
+The difference in the gut microbiome composition was analyzed using a non-parametric test via Metastats software  as de- scribed previously .
 
-various environmental toxicants including insecticides have been shown to alter gut microbiome community structures.
+The relative abundance of the genes encoding cell wall components was increased in malathion- treated mice .DiscussionWith the combination of 16S rRNA sequencing and shotgun meta- genomics sequencing we have demonstrated that malathion exposure disturbed the trajectory of the gut microbiome and quorum-sensing system.
 
-it is unknown whether quorum sensing is disrupted when environmental toxicants cause perturbations in the gut microbiome community structure.
+The relative abundance of bacterial genes involved in quorum sensing-related behaviors such as motility and pathogenicity was in- creased in malathion-treated mice.The disruption of the gut microbiome community structure caused by environmental chemicals has been well documented  .
 
-to reveal the response of the quorum-sensing system to environmental exposure we use a combination of illumina-based 16s rrna gene amplicon and shotgun metagenome sequencing to examine the impacts of a widely used organophosphate insecticide malathion on the gut microbiome trajectory quorum sensing system and behaviors related to quorum sensing such as motility and pathogenicity.
+These findings may provide a novel mechanistic understanding of the role of quorum-sensing in the gut microbiome toxicity of malathion.IntroductionThe gut microbiome is a dynamic and complex ecosystem that is acquired after birth and shaped over time by a combination of various factors including genotype diet environmental exposure and the use of antibiotics .
 
-our results de- monstrated that malathion perturbed the gut microbiome development quorum sensing and quorum sensing related behaviors.
+The predominant biodegradation pathway of malathion is through carboxylesterase activity leading to the formation of monoacid and diacid metabolites .
 
-dysbiosis of the gut microbiome is associated with a wide range of metabolic and cardiovascular diseases  .insecticides have been widely used for decades and human ex- posure to these insecticides always causes public health concern.
-
-however there re- mains a paucity of knowledge regarding the role of malathion as a toxicant on the gut microbiome.the disruption of the gut microbiome community structure caused by environmental chemicals has been well documented  .
-
-however the mechanism for regulating the gut microbiome community structure has not been elucidated yet.
-
-the dose was chosen to examine whether ma- lathion perturbs the gut microbiome and its functions even at the dose that is below the threshold for neurotoxicity 3 mice were provided standard pelleted rodent diet and treated humanely and with regard toalleviate suffering 4 the housing conditions were 22 degc 40-70 hu- midity and a 1212 h lightdark cycle.
-
-the difference in the gut microbiome composition was analyzed using a non-parametric test via metastats software  as de- scribed previously .
-
-at week 0 the gut microbiome community structures were si- milar in the control and malathion groups.
+The experimental design was as fol- lows 1 mice were randomly assigned to either a control or malathion- treated group 5 mice in each group 2 malathion in drinking water was administered to mice at a concentration of 2 mgL 0.6 mgkg body weightday for a study period of 13 weeks while control mice received water alone.
 

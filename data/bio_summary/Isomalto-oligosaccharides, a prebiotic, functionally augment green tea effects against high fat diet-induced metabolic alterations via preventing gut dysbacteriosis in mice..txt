@@ -1,30 +1,20 @@
-p  0.05 versus npd  p  0.01 versus npd  p  0.001 versus npd  p  0.05 versus hfd  p  0.01 versus hfd  p  0.001 versus hfd.
+P  0.05 versus NPD  P  0.01 versus NPD  P  0.001 versus NPD  P  0.05 versus HFD  P  0.01 versus HFD  P  0.001 versus HFD.
 
-p  0.05 versus npd  p  0.01 versus npd  p  0.001 versus npd  p  0.05 versus hfd  p  0.01 versus hfd  p  0.001 versus hfd.
+P  0.05 versus NPD  P  0.01 versus NPD  P  0.001 versus NPD  P  0.05 versus HFD  P  0.01 versus HFD  P  0.001 versus HFD.
 
-p  0.05 versus npd  p  0.01 versus npd  p  0.001 versus npd  p  0.05 versus hfd  p  0.01 versus hfd  p  0.001 versus hfd.
+P  0.05 versus NPD  P  0.01 versus NPD  P  0.001 versus NPD  P  0.05 versus HFD  P  0.01 versus HFD  P  0.001 versus HFD.
 
-p  0.05 versus npd  p  0.01 versus npd  p  0.001 versus npd p  0.05 versus hfd  p  0.01 versus hfd  p  0.001 versus hfd.
+P  0.05 versus NPD  P  0.01 versus NPD  P  0.001 versus NPD P  0.05 versus HFD  P  0.01 versus HFD  P  0.001 versus HFD.
 
-p  0.05 versus npd  p  0.01 versus npd  p  0.001 versus npd  p  0.05 versus hfd  p  0.01 versus hfd  p  0.001 versus hfd.
+P  0.05 versus NPD  P  0.01 versus NPD  P  0.001 versus NPD  P  0.05 versus HFD  P  0.01 versus HFD  P  0.001 versus HFD.
 
-p  0.05 versus npd  p  0.01 versus npd  p  0.05 versus hfd  p  0.01 versus hfd and  p  0.001 versus hfd.fig.
+P  0.05 versus NPD  P  0.01 versus NPD  P  0.05 versus HFD  P  0.01 versus HFD and  P  0.001 versus HFD.Fig.
 
-significance described as  p  0.05  p  0.01 and  p  0.001. g200  gte 200 mgkg bwg  body weight gain gwat  gonadal adipose tissue weights dbw  disembowelled body weights bmi  body mass index fbg  fasting blood glucose tc  total cholesterol tg  triglyceride hdlc  high density lipoprotein ldl-c  low density lipoprotein af  atherogenic fraction nefa  nonesterified fatty acids ppar-g  peroxisome proliferator-activated receptor gamma cebp-a  ccaatenhancer-binding protein alpha.based on our previous experience selected gut microbial abun- dances were estimated using genus family or phylum-specific primers in qrt-pcr.
+Significance described as  P  0.05  P  0.01 and  P  0.001.
 
-significance among different correlation coefficients described as  p  0.05  p  0.01 and  p  0.001. for interpretation of the references to colour in this figure legend the reader is referred to the web version of this article.down-regulated muc-2 4. although gte imos alone prevented these alterations co-administration of gte with imos showed maximal protective effects suppl.
+Significance among different correlation coefficients described as  P  0.05  P  0.01 and  P  0.001.
 
-further expression of hepatic fasn acc and acox-1 p  0.06 was down-regulated whereas ppar- y and hsl p  0.09 was up-regulated upon hfd feeding suppl.
+Further expression of hepatic FASN ACC and ACOX-1 P  0.06 was down-regulated whereas PPAR- y and HSL P  0.09 was up-regulated upon HFD feeding Suppl.
 
-p values which may approach to significant level are also presented in parenthesis.orally and blood glucose mgdl was determined at 15 30 60 120 min.after 12 weeks blood was collected retro-orbitally from fasted mice and mice were sacrificed by cervical dislocation except the animals kept for histological examinations.
-
-p  0.05 was considered as the level of significance.resultsgte imos and their combination prevented diet-induced adiposity and insulin resistanceadministration of gte imos or their combination prevented hfd-induced increase in body weights weight gain and disembow-elled body weights a-b d. co-administration of gte with imos additionally reduced the hfd-induced increase in gonadal fat pad mass body mass index or lee's index c and suppl.
-
-co-treatment with gte and imos affected acox1 fasn p  0.14 and ppar-y expression whereas hsl was down-regulated by all chosen supplementations.
-
-hfd feeding up-regulated hepatic pepck g6pase and gk p  0.16 expression in comparison to npd fed mice.
-
-statistical analysis using nonparamet- ric 't test' for all the analyzed samples or replicates with p  0.05 of the normalized metabolites intensity detected showed that out of 550 monoisotopic peaks 390 were affected by hfd feed- ing or supplementation of gte imos or their combination.
-
-out of these 59 compounds were sorted out on the basis of their mass error 15 mda or intensity 1000 cps and a normal- ized z-score was plotted in form of heat map red high green low j. the extraction and found mass with peaks retention time msms fragmentation and p values are presented in sup- plementary table s5.
+P values which may approach to significant level are also presented in parenthesis.orally and blood glucose mgdL was determined at 15 30 60 120 min.After 12 weeks blood was collected retro-orbitally from fasted mice and mice were sacrificed by cervical dislocation except the animals kept for histological examinations.
 

@@ -1,30 +1,20 @@
-wang and colleagues show that like antibiotic- treated mice germ-free mice exhibit marked reduction of nfil3 expression when they are compared to convention- ally colonized controls.on the basis of these findings the au- thors examine the important question of whether nfil3 in iecs is necessary for altering host metabolism and body composition.
+express Nfil3 at levels comparable to those of conventionally colonized con- trols indicating that REV-ERBa is required for microbiota-mediated regula- tion of Nfil3 expression.Given the role for the gut microbiota in regulating Nfil3 and Nr1d1 expression Wang and colleagues further examine618 Immunity 47 October 17 2017 a 2017 Published by Elsevier Inc.ImmunityPreviewsFigure 1.
 
-2017. compared to wild- type nfil3flfl controls nfil3flflvil1-cre mice exhibit body-weight reductions that are analogous to those seen in micro- biota-depleted mice.
+Given that expression of select microbial genessuch as those involved in flagellar assem- bly fluctuate dramatically on the basis of the circadian clock  it will be interesting to examine whether rhythmic expression of TLR ligands con- tributes to the circadian cycling of Nfil3 and Nr1d1 expression.
 
-report that germ-free mice also have increased nr1d1 expression and decreased nfil3 expression in comparison to conventionally colonized mice.
+report that germ-free mice also have increased Nr1d1 expression and decreased Nfil3 expression in comparison to conventionally colonized mice.
 
-importantly they further show that antibiotic-treated nr1d1-- mice referred to as rev-erba-- mice by wang et al.
+previously provided evidence that this might apply to NFIL3 in IECs as well when they showed that antibiotic-treated mice have greater Nr1d1 expression and binding repres- sion of NFIL3 in IECs than do conven- tional controls .
 
-this binding is markedly reduced in germ-free mice compared to conven- tionally colonized mice.
+Wang and colleagues show that like antibiotic- treated mice germ-free mice exhibit marked reduction of Nfil3 expression when they are compared to convention- ally colonized controls.On the basis of these findings the au- thors examine the important question of whether NFIL3 in IECs is necessary for altering host metabolism and body composition.
 
-they show that multiple genes involved in lipid transport and meta- bolism including cd36 and scd1 are reduced in germ-free mice and conven- tional nfil3flflvil1-cre mice compared to conventionally colonized wild-type con- trols.
+Wang and colleagues show that treatment of MyD88-- mice with IL-23 or IL-22 reduces Nr1d1 expres- sion and partially raises Nfil3 expression.
 
-the authors reinforce their previous findings that the microbiota regulates nfil3 and nr1d1 expression through ilcs and stat3 iecs from both id2-defi- cient and nfil3flflvil1-cre mice express cd36 and scd1 at levels comparable toimmunity 47 october 17 2017 619immunitypreviewsthose seen in germ-free mice.
+These findings highlight a role for den- dritic cell-ILC3 signaling in regulating Nfil3 and Nr1d1 expression and raise the interesting possibility that other pathways might also contribute.
 
-strikingly lipid stores in tissue from the small intes- tine are seen to be substantially reduced in nfil3flflvil1-cre mice on a high-fat diet when these mice are compared with nfil3flfl controls.
+Consistent with a role for the TLR-MyD88 pathway admin- istration of flagellin or lipopolysaccharide reduces Nr1d1 and increases Nfil3 expression in germ-free mice.
 
-showed that mice reared in the absence of microbial colonization germ-free have lower body fat and metabolic rates than do conventionally colonized controls aeur.
+Overall these findings suggest that the sensing of endogenous TLR ligands by host den- dritic cells contributes to homeostatic Nr1d1 and Nfil3 expression in IECs.Wang and colleagues continue down- stream of the dendritic cell-ILC3 circuit wherein IL-22 binds its receptor IL-22R in IECs and induces gene-expression changes via activation of the transcription factor STAT3 signal transducer and acti- vator of transcription 3  .
 
-who reported that as compared to transplantation of micro- biota from a lean donor transplantation of an obese donor microbiota into lean mice increases body-fat percentage and energy harvest .
-
-revealed that the gut microbiota oscillates diurnally and this effect is lost with disruption of circadian rhythm induced by ''jet lag'' in both humans and mice  .
-
-to delete nfil specifically in iecs the authors crossed nfil3flfl to villin1 vil1-cre mice referred to as nfil3diec in wang et al.
-
-when fed a high- fat diet for 10 weeks nfil3flflvil1-cre mice maintain this reduced body weight which can be attributed to decreases in body-fat percentage fat-pad weight and liver fat stores.
-
-antibiotic treatment has no additional effect on body composi-tion in nfil3flflvil1-cre mice suggesting that nfil3 is required for microbiota- mediated decreases in body weight.
-
-interestingly the authors detect no differ- ences between nfil3flfl and nfil3flflvil1- cre mice in microbiota composition before and after a high-fat diet.
+The authors also reveal that Nfil3 and Nr1d1 expression patterns in Nfil3flflVil1-cre are similar to those seen in microbiota-deficient mice.
 

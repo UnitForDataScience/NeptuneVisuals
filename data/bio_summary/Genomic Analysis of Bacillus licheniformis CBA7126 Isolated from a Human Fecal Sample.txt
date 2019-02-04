@@ -1,30 +1,20 @@
-2016. the genome structure of strain cba7126 was compared to those of b. licheniformis b4164 lqyq00000000.1 b. licheniformis vtm3r78 fofe00000000.1 b. licheniformis v30 lqrr00000000.1 bacillus sp.
+The genome structure of strain CBA7126 was compared to those of B. licheniformis B4164 LQYQ00000000.1 B. licheniformis VTM3R78 FOFE00000000.1 B. licheniformis V30 LQRR00000000.1 Bacillus sp.
 
-the genome of strain cba7126 was aligned with more than 97 symmetric identity with those of strains b. licheniformis b4164 b. licheniformis vtm3r78 b. licheniformis v30 bacillus sp.
+The genome of strain CBA7126 was aligned with more than 97 symmetric identity with those of strains B. licheniformis B4164 B. licheniformis VTM3R78 B. licheniformis V30 Bacillus sp.
 
-the purity and concentration of the extracted genomic dna were measured using the nanodrop spectrophotometer nanodrop technologies uk.genome sequencing assembly and annotationthe genome of b. licheniformis cba7126 was sequenced using a 20-kb smrtbell library and pacbio rs ii system pacific biosciences usa and de novo assembly was performed using the hgap2 protocol in pacbio smrt analysis version 2.3.0. rrnas and trnas were analyzed using rnammer 1.2 lagesen et al.
+The purity and concentration of the extracted genomic DNA were measured using the Nanodrop spectrophotometer NanoDrop Technologies UK.Genome Sequencing Assembly and AnnotationThe genome of B. licheniformis CBA7126 was sequenced using a 20-kb SMRTbell library and PacBio RS II system Pacific Biosciences USA and de novo assembly was performed using the HGAP2 protocol in PacBio SMRT Analysis version 2.3.0. rRNAs and tRNAs were analyzed using RNAmmer 1.2 Lagesen et al.
 
-the structure of strain cba7126 was similar to that of b. licheniformis b4124 and b. licheniformis v30 supplementary figure 3. comparison of strain cba7126 genomic structure with that of bacillus sp.
+The genome of strain CBA7126 was closest to that of B. licheniformis VTM3R78 99.99 orthoANI followed by B. licheniformis B4164 99.98 Bacillus sp.
 
-the genome of strain cba7126 was closest to that of b. licheniformis vtm3r78 99.99 orthoani followed by b. licheniformis b4164 99.98 bacillus sp.
+H15-1 CP018249.1 and B. licheniformis B4124 LKPQ00000000.1 having symmetric identity 97 with strain CBA7126 using the alignment program MAUVE Darling et al.
 
-2004. generally most bacilli are predominantly aerobic however b. licheniformis is a facultative anaerobe compared to other bacilli in ecological niches alexander 1977. the commercial utility of the extracellular products of b. licheniformis makes this microorganism an economically interesting species kovacs et al.
+A total of 193 CAZyme- encoding genes were annotated using dbCAN including five for auxiliary activities AAs 39 for carbohydrate-binding modules CBMs 36 for carbohydrate esterases CEs 68 for glycoside hydrolases GHs 39 for glycosyl transferases GTs and 6 for polysaccharide lyases PLs.Comparative Genomic DataAnalysis of the orthoANI values among Bacillus genome sequences with symmetric identity of 97 revealed that B. licheniformis CBA7126 has higher than 99 genome sequence similarity with other species.
 
-h15-1 cp018249.1 and b. licheniformis b4124 lkpq00000000.1 having symmetric identity 97 with strain cba7126 using the alignment program mauve darling et al.
+2004.The annotated genome sequence of B. licheniformis has been previously analyzed to assess the biotechnological importance of the organism Veith et al.
 
-licheniformis cba7126the genome of b. licheniformis cba7126 was 4216391 bp long with a g  c content of 46.24 mol table 1. the genome is predicted to contain two contigs of 4209959 and 6972 bp.
+licheniformis NVH1023 F5520 CCUG41412 NVH1111 NVH1113 LMG17661 and M3.Stress Response Genes and Resistance to Toxic CompoundsComparison with NCBI PGAP 4.1 showed that the genome of strain CBA7126 harbors several stress response genes and various genes required for resistance to antibiotics and toxic compounds Tatusova et al.
 
-the annotated genes belonged to the following categories function unknown s 884 genes general function prediction only r 344 transcription k 319 genes carbohydrate transport and metabolism g 316 genes amino acid transport and metabolism e 298 genes inorganic ion transport and metabolism p 219 genes energy production and conversion c 180 genes replication recombination and repair l 140 genes and secondary metabolite biosynthesis transport and catabolism q 62 genes supplementary table 1. in addition seed viewer version 2.0 revealed that 9 of the major categories contained genes required for metabolism of carbohydrates 610 genes amino acids and derivatives 457 genes and cofactors vitamins prosthetic group pigments 280 genes supplementary figure 1. a total of 193 cazyme- encoding genes were annotated using dbcan including five for auxiliary activities aas 39 for carbohydrate-binding modules cbms 36 for carbohydrate esterases ces 68 for glycoside hydrolases ghs 39 for glycosyl transferases gts and 6 for polysaccharide lyases pls.comparative genomic dataanalysis of the orthoani values among bacillus genome sequences with symmetric identity of 97 revealed that b. licheniformis cba7126 has higher than 99 genome sequence similarity with other species.
+The structure of strain CBA7126 was similar to that of B. licheniformis B4124 and B. licheniformis V30 Supplementary Figure 3.
 
-strain cba7126 genome contained 4276 coding sequences 24 rrna genes 8 of the 16s-5s-23s rna gene operon and 81 trna genes figure 1. for functional classification the genome of strain cba7126 was analyzed using the cluster of orthologous groups cog database  and 3743 genes were annotated.
-
-2004.the annotated genome sequence of b. licheniformis has been previously analyzed to assess the biotechnological importance of the organism veith et al.
-
-licheniformis nvh1023 f5520 ccug41412 nvh1111 nvh1113 lmg17661 and m3.stress response genes and resistance to toxic compoundscomparison with ncbi pgap 4.1 showed that the genome of strain cba7126 harbors several stress response genes and various genes required for resistance to antibiotics and toxic compounds tatusova et al.
-
-in this study genome sequencing of b. licheniformis cba7126 isolated from a human fecal sample was performed to understand bacterial specificity.
-
-among the genes related to stress response l-asparaginase arginase lantibiotic and bacitracin are used for industrial application.data accessthe genome sequence of b. licheniformis cba7126 has been deposited in ddbjenagenbank under the accession numbers bdjj01000001-bdjj01000002.author contributionssr and yn designed and coordinated all the experiments.
-
-in addition crispr analysis indicated that strain cba7126 did not harbor any known crisprs.phage and pathogenesis-related genesphast analysis was performed for identifying prophage contamination in the genome sequence of strain cba7126.
+In this study genome sequencing of B. licheniformis CBA7126 isolated from a human fecal sample was performed to understand bacterial specificity.
 

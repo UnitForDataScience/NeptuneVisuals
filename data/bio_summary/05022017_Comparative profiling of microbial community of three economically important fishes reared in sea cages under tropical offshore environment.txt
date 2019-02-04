@@ -1,30 +1,20 @@
-the plot projected that cobia and pompano got clustered together whereas milkfish remained at a fair distance from the other two species.statistical analysis of similarity and dissimilarity measuressimilarity index of abundance in microbiota among studied cobia pompano and milkfish and reported farmed fishes rainbow trout sea bream carp and sturgeon were carried out using nmds plot  .
+The plot projected that cobia and pompano got clustered together whereas milkfish remained at a fair distance from the other two species.Statistical analysis of similarity and dissimilarity measuresSimilarity index of abundance in microbiota among studied cobia pompano and milkfish and reported farmed fishes rainbow trout sea bream carp and sturgeon were carried out using NMDS plot  .
 
-the feeding strategy stocking density and digestive physiology of the three candidate species are provided in .fishes were randomly selected and caught before feeding using afish net and immediately lifted on board a boat for further examination.sample preparation for culture independent microbial analysisafter eight months of culture five individuals of each fish species cobia milkfish and pompano were collected and kept alive in aerated frp tanks holding sea water until processing approximately 3 h for microbiota analysis.
+The feeding strategy stocking density and digestive physiology of the three candidate species are provided in .Fishes were randomly selected and caught before feeding using afish net and immediately lifted on board a boat for further examination.Sample preparation for culture independent microbial analysisAfter eight months of culture five individuals of each fish species cobia milkfish and pompano were collected and kept alive in aerated FRP tanks holding sea water until processing approximately 3 h for microbiota analysis.
 
-alternatively species evenness was significantly higher in milkfish as compared to cobia and pompano which is consis- tent with results from three warm water fish species fig.
+Alternatively species evenness was significantly higher in milkfish as compared to cobia and pompano which is consis- tent with results from three warm water fish species Fig.
 
-while cobia and pompano shared 261 1.07 otus in common milkfish shared 44 0.18 otus with cobia and 42 0.17 otus with pompano.
+While cobia and pompano shared 261 1.07 OTUs in common milkfish shared 44 0.18 OTUs with cobia and 42 0.17 OTUs with pompano.
 
-among the hatchery bred species available for commercial farming cobia rachycentron canadum seabass lates calcarifer and pompano trachinotus blochii are the three important mariculture species for which the hatchery technology is standardized corresponding author.e-mail address k. ramalingam.1 authors have contributed equally for the manuscript.and commercial seed production is initiated  .
+Among the hatchery bred species available for commercial farming cobia Rachycentron canadum seabass Lates calcarifer and pompano Trachinotus blochii are the three important mariculture species for which the hatchery technology is standardized Corresponding author.E-mail address K. Ramalingam.1 Authors have contributed equally for the manuscript.and commercial seed production is initiated  .
 
-however from the results obtained it is ev- ident that pompano displayed highest species abundance followed by cobia while milkfish exhibited more evenness.
+However from the results obtained it is ev- ident that pompano displayed highest species abundance followed by cobia while milkfish exhibited more evenness.
 
-the phylumverrucomicrobia was seen in milkfish and pompano but not in cobia.the shared classes identified in farmed species were bacilli gamma- beta- and alphaproteobacteria.
+Interestingly cobia and pompano though rationed different feeds grouped together confirming the role of host in determining the microbiome.Percentage of dissimilarity between the three fish species was stud- ied through SIMPER analysis based on Bray-Curtis dissimilarity index.
 
-interestingly cobia and pompano though rationed different feeds grouped together confirming the role of host in determining the microbiome.percentage of dissimilarity between the three fish species was stud- ied through simper analysis based on bray-curtis dissimilarity index.
+Beta Diversity among samples determined through Principal Component Analysis plot using MOTHUR.Contrary to the earlier reports from mammals that displayed more richness in bacterial diversity in a herbivorous model compared to om- nivorous and carnivorous species  our analysis demon- strated decrease in the number of predicted OTUs from carnivorepompano cobia to herbivoreplanktivore milkfish and the differ- ence was significant.
 
-never- theless pompano fed with plant based diet exhibited slow specific growth rate as reported in trout .furthermore cobia fed oil sardine and pompano fed pellet feedalthough fed different diet showed similarity in their gut microbiota with respect to abundant genera.
+The phylumVerrucomicrobia was seen in milkfish and pompano but not in cobia.The shared classes identified in farmed species were Bacilli Gamma- Beta- and Alphaproteobacteria.
 
-pompano had the largesttable 2 summary of number of reads observed and species richness in gut samples of reared fishes.
-
-5. beta diversity among samples determined through principal component analysis plot using mothur.contrary to the earlier reports from mammals that displayed more richness in bacterial diversity in a herbivorous model compared to om- nivorous and carnivorous species  our analysis demon- strated decrease in the number of predicted otus from carnivorepompano cobia to herbivoreplanktivore milkfish and the differ- ence was significant.
-
-rasheeda 1 vijaya raghavan rangamaran 1 senthilkumar srinivasan sendhil kumar ramaiah rajaprabhu gunasekaran santhanakumar jaypal dharani gopal kirubagaran ramalingam marine biotechnology division ocean science and technology for islands group national institute of ocean technology ministry of earth sciences moes government of india pallikaranai chennai indiaa r t i c l ei n f o article historyreceived 3 january 2017received in revised form 12 april 2017accepted 28 april 2017available online 2 may 2017keywords microbial diversity sea-cagesillumina miseq host specificitya b s t r a c t the present study was undertaken to evaluate the microbial composition of farmed cobia pompano and milkfish reared in sea-cages by culture-independent methods.
-
-pompano hindgut with 10537 operational taxonomy units otus exhibited the highest alpha-diversity index followed by cobia 10435 and milkfish 2799. additionally unique and shared otus in each gut type were identified.
-
-gammaproteobacteria dominated in cobia and pompano while betaproteobacteria showed prevalence in milkfish.
-
-during the grow out phase cobia were fed with low priced sardines whereas milkfish and pompano were provided with 9-13 mm commercial pellet comprising 40 crude protein 15 crude fat 9 ash 2.4 crude fibre rudra feed india.
+Rasheeda 1 Vijaya Raghavan Rangamaran 1 Senthilkumar Srinivasan Sendhil Kumar Ramaiah Rajaprabhu Gunasekaran Santhanakumar Jaypal Dharani Gopal Kirubagaran Ramalingam Marine Biotechnology Division Ocean Science and Technology for Islands Group National Institute of Ocean Technology Ministry of Earth Sciences MoES Government of India Pallikaranai Chennai Indiaa r t i c l ei n f o Article historyReceived 3 January 2017Received in revised form 12 April 2017Accepted 28 April 2017Available online 2 May 2017Keywords Microbial diversity Sea-cagesIllumina MiSeq Host specificitya b s t r a c t The present study was undertaken to evaluate the microbial composition of farmed cobia pompano and milkfish reared in sea-cages by culture-independent methods.
 

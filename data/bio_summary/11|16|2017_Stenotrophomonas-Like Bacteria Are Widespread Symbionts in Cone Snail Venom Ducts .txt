@@ -1,30 +1,20 @@
-thus much remains to be learned about this intriguing and newly discovered aspect of cone snail biology.the biological activities of genuanine and nocapyrones in neurological assays suggest that small molecules may contribute to the ecological function of cone snail venoms.
+Thus much remains to be learned about this intriguing and newly discovered aspect of cone snail biology.The biological activities of genuanine and nocapyrones in neurological assays suggest that small molecules may contribute to the ecological function of cone snail venoms.
 
-to do so using 454 pyrosequencing of bacterial 16s rrna gene amplifications we performed an initial survey comparing a small set of cone snail samples from around the world with those of ascidians and non-cone snail mollusks collected at the same time and location.
+To do so using 454 pyrosequencing of bacterial 16S rRNA gene amplifications we performed an initial survey comparing a small set of cone snail samples from around the world with those of ascidians and non-cone snail mollusks collected at the same time and location.
 
-a and b beta diversity analyses through principal-coordinate analysis pcoa plots of weighted unifrac distances show cone snails in comparison to other taxa a and a comparison of tissues within cone snails in which venom duct samples blue arrow are strongly clustered b. c cytoscape network-based analysis of cone snail microbiome based on tissue type shows the same high degree of clustering of sequences in venom ducts of all cone snail samples.californiconus californicus from california and conus regius and conus mus from florida.
+C Cytoscape network-based analysis of cone snail microbiome based on tissue type shows the same high degree of clustering of sequences in venom ducts of all cone snail samples.Californiconus californicus from California and Conus regius and Conus mus from Florida.
 
-because of the importance of cone snail venoms in biomedicine it is worth further investigating how the bacteria survive in venom ducts and whether or not they contribute to or detract from the biological function of the venoms in subduing prey.cultivation of cone snail associates.
+Because of the importance of cone snail venoms in biomedicine it is worth further investigating how the bacteria survive in venom ducts and whether or not they contribute to or detract from the biological function of the venoms in subduing prey.Cultivation of cone snail associates.
 
-invertebrate microbiologystenotrophomonas-like bacteria are widespread symbionts in cone snail venom ductsjoshua p. torresa maria diarey tianeroa jose miguel d. robesb jason c. kwana jason s. biggsc gisela p. concepcionb baldomero m. oliveradmargo g. haygooda eric w. schmidtaddepartment of medicinal chemistry l.s.
+To be- gin to answer this question we performed 16S rRNA gene amplicon sequencing of eight cone snail species comparing their microbiomes with each other and with those from a variety of other marine invertebrates.
 
-to be- gin to answer this question we performed 16s rrna gene amplicon sequencing of eight cone snail species comparing their microbiomes with each other and with those from a variety of other marine invertebrates.
+We show that the cone snail microbiome is distinct from those in other marine invertebrates and con- served in specimens from around the world including the Philippines Guam California and Florida.
 
-we show that the cone snail microbiome is distinct from those in other marine invertebrates and con- served in specimens from around the world including the philippines guam california and florida.
+Here we describe an unexpected specific symbiosis between bacteria and cone snails from around the world.KEYWORDS cone snail natural products symbiosis venom ductone snails are common marine mollusks that prey upon worms fish or other snails  .
 
-here we describe an unexpected specific symbiosis between bacteria and cone snails from around the world.keywords cone snail natural products symbiosis venom ductone snails are common marine mollusks that prey upon worms fish or other snails  .
+Answering this question could provide a new route to discovering potential pharmaceuticals while shedding light on the possible importance of symbiosis in the chemistry of cone snailvenoms.In early work on this topic we showed that actinomycete bacteria are common associates of several cone snail species.
 
-answering this question could provide a new route to discovering potential pharmaceuticals while shedding light on the possible importance of symbiosis in the chemistry of cone snailvenoms.in early work on this topic we showed that actinomycete bacteria are common associates of several cone snail species.
+In culture N. alba synthesizes neuroactive polyketide pyrones whichFIG 1 Cone snail species and collection locations in this study.
 
-in culture n. alba synthesizes neuroactive polyketide pyrones whichfig 1 cone snail species and collection locations in this study.
-
-see tables s1 and s2 in the supplemental material for a complete list of species including non-cone snail species and locations of samples sequences in this study.
-
-it is intriguing that small molecules such as genuanine contribute to the potency of cone snail venoms which were previously thought to be dominated by peptides.
-
-another unknown is whether bioactive small molecules are widespread in cone snail venoms or whether they are instead restricted to a few species.
-
-since the cone snail venoms are environmentally important and have such an outsized impact on biomedical science better understanding the contribution of small molecules and bacteria to venom activity is an important problem.
-
-we found that the cone snail microbiome is relatively conserved and that the venom ducts of all sampled cone snails contain symbiotic bacteria similar to those of the genus stenotrophomonas.results and discussioncone snails have a distinct and consistent bacterial community.
+See Tables S1 and S2 in the supplemental material for a complete list of species including non-cone snail species and locations of samples sequences in this study.
 

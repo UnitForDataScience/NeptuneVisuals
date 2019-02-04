@@ -1,30 +1,20 @@
-these data further support the notion that our current prime-boost vaccine strategies need to be optimized in order to generate optimal memory cd8 t cells and that we need to gain a better understanding of the impact of the inflammatory milieu during vaccination.tissue-resident memory t trm cells another subset of memory t cells have been recently identified as playing an important role in protective immunity.
+These data further support the notion that our current prime-boost vaccine strategies need to be optimized in order to generate optimal memory CD8 T cells and that we need to gain a better understanding of the impact of the inflammatory milieu during vaccination.Tissue-resident memory T Trm cells another subset of memory T cells have been recently identified as playing an important role in protective immunity.
 
-in addition to serving as signal 3 during the activation of naive t cells inflammatory cytokines regulate the antigen sensitivity prolifera- tion and trafficking of both effector and established memory t-cell populations giving the a. cd8 t-cell basics upon integrating the 3 signals needed for activation 1 tcr 2 costimulation 3 cytokines a naive antigen-specific cd8 t cell clonally expands acquires effector functions to kill invadingpathogen and then undergoes numerical contraction developing into long-lived protective memory antigen-specific cd8 t cells.
+In addition to serving as signal 3 during the activation of naive T cells inflammatory cytokines regulate the antigen sensitivity prolifera- tion and trafficking of both effector and established memory T-cell populations giving the A. CD8 T-cell basics upon integrating the 3 signals needed for activation 1 TCR 2 costimulation 3 cytokines a naive antigen-specific CD8 T cell clonally expands acquires effector functions to kill invadingpathogen and then undergoes numerical contraction developing into long-lived protective memory antigen-specific CD8 T cells.
 
-nolz and harty demon- strated that in memory cd8 t cells gcnt1 expression an enzyme used for generating core 2 o-glycans is induced by inflammatory il-15 modulating the capacity of memory cd8 t cells to bind to p- and e-selectin.
+Nolz and Harty demon- strated that in memory CD8 T cells Gcnt1 expression an enzyme used for generating core 2 O-glycans is induced by inflammatory IL-15 modulating the capacity of memory CD8 T cells to bind to P- and E-selectin.
 
-the ability of preexisting memory cd8 t cells to modulate their function in response to inflammatory cytokines and independently of cognate antigen suggests that this may serve as an early warning signal to prepare these cells to attack the invading pathogen.this likely represents an important immunomodulatory mechanism that reduces the potential for the induction of immunopathology by memory cd8 t cells at steady state while stillallowing for enhanced responsiveness following infection.
+The ability of preexisting memory CD8 T cells to modulate their function in response to inflammatory cytokines and independently of cognate antigen suggests that this may serve as an early warning signal to prepare these cells to attack the invading pathogen.This likely represents an important immunomodulatory mechanism that reduces the potential for the induction of immunopathology by memory CD8 T cells at steady state while stillallowing for enhanced responsiveness following infection.
 
-as noted long-lived memory cd8 t cells are enriched among the mpec subset  and chronic bystander infections can hamper the development of memory cd8 t cells .
+As noted long-lived memory CD8 T cells are enriched among the MPEC subset  and chronic bystander infections can hamper the development of memory CD8 T cells .
 
-memory cd8 t-cell populations generated in thepresence of chronic inflammation are decreased in numbers exhibit reduced proportions of mpecs express lower levels of surface molecules associated with memory formation and exhibit impaired cytokine production .
+These regulatory networks have important implications for understanding both memory CD8 T-cell development and the design of vaccines especially in host populations where chronic infections are prevalent.Immune fortifications The effects of inflammatory cytokines on vaccine developmentUnderstanding how to modulate the protective characteristics of memory CD8 T cells is of great importance for vaccine development and T-cell-mediated immunotherapies  .
 
-these regulatory networks have important implications for understanding both memory cd8 t-cell development and the design of vaccines especially in host populations where chronic infections are prevalent.immune fortifications the effects of inflammatory cytokines on vaccine developmentunderstanding how to modulate the protective characteristics of memory cd8 t cells is of great importance for vaccine development and t-cell-mediated immunotherapies  .
+These results demonstrate that inflammatory cytokines influence the rate at which CD8 T cells acquire functional characteristics of mem- ory lymphocytes including their responsiveness to booster immunizations .Although the goal of prime-boost vaccination is to increase numbers of memory CD8 T cells repeated antigen stimulation can also have a negative impact on memory CD8 T-cell function.
 
-these results demonstrate that inflammatory cytokines influence the rate at which cd8 t cells acquire functional characteristics of mem- ory lymphocytes including their responsiveness to booster immunizations .although the goal of prime-boost vaccination is to increase numbers of memory cd8 t cells repeated antigen stimulation can also have a negative impact on memory cd8 t-cell function.
+Following clonal expansion 90- 95 of the pathogen-specific effector CD8 T-cell population numerically contracts via apo- ptosis  and the remaining 5-10 of cells constitute a long-lived memory CD8T-cell pool that provides enhanced protection from secondary infection     .
 
-following clonal expansion 90- 95 of the pathogen-specific effector cd8 t-cell population numerically contracts via apo- ptosis  and the remaining 5-10 of cells constitute a long-lived memory cd8t-cell pool that provides enhanced protection from secondary infection     .
+The development of the long-lived memory CD8 T-cell pool is not a stochastic event and the cells that seed this population can be identified among effector T cells early following infection.
 
-the development of the long-lived memory cd8 t-cell pool is not a stochastic event and the cells that seed this population can be identified among effector t cells early following infection.
-
-thus effector cd8 t cells can be broadly divided into the following 2 subsets memory precursor effector cells mpecs which will predominantly become long-lived mem- ory cd8 t cells and short-lived effector cells slecs which are mostly lost during contrac- tion after the t-cell response .
-
-the establishment of a pool of memory cd8 t cells is the goal of t-cell vaccination strategies and understanding how to modulate their function is criti- cal for vaccine development and immunotherapies.cd8 t-cell battalion how the host benefits from pathogen- induced inflammationfollowing infection inflammatory cytokines i.e.
-
-pathogen-induced inflammatory cytokines impact several aspects of memory cd8 t-cell biology.
-
-b. memory cd8 t-cell exposure to proinflammatory cytokines i.e.
-
-e. inflammation influences memory cd8 t-cell generation impacting vaccine development and protective immunity.
+Thus effector CD8 T cells can be broadly divided into the following 2 subsets memory precursor effector cells MPECs which will predominantly become long-lived mem- ory CD8 T cells and short-lived effector cells SLECs which are mostly lost during contrac- tion after the T-cell response .
 

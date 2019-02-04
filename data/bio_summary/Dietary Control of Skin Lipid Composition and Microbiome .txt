@@ -1,30 +1,20 @@
-we conclude that maintaining animals on an hfd impacts the lipid composition of the skin.to investigate whether animals maintained on a normal diet or hfd display differences in the skin micro- biome we performed metagenomic 16s-sequencing.
+We conclude that maintaining animals on an HFD impacts the lipid composition of the skin.To investigate whether animals maintained on a normal diet or HFD display differences in the skin micro- biome we performed metagenomic 16S-sequencing.
 
-this reveals no signifi- cant differences at the phylum order family and genus level between the two groups b. using the unbiased linear discriminant analysis effect size pipeline  multiple differences become apparent at the species level c. in particular bacteria from the corynebacterium genus appeared to favor hosts on an hfd exemplified by the lipophilic corynebacterium bovis which goes from barely detectable to being essen- tially the dominant species in the hfd group c. interestingly cory- nebacterium is part of the normal hu- man and animal skin microbiome but these species are often abundant in moist sites  where they can cause skin infections such as erythrasma trichomycosis and pitted keratolysis  .
+Using the unbiased linear discriminant analysis effect size pipeline  multiple differences become apparent at the species level c. In particular bacteria from the Corynebacterium genus appeared to favor hosts on an HFD exemplified by the lipophilic Corynebacterium bovis which goes from barely detectable to being essen- tially the dominant species in the HFD group c. Interestingly Cory- nebacterium is part of the normal hu- man and animal skin microbiome but these species are often abundant in moist sites  where they can cause skin infections such as erythrasma trichomycosis and pitted keratolysis  .
 
-reports illustrate that a high-fat diet hfd changes the microbiome and influences cancer development  .
+Reports illustrate that a high-fat diet HFD changes the microbiome and influences cancer development  .
 
-therefore we set out to address how changes in diet affect overall skin homeostasis potentially shaping skin- specific microbiota.animals were split into two groups and fed either a 60 kcal fat diet hfd or a caloric neutral 10 kcal fat diet normal diet.
+Therefore we set out to address how changes in diet affect overall skin homeostasis potentially shaping skin- specific microbiota.Animals were split into two groups and fed either a 60 kcal fat diet HFD or a caloric neutral 10 kcal fat diet normal diet.
 
-as expected the hfd was associated with significant weight gain a and b. histologic assessment of skin samples revealed a relative increase in maximum thickness of the hypodermis as the only obvious difference between the groups cee.
+As expected the HFD was associated with significant weight gain a and b. Histologic assessment of skin samples revealed a relative increase in maximum thickness of the hypodermis as the only obvious difference between the groups cee.
 
-we speculate that the hfd resets skin homeostasis via influ- encing cutaneous immune cells and enhanced adipogenic activity thereby creating a microenvironment that sup- ports a specialized microbiome.
+We speculate that the HFD resets skin homeostasis via influ- encing cutaneous immune cells and enhanced adipogenic activity thereby creating a microenvironment that sup- ports a specialized microbiome.
 
-this needs to be further substantiated by additional studies.in conclusion hfd alters the overall lipid composition of the skin and is associated with changes of the microbial habitat illustrating the widespread consequences of our life- style on tissue homeostasis and the complex interactions with our imme- diate environment.ethics statementall animal experiments were approved by the danish national animal ethics committee.conflict of interestthe authors state no conflict of interest.acknowledgmentsthis study was supported by grants from the innovation foundation denmark 5158-00023a lundbeck foundation r105-a9755 the danish cancer society the a.p.
+This needs to be further substantiated by additional studies.In conclusion HFD alters the overall lipid composition of the skin and is associated with changes of the microbial habitat illustrating the widespread consequences of our life- style on tissue homeostasis and the complex interactions with our imme- diate environment.ETHICS STATEMENTAll animal experiments were approved by the Danish National Animal Ethics Committee.CONFLICT OF INTERESTThe authors state no conflict of interest.ACKNOWLEDGMENTSThis study was supported by grants from the Innovation Foundation Denmark 5158-00023A Lundbeck Foundation R105-A9755 the Danish Cancer Society the A.P.
 
-kbj is supported by the embo young investigator programme.kasper s. moestrup1 yun chen12 troels schepeler1 pawel j. schweiger1 and kim b. jensen131bric-biotech research and innovation centre university of copenhagen copenhagen n denmark 2human health discovery microbiome and human health innovation horsholm denmark and 3novo nordisk foundation center for stem cell research university of copenhagen faculty of health and medical sciences university of copenhagen copenhagen n denmarkcorresponding author e-mail abbreviation hfd high-fat dietaccepted manuscript published online 14 december 2017 corrected proof published online xxx xxxxa 2017 the authors.
+KBJ is supported by the EMBO Young Investigator programme.Kasper S. Moestrup1 Yun Chen12 Troels Schepeler1 Pawel J. Schweiger1 and Kim B. Jensen131BRIC-Biotech Research and Innovation Centre University of Copenhagen Copenhagen N Denmark 2Human Health Discovery Microbiome and Human Health Innovation Horsholm Denmark and 3Novo Nordisk Foundation Center for Stem Cell Research University of Copenhagen Faculty of Health and Medical Sciences University of Copenhagen Copenhagen N DenmarkCorresponding author e-mail Abbreviation HFD high-fat dietAccepted manuscript published online 14 December 2017 corrected proof published online XXX XXXXa 2017 The Authors.
 
-a mice fed a high fat hfd and a normal nd diet after 12 months.
+a Mice fed a high fat HFD and a normal ND diet after 12 months.
 
-b hfd induces severe weight gain mean - sem p  0.0001. c d back skin section stained with he at 12 months.
-
-scd1 stearoyl-coa desaturase-1 sem standard error of the meanks moestrup et al.high-fat diet and microbiomefigure 2. a high-fat diet hfd changes the composition of lipids and microbiome associated with the skin.
-
-the inset shows that free fatty acids ffa are enriched in the skin following hfd.
-
-specific lipid variants are enriched in the skin from animals fed an hfd when compared with a normal diet nd.
-
-b comparison of groups of animals on nd and hfd indicating the pairwise comparisons based on the unifrac distance calculation.
-
-significance was measured based on the wilcoxon test to assess whether differences between nd and hfd groups are larger than the differences within each of the groups.
+b HFD induces severe weight gain mean - SEM P  0.0001. c d Back skin section stained with HE at 12 months.
 

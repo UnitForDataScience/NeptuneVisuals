@@ -1,30 +1,20 @@
-for example plant dna bank samples not only preserve the genomic information of the target species but also preserve potentially important cryptic microbial symbionts associated with the host such as fungi known to inhabit the plant phyllosphere   .despite much work on patterns of plant diversity comparatively little is known about the diversity of fungi.
+Thus along with the HPDL's banked plant samples it also has likely and coincidentally preserved a substantial portion of the diversity of Hawaiian fungi acting as a repository for not only plant genetics but their microbiomes as well.Utilizing several plant bank samples from the HPDL we investigated the diversity of unintentionally co-sampled fungi found within banked plant samples.
 
-thus along with the hpdl's banked plant samples it also has likely and coincidentally preserved a substantial portion of the diversity of hawaiian fungi acting as a repository for not only plant genetics but their microbiomes as well.utilizing several plant bank samples from the hpdl we investigated the diversity of unintentionally co-sampled fungi found within banked plant samples.
+For example plant DNA bank samples not only preserve the genomic information of the target species but also preserve potentially important cryptic microbial symbionts associated with the host such as fungi known to inhabit the plant phyllosphere   .Despite much work on patterns of plant diversity comparatively little is known about the diversity of fungi.
 
-if we assume that the diversity of phylloplane fungi associated with clermontia species is representative of the native hawaiian flora we would estimate based on chao1 richness q  0 extrapolations determined by species  that the entire hawaiian flora c. 1000 species harbors about 4000 fungi.
+The main goal of the HPDL is to preserve Hawaiian plant DNA and bank samples for use in future studies of biodiversity  .All naturally occurring plant tissues harbor fungi as both endophytes living in between plant cells  and epiphytes living on plant surfaces  collectively known as phyllosphere fungi .
 
-the main goal of the hpdl is to preserve hawaiian plant dna and bank samples for use in future studies of biodiversity  .all naturally occurring plant tissues harbor fungi as both endophytes living in between plant cells  and epiphytes living on plant surfaces  collectively known as phyllosphere fungi .
+Similarly fungal diversity based on q  1 exponentialShannon entropy was estimated to saturate at around 2750 and diversity based on q  2 inverse Simpson concentration was estimated to saturate at about 1591 .We investigated patterns of fungal diversity at the phyla and ordinal levels.
 
-because observed species richness often under estimates true species richness  asymptotic extrapolations of species richness and diversity for all samples and species were estimated based on the first three hill numbers using the inext package for raw incidencedata .
+In order to obtain more accurate estimates of true fungal diversity increased sampling using high throughput DNA sequencing of many different types of environments is needed and DNA banks may significantly contribute to filling this knowledge gap.Hawai'i is a biodiversity hotspot making it an exceptional location to study patterns of species diversity .
 
-thus rather than superficially sequencing the fungi from all available replicate dna extracts from a single plant species we chose to deeply sequence ten samples of a common endemic hawaiian plant genus clermontia campanulaceae with species found across the hawaiian islands .
+Even with the adoption of next generation DNA sequencing technologies such as high throughput amplicon sequencing from environmental samples observed diversity is often an under representation of true diversity .
 
-these communities form diverse assemblages with some studies showing an average of about 100 species per individual tree and ranges of about 700-4000 species of fungi per host species  .
+Uncovering unseen fungal diversity from plant DNA banksErin M. Datlof Anthony S. Amend Kamala Earl Jeremy Hayward Clifford W. Morden Rachael Wade Geoffrey Zahn and Nicole A. Hynson1 Department of Botany University of Hawai'i at Ma-noa Honolulu HI United States of America2 School of Forest Resources and Conservation University of Florida Gainesville FL United States of America Deceased.Submitted 6 May 2017Accepted 3 August 2017Published 28 August 2017Corresponding author Nicole A. Hynson DOI Copyright2017 Datlof et al.
 
-globally 100000 species of fungi have been described  which is far less than total estimated fungal diversity and also less than vascular plants with 400000 species currently described  .
+2017 Uncovering unseen fungal diversity from plant DNA banks.
 
-as a result of these extinctions and a strong potential for additional future losses the hawaiian plant dna library hpdl was created to preserve the genetic diversity of the hawaiian flora .the hpdl was started in 1992 and currently has over 10000 accessions representing over 86 of all of the hawaiian plant genera and over 50 of all species .
+As a result of these extinctions and a strong potential for additional future losses the Hawaiian Plant DNA Library HPDL was created to preserve the genetic diversity of the Hawaiian flora .The HPDL was started in 1992 and currently has over 10000 accessions representing over 86 of all of the Hawaiian plant genera and over 50 of all species .
 
-in order to obtain more accurate estimates of true fungal diversity increased sampling using high throughput dna sequencing of many different types of environments is needed and dna banks may significantly contribute to filling this knowledge gap.hawai'i is a biodiversity hotspot making it an exceptional location to study patterns of species diversity .
-
-similarly fungal diversity based on q  1 exponentialshannon entropy was estimated to saturate at around 2750 and diversity based on q  2 inverse simpson concentration was estimated to saturate at about 1591 .we investigated patterns of fungal diversity at the phyla and ordinal levels.
-
-supplementary to host specificity only taking into consideration phylloplane fungi likely underestimates total regional fungal richness due to habitat niche partitioning among fungal species and guilds  .in addition to the study of microbial diversity questions regarding microbial biogeography host specificity and the effects of global change on microbial communities could be addressed with dna banks.
-
-our two main questions were do dna bank samples store microbial diversity and can these previously collected samples be used to uncover ecological patterns such as changes in microbial community similarity over space using dna samples of eight species of clermontia stored in the hpdl we sequenced the fungi found in these plants' phylloplanesthe portion of the phyllosphere made up by leaves.
-
-this results in an approximate 14 plant to fungi species ratio.
-
-plos one 9e110128 .blackwell m. 2011. the fungi 1 2 3...5.1 million species american journal of botany98426-438 .busby pe ridout m newcombe g. 2016. fungal endophytes modifiers of plant disease.plant molecular biology 90645-655 .caporaso jg kuczynski j stombaugh j bittinger k bushman fd costello ek fierer n pena ag goodrich jk gordon ji huttley ga kelley st knights d koenig je ruth le lozupone ca mcdonald d muegge bd pirrung m reeder j sevinsky jr turnbaugh pj walters wa widmann j yatsunenko t zaneveld j knightr.
+This deep sequencing was done in hopes that the vast majority of fungi from our samples would be recovered from each sample.In this study we utilized historical DNA bank samples to validate the use of plant bank samples as a resource for elucidating phyllosphere fungal biodiversity while subsequently examining plant-associated fungal diversity across space.
 

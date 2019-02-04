@@ -1,30 +1,20 @@
-the micropillar chip with bacterial cells was then immediately stamped onto the microwell chip containing 800 nl of in vitro tnt reaction solutions and the stamped chip was incubated for 3 h. the micropillar chip with bacterial cells challenged by the cell lytic enzymes synthesized from in vitro tnt was moved into the microwell chip containing bhi medium.
+The micropillar chip with bacterial cells was then immediately stamped onto the microwell chip containing 800 nL of in vitro TNT reaction solutions and the stamped chip was incubated for 3 h. The micropillar chip with bacterial cells challenged by the cell lytic enzymes synthesized from in vitro TNT was moved into the microwell chip containing BHI medium.
 
-2008.bacterial cell staining and chip scanningafter growing the bacterial cells in the micropillarmicrowell chip the micropillar chip containing bacteria cells was stained for 15 min in the dark using livedead1 baclighttm bacterial viability kit thermofisher.
+2008.Bacterial Cell Staining and Chip ScanningAfter growing the bacterial cells in the micropillarmicrowell chip the micropillar chip containing bacteria cells was stained for 15 min in the dark using LIVEDEAD1 BacLightTM Bacterial Viability Kit ThermoFisher.
 
-at the end of a 1 h incubation period the chip was stained with a bacterial livedead staining dye thermofisher for 15 min in the dark.western blot analysiswestern blotting was performed after collecting multiple replicates of in vitro tnt reaction solutions in microwell chip.
+At the end of a 1 h incubation period the chip was stained with a bacterial LiveDead staining dye ThermoFisher for 15 min in the dark.Western Blot AnalysisWestern blotting was performed after collecting multiple replicates of in vitro TNT reaction solutions in microwell chip.
 
-a layout of microwell chip containing different concentration of three cell lytic enzymes and micropillar chip containing four different pathogenic bacteria for quantitative evaluation of their pathogen-specific antimicrobial activities.
+A Layout of microwell chip containing different concentration of three cell lytic enzymes and micropillar chip containing four different pathogenic bacteria for quantitative evaluation of their pathogen-specific antimicrobial activities.
 
-2008. this bacterial cell chip is sandwiched or stamped with a complementary microwell chip that contains lysins in 800 nlwell buffer solution.
+This bacterial cell chip is sandwiched or stamped with a complementary microwell chip that contains lysins in 800 nLwell buffer solution.
 
-2013. the bacterial cell chip treated with lysostaphin was then stamped into a new microwell chip filled with brain heart infusion bhi medium and incubated for additional 1 h which was sufficient to reach 12000 cellsspot supplemen- tary fig.
+The bacterial cell chip treated with lysostaphin was then stamped into a new microwell chip filled with brain heart infusion BHI medium and incubated for additional 1 h which was sufficient to reach 12000 cellsspot Supplemen- tary Fig.
 
-in addition to rapid growth in the bacterial chip highly sensitive detection of bacterial cells could be achieved in the localizedfigure 3. identification of antimicrobial function of the genes encoding cell lytic enzymes via in vitro tnt-coupled bacterial cell chip protocols.
+We then sequentially stamped the micropillar chip with four different pathogenic bacteria into the microwell chip containing all 11 cell lytic enzymes and the negative control TNT mixture containing plasmid carrying the gene encoding GFP pT7-GFP to evaluate their bacterial-specific antimicrobial activities Fig.
 
-to that end cell-free protein synthesis was performed in the microwell chip at 30oc for 6 h after sequentially dispensingprinting the plasmids with each offigure 4. screening of various cosolvents for improving the solubility of highly insoluble sa1 in a bacterial cell chip.
+2015.We herein demonstrate a bacterial cell chip platform for rapid quantitative sensitive and high-throughput functional analysis of putative lysins for targeting S. aureus B. anthracis and L. innocua which combines bioinformatics analysis and chip-based in vitro TNT.
 
-2006. we then sequentially stamped the micropillar chip with four different pathogenic bacteria into the microwell chip containing all 11 cell lytic enzymes and the negative control tnt mixture containing plasmid carrying the gene encoding gfp pt7-gfp to evaluate their bacterial-specific antimicrobial activities fig.
+For these reasons there is significant interest in developing safe and selective routes to target and decontaminate these bacterial pathogens.The in vitro TNT-coupled bacterial cell chip can be used to screen rapidly plasmid libraries and assess potentially useful yet poorly soluble lysins that are not easily expressed in E. coli expression systems.
 
- articlein vitro gene expression-coupled bacterial cell chip for screening species-specific antimicrobial enzymesseok-joon kwon1 domyoung kim1 inseon lee2 jungbae kim2 jonathan s. dordick11department of chemical and biological engineering rensselaer polytechnic institute 110 8th street troy new york 12180  telephone 518-276-2899 fax 518-276-2207e-mail 2department of chemical and biological engineering korea university seoul 02841 republic of korea telephone th82-2-3290-4850 fax th82-2-926-6102e-mail seok-joon kwon and domyoung kim contributed equally to this work.
-
-2015.we herein demonstrate a bacterial cell chip platform for rapid quantitative sensitive and high-throughput functional analysis of putative lysins for targeting s. aureus b. anthracis and l. innocua which combines bioinformatics analysis and chip-based in vitro tnt.
-
-2006. in terms of the healthcare infrastructure s. aureus is among the most ubiquitous and dangerous human pathogens due to its virulence and its ability to develop antibiotic resistance archer 1998. for these reasons there is significant interest in developing safe and selective routes to target and decontaminate these bacterial pathogens.the in vitro tnt-coupled bacterial cell chip can be used to screen rapidly plasmid libraries and assess potentially useful yet poorly soluble lysins that are not easily expressed in e. coli expression systems.
-
-in addition species-specific antimicrobial activity can be quantified rapidly in the bacterial cell chip to compare potencies of the lysins toward different target bacteria which may be translated to pathogen-specific therapies.materials and methodsbacterial strains media and growth conditionsbacillus anthracis sterne 34f23 staphylococcus aureus atcc 33807 listeria innocua atcc 33090 s. epidermidis atcc 12228s.
-
-the livedead staining dye solution was preparedfigure 1. validation of bacterial cell chip for antimicrobial activity assay with cell lytic enzymes.
-
-a experimental procedure for investigating the antimicrobial activity of cell lytic enzymes in micropillarmicrowell chip.
+In addition species-specific antimicrobial activity can be quantified rapidly in the bacterial cell chip to compare potencies of the lysins toward different target bacteria which may be translated to pathogen-specific therapies.Materials and MethodsBacterial Strains Media and Growth ConditionsBacillus anthracis Sterne 34F23 Staphylococcus aureus ATCC 33807 Listeria innocua ATCC 33090 S. epidermidis ATCC 12228S.
 

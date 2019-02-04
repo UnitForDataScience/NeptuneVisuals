@@ -1,30 +1,20 @@
-additional water samples were collected from tank2 and tank3 before transferring the fish ctrl to evaluate any differences with the original water containing the fish in tank1 water t0 and the water to which the fish were transferred and assessed after 3 h and 24 h. quantitative droplet digital pcr ddpcr indicated in overall a higher number of copies of 16s rrna gene sequences in the water samples compared to the mucus samples and highlighted variation in concentration among samples tanks and time points  and supplementary table s2.
+Additional water samples were collected from Tank2 and Tank3 before transferring the fish Ctrl to evaluate any differences with the original water containing the fish in Tank1 water T0 and the water to which the fish were transferred and assessed after 3 h and 24 h. Quantitative Droplet Digital PCR ddPCR indicated in overall a higher number of copies of 16S rRNA gene sequences in the water samples compared to the mucus samples and highlighted variation in concentration among samples tanks and time points  and Supplementary Table S2.
 
-samples that are represented by low biomass dna concentration supplementary table s1 ddpcr supplementary table s2 and have a close correlation with water are indicated.comparing the genera distribution in and as well as the beta diversity analysis  where the abovementioned samples are clustering in close proximity with the water samples.
+Finally Permutational Multivariate Analysis of Variance Adonis   using the weighted UniFrac distance matrix in R package Vegan was utilized for significance testing on the water and mucus samples.Droplet Digital PCR Reaction and Data AnalysisThe QX200 Droplet Digital PCR ddPCRTM System Bio-Rad Munich Germany was used to quantify the number of copies per microliter of the extracted DNA from mucus and water samples.
 
-finally permutational multivariate analysis of variance adonis   using the weighted unifrac distance matrix in r package vegan was utilized for significance testing on the water and mucus samples.droplet digital pcr reaction and data analysisthe qx200 droplet digital pcr ddpcrtm system bio-rad munich germany was used to quantify the number of copies per microliter of the extracted dna from mucus and water samples.
+Samples that are represented by low biomass DNA concentration Supplementary Table S1 ddPCR Supplementary Table S2 and have a close correlation with water are indicated.comparing the genera distribution in and as well as the beta diversity analysis  where the abovementioned samples are clustering in close proximity with the water samples.
 
-mucus collected at 3 h post-handling t3 included seven samples while samples taken at 24 h post-handling included thirteen mucus samples supplementary table s1.
+Analysis at the genus level of the most abundant phylotypes  illustrated similarities between water samples collected in the different tanks and at the three experimental time points.Many genera detected in rearing water were also observed in mucus such as Lysobacter and Ralstonia in accordance with the hypothesis that fish skin mucosal microbiome is colonized by strains living in the surrounding environment  .
 
-analysis at the genus level of the most abundant phylotypes  illustrated similarities between water samples collected in the different tanks and at the three experimental time points.many genera detected in rearing water were also observed in mucus such as lysobacter and ralstonia in accordance with the hypothesis that fish skin mucosal microbiome is colonized by strains living in the surrounding environment  .
+This is an important point to take into account when analyzing skin mucus of water dwelling animals as samples with low biomass are vulnerable to contamination by the water microbiome.AUTHOR CONTRIBUTIONSGM carried out the experimental work collected and analyzed data and wrote the paper.
 
-this is an important point to take into account when analyzing skin mucus of water dwelling animals as samples with low biomass are vulnerable to contamination by the water microbiome.author contributionsgm carried out the experimental work collected and analyzed data and wrote the paper.
+After quality filtration a total number of 2690828 reads were obtained from water 21 samples and mucus 31 samples.
 
-after quality filtration a total number of 2690828 reads were obtained from water 21 samples and mucus 31 samples.
+However the mucus samples M6-T0-1 M7-T0-1M8-T0-1 M9-T0-1 M10-T0-1 M11-T0-1 and M13-T24-1exhibited a different trend and showed a closer correlation with the water samples .DISCUSSIONIn this study we have used 16S rRNA gene sequencing to investigate the composition of the skin-mucus microbiome of farmed Salmo salar and the potential influence of common aquaculture practices on the microbial community.
 
-however the mucus samples m6-t0-1 m7-t0-1m8-t0-1 m9-t0-1 m10-t0-1 m11-t0-1 and m13-t24-1exhibited a different trend and showed a closer correlation with the water samples .discussionin this study we have used 16s rrna gene sequencing to investigate the composition of the skin-mucus microbiome of farmed salmo salar and the potential influence of common aquaculture practices on the microbial community.
+However as mentioned above the low biomass observed in some of the mucus samples may have distorted the results causing detection of members of the water microbiome in the mucus.
 
-however as mentioned above the low biomass observed in some of the mucus samples may have distorted the results causing detection of members of the water microbiome in the mucus.
+Mucus collected at 3 h post-handling T3 included seven samples while samples taken at 24 h post-handling included thirteen mucus samples Supplementary Table S1.
 
-this similarity is evident whenfigure 5  principle coordinate analysis pcoa using the a unweighted and b weighted unifrac distance matrices and c bray-curtis distance matrix between mucus and water associated microbiomes at the different time points t0 t3 t24  ctrl water.
-
-samples were entitled according to the source of the sample water w or mucus m time of collection pre-handling  t0 3 h post-handling t3 or 24 h post-handling t24 and sample tank tank 1-3 e.g.
-
-miseq illumina was used to sequence mucus and water samples.
-
-the a-diversity of mucus and water samples at t0 t3 t24 and ctrl were calculated at otu level using shannon index.
-
-mucus and water samples were studied in triplicates and all the data were analyzed by the quantasoft software 1.7 bio-rad munich germany which provides the concentration values of the ddpcr target dna in copiesul.
-
-alpha diversity estimates represented by shannon index indicated that the bacterial diversity was significantly higher in water samples compared to mucus .
+This similarity is evident whenFIGURE 5  Principle coordinate analysis PCoA using the A unweighted and B weighted UniFrac distance matrices and C Bray-Curtis distance matrix between mucus and water associated microbiomes at the different time points T0 T3 T24  Ctrl water.
 

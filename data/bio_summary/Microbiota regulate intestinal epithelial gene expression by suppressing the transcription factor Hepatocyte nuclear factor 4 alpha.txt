@@ -1,30 +1,20 @@
-plos one 2 e691.frochot v alqub m cattin al carriere v houllier a baraille f barbot l saint-just s ribeiro a lacasa m et al.
+Furthermore comparison of the hnf4a mutant Mut vs. wild-type WT geno- types revealed differential expression of many genes in the CV condition 2741 genes and GF condition 1441 genes that inform a general role for Hnf4a in regulating genes in the intestinal tract Fig.
 
-abnormal host-microbiota interactions are strongly implicated in the pathogenesis of inflammatory bowel diseases ibd including crohn's disease cd and ulcerative coli- tis uc sartor and wu 2016. studies in mouse and zebrafish models of ibd have established that impaired intestinal epithelial cell iec responses to microbiota are a key aspect of disease pro- gression bates et al.
+When we compared the 598 genes that were microbiota responsive in wild-type digestive tracts with the 2741 genes that Hnf4a regulates in CV digestive tracts we found these lists shared 295 genes that included fads2 and saa both of which have human orthologs that are ei- ther implicated FADS12 or markers SAA of IBD Fig.
 
-2007 kamada et al.
+However we did find that the average CV HNF4A ChIP-seq signal strength was significantly increased at HNF4A sites associated with micro- biota-induced genes relative to those HNF4A sites associated with microbiota-suppressed genes suggesting HNF4A may play a limited role in genes up-regulated by colonization Supplemental Fig.
 
-2013 marjoram et al.
+Log10 P-values were calculated using a hypergeometric en- richment analysis and converting all HNF4A ChIP associated mouse genes to human orthologs GF  5863 genes and CV  2119 genes.
 
-genome-wide compari- son of transcript levels in intestinal tissue or isolated iecs from mice reared in the absence of microbes germ-free or gf to those colonized with a microbiota conventionalized or cv have re- vealed hundreds of genes that have significantly increased or de- creased mrna levels following microbiota colonization camp et al.
+These 88 genes represent al- most half of all 185 genes suppressed by the microbiota.
 
-2014. interestingly many mouse genes that are transcrip- tionally regulated by microbiota have zebrafish homologs that are similarly responsive suggesting the existence of evolutionarily conserved regulatory mechanisms rawls et al.
+Genetic analysis revealed that zebrafish hnf4a activates nearly half of the genes that are suppressed by microbiota suggesting microbiota negatively regulate Hnf4a.
 
-2004. for example the protein hormone angiopoetin-like 4 angptl4 also called fiaf is encoded by a single ortholog in the mouse and zebrafish genomes and microbiota colonization results in significant reduc- tions in transcript levels in the intestinal epithelium of both host species backhed et al.
+Genome-wide compari- son of transcript levels in intestinal tissue or isolated IECs from mice reared in the absence of microbes germ-free or GF to those colonized with a microbiota conventionalized or CV have re- vealed hundreds of genes that have significantly increased or de- creased mRNA levels following microbiota colonization Camp et al.
 
-2004 camp et al.
+Together these results estab- lish that Hnf4a is required for in3.4 activity in IECs and raises the possibility that Hnf4a may have broader roles in mediating host transcriptional and physiological responses to microbiota.Hnf4a activates transcription of genes that are suppressed upon microbiota colonizationTo better define the roles of Hnf4a in microbiota response and oth- er aspects of digestive physiology we used RNA-seq to compareHnf4a mediates microbial control of IEC genesFigure 1.
 
-this article published in genome research is available under a creative commons license attribution 4.0 international as described at 271195-1206 issn 1088-905117 genome research1195depletion and specific post-translational modifications of histone proteins within adjacent nucleosomes when acting as poised h3k4me1 or active h3k27ac enhancers creyghton et al.
+An unbiased analysis found that three HNF4A binding site motifs were significantly P  1x 10-45 P  1x 10-28 and P 1 x 10-13 enriched in promoters of genes associ- ated with microbiota-suppressed enhancers Supplemental Fig.S4E and STAT1 binding site motifs were significantly P 1 x 10-16 enriched in promoters of genes associated with micro- biota-activated enhancers Supplemental Fig.
 
-2010. antibiotic administration can impact transcript levels and histone modifications in iecs thaiss et al.
-
-2016 however it's un- clear if these changes are indirect effects caused by alterations to microbiota composition direct effects of the antibiotic on host cells or the effects of remaining antibiotic-resistant microbiota morgun et al.
-
-2015. previous studies have shown that histone deacetylase 3 is required in iecs to maintain intestinal homeostasis in the presence of microbiota alenghat et al.
-
-2013 and that overall histone acetylation and methylation in the intestine is altered by microbiotacolonization krautkramer et al.
-
-2016. however the di- rect and specific effects of the microbiota on host crrs and subse- quent transcriptional responses in iecs remain unknown.our previous studies predicted key roles for one or more nucle- ar receptor nr tfs in microbial down-regulation of iec gene expression camp et al.
-
-the earliest animals encoded a single nuclear receptor orthologous to hepatocyte nuclear factor 4 hnf4 nuclear receptor subfamily nr2a bridgham et al.
+C  Heat map representing the -log10 P-value of the enrichment of GF or CV HNF4A-associated genes that are differentially regulated genes in the indicated IBD data sets.
 

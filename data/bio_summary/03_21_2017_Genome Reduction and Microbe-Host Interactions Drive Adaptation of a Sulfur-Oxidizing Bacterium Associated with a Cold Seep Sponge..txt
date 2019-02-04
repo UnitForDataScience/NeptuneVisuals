@@ -1,30 +1,20 @@
-the genome completeness and potential contamination of the gsub genome were estimated to be 98 and 0 respectively based on the identification of 243 proteobacteria-specific single-copy marker genes using checkm .
+of type II secretion system genes1100081212aThe reference genomes include two endosymbionts from vent clams Candidatus Ruthia magnifica strain Cm Rmag and Candidatus Vesicomyosocius okutanii strain Voku two extracellular SOB in sponges the SOB in the deep-sea glass sponge Lophophysema Glop and in the shallow water sponge Haliclona Ghal and two free-living relative SOB Thioalkalivibrio sulfidophilus HL-EbGr7 Tsul from shallow water and Thiomicrospira crunogena XCL-2 Tcru from the deep sea.Vesicomyosocius okutanii strain HA Voku from vent clams   the comparison also included two potential sponge symbiont SOB the SOB in the deep-sea glass sponge Lophophysema Glop and in the shallow water sponge Haliclona Ghal   and two free-living SOB Thioalkalivibrio sulfidophilus HL-EbGr7 Tsul and Thiomicro- spira crunogena XCL-2 Tcru from shallow and deep water environments .
 
-the genome completeness and potential contamination of the nsub genome were estimated to be nearly 100 and 0 respectively based on the identifi- cation of 145 archaea-specific single-copy marker genes using checkm.
+To further investigate the association between Gsub and the sponge fluorescence in situ hybridization FISH experiments were performed using sponge sections with a Gsub-specific probe for the 16S rRNA gene and the results found Gsub in extracellular positions in the sponge Fig.
 
-the pfam-based 139 conserved single-copy genes were also identified showing that the gsub genome contains no duplicated genes table s2.
+The microor- ganisms in the sponge body can reach up to 40 of the sponge weight and are mainly distributed in the mesophyll layer .
 
-the gsub genome also contains a complete set of genes involved in the calvin-benson cycle for carbon fixation including the rbcs and rbcl genes coding for ribulose- bisphosphate carboxylases rubisco fig.
+Although the molecules that are introduced into sponge cells by the Gsub bacterium remain unknown the presence of T2SS suggests the potential for direct interaction between Gsub and the host sponge.
 
-genome reduction is a hallmark of the genomes of symbionts and is considered a strategy to reduce the cost of genome replication .
+However Gsub has retained genes for phage defense and protein secretion with the latter potentially playing a role in interactions with the sponge host.
 
-to gain better understanding of the functional profile of gsub we compared its genome to two of its nearest neighbor genomes two endosymbiont sob candidatus ruthia magnifica strain cm rmag and candidatustable 1 comparison of the genome features among the sulfur-oxidizing bacterium sob in the cold seep sponge gsub and reference genomesaretained featuresno.
+oxidative stress resistance genes were reduced in symbiotic members of the Candidatus Synechococcus spongiarum group and the authors proposed that the barrier of the sponge body prevents sunlight from arriving at the cyanobacterial symbiont avoiding oxidative damage.In the DNA repair category the MutL-MutS system was absent in Gsub Rmag and Voku while present in Glop Ghal Tsul and Tcru  and .
 
-the draft genome sequences of the gsub and nsub bacteria have been deposited at ddbjemblgenbank under accession numbers and  respectively the annotated genome can also be accessed at .supplemental materialsupplemental material for this article may be found at .fig s1 pdf file 0.1 mb.fig s2 pdf file 0.3 mb.fig s3 pdf file 0.1 mb.fig s4 pdf file 0.2 mb.fig s5 pdf file 0.1 mb.fig s6 pdf file 0.2 mb.table s1 pdf file 0.1 mb.table s2 pdf file 0.2 mb.table s3 pdf file 0.1 mb.table s4 pdf file 0.1 mb.acknowledgmentsthis study was supported by grants from the nature science foundation of china u1301232 and the strategic priority research program of the chinese academy of sciences xdb06010102 and xdb06010200.referencesborchiellini c manuel m alivon e boury-esnault n vacelet j le parco y.
+The reduced bacterial motility in Gsub implies that symbionts in the sponge body are sessile and do not need to move in response to chemical signals as either a response to stress or a strategy of nutrient acquisition.Immunity and virulence genes in Gsub.
 
-com- parative genomics with other sponge-associated sob and free-living sob revealed significant genome reduction in gsub characterized by the loss of genes for carbo- hydrate metabolism motility dna repair and osmotic stress response.
+These microorganisms in hosts lack genes that are essential in other bacteria and retain only the most essential functions such as sets of genes that serve the hosts .
 
-the gsub genome contains a complete set of genes involved in the reverse dissimilatory sulfate reduction pathway dsra dsrb apra aprb and sat and the sulfur oxidation sox system soxabxyz indicating that this bacterium is able to use both sulfide and thiosulfate as electron donors fig.
+The sequencing coverages of the contigs where the 16S rRNA genes located were taken as the coverages of the 16S rRNA genes and were considered their relative abundance.
 
-elimination of some of the genes encoding components of the dna recombination and repair pathways has been observed for nearly every small genome .
-
-however it is not clear how these microbes benefit by retaining fewer dna repair genes.with respect to carbohydrate metabolism the gsub genome has reduced genes for the metabolism of monosaccharides oligosaccharides sugar alcohols and other car- bohydrates compared to free-living relatives.
-
-the presence of crispr in the gsub genome combined with the results of previous studies   implies that phage defense is of ecological significance in the adaptation of sponge- associated bacteria.comparison between gsub and the two endosymbiotic bacteria rmag and voku revealed that gsub contains a relatively complete set of genes encoding the type ii secretion system t2ss table s4 which may mediate cellular interactions with the host.
-
-compared to free-living sob gsub and other symbiotic sob show significant genome reduction represented by the loss of genes for carbo- hydrate metabolism and respiration cell signaling and regulation motility and che- motaxis stress response and membrane transport.
-
-these microorganisms in hosts lack genes that are essential in other bacteria and retain only the most essential functions such as sets of genes that serve the hosts .
-
-the sequencing coverages of the contigs where the 16s rrna genes located were taken as the coverages of the 16s rrna genes and were considered their relative abundance.
+The Pfam-based 139 conserved single-copy genes were also identified showing that the Gsub genome contains no duplicated genes Table S2.
 

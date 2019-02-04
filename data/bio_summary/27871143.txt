@@ -1,30 +1,20 @@
-analysis of the 80 zetaproteobacteria nodes showed differ- ential abundance of 21 biomarkers between the two geographic regions mar 10 lo-'ihi 11 - notably nodes from zetaotu9 2155 zetaotu15 1198 zetaotu17 1833 zetaotu14 1764 and zetaotu2 1194 enriched at the mar as well as zetaotu2 2086 2094 zetaotu1 2110 zetaotu4 2123 2132 zetaotu6 2076 zetaotu10 1918 and zetaotu14 2067 enriched at lo-'ihi figs 3 and 4. zetaotu17 was not detected in any lo-'ihi samples and only a small subset of samples from lo-'ihi had reads from either zetaotu9 or zetaotu15.
+Non-metric multidimensional scaling NMDS analysis of Bray-Curtis dissimilarity matrix from MED data showed MAR samples clustering separately from Lo-'ihi samples however community similarity was not resolved between North and South Hiolo Ridge samples Fig.
 
-non-metric multidimensional scaling nmds analysis of bray-curtis dissimilarity matrix from med data showed mar samples clustering separately from lo-'ihi samples however community similarity was not resolved between north and south hiolo ridge samples fig.
+ZetaOtu17 was not detected in any Lo-'ihi samples and only a small subset of samples from Lo-'ihi had reads from either ZetaOtu9 or ZetaOtu15.
 
-combined samples from lo-'ihi contained comparable broad-level taxonomic profiles as mar samples fig.
+Combined samples from Lo-'ihi contained comparable broad-level taxonomic profiles as MAR samples Fig.
 
-none of the 52 zetaproteobacteria nodes were found in all sam- ples across lo-'ihi and the mar however 4 were found in all lo-'ihi samples veil and non-veil specifically nodes from zetaotu1 2110 zetaotu2 2086 2095 and otu14 2067 fig.
+None of the 52 Zetaproteobacteria nodes were found in all sam- ples across Lo-'ihi and the MAR however 4 were found in all Lo-'ihi samples veil and non-veil specifically nodes from ZetaOtu1 2110 ZetaOtu2 2086 2095 and Otu14 2067 Fig.
 
-feii concentrations were 18.3 lm near sample c56 46.2 lm around the veil samples and 70.1 lm where the non-veil samples b1-b4 were collected.comparison between veil and non-veil samples from m39b.
+Overview of study system.Bathymetric map of Lo-'ihi Seamount showing the relative location of major sampling sites North Hiolo Ridge NHR South Hiolo Ridge SHR and Pohaku Poh and associated markers.Example of veil and non-veil mat structures found at Lo-'ihi scale bar 10 cm.Broad-scale taxonomic composition of iron mats encompassing geography Lo-'ihi and MAR sites NHR SHR and Poh and mat structure non-veil and veil.
 
-though all samples had an abundance of zetaproteobacteria veil samples had contained med node 1668 unclassified gammaproteobacteria while the non-veil samples were enriched in node 1537 flavobacteria.
+A more detailed analysis of the vent fluid chemistry at these sites was published previously Glazer and Rouxel 2009.The summit of Lo-'ihi is in an O2 minima zone where ambi- ent O2 concentrations range from 30 to 60 mM.Approximately 82 000 16S rRNA pyrotag reads were gen- erated from 38 samples collected at sites within the Lo-'ihi Seamount.
 
-zetaotu1 was abundant at lo-'ihi especially node 2110 which was enriched in veil samples and widely distributed in non-veil samples figs 3 and 4. in contrast we found little evidence of zetaotu1 at the mar suggesting that zetaotu1 may be restricted to the pacific and not globally cosmopolitan.
+Both of ZetaOtu6 and ZetaOtu28 were exclusive to non-veil samples at Lo-'ihi and only matched single amplified genome SAG 16S rRNA gene sequences retrieved previously from Lo-'ihi Field et al.
 
-a more detailed analysis of the vent fluid chemistry at these sites was published previously glazer and rouxel 2009.the summit of lo-'ihi is in an o2 minima zone where ambi- ent o2 concentrations range from 30 to 60 mm.approximately 82 000 16s rrna pyrotag reads were gen- erated from 38 samples collected at sites within the lo-'ihi seamount.
+FeII concentrations were 18.3 lM near sample C56 46.2 lM around the veil samples and 70.1 lM where the non-veil samples B1-B4 were collected.Comparison between veil and non-veil samples from M39B.
 
-both of zetaotu6 and zetaotu28 were exclusive to non-veil samples at lo-'ihi and only matched single amplified genome sag 16s rrna gene sequences retrieved previously from lo-'ihi field et al.
+ZetaOtu1 was abundant at Lo-'ihi especially node 2110 which was enriched in veil samples and widely distributed in non-veil samples Figs 3 and 4.
 
-1. overview of study system.bathymetric map of lo-'ihi seamount showing the relative location of major sampling sites north hiolo ridge nhr south hiolo ridge shr and pohaku poh and associated markers.example of veil and non-veil mat structures found at lo-'ihi scale bar 10 cm.broad-scale taxonomic composition of iron mats encompassing geography lo-'ihi and mar sites nhr shr and poh and mat structure non-veil and veil.
-
-2. nmds clustering showed that veil samples were distinct from non-veil samples fig.
-
-asterisks refer to the nodes found in all lo-'ihi samples.2110m 1764l1918brelative contribution .2.4.6.8otu12110 otu22094otu22086otu22103ssotu21194ssotu42123otu42132otu62076otu91965xotu92155ssotu101918otu141764ssotu142067otu151780xotu151198xotu171833xotu282059present in all lo'ihi samples19712155mv1965lo'ihi veil lo'ihi non-veil marperfect blast hits lo'ihiss mar mixx no hitsnon-veil samples from the texture garden and marker 39b also showed an abundance of the alphaproteobacte- ria order kiloniellales node 0953 while 20 of the reads from the non-veil sample at m39a were associated with node 2001 in the gammaproteobacteria order marinicel- lales supporting information fig.
-
-node 2103 in particular was abundant in samples from both sites and phylogenetic inference showed that node 2103 was most similar to sags from both the mar and lo-'ihi supporting information fig.
-
-2014. this is perhaps not surprising as our data suggests that these zetaotus are restricted to lo-'ihi veils and select mar samples see discussion below fig.
-
-2015. it remains unclear whether sheath-dominated mats at the mar are functionally similar to veiled mats at lo-'ihi or rather that zetaotu9 proliferates under similar environmental conditions and that different med nodes result from genetic drift.curiously veil samples were also enriched in node 1668- an unclassified gammaproteobacteria - and contained 99.7 of all reads from this node fig.
+Though all samples had an abundance of Zetaproteobacteria veil samples had contained MED node 1668 unclassified Gammaproteobacteria while the non-veil samples were enriched in node 1537 Flavobacteria.
 

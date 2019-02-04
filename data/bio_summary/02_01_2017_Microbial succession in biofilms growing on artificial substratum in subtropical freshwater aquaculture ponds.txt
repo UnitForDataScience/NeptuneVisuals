@@ -1,30 +1,20 @@
-therefore elucidating the process of microbial succes- sion in biofilms on artificial substratum is essential to char- acterize the metabolic processes occurring in the biofilm and for utilization of biofilms to maintain the health of aquaculture ponds.to elucidate the process of microbial succession that occurs in biofilms growing on artificial substrata in ponds artificial sub- strata were established in a grass carp ctenopharyngodon idellus and tilapia oreochromis mossambicus polyculture pond and the microbes in the biofilm were identified using high-throughput sequencing.materials and methodsexperimental designthe experiment was performed at the aquaculture base of pearl river fisheries research institute i.e.
+Each artificial substratum had a length and width of 5 mx 1 m. The short side was cut into strips 0.05 m x 0.8 m. Approx-imately 1000 m2 of artificial substratum was hung down into the pond water column from nylon lines at the water surface.
 
-how- ever the community structure of the biofilm had recovered ap- proximately 1 week after avermectin b1 was used.compared with the microbiota of the pond water the fol- lowing otus showed significantly lower abundance in the biofilm actinomycetales otu 14 otu 32 otu 95 otu 73otu 27 otu 43 and otu 7 acidimicrobiales otu 44 andotu 53 comamonadaceae otu 97 and otu 17 polynucle- obacter otu 8384 pelagibacteraceae otu 47 burkholderi- ales otu 8457 chitinophagaceae otu 83 and mwh-unip1figure 4. heatmap profile of the dominant otus in the pond water microbiota and the artificial substratum biofilm details are provided for each otu in fig.
+Therefore elucidating the process of microbial succes- sion in biofilms on artificial substratum is essential to char- acterize the metabolic processes occurring in the biofilm and for utilization of biofilms to maintain the health of aquaculture ponds.To elucidate the process of microbial succession that occurs in biofilms growing on artificial substrata in ponds artificial sub- strata were established in a grass carp Ctenopharyngodon idellus and tilapia Oreochromis mossambicus polyculture pond and the microbes in the biofilm were identified using high-throughput sequencing.MATERIALS AND METHODSExperimental designThe experiment was performed at the Aquaculture Base of Pearl River Fisheries Research Institute i.e.
 
-4figure 1. surface contour photos of artificial substratum a and b and model of the architecture of the pond containing the set of artificial substrata c. a is the frontal photo of the artificial substratum.
+Each artificial substratum or pond water sample was separated into two technical repli- cates before DNA extraction in the laboratory.DNA extractionEach 5-g sample of artificial substratum was weighed and added to 150 ml of sterile water.
 
-this study provided insight into how the use of artificial substrata could improve water quality and elucidated the environment-biofilm relationship in a subtropical freshwater pond.keywords artificial substratum bacterial community biofilm denitrifiers microbiota succession pond aquacultureintroductionin recent years aquaculture especially in ponds has become a primary method for the production of various aquatic products such as fish and algae naylor et al.
+Concentrations of total nitrogen TN total phosphorus TP NH4-N NO2--N and NO3--N in the pond water during the experiment.significantly higher in the biofilm than in the pond water.
 
-a and b. each artificial substratum had a length and width of 5 mx 1 m. the short side was cut into strips 0.05 m x 0.8 m. approx-imately 1000 m2 of artificial substratum was hung down into the pond water column from nylon lines at the water surface.
+In- terestingly although the relative abundance of Cyanobacteria 4.10 - 3.54 in pond water microbiota was low Cyanobacte- ria showed significantly higher abundance in the biofilm 17.4 - 10.2 than in the pond water at the beginning of the experiment t-test t  -3.01 P  0.02 Fig.
 
-each artificial substratum or pond water sample was separated into two technical repli- cates before dna extraction in the laboratory.dna extractioneach 5-g sample of artificial substratum was weighed and added to 150 ml of sterile water.
+The structure of the pond water micro- biota differed significantly from that of the artificial substratum biofilm MANOVA F  29.86 P  0.005 Fig.
 
-4figure 2. concentrations of total nitrogen tn total phosphorus tp nh4-n no2--n and no3--n in the pond water during the experiment.significantly higher in the biofilm than in the pond water.
+This study provided insight into how the use of artificial substrata could improve water quality and elucidated the environment-biofilm relationship in a subtropical freshwater pond.Keywords artificial substratum bacterial community biofilm denitrifiers microbiota succession pond aquacultureINTRODUCTIONIn recent years aquaculture especially in ponds has become a primary method for the production of various aquatic products such as fish and algae Naylor et al.
 
-in- terestingly although the relative abundance of cyanobacteria 4.10 - 3.54 in pond water microbiota was low cyanobacte- ria showed significantly higher abundance in the biofilm 17.4 - 10.2 than in the pond water at the beginning of the experiment t-test t  -3.01 p  0.02 fig.
+The pond has an area of approximately 20 000 m2 and a water depth of approximately 2.5 m. The culture density was ap- proximately 2.5 kgm-2.
 
-in the present study microbial succession of a biofilm growing on artificial substrata in a subtropical freshwater pond was investigated by high-throughput sequencing.
+The artificial substratum and pond water samples were transported to the laboratory at 4C.
 
-however the process of micro- bial succession in the biofilm after the artificial substratum is established in the pond remains unclear which restricts opti- mization of maintenance procedures and improvement of effi- ciency.
-
-the structure of the pond water micro- biota differed significantly from that of the artificial substratum biofilm manova f  29.86 p  0.005 fig.
-
-the samples taken after 5 days of the aver- mectin b1 treatment did not cluster with samples taken in otherfigure 3. correspondence analysis ca profile based on the dominant otus identified in the pond water microbiota pw.0 and pw.9 and the artificial sub- stratum biofilm from b.0 to b.9.
-
-the arabic numerals following the characters in the sample names indicate the sampling week.weeks manova f  25.25 p  0.005 rather they were clustered with the biofilm controls and with the pond water microbiota al- though they were still significantly different manova f  11.32 p  0.005. these results showed that addition of avermectin b1 strongly affected the community structure of the biofilm which was in accordance with previous reports zhang et al.
-
-providing artificial substrata effectively reduced the concentrations of total nitrogen and total phosphorus in the pond.
-
-our results indicate that using artificial substrata can create a habitat for denitrifiers and phosphorus-removing bacteria and thereby improve pond water quality.
+The effects of artificial substrates on freshwater pond productivity and water qual- ity and the implications for periphyton-based aquaculture.
 

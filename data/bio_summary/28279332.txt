@@ -1,30 +1,20 @@
-was tse2 toxic to bacteria yes expressed ectopically it286 cell host  microbe 21 march 8 2017 a 2017 elsevier inc.figure 1. highlights from the history of t6s researchtop timeline for the chronology of significant studies discussed in the text.
+The generality of this pattern across diverse organisms would be one feature that helped us to identify the first effector superfamily a broadly distributed group of T6S substrates with related activity .With the contributions of many groups--many of which we regrettably cannot highlight here--the T6S field has progressed immensely since those early days.
 
-indeed to ratio- nalize the toxicity of tse2 toward bacteria we had entertained this possibility in the wildly speculative discussion of our first submission ''the ability of tse2 to impact growth of a bacterial cell raises the intriguing possibility that its role may involve assisting p. aeruginosa in compe- tition with other bacteria.''
+FoSheng Hsu a talented technician in the lab went on to show that Tse2 directly inter- acts with its adjacently encoded immunity protein.At this point we were thrilled to have identified T6S substrates and to learn that one of these was part of a toxin-im- munity system.
 
-fosheng hsu a talented technician in the lab went on to show that tse2 directly inter- acts with its adjacently encoded immunity protein.at this point we were thrilled to have identified t6s substrates and to learn that one of these was part of a toxin-im- munity system.
+Indeed to ratio- nalize the toxicity of Tse2 toward bacteria we had entertained this possibility in the wildly speculative discussion of our first submission ''the ability of Tse2 to impact growth of a bacterial cell raises the intriguing possibility that its role may involve assisting P. aeruginosa in compe- tition with other bacteria.''
 
-we submitted the first draft of our manuscript to cell host  microbe in august 2009. while the paper was out for review we were busy sorting out whether tse2 toxicity extended to other organisms.
+In the experi- ment that yielded the first three Pseudo- monas T6S substrates we compared the extracellular proteome of our ''on'' strain to a strain in the ''off'' state.
 
-was tse2 toxic to other types of eukaryotic cells again yes transfected hela cells succumbed to the toxin.with this promising preliminary host cell toxicity data joseph rushed off to his friend arne rietsch's lab in cleveland to determine whether tse proteins could be delivered to mammalian cells by the t6ss.
+Together their efforts allowed us to identify what turned out to be very low abundance proteins.Combing through the data with all stan- dard filtering criteria thrown to the wind we fished out three candidate T6S sub- strates.
 
-another wrote ''their analysis though valuable and interesting does not really increase our understand- ing of tse2's role in t6ss interactions with host cells.''
+Highlights from the History of T6S ResearchTop timeline for the chronology of significant studies discussed in the text.
 
-the generality of this pattern across diverse organisms would be one feature that helped us to identify the first effector superfamily a broadly distributed group of t6s substrates with related activity .with the contributions of many groups--many of which we regrettably cannot highlight here--the t6s field has progressed immensely since those early days.
+Their genome-wide screen for Proteus mirabilis mutants with defects in kin recognition hit a T6S gene cluster .These inklings together with Joseph's defeat in Cleveland led us to try our hand at interbacterial competition experi- ments.
 
-on the heels of this work we highlighted a large body of experimental findings incon- sistent with the widespread involvement of t6s in mediating host cell interactions and issued a call for others to consider its role in bacterial antagonism.
+On the heels of this work we highlighted a large body of experimental findings incon- sistent with the widespread involvement of T6S in mediating host cell interactions and issued a call for others to consider its role in bacterial antagonism.
 
-the demon- strated molecular targets of t6s toxins to date encompass several essential structures including cellular membranes electron carriers the nucleoid and the cell wall.aided by several landmark structural studies research into the mechanism by288 cell host  microbe 21 march 8 2017which the t6ss recognizes and translo- cates substrates has kept pace with ad- vances in understanding its physiological function.
+The demon- strated molecular targets of T6S toxins to date encompass several essential structures including cellular membranes electron carriers the nucleoid and the cell wall.Aided by several landmark structural studies research into the mechanism by288 Cell Host  Microbe 21 March 8 2017which the T6SS recognizes and translo- cates substrates has kept pace with ad- vances in understanding its physiological function.
 
-ongoing studies will no doubt resolve the structure of the remaining protein assemblage the baseplate and help to complete the picture of how these complexes interact to facilitate protein delivery.full circle the studies leading to the identification of t6s were motivated by an interest in bac- terial-host interactions box 1. although we subsequently learned that t6sss pri- marily target bacteria questions about how the system influences the host directly or indirectly have persisted.
-
-luckily the gene en- coding one of our substrates tse2 had been included in a screen testing 500p.
-
-remarkably the toxicity of tse2 then known as the hypothetical product of pa2702 was second only to that of another well-established toxin.
-
-with help from alex merz's lab we confirmed the high degree of toxicity eli- cited by tse2 and found initially to our dismay that tse1 and tse3 did not share this property of tse2.around the same time that the yeast experiments were taking place rachel hood a newly minted lab technician began to systematically inactivate each of the tse genes and those immediately adjacent to them.
-
-this work was going smoothly until she attempted to knock out the gene downstream of tse2.
-
-repeated attempts to generate this muta- tion failed but simultaneously mutating tse2 and its neighbor was straightforward.
+Three distinct T6S apparatus protein assemblages have been identi- fied phage tail- and baseplate-related complexes and a membrane complex containing homologs of type IV secretion system proteins.
 

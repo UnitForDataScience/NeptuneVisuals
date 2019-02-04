@@ -1,30 +1,20 @@
-the study by has improved our knowledge on the composition of the skin microbiome of healthy dogs previously based only on culture-dependent methods.however there is still much to be learned regarding the structure of the microbial communities that live on the skin of healthy dogs and the factors that shape these communities.the primary aims of this study were to evaluate if there is a core bacterial community living on the skin of healthy domestic dogs from minnesota usa and if body sitedog cohabitation and seasonality have an impact on this community.methodsstudy designhealthy privately owned paired dogs n  40 of various breeds from 20 households were enrolled in this study through the university of minnesota veterinary medical center.
+The study by has improved our knowledge on the composition of the skin microbiome of healthy dogs previously based only on culture-dependent methods.However there is still much to be learned regarding the structure of the microbial communities that live on the skin of healthy dogs and the factors that shape these communities.The primary aims of this study were to evaluate if there is a core bacterial community living on the skin of healthy domestic dogs from Minnesota USA and if body sitedog cohabitation and seasonality have an impact on this community.METHODSStudy designHealthy privately owned paired dogs n  40 of various breeds from 20 households were enrolled in this study through the University of Minnesota Veterinary Medical Center.
 
-this study showed that the canine bacterial community is diverse and quite variable across different body sites within the same dog and across the same site in different dogs suggesting that the skin microenvironment in dogs does not substantially impact the composition of its bacterial community.
+This study showed that the canine bacterial community is diverse and quite variable across different body sites within the same dog and across the same site in different dogs suggesting that the skin microenvironment in dogs does not substantially impact the composition of its bacterial community.
 
-to be included in the study the dogs were required to 1 be healthy based on a thorough history and clinical signs2 not receive any systemic or topical antimicrobial therapy for at least three months prior to enrollment and 3 not be bathed for at least 30 days before inclusion.furthermore in order for a household to participate in the study none of the animals in the household could have skin or ear disease and cohabiting dogs had to be living together for at least six months and spend at least 80 of the time together.
+To be included in the study the dogs were required to 1 be healthy based on a thorough history and clinical signs2 not receive any systemic or topical antimicrobial therapy for at least three months prior to enrollment and 3 not be bathed for at least 30 days before inclusion.Furthermore in order for a household to participate in the study none of the animals in the household could have skin or ear disease and cohabiting dogs had to be living together for at least six months and spend at least 80 of the time together.
 
-interestingly a study using culture-based methods found p. acnes in the epidermis and hair follicles of seven of 11 63.6 dogs suggesting that this bacterium is indeed an important skin resident of dogs .
+Interestingly a study using culture-based methods found P. acnes in the epidermis and hair follicles of seven of 11 63.6 dogs suggesting that this bacterium is indeed an important skin resident of dogs .
 
-that is dogs that live together have significantly more similar bacterial communities than dogs not living together.
+That is dogs that live together have significantly more similar bacterial communities than dogs not living together.
 
-moreover the temporal stability of the healthy human skin microbiome was recently investigated and diversity skin site and individuality were all determinants of stability  .despite the wealth of information regarding the skin microbiome of healthy humans current knowledge in healthy domestic dogs canis familiaris comes primarily from a study by .
+Moreover the temporal stability of the healthy human skin microbiome was recently investigated and diversity skin site and individuality were all determinants of stability  .Despite the wealth of information regarding the skin microbiome of healthy humans current knowledge in healthy domestic dogs Canis familiaris comes primarily from a study by .
 
-similar to human skin the most abundant phyla identified in dogs were proteobacteria firmicutes actinobacteria and bacteroides.
+Similar to human skin the most abundant phyla identified in dogs were Proteobacteria Firmicutes Actinobacteria and Bacteroides.
 
-however actinobacteria has been shown to predominate in humans whereas it was less abundant in dogs     .
+However Actinobacteria has been shown to predominate in humans whereas it was less abundant in dogs     .
 
-host and environmental factors such as age sex breed fleas and time spent outside do not appear to influence the composition of the bacterial community in dogs.
+Host and environmental factors such as age sex breed fleas and time spent outside do not appear to influence the composition of the bacterial community in dogs.
 
-dogs belonged to local clients or employees living in proximity to the twin citiesmn usa.
-
-owners signed an informed consent at the time of enrollment and were allowed to withdraw their dogs at any time during the study.
-
-in the analyses 'same' indicates average dissimilarity between samples within the same grouping whereas 'different' indicates average dissimilarity between samples of different groupings.when comparing 'same' samples to 'different' samples for each category using unweighted unifrac distances significant differences in distance were identified whengrouped by season p  3.5 x 10-8 household p  1.2 x 10-7 breed p  0.003 and age p  1.7 x 10-5. the largest differences between 'same' and 'different' samples were observed when categorizing by same dogs within the same season across multiple skin sites .the core and dominant otus in canine skin were assessed based upon their prevalence amongst samples and their relative abundance.
-
-in particular it was more prevalent across samples in winter 95 and spring 80 and samples from the axilla 80 and dorsal neck 90. an otu classified as staphylococcus epidermidis was more prevalent amongst abdomen samples 55 and samples from spring 50 and summer 55.discussiona wealth of data exists for the bacterial communities inhabiting human skin but less in known about their counterpart domestic dogs.
-
-the purpose of this study was to examine the skin bacterial communities of domestic dogs to assess the effects of cohabitation and season and to determine if a core skin bacterial community could be identified across a diverse group of animals.
-
-came to the same conclusion when examining 12 skin sites from 12 healthy dogs.
+Owners signed an informed consent at the time of enrollment and were allowed to withdraw their dogs at any time during the study.
 

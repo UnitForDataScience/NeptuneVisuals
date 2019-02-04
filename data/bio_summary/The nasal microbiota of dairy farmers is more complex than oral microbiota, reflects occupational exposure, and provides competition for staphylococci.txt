@@ -1,30 +1,20 @@
-analysis of molecular variance amova between ndf and nnf a and amova between odf and onf b.a.p-value 0.001b.p-value 0.398ndf  nasal dairy farmers n-nf  nasal non-farmers odf  oral dairy farmers onf  oral non- farmers.
+Thus occupational as well as personal microbial exposures differed between farmers and non-farmers in our sample population.Microbiota analyses at the phylum family and genus levelWe sampled the oral and nasal mucosa to determine the respective microbiota from the four targeted groups nasal dairy farmer NDF oral dairy farmer ODF nasal non-farmer NNF and oral non-farmer ONF using the V4 region of the 16S rRNA gene.
 
-of the major genera nine were significantly different in their relative abun- dance between the two groups ndf vs nnf and these were staphylococcus sporobacter pseudomonas paraprevotella bacteroides psychrobacter parapedobacter acetivibrio and xanthomonas between the nasal sample group of dairy farmers and non-farmers .non-farmers had higher relative abundance of pseudomonas xanthomonas and staphylococ- cus than dairy farmers while dairy farmers showed higher abundance of paraprevotella bac- teroides parapedobacter and psychrobacter than non-farmers.
+We compared the nasal and oral microbiota of dairy farmers NDF ODF respectively with nasal and oral microbiota of NF in the same geo- graphical area.
 
-assuming enhanced microbial diversity is an indicator of overall good health dairy farmers should have better health outcomes than non-dairy farmers and other professions depending upon individual genetics and life-style choices.a diverse microbiota in farmers might help in maintenance of immune homeostasis which is a balance between anti-inflammatory immune response steady state and pro-inflammatory required during infections responses.
+A study of bacterial assemblages along the nasal passages by Wos-Oxley et al reported the presence core bacterial community regardless of whether they have chronic nasal inflam- mation CNS or not .
 
-since wisconsin is a dairy state with over 9900 working farms as of 2015 we decided to collect samples from dairy farmers only rather than combining samples from crop and live- stock farmers .
+However the number of studies that have investigated associations between environmental microbiomes and disease susceptibility in rural and urban populations are limited .The goal of this study was to identify and characterize the baseline nasal and oral microbiota of dairy farmers and compare these with the nasal and oral microbiota of non-farmers.
 
-the sam- ples were coded in the following manner oral samples from dairy farmers odf oral sam- ples from non-farmers onf nasal samples from dairy farmers ndf and nasal samples from non-farmers nnf.
+The sam- ples were coded in the following manner oral samples from dairy farmers ODF oral sam- ples from non-farmers ONF nasal samples from dairy farmers NDF and nasal samples from non-farmers NNF.
 
-beta-diversity measures were performed using amova to compare the species composition among the sampled microbiota from dairy farmers and non-dairy farmers.
+Oral samples did not have as much microbial diversity as nasal samples regardless of farming or non-farming status.High beta diversity was seen between the oral and nasal microbiota regardless of the occu- pation status.
 
-operational taxonomic units otus were assigned to phyla family and genus taxonomic levels and comparative analyses were also performed for these three taxonomic categories.nasal microbiome of dairy farmers was richer and diverseamong the four sample groups nasal microbiome from dairy farmers ndf showed maxi- mum species richness compared with that of the other three sample groups nnf odf onf.
+Boxplot representation of Shannon diversity index evenness for NDF NNF ODF and ONF groups NDF  Nasal dairy farmer NNF  Nasal non-farmer ODF  Oral dairy farmer ONF  Oral non-farmer.Further the nasal samples of dairy farmers had distinct nasal microbiomes at the phylum level compared to the non-farming cohort.
 
-of these 32 genera were identi- fied as major genera from the combined nasal and oral samples of dairy farmers and non- farmers group 1 cut off .
+Streptococcaceae and Pasteurellaceae dominated the ONF group whereas Staphylococcaceae Corynebacteriaceae and Moraxellaceae dominated the NNF group.Hundreds of exclusive genera present in nares of dairy farmersThe nasal microbiota of the dairy farmers group had 2.15 fold more genera 1189 genera vs. 552 genera when compared to the nasal samples of non-farmers no cut off.
 
-the top five most relatively abundant genera in nares of dairy farmers were corynebacterium 19.7 staphylococcus 9.4 moraxella 8.1 dolosi- granulum 7 and streptococcus 3.3 compared to staphylococcus 34.6 corynebacte- rium 19.9 moraxella 8.5 pseudomonas 5.1 and peptoniphilus 5 in nares of non- farmers group.
+Bacterial interfer- ence among nasal inhabitants eradication of Staphylococcus aureus from nasal cavities by artificial implantation of Corynebacterium sp.
 
-comparative relative abundance of microbiota of ndf vs nnf at the family level 1 cut off.ndf  nasal dairy farmer nnf  nasal non-farmer sig  significancep-value  0.05 p-value  0.001 p-value  1 e-4discussionalthough a large number of studies have identified and characterized commensal microbial diversity in humans in various disease states no microbiome study has specifically analyzed the microbiota of dairy farmers to determine whether microbiome composition differs between farmers and non-farmers .
-
-as compared to non- farmers since some of these bacterial families genera and species that appear to be associated with livestock were detected in samples from dairy farmers.
-
-in our study abundance of corynebacterium was similar in both dairy farmers and non-dairy farmers suggesting a less significant role for this genus in competing forstaphylococcus as has been reported in some studies .
-
-nasal samples thus provide more meaningful information with respect to differences in the external environment of dairy farmers versus non-farmers.the nasal samples from dairy farmers had the highest number of exclusive genera present than any other sample group.
-
-future studies will be performed to analyze the relationships among the nasal and oral microbiomes of dairy farmers and non-dairy farmers with respect to the number and type of adverse health outcomes.
-
-research articlethe nasal microbiota of dairy farmers is more complex than oral microbiota reflects occupational exposure and provides competition for staphylococcisanjay k. shukla1 zhan ye2 scott sandberg3 iris reyes3 thomas r. fritsche4 matthew keifer51 molecular microbiology laboratory center for human genetics marshfield clinic research institute marshfield wisconsin united states of america 2 biomedical informatics research center marshfield clinic research institute marshfield wisconsin united states of america 3 national farm medicine center marshfield clinic research institute marshfield wisconsin united states of america 4 division of laboratory medicine marshfield clinic marshfield wisconsin united states of america 5 va puget sound seattle washington united states of america these authors contributed equally to this work.
+RESEARCH ARTICLEThe nasal microbiota of dairy farmers is more complex than oral microbiota reflects occupational exposure and provides competition for staphylococciSanjay K. Shukla1 Zhan Ye2 Scott Sandberg3 Iris Reyes3 Thomas R. Fritsche4 Matthew Keifer51 Molecular Microbiology Laboratory Center for Human Genetics Marshfield Clinic Research Institute Marshfield Wisconsin United States of America 2 Biomedical Informatics Research Center Marshfield Clinic Research Institute Marshfield Wisconsin United States of America 3 National Farm Medicine Center Marshfield Clinic Research Institute Marshfield Wisconsin United States of America 4 Division of Laboratory Medicine Marshfield Clinic Marshfield Wisconsin United States of America 5 VA Puget Sound Seattle Washington United States of America These authors contributed equally to this work.
 

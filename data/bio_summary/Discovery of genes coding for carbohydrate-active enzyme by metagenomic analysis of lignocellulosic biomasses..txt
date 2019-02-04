@@ -1,30 +1,20 @@
-the com- position of prokaryotic and eukaryotic subpopulations within the biomass were also separately assessed and presented below.in total sixteen different bacterial genera with an incidence 1 were detected in the biomass materials but only streptomyces pseudomonas agrobacterium xanthomonas and stenotrophomonas were detected in all samples 1. in particular the composition of microbial community in the p. nigra biomass was strongly dominated by streptomyces 50.1 followed by bacillus 7.8 stenotrophomonas 7 pseudomonas 5.1xanthomonas 4.2 rahnella 3.3 agrobacterium 1.7 and pseudoxanthomonas 1.1.as in the p. nigra biomass streptomyces was the taxa that heavily dominated the microbial community indonax and e. camaldulensis 35.0 and 47.7 respectively followed by pseudomonas agrobacterium xanthomonas pantoea and stenotrophomonas.
+In detail the incidence of all fungal genera identified in A. donax and P. nigra biomass was 1 while in E. camaldulensis biomass Penicillium strongly dominated the eukaryotic biodiversity showing a relative abundance of 3.2 1.eggNOG and KEGG functional profiling of lignocellulosic biomass.
 
-furthermore the diversity of gh family enzymes detected in the three samples was greater than that observed in insect or mammalian fecal and gut samples with high lignocellulose-degrading potentiality in line with the detected high phylogenetic diversity.the putative genes encoding proteins involved in the degradation of plant polysaccharides were detected in the three samples.
+The com- position of prokaryotic and eukaryotic subpopulations within the biomass were also separately assessed and presented below.In total sixteen different bacterial genera with an incidence 1 were detected in the biomass materials but only Streptomyces Pseudomonas Agrobacterium Xanthomonas and Stenotrophomonas were detected in all samples 1.
 
-camaldulensis and p. nigra respectively 1. in detail the incidence of all fungal genera identified in a. donax and p. nigra biomass was 1 while in e. camaldulensis biomass penicillium strongly dominated the eukaryotic biodiversity showing a relative abundance of 3.2 1.eggnog and kegg functional profiling of lignocellulosic biomass.
+Among the forty-two genera occurring with an abundance 1 in at least one sample only Pestalotiopsis was recovered in all lignocellulosic biomasses with an incidence of 2.7 2.0 and 12.50 in A. donax E. camaldulensis and P. nigra respectively 5B.Overall the highest fungal biodiversity related to GHs was found in E. camaldulensis 35 genera followed by A. donax 13 genera and P. nigra 5 genera.
 
-after 135 days of natural biodagradation samples of 0.5 kg were collected from the external part right and left side of the pile and the internal central part of the biomass milled and stored at -20 degc until use.3 g of each milled biomass were used to isolate the total environmental dna edna including geneticmaterial from microorganisms adherent to the plant biomass.
+94 127-137 2003.Adsul M. G. Singhvi M. S. Gaikaiwari S. A.  Gokhale D. V. Development of biocatalysts for production of commodity chemicals from lignocellulosic biomass.
 
-in particular a number of 1059 in a. donax corresponding to 59.1 on total cazymes and to 0.7 on total orfs detected 750 in eucalyptus camaldulensis corresponding to 58.6 on total cazymes and to 0.3 on total orfs detected and 1136 in populus nigra corresponding to 53.8 on total cazymes and to 1.9 on total orfs detected predicted proteins were classified as ghs.
+By contrast in A. donax biomass most of the GHs were related to Fusarium 18.6 Nectria 14.2 and Trichoderma 12.4 while the abundance of the other taxa range approximately from 8 to 1 5B.Finally the lowest fungal diversity was found in P. nigra biomass.
 
-sequence reads accounting for around 10.0 gb for a. donax and e. camaldulensis samples and 2 gb for p. nigra were selected t1.the reads were assembled into 95292 159184 and 33805 contigs cut-off value 500 bp for a. donax e. cama- ldulensis and p. nigra biomasses respectively t1.
+In particular a number of 1059 in A. donax corresponding to 59.1 on total CAZymes and to 0.7 on total ORFs detected 750 in Eucalyptus camaldulensis corresponding to 58.6 on total CAZymes and to 0.3 on total ORFs detected and 1136 in Populus nigra corresponding to 53.8 on total CAZymes and to 1.9 on total ORFs detected predicted proteins were classified as GHs.
 
-metagenomic dna sequences were analysed to assess the total biodiversity identify candidate genes coding for enzymes putatively involved in carbohydrates metabolism and that may be of use in lignocellulosic degradation and evaluate micro- bial diversity related to gh families of predicted orfs.the microbial diversity results from this study were performed on the same samples previously characterised using 16s phylotyping in our earlier studywith samples t3adsb t3esb and t3psb corresponding to samples at3uw et3uw and pt3uw in that publication.
+Sequence reads accounting for around 10.0 Gb for A. donax and E. camaldulensis samples and 2 Gb for P. nigra were selected T1.The reads were assembled into 95292 159184 and 33805 contigs cut-off value 500 bp for A. donax E. cama- ldulensis and P. nigra biomasses respectively T1.
 
-bioresources 9 1303-1310 2014.jones s. m. van dyk j. s.  pletschke b. i. bacillus subtilis sj01 produces hemicellulose degrading multi-enzyme complexes.bioresources 7 1294-1309 2012.anand a. a. et al.
+The longest contig was 49245 650642 and 85030 bases in A. donax E. camaldulensis and P. nigra respectively T1.Microbial community composition of lignocellulosic biomasses.
 
-by contrast in a. donax biomass most of the ghs were related to fusarium 18.6 nectria 14.2 and trichoderma 12.4 while the abundance of the other taxa range approximately from 8 to 1 5b.finally the lowest fungal diversity was found in p. nigra biomass.
+Structure Function and Applications eds Polaina J.  MacCabe A. P. 35-50 Springer 2007.Hu J. Arantes V.  Saddler J. N. The enhancement of enzymatic hydrolysis of lignocellulosic substrates by the addition of accessory enzymes such as xylanase is it an additive or synergistic effect Biotechnol.
 
-in metagenomes analyzed in this study 3 5 and 9 orfs for t3adsb t3esb and t3psb respectively were assigned to family aa10 whereas only in the sequenced edna from a. donax 11 and 2 orfs encoding putative enzymes belonging respectively to families aa9 and to aa11 were detected.however most of cazymes detected in the three samples were related to putative plant-polysaccharides- targeting ghs.
-
-these cazymes are involved in the degradation of pectin a structural constituent of the plant cell wall.about 1 of the debranching enzymes detected in the three samples belonged to family gh51 this per- centage was higher than that detected in yak and cow rumenand snail crop.
-
-among the forty-two genera occurring with an abundance 1 in at least one sample only pestalotiopsis was recovered in all lignocellulosic biomasses with an incidence of 2.7 2.0 and 12.50 in a. donax e. camaldulensis and p. nigra respectively 5b.overall the highest fungal biodiversity related to ghs was found in e. camaldulensis 35 genera followed by a. donax 13 genera and p. nigra 5 genera.
-
-nucleic acids res.37 d233-d238 2009.beeson w. t. vu v. v. span e. a. phillips c. m.  marletta m. a. cellulose degradation by polysaccharide monooxygenases.ann.
-
-19 555-62 2006.morgan j. l. darling a. e.  eisen j. a. metagenomic sequencing of an in vitro-simulated microbial community.
-
-175 406-416 2015.amore a. pepe o. ventorino v. aliberti a.  faraco v. cellulolytic bacillus strains from natural habitats-a review.
+Abundance of bacterial and fungal genera in A. donax E. camaldulensis and P. nigra lignocellulosic biomass.
 

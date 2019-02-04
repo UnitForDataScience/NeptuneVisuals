@@ -1,30 +1,20 @@
-the objectives of this study were the followings 1 to investigate the prevalence of the cfia gene the bft gene and their isotypes in recently collected b. fragilis isolates 2 to compare these data with previous findings 3 in a subset of 72 strains to look for the prevalence of c10 bfp1-4 and c11 peptidase fpn 4 to compare the prevalence data of cfia bft bfp1-4 and fpn genes.material and methodsstrains involved in this studyin a multicentre study involving five hungarian microbiological laboratories 200 b. fragilis isolates originating from clinically relevant extraintestinal samples were collected between january and june 2016. the strains were stored in bhi brain heart infusion broth containing 20 glycerol at 80 oc.
+The objectives of this study were the followings 1 to investigate the prevalence of the cfiA gene the bft gene and their isotypes in recently collected B. fragilis isolates 2 to compare these data with previous findings 3 in a subset of 72 strains to look for the prevalence of C10 bfp1-4 and C11 peptidase fpn 4 to compare the prevalence data of cfiA bft bfp1-4 and fpn genes.Material and methodsStrains involved in this studyIn a multicentre study involving five Hungarian microbiological laboratories 200 B. fragilis isolates originating from clinically relevant extraintestinal samples were collected between January and June 2016.
 
-the objective of this study was to investigate the prevalence and distribution of the bft isotypes in 200 hungarian b. fragilis isolates collected recently and in a subset of 72 strains we wanted to determine the prevalence of bfp1-4 and fpn genes in bft-positive and bft-negative strains.
+The objective of this study was to investigate the prevalence and distribution of the bft isotypes in 200 Hungarian B. fragilis isolates collected recently and in a subset of 72 strains we wanted to determine the prevalence of bfp1-4 and fpn genes in bft-positive and bft-negative strains.
 
-to investigate the presence of bfp1-4 the c10 protease gene and fpn the c11 protease gene a subset of 72 b. fragilis isolates 26 etbf strains and 46 non-etbf strains was analysed via rt-pcr.
+To investigate the presence of bfp1-4 the C10 protease gene and fpn the C11 protease gene a subset of 72 B. fragilis isolates 26 ETBF strains and 46 non-ETBF strains was analysed via RT-PCR.
 
-these new findings were slightly unexpected andthe asymptomatical carrying rate of etbf strains in the gut has been shown to be between 6.2 and 20.0 e while the prevalence of etbf isolates among extraintestinal b. fragilis strains lies between 9.0 and 38.2 .
+These new findings were slightly unexpected andThe asymptomatical carrying rate of ETBF strains in the gut has been shown to be between 6.2 and 20.0 e while the prevalence of ETBF isolates among extraintestinal B. fragilis strains lies between 9.0 and 38.2 .
 
-twenty six 13.0 b. fragilis isolates turned out to be bft gene positive by rt-pcr 20 isolates harboured bft-1 and six bft-2 isotypes but no bft-3 isotype containing strains were found.
+Twenty six 13.0 B. fragilis isolates turned out to be bft gene positive by RT-PCR 20 isolates harboured bft-1 and six bft-2 isotypes but no bft-3 isotype containing strains were found.
 
-thirty eight strains harboured bfp1 58 isolates contained bfp2 gene while 17 isolates proved positive for bfp3.
+During the RFLP analysis the following positive controls were used B. fragilis R19811 bft-1 B. fragilis ATCC 43858 bft-2 and B. fragilis GAI 96462 bft-3.
 
-here the distribution of the c10 protease genes was the following 38 strains harboured bfp1 58 isolates contained bfp2 gene while 17 isolates proved positive for bfp3 and no bfp4 positive strain was detected.
+The significance of these findings in the pathogenesis of B. fragilis requires further investigation.Recently it has been demonstrated that B. fragilis strains produce a special protease called fragipain Fpn which is a member of the C11 family belonging to the CD clan of cysteine peptidase.
 
-most of the strains originated from superficial or deep wounds 51.0 while intra-abdominal samples 36.5 and just 12 6 strains were isolated from a septic patient's blood culture.
+The prevalence of ETBF strains among B. fragilis isolates from extraintestinal clinical samples has also been shown to lie between 9.0 and 20.3 .
 
-a melting curve analysis also differentiated between the bft-1 and bft-2 isotypes here and the average temperature of the bft-1-positive strains was80.1 - 0.4 oc and that of the bft-2-positive strains was 81.2 - 0.2 oc.
+Using a typing scheme described earlier all the isolates were placed into two categories namely Division II exclusively positive for the cfiA carbapenemase gene and Division I using the MALDI-TOF Biotyper 3.1 software con- taining cfiA identification project file made at Bruker Daltonik Bremen Germany .PCR detection of cfiA bft bfp1-4 and fpn genesThe presence of the cfiA gene in B. fragilis strains belonging to Division II was confirmed by RT-PCR as described by Eitel et al.
 
-the prevalence of etbf strains among b. fragilis isolates from extraintestinal clinical samples has also been shown to lie between 9.0 and 20.3 .
-
-fragilis isolates was the use of the ht29c1 intestinal immortal- ised cell line on which toxigenic strains can induce a cytopathic effect .
-
-using a typing scheme described earlier all the isolates were placed into two categories namely division ii exclusively positive for the cfia carbapenemase gene and division i using the maldi-tof biotyper 3.1 software con- taining cfia identification project file made at bruker daltonik bremen germany .pcr detection of cfia bft bfp1-4 and fpn genesthe presence of the cfia gene in b. fragilis strains belonging to division ii was confirmed by rt-pcr as described by eitel et al.
-
-the separation of bft-1 and bft-2 strains via obtained from by the melting-cure analysis was confirmed by sequencing of three bft-1 and three bft-2 positive b. fragilis isolates which were randomly selected during the experiments.
-
-nine strains simultaneously harboured bfp1 bfp2 and bfp3 genes 22 proved positive for bfp1 and bfp2 while five isolates contained bfp2 and bfp3 and 1 isolate proved positive for bfp1 and bfp3 .
-
-among the 24 of the 26 bft-positive strains 92.3 containing the fpn gene while 36 of the 46 bft-negative isolates 78.3 did harbour the fpn gene as well .
+The separation of bft-1 and bft-2 strains via obtained from by the melting-cure analysis was confirmed by sequencing of three bft-1 and three bft-2 positive B. fragilis isolates which were randomly selected during the experiments.
 

@@ -1,30 +1,20 @@
-the changes in bacterial communities in- duced by ericoid roots and mycorrhizal mycelia are mostly different compared with those induced by roots and mycorrhi- zal mycelia of pine.numbers of bacterial 16s rrna gene copies in mycosphere soils and rootsthe abundance of bacterial 16s rrna copies in ericoid mycosphere soils was consistently higher than those in uncolonized control soil.
+The unique bacterial OTUs in heather and bilberry roots belonged most often to Gammaproteobacteria in lingonberry roots to Alphaproteobacteria and pine roots to Sphingobacteriia 21 29 38 and 25 of all different OTUs with class status data not shown.
 
-it is more likely that heather contained more antibacterial or pcr inhibitory substances than lingonberry and the differences in bacterial 16sacaulobacterbradyrhizobiumchitinophagaceaeheather bilberry lingonberry pineacidobacteriarrna gene copy numbers found in roots were in the same range as commonly observed in roots .mycosphere soils contained significantly higher numbers of bacterial 16s rrna gene copies than mycorrhizal roots per gram dry weight.
+a. Pine roots contained the highest 2210 OTUs and bilberry roots the lowest 1685 OTUs numbers of OTUs.
 
-pcoa was used to analyze variance structure of the bacterial communities permutational manova tested whether the ef- fect of plants or sample type soil and roots on the bacterial community composition was significant and db-da was performed to test how well bacterial community compositions differed between plants.
+Of the 429 root specific bacterial OTUs only 7 were shared by all roots and pine roots contained the highest numbers of unique OTUs Fig.
 
-that bacterial populations in the roots were tightly structured by the plant.although mycorrhizal fungal colonization of soil re- duced the bacterial diversity in individual soil samples the presence of different plants and mycorrhizal fungi as a whole increased the bacterial diversity.
+Based on this pretesting OTUs which consisted of at least 1 of the total amount of normalized 16S rRNA sequences abun- dant OTUs did not separate bacterial communities of eri- coid and pine roots as well as mycospheres as well asOTUs with less than 1 of sequences rare OTUs.
 
-microb ecol 2017 73939-953 doi 10.1007s00248-016-0922-6ericoid roots and mycospheres govern plant-specific bacterial communities in boreal forest humussari timonen1 hanna sinkko1  hui sun12  outi-maaria sietio1 johanna m rinta-kanto1  heikki kiheri1  jussi heinonsalo1received 14 september 2016  accepted 14 december 2016  published online 26 december 2016 springer sciencebusiness media new york 2016abstract in this study the bacterial populations of roots and mycospheres of the boreal pine forest ericoid plants heather calluna vulgaris bilberry vaccinium myrtillus and ling- onberry vaccinium vitis-idaea were studied by qpcr and next-generation sequencing ngs.
+b Of the less abundant OTUs 70 of the root sequences each including less than 1 of the total amount of normalized sequences only those which characterized groups best or were shared mainly by two groups species scores for LD1 were less than -6.1 and more than 13.6 and for LD2less than -4.5 or more than 2.8 are shown group specific OTUs blackletters shared OTUs gray lettersrRNA gene copy numbers in roots could be due to chem- ical substances causing either biological or technical inhi- bition.
 
-b. the unique bacterial otus in heather and bilberry roots belonged most often to gammaproteobacteria in lingonberry roots to alphaproteobacteria and pine roots to sphingobacteriia 21 29 38 and 25 of all different otus with class status data not shown.
+The rarer bacterial OTUs in the various samples were often typical to particular sample type whereas the most abundant OTUs containing 30 of all sequences were common to all soil types regardless of fungal colonization.Thirty-eight percent 1939 OTUs of soil OTUs could be detected from both uncolonized soil and all mycospheres as- sociated with different plant species Fig.
 
-nevertheless no difference in frequency of sphingobacteriia sequences was detected from root and soil habitats in alpine soil .despite the much larger number of otus as well as higher bacterial diversity in soils soil bacterial popula- tions were more similar to each other than were the root bacterial communities to each other.
+Similar results were reported fromTable 1Shannon H' diversity indices of 16S rRNA gene sequences and their standard deviationsAll soil OTUs 5.43 0.14All root OTUs 4.89 0.14All soil-specific OTUs 5.76 0.20All root-specific OTUs 3.41 0.44P  0.05 significant difference in global Kruskal-Wallis test P  0.01 very significant difference in global Kruskal-Wallis testoak forest .
 
-it is likely that in the latter study ericoid plant influence was present but their species composition or influ-ence on the bacterial composition was not defined.although ericoid plants are very common in boreal ecosys- tems and their roots effectively colonize the organic soil hori- zons there is very little information about the bacterial com- position of ericoid mycorrhizospheres.
+It is more likely that heather contained more antibacterial or PCR inhibitory substances than lingonberry and the differences in bacterial 16SACaulobacterBradyrhizobiumChitinophagaceaeHeather Bilberry Lingonberry PineAcidobacteriarRNA gene copy numbers found in roots were in the same range as commonly observed in roots .Mycosphere soils contained significantly higher numbers of bacterial 16S rRNA gene copies than mycorrhizal roots per gram dry weight.
 
-currently it is not known what the effects of ericoid mycorrhizal colonization on the boreal forest soil are or what type of bacterial populations resides in the roots or mycospheres of ericoid mycorrhizal plants in these habitats.the aim of this study was to investigate the effects of the most common dry boreal forest plants heather bilberry and lingonberry and their associated mycorrhizal fungi on the bacterial abundance and community structure of soil.
+Nevertheless the bacterial diversities of roots differed significantly P  0.05 only when the OTUs only found in roots were analyzed.DiscussionThis is to our knowledge the first study focusing on the bacteria in the ericoid mycorrhizospheres.
 
-in a study of cu- cumber and wheat the bacterial populations of roots had relatively few specific functions kegg orthologs al- though they were taxonomically clearly different .composition of bacterial communities in different soilsdominating groups based on relative abundance of se- quences of bacteria in the humus soils were acidobacteria proteobacteria and actinobacteria.
-
-in contrast bacterial communities of ericoid roots were more similar to each other than to those of pine roots.
-
-however a length heterogeneity pcr study showed that the bacterial popu- lation of lingonberry roots was quite different from those of pine roots .
-
-bacterial community compositions of all ericoid roots were more similar to each other than those of pine roots.
-
-heather and bilberry roots had more similar bacterial community composition than the other roots.
-
-of the 429 root specific bacterial otus only 7 were shared by all roots and pine roots contained the highest numbers of unique otus fig.
+Soil samples contained 5128 OTUs whereas roots of heather bilberry ling- onberry and pine contained together only 2823 OTUs.Alphaproteobacteria appeared to be the most prevalent in all sample types according to both percentages of different Alphaproteobacteria OTUs as well as relative abundance of sequences belonging to the class Fig.
 

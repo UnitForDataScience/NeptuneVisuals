@@ -1,30 +1,20 @@
-234-12 with nine other similar species and 24 other k. pneumoniae strains we founda rt i c l e sa 403020100-10-20-30-40-30-20-100102030acinetobacter baumannii 1252 reads actinomyces odontolyticus 1097 reads bacillus cereus 603 readsbacteroides vulgatus 2290 reads clostridium beijerinckii 1069 reads deinococcus radiodurans 1445 reads enterococcus faecalis 1140 reads escherichia coli 1909 reads helicobacter pylori 1746 reads lactobacillus gasseri 1996 reads listeria monocytogenes 4203 reads neisseria meningitidis 1572 reads propionibacterium acnes 1946 reads pseudomonas aeruginosa 3772 reads rhodobacter sphaeroides 98 reads staphylococcus aureus 2524 reads staphylococcus epidermidis 1945 reads streptococcus agalactiae 773 reads streptococcus mutans 3022 reads streptococcus pneumoniae 28 reads unlabeled 334 readsb403020100-10-20-30-40 -30 -20 -10 010 20 30cde4243132021-1100255075100 j99 reads in contig-201234pc100255075100 j99 reads in contigfg3h0102030405060708090100100902801706005040-130-22010-3010203040506070809010010090807060504030201000 10 20 30 40 50 60 70 80 90 100e.
+234-12 with nine other similar species and 24 other K. pneumoniae strains we foundA rt i c l e sa 403020100-10-20-30-40-30-20-100102030Acinetobacter baumannii 1252 reads Actinomyces odontolyticus 1097 reads Bacillus cereus 603 readsBacteroides vulgatus 2290 reads Clostridium beijerinckii 1069 reads Deinococcus radiodurans 1445 reads Enterococcus faecalis 1140 reads Escherichia coli 1909 reads Helicobacter pylori 1746 reads Lactobacillus gasseri 1996 reads Listeria monocytogenes 4203 reads Neisseria meningitidis 1572 reads Propionibacterium acnes 1946 reads Pseudomonas aeruginosa 3772 reads Rhodobacter sphaeroides 98 reads Staphylococcus aureus 2524 reads Staphylococcus epidermidis 1945 reads Streptococcus agalactiae 773 reads Streptococcus mutans 3022 reads Streptococcus pneumoniae 28 reads Unlabeled 334 readsb403020100-10-20-30-40 -30 -20 -10 010 20 30cde4243132021-1100255075100 J99 reads in contig-201234PC100255075100 J99 reads in contigfg3h0102030405060708090100100902801706005040-130-22010-3010203040506070809010010090807060504030201000 10 20 30 40 50 60 70 80 90 100E.
 
-in order to generate matching 150x sequence coverage for each strain reads were down- sampled to 35093 and 30043 reads for strains 26695 and j99 respectively supplementary table 2. all reads were combined before binning and assem- bly without knowledge of their strain of origin.
+Read-level binning by sequence composition can isolate reads from low-abundance species that do not assemble into contigs while read-level binning by methylation profiles can segregate reads from multiple strains for the purpose of separate strain-specific de novo genome assemblies.
 
-read-level binning by sequence composition can isolate reads from low-abundance species that do not assemble into contigs while read-level binning by methylation profiles can segregate reads from multiple strains for the purpose of separate strain-specific de novo genome assemblies.
+a 5-mer frequency-based binning of assembled contigs and raw reads length 15 kb from the Human Microbiome Project mock community where only the unassembled reads are labeled.
 
-a 5-mer frequency-based binning of assembled contigs and raw reads length 15 kb from the human microbiome project mock community where only the unassembled reads are labeled.
+c Combined assembly of a synthetic mixture of reads from H. pylori strains J99 and 26995 results in one small contig containing mostly reads from strain 26695 and one large highly chimeric contig.
 
-reads from the low-abundance species r. sphaeroides form a distinct cluster near the coordinates -8-22. b the 2d histogram of contigs and unassembled reads corresponding to a this 2d histogram lacks labeling but nevertheless includes many highly species-specific subpopulations.
+f Combined assembly of a synthetic mixture of reads from E. coli strains BAA-2196 O26H11 BAA-2215 O103H11 and BAA-2440 O111 results in many chimeric contigs that contain reads from all three strains.
 
-c combined assembly of a synthetic mixture of reads from h. pylori strains j99 and 26995 results in one small contig containing mostly reads from strain 26695 and one large highly chimeric contig.
+After combin- ing sequences from both the contigs and unassembled reads previously sequenced from a 20-member mock community Supplementary Table 2 we visualized and labeled the reads in the t-SNE map of 5- mer frequency features for all sequences Supplementary Methods.
 
-f combined assembly of a synthetic mixture of reads from e. coli strains baa-2196 o26h11 baa-2215 o103h11 and baa-2440 o111 results in many chimeric contigs that contain reads from all three strains.
+To explore whether methylation binning could be extended to the level of unassembled reads we constructed two synthetic mixtures of reads from 1 two strains of H. pylori and 2 three strains of E. coli Supplementary Table 2.
 
-after combin- ing sequences from both the contigs and unassembled reads previously sequenced from a 20-member mock community supplementary table 2 we visualized and labeled the reads in the t-sne map of 5- mer frequency features for all sequences supplementary methods.
+Bulk assem- bly of the mixture of error-corrected reads resulted in many chimeric contigs and very few contigs that were specific to a strain  but binning the reads by methylation profiles across four differentiating motifs  Supplementary Table 9 before assembly resulted in a substantial increase in the purity of contigs .DISCUSSIONWe report that microbial DNA methylation can be exploited as endog- enous epigenetic barcodes to complement coverage and composition features to improve metagenomic binning.
 
-to explore whether methylation binning could be extended to the level of unassembled reads we constructed two synthetic mixtures of reads from 1 two strains of h. pylori and 2 three strains of e. coli supplementary table 2. despite the high sequence similarity of the strains in each mixture 93.65 ani for two h. pylori strains and 99 ani for three e. coli strains supplementary methods the differ- ent mtases they encode resulted in distinct sets of methylated motifs.
+SMRT reads were obtained separately from eight individual bacterial spe- cies Supplementary Table 2 and the reads were mixed without any labe- ling by combining one SMRT cell of sequencing from each species to create a synthetic metagenomic mixture at similar relative abundances.
 
-bulk assem- bly of the mixture of error-corrected reads resulted in many chimeric contigs and very few contigs that were specific to a strain  but binning the reads by methylation profiles across four differentiating motifs  supplementary table 9 before assembly resulted in a substantial increase in the purity of contigs .discussionwe report that microbial dna methylation can be exploited as endog- enous epigenetic barcodes to complement coverage and composition features to improve metagenomic binning.
-
-smrt reads were obtained separately from eight individual bacterial spe- cies supplementary table 2 and the reads were mixed without any labe- ling by combining one smrt cell of sequencing from each species to create a synthetic metagenomic mixture at similar relative abundances.
-
-14 and supplementary table 2. we first determined the species identity for all reads by aligning the reads to reference assemblies for each species.
-
-after determin- ing the species mappings for all reads excluding those with ambiguous align- ments we then selected reads from each species to impose our desired relative abundances.
-
-reads in their original abundances were assembled to verify that the contig binning in supplementary figure 7 was due to sequence composition differences not due to poor assembly of the downsampled reads supplementary fig.
-
-our method takes advantage of these endogenous epigenetic barcodes to resolve individual reads and assembled contigs into species- and strain-level bins.
+We first determined the species identity for all reads by aligning the reads to reference assemblies for each species.
 

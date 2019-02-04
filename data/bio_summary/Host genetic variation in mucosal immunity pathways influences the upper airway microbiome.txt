@@ -1,30 +1,20 @@
-201261621-4.caporaso jg kuczynski j stombaugh j bittinger k bushman fd costello ek fierer n pena ag goodrich jk gordon ji huttley ga kelley st knights d koenig je ley re lozupone ca mcdonald d muegge bd pirrung m reeder j sevinsky jr turnbaugh pj walters wa widmann j yatsunenko t zaneveld j knight r. qiime allows analysis of high-throughput community sequencing data.
+201261621-4.Caporaso JG Kuczynski J Stombaugh J Bittinger K Bushman FD Costello EK Fierer N Pena AG Goodrich JK Gordon JI Huttley GA Kelley ST Knights D Koenig JE Ley RE Lozupone CA McDonald D Muegge BD Pirrung M Reeder J Sevinsky JR Turnbaugh PJ Walters WA Widmann J Yatsunenko T Zaneveld J Knight R. QIIME allows analysis of high-throughput community sequencing data.
 
-moreover euclidean distances for the same individual paired with himherself between seasons separately within the nasal vestibule and nasopharynx samples and between nasal sites separately within the summer and the winter samples were lower than the respective distances calculated between each individual with all other individuals wilcoxon signed-rank test nasal vestibule between seasons p  9.25x 10-8 nasopharynx between seasons p  3.97x 10-12 summer between nasal sites p  2.2x 10-16 winter between nasal sites p  2.2 x 10-16 additional file figure s3.
+201010159-69.Aagaard K Petrosino J Keitel W Watson M Katancik J Garcia N Patel S Cutting M Madden T Hamilton H Harris E Gevers D Simone G McInnes P Versalovic J.
 
-201446310-5.wacklin p makivuokko h alakulppi n nikkila j tenkanen h rabina j partanen j aranko k matto j. secretor genotype fut2 gene is strongly associated with the composition of bifidobacteria in the human intestine.
+20105e8578.Huang YJ Nelson CE Brodie EL Desantis TZ Baek MS Liu J Woyke T Allgaier M Bristow J Wiener-Kronish JP Sutherland ER King TS Icitovic N Martin RJ Calhoun WJ Castro M Denlinger LC Dimango E Kraft M Peters SP Wasserman SI Wechsler ME Boushey HA Lynch SV National Heart Lung and Blood Institute's Asthma Clinical Research Network.
 
-additionally there was higher diversity in the nasopharynx in the summer compared to the nasal vestibule in the summer paired wilcoxon signed-rank test richness p  4.6 x 10-7 shannon index p  0.009and evenness p  0.031 respectively.
+201619731-43.Yatsunenko T Rey FE Manary MJ Trehan I Dominguez-Bello MG Contreras M Magris M Hidalgo G Baldassano RN Anokhin AP Heath AC Warner B Reeder J Kuczynski J Caporaso JG Lozupone CA Lauber C Clemente JC Knights D Knight R Gordon JI.
 
-although higher diversity trends were observed in the nasopharynx in the summer compared to the winter these associations were largely due to decreased alpha diversity among women compared to men in the winter wilcoxon signed-rank test richness p  0.03 shannon index p  0.002 and evenness p  0.001 respectively additional file figure s1b.
+201516207.Bonder MJ Kurilshikov A Tigchelaar EF Mujagic Z Imhann F Vila AV Deelen P Vatanen T Schirmer M Smeekens SP Zhernakova DV Jankipersadsing SA Jaeger M Oosting M Cenit MC Masclee AAM Swertz MA Li Y Kumar V Joosten L Harmsen H Weersma RK Franke L Hofker MH Xavier RJ Jonkers D Netea MG Wijmenga C Fu J Zhernakova A.
 
-overall bacteria with identified mbqtls in this study q  0.10 had higher estimates of snp heritability than the remaining tested bacteria wilcoxon signed-rank test nv p  0.009 np p  0.05.mbqtl associations with multiple bacteriafive mbqtls q  0.05 including the pglyrp4 mbqtl discussed above had associations with multiple bacteria within the same nasal site at a relaxed significance thresh- old q  0.10. the largest number of associations identi- fied with a single mbqtl was an intronic variant in the leucine rich repeat containing 16a lrrc16a rs1543603 and the ras of five proteobacteria in the nasopharynx in the summer unclassified genus of family caulobacteracea unclassified genus of family bradyrhizobiaceae parvibacu- lum blastomonas and rheinheimera average cumulative sum  2.1 of all ra and 13.5 of all proteobacteria of which caulobacteraceae was the most significant p  2.30 x 10-8 q  0.006 additional file  figure s4b.
+20147245-57.Salzman NH Hung K Haribhai D Chu H Karlsson-Sjoberg J Amir E Teggatz P Barman M Hayward M Eastwood D Stoel M Zhou Y Sodergren E Weinstock GM Bevins CL Williams CB Bos NA.
 
-201010159-69.aagaard k petrosino j keitel w watson m katancik j garcia n patel s cutting m madden t hamilton h harris e gevers d simone g mcinnes p versalovic j. the human microbiome project strategy for comprehensive sampling of the human microbiome and why it matters.
+Moreover Euclidean distances for the same individual paired with himherself between seasons separately within the nasal vestibule and nasopharynx samples and between nasal sites separately within the summer and the winter samples were lower than the respective distances calculated between each individual with all other individuals Wilcoxon signed-rank test nasal vestibule between seasons p  9.25x 10-8 nasopharynx between seasons p  3.97x 10-12 summer between nasal sites p  2.2x 10-16 winter between nasal sites p  2.2 x 10-16 Additional file Figure S3.
 
-in the seasonal analyses the summer samples for both the nasal vestibule and the nasopharynx had lower euclidean distances compared to their respective winter samples wilcoxon signed-rank test nasal vestibule p  2.2 x 10-16 and nasopharynx p  2.2 x 10-16 reflecting moresimilar microbiome diversity between pairs of individuals in the summer than in the winter.
+201446310-5.Wacklin P Makivuokko H Alakulppi N Nikkila J Tenkanen H Rabina J Partanen J Aranko K Matto J. Secretor genotype FUT2 gene is strongly associated with the composition of bifidobacteria in the human intestine.
 
-in this analysis pcoa showed clear dissimi- larities between the nv and the np in the summer pc2 p  2.2 x 10-16 anosim p  9.9 x 10-5 r  0.24 fig.
+2013271012-22.Caporaso JG Lauber CL Walters WA Berg-Lyons D Huntley J Fierer N Owens SM Betley J Fraser L Bauer M Gormley N Gilbert JA Smith G Knight R. Ultra-high-throughput microbial community analysis on the Illumina HiSeq and MiSeq platforms.
 
-this analysis revealed a significant negative spearman correl- ation between kinship and beta diversity nv p 1 x 10-4 np p  4.0 x 10-4 fig.
-
-the correlation between kinship and euclidean distance remained significant nv p 1x 10-4 and np p  5.0 x 10-4 indicating that the signifi- cant effect of kinship on microbiome similarities between hutterite adults is not likely due to shared envi- ronments.
-
-nasal vestibule p 1 x 10-4 nasopharynx p  4.0 x 10-4relatedness between all pairs of individuals in our study.
-
-ipa identified two networks with fisher's exact p  10-25. the most significant network included 21 of the 131 genes nine of which were near mbqtls with q  0.05 fisher's exact p  10-43 fig.
-
-20116e20113.rausch p rehman a kunzel s hasler r ott sj schreiber s rosenstiel p franke a baines jf.
-
-20107335-6.desantis tz hugenholtz p larsen n rojas m brodie el keller k huber t dalevi d hu p andersen gl.
+2015348648-60.Hao K Bosse Y Nickle DC Pare PD Postma DS Laviolette M Sandford A Hackett TL Daley D Hogg JC Elliott WM Couture C Lamontagne M Brandsma C-A van den Berge M Koppelman G Reicin AS Nicholson DW Malkov V Derry JM Suver C Tsou JA Kulkarni A Zhang C Vessey R Opiteck GJ Curtis SP Timens W Sin DD.
 

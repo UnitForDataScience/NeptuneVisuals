@@ -1,30 +1,20 @@
-linear discriminant analysis lda of the fecal microbiota in mock group and pb group b mock group and pbprobio group c mock group and health control d. a p-value of 0.05 and a score 2.0 were considered significant in kruskal-wallis and pairwise wilcoxon tests respectively.
+Linear discriminant analysis LDA of the fecal microbiota in MOCK group and PB group b MOCK group and PBProBio group c MOCK group and Health control d. A p-value of 0.05 and a score 2.0 were considered significant in Kruskal-Wallis and pairwise Wilcoxon tests respectively.
 
-p  0.05  p  0.01.the alteration of microbiotapca and bray-curtis similarity cluster analysis together with a heatmap cluster based on otu abundance were performed to provide an overview of the gut microbiota composition of the three pi-ibs groups and health control group figure a-c. no significant differences in a-diversity of microbiota were shown among all groups figure d. the overall microbiota composition feature of the mock group was significantly different from that of the heath control.
+p  0.05  p  0.01.The Alteration of MicrobiotaPCA and Bray-Curtis similarity cluster analysis together with a heatmap cluster based on OTU abundance were performed to provide an overview of the gut microbiota composition of the three PI-IBS groups and health control group Figure a-c. No significant differences in a-diversity of microbiota were shown among all groups Figure d. The overall microbiota composition feature of the MOCK group was significantly different from that of the heath control.
 
-irritable bowel syndrome ibs is the most common type of functional disorder characterized by abdominal pain and discomfort and associated with altered bowel function .
+Before the trial 60 mice were randomly divided into 4 experimental groups 15 mice per group in 3 cages among which 3 groups were given a gavage of saline MOCK group PB 1.26 mgg body weight PB group PB and probiotics 1.26 mgg body weight PB plus 3.0 x 107 CFUmouse of both Lactobacillus acidophilus NCFM and Bifidobacterium lactis HN019 PBProBio group respectively.
 
-the loss of body weight decreased expression of tight junction protein occludin ocln and changes of the microbiota composition induced by infections could be greatly improved by pb intervention p  0.05. the proteomics analysis revealed that this function was associated with peroxisome proliferator-activated receptor pparg pathway.keywords prebiotics irritable bowel syndrome inflammation visceral hypersensitivity gut microbiota prebiotic blend pbintroductionfunctional gastrointestinal disorders fgd are recognized by physiological abnormalities that contain motility disturbances increased visceral sensitivity and altered central nervous system function without organic illness.
+Mirocha J. DiBaise J. Rao S. Amichai M. Antibiotic treatment of constipation-predominant irritable bowel syndrome.
 
-before the trial 60 mice were randomly divided into 4 experimental groups 15 mice per group in 3 cages among which 3 groups were given a gavage of saline mock group pb 1.26 mgg body weight pb group pb and probiotics 1.26 mgg body weight pb plus 3.0 x 107 cfumouse of both lactobacillus acidophilus ncfm and bifidobacterium lactis hn019 pbprobio group respectively.
+Irritable bowel syndrome IBS is the most common type of functional disorder characterized by abdominal pain and discomfort and associated with altered bowel function .
 
-86-21-6384-6590received 16 october 2017 accepted 7 december 2017 published 9 december 2017abstract irritable bowel syndrome ibs is the most common functional gastrointestinal disorder yet it still lacks effective prevention therapies.
+Based on the symptoms IBS may be characterized by a predominance of constipation IBS-C or diarrhea IBS-D or by mixed bowel habits IBS-M and unsubtyped IBS IBS-U .
 
-further researches might need to be conducted to prove whether the pb product will increase the risk of infection to other pathogens.figure 9. the pathogenesis factors related to irritable bowel syndrome ibs that can be affected by pb and pbprobio.
+In this study the increase of Clostridium XIVa and Clostridium sensu stricto in the PBProBio group or PB group might be associated with protective roles in IBS.
 
-articlea novel prebiotic blend product prevents irritable bowel syndrome in mice by improving gut microbiota and modulating immune responseqian chen 1 yiping ren 2 jihong lu 2 mark bartlett 3 lei chen 1 yan zhang 1 xiaokui guo 1and chang liu 1department of microbiology and immunology institutes of medical science shanghai jiao tong university school of medicine shanghai 200025 china q.c.
+The expression of PPARg in colon tissues were confirmed using western blot analysis which elucidated the expression of PPARg decreased in the MOCK group compared with the health control but increased in the PB group and the PBProBio group significantly in protein levels Figure .Figure 6.
 
-palva a. gastrointestinal microbiota in irritable bowel syndrome present state and perspectives.
+The relative abundance of the genera ClostridiumXIVa Clostridiumsensustricto Prevotella Butyricicoccus Ochrobactrum Barnesiella Gemmiger Mucispirillum Intestinimonas and Mucispitillum increased in PB group or PBProBio group compared with the MOCK group.
 
-the microbiota link to irritable bowel syndrome an emerging story.
-
-gut 2002 51 410-413.  distrutti e. monaldi l. ricci p. fiorucci s. gut microbiota role in irritable bowel syndrome new therapeutic strategies.
-
-lower bifidobacteria counts in both duodenal mucosa-associated and fecal microbiota in irritable bowel syndrome patients.
-
-based on the symptoms ibs may be characterized by a predominance of constipation ibs-c or diarrhea ibs-d or by mixed bowel habits ibs-m and unsubtyped ibs ibs-u .
-
-since the importance of gut microbiota in ibs pathogenesis has been identified the manipulation of the microbiota is emerging as an attractive therapeutic option for this disease .
-
-in this study the increase of clostridium xiva and clostridium sensu stricto in the pbprobio group or pb group might be associated with protective roles in ibs.
+Since the importance of gut microbiota in IBS pathogenesis has been identified the manipulation of the microbiota is emerging as an attractive therapeutic option for this disease .
 

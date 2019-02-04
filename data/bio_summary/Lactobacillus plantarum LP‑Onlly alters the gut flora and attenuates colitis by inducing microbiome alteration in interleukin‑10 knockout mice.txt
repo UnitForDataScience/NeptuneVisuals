@@ -1,0 +1,20 @@
+The association between inflammatory bowel disease IBD and gut microbes has been widely investigated.
+
+The alteration of the abundances of various taxonomic and functional groups were investigated across these gut microbiomes.
+
+The present study demonstrates that Akkermansia muciniphila was significantly enriched in IL-10-- mice and bacteroides were significantly increased following LP administration.
+
+The present findings indicate that the gut metagenome is associated with IBD and oral administration of LP contributes to prevention of gut inflammation providing insight into the treatment of IBD.Correspondence to Dr Huanlong Qin or Dr Zhigang Wang Department of General Surgery Shanghai Jiao Tong University Affiliated Sixth People's Hospital 600 Yishan Road Shanghai 200233 P.R.
+
+The gut microbiota are vital in host health development by interacting with the host 2.
+
+The microbiota composition is associated with gastrointestinal inflammation therefore the majority of therapeutic strategies for IBD are focused on reconstructing the normal microbiota community of the host gut.Probiotics are reported to benefit the host and are non-digestible and fermentable 12.
+
+The abundance of microbiota in the LP treated mice IL-10--  LP and mice without LP treatment IL-10-- was compared.
+
+Homozygous IL-10-- mice weight 220-12 g age 8 weeks sex female generated on a 129 SvEv back- ground n12 and normal 129 SvEv controls n12 The Jackson Laboratory Bar Harbor ME USA were housed under specific-pathogen-free conditions temperature 25C humidity 70 in Shanghai Jiao Tong University Medical School Shanghai China.
+
+The animal studies were approved by the Ethical Committee of the Affiliated Sixth People's Hospital of Shanghai Jiao Tong University.
+
+Sequencing adapter sequences were removed with cutadapt  The length of each read was trimmed using SolexaQA  sourceforge.net with the options '-b -p 0.05'.
+

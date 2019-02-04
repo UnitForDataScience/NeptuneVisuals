@@ -1,30 +1,20 @@
-second pathway is autophagy where the intracellular organelles seize to function and form autophagosomes with the help of autophagy proteins and are delivered to lysosomes for the degradation lead- ing to the cell death .
+Second pathway is autophagy where the intracellular organelles seize to function and form autophagosomes with the help of autophagy proteins and are delivered to lysosomes for the degradation lead- ing to the cell death .
 
-b. the autophagy positive cells were counted in at least 10 different areas under high power field and the results were averaged and calculated as percent of autophagy.
+The autophagy positive cells were counted in at least 10 different areas under high power field and the results were averaged and calculated as percent of autophagy.
 
-a value of p  0.05 was considered to be statistically significant.resultsbutyrate induces autophagyto identify the role of butyrate on autophagy in huh 7 cells different concentrations of butyrate 1e6 mm was incubated with the cells and the autophagosome formation was determined using cyto-id autophagy detection kit.
+A value of p  0.05 was considered to be statistically significant.ResultsButyrate induces autophagyTo identify the role of butyrate on autophagy in Huh 7 cells different concentrations of butyrate 1e6 mM was incubated with the cells and the autophagosome formation was determined using CYTO-ID autophagy detection Kit.
 
-the results showed that autophagy was increased to 34.4 with sb while the increase was reversed to 2.5 when cells were co-incubated with both sb and nac b. to confirm these findings the key proteins involved in the autophagy were determined by western blots.
+The results showed that therewas an increase in the expression of beclin 1 ATG 5 and LC3-IILC3-I ratio in butyrate-treated cells while this increase was inhibited by NAC C. The intensities were quantified using Image J soft- ware and found that the expression of these proteins were increased with SB and NAC reversed SB-induced changes D. Our findings indicated that ROS plays a key role in SB-mediated autophagy in hepatic cells.Butyrate modulates AktmTOR pathwayPrevious studies have shown that aktmTOR pathway is one of the key pathways involved in regulating autophagy.
 
-the results showed that therewas an increase in the expression of beclin 1 atg 5 and lc3-iilc3-i ratio in butyrate-treated cells while this increase was inhibited by nac c. the intensities were quantified using image j soft- ware and found that the expression of these proteins were increased with sb and nac reversed sb-induced changes d. our findings indicated that ros plays a key role in sb-mediated autophagy in hepatic cells.butyrate modulates aktmtor pathwayprevious studies have shown that aktmtor pathway is one of the key pathways involved in regulating autophagy.
+The proposed mechanism by which butyrate induces autophagy is illustrated in .Several studies have shown that intracellular ROS might serve as a signalling molecule that directly or indirectly activate autophagy and apoptosis .
 
-the proposed mechanism by which butyrate induces autophagy is illustrated in .several studies have shown that intracellular ros might serve as a signalling molecule that directly or indirectly activate autophagy and apoptosis .
+Butyrate enhances the intracellular production of ROS which in turn induces MAPK pathway and in parallel inhibits aktmTOR pathway thus enhancing autophagy in hepatic cells.in the autophagy which was reversed by NAC.
 
-butyrate enhances the intracellular production of ros which in turn induces mapk pathway and in parallel inhibits aktmtor pathway thus enhancing autophagy in hepatic cells.in the autophagy which was reversed by nac.
+These data suggested that activation of autophagy was associated with the cancer cell death and inhibition of the proliferation of cancer cells .To treat the hepatic cancer an autophagy inducing agent iso- orientin based drug was used to upregulate beclin1 and LC3-II expression .
 
-these data suggested that activation of autophagy was associated with the cancer cell death and inhibition of the proliferation of cancer cells .to treat the hepatic cancer an autophagy inducing agent iso- orientin based drug was used to upregulate beclin1 and lc3-ii expression .
+The data from this study confirm that butyrate could induce autophagy at least in part via a ROS-dependent aktmTOR pathway.ConclusionThe data from our study showed for the first time that butyrate induced autophagy via ROSAktmTOR pathway in hepatic cells.
 
-the data from this study confirm that butyrate could induce autophagy at least in part via a ros-dependent aktmtor pathway.conclusionthe data from our study showed for the first time that butyrate induced autophagy via rosaktmtor pathway in hepatic cells.
+eOxidative stress plays a key role in butyrate-mediated autophagy via AktmTOR pathway in hepatoma cellsKishor Pant  Anoop Saraya  Senthil K. Venugopal  a Faculty of Life Sciences and Biotechnology South Asian University New Delhi Indiab Department of Gastroenterology  Human Nutrition AIIMS New Delhi Indiaa r t i c l e i n f o Article historyReceived 25 March 2017 Received in revised form 9 May 2017Accepted 5 June 2017Available online 12 June 2017Keywords Butyrate ROSAutophagy Hepatocellular carcinomaa b s t r a c t Hepatocellular Carcinoma HCC is one of the most aggressive forms of cancer responsible for a number of deaths in humans.
 
-eoxidative stress plays a key role in butyrate-mediated autophagy via aktmtor pathway in hepatoma cellskishor pant  anoop saraya  senthil k. venugopal  a faculty of life sciences and biotechnology south asian university new delhi indiab department of gastroenterology  human nutrition aiims new delhi indiaa r t i c l e i n f o article historyreceived 25 march 2017 received in revised form 9 may 2017accepted 5 june 2017available online 12 june 2017keywords butyrate rosautophagy hepatocellular carcinomaa b s t r a c t hepatocellular carcinoma hcc is one of the most aggressive forms of cancer responsible for a number of deaths in humans.
-
-in this study we showed that sodium butyrate induced autophagy via reactive oxygen species ros in hepatoma cells.
-
-addition of a known antioxidant n-acetyl cysteine nac reversed these butyrate-induced ros and autophagy.
-
-in conclusion our data showed that butyrate induced ros which in turn induced autophagy via inhibition of aktmtor pathway.
-
-venugopal.proliferation and induced apoptosis and autophagy in colorectal cancer cells .
-
-however there is a paucity of data regarding the molecular mechanisms by which butyrate induces autophagy in hepatic cells.there are two major ways of programmed cell death .
+In this study we showed that sodium butyrate induced autophagy via reactive oxygen species ROS in hepatoma cells.
 

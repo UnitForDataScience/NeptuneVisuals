@@ -1,30 +1,20 @@
-for the undecaprenyl pyrophosphate synthesis reactions coupled to thedegradation by telctox0.04 mm farnesyl pyrophosphate and 0.4 mm isopentenyl pyrophosphate were solubilized in 20 mm hepeskoh ph 7.5 50 mm kcl 0.5 mm mgcl2 1 mm cacl2 0.1 tri- ton x-100 and incubated with 10 mm upps and 2 mm telctox final concentrations or protein buffer for 5 hr at 25c and 90 min at 37c.
+For the undecaprenyl pyrophosphate synthesis reactions coupled to thedegradation by TelCtox0.04 mM Farnesyl pyrophosphate and 0.4 mM isopentenyl pyrophosphate were solubilized in 20 mM HEPESKOH pH 7.5 50 mM KCl 0.5 mM MgCl2 1 mM CaCl2 0.1 Tri- ton X-100 and incubated with 10 mM UppS and 2 mM TelCtox final concentrations or protein buffer for 5 hr at 25C and 90 min at 37C.
 
-samples were extracted with n-butanolpyridine acetate21 ph 4.2 and resolved on silica gel hptlc silica gel 60 millipore in chloroformmethanolammo-niawater 8848110. for the undecaprenyl phosphate reactions 100 mm undecaprenyl phosphate larodan was solubilized in 20 mm hepeskoh ph 7.5 150 mm kcl 1 mm cacl2 and 0.1 triton x-100 before adding 2 mm telctox final concentration 2 mm telctox-tipcdss or protein buffer fol- lowed by incubation for 5 hr at 25c and 90 min at 37c.
+For the undecaprenyl phosphate reactions 100 mM undecaprenyl phosphate Larodan was solubilized in 20 mM HEPESKOH pH 7.5 150 mM KCl 1 mM CaCl2 and 0.1 Triton X-100 before adding 2 mM TelCtox final concentration 2 mM TelCtox-TipCDss or protein buffer fol- lowed by incubation for 5 hr at 25C and 90 min at 37C.
 
-lipid ii was kindly provided by ute bertsche and was generated as described previously .for thin-layer chromatography tlc analysis of lys-type lipid ii degradation by telc telctox or telctox-tipcdss 40 mm lipid ii was solubilized in 30 mm hepeskoh ph 7.5 150 mm kcl and 0.1 triton x-100 before adding either 2 mm telctox 2 mm telctox-tipcdss complex or protein buffer fol- lowed by incubation for 90 min at 37c.
+Lipid II was kindly provided by Ute Bertsche and was generated as described previously .For thin-layer chromatography TLC analysis of Lys-type lipid II degradation by TelC TelCtox or TelCtox-TipCDss 40 mM lipid II was solubilized in 30 mM HEPESKOH pH 7.5 150 mM KCl and 0.1 Triton X-100 before adding either 2 mM TelCtox 2 mM TelCtox-TipCDss complex or protein buffer fol- lowed by incubation for 90 min at 37C.
 
-protease inhibitors 1 mm aebsf 10 mm leupeptin and 1 mm pepstatin were added to the filtered supernatants prior to dialysis in 4l of pbs using 10 kda molecular weight cut off tubing at 4c.
+The progress of the refine- ment was monitored by the reduction of Rwork and Rfree .Peptidoglycan hydrolase assayPurified TelCtox was dialyzed against 20 mM sodium acetate pH 4.6 150 mM NaCl 10 mM CaCl2.
 
-cells were harvested by centrifugation at 6000 g for 15 min followedby resuspension in 35 ml of buffer a 50 mm tris-hcl ph 8.0 300 mm nacl 10 mm imidazole.
+Cells were harvested by centrifugation at 6000 g for 15 min followedby resuspension in 35 mL of buffer A 50 mM Tris-HCl pH 8.0 300 mM NaCl 10 mM imidazole.
 
-lysate was loaded onto the column and unbound proteins were removed using 50 ml of buffer a. bound proteins were then eluted using 50 mm tris-hcl ph 8.0 300 mm nacl 400 mm imidazole.
+The work is made available under the A broadly distributed toxin family mediates contact-dependent antagonism between gram-positive bacteriaJohn C Whitney1 S Brook Peterson1 Jungyun Kim1 Manuel Pazos2Adrian J Verster3 Matthew C Radey1 Hemantha D Kulasekara1 Mary Q Ching1 Nathan P Bullen45 Diane Bryant6 Young Ah Goo7 Michael G Surette458 Elhanan Borenstein3910 Waldemar Vollmer2 Joseph D Mougous1111Department of Microbiology University of Washington School of Medicine Seattle United States 2Centre for Bacterial Cell Biology Institute for Cell and Molecular Biosciences Newcastle University Newcastle United Kingdom 3Department of Genome Sciences University of Washington Seattle United States 4Michael DeGroote Institute for Infectious Disease Research McMaster University Hamilton Canada 5Department of Biochemistry and Biomedical Sciences McMaster University Hamilton Canada 6Experimental Systems Group Advanced Light Source Berkeley United States 7Northwestern Proteomics Core Facility Northwestern University Chicago United States 8Department of Medicine Farncombe Family Digestive Health Research Institute McMaster University Hamilton Canada 9Department of Computer Science and Engineering University of Washington Seattle United States 10Santa Fe Institute Santa Fe United States 11Howard Hughes Medical Institute University of Washington School of Medicine Seattle United StatesAbstract The Firmicutes are a phylum of bacteria that dominate numerous polymicrobial habitats of importance to human health and industry.
 
-the progress of the refine- ment was monitored by the reduction of rwork and rfree .peptidoglycan hydrolase assaypurified telctox was dialyzed against 20 mm sodium acetate ph 4.6 150 mm nacl 10 mm cacl2.
+A special- ized secretion system widely distributed among Gram-positive bacteria is the Esx pathway also referred to as type VII secretion .
 
-pg was isolated as described  and digested with either cellosyl muramidase or lysostaphin endo- peptidase and cellosyl reduced with sodium borohydride and analyzed by hplc as described above.lipid ii phosphatase assaypurified telctox and telctox-tipcdss complex were dialyzed against 20 mm sodium acetate ph 4.6 150 mm nacl 10 mm cacl2.
+Protease inhibitors 1 mM AEBSF 10 mM leupeptin and 1 mM pepstatin were added to the filtered supernatants prior to dialysis in 4L of PBS using 10 kDa molecular weight cut off tubing at 4C.
 
-c14-labelled lys-type lipid ii was solubilized in 5 ml of triton x-100 before being added to 95 ml of reaction buffer containing 15 mm hepes ph 7.5 0.4 mm cacl2 excluded from the pbp1b-lpob reaction 150 mm nacl 0.023 triton x-100 and either pbp1b- lpob complex telctox telctox-tipcdss complex or colicin m followed by incubation for 1 hr at37c.
+Bound proteins were then eluted using 50 mM Tris-HCl pH 8.0 300 mM NaCl 400 mM imidazole.
 
-clinical infectious diseases 321511-1515.  pmid conrad wh osman mm shanahan jk chu f takaki kk cameron j hopkinson-woolley d brosch r ramakrishnan l. 2017. mycobacterial esx-1 secretion system mediates host cell lysis through bacterium contact-dependent gross membrane disruptions.
-
-peptide samples were loaded onto the trap column which was 150 mm x 3 cm in-house packed with 3 mm c18 beads at flow rate of 5 mlmin for 5 min using a loading buffer of acetonitrileh2oformic acid 594.90.1 vvv.
-
-the analytical column was a 75 mm x 10.5 cm picochip column packed with 1.9 mm c18 beads new objectives.
-
-all protein samples were dialyzed into 20 mm tris-hcl 150 mm nacl.selenomethionine-incorporated telc202-ct was obtained by growing e. coli bl21 petduet-1 telc202-ct in selenomethionine medium complete molecular dimensions using the expression con- ditions described above.
-
-proteolytic processing of the leader peptide of ss-telctox was confirmed by western blot.isothermal titration calorimetrysolutions of 25 mm telc202-ct and 250 mm tipcdss were degassed prior to experimentation.
-
-supernatant fractions containing secreted proteins were collected and spun at 2500 x g for an additional 20 min at 4cand subsequently filtered through a 0.2 mm pore size membrane to remove residual cells and cell debris.
+PG was isolated as described  and digested with either cellosyl muramidase or lysostaphin endo- peptidase and cellosyl reduced with sodium borohydride and analyzed by HPLC as described above.Lipid II phosphatase assayPurified TelCtox and TelCtox-TipCDss complex were dialyzed against 20 mM sodium acetate pH 4.6 150 mM NaCl 10 mM CaCl2.
 

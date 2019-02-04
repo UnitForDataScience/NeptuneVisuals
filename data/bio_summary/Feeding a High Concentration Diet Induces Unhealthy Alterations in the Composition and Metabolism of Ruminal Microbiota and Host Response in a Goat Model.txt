@@ -1,30 +1,20 @@
-in this study a combination of mass spectrometry-based metabolomics techniques 454 pyrosequencing of 16s rdna genes and rt-pcr was applied to evaluate the changes of ruminal microbiota composition ruminal metabolites and related genes expression in rumen epithelial cells of lactating goats received either a 35 concentrate diet or a 65 concentrate diet for 4 or 19 weeks respectively.
+Harmsen H. J. Wildeboer-Veloo A. C. Grijpstra J. Knol J. Degener J. E. and Welling G. W. 2000.
 
-the rumen was opened from the dorsal side and rumen fluid was collected and strained throughfour layers of cheesecloth and kept on ice until processing.
+Li F. Yang X. J. Cao Y. C. Li S. X. Yao J. H. Li Z. J. et al.
 
-the rumen tissue was then washed by pbs collected and threw into liquid nitrogen immediately then stored at 80c until next process.the rumen fluid samples were briefly centrifuged at 10000 g for 45 min at 4c and the supernatant was aspirated gently to prevent its mixing with the pellet and passed through adisposable 0.22 um lps-free filter.
+The rumen was opened from the dorsal side and rumen fluid was collected and strained throughfour layers of cheesecloth and kept on ice until processing.
 
-2014. effectsof dietary effective fiber to rumen degradable starch ratios on the risk of sub- acute ruminal acidosis and rumen content fatty acids composition in dairy goat.
+The rumen tissue was then washed by PBS collected and threw into liquid nitrogen immediately then stored at 80C until next process.The rumen fluid samples were briefly centrifuged at 10000 g for 45 min at 4C and the supernatant was aspirated gently to prevent its mixing with the pellet and passed through adisposable 0.22 um LPS-free filter.
 
-8138. doi there is limited knowledge about the impact of long-term feeding a high-concentrate hc diet on rumen microbiota metabolome and host cell functions.
+In this study a combination of mass spectrometry-based metabolomics techniques 454 pyrosequencing of 16S rDNA genes and RT-PCR was applied to evaluate the changes of ruminal microbiota composition ruminal metabolites and related genes expression in rumen epithelial cells of lactating goats received either a 35 concentrate diet or a 65 concentrate diet for 4 or 19 weeks respectively.
 
-results show that feeding a hc diet reduced the microbiota diversity and led to the disorders of metabolism in the rumen.
+The correlation was made by the corrplot package of the R software.RESULTS AND DISCUSSIONAlteration of VFAs and Abnormal Fermented Products after Feeding a HC DietFeeding a HC diet to lactating goats induced abnormal fermentation in rumen.
 
-previous evidence showed that sara can be experimentally induced by feeding50 65 proportion of grain diet to ruminants .animals suffering from sara are usually accompanied with ruminal microbiota dysbiosis in bacteria protozoa anaerobic rumen fungi archaea and bacteriophages    .
+The above results indicate that these microbes may be affected by phenylacetate or collaboratively synthesize phenylacetate.Feeding a HC diet to dairy goats dramatically reduced the level of D-glucose and D-turanose which are both utilized by microbesin rumen  .
 
-in this study we used 454 pyrosequencing methods to investigate the changes of the structure and component of rumen microbiota in lactating dairy goats fed with a hc diet for short 4 weeks or long 19 weeks periods.as one of the core microbiome   firmicutes has a strong association with the biological fiber degradation  .
+The effect of replacing barley with glycerol in the diet of dairy cows on rumen parameters and milk fatty acid profile.
 
-the correlation was made by the corrplot package of the r software.results and discussionalteration of vfas and abnormal fermented products after feeding a hc dietfeeding a hc diet to lactating goats induced abnormal fermentation in rumen.
+Effectsof dietary effective fiber to rumen degradable starch ratios on the risk of sub- acute ruminal acidosis and rumen content fatty acids composition in dairy goat.
 
-lactate can cross the rumen wall and be dissolved in blood to leading an increase of plasma lactate as observed in the hs and the hl groups.absorption and utilization of nitrogen is promoted in lactating goat by feeding a hc diet.
-
-inconsistently in  study four non-lactating holstein dairy cows fed with a hc diet for 3 weeks did not affect the methanogen density in the rumen.
-
-these metabolites altered by hc diet are involved in multiple biochemical processes in the rumen such as gluconeogenesis.
-
-the above results indicate that these microbes may be affected by phenylacetate or collaboratively synthesize phenylacetate.feeding a hc diet to dairy goats dramatically reduced the level of d-glucose and d-turanose which are both utilized by microbesin rumen  .
-
-microbiota dysbiosis and the abnormal products particularly lps and histamine in rumen or circulating system induced by a hc diet is largely associated with functional genes expression in ruminal epithelial tissues.
-
-2015. the effect of replacing barley with glycerol in the diet of dairy cows on rumen parameters and milk fatty acid profile.
+Boerman J. P. Potts S. B. VandeHaar M. J. Allen M. S. and Lock A. L. 2015.
 

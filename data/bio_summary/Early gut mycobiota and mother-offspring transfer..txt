@@ -1,30 +1,20 @@
-microbiome 2017 5107doi 10.1186s40168-017-0319-xearly gut mycobiota and mother-offspring transferkasper schei1  ekaterina avershina2 torbjorn oien3 knut rudi2 turid follestad3 saideh salamati4 and ronnaug astri odegard14abstractbackground the fungi in the gastrointestinal tract the gut mycobiota are now recognised as a significant part of the gut microbiota and they may be important to human health.
+In contrast to the adult gut mycobiota the establishment of the early gut mycobiota has never been described and there is little knowledge about the fungal transfer from mother to offspring.Methods In a prospective cohort we followed 298 pairs of healthy mothers and offspring from 36 weeks of gestation until 2 years of age 1516 samples and explored the gut mycobiota in maternal and offspring samples.
 
-in contrast to the adult gut mycobiota the establishment of the early gut mycobiota has never been described and there is little knowledge about the fungal transfer from mother to offspring.methods in a prospective cohort we followed 298 pairs of healthy mothers and offspring from 36 weeks of gestation until 2 years of age 1516 samples and explored the gut mycobiota in maternal and offspring samples.
+We report major shifts in the fungal abundance and diversity within these populations and it supports the idea of a succession of mycobiotic hosting from mother to child and over the first 2 years of life.MethodsMaterialWe selected 298 mother-offspring pairs with at least one pair of faecal samples from mothers and offspring who participated in the Probiotics in the Prevention of Al- lergy among Children in Trondheim study ProPACT Table The ProPACT study is a population-based randomised placebo-controlled and double-blinded trial on probiotics from Trondheim Norway and it has been described in detail elsewhere Briefly the preg- nant women who attended the regular Norwegian Ante- natal Care Programme were asked to participate by completing questionnaires on their health and risk fac- tors and by collecting faecal samples from themselves and their offspring.
 
-the results support the idea that the fungal host phenotype is transferred from mother to offspring.trial registration clinicaltrials.gov keywords gut microbiota mycobiota fungi newborn infant infant health probioticsbackgroundthe fungi that populate the gastrointestinal tract gut mycobiota have recently been recognised as a substantial part of the gut microbiota and can be important for human health .
+Although we do not have details on the anti- biotic administration in the offspring before 10 days of life no offspring that were delivered by caesarean sec- tion received antibiotics during labour but one devel- oped septicaemia afterwards and was treated accordingly.
 
-probiotic consumption increased the gut mycobiota abundance in pregnant mothers p  0.01.conclusion this study provides the first insight into the early fungal establishment and the succession of fungal species in the gut mycobiota.
+In the offspring the alpha diversity seemed to increase steadily from birth whereas the beta diversity was highest in 10-day-old offspring.The PCoA plot at 6000 reads distinguished the 10- day-3-month-old offspring breast-fed andor formula- fed from the other samples.
 
-the adult gut mycobiota which probably comprise approximately 13 of the gut microbialvolume consists of a species selection from approximately 140 different fungal genera  with the most abundant ones being candida saccharomyces and cladosporium spp.
+The intraclass coefficient ICC was 0.01 which indicates that the repeated measurements were largely unrelated.We found no significant associations between the offspring fungal DNA concentrations and the maternalfungal DNA concentrations probiotics mode of delivery or the offspring antibiotic use Additional file Table S4.
 
-similarly the relative abundance differences in bacteriodes are associ- ated with the archaeon nitrososphaera and they are negatively correlated with gut fungi the human gut mycobiota confers several physio- logical effects to the human body.
+Bar charts of the relatively most abundant OTUs in a mothers b offspring from 10 days to 3 months and c offspring for 1-2 years.
 
-taken together these findings imply that the gut mycobiota could be aetiologically important in human diseases.an understanding of the role of the gut mycobiota is emerging in relation to physiological as well as patho- physiological processes but there is little knowledge of how the mycobiome is shaped from early life.
+Thus we find indications for the transfer of fungal hosting be- tween mothers and offspring that appear to be inde- pendent of the mode of delivery.The overlapping OTUs in the mother and offspring guts were mostly Saccharomycetaceae spp.
 
-we also found that the maternal fungal dna concentrations increased when the pregnant mothers drank probiotics.almost 90 of the mothers and 60-80 of the offspring had detectable gut fungi which highlights fungi as an inherent part of the gut microbiota.
+We quantified the fungal abundance of all the samples using qPCR of the fungal internal transcribed spacer ITS1 segment and we sequenced the 18S rRNA gene ITS1 region of 90 high-quantity samples using the MiSeq platform Illumina.Results The gut mycobiota was detected in most of the mothers and the majority of the offspring.
 
-these proportions co- here with the findings of an italian cross-sectional fungal cultivation study on children and adults .many of the fungal species that we detected in the off- spring have previously been detected in the adult gut see additional file strikingly d. hansenii an ubiqui- tous saccharomycetaceae species that is often used in the food industry as a cheese yeast  dominates the offspring gut mycobiota during the breast-feedinga 7654321pregnant n28 postpartum n25 10 days n15 3 months n4 1 year n7 2 years n11353025201510501.05pregnant n28 postpartum n2510 days n15 3 months n4 1 year n7 2 years n1110.950.90.850.80.750.70.650.6fig.
+The offspring showed increased odds of having detectable faecal fungal DNA if the mother had detectable fungal DNA as well OR  1.54 p  0.04.
 
-at 10 days the gut fungi have just started to fight for their positions in a seem- ingly first-come first-serve model the reduction in fungal abundance is probably determined by feeding gut immunity and their interactions.
-
-that exhibit fungal antagonism  upon approaching 2 years of age the gut mycobiota consists of fungi specific for the adult mycobiota as observed in our study.interestingly pregnant mothers that received probio- tics showed a higher abundance of gut fungi.
-
-nevertheless in this unselected study population of mothers and offspring it is reasonable to surmise that this selection could reflect the gut mycobiota of a healthy gut.
-
-we quantified the fungal abundance of all the samples using qpcr of the fungal internal transcribed spacer its1 segment and we sequenced the 18s rrna gene its1 region of 90 high-quantity samples using the miseq platform illumina.results the gut mycobiota was detected in most of the mothers and the majority of the offspring.
-
-the offspring showed increased odds of having detectable faecal fungal dna if the mother had detectable fungal dna as well or  1.54 p  0.04. the fungal alpha diversity in the offspring gut increased from its lowest at 10 days after birth which was the earliest sampling point.
-
-these fungi consume nutrients and may facilitate nutrient extraction and assist in digestion through enzyme and vitamin produc- tion the gut mycobiota is also essential as a form of antigen exposures to train the immune system and its responses.
+The fungal alpha diversity in the offspring gut increased from its lowest at 10 days after birth which was the earliest sampling point.
 

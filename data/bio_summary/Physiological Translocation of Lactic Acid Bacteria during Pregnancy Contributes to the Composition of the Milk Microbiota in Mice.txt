@@ -1,30 +1,20 @@
-some studies have revealed the ability of certain gut bacteria to spread to extra-digestive locations in healthy hosts - while others including in vitro animal and human studies have shown that physiological bacterial translocation during late pregnancy has a scientifically plausible basis and may involve complex interactions between microbes immune cells and gut epithelial cells --.gut bacteria translocation has usually been associated with pathogenic conditions - but a low rate of bacterial translocation involving bacteroides lactobacilli bifidobacteria or enterococci occurs in healthy hosts - and may be associated to physiological immunomodulation .
+B LB agar plate showing E. coli cells transformed with pMG36eluxABCDE.C Microtiter plate showing E. coli cells transformed with pMG36eluxABCDE Column 1 non-inoculated LB medium negative control Column 2 files b to f serial dilutions of E. coli cells transformed with pMG36eluxABCDE.Similarly the successful transformation of L. lactis MG1614 with either pMG36eluxAB or pMG36eluxABCDE and that of L. salivarius PS2 with pMG36eluxAB was confirmed by bioluminescence and PCR Figure .
 
-in fact physiological translocation of commensal bacteria from the gut to different mucosal surfaces has already been shown in vitro and in vivo through a mechanism involving complex interactions between bacteria epithelial cells and immune cells including dendritic cells and macrophages .
+Rescigno M. Urbano M. Valzasina B. Francolini M. Rotta G. Bonasio R. Granucci F. Kraehenbuhl J.P. Ricciardi-Castagnoli P. Dendritic cells express tight junction proteins and penetrate gut epithelial monolayers to sample bacteria.
 
-nature 1999 401 804-808. rescigno m. urbano m. valzasina b. francolini m. rotta g. bonasio r. granucci f. kraehenbuhl j.p. ricciardi-castagnoli p. dendritic cells express tight junction proteins and penetrate gut epithelial monolayers to sample bacteria.
+In fact physiological translocation of commensal bacteria from the gut to different mucosal surfaces has already been shown in vitro and in vivo through a mechanism involving complex interactions between bacteria epithelial cells and immune cells including dendritic cells and macrophages .
 
-cells were plated on lb plates supplemented with em 150 ug ml-1 in order to select for transformants.table 1. primers used in this study for the polymerase chain reaction pcr detection of lux genes.transformation of l. lactis mg1614 and l. salivarius ps2both plasmids were extracted from transformed e. coli cells using the qiagen plasmid mini kit qiagen hilden germany and electroporated into l. lactismg1614 cells as described previously .
+Olivares M. Boza J. Jimenez J. Fernandez L. Xaus J. et al.
 
-after electroporation l. lactis cells were plated on gm17 supplemented with em 2.5 ug ml-1 and incubated at 30 c for 48 h. subsequently both plasmids containing p32-luxab and p32-luxabcde respectively were isolated from the previously transformed l. lactis mg1614 cells and electroporated into competent l. salivariusps2 cells which had been obtained as previously described .
+Some studies have revealed the ability of certain gut bacteria to spread to extra-digestive locations in healthy hosts - while others including in vitro animal and human studies have shown that physiological bacterial translocation during late pregnancy has a scientifically plausible basis and may involve complex interactions between microbes immune cells and gut epithelial cells --.Gut bacteria translocation has usually been associated with pathogenic conditions - but a low rate of bacterial translocation involving Bacteroides lactobacilli bifidobacteria or enterococci occurs in healthy hosts - and may be associated to physiological immunomodulation .
 
-b lb agar plate showing e. coli cells transformed with pmg36eluxabcde.c microtiter plate showing e. coli cells transformed with pmg36eluxabcde column 1 non-inoculated lb medium negative control column 2 files b to f serial dilutions of e. coli cells transformed with pmg36eluxabcde.similarly the successful transformation of l. lactis mg1614 with either pmg36eluxab or pmg36eluxabcde and that of l. salivarius ps2 with pmg36eluxab was confirmed by bioluminescence and pcr figure .
+Although the origin of the bacteria naturally present in this biological fluid can be diverse the results of this study confirm that there may be a physiological translocation of certain bacterial strains from the maternal digestive tract to the mammary gland and milk.Acknowledgments This research was supported by Nutricia Research Utrecht The Netherlands and by grants AGL2016-75476-R PCIN-2015-234 RED RICET RD1200180004 and BIOMID ISCIII SAF2016-75988-R MINECO HOMIN-317057-FP7-PEOPLE-2012-ITN EU.Author Contributions Juan Miguel Rodriguez Manuel Fresno and Leonides Fernandez conceived designed the experiments and prepared the manuscript Javier de Andres Esther Jimenez and Isabel Chico-Calero performed the experiments analyzed the data and revised the manuscript.Conflicts of Interest The authors declare no conflict of interest.ReferencesFernandez L. Langa S. Martin V. Maldonado A. Jimenez E. Martin R. Rodriguez J.M.
 
-the murine model allowed the visualization isolation and polymerase chain reaction pcr-detection of the transformed bacteria in different body locations including mammary tissue and milk reinforcing the hypothesis that physiological translocation of maternal bacteria during pregnancy and lactation may contribute to the composition of the mammary and milk microbiota.keywords human milk translocation lactobacillus salivarius lux bioluminescence pregnancy lactationintroductionhuman milk contains microorganisms that together with other milk components play a pivotal role in the early colonization of the infant gut.
+Dore J. Leclerc M. Levenez F. Benyacoub J. Serrant P. Segura-Roggero I. Schiffrin E.J.
 
-the detection of cells andor dna belonging to anaerobic species that are related to the adult gut environment blautia bifidobacterium bacteroides parabacteroides clostridium collinsella coprococcus faecalibacterium roseburia subdoligranulum or veillonella has ledtothe hypothesisthat some of the human milk bacteria may originate in the maternal digestive tract mouth gastrointestinal tract and reach the mammary gland through an endogenous route .so far culture-independent studies have not provided information on microbial viability and have not allowed strain level discrimination.
+Jimenez E. Fernandez L. Maldonado A. Martin R. Olivares M. Xaus J. Rodriguez J.M.
 
-microbiota restricts trafficking of bacteria to mesenteric lymph nodes by cx3cr1hi cells.
+Vazquez-Fresno R. Llorach R. Marinic J. Tulipani S. Garcia-Aloy M. Espinosa-Martos I. Jimenez E. Rodriguez J.M.
 
-uhr t. induction of protective iga by intestinal dendritic cells carrying commensal bacteria.
-
-in addition bacterial translocation from the digestive tract of healthy women has been proposed as a source of bacteria for the mammary gland during late pregnancy and lactation .
-
-however more mechanistic studies focused on the potential bacterial transfer from the gut to the mammary glands of healthy hosts are required to further confirm such findings.bioluminescent whole-body imaging allows rapid and real-time monitoring of bacteria in vivo.
-
-however the role of breastfeeding in the vertical mother-to-infant transfer of specific bacterial strains including bifidobacteria and lactic acid bacteria strains has already been demonstrated --.
-
-some bacterial strains seems to specifically mediate their own translocation without collateral translocation of other bacteria from the host digestive tract .
-
-it has been proposed that the entry survival and replication of bacteria in tumors depends on the vascularization and immune-privileged nature of solid tumors which may provide a suitable microenvironment for a small spectrum of bacterial species .
+Jimenez E. de Andres J. Manrique M. Pareja-Tobes P. Tobes R. Martinez-Blanch J.F.
 

@@ -1,30 +1,20 @@
-however a more comprehensive measure of diversity and the factors that determine the diversity and composition of the environmental microbiomes in hcis are poorly understood.recently the development of culture-independent high-throughput molecular sequencing approaches has transformed the study of microbial diversity in different hospital locations as demonstrated by the recent explo- sion of research in the microbial ecology of neonatal intensive care units icus respiratory care centers and medical icus .
+However a more comprehensive measure of diversity and the factors that determine the diversity and composition of the environmental microbiomes in HCIs are poorly understood.Recently the development of culture-independent high-throughput molecular sequencing approaches has transformed the study of microbial diversity in different hospital locations as demonstrated by the recent explo- sion of research in the microbial ecology of neonatal intensive care units ICUs respiratory care centers and medical ICUs .
 
-to evaluate the amount of diversity contained within communities alpha diversity analysis was performed through phyloseq r package version 1.19.1to generate the observed chao1 and ace richness and shannon diversity indices.
+To evaluate the amount of diversity contained within communities alpha diversity analysis was performed through phyloseq R package version 1.19.1to generate the Observed Chao1 and Ace richness and Shannon diversity indices.
 
-this approach readily determines several orders of magnitude more microbial diversity than culture-based methods and has dramatically altered our understanding of microbial diversity.
+This approach readily determines several orders of magnitude more microbial diversity than culture-based methods and has dramatically altered our understanding of microbial diversity.
 
-even though the diversity and composition of the surface microbiome in an individual hci has been determined there have been few attempts to comprehensively survey the factors that determine the hci microbiome.currently the composition and diversity of microbiomes in a built environment are contributed to by two ecological processes dispersal resources and the selection of certain microbial taxa by environmental condi- tions.
+Even though the diversity and composition of the surface microbiome in an individual HCI has been determined there have been few attempts to comprehensively survey the factors that determine the HCI microbiome.Currently the composition and diversity of microbiomes in a built environment are contributed to by two ecological processes dispersal resources and the selection of certain microbial taxa by environmental condi- tions.
 
-table shows alpha diversity in workplaces high-touch areas and envi- ronments in the four hcis and the areas with the highest diversity are the workplace and environment for sc.to further explore the relationships among the different bacterial communities in the four hcis a pcoa analysis using a weighted unifrac distance matrix was performed and the result is shown in figure .
+Table shows alpha diversity in workplaces high-touch areas and envi- ronments in the four HCIs and the areas with the highest diversity are the workplace and environment for SC.To further explore the relationships among the different bacterial communities in the four HCIs a PCoA analysis using a weighted Unifrac distance matrix was performed and the result is shown in Figure .
 
-fourth multiple factors including ventilation type might contribute to the differences in diversity among the four hcis based on our findings.our results indicate a much higher diversity of communities in the four hcis using 16s rrna amplicon sequencing.
+Fourth multiple factors including ventilation type might contribute to the differences in diversity among the four HCIs based on our findings.Our results indicate a much higher diversity of communities in the four HCIs using 16S rRNA amplicon sequencing.
 
-to determine the amount of diversity shared between two communities beta diversity unifrac distances were calculated between all pairs of samples.
+To determine the amount of diversity shared between two communities beta diversity Unifrac distances were calculated between all pairs of samples.
 
-openreceived 23 january 2017accepted 28 june 2017 published xx xx xxxxbacterial diversity among four healthcare-associated institutes in taiwanchang-hua chen123yaw-ling lin4 kuan-hsueh chen4 wen-pei chen5 zhao-feng chen6 han-yueh kuo7 hsueh-fen hung8 chuanyi tang4  ming-li liou9indoor microbial communities have important implications for human health especially in health- care institutes hcis.
+OPENReceived 23 January 2017Accepted 28 June 2017 Published xx xx xxxxBacterial diversity among four healthcare-associated institutes in TaiwanChang-Hua Chen123Yaw-Ling Lin4 Kuan-Hsueh Chen4 Wen-Pei Chen5 Zhao-Feng Chen6 Han-Yueh Kuo7 Hsueh-Fen Hung8 ChuanYi Tang4  Ming-Li Liou9Indoor microbial communities have important implications for human health especially in health- care institutes HCIs.
 
-the factors that determine the diversity and composition of microbiomes in a built environment remain unclear.
+The factors that determine the diversity and composition of microbiomes in a built environment remain unclear.
 
-the observed relationship between environmental parameters such as core microbiota and surface bacterial diversity suggests that we might manage indoor environments by creating new sanitation protocols adjusting the ventilation design and further understanding the transmission routes of haps.humans live in health-care institutes hcis during periods of hospitalization.
-
-the ecology and diversity of the environmental microbiome in hcis have important implications for patient health.
-
-this molecular approach for exploring microbial diversity is based on the pcr amplification and1division of infectious diseases department of internal medicine changhua christian hospital changhua city taiwan.
-
-we focused on the microbial diversity across the four hcis with various environmental factors.
-
-these vectors are generated from one of a finite number of dirichlet mixture components and the mixture components clustertable 2. summary description of the sampling sites the number of sequences collected and the level of bacterial diversity identified.
-
-first what is the composition of surface microbiota in the four hcis second how does building design particularly ventilation source influence the diversity and structure of the microbiome third what is the core microbiome particularly for human-associated microbes across the four hcis fourth what is the microbial source in each hciresultsparameter measurement in four hcis.
+The observed relationship between environmental parameters such as core microbiota and surface bacterial diversity suggests that we might manage indoor environments by creating new sanitation protocols adjusting the ventilation design and further understanding the transmission routes of HAPs.Humans live in health-care institutes HCIs during periods of hospitalization.
 

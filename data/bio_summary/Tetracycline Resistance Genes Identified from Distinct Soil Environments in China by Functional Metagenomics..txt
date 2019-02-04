@@ -1,30 +1,20 @@
-the mean mic values of the yunnan and tibet clones 58 and 65 mgml respectively were much higher than that of the sichuan clones 32 mgml.identification of tetracycline resistance genes and phylogenetic analysisthe genes responsible for tetracycline resistance were identified by sequencing and blast analyzing the resistant subclones and 24 unique resistance genes of different types were obtained .
+The mean MIC values of the Yunnan and Tibet clones 58 and 65 mgml respectively were much higher than that of the Sichuan clones 32 mgml.Identification of Tetracycline Resistance Genes and Phylogenetic AnalysisThe genes responsible for tetracycline resistance were identified by sequencing and BLAST analyzing the resistant subclones and 24 unique resistance genes of different types were obtained .
 
-we found efflux transporter genes form all the libraries including21 major facilitator superfamily efflux pump genes and one multidrug and toxic compound extrusion mate transporter gene.
+We found efflux transporter genes form all the libraries including21 major facilitator superfamily efflux pump genes and one multidrug and toxic compound extrusion MATE transporter gene.
 
-besides numerous resistance genes have been detected in different kinds of food     and the diet is one of the main route for the entrance of antibiotic resistance genes and bacteria within the humans   .
+Besides numerous resistance genes have been detected in different kinds of food     and the diet is one of the main route for the entrance of antibiotic resistance genes and bacteria within the humans   .
 
-due to the horizontal exchange of genes on mobile genetic elements such as plasmids and transposons numerous tetracycline efflux and ribosomal protection genes spread rapidly in a variety of species and ecosystems over time      .
+Due to the horizontal exchange of genes on mobile genetic elements such as plasmids and transposons numerous tetracycline efflux and ribosomal protection genes spread rapidly in a variety of species and ecosystems over time      .
 
-nevertheless further work is needed to figure out how ph condition affects the stability of the degradation product of our enzyme as well as to gain clear understanding of the degradation mechanism.functional metagenomic approach is able to reveal novel resistance genes that are unrecognizable as resistance genes on the basis of sequence from the vast environmental resistome    .
+Nevertheless further work is needed to figure out how pH condition affects the stability of the degradation product of our enzyme as well as to gain clear understanding of the degradation mechanism.Functional metagenomic approach is able to reveal novel resistance genes that are unrecognizable as resistance genes on the basis of sequence from the vast environmental resistome    .
 
-efflux pump genes were found to be predominant distributed across soil types and habitats while two enzymatic inactivation genes were also identified.
+Efflux pump genes were found to be predominant distributed across soil types and habitats while two enzymatic inactivation genes were also identified.
 
- 1  1  1  yanqing li1  1  zhenhua xi2  3 and 11 college of food science and technology nanjing agricultural university nanjing china 2 institute of tibetan plateau research chinese academy of sciences beijing china 3 yunnan institute of microbiology yunnan university kunming chinaedited bylanming chen shanghai ocean university chinareviewed by alessandra de cesare universita di bologna italy cristiana garofalouniversita politecnica delle marcheitalycorrespondencezhiyang feng  these authors have contributedequally to this work.specialty sectionthis article was submitted tofood microbiology a section of the journal frontiers in microbiologyreceived 07 april 2017accepted 11 july 2017published 24 july 2017citation wang s gao x gao y li y cao m xi z zhao l and feng z 2017 tetracycline resistance genes identified from distinct soil environments in china by functionalmetagenomics.
+The exploration of diverse resistance genes in environmental organisms and its mobilization to clinic would aid in our understanding of the evolution of the resistome as well as anticipation of the emergence of new resistance mechanisms in clinic.MATERIALS AND METHODSMetagenomic Library ConstructionThree metagenomic libraries were constructed using soil samples collected from distinct area of China .
 
-81406.doi soil microbiota represents one of the ancient evolutionary origins of antibiotic resistance and has been increasingly recognized as a potentially vast unstudied reservoir of resistance genes with possibilities to exchange with pathogens.
+The MATE transporter and inactivation enzyme genes were only found from Tibet library.
 
-to investigate tetracycline resistance genes from soil bacteria in different habitats we performed functional analysis of three metagenomic libraries derived from soil samples collected from yunnan sichuan and tibet respectively in china.
+81406.doi Soil microbiota represents one of the ancient evolutionary origins of antibiotic resistance and has been increasingly recognized as a potentially vast unstudied reservoir of resistance genes with possibilities to exchange with pathogens.
 
-interestingly we also identified two tetracycline destructase genes belonging to a newly described family of tetracycline- inactivating enzymes that scarcely observed in clinical pathogens from the tibet library.
-
-it is now well accepted that resistance genes originated in environmental organisms long before the anthropogenic use of antibiotics        .
-
-growing evidences implicated that the resistance genes were transmitted between environmental bacteria and pathogens via horizontal gene transfer     .
-
-worse still the exchange of antibiotic resistance genes has also been found from soil to food-producing animals  .
-
-thus it emphasizes the important role of environmental bacteria as a vast reservoir of antibiotic resistance genes.
-
-it has also been suggested that these resistance genes in their original reservoirs may serve very different functions from the weapon-shield role they play in clinic.
+To investigate tetracycline resistance genes from soil bacteria in different habitats we performed functional analysis of three metagenomic libraries derived from soil samples collected from Yunnan Sichuan and Tibet respectively in China.
 

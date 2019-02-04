@@ -1,30 +1,20 @@
-while the initial inhibition in methane production was expected due to ionp cytotoxicity within the test reactors biomass stress had also been observed with the control reactors this observation implied that the use of insoluble microcrystalline cellulose as the substrate for anaerobic digestion within both the control as well as test reactors could have been also one of the contributing factors to biomass stress.analysis of the biomass stress on day zero indicated relatively high bsi values at 31.8 in the control and 30.9 in the test reactors which further increased by 72.2 shortly after ionp addition to a final value of 53.2 on day zero in the test reactors.
+While the initial inhibition in methane production was expected due to IONp cytotoxicity within the test reactors biomass stress had also been observed with the control reactors this observation implied that the use of insoluble microcrystalline cellulose as the substrate for anaerobic digestion within both the control as well as test reactors could have been also one of the contributing factors to biomass stress.Analysis of the biomass stress on day zero indicated relatively high BSI values at 31.8 in the control and 30.9 in the test reactors which further increased by 72.2 shortly after IONp addition to a final value of 53.2 on day zero in the test reactors.
 
-interestingly fe2 iron in the test reactors had simultaneously increased by 128 indicative of the presence of a dissimilatory iron reducing micro- bial community in comparison fe2 iron increase in the control reactors was found to be negligible fig.
+Briefly 2 mL of test sludge was mixed with 8 mL of 0.5 N hydrochloric acid taken in a capped test tube 2 glass beads were added into the mixture to enhance mixing.
 
-these were i control c1-c2 set which contained 140 ml of anaerobic inoculum sludge 1.53 grams microcrystalline cellulose powder mixed in 210 ml of deoxygenated water and 100 ml of deoxygenated water to obtain a final working volume of 450 ml ii test reactors t1-t2 which contained 140 ml anaerobic inoculum sludge 1.53 grams microcrystalline cellulose powder mixed in 210 ml of deoxygenated water and 100 ml of synthesized iron oxide nanoparticle suspension and iii blank reactors bl1-bl2 which comprised 140 ml anaerobic sludge and 310 ml deoxygenated and iron oxide nanoparticle blank reactors febl1-febl2 which contained 140 ml anaerobic sludge 210 ml deoxygen- ated water and 100 ml of synthesized iron oxide nanoparticle suspension.
+Assay Using a clean pipette tip 100 mL of the LumiSolve Stabilizer Tube mixture containing the test sample was added to 300 uL of Luminase taken in a clean12 x 55 mm assay test tube.
 
-the effect of iron oxide nanoparticles on the anaerobic digestion of microcrystalline cellulose was evaluated through the bmp test using the automatic methane potential test system ampts ii bioprocess control ab sweden designed for the automatic real-time monitoring of methane production during anaerobic digestion.
+Two tailed Student t-test with equal variance was used to determine statistical sig- nificance in the bioprocess results between the control and test systems as well as differences in the 16S rRNA gene copy numbers in the microbial populations between the control and iron oxide nanoparticles- augmented test reactors.
 
-two tailed student t-test with equal variance was used to determine statistical sig- nificance in the bioprocess results between the control and test systems as well as differences in the 16s rrna gene copy numbers in the microbial populations between the control and iron oxide nanoparticles- augmented test reactors.
+Supplementation of the anaerobic batch reactors digesting cellulose with iron oxide nanoparticles IONp resulted in a slight lag in methane production from the test reactors in comparison to the control.
 
-cytotoxic stress and loss of microbial numbers as a result of iron oxide nanoparticle addi- tion was reversed as anaerobic digestion progressed in the iron oxide nanoparticles-augmented test reactors.
+This event was likely due to the increased biomass stress exerted on the anaerobic sludge microbiota by the iron oxide nanoparticles which resulted in loss of microbial cell numbers within the test reactors Fig.
 
-previous studies have shown that dissimilatory iron reducing bacteria dirb produce pili-like appendages which can function as microbial nanowires in the presence of solid iron oxide aiding in iron reduction.
+However on day five a drop in pH from 8.1 to 7.1 indicative of increased hydrolytic and acidogenic activity was noted within the test reactors whereas within the control reactors the change in pH was not significant Table .
 
-biomass stress measured within the iron blank reactors containing only anaer- obic sludge inoculum and iron oxide nanoparticles similarly recorded an increase in bsi from 32.7 before nanoparticle addition to 51.4 after nanoparticle addition on day zero this clearly demonstrated the initial cytotoxicity of the iron oxide nanoparticles on the anaerobic sludge microbiota fig.
+and hydrogen gas detected within the test reactors.
 
-supporting this hypothesis scanning electron micrographs had revealed the presence of interspecies nanotubes interconnecting the microorganisms within both the control as well as test reactors from day 5 till the end of anaerobic digestion on day 20. the concentration of nanotubular structures was found to be higher in the test reactors in comparison to the control.
+The methane and carbon dioxide compositions of the biogas produced during anaerobic digestion has been presented in Table .Enhanced microbial syntrophy within the test reactors was followed by an improvement in methane produc- tion together with a significant increase p  0.05 in soluble COD from 124.9 mgL on day zero to 837.5 mgL Fig.
 
-briefly 2 ml of test sludge was mixed with 8 ml of 0.5 n hydrochloric acid taken in a capped test tube 2 glass beads were added into the mixture to enhance mixing.
-
-assay using a clean pipette tip 100 ml of the lumisolve stabilizer tube mixture containing the test sample was added to 300 ul of luminase taken in a clean12 x 55 mm assay test tube.
-
-supplementation of the anaerobic batch reactors digesting cellulose with iron oxide nanoparticles ionp resulted in a slight lag in methane production from the test reactors in comparison to the control.
-
-this event was likely due to the increased biomass stress exerted on the anaerobic sludge microbiota by the iron oxide nanoparticles which resulted in loss of microbial cell numbers within the test reactors fig.
-
-this suggested a slower acclimation process more than twice the time required by the iron oxide nanoparticles-supplemented test reactors.
-
-each of the data points represent the average values of four sample sets comprised of two duplicate analysis from each of the duplicate reactor sets blank iron blank control and test.
+The acetate concentration was determined to be 487.25 mgL within the test reactors and 23.65 mgL in the control reactors Fig.
 

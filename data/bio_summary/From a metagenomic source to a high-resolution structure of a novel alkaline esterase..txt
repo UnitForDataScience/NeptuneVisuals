@@ -1,0 +1,20 @@
+The three-dimensional structure of Est8 was determined at 1.85-A resolution allowing theElectronic supplementary material The online version of this articledoi4 contains supplementary material which is available to authorized users.characterization of the substrate-binding pocket and features that rationalize the preference of Est8 for short-chain sub- strates.
+
+The functional and structural characterization of Est8 is explored in comparison with orthologues.Keywords Esterase .
+
+The DNA of PL17.E10 was subcloned se- quenced and annotated.
+
+The three-dimensional structure of the protein was solved by crystallography and compared with other esterases in terms of residues from the ligand-binding site catalytic activity and characteristics of internal cavity.
+
+The alignment file was submitted to Mr. Bayes 3.2 Ronquist et al.
+
+The tree was constructed using maximum likelihood method with a bootstrap of 1000 repli- cates and the Whelan and Goldman WAG matrix of amino acid substitution.
+
+The forward 5' CGCGGAAT TCACA ATG GCACTCG ATC 3 '  and reverse  5 ' CGGG AAGCTTCCTCACGCCAGCGCC 3' oligonucleo- tides were used for the fragment amplification and insertion of the EcoRI and HindIII restriction enzymes sites underlined respectively in the start and final of the gene.
+
+The PCR product was directly cloned into pET28a plasmid Novagen Gibbstown NJ USA to generate the pET28a-est8 vector.
+
+The expressed protein from this construct presented a N-terminal His-tagged for further purification confirmed by DNA sequencing analysis.
+
+The mutagenesis was performed using two overlapping oligonucleotides 5' GACGGCGT GATCTGGTTCGGCGATC 3' and 5' GATCGCCGAACCAGATCACGCCGTC 3' that introduced the muta- tions in two steps of PCR reaction.
+

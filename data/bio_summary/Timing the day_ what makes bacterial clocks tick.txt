@@ -1,30 +1,20 @@
-this transient interaction stimulates the phosphorylation of kaic or inhibits dephosphory- lation thereby shifting the reaction towards phosphory- lation575863 and when s431 of kaic achieves the t432 ps431 state in the phosphorylation sequence kaib binds to kaic.
+This transient interaction stimulates the phosphorylation of KaiC or inhibits dephosphory- lation thereby shifting the reaction towards phosphory- lation575863 and when S431 of KaiC achieves the T432 pS431 state in the phosphorylation sequence KaiB binds to KaiC.
 
-in addition to displacing sasa from ci of kaic kaib forms a complex with ci domains that also stably sequesters and inactivates kaia so that kaia can no longer stimulate the phosphoryla- tion of kaic and kaic switches to its autophosphatase mode18414770 fig.
+In addition to displacing SasA from CI of KaiC KaiB forms a complex with CI domains that also stably sequesters and inactivates KaiA so that KaiA can no longer stimulate the phosphoryla- tion of KaiC and KaiC switches to its autophosphatase mode18414770 FIG.
 
-there is even evidence for a highly damped oscillation of the atpase activity of kaic in the absence of kaia and kaib19.however is the atpase hypothesis as the core pacemaker just an 'infinite regress' with another pro- cess underlying the slow rate given that many atp- hydrolysing reactions have very fast rates can we explain the sedate tempo of the kaic atpase a structural study identified features in the ci domain of kaic that might explain its slow atpase activity19.
+There is even evidence for a highly damped oscillation of the ATPase activity of KaiC in the absence of KaiA and KaiB19.However is the ATPase hypothesis as the core pacemaker just an 'infinite regress' with another pro- cess underlying the slow rate Given that many ATP- hydrolysing reactions have very fast rates can we explain the sedate tempo of the KaiC ATPase A structural study identified features in the CI domain of KaiC that might explain its slow ATPase activity19.
 
-elongatus which contains kaia kaib and kaic exhibitsgskaibfskaibconstantintrinsic rate of atphydrolysisdissociation of kaia and kaibphosphorylation initially stimulates atp hydrolysisinhibition of atp hydrolysis kaic switches toautophosphatase activity and kaia sequesteredfurther dephosphorylationkaic dephosphorylates partially by phosphotransfer and kaic monomers exchangefigure 3  the post-translational oscillator pto.
+Moreover an analysis of KaiC mutants in vivo and in vitro showed a strict correlation between the ATPase activity of KaiC and circadian frequency which implies that the circadian period depends directly on the energy that is providedby ATP hydrolysis1945.
 
-moreover an analysis of kaic mutants in vivo and in vitro showed a strict correlation between the atpase activity of kaic and circadian frequency which implies that the circadian period depends directly on the energy that is providedby atp hydrolysis1945.
+First a KaiC hexamer can exchange monomeric subunits with neighbouring hexamers596076 and this monomer exchange maintains synchrony of the phosphorylation status among the KaiC hexamers in the population6075.
 
-kaic interacts with competing kaib and sasa proteins to mediate the activity of transcriptional factors such as rpaa and rhythmic dna torsion to control global transcription levels including those that drive the expression of the essential clock genes kaia kaib and kaic.
+Therefore KaiC mono- mer exchange and KaiA sequestration ensure that KaiC hexamers remain synchronized in the PTO.The sun also rises for other bacteriaIn cyanobacteria all three Kai proteins are required for circadian oscillations in vivo and in vitro3839.
 
-first a kaic hexamer can exchange monomeric subunits with neighbouring hexamers596076 and this monomer exchange maintains synchrony of the phosphorylation status among the kaic hexamers in the population6075.
+exhibit light-dark-entrained daily transcription but not sustained oscillations under constant conditions83.Does this mean that all three Kai proteins are required for self-sustained circadian oscillations or is it possible that a circadian clock could be composed of KaiB and KaiC or even just KaiC aloneIn this context the example of purple bacteria may be instructive.
 
-therefore kaic mono- mer exchange and kaia sequestration ensure that kaic hexamers remain synchronized in the pto.the sun also rises for other bacteriain cyanobacteria all three kai proteins are required for circadian oscillations in vivo and in vitro3839.
+elongatus which contains kaiA kaiB and kaiC exhibitsgsKaiBfsKaiBConstantintrinsic rate of ATPhydrolysisDissociation of KaiA and KaiBPhosphorylation initially stimulates ATP hydrolysisInhibition of ATP hydrolysis KaiC switches toautophosphatase activity and KaiA sequesteredFurther dephosphorylationKaiC dephosphorylates partially by phosphotransfer and KaiC monomers exchangeFigure 3  The post-translational oscillator PTO.
 
-exhibit light-dark-entrained daily transcription but not sustained oscillations under constant conditions83.does this mean that all three kai proteins are required for self-sustained circadian oscillations or is it possible that a circadian clock could be composed of kaib and kaic or even just kaic alonein this context the example of purple bacteria may be instructive.
+The post-translational oscillator PTO is composed of rhythmic associations between KaiC purple KaiA blue and KaiB green or black to form a nanocomplex that regulates the ATPase and phosphorylation activities of KaiC.
 
-the post-translational oscillator pto is composed of rhythmic associations between kaic purple kaia blue and kaib green or black to form a nanocomplex that regulates the atpase and phosphorylation activities of kaic.
-
-kaia associates with hypophosphorylated kaic and stimulates the autophos- phorylation of kaic red circles indicate the added phosphates which accelerates the rate of atp hydrolysis.
-
-by contrast p. marinus and r. palustris which contain kaib and kaic exhibit daily rhythms of kaic phosphorylation during light-dark cycles that dampen rapidly under con- stant conditions fig.
-
-therefore the kaic gene of r. palustris has an important effect on growth and fitness in 24 h cyclic environments but not in non-24 h environments continuous conditions or cycles of 1 h of light and 1 h of darkness this result strongly implies that the fitness advantage of kaic in r. palus- tris is related to adaptation to environments that have a 24 h periodicity14.
-
-however the remarkable discovery that three cyanobacterial clock proteins kaia kaib and kaic could reconstitute a circadian oscillator in vitro for many days39 led to our current understand- ing of the clock system in cyanobacteria a biochemical oscillator is the core pacemaker which operates in and regulates a larger ttfl that in turn controls outputs and replenishes the essential proteins of the oscillator40-43 fig.
-
-3. kaic is a double hexamer that consists of two similarly sized rings ci and cii and a carboxy-terminal region in cii that interacts with kaia through protruding peptide 'tentacles' ref.
+KaiA associates with hypophosphorylated KaiC and stimulates the autophos- phorylation of KaiC red circles indicate the added phosphates which accelerates the rate of ATP hydrolysis.
 

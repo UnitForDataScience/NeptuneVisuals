@@ -1,30 +1,20 @@
-6 212-218godoy a. s. camilo c. m. kadowaki m. a. muniz h. d. espirito santo m. murakami m. t. nascimento a. s. and polikarpov i.
+6 212-218Godoy A. S. Camilo C. M. Kadowaki M. A. Muniz H. D. Espirito Santo M. Murakami M. T. Nascimento A. S. and Polikarpov I.
 
-nature 506 498 -502ndeh d. rogowski a. cartmell a. luis a. s. basle a. gray j. ven- ditto i. briggs j. zhang x. labourel a. terrapon n. buffetto f. nepogodiev s. xiao y. field r. a. et al.
+4 403- 416Turroni F. Bottacini F. Foroni E. Mulder I. Kim J.-H. Zomer A. Sanchez B. Bidossi A. Ferrarini A. Giubellini V. Delledonne M. Hen- rissat B. Coutinho P. Oggioni M. Fitzgerald G. F. et al.
 
-fitoterapia 71 463- 464metwally a. m. omar a. a. harraz f. m. and el sohafy s. m. 2010 phytochemical investigation and antimicrobial activity of psidium gua- java l. leaves.
+U.S.A. 105 18964 -18969Viborg A. H. Katayama T. Abou Hachem M. Andersen M. C. Nishimoto M. Clausen M. H. Urashima T. Svensson B. and KitaokaM.
 
-4 403- 416turroni f. bottacini f. foroni e. mulder i. kim j.-h. zomer a. sanchez b. bidossi a. ferrarini a. giubellini v. delledonne m. hen- rissat b. coutinho p. oggioni m. fitzgerald g. f. et al.
+The second GH42 BlArap42B gene with locus tag balac0053 was not differentially up-regulated by GOS 15 and belongs to a distinct not previously character- ized clade of bifidobacterial GH42 enzymes 16.This distinct clade is here shown to form a novel GH42 subfam- ily present throughout the bacterial kingdom which seems to have exclusive a-L-arabinopyranoside specificity as evaluated for the soluble intracellular BlArap42B using a panel of p-nitrophenyl pNP-substrates and oligosaccharides.
 
-lactis bl-04 encodes two gh42 enzymes 14. galacto-oligosaccharides gos were shown to up-regulate gene locus balac0848 15 experimentally verified to be a 316313-galactosidase blgal42a 13. the second gh42 blarap42b gene with locus tag balac0053 was not differentially up-regulated by gos 15 and belongs to a distinct not previously character- ized clade of bifidobacterial gh42 enzymes 16.this distinct clade is here shown to form a novel gh42 subfam- ily present throughout the bacterial kingdom which seems to have exclusive a-l-arabinopyranoside specificity as evaluated for the soluble intracellular blarap42b using a panel of p-nitrophenyl pnp-substrates and oligosaccharides.
+Viborg A. H. Fredslund F. Katayama T. Nielsen S. K. Svensson B.Author contributions--A. H. V. M. A. H. and B. S. conceived the study.
 
-u.s.a. 105 18964 -18969viborg a. h. katayama t. abou hachem m. andersen m. c. nishimoto m. clausen m. h. urashima t. svensson b. and kitaokam.
+Clearly the substrate specificity of the GH42 a-L-arabinopyra- nosidase was not changed to 3-galactosidase by these simple mutations.Phylogeny and active site motifs of GH42A phylogenetic and active site sequence motif analysis of GH42 a-L-arabinopyranosidases subfamily A and 3-galacto- sidases subfamily G divides GH42 into two subfamilies respectively Fig.
 
-42 d490 -d495sela d. a. chapman j. adeuya a. kim j. h. chen f. whitehead t. r. lapidus a. rokhsar d. s. lebrilla c. b. german j. b. price n. p. richardson p. m. and mills d. a.
+Both the side chains of Trp332 and Phe226 at subsite 1 and 2 sterically hinder the docking of paeonolide in agreement with the lack of activity for BlGal42A.present findings indicate that GH42 a-L-arabinopyranosi- dases have evolved from a common scaffold to target specific a-L-arabinopyranosides present in plant oligosaccharides.BlArap42B defines a novel GH42 a-L-arabinopyranosidase subfamilyApplying a phylogenetic and sequence analysis approach links the a-L-arabinopyranoside specificity of BlArap42B with a unique Trp-X12-Trp sequence motif at the active site as opposed to Phe- X12-His in classical bifidobacterial GH42 3-galactosidases Fig.
 
-u.s.a. 107 19514 -19519 13. viborg a. h. fredslund f. katayama t. nielsen s. k. svensson b.author contributions--a. h. v. m. a. h. and b. s. conceived the study.
+The kcat 240 s-1 and Km 0.074 mM values of BlArap42B toward its preferred substrate paeonolide are inthe same range as those of previously characterized GH42 enzymes toward their preferred substrates 13 24.Structural specificity determinants in GH42a-L-arabinopyranosidasesThe residues creating the spatial and chemical environment at subsite -1 are invariant in characterized GH42 3-galactosi- dases 13 18 22 26 27.
 
-clearly the substrate specificity of the gh42 a-l-arabinopyra- nosidase was not changed to 3-galactosidase by these simple mutations.phylogeny and active site motifs of gh42a phylogenetic and active site sequence motif analysis of gh42 a-l-arabinopyranosidases subfamily a and 3-galacto- sidases subfamily g divides gh42 into two subfamilies respectively fig.
+The molecular insights together with a deep phylogenetic analysis identify key struc- tural elements discriminating the GH42 a-L-arabinopyranosi- dases from the classical GH42 3-galactosidases.
 
-the kcat 240 s-1 and km 0.074 mm values of blarap42b toward its preferred substrate paeonolide are inthe same range as those of previously characterized gh42 enzymes toward their preferred substrates 13 24.structural specificity determinants in gh42a-l-arabinopyranosidasesthe residues creating the spatial and chemical environment at subsite -1 are invariant in characterized gh42 3-galactosi- dases 13 18 22 26 27. however the change from a histidine residue in classical gh42 3-galactosidases to trp358 in blarap42b limits the space at subsite -1 which would cause clashing with c6 of galactose in accordance with blarap42b being unable to hydrolyze 3-galactosides fig.
-
-both the side chains of trp332 and phe226 at subsite 1 and 2 sterically hinder the docking of paeonolide in agreement with the lack of activity for blgal42a.present findings indicate that gh42 a-l-arabinopyranosi- dases have evolved from a common scaffold to target specific a-l-arabinopyranosides present in plant oligosaccharides.blarap42b defines a novel gh42 a-l-arabinopyranosidase subfamilyapplying a phylogenetic and sequence analysis approach links the a-l-arabinopyranoside specificity of blarap42b with a unique trp-x12-trp sequence motif at the active site as opposed to phe- x12-his in classical bifidobacterial gh42 3-galactosidases fig.
-
-infantis encodes three gh42 3-galactosidases related to the utilization of the human milk oligosaccharide lacto-n-tetraose lnt 3-galactosides from bovine milk and arabinogalactan respectively 9. a sim-this work was supported by a grant-in-aid for japan society for the promo- tion of science jsps research fellowship to a. h. v. and jsps kakenhi grant numbers 15h02443 and 26660083 to s. f. the platform for drug discovery informatics and structural life science funded by mext and a technical university of denmark ph.d. fellowship to a. h. v.. the authors declare that they have no conflicts of interest with the contents of this article.theatomiccoordinatesandstructurefactorscode  havebeendepositedin the protein data bank .1 an international research fellow of the japan society for the promotion of science.
-
-77 1057-1065fraisse d. heitz a. carnat a. carnat a. p. and lamaison j. l. 2000 quercetin 3-arabinopyranoside a major flavonoid compound from al- chemilla xanthochlora.
-
-phytochemistry 57 929 -967vincken j. p. schols h. a. oomen r. j. mccann m. c. ulvskov p. voragen a. g. and visser r. g. 2003 if homogalacturonan were a sideres.
-
-glycobiology 22 361-368van laere k. m. abee t. schols h. a. beldman g. and voragen a. g. 2000 characterization of a novel 3-galactosidase from bifidobacterium adolescentis dsm 20083 active towards transgalactooligosaccharides.
+42 D490 -D495Sela D. A. Chapman J. Adeuya A. Kim J. H. Chen F. Whitehead T. R. Lapidus A. Rokhsar D. S. Lebrilla C. B. German J.
 

@@ -1,30 +1,20 @@
-for the oddhl stock solution lyophilized oddhl sigma-aldrich was reconstituted in dimethyl sulfoxide dmso at a concentration of 67.25 mm or 20 mgml the maximum solubility of oddhl in dmso.
+For the OdDHL stock solution lyophilized OdDHL Sigma-Aldrich was reconstituted in dimethyl sulfoxide DMSO at a concentration of 67.25 mM or 20 mgmL the maximum solubility of OdDHL in DMSO.
 
-rather 400 mm oddhl significantly decreased both mcf-10a apoptosis and necrosis under the 3dnormoxia condition compared to the 0.6 dmso control  .discussionthe analysis of the viability of mda-mb-231and mcf-10a cells in response to oddhl con- firmed our hypotheses that there would be reduced mda-mb-231 response to oddhl treat- ment in both hypoxia and in 3d while mcf-10a cells would show no such changes.
+Rather 400 mM OdDHL significantly decreased both MCF-10A apoptosis and necrosis under the 3Dnormoxia condition compared to the 0.6 DMSO control  .DiscussionThe analysis of the viability of MDA-MB-231and MCF-10A cells in response to OdDHL con- firmed our hypotheses that there would be reduced MDA-MB-231 response to OdDHL treat- ment in both hypoxia and in 3D while MCF-10A cells would show no such changes.
 
-oddhl may be differentially affecting the mda-mb-231 cells in comparison to the mcf-dcis.com cells due to its mesenchymal and highly metastatic characteristics however much more work needs to be done for confirmation of this hypothesis.in order to better understand the changes in viability for the breast cancer cells as measured by the alamarbluetm assay we next decided to examine the effect of oddhl on both cell proliferation400 mm oddhl treatment significantly increases necrosis of mda-mb-231 cells in all conditions.
+OdDHL may be differentially affecting the MDA-MB-231 cells in comparison to the MCF-DCIS.com cells due to its mesenchymal and highly metastatic characteristics however much more work needs to be done for confirmation of this hypothesis.In order to better understand the changes in viability for the breast cancer cells as measured by the alamarBluetm assay we next decided to examine the effect of OdDHL on both cell proliferation400 mM OdDHL treatment significantly increases necrosis of MDA-MB-231 cells in all conditions.
 
-this molecule was selected because pseudomonas was recently characterized as a significant fraction of the breast tissue microbiome and oddhl is documented to impact mammalian cell viability.after oddhl treatment we demonstrated the greatest decrease in viability with the more malignant mda-mb-231 cells and an intermediate mcf-dcis.com ductal carcinoma in situ response.
+This molecule was selected because Pseudomonas was recently characterized as a significant fraction of the breast tissue microbiome and OdDHL is documented to impact mammalian cell viability.After OdDHL treatment we demonstrated the greatest decrease in viability with the more malignant MDA-MB-231 cells and an intermediate MCF-DCIS.com ductal carcinoma in situ response.
 
-despite the previous research into oddhl the role of oddhl in the context of breast tumor microenvironmental stressors was still unknown.
+Despite the previous research into OdDHL the role of OdDHL in the context of breast tumor microenvironmental stressors was still unknown.
 
-for the experimental solu- tions the oddhl stock solution was added to the complete medium appropriate for the cell line as described above to create the highest concentration 400 mm oddhl solution.
+For the experimental solu- tions the OdDHL stock solution was added to the complete medium appropriate for the cell line as described above to create the highest concentration 400 mM OdDHL solution.
 
-the average percent reduction of alamarbluetm for each experimental group was divided by the average percent reduction of the 0 mm oddhl 0.6 dmso control to calculate a relative viability.edu assayan edu assay was performed to study the effect of oddhl on proliferation of cells in nor- moxia 2d hypoxia 2d and 3d normoxia.
+The average percent reduction of alamarBluetm for each experimental group was divided by the average percent reduction of the 0 mM OdDHL 0.6 DMSO control to calculate a relative viability.EdU assayAn EdU assay was performed to study the effect of OdDHL on proliferation of cells in nor- moxia 2D hypoxia 2D and 3D normoxia.
 
-it is possible that the response to oddhl is linked to epithelial-to-mesenchymal transition as it has previously been shown that oddhl has an effect on cytoskeletal proteins in multiple malignant cell lines  .
+It is possible that the response to OdDHL is linked to epithelial-to-mesenchymal transition as it has previously been shown that OdDHL has an effect on cytoskeletal proteins in multiple malignant cell lines  .
 
-a differences in the annexin v-fitc staining mean gray value mgv for mda-mb-231 cells treated with 400 mm oddhl normalized to 0.6 dmso control for 3dnormoxia 2dhypoxia and 2dnormoxia culture conditions n  3. b differences in the propidium iodide staining mgv for mda-mb-231 cells treated with 400 mm oddhl normalized to 0.6 dmso control for 3dnormoxia 2dhypoxia and 2dnormoxia culture conditions n  3   p-value  0.01   p-value  0.05based on least mean contrasts.
+While more work with cells representative of varying stages of progression needs to be com- pleted these preliminary data suggest that OdDHL may be more effective at suppressing the growth of more malignant or advanced breast cancer.Future studies investigating the possible role of tumor microenvironmental microbiota should establish if as is suggested here OdDHL suppresses highly malignant phenotypes.
 
-while more work with cells representative of varying stages of progression needs to be com- pleted these preliminary data suggest that oddhl may be more effective at suppressing the growth of more malignant or advanced breast cancer.future studies investigating the possible role of tumor microenvironmental microbiota should establish if as is suggested here oddhl suppresses highly malignant phenotypes.
-
-finally although we show that oddhl decreases breast viability through inhibition of proliferation as well as cell type and culture condition dependent induction of apoptosis andor necrosis future work should establish the cell signaling pathways associated with the differential responses to oddhl.
-
-however further studies into the mechanism of action of oddhl with our experi- mental conditions are required to see if this explanation also extends to our data.the breast cancer response to oddhl described above demonstrates that there is signifi- cant interaction between bacterial factors and chemical or physical stresses e.g.
-
-to test this we incubated human breast adenocarcinoma cells mda-mb-231 mcf-dcis.com and non-malignant breast epithelial cells mcf-10a with n-3-oxododecanoyl-l-homoserine lactone oddhl a quorum-sensing molecule from pseudomonas aeruginosa that regulates bacterial stress responses.
-
-our results provide evidence that bacterial quorum-sensing molecules interact with the host tissue environment to modu- late breast cancer viability and proliferation and that the effect of oddhl is dependent on both cell type as well as microenvironment.
-
-in an effort to address these questions we investigated interac- tions between the quorum-sensing molecule n-3-oxododecanoyl-l-homoserine lactone oddhl and the breast tumor relevant microenvironmental cues of a stiff collagen-derived tissue mimic and hypoxia.
+Finally although we show that OdDHL decreases breast viability through inhibition of proliferation as well as cell type and culture condition dependent induction of apoptosis andor necrosis future work should establish the cell signaling pathways associated with the differential responses to OdDHL.
 

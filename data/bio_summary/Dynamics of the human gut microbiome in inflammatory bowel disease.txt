@@ -1,30 +1,20 @@
-the random forests model was constructed using the first time point from each patient in the downstream analysis cohort and prediction accuracy was measured using the subsequent three time points ccd  11 patients icd without resection icd-nr  4 patients icd with resection icd-r  15 patients uc  30 patients and hc  7 patients.
+To compare distribution of samples relative to this healthy plane a generalized linear mixed effects model was fit withHalfvarson et al.Page 8a conditional Gamma distribution using disease type as a fixed effect and including a random subject effectTo assess the variation between samples in an orderly manner as described by the time point we measured the UniFrac weighted and unweighted distance between samples that occur sequentially for any given subject samples representing the final collection point do not have a value in these columns as there is no subsequent sample to compare to.We examined the power of differential abundance tests for the 16S data.
 
-4. recently the short-term 6 weeks dynamics of the microbiome in pediatric patients with active ibd treated with anti-tnf indicated that initiation of medical treatment changes the microbial composition at the genus level20.halfvarson et al.page 5because we had few anti-tnf exposed patients and our patients received a course of corticosteroids at flare as first line therapy we explored how corticosteroid administration influenced microbiome dynamics.
+Recently the short-term 6 weeks dynamics of the microbiome in pediatric patients with active IBD treated with anti-TNF indicated that initiation of medical treatment changes the microbial composition at the genus level20.Halfvarson et al.Page 5Because we had few anti-TNF exposed patients and our patients received a course of corticosteroids at flare as first line therapy we explored how corticosteroid administration influenced microbiome dynamics.
 
-2014 81403-1417. pubmed 24500617halfvarson et al.page 10sipponen t et al.
+3.Halfvarson et al.Page 3From the animated ordination of the samples Supplementary Video 1 we observed that although microbiome samples from the healthy individuals varied over time they were restricted to a small volume of the ordination space.
 
-although cross sectional studies have revealed dysbiosis of the gut microbiome in ibd8-12 little is known about the individual nature of microbiome dynamics in ibd beyond a study of 3 uc patients before and after ileostomy and two small studies of ibd patients in remission or during changes in disease activity13-15.
+The Random Forests model was constructed using the first time point from each patient in the downstream analysis cohort and prediction accuracy was measured using the subsequent three time points CCD  11 patients ICD without resection ICD-nr  4 patients ICD with resection ICD-r  15 patients UC  30 patients and HC  7 patients.
 
-we also included patient genetic load scores gls based on 163 known ibd risk loci for 29 patients to assess potential links between the host genetics ibd and the microbiome16.as expected from previous work1011 we found that hc and ibd subtypes formed distinct clusters by principal coordinates analysis pcoa of unweighted unifrac distances with icd patients least similar to healthy controls supplementary fig.
+Devising improved methods to detect the healthy state with non-invasive sampling to predict when the healthy state will be departed and to sustain the microbiome in thisHalfvarson et al.Page 6healthy state by erecting barriers that prevent the slip back into dysbiosis will be an important focus of future work.METHODSCohort DemographicsPatients with CD or UC the two major forms of IBD attending the outpatient clinic were consecutively invited to take part.
 
-2. the highest volatility was observed for icd patients that had previously undergone ileocecal resection icd-r followed by icd patients without surgery icd-nr based on unifrac distances between successive samples fig.
+Samples from patients with CCD and UC were closer to the HP and some samples did not differ significantly from healthy controls whereas ICD samples were the most distant from the HP Supplementary Video 1 Fig.
 
-4. patients receiving a course of oral corticosteroids n7 had more microbiome fluctuations than patients on stable medication n49 based on calculations of unweighted unifrac distance between time points wilcoxon signed-rank test p0.04.
+To address this limitation of unequal sampling of healthy individuals and IBD patients we compared the volatility of our healthy controls to healthy participants in two published studies the Student Microbiome Project SMP and the Moving Pictures MP datasets617.
 
-jh cjb yv-b jkj and rk wrote the majority of the text with input from all coauthors.halfvarson et al.page 2deregulated immune response to gut microbiome dysbiosis.
+These results help guide therapies that will re- direct the gut microbiome towards a healthy state and maintain remission in IBD.Both the state and the dynamics of the human gut microbiome in healthy individuals are highly personalized1-7.
 
-3.halfvarson et al.page 3from the animated ordination of the samples supplementary video 1 we observed that although microbiome samples from the healthy individuals varied over time they were restricted to a small volume of the ordination space.
+Interestingly in a recent study of obesity covering 339224 individuals the 97 risk loci for obesity accounted for only 2.7 of BMI variation25 whereas the microbiome classified lean from obese individuals with 90 accuracy26 providing precedent for the predictive value of the gut microbiome over human genetics in chronic disease.In summary by analyzing fecal samples collected every 3 months from a large IBD cohort we determined the long-term volatility of the gut microbiome in IBD.
 
-ileal inflammation may also influence bile salt uptake andhalfvarson et al.page 4consequently colonic transit time and microbiome volatility.
-
-using this model the ibd subtypes were discriminated from healthy controls and correctly predicted for 66.6 of samples supplementary table 2 consistent with the findings reported in gevers et al.
-
-devising improved methods to detect the healthy state with non-invasive sampling to predict when the healthy state will be departed and to sustain the microbiome in thishalfvarson et al.page 6healthy state by erecting barriers that prevent the slip back into dysbiosis will be an important focus of future work.methodscohort demographicspatients with cd or uc the two major forms of ibd attending the outpatient clinic were consecutively invited to take part.
-
-dna was quantified with the qubit 2.0 fluorometer invitrogen carlsbad ca according to the manufacturer's instructions.pcr amplification and library preparation were performed similarly to the protocol described by caporaso et al.29.
-
-amplificationhalfvarson et al.page 7was performed by 25 cycles of 94 degc for 45s 58 degc for 60s and 72 degc for 90s.
-
-in particular gls was calculated summing the number counts of risk alleles 012 at lead snp from each ibd risk locus n  163 according to jostins et al 201216.after performing principal coordinates analysis of the unweighted unifrac distance matrix the samples of hc were used to fit using the least squares method on the first three principal coordinates.
+Although cross sectional studies have revealed dysbiosis of the gut microbiome in IBD8-12 little is known about the individual nature of microbiome dynamics in IBD beyond a study of 3 UC patients before and after ileostomy and two small studies of IBD patients in remission or during changes in disease activity13-15.
 

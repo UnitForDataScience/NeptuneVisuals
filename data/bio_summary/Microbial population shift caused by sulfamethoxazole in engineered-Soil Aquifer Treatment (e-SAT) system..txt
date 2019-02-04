@@ -1,30 +1,20 @@
-2 plot of smx removal during each cycle in e-sat systemsmx removal and post run residual smx concentration in e-sat systemtwo litres volume of 20 ppm smx solution was fed into the e-sat at a constant flow rate of 0.3 mlmin.
+The soil extraction and subsequent HPLC analysis of residual SMX concentration in the experimental and control e-SAT sys- tem revealed biological removal of SMX in the experimen- tal e-SAT system thus eliminating the possibility of SMX removal by soil adsorption in the e-SAT system.
 
-the soil extraction and subsequent hplc analysis of residual smx concentration in the experimental and control e-sat sys- tem revealed biological removal of smx in the experimen- tal e-sat system thus eliminating the possibility of smx removal by soil adsorption in the e-sat system.
+2 Plot of SMX removal during each cycle in e-SAT systemSMX removal and post run residual SMX concentration in e-SAT systemTwo litres volume of 20 ppm SMX solution was fed into the e-SAT at a constant flow rate of 0.3 mlmin.
 
-world j microbiol biotechnol 2017 33121 doi 10.1007s11274-017-2284-8microbial population shift caused by sulfamethoxazole in engineered-soil aquifer treatment e-sat systemashwinkumar p. rudrashetti1  niti b. jadeja1  deepa gandhi1  asha a. juwarkar1  abhinav sharma1  atya kapley1  r. a. pandey1received 5 february 2017  accepted 11 may 2017  published online 18 may 2017c springer sciencebusiness media dordrecht 2017abstract the engineered-soil aquifer treatment e-sat system was exploited for the biological degrada- tion of sulfamethoxazole smx which is known to bio- accumulate in the environment.
+World J Microbiol Biotechnol 2017 33121 DOI 10.1007s11274-017-2284-8Microbial population shift caused by sulfamethoxazole in engineered-Soil Aquifer Treatment e-SAT systemAshwinkumar P. Rudrashetti1  Niti B. Jadeja1  Deepa Gandhi1  Asha A. Juwarkar1  Abhinav Sharma1  Atya Kapley1  R. A. Pandey1Received 5 February 2017  Accepted 11 May 2017  Published online 18 May 2017c Springer ScienceBusiness Media Dordrecht 2017Abstract The engineered-Soil Aquifer Treatment e-SAT system was exploited for the biological degrada- tion of Sulfamethoxazole SMX which is known to bio- accumulate in the environment.
 
-to under- stand the microbial community change and biological deg- radation of smx in e-sat system metagenomic analysis was performed for the soil samples before a-ebd and after smx exposure b-ebd in the e-sat.
+The aim of this study is to find out the degradation potential of labora- tory e-SAT systems for SMX and further to understand the shift in the microbial community of the e-SAT system after SMX treatment using metagenomic approach.Materials and methodsChemicalsAll chemicals and solvents used were either molecu- lar grade or HPLC grade.
 
-the aim of this study is to find out the degradation potential of labora- tory e-sat systems for smx and further to understand the shift in the microbial community of the e-sat system after smx treatment using metagenomic approach.materials and methodschemicalsall chemicals and solvents used were either molecu- lar grade or hplc grade.
+The experimental e-SAT was packed uniformly using collected soil samples consisting of dif- ferent particle sizes whereas the control e-SAT system was packed with the similar collected soil but the soil was sterilized autoclaved at 121 degC for 20 min before packing Lian et al.
 
-estimation of soil elements was carried out using microwave digestion followed by induc- tively coupled plasma-optical emission spectrometry icp-oes yafa and farmer .fabrication and packing of e-sat systemtwo e-sat systems were fabricated using acrylic mate- rial inner diameter 4.5 cm and length 62 cm comprising of inlet outlet and three sampling ports placed uniformly at 11 cm distances.
+The e-SAT column experiment and metagenomic data pre- sented in the manuscript are from a single experiment on e-SAT system.SMX concentration in the inlet and outlet fraction was monitored using High-Performance Liquid Chroma- tography HPLC as described by Rodayan et al.
 
-the experimental e-sat was packed uniformly using collected soil samples consisting of dif- ferent particle sizes whereas the control e-sat system was packed with the similar collected soil but the soil was sterilized autoclaved at 121 degc for 20 min before packing lian et al.
+To under- stand the microbial community change and biological deg- radation of SMX in e-SAT system metagenomic analysis was performed for the soil samples before A-EBD and after SMX exposure B-EBD in the e-SAT.
 
-prior to column operation the experimental e-sat system was acclimated for 10 days with the minimal medium in order to stabilize the rate of infiltration and enriched the microbial growth within e-sat system.
+Estimation of soil elements was carried out using microwave digestion followed by Induc- tively Coupled Plasma-Optical Emission Spectrometry ICP-OES Yafa and Farmer .Fabrication and packing of e-SAT systemTwo e-SAT systems were fabricated using acrylic mate- rial Inner diameter 4.5 cm and length 62 cm comprising of inlet outlet and three sampling ports placed uniformly at 11 cm distances.
 
-further both e-sat systems were fed with smx solution 20 ppm smx prepared in distil water through the inlet of e-sat column using a peristaltic pump at a flow rate of0.3 mlmin and at a linear flow rate of 0.19 mmmin.
+Prior to column operation the experimental e-SAT system was acclimated for 10 days with the minimal medium in order to stabilize the rate of infiltration and enriched the microbial growth within e-SAT system.
 
-the e-sat column experiment and metagenomic data pre- sented in the manuscript are from a single experiment on e-sat system.smx concentration in the inlet and outlet fraction was monitored using high-performance liquid chroma- tography hplc as described by rodayan et al.
-
-all samples were filtered using syringe filter 0.2 u before injection.post run residual smx concentration in e-sat systemthe residual smx concentration of soil in both experimen- tal and control e-sat was determined after 90 days of col- umn operation.
-
-metagenomic dna was isolated from composite soil sample prepared by mixing subsample of soil collected across the e-sat system to acquire maximum bacterial population across the e-sat system.
-
-in control e-sat system smx removal was very low only 12.64 ppm of smx wasremoved and 7.56 ppm was detected in outlet sample at end of fourth cycle.following 90th days of column operation the existence of any residual smx concentration in soil was analyzed using hplc in both experimental and control e-sat sys- tem.
-
-hplc analysis of soil extract revealed very low resid- ual smx concentration 0.73 ppm in the soil of experi- mental e-sat system compared to control e-sat system 10.44 ppm.metagenome sequencingthe libraries were prepared from the samples a-ebd and b-ebd metagenomic dna using truseq nano dna ht library sample preparation kit.
-
-removal of smx was more in the experimental e-sat system compared to the control e-sat system.
+Further both e-SAT systems were fed with SMX solution 20 ppm SMX prepared in distil water through the inlet of e-SAT column using a peristaltic pump at a flow rate of0.3 mlmin and at a linear flow rate of 0.19 mmmin.
 

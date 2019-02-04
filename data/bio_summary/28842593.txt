@@ -1,30 +1,20 @@
-the bonferroni corrected p-value was calculated from 100 randomizations of bacterial otus assignments of the gmb1 samples.table 4. pair-wise dissimilarity matrix between gmb1 samples based on bacterial otus.table 5. distribution of bacterial otus in the gmb1 samples.of the 186 abundant and 273 rare species shared between all the samples 36 which includes wolbachia and pseudomonas of the abundant and 6 species including acinetobacter of the rare were commonly present in all gmb1 samples.dynamics of the presence of pseudomonas and wolbachia in developmental stages of the asian rice gall midge.
+GMB1F rice gall midge biotype 1 female adult GMB1M rice gall midge biotype 1 male adult GMB1P rice gall midge biotype 1 pupae GMB1LS rice gall midge biotype 1 larvae isolated from susceptible host GMB1LR rice gall midge biotype 1 larvae isolated from resistant host.samples the rarefaction curves reached near plateau indicating that the sampling depth and sequencing coverage were good Fig.
 
-gmb1f rice gall midge biotype 1 female adult gmb1m rice gall midge biotype 1 male adult gmb1p rice gall midge biotype 1 pupae gmb1ls rice gall midge biotype 1 larvae isolated from susceptible host gmb1lr rice gall midge biotype 1 larvae isolated from resistant host.samples the rarefaction curves reached near plateau indicating that the sampling depth and sequencing coverage were good fig.
+Distribution of bacterial OTUs in the GMB1 samples.Of the 186 abundant and 273 rare species shared between all the samples 36 which includes Wolbachia and Pseudomonas of the abundant and 6 species including Acinetobacter of the rare were commonly present in all GMB1 samples.Dynamics of the presence of Pseudomonas and Wolbachia in developmental stages of the Asian rice gall midge.
 
-moreover it is believed that during the different stages of met- amorphosis there is a sterilization process at each stage and insects acquire new set of microbes at each stage .figure 5. distribution of abundant and rare bacterial population shared and specific in the gmb1 samples.a venn diagram and b bar chart showing distribution of abundant species shared and specific c venn diagram and d bar chart showing distribution of rare species shared and specific among the gmb1 samples.figure 6. a semi quantitative pcr and b image analyses of the agarose gel in 'a' for quantifying abundance of pseudomonas and wolbachia in different gmb1 samples.
+Distribution of abundant and rare bacterial population shared and specific in the GMB1 samples.a Venn diagram and b bar chart showing distribution of abundant species shared and specific c Venn diagram and d bar chart showing distribution of rare species shared and specific among the GMB1 samples.Figure 6. a Semi quantitative PCR and b image analyses of the agarose gel in 'a' for quantifying abundance of Pseudomonas and Wolbachia in different GMB1 samples.
 
-received 12 april 2017accepted 31 july 2017 published xx xx xxxxopenbacterial community structure in the asian rice gall midge reveals a varied microbiome rich in proteobacteriaabhishek ojha14 deepak kumar sinha1 a. p. padmakumari2 j. s. bentur3  suresh nair1the asian rice gall midge argm has emerged as a model gall forming pest of rice.
+Members of Proteobacteria were the predominant bacterial constituents in all GMB1 samples and this could be due to the fact that during the feeding stage of the Asian rice gall midge the maggots GMB1LS and GMB1LR could be actively recruiting Proteobacteria from the rice hosts and these then could be actively transferred from the maggots to the pupal stage and finally to adults-.
 
-members of proteobacteria were the predominant bacterial constituents in all gmb1 samples and this could be due to the fact that during the feeding stage of the asian rice gall midge the maggots gmb1ls and gmb1lr could be actively recruiting proteobacteria from the rice hosts and these then could be actively transferred from the maggots to the pupal stage and finally to adults-.
+Assessment of microbial diversity in the GMB1 sample using Principal Co-ordinate Analysis PCoA a unweighted 3-D visualization and b parallel visualization of UniFrac plots to reveal quantitative assessment of microbial diversity between the GMB1 samples.
 
-microscopic first instar rice gall midge maggot and lack of artificial diets make the studies on argmfigure 4. relative abundance of different bacterial communities among all the gmb1 samples at the level of a phyla and b genus.
+The diversity of microbial community structure in the GMB1 samples was estimated by alpha and beta diversity indices.
 
-approximately 37 of the sequences across all samples werefigure 3. assessment of microbial diversity in the gmb1 sample using principal co-ordinate analysis pcoa a unweighted 3-d visualization and b parallel visualization of unifrac plots to reveal quantitative assessment of microbial diversity between the gmb1 samples.
+We used 5 groups of alpha diversity diversity within sample indices to compare the species richness estimators observed OTUs Chao1 and PDwholetree and diversity index Shannon and Simpson index of the microbiome from each GMB1 sample and these index values were significantly different between the samples Table .
 
-bacterial variance in the gmb1 samples clearly separated gmb1ls gmb1lr gmb1p gmb1f and gmb1m samples in unweighted fig.
+However currently there is no information whether Wolbachia present within the ARGM exerts any influence on the rice - gall midge interaction.Pseudomonas a prominent constituent of Proteobacteria was also present in high numbers in all the GMB1 samples.
 
-even though bacterial sequences representing actinobacteria were secondfigure 2. heat map showing relative distribution and abundance of the otus among the gmb1 samples at phylum level.most abundant sequences it contributed approximately to 1.0 of the total bacterial sequences identified.
+Maggot GMB1LR and GMB1LS samples showed highest alpha diversity among the GMB1 samples.
 
-however currently there is no information whether wolbachia present within the argm exerts any influence on the rice - gall midge interaction.pseudomonas a prominent constituent of proteobacteria was also present in high numbers in all the gmb1 samples.
-
-whether a similar role is played by pseudomonas in the rice gall midge is yet to be elucidated.table 6. unclassified bacterial otus upto 0.1 cut off across the gmb1 samples.the microbiome of the argm was made up of both rare and abundant species.
-
-here we investigate and evaluate the argm-associated micro- biome in an effort to understand this interaction and derive meaningful insights into this interaction to evolve novel strategies to control this important insect pest of rice.we analysed the bacterial community composition in the asian rice gall midge argm biotype 1 using a next generation sequencing ngs protocol with illumina-miseq platform with focus on the v3-v4 hypervari- able region of 16s rrna bacterial gene.
-
-but more importantly we expect that the identification of constituents of the microbiome of the rice gall midge would yield valuable information regarding their likely role in the gall midge's interaction with its rice host- if any.
-
-however it is yet to be verified whether this dynamic variability in the occurrence of pseudomonas and wolbachia during the different stages of the midge's life cycle hints at their probable impor- tance during the developmental stages of the gmb1 within the host.comparison of microbial communities between asian rice gall midge and hessian fly.
-
-gmb1 is virulent on tn1 sus- ceptible to gmb1 compatible interaction and avirulent on rp resistant to gmb1 incompatible interaction.
+The rel- ative abundance of different bacterial phyla across all GMB1 samples were identified as follows Proteobacteria Actinobacteria Firmicutes Bacteroidetes Acidobacteria Chloroflexi Cyanobacteria TM7 Euryarchaeota Thermi NKB19 and Verrucomicrobia Fig.
 

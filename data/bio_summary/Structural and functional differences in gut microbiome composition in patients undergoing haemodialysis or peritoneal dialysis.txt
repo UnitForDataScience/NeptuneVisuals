@@ -1,30 +1,20 @@
-our study also underpins this finding since we found a negative correlation between alpha-diversity indices and age as well as crp in hd patients and crp was positively correlated with dial- ysis vintage suggesting that long-term hd is associated with increased inflammation possibly linked to dysbiosis.in addition to previously published data our study adds to the understanding of the role of the gut micro- biome in esrd because we studied hd and pd patients.
+Our study also underpins this finding since we found a negative correlation between alpha-diversity indices and age as well as CRP in HD patients and CRP was positively correlated with dial- ysis vintage suggesting that long-term HD is associated with increased inflammation possibly linked to dysbiosis.In addition to previously published data our study adds to the understanding of the role of the gut micro- biome in ESRD because we studied HD and PD patients.
 
-also hd removes uremia toxins in a discontinuous way whereas pd works continuously.since pd patients are less prone to hyperkalemia compared to hd patients dietary recommendations differ in pd compared to hd patients.
+Also HD removes uremia toxins in a discontinuous way whereas PD works continuously.Since PD patients are less prone to hyperkalemia compared to HD patients dietary recommendations differ in PD compared to HD patients.
 
-these findings raise the hypothesis that the gut microbiome as major contributor to bacterial translocation and inflammation might be involved in these differences.to determine the specific effects of hd and pd we therefore analysed the composition and the predicted func-tion of the faecal microbiome from adult hd and pd patients and relate it to clinical data co-medication comor- bidities inflammation and gut permeability since this may give pivotal information for optimized patient care.resultsfifty-one faecal samples from 21 healthy controls and 30 esrd-patients were assessed.
+These findings raise the hypothesis that the gut microbiome as major contributor to bacterial translocation and inflammation might be involved in these differences.To determine the specific effects of HD and PD we therefore analysed the composition and the predicted func-tion of the faecal microbiome from adult HD and PD patients and relate it to clinical data co-medication comor- bidities inflammation and gut permeability since this may give pivotal information for optimized patient care.ResultsFifty-one faecal samples from 21 healthy controls and 30 ESRD-patients were assessed.
 
-alpha diversity as measured by chao1 index was significantly lower in hd and pd patients compared to controls p  0.05 but did not differ between hd and pd patients fig.
+Alpha Diversity as measured by Chao1 index was significantly lower in HD and PD patients compared to controls p  0.05 but did not differ between HD and PD patients Fig.
 
-chao1 index is significantly higher in controls compared to hd 0.0015 or pd p 0.003. there is no difference in species richness between hd and pd.2500200015001000500025002000150010005000a406080agecb806040200406080aged8060402000102030crp0102030crpfigure 2. correlation between the alpha diversity measures observed species and phylogenetic distance and age as well as crp.
+While the gut microbiome composition of HD and PD patients did not differ from controls on phylum level the following classes were differentially abundant Bacilli Epsilonproteobacteria and Gammaproteobacteria were highest in HD Alphaproteobacteria were highest in PD and Erysipelotrichia was highest in controls.
 
-while the gut microbiome composition of hd and pd patients did not differ from controls on phylum level the following classes were differentially abundant bacilli epsilonproteobacteria and gammaproteobacteria were highest in hd alphaproteobacteria were highest in pd and erysipelotrichia was highest in controls.
+Both OTUs were also identified by supervised learning as the most important discriminators between HD and PD patients.In our cohort 7 patients died during follow up median follow up 17 1529 months all of them from the HD group.
 
-both otus were also identified by supervised learning as the most important discriminators between hd and pd patients.in our cohort 7 patients died during follow up median follow up 17 1529 months all of them from the hd group.
+Further studies are required to assess the role of nutrition the prognostic implications and potential therapeutic targets in this population.In summary our study shows for the first time taxonomic composition of the faecal microbiome in adult patients with ESRD is different in patients undergoing HD and PD with a more pronounced dysbiosis in HD.
 
-the reason for this apparent discrepancy in our study could be based on the small sample size and the high inter-individual variation of these markers in stool since increased gut permeability and subsequent bacterial translocation is already well described especially in hd patients-.figure 6. biomarker of inflammation gut permeability and intestinal inflammation faecal calprotectin in hd pd and controls.
+Since dialysis modalities may differently influence the gut microbiome we aimed to compare the effects of haemodialysis HD and peritoneal dialysis PD on patients' gut microbiome composition and function.
 
-further studies are required to assess the role of nutrition the prognostic implications and potential therapeutic targets in this population.in summary our study shows for the first time taxonomic composition of the faecal microbiome in adult patients with esrd is different in patients undergoing hd and pd with a more pronounced dysbiosis in hd.
+We therefore studied faecal microbiome composition and function as well as inflammation and gut permeability in 30 patients with ESRD15 HD 15 PD and compared to 21 healthy controls.
 
-since dialysis modalities may differently influence the gut microbiome we aimed to compare the effects of haemodialysis hd and peritoneal dialysis pd on patients' gut microbiome composition and function.
-
-we therefore studied faecal microbiome composition and function as well as inflammation and gut permeability in 30 patients with esrd15 hd 15 pd and compared to 21 healthy controls.
-
-we found an increase in potentially pathogenic species and a decrease in beneficial species in patients on hd and to a lesser extend in patients on pd when compared to controls.
-
-in hd but not in pd changes in microbiome composition were associated with an increase in c-reactive protein crp but not withintestinal inflammation or gut permeability.
-
-recently pd was associated with stronger changes in diversity and microbiome composition compared to hd in paediatric patients however no correlation between diversity and inflammation was observed.
-
-recently it has been shown that patients undergoing hd have a 2.4 fold higher risk of death compared to pd patients in a large pro- pensity matched study that could not be attributed to initial use of central venous catheters or lack of pre-dialysis care.
+We found an increase in potentially pathogenic species and a decrease in beneficial species in patients on HD and to a lesser extend in patients on PD when compared to controls.
 

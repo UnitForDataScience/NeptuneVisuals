@@ -1,0 +1,20 @@
+included MAT MAP elevation and AHM which were highly intercorrelated all r  0.60-0.97 and therefore suitable as indicators for the latent 'climate' vari- able and NO3- pH and soil organic matter SOM as soil property variables.RESULTSClimate and soil chemical characteristicsThe Sonoran and Mojave Deserts had similar MATs which were at least 8.4C higher than the Great Basin Desert Table .
+
+Because there was no residual effect of geographic distance once climate and soil properties were partitioned out we suggest our study captured the main factors driving the divergence of prokaryotic commu- nities across geographic distance.Among the factors we measured climate and soil proper- ties best explained Aridisol microbial community differentia- tion with climate having a much stronger influence on micro- bial communities than soil properties supporting hypothesis 3a.
+
+Reductions in daily soil temperature variability increase soil mi- crobial biomass C and decrease soil N availability in the Chihuahuan Desert potential implications for ecosystem C and N fluxes.
+
+10INTRODUCTIONIn arid environments extreme temperature fluctuations soil moisture content and plant traits influence soil microorganisms Collins et al.
+
+While there is a large body of work on a subset of desert soil microorganisms-- for example the autotrophic component of biological soil crusts e.g.
+
+used a structural equation modeling SEM approach on high- throughput sequencing data to separate the direct and indirect effects of aridity on microbial diversity and total abundance in arid systems globally however metrics of diversity and abun- dance do not address whether communities are compositionally distinct along climate and soil gradients.The purpose of this study was to assess the spatial structur- ing of soil microbial communities across the arid Southwest of the United States and to determine what factors drive these pat- terns.
+
+Finally we hypothesized that 3a climate would be the most important variable structuring soil microbial communities of the Desert Southwest because it has been identified as a com- mon driver of soil microbial communities at regional and conti- nental scales Ettema and Wardle  Fierer and Jackson  Lauber et al.
+
+Samples were stored on dry ice and transported to the laboratory where DNA was extracted.Physical and chemical soil propertiesThe five replicates at each site were combined to create a com- posite soil sample.
+
+All macro- and micronutrients were analyzed by inductively coupled plasma-atomic emission spec- troscopy.DNA extraction and sequencing of 16S rRNA genesBecause soil microbial communities are spatially more variable than soil chemical properties Ettema and Wardle  we se- quenced all replicates at a site to better capture the true diver- sity within these soils.
+
+However geographic distance did not directly influence the composition of soil mi- crobial communities in the Desert Southwest as this correlation was not significant when the partial correlations of other vari- ables were considered partial Mantel r  0.0052 P  0.45 rather the influence of geographic distance was indirect through as- sociations with climate partial Mantel r  0.30 P  0.001 and soil properties partial Mantel r  0.49 P  0.001.
+

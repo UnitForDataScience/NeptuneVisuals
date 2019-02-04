@@ -1,30 +1,20 @@
-despite no changes in the relative abundance of dominant intestinal phyla as represented by the faeces across weaning at either weaning age the gradual increase in solid feed consumption of late-weaned calves resulted in the rumen harbouring a microbial consortium sufficient to perform the major fermentative and metabolic functions prior to weaning and as such the level of physiological stress associated with the weaning transition was not as severe as observed in early-weaned calves.methodsanimal experiment and sample collection.
+Despite no changes in the relative abundance of dominant intestinal phyla as represented by the faeces across weaning at either weaning age the gradual increase in solid feed consumption of late-weaned calves resulted in the rumen harbouring a microbial consortium sufficient to perform the major fermentative and metabolic functions prior to weaning and as such the level of physiological stress associated with the weaning transition was not as severe as observed in early-weaned calves.MethodsAnimal Experiment and Sample Collection.
 
-considering this in the current study we investigated whether weaning age is a determining factor in the extent of microbial shifts in the rumen and faeces during weaning to better understand why calf growth slows during the weaning transition.
+Considering this in the current study we investigated whether weaning age is a determining factor in the extent of microbial shifts in the rumen and faeces during weaning to better understand why calf growth slows during the weaning transition.
 
-despite different weaning ages the magnitude of change at weaning in these two ruminal phyla was similar across all calves p 0.969. additionally the ratio of bacteroidetes to firmicutes in the rumen decreased p  0.001 by 61 vs. 67 at the respective times of weaning in early- and late-weaned calves respec- tively.
+.DiscussionRecently we showed that weaning age 6 vs. 8 weeks of age differentially affects physiological development of a calf fed a high plane of pre-weaning nutrition 8 Ld including growth during the transitional period where later weaning promoted beneficial effects on growth and intake during weaning and thereafter.
 
-.discussionrecently we showed that weaning age 6 vs. 8 weeks of age differentially affects physiological development of a calf fed a high plane of pre-weaning nutrition 8 ld including growth during the transitional period where later weaning promoted beneficial effects on growth and intake during weaning and thereafter.
+Our results indicate weaning later facilitates a more gradual shift in microbiota and could potentially explain the negative effects of early-weaning associated with feeding a high-plane of pre- weaning nutrition.The progressive microbial colonization of the ruminant intestinal tract begins at birth with the random acqui- sition of microbes from the animals' surroundings.
 
-our results indicate weaning later facilitates a more gradual shift in microbiota and could potentially explain the negative effects of early-weaning associated with feeding a high-plane of pre- weaning nutrition.the progressive microbial colonization of the ruminant intestinal tract begins at birth with the random acqui- sition of microbes from the animals' surroundings.
+Conversely a-diversity of faecal microbiota was not affected by the interaction of weaning age x calf age or weaning age P  0.10 Table .
 
-conversely a-diversity of faecal microbiota was not affected by the interaction of weaning age x calf age or weaning age p  0.10 table .
+Despite different weaning ages the magnitude of change at weaning in these two ruminal phyla was similar across all calves P 0.969.
 
-however no difference p  0.05 between the two weaning groups was observed in this ratio at the time of weaning.
+However no difference P  0.05 between the two weaning groups was observed in this ratio at the time of weaning.
 
-several other phyla were affected p  0.035 by weaning in early-weaned calves includingfigure 1. similarities of ruminal and faecal microbiota compared across weaning age early-weaned wk 6 vs. late-weaned wk 8 and calf age wk 5 wk 7 and wk 9. distance between the samples based on similarityin otu composition otu similarity 97 calculated using weighted unifrac distance in the a rumen and b faeces were visualised in principal coordinates analysis pcoa plots.
+Relative abundance of this genera declined P  0.001 at weaning however the magnitude of this decrease was similar despite different weaning ages av.
 
-the impact of weaning age xcalf age on the clustering pattern of microbial communities was tested using permanova implemented in primer-6 software significance was declared when p 0.05. within the rumen weaning age xcalf age differed p 0.035 across all ages and groups with the exception p 0.05 of early- versus late-weaned calves at 9 weeks of age which were similar.
+Conversely an unclassified genus in f. Ruminococcaceae was the second most abundant taxa in post-weaned calves following similar increases P 0.036 at weaning regardless of weaning age.Correlation between Rumen and Faecal Microbiota and Calves Physiological Variables.
 
-additionally weaning at 6 weeks early-weaning causedfigure 3. correlation between ruminal microbiota and calf age and weaning strategy.
-
-relative abundance of this genera declined p  0.001 at weaning however the magnitude of this decrease was similar despite different weaning ages av.
-
-conversely an unclassified genus in f. ruminococcaceae was the second most abundant taxa in post-weaned calves following similar increases p 0.036 at weaning regardless of weaning age.correlation between rumen and faecal microbiota and calves physiological variables.
-
-subsequently in this study we sought to characterise the shift in ruminal and faecal microbiota representative of the intestinal microbiome which occurs across weaning in calves weaned at 6 and 8 weeks of age to elucidate if changes in the microbial structure could be responsible for the observed production effects reported previously.a comparison of all calves showed that species richness chao1 index within the rumen and faeces were con- stant across all ages regardless of calf weaning age table.
-
-this may indicate that although the microbial profile was similar its functional potential may have evolved differently as a result of different weaning ages.weaning of calves shifted the dominant ruminal phyla from bacteroidetes in pre-weaned calves to firmicutes in post-weaned calves regardless of their age at weaning fig.
-
-two additional ruminal genera which showed contrasting changes depending on the age at weaning included dialister and shuttleworthia both of which increased dramatically in early-weaned calves but showed no differences in late-weaned calves across weaning fig.
+Subsequently in this study we sought to characterise the shift in ruminal and faecal microbiota representative of the intestinal microbiome which occurs across weaning in calves weaned at 6 and 8 weeks of age to elucidate if changes in the microbial structure could be responsible for the observed production effects reported previously.A comparison of all calves showed that species richness chao1 index within the rumen and faeces were con- stant across all ages regardless of calf weaning age Table.
 

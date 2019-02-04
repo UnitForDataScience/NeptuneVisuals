@@ -1,28 +1,20 @@
-activity values obtained at 25oc for lip1pc 30oc for pmgl2 and 45oc for pmgl3 were taken as 100. c - e. coli clones expressing lip1pc 1 pmgl2 2 and pmgl3 3 on tribytyrin agar plate.
+Alignment of amino acid sequences of Lip1Pc from Psychrobacter cryohalolentis K5T PMGL2 and PMGL3 from the permafrost metagenomic library.
 
-925fiw046 doi fic 2017 taylor  francisbioengineered421figure 1. alignment of amino acid sequences of lip1pc from psychrobacter cryohalolentis k5t pmgl2 and pmgl3 from the permafrost metagenomic library.
+Multiple alignment of Lip1Pc PMGL2 and PMGL3 revealed only low level of sequence homology between them 22-28 while the positions of 3 putative catalytic residues are well con- served .
 
-multiple alignment of lip1pc pmgl2 and pmgl3 revealed only low level of sequence homology between them 22-28 while the positions of 3 putative catalytic residues are well con- served .
+In PMGL3 2 adjacent carboxylic resi- dues Asp242 and Glu243 could be aligned with putative catalytic aspartates of Lip1Pc and PMGL2.
 
-in pmgl3 2 adjacent carboxylic resi- dues asp242 and glu243 could be aligned with putative catalytic aspartates of lip1pc and pmgl2.
+In Lip1Pc it contains a typical aspartate residue GDSAG while in PMGL3 this aspartate is substituted for a glutamate GESAG.
 
-in lip1pc it contains a typical aspartate residue gdsag while in pmgl3 this aspartate is substituted for a glutamate gesag.
+On the con- trary PMGL2 and PMGL3 contain less lysines more prolines and arginines than Lip1Pc.
 
-on the con- trary pmgl2 and pmgl3 contain less lysines more prolines and arginines than lip1pc.
+At the same time the content of glycine residues is higher in these pro- teins 9.2-9.3 in comparison with 5.6 in Lip1Pc.
 
-at the same time the content of glycine residues is higher in these pro- teins 9.2-9.3 in comparison with 5.6 in lip1pc.
+Selected amino acid residues content  in the protein sequences of Lip1Pc PMGL2 and PMGL3.Amino acid residueLip1PcPMGL2PMGL3Qcold-adaptedphenotype.
 
-the purified pmgl3 demonstrated the highest catalytic activity toward p-nitrophenyl butyrate c4 and p-nitrophenyl octanoate c8 at ph 8.5. study of the temperature dependence of the esterase activity of pmgl3 using c4 substrate revealed that it possesses maximum activity at 30oc similar to the cold-adapted esterases from the arctic sediment metagenome.activity attable 1. selected amino acid residues content  in the protein sequences of lip1pc pmgl2 and pmgl3.amino acid residuelip1pcpmgl2pmgl3qcold-adaptedphenotype.
+Temperature dependence of Lip1Pc -- PMGL2 -- and PMGL3 - - esterase activity.
 
-e. petrovskaya et al.figure 2. temperature dependence of lip1pc -- pmgl2 -- and pmgl3 - - esterase activity.
+Activity values obtained at 25oC for Lip1Pc 30oC for PMGL2 and 45oC for PMGL3 were taken as 100.
 
-the maximum activity of pmgl2 with c4 substrate was achieved at 45oc and lip1pc possessed a temperature optimum at 25oc.
-
-similar activity pattern was also observed for the cold-active carboxyl esterase from oleispira antarcticalipases eml1and estkt4.the esterase activity of the 3 enzymes was confirmed by the appearance of clearfigure 3. effect of temperature on the stability of lip1pc pmgl2 and pmgl3.
-
-enzymes were incubated in 50 mm ches ph 8.5 at 30 40 and 50oc for 60 min and remaining activity was measured with p-nitrophenyl butyrate as a substrate at their optimal temperatures.halos around the colonies of the expressing strains on tributyrin agar plates .analysis of the remaining lipolytic activity after initial incubation at different temperatures revealed that after 1 h at 30oc all 3 enzymes demonstrated relatively good stability  while treatment at 40oc resulted in the loss of 50 of the activity by pmgl3 and 85 by lip1pc.
-
-incubation at 50oc led to almost complete inactivation of lip1pc and pmgl3 while pmgl2 still preserved 65 of its activity .
-
-consequently lip1pc and pmgl3 can be attributed to cold-adapted enzymes and pmgl2 demonstrates mesophilic behavior.
+C - E. coli clones expressing Lip1Pc 1 PMGL2 2 and PMGL3 3 on tribytyrin agar plate.
 

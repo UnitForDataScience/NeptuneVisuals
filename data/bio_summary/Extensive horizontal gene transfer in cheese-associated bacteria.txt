@@ -1,30 +1,20 @@
-free amino acids iron as well as tolerate cell stress  we predicted that hgt might be widespread in cheese rind microbiomes and therefore might provide a useful experimental model for hgt within microbial communities.we sought to determine the diversity distribution and functional content of hgt in bacterial species isolated from cheese rinds.
+free amino acids iron as well as tolerate cell stress  we predicted that HGT might be widespread in cheese rind microbiomes and therefore might provide a useful experimental model for HGT within microbial communities.We sought to determine the diversity distribution and functional content of HGT in bacterial species isolated from cheese rinds.
 
-specifically we predicted that 1 hgt would be widespread 2 hgt genes would be enriched for functions related to survival in cheese environment and 3 there would be uneven distribution of hgt events across taxa.
+Specifically we predicted that 1 HGT would be widespread 2 HGT genes would be enriched for functions related to survival in cheese environment and 3 there would be uneven distribution of HGT events across taxa.
 
-whether inde- pendent hgt events occur within each cheese production and aging facility or whether they occurred before the widespread distribution of these microbes across cheese produc- tion regions is unknown.a potential mechanism of transfer and source of the actinobacterial rustito begin to understand potential mechanisms which could mediate hgt in cheese-associated bacte- ria we analyzed the sequences surrounding the rusti region of glutamicibacter jb182.
+Whether inde- pendent HGT events occur within each cheese production and aging facility or whether they occurred before the widespread distribution of these microbes across cheese produc- tion regions is unknown.A potential mechanism of transfer and source of the Actinobacterial RUSTITo begin to understand potential mechanisms which could mediate HGT in cheese-associated bacte- ria we analyzed the sequences surrounding the RUSTI region of Glutamicibacter JB182.
 
-because this analysis depends on the species included for comparison this list of hgt is almost certainly an underestimate.as multiple genes can be transferred in a single hgt event we next assembled the putative hgt genes into groups based on genomic proximity.
+Because this analysis depends on the species included for comparison this list of HGT is almost certainly an underestimate.As multiple genes can be transferred in a single HGT event we next assembled the putative HGT genes into groups based on genomic proximity.
 
-sequencing of penicillium species isolated from the cheesemaking environment identified hgt of large genomic islands between these key fungal inhabitants of cheese   .during the aging of traditional styles of cheese in caves or aging rooms bacteria and fungi form a multi-species biofilm called the rind .
+Sequencing of Penicillium species isolated from the cheesemaking environment identified HGT of large genomic islands between these key fungal inhabitants of cheese   .During the aging of traditional styles of cheese in caves or aging rooms bacteria and fungi form a multi-species biofilm called the rind .
 
-these data support previous studies that show hgt is an important factor in the evolu- tion of microbial communities  and suggest that cheese rind com- munities may provide a useful model for studying this process in greater detail.for this study we focused on bacterial members of the cheese microbiome but many cheeses also contain numerous fungal species.
+These data support previous studies that show HGT is an important factor in the evolu- tion of microbial communities  and suggest that cheese rind com- munities may provide a useful model for studying this process in greater detail.For this study we focused on bacterial members of the cheese microbiome but many cheeses also contain numerous fungal species.
 
-molecular microbiology 51405-1413.  pmid cheung al ying p. 1994. regulation of alpha- and beta-hemolysins by the sar locus of staphylococcus aureus.journal of bacteriology 176580-585.  pmid cocconcelli ps cattivelli d gazzola s. 2003. gene transfer of vancomycin and tetracycline resistances among enterococcus faecalis during cheese and sausage fermentations.
+As a model system the cheese rind microbiome is relatively simple to work with because cheese rind is easy to replicate in the laboratory and the microbes growing on cheese can be grown on their own or in combinations with other microbes.
 
-as a model system the cheese rind microbiome is relatively simple to work with because cheese rind is easy to replicate in the laboratory and the microbes growing on cheese can be grown on their own or in combinations with other microbes.
+The movement of microbes to new environments has been shown to increase both the rate and impact of HGT and HGT is most frequent for genes under positive selec- tion .
 
-the movement of microbes to new environments has been shown to increase both the rate and impact of hgt and hgt is most frequent for genes under positive selec- tion .
+At the same time a lower maximum ANI cutoff may exclude legitimate HGT events especially considering that closely related species are also more likely to engage in HGT.
 
-at the same time a lower maximum ani cutoff may exclude legitimate hgt events especially considering that closely related species are also more likely to engage in hgt.
-
-in other cases a single species may have genes in a single group spread across multiple contigs   but this may accurately represent a single hgt event.most hgt groups identified 231 87.5 contain only members of the same phylum or even asingle genus 183 or 69 .
-
-indeed the appearance of phage-related genes transposases and other mobile elements in many hgt groups suggests that we are observing the results of multiple methods for mobilizing dna.our method for identifying hgt does not permit determination of the direction of gene flow and indeed it seems likely that the original sources of many of these genetic elements are not pres- ent in our dataset.
-
-the need to screen for clinically relevant ele- ments such as antibiotic resistance genes is widely recognized  but other mobile gene elements from these organisms may also enter native microbial populations with unknown consequences.although we and others have observes a large number of hgt events in microbial species across a diverse range of environments    the biotic and abiotic conditions that affect this frequency and what effects hgt may have on the community remain unclear.
-
-a model system to study hgt in a community context is particu- larly important as sequence-based characterization of complex communities has particular limita- tions when it comes to hgt.
-
-these results suggest that hgt is prevalent in cheese rind microbiomes and that identification of genes that are frequently transferred in a particular environment may provide insight into the selective forces shaping microbial communities.for correspondence rjdutton ucsd.educompeting interests the authors declare that no competing interests exist.funding received 06 october 2016accepted 20 june 2017published 23 june 2017reviewing editor kim handley the university of auckland new zealandcopyright bonham et al.
+In other cases a single species may have genes in a single group spread across multiple contigs   but this may accurately represent a single HGT event.Most HGT groups identified 231 87.5 contain only members of the same phylum or even asingle genus 183 or 69 .
 

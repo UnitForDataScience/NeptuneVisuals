@@ -1,30 +1,20 @@
-moreover our findings also demonstrate the necessity of considering the gut symbiotic bacteria of insects during the implementation of novel pest control measures because the generation times of bacteria are consider- ably shorter than those of the host insects the evolution of insecticide resistance in insects may proceed much more rapidly via symbiont-mediated processes.conclusionswe document a novel mechanism of insecticide resistance in which a gut bacterium citrobacter freundii of bactro- cera dorsalis enhances the fruit flies' resistance to trichlor- phon and we experimentally demonstrated that c. freundii degrades trichlorphon into chloral hydrate and dimethylphosphite.
+Then cohorts of 15 RS flies each were fed with a trichlorphon solution and the number of dead flies was counted after 24 h. The trichlor- phon concentrations were 0 mgL 25 x 10-3 mgL50 x 10-3 mgL 100 x 10-3 mgL and 200 x 10-3 mgL.As control newly emerged RS flies were fed pure water and after 3 days provided trichlorphon in cohorts of 15 flies each.
 
-according to clsi standards the cultures were classified as sensitive s medium i or resistant r. plates containing 1 x 10-3 mgl trichlorphon were also prepared to test the sensitivity of the bacteria to trichlorphon with a 10-ml inoculum and an incubation period of 24 h. as a control plates without trichlorphon were prepared and incubated with inocula.
+We determined that CF-BD isolated from fruit flies was able to degrade trichlorphon and enhance the resistance of the flies to trichlorphon.
 
-for each trichlorphon concentration three replicates were performed.testing of the trichlorphon degradation characteristics of purified bacteriamineral medium mm was prepared containing the following salts gl nacl 1.00 nh42so4 1.00 k2hpo4 1.50 kh2po4 0.50 and mgso47h2o 0.50ph 7.0-7.5. the enrichment medium was prepared by adding trichlorphon to mm at a concentration of100 mgl.
+Moreover the RS flies that were fed the streptomycin solution were more sensitive to trichlorphon than the RS flies two-way ANOVA F  66.905 df  1 p  0.0001 LC50 89.78 mgL for RS streptomycin LC50  133.31 mgL for RS Fig.
 
-we determined that cf-bd isolated from fruit flies was able to degrade trichlorphon and enhance the resistance of the flies to trichlorphon.
+As control newly emerged SS flies were fed pure water and after 3 days provided trichlorphon solu- tions in cohorts of 15 flies each.
 
-trichlorphon dimethyl 2 2 2-trichloro-1-hydro- xyethyl phosphate is a moderately toxic organophosphate insecticide that has been widely used to control this pest because of its low toxicity to humans and its high efficacy however resistance to this pesticide in b. dorsalis has been increasing thus threatening the effective manage- ment of the oriental fruit fly.several studies have been performed to elucidate the mechanism of b. dorsalis resistance to trichlor- phon  .
+For each trichlorphon concentration three replicates were performed.Resistance of flies cleared of CF-BDMore than 300 newly emerged RS flies were fed a streptomycin solution for 2 days to clear them of bacteria.
 
-tr trichlorphon-enriched plates ck control platesthat increases in cf-bd in the guts of flies increased their resistance to trichlorphon.trichlorphon tolerance and degradation ability of cf-bd to investigate the function of cf-bd in relation to trichlor- phon resistance the trichlorphon tolerance and degradation ability of cf-bd was tested by adding cf-bd to trichlorphon-enriched bhi agar plates.
+The diameters of colonies were measured after 24 h.Resistance of flies inoculated with CF-BDThe bacterial inoculum for flies was prepared by select- ing and incubating a colony of CF-BD in BHI medium at 30 degC until an OD600 of 0.8.
 
-microbiome 2017 513doi 10.1186s40168-017-0236-zgut symbiont enhances insecticide resistance in a significant pest the oriental fruit fly bactrocera dorsalis hendeldaifeng cheng1 zijun guo1 markus riegler2 zhiyong xi34 guangwen liang1 and yijuan xu1backgroundinsects can possess symbiotic microorganisms in their gut lumen in specialized organs or within cells - in general such microbial partners can contribute to the nutrition of various insect groups defense against natural enemies reproductive traits  and other physiological and ecological properties of insects - some symbiotic bacteria also mediate detoxification of insect diets -and similarly of insecticides there- fore conferring insecticide resistance to their hosts as it has originally been discovered for the apple maggot rhagoletis pomonella and more recently demonstrated for stinkbugs chemical insecticides have been widely used to control insect pests and vectors  however many insect pests and vectors have evolved strong resistance to a diverse range of insecticides.
+According to CLSI standards the cultures were classified as sensitive S medium I or resistant R. Plates containing 1 x 10-3 mgL trichlorphon were also prepared to test the sensitivity of the bacteria to trichlorphon with a 10-mL inoculum and an incubation period of 24 h. As a control plates without trichlorphon were prepared and incubated with inocula.
 
-the functional proteins involved in the re- sistance response to trichlorphon were identified based on proteomic analyses of b. dorsalis treated with trichlorphon .
+The functional proteins involved in the re- sistance response to trichlorphon were identified based on proteomic analyses of B. dorsalis treated with trichlorphon .
 
-furthermore gc-ms ana- lysis revealed that trichlorphon was degraded into chloral hydrate and dimethyl phosphite which are significantly less toxic than trichlorphon  fig.
+indicating that CF-BD was required for enhanced resistance to trichlorphon.The insecticide resistance of SS flies is increased after CF-BD supplementationWe also attempted to increase the abundance of CF-BD in the guts of SS flies by feeding them with CF-BD in- oculum.
 
-.predicting trichlorphon degradation ability through a genome analysis of cf-bdto predict the cf-bd trichlorphon degradation ability the cf-bd genome was further analyzed.
-
-moreover several genomic differences were found between cf-bd and other c. freundii strains suggesting that cf-bd is not necessarily patho- genic to humans or fish.growth on trichlorphon-enriched plates and the degradation of trichlorphon in the mineral medium demonstrated that cf-bd can degrade trichlorphon fig.
-
-then cohorts of 15 rs flies each were fed with a trichlorphon solution and the number of dead flies was counted after 24 h. the trichlor- phon concentrations were 0 mgl 25 x 10-3 mgl50 x 10-3 mgl 100 x 10-3 mgl and 200 x 10-3 mgl.as control newly emerged rs flies were fed pure water and after 3 days provided trichlorphon in cohorts of 15 flies each.
-
-based on the annotated genome sequence of the isolated bacterium together with a comparative genomics analysis new phosphatase genes were identified in cf-bd when compared with other citrobacter species and their expression studied when exposed to trichlorphon.resultstrichlorphon-resistant and trichlorphon-susceptible fly strains exhibit different gut symbiotic bacterial communitiesto confirm the resistance levels of the b. dorsalis sus- ceptible ss and resistant rs strains the toxicity of ingested trichlorphon was examined the dose-response curves are shown in fig.
-
-4 trichlorphon tolerance and degradation ability of cf-bd and its effects on the drug susceptibility and resistance of flies.
-
-discussionwe report the first isolation of citrobacter freundii strain cf-bd associated with trichlorphon resistance from the digestive tract of the significant pest fruit flydorsalis.
+After feeding SS flies CF-BD the amount of gut CF-BD was significantly higher than in the control flies that were given water independent-sample t test t  7.67 df  8 p  0.01 Fig.
 

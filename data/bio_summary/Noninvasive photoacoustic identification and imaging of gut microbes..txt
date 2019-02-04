@@ -1,30 +1,20 @@
-c 2017 optical society of americaocis codes 170.5120 photoacoustic imaging 170.3880 medical and biological imaging.the human gastrointestinal tract houses a huge microbial ecosystem for example the gut microbiota which is partially responsible for maintaining human health 1. the gut microbiota regulates multiple host metabolic pathways enabling an interactive host-microbiota metabolism immune- inflammation and virus clearance 2. the microbiome imbalances are attributable to certain diseases including bacte- rial infections autoimmune and allergic diseases metabolic diseases obesity autism and colorectal cancer crc 3-7. meanwhile the human gut microbiota is a legitimate therapeutic target to prevent and treat various diseases 8.probiotics confer a healthy effect on the host by modifying the equilibrium of its gut microbiota 9. the most frequently used bacterial genus is lactic bacteria mainly lactobacillus and bifidobacterium.
+Thus the PA image effectively identified and distinguished a live gut microbe labeled with near-infrared dyes ex vivo.In this Letter we applied PAI to identify and quantify the different species of gut microbiota.
 
-thus the pa image effectively identified and distinguished a live gut microbe labeled with near-infrared dyes ex vivo.in this letter we applied pai to identify and quantify the different species of gut microbiota.
+Ahn R. Sinha Z. Pei C. Dominianni J. Wu J. Shi J. J. GoedertR.
 
-figure 3d demonstrated that the percentage of lactobacillus-icg was 62.5 versus 64.2. pa concentration versus uv-vis concentration p  0.05 and the percentage of e. coli-pb was 37.5 versus 35.8 pa concentration versus uv-vis concentration p  0.05. the deviation of the mixed microbe ration from pai was just 0.35 compared to the uv-vis concentration.we isolated the intestine and colorectal tract from a normal mouse and cleared them with normal saline.
+To the best of our knowledge PA was applied for the first time for gut bacteria imaging in vitro and ex vivo.The bacterial detection scheme by PAI was illustrated in Fig.
 
-to the best of our knowledge pa was applied for the first time for gut bacteria imaging in vitro and ex vivo.the bacterial detection scheme by pai was illustrated in fig.
+c PA image of mixed bacteria with dyes.d Corresponding PA intensity of mixed bacteria with dyes.where E1 and E2 are the absorption coefficients of 150 mlE.
 
-c pa image of mixed bacteria with dyes.d corresponding pa intensity of mixed bacteria with dyes.where e1 and e2 are the absorption coefficients of 150 mle.
+PA concentration versus UV-vis concentration P  0.05 and the percentage of E. coli-PB was 37.5 versus 35.8 PA concentration versus UV-vis concentration P  0.05.
 
-figure 4 showed that the pa method was effective to image and identify the gut microbe.
+In this Letter we explored a novel imaging technique to detect the intestinal microbe.Photoacoustic PA imaging PAI has rapidly expanded for extensive biomedical applications 13-17.
 
-in this letter we explored a novel imaging technique to detect the intestinal microbe.photoacoustic pa imaging pai has rapidly expanded for extensive biomedical applications 13-17. upon absorption of a short laser pulse the spatial distribution of the acoustic tran- sient pressure inside the tissue that acts as the initial source for the acoustic waves is simultaneously produced with thermoelas- tic expansion.
+The rotating hemisphere can achieve denser PA data at multiple stops in less than 2 min.
 
-in this letter we explored the photoacoustic imaging pai technique to characterize the composition and quantify the propor- tions of the gut microbes after optical probe labeling.
+The relative ratio of E. coli-PB and Lactobacillus-ICG CColiCLAC was calculated based on the normalized PA spectra.
 
-our experimental results demonstrated that pai has the potential to identify different gut bacterial species on the spot.
+Figure 4 showed that the PA method was effective to image and identify the gut microbe.
 
-1. hemispherical pai was applied for gut bacteria identifica- tion and intestine morphology imaging.0146-959217152938-03 journal c 2017 optical society of americarepetition rate of 20 hz.
-
-gut microbiota could be effectively identified by pai both in vitro and ex vivo.although current bacterial analysis technologies are precise there are still some limitations.
-
-these results implied that pai was a noninvasive and high-resolution method to identify the gut microbiota especially the ratio of probiotics and pathogen bacteria.
-
-pai can reach a penetration depth of centi- meters while retaining high spatial resolution in biological tissue based on endogenous or exogenous contrast agents 18-20. it can be used for tumor diagnosis drug delivery and chemotherapy response monitoring at a very early stage and for noninvasive tracing of the kinetics of exogenous agents in blood circulation of the liver and spleen 21.in our letter we proposed pai aided with a probe labeling technique for bacteria identification and quantification fig.
-
-4. pai of intestine after injection with mixed bacteria at a 720 and b 800 nm respectively in gray and color.no significant difference based on pai and uv-vis absorption.
-
-128 ultrasonic transducers a592s-sm olympus japan which can simultaneously receive pa signals were spirally distributed on the surface of the bowl.
+In this Letter we explored the photoacoustic imaging PAI technique to characterize the composition and quantify the propor- tions of the gut microbes after optical probe labeling.
 

@@ -1,30 +1,20 @@
-beginning at 2 mo of age more than 80 of the mice spontaneously develop an inflammatory demyelinating disease that recapitulates features of early human ms the disease course is often relapsing-remitting affects varying parts of the brain and spinal cord with lesions featuring round-cell infiltrates and large confluent areas of de- myelination with axonal degeneration and responds to b cell- depleting therapy 6. most importantly spontaneous disease critically depends on an intact commensal microbiome as germ- free rr mice remain healthy 7.we reasoned that if the gut microbiota is a determinant factorcontributing to the severity and course of human ms transplanta- tion of human fecal microbial communities from ms twins should result in a higher frequency of spontaneous eae than the transfer of fecal material from healthy twins.
+D PCoA of weighted UniFrac community distances for fecal microbiota of mice transplanted with microbiota from healthy n  23 or MS n  24 twins.
 
-a phylogenetic alpha diversity of fecal microbiota in healthy twins hd black n  34 and ms twins ms green n  34. b pcoa of weighted unifrac community distances for fecal microbiota of healthy twins black n  34 and ms twins green n  34.fig.
+E Mean relative abundances of bacterial genera in fecal samples of mice that received microbiota of healthy donors HD n  20-26 or MS patients MS n  22-26 at 2 and 6 wk after transplantation.and other environmental factors 13 it was not surprising that the composition of gnotobiotic mouse fecal samples reflected incomplete colonization by the human donor microbiota.
 
-germ-free rr sjlj mice were gavaged with fecal material from healthy twins and were treated weekly with either isotype control antibodies n  10 or neutralizing anti-il-10 antibodies n  11. data were pooled from two independent experiments.fecal material from healthy twins fig.
+Gut microbiota from multiple sclerosis patients enables spontaneous autoimmune encephalomyelitis in miceKerstin Berera1 Lisa Ann Gerdesb1 Egle Cekanaviciutec Xiaoming Jiac Liang Xiaod Zhongkui Xiad Chuan Liud Luisa Klotze Uta Staufferf Sergio E. Baranzinicg Tania Kumpfelb Reinhard HohlfeldbhGurumoorthy Krishnamoorthyai2 and Hartmut Wekerleah2aHertie Senior Professor Group Max Planck Institute of Neurobiology 82152 Martinsried Germany bInstitute of Clinical Neuroimmunology University Hospital Ludwig-Maximillians University 81377 Munich Germany cDepartment of Neurology University of California San Francisco CA 94143 dBGI-Shenzhen Shenzhen 518083 China eDepartment of Neurology University Hospital Munster 48149 Munster Germany fMax Planck Institute of Immunobiology and Epigenetics 79108 Freiburg Germany gInstitute for Human Genetics University of California San Francisco CA 94143 hMunich Cluster for Systems Neurology Ludwig-Maximillians University 81377 Munich Germany and iResearch Group for Neuroinflammation and Mucosal Immunology Max Planck Institute of Biochemistry 82152 Martinsried GermanyEdited by Lawrence Steinman Stanford University School of Medicine Stanford CA and approved August 7 2017 received for review June 30 2017There is emerging evidence that the commensal microbiota has a role in the pathogenesis of multiple sclerosis MS a putative autoimmune disease of the CNS.
 
-however spontaneous disease promptly follows exposure of germ- free mice to spf-derived fecal material 7. taken together these observations indicate that the encephalitogenic immune response observed in these mice is mediated by the intestinal microbiota.translation of these experimental observations into human ms poses considerable practical challenges.
+Furthermore most notably when transplanted to a transgenic mouse model of spontaneous brain autoimmunity MS twin-derived microbiota induced a signifi- cantly higher incidence of autoimmunity than the healthy twin- derived microbiota.
 
-while the genera adlercreutzia and tannerella were more abundant in the feces of mice transplanted with the healthy twin fecal material fewer bacteria of the genera ruminococcus were present in these mice.
+Second we transplanted fecal samples from selected twin pairs to germ-free mice to assess functional differences in the human intestinal microbiota of MS and healthy twins.ResultsMZ Twin Cohorts Discordant for MS. We assembled a cohort of 34 MZ twin pairs clinically discordant for MS.
 
-consistent with our results sutterella has previously been associated with better out- comes in patients with inflammatory bowel disease 16 as well as with resistance to eae development in male tnfr2-- mice 17. the gut flora may also affect cns autoimmune responses by changing the metabolic environment of the gastrointestinal tract to produce metabolites such as short-chain fatty acids and aryl hydrocarbon receptor ahr ligands which are known to affect microglia and astrocytes 18-20. to identify potential metabolic pathways that are altered in recipient mice we performed shotgun metagenomic sequencing on total stool dna.
+Most importantly spontaneous disease critically depends on an intact commensal microbiome as germ- free RR mice remain healthy 7.We reasoned that if the gut microbiota is a determinant factorcontributing to the severity and course of human MS transplanta- tion of human fecal microbial communities from MS twins should result in a higher frequency of spontaneous EAE than the transfer of fecal material from healthy twins.
 
-c pcoa of weighted unifrac community distances comparing fecal microbiota of human donors purple n  8 and mouse recipients gray n  47. d pcoa of weighted unifrac community distances for fecal microbiota of mice transplanted with microbiota from healthy n  23 or ms n  24 twins.
+Remarkably RR mice trans- planted with MS patient-derived microbiota developed sponta- neous EAE at a higher frequency than animals colonized withintestinal bacteria from healthy twins Fig.
 
-2e.increased incidence of spontaneous eae in rr mice colonized with microbiota from ms-affected twins.
+The most significant difference however was a reduced abundance of the genus Sutterella in mice colonized with microbiota from the MS twins compared with recipients ofFig.
 
-remarkably rr mice trans- planted with ms patient-derived microbiota developed sponta- neous eae at a higher frequency than animals colonized withintestinal bacteria from healthy twins fig.
+B Relative abundance of Sutterella in fecal samples of mice that received the microbiota of healthy donor HD n  23 or an MS patient MS n  24 using in total five MZ twin pairs.
 
-the most significant difference however was a reduced abundance of the genus sutterella in mice colonized with microbiota from the ms twins compared with recipients offig.
-
-germ-free rr sjlj mice were gavaged with fecal material from healthy hd n  18 or ms ms n  20 twins using in total five mz twin pairs.
-
-additional studies are required to validate these findings as well as to identify similar associations in a larger cohort of human subjects.reduced il-10 production in rr mice colonized with microbiota from ms-affected twins.
-
-second we transplanted fecal samples from ms-affected and healthy twins into germ-free mice.
-
-2013 gut microbiota from twins discordant for obesity modulatemetabolism in mice.
-
-we studied their gut microbiota in two tiers first intestinal microbial pro- files of ms twins and healthy twins were compared by 16s ri- bosomal rna rrna amplicon and metagenomic shotgun sequencing.
+Obvi- ously more detailed studies of much larger cohorts are needed to further explore the complexities of MS-related microbial associations.The second tier of our strategy transfer of human microbiota into germ-free RR mice led to a particularly interesting obser- vation.
 

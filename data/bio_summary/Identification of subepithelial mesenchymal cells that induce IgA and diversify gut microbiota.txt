@@ -1,30 +1,20 @@
-4. these data suggest that madcam-1- subepithelial mesenchymal cells in direct contact with the fae are the main source of rankl in galts.to demonstrate the importance of rankl derived from mesenchy- mal cells we generated cell type-specific rankl-deficient mice by crossing tnfsf11fl mice with vav-icremice which express hemat- opoietic cell-specific cre or twist2cre twist2-cre mice which express mesenchymal cell-specific cre.
+These data suggest that MAdCAM-1- subepithelial mesenchymal cells in direct contact with the FAE are the main source of RANKL in GALTs.To demonstrate the importance of RANKL derived from mesenchy- mal cells we generated cell type-specific RANKL-deficient mice by crossing Tnfsf11fl mice with Vav-iCremice which express hemat- opoietic cell-specific Cre or Twist2Cre Twist2-Cre mice which express mesenchymal cell-specific Cre.
 
-cps or ilfs in the terminal ileum from tnfsf11fl and tnfsf11fl twist2-cre mice were stained for thy1.2 green b220 red and cd11c blue n  10 tissue samples from 4 tnfsf11fl mice or 14 tissue samples from 5 tnfsf11fl twist2-cre mice.
+CPs or ILFs in the terminal ileum from Tnfsf11fl and Tnfsf11fl Twist2-Cre mice were stained for Thy1.2 green B220 red and CD11c blue n  10 tissue samples from 4 Tnfsf11fl mice or 14 tissue samples from 5 Tnfsf11fl Twist2-Cre mice.
 
-thus subepithelial rankl mesenchymal cells m cell inducer mci cells are key players in the maintenance of host-microbe symbiosis.resultsmembrane-bound rankl regulates epithelial ccl20 expression to clarify the hitherto unknown function of rankl in the fae we analyzed mrna expression in the fae of mice in which rank is specifically deleted in epithelial cells tnfrsf11afl vil1-cre mice.
+Thus subepithelial RANKL mesenchymal cells M cell inducer MCi cells are key players in the maintenance of host-microbe symbiosis.RESULTSMembrane-bound RANKL regulates epithelial CCL20 expression To clarify the hitherto unknown function of RANKL in the FAE we analyzed mRNA expression in the FAE of mice in which RANK is specifically deleted in epithelial cells Tnfrsf11afl Vil1-Cre mice.
 
-to determine the importance of direct cell-cell contact through mem- brane-bound rankl we generated mice in which rankl cleav- age siteswere genetically trimmed tnfsf11ss mice and supplementary fig.
+To determine the importance of direct cell-cell contact through mem- brane-bound RANKL we generated mice in which RANKL cleav- age siteswere genetically trimmed Tnfsf11SS mice and Supplementary Fig.
 
-a mrna expression profiles of the fae of pps from tnfrsf11aflvil1-cre mice and tnfrsf11afl mice compared using empirical analysis of digital gene expression data in r edger.
+a mRNA expression profiles of the FAE of PPs from Tnfrsf11aflVil1-Cre mice and Tnfrsf11afl mice compared using empirical analysis of digital gene expression data in R EdgeR.
 
-b rankl concentration measured by elisa in serum or culture supernatant of anti-cd3-stimulated splenic t cells from tnfsf11 tnfsf11ss and tnfsf11-- mice n  4 3 and 3 mice respectively.
+b RANKL concentration measured by ELISA in serum or culture supernatant of anti-CD3-stimulated splenic T cells from Tnfsf11 Tnfsf11SS and Tnfsf11-- mice n  4 3 and 3 mice respectively.
 
-1c-e. in the fae of tnfsf11ss mice staining for m cells gp2 and ccl20 enterocytes appeared similar to that in wild-type mice  and mrna expression of m cell-specificabmarkers and ccl20 was not decreased  which indicates that the soluble form of rankl is dispensable for the regulation of m cells and ccl20 expression in the fae.
+In the FAE of Tnfsf11SS mice staining for M cells GP2 and CCL20 enterocytes appeared similar to that in wild-type mice  and mRNA expression of M cell-specificabmarkers and Ccl20 was not decreased  which indicates that the soluble form of RANKL is dispensable for the regulation of M cells and Ccl20 expression in the FAE.
 
-the expression of ccl20 and the m cell-specific markers gp2 and spib was severely reduced in the fae of pps from tnfsf11fl twist2-cre mice compared to that from tnfsf11fl mice .
+The expression of Ccl20 and the M cell-specific markers Gp2 and Spib was severely reduced in the FAE of PPs from Tnfsf11fl Twist2-Cre mice compared to that from Tnfsf11fl mice .
 
-c qpcr analysis of aicda transcripts in b220 b cells sorted from pps in tnfsf11fl and tnfsf11fl twist2-cre mice n  5 and 6 mice respectively.
+c qPCR analysis of Aicda transcripts in B220 B cells sorted from PPs in Tnfsf11fl and Tnfsf11fl Twist2-Cre mice n  5 and 6 mice respectively.
 
-in tnfsf11fl twist2-cre mice the number of igd pre-gc b cells inter- acting with cd11c dcs in the sed was significantly lower than in tnfsf11fl mice  and activation-induced cytidine deaminase expression was lower in b cells sorted from the pps .
-
-tnfsf11fl twist2-cre mice showed significantly lower numbers of b cell-containing mature ilfs in the terminal ileum than tnfsf11fl mice .
-
-a pp diameter measured by stereomicroscope in tnfsf11fl and tnfsf11fl twist2-cre mice n  26 and 33 pps from 5 and 6 mice respectively.
-
-c-e flow cytometry analysis of hematopoietic cells in pps of tnfsf11fl and tnfsf11fl twist2-cre mice n  5 and6 mice respectively.
-
-mice used were 4-6 weeks old ac-e. mice were used along with littermate controls a-e. p  0.05 p  0.01 p  0.001 student's t-test.
-
-flow cytometry showed that the numberof gl7 gc b cells pd-1cxcr5 follicular helper t tfh cells and iga b cells was substantially reduced in the pps of tnfsf11fl twist2-cre mice compared to tnfsf11fl mice indicating a decrease in t cell-dependent iga production .
+In Tnfsf11fl Twist2-Cre mice the number of IgD pre-GC B cells inter- acting with CD11c DCs in the SED was significantly lower than in Tnfsf11fl mice  and activation-induced cytidine deaminase expression was lower in B cells sorted from the PPs .
 

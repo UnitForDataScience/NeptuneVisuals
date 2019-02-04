@@ -1,30 +1,20 @@
-interestingly all six classifying markers for kd3 versus kd1 are also good classifiers for kd3 versus nc which suggests that the kd3-developed antibodies against these e. coli proteins are so unique that neither kd1 nor nc subjects have them thus indicating that adaptive immunity may take part in developing some unique antibodies from kd1 to kd3.of all the identified classifiers for kd1 versus nc kd1 versus fc kd3 versus nc and kd3 versus kd1 we found that the znuc protein is the most common protein which indicates that znuc is clearly an antigen from kd1 to kd3.fig.
+Interestingly all six classifying markers for KD3 versus KD1 are also good classifiers for KD3 versus NC which suggests that the KD3-developed antibodies against these E. coli proteins are so unique that neither KD1 nor NC subjects have them thus indicating that adaptive immunity may take part in developing some unique antibodies from KD1 to KD3.Of all the identified classifiers for KD1 versus NC KD1 versus FC KD3 versus NC and KD3 versus KD1 we found that the znuC protein is the most common protein which indicates that znuC is clearly an antigen from KD1 to KD3.FIG.
 
-both e. coli and klebsiella oxytoca infections have been reported in kd 20 21. on the other hand zinc is important for cardiovascular health in humans 25. cardiovascular in-flammation is the most severe symptom of kd patients 2. therefore znuc is an ideal target for kd patients to develop a specific antibody thus making it a perfect marker for kd diagnosis.our blind test results revealed that our identified classifying protein markers could effectively classify kd1 versus nc kd1 versus fc kd3 versus nc and kd3 versus kd1 with an auc value of at least 0.75 .
+The AUC scores for blind tests of KD1 versus NC 17 protein markers KD1 versus FC 20 protein markers KD3 versus NC 9 protein markers and KD1 versus KD3 6 protein markers were 0.84 0.75 0.99 and 0.98 respectively.
 
-the auc scores for blind tests of kd1 versus nc 17 protein markers kd1 versus fc 20 protein markers kd3 versus nc 9 protein markers and kd1 versus kd3 6 protein markers were 0.84 0.75 0.99 and 0.98 respectively.
+Therefore znuC is an ideal target for KD patients to develop a specific antibody thus making it a perfect marker for KD diagnosis.Our blind test results revealed that our identified classifying protein markers could effectively classify KD1 versus NC KD1 versus FC KD3 versus NC and KD3 versus KD1 with an AUC value of at least 0.75 .
 
-we use high-throughput techniques to ex- press and purify 4200 e. coli proteins and develop e. coli proteome microarrays 11-14. these e. coli proteome mi- croarrays have been successfully profiling antibodies in the blood stream and identifying antibody biomarkers in inflam-1 the abbreviations used are kd kawasaki disease ivig intrave- nous immunoglobulin nc nonfever control fc fever control kd1 kd before intravenous immunoglobulin treatment kd3 kd at least 3 weeks after treatment.matory bowel disease 12 and bipolar disorder 14. because most kd symptoms have been correlated to immune dysfunc- tion we hypothesize that antibodies in the plasma behave differently in kd patients.
+In comparing the KD3 group to the NC group we found 11 IgG markers with sensitivity 84 specificity 100 and ac- curacy 92 and 9 IgM markers with sensitivity 78 speci- ficity 100 and accuracy 89 Fig.
 
-in comparing the kd3 group to the nc group we found 11 igg markers with sensitivity 84 specificity 100 and ac- curacy 92 and 9 igm markers with sensitivity 78 speci- ficity 100 and accuracy 89 fig.
+These E. coli proteome mi- croarrays have been successfully profiling antibodies in the blood stream and identifying antibody biomarkers in inflam-1 The abbreviations used are KD Kawasaki disease IVIG intrave- nous immunoglobulin NC nonfever control FC fever control KD1 KD before intravenous immunoglobulin treatment KD3 KD at least 3 weeks after treatment.matory bowel disease 12 and bipolar disorder 14.
 
-5b p values are less than 0.001.regarding the kd1 group versus the kd3 group we dis- covered some proteins that showed excellent prognostic val- ues in transitioning from kd1 to kd3.
+5B p values are less than 0.001.Regarding the KD1 group versus the KD3 group we dis- covered some proteins that showed excellent prognostic val- ues in transitioning from KD1 to KD3.
 
-the roc curve results revealed excellent performance in the training set of the kd3 group versus the nc group and the auc scores for these nine proteins ranged from 0.93 to0.96 the colored solid lines in the left of fig.
+The ROC curve results revealed excellent performance in the training set of the KD3 group versus the NC group and the AUC scores for these nine proteins ranged from 0.93 to0.96 the colored solid lines in the left of Fig.
 
-a training and testing results for the kd3 group versus the nc group.
+A Training and testing results for the KD3 group versus the NC group.
 
-2. in comparing the kd1 group to the nc group we found 6 igg markers with sensitivity 68 specificity 94 and accuracy 81 and 11 igm markers with sensitivity 77 specificity 94 and accu- racy 84 fig.
+In Comparing the KD1 group to the NC group we found 6 IgG markers with sensitivity 68 specificity 94 and accuracy 81 and 11 IgM markers with sensitivity 77 specificity 94 and accu- racy 84 Fig.
 
-1b.selecting markers for kd and control subjects from anti- body profiling--to identify markers for healthy individuals and kd sufferers we normalized signals from each chip with mean scaling and sent them for supervised machine learning fig.
-
-in general the markers indicating kd disease and those indicating kd recovery both demonstrated remarkable accuracy.designing and creating focus arrays--of the 4200 dif- ferent e. coli proteins we successfully identified 70 prom- ising diagnosis and recovery markers.
-
-another 20 kd1 20 kd3 20 fc and 20 nc were collected to serve as focus arrays whereas an additional 20 kd1 20 kd3 20 fc and 20 nc were enrolled for blind testing.
-
-furthermore most of the proteins in this group showed significant immunogenic re- sponses in the kd1 group compared with the nc group in the single-blind test fig.
-
-in comparing the kd1 group to the kd3 group we found 16 igg markers with sensitivity 84 specificity 84 and accuracy 84 and 11fig.
-
-like in the kd3 versus nc groups these six proteins were also igg-responsive pro- teins and demonstrated significant immunogenic responses in kd3 patients when compared with the kd1 patients fig.
+In general the markers indicating KD disease and those indicating KD recovery both demonstrated remarkable accuracy.Designing and Creating Focus Arrays--Of the 4200 dif- ferent E. coli proteins we successfully identified 70 prom- ising diagnosis and recovery markers.
 

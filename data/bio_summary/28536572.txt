@@ -1,30 +1,20 @@
-collectively these results show that the phage ef-p29 modulates the gut microbiota in vref-challenged mice by suppressing the genus enterococcus which results in a microbiota composition that is similar to that observed in normal mice.when a large dose of phage ef-p29 4 109 pfumouse was administered to normal mice bacteria in the genus enterococcus were significantly reduced in number which substantially altered the composition of the gut microbiota from that observed in the normal group  .
+The changes that had been observed in Bacteroidetes and Proteobacteria were reversed  and phage treatment reduced the level of the genus Enterococcus and family Enterococcaceae that were observed in the challenge mice to a level similar to that in the normal mice  and Supplementary Figure S5.
 
-at predetermined intervals bacterial counts were determined in 10 ul of peripheral blood obtained from the caudal veins of mice that were treated with either ef-p29 or buffer.1 to verify the effect of phage therapy on the health of the mice body weight was measured initially weekly and at the end of the experiment in all of the mice    .
+At predetermined intervals bacterial counts were determined in 10 ul of peripheral blood obtained from the caudal veins of mice that were treated with either EF-P29 or buffer.1 To verify the effect of phage therapy on the health of the mice body weight was measured initially weekly and at the end of the experiment in all of the mice    .
 
-the mice that were treated with ef-p29 4 105 pfumouse at 1 h after inoculation exhibited a drop in blood bacterial counts that reached approximately 3.8 log units at 24 h after treatment with ef-p29 .
+The ability of EF-P29 to protect the bacteremic mice was investigated using colony counting.
 
-nevertheless there was no significant difference in health scores or body weight between the normal mice that were treated with the large dose of ef-p29 4 109 pfumouse and normal untreated mice as shown in .discussionbecause there has been a rise in the prevalence of multidrug-resistant strains of e. faecalis novel therapeutic approaches to combat this pathogen are needed.
+The mice were scored for their state of health on a scale of 5 to 0 based on disease progression at 24 h after treatment with a specific therapy.
 
-the morphology of ef-p29 was examined using a transmission electron microscope tem jeol jem-1200exii japan electronics and optics laboratory tokyo japan at an acceleration voltage of 80 kv.the host spectrum of the phage ef-p29 was characterized using spot testing   and the double-layer agar plate method   as previously described with some modifications.the multiplicity of infection moi was defined as the ratio of virus particles to host cells  .
+The investigator was blinded to the group allocation during the experiment and when assessing the outcome.Gut Microbiota AnalysisFemale Balbc mice aged 6-8 weeks old were used in the experiments.
 
-the e. faecalis strain gf29 was cultivated to log phase in bhi broth od600 0.6 and infected with the phage ef-p29 at different mois 0.001 0.01 0.1 1 10 and 100. after the cultures were incubated while shakingfor 8 h at 37c the titers of the lysates were quantified .the one-step growth curve of the phage ef-p29 was determined as previously described with some modifications pajunen et al.
+The mice in the EF group were challenged i.p.
 
-samples of the mixture were obtained at 10-min intervals immediately diluted and then plated for phage titration.sequencing and bioinformatics analysis of the ef-p29 genomephage genomic dna was extracted from concentrated and purified ef-p29 preparations using a viral genome extractionkit omega bio-tek inc. norcross ga usa.
+The mice in the EF P group were challenged with 002 as in the EF group and then injectedi.p.
 
-the gene and deduced amino acid sequences were used to perform database searches using standard parameters in blastn and blastp respectively using the national center for biotechnology information ncbi network service  .inhibitory effect of the phage ef-p29 on vancomycin-resistant e. faecalis in vitrothe ability of ef-p29 to inhibit the growth of the vancomycin-resistant e. faecalis vref strain 002 was analyzed using colony counting.
+with 4 105 PFU of EF-P29 after 1 h. The mice in the Pgroup were injected i.p.
 
-as shown in supplementary table s2 the spot tests showed that ef-p29 lysed 17 42.5 of the 40 e. faecalis isolates that were tested and efficiency of plating tests showed that it produced large clear plaques on 11 of the e. faecalis strains 27.5. based on the limited data the phage ef-p29 was unable to lyse e. faecium or any other tested species supplementary table s2.
+The mice that were treated with EF-P29 4 105 PFUmouse at 1 h after inoculation exhibited a drop in blood bacterial counts that reached approximately 3.8 log units at 24 h after treatment with EF-P29 .
 
-the ef-p29 phage genome is a 58984 bp contiguous sequence of linear double-stranded dna with an overall g c content of 39.97. the complete genome of ef-p29 encodes 101 putative orfs but no trna was identified.
-
-however there is a 401 bp insertion sequence between orf 79 and orf 80 of ef-p29 that is not present in these homologous and whole terminase large subunit genes supplementary figure s2b.the in vitro bactericidal effect of the phage ef-p29the effect of the phage ef-p29 on the growth of vref strain 002 was tested in vitro.
-
-in contrast the vref strain 002 showed a rapid decrease after incubation with ef-p29 at a moi of 1 0.1 0.01 and 0.001. ef-p29 at the higher moi showed more efficiently bactericidal effect.
-
-in murine experiments the administration of a single intraperitoneal injection of ef-p29 4 x 105 pfu at 1 h after challenge was sufficient to protect all mice against bacteremia caused by infection with a vancomycin-resistante.
-
-once the mld was determined 2 mld was used as the infective inoculum the challenge dose.to determine the effect of the phage treatment in mice a single dose of ef-p29 4103 4104 4105 4106 or4 107 pfumouse was administered i.p.
-
-the ability of ef-p29 to protect the bacteremic mice was investigated using colony counting.
+The composition of the gut microbiota in the feces of challenged and normal mice that were treated with or without phage EF-P29 was analyzed using 16S rRNA gene sequencing n  6 for each group.
 

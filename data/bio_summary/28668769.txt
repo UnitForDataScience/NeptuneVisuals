@@ -1,30 +1,20 @@
-the functional and evolutionary implications of such gene expression coordination by the gut microbiota re- main to be explored.it is well established that the effect of bacterial impact on drosophila physiology is highly dependent on microbial load and composition  and that drosophila's microbiotafigure 1integrative view of the functional outcome of the relationships between drosophila melanogaster its microbiota and nutrition.
+The functional and evolutionary implications of such gene expression coordination by the gut microbiota re- main to be explored.It is well established that the effect of bacterial impact on Drosophila physiology is highly dependent on microbial load and composition  and that Drosophila's microbiotaFigure 1Integrative view of the functional outcome of the relationships between Drosophila melanogaster its microbiota and nutrition.
 
-drosophila melanogaster has been broadly used to study microbiota effects on invertebrates whose findings are frequently applicable to translational studies.
+Drosophila melanogaster has been broadly used to study microbiota effects on invertebrates whose findings are frequently applicable to translational studies.
 
-this review discusses the latest advances in understanding the molecular bases of microbiota impact on drosophila physiology and behaviour emphasizing its broad influence and the intricate interdependence of the two partners in shaping their biology.addressuniversite' de lyon institut de ge' nomique fonctionnelle de lyon igfl ecole normale supe' rieure de lyon cnrs umr 5242 universite' claude bernard lyon 1 f-69364 lyon cedex 07 francecorresponding author leulier f introductionmicroorganisms can be found virtually everywhere.
+This review discusses the latest advances in understanding the molecular bases of microbiota impact on Drosophila physiology and behaviour emphasizing its broad influence and the intricate interdependence of the two partners in shaping their biology.AddressUniversite' de Lyon Institut de Ge' nomique Fonctionnelle de Lyon IGFL Ecole Normale Supe' rieure de Lyon CNRS UMR 5242 Universite' Claude Bernard Lyon 1 F-69364 Lyon Cedex 07 FranceCorresponding author Leulier F IntroductionMicroorganisms can be found virtually everywhere.
 
-these microbes called microbiota provide the hosts with essential services.
+These microbes called microbiota provide the hosts with essential services.
 
-many members of the microbiota are symbionts or stable partners that contribute to improve and optimize many aspects of the host physiol- ogy .
+Many members of the microbiota are symbionts or stable partners that contribute to improve and optimize many aspects of the host physiol- ogy .
 
-our current understanding of the role of microbiota in animals has largely benefitted from studies on dro- sophila melanogaster.
+Our current understanding of the role of microbiota in animals has largely benefitted from studies on Dro- sophila melanogaster.
 
-however the mechanisms behind the mutual interplay between drosophila and its microbiota are still not fully understood.
+However the mechanisms behind the mutual interplay between Drosophila and its microbiota are still not fully understood.
 
-to elucidate the basis of drosophila response to microbes a few studies have focused on the effect of microbiota on host's gene expression.
+To elucidate the basis of Drosophila response to microbes a few studies have focused on the effect of microbiota on host's gene expression.
 
-the presence of microbiota upre- gulates gene expression associated with drosophila gut physiology tissue homeostasis immune response at least partly through the imd pathway .
+The presence of microbiota upre- gulates gene expression associated with Drosophila gut physiology tissue homeostasis immune response at least partly through the IMD pathway .
 
-lately in order to better characterize the microbiota effect on the overall genetic architecture of drosophila transcriptome dobson et al.
-
-specifically by associating the flies with the five bacterial species belonging to acetobacter and lactobacillus genera the authors observed that certain genes responding to the microbiota were part of a func- tionally related network which include regulators of growth metabolism and neurophysiology.
-
-these data highlight the presence of a set of core drosophila genes whose coexpression is coordinated by the microbiota.
-
-drosophila's microbiota shapes its host biology throughout its life cycle by affecting its survival behaviour immunity and development through the activation of diverse hormonal and metabolic pathways.can vary considerably from one individual to another .
-
-for example dobson and colleagues used gwa mapping on 108 dro- sophila genetic reference panel dgrp lines to assess the link between drosophila genetics nutritional response and microbiota .
-
-this implies that the effect of microbiota on nutrient allocation is responsive to genetic variation in the drosophila ge- nome.
+Lately in order to better characterize the microbiota effect on the overall genetic architecture of Drosophila transcriptome Dobson et al.
 

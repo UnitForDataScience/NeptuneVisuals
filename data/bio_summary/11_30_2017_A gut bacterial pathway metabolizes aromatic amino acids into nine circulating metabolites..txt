@@ -1,30 +1,20 @@
-addition of glucose to the basal medium restored the growth characteristics of the mutant to wild-type levels  indicating that the fldc mutant suffers from impaired amino acid metabolism.
+a b The fldC mutant exhibits a growth defect during AAA metabolism.
 
-similarly wild-type but not fldc mutant cells could convert the arylpyruvic acid and aryllactic acid to the correspond- ing arylpropionic acids suggesting that fldc acts downstream of the transamination and initial reduction steps.
+c Metabolite analysis of supernatants from cultures in a. d e The fldC mutant exhibits a defect in reductive metabolism of AAAs.
 
-levels of other metabo- lites upstream of the fldc blockade were significantly increased in mice colonized with the fldc mutant red arrows in .
+a-f The wild-type a-f and acdA a d fldH b e and porA c f mutant strains of C. sporogenes were cultured in minimal definedmedium containing 10 amino acids at standard concentrations SACC with d-f or without a-c glucose 10 mM and growth was monitored spectrophotometrically.
 
-clostron mutant generation307308 309 310 311 312intronerm307308 309 310312 erm2800bp600bpextended data figure 2  generation of the phenyllactate dehydratase disruption mutant.
+a b The wild-type and fldZ mutant strains of C. sporogenes were cultured in minimal defined medium containing 10 amino acids at standard concentrations SACC with a or without0.010.001 051015time hb glucose 10 mM and growth was monitored spectrophotometrically.
 
-a b the fldc mutant exhibits a growth defect during aaa metabolism.
+Representative curves from n  3 biological replicates are shown and doubling times are reported as mean - s.d.OOH -acrylate4-OH Phe Phe IndolestandardsfldZWTExtended Data Figure 6  The fldZ mutant is defective in conversion of phenylacrylate and 4-OH-phenylacryalte.
 
-c metabolite analysis of supernatants from cultures in a. d e the fldc mutant exhibits a defect in reductive metabolism of aaas.
+Addition of glucose to the basal medium restored the growth characteristics of the mutant to wild-type levels  indicating that the fldC mutant suffers from impaired amino acid metabolism.
 
-h metabolite screening identifies aaa-reducing82 - 2 min but the fldc mutant exhibited a growth defect with a dou- bling time of 160 - 10 min .
+The first is to characterize the biological activities of these metabolites including their relevance to human disease.
 
-liquid chromatography-tandem mass spec- trometry lc-msms analysis of the supernatants showed that ipa accumulated in the supernatant of wild-type c. sporogenes but not the fldc mutant .
+The second is to identify the metabolic pathways responsible for their production which will enable the prediction of metabolic output directly from sequencingPrevious studies have shown that a small number of bacteria includ- ing C. sporogenes and Clostridium botulinum can produce IPA from tryptophan.
 
-similarly levels of ppa and 4-oh-ppa were high in wild-type supernatants but were very low or undetectable in the fldc mutant .
+The most energetically demanding step in this pathway is the dehydration of phenyllactic acid to t-cinnamic acid catalysed by the heterotrimeric enzyme phenyllactate dehydratase FldABC.
 
-therefore to assess the metabolic blockade in the fldc mutant cell suspensions were prepared in which amino acids derived from the growth medium were washed away.
-
-consistent with our findings in actively dividing cultures these three products were undetectable in the fldc mutant strain .
-
-however the fldc mutant transformed phenylacrylate 4-oh-phenylacrylate and indoleacrylate the presumed dehydratase products to their corresponding propi- onic acids .
-
-we inoculated germ-free mice with either wild-type c. sporogenes or the fldc mutant n  5 each group for four weeks and measured tryptophan metabolites in the serum by6 5 0  n a t u r e  v o l 5 5 1  3 0 n o v e m b e r 2 0 1 7 abh100p  0.09 p  0.002ccytof peripheral blood wtly6cd cs-specific igg in serum8060trp40fldc20 neutrophilsp  0.01615105wt fldcmonocyteswt fldc1.51.00.50.0ep  0.017o20cd44cd8 t cellscd44cd4 t cellscs-specific iga in caecumoh1.000.8o0.6p  0.002-pyruvateohfwt fldcghwt fldc0.40.20iserumoho-lactateoh defined communities serum ipaluminal ipa880fitc-dextran6-acetatec.
-
-f defined community experiment.g-i germ-free mice were colonized with organisms listed in f including either wt or fldc mutant c. sporogenes.
-
-in mice colonized by the wild-type strain the mean ipa concentration was around 80 mm but in mice colonized with the fldc mutant ipa was undetectable  lower limit of detection approximately 8 nm.
+The phenyllactate dehydratase genes are part of a 15-kb cluster in the C. sporogenes chromosome .
 

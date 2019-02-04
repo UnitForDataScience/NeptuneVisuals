@@ -1,30 +1,20 @@
-overall first nations children with s-ecc have a significantly different plaque microbiome than their caries-free counterparts with the s-ecc group containing higher levels of known cariogenic organisms.keywords oral health dental health survey preschool child healthcare disparities indigenous population streptococcus mutansintroductionearly childhood caries ecc defined as decay involving the primary dentition in children 72 mo of age is the most com- mon chronic disease of childhood american academy of pediatrics 2016. ecc is a critical public health concern due to its high prevalence high treatment costs negative effect on quality of life and potential long-term complications schrothdental surgery rates nearly 8 times higher than those living in communities with a low aboriginal population among children 1 to 5 y old canadian institute for health information 2013 schroth et al.
+Interestingly a recent study comparing the microbiomes of European adoles- cents with and without caries from 2 countries showed that therelative importance of S. mutans in determining caries status was different according to where the populations resided the role of S. mutans as an important etiologic factor was more pronounced in the population lacking access to caries preven- tion and treatment strategies as opposed to one in which there was adequate dental care Johansson et al.
 
-2009 martins-junior et al.
+This result supports a recent longitudi- nal study in young children in which Actinobacteria decreased and Firmicutes increased as caries progression proceeded Gross et al.
 
-2013 schroth et al.
+G. elegans and Prevotella melaninogenica have been reported to be increased in children with S-ECC when com- pared with those caries free Kanasi et al.
 
-2016. severe ecc s-ecc is an aggressive form of decay that is overrepresented among indigenous children in north america including canadian first nations metis and inuit and american indian and alaska natives and it reflects an underlying extreme oral health disparity in these populations american academy of pediatrics and canadian paediatric society 2011 irvine et al.
+Overall First Nations children with S-ECC have a significantly different plaque microbiome than their caries-free counterparts with the S-ECC group containing higher levels of known cariogenic organisms.Keywords oral health dental health survey preschool child healthcare disparities Indigenous population Streptococcus mutansIntroductionEarly childhood caries ECC defined as decay involving the primary dentition in children 72 mo of age is the most com- mon chronic disease of childhood American Academy of Pediatrics 2016.
 
-2011. in some canadian first nations on-reserve communi- ties the prevalence of decay in the primary dentition can exceed 90 schroth et al.
+The top 100 species-level taxa identified in each sub- group are shown in Figure 3B.Additionally we investigated if species richness correlated with caries severity based on dmft mean 10.8 - 3.3 and dmfs 45.3 - 19.1 scores among those with S-ECC and we found no correlation in either instance Pearson's r  0.20 and r  0.23 respectively.DiscussionTo the best of our knowledge this study is the first to use advanced microbial analyses to investigate the oral microbiome of North American Indigenous children specifically Canadian First Nations and Metis children affected by S-ECC.
 
-2005. s-ecc is a major cause of hospital visits for young children sheller et al.
+ECC is a critical public health concern due to its high prevalence high treatment costs negative effect on quality of life and potential long-term complications Schrothdental surgery rates nearly 8 times higher than those living in communities with a low Aboriginal population among children 1 to 5 y old Canadian Institute for Health Information 2013 Schroth et al.
 
-schroth rady faculty of health sciences university of manitoba 507-715 mcdermot avenue winnipeg mb r3e 3p4 canada.email x. he ucla school of dentistry 10833 le conte avenue los angeles ca 90095-1668 usa.email additional factors such as socioeconomic status nutrition and education reisine and douglass 1998 fisher-owens et al.
+Severe ECC S-ECC is an aggressive form of decay that is overrepresented among Indigenous children in North America including Canadian First Nations Metis and Inuit and American Indian and Alaska Natives and it reflects an underlying extreme oral health disparity in these populations American Academy of Pediatrics and Canadian Paediatric Society 2011 Irvine et al.
 
-2013. the early presentation and rapid progression in young canadian first nations metis american indian and alaska native children suggests that ecc in these populations may have distinct attributes and etiology schroth et al.
+S-ECC is a major cause of hospital visits for young children Sheller et al.
 
-sequencing data were analyzed with qiime 1.9.1 quantitative insights into microbialecology caporaso et al.
+The early presentation and rapid progression in young Canadian First Nations Metis American Indian and Alaska Native children suggests that ECC in these populations may have distinct attributes and etiology Schroth et al.
 
-2. scardovia wiggsiae has been recently characterized as a possible important factor in ecc tanner mathney et al.
-
-much of this discrepancy stems from the historical and ongoing effects of colonialism and racism that have resulted in major socioeconomic and health care inequities american academy of pediatrics and canadian paediatric society 2011. with rates of s-ecc in these popu- lations drastically higher than rates in the general population and with the potential for s-ecc to negatively affect systemic health and quality of life it is critical to investigate the under- lying causes and identify any potential unique risk factors that may exist schroth et al.
-
-2009 schroth et al.
-
-2016.the results of the health questionnaire confirm previously reported behavioral and socioeconomic risk factors including less frequent brushing bottle-feeding later age at weaning and lower household income reisine and douglass 1998 american academy of pediatrics and canadian paediatric society 2011. it has become apparent that s-ecc is a com- plex multifactorial disease and that there is a major microbio- logical component irvine et al.
-
-1. some studies have shown that increased alpha diversity is associated with health gross et al.
-
-2012 belstrom et al.
+2012 and a study that reported a significantly higher relative abundance of Firmicutes in children with S-ECC versus caries-free controls Jiang et al.
 

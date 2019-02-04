@@ -1,8 +1,12 @@
-bezlotoxumab a human monoclonal antibody binds to c. difficile toxin b tcdb reducing recurrence presumably by limiting epithe- lial damage and facilitating microbiome recovery.namebezlotoxumab zinplavaapproved foradjuvant therapy to reduce recurrence of cdi in high-risk patients receiving antimicrobial therapy for cditypebezlotoxumab is a fully human monoclonal igg1 antibodymolecular targetstcdb a protein toxin produced by c. difficile that glycosylates host rho family gtpasescellular targetsno demonstrated cellular targets presumably protects host cells from intoxication with tcdbeffects on targetsbezlotoxumab binds to tcdb and inhibits its ability to bind to its cellular surface receptors.
+Bezlotoxumab a human monoclonal antibody binds to C. difficile toxin B TcdB reducing recurrence presumably by limiting epithe- lial damage and facilitating microbiome recovery.NAMEBezlotoxumab ZinplavaAPPROVED FORAdjuvant therapy to reduce recurrence of CDI in high-risk patients receiving antimicrobial therapy for CDITYPEBezlotoxumab is a fully human monoclonal IgG1 antibodyMOLECULAR TARGETSTcdB a protein toxin produced by C. difficile that glycosylates host Rho family GTPasesCELLULAR TARGETSNo demonstrated cellular targets presumably protects host cells from intoxication with TcdBEFFECTS ON TARGETSBezlotoxumab binds to TcdB and inhibits its ability to bind to its cellular surface receptors.
 
-antibody-bound tcdb exhibits reduced cell entry and decreased subsequent glycosylation of the rho family of gtpases which are the host cell targets of tcdb.developed bymerck sharp  dohme corp.cost of care 200 millionrecurrent casesper year in u.s.cost of care                        c. difficile treatment with antibiotics alonec.
+Antibody-bound TcdB exhibits reduced cell entry and decreased subsequent glycosylation of the Rho family of GTPases which are the host cell targets of TcdB.DEVELOPED BYMerck Sharp  Dohme Corp.Cost of care 200 millionRecurrent casesper year in U.S.Cost of care                        C. difficile treatment with antibiotics aloneC.
 
-leading edgebench to bedsidereducing recurrence of c. difficile infectionmichael g. dieterle and vincent b. younguniversity of michigan medical school ann arbor mi 48103 usa correspondence mdieterlmed.umich.edu clostridium difficile infection cdi is facilitated by alteration of the microbiome following antibiotic adminis- tration.
+Leading EdgeBench to BedsideReducing Recurrence of C. difficile InfectionMichael G. Dieterle and Vincent B. YoungUniversity of Michigan Medical School Ann Arbor MI 48103 USA Correspondence mdieterlmed.umich.edu Clostridium difficile infection CDI is facilitated by alteration of the microbiome following antibiotic adminis- tration.
 
-bezlotoxumab is proposed to bind to the n-terminal domain putative cell-binding region of tcdb.
+Unfortunately 20 of successfully treated patients will suffer recurrence.
+
+Bezlotoxumab is proposed to bind to the N-terminal domain putative cell-binding region of TcdB.
+
+difficile treatment with antibiotics and bezlotoxumab83000 18.3 recurrence51400 11.4 recurrence     965 million   598 million453000 cases4.8 billionPotential yearly savings 367 millionReferences for further reading are available with this article online Cell 169 April 20 2017 c 2017 Elsevier Inc. 375
 

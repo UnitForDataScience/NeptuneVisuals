@@ -1,0 +1,20 @@
+A combination of soil physicochemical data and community matrices were used in a redundancy analysis RDA to visualise the effects of soil physicochem- ical properties on the structure of soil microbial commu- nities using the vegan package in R. Only significant soil physicochemical parameters as identified by an ENVFIT analysis were plotted on the resulting RDA plot.
+
+Furthermore based on PERMANOVA the four soil habitats R2  0.568 pseudo-F  13.152 P  0.001 and the nine soil niches R2  0.8306 pseudo- F  15.322 P  0.0001 presented significantly different soil physicochemistries.Diversity and structure of central Namib Desert edaphic microbial communitiesMetagenomic DNA was successfully recovered from all the soil samples with the exception of two of the four RBD soils.
+
+4 Redundancy analysis RDA plots of central Namib Desert bacterial a fungal b archaeal c communities and the response of these communities to significant soil physicochemical properties.Vectors indicated by red arrows indicate proportion length and direction orientation of variable influences on the ordinationTable 3 Variation partitioning of the structure of Domains Bacteria Fungi and Archaea into soil physicochemistry E and soil niche S and the overlap between these components ES using redundancyanalysisDomainBacteria FungiArchaeaTable 4 Results from co-occurrence null model analysis0.220.64 of the proportion of variation for the assembly of the fungal assemblages but only 17.2 0.10.58 and 20.3 0.130.64 for the bacterial and archaeal assem- blages respectively.
+
+Using microbial community finger- printing we compared the assembly of the bacterial fungal and archaeal populations of microbial communities across nine soil niches from four Namib Desert soil habitats riv- erbed dune gravel plain and salt pan.
+
+Permutational mul- tivariate analysis of variance indicated that the nine soil niches presented significantly different physicochemistries R2  0.8306 P  0.0001 and that bacterial fungal and archaeal populations were soil niche specific R2  0.64 P  0.001.
+
+Vellend .In soil ecosystems including desert soils it has been repeatedly demonstrated that soil physicochemical prop- erties climate and geographic spatial scales affect micro- bial community assemblages e.g.
+
+Four replicates per soil niche located 50 m apart were aseptically collected from veg- etation-free patches resulting in a total of 36 individual soil samples.
+
+Soil pH was averaged from triplicate measure- ments of soil slurries 4 g soil in 10 ml deionised water with a pH meter Crison Basic  20 LasecSA.
+
+Within-group variances was assessed using the betadisper function in R. Permutational multivariate analysis of vari- ance PERMANOVA was conducted to identify signifi- cant differences between soil environments and soil niches based on physicochemical data.
+
+Additionally in ID soil samples which is the only dune soil niche which con- tained OTUs from all three Domains the fungal commu- nity was the most diverse Table .
+

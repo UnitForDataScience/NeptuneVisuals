@@ -1,30 +1,20 @@
-birth mode-discriminatory underrepresented taxa in c-section mice at weaning included bacteroides ruminococcaceae lachnospiraceae and clostridiales and overrepresented taxa included s24.7 lactobacillus and erysipelotrichaceae fig.
+Blustein T. Attina M. Liu A. M. Ryan L. M. Cox M. J. Blaser L. Trasande Association of caesarean delivery with child adiposity from age 6 weeks to 15 years.
 
-gu t m icrobiotacopyright c 2017the authors someincreased weight gain by c-section functional significance of the primordial microbiomekeith a. martinez ii12 joseph c. devlin1 corey r. lacher1 yue yin1 yi cai1 jincheng wang1 maria g. dominguez-bello12epidemiological evidence supports a direct association between early microbiota impact--including c-section--and obesity.
+A. M. Silva M. Agranonik M. B. MoraisM.
 
-another differ- ence with human c-sections is that our mouse c-section involves fostering because survival c-section attempts were not successful.
+Ye J. Zhang R. Mikolajczyk M. R. Torloni A. M. Gulmezoglu A. P. Betran Association between rates of caesarean section and maternal and neonatal mortality in the 21st century A worldwide population-based ecological study with longitudinal data.
 
-email 43 of births 3. concomitantly with the increase in c-section obesity 4-6 and immune-related diseases type 1 diabetes 7 8 allergies 3 9 and celiac disease 10 are on the rise.c-section circumvents natural exposure to the vaginal microbiota during labor and birth and in addition involves preventive antibiotics which have also been related to increased risk of the modern diseases mentioned above.
+J. Salter M. J. Cox E. M. Turek S. T. Calus W. O. Cookson M. F. Moffatt P. TurnerJ.
 
-overall mice gained 33 more weight at age 15 weeks if they were born by c-section but females showed a stronger phenotypic effect with 70 higher weight gain fig.
+Moller J. Zhang A. M. Gulmezoglu M. R. Torloni The increasing trend in caesarean section rates Global regional and national estimates 1990-2014.
 
-mice that were delivered by c-section also showed a marginal increase in the pro- portion of body fat at 15 weeks of age as determined by dual-energy x-ray absorptiometry dexa fig.
+M. Cox S. Yamanishi J. Sohn A. V. Alekseyenko J. M. Leung I. Cho S. G. Kim H. LiZ.
 
-these results are consistent with the epidemiological association between c-section and increased risk of obesity 4 13-16.c-section causes abnormal development of the fecal microbiotaby examining the early gut microbiota during the 4 weeks following weaning we observed a significant segregation by delivery mode anal-ysis of similarities anosim p  0.001 fig.
+T. Mueller R. Whyatt L. Hoepner S. Oberfield M. G. Dominguez-Bello E. M. WidenHassoun F. Perera A. Rundle Prenatal exposure to antibiotics cesarean section and risk of childhood obesity.
 
-however c-section mice showed no major changes in microbiome maturity or structure fig.
+A. S. Goldani H. Bettiol M. A. Barbieri A.
 
-diversity in controls was higher at weaning and drops between week 3 and week 5 but increases by week 6 whereas no major age changes were observed in c-section-born mice before week 5. signif- icance was determined pairwise by anova test with resampling 999 times blue brackets compare vaginally born communities red brackets compare c-section com- munities and black brackets compare birth modes.
+A. Bokulich J. Chung T. Battaglia N. Henderson M. Jay H. Li A. D. Lieber F. WuG.
 
-c and d average relative abundance of bacterial taxa c with significant linear discriminant analysis lda scores d by delivery mode from weaning to 6 weeks of age.discussionone limitation of this work is that we could not tell with precision when the phenotype arose before weaning which is the time when the c-section offspring had already gained significantly more weight than the vaginally born controls fig.
-
-on the basis of microbial com- munity composition a random forest model was built with fecal samples from vaginally delivered mice as the training set to predict the maturity indices of mice born via c-section using the randomforest package in r as previously reported 24.supplementary materialssupplementary material for this article is available at fig.
-
-in general the proportions of dominant taxa discriminant for birth mode decreased throughout the first 3 weeks after weaning fig.
-
-mice in the c-section group gained more body mass after weaning with a stronger phenotype in females.
-
-the results demonstrate a causal relationship between c-section and increased body weight supporting the involvement of maternal vaginal bacteria in normal metabolic development.rights reserved exclusive licensee american association for the advancement of science.
-
-distributed under a creative commons attribution noncommercial license 4.0 cc by-nc.introductionc-section is a lifesaving practice that is needed in 10 to 15 of births to avoid risking the life of mother or child 1 2. however c-section delivery is often overused with some regions of the world reaching1division of translational medicine department of medicine new york universityschool of medicine new york ny 10016 usa.
+M. Cox M. J. Blaser Pathways in microbe-induced obesity.
 

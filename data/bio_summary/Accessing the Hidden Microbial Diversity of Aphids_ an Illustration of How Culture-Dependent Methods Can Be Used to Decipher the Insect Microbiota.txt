@@ -1,30 +1,20 @@
-total dna of the isolated bacterial and fungal strains was extracted from biomass grown at 20 degc for 2 to 5 days on 868 agar plates.identification of isolatesin order to identify the isolates and to discriminate between similar isolates a multilocus gene sequencing approach was attempted consisting in amplifying and sequencing fragments of the 16s ribosomal rna rrna gyrb and reca genes for the bacterial isolates and the nearly complete 18s rrna gene and the internal transcribed spacer its region for the fungal isolates.
+The identification at the genus level was determined based on sequencing the ITS region using universal primers for Ascomycota isolates and basidiomycete-specific primers for the Basidiomycota isolates Table S3.After identification the 68 bacterial isolates were assigned to 24 bacterial genera belonging to three different phyla i.e.
 
-the identification at the genus level was determined based on sequencing the its region using universal primers for ascomycota isolates and basidiomycete-specific primers for the basidiomycota isolates table s3.after identification the 68 bacterial isolates were assigned to 24 bacterial genera belonging to three different phyla i.e.
+Total DNA of the isolated bacterial and fungal strains was extracted from biomass grown at 20 degC for 2 to 5 days on 868 agar plates.Identification of IsolatesIn order to identify the isolates and to discriminate between similar isolates a multilocus gene sequencing approach was attempted consisting in amplifying and sequencing fragments of the 16S ribosomal RNA rRNA gyrB and recA genes for the bacterial isolates and the nearly complete 18S rRNA gene and the internal transcribed spacer ITS region for the fungal isolates.
 
-the identification of our isolates was carried out at the genus level.diagnostic pcrfor the isolates identified as potentially staphylococcus saprophyticus or staphylococcus xylosus based on the 16s rrna sequencing a diagnostic pcr was performed in order to discriminate between the two species.
+The identification of our isolates was carried out at the genus level.Diagnostic PCRFor the isolates identified as potentially Staphylococcus saprophyticus or Staphylococcus xylosus based on the 16S rRNA sequencing a diagnostic PCR was performed in order to discriminate between the two species.
 
-based on initial microscopic observations the candidate iso- lates included both bacterial 68 isolates and fungal six isolates.all bacterial isolates were initially identified at the genus level by sequencing a 570-590-bp fragment of the 16s rrna gene spanning the v3-v5 hypervariable regions table s2.
+The drop of medium containing aphid hemolymph or crushed aphid extract was then plated on 868 medium agar plates the same as the 863 medium but additionally having 17 g of agar per L. The second method consisted in aseptically placing a few disinfected aphid individuals in an Eppendorf tube containing 1 mL of 863 medium and crushing the aphids with a small pestle.
 
-we tried to improve the initial results by sequencing the nearly complete gyrb gene from a few gammaproteobacterial isolates and a 212-bp fragment of the reca gene from 36 isolates but no additional resolution was obtained at the species level.
+The obtained PCR products were further purified using the GFX PCR DNA and Gel Band Kit GE Healthcare Buckinghamshire UK according to the manufacturer's indications and sequenced at the GIGA Center at the University of Liege using the Big Dye v3.1 Kitand an ABI 3730 DNA Analyzer Applied BiosystemsLife Technologies Carlsbad CA USA.For all bacterial isolates the nearly complete 16S rRNA gene was PCR amplified using the universal primers 16SP0 and 16SP6.
 
-the obtained pcr products were further purified using the gfx pcr dna and gel band kit ge healthcare buckinghamshire uk according to the manufacturer's indications and sequenced at the giga center at the university of liege using the big dye v3.1 kitand an abi 3730 dna analyzer applied biosystemslife technologies carlsbad ca usa.for all bacterial isolates the nearly complete 16s rrna gene was pcr amplified using the universal primers 16sp0 and 16sp6.
+The same PCR primers were then used for sequencing the amplified fragments.For all fungal isolates the nearly complete 18S rRNA gene was amplified with primers PriA and PriB and using the same PCR program as for the 16S rRNA amplification except that 30 PCR cycles were performed instead of 26.
 
-those for which a 16s rrna gene sequence length higher than 1000 bp is provided in table s3 the nearly complete 16s rrna gene was sequenced using the additional primers f1 f2 f3 f4 r1 r2 r3 and r4 as well as the primers 16sp0 and 16sp6 used for the pcr amplification.in addition to the 16s rrna gene a fragment of approximately 950 bp of the gyrb gene of some gammaproteobacterial isolates i.e.
+The PCR products were resolved by elec- trophoresis on 1 wv agarose gels stained with 1 mgmL ethidium bromide.Phylogenetic TreesThe 16S and 18S rRNA gene sequeences obtained here for the bacterial and fungal isolates were optimally aligned with DNAMAN version 7 Lynnon Corp. Quebec Canada using ClustalW .
 
-artichoke a4.1 was amplified using primers gyr-320 and rgyr-1260 and a 212-bp fragment of the reca gene was amplified from 36 bacterial isolates using primers recaf and recar.
+The isolates AnA5.1 and AnA8.1 could be closely related strains of Pantoea sp.
 
-the same pcr primers were then used for sequencing the amplified fragments.for all fungal isolates the nearly complete 18s rrna gene was amplified with primers pria and prib and using the same pcr program as for the 16s rrna amplification except that 30 pcr cycles were performed instead of 26. the 18s rrna genes were then sequenced using the pcr primers and primers sr2 sr7 sr7r and sr10r.
+The Firmicutes isolates also included two- core genera that were isolated from both wild and laboratory-reared aphids i.e.
 
-in addition to the 18s rrna gene the its region was amplified with the universal primers its1 and its4 for the ascomycota iso- lates and with specific primers its1-f and its4-b for the basidiomycota isolates.
-
-the pcr products were resolved by elec- trophoresis on 1 wv agarose gels stained with 1 mgml ethidium bromide.phylogenetic treesthe 16s and 18s rrna gene sequeences obtained here for the bacterial and fungal isolates were optimally aligned with dnaman version 7 lynnon corp. quebec canada using clustalw .
-
-1 phylogenetic relationships between the bacterial isolates obtained in this study based on the 16s rrna gene sequences corresponding to the v3-v5 hypervariable regions.
-
-but in order to verify whether that fragment provided enough information for identification the nearly complete 16s rrna gene of 11 isolates i.e.
-
-only two isolates could not be well identified at the genus level isolate gossypii a4 pantoeakluyveraenterobacter and isolate aspa8.2  salinibacterium  galbitalea  homoserinimonas  table s3.
-
-furthermore a few isolates ap5a-a2.1 ap5a-a2.2 agosa2.2 agosa6.1 and agosa10.1 which could belong to the genus rosenbergiella were broadly identified as enterobacteriaceae bacterium due to the high similarity with poorly identified microorganisms isolated from other insects and organisms table s3 fig.
+The fungal isolates obtained in this study have not been previously reported in aphids and are not phylogenetically related to the yeast-like symbiont described for the aphid Hamiltonaphis styraci Fig.
 

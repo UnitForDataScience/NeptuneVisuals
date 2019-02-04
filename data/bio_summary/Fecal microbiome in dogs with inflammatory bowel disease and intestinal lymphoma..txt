@@ -1,30 +1,20 @@
-the samples clustered along principal coordinates pc 1 and 3. samples from dogs with intestinal lymphoma were separated from those obtained from healthy and ibd subjects anosim intestinal lymphoma vs healthy p0.003 intestinal lymphoma vs ibd p0.006 while no separation was observed between healthy and ibd dogs anosim p0.54.contrast no significant difference was observed between ibd and healthy dogs anosim ibd vs healthy r-0.012 p0.540.
+Samples from dogs with intestinal lymphoma were separated from those obtained from healthy and IBD subjects ANOSIM intestinal lymphoma vs healthy P0.003 intestinal lymphoma vs IBD P0.006 while no separation was observed between healthy and IBD dogs ANOSIM P0.54.contrast no significant difference was observed between IBD and healthy dogs ANOSIM IBD vs healthy R-0.012 P0.540.
 
-eubacteriaceae increased in both ibd and intestinal lymphoma dogs compared to healthy ones ibd vs healthy p0.01 intestinal lymphoma vs healthy p0.05.within the phylum proteobacteria helicobacteraceae helicobacter increased in dogs with ibd compared to those suffering from intestinal lymphoma p0.01.
+Eubacteriaceae increased in both IBD and intestinal lymphoma dogs compared to healthy ones IBD vs healthy P0.01 intestinal lymphoma vs healthy P0.05.Within the phylum Proteobacteria Helicobacteraceae Helicobacter increased in dogs with IBD compared to those suffering from intestinal lymphoma P0.01.
 
-2 showed significant separations between the samples obtained from intestinal lymphoma dogs and those retrieved from the other two groups anosim global r0.133 p0.023 ibd vs intestinal lymphoma r0.289 p0.006 intestinal lymphoma vs healthy r0.247 p0.003.
+2 showed significant separations between the samples obtained from intestinal lymphoma dogs and those retrieved from the other two groups ANOSIM global R0.133 P0.023 IBD vs intestinal lymphoma R0.289 P0.006 intestinal lymphoma vs healthy R0.247 P0.003.
 
-in addition escherichia increased in intestinal lymphoma dogs even though this trend was not statistically significant p0.06.discussionthis study evaluated the fecal microbiota in healthy dogs and dogs with ibd and intestinal lymphoma.
+Van Treuren W. Ren B. Schwager E. Knights D. Song S. J. Yassour M. Morgan X. C. Kostic A. D. Luo C. Gonzalez A. McDonald D. Haberman Y. Walters T. Baker S. Rosh J. Stephens M. Heyman M. Markowitz J. Baldassano R. Griffiths A. Sylvester F. Mack D. Kim S. Crandall W. Hyams J. Huttenhower C. Knight R. and Xavier R. J.
 
-therefore there is a possibility that dogs with intestinal lymphoma or ibd have their own distinctive characteristics in terms of dysbiosis in gi microbiota.the proportion of the family eubacteriaceae was significantly higher in dogs with intestinal lymphoma.
+Atarashi K. Tanoue T. Oshima K. Suda W. Nagano Y. Nishikawa H. Fukuda S. Saito T. Narushima S. Hase K. Kim S. Fritz J. V. Wilmes P. Ueha S. Matsushima K. Ohno H. Olle B. Sakaguchi S. Taniguchi T. Morita H. Hattori M. and Honda K. 2013.
 
-science 331 337-341. atarashi k. tanoue t. oshima k. suda w. nagano y. nishikawa h. fukuda s. saito t. narushima s. hase k. kim s. fritz j. v. wilmes p. ueha s. matsushima k. ohno h. olle b. sakaguchi s. taniguchi t. morita h. hattori m. and honda k. 2013. treg induction by a rationally selected mixture of clostridia strains from the human microbiota.
+N. Murakami S. Miyauchi E. Hino S. Atarashi K. Onawa S. Fujimura Y. Lockett T. Clarke J. M. Topping D. L. Tomita M. Hori S. Ohara O. Morita T. Koseki H. Kikuchi J. Honda K. Hase K. and Ohno H. 2013.
 
-n. murakami s. miyauchi e. hino s. atarashi k. onawa s. fujimura y. lockett t. clarke j. m. topping d. l. tomita m. hori s. ohara o. morita t. koseki h. kikuchi j. honda k. hase k. and ohno h. 2013. commensal microbe-derived butyrate induces the differentiation of colonic regulatory t cells.
+Suchodolski J. S. Markel M. E. Garcia-Mazcorro J. F. Unterer S. Heilmann R. M. Dowd S. E. Kachroo P. Ivanov I. Minamoto Y. Dillman E. M. Steiner J. M. Cook A. K. and Toresson L. 2012.
 
-nature 504 446-450. gevers d. kugathasan s. denson l. a. vazquez-baeza y. van treuren w. ren b. schwager e. knights d. song s. j. yassour m. morgan x. c. kostic a. d. luo c. gonzalez a. mcdonald d. haberman y. walters t. baker s. rosh j. stephens m. heyman m. markowitz j. baldassano r. griffiths a. sylvester f. mack d. kim s. crandall w. hyams j. huttenhower c. knight r. and xavier r. j.
+In addition Escherichia increased in intestinal lymphoma dogs even though this trend was not statistically significant P0.06.DISCUSSIONThis study evaluated the fecal microbiota in healthy dogs and dogs with IBD and intestinal lymphoma.
 
-while several studies revealed bacterial-induced lymphoma in humans  there has been no report on the investigation of fecal microbiomes in dogs with intestinal lymphoma.
+Therefore there is a possibility that dogs with intestinal lymphoma or IBD have their own distinctive characteristics in terms of dysbiosis in GI microbiota.The proportion of the family Eubacteriaceae was significantly higher in dogs with intestinal lymphoma.
 
-therefore further studies are needed to investigate host-specific dysbiosis networks and point the way towards a generalized understanding of ibd across different mammalian models.intestinal lymphoma is an important differential diagnosis of ibd in dogs .
-
-characterizing fecal microbiota of dogs with ibd and intestinal lymphoma may provide insights into the pathogenesis of these chronic gi diseases.
-
-the aim of this study was to compare the fecal microbiota in dogs with either ibd or intestinal lymphoma and healthy dogs.materials and methodsanimals and sample collectionthis study included 16 dogs with clinical signs of chronic gi disease that underwent endoscopic examination in the veterinary medical center of the university of tokyo vmc-ut between 2009 and 2012. the study protocol was approved by the animal care committee of vmc-ut and informed consent was obtained from the owners of each dog.
-
-only bacterial taxa that were present in at least half of the dogs either ibd intestinal lymphoma or healthy were included in the analysis.
-
-the breeds were shiba inu n2 chihuahua n1 jack russell terrier n1 labrador retriever n1 shih-tzu n1 miniature dachshund n1 and toy manchester terrier n1.the control group included 15 healthy dogs miniature dachshund n2 chihuahua n2 beagle n1 french bulldog n1 jack russell terrier n1 labrador retriever n1 maltese n1 miniature schnauzer n1 papillon n1 siberian husky n1 shiba inu n1 yorkshire terrier n1 and pembroke welsh corgi n1.group compositions in terms of sex age and body weight showed no difference between the three groups table 1. cibdai and ccecai scores differed significantly between the three groups however there was no significant difference between the ibd and intestinal lymphoma groups.bacterial diversityrarefaction curves are shown in fig.
-
-at phylum level there was no difference between diseased and healthy dogs table s2 however significant differences were identified at lower phylogenetic levels.within the phylum actinobacteria an increased proportion of actinomyces was observed in ibd compared to intestinal lymphoma p0.05.within the phylum bacteroidetes the families porphyromonadaceae and paraprevotellaceae showed significant changes.
+Beloshapka A. N. Dowd S. E. Suchodolski J. S. Steiner J. M. Duclos L. and Swanson K. S. 2013.
 

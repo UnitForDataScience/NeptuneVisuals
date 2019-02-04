@@ -1,30 +1,20 @@
-the data were obtained from gelatine and barite samples taken from the spots with adhesive tape and from 1-mm-thick samples of paper trimmed from the margins of the print.
+The techniques were applied to two prints collecting data from attacked and not attacked areas in order to point out the possible differences caused by the action of microorganisms.Materials and MethodsPhotographs Sampling Microbial Cultivation and IdentificationTwo different gelatine-silver photographs inv.
 
-it is of basic and extreme importance for this sector to carry out research based on simulation of the interaction of fungi and bacteria with compounds like barite and gelatine in model samples and in particular to establish a causative relationship between halotolerant species and the formation of foxing stains on gelatine prints.acknowledgements this work was financed by the slovak vega agency project number 2010314 bprotecting our memories investiga- tion into the biodeterioration of photographic and cinematographic materials.we would like also to acknowledge dr. lavinia ciuffa acting curator of the photographic archive of american academy in rome for her availability and for proving us the opportunity to study these interesting prints.referencesaas ja paster bj stokes ln olsen i dewhirst fe 2005 defining the normal bacterial flora of the oral cavity.
+In the last years it has been demonstrated that two kinds of foxing exist namely biological and chemical can exist and are clearly detectable and can be differentiated by the topographic modification in- duced in the attacked support  .The objectives of this investigations were the following a to study the nature and origin of stains similar to foxing on the surface of gelatin prints b to screen the microbiome developing on photographs when stored in metallic drawers of common use which apparently favor microbial growth and c to evaluate the role of a different chemical composition and manufacture of the photographs in the defacement phenomena.In this work the foxing-like stains appearance on two gelatine- silver prints supported by cardboard were assessed by means of classical microbiological culturing culture-independent approach scanning electron microscopy-energy dispersive spectroscopy SEM-EDS and m-Raman spectroscopy supported by X-ray fluo- rescence analysis XRF.
 
-only following an initial ob- servation of the samples using sem in vp mode at 20 kv some of the samples were coated in gold using a baltec sputter coater and then subjected to further analysis in high vacuum hv mode.
+Means in a row without a common superscript letter differ P  0.05 as analyzed by one-way ANOVA and the Tukey's testBefore discussing the Raman results it must be underlined that the co-occurrence of different species--both fungi and bacteria--on the photographic prints does not allow a detailed analysis of the spectra since it is impossible to differentiate the contribution of each species.Both examined prints were realized on baryta papers with silver halide salts suspended in gelatine as can be seen in Figs.
 
-samples were analyzed by eds after sem observations.sem images of the samples are shown in fig.
+The presence of potentially halotolerant species could be due to the content of various salt complexes within the gelatine prints including those that microorganisms can deposit during colonization.SEM-EDS m-RAMAN and XRF succeeded in distinguishing the manufacture of the two prints and the structur- al changes occurring in the attacked areas in contrast to those not attacked.
 
-the eds measurements were taken at several points across the samples where possible spotting of different components was distin- guishable by sem-bsd imaging gelatine baryta layer pre- cipitated minerals and particles paper fibers.
+Differences in elemental composition between the prints and the relevant layers obtained using EDS were based on repeated measurements obtained from a number of small samples gained from the materials and mounted in the SEM chamber while XRF data were obtained from several areas se- lected on the entire prints.
 
-the gelatine samples obtained from the stains of inv.
+A few differences between the results obtained with the two different techniques could account for the different kinds of measured objects samples taken from prints and the prints themselves.
 
-data were obtained from gelatine and barite samples taken from the spots with adhesive tape and analyzed by eds after sem observations.
+They found that in some cases the initial cause of foxing was actually a group of spores of conidia that had been deposited on the surface of paper prior to printing and had germinated in situ during the slow drying of the paper.The presence of dead fungal and bacterial debris settled in a series of contamination events to which the photographic prints had been exposed in the past was actually the common denominator of the damage affecting the two objects.ConclusionsThe study distinguished the manufacture of the two prints using SEM-EDS and XRF and described the structural and chemical changes occurring in attacked areas in contrast to those not attacked using m-RAMAN.
 
-15438. the data were obtained from gelatine and barite samples taken from the spots with adhesive tape.
+15438 and inv.
 
-a gelatin print is generally constituted by i a layer of gelatine where the image is created with emulsified silver salt a photosen- sitive substance finely dispersed in gelatine and ii a primary paper support covered with a layer of barium sul- fate baryta that makes the paper as smooth as possible and suitable for receiving the emulsion.
+Measurements were performed with thetube operating at 25 kV 0.300 mA in the 0-25 keV range with a resolution of 160 eV at 5.9 keV lasting 10-60 min for each acquisition.DNA and RNA Extraction from Photographic SamplesTotal DNA directly from a portion of adhesive tape of the samples inv.
 
-gelatine for photographic use is primarily alkaline-processed gelatine espe- cially for emulsion preparation.
-
-in the initial phase of the study a sudden and prolonged phase of alteration of temperature and humidity conditions was recorded in the photo library located at the street level of the storage building t  from 22 to 18 degc rh  55 to 67. the prints had been long retained within metallic draw- er units and showed numerous small spots on surface associ-ated with the development of a fungal mycelium network.the biological samples were collected by the use of an adhesive tape fungi tapetm did milan italy with little adhesive strength that allowed to capture the microorganisms with no damage of the photograph.
-
-the samples were subse- quently divided to different portions to be utilized for micro- biological cultivation sem observation and dna and rna extraction.adhesive tape strip subsamples were immersed in different cultivation media malt extract agar mea and dichloran- glycerol dg18 both from oxoid basingstoke uk for fungi and biologtm universal growth agar rigel s.r.l.
-
-the resulting sequences were directly compared with those in genbank using blast program  and were subsequently deposited in genbank under the accession numbers ku363957-ku363960.optical microscopy and sem-eds analysisadhesive tape samples and thin sections obtained by conser- vators from the edge of the prints were analyzed using a var- iable pressure sem instrument evo50 carl-zeiss electron microscopy group fitted with a detector for electron backscattered diffraction bsd.
-
-sputtering was performed under an ar- gon gas flow at a working distance of 50 mm at 0.05 mbar anda current of 40 ma for 60 s so as to create a film of gold of about 15 nm thickness.chemical characterization of the inorganic constituents of the samples was performed by means of electron dispersive spectroscopy eds.
-
-one-way analysis of vari- ance anova was used when comparing the different com- ponents present in the samples and the significance of the differences was tested at 95 confidence.
+15438 and inv.
 

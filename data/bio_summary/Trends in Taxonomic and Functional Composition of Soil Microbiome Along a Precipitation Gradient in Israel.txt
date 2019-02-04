@@ -1,0 +1,20 @@
+2 Relative abundance of dominant bacterial phyla observed in shotgun metagenomic sequence data along the precipitation gradientTable 2 Relative abundance means - SD of bacterial phyla and functional gene categories at subsystem level 1 SEED database in different soils collected along the precipitation gradientTaxonomy and functionAridSemiaridMediterraneanHumidMediterraneanBacterial phylumcompoundsPhages prophage transposable element plasmids1.53 - 0.07a1.37 - 0.02b1.44 - 0.03ab1.36 - 0.03bMean values in a row with different superscript letters were significantly different P  0.05 ANOVA Tukey's HSDTable 3 Environmental variables of sites sampled in this study along the precipitation gradientAridSemiaridMediterraneanHumid MediterraneanMAT degC18.1c17.0d18.4b19.1aMAP mm90d300c537b780aElevation m.a.s.l.470d590b620a500cpH7.90 - 0.097.82 - 0.107.78 - 0.137.70 - 0.05Electric conductivity mS cm-1131.1 - 12.3a102.0 - 27.6ab40.4 - 27.2c55.1 - 15.3bcDifferent superscript letters in a row indicate significant differences at P  0.05 based on ANOVA followed by Tukey's HSD testRNA protein metabolism and cell divisioncell cycle were more prevalent in soils from arid environment Table .
+
+We hypoth- esized that there would be a distinct taxonomic and functional soil community for each precipitation zone with arid environ- ments having lower taxonomic and functional diversity great- er relative abundance of stress response and sporulation- related genes and lower relative abundance of genes related to nutrient cycling and degradation of complex organic com- pounds.
+
+As hypothesized our results showed a distinctBinu M. Tripathi and Itumeleng Moroenyane equally contributed to the workJonathan M. Adams Yosef Steinberger 1 Division of Polar Life Sciences Korea Polar Research Institute 26 Songdomirae-ro Yeonsu-gu Incheon 21990 Republic of Korea2 Institut National de la Recherche Scientifique Centre INRS-Institut Armand-Frappier 531 boulevard de Prairies Laval Quebec H7V 1B7 Canada3 The Mina and Everard Goodman Faculty of Life Sciences Bar-Ilan University 529002 Ramat-Gan Israel4 Department of Biological Sciences College of Natural Sciences Seoul National University 1 Gwanak-ro Gwanak-guSeoul 151-742 Republic of Koreataxonomic and functional community in each precipitation zone revealing differences in soil taxonomic and functional selection in the different climates.
+
+The shotgun metagenomic sequence data used in this study are deposited in the MG-RAST server under project ID 10865 .Statistical AnalysisThe taxonomic and functional diversity Shannon index were calculated from M5NR taxonomic species level and SEED subsystem functional level 3 profiles respectively.
+
+While many soils have been analyzed from the point of view of functional gene profiles  - there has been little study of trends in metagenome structure and function along precipitation gra- dients.
+
+This is based upon observa- tions of soils from precipitation gradients around the world which often show differences in taxonomic com- munity composition  .That there will be lower taxonomic and functional diver- sity arid environments.
+
+All the environmental variables were included in the RDA analysis.To test the effect of precipitation gradient on taxonomic and functional diversity we used ANOVA followed by Tukey's HSD post hoc test with Benjamini-Hochberg correction P  0.05 in R software .
+
+However of the measured environmental variables only MAP significantly influenced the taxonomic pseudo-F  8.6 P  0.02 and functional pseudo-F  8.8 P  0.02 community composition of soil microbiome along the precipitation gradient Fig.
+
+However functional diversity varied significantly P  0.05 among sites along the precipitation gradient with arid and Mediterranean sites having significantly lower func- tional diversity than semiarid and humid Mediterranean sites all P  0.05 Fig.
+
+3 RDA of microbial community composition of a M5NR taxonomic profile at species level and b SEED functional profile at subsystem level 3 of shotgun metagenomic sequences from samples along the precipitation gradient.
+

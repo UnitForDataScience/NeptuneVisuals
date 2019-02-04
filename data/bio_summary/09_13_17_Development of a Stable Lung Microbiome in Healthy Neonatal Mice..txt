@@ -1,0 +1,20 @@
+We hypothesize that in healthy individuals i the microbial diversity is rela- tively low in the lungs of neonatal mice but increases over time ii the dynamics of shifts in bacterial community com- position is higher in early life but stabilizes with age and iii changes in environmental microbiome have a clear impact on the LRT microbial community structure in mice mainly at younger development stages.Materials and MethodsSample DescriptionLung tissue samples were obtained from 40 female BALBc mice Charles River Laboratories Sulzfeld Germany at the age of 5 days neonate 3 weeks juvenile 2 months young adult 4.5 months mature adult and 9 months middle age respectively.
+
+Adonis was performed on Bray-Curtis distances using 999 Monte Carlo permutations to estimate the p value for age and treatment age isolation groups p  0.001 R2  0.417 age intervention groups p  0.001 R2  0.460 treatment p  0.012 R2  0.031.
+
+In contrast animals of the age group 3 weeks revealed compar- atively high but non-significant OTU evenness Simpson's evenness compared to 5 days and 2 months whereas a trend towards increasing evenness was perceived with age Fig.
+
+a which was confirmed as statistically sig- nificant for both isolation age p  0.001 R2  0.417 and intervention groups age p  0.001 R2  0.460.
+
+Table S4.A summary of significantly differentially abundant taxa responding to either age treatment or both age and treatment is given in Table .
+
+The Wilcoxon rank-sum test was performed to determine statistical significance of alpha diversity analysesrespectively and thus the most overlapping taxa were ob- served between the two oldest age groups.As main responders to both age and treatmentAggregatibacter and Rothia were almost exclusivelyrepresented within the 5-day intervention group p  0.0001 whereas the genus Bradyrhizobium showed the opposite trend.
+
+We could clearly showthat the diversity of the bacterial community harbored in the murine lung increases with age.
+
+Our findings elucidate the dynamic nature of the early-life lung microbiota and its stabilization with age.
+
+To this end we characterized the temporal development of the murine lung microbiota from birth to adult age and investigated the presence of a core microbiome as well as the assumed stabilization process with time.
+
+Twenty mice four animals per age group were housed in individually ventilated cages in a specific pathogen-free facility with a 12-h day-night cycle and provided with standard rodent chow and water ad libitum.
+

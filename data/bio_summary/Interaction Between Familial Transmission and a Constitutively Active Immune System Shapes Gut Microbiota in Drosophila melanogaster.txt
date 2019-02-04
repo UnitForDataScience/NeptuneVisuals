@@ -1,30 +1,20 @@
-moreover using cr biological repeats figure s2 we obtained similar results adonis p-value  0.02842 anosim p-value  0.052877 and permanova p-value  0.05821 which confirmed the role of hyperactive immunity and the consistency of the results across different generations and over any seasonal fluctuations of microbiota wong et al.
+Moreover using CR biological repeats Figure S2 we obtained similar results adonis P-value  0.02842 anosim P-value  0.052877 and permanova P-value  0.05821 which confirmed the role of hyperactive immunity and the consistency of the results across different generations and over any seasonal fluctuations of microbiota Wong et al.
 
-cr conventionally reared cz conditionalized ns not significant.in humans irritable bowel disease ibd has been linked with characteristic shifts in the composition of the intestinal microbiota reinforcing the view that ibd results from altered interactions between intestinal microbes and the immune system for review see hyland et al.
+CR conventionally reared CZ conditionalized ns not significant.In humans Irritable Bowel Disease IBD has been linked with characteristic shifts in the composition of the intestinal microbiota reinforcing the view that IBD results from altered interactions between intestinal microbes and the immune system for review see Hyland et al.
 
-this would favor the growth of oxygen-dependent bacteria like corynebacteriaceae cr conditions and lacto- bacillaceae cz conditions which are present at high num- bers in the pirktrabid strain for a review of the so-called oxygen hypothesis see rigottier-gois 2013. therefore constitutive immune activity in drosophila causes a shift in the gut microbiota favoring aerobes typical of an inflamed gut in humans.recent modeling and experimental analysis in zebrafish rolig et al.
+It has been shown that microbiota of littermate mice are more similar to each other than the microbiota of genetically identical mice from different mothers Ley et al.
 
-for example the unweighted unifrac distance between 20 days cz yw and its cr self was 0.9023 whereas between 20 days cz yw and cz dgrp-208 was 0.8277. the weighted unifrac distance between 20 days cz yw and its cr self was 0.7708 whereas between 20 days cz yw and cz dgrp-208 was 0.6211. therefore at 20 days gut microbiota diversity was closer between cz flies of dgrp-208 and yw than between cz and cr flies of the same strain.to compare the two fly strains in cz conditions we took into account relative abundance and a diversity t-tests of dgrp-208 and yw see table s4.
+2005 while in humans the microbiota of siblings is more similar than that of unrelated individuals Turnbaugh et al.
 
-when each difcr time point was compared to the corresponding yw cr time point microbiota diversity of dif-key flies closely followed their ge- netic background across the early- and midlife span but dif- ferentiated from yw at day 40 figure 1b and table s4.specifically a diversity t-tests for shannon h and simpson indices with respective p-values 0.7908 and 0.4493 for day 2 0.1089 and 0.7273 for day 7 0.2126 and 0.6528 for day7 repeats 0.8431 and 0.0190 for day 14 0.3250 and0.1263 for day 20 0.3650 and 0.2165 for day 20 repeats and 0.0001 for day 40. interestingly both 20- and 40-day- old dif-key cr sibling flies resembled each other indicating that their gut microbiota did not undergo any significant changes from middle age onwards figure 1 a-c. un- weighted b-diversity metrics taking into account phyloge- netic relationship confirmed that the microbiota of 20- and 40-day-old dif-key cr sibling flies had the smallest unifrac distance 0.7648 between each other than with any other time pointgenotype figure 1d and table s6.
+Diet is another environ- mental factor which especially influences the composition of intestinal microbiota as has been shown in germ-free mice colonized by human microbiota and switched from a low-fat to a high-fathigh-sugar diet Turnbaugh et al.
 
-it has been shown that microbiota of littermate mice are more similar to each other than the microbiota of genetically identical mice from different mothers ley et al.
+In flies when different Drosophila species feeding in the wild on sour- ces as varied as flower fruit or mushroom were transferred to the same food all individuals obtained the same microbiota Chandler et al.
 
-2005 while in humans the microbiota of siblings is more similar than that of unrelated individuals turnbaugh et al.
+In addition these authors transferred isogenic flies with identical microbiota from the same food medium to different media and found that dominant bacterial species varied in relation to the food Chandler et al.
 
-diet is another environ- mental factor which especially influences the composition of intestinal microbiota as has been shown in germ-free mice colonized by human microbiota and switched from a low-fat to a high-fathigh-sugar diet turnbaugh et al.
+For example the cecal microbiota of TLR-5-deficient mice differed from wild- type littermate controls in over a 100 bacterial species Vijay- Kumar et al.
 
-in flies when different drosophila species feeding in the wild on sour- ces as varied as flower fruit or mushroom were transferred to the same food all individuals obtained the same microbiota chandler et al.
+Moreover MyD88-deficient mice harbored a cecal microbiota with higher levels of Rikenellaceae and Porphyromonadaceae Wen et al.
 
-2011. in addition these authors transferred isogenic flies with identical microbiota from the same food medium to different media and found that dominant bacterial species varied in relation to the food chandler et al.
-
-for example the cecal microbiota of tlr-5-deficient mice differed from wild- type littermate controls in over a 100 bacterial species vijay- kumar et al.
-
-2010. moreover myd88-deficient mice harbored a cecal microbiota with higher levels of rikenellaceae and porphyromonadaceae wen et al.
-
-2008 while myd88 signal- ing in t cells was found to direct iga-mediated control of microbiota kubinak et al.
-
-2015. however other studies found that mice deficient in myd88 or in tlr2 tlr4 tlr5 and tlr9 were not detectably different in their intes- tinal microbiota from their wild-type littermates ubeda et al.
-
-recently a heterologous model where transgenic rats on the lewis background express- ing human hla-b27 and b2-microglobulin was studied for effects on their gut microbiome lin et al.
+2008 while MyD88 signal- ing in T cells was found to direct IgA-mediated control of microbiota Kubinak et al.
 

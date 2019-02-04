@@ -1,30 +1,20 @@
-this makes alignment based metage- nomics faster than abundance estimation comparable in speed to pure taxonomic classifiers and more accurate than all existing methods.the primary limitation of k-slam and all other homol- ogy based classifiers is that taxonomy cannot be predicted if a similar species does not already exist in the database.
+k-SLAM is far more accurate on these species due to pseudo-assembled contigs extending beyond conserved regions.Although k-SLAM's accuracy is consistently high across the 100 species it can be seen that it is particularly accu- rate for the 20 of species that the other classifiers strug- gled most with.
 
-this can only be done with an alignment based classifier and k-slam makes this computationally tractable.finding individual alignment positions instead of purely taxonomic classification can aid with revealing false positive species as they will often only have reads mapping to a small subset of genes.the taxonomic classification of a mixed data set indicates that k-slam could be used for binning prior to metage- nomic assembly or to screen for contaminants in an isolate data set.
+These species often have high genus accuracy 95 but low species accuracy often 50 suggesting that they share large regions of their genomes with other species in their genus.
 
-k-slam is far more accurate on these species due to pseudo-assembled contigs extending beyond conserved regions.although k-slam's accuracy is consistently high across the 100 species it can be seen that it is particularly accu- rate for the 20 of species that the other classifiers strug- gled most with.
+PhymmBL  and RITA  combine com- position and homology based methods to improve accu- racy.Abundance based methods such as MetaPhlAn  use alignment to a greatly reduced database of specific genes to increase speed of analysis and produce a report of the rela- tive abundances of species present in the sample.
 
-these species often have high genus accuracy 95 but low species accuracy often 50 suggesting that they share large regions of their genomes with other species in their genus.
+This makes alignment based metage- nomics faster than abundance estimation comparable in speed to pure taxonomic classifiers and more accurate than all existing methods.The primary limitation of k-SLAM and all other homol- ogy based classifiers is that taxonomy cannot be predicted if a similar species does not already exist in the database.
 
-phymmbl  and rita  combine com- position and homology based methods to improve accu- racy.abundance based methods such as metaphlan  use alignment to a greatly reduced database of specific genes to increase speed of analysis and produce a report of the rela- tive abundances of species present in the sample.
+This data set which has all species in equal pro- portions was designed so that it can be seen how the ac- curacy of each classifier changes for different species.
 
-the small difference between species and genus accuracy for k- slam compared to kraken is due to the increased specificity of taxonomic assignments given by k-slam's pseudo-assembly.speed and computational requirementswith the size of metagenomic data sets rapidly increasing the speed of taxonomic assignment algorithms has become more important.
+A total of 96 of reads were assigned correctly at the species level versus 84 for RITA 91 for CLARK 92 for Kraken 94 for PhymmBL and 94 for NBC.In order to determine which species were classified best by each program a graph of per-species accuracy was plotted see Figures and .1652 Nucleic Acids Research 2017 Vol.
 
-a k-mer based method provides greater taxonomic accuracy than other classifiers and a three orders of magnitude speed increase over alignment based approaches.
+These difficult species were examined and it was found that there were 17 bacteria that appeared in the bottom 25 species of all classifiers excluding k-SLAM see Supplementary File 1 Supplementary Table S1.
 
-there are currently three main approaches to the taxonomic analysis of these data sets sequence homology composition based inference through machine learning and abundance estimation.homology based methods aim to find nucleotide se- quences that are common to both the reads and a database and use these to infer taxonomy.
+The advantage of pseudo-assembly can be seen from Figures and  improving the classification accuracyon difficult species above that of other methods 41 more reads classified than Kraken and increasing the total num- ber of reads successfully classified from 92 to 96.In order to determine which classifier performs best on a sample with a more realistic distribution of species the Metabenchmark data set was analyzed using the three fastest classifiers k-SLAM Kraken and CLARK.
 
-all antibiotic resistance and toxin producing genes from the study as well as their predicated taxonomic origins were found.alignment based methods produce greater accuracy than composition based methods and also allow genes to be iden- tified.
+Comparison of species and genus classification accuracy for the bacterialarchaeal species from the Metabenchmark  data set.
 
-this data set which has all species in equal pro- portions was designed so that it can be seen how the ac- curacy of each classifier changes for different species.
-
-a total of 96 of reads were assigned correctly at the species level versus 84 for rita 91 for clark 92 for kraken 94 for phymmbl and 94 for nbc.in order to determine which species were classified best by each program a graph of per-species accuracy was plotted see figures and .1652 nucleic acids research 2017 vol.
-
-pseudo-assembly increases accuracy from 92 to 96. there are 17 species which are classified poorly for all programs see figure .figure 2. enlargement of figure showing only the 15 worst classified species.
-
-these difficult species were examined and it was found that there were 17 bacteria that appeared in the bottom 25 species of all classifiers excluding k-slam see supplementary file 1 supplementary table s1.
-
-the advantage of pseudo-assembly can be seen from figures and  improving the classification accuracyon difficult species above that of other methods 41 more reads classified than kraken and increasing the total num- ber of reads successfully classified from 92 to 96.in order to determine which classifier performs best on a sample with a more realistic distribution of species the metabenchmark data set was analyzed using the three fastest classifiers k-slam kraken and clark.
-
-4 1653figure 3. comparison of species and genus classification accuracy for the bacterialarchaeal species from the metabenchmark  data set.
+BLAST and other alignment based methods have high accuracy when the sam- pled species exists in the genome database but struggle to infer taxonomy otherwise.
 

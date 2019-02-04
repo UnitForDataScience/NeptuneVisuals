@@ -1,30 +1,20 @@
-2017 241 99-108. vomiero a. ponzoni a. comini e. ferroni m. faglia g. sberveglieri g. direct integration of metal oxide nanowires into an effective gas sensing device.
+Concina I. Falasconi M. Gobbi E. Bianchi F. Musci M. Mattarozzi M. Pardo M. Mangia A. Careri M. Sberveglieri G. Early detection of microbial contamination in processed tomatoes by Electronic Nose.
 
-2012 3 368-377.  hackner a. habauzit a. muller g. comini e. faglia g. sberveglieri g. surface ionization gas detection on platinum and metal oxide surfaces.
+Ponzoni A. Depari A. Falasconi M. Comini E. Flammini A. Marioli D. Taroni A. Sberveglieri G. Bread baking aromas detection by low-cost electronic nose.
 
-proc.2001 6 167-169.  ponzoni a. depari a. falasconi m. comini e. flammini a. marioli d. taroni a. sberveglieri g. bread baking aromas detection by low-cost electronic nose.
+Ponzoni A. Baratto C. Bianchi S. Comini E. Ferroni M. Pardo M. Vezzoli M. Vomiero A. Faglia G. Sberveglieri G. Metal Oxide Nanowire and Thin-Film-Based Gas Sensors for Chemical Warfare Simulants Detection.
 
-this combined concept of sensors that exploit different gas sensing mechanisms and working conditions could allow us to reach a deeper understanding of the metal oxide semiconductors gas sensing behavior.to take advantage of different sensing mechanism applied to the same semiconductor it is possible to realize a multisensor chip for gas detection featuring electrical optical magneto-optical and surface ionization sensors.
+Sberveglieri G. Baratto C. Comini E. Faglia G. Ferroni M. Pardo M. Ponzoni A. Vomiero A. Semiconducting tin oxide nanowires and thin films for Chemical Warfare Agents detection.
 
-sensors 2013 13 14813-14838.  galstyan v. vomiero a. concina i. braga a. brisotto m. bontempi e. faglia g. sberveglieri g. vertically aligned tio2 nanotubes on plastic substrates for flexible solar cells.
+Ponzoni A. Comini E. Concina I. Ferroni M. Falasconi M. Gobbi E. Sberveglieri V. Sberveglieri G. Nanostructured metal oxide gas sensors a survey of applications carried out at sensor lab Brescia Italy in the security and food quality fields.
 
-thin solid films 2009 517 6156-6160. ponzoni a. baratto c. bianchi s. comini e. ferroni m. pardo m. vezzoli m. vomiero a. faglia g. sberveglieri g. metal oxide nanowire and thin-film-based gas sensors for chemical warfare simulants detection.
+Galstyan V. Comini E. Baratto C. Ponzoni A. Ferroni M. Poli N. Faglia G. Bontempi E. Brisotto M. Sberveglieri G. Large surface area biphase titania for chemical sensing.
 
-eng.2011 25 1557-1560. di natale c. macagnano a. martinelli e. paolesse r. d'arcangelo g. roscioni c. finazzi-agro a. d'amico a. lung cancer identification by the analysis of breath by means of an array of non-selective gas sensors.
+Ciprian R. Baratto C. Giglia A. Koshmak K. Vinai G. Donarelli M. Ferroni M. Campanini M.Comini E. Ponzoni A. et al.
 
-it consists of a pneumatic assembly for dynamic sampling pump electro-valve electronic flow meter a miniaturized gas sensor chamber of 5 ml internal volume which hosts up to 10 sensors a home-made electronic board for sensors control and signals acquisition and a dedicated cloud-based software for data handling visualization and training.the sensing elements are zinc and tin oxide crystalline nanowires and more traditional thin film mox sensors.
+In Proceedings of the 2016 IEEE Sensors Orlando FL USA 30 October-2 November 2016.Falasconi M. Gobbi E. Pardo M. Della Torre M. Bresciani A. Sberveglieri G. Detection of toxigenic strains of Fusarium verticillioides in corn by electronic olfactory system.
 
-recently the relation between the sensing performance and the size of single nanowire devices was also confirmed experimentally in literature .figure 4. a energy band diagram in a single partially-depleted nanowire and fully-depleted nanowireb energy band diagram at nanowire-nanowire junction that could be modeled as a resistor c sketch of a conductometric mat-based device.in most conductometric sensing devices however a mat of nanowires instead of a single nanowire forms the sensing layer figure c. in these devices nanowires are connected forming a dense network and the junctions between nanowires play a strong role in the sensing mechanism.
+Vomiero A. Ponzoni A. Comini E. Ferroni M. Faglia G. Sberveglieri G. Direct integration of metal oxide nanowires into an effective gas sensing device.
 
-chemosensors 2016 4 6. galstyan v. comini e. faglia g. vomiero a. borgese l. bontempi e. sberveglieri g. fabrication and investigation of gas sensing properties of nb-doped tio2 nanotubular arrays.
-
-2015 208 165-170. galstyan v. comini e. baratto c. ponzoni a. ferroni m. poli n. faglia g. bontempi e. brisotto m. sberveglieri g. large surface area biphase titania for chemical sensing.
-
-after preparation the sample was annealed at 300 c in air.figure 11. a sketch of the sensing device b sem image of zno nrs surface c scheme of moke readout for gas sensing application.we have chosen zno as the material which interacts with the gas is zno since it is a well know semiconductor in sensing field and it can be grown in nrs shape to ensure high surface to volume ratio needed for high sensor response .
-
-2016 6 42517-42521. ciprian r. torelli p. giglia a. gobaut b. ressel b. vinai g. stupar m. caretta a. de ninno g. pincelli t. et al.
-
-2016 6 34225-34232. sberveglieri g. baratto c. comini e. faglia g. ferroni m. pardo m. ponzoni a. vomiero a. semiconducting tin oxide nanowires and thin films for chemical warfare agents detection.
-
-2004 103 272-276. ponzoni a. zappa d. comini e. faglia g. sberveglieri g. surface ionization on metal oxide gas sensors.
+Nunez Carmona E. Sberveglieri V. Ponzoni A. Galstyan V. Zappa D. Pulvirenti A. Comini E. Detection of food and skin pathogen microbiota by means of an electronic nose based on metal oxide chemiresistors.
 

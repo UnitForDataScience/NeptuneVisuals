@@ -1,30 +1,20 @@
-the results confirmed that tfrc transferrin receptor andtable 2 most differentially expressed genes in colonocytes isolated from rats fed a high-protein diet compared to rats fed a normal- protein dietgene symbol gene namefold change q-valuefrom rats fed an hpd or an npd were markedly differ- ent.
+The results confirmed that Tfrc transferrin receptor andTable 2 Most differentially expressed genes in colonocytes isolated from rats fed a high-protein diet compared to rats fed a normal- protein dietGene Symbol Gene nameFold change q-valuefrom rats fed an HPD or an NPD were markedly differ- ent.
 
-a trend towards lower dna damage in colonocytes isolated from hpd-fed rats was observed when compared to npd- fed rats p  0.06.effects of the high-protein diet on nf-kb related path- ways in colonocytesan important finding of the present study was the pre- dicted downregulation of nf-kb signaling canonicalpathway in colonocytes of hpd-fed rats z-score -3.13 fig.
+a trend towards lower DNA damage in colonocytes isolated from HPD-fed rats was observed when compared to NPD- fed rats p  0.06.Effects of the high-protein diet on NF-kB related path- ways in colonocytesAn important finding of the present study was the pre- dicted downregulation of NF-kB Signaling canonicalpathway in colonocytes of HPD-fed rats Z-score -3.13 Fig.
 
-fold changes in de genes between hpd and npd-fed rats ranged from 5.85 mt2a metallothionein 2a to -2.09 slc39a4 solute carrier family 39 zinc transporter member 4. the 20 top de genes between hpd and npd- fed rats are listed in table while the full list is shown in additional file table s1.
+The functional analysis revealed that thefunction Repair of DNA was significantly enriched inTable 3 Significantly enriched functions related to cellular metabolism in the set of genes differentially expressed in colonocytes isolated from rats fed a high-protein diet compared to rats fed a normal-protein diet.
 
-the functional analysis revealed that thefunction repair of dna was significantly enriched intable 3 significantly enriched functions related to cellular metabolism in the set of genes differentially expressed in colonocytes isolated from rats fed a high-protein diet compared to rats fed a normal-protein diet.
+Although visually Ki67-labelling seemed generally more intense in the crypts of rats fed an HPD there was no significant difference with NPD-fed rats Fig.
 
-although visually ki67-labelling seemed generally more intense in the crypts of rats fed an hpd there was no significant difference with npd-fed rats fig.
+c. To evaluate the effect of the level of protein intake on colonic barrierTable 4 Significantly enriched functions in the set of genes differentially expressed in colonocytes isolated from rats fed a high-protein diet compared to rats fed a normal-protein diet.
 
-c. to evaluate the effect of the level of protein intake on colonic barriertable 4 significantly enriched functions in the set of genes differentially expressed in colonocytes isolated from rats fed a high-protein diet compared to rats fed a normal-protein diet.
+After 15 min distal colon transmural resistance tended p  0.07 to be higher in rats fed an HPD when compared to rats fed an NPD Fig.
 
-after 15 min distal colon transmural resistance tended p  0.07 to be higher in rats fed an hpd when compared to rats fed an npd fig.
+The HPD also induced a downregulation of genes encoding proteins involved in several DNA-repair pathways namely base excision repair Ogg1 Ung non-homologous end joining Nhej1 and nucleotide excision repair Ddb1  but this was not associated with significant changes in DNA dam- ages in colonocytes of rats fed an HPD when compared to rats fed an NPD.
 
-the hpd also induced a downregulation of genes encoding proteins involved in several dna-repair pathways namely base excision repair ogg1 ung non-homologous end joining nhej1 and nucleotide excision repair ddb1  but this was not associated with significant changes in dna dam- ages in colonocytes of rats fed an hpd when compared to rats fed an npd.
+These results are consistent with ourprevious electronic microscopy observation showing that there was no alteration of tight junction structure in colonic epithelium of rats fed an HPD 10 and with another study showing that colonic barrier function is preserved in HPD- fed piglets A very striking result of the present study was the inhib- ition of the NF-kB pathway in colonocytes of rats fed an HPD.
 
-these results are consistent with ourprevious electronic microscopy observation showing that there was no alteration of tight junction structure in colonic epithelium of rats fed an hpd 10 and with another study showing that colonic barrier function is preserved in hpd- fed piglets a very striking result of the present study was the inhib- ition of the nf-kb pathway in colonocytes of rats fed an hpd.
+Indeed five mucin genes including Muc2 the major gel- forming mucin were upregulated in epithelial cells of HPD-fed rats in agreement with previous studies in rats and pigs  .
 
-indeed five mucin genes including muc2 the major gel- forming mucin were upregulated in epithelial cells of hpd-fed rats in agreement with previous studies in rats and pigs  .
-
-in rats fed an hpd the height of colonocyte brush border a key functional feature of absorptive cells is markedly reduced probably in relation with the observed perturbation of mitochon- drial metabolism an hpd also modifies goblet cell distribution in rat colonic epithelium together with anc the authors.
-
-the creative commons public domain dedication waiver applies to the data made available in this article unless otherwise stated.increased gene expression of mucin 3 muc3 while it does not change colonic mucosal immune response except for a decreased interleukin-6 il-6 mrna expression in hpd-fed piglets mucin gene expres- sion as well as pro- and anti-inflammatory cytokines are upregulated in the colonic mucosa without modification of the histological aspect in this latter animal model there is no change in colonic barrier function after the hpd conflicting results according to the model andor the type of hpd used have been reported regarding the induction of dna damage in colonocytes of rats fed an hpd - recently it was concluded from microarray experiments that an hpd upregulates in rat colonic mucosa the expression of genes implicated in glutathione metabolism chemotaxis tumor necrosis factor-a signaling and apoptosis while it downregulates genes related to oxidative phosphorylation glycosylation of mucins and innate immune responses since the colonic mucosa contains a cell mixture from epithelium lamina propia and muscularis mucosae layers it is not possible to determine from that study what are the ef- fects of hpd specifically on colonic epithelial cells that are directly exposed to luminal changes induced by these diets.in this context the aim of the present study was to characterize the epithelial response to a whole milk protein-based hpd in rat colon compared to an npd.
-
-male wistar rats harlan gannat france weighing 150 g 5-6 weeks were fed for 1 week a standard rodent diet containing 16 protein by weight.
-
-subsequently 16 rats received for 15 days either an npd n  8 or an hpd isocaloric n  8 adjusted on digestible carbohydrates table and water ad libitum.
-
-at the end of the experiments rats were anesthetized with pentobarbital sodium 40 mgkg body weight.
+In rats fed an HPD the height of colonocyte brush border a key functional feature of absorptive cells is markedly reduced probably in relation with the observed perturbation of mitochon- drial metabolism An HPD also modifies goblet cell distribution in rat colonic epithelium together with anc The Authors.
 

@@ -1,0 +1,20 @@
+A total of 137 quarter samples were included in the experimental design 27 samples derived from healthy culture negative quarters with a Somatic Cell Count SCC of less than 200000 cellsml 27 samples from quarters with clinical mastitis 83 samples were collected from quarters with subclinical mastitis with a SCC numbergreater of 200000 cellsml andor culture positive for udder pathogens without clinical signs of mastitis.
+
+Microbial diversity was analysed after classification of quarter milk as follows 27 samples were collected from healthy quarters with no clinical signs of mastitis during the present lactation with two consecutive Somatic Cell Counts SCC val- ues lower than 200000 cellsml and aerobic culture negative for udder pathogens H 27 sam- ples with clinical mastitis CM were collected from quarters showing signs of clinical mastitis and aerobic culture positive.
+
+H  Healthy samples SM  Sub-Clinical mastitis samples CM  Clinical mastitis samples Relative abundance of microbiota taxa at phylum level.H  Healthy samples SM  Sub-Clinical Mastitis samples CM  Clinical mastitis samples.
+
+The microbiota diversity of milk from healthy quarters was richer as compared to samples with sub-clinical mastitis whose microbiota diversity was in turn richer as compared to those from clinical mastitis.
+
+Only two genera Acinetobacter and Pseudomonas were present in all the samples from sub-clinical mastitis and no genus was shared across all in clinical mastitis milk samples.
+
+The presence of mastitis was found to be related to the change in the relative abundance of genera such as Psychrobacter whose relative abundance decreased from 16.26 in the milk samples from healthy quar- ters to 3.2 in clinical mastitis.
+
+A metage- nomic approach has also been applied to the relationship between resident microbiomes and the development of reproductive diseases -.Although the relevance of different bacterial pathogens in mastitis has been known for a long time the impact of complex community of microbes and their interaction in the develop- ment of intramammary infection or mastitis has been only recently and partially described   and recently reviewed .
+
+As a consequence for example it has been reported that 25 of clinical mastitis caused by bacteria are routinely not detected by means of bacterial culture  as confirmed by the finding that bacterial species may be pres- ent also in culture-negative samples collected from animals with clinical mastitis .The microbial content of raw and pasteurized milk revealed the presence of a rich and diverse bacterial population .
+
+Culture dependent approaches demonstrated that most frequently isolated bacteria during mastitis are coagulase negative causing 78 of intramammary infections cases of mastitis   Prototeca spp.
+
+H  Healthy samples SM  Sub- Clinical mastitis samples CM  Clinical mastitis samples.although it must be said that only differences between class 1 and class 3 and 3 to class 4 were statistically significant.Discriminant analysis and clustering of samplesAlpha diversity analysis showed that H and CM samples were statistically different with 445.76 STD  - 140.82 and 198.89 STD  - 186.28 observed OTUs p  0.006 and 5.72 STD  -1.33 and 4.08 STD  - 2.05 Shannon index p  0.03 respectively.
+

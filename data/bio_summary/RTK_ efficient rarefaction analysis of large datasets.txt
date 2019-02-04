@@ -1,12 +1,6 @@
-the r-package 'rtk' provides an interface and visualizations to the c thth rtk using the rcpp package c.comparison to existing softwarewe used three tests to compare performance and memory consump- tion of rtk to vegan 2.4 mothur 1.38.1 and qiime 1.9.1 on avc the author 2017. published by oxford university press.2594this is an open access article distributed under the terms of the creative commons attribution license which permits unrestricted reuse distribution and reproduction in any medium provided the original work is properly cited.rtk2595atable 1. time and memory consumption when rarefying the taragene abundance matrix five times to 2.3 m counts per sample from 139 m counts on average per samplenote while rtk could return the rarefied data mothur only reports diversity.bfig.
+vegan  QIIME  mothur  these often work poorly for very large datasets because of memory requirements processing limitations and program design see Supplementary Material which requires custom parsing scripts and the use of special hardware to do rarefactions.
 
-here we present the rarefaction toolkit rtk which can perform fast rare- faction on very large datasets comprising millions of features even on a laptop computer computes estimates of ecological diversity and pro- vides appropriate visualizations of the results.implementationrtk is implemented in c thth11 with an optional r interface having two principal run modes 'memory' and 'swap' the latter using tempo- rary files to reduce memory footprint.
-
-vegan  qiime  mothur  these often work poorly for very large datasets because of memory requirements processing limitations and program design see supplementary material which requires custom parsing scripts and the use of special hardware to do rarefactions.
-
-time and memory consumption of our implementation is consistently below that observed using mothur vegan or qiime for the same purpose.
-
-we also reanalyzed two metagenomic datasets termed guinea pig gut  and tara from tara oceans   using publicly available gene count matrices see supplementary table s1 for statistics.
+Here we present the rarefaction toolkit RTK which can perform fast rare- faction on very large datasets comprising millions of features even on a laptop computer computes estimates of ecological diversity and pro- vides appropriate visualizations of the results.ImplementationRTK is implemented in C thth11 with an optional R interface having two principal run modes 'memory' and 'swap' the latter using tempo- rary files to reduce memory footprint.
 
 et al.
 
@@ -23,8 +17,4 @@ et al.
 et al.
 
 et al.
-
-our software is designed for ease of use operating at least 7x faster than existing solutions despite requiring 10x less memory.
-
-1. a speed and memory requirements of different rarefaction pro- grams.
 

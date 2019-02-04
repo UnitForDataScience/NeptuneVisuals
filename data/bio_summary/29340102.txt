@@ -1,30 +1,20 @@
-for cd19-car t-cell therapy in which cd19-car t cells were infused to mice after ctx-preconditioning the survival rate in mice on normal drinking water was not statistically different from that in mice on antibiotics figure 5c h2o ctxcd19car versus abx ctxcd19car.we collected peripheral blood from a cohort of mice at different time points to examine the impact of antibiotics administration on the presence of the donor t cells as well as the occurrence of b-cell aplasia.
+For CD19-CAR T-cell therapy in which CD19-CAR T cells were infused to mice after CTX-preconditioning the survival rate in mice on normal drinking water was not statistically different from that in mice on antibiotics Figure 5C H2O CTXCD19CAR versus Abx CTXCD19CAR.We collected peripheral blood from a cohort of mice at different time points to examine the impact of antibiotics administration on the presence of the donor T cells as well as the occurrence of B-cell aplasia.
 
-under normal water condition ctx treatment transiently delayed tumor growth in rag2ko mice figure 1c h2o ctx vs. h2o no tx however the process of tumor regression which was observed in ctx-treated wild-type mice figure 1a did not occur in rag2ko mice following ctx treatment.
+Under normal water condition CTX treatment transiently delayed tumor growth in Rag2KO mice Figure 1C H2O CTX vs. H2O no Tx however the process of tumor regression which was observed in CTX-treated wild-type mice Figure 1A did not occur in Rag2KO mice following CTX treatment.
 
-in other words antibiotics administration which caused faster tumor regrowth in ctx-treated wild-type mice did not cause differences in tumor regrowth kinetics in immunodeficient mice afterfigure 1 antibiotics administration diminishes the efficacy of ctx in mice with b-cell lymphoma by attenuating ctx-elicited antitumor t cell responses.
+In other words antibiotics administration which caused faster tumor regrowth in CTX-treated wild-type mice did not cause differences in tumor regrowth kinetics in immunodeficient mice afterFigure 1 Antibiotics administration diminishes the efficacy of CTX in mice with B-cell lymphoma by attenuating CTX-elicited antitumor T cell responses.
 
-moreover b-cell aplasia was evident in both antibiotics-naive and antibiotics- treated mice soon after cd19 car t therapy day 10. notably b cells started to re-emerge in antibiotics-naive mice at later times 2 out of 5 on day 20 4 out 5 on day 35 whereas b-cell aplasia persisted in antibiotics-treated mice.
+Notably relapses occurred earlier in antibiotics-treated mice than in antibiotics-naive mice.
 
-we report here that antibiotic prophylaxis diminished the endogenous antitumor t cell responses elicited by ctx impaired the efficacy of act using tumor-specific cd4 t cells but had no impact on the efficacy of act using cd19-car t cells.resultsantibiotic prophylaxis impairs the antitumor effect of ctx in mice with established lymphomait has been reported that antibiotic treatment blunts ctx-mediated antitumor effects in a sarcoma mouse model 4. since ctx is widely used to treat hematologic malignancies we asked whether antibiotics administration interferes the effectiveness of ctx against b-cell lymphoma in mice.
+Furthermore antibiotics administration neither affected tumor growth rate in untreated mice nor altered the tumor growth kinetics in CTX-treated mice.
 
-notably relapses occurred earlier in antibiotics-treated mice than in antibiotics-naive mice.
+Figure 5A shows that it took only 10 PCR cycles to enter the log phase of amplification of bacteria DNA in fecal samples collected from water-drinking mice while more than 40 PCR cycles were needed to amplify bacteria DNA in fecal samples collected from mice under antibiotics.
 
-furthermore antibiotics administration neither affected tumor growth rate in untreated mice nor altered the tumor growth kinetics in ctx-treated mice.
+Furthermore mice exposed to antibiotics exhibited enlarged cecum Figure 5B which is commonly seen in antibiotics-treated or germ-free mice.Figure 2 Antibiotics administration results in diminished T cell activation in CTX-treated mice.
 
-we previously established a cd4 t cell-based act model system in which tumor-bearing mice receive ctx pre-conditioning followed by infusion of tumor- specific cd4 t cells 22. we applied this model system to mice with established ha-expressing colorectal tumor ct26ha figure 3 schema.
+Figure 5D shows that donor T cell frequencies were mostly comparable in antibiotics-treated mice compared to antibiotics-naive mice at the time points examined.
 
-to assess the amounts of intestinal microbes genomic dna isolated from fresh feces were used for bacterial 16s ribosomal dna 16s rdna gene amplification by qpcr as previously described 24. figure 5a shows that it took only 10 pcr cycles to enter the log phase of amplification of bacteria dna in fecal samples collected from water-drinking mice while more than 40 pcr cycles were needed to amplify bacteria dna in fecal samples collected from mice under antibiotics.
+Notably B cells started to re-emerge in antibiotics-naive mice at later times 2 out of 5 on day 20 4 out 5 on day 35 whereas B-cell aplasia persisted in antibiotics-treated mice.
 
-furthermore mice exposed to antibiotics exhibited enlarged cecum figure 5b which is commonly seen in antibiotics-treated or germ-free mice.figure 2 antibiotics administration results in diminished t cell activation in ctx-treated mice.
-
-figure 5d shows that donor t cell frequencies were mostly comparable in antibiotics-treated mice compared to antibiotics-naive mice at the time points examined.
-
-figure 5e shows that among the cd45.1 donor cells found in spleens car-expressing cells were nearly absent in antibiotics-naive mice but easily detectable in antibiotics-treated mice.
-
-cd19 b cells were fully recovered in the spleens of antibiotics- naive mice but absent in antibiotics-treated mice figure 5f showing an inverse correlation with the presence of car t cells.
-
-overall survival of mice is shown as kaplan-meier survival as a function of time after ctx treatment c. the number of mice in each group is provided.
-
-however in the mice achieving complete remission the donor t cells lost car expression and the level of b cells cd19b220 rebounded to the level of normal mice.
+Figure 5E shows that among the CD45.1 donor cells found in spleens CAR-expressing cells were nearly absent in antibiotics-naive mice but easily detectable in antibiotics-treated mice.
 

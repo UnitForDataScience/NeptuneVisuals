@@ -1,0 +1,20 @@
+Alves Sean M. MythenPhillip B. Hylemon Jason M. Ridlona Department of Microbiology and Immunology Virginia Commonwealth University Richmond VA USA b Department of Parasitology Institute of Biomedical Sciences University of Sao Paulo Sao Paulo Brazil c Department of Animal Sciences University of Illinois at Urbana-Champaign Urbana IL USAd Microbiome Metabolic Engineering Theme Carl R. Woese Institute for Genomic Biology University of Illinois at Urbana-Champaign Urbana IL USAA R T I C L E I N F O Keywords Bile acids Clostridium Flavoprotein7a-dehydroxylationA B S T R A C T Background The multi-step bile acid 7a-dehydroxylating pathway by which a few species of Clostridium convert host primary bile acids to toxic secondary bile acids is of great importance to gut microbiome structure and host physiology and disease.
+
+The bile acid reaction product of the BaiE undergoes three reduc- tions at C6-C7 C4-C5 and finally the 3-oxo-group is converted to a 3a- hydroxy forming DCA a major secondary bile acid produced in the vertebrate gut.
+
+The start codon is in italics.
+
+The underlined portion of the reverse primer encodes the streptavidin- affinity peptide.
+
+The cells were sub- sequently centrifuged 3220 xg 15 min 4 degC and plasmids were ex- tracted from the resulting cell pellet using the QIAprep Spin Miniprep kit Qiagen Valencia CA.
+
+The foreign DNA inserts in the recombinant plasmids were sequenced to confirm the correctness of the gene se- quence Virginia Commonwealth University Nucleic Acid Sequencing Core Facility.Protein overexpression and purificationFor protein expression pSport-EDS08212 plasmid was extracted from the E. coli DH5a cells were transformed into E. coli BL-21 CodonPlus DE3 RIPL chemically competent cells by the heat shock method and grown overnight at 37 degC on LB agar plates supplemented with ampicillin 100 mgmL and chloramphenicol 50 mgmL.
+
+The pre-cultures were then added to fresh LBmedium 1 L supplemented with the same antibiotics at the same concentrations and grown with vigorous aeration at 37 degC.
+
+The cell sus- pension was subjected to four passages through an EmulsiFlex C-3 cell homogenizer Avestin Ottawa Canada and the cell lysate was clar- ified by centrifugation at 20000 x g for 30 min at 4 degC.Recombinant EDS08212 was then purified using Strep-Tactinr resin IBA GmbH Goettingen Germany as per manufacturing protocol.
+
+The recombinant protein was eluted using an elution buffer composed of 20 mM Tris-HCl 150 mM NaCl 20 glycerol 10 mM 2- Mercaptoethanol pH 7.9 and 2.5 mM desthiobiotin.
+
+The protein purity was assessed by sodium dodecyl sulfate-polyacrylamide gel electro- phoresis SDS-PAGE and protein bands were visualized by staining with Coomassie brilliant blue G-250.
+

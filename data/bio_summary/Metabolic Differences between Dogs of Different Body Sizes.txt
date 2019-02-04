@@ -1,30 +1,20 @@
-small dogs are more likely to suffer from integumentary cardiovascular and dental diseases and have a higher incidence of endocrine-related deaths compared to larger dogs small dogs have a lower basal metabolic rate and a higher mass-specific metabolic rate than larger dogs interestingly small dogs have a longer lifespan thanlarger dogs which differs from what is observed in other mammalian species.we conducted a diet- and environment-controlled study in canines to understand metabolic clinical and microbiota differences between small and larger dogs.
+Compared with healthy dogs GSH concentrations in clinically ill dogs are significantly decreased in erythrocytes and GSH depletion correlates with severity of illness and mortality We showed here that multiple metabolites of GSH metabolism were lower in the plasma of small dogs suggesting utilization for GSH production.However the true response of the GSH system in small dogs is not known since oxidative states of the GSH were not measured in this study.We have shown that bilirubin concentrations were lower in small dogs.
 
-compared with healthy dogs gsh concentrations in clinically ill dogs are significantly decreased in erythrocytes and gsh depletion correlates with severity of illness and mortality we showed here that multiple metabolites of gsh metabolism were lower in the plasma of small dogs suggesting utilization for gsh production.however the true response of the gsh system in small dogs is not known since oxidative states of the gsh were not measured in this study.we have shown that bilirubin concentrations were lower in small dogs.
+Small dogs are more likely to suffer from integumentary cardiovascular and dental diseases and have a higher incidence of endocrine-related deaths compared to larger dogs Small dogs have a lower basal metabolic rate and a higher mass-specific metabolic rate than larger dogs Interestingly small dogs have a longer lifespan thanlarger dogs which differs from what is observed in other mammalian species.We conducted a diet- and environment-controlled study in canines to understand metabolic clinical and microbiota differences between small and larger dogs.
 
-small dogs 34 individuals beagle small fox terrier and miniature schnauzer had a mean weight of 9.3 kg range of 6.1-15.6 kg.
+Metabolite ratio between small and larger dogs was determined by dividing the metabolite value by its median value across all samples then dividing the small dog mean by the larger dog mean.Detection of Metabolite Modules and Correlation with Clinical Parameters.
 
-one small dog small fox terrier was identified as an outlier and removed from subsequent metabolomics analyses.
+Several amino acids and their metabolites differed between small and larger dogs Table .according to the small dog's module memberships.
 
-biomarker studies show that two types of methods may provide complementary results 17. metabolite ratio between small and larger dogs was determined by dividing the metabolite value by its median value across all samples then dividing the small dog mean by the larger dog mean.detection of metabolite modules and correlation with clinical parameters.
+Visualization with PCA performed using only selected clinical or metabolite parameters simultane- ously confirmed clear discrimination between small and larger dogs Figures and In order to understand relationships between metabolites and clinical parameters metabolite small dog modules were first identified with WGCNA using the 449 metabolites Figure 8 modules were identified Table .
 
-several amino acids and their metabolites differed between small and larger dogs table .according to the small dog's module memberships.
+Bilirubin represents a lipophilic cytoprotec- tant antioxidant which is complementary to water-soluble antioxidants such as GSH The clinical implications of low bilirubin in small dogs are unclear although lower concentrations suggest increased metabolic consumption and the possibility of ongoing oxidative damage in small dogs.
 
-visualization with pca performed using only selected clinical or metabolite parameters simultane- ously confirmed clear discrimination between small and larger dogs figures and in order to understand relationships between metabolites and clinical parameters metabolite small dog modules were first identified with wgcna using the 449 metabolites figure 8 modules were identified table .
+We previously determined that protein digestibility was higher in small dogs suggesting that metabolic differences produced the lower levels of aminoacids in small dogs.Phenylalanine is involved in the synthesis of tyrosine which is then used as a precursor for the synthesis of adrenaline noradrenaline and dopamine 44.
 
-bilirubin represents a lipophilic cytoprotec- tant antioxidant which is complementary to water-soluble antioxidants such as gsh the clinical implications of low bilirubin in small dogs are unclear although lower concentrations suggest increased metabolic consumption and the possibility of ongoing oxidative damage in small dogs.
+However no predispo- sitions are known between the small and large breed dog populations but more research needs to be done here to determine the clinical significance.ConclusionsWe have described here metabolic differences between small dogs and dogs of larger body sizes.
 
-we previously determined that protein digestibility was higher in small dogs suggesting that metabolic differences produced the lower levels of aminoacids in small dogs.phenylalanine is involved in the synthesis of tyrosine which is then used as a precursor for the synthesis of adrenaline noradrenaline and dopamine 44. tyrosine can be fermented in the large intestine resulting in the microbial formation of p-cresol and indoxyl a phenolic compound which after hepatic sulfation become p-cresyl sulfate and phenol sulfate  .
+Specific differences in metabolism have not been characterized in small dogs as compared to larger dogs.
 
-however no predispo- sitions are known between the small and large breed dog populations but more research needs to be done here to determine the clinical significance.conclusionswe have described here metabolic differences between small dogs and dogs of larger body sizes.
-
-specific differences in metabolism have not been characterized in small dogs as compared to larger dogs.
-
-this study aims to identify metabolic clinical and microbiota differences between small and larger dogs.
-
-449 metabolites 16 clinical parameters and 6 bacteria at the genus level were significantly different between small and larger dogs.
-
-hierarchical clustering of the metabolites yielded 8 modules associated with small dog size.
-
-small dogs had a lower antioxidant status and differences in circulating amino acids.
+This study aims to identify metabolic clinical and microbiota differences between small and larger dogs.
 

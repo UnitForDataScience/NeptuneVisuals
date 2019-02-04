@@ -1,30 +1,20 @@
-under both alternative models we generated 1000 datasets to assess the power.to test the association between the simulated microbiome composition and gene expressions data six different methods were applied including krv test grv test gene association with multiple traits gamut test broadaway et al.
+Under both alternative models we generated 1000 datasets to assess the power.To test the association between the simulated microbiome composition and gene expressions data six different methods were applied including KRV test GRV test Gene Association with Multiple Traits GAMuT test Broadaway et al.
 
-next we carefully adapt the krv test to microbiome association analysis by enabling covariates adjustment as well as accommodating multiple otu kernels in section 3. the finite sample performance of the proposed krv test both in testing statistical independence and microbiome association is assessed through numerical studies in section 4. in section 5 we apply the krv test to the dataset of morgan et al.
+For the KRV test and HSIC test we applied the Gaussian kernel to both X and Y to test independence Gretton et al.
 
-p.the empirical type i error rates were evaluated when generating data under scenario a and the empirical powers were assessed under scenarios b c and d. under each scenario n  10000 datasets were simulated with varied sample sizes n  20 40 60 80 100. for the krv test and hsic test we applied the gaussian kernel to both x and y to test independence gretton et al.
+MMiRKAT incorporates a small-sample adjustment to a MSKAT-type test so that the test has a better finite-sample behavior Zhan et al.
 
-2016. mskat combine multiple marginal score test statistic through the covariance matrix of all scores and also calculates its p-value asymptotically wu and pankow 2016. mmirkat incorporates a small-sample adjustment to a mskat-type test so that the test has a better finite-sample behavior zhan et al.
+Unlike other methods which suffer from huge power loss under certain scenarios the proposed KRV test is always one of the most powerful method in testing the association between OTUs and gene expressions and always has an adequate power under each scenario.Analysis of host transcriptome and microbiome dataWe further applied the KRV test to a dataset from an inflammatory bowel disease IBD study Morgan et al.
 
-finally we replace l in equation 2 by lr to calculate the statistic and conduct the test after adjusting for x. in the univariate scenario dimy1 of kernel machine regression the above procedure is equivalent to testing the association usinga restricted maximum likelihood reml-based score test liu et al.
+We compared our KRV test to the HSIC test and distance covariance dcov test both of which have been widely used for testing statistical independence between two random vectors.
 
-unlike other methods which suffer from huge power loss under certain scenarios the proposed krv test is always one of the most powerful method in testing the association between otus and gene expressions and always has an adequate power under each scenario.analysis of host transcriptome and microbiome datawe further applied the krv test to a dataset from an inflammatory bowel disease ibd study morgan et al.
+As a benchmark we also compared the GRV test which has the same test design as the KRV test but uses distance metrics rather than kernels.
 
-we compared our krv test to the hsic test and distance covariance dcov test both of which have been widely used for testing statistical independence between two random vectors.
+We also provide an implementation of KRV in R language.Zhan et al.Page 2IntroductionThe human body is inhabited by many complex communities of microorganisms and their composition defined as the microbiome have been increasingly recognized to play an important role in many human disease conditions including obesity Turnbaugh et al.
 
-as a benchmark we also compared the grv test which has the same test design as the krv test but uses distance metrics rather than kernels.
+It turns out that this KRV statistic is closely related to existing statistics that measure multivariate statistical independence including the Hilbert-Schmidt independenceZhan et al.Page 3criterion HSIC Gretton et al.
 
-we also provide an implementation of krv in r language.zhan et al.page 2introductionthe human body is inhabited by many complex communities of microorganisms and their composition defined as the microbiome have been increasingly recognized to play an important role in many human disease conditions including obesity turnbaugh et al.
+To adjust for the potential confounding effects of X in KRV framework we utilize the residual-basedZhan et al.Page 8strategy as widely used in many kernel machine association tests Liu et al.
 
-it turns out that this krv statistic is closely related to existing statistics that measure multivariate statistical independence including the hilbert-schmidt independencezhan et al.page 3criterion hsic gretton et al.
-
-thus a more accurate finite-sample null distribution is desired for a microbiome association test chen et al.
-
-to adjust for the potential confounding effects of x in krv framework we utilize the residual-basedzhan et al.page 8strategy as widely used in many kernel machine association tests liu et al.
-
-the setup of this simulation was exactly the same as that in the dcov test paper szekely et al.
-
-2013. for the grv test euclidean manhattan and mahalanobis distance have been proposed for continuous variables minas et al.
-
-finally b  10000 permutations were used in the dcov testzhan et al.page 9szekely et al.
+Finally B  10000 permutations were used in the dcov testZhan et al.Page 9Szekely et al.
 

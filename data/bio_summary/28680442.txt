@@ -1,30 +1,20 @@
-methods 11 1144-1146. bacci g. ceccherini m. bani a. bazzicalupo m. castaldini m. galardini m. et al.
+Denitrification in rhizobia- legume symbiosis in Biology of the Nitrogen Cycle eds H. Bothe S. J. Ferguson and W. E. Newton Amsterdam Elsevier Science 57-66.Durham B. P. Sharma S. Luo H. Smith C. B. Amin S. A. Bender S. J. et al.
 
-considering the results that can be obtained with such techniques as the genome sequencing and biochemical characterization of whole microbial communities becomes increasingly more feasible the application of cb methods to microbial communities is turning out as a very promising field.metabolic modeling of microbial communitiesin the last years a number of works describing diverse aspects of multi-organism metabolic modeling has testified the growing interest in this field    .
+Nielsen H. B. Almeida M. Juncker A. S. Rasmussen S. Li J. Sunagawa S. et al.
 
-genome-scale metabolic network reconstruction in bacterial pangenomics methods and protocols eds a. mengoni m. galardini and m. fondi new york ny springer 233-256.fondi m. and lio p. 2015b.
+West S. A. Griffin A. S. Gardner A. and Diggle S. P. 2006.
 
-710322. yatsunenko t. rey f. e. manary m. j. trehan i. dominguez-bello m. g. contreras m. et al.
+Bacci G. Ceccherini M. Bani A. Bazzicalupo M. Castaldini M. Galardini M. et al.
 
-in the face of these advances here we focus on providing an overview of the possibilities and challenges related to the modeling of metabolic interactions within a bacterial community discussing the feasibility and the perspectives of this kind of analysis in the near future.keywords microbial communities metabolic modeling constraint-based modeling metabolic interactions microbiome mcfbametabolic-based interactions and the microbiomethe advent of high-throughput sequencing platforms ngs represents one of the most significant milestones in the field of microbial ecology.
+Pham T. A. Clare S. Goulding D. Arasteh J. M. Stares M. D. Browne H. P. et al.
 
-in this sense artificial microbial communities can be designed being geared toward precise and efficient bio-performances and at the same time maintaining the resilience and the complexity of near native microbial communities.
+Genome-scale metabolic network reconstruction in Bacterial Pangenomics Methods and Protocols eds A. Mengoni M. Galardini and M. Fondi New York NY Springer 233-256.Fondi M. and Lio P. 2015b.
 
-gut microbes 3 289-306. fondi m. bosi e. presta l. natoli d. and fani r. 2016. modelling microbial metabolic rewiring during growth in a complex medium.
+Yatsunenko T. Rey F. E. Manary M. J. Trehan I. Dominguez-Bello M. G. Contreras M. et al.
 
-3114. tasoff j. mee m. t. and wang h. h. 2015. an economic framework of microbial trade.
+Theis K. R. Dheilly N. M. Klassen J. L. Brucker R. M. Baines J. F. Bosch T. C. et al.
 
-6422. borenstein e. kupiec m. feldman m. w. and ruppin e. 2008. large-scale reconstruction and phylogenetic analysis of metabolic environments.
+Hellweger F. L. Clegg R. J. Clark J. R. Plugge C. M. and Kreft J. U.2016.
 
-u.s.a. 105 14482-14487. bosi e. monk j. m. aziz r. k. fondi m. nizet v. and palsson b. o.
-
-111 272-284. hanly t. j. urello m. and henson m. a.
-
-1090. pham t. a. clare s. goulding d. arasteh j. m. stares m. d. browne h. p. et al.
-
-404 822-828. theis k. r. dheilly n. m. klassen j. l. brucker r. m. baines j. f. bosch t. c. et al.
-
-888. doi bacteria have evolved to efficiently interact each other forming complex entities known as microbial communities.
-
-however despite their crucial importance the mechanisms that influence the functioning of microbial communities and their relationship with environmental perturbations are obscure.
+All the authors approved the manuscript and agreed to be accountable for all aspects of the presented work.REFERENCESAlneberg J. Bjarnason B. S. De Bruijn I. Schirmer M. Quick J. Ijaz U.
 

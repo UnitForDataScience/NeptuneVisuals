@@ -1,30 +1,20 @@
-md02h md24h md48h md72h and md96h refer to musca domestica larvae reared on moistened wheat bran for 2 24 48 72 and 96 h. wb24h wb48h wb72h and wb96h refer to moistened wheat bran not treated with house fly larvae after 24 48 72 and 96 h. wbmd96h refers to moistened wheat bran treated with house fly larvae for 96 h. each treatment included three biological replicatesthat they might have been transferred from the gut of the house fly to the wheat bran during feeding and might be involved in degrading and utilizing polysaccharides in the cell walls of wheat bran.the bacterial communities in the guts of house fly lar- vae were dominated by the phylum proteobacteria andprimarily the class gammaproteobacteria additional file  table s1.
+MD02h MD24h MD48h MD72h and MD96h refer to Musca domestica larvae reared on moistened wheat bran for 2 24 48 72 and 96 h. WB24h WB48h WB72h and WB96h refer to moistened wheat bran not treated with house fly larvae after 24 48 72 and 96 h. WBMd96h refers to moistened wheat bran treated with house fly larvae for 96 h. Each treatment included three biological replicatesthat they might have been transferred from the gut of the house fly to the wheat bran during feeding and might be involved in degrading and utilizing polysaccharides in the cell walls of wheat bran.The bacterial communities in the guts of house fly lar- vae were dominated by the phylum Proteobacteria andprimarily the class Gammaproteobacteria Additional file  Table S1.
 
-we are interested in 1 the microbial dynamics of the gut microbiota in house fly larvae and 2 their horizontal transfer through feeding.materials and methodssample collectionthe house fly colony has been reared for more than 20 years in our lab.
+We are interested in 1 the microbial dynamics of the gut microbiota in house fly larvae and 2 their horizontal transfer through feeding.Materials and methodsSample collectionThe house fly colony has been reared for more than 20 years in our lab.
 
-the house fly adults were fed with milk powder and water and the larvae were reared on moistened wheat bran wheat bran gwater ml  11.8. in this experiment newly hatched house fly eggs were inoculated into moistened wheat bran.
+The rarefaction curve for every sam- ple tended to saturation Additional file  Figure S1 indicating that our sequencing results captured most of the bacterial diversity.Bacterial diversity in house fly larvaeThe bacterial communities in the house fly larvae sam- ples were dominated by the phyla Proteobacteria and Fir- micutes Fig.
 
-the rarefaction curve for every sam- ple tended to saturation additional file  figure s1 indicating that our sequencing results captured most of the bacterial diversity.bacterial diversity in house fly larvaethe bacterial communities in the house fly larvae sam- ples were dominated by the phyla proteobacteria and fir- micutes fig.
+Some bacteria in the phyla Actinobacteria Proteobacteria Bacteroidetes and Firmicutes were either unique to the WBMd96h sam- ples or had much higher abundances in the WBMd96h samples compared with the WB96h samples suggestingTable 1 Richness and diversity estimates of the 16S rRNA gene libraries from the sequencing analysisMD02h MD24h MD48h MD72h and MD96h refer to Musca domestica larvae reared on moistened wheat bran for 2 24 48 72 and 96 h. WB24h WB48h WB72h and WB96h refer to moistened wheat bran not treated with house fly larvae after 24 48 72 and 96 h. WBMd96h refers to moistened wheat bran treated with house fly larvae for 96 h. Each treatment included three biological replicatesa Tag number after quality filtering and removal of chimeric sequencesb Operational taxonomic units OTUs were defined by pairwise 97 sequence identityFig.
 
-some bacteria in the phyla actinobacteria proteobacteria bacteroidetes and firmicutes were either unique to the wbmd96h sam- ples or had much higher abundances in the wbmd96h samples compared with the wb96h samples suggestingtable 1 richness and diversity estimates of the 16s rrna gene libraries from the sequencing analysismd02h md24h md48h md72h and md96h refer to musca domestica larvae reared on moistened wheat bran for 2 24 48 72 and 96 h. wb24h wb48h wb72h and wb96h refer to moistened wheat bran not treated with house fly larvae after 24 48 72 and 96 h. wbmd96h refers to moistened wheat bran treated with house fly larvae for 96 h. each treatment included three biological replicatesa tag number after quality filtering and removal of chimeric sequencesb operational taxonomic units otus were defined by pairwise 97 sequence identityfig.
+AMB Expr 2017 7147DOI 10.1186s13568-017-0445-7The gut microbiota in larvae of thehousefly Musca domestica and their horizontal transfer through feedingYao Zhao1 Wanqiang Wang1 Fen Zhu1 Xiaoyun Wang1 Xiaoping Wang2 and Chaoliang Lei2IntroductionThe house fly Musca domestica is a cosmopolitan and synanthropic insect that serves as a vector for many human diseases Gupta et al.
 
-amb expr 2017 7147doi 10.1186s13568-017-0445-7the gut microbiota in larvae of thehousefly musca domestica and their horizontal transfer through feedingyao zhao1 wanqiang wang1 fen zhu1 xiaoyun wang1 xiaoping wang2 and chaoliang lei2introductionthe house fly musca domestica is a cosmopolitan and synanthropic insect that serves as a vector for many human diseases gupta et al.
+The larvae also represent a sustainable and prolific source of proteins used in poultry and fish feed Van .Because large volumes are required to supplement commercial poultry diets the rearing technology for fly larvae requires further development.
 
-the larvae also represent a sustainable and prolific source of proteins used in poultry and fish feed van .because large volumes are required to supplement commercial poultry diets the rearing technology for fly larvae requires further development.
+is a superior diet for house fly larvae Aniebo et al.
 
-is a superior diet for house fly larvae aniebo et al.
+In this study we used Illu- mina MiSeq 16S rDNA sequencing to identify the micro- bial dynamics of the gut microbiota in house fly larvae and their food.
 
-in this study we used illu- mina miseq 16s rdna sequencing to identify the micro- bial dynamics of the gut microbiota in house fly larvae and their food.
+The house fly adults were fed with milk powder and water and the larvae were reared on moistened wheat bran wheat bran gwater ml  11.8.
 
-after 2 24 48 72 and 96 h the house fly larvae were sam- pled hereinafter referred to as md02h md24h md48h md72h and md96h.
-
-moistened wheat bran treated with house fly larvae for 96 h was also sampled hereinafter referred to as wbmd96h.
-
-as a control moistened wheat bran not treated with house fly larvae was sampled after 24 48 72 and 96 h hereinafter referred to as wb24h wb48h wb72h and wb96h.
-
-three biolog- ical replicates were performed for each treatment.dna extractionprior to insect dissection the house fly larvae were washed for 3-5 min in 70 ethanol and rinsed three times with sterile water to remove surface contaminants.
-
-the sequencing data have been submitted to the ncbi database under accession numbers srp068683 and srp068753.resultssequencing datathe illumina miseq sequencing of the 16s rrna gene amplicons yielded 81523-90132 reads of house fly lar- vae samples and 77843-83590 reads of wheat bran sam- ples after quality filtering and the removal of chimeric sequences table .
-
-at 97 sequence identity the reads for the house fly samples and wheat bran samples were assigned to 145 and 231 otus respectively additional file  tables s1 s2.
+In this experiment newly hatched house fly eggs were inoculated into moistened wheat bran.
 

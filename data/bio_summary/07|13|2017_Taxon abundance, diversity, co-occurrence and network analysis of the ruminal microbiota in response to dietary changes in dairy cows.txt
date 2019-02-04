@@ -1,30 +1,20 @@
-by analyzing the data at the  0.05 level the resulting networks did not show that bacteria would interact more often with other bacteria as compared to other microbial groups in l-lso and l-h vicariance test p  0.05 but did in h-hso p  0.015. when only the most robust interac- tions were taken into account 0.25 between-bacteria interactions were significantly more abundant than compared between bacteria and other groups in l-lso p  0.026 and were close to significance in l-h p  0.065 and h-hso p  0.077. this suggests that at least strong direct interaction is more common within bacteria domain.following these observations we investigated microbial taxa that act as main information gateways hubs in networks.
+In all dietary comparisons L-H L-LSO H-HSO the absence of significant results P  0.3 suggested that bacteria alone do not fulfil a central role in network formation.We further tested whether bacteria interact more within their own domain as compared to interactions with ciliate protozoa fungi or archaea.
 
-statistically significant differences were declared at p  0.05. a post-hoc pairwise comparison of all diets was performed using tukey's test.microbial networks were created using the merged data for three different combinations of diet changes i from high to low concentrate diets h-l ii low concentrate diets with and without so supplement l-lso and iii high concentrate diets with and without so supple- ment h-hso.
+Net- works added new dimensions to our understanding of the diet effect on rumen microbial community interactions.collection and analysis decision to publish or preparation of the manuscript.Competing interests The authors have declared that no competing interests exist.IntroductionThe rumen contains a highly complex microbial ecosystem comprising several thousand species of bacteria  of which 30 groups are dominant  12 genera of ciliate protozoa  6 genera of anaerobic fungi  and approximately 10 main taxa of methanogenic archaea  as well as variable abundances of mycoplasmas bacteriophages archaeophages and viruses that infect the eukaryotic microorganisms.
 
-no significant decrease in the amount of protozoa was detected in response to various oil supplements in nordic red cattle diet  indicating that the composition of the basal diet and dosage of oil supple- ment may be among factors influencing oil effects on rumen protozoa.the composition and diversity of ruminal bacteria were significantly influenced by diet with higher proportions of firmicutes detected in l diets and increased abundance of bacter- oidetes and proteobacteria in h diets as observed previously .
+Microbial taxa are colored by taxonomy archaea--light gray ciliate protozoa--white fungi--dark grey bacteria Bacteroidetes--green Firmicutes--moss green Proteobacteria--brown others--blue.members are species from different high-level groupings.
 
-higher diver- sity in the l and lso treatments was related to higher microbiota richness  as well as higher evenness .the structure of overall rumen microbial populations assessed by two-dimensional nmds plots based on bray-curtis dissimilarities showed marked differences between diets in bacte- ria archaea ciliate protozoa and fungi respectively adonis analysis for diets p  0.05 .
+Among four domain interactions no robust correlations were observed between bacteria and archaea but active interaction was detected between bac- teria-fungi and bacteria-ciliate protozoa.In the H-HSO comparison the density of connections within bacteria was higher 2.54 as compared with the density of connections within archaea and ciliate protozoa 1.73 or in the total set 1.81.
 
-from the 126 taxa at the genus level those with less than 2 reads per sample across all diets were first filtered out resulting in a total of 76 remaining taxa.
+Microbial taxa are colored by taxonomy archaea--gray ciliate protozoa--blue fungi--dark yellow bacteria-- white.PDFS4 Fig.
 
-so when supple- mented to both h and l diets decreased total amounts of all rumen microbial groups bacteria archaea ciliate protozoa and fungi .
+Microbial taxa are colored by taxonomy archaea--gray ciliate protozoa--blue bacteria--white.
 
-error bars represent standard deviations sd n  4 per diet.relative abundance of bacteria archaea ciliate protozoa and fungi among diets.
+However no connections were observed between ciliate protozoa and archaea and only one was found between protozoa and bacteria.DiscussionPrevious studies across a wide range of habitats have demonstrated that network based approaches can help in predicting the dynamics and structure of oceanic plankton ecosystems  reveal relations within microbial communities in soil  or highlight differences in taxa interactions within the human gut in health and disease .
 
-interest- ingly each specific diet change analysed had own set of taxa serving as central hubs suggesting that although a core microbiome can be identified across different diets and hosts  diet is the regulating factor defining which of the taxa act as hubs and govern microbial interactions.the diet induced changes in rumen microbial community structure are related to changes in ruminal vfa synthesis or methane production.
+The funder had no role in study design dataAbstractThe ruminal microbiome comprising large numbers of bacteria ciliate protozoa archaea and fungi responds to diet and dietary additives in a complex way.
 
-in all dietary comparisons l-h l-lso h-hso the absence of significant results p  0.3 suggested that bacteria alone do not fulfil a central role in network formation.we further tested whether bacteria interact more within their own domain as compared to interactions with ciliate protozoa fungi or archaea.
+Total genomic DNA was extracted from combined d 22 and d 24 sub-samples following the protocol of Yu and Morrison .Quantitative real-time PCR analysisThe total amounts of bacteria archaea ciliate protozoa and fungi were measured by qPCR.
 
-among four domain interactions no robust correlations were observed between bacteria and archaea but active interaction was detected between bac- teria-fungi and bacteria-ciliate protozoa.in the h-hso comparison the density of connections within bacteria was higher 2.54 as compared with the density of connections within archaea and ciliate protozoa 1.73 or in the total set 1.81. no larger inter-domain clusters comprising members of all three domains were observed.
-
-net- works added new dimensions to our understanding of the diet effect on rumen microbial community interactions.collection and analysis decision to publish or preparation of the manuscript.competing interests the authors have declared that no competing interests exist.introductionthe rumen contains a highly complex microbial ecosystem comprising several thousand species of bacteria  of which 30 groups are dominant  12 genera of ciliate protozoa  6 genera of anaerobic fungi  and approximately 10 main taxa of methanogenic archaea  as well as variable abundances of mycoplasmas bacteriophages archaeophages and viruses that infect the eukaryotic microorganisms.
-
-microbial taxa are colored by taxonomy archaea--light gray ciliate protozoa--white fungi--dark grey bacteria bacteroidetes--green firmicutes--moss green proteobacteria--brown others--blue.members are species from different high-level groupings.
-
-microbial taxa are colored by taxonomy archaea--gray ciliate protozoa--blue fungi--dark yellow bacteria-- white.pdfs4 fig.
-
-microbial taxa are colored by taxonomy archaea--gray ciliate protozoa--blue bacteria--white.
-
-it was concluded that taxa significantly affected by diet do not appear in isolation but co-occur in microbial networks with other taxa which may indicate their metabolic interaction during diet changes.we further studied if microbial taxa detected in the most robust between- and within-- domain co-occurrences are the same irrespective of diet.
+The absolute quantity of test samples was esti- mated against serial dilutions of DNA standards amplified to generate calibration curves.Methods used to generate standards for bacteria archaea ciliate protozoa and fungi are described in detail in .
 

@@ -1,30 +1,20 @@
-apicola and s. alvias tet b was identified within both g. apicola and s. alvi we wanted to investigate whether there could be possible hgt of tet b between the two species.
+apicola and S. alviAs Tet B was identified within both G. apicola and S. alvi we wanted to investigate whether there could be possible HGT of Tet B between the two species.
 
-additionally the whole tn10 sequence was identical to the one identified in g. apicola a7.we also compared the teth of g. apicola and s. alvi which showed 100 identity towards different reference genes table s3.
+Additionally the whole Tn10 sequence was identical to the one identified in G. apicola A7.We also compared the tetH of G. apicola and S. alvi which showed 100 identity towards different reference genes Table S3.
 
-it is likely that these niches coexist within the same space within the honeybee-gut cavity as indicated by the detected hgt within the g. apicola and between g. apicola and s. alvi which are known to form biofilms within the gut martinson et al.
+It is likely that these niches coexist within the same space within the honeybee-gut cavity as indicated by the detected HGT within the G. apicola and between G. apicola and S. alvi which are known to form biofilms within the gut Martinson et al.
 
-2012.the aim of this work was to investigate strain diversity of g. api- cola and s. alvi and address whether antibiotic usage leads to a few geographically restricted bacterial strains or whether important functional traits are preserved through hgt of arg among honey- bee-associated bacterial strains figure 1. we used whole-genome shotgun sequencing to address how the phylogenetic relatedness of strains of g. apicola and s. alvi associates with genomic content gc percentage genome size number of cds and crispr and tcr genes.
+We also detected a fourth enzyme exo-polygalacturonase also a GH28 in all genomesTABL E 2 16S rRNA gene identity blast results genomic content and assembly info for each Gilliamella apicola genome within the four different subgroupsTABL E 2 ContinuedaAgainst S. alvi wkB2 CP007446.bCalculated against S. alvi wkB2 CP007446.cNumber of contigs in final draft after filtering.except for one strain A7 in Subgroup 2.1 Table S4.
 
-we also detected a fourth enzyme exo-polygalacturonase also a gh28 in all genomestabl e 2 16s rrna gene identity blast results genomic content and assembly info for each gilliamella apicola genome within the four different subgroupstabl e 2 continuedaagainst s. alvi wkb2 cp007446.bcalculated against s. alvi wkb2 cp007446.cnumber of contigs in final draft after filtering.except for one strain a7 in subgroup 2.1 table s4.
+An alignment of the aa sequence of these two genes from G. apicola and S. alvi showed that tetH in S. alvi was 3 aa longer and that they differed by 6 aa at the terminal end Fig.
 
-an alignment of the aa sequence of these two genes from g. apicola and s. alvi showed that teth in s. alvi was 3 aa longer and that they differed by 6 aa at the terminal end fig.
+Contrary the tetH genes identified within G. apicola and S. alvi were different and the pres- ence of tetH within these two bacteria genera was limited to only one subgrouplineage each Figures 3 and 5 indicating a more clo- nal spread within the community which matches that the tetH genes are found within the genome.The tetH gene identified within S. alvi using RESFINDER was iden- tical to a reference sequence based on pairwise comparison of the nucleotide sequence.
 
-contrary the teth genes identified within g. apicola and s. alvi were different and the pres- ence of teth within these two bacteria genera was limited to only one subgrouplineage each figures 3 and 5 indicating a more clo- nal spread within the community which matches that the teth genes are found within the genome.the teth gene identified within s. alvi using resfinder was iden- tical to a reference sequence based on pairwise comparison of the nucleotide sequence.
+We also performed minimum inhibitory concentration MIC testing on cultured bacterial strains.This work presents evidence for differences in genome content between subgroups in G. apicola and HGT of Tcr genes among the Arizonan G. apicola strains.
 
-snodgrassella alvi grows as a biofilm along the gut wall while g. apicola exists on top of this biofilm and extends into the lumen kwong engel koch  moran 2014 martinson moy  moran 2012. gilliamella apicola exhibits phenotypic diversity with respect to the capacity to degrade pectin but it has not yet been determined whether this property is linked to specific linages engel stepanauskas  moran 2014 jayani sax- ena  gupta 2005 kwong  moran 2015 moran et al.
+S8.We performed susceptibility testing for all isolates of G. apicola and found for G. apicola with Tet B that the MIC representing Nor- wegian and Arizonan strains varied between 3 and 16 mgL and 12 and 16 mgL respectively Table S11.
 
-we also performed minimum inhibitory concentration mic testing on cultured bacterial strains.this work presents evidence for differences in genome content between subgroups in g. apicola and hgt of tcr genes among the arizonan g. apicola strains.
+Although previous work showed differences in pectin-degradation capacity by G. apicola strains and 16S rRNA gene analysis and single-cell sequencing have shown genetic variations within G. apicola no specific subgroups have been fully identified Engel et al.
 
-s8.we performed susceptibility testing for all isolates of g. apicola and found for g. apicola with tet b that the mic representing nor- wegian and arizonan strains varied between 3 and 16 mgl and 12 and 16 mgl respectively table s11.
-
-although previous work showed differences in pectin-degradation capacity by g. apicola strains and 16s rrna gene analysis and single-cell sequencing have shown genetic variations within g. apicola no specific subgroups have been fully identified engel et al.
-
-2012. the pectin-degrading capacity of g. apicola may be a health benefit for the honeybee and this functional trait has co-evolved with g. apicola as the pectin-gene phylogenies correlates with the genomic phylogeny fig.
-
-the ari- zonan variants were all unique for g. apicola which made it possible to use this region to predict hgt between g. apicola strains.
-
-gil- liamella apicola and s. alvi live in close proximity but occupy distinctecological niches within the gut community.
-
-apicola and s. alvi as described by martinson et al.
+The pectin-degrading capacity of G. apicola may be a health benefit for the honeybee and this functional trait has co-evolved with G. apicola as the pectin-gene phylogenies correlates with the genomic phylogeny Fig.
 

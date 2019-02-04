@@ -1,30 +1,20 @@
-2011 22 458-466.inagaki t. moschetta a. lee y. peng l. zhao g. downes m. yu r. t. shelton j. m. richardson j. a. repa j. j. mangelsdorf d. j. kliewer s. a. regulation of antibacterial defense in the small intestine by the nuclear bile acid receptor.
+We extracted the SILAC ion chromatographic traces of these proteins and all of them showed clear UV-dependent and BA- competitive labeling by the probe c. Collectively these known examples of BA-interacting proteins in our profiling data indicate that the photoaffinity BA probes arecapturing physiologically relevant protein-BA interactions in living cells.Interestingly we also identified a set of BA-proteininteractions which are sensitive to excessive BA competition but show UV-independent probe labeling group IV in c. This suggests that covalent interactions between BA and proteins may exist in cells and will be the subject of further investigation.Considering the structural similarity between BA and cholesterol we also compared the BA-interacting proteins identified in our study with those cholesterol-interacting proteins identified in a previous study performed by the Cravatt group.
 
-hepatology 2013 57 1117-1129.mihalik s. j. steinberg s. j. pei z. park j. kim d. g. heinzer a. k. dacremont g. wanders r. j. a. cuebas d. a. smith k. d. participation of two members of the very long-chain acyl-coa synthetase family in bile acid synthesis and recycling.
+Science 1999 284 1362-1365.Kawamata Y. Fujii R. Hosoya M. Harada M. Yoshida H. Miwa M. Fukusumi S. Habata Y. Itoh T. Shintani Y. Hinuma S. Fujisawa Y. Fujino M. A G Protein-Coupled Receptor Responsive to Bile Acids.
 
-2015 9 527.krattinger r. bostrom a. lee s. m. l. thasler w. e. schioth h. b. kullakublick g. a. mwinyi j. chenodeoxycholic acid significantly impacts the expression of mirnas and genes involved in lipid bile acid and drug metabolism in human hepatocytes.
+Our chemo-proteomic profiling identified several direct interactions between BA and key proteins that are known to be involved with the development and pathogenesis of NAFLD including sterol regulatory element binding transcription factor 1 SREBF1transforming growth factor beta 1 TGFB1 and multiple subunits of NADHubiquinone oxidoreductase and cytochrome c oxidase.Further investigation on how BA binds to and affects functions of these proteins as well as those in lipid metabolism pathways may provide novel links between BA metabolism and NAFLD.BAs have been known to interplay with microbiota in the intestine to establish a healthy gut environment for the host.
 
-2006 98 1610-1618.nunes a. amaral j. d. lo a. c. fonseca m. b. viana r. j. s. callaertsvegh z. d'hooge r. rodrigues c. m. p. tudca a bile acid attenuates amyloid precursor protein processing and amyloid-b deposition in appps1mice.
+many of which have been reported to be regulated by BA in a receptor-dependentmanner.-It is also satisfying to see that the bile secretionpathway is enriched as several known BA transporters are captured by our BA probes in the profiling.The top functionally enriched pathway protein processing in ER contains 44 BA-interacting proteins.
 
-this is an open access article published under an acs authorchoice  which permits copying and redistribution of the article or any adaptations for non-commercial purposes.chemoproteomic profiling of bile acid interacting proteinsshentian zhuangqiang lilirong caichu wangand xiaoguang leisynthetic and functional biomolecules center beijing national laboratory for molecular sciences key laboratory of bioorganic chemistry and molecular engineering of ministry of education department of chemical biology college of chemistry and molecular engineering and peking-tsinghua center for life sciences peking university beijing 100871 china abstract bile acids bas are a family of endogenous metabolites synthesized from cholesterol in liver and modified by microbiota in gut.
+We performed the gene ontology GO analysis on these BA interacting proteins regarding their subcellular distributions a.Major subcellular organelles enriched with BA target proteins are endoplasmic reticulum 23 mitochond- rion 21 Golgi apparatus 11 nuclear envelope 5 cell surface 5 and peroxisome 4.
 
-the conjugated bas are secreted into intestine and undergo deconjugation dehydroxylation or isomerization by gut microbiota to form secondary bile acids including deoxycholic acid dca lithocholic acid lca and ursodeoxycholic acidudca.
+Immunoblotting of the enriched proteins showed that all of them can be captured by the P2 probe in a UV- dependent manner and these BA-protein interactions can be competed by excess native BA molecules by at least 1.69-fold.CONCLUSIONHere we designed and efficiently prepared a number of structurally diverse clickable and photoreactive BA probes based on the cholic acid scaffold and applied them in systematically mapping BA-interacting proteins directly in living cells.
 
-recently obeticholic acid oca a bile acid derived fxr agonist has been officially approved for clinical treatment of primary biliary cholangitis pbc.moreover bas can also be de novo synthesized in brain and act as potent antagonists for nmda and gabaa receptors in the central nervous system.
+2016 11 2908- 2914.Schulz S. Schmitt S. Wimmer R. Aichler M. Eisenhofer S. Lichtmannegger J. Eberhagen C. Artmann R. Tookos F. Walch A.
 
-2009 14 2584-2598.makishima m. okamoto a. y. repa j. j. tu h. learned r. m. luk a. hull m. v. lustig k. d. mangelsdorf d. j. shan b. identification of a nuclear receptor for bile acids.
+2016 156 47-56.Richter S. Richter J. P. Mehta S. Gribble A. Sutherlandsmith A. J. Stowell K. M. Print C. G. Ronimus R. S. Wilson W. R. Expression and Role in Glycolysis of Human ADP- Dependent Glucokinase.
 
-structure 2015 23 598-604.margheritis e. castellani b. magotti p. peruzzi s. romeo e. natali f. mostarda s. gioiello a. piomelli d. garau g. bile acid recognition by nape-pld.
+2012 506 322-326.Ramalho R. M. Borralho P. M. Castro R. E. Sola S. Steer C. J. Rodrigues C. M. P. Tauroursodeoxycholic Acid Modulates p53- Mediated Apoptosis in Alzheimer's Disease Mutant Neuroblastoma Cells.
 
-science 1999 284 1365-1368.fang c. filipp f. v. smith j. w. unusual binding of ursodeoxycholic acid to ileal bile acid binding protein role in activation of fxra.
-
-2010 4 741-748.byrne a. sharma r. duggan g. kelleher d. long a. deoxycholic acid impairs glycosylation and fucosylation processes in esophageal epithelial cells.
-
-1965 100 317-328.barrasa j. i. olmo n. perezramos p. santiagogomez a. lecona e. turnay j. lizarbe m. a. deoxycholic and chenodeox- ycholic bile acids induce apoptosis via oxidative stress in human colon adenocarcinoma cells.
-
-j. low w. c. tauroursodeoxycholic acid a bile acid is neuroprotective in a transgenic animal model of huntington's disease.
-
-2014 14 467-482.joyce s. a. gahan c. g. bile acid modifications at the microbe-host interface potential for nutraceutical and pharmaceut- ical interventions in host health.
-
-in human the primary bas are cholic acid ca and chenodeoxycholic acid cdca which are synthesized from cholesterol in liver and are subsequently conjugated with taurine or glycine to increase their water solubility.
+2012 364 131-145.Kanehisa M. Goto S. Furumichi M. Tanabe M. HirakawaM.
 

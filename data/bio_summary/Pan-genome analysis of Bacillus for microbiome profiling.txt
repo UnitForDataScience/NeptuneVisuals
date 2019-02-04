@@ -1,30 +1,20 @@
-the average number of strain-specific genes is 68 3 149 52 and 142 in each strain of b. amyloliquefaciens b. anthracis b. cereus b. subtilis and b. thuringiensis respectively.overall the pan-genome analysis on each bacillus species identified 6656 orthologous genes in b. amyloliquefaciens 6135 in b. anthracis 21675 in b. cereus 10116 in b. subtilis and 20882 in b. thuringiensis supplementary table .
+The average number of strain-specific genes is 68 3 149 52 and 142 in each strain of B. amyloliquefaciens B. anthracis B. cereus B. subtilis and B. thuringiensis respectively.Overall the pan-genome analysis on each Bacillus species identified 6656 orthologous genes in B. amyloliquefaciens 6135 in B. anthracis 21675 in B. cereus 10116 in B. subtilis and 20882 in B. thuringiensis Supplementary Table .
 
-as discussed in the previous study b. anthracis strains are significantly homologous which possibly results from a recent evolution of the species.a total of 1364 156 8617 3013 and 7087 strain-specific genes were determined in b. amyloliquefaciens b. anthracis b. cereus b. subtilis and b. thuringiensis respectively supplementary table .
+As discussed in the previous study B. anthracis strains are significantly homologous which possibly results from a recent evolution of the species.A total of 1364 156 8617 3013 and 7087 strain-specific genes were determined in B. amyloliquefaciens B. anthracis B. cereus B. subtilis and B. thuringiensis respectively Supplementary Table .
 
-in particular 20 strains of b. amyloliquefaciens 52 strains of b. anthracis 58 strain of b. cereus 58 strains of b. subtilis and 50 strains of b. thuringiensis were used to determine the core genes and strain-specific genes in the bacillus pan-genomes table and supplementary table .
+In particular 20 strains of B. amyloliquefaciens 52 strains of B. anthracis 58 strain of B. cereus 58 strains of B. subtilis and 50 strains of B. thuringiensis were used to determine the core genes and strain-specific genes in the Bacillus pan-genomes Table and Supplementary Table .
 
-a total of 2870 3972 1656 1022 and 2299 core gene clusters were determined in b. amyloliquefaciens b. anthracis b. cereus b. subtilis and b. thuringiensis respectively table and supplementary table .
+A total of 2870 3972 1656 1022 and 2299 core gene clusters were determined in B. amyloliquefaciens B. anthracis B. cereus B. subtilis and B. thuringiensis respectively Table and Supplementary Table .
 
-the average sequence similarity of the core genes was 98.03 99.67 95.70 95.60 and 95.85 in b. amyloliquefaciens b. anthracis b. cereus b. subtilis and b. thuringiensis respectively supplementary table .
+The average sequence similarity of the core genes was 98.03 99.67 95.70 95.60 and 95.85 in B. amyloliquefaciens B. anthracis B. cereus B. subtilis and B. thuringiensis respectively Supplementary Table .
 
-while similar numbers of strains were analyzed for b. subtilis b. cereus and b. thuringiensis the number of strain-specific genes in b. subtilis was significantly lower than those in the other two species 3013 genes in b. subtilis vs 8617 and 7087 inb.
+While similar numbers of strains were analyzed for B. subtilis B. cereus and B. thuringiensis the number of strain-specific genes in B. subtilis was significantly lower than those in the other two species 3013 genes in B. subtilis vs 8617 and 7087 inB.
 
-bacillus species has about 2.70 2.46 1.81 1.32 and 0.06 of strain-specific genes for b. cereus b. thuringiensis b. amyloliquefaciens b. subtilis and b. anthracis respectively.
+Bacillus species has about 2.70 2.46 1.81 1.32 and 0.06 of strain-specific genes for B. cereus B. thuringiensis B. amyloliquefaciens B. subtilis and B. anthracis respectively.
 
-average proportions of shared genes in each species are 61.86 82.02 71.63 79.39 and 63.86 in b. amyloliquefaciens b. anthracis b. cereus b. subtilis and b. thuringiensis respectively.we also compared the core genes in each bacillus species with each other to find the conservation among species.
+Average proportions of shared genes in each species are 61.86 82.02 71.63 79.39 and 63.86 in B. amyloliquefaciens B. anthracis B. cereus B. subtilis and B. thuringiensis respectively.We also compared the core genes in each Bacillus species with each other to find the conservation among species.
 
-in order to profile bacillus species in the five doenjang microbiomes the entire set of bacillus core genes were clustered with the genes predicted from the doenjang microbiomes.clustering was conducted with two different similarity thresholds 70 and 90. with 70 similarity thresh- old to find core genes of each species we observed that on averages 99.29 99.71 20.63 27.45 and 18.16 of the core genes in b. amyloliquefaciens b. subtilis b. thuringiensis b. cereus and b. anthracis respectively were clustered with the genes in each microbiome supplementary table .
+With 70 similarity thresh- old to find core genes of each species we observed that on averages 99.29 99.71 20.63 27.45 and 18.16 of the core genes in B. amyloliquefaciens B. subtilis B. thuringiensis B. cereus and B. anthracis respectively were clustered with the genes in each microbiome Supplementary Table .
 
-on average 98.22 97.77 1.30 0.83 and 0.86 of the core genes in b. amyloliquefaciens b. subtilis b. thuringiensis b. cereus and b. anthracis were exclusively clustered with the genes in five microbiomes fig.
-
-a total of five bacillus species b. amyloliquefaciens b. anthracis b. cereus b. subtilis and b. thuringiensis were selected for the pan-ge- nome analysis.
-
-a total of 2870 clusters of orthologous genes in b. amyloliquefaciens 3972 in b. anthracis 1656 in b. cereus 1022 in b. subtilis and 2299 in b. thuringiensis were clustered together to find genus-specific core genes.
-
-with the 70 similarity threshold the average similarity of orthologous genes in five bacillus species were 97.14 99.62 93.23 94.71 and 94.46 in b. amyloliquefaciens b. anthracis b. cereus b. subtilis andb.
-
-overall b. cereus and b. thuringiensis have rather high genetic diversity whereas b. amyloliquefaciens and b. subtilis have low genetic diversity with respect to the number of strain-specific genes.
-
-while only less than 1 of the core genes are assigned to the mobilome-related functions 0.92 7.57 6.40 and 11.15 of strain-specific genes are assigned to such functions in b. amyloliquefaciens b. cereus b. subtilis and b. thuringiensis.
+On average 98.22 97.77 1.30 0.83 and 0.86 of the core genes in B. amyloliquefaciens B. subtilis B. thuringiensis B. cereus and B. anthracis were exclusively clustered with the genes in five microbiomes Fig.
 

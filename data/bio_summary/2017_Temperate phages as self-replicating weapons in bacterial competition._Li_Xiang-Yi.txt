@@ -1,30 +1,20 @@
-free phages are assumed to decay with a rate m h-1.phage attachement and injection of dnabacterial chromosometakeover of cell machinery and assembly of new virionslytic cycle on duganellaprophage induction and intracellular phage productioncell lysis and release of new phagerelease of new phage via budding from the cellfigure 3 population growth of free phages is the sum of phage replication via the lytic life cycle on duganella sp.
+Free phages are assumed to decay with a rate m h-1.Phage attachement and injection of DNABacterial chromosomeTakeover of cell machinery and assembly of new virionsLytic cycle on DuganellaProphage induction and intracellular phage productionCell lysis and release of new phageRelease of new phage via budding from the cellFigure 3 Population growth of free phages is the sum of phage replication via the lytic life cycle on Duganella sp.
 
-cell by a free phage 4 followed by phage replication 5 and release of the new phages 6. the last step results in the lysis and death of the duganella host cell.with this the model describing the dynamics of nutrients bacteria and phages readsdndt  -c  gcnc  gdn d dcdt  gcncdddt  gdn d - d pdt  dc dc  b ph d p - m p .2the key feature of this model is that phage population growth is the sum of lytic repro- duction on duganella sp.
+by Curvibacter phage was tested by spot assays according to the protocol described by Adams 30.The modelWe start by deriving a model of the interactions between the two bacteria and the phage in a well-mixed batch growth culture with a fixed amount of initial nutrients.
 
-growth rate is inde- pendent of both the phage and the presence of duganella sp.contribution of the lysogenic cyclelet us now turn to phage reproduction via the lysogenic pathway denoted by dc d in eqn 2. it is clear that the contribution of the lysogenic pathway to phage growth increases as the frequency of curvibacter sp.
+cell by a free phage 4 followed by phage replication 5 and release of the new phages 6.
 
-by curvibacter phage was tested by spot assays according to the protocol described by adams 30.the modelwe start by deriving a model of the interactions between the two bacteria and the phage in a well-mixed batch growth culture with a fixed amount of initial nutrients.
+We approximate those losses by assuming that phage dynamics are much faster than bacterial dynamics implying that the phage density quickly reaches its asymptotic value P for which dPdt  0 where the bacterial densities C and D are essentially free parameters.
 
-we approximate those losses by assuming that phage dynamics are much faster than bacterial dynamics implying that the phage density quickly reaches its asymptotic value p for which dpdt  0 where the bacterial densities c and d are essentially free parameters.
+As we will now show the contributions of these two pathways to phage growth behave very differently as the relative initial abundances of the two bacteria change.Contribution of the lytic cycleThe lytic life cycle is known to be especially effective at high host densities when each phage particle quickly finds a new host.
 
-as we will now show the contributions of these two pathways to phage growth behave very differently as the relative initial abundances of the two bacteria change.contribution of the lytic cyclethe lytic life cycle is known to be especially effective at high host densities when each phage particle quickly finds a new host.
+If the host density is too low however the losses through phage decay are not outweighed by reproduction the phage can thus not invade the host population and is eventually lost from the system.
 
-if the host density is too low however the losses through phage decay are not outweighed by reproduction the phage can thus not invade the host population and is eventually lost from the system.
+the minimum host density that allows positive phage growth - can be calculated explicitly by observing that if there is only lytic reproduction d f   0 for all f  we havedPmdt  0  f  1 - b ph B .11This implies that with lytic reproduction alone the phage can grow and have a substantial impact on Duganella sp.
 
-the minimum host density that allows positive phage growth - can be calculated explicitly by observing that if there is only lytic reproduction d f   0 for all f  we havedpmdt  0  f  1 - b ph b .11this implies that with lytic reproduction alone the phage can grow and have a substantial impact on duganella sp.
+when it is rare it will eventually reach the replication threshold of the phage but it does so too late for the phage to grow to substantial densities before nutrients are depleted.See Fig.
 
-when it is rare it will eventually reach the replication threshold of the phage but it does so too late for the phage to grow to substantial densities before nutrients are depleted.see fig.
+growth rate is inde- pendent of both the phage and the presence of Duganella sp.Contribution of the lysogenic cycleLet us now turn to phage reproduction via the lysogenic pathway denoted by dC D in Eqn 2.
 
-however lysogenic production alone is generally not enough to sustain the phage at high densities and lytic reproduction is still necessary for the phage to reach densities at which it has a visible impact on duganella sp.
-
-led us to hypothesise that the phage modulates the interaction between these two key members of the hydra microbiota.
-
-using a mathematical model we show that the interplay of the lysogenic life-cycle of the curvibacter phage and the lytic life-cycle on duganella sp.
-
-2. interestingly the phage can infect and lytically replicate on duganella sp.
-
-con- tribute to phage population growth.
-
-the half-saturation constant h ugml and nutrient conversion efficiency c are assumed to be the same for both bac- teria.we incorporate the two distinct phage life cycles as depicted in fig.
+However lysogenic production alone is generally not enough to sustain the phage at high densities and lytic reproduction is still necessary for the phage to reach densities at which it has a visible impact on Duganella sp.
 

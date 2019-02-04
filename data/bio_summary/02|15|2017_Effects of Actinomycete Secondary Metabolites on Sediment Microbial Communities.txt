@@ -1,30 +1,20 @@
-microbial ecologyeffects of actinomycete secondary metabolites on sediment microbial communitiesa michelle schorna kristen aguinaldob tommie lincecumb bradley s. mooreacd paul r. jensenadcenter for marine biotechnology and biomedicine scripps institution of oceanography university of california san diego la jolla california usaa ion torrent by thermo fisher scientific carlsbad california usab skaggs school of pharmacy and pharmaceutical sciences university of california san diego la jolla california usac center for microbiome innovation university of california san diego la jolla california usadabstract marine sediments harbor complex microbial communities that remain poorly studied relative to other biomes such as seawater.
+.Sunagawa S Coelho LP Chaffron S Kultima JR Labadie K Salazar G Djahanschiri B Zeller G Mende DR Alberti A Cornejo-Castillo FM CosteaPI Cruaud C Ovidio F Engelen S Ferrera I Gasol JM Guidi L Hildebrand F Kokoszka F Lepoivre C Lima-Mendez G Poulain J Poulos BT Royo- Llonch M Sarmento H Vieira-Silva S Dimier C Picheral M Searson S Kandels-Lewis S Tara Oceans Coordinators Bowler C de Vargas C Gorsky G Grimsley N Hingamp P Iudicone D Jaillon O Not F Ogata H Pesant S Speich S Stemmann L Sullivan MB Weissenbach J Wincker P Karsenti E Raes J Acinas SG Bork P. 2015.
 
-b phylum-level community composition.in this study we tested the hypothesis that secondary metabolites from marine sediment-dwelling bacteria affect microbial community composition.
+J Bacteriol 133763-768.Cline MS Smoot M Cerami E Kuchinsky A Landys N Workman C Christmas R Avila-Campilo I Creech M Gross B Hanspers K Isserlin R Kelley R Killcoyne S Lotia S Maere S Morris J Ono K Pavlovic V Pico AR Vailaya A Wang PL Adler A Conklin BR Hood L Kuiper M Sander C Schmulevich I Schwikowski B Warner GJ Ideker T Bader GD.
 
-the results provide insight into how low-abundance organisms may help structure microbial communities in ocean sediments.keywords chemical ecology marine sediments microbial communities secondary metabolitesfebruary 2017 volume 83 issue 4 e02676-16applied and environmental microbiology 1cean sediments represent one of earth's largest biomes yet we know relatively little about microbial diversity and function in these habitats.
+b Phylum-level community composition.In this study we tested the hypothesis that secondary metabolites from marine sediment-dwelling bacteria affect microbial community composition.
 
-while such competitive interactions have been addressed with marine bacteria   it remains unknown how competitive interactions structuresediment microbial communities.the competitive strategies employed by bacteria range from rapid growth and mineral chelation to the production of allelopathic secondary metabolites .
+The results provide insight into how low-abundance organisms may help structure microbial communities in ocean sediments.KEYWORDS chemical ecology marine sediments microbial communities secondary metabolitesFebruary 2017 Volume 83 Issue 4 e02676-16Applied and Environmental Microbiology 1cean sediments represent one of Earth's largest biomes yet we know relatively little about microbial diversity and function in these habitats.
 
-microbial diversity in marine sediments has been shown to vary with environmental parameters such as seasonality  and anthropogenic contamination  however the main drivers of community composition remain largely unknown  .
+.Amaral-Zettler L Artigas LF Baross J Bharathi L Boetius A Chandramo- han D Herndl G Kogure K Neal P Pedros-Alio C Ramette A Schouten S Stal L Thessen A de Leeuw J Sogin M. 2010.
 
-furthermore it will be important to determine the mics of the extracts against the test strains to better understand the relationships between these activities and the results observed in the mesocosm studies.in conclusion we found that marine actinomycete secondary metabolites had consistent effects on microbial community structure in mesocosm experiments.
+While such competitive interactions have been addressed with marine bacteria   it remains unknown how competitive interactions structuresediment microbial communities.The competitive strategies employed by bacteria range from rapid growth and mineral chelation to the production of allelopathic secondary metabolites .
 
-in this study we used next-generation amplicon sequencing to assess native microbial community composition in shallow tropical marine sediments.
+.Rusch DB Halpern AL Sutton G Heidelberg KB Williamson S Yooseph S Wu D Eisen JA Hoffman JM Remington K Beeson K Tran B Smith H Baden-Tillson H Stewart C Thorpe J Freeman J Andrews-Pfannkoch C Venter JE Li K Kravitz S Heidelberg JF Utterback T Rogers YH Falcon LI Souza V Bonilla-Rosso G Eguiarte LE Karl DM Sathyendranath S Platt T Bermingham E Gallardo V Tamayo-Castillo G Ferrari MR Strausberg RL Nealson K Friedman R Frazier M Venter JC.
 
-nov. two carotenoid- and squalene-producing marine bacteria of the family ver- rucomicrobiaceae within the phylum verrucomicrobia isolated from marine animals.
+.Gobet A Boer SI Huse SM van Beusekom JE Quince C Sogin ML Boetius A Ramette A.
 
-2013. marine sediment-derived streptomyces bacteria from british columbia canada are a promising microbiota resource for the discovery of anti- microbial natural products.
+.Basilio A Gonzalez I Vicente MF Gorrochategui J Cabello A Gonzalez A Genilloud O.
 
-although this species may be a rare member of the bacterial community its mycelial growth form and ability to secrete biologically active secondary metabolites suggest that it could have a major impact on localized community struc- ture thereby contributing to sediment microbial heterogeneity.
-
-moreover bacteria in these communities produce antibiotics and other bioactive secondary metabolites yet little is known about how these compounds affect microbial community struc- ture.
-
-are found in animal gut and marine environments until recently they were thought to prey exclusively on gram-negative bacteria but new evidence suggests that they may also be capable of preying on gram-positive bacteria .
-
-by comparison marine sedi- ments remain poorly studied in terms of microbial taxonomic and functional diversity .
-
-among the known compounds identified rifamycins possess antibiotic activity targeting rna polymerase  while the stauro- sporines are cytotoxic inhibitors of protein kinase .discussionthe first aim of this study was to gain a better understanding of microbial diversity in near-shore marine sediments.
-
-notably up to 3.8 of the reads in each of our samples could not be classified at the phylum level suggesting that marine sediments harbor major microbial taxa that have yet to be classified.one notable finding was the prevalence of largely uncultured taxa including the phyla verrucomicrobia acidobacteria and planctomycetes.
+.Iebba V Totino V Santangelo F Gagliardi A Ciotoli L Virga A Ambrosi C Pompili M De Biase RV Selan L Artini M Pantanella F Mura F Passariello C Nicoletti M Nencioni L Trancassini M Quattrucci S Schippa S. 2014.
 

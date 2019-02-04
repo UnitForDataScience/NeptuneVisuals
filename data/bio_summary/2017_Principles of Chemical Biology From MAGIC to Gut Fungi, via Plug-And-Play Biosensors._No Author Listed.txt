@@ -1,30 +1,20 @@
-cell chemical biologycell chemical biology callprinciples of chemical biology from magic to gut fungi via ''plug-and-play'' biosensorsthis month new magic linking mitochondrial biology and proteostasis split rna polymerase based biosen- sors and a role that fungi play in human gut microbiome.mitochondria import and degrade misfolded proteinslinhao ruan and rong li johns hopkins uni- versity school of medicine  whiting school of engineeringprinciplesdysfunction of cellular proteostasis leads to accumulation of protein aggregates such as those associated with many neurodegenerative diseases nd.
+Cell Chemical BiologyCell Chemical Biology CallPrinciples of Chemical Biology From MAGIC to Gut Fungi via ''Plug-And-Play'' BiosensorsThis month New MAGIC linking mitochondrial biology and proteostasis split RNA polymerase based biosen- sors and a role that fungi play in human gut microbiome.Mitochondria Import and Degrade Misfolded ProteinsLinhao Ruan and Rong Li Johns Hopkins Uni- versity School of Medicine  Whiting School of EngineeringPrinciplesDysfunction of cellular proteostasis leads to accumulation of protein aggregates such as those associated with many neurodegenerative diseases ND.
 
-compared to proteasomal and au- tophagic degradation magic plays a major role in degrading aggregated proteins after heat shock however overloading this pathway with misfolded proteins results in prolonged mitochondrial damage.
+We also saw a positive correlation between ASCA and uric acid in the serum of human patients thus iden- tifying a novel mechanism by which gut fungi contribute to disease development.
 
-using yeast as a model system we demonstrate that aggregation-prone proteins are imported into mitochondria and eventually degraded there through a pathway that we termed magic for mitochondria as guardian in cytosol ruan et al.
+Administration of allopurinol a drug that blocks uric acid production was sufficient to reduce the severity of disease.
 
-13 432-438 10.1038nchembio.2299.starting from split t7 rnaps that spontane- ously assemble to form a functional enzyme we identified split sites where assembly is mediated and controlled by interacting fusion proteins.
+''What's nextWe are exploring whether we can detect disease-relevant molecular interactions in mammalian cells and also reworking the evolu- tion system to evolve protein-protein interac- tions.
 
-in order to streamline the biosensor development process we generated an easy-to-implement biosensor scaffold based on split rna poly- merases rnaps pu et al.
+This is based on our unexpected result that the split RNAP and fusion protein co- evolved during the biological evolutions.
 
-the ease of use and excellent performance of our biosensor platform make it attractive for use in chemical and synthetic biology research.
+Anti-Saccharomyces cerevisiae anti- bodies ASCA remain the most specific serolog- ical marker differentiating Crohn's disease CD and ulcerative colitis UC two inflammatory gut disorders suggesting that intestinal fungi may play a role during these diseases.
 
-nature 543 443-446 10.1038nature21695.we used a combination of methods todemonstrate that misfolded proteins are im- ported into mitochondria upon acute stress and that mitochondrial import and proteases are required for timely dissolution of cytosolic aggregates.
+To test whether these organisms have a role to play during disease we introduced two repre- sentative members of human gut microbiotaS.
 
-''in order to streamline the biosensor development process we generated an easy-to-implementbiosensor scaffold based on split rna polymerases.
+aaf9044 and observe that S. cerevisiae wors- ened the course of disease.Transcriptomics and metabolomics of germ- free mice mono-associated with S. cerevisiae revealed an effect on epithelial integrity and induction of uric acid.
 
-uncovering how fungi influence resident prokaryotes and the host may yield pre- viously unrecognized biological mechanisms as well as have therapeutic and diagnostic potential.428 cell chemical biology 24 april 20 2017 a 2017 published by elsevier ltd.
+Accumulation of uric acid during S. cerevisiae colonization led to greater gut permeability and worsened dis- ease.
 
-''.aggregation-prone pro- teins are imported into mito- chondria and eventually degraded there through a pathway that we termed magic for mitochondria as guardian in cytosol.
-
-''what's nextour findings have raised many mechanistic questions about how misfolded cytosolic pro- teins including those frequently associated with nd are imported into and degraded inside mitochondria and how mitochondrial functions may in turn be compromised due to elevated proteotoxic stress in the cytosol.
-
-anti-saccharomyces cerevisiae anti- bodies asca remain the most specific serolog- ical marker differentiating crohn's disease cd and ulcerative colitis uc two inflammatory gut disorders suggesting that intestinal fungi may play a role during these diseases.
-
-aaf9044 and observe that s. cerevisiae wors- ened the course of disease.transcriptomics and metabolomics of germ- free mice mono-associated with s. cerevisiae revealed an effect on epithelial integrity and induction of uric acid.
-
-exploring the application of the principles uncovered by our study to human diseases is an exciting future direction.evolved rnap ''plug-and-play'' biosensorsbryan dickinson university of chicagoprinciplesengineering cellular systems reprogramming biomolecules using evolution and a host of other synthetic biology goals require bio- sensors that detect specific inputs and drive defined genetic responses in live cells.
-
-this is based on our unexpected result that the split rnap and fusion protein co- evolved during the biological evolutions.
+ND pathologies also frequently include mitochondrialdefects.
 

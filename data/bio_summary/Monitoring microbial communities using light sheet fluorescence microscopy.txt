@@ -1,30 +1,20 @@
-i will describe various implementations of light sheet imaging and then comment further on opportunities for future research.this comes at the cost of reduced fields of view smaller working distances or instrumental complexity.several instruments have integrated structured illumination with light sheet fluorescence microscopy  most notably the lattice light sheet of betzig and co-workers  provid- ing enhanced optical sectioning and super-resolution though again at the cost of technical complexity.
+I will describe various implementations of light sheet imaging and then comment further on opportunities for future research.this comes at the cost of reduced fields of view smaller working distances or instrumental complexity.Several instruments have integrated structured illumination with light sheet fluorescence microscopy  most notably the lattice light sheet of Betzig and co-workers  provid- ing enhanced optical sectioning and super-resolution though again at the cost of technical complexity.
 
-in other words the technique is inefficient in its use of light figure 1ab schematic illustrations of confocal a and light sheet fluorescence b microscopies.
+In other words the technique is inefficient in its use of light Figure 1ab Schematic illustrations of confocal a and light sheet fluorescence b microscopies.
 
-excitation light is shown in blue focused to a point in confocal imaging and shaped into a sheet in light sheet imaging.
+Excitation light is shown in blue focused to a point in confocal imaging and shaped into a sheet in light sheet imaging.
 
-brief revivals and the realization that sheets could be used for fluorescence excitation occurred at various times over the following century until roughly a decade ago seminal work from ernst stelzer and collea- gues at the european molecular biology laboratory demonstrated the ability of light sheet fluorescence microscopy to perform whole embryo live imaging with single-cell resolution over many-hour timescales  launching the modern renaissance of light sheet micros- copy.
+Brief revivals and the realization that sheets could be used for fluorescence excitation occurred at various times over the following century until roughly a decade ago seminal work from Ernst Stelzer and collea- gues at the European Molecular Biology Laboratory demonstrated the ability of light sheet fluorescence microscopy to perform whole embryo live imaging with single-cell resolution over many-hour timescales  launching the modern renaissance of light sheet micros- copy.
 
-have good discussions of the history of light sheet imaging.a typical optical arrangement for a light sheet microscope from the author's lab is illustrated schematically and photographically in cd.
+have good discussions of the history of light sheet imaging.A typical optical arrangement for a light sheet microscope from the author's lab is illustrated schematically and photographically in cd.
 
-as described above this is achievable with light sheet imaging.using a home-built light sheet microscope my research group has so far explored the dynamics of labelled commensal bacterial species in the larval zebrafish gut .
+As described above this is achievable with light sheet imaging.Using a home-built light sheet microscope my research group has so far explored the dynamics of labelled commensal bacterial species in the larval zebrafish gut .
 
-the 'openspim' set of instructions and tutorials for building a simple light sheet microscope makes use of the cylindrical lens design  variants of light sheet microscopy have been devised to improve resolution or other aspects of optical quality.
+The 'OpenSPIM' set of instructions and tutorials for building a simple light sheet microscope makes use of the cylindrical lens design  variants of light sheet microscopy have been devised to improve resolution or other aspects of optical quality.
 
-multi- photon excitation  stimulated emission depletion  hyperspectral detection  and many other embellish- ments have also been combined with light sheet imaging.especially for experiments exploring microbial commu- nities this author firmly believes that simple two-lens unembellished light sheet fluorescence microscopy is sufficient to reveal structure and dynamics at length- scales and time-scales relevant to these systems.
+Multi- photon excitation  stimulated emission depletion  hyperspectral detection  and many other embellish- ments have also been combined with light sheet imaging.Especially for experiments exploring microbial commu- nities this author firmly believes that simple two-lens unembellished light sheet fluorescence microscopy is sufficient to reveal structure and dynamics at length- scales and time-scales relevant to these systems.
 
-available online at sciencedirectmonitoring microbial communities using light sheet fluorescence microscopyraghuveer parthasarathymicrobes often live in dense dynamic multi-species communities whose architecture and function are intimately intertwined.
+Available online at ScienceDirectMonitoring microbial communities using light sheet fluorescence microscopyRaghuveer ParthasarathyMicrobes often live in dense dynamic multi-species communities whose architecture and function are intimately intertwined.
 
-in this review i describe light sheet fluorescence microscopy a technique that enables rapid acquisition of three-dimensional images over large fields of view and over long durations and i highlight recent applications of this method to microbial systems that include artificial closed ecosystems bacterial biofilms and gut microbiota.
-
-i comment also on the history of light sheet imaging and the many variants of the method.
-
-light sheet techniques have tremendous potential for illuminating the workings of microbial communities a potential that is just beginning to be realized.addressdepartment of physics the university of oregon united states corresponding author parthasarathy raghuveer motivationsnatural microbial communities are spatially complex and temporally dynamic.
-
-these constraints are very diffi- cult to satisfy with standard techniques.light sheet fluorescence microscopythe standard approach to three-dimensional fluorescence microscopy confocal microscopy makes use of a pinhole conjugate to the focal point along the axis of an objective lens to discard light from the bulk of a fluorescent specimen a. while powerful and versatile it suffers from intrinsic limitations with respect to speed and photodam- age.
-
-in confocal microscopy fluorophores outside the focal point are excited but their emission light is blocked by a confocal pinhole.
-
-parallel to the sheet is simply diffraction limited and is roughly half the wavelength of light or a few hundred nanometers in practice.
+In this review I describe light sheet fluorescence microscopy a technique that enables rapid acquisition of three-dimensional images over large fields of view and over long durations and I highlight recent applications of this method to microbial systems that include artificial closed ecosystems bacterial biofilms and gut microbiota.
 

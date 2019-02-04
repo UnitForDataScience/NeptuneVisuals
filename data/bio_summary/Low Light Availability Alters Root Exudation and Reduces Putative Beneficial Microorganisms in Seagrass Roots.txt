@@ -1,30 +1,20 @@
-we addressed three hypotheses i the composition and predicted function of the root microbiome will differ among seagrass species and also be distinct from the surrounding sediment ii root exudation will be increased by low andor fluctuating light availability and iii microbial composition and predicted function will be influenced by light availability but in a seagrass species-specific manner.materials and methodssite description and seagrass collectionseagrass species were collected from useless loop in shark bay western australia in may 2015 2607ts 11324te.
+Ralph P. J. Durako M. J. Enriquez S. Collier C. J. and Doblin M. A.
 
-these changes occurred after only 2 weeks of light treatment and before any changes in root growth implying that root exudation and alterations in root microbiomes respond rapidly to declines in light availability and could be used as an early indicator of light stress.microbial diversity composition and function is strongly influenced by the presence of seagrass rootsas hypothesized microbial composition and predicted function differed among seagrass species as well as between seagrass roots and the surrounding sediment.
+Ettinger C. L. Voerman S. E. Lang J. M. Stachowicz J. J. and Eisen J.
 
-regardless the response in the root exudation of seagrasses to light availability highlights one of the ways in which above-ground environmental disturbance can influence the below-ground environment.composition of seagrass root microbiomes are altered by light availabilityas hypothesized the composition of seagrass root microbiomes was altered by a reduction in light availability in a manner specific to each seagrass species.
+A. Lang J. M. Green J. L. and Stachowicz J. J.
 
-16s rdna amplicon sequencing revealed that microbial diversity composition and predicted function were strongly influenced by the presence of seagrass roots such that root microbiomes were unique to each seagrass species.
+Krol E. Blom J. Winnebald J. Berhorster A. Barnett M. J. Goesmann A. et al.
 
-reduced light availability altered seagrass root exudation as characterized using fluorescence spectroscopy and altered the composition of seagrass root microbiomes with a reduction in abundance of potentially beneficial microorganisms.
+Langille M. Zaneveld J. Caporaso J. G. McDonald D. Knights D. Reyes J. et al.
 
-overall this study highlights the potential for above-ground light reduction to invoke a cascade of changes from alterations in root exudation to a reduction in putative beneficial microorganisms and ultimately confirms the importance of the seagrass root environment - a critical but often overlooked space.keywords root microbiome seagrass exudation light dredging sulfurimonas 16s rdna parafac-eemintroductionit has long been established that roots of terrestrial plants are colonized by a diverse assemblage of microbes that collectively function as a 'microbiome.'
+Chaparro J. M. Badri D. V. and Vivanco J. M. 2014.
 
-however we are still in the early stages of understanding seagrass-microbe interactions consequently whole-organism seagrass microbiome adaptability metabolic diversity and therefore resilience of the seagrass and microbiome to environmental change remains largely unexplored.seagrass meadows provide a multitude of beneficial ecosystem services including habitat structure carbon sequestration primary food sources and protection from coastal erosion  .
+Caporaso J. G. Kuczynski J. Stombaugh J. Bittinger K. Bushman F. D. Costello E. K. et al.
 
-given the importance of root microbiomes to host plant health and ultimately ecosystem function there is a need to better understand the controls and drivers of microbial compositions in seagrass systems.currently our knowledge of seagrass root exudation rates and composition is limited to a few studies most from several decades ago      .
+Bagwell C. E. La Rocque J. R. Smith G. W. Polson S. W. Friez M. J. LongshoreJ.
 
-in the present work we test if the impact of light reduction also affects the root microbiome of these seagrass species through alterations in root exudation and if any variation in the root microbiome among the seagrass species is related to variation in exudation profiles.
+Muhling M. Woolven-Allen J. Murrell J. C. and Joint I.
 
-we selected these three seagrass species as they all have relatively fast growth rates and are quick to respond to environmental disturbance compared to larger seagrass species  .
-
-root exudation of the unclassified component c5 was also not affected by light treatment f320 1.3 p 0.29 but was exuded at a significantly greater rate from c. serrulata roots than from roots of either h. ovalis or h. uninervis supplementary figure s5.effect of light treatment on seagrass root microbiomescanonical correspondence analysis cca revealed that the entire composition of the root microbiome of each seagrass species grown under any of the light treatments was distinctto further explore which otus may be driving the responses to light reduction observed in the cca plot differential abundance was used to compare each light treatment with the full light control .
-
-we found that light reduction altered seagrass root exudation and the composition of seagrass root microbiomes with a decrease in abundance of potentially beneficial microorganisms.
-
-despite the potential for reduced sulfide accumulation to be toxic to seagrass metabolism   this functional group of bacteria is important in carbon mineralisation and ultimately in nutrient cycling in seagrass sediments .
-
-in this study the higher proportions of kegg pathways involved in membrane transport and metabolism particularly amino acids that were predicted from the seagrass root-associated communities suggests a microbial population that is taking advantage of the higher availability of c and n sources that surround roots compared to the sediment.seagrass root microbiomes not only differed from those in sediments in their composition and predicted function but also differed among the seagrass species with each speciesharboring a unique root microbiome.
-
-regardless picrust-predicted functional profiles remain a useful tool for gaining functional insight in microbiome studies   and in the context of this study suggests a level of functional redundancy in response to light disturbance.conclusionthe main conclusions of this study in relation to our initial hypotheses are as follows 1 the composition and predicted function of seagrass root microbiomes differ among species and are different to the surrounding sediment 2 seagrass root exudation of tdn decreased whilst protein-like dom increased in low and fluctuating light availability and 3 microbial composition but not predicted function is influenced by light availability in a seagrass-specific manner.
+Seagrass rhizosphere microbial communities in Macro and Microorganisms in Marine Sediments eds E. Kristensen R. R. Haese and J. E. Kostka Washington DC American Geophysical Union 199-216.Duarte C. M. Holmer M. and Marba N. 2005.
 

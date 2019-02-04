@@ -1,30 +1,20 @@
-tsetse flies were captured using pyramidal traps  placed in suitable tsetse fly biotopes.
+Specifically we selected candidate genes governing tsetse fly vector competence that could be used in the context of an anti-vector strategy to control human andor animal trypanosomiasis.
 
-only 1245 of the trapped 1991 tsetse flies were dissected since 10 flies were teneral and 736 flies were desiccated.pcr identification of trypanosome species in the tsetse midgutthe number of flies carrying single or mixed trypanosome infec- tions is presented in .
+The present study aimed to verify whether gene expression in field tsetse flies G. p. palpalis is modified in response to natural infection by trypanosomes T. congolense as reported when insec- tary-raised flies G. p. gambiensis are experimentally infected with T. b. gambiense.
 
-new york springer 2008. p. 35-48.matetovici i caljon g van den abbeele j. tsetse fly tolerance to t. brucei infection transcriptome analysis of trypanosome-associated changes in the tsetse fly salivary gland.
+This was achieved using the RNA-seq approach which identified 524 DEGs in infected vs. non-infected tsetse flies including 285 downregulated genes and 239 upregulated genes identified using DESeq2.
 
-specifically we selected candidate genes governing tsetse fly vector competence that could be used in the context of an anti-vector strategy to control human andor animal trypanosomiasis.
+Importantly our study demonstrates that data on the molecular cross-talk between the host and the parasite as well as the always present fly microbiome recorded from an experimental biological model has a counterpart in field flies which in turn validates the use of experimental hostparasite couples.Keywords field tsetse fly cameroonian foci rnaseq vector control trypanosomiasisinTrODUcTiOnHuman African trypanosomiasis HAT or sleeping sickness  and animal African trypanosomiasis AAT or nagana  are two vector-borne diseases that inflict heavy social and economic bur- dens on sub-Saharan African populations.
 
-the present study aimed to verify whether gene expression in field tsetse flies g. p. palpalis is modified in response to natural infection by trypanosomes t. congolense as reported when insec- tary-raised flies g. p. gambiensis are experimentally infected with t. b. gambiense.
+These parasites must accomplish a crucial part of their life cycle within their vector namely their multiplication and maturation into the infectious form that can be transmitted to the vertebrate host while the tsetse fly ingests its blood meal.
 
-this was achieved using the rna-seq approach which identified 524 degs in infected vs. non-infected tsetse flies including 285 downregulated genes and 239 upregulated genes identified using deseq2.
+They also share the ability to excretesecrete a number of proteins some of which are considered to be involved in their establishment in the tsetse midgut andor in the pathogenic process developed within the vertebrate host -.
 
-importantly our study demonstrates that data on the molecular cross-talk between the host and the parasite as well as the always present fly microbiome recorded from an experimental biological model has a counterpart in field flies which in turn validates the use of experimental hostparasite couples.keywords field tsetse fly cameroonian foci rnaseq vector control trypanosomiasisintroductionhuman african trypanosomiasis hat or sleeping sickness  and animal african trypanosomiasis aat or nagana  are two vector-borne diseases that inflict heavy social and economic bur- dens on sub-saharan african populations.
+Finally the establishment of both Tc and Tbg in the G. palpalis vector is reported to be favored by Sodalis glossinidius the secondary symbiont inhabitant of the tsetse gut .
 
-these parasites must accomplish a crucial part of their life cycle within their vector namely their multiplication and maturation into the infectious form that can be transmitted to the vertebrate host while the tsetse fly ingests its blood meal.
+This finding demonstrates the occurrence in naturally infected field tsetse flies of a tripartite interaction flytrypano- somegut bacteria already reported to occur in experimentally infected insectary flies -.Another similarity between the parasites is that their mantle which consists of a variant surface glycoprotein allows them to evade the host's immune system by means of antigenic variations - thus rendering ineffective any vaccine approaches to fight HAT or AAT.
 
-they also share the ability to excretesecrete a number of proteins some of which are considered to be involved in their establishment in the tsetse midgut andor in the pathogenic process developed within the vertebrate host -.
+Diverse strategies are available including the application ofpesticides the use of sterile males and the development of para- transgenic approaches -.The normal status of tsetse flies is considered to be refractory to trypanosome infection given that artificial or natural infection rates are always low  -.
 
-finally the establishment of both tc and tbg in the g. palpalis vector is reported to be favored by sodalis glossinidius the secondary symbiont inhabitant of the tsetse gut .
-
-this finding demonstrates the occurrence in naturally infected field tsetse flies of a tripartite interaction flytrypano- somegut bacteria already reported to occur in experimentally infected insectary flies -.another similarity between the parasites is that their mantle which consists of a variant surface glycoprotein allows them to evade the host's immune system by means of antigenic variations - thus rendering ineffective any vaccine approaches to fight hat or aat.
-
-diverse strategies are available including the application ofpesticides the use of sterile males and the development of para- transgenic approaches -.the normal status of tsetse flies is considered to be refractory to trypanosome infection given that artificial or natural infection rates are always low  -.
-
-recently a global transcriptomic analysis was performed - in the context of an anti-vector strategy aimed at deciphering the molecular cross-talk occurring between the different participants involved in tsetse infection the fly the trypanosome and the fly gut bacteria especially the primary wigglesworthia glossinidia and secondary s. glossinidius symbionts.
-
-thus the objectives of this study were to determine whether or not field-collected tsetse flies react to trypanosome infection under natural conditions similar to insectary flies under experimental conditions and whether or not tc induces molecular disruptions in gpp similar to those provoked by tbg in gpg.
-
-as described below flies were trapped in these areas in order to select non-infected and tc-infected individuals.fly sampling dissection and subsequent rna preservationthe may 2015 tsetse fly trapping campaign was conducted in three campo villages ipono mabiogo and campo-beach and the june 2015 campaign was conducted in three bipindi villages lambi bidjouka and ebiminbang.
+Recently a global transcriptomic analysis was performed - in the context of an anti-vector strategy aimed at deciphering the molecular cross-talk occurring between the different participants involved in tsetse infection the fly the trypanosome and the fly gut bacteria especially the primary Wigglesworthia glossinidia and secondary S. glossinidius symbionts.
 

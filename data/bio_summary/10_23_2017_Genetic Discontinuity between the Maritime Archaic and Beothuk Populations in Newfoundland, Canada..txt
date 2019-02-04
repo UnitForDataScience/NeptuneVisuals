@@ -1,30 +1,20 @@
-4000 ybp.to assess the demographic history of both the ma and beo- thuk we produced bayesian skyline plots from the mitochondrial genomes of samples with associated radiocarbon dates 30 ma samples and 19 beothuk samples table s1 through the beast program suite see for full analysis details.
+4000 YBP.To assess the demographic history of both the MA and Beo- thuk we produced Bayesian skyline plots from the mitochondrial genomes of samples with associated radiocarbon dates 30 MA samples and 19 Beothuk samples Table S1 through the BEAST program suite see for full analysis details.
 
-some samples appeared to quantify poorly after the two rounds of enrichment and were subsequently re-amplified for an additional 10 cycles and then re-quantified as described above.quantification and statistical analysisradiocarbon calibration and mre correctionradiocarbon ages require calibration against a calibration curve such as intcal13 for terrestrial samples or marine13 for marine samples .
+Some samples appeared to quantify poorly after the two rounds of enrichment and were subsequently re-amplified for an additional 10 cycles and then re-quantified as described above.QUANTIFICATION AND STATISTICAL ANALYSISRadiocarbon calibration and MRE CorrectionRadiocarbon ages require calibration against a calibration curve such as IntCal13 for terrestrial samples or Marine13 for marine samples .
 
-most of the samples for our analyses are represented by teeth 83 4352 while the remaining samples are made up of bone material from cranial and appendicular elements 17 952. approximately half of the sampled skeletons have been sexed by morphological characteristics 54 2852 with males 38 2052 being represented more than females 15 852  ta- ble s1.
+Most of the samples for our analyses are represented by teeth 83 4352 while the remaining samples are made up of bone material from cranial and appendicular elements 17 952.
 
-included with these samples are an occipital bone np161btk154 from an individual without sex or age information a li1 np162bbtk156 from an infant of approximately 3 years of age who has been reported to display bone morphological characteristics consistent with the relatively rare disease of histiocytosis x  a right mandibular sec- ond molar rm2 from an adult individual np164btk162 and femora of two adult individuals np285btk168 and np286btk169.
+Replicate samples n  12 yielded a mean difference of 0.1 for both carbon and nitrogen far below the threshold for meaningful dietary interpretation.AMS Dating at UCIBone samples of approximately 200mg were removed from 31 human skeletons from Port au Choix-3 and from 20 skeletons affil- iated with the precontact and historic Beothuk and Dorset Palaeoeskimo archaeological cultures.
 
-the bone samples were blasted with aluminum oxide powder to remove consolidant any adhering sed- iments or pigments and trabecular bone.
+The radiocarbon samples were calibrated Figures S2 and S3 using OxCal v. 4.3  with the DR calculated using the 14CHRONO Marine Radiocarbon Reservoir online data- base .Sequencing and bioinformatic processingAll samples were sequenced on an Illumina HiSeq 1500 platform at the Farncombe Institute at McMaster University.
 
-the bone samples took several days to two weeks todemineralize depending on the bone preservation and surface area available for demineralization.
+All samples were observed to possess some degree of terminal deamination though the proportion of damaged molecules varied throughout the samples.
 
-replicate samples n  12 yielded a mean difference of 0.1 for both carbon and nitrogen far below the threshold for meaningful dietary interpretation.ams dating at ucibone samples of approximately 200mg were removed from 31 human skeletons from port au choix-3 and from 20 skeletons affil- iated with the precontact and historic beothuk and dorset palaeoeskimo archaeological cultures.
+Contamination estimates for samples were generally low with more than 25 of all samples reporting only 1 contamination but ranged as high as 37 with a mean of 3 Table S1.Consensus sequence generation and curationWe also used schmutzi  to generate the consensus sequences by mitigating the impact of deamination-induced nucleotide mis- incorporation.
 
-the radiocarbon samples were calibrated figures s2 and s3 using oxcal v. 4.3  with the dr calculated using the 14chrono marine radiocarbon reservoir online data- base .sequencing and bioinformatic processingall samples were sequenced on an illumina hiseq 1500 platform at the farncombe institute at mcmaster university.
+This final dataset of 74 unique samples was aligned with MAFFT v. 7.2  the multiple alignment was visually inspected to correct any areas of ambiguous alignment and uploaded to Haplogrep Build 17  to assign the mitochondrial haplogroup Table S1Population AssignmentThe assignments of the 53 MA samples are supported by strong contextual data and radiocarbon ages that do not overlap with any other occupations of the island .
 
-all samples were observed to possess some degree of terminal deamination though the proportion of damaged molecules varied throughout the samples.
+This sample set in- cludes the MA subadult found in the L'Anse Amour burial mound the oldest known burial mound in North America and one of the first manifestations of the MA tradition  with the remaining MA samples coming from multiple burial loci of Port au Choix-3  .
 
-contamination estimates for samples were generally low with more than 25 of all samples reporting only 1 contamination but ranged as high as 37 with a mean of 3 table s1.consensus sequence generation and curationwe also used schmutzi  to generate the consensus sequences by mitigating the impact of deamination-induced nucleotide mis- incorporation.
-
-this final dataset of 74 unique samples was aligned with mafft v. 7.2  the multiple alignment was visually inspected to correct any areas of ambiguous alignment and uploaded to haplogrep build 17  to assign the mitochondrial haplogroup table s1population assignmentthe assignments of the 53 ma samples are supported by strong contextual data and radiocarbon ages that do not overlap with any other occupations of the island .
-
-the bone samples taken for radiocarbon dating and palaeodietary analysis proved to be very similar suggesting that only one individual was represented.
-
-two samples of bone were removed from the right femur of an adult male for adna analysis and radiocarbon dating cmh xiii-a01btk1.
-
-bone samples from a metacarpal were removed for adna analysis and radiocarbon dating.
-
-the protocol used to prepare bone samples for stable isotope analysis by the memorial applied archaeological sciences maas laboratory follows a standard modified longin method .
+The majority of the Beothuk samples are from the Notre Dame Bay area the geographic area where the Beo- thuk retreated in response to European expansions.
 

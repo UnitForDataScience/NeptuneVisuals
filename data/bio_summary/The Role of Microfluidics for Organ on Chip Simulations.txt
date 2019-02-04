@@ -1,30 +1,20 @@
-cells can be exposed to fss and cyclic mechanical deformations like the living cells which are involved in the processes of cardiovascular cycling breathing and peristalsis .
+Marsano A. Conficconi C. Lemme M. Occhetta P. Gaudiello E. Votta E. Cerino G. Redaelli A. Rasponi M. Beating heart on a chip A novel microfluidic platform to generate functional 3D cardiac microtissues.
 
-combining induced pluripotent stem ips cells or patient-specific primary cells along with gene editing technologies and personalized models of disease and health needs to be developed.
+Electrochemical monitoring selective cell attachment patterns sensing systems for electrochemical transductions and enzymes and biomarkers in microfluidic devices can be achieved by the integration of some supporting technologies with these devices.Although better results can be achieved by mimicking the in vivo microenvironment using microfluidic systems as compared to other traditional systems for simulation from the cell to tissue level more complex environmental conditions are required.
 
-the ebm's cells kept their viability after 4 days of culture and the results showed similarity to the mouse femur bm but not to blood cells.
+OC is not reliable for certain areas such as adaptive immune responses responses to endocrine systems nervous systems skeletal systems and chronic diseases .
 
-pancreatic endoderm derived from human embryonic stem cells generates glucose-responsive insulin-secreting cells in vivo.
+Gut on a chip  a Gut on a chip device showing an extra cellular matrix ECM coated flexible porous membrane with gut epithelial cells through the middle of the central microchannel and vacuum chambers on both sides b An image of the gut on a chip device.
 
-besides new directions and areas are mentioned for interested researchers in this field and future challenges regarding the simulation of ocs are also discussed which will make microfluidics more accurate and beneficial for biological applications.keywords microfluidics 3d biopringting bioengineering biosensors microbiomeintroductionmicrofluidics a multidisciplinary developing field is related to small volumes sizes energy consumptions and domains which are used to run intermingle discretize or process fluids  for better analysis of single cells to organs on fully automated chips .
+1 Many early challenging applications of these systems include the analysis of cells and fluidic optics organic synthesis detectors high throughput screening microelectromechanical systems MEMS and extension into nanofluidics.2 Mimicking of human organs and their physiological responses is being made more affordable so that biomimetic microfluidic systems should be efficient enough to replace animal testing in the future.
 
-however organoids formed in 3d cell cultures have different shapes and sizes and it is hard to maintain the positions of their cells for analysis.
+The 3D bioprinted microfluidic systems with complex biological culture systems improve the proximal tubule functionality and epithelial morphology .
 
-trans-cellular transport secretion and absorption and biochemical and genetic analysis of cultured cells are also difficult in 3d systems.
+In 3D systems the integration of synthetic polymer gels into microfluidic channels gives greater complexity to the tissue microenvironment on a chip.
 
-there is a lack of exposure to mechanical cues like tension compression and flow shear stress fss for cells which are very important for organ development and functions for both disease and health states .
+3011Academic Editor Hyun Jung KimReceived 24 March 2017 Accepted 2 May 2017 Published 4 May 2017Abstract A multichannel three-dimensional chip of a microfluidic cell culture which enables the simulation of organs is called an organ on a chip OC.
 
-microfluidic systems offer opportunities to overcome these limitations.an organ is a complex unit of different tissues and these tissues are composed of various types of cells with diverse functions.
+However some other technologies are still needed to control these parameters.Organ Simulation Is Better with MicrofluidicsThe following characteristics and advantages of microfluidic systems make them more reliable and competent for better physiological analysis and for controlling system parameters more precisely than other systems.
 
-these microfluidic devices usually contain cell culture chambers lined with living cells.
-
-however for complex systems different types of cells related to various tissues are cultured.
-
-these cells are interconnected with porous membranes and are lined on opposite sides for proper organ simulation .
-
-fluidically associated cells of different organs on a chip mimicking the physiological connections between organs with integrating fss mechanical compression and cyclic strain or other physical forces can be used for analyzing drug distribution and organ specific responses .
-
-in 3d cell culture cells are embedded in natural or synthetic polymers.
-
-cells intersperse randomly in the extracellular matrix ecm or form organoids which are clusters of self-assembled cellular structures.
+Selective cell attachment patterns detection systems for electrochemical transductions fluorescenceenzymes biomarkers genomics proteomics lipidomics electrochemical monitoring and viable tissue production cannot be achieved by microfluidic systems so the integration of other supporting technologies are needed for supporting and enhancing the simulation of OCs.Microfluidics Devices Accompanied with Supporting Technologies for Better SimulationOrgan simulation is more complex because of the enhanced environmental conditions and requirements.
 

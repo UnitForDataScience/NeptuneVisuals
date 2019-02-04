@@ -1,30 +1,20 @@
-sensitivity  90.1 specificity  84.7 negative likelihood ratio  0.12 positive likelihoodratio  5.89 prevalence  0.848 negative predictive value  99.90 and positive predictive value  4.8.puopolo et al  for instance estimates the risk of sepsis using gestational age maternal antepartum temperature time since rupture of membrane maternal group b streptococcussepsis metascore in neonatal sepsis  jpids 2017xx xx xxxx  5figure 2. receiver operating characteristic roc curves for logistic models of the sepsis metascore sms alone replotted to account for patients with missing laboratory data plus clinical laboratory results in binary or raw form with or without the sms for each cohort a cernada et al  n  36 b smith et al  n  68 no crp data were available for this cohort and c wynn et al  n  83 all 4 subgroups are combined because no substantial differences were found in subgroup analysis for individual laboratory results thus the same controls were counted twice in their respective comparison groups.
+Receiver operating characteristic ROC curves for logistic models of the Sepsis MetaScore SMS alone replotted to account for patients with missing laboratory data plus clinical laboratory results in binary or raw form with or without the SMS for each cohort A Cernada et al  n  36 B Smith et al  n  68 no CRP data were available for this cohort and C Wynn et al  n  83 all 4 subgroups are combined because no substantial differences were found in subgroup analysis for individual laboratory results thus the same controls were counted twice in their respective comparison groups.
 
-the sms had a consistently high diagnostic accuracy in each cohort area under the receiver operating characteristic curve auc 95 confidence interval ci 0.93 0.89-0.98 cernada et al 0.92 0.89-0.94 smith et al and 0.92 0.89-0.95 wynn et al .
+The SMS had a consistently high diagnostic accuracy in each cohort area under the receiver operating characteristic curve AUC 95 confidence interval CI 0.93 0.89-0.98 Cernada et al 0.92 0.89-0.94 Smith et al and 0.92 0.89-0.95 Wynn et al .
 
-for the smith et al  cohort after coconut conormalization and for the wynn et al  cohort technical replicates were summarized as the mean gene expression level.diagnostic calculationsthe 11-gene sms is calculated according to the formula below in which each gene represents its relative expression value in a given sample .
+For the Smith et al  cohort after COCONUT conormalization and for the Wynn et al  cohort technical replicates were summarized as the mean gene expression level.Diagnostic CalculationsThe 11-gene SMS is calculated according to the formula below in which each gene represents its relative expression value in a given sample .
 
-it should be noted that no significant change in diag- nostic accuracy was found in the wynn et al cohort when con- sidering only confirmed sepsis ie not including clinical sepsis versus uninfected infants or when split into early and late time points supplementary figure 2. in addition in the smith et al cohort when the possibly septic neonates not included in the roc curves were compared with those with confirmed bacteremia the sms had excellent discriminatory accuracy auc 0.90. given the very low pretest probability for actual infection in possible cases of sepsis this discriminatory ability suggests real clinical utility of the sms.figure 1. receiver operating characteristic roc curves of the sepsis metascore comparing noninfected controls with neonates with sepsis as defined by the original authors of each cohort.
+It should be noted that both the Wynn et al  and Cernada et al data were not available at the time of the publication of the SMS report which lends validity to the independence of these cohorts .
 
-it should be noted that both the wynn et al  and cernada et al data were not available at the time of the publication of the sms report which lends validity to the independence of these cohorts .
+Cohorts Examining Genome-Wide Expression in Whole Blood From Neonates With SepsisAbbreviation VLBW very low birth weight.aSmith et al also included a group of neonates with what they considered possible sepsis not listed.Sepsis MetaScore in Neonatal Sepsis  JPIDS 2017XX XX XXXX  3had similar birth weights mean 930-2090 g range 500-3480 g and gestational ages mean 26-33 weeks range 23-41 weeks.Diagnostic Accuracy of the SMSWe first tested the SMS for diagnostic accuracy in distinguish- ing septic neonates from controls in each of the 3 cohorts according to the sepsis definitions defined in Methods.
 
-crp levels from the smith et al   cohort were not available.sepsis definitionsin each cohort sepsis was defined the same as it was by the initial authors.
+In addition in the Smith et al cohort when the possibly septic neonates not included in the ROC curves were compared with those with confirmed bacteremia the SMS had excellent discriminatory accuracy AUC 0.90.
 
-in the cernada et al  study arrayexpress accession number e-mtab-4785 sepsis was diagnosed when a microorganism was isolated from blood and clinical signs and risk factors were concomitantly present.
+The SMS showed significant NRI values range 0.3-0.69 P  .05 for all cases except the Smith et al binary lab- oratory results comparison NRI 0.13 P  .11 Supplementary Tables 2-4.
 
-two positive blood cul- ture results were required for the diagnosis of coagulase-nega- tive staphylococcal sepsis cons.in the smith et al   study ncbi accession number gse25504 samples taken from a usually sterile body site from patients with suspected clinical infection that proved to have microbiological evidence of infection were identified and formed the infected group.
+It should be noted that the 11 genes in the SMS have only 1 overlap with the other previously described gene-expression scores BATF Mahajan et al .
 
-in the wynn et al  study ncbi accession number gse69686 infants evaluated for sepsis had blood collected pro- spectively and were classified retrospectively as having sepsis on the basis of the presence of all 3 of the following criteria 1 per- sistently abnormal clinical examination results 2 days of clin- ical signs ill appearance respiratory and cardiovascular signs2 positive blood culture results and 3 a peak crp level of45 mgl within 48 hours of evaluation.
+Of course these estimates assume a single bright-line cutoff for the SMS a more real-world application of the SMS might be the eventual calibration of probabilities of sepsis.Comparison of the SMS to the Diagnostic Accuracy of Laboratory Tests For each cohort we tested the diagnostic accuracy of standard clinical laboratory test results WBC count ANC CRP level both in raw form and at standard cutoff values  .
 
-infants with negative culture results who met the other 2 criteria were classified as clin- ical sepsis because of their persistently abnormal clinical exam- ination results and very high crp values and so were included in the transcriptomic analysis in contrast to the possible-sepsis samples in the smith et al  study.
-
-data were log2 transformed before analysis .for the smith et al cohort samples were split across 4 arraytypes.
-
-data from cernada et al  are newly available under arrayexpress accession number e-mtab-4785.
-
-the coconut-normalized samples from the smith et al  study are posted on our website see .resultsdescription of the cohortsour search identified 3 cohorts of neonates with sepsis who were profiled for genome-wide expression total of 214 unique patients    .
-
-cernada et al arrayexpress accession number e-mtab-4785 specif- ically enrolled very-low-birth-weight vlbw 1500 g neo- nates at a mean of 27 to 28 weeks' gestational age enrollment of the control and septic neonates occurred at a mean 11 and 14 days of age respectively range 2-26 days.
-
-smith et al  ncbi accession number gse25504 enrolled neonates sus- pected of having sepsis and control samples were taken mostly from screening blood collections from healthy term neonates.
+CRP levels from the Smith et al   cohort were not available.Sepsis DefinitionsIn each cohort sepsis was defined the same as it was by the initial authors.
 

@@ -1,30 +1,20 @@
-changes in the phage community associated with a shift towards an elderly-like microbial community are unknown.these analyses showed that the gut is colonized by phages quickly after birth 1-4 days that gut phages are more similar between infants than between adult individuals and that the phage community undergoes considerable changes early in life .
+Interestingly risperidone-induced weight gain can be reproduced in mice through transplantation of the fecal phage fraction alone which suggests that healthy phage community transplantation might have positive effects as well .A recent pilot study has shown that the gut phage community by itself may be sufficient to eliminate CDI and promote the recovery of a healthy microbiome structure  Box  Figure .
 
-it has been shown that the phage community may partially contribute to this feature  figure .figure 5. phage community resilience and its contribution to the resilience of the bacterial community.
+We also revisit the early ideas of phage therapy albeit applying them at the whole community scale and explore the possible use of bacteriophages to recover the necessary structure of the microbiome and reestablish health.Outcome of Phage-Bacteria InteractionsThe fate of a bacterial cell upon infection with a phage can be either cell death lysis or temporary symbiosis lysogeny chronic infections.
 
-interestingly risperidone-induced weight gain can be reproduced in mice through transplantation of the fecal phage fraction alone which suggests that healthy phage community transplantation might have positive effects as well .a recent pilot study has shown that the gut phage community by itself may be sufficient to eliminate cdi and promote the recovery of a healthy microbiome structure  box  figure .
+Changes in the phage community associated with a shift towards an elderly-like microbial community are unknown.These analyses showed that the gut is colonized by phages quickly after birth 1-4 days that gut phages are more similar between infants than between adult individuals and that the phage community undergoes considerable changes early in life .
 
-although the role of the host immune system in shaping the phage community and the role of external factors is not the focus of this review it is important to note that these factors play an important role as well figure .figure 1. major factors influencing the structure function and dynamics of the gut phage community.
+There is a slight decrease in double stranded DNA dsDNA phage diversity specifically of Siphoviridae phages and an increase in single stranded DNA ssDNA phage diversity in infants compared to adults .
 
-the phage component likely contributes to the recovery of the microbial community through the mobilization of beneficial genes.after rapid changes early in life the adult gut phage community remains remarkably stable .
+Generally the phage community consists of a few dominant DNA phage types with a tail of less abundant phages .
 
-although they did not examine whether it returns to its normal composition after the end of the imposed diet regime the high phage community stability over 2.5 years observed in their longitudinal study suggests that the phage community is maintained despite minor dietary changes.
+The most abundant phage types can represent more than 15 of the total phage community .
 
-recently examination of natural bacterial communities has shown that increasing host densities might select for the strategy of lysogeny as well .to fully understand the role of phages in shaping the gut microbial community structure one needs to consider four major influences of the system the human host and its immune system the structure and function of the microbial community itself the environmental inputs and the gut viral community both eukaryotic and prokaryotic.
+For example phage genome  and phage protein-cluster analysis - or the recently developed Homologous Virus Diversity Index HVDX  reduce the data complexity and enhance virus classification of metagenomic datasets.
 
-phage community dysbiosis is characterized by a shift in the activated prophage community or an increase of lytic phages and has been correlated with disease suggesting that a proper balance between lysis and lysogeny is needed to maintain health.
+Because phage contigs generally represent incomplete phage genomes these numbers are only a lower bound.
 
-during the first days of life the diversity of the phage community is high and the microbial community abundance and diversity is low .
+The importance of a carrier state of the temperate phage as a non-integrated episome to maintain a stable coexistence of a phage and its host has recently been shown  adding complexity to the studies of lysogeny.
 
-consequently an increase in the microbial abundance and a shift in the community composition drives a shift in the phage community composition as well  figure .
-
-however only one of the twins showed disease symptoms suggesting that a healthy phage community development towards an adult-like community is important in maintaining health but its disruption is not enough to result in disease.
-
-showed that different diets can promote differential long-term changes in the stability ofthe mouse phage community and in its interaction network with the microbial community .
-
-we propose that the healthy phage community may be sufficient to return a dysbiotic community to a healthy steady-state.
-
-the mechanisms by which phages influence microbial community structure andfunction in the healthy and diseased gut microbial community is an exciting area of research.box 1. key concepts and definitions of the human gut phage community.acknowledgments this work and its publication in an open access journal was supported by national institutes of health grant r01-1r01gm117361.author contributions all authors contributed to manuscript writing structural editing and conceptualization.conflicts of interest the authors declare no conflict of interest.referenceslloyd-price j. abu-ali g. huttenhower c. the healthy human microbiome.
-
-the most abundant phage types can represent more than 15 of the total phage community .
+Upon phage infection a small fragment of the invading phage genome of approximately 30 bp known as a spacer sequence becomes incorporated into the bacterial chromosome in a CRISPR array .
 

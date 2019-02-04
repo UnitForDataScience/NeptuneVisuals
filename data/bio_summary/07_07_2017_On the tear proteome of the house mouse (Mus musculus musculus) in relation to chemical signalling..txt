@@ -1,30 +1,20 @@
-thus the presence of mup4 with its ligands and of esp1 in the mouse tears and saliva  may function as the signals that explain the observation of and  who reported that mouth and facial areas are the first and the most frequently investigated areas during mouse social contacts which causes strong neuronal activity responses in accessory olfactory bulbs .mups and obps may also be used as carriers of vocs stemming out of metabolic and bacterial degradation and of other potentially toxic waste in mice     and in other taxa including humans   cows and pigs  and elephants .
+Thus the presence of MUP4 with its ligands and of ESP1 in the mouse tears and saliva  may function as the signals that explain the observation of and  who reported that mouth and facial areas are the first and the most frequently investigated areas during mouse social contacts which causes strong neuronal activity responses in accessory olfactory bulbs .MUPs and OBPs may also be used as carriers of VOCs stemming out of metabolic and bacterial degradation and of other potentially toxic waste in mice     and in other taxa including humans   cows and pigs  and elephants .
 
-2011. a novel defensive mechanism against acetaminophen toxicity in the mouse lateral nasal gland role of cyp2a5-mediated regulationof testosterone homeostasis and salivary androgen-binding protein expression.molecular pharmacology 79710-723 .zidek l stone mj lato sm pagel md miao z ellington a novotny m. 1999. nmr mapping of the recombinant mouse major urinary protein i binding site occupied by the pheromone 2-sec-butyl-45-dihydrothiazole.
+On the tear proteome of the house mouse Mus musculus musculus in relation to chemical signallingRomana Stopkova Petr Klempt Barbora Kuntova and Pavel StopkaBIOCEV group Department of Zoology Faculty of Science Charles University Prague Czech RepublicSubmitted 4 January 2017Accepted 14 June 2017Published 7 July 2017Corresponding authorPavel Stopka DOI Copyright2017 Stopkova et al.
 
-on the tear proteome of the house mouse mus musculus musculus in relation to chemical signallingromana stopkova petr klempt barbora kuntova and pavel stopkabiocev group department of zoology faculty of science charles university prague czech republicsubmitted 4 january 2017accepted 14 june 2017published 7 july 2017corresponding authorpavel stopka doi copyright2017 stopkova et al.
+OPEN ACCESS Subjects Bioinformatics Evolutionary Studies Genetics ZoologyKeywords Pheromone Lipocalins Toxic waste hypothesis Tears Sex dimorphism Secretoglobins Mus musculus musculus OBP MUP DarcinINTRODUCTIONThe genome of the mouse contains at least 55 genes for lipocalins and--due to their capacity to transport VOCs in their eight-stranded beta barrel--many of them are involved in chemical communication       .
 
-open access subjects bioinformatics evolutionary studies genetics zoologykeywords pheromone lipocalins toxic waste hypothesis tears sex dimorphism secretoglobins mus musculus musculus obp mup darcinintroductionthe genome of the mouse contains at least 55 genes for lipocalins and--due to their capacity to transport vocs in their eight-stranded beta barrel--many of them are involved in chemical communication       .
+MUP production is male-biased and sub-species-specific in the mouse urine   and have strong effects on the reproductive success of the signaller   as an honest cheat-proof display of an individual's health and condition   .
 
-mup production is male-biased and sub-species-specific in the mouse urine   and have strong effects on the reproductive success of the signaller   as an honest cheat-proof display of an individual's health and condition   .
+2017 On the tear proteome of the house mouse Mus musculus musculus in relation to chemical signalling.
 
-2017 on the tear proteome of the house mouse mus musculus musculus in relation to chemical signalling.
+MSP FLP and Aphrodisin are phylogenetically close to mouse OBPs .
 
-msp flp and aphrodisin are phylogenetically close to mouse obps .
+However there are more genes for OBPs in the mouse genome   and thus we provided alternative names based on their position on chromosome X as Obp1 Obp2 Obp5 synonym in C57BL--Obp1a  Obp6 Obp7 synonym in C57BL--Obp1b  and Obp8 where Obp3-ps and Obp4-ps are pseudogenes.
 
-however there are more genes for obps in the mouse genome   and thus we provided alternative names based on their position on chromosome x as obp1 obp2 obp5 synonym in c57bl--obp1a  obp6 obp7 synonym in c57bl--obp1b  and obp8 where obp3-ps and obp4-ps are pseudogenes.
+OBPs share typical lipocalin motif GxW as well as a specific disulfide bond Cys38-Cys42 which represents a strong OBP-diagnostic motif CXXXC found in many mammalian OBPs including Probasin and which are encoded by genes on the mouse chromosome X   .
 
-obps share typical lipocalin motif gxw as well as a specific disulfide bond cys38-cys42 which represents a strong obp-diagnostic motif cxxxc found in many mammalian obps including probasin and which are encoded by genes on the mouse chromosome x   .
+Specific antimicrobial activity has been demonstrated for the mouse lipocalin LCN2 which is up-regulated as a response to inflammation in mucosal tissues   and which scavenges for catecholate-type siderophores that bacteria use to sequester free iron  .
 
-mouse obp genes form two phylogenetic sub -clusters the group-a and the group-b obps.
-
-specific antimicrobial activity has been demonstrated for the mouse lipocalin lcn2 which is up-regulated as a response to inflammation in mucosal tissues   and which scavenges for catecholate-type siderophores that bacteria use to sequester free iron  .
-
-these include for example the bactericidalpermeability-increasing proteins - bpi   which are male-biased in the mouse saliva .
-
-chemodetection of such microorganism-associated molecular patterns mamps occurs at many placesin the body including specific sets of chemosensory neurons in the mammalian nose .the aim of this paper was to characterize the tear proteome from wild individuals of the house mouse m. m. musculus.
-
-here we further developed this aim with the state-of-the-art label-free lc- msms techniques to provide further evidence on the house mouse tear protein content.materials and methodsethical standardsall animal procedures were carried out in strict accordance with the law of the czech republic paragraph 17 no.
-
-273352013-17214 valid until 2019. animals were sacrificed by cervical dislocation.animalsfourteen individuals of the house mouse the eastern form m. m. musculus used in this study were captured in the czech republic near bruntal - 49.9884447n 17.4647019e one male one female in velke bilovice - 48.8492886n 16.8922736e three males three females prague-bohnice - 50.1341539n 14.4142189e three males three females.
+These include for example the bactericidalpermeability-increasing proteins - BPI   which are male-biased in the mouse saliva .
 

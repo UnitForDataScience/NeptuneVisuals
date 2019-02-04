@@ -1,30 +1,20 @@
-germ-free c57bl6 mice fed a high-fat diet had higher levels of cholesterol in their fecal pellets compared to conventional mice on the same diet suggesting that the presence of a microbiota can reduce the levels of cholesterol excreted in the feces.
+Ap Alistipes putredinis Pc Porphyromonas catonaie Pj Parabacteroides johnsoni Po Prevotella oralis Bv Bacteroides vulgatus Bt Bacteroides thetaiotaomicron Bi Bacteroides intestinalis Fl Flavobacterium and Vh Vibrio harveyi.Indeed when expressed in E. coli all of the choA orthologues cloned from the Bacteroidales produced a halo on LBC agar plates suggesting the production of commendamide although the halos associated with the orthologues from P. johnsonii and P. catoniae are clearly smaller in size see Fig.
 
-some members of the gut microbiota have been shown to have cholesterol reductase activity resulting in the reduction of cholesterol to coprostanol-.
+Bv Bacteroides vulgatus YP001298717.1 Bt Bacteroides thetaiotamicron NP812371.1 Bi Bacteroides intestinali ZP03013295.1s Po Prevotella oralis WP004369353.1 Pc Porphyromonas catonaie WP044167815.1 Pj Parabacteroides johnsoni WP008156608.1 Ap Alistipes putredinis WP004329950.1 vector pTRC99a.abolished the production of a zone of clearing on LBC agar confirming a role for these amino acids in the activ- ity of ChoA.
 
-was isolated from human feces and was shown to be able to reduce cholesterol to coprostanol although the gene encoding this activity was not identified.in this study we have screened a functional metagenomic library constructed from the microbial dna iso- lated from the feces of a healthy human male volunteer for activities that affect cholesterol solubilisation.
+B The BvuRS07120 gene was cloned into pTRC99a transformed into EPI100 and tested for the production of a halo on LBC agar.BvuRS07120 that is linked with the solubilisation of cholesterol and we have renamed the gene choA and the plasmid carrying choA was named pTRC-choA.ChoA produces a bioactive amine that solubilises cholesterol.
 
-epi100 cells carrying a fosmid from a human gut metagenomic library were screened on lb agar containing 0.01 wv cholesterol for the production of a halo indicative of the presence of a genes on the fosmid that encodes a factor that has activity against cholesterol.
+Bv Bacteroides vulgatus Bt Bacteroides thetaiotamicron Bi Bacteroides intestinalis Po Prevotella oralis Pc Porphyromonas catonaie Pj Parabacteroides johnsoni Ap Alistipes putredinis vector pTRC99a.
 
-to determine what role if any the gut microbiota might have in cholesterol metabolism we screened a metagenomic library for encoded activities that might contribute to the solubilisation of cholesterol.
+there is a significant increase in SEAP expression when the CFS from E. coli cultures expressing choA is added to the cell line compared to the CFS of E. coli cultures carrying the pTRC99a vector thus confirming the link between choA and NF-kB activation see Fig.
 
-lb agar becomes turbid after the addition of 0.01 wv cholesterol through the formation of cholesterol micelles or crystals.
+The gene responsible for halo production on LBC agar named choA was identified as an N-acyltransferase known to produce an acylated glycine molecule called commendamide.
 
-b the bvurs07120 gene was cloned into ptrc99a transformed into epi100 and tested for the production of a halo on lbc agar.bvurs07120 that is linked with the solubilisation of cholesterol and we have renamed the gene choa and the plasmid carrying choa was named ptrc-choa.choa produces a bioactive amine that solubilises cholesterol.
+The mutated choA genes were cloned into pTRC99a and expressed in EPI300 cells and plated on LBC agar.
 
-cholesterol has been shown to self-associate into micelles in aque- ous solutions and the critical micellar concentration of cholesterol in aqueous solutions is 25-40 nm.
+E. coli EPI300 expressing different orthologues of choA were grown on LBC agar at 37 degC for 48 h. An orthologue was scored positive for commendamide production if there was a halo of any size observed around the colony.
 
-in this study we routinely use concentrations of cholesterol ranging between 0.01-0.02 wv equivalent to approx- imately 250-500 mm in the lbc agar suggesting that cholesterol is forming micelles in our system.
+B Activity of EPI300 cells expressing choA and mutantderivatives on LBC agar plates.
 
-44 137-142 1994.ren d. li l. schwabacher a. w. young j. w.  beitz d. c. mechanism of cholesterol reduction to coprostanol by eubacterium coprostanoligenes atcc 51222. steroids 61 33-40 1996.lye h.-s. rahmat-ali g. r.  liong m.-t. mechanisms of cholesterol removal by lactobacilli under conditions that mimic the human gastrointestinal tract.
-
-7 3613-3616 2005.wilson m. d.  rudel l. l. review of cholesterol absorption with emphasis on dietary and biliary cholesterol.
-
-openreceived 20 february 2017accepted 2 october 2017 published xx xx xxxxthe bacteroidales produce an n- acylated derivative of glycine with both cholesterol-solubilising and hemolytic activityalli lynch12 elaine crowley2 eoghan casey2 rafael cano3 rachel shanahan3 ger mcglacken3 julian r. marchesi 4  david j. clarke 12the contribution of the gut microbiota to the metabolism of cholesterol is not well understood.
-
-in this study we identify 21 fosmid clones from a human gut microbiome metagenomic library that when expressed in escherichia coli produce halos on lb agar supplemented with 0.01 wv cholesterol lbc agar.
-
-in this study we show that commendamide is capable of producing a halo on lbcagar suggesting that this molecule is solubilizing the cholesterol micelles in lbc agar.
-
-cholesterol metabolism is very important for eukary- otes as it is a precursor for vitamins bile acids and steroid hormones.
+We also show that commendamide is responsible for the previously described hemolytic activity associated with the choA orthologue in Bacteroides fragilis.
 

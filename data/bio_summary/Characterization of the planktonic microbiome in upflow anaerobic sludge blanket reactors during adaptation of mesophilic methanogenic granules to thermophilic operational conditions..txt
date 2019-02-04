@@ -1,30 +1,20 @@
-5. taxonomic groups genus and family level that changed significantly in relative abundance from l3 to l4 samples.period where the granules were disturbed by increase of opera- tional temperature but not during the operational periods where the operational temperature was kept at 55 oc.the maintenance of the granular structure during the operational periods was previ- ously reported to be attributed by the present of anaerolinaceae members in the granules .
+Taxonomic groups genus and family level that changed significantly in relative abundance from L3 to L4 samples.period where the granules were disturbed by increase of opera- tional temperature but not during the operational periods where the operational temperature was kept at 55 oC.The maintenance of the granular structure during the operational periods was previ- ously reported to be attributed by the present of Anaerolinaceae members in the granules .
 
-during the first operational period a larger fraction of organic matter was digested to both alcohol products 9.31 and vfas 63.81. these results indicated a more efficient development of the hydrolytic and fermentative microbes of the community in comparison to the start-up period.
+Therefore under such operational conditions the mi- crobial community evolving in the liquid phase of the UASB reactor would also contribute to the substrate degradation and might in- fluence the granule microbial consortium.To characterize the planktonic microbial community in UASB reactors next generation sequencing technology targeting the 16S rRNA gene was employed in the current study which is a contin- uation of our previous work .
 
-their high acid tolerance probably explained their enrichment during first operational period in which the ph was 5.7. the ph disturbance also influenced significantly members of thermoanaerobacterales order which decreased in relative abun- dance during the first operational period l3 and then increased significantly after the ph control l4.
+In total 68 genera or equivalent that were in the top 90 of the community in at least one granule or liquid sample were reported.During the start-up period members of genus Clostridium 22.5 and order Thermoanaerobacterales 5.5 were present at high relative abundance in liquid.
 
-therefore under such operational conditions the mi- crobial community evolving in the liquid phase of the uasb reactor would also contribute to the substrate degradation and might in- fluence the granule microbial consortium.to characterize the planktonic microbial community in uasb reactors next generation sequencing technology targeting the 16s rrna gene was employed in the current study which is a contin- uation of our previous work .
+During both operational periods theplanktonic microbiota largely influenced microbial composition of granules as the majority of highly abundant OTUs in liquid phases 74.9 of L3 and 86.0 of L4 were also found in the corresponding granular phase G3 and G4.At the current operational conditions of the UASB reactors the planktonic microbiota was mainly composed by hydrolytic and fermentative bacteria which are expected to have a faster growth rate.
 
-the low degradation rate indicated that the microbial community in mes- ophilic granules was not sufficient enough to promptly start the digestion process however the production of vfa indicated that some fermentative bacteria were already present in the system which is consistent with the microbial community analysis dis- cussed in the next section.
+To the best of our knowledge this is the first study aiming to elucidate the mi- crobial diversity and dynamicity in the liquid phase of a UASB reactor during the adaptation of mesophilic methanogenic granules to thermophilic operational conditions.Materials and methodsReactor operation descriptionA lab scale UASB reactor fed with potato juice was started with mesophilic methanogenic granules G1 and operated at thermo- philic conditions.
 
-samples collected in the granules are presented in column a those collected in liquid phase are in column b. colour scale on top of the heatmap indicates the relative abundance of the otus.during the second period sodium bicarbonate was added to the potato juice to increase its alkalinity allowing the maintenance of the ph at a value higher than 6.5. as shown in  the relative abundance of all planktonic genera was significantly changed p  0.05 during the transition from the first to the second oper- ation period.
+The low degradation rate indicated that the microbial community in mes- ophilic granules was not sufficient enough to promptly start the digestion process however the production of VFA indicated that some fermentative bacteria were already present in the system which is consistent with the microbial community analysis dis- cussed in the next section.
 
-during both operational periods theplanktonic microbiota largely influenced microbial composition of granules as the majority of highly abundant otus in liquid phases 74.9 of l3 and 86.0 of l4 were also found in the corresponding granular phase g3 and g4.at the current operational conditions of the uasb reactors the planktonic microbiota was mainly composed by hydrolytic and fermentative bacteria which are expected to have a faster growth rate.
+G1 G2 G3 and G4 represent the microbial community growing in the granules.in the granules.Microbial communities in liquid phase under different operational conditionsThe abundance determined for each OTU taxonomically assigned at genus level is reported in and represented as a heatmap.
 
-to the best of our knowledge this is the first study aiming to elucidate the mi- crobial diversity and dynamicity in the liquid phase of a uasb reactor during the adaptation of mesophilic methanogenic granules to thermophilic operational conditions.materials and methodsreactor operation descriptiona lab scale uasb reactor fed with potato juice was started with mesophilic methanogenic granules g1 and operated at thermo- philic conditions.
+In contrary during operational periods 1 and 2 in which the HRT was shortened to 7 days the microbes that could not adapt to the operational conditions were removed from the reactor resulting into a much simpler microbial community.A visual representation of the OTUs in the different liquid samples is illustrated in the phylogenetic tree Supplementary Fig.
 
-simpson index considers both richness and evenness of the community and was previously identified as one of the most reliable parameters to estimate the diversity in an unknown microbial community .fig.
+The same process could also explain the presence in the liquid of the genera Meth- anobacterium 8.4 E6 6.1 Streptococcus 3.1 and HA73 1.5.During the first operational period the short HRT i.e.
 
-taxonomy results obtained for the community indicated that the second most abundant otu belongs to the genus t78 which accounted for 13.9 of the community.
-
-results revealed relevant shifts in the microbial community composition which is mainly determined by the operational condi- tions and the reactor performance.
-
-the experiment consisted of 3 periods namely start-up operation 1 and operation 2. during start- up period only 40 ml potato juice was fed to the reactor to provide basic nutrition and carbon source for development of new ther- mophilic microbial community.
-
-the planktonic microbial community detected during the operational periods 1 and 2 mainly consisted of bacteria belonging to phyla firmicutes and thermotogae.
-
-this result could attribute to the short hrt during operation and suggests that the planktonic microbial community is more sensitive to the operational conditions than microbes residingfig.
-
-dots marked as l2 l3 and l4 represent the planktonic microbial community sampled at the end of each experimental period.
+In order to analyse the dynamicity of microbial consortium in the liquid phase and to draw a potential correlation with the granule microbial community PCA was performed on both liquid and granule samples see .
 

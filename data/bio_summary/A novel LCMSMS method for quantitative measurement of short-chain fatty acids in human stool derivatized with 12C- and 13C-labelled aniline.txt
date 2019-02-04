@@ -1,30 +1,20 @@
-derivatization conditions were optimized in triplicates using dif- ferent ratios of scfa mixture to aniline and edc 152.5 or 1105 at 4 c or 25 c for 30-210 min.evaluation of completeness of derivatizationto confirm that the derivatization reaction was complete a mix- ture of scfa standards first underwent a derivatization step with12c-aniline using the optimized conditions.
+Given that an extended derivatization time beyond 120 min did not result in an improvement in derivatization we also sought to evaluate shorter derivatization times.
 
-given that an extended derivatization time beyond 120 min did not result in an improvement in derivatization we also sought to evaluate shorter derivatization times.
+Optimized quenching of derivatization agents prior to LCMSMS analysis further reduced to negli- gible levels the confounding chromatographic peak due to in-line derivatization of unquenched aniline with residual acetic acid present within the LCMS system.
 
-optimized quenching of derivatization agents prior to lcmsms analysis further reduced to negli- gible levels the confounding chromatographic peak due to in-line derivatization of unquenched aniline with residual acetic acid present within the lcms system.
+Derivatization conditions were optimized in triplicates using dif- ferent ratios of SCFA mixture to aniline and EDC 152.5 or 1105 at 4 C or 25 C for 30-210 min.Evaluation of completeness of derivatizationTo confirm that the derivatization reaction was complete a mix- ture of SCFA standards first underwent a derivatization step with12C-aniline using the optimized conditions.
 
-following each derivatization step samples were analysed for the presence of 13c-aniline derivatized scfas to determine if the initial derivatization with 12c-aniline was complete.
+Following each derivatization step samples were analysed for the presence of 13C-aniline derivatized SCFAs to determine if the initial derivatization with 12C-aniline was complete.
 
-residual acetic acid within the lc system could undergo in-line derivatization a 'blank' mixture devoid of any scfas containing only 12c-aniline and edc at concentrations used for routine derivatization was injected into the analytical system followed by lcmsms analysis.
+residual acetic acid within the LC system could undergo in-line derivatization a 'blank' mixture devoid of any SCFAs containing only 12C-aniline and EDC at concentrations used for routine derivatization was injected into the analytical system followed by LCMSMS analysis.
 
-to mitigate in-line derivatization of residual acetic acid present within the lc system a molar equivalent of 2-mercaptoethanol and a 2.5-fold molar excess of succinic acid was added for 120 min at 4 c to quench the derivatization reaction.sample preparation and derivatization500 ul of ice-cold extraction solvent 11 vv acnwater con- taining 10 um of d5-benzoic acid as internal standard is was added to 250 mg of wet stool sample and subjected to vortex mixing for 5 min at ambient temperature 24 1 c. the ratio of extrac- tion solvent to wet sample weight was kept constant 2 ul1 mg to prevent variable extraction efficiencies.
+To mitigate in-line derivatization of residual acetic acid present within the LC system a molar equivalent of 2-mercaptoethanol and a 2.5-fold molar excess of succinic acid was added for 120 min at 4 C to quench the derivatization reaction.Sample preparation and derivatization500 uL of ice-cold extraction solvent 11 vv ACNwater con- taining 10 uM of d5-benzoic acid as internal standard IS was added to 250 mg of wet stool sample and subjected to vortex mixing for 5 min at ambient temperature 24 1 C. The ratio of extrac- tion solvent to wet sample weight was kept constant 2 uL1 mg to prevent variable extraction efficiencies.
 
-the resulting derivative possesses an amide linkage that is protonated under positive electrospray ionization mode and frag- mented during lcmsms a. optimization of derivatization conditions was performed with respect to derivatization time tem- perature and ratio of scfas to derivatizing agents aniline and edc.
+The resulting derivative possesses an amide linkage that is protonated under positive electrospray ionization mode and frag- mented during LCMSMS A. Optimization of derivatization conditions was performed with respect to derivatization time tem- perature and ratio of SCFAs to derivatizing agents aniline and EDC.
 
-derivatization at 4 c for 120 min d was estab- lished to yield relatively higher sensitivity of the derivatized scfas as compared to 25 c e. subsequent derivatization exper-fig.
+We confirm that 33- dimethylbutyric 2-methylvaleric and 3-methylvaleric acid were absent in our clinical infant stool samples hence their incom- plete baseline resolution did not confound the quantitation of the remaining SCFAs in this biological matrix.Evaluation of completeness of derivatizationTo confirm that the derivatization reaction was complete a mixture of SCFA standards first underwent a derivatization step with 12C-aniline A followed by a subsequent exposure to13C-aniline.
 
-we confirm that 33- dimethylbutyric 2-methylvaleric and 3-methylvaleric acid were absent in our clinical infant stool samples hence their incom- plete baseline resolution did not confound the quantitation of the remaining scfas in this biological matrix.evaluation of completeness of derivatizationto confirm that the derivatization reaction was complete a mixture of scfa standards first underwent a derivatization step with 12c-aniline a followed by a subsequent exposure to13c-aniline.
+As expected following the first derivatization with 12C-aniline all 15 12C-aniline derivatized SCFAs could be detected using optimized LCMSMS parameters while no 13C-aniline derivatized SCFAs were detected since no 13C-aniline was added at this stage A. Interestingly following the second derivatization step with 13C-aniline a single chromatographic peak at 1.96 min  inset corresponding to 13C-aniline derivatized acetic acid.
 
-as expected following the first derivatization with 12c-aniline all 15 12c-aniline derivatized scfas could be detected using optimized lcmsms parameters while no 13c-aniline derivatized scfas were detected since no 13c-aniline was added at this stage a. interestingly following the second derivatization step with 13c-aniline a single chromatographic peak at 1.96 min  inset corresponding to 13c-aniline derivatized acetic acid.
-
-while this observation might suggest incomplete derivatization of acetic acid with 12c-aniline in the first step it could not explain the com- plete derivatization of the remaining 14 scfas with 12c-aniline.
-
-this approach had an additional advantage of revealing the currently arcane in-line derivatization of residual acetic acid in the lc system with aniline.quenching of derivatization agentsin many shared facilities worldwide it is difficult to preclude the introduction of acetic acid into the lc system.
-
-this dual approach neutralizes both agents used in derivatization and was postulated to prevent unintended in-line derivatization.
-
-a novel sequential derivatization of endogenous and spiked scfas in stool via 12c- and 13c-aniline respectively facilitated the accurate quan- titation of 12c-aniline derivatized endogenous scfas based on calibration of exogenously 13c-derivatized scfas.
-
-derivatization afforded theopportunity to introduce the 13c isotope using labelled 3-nphfor generating 13c-labelled derivatized scfa analogues as inter- nal standards.
+While this observation might suggest incomplete derivatization of acetic acid with 12C-aniline in the first step it could not explain the com- plete derivatization of the remaining 14 SCFAs with 12C-aniline.
 

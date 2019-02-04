@@ -1,30 +1,20 @@
-finally as for single organisms a steady state hypothesis restricts the solution set by adding a constraint ss v  0. together with flux bound constraints li and ui these constraints describe a solution flux space as depicted in .multi objective flux balance analysis of a microbial ecosystem.
+Together with flux bound constraints li and ui these constraints describe a solution flux space as depicted in .Multi objective flux balance analysis of a microbial ecosystem.
 
-those with an opti- mal objective value of z may be investigated by using flux variability analysis fva todetermine the flux range of each reaction in the metabolic network .
+Furthermore if the MOP is convex the inverse is also true.Another commonly used approach is the E-constraint method where only one objective function is retained as the objective and the remaining objective functions are used to intro- duce new constraints.
 
-objective functions f1 f2 and f3 define the objective space.doi10.1371journal.pone.0171744.g002vertex of the feasible region and then starts visiting adjoint vertexes until the objective function value cannot be improved.
+This study presents two multi-objective extensions of CBMs for modeling communities multi-objective flux balance analysis MO-FBA and multi- objective flux variability analysis MO-FVA.
 
-contrary to single objective problems solution of mops is a set of vectors instead of a single value producing a pareto front see section solving multi objective optimization problems defined in the objective space .
+Zomorrodi and collaborators   modeled each organism in a microbial community as a single CBM with its own objective function nested within a global ecosystem model thereby enabling the maximization of an ecosystem objective function.
 
-furthermore if the mop is convex the inverse is also true.another commonly used approach is the e-constraint method where only one objective function is retained as the objective and the remaining objective functions are used to intro- duce new constraints.
+Objective functions f1 f2 and f3 define the objective space.doi10.1371journal.pone.0171744.g002vertex of the feasible region and then starts visiting adjoint vertexes until the objective function value cannot be improved.
 
-this approach provides several advantages firstly it includes any solution for a system objective function expressed as a weighted sum of each compartment objective function see  and section solving multi objective optimization problems.
+Contrary to single objective problems solution of MOPs is a set of vectors instead of a single value producing a Pareto front see section Solving Multi Objective Optimization Problems defined in the objective space .
 
-this study presents two multi-objective extensions of cbms for modeling communities multi-objective flux balance analysis mo-fba and multi- objective flux variability analysis mo-fva.
+This approach provides several advantages firstly it includes any solution for a system objective function expressed as a weighted sum of each compartment objective function see  and section Solving Multi Objective Optimization Problems.
 
-including metabolite concentrations into flux balance analysis thermodynamic realizability as a constraint on flux distributions in metabolic networks.
+Contrary to above methods our approach is based on multi-objective optimization which allows us to consider the objective function of each organism simultaneously.Specifically following previous works we implemented a multi-objective flux balance anal- ysis method  henceforth known as MO-FBA for microbial communities which is based on an exact resolution algorithm.
 
-zomorrodi and collaborators   modeled each organism in a microbial community as a single cbm with its own objective function nested within a global ecosystem model thereby enabling the maximization of an ecosystem objective function.
+Using this method an objective function for example biomass production is stated and its maximal value within the flux space is determined.
 
-contrary to above methods our approach is based on multi-objective optimization which allows us to consider the objective function of each organism simultaneously.specifically following previous works we implemented a multi-objective flux balance anal- ysis method  henceforth known as mo-fba for microbial communities which is based on an exact resolution algorithm.
-
-using this method an objective function for example biomass production is stated and its maximal value within the flux space is determined.
-
-from linear programming theory it is known that the optimal value z of objective function is unique however multiple flux distributions i.e.
-
-given a particular point f of the pareto front the multiple optimal flux solutions that achieve the optimal objective values as given by the pareto optima f must be explored.
-
-to this end we propose the use of the multi- objective fva mo-fva for multiple organisms which may be considered a straightforward extension of fva see flux variability analysis.
-
-in the following a formal definition of pareto optima and efficient solutions is given  and approaches to solutions are discussed.let x rn and y rp represent the flux space and objective space respectively wherex is defined by the set of restrictions and y 14 fy j y 14 fdxth x 2 x g with f 14df1dxth .
+From linear programming theory it is known that the optimal value z of objective function is unique however multiple flux distributions i.e.
 

@@ -1,30 +1,20 @@
-for the rpob gene analysis a partial sequence of the rpob gene of strain mbln091t was amplified by using the primers rpob1698f 5c-aaya- tyggwttgathtcwtc-3c and rpob2041r 5c- tgacgcatcatgttdgawcccat-3c which weredesigned based on a slight modification of the sequences previously described by dahllof et al.
+For the rpoB gene analysis a partial sequence of the rpoB gene of strain MBLN091T was amplified by using the primers RPOB1698F 5C-AAYA- TYGGWTTGATHTCWTC-3C and RPOB2041R 5C- TGACGCATCATGTTDGAWCCCAT-3C which weredesigned based on a slight modification of the sequences previously described by Dahllof et al.
 
-the 16s rrna gene and rpob gene sequences were obtained and assembled as described previously by roh et al.
+The 16S rRNA gene and rpoB gene sequences were obtained and assembled as described previously by Roh et al.
 
-the taxonomic position of strain mbln091t was deter- mined by phenotypic phylogenetic and chemotaxonomic analyses.author affiliations 1department of bioengineering and nano-bioengineering graduate school of incheon national university incheon 22012 republic of korea 2division of bioengineering incheon national university incheon 22012 republic of korea 3korean culture center of microorganisms seoul 03641 republic of korea 4microbiology and functionality research group world institute of kimchi gwangju 61755 republic of korea 5department of food science and biotechnology cha university sungnam 13488 republic of korea 6research center phyto corporation seoul 08826 republic of korea 7research group of gut microbiome korea food research institute seongnam 13539 republic of korea.correspondence young-do nam youngdo98kfri.re.kr myung-ji seo keywords flavobacteriaceae flavimarina flava salicornia herbacea polyphasic taxonomy.abbreviations caps 3-cyclohexylamino-1-propanesulfonic acid mes 2-n-morpholinoethanesulfonic acid.these authors contributed equally to this work.the genbankemblddbj accession number for the 16s rrna gene sequence of strain mbln091t is kx664463 and the rna polymerase subunit b gene sequences of strains mbln091t and flavimarina pacifica kctc 32466t are mf152607 and mf152606 respectively.one supplementary figure is available with the online supplementary material.002292 a 2017 iums bya bacterial strain designated strain mbln091t was iso- lated from salicornia herbacea on the western coast 35o02c 36.5 n 126o 10c 59.9 e of the republic of korea.
+Antonie van Leeuwenhoek 2014106421-429.Feng J Wang J Fan P Jia W Nie L et al.
 
-for phylogenetic analysis the 16s rrna gene and the rna polymerase sub- unit b rpob gene were amplified by pcr.
+Bioinformatics 2012281823-1829.Yoon SH Ha SM Kwon S Lim J Kim Y et al.
 
-1. neighbour-joining nj phylogenetic tree based on the 16s rrna gene a and rpob gene b sequences showing the position and relationship between strain mbln091t and and other related taxa.
+Int J Syst Evol Microbiol 2002 521049-1070.Minnikin DE O'Donnell AG Goodfellow M Alderson G Athalye M et al.
 
-one of these isolates designated strain mbln091t showed relatedness with the genus on the basis of 16s rrna gene sequence similarity.
+Int J Syst Bacteriol 198939 159-167.Montero-Calasanz MC Goker M Rohde M Sproer C Schumann P et al.
 
-in this study 120 bacterial colonies were obtained and they were identified by pcr screening of the 16s rrna gene sequence.
+The taxonomic position of strain MBLN091T was deter- mined by phenotypic phylogenetic and chemotaxonomic analyses.Author affiliations 1Department of Bioengineering and Nano-Bioengineering Graduate School of Incheon National University Incheon 22012 Republic of Korea 2Division of Bioengineering Incheon National University Incheon 22012 Republic of Korea 3Korean Culture Center of Microorganisms Seoul 03641 Republic of Korea 4Microbiology and Functionality Research Group World Institute of Kimchi Gwangju 61755 Republic of Korea 5Department of Food Science and Biotechnology CHA University Sungnam 13488 Republic of Korea 6Research Center Phyto Corporation Seoul 08826 Republic of Korea 7Research Group of Gut Microbiome Korea Food Research Institute Seongnam 13539 Republic of Korea.Correspondence Young-Do Nam youngdo98kfri.re.kr Myung-Ji Seo Keywords Flavobacteriaceae Flavimarina flava Salicornia herbacea polyphasic taxonomy.Abbreviations CAPS 3-cyclohexylamino-1-propanesulfonic acid MES 2-N-morpholinoethanesulfonic acid.These authors contributed equally to this work.The GenBankEMBLDDBJ accession number for the 16S rRNA gene sequence of strain MBLN091T is KX664463 and the RNA polymerase subunit B gene sequences of strains MBLN091T and Flavimarina pacifica KCTC 32466T are MF152607 and MF152606 respectively.One supplementary figure is available with the online Supplementary Material.002292 a 2017 IUMS byA bacterial strain designated strain MBLN091T was iso- lated from Salicornia herbacea on the western coast 35o02C 36.5 N 126o 10C 59.9 E of the Republic of Korea.
 
-bacterial univer- sal primers 27f and 1492r  were used to amplify the 16s rrna gene of strain mbln091t.
+For phylogenetic analysis the 16S rRNA gene and the RNA polymerase sub- unit B rpoB gene were amplified by PCR.
 
-silva  was used to align the 16s rrna gene sequence of strain mbln091t with related species .
+Neighbour-joining NJ phylogenetic tree based on the 16S rRNA gene a and rpoB gene b sequences showing the position and relationship between strain MBLN091T and and other related taxa.
 
-the obtained nucleotides of the 16s rrna gene sequence of strain mbnl091t were 1460 bp in length.
-
-the rpob gene sequences from strain mbln091t and kctc 32466t were both 339 bp in length.
-
-the degree of 16s rrna gene sequence similarity between strain mbnl091t and idsw-73t was 94.8 .
-
-other valid publishedspecies of the family exhibited 92.3--92.8  16s rrna gene sequence similarity with mem- bers of the genus .
-
-the rpob gene sequence similarities between strain mbln091t and kctc 32466t and dsm3653t were 80.5 and 80.2  respectively .
-
-in the phylogenetic analysis based on the rpob gene strain mbln091t also grouped with kctc 32466t.
+TAXONOMIC DESCRIPTIONCho et al.
 

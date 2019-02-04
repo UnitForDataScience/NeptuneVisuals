@@ -1,30 +1,20 @@
-the response variable was the total counts of observa- tions of each fly on each food with the counts on the control food unseeded in the inoculated foods assay and 12 pc ratio in themacronutrient assay as the multinomial denominator estimates are interpretable as a positivenegative estimate indicates higher lower probability of observing a fly on a given food relative to the control food.
+The response variable was the total counts of observa- tions of each fly on each food with the counts on the control food unseeded in the inoculated foods assay and 12 PC ratio in themacronutrient assay as the multinomial denominator estimates are interpretable as a positivenegative estimate indicates higher lower probability of observing a fly on a given food relative to the control food.
 
-bars indicate multinomial generalized linear model estimates of the log odds of a fly selecting a given inoculated food over the unseeded food see data s1a for model coefficients.
+Bars indicate multinomial generalized linear model estimates of the log odds of a fly selecting a given inoculated food over the unseeded food see Data S1A for model coefficients.
 
-together our results demonstrate that flies' microbial preferences are influenced by their microbiota identity.abfigure 2. early microbial exposure influences drosophila larvae microbial preferenceproportion of newly emerged larvae observed on food patches unseeded or seeded with ap or lp on day 1 a and day 2 b n indicates the total number of observations of larvae on food.
+Early Microbial Exposure Influences Drosophila Larvae Microbial PreferenceProportion of newly emerged larvae observed on food patches unseeded or seeded with AP or LP on day 1 A and day 2 B n indicates the total number of observations of larvae on food.
 
-asterisks indicate a significantly greater number of observations on a given food relative to the unseeded food based on credible intervals  95 ci  99 ci  99.9 ci.
+Asterisks indicate a significantly greater number of observations on a given food relative to the unseeded food based on credible intervals  95 CI  99 CI  99.9 CI.
 
-given the importance of thegut microbiota to host nutrition and our observed differing fly responses toward bacterial cues on food we questioned how these microbes affect fly foraging decisions.abcfigure 4. drosophila foraging decisions are compounded by the host and food microbiotaforaging of adult drosophila on yeast-sucrose diets at five different protein-to-carbohydrate ratios pc.
+To test for fly microbial preference the food patches were made with the Y-S diet at PC 12 seeded with single bacteria isolated from fly guts Acetobacter pomorum AP Acetobacter tropicalis AT Lactobacillus casei LC Lactobacillus plantarum LP Lactobacillus pantheris LPa isolated from fly body surface Staphylococcus saprophyticus S by plating 100 mL bacterial suspension at 106 cells mL-1 density onto each dish along with an unseeded food patch no-bacteria control.
 
-to test for fly microbial preference the food patches were made with the y-s diet at pc 12 seeded with single bacteria isolated from fly guts acetobacter pomorum ap acetobacter tropicalis at lactobacillus casei lc lactobacillus plantarum lp lactobacillus pantheris lpa isolated from fly body surface staphylococcus saprophyticus s by plating 100 ml bacterial suspension at 106 cells ml-1 density onto each dish along with an unseeded food patch no-bacteria control.
+The response was the counts of larvae on each food type at each obser- vation with the counts of larvae on the unseeded food as the multinomial denominator.
 
-the response was the counts of larvae on each food type at each obser- vation with the counts of larvae on the unseeded food as the multinomial denominator.
+Second where a type of treated flies showed a significantly greater response to the inoculated food over water we analyzed whether increasing the concentration of bacteria in the food affected probability of proboscis extension.
 
-second where a type of treated flies showed a significantly greater response to the inoculated food over water we analyzed whether increasing the concentration of bacteria in the food affected probability of proboscis extension.
+These microbial preferences are largely olfactory guided and have profound impact on host foraging as flies continuously trade off between acquiring beneficial microbes and balancing nutrients from food.
 
-these microbial preferences are largely olfactory guided and have profound impact on host foraging as flies continuously trade off between acquiring beneficial microbes and balancing nutrients from food.
+Flies deprived of food overnight showed a 9-fold reduction in Acetobacter and Lacto- bacillus colony forming unit CFU Figure S1C pointing to a possibility that Drosophila need to replenish their gut micro- biota .
 
-flies deprived of food overnight showed a 9-fold reduction in acetobacter and lacto- bacillus colony forming unit cfu figure s1c pointing to a possibility that drosophila need to replenish their gut micro- biota .
-
-based on this assumption we investigated the che- mosensory and behavioral responses of drosophila toward cues associated with beneficial bacteria present in food and tested whether the gut microbiota plays a role in shaping these responses.we monitored flies' behavioral responses to microbes using a foraging assay figure s2a see .
-
-food-deprived flies were allowed to forage in an arena containing seven patches of yeast-sucrose diet that was either unseeded or seeded with one of six bacteria species isolated from fly guts or bodies ap acetobacter tropicalis at lactobacillus casei lc lactobacillus pantheris lpa lp and staphylococcus saprophyticus s. foraging assays were conducted 1 hr after the bacteria were added to the diets to avoid substantial food modifications by microbial activities.
-
-conventional flies showed a strong prefer- ence for foods seeded with both acetobacter strains tested ap and at as well as lp relative to unseeded food b1 data s1a.
-
-flies showed no pref- erence for food seeded with lpa or s a strain isolated from fly whole bodies.
-
-see also figure s1and table s1.foraging of adult drosophila on food patches unseeded or seeded with six bacteria isolated from flies acetobacter pomorum ap acetobacter tropicalis at lactobacillus casei lc lactobacillus pantheris lpa lactobacillus plantarum lp and staphylococcus saprophyticus s. multiple fly microbiota lines conventional conv axenic ax and ap or lp monocolonized were tested n indicates the number of flies tested.
+Based on this assumption we investigated the che- mosensory and behavioral responses of Drosophila toward cues associated with beneficial bacteria present in food and tested whether the gut microbiota plays a role in shaping these responses.We monitored flies' behavioral responses to microbes using a foraging assay Figure S2A see .
 

@@ -1,30 +1,20 @@
-81215. doi veillonella parvula is a biofilm-forming commensal found in the lungs vagina mouth and gastro-intestinal tract of humans yet it may develop into an opportunistic pathogen.
+These discrepancies may be due to the enrichment of specific proteins by the OM and SE extraction protocols combined with a too low concentration for detection in the WC control sample.For the remainder of the analysis we only considered proteins as potential OM if they were detected in both the OM and the WC control samples while we considered proteins as potential SE if they were present in all three samples leading to 958 proteins WC  OM  262 WC  OM  SE  696.
 
-public health 11 6979-7000. doi antunes l. c. poppleton d. klingl a. dupuy b. brochier-armanetd c. beloin c. et al.
+With this strategy we managed to robustly predict the localization of 85 15591844 of the proteins 63 1171 cytoplasmic 17 309 IM 2 44periplasmic 1 23 OM 0.5 12 secreted whereas 15 285 proteins remained with undefined localization Figure 1A and Table S1.The 23 proteins robustly predicted to be in the OM include many known OM components such as TonB-dependent receptors OmpM components of the BAMTAM machinery TolC and OmpA Table S1.
 
-doi arrieta m.-c. stiemsma l. t. dimitriu p. a. thorson l. russell s. yurist-doutsch s. et al.
+The remaining 106 which included all of the previously missed trimeric autotransporters were combined with the 23 predicted OM proteins to provide a final dataset of 129 potential outer membrane proteins Table S2.Subcellular FractionationTo validate our in silico prediction and to firmly identify OM proteins we carried out a proteomic analysis of the OM ofV.
 
-doi bagos p. g. nikolaou e. p. liakopoulos t. d. and tsirigos k. d. 2010. combined prediction of tat and sec signal peptides with hidden markov models.
+The WC control extract contained 1342 proteins while the OM fraction contained 990 proteins and the SE fraction contained 849 proteins.
 
-bioinformatics 26 2811-2817. doi bagos p. g. tsirigos k. d. liakopoulos t. d. and hamodrakas s. j.
+Positive periplasmic prediction and secreted proteins were determined by a two out of three or greater concurrent results of PSORT CELLO and SOSUI.Search for Conserved Domains and HomologsTo identify homologs of experimentally identified proteins we ran a BLAST 2.2.30 Camacho et al.
 
-7 5082-5093. doi bassler j. hernandez alvarez b. hartmann m. d. and lupas a. n. 2015. a domain dictionary of trimeric autotransporter adhesins.
+This could prevent proper prediction of many proteins and fail to find novel OM proteins.
 
-microbiol.305 265-275. doi bendtsen j. nielsen h. widdick d. palmer t. and brunak s. 2005. prediction of twin-arginine signal peptides.
+Indeed they failed to correctly identify the experimentally characterized trimeric autotransporters which were predicted as secreted or had undefined localization Table S1.As such we more thoroughly investigated the 297 proteins with undefined prediction or predicted as secreted as they might contain additional OM proteins.
 
-bmc bioinformatics 6167. doi berven f. s. flikka k. jensen h. b. and eidhammer i.
+For each of the three extractions only proteins that were present in all three biological replicates were considered for further analysis.To identify proteins that were unique or shared by the different fractions we constructed a Venn diagram that is depicted in Figure 2.
 
-doi bladen h. a. and mergenhagen s. e. 1964. ultrastructure of veillonella and morphological correlation of an outer membrane with particles associated with endotoxic activity.
+The three OmpM proteins found within the diderm cluster Vpar0555-7 are among the most abundant proteins in the OM fraction by both quantification of our LC-MSMS data Table S5 and SDS-PAGE band excision MS Bands 4 and 5 Table S6.
 
-acta 415 335-377. doi braun v. and rehn k. 1969. chemical characterization spatial distribution and function of a lipoprotein murein-lipoprotein of the e. coli cell wall.
-
-10 426-438. doi brooke j. s. and valvano m. a.
-
-271 3608-3614. doi camacho c. coulouris g. avagyan v. ma n. papadopoulos j. bealer k. et al.
-
-bmc bioinformatics 10421. doi campbell c. sutcliffe i. c. and gupta r. s. 2014. comparative proteome analysis of acidaminococcus intestini supports a relationship between outer membrane biogenesis in negativicutes and proteobacteria.
-
-196 307-310. doi campo n. and rudner d. z.
-
-189 6021-6027. doi chung j. w. ng-thow-hing c. budman l. i. gibbs b. f. nash j. h. e. jacques m. et al.
+Subsequentand in some cases fluffy appearance of the outer moiety of the outer membrane Figure S4 is a strong indication for presence of LPS although an S-layer cannot completely be ruled out see below.An S-Layer in V. parvulaSurface layer proteins S-layer proteins are important cellular factors in both monoderms and diderms.
 

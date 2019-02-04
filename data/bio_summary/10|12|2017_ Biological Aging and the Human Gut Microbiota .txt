@@ -1,30 +1,20 @@
-high fi34 was also associated with decreased paraprevotella q  0.02 sutterella q  0.08 and a rikenellaceae family otu q  0.08. middle fi34 compared with low fi34 was associated with greater tm7 candidate-phylum otu abundance q  0.04 log2 fold-change  3.06. in contrast to fi34 score all com- parisons between levels of chronological age failed to significantly associate with the abundances of individual genera .
+Lowmiddle and high levels contained the lower middle and upper 33rd percentiles respectively of subject FI34 low 0-0.083 middle 0.091-0.137 high 0.142-0.365 or chronological age low 43-61 middle 62-66 or high 67-79 to ensure even group sample sizes for comparison between FI34 and chronological age as correlates of OTU abundance.
 
-subject bmi exhibited a strong but statistically insignificant effect p  .05 supplementary figure 2. subject sex and antibi- otic usage history effects were weak and statistically insignificant p  .05 supplementary figure 2. sample read count exhibited a modest significant effect p  .02 supplementary figure 2. overall these data suggest the relative phylogenetic similarity of stoolmicrobial communities based on subject biological age but not chronological age.taxon correlates distinguish biological from chronological agesubject fi34 and chronological age were assigned to low middle and high tertiles for otu differential abundance analysis.
+FI34 score negatively correlates with stool sample richness.The total number of observed unique sequence variants denoised sequenced read clusters in each sample observed richness and the evenness of sequence variants in each sample based on the inverse Simpson evenness index were calculated and plotted against FI34 scores and chronological age A-B and C-D respectively.
 
-lowmiddle and high levels contained the lower middle and upper 33rd percentiles respectively of subject fi34 low 0-0.083 middle 0.091-0.137 high 0.142-0.365 or chronological age low 43-61 middle 62-66 or high 67-79 to ensure even group sample sizes for comparison between fi34 and chronological age as correlates of otu abundance.
+Point colors indicate subject FI34 or chronological age groups separated into low blue middle gray or upper red 33rd percentiles ofSignificant differentially abundant genera between high and low and middle and low FI34 scores were identified.
 
-correlation statistics between obnb richness and fi34 as well as obnb and chronological age were significantly different p  .05.two indices of evenness were evaluated and compared for their potential association with chronological or biological age.
+Thus gut microbial com- munity structure varies according to subject FI34 scores and tends to be similar between subjects of similar FI34 score but not so for those of similar chronological age.
 
-biological age a and c and chronological age b and dp values are corrected for subject body mass index sex sample read depth family membership antibiotic usage and chronological age or fi34.
+Correlation statistics between OBNB richness and FI34 as well as OBNB and chronological age were significantly different p  .05.Two indices of evenness were evaluated and compared for their potential association with chronological or biological age.
 
-the remaining genus-level otus failed to significantly correlate in abun- dance with fi34 score or chronological age supplementary figures 3 and 4.genus-level subcommunities correlate with biological agethe full a fi34or b chronological age range.
+Biological age A and C and chronological age B and Dp values are corrected for subject body mass index sex sample read depth family membership antibiotic usage and chronological age or FI34.
 
-change in abundance of genera between low middle and high fi34 and chronological age were calculated.figure 2. fi34 score correlates with between-subject similarity in stool taxonomy.
+Overall these data suggest the relative phylogenetic similarity of stoolmicrobial communities based on subject biological age but not chronological age.Taxon Correlates Distinguish Biological From Chronological AgeSubject FI34 and chronological age were assigned to low middle and high tertiles for OTU differential abundance analysis.
 
-point colors indicate subject fi34 or chronological age groups separated into low blue middle gray or upper red 33rd percentiles ofsignificant differentially abundant genera between high and low and middle and low fi34 scores were identified.
+The remaining genus-level OTUs failed to significantly correlate in abun- dance with FI34 score or chronological age Supplementary Figures 3 and 4.Genus-Level Subcommunities Correlate With Biological Agethe full A FI34or B chronological age range.
 
-sample read counts significantly correlated with alpha- diversity p  .05 data not shown.figure 1. fi34 score negatively correlates with stool sample richness.the total number of observed unique sequence variants denoised sequenced read clusters in each sample observed richness and the evenness of sequence variants in each sample based on the inverse simpson evenness index were calculated and plotted against fi34 scores and chronological age a-b and c-d respectively.
+Subjects with high FI34 scores compared with those with low FI34 exhib- ited increased abundance of Coprobacillus q  0.08 Dialister q  0.08 and a TM7 candidate-phylum OTU false-discovery rate q  0.04 .
 
-low fi34 scores ranged from 0 to 0.083 middle scores ranged from 0.091 to 0.137 and high scores ranged from 0.142 to 0.365. supplementary figures 3 and 4 contain expanded heatmaps for the results of all tested genera sorted by increasing fi34 score or chronological age respectively.
-
-fi34 significantly and positively correlated with abundance of one module turquoise and  supplementary figure 6 and file 1d after cor- rection for clinical and technical covariates p  8 x 10-6 as well as false-discovery rate q  6 x 10-5. omission of a potential outlying subject fi34  0.365 yielded no change in findings p  3 x 10-4 q  2 x 10-3. chronological age positively correlated with one mod- ule after similar correction for covariates green p  .02 q  0.17 and  supplementary figure 7 and file 1d.
-
-thus gut microbial com- munity structure varies according to subject fi34 scores and tends to be similar between subjects of similar fi34 score but not so for those of similar chronological age.
-
-subject biological age as measured by the fi34 significantly correlated with decreased observed richness after correction for bmi sex antibiotic usage chrono-logical age sample read count and family membership modeled as a random effect p  .03. subject chronological age failed to cor- relate with changes in richness after similar correction for clinical and technical covariates .
-
-correlation statistics between observed richness and fi34 or chronological age rho  -0.33 and-0.02 respectively were significantly different by co-correlationanalysis p  .05 .
-
-neither the pielou data not shown nor the inverse simpson evenness index  and  correlated with fi34 or chronological age after correction for clinical and technical covariates.
+Middle FI34 compared with low FI34 was associated with greater TM7 candidate-phylum OTU abundance q  0.04 log2 fold-change  3.06.
 

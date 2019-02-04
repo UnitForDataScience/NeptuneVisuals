@@ -1,0 +1,20 @@
+a-e Characterization of the spontaneous colitis in Nlrp3R258W x Rag1-- mice n  5 together with Rag1-- n  5 and Nlrp3R258W n  4 mice as control the morphology a colon length b feces score c and histological examination d scale bar is 200 mm and histological score e of Rag1-- Nlrp3R258W and Nlrp3R258W x Rag1-- mice were monitored.
+
+They also suggest that the Nlrp3R258W mutation in the intestine is intrinsically pro-inflammatory but the local microbiota helps host maintain homeostasis through an alternative pathway using Tregs.Collectively our data show that the microbiota is reshaped by increased IL-1 signaling in Nlrp3R258W mice which supports thedevelopment of local Treg cells that directly neutralize gut inflammation.DiscussionUsing the auto-inflammatory Nlrp3R258W mutant mouse line ourcurrent study reveals an unexpected scenario where a hyperactive NLRP3 inflammasome improves the gut symbiosis through microbiota increasing Tregs induction.
+
+Thus our study using the gain-of- function Nlrp3R258W mice and monitoring their microbiota shift has dissected a complex crosstalk between NLRP3 inflammasome and indigenous microbiota to contribute to gut homeostasis emphasizing microbiota's crucial role in mediating NLRP3 inflammasome function in the intestine providing critical insights in this area.The observation that Nlrp3R258Wx Rag1-- mice developspontaneous colitis strongly supports the hypothesis that the Nlrp3R258W mutation in the intestine is intrinsically pro-inflam- matory furthermore this supports the idea that reshaping of local microbiota and the induction of Tregs rescue Nlrp3R258W mice from detrimental inflammation.
+
+Moreover at tissue level the intestines of Nlrp3R258W mice do not manifest with pan-inflammation which is evidencedby similar levels of inflammatory mediators including CCL2 KC IL-6 IFN-g TNF-a and IL-17A from the colons of WT and Nlrp3R258W mice except that IL-12p40 is found significantly lower in the mutated colon tissue Supplementary Fig.
+
+At the phylotype level through redundancy analysis RDA using the abundance of operational taxonomic units OTUs 97 similarity the microbiota from WT and Nlrp3R258W mice is significantly different in that 30 OTUs including Lactobacillus OTU9 are more abundant and 20 OTUs including Akkermansia OTU1 are less abundant in Nlrp3R258W than in WT mice Fig.
+
+Thus hereafter we used this WT-index as a scale to measure whether a microbiota is more similar to WT or to Nlrp3R258W mice.In addition to microbiota composition difference we also found that during DSS challenge the microbial co-abundance network at the OTU level in Nlrp3R258W mice was notably different from that in WT controls Fig.
+
+Taken together the Nlrp3R258W mutation reshapes gut microbiota with a distinct composition network topology and functionality.Reshaped Nlrp3R258W microbiota confer disease resistance.
+
+c Heat map of the 50 key OTUs in gut microbiota from WT and Nlrp3R258W mice at the age of 8 9 and 10 weeks in trials 1-3. d The WT indices of the gut microbiota from WT and Nlrp3R258W mice at the age of 8 and 10 weeks in trials 1-3.
+
+The WT-index was computed for another set of WT n  12 and Nlrp3R258W n  15 samples trial 4. f The network of OTUs shared by more than 40 of samples in the WT  and Nlrp3R258W R258W mice during DSS treatment n  6 from day -20 to day 2 and n  4 on days 3 and 8.
+
+a-f Fecal microbiota composition was assayed by bacterial 16S rRNA V3-V4 region sequencing a PCoA plot based on Bray-Curtis distance of the fecal microbiota of singly housed WT sh- cohoused WT ch- cohoused Nlrp3R258W ch-R258W and singly housed Nlrp3R258W sh-R258W mice n  6 in each group before and during DSS treatment.
+

@@ -1,0 +1,20 @@
+This review focuses on the role of NOD2 in the recognition and elimination of commensal and pathogenic bacteria viruses and parasites in the gut.NOD2 expression activation structure and signalingIn the intestine NOD2 is expressed by numerous cell types including hematopoietic cells  such as T cells  B cells  macrophages  dendritic cells  and mast cells  and nonhematopoietic cells such as Paneth cells  stem cells  goblet cells  and enterocytes .
+
+Role of Nod2 in the host response toward viruses.RNA virusesRNA virusesdoi10.1371journal.ppat.1006177.t002Although the innate immune system is able to trigger an inflammatory response to viruses efficient clearance requires the combined efforts of both innate and adaptive immunity.Indeed Nod2KO mice infected IAV exhibit reduced IFN-b levels fewer activated dendritic cells and virus-specific CD8 T cells that produce low levels of IFN-g. Nod2KO dendritic cells have a lower costimulatory capacity and are more prone to cell death .
+
+Indeed Nod2KO mice display high numbers of CD4 T cells in Peyer's patches and an increased intesti- nal permeability but the transfer of microbiota from Nod2KO mice to WT mice alters neither CD4 T lymphocyte count nor permeability.
+
+2012 61 634-5. doi PMIDCouturier-Maillard A Secher T Rehman A Normand S De Arcangelis A Haesler R et al.
+
+Indeed Nod2KO mice obtained by embryo transfer into WT mice exhibit an intestinal microbiota different from their mothers but similar to that of single-housed Nod2KO mice .
+
+WT and Nod2KO mice obtained by embryo transfer into WT mother mice exhibit the same microbiota when housed in the same cage confirming the homogenization of the gut microbiota between cohoused mice likely through coprophagia.
+
+Since diet dominates host genotype in shaping the gut microbiota  a common dysbiosis shared by people in close contact might explain development of CD in spouses of CD patients and the nonrandom distribution of CD within multiplex sibships .The mechanisms by which Nod2 regulates microbiota communities in the gut are still unclear even though it is commonly admitted that Nod2 in intestinal epithelial cells plays a major role by promoting the production of antibacterial compounds including defensins by Paneth cells -.
+
+This reciprocal link between immune cells intestinal permeability and microbiota is fur- ther evidenced by the fact that endocytosis of commensal bacteria in epithelial cells is depen- dent on MLCK-activated brush border fanning triggered by IFNg .
+
+L. monocytogenes also invades nonphagocytic cells such as entero- cytes and M cells.
+
+In vivo P. fluorescens increases the paracellular permeability of the intestinal mucosa via the release of IL-1b by immune cells and the activation of MLCK in the epithelial cells in a Nod2-dependent way .H.
+

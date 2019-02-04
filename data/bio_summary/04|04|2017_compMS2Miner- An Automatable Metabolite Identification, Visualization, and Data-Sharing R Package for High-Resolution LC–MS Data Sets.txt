@@ -1,30 +1,20 @@
-2007 18 18.57 kuhn m. wing j. weston s. williams a. keefer c. engelhardt a. cooper t. mayer z. kenkel b. r core team benesty m. lescarbeau r. ziem a. scrucca l. tang y. candan c. hunt t. caret classification and regression training version 6.0-73 accessed january 2017.58 liaw a. wiener m. r news 2002 2 18-22.cao m. fraser k. huege j. featonby t. rasmussen s. jones c. metabolomics 2015 11 696-706.wohlgemuth g. mehta s. s. mejia r. f. neumann s. pedrosa d. pluskal t. schymanski e. l. willighagen e. l. wilson m. wishart d. s. arita m. dorrestein p. c. bandeira n. wang m. schulze t. salek r. m. steinbeck c. nainala v. c. mistrik r. nishioka t. fiehn o. nat.
+2007 18 18.57 Kuhn M. Wing J. Weston S. Williams A. Keefer C. Engelhardt A. Cooper T. Mayer Z. Kenkel B. R Core Team Benesty M. Lescarbeau R. Ziem A. Scrucca L. Tang Y. Candan C. Hunt T. Caret Classification and regression training version 6.0-73 accessed January 2017.58 Liaw A. Wiener M. R News 2002 2 18-22.Cao M. Fraser K. Huege J. Featonby T. Rasmussen S. Jones C. Metabolomics 2015 11 696-706.Wohlgemuth G. Mehta S. S. Mejia R. F. Neumann S. Pedrosa D. Pluskal T. Schymanski E. L. Willighagen E. L. Wilson M. Wishart D. S. Arita M. Dorrestein P. C. Bandeira N. Wang M. Schulze T. Salek R. M. Steinbeck C. Nainala V. C. Mistrik R. Nishioka T. Fiehn O. Nat.
 
-2001 98 381-382.horai h. arita m. kanaya s. nihei y. ikeda t. suwa k. ojima y. tanaka k. tanaka s. aoshima k. oda y. kakazu y. kusano m. tohge t. matsuda f. sawada y. hirai m. y. nakanishi h. ikeda k. akimoto n. maoka t. takahashi h. ara t. sakurai n. suzuki h. shibata d. neumann s. iida t. tanaka k. funatsu k. matsuura f. soga t. taguchi r. saito k. nishioka t. j. mass spectrom.
+2001 98 381-382.Horai H. Arita M. Kanaya S. Nihei Y. Ikeda T. Suwa K. Ojima Y. Tanaka K. Tanaka S. Aoshima K. Oda Y. Kakazu Y. Kusano M. Tohge T. Matsuda F. Sawada Y. Hirai M. Y. Nakanishi H. Ikeda K. Akimoto N. Maoka T. Takahashi H. Ara T. Sakurai N. Suzuki H. Shibata D. Neumann S. Iida T. Tanaka K. Funatsu K. Matsuura F. Soga T. Taguchi R. Saito K. Nishioka T. J.
 
-2008 9 504.benton h. p. want e. j. ebbels t. m. d. bioinformatics 201026 2488.cao y. charisi a. cheng l.-c. jiang t. girke t.bioinformatics 2008 24 1733-1734.horan k. girke t. chemmineob r interface to a subset of openbabel functionalities version 1.12.0 accessed october 2016.chang w. cheng j. allaire j. xie y. mcpherson j. shiny web application framework for r version 1.0.0 accessed january 2017.xie y. dt a wrapper of the javascript library 'datatables' version 0.2 accessed october 2016.fan f. y. pubmedwordcloud 'pubmed' word clouds version 0.3.3 accessed january 2017.csardi g. nepusz t. interjournal complex systems 2006 1 1695.owen j. rhandsontable interface to the 'handsontable.js' library version 0.3.4 accessed december 2016.ardia d. mullen k. m. peterson b. g. ulrich j. deoptim differential evolution in r version 2.2-4 accessed january 2017.mullen k. ardia d. gil d. windover d. cline j. j. stat.
+Forsythe I. Tang P. Shrivastava S. Jeroncic K. Stothard P. Amegbey G. Block D. Hau D. D. Wagner J. Miniaci J. Clements M. Gebremedhin M. Guo N. Zhang Y. Duggan G. E. MacInnis G. D. Weljie A. M. Dowlatabadi R. Bamforth F. Clive D. Greiner R. Li L. Marrie T. Sykes B. D. Vogel H. J. Querengesser L. Nucleic Acids Res.
 
-paulse c. creasy d. flashner l. kani k. moulding c. seymour s. l. nuwaysir l. m. lefebvre b. kuhlmann f. roark j. rainer p. detlev s. hemenway t. huhmer a. langridge j. connolly b. chadick t. holly k. eckels j. deutsch e. w. moritzr.
+W. Raught B. Pratt B. Nilsson E. Angeletti R. H. Apweiler R. Cheung K. Costello C. E. Hermjakob H. Huang S. Julian R. K. Kapp E. McComb M. E. Oliver S. G. Omenn G. Paton N. W. Simpson R. Smith R. Taylor C. F. Zhu W. Aebersold R. Nat.
 
-paulse c. creasy d. flashner l. kani k. moulding c. seymour s. l. nuwaysir l. m. lefebvre b. kuhlmann f. roark j. rainer p. detlev s. hemenway t. huhmer a. langridge j. connolly b. chadick t. holly k. eckels j. deutsch e. w. moritzr.
+W. Raught B. Pratt B. Nilsson E. Angeletti R. H. Apweiler R. Cheung K. Costello C. E. Hermjakob H. Huang S. Julian R. K. Kapp E. McComb M. E. Oliver S. G. Omenn G. Paton N. W. Simpson R. Smith R. Taylor C. F. Zhu W. Aebersold R. Nat.
 
-forsythe i. tang p. shrivastava s. jeroncic k. stothard p. amegbey g. block d. hau d. d. wagner j. miniaci j. clements m. gebremedhin m. guo n. zhang y. duggan g. e. macinnis g. d. weljie a. m. dowlatabadi r. bamforth f. clive d. greiner r. li l. marrie t. sykes b. d. vogel h. j. querengesser l. nucleic acids res.
+2016 34 1099-1101.Wishart D. S. Tzur D. Knox C. Eisner R. Guo A. C. Young N. Cheng D. Jewell K. Arndt D. Sawhney S. Fung C. Nikolai L. Lewis M. Coutouly M.-A.
 
-2016 34 1099-1101.wishart d. s. tzur d. knox c. eisner r. guo a. c. young n. cheng d. jewell k. arndt d. sawhney s. fung c. nikolai l. lewis m. coutouly m.-a.
+Lipids 2015 1851 19-29.Gnad T. Scheibler S. von Kugelgen I. Scheele C. Kili'c A. Glode A. Hoffmann L. S. Reverte-Salisa L. Horn P. Mutlu S. El- Tayeb A. Kranz M. Deuther-Conrad W. Brust P. Lidell M. E. BetzM.
 
-2007 35 database d521-d526.sud m. fahy e. cotter d. brown a. dennis e. a. glass c. k. merrill a. h. murphy r. c. raetz c. r. h. russell d. w. subramaniam s. nucleic acids res.
+NIST msp files for both data sets are also hosted on our GitHub repository  ACKNOWLEDGMENTSWe gratefully acknowledge the assistance of Agilent Technolo- gies Santa Clara CA USA for the loans of the liquid- chromatography mass-spectrometry instruments used in these analyses.REFERENCESRathahao-Paris E. Alves S. Junot C. Tabet J.-C. Metabolomics2016 12 1-15.Li L. Li R. Zhou J. Zuniga A. Stanislaus A. E. Wu Y. Huan T. Zheng J. Shi Y. Wishart D. S. Lin G. Anal.
 
-j. enerback s. schrader j. yegutkin g. g. muller c. e. pfeifer a.nature 2014 516 395-399.pfalzer a. c. nesbeth p.-d. c. parnell l. d. iyer l. k. liu z. kane a. v. chen c.-y.
+2014 86 9496-9503.Kangas L. J. Metz T. O. Isaac G. Schrom B. T. Ginovska- Pangovska B. Wang L. Tan L. Lewis R. R. Miller J. H. Bioinformatics 2012 28 1705-1713.Allen F. Pon A. Wilson M. Greiner R. Wishart D. Nucleic Acids Res.
 
-2014 86 9496-9503.kangas l. j. metz t. o. isaac g. schrom b. t. ginovska- pangovska b. wang l. tan l. lewis r. r. miller j. h. bioinformatics 2012 28 1705-1713.allen f. pon a. wilson m. greiner r. wishart d. nucleic acids res.
-
-l. neumann s. gatto l. fischer b. pratt b. egertson j. hoff k. kessner d. tasman n. shulman n. frewen b. baker t. a. brusniak m.-y.
-
-l. neumann s. gatto l. fischer b. pratt b. egertson j. hoff k. kessner d. tasman n. shulman n. frewen b. baker t. a. brusniak m.-y.
-
-o. tai a. k. bowman t. a. obin m. s. mason j. b. greenberg a. s. choi s.-w. selhub j. paul l. crott j. w. plos one 2015 10 e0135758.mabley j. rabinovitch a. mol.
-
-softw.2011 40 1-26.ardia d. boudt k. carl p. mullen k. m. peterson b. g. r j.2011 3 27-34.ardia d. david j. arango o. gomez n. d. g. wilmott magazine 2011 55 76-79.price k. v. storn r. m. lampinen j. a. differential evolution apractical approach to global optimization springer-verlag berlin germany 2006.roberts r. j. proc.
-
-2010 45 703-714.willing b. p. vacharaksa a. croxen m. thanachayanont t. finlay b. b. plos one 2011 6 e26988.golde w. t. gollobin p. rodriguez l. l. lab anim.
+2014 42 W94-W99.Heinonen M. Shen H. Zamboni N. Rousu J. Bioinformatics2012 28 2333-2341.Kessler N. Neuweger H. Bonte A. Langenkamper G. Niehaus K. Nattkemper T. W. Goesmann A. Bioinformatics 2013 29 2452- 2459.Heinonen M. Rantanen A. Mielikainen T. Kokkonen J. Kiuru J. Ketola R. A. Rousu J.
 

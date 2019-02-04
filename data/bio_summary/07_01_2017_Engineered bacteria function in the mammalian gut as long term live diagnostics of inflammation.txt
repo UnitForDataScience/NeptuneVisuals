@@ -1,30 +1,20 @@
-pas638 bacteria were effectively induced by tetrathionate ec500.38-0.85mm 95 ci whereas the control strain pas637 supplementary table 1 which does not contain the pttrbca-cro trigger showed no switching even at saturating concentrations of 2mm tetrathionate fig.1c.having validated that pas638 could record tetrathionate exposure in vitro we next tested the specificity of pas638 for tetrathionate in vivo using a murine s. typhimurium-induced colitis model21 fig.
+PAS638 bacteria were effectively induced by tetrathionate EC500.38-0.85mM 95 CI whereas the control strain PAS637 Supplementary Table 1 which does not contain the PttrBCA-cro trigger showed no switching even at saturating concentrations of 2mM tetrathionate Fig.1c.Having validated that PAS638 could record tetrathionate exposure in vitro we next tested the specificity of PAS638 for tetrathionate in vivo using a murine S. typhimurium-induced colitis model21 Fig.
 
-we pre-treated c57bl6 mice with streptomycin to reduce colonization resistance for s. typhimurium in the colon and introduced pas638 pas638 with s. typhimurium or pas638 with a s. typhimurium dttrr variant which is unable to express tetrathionate reductase by oral gavage fig.
+We pre-treated C57Bl6 mice with streptomycin to reduce colonization resistance for S. typhimurium in the colon and introduced PAS638 PAS638 with S. typhimurium or PAS638 with a S. typhimurium DttrR variant which is unable to express tetrathionate reductase by oral gavage Fig.
 
-3e suggesting that streptomycin rather than pas638 caused the previously observed post-administration lcn-2 increase this means that pas638 can detect elevated tetrathionate in a physiologically relevant subclinical inflammatory environment.to evaluate pas638 in different mouse backgrounds we administered the bacteria by oral gavage to balbc c57bl6 or 129x1svj mice after overnight provision of streptomycin in their drinking water to assist in colonization and measured the response over 5-8 days 3 measurements fig.
+3e suggesting that streptomycin rather than PAS638 caused the previously observed post-administration LCN-2 increase This means that PAS638 can detect elevated tetrathionate in a physiologically relevant subclinical inflammatory environment.To evaluate PAS638 in different mouse backgrounds we administered the bacteria by oral gavage to Balbc C57Bl6 or 129X1SvJ mice after overnight provision of streptomycin in their drinking water to assist in colonization and measured the response over 5-8 days 3 measurements Fig.
 
-while a definitive cause for the inflammation remained unclear the 129x1svj strain has documented defects in macrophage recruitment to sites of inflammation25 26. detection of tetrathionate in the presence of fluctuating and low-level inflammation that remained below histological detection further demonstrates the ability of pas638 to detect a subclinical inflammatory environment.finally we tested whether pas638 could be used for long-term monitoring of tetrathionate.
+Detection of tetrathionate in the presence of fluctuating and low-level inflammation that remained below histological detection further demonstrates the ability of PAS638 to detect a subclinical inflammatory environment.Finally we tested whether PAS638 could be used for long-term monitoring of tetrathionate.
 
-these results show that our engineered memory strain specifically senses tetrathionate and that tetrathionate sensing corresponds to a more acute inflammatory response in vivo.next we set out to use pas638 to further probe the pathways required for tetrathionate production.
+These results show that our engineered memory strain specifically senses tetrathionate and that tetrathionate sensing corresponds to a more acute inflammatory response in vivo.Next we set out to use PAS638 to further probe the pathways required for tetrathionate production.
 
-engineered strain pas638 exhibits memory upon tetrathionate exposure driving cro and b-galactosidase b-gal expression from the synthetic memory element and maintaining their expression in the absence of tetrathionate fig.
+Engineered strain PAS638 exhibits memory upon tetrathionate exposure driving Cro and b-galactosidase b-gal expression from the synthetic memory element and maintaining their expression in the absence of tetrathionate Fig.
 
-these results suggest that tetrathionate is produced during s. typhimurium infection even in the absence of cybb.mass spectrometry confirmed these results directly detecting tetrathionate in cecum extracts from s.typhimurium dttrr-infected c57bl6 and all cybb-- mice with infected mice showing significantly higher tetrathionate levels than uninfected ones fig.
+These results suggest that tetrathionate is produced during S. typhimurium infection even in the absence of Cybb.Mass spectrometry confirmed these results directly detecting tetrathionate in cecum extracts from S.typhimurium DttrR-infected C57Bl6 and all cybb-- mice with infected mice showing significantly higher tetrathionate levels than uninfected ones Fig.
 
-of note pas638  s. typhimurium dttrr mice in which memory-on state colonies were detected had significantly higher cumulative lcn-2 values at day 4 post- infection than those in which pas638 remained off fig.
+Of note PAS638  S. typhimurium DttrR mice in which memory-on state colonies were detected had significantly higher cumulative LCN-2 values at day 4 post- infection than those in which PAS638 remained off Fig.
 
-to test whether pas638 could detect subclinical inflammation in this model we colonized 6 month-old retired-breeder il10-- mice with pas638 e. coli fig.
+To test whether PAS638 could detect subclinical inflammation in this model we colonized 6 month-old retired-breeder IL10-- mice with PAS638 E. coli Fig.
 
-to analyze whether mutations had accrued in pas638 during colonization at day 159 pas638 colonies from five mice fig.
-
-d pas638 and s. typhimurium 14028s s. tm bacteria were administered by oral gavage to mice one day after streptomycin treatment and fecal samples were analyzed d2-5 post administration green stars e showing specific response of pas638 on day 4 andor 5 see also supplementary fig.
-
-increased production of tetrathionate in toll-like receptor-1 deficient mice15 and an enrichment of tetrathionate utilization genes in theriglar et al.page 3microbiota of a tbet-- rag-- mouse ulcerative colitis truc model20 point to the potential of tetrathionate as a general marker of inflammation.
-
-to confirm that pas638 did not cause inflammation we administered pas638 by oral gavage without antibiotic pre-treatment into il10-- mice.
-
-f cumulative lcn-2 levels in mice administered pas638 s. typhimurium dttrr were higher in mice with pas638 response green lines than in those without black lines.
-
-timepoints in which bacteria were more highly switched into the memory-on state memory values 1 highlighted green tended to correspond with higher lcn-2 levels values 20ngg highlighted red.riglar et al.page 18figure 3. pas638 does not accrue mutations in synthetic elements over long periods129x1svj mice were colonized with pas638 for a 200-day period 1600 bacterial generations.
+To analyze whether mutations had accrued in PAS638 during colonization at day 159 PAS638 colonies from five mice Fig.
 

@@ -1,30 +1,20 @@
-very likely this is due to heterogeneity of the used substrate.the high conversion of solubilized cod indicates that methanation was not inhibited in both methane stages heat shock system and control system b. the produced amount of methane per g of solubilized cod was in both methane stages slightly above the theo- retical maximum of 350 ml gcod-1 due to small particles that re- mained in the collected high strength liquor from the acidification.in addition and in comparison to the control system we observed in the heat-shock system a reduced methane formation in the acidificationfig.
+The produced amount of methane per g of solubilized COD was in both methane stages slightly above the theo- retical maximum of 350 ml gCOD-1 due to small particles that re- mained in the collected high strength liquor from the acidification.In addition and in comparison to the control system we observed in the heat-shock system a reduced methane formation in the acidificationFig.
 
-values for samples from the experiment with 55 degc heat shocks are shown in a and c corresponds to the 70 degc heat shocks.
+Values for samples from the control system without heat shocks are shown in B and D. All samples were analysed as duplicates.microbial composition but only transient modifications indicates that the mesophilic microbiomes from anaerobic digesters exhibit high re- silience against heat shocks while being more sensitive to pH changes.
 
-3. chemical analysis produced total volatile fatty acids tvfa and solubilized chemical oxygen demand cod are given for both the heat-shock system and the control system a. produced methane as well as conversion efficiency of solubilized cod for acidification and methane stages is summarized for different time intervals d1-d21 day 1-21 d22-d42 day 22-42 b. the methane production from the acidification stage is shown in c. gas volume is given as a mean value for the total gas formation per week for each batch cycle.
+Besides thermal tolerance anaerobic microbiomes tend to be robust and adaptable to extreme conditions including high ammonia levels  or high salinity  Corresponding author at Institute for Integrative Systems Biology I2SysBio Paterna Valencia Spain.E-mail address M. Porcar.R09e6ce0i-v8e5d2415 cSe2p0te1m7bEelrse2v0i1er7LtRde.cAeilvleridghintsrreevsieservdefdo.rm 25 October 2017 Accepted 28 October 2017.To reduce energetic demand and costs and to avoid long adaptation times compared to long thermophilic processes we aimed at exploring a new method for biogas production based on the application of mild thermal shocks throughout the process.
 
-solubilisation of chemical oxygen demand and production of total volatile fatty acids tvfa were mon- itored daily and found to reach similar values in both the heat-shock system and the control system a. additionally similar volumes of methane from the produced high-strength liquor were produced b. during the first three weeks when 55 degc heat shocks were applied29.1 - 11.4 gcod l-1 and 15.9 - 5.6 gtvfa l-1 were produced.
+Produced methane as well as conversion efficiency of solubilized COD for acidification and methane stages is summarized for different time intervals d1-d21 day 1-21 d22-d42 day 22-42 B.
 
-in the acidification stage with 55 degc heat shocks 67 less methane was formed than in the un-heated control.
+Compared to the methane stage only low levels of methane were formed in the acidification stage of both reactor systems.
 
-however recent studies suggest that lower temperatures such as 120 degc  or even 70 degc  can already sig- nificantly improve biomass degradability.
+In the acidification stage with 55 degC heat shocks 67 less methane was formed than in the un-heated control.
 
-with the aim of combining thermal and biological pre-treatments we constructed a two-stage two-phase system heated the first stage cyclically up to 55 degc and 70 degc and investigated the impact of this treatment on the microbial community dynamics applying culture-dependent and cultivation-in- dependent approaches.
+Values for samples from the experiment with 55 degC heat shocks are shown in A and C corresponds to the 70 degC heat shocks.
 
-collected liquor was stored under anoxic conditions at 4 degc and fed semi-continuously and manually into the methane stages.
+Very likely this is due to heterogeneity of the used substrate.The high conversion of solubilized COD indicates that methanation was not inhibited in both methane stages heat shock system and control system B.
 
-digestate from the methane stages was stored under anoxic conditions at 4 degc and was used as leachate for the set-up of new acidification cycles .
+In the experi- ment with 70 degC it was 40 less methane compared to the control C.Therefore the reduction of methanogenic contaminations from the seed sludge in the acidification stage associated to heat treatments could help to separate acidification from methanation more efficiently in order to prevent loss of methane.Post heat-shock transient microbial communityFor each acidification cycle samples for 16S-rRNA high throughput sequencing were taken at the second and last day .
 
-in the experi- ment with 70 degc it was 40 less methane compared to the control c.therefore the reduction of methanogenic contaminations from the seed sludge in the acidification stage associated to heat treatments could help to separate acidification from methanation more efficiently in order to prevent loss of methane.post heat-shock transient microbial communityfor each acidification cycle samples for 16s-rrna high throughput sequencing were taken at the second and last day .
-
-compared to the methane stage only low levels of methane were formed in the acidification stage of both reactor systems.
-
-heat shocks were applied manually transferring the leachate into an in- cubator where the leachate was heated up to 55 degc.
-
-from day 22 until day 42 the heat-shock temperature was increased to 70 degc performed similarly and three heat shocks were applied for each acidification cycle .
-
-in the following three weeks where heat shocks were more frequently applied and at a higher temperature 70 degc con- centrations of 26.9 - 2.7 gcod l-1 and 18.9 - 0.8 gtvfa l-1 were measured.
-
-the fact that even three shocks per cycle at 70 degc did not cause permanent shifts in thefig.
+The produced high strength liquor from the acidification stage from the first system was regularly exposed to heat shocks.Heat shocks and samplingAn overview about heat shock regimes is given in .
 

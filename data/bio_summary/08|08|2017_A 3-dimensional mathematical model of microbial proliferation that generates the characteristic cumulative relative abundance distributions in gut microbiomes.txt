@@ -1,30 +1,20 @@
-to determine the species in the blue-shaded lattice top a species in the black shaded area underneath is randomly selected with probability p. a new additional species joins with probability 1-p.intestine.
+To determine the species in the blue-shaded lattice top a species in the black shaded area underneath is randomly selected with probability p. A new additional species joins with probability 1-p.intestine.
 
-for example when we assumed that the probability of proliferation of 197 of the species was half that of the other 3 species in the initial 200 species in the simulation the crads obtained under this simulation had much shallower gradient than those in the simulation with a uniform growth rate and were similar to the values observed for the antibiotic-treated mouse gut microbiome .
+For example when we assumed that the probability of proliferation of 197 of the species was half that of the other 3 species in the initial 200 species in the simulation the CRADs obtained under this simulation had much shallower gradient than those in the simulation with a uniform growth rate and were similar to the values observed for the antibiotic-treated mouse gut microbiome .
 
-our model indicated that the crad may be determined by the ratio of emerging to pre-existing species during non-uniform spatially competitive proliferation independent of species composition.computer science laboratories inc. provided support in the form of salary for author h.t.
+The solid line and the dashed line represent the simulation results for p  1.0 with 100 initial species and p  0.999 with 200 initial species respectively.
 
-species that grow a little faster than other species are likely to be selected again.
+Our model indicated that the CRAD may be determined by the ratio of emerging to pre-existing species during non-uniform spatially competitive proliferation independent of species composition.Computer Science Laboratories Inc. provided support in the form of salary for author H.T.
 
-for the immigration probability 1-p we considered that a new additional species also immigrated to the lattice point simultaneous with the existing species.
+For the immigration probability 1-p we considered that a new additional species also immigrated to the lattice point simultaneous with the existing species.
 
-the solid line and the dashed line represent the simulation results for p  1.0 with 100 initial species and p  0.999 with 200 initial species respectively.
+These data imply that species that are sensitive and tolerant to antibiotics have different growth rates under an antibiotic treatment resulting in the altered proliferation in which only limited or biased species participated which may differ from the proliferation process for the samples of the human infant feces and mouse small intestines with small b values.
 
-these data imply that species that are sensitive and tolerant to antibiotics have different growth rates under an antibiotic treatment resulting in the altered proliferation in which only limited or biased species participated which may differ from the proliferation process for the samples of the human infant feces and mouse small intestines with small b values.
+Black boxplots represent the CRADs in the simulation with p  1 where the growth rate of 197 of the 200 species was set to half that of the other 3 species.
 
-black boxplots represent the crads in the simulation with p  1 where the growth rate of 197 of the 200 species was set to half that of the other 3 species.
+This property of our model would generate a random change in the ranking of the resulting abundant species even if similar species are involved in the initial stages of proliferation which is concordant with the high interindividual variability observed in the gut microbiome even for monozygotic twins .
 
-this property of our model would generate a random change in the ranking of the resulting abundant species even if similar species are involved in the initial stages of proliferation which is concordant with the high interindividual variability observed in the gut microbiome even for monozygotic twins .
+The structure of the gut microbiome is influenced by individual lifestyle including dietary habits and host physiology including disease resulting in a high degree of interindividual variability in species richness and abundance -.
 
-in this paper we show that the cumulative rel- ative abundance distribution crad of microbial species can be approximated by a power law function and found that the power exponent of crads generated from 16s rrna gene and metagenomic data for normal gut microbiomes of humans and mice was similar consis- tently with 0.9. a similarly robust power exponent was observed in crads of gut micro- biomes during dietary interventions and several diseases.
-
-however the power exponent was found to be 0.6 in crads from gut microbiomes characterized by lower species rich- ness such as those of human infants and the small intestine of mice.
-
-the specific roles of this author are articulated in the 'author contributions' section.competing interests hideki takayasu is a paid employee of sony computer science laboratories inc. this does not alter our adherence to plos one policies on sharing data and materials.introductionthe human gut harbors trillions of microbes belonging to hundreds of species.
-
-the structure of the gut microbiome is influenced by individual lifestyle including dietary habits and host physiology including disease resulting in a high degree of interindividual variability in species richness and abundance -.
-
-for instance some studies found that human gut microbiomes can be classified into a few distinct clusters called entero- types that are characterized by the relative abundance of a few particular taxa  .some groups of the gut species exhibit robust bistable abundance distributions .
-
-although these studies revealed several fundamental features of the structure of the gut microbiome independent of the high variability studies that explore the underlying rules and processes that shape the human gut microbiome remain scarce.metagenomic analysis of human gut microbiomes by high-throughput sequencing revealed long-tailed distributions of relative species abundance in the microbial community structure  .
+The figures show cumulative distribution plots of relative abundance which is equivalent to the rank-frequency plot by exchanging the vertical and hor- izontal axes as the rank is given by the product of the total number of species and the cumula- tive distribution value.
 

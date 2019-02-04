@@ -1,30 +1,20 @@
-for instance one patient of the car- diogenic deaths encountered in the current study was carrier of the cyp2c192 homozygous mutation 22 and non-carrier of 3 allele patient iii in while the other patient was non-carrier of both 2 and 3 alleles patient ii in nevertheless both patients had intensified peaks of pre-dose biomarkers on the other hand the identified clopidogrel htpr metabotypes in this study shed light on the multifactorial nature of clopidogrel htpr as illustrated in the metabolic patterns of cardiometabolic diseases such as t2-dm heart failure hf and obesity were apparently manifested in clopidogrel htpr urinary metabotypes.
+The Nuclear Over-hauser Enhancement spectroscopy one dimensional NOESY-Presat-1-D and the two dimensional 2-D J-resolved J-RES experimental set- tings were used The NOESY-Presat-1-D is the most suitable experiment in water suppressed 1H NMR.
 
-although there are known genetic and non-genetic factors associated with clopidogrel htpr which explain in part clopidogrel htpr yet great portion remains unknown often hindering person- alizing antiplatelet therapy.
+The pulse sequence of the NOESY-Presat-1-D spectra was RD 90-t1 90-tm 90 - acquire FID using 1 scan 4 dummy scans spectrum width SW29.99 ppm 65 k time and frequency domain data points line broad- ening LB 0.3 Hz relaxation delay RD 4 s t1 4 usec and tm 0.01 s. The J-RES is a 2-D experiment which is used to solve the over-lapping resonance of the peaks.
 
-however some patients endure clopidogrel high on treatment platelets reactivity htpr which can cause st and recurrence of ischemic events after pci there are genetic and non-genetic factors contributing to clopidogrel htpr.
+The AUROC is efficient and rec- ommended statistical tool to evaluate models in metabolomics studies particularly in two groups models The SIMCA mis- classification tool was used to indicate the sensitivity specificity and accuracy of each model.
 
-among known non-genetic fac- tors causing clopidogrel htpr there are type two diabetes mellitus t2-dm chronic kidney disease ckd age obesity as well as increased exposure to adenosine diphosphate adp stimulation however large part of clopidogrel htpr remains un-explained.
+The pathway analysis of the identified biomarkers reflected that multifactorial con- ditions are associated with clopidogrel HTPR.
 
-to date pharmacometabolomics has never been used to investigate clopidogrel htpr.in a recent paper we reported that cyp2c192 allele and ele- vated body mass index bmi were associated with clopidogrel htpr among east asian coronary artery disease cad patients who were planned for interventional angiographic procedure iap however we found that genotyping of the cyp2c192 didn't pre- dict clopidogrel htpr efficiently.
+The CYP2C19 polymorphism is the main genetic variability interfering with clopi- dogrel response.
 
-details the differences in means pru and medians inh for demographics and clinical groups and the corre- lation of continuous clinical variables with mean pru and medianinh.pharmacometabolomics assessment and pathway interpretationbased on the cut-off point pru  208 there were 27 38 patients suffering from clopidogrel htpr however 38 53.5 suf- fered from htpr based on inh 15 cut-off point.in pre-dose urine pru  208 classification the best discrim- inating pls-da model had 43 bins with vip  1 see table s.2 in the online supplementary material.
+The 1H NMR does not require prior sample sep- aration or derivatization which make it fast and reliable technique for metabolic profiling.
 
-auroc area under receiver operating characteristic.table 5detailed results of clopidogrel htpr urinary metabotypes pathway analysis.biosynthesisthis pathway analysis was generated using metaboanalyst 3.0 web based program based on the identified clopidogrel htpr urinary metabotypes.
+The interest in using urine as biofluid sam- ple in metabolomics studies has gained great attention This is due to the advantages of being non-invasive sample available in abundance does not require pre-processing and it is plentiful with metabolites which can reveal significant signatures of disease and drug response.
 
-patient i clopidogrel responsive patient green spectrum bmi 20.90 pru 97 and inh 56. patient ii clopidogrel htpr patient red spectrum bmi 20.17 pru 209 and inh 23.patient iii clopidogrel htpr patient blue spectrum bmi 44.64 pru 270 and inh 0.patients i and ii were non-carriers of both cyp2c192 and 3 alleles while patient iii was carrier of cyp2c192 homozygous mutation 22 and non-carrier of cyp2c193 allele the above spectra show intensified peaks of hippuric acid pag pa-glut tmao creatinine and creatine in patients ii and iii.
+The SC blood tube was used to perform the VN-P2Y12 test.
 
-5. multifactorial of clopidogrel htpr urinary metabotypes.clopidogrel htpr urinary metabotypes contained distinctive metabolic signatures of other cardio-associated conditions such as t2-dm hf obesity phospholipidosis and atherosclerosis.
+The electronic quality control test EQC of the instrument was run every day before the run of the VN-P2Y12 test.
 
-the pharmacometabolomics phenotyping in this study revealed profound existence of t2-dm metabolic patterns in clopido- grel htpr metabotypes nevertheless there were no significant differences in pru and inh between t2-dm and non-dm patients  elevation in urinary fructose glucose lactate betaine choline dma tmao hippuric acid taurine creatine cre- atinine glycine histidine 3-methylhistidine threonine serine myo-inositol 2-oxoglutaric acid pag pa-glut dimethylglycine and gluconic acid were previously reported t2-dm metabolic biomarkers indeed t2-dm is associated with high platelets reactivity which often hinders the effectiveness of clopidogrel however since glucose fructose and lactate are biomarkers of acute and long term glycaemic dysregulations one can infer that the t2-dm-clopidogrel htpr association is sub- stantially affected by glycaemic control.
-
-although some reports indicated an association between ckd and clopidogrel htpr leng and colleagues concluded that ckd in elderly is not associated with clopidogrel htpr and it may be reflecting ckd associated anaemia.
-
-this approach did not only identify clopidogrel htpr putative biomarkers but also revealed new knowledge on the ambiguous part of clopidogrel htpr.
-
-journal of pharmaceutical and biomedical analysis 146 2017 135-1461h nmr based pharmacometabolomics analysis of urine identifies metabolic phenotype of clopidogrel high on treatment platelets reactivity in coronary artery disease patientsarwa m. aminlim sheau chinchin-hoe tehhamza mostafadzul azri mohamed noormuhamad ali sk abdul kaderyuen kah haybaharudin ibrahima school of pharmaceutical sciences universiti sains malaysia penang malaysiab bruker malaysia sdn bhdc cardiology department hospital pulau pinang penang malaysiaa r t i c l ei n f oa b s t r a c tarticle historyreceived 24 may 2017received in revised form 13 august 2017 available online 19 august 2017keywords pharmacometabolomics pharmacometabonomics clopidogrelgut microbiotahigh on treatment platelets reactivity verifynow1h nmrclopidogrel high on treatment platelets reactivity htpr has burdened achieving optimum therapeutic outcome.
-
-we investigated using 1h nmr analysis to phenotype clopidogrel htpr in urine.
-
-multivariate statistical analysis was used to identify metabolites associated with clopidogrel htpr.
+The P2Y12 reaction unit PRU represents the post-dose platelets aggregation which is induced by ADP and prostaglandin E1 PGE1 in the PRU chamber of the kit.
 

@@ -1,30 +1,20 @@
-the capacity of the enzyme for converting xylan into xylooligosaccharides was evaluated and the prebiotic potential of the resultant xos mixtures demonstrated.material and methodsmaterials5 ml-hitrap qff cartridge superdextm 75 10300 gl column and low molecular weight gel filtration kit 17-0442-01 were purchased from ge healthcare chicago il usa.beechwood and birchwood xylan avicel glucose cellobiose carboxymethylcellulose nitrophenyl np substrates and coomas- sie brilliant blue r-250 were obtained from sigma-aldrich st. louis mo usa.
+The capacity of the enzyme for converting xylan into xylooligosaccharides was evaluated and the prebiotic potential of the resultant XOS mixtures demonstrated.Material and methodsMaterials5 ml-HiTrap QFF cartridge SuperdexTM 75 10300 GL column and Low Molecular Weight Gel Filtration Kit 17-0442-01 were purchased from GE Healthcare Chicago IL USA.Beechwood and birchwood xylan Avicel glucose cellobiose carboxymethylcellulose nitrophenyl NP substrates and Coomas- sie Brilliant Blue R-250 were obtained from Sigma-Aldrich St. Louis MO USA.
 
-cultures induced with 2 and 3 xylan showed the highest extracellular endoxy- lanase activity although maximal activity was achieved two days before with 2 xylan which implies a more cost-effective enzyme production.
+The peaks were found as MNa and MK adducts in the positive mode B and as M H- and MCl- adducts in the negative mode C. The presence of xylose 173.04 mz glucose 203.05 mz xylobiose 305.08 mz 321.05 mz xylotriose 437.20 mz 453.09 mz and xylotetraose 569.16 mz was confirmed in agreementwith the previous results obtained by HPAEC-PAD A.
 
-prebiotic effect of xylooligosaccharides produced from birchwood xylan by a novel fungal gh11 xylanasemanuel nieto-dominguez  laura i. de eugenio  maria j. york-duran  barbara rodriguez-colinas francisco j. plou  empar chenoll  ester pardo  francisco codoner  maria jesus martinez a ipsbb unit - centro de investigaciones biologicas csic ramiro de maeztu 9 28040 madrid spainb instituto de catalisis y petroleoquimica csic calle de marie curie 2 28049 madrid spainc biopolis s.l.
+The enzyme was purified characterized and used to produce a mixture of xylooligosaccharides XOS from birchwood xylan.
 
-the enzyme was purified characterized and used to produce a mixture of xylooligosaccharides xos from birchwood xylan.
+The first type of hemicellulases cut the xylan backbone into soluble oligosaccha- rides XOS which can be depolymerized to xylose by the action of b-xylosidases .
 
-unlike cellulose hemicelluloses comprise a wide variety of polysaccha- rides among which xylan is the most abundant and has attracted great interest as raw material both for bioethanol production and as a source of value-added compounds.
+The enzymatic hydrolysis of xylan is carried out by endoxylanases a broad group of glycosidases that according to the Carbohydrate Active Enzymes database CAZy  are distributed among the families GH8 GH10 GH11 GH30 GH43 and GH51.
 
-however the industrial exploitation of xylan still needs to overcome the challenges derived from its structural heterogeneity and complexity.xylans are heteropolysaccharides formed by a backbone of b-14 linked xylopyranoses branched by other monosaccharides especially arabinofuranose and highly substituted with glucuronic or methyl-glucuronic acid and acetyl side-groups.
+The standard reaction mixture consisted of 2.5 xylan 50 mM sodium acetate AcONa buffer pH 5 and the appropriate dilution of the purified enzyme or culture crude extract.
 
-their branching degree and composition strongly depend on the xylan source.
+The compounds selected for the assay were KCl MgSO4 CaCl2 BaCl2 MnCl2 FeSO4 CoCl2 NiSO4 CuSO4 AgNO3 ZnSO4HgCl2 PbNO32 ethylenediaminetetraacetic acid EDTA and 2- mercaptoethanol 2-ME.Substrate specificityXynM activity was tested against other substrates apart from xylan in order to study its specificity.
 
-the first type of hemicellulases cut the xylan backbone into soluble oligosaccha- rides xos which can be depolymerized to xylose by the action of b-xylosidases .
+The enzyme activity was also measured against 20 mM of the disaccharide cellobiose and the polysaccharides Avicel and carboxymethylcellulose at final concentrations of 10 and 20 gl respectively.The kinetic parameters for hydrolysis of beechwood xylan by XynM were determined.
 
-interestingly although the complete conversion of xylan into xylose is a main target for bioethanol production there is a large and growing interest in the xos themselves.
+The endoxylanase-inducer effect of 1 glucose 1 Avicel or 1 2 or 3 beechwood xylan in 6 day-old cultures was assayed Fig.
 
-in order to satisfy this demand xos are obtained from the xylan fraction of lignocellulosic materials by physicochemical or enzy- matic methods.
-
-the enzymatic hydrolysis of xylan is carried out by endoxylanases a broad group of glycosidases that according to the carbohydrate active enzymes database cazy  are distributed among the families gh8 gh10 gh11 gh30 gh43 and gh51.
-
-mandels medium was supple- mented with 2 wv beechwood xylan as a carbon source and inducer of xylanolytic enzymes.
-
-in order to compare the secretion of xylanase activity 1 and 3 xylan 1 d-glucose and 1 avicel were used as alternative inducers.
-
-the standard reaction mixture consisted of 2.5 xylan 50 mm sodium acetate acona buffer ph 5 and the appropriate dilution of the purified enzyme or culture crude extract.
-
-standard assays were incubated at 50 degc and centrifuged at 1200 rpm for 5 and 10 min in order to check the linearity of the activity.enzymatic activity against glucose-containing substrates was measured following the release of glucose using the glucose-tr kit spinreact vall d'en bas spain according to the manufacturer's instructions.the bca method was used to quantify proteins using bovine serum albumin bsa as standard and pierce reagents thermo sci- entific waltham ma usa following the manufacturer's instructions.endoxylanase purificationcultures were grown in 250 ml flasks with 50 ml of mandels medium and 2 beechwood xylan and harvested after 3 days.
+The thermal and end-product inhibition of XynM as well as the decrease of accessible hydrolytic sites in the polysac- charide may explain the stagnation of the global yield  .The maximum output of neutral XOS 28.8 is expressed as a percentage of the initial amount of birchwood xylan and was cal- culated from the sum of the concentrations of uncharged XOS from Xyl2 to Xyl6 measured from HPAEC-PAD .
 

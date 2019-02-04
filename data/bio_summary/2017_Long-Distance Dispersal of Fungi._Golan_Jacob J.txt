@@ -1,30 +1,20 @@
-we smoothed the published data to estimate an approximate dispersal kernel and the distance beyond which 1 of spores traveled was found by integrating the area under each kernel from 0 m to the distance at which 99 of spores had been captured.although both m. fijiensis and f. graminearum are capable of dispersing to approximately 1000 m the proportion of spores that fit our definition of ldd varies considerably because ldd is defined past 714 m for f. graminearum and past 250 m for m. fijiensis.
+We smoothed the published data to estimate an approximate dispersal kernel and the distance beyond which 1 of spores traveled was found by integrating the area under each kernel from 0 m to the distance at which 99 of spores had been captured.Although both M. fijiensis and F. graminearum are capable of dispersing to approximately 1000 m the proportion of spores that fit our definition of LDD varies considerably because LDD is defined past 714 m for F. graminearum and past 250 m for M. fijiensis.
 
-fungal ecol 17197-204 .pringle a vellinga e peay k. 2015. the shape of fungal ecology does spore morphology give clues to a species' niche fungal ecol 17213- 216 .trunov m trakumas s willeke k grinshpun sa reponen t. 2001. collection of bioaerosol particles by impaction effect of fungal spore agglomeration and bounce.
+show that fungal spores released during the hottest times of day are most likely to undergo LDD presumably because updrafts formed by heated low- altitude air masses can lift spores into turbulent flows at higher altitudes.
 
-show that fungal spores released during the hottest times of day are most likely to undergo ldd presumably because updrafts formed by heated low- altitude air masses can lift spores into turbulent flows at higher altitudes.
+LDD involving sequential shorter- distance dispersal is likely the more common phenom- enon while LDD involving a single successful spore moving a long distance is a very low-probability event that would coincide with optimal conditions for both fungus and vector.To unify the disparate approaches used to describeand measure fungal LDD we propose a synthetic three- part definition built on the framework presented by Nathan  .
 
-using definitions based on a relative threshold facilitates comparisons of dispersal kernels of different species but only if a common per- centile is routinely used.while it may be appropriate to have alternative definitions of fungal ldd for different species at the moment there is no comprehensive approach to orga- nizing the myriad methods used to think about fungal ldd.
+list several other species which seem to have similar cosmopolitan distributions-- Aniptodera cheasapeakensis Ceriosporopsis halima Corollospora maritima Savoryella lignicola Torpedo- spora radiata and Zalerion maritima--suggesting that aquatic fungal LDD may be an as yet undescribed phenomenon.Aquatic environments may be an ideal place for LDD to occur considering that fungal dispersal is oftenlimited by spore desiccation UV damage and harsh temperatures.
 
-list several other species which seem to have similar cosmopolitan distributions-- aniptodera cheasapeakensis ceriosporopsis halima corollospora maritima savoryella lignicola torpedo- spora radiata and zalerion maritima--suggesting that aquatic fungal ldd may be an as yet undescribed phenomenon.aquatic environments may be an ideal place for ldd to occur considering that fungal dispersal is oftenlimited by spore desiccation uv damage and harsh temperatures.
+Using definitions based on a relative threshold facilitates comparisons of dispersal kernels of different species but only if a common per- centile is routinely used.While it may be appropriate to have alternative definitions of fungal LDD for different species at the moment there is no comprehensive approach to orga- nizing the myriad methods used to think about fungal LDD.
 
-ldd involving sequential shorter- distance dispersal is likely the more common phenom- enon while ldd involving a single successful spore moving a long distance is a very low-probability event that would coincide with optimal conditions for both fungus and vector.to unify the disparate approaches used to describeand measure fungal ldd we propose a synthetic three- part definition built on the framework presented by nathan  .
+Efforts to track the timing and number of spores re- leased during atmospheric updrafts and in relation to other meteorological phenomena remain an interest- ing direction for future research and may offer addi- tional perspectives on the ability of fungi to manipulate LDD.UNKNOWN AND CONFOUNDING VARIABLES FREQUENCY OF LDD VICARIANCE AND CHANGING PATTERNS OF HUMAN-MEDIATED DISPERSALThe frequency of LDD for any particular species often remains unknown.
 
-fungal propagules sheltered deep within fur or feathers are potentially protected from some harsh environments as they move over large distances.flying animals clearly serve as fungal vectors and there is a great deal of evidence for birds and insects as mediators of fungal dispersal especially of patho- gens.
+an ocean separating populations of the same species on two continents LDD is often hypothesized to be the process causing the observed population structures  -  .As discussed previously when LDD is inferred from genetic data the mechanism of LDD remains unknown.
 
-fungal spores are orders of magnitude smaller than the smallest seeds--smaller than most moss and fern spores and comparable in size to some plant pollen e.g.
+However unlike pollen many fungal spores are short-lived and highly susceptible to desiccation and UV radiation and it is often un- clear whether spores survive e.g.
 
-however unlike pollen many fungal spores are short-lived and highly susceptible to desiccation and uv radiation and it is often un- clear whether spores survive e.g.
+Most marine ascomycetes appear to re- lease their spores passively while many tropical fresh- water ascomycetes actively eject their spores away from the fungal thallus .
 
-most marine ascomycetes appear to re- lease their spores passively while many tropical fresh- water ascomycetes actively eject their spores away from the fungal thallus .
-
-anecdotal evidence suggests that fungi may release a greater concentration of spores just before thunder- storms when updrafts are prevalent and there are records of asthma outbreaks caused by fungal spores specifically prior to thunderstorms -.
-
-novel approaches to measuring both spore trajectories and the probabilities of survival are critically needed and experiments involving creative thinking and perhaps taking advantage of new technologies will likely help to better address the many unanswered questions about fungal ldd.once a greater array of empirical dispersal data is available new dispersal kernels can be developed to better quantify fungal ldd for a review of kernel functions see reference .
-
-the problem of driftwood-associated fungi remains a promising area for future research and open questions concern patterns of driftwood movement and their possible relationship to fungal introductions and whether some logging practices increase the likelihood of ldd.living plant material transported by ocean currentsis another putative mediator of fungal ldd.
-
-in addition fungal ldd is shaped by both physical constraints on travel and the ability of spores to survive harsh environments.
-
-finally fungal ldd is commonly measured in different ways including by direct capture of spores genetic comparisons of disconnected populations and statistical modeling and simulations of dispersal data.
+Anecdotal evidence suggests that fungi may release a greater concentration of spores just before thunder- storms when updrafts are prevalent and there are records of asthma outbreaks caused by fungal spores specifically prior to thunderstorms -.
 

@@ -1,30 +1,20 @@
-reduced diversity and altered composi- tion of the intestinal microbiota following cyhv-2 infec- tion suggest that either probiotics or prebiotics would be a useful method in the prevention and treatment of cyhv-2 infection and plesiomonas could be used as a microbial biomarker for disease detection.
+Reduced diversity and altered composi- tion of the intestinal microbiota following CyHV-2 infec- tion suggest that either probiotics or prebiotics would be a useful method in the prevention and treatment of CyHV-2 infection and Plesiomonas could be used as a microbial biomarker for disease detection.
 
-regardless the differences in intestinal microbial community structure after cyhv-2 infection suggest that it may be possible to use probiotics or prebiotics to mitigate infection by restoring the richness of the host intestinal microbiota .interestingly some studies have found that plesiomonas is the dominant genus in fecal samples of healthy and anadromous fish collected from freshwater habitats   but studies in gold fish  and grass carp  have confirmed that plesiomonas is a pathogen.
+Regardless the differences in intestinal microbial community structure after CyHV-2 infection suggest that it may be possible to use probiotics or prebiotics to mitigate infection by restoring the richness of the host intestinal microbiota .Interestingly some studies have found that Plesiomonas is the dominant genus in fecal samples of healthy and anadromous fish collected from freshwater habitats   but studies in gold fish  and grass carp  have confirmed that Plesiomonas is a pathogen.
 
-curr microbiol 2017 741130-1136 doi 10.1007s00284-017-1294-ychanges in the intestinal microbiota of gibel carp carassius gibelio associated with cyprinid herpesvirus 2 cyhv-2 infectionrong she12  tong-tong li3  dan luo2  jia-bao li3  liu-yi yin2 huan li3  yao-min liu2  xiang-zhen li3  qi-gui yan14received 17 november 2016  accepted 28 june 2017  published online 26 july 2017c springer sciencebusiness media llc 2017abstract gut microbiota are integral to the host and have received increased attention in recent years.
+So in this research we investi- gated the influence of CyHV-2 infection on intestinal microbiota of gibel carp.The microbiota is known to depend on a functional equilibrium between the host the environment and dietary factors.
 
-however information regarding the intestinal microbiota of many aquaculture animals is insufficient elucidating the dynamics of the intestinal microbiota can be beneficial for nutrition immunity and disease control.
+However information regarding the intestinal microbiota of many aquaculture animals is insufficient elucidating the dynamics of the intestinal microbiota can be beneficial for nutrition immunity and disease control.
 
-so in this research we investi- gated the influence of cyhv-2 infection on intestinal microbiota of gibel carp.the microbiota is known to depend on a functional equilibrium between the host the environment and dietary factors.
+Thus characterizing variations in the intestinal microbial communities of healthy and diseased hosts can inform disease prediction and therapy however there is no information available on the intestinal bacterial community in gibel carp infected with CyHV-2.
 
-thus characterizing variations in the intestinal microbial communities of healthy and diseased hosts can inform disease prediction and therapy however there is no information available on the intestinal bacterial community in gibel carp infected with cyhv-2.
+In this study we used 16S rRNA sequencing to observe changes in the intestinal microbiota of gibel carp Carassius auratus gibelio associated with cyprinid herpesvirus 2 CyHV-2 infection.
 
-in this study we used 16s rrna sequencing to observe changes in the intestinal microbiota of gibel carp carassius auratus gibelio associated with cyprinid herpesvirus 2 cyhv-2 infection.
+Our results indicate that the diversity of the intestinal microbiota was strongly reduced and the com- position was dramatically altered following CyHV-2 infection.
 
-our results indicate that the diversity of the intestinal microbiota was strongly reduced and the com- position was dramatically altered following cyhv-2 infection.
+The mechanism of CyHV-2 infection is still unclear in this new fish host and there are currently no effective preventative or treatment measures.Many studies had shown that the intestinal microbiota assist hosts by promoting nutrient absorption stimulating the immune response and disease resistance   .
 
-the mechanism of cyhv-2 infection is still unclear in this new fish host and there are currently no effective preventative or treatment measures.many studies had shown that the intestinal microbiota assist hosts by promoting nutrient absorption stimulating the immune response and disease resistance   .
+In this study changes in the intestinal microbiota between the healthy and CyHV-2 infected fish were investigated as well as potential biomarkers for disease.
 
-in this study changes in the intestinal microbiota between the healthy and cyhv-2 infected fish were investigated as well as potential biomarkers for disease.
-
-there were no obvious differences in do ph or po43-p between the two ponds during the experimental period.decreased alpha diversity of the intestinal microbiota in cyhv-2 infected fisha total of 1459858 qualified reads with an average length of 412 bp per read were retrieved from 91 hindguts sam- ples the number of reads per sample ranged from 3306 to 41650 reads.
-
-table  p  0.01. however these chemical properties explained only 20.9 of the total variation in microbial communities this suggests that there are additional factors that shape intestinal community structure.discussionfollowing the advance of high-throughput sequencing techniques many studies have focused on the diversity and composition of the intestinal microbiota in human and fig.
-
-4 taxonomic differences in the intestinal microbiota between healthy and sick fish a a cladogram showing the features that are discriminative for cyhv-2 infection using the lda linear discrim- inate analysis scores model based on bacterial hierarchy andcomputed for the most discriminating otus based on their relative abundances in hindgut contents b lda coupled with effect size measurements to identify the most differentially abundant taxon between the two groups color figure onlineanimals.
-
-our study suggests that plesiomonas is an opportunistic pathogen in gibel carp that can potentially be used as microbial bio- marker for disease during breeding.in summary our study reported the changes in the intestinal microbiota of gibel carp with cyhv-2 infection for the first time.
-
-pcr assays have shown that cyhv-2 is present throughout the life cycle of gibel carp however cyhv-2 mortality only occurs when the water temperature is 15  32 degc.
+4 Taxonomic differences in the intestinal microbiota between healthy and sick fish a a cladogram showing the features that are discriminative for CyHV-2 infection using the LDA linear discrim- inate analysis scores model based on bacterial hierarchy andcomputed for the most discriminating OTUs based on their relative abundances in hindgut contents b LDA coupled with effect size measurements to identify the most differentially abundant taxon between the two groups Color figure onlineanimals.
 

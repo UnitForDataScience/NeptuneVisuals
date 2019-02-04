@@ -1,30 +1,20 @@
-nanotoxicology 20137251-8.gobert ap vareille m glasser al et al.
+The overnight cultures were diluted 1100 grown to early log phase and subsequently treated with 5 mgml mitomycin C. The induced cultures were maintained at 37C for 5 h. Cells were centrifuged at 8000 g for 10 min and the phage-containing supernatant was sterilized using a 0.2 mm fil- ter.
 
-collectively these observations suggest that t. thermophila aids in dissemination of bacteriophages by accumulating susceptible bacteria and phages in their phagocytic vesicles.keywords bacteriophage bacteria tetrahymena phagocytosis horizontal gene transfer anti-predator defenseintroductionthe microbial communities in natural habitats such as soil pond water and animal rumen are composed of a diverse mixture of bacteria and unicellular eukaryotic bacterivores russell and rychlik  tyson et al.
+A The induction of SIVET strain EDL 933 K11604 and cIind1 mutant derivative of the SIVET strain K11607 was measured by incubating with Tetrahymena NP1 at 30C gray bars or 37C black bars for 2 h. Tetrahymena was then harvested washed lysed and the released bacteria were grown in LB for an additional 4 h. The induction in- dex was measured by plating the cultures on kanamycin and chloramphenicol plates and counting the number of CFU n  3.
 
-for example accumulation of e.coli strains in the phagosomes of tetrahymena pyriformis increases the frequency of transfer of conjugative plasmids schlimme hanselmann and jenni  licht et al.
+The indiscrimi- nate feeding by phagocytic protozoa may result in accumulation of different bacteria within a single protozoan phagosome.
 
-mccuddin et al.
+The accumulation and concentration within the phagosome creates an opportunity for gene transfer to take place between bacteria.
 
-matsuo et al.
+The presence of Stx- encoding prophage enhanced the fitness of E. coli by increasing their survival in the food vacuoles of a protozoan predator T. pyriformis Steinberg and Levin .
 
-for example the ciliate tetrahymena can indiscrimi- nately ingest various particles including india ink latex beads carbon nanotubes bacteriophages and bacteria weidenbach and thompson  batz and wunderlich  nilsson  maicher and tiedtke  pinheiro et al.
+The mCherry-encoding vector was obtained from Clontech.
 
-chan et al.
+The cells were grown for 3 days at 30 or 37C.
 
-instead they remain metabolically active and survive to be expelled to the outside environment licht et al.
+The cells were harvested by centrifuga- tion at 5000 g for 5 min then washed three times with 10 mM Tris-HCl pH 7.4 and suspended in M9 plus 0.08 sodium citrate in a volume sufficient to give 104 cellsml.Uptake of labeled bacteria by TetrahymenaBacterial cultures expressing GFP or mCherry fluorescent pro- teins were grown to saturation 108ml at 37C in Luria broth LB supplemented with appropriate antibiotics.
 
-strahl gillaspy and falkinham  abd et al.
+The cells were harvested by centrifugation at 8000 g washed three times with M9 plus 0.08 sodium citrate and resuspended in M9 plus 0.08 sodium citrate.
 
-stein- berg and grinstein  steinberg and levin  gourabathini et al.
-
-siegmund et al.
-
-thermophila and acanthamoeba castellanii thus conferring a sur- vival advantage to bacteria that contain phages encoding exo- toxins lainhart stolfa and koudelka  arnold and koudelka.stx is encoded on lambdoid prophages o'brien et al.
-
-alternatively in lysogenic growth the phage inserts its genome into the host's chromosome and replicates with it until a signal that induces lytic growth is perceived by the lysogenized phages.transcription of the stx2 genes resident in bacteriophages is under the control of a promoter that is active only during lytic growth whereas transcription of phage-borne stx1 genes is un- der control of both phage lytic promoters and the bacterially encoded fur repressor wagner et al.
-
-its release from the bacteria depends on phage genes that cause bacterial cell lysis wagner et al.
-
-thus the synthe- sis and release of phage-encoded stx in response to predation embodies a form of self-destructive cooperative behavior ack- ermann et al.
+The mixed microbial cultures microcosms were created by mixing bacteria expressing GFP and mCherry fluo- rescent proteins in a 11 ratio.
 

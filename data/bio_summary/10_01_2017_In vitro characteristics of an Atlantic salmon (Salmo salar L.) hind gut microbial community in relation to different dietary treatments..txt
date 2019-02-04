@@ -1,30 +1,20 @@
-no clear separation was observed between hp and cs diets p 0.75 cs and lp diets p 0.27 cs and lm diets p 0.08 or between lp and lm diets p 0.08. these differences are illustrated in canonical analysis of principal coordinates cap plots which show that clustering can be readily correlated on the basis of diets.
+No clear separation was observed between HP and CS diets P 0.75 CS and LP diets P 0.27 CS and LM diets P 0.08 or between LP and LM diets P 0.08.
 
-the microbial profiles emerging from cultures based on purely plant-based protein ingredient material lk and pe were clearly separated from the other diets .composition of the microbial community grown in the in vitro systemthree replicate in vitro samples from different diets were analysed for bacterial composition using the illumina mi-seq platform.
+The microbial profiles emerging from cultures based on purely plant-based protein ingredient material LK and PE were clearly separated from the other diets .Composition of the microbial community grown in the in vitro systemThree replicate in vitro samples from different diets were analysed for bacterial composition using the Illumina Mi-Seq platform.
 
-vibrionaceae appeared to pre- dominate in most faecal samples 70 reaching densities of 108e109 cfug however other bacteria may become predominant for reasons that cannot yet be explained .amongst the complete diets the hp cs and lp diets produced similar outcomes suggesting that the differences in protein to lipid ratio were not significant enough to have a marked effect on growth of different species in the in vitro system.
+Vibrionaceae appeared to pre- dominate in most faecal samples 70 reaching densities of 108e109 CFUg however other bacteria may become predominant for reasons that cannot yet be explained .Amongst the complete diets the HP CS and LP diets produced similar outcomes suggesting that the differences in protein to lipid ratio were not significant enough to have a marked effect on growth of different species in the in vitro system.
 
-a total of five complete diets and two ingredients plant meal were tested.
+A total of five complete diets and two ingredients plant meal were tested.
 
-the total viable counts tvcs and sequencing data revealed that there was very clear separation between the complete diets and the plant meal treat- ments suggesting a dynamic response by the allochthonous bacteria to the treatments.
+The total viable counts TVCs and sequencing data revealed that there was very clear separation between the complete diets and the plant meal treat- ments suggesting a dynamic response by the allochthonous bacteria to the treatments.
 
-automated ribosomal intergenic spacer analysis arisa results showed that different diet formulations produced different patterns of fragments with no separation between the complete diets.
+Automated ribosomal intergenic spacer analysis ARISA results showed that different diet formulations produced different patterns of fragments with no separation between the complete diets.
 
-16s rrna illumina-based sequencing analysis showed that members of the genera aliivibrio vibrio and photobacterium became predominant for all complete diets treatments.
+16S rRNA Illumina-based sequencing analysis showed that members of the genera Aliivibrio Vibrio and Photobacterium became predominant for all complete diets treatments.
 
-in vitro based testing of diets could be a useful strategy to determine the potential impact of either complete feeds or ingredients on major fish gastrointestinal tract microbiome members.c 2017 institut pasteur.
+In vitro based testing of diets could be a useful strategy to determine the potential impact of either complete feeds or ingredients on major fish gastrointestinal tract microbiome members.c 2017 Institut Pasteur.
 
-the experiments performed here were also enacted since previous observations indicated that atlantic salmon faecal communities changed differently when differently formulated diets were provided however all treatment groups became dominated by certain members of the vibrionaceae over time .
+The experiments performed here were also enacted since previous observations indicated that Atlantic salmon faecal communities changed differently when differently formulated diets were provided however all treatment groups became dominated by certain members of the Vibrionaceae over time .
 
-this suggested that different diets may have only transient effects on the hind gut com- munity structure and that other overriding factors may be important for bacteria that become predominant such as in situ growth rates ability to utilise feed nutrients and ability to colonise the salmon gut.
-
-in essence the main question is do different diet formulations promote different gut bacteria or do the same bacteria predominate independently of dietmaterials and methodsfish dietsfive different diet formulations were prepared including diets with different fish meal and fish oil levels a low protein lp a high protein hp and a commercial standard cs diet with an intermediate protein and lipid content.
-
-the cs diet was modified to yield two different diets.
-
-the general composition of each of the diets is shown in .
-
-each of the diets was manufactured based on methods re- ported in glencross et al.
-
-samples were immediately transferred on ice to the laboratory and processed within 3 h. between each sampling the anal region of each specimen was wiped with an ethanol swab to ensure no cross-contamination of skin mucosal microbes.in vitro gut model systemin vitro fermentation was conducted in three replicates for each of the diets shown in and a negative control a sample of the inocula in the medium without feed added.
+This suggested that different diets may have only transient effects on the hind gut com- munity structure and that other overriding factors may be important for bacteria that become predominant such as in situ growth rates ability to utilise feed nutrients and ability to colonise the salmon gut.
 

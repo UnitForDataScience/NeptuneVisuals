@@ -1,30 +1,20 @@
-wild mouths and wild guts differ significantly in number of bacterial otu's wilcoxon rank sum test p 0.0004. there were 396 otus found in wild mouths from costa rica and 115 found in guts and only 66 shared between the two organs suggesting that there is likely some amount of filtering that occurs between the mouth and gut.role of diet in structuring bacterial diversityto investigate the influence of diet on host bacterial community structure we included samples from wild caught colonies of the giant neotropical bullet ant and conspecifics from some of the same colonies after keeping on a diet of sucrose water in the laboratory.the distribution of read counts for guts and mouths differed substantially.
+Only a single bacterial taxon in the Firmicutes is consistently present across individuals indicating a remarkably simple core bacterial community for the giant Neotropical bullet ant.
 
-only a single bacterial taxon in the firmicutes is consistently present across individuals indicating a remarkably simple core bacterial community for the giant neotropical bullet ant.
+Five of eleven wild Costa Rican guts had Rhizobiales present at least at a low level and five of eight diet manipulated Costa Rican guts hadRhizobiales present.Role of geography on structuring host gut bacterial diversityThe principal coordinates analysis PCoA of all wild caught P. clavata bacterial communities shows that there is no clustering based on geography or colony for either guts or mouths .
 
-five of eleven wild costa rican guts had rhizobiales present at least at a low level and five of eight diet manipulated costa rican guts hadrhizobiales present.role of geography on structuring host gut bacterial diversitythe principal coordinates analysis pcoa of all wild caught p. clavata bacterial communities shows that there is no clustering based on geography or colony for either guts or mouths .
+There were 396 OTUs found in wild mouths from Costa Rica and 115 found in guts and only 66 shared between the two organs suggesting that there is likely some amount of filtering that occurs between the mouth and gut.Role of diet in structuring bacterial diversityTo investigate the influence of diet on host bacterial community structure we included samples from wild caught colonies of the giant Neotropical bullet ant and conspecifics from some of the same colonies after keeping on a diet of sucrose water in the laboratory.The distribution of read counts for guts and mouths differed substantially.
 
-to begin to address this question we investigate the diversity and persistence of the bacterial community of the giant neotropical bullet ant paraponera clavata.
+To begin to address this question we investigate the diversity and persistence of the bacterial community of the giant Neotropical bullet ant Paraponera clavata.
 
-to understand how the digestive tract can filter bacterial communities we sampled mouth and gut communities.
+To understand how the digestive tract can filter bacterial communities we sampled mouth and gut communities.
 
-geography did not explain host bacterial diversity but we did find significant reductions in diversity between the mouth and the gut tract.
+Geography did not explain host bacterial diversity but we did find significant reductions in diversity between the mouth and the gut tract.
 
-for example high-throughput se- quencing technologies are providing critical insights into the diversity and role of microbial communities for human health and disease   frequency of horizontally ac- quired bacterial genes in eukaryotic genomes   and the unintended impact antibiotics may have on human health  .these tools are providing insights into the diver- sity of associations that are present across the tree of life including among the insects   .
+For example high-throughput se- quencing technologies are providing critical insights into the diversity and role of microbial communities for human health and disease   frequency of horizontally ac- quired bacterial genes in eukaryotic genomes   and the unintended impact antibiotics may have on human health  .These tools are providing insights into the diver- sity of associations that are present across the tree of life including among the insects   .
 
-understanding core those that are present in all or the majority of individuals bacterial communities from the digestive tract may be one of the most fundamental questions we can address through comparing samples from across aadvance access publication june 23 2017c the author 2017. published by oxford university press on behalf of the society for integrative and comparative biology.downloaded from hatltlprsightascraedseemrivced.o.
+Understanding core those that are present in all or the majority of individuals bacterial communities from the digestive tract may be one of the most fundamental questions we can address through comparing samples from across aAdvance Access publication June 23 2017c The Author 2017.
 
-although not much work has been done to document the microbial community associated with this species a previous study by screened 23 individuals of p. clavata from nine colonies from peru for three putative parasitic bacterial lineages wolbachia spiroplasma and asaia and found no individuals infected with wolbachia two individuals from two colonies infected with spiroplasma and one individ- ual from one colony infected with asaia.
+Although not much work has been done to document the microbial community associated with this species a previous study by screened 23 individuals of P. clavata from nine colonies from Peru for three putative parasitic bacterial lineages Wolbachia Spiroplasma and Asaia and found no individuals infected with Wolbachia two individuals from two colonies infected with Spiroplasma and one individ- ual from one colony infected with Asaia.
 
-these two studies together suggest that the diversity of bacteria from p. clavata is not well un- derstood and for those bacteria that have been screened it is not clear if they are persistent stable members of the microbiota of this species.in this study we investigate the diversity and per- sistence of the bacterial community of the digestive tract of the giant neotropical bullet ant.
-
-as we are interested in the role that the local environment may play in structuring bacterial communities we in- cluded samples from four distinct locations across four countries.
-
-we followed the modified powersoil protocol of  which includes a pro- teinase k digestion step to ensure that host tissue wassufficiently dissolved to allow isolation of endosymbi- otic bacterial dna.454 pyrosequencingbacterial tag-encoded flx titanium amplicon pyro- sequencing btefap was performed by the research and testing laboratory lubbock tx usa as described in .
-
-our 454 data is deposited in the genbank sequence read archive submission number sub2353702.quantitative polymerase chain reaction to determine bacterial copy numbersreal-time quantitative polymerase chain reaction qpcr was performed to estimate the abundance of bacteria in each sample.
-
-we used the universal bacterial 16s rrna primers 515f 50-gtgccag cmgccgcggtaa and 806r 50-ggactachvgggtwtctaat .
-
-bacterial taxonomic classifications of our se- quences were obtained using the web-based rdp classifier  with an 80 confidence level.
+These two studies together suggest that the diversity of bacteria from P. clavata is not well un- derstood and for those bacteria that have been screened it is not clear if they are persistent stable members of the microbiota of this species.In this study we investigate the diversity and per- sistence of the bacterial community of the digestive tract of the giant Neotropical bullet ant.
 

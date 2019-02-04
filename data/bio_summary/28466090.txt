@@ -1,30 +1,20 @@
-4 pca plots of data produced using a pipeline 1 and b pipeline 2 for the bacterial dna sequence analysisbut the importance of the pipeline used in dna sequencing data analysis is emphasized by the present results.fungal analysisthe fungal dna sequences analysed only by one pipeline and the unite database indicated the presence of asco- mycetes and basidiomycetes with few other groups fig.
+For a review written prior to the introduction of NGS techniques into this area see .We have applied NGS methods along with more tra- ditional techniques to study the microbial communities in biofilms on degrading stone buildings of historic and cultural importance using siliceous stone facades of churches in the city of Rio de Janeiro Brazil as study sites   and found some problems resulting from the analysis of the NGS results.
 
-sf church of sao francisco de paula ca church of nossa senhora do monte do carmo c church of nossa senhora da candela'riamolecular analysis and their sequences are thus not present in the databases.
+SF church of Sao Francisco de Paula CA church of Nossa Senhora do Monte do Carmo C church of Nossa Senhora da Candela'riamolecular analysis and their sequences are thus not present in the databases.
 
-this led us to carry out a more detailed comparison of the methods employed in such studies.microbiomes of biofilms on decorative siliceous stone drawbacks...849materials and methodssamplingsamples were obtained from the front facades of three churches in the centre of the city of rio de janeiro brazil nossa senhora do monte do carmo ca situated on praca xv de novembro sao francisco de paula sf in the largo de sao francisco de paula and nossa senhora da candela'ria c located in pio x square.
+Similarity levels between the three commu- nities were also determined using the Jaccard Similarity Index Sj whereSj  Total number of shared taxa 7 number of shared taxa  number of unique taxa in Sample a  number of unique taxa in Sample b....etc.. A similarity index of unity means that the populations are the same.Results and DiscussionLight microscopy of adhesive tape samples indicated the heterogeneous nature of the biofilms a fact that is well known and has been pointed out as a relevant factor in the design of sampling techniques for traditional analyses of building stone .Pipelines and Results for Bacterial AnalysesBoth pipelines used for bacterial DNA analysis indicated that Actinobacteria were major components of the C and CA biofilms but that Gammaproteobacteria were the principal members of the SF biofilm Figs.
 
-for a review written prior to the introduction of ngs techniques into this area see .we have applied ngs methods along with more tra- ditional techniques to study the microbial communities in biofilms on degrading stone buildings of historic and cultural importance using siliceous stone facades of churches in the city of rio de janeiro brazil as study sites   and found some problems resulting from the analysis of the ngs results.
+SF church of Sao Francisco de Paula CA church of Nossa Senhora do Monte do Carmo C church of Nossa Senhora da Candela'riaFig.
 
-sf church of sao francisco de paula ca church of nossa senhora do monte do carmo c church of nossa senhora da candela'riafig.
+SF church of Sao Francisco de Paula CA church of Nossa Senhora do Monte do Carmo C church of Nossa Senhora da Candela'riaC2C1bFig.
 
-sf church of sao francisco de paula ca church of nossa senhora do monte do carmo c church of nossa senhora da candela'riac2c1bfig.
+4 PCA plots of data produced using a pipeline 1 and b pipeline 2 for the bacterial DNA sequence analysisbut the importance of the pipeline used in DNA sequencing data analysis is emphasized by the present results.Fungal AnalysisThe fungal DNA sequences analysed only by one pipeline and the UNITE database indicated the presence of asco- mycetes and basidiomycetes with few other groups Fig.
 
-1 ngs analysis using pipeline 1 with the greengenes database showing main bacterial classes detected in the biofilm community on the three church facades.
+Curr Microbiol 2017 74848-853 DOI 10.1007s00284-017-1257-3Microbiomes of Biofilms on Decorative Siliceous Stone Drawbacks and Advantages of Next Generation SequencingAkiko Ogawa12  Sukriye Celikkol-Aydin1  Christine Gaylarde1Jose Antonio Baptista-Neto3  Iwona Beech1Received 4 January 2017  Accepted 25 April 2017  Published online 2 May 2017c Springer ScienceBusiness Media New York 2017Abstract Next Generation Sequencing NGS using the Illuminar metabarcoding system showed differences between biofilm communities on three degraded siliceous stone church facades in central Rio de Janeiro.
 
-2 ngs analysis using pipeline 2 with the silva database showing main bacterial classes detected in the biofilm community on the three church facades.
+1 NGS analysis using Pipeline 1 with the Greengenes database showing main bacterial classes detected in the biofilm community on the three church facades.
 
-for c vs ca sj was 0.46 for c  ca vs sf 0.21. this pattern was repeated for the fungal communities where the sj value for c  ca vs sf was 0.14 indicating an even greater difference.a closer examination of the bacterial and fungal com- munities for the various sites suggested why that on the facade of sf might differ from the others.
+2 NGS analysis using Pipeline 2 with the Silva database showing main bacterial classes detected in the biofilm community on the three church facades.
 
-similarity levels between the three commu- nities were also determined using the jaccard similarity index sj wheresj  total number of shared taxa 7 number of shared taxa  number of unique taxa in sample a  number of unique taxa in sample b....etc.. a similarity index of unity means that the populations are the same.results and discussionlight microscopy of adhesive tape samples indicated the heterogeneous nature of the biofilms a fact that is well known and has been pointed out as a relevant factor in the design of sampling techniques for traditional analyses of building stone .pipelines and results for bacterial analysesboth pipelines used for bacterial dna analysis indicated that actinobacteria were major components of the c and ca biofilms but that gammaproteobacteria were the principal members of the sf biofilm figs.
-
-in addition the sf biofilm contained higher levels of cyanobacteria and fewer thermophilic bacteria such as the actinobacteria order thermoleophilia 0.425 and 0.96 average otus for c and ca 0.06 and 0.06 for sf using pipeline 1 and 2 respectively.
-
-the pipeline used in analysis of the v4 region of rrna bacterial gene sequences influenced the taxa detected with two major classes and many genera identified only by the pipeline using the greengenes and not the silva database.
-
-3 ngs analysis of fungal classes detected in the biofilm community on the three church facades using the unite database.
-
-curr microbiol 2017 74848-853 doi 10.1007s00284-017-1257-3microbiomes of biofilms on decorative siliceous stone drawbacks and advantages of next generation sequencingakiko ogawa12  sukriye celikkol-aydin1  christine gaylarde1jose antonio baptista-neto3  iwona beech1received 4 january 2017  accepted 25 april 2017  published online 2 may 2017c springer sciencebusiness media new york 2017abstract next generation sequencing ngs using the illuminar metabarcoding system showed differences between biofilm communities on three degraded siliceous stone church facades in central rio de janeiro.
-
-here we have highlighted the variations in results from using different pipeline analyses and the problems involved in identifying organ- isms with insufficient sequences deposited in databases as well as pointing out the necessity for the use of a variety of microbiological techniques in addition to dna analysis.
+3 NGS analysis of fungal classes detected in the biofilm community on the three church facades using the UNITE database.
 

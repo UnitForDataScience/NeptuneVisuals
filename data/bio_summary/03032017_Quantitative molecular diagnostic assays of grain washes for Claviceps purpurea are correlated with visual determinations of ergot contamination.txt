@@ -1,30 +1,20 @@
-in cases where very high counts were observed samples were diluted accordingly.detection of c. purpurea dna in seed washes using loop-mediated isothermal dna amplification lamp based on cpn60amplification primers for lamp  that targeted cpn60 of c. purpurea were designed using lamp designer v. 1.12 premier biosoft palo alto ca.
+Similarly the ddPCR-adapted version of the assay was highly accurate the number of copies added to each assay was reported correctly at levels of input ITS copy numbers ranging from 10 to 105 copies .The ITS-targeted ddPCR assay was positive with all grain wash samples including 37 unratednegative samples and four samples from canola which is not a host for C. purpurea .
 
-similarly using tblastx only a single match was observed in the c. purpurea genome using the translated amino acid sequence of cpn60 as query data not shown.quantitative molecular diagnostic assays of grain washes were correlated with visual assessments of ergot loadthe qpcr assay that was designed to detect the its sequence of c. purpurea was highly effi- cient e  2.04 r20.999 and detected as few as 10 copies of target dna per reaction  .
+Similarly using tblastx only a single match was observed in the C. purpurea genome using the translated amino acid sequence of cpn60 as query data not shown.Quantitative molecular diagnostic assays of grain washes were correlated with visual assessments of ergot loadThe qPCR assay that was designed to detect the ITS sequence of C. purpurea was highly effi- cient E  2.04 r20.999 and detected as few as 10 copies of target DNA per reaction  .
 
-despite the fact that reads corresponding to c. purpurea were detected in the samples profiled using cpn60 univer- sal pcr purified dna from ergot sclerotia as well as from the reference strain of c. purpurea failed to generate a cpn60 amplicon using these same primers a modified set of universal pcr primers targeted to fungal cpn60 was required for this purpose .
+In cases where very high counts were observed samples were diluted accordingly.Detection of C. purpurea DNA in seed washes using Loop-Mediated Isothermal DNA Amplification LAMP based on cpn60Amplification primers for LAMP  that targeted cpn60 of C. purpurea were designed using LAMP Designer v. 1.12 Premier Biosoft Palo Alto CA.
 
-to determine the complete sequence of the c. purpurea cpn60 ut primers based on these sequences were designed to quantification of c. purpurea dna in grain wash samples using its-targeted ddpcr and cpn60-targeted lamp.continued table 2. continued continued table 2. continued continued table 2. continued 1ab alberta bc british columbia mb manitoba on ontario qc que'bec sk saskatchewan2samples assayed by lamp were given a tp of 90 calcein detection or 60 isothermal detection if no signal was observed during the assaydoi10.1371journal.pone.0173495.t002amplify a product of 741 bp that contained the entire cpn60 ut  concentrations of all components in pcr as described above.
+Despite the fact that reads corresponding to C. purpurea were detected in the samples profiled using cpn60 univer- sal PCR purified DNA from ergot sclerotia as well as from the reference strain of C. purpurea failed to generate a cpn60 amplicon using these same primers a modified set of universal PCR primers targeted to fungal cpn60 was required for this purpose .
 
-to determine the limit of detection lod of the lamp assay a series of 6 serial dilutions of c. purpurea dna was added to grain wash dna that was determined to lack detectable ergot dna and a total of 70 replicates were analyzed using probit spss.
+To determine the complete sequence of the C. purpurea cpn60 UT primers based on these sequences were designed to Quantification of C. purpurea DNA in grain wash samples using ITS-targeted ddPCR and cpn60-targeted LAMP.Continued Table 2.
 
-the sequences of the amplicons indicated that the wheat samples indeed contained c. purpurea genomic dna while the canola samples yielded amplicons that did not correspond to c. purpurea data not shown.
+Moreover the sensitivity of the LAMP assay using visual rating as a gold standard was very high 0.97 using calcein detection or 0.99 using Isothermal detection with only 3100 calcein or 1100 Iso- thermal positive samples generating a negative result with LAMP .
 
-to quantify c. purpurea in intact grain wash extracts template dna prepared as described above was digested using ecori 37c 60 min then 85c 5 min and 2 ml of the digested dna was added to the ddpcr mix- ture.
+Intra-assay reproducibility of the cpn60-targeted LAMP isothermal detection.1CV coefficient of variation standard deviationmeandoi10.1371journal.pone.0173495.t005 Sensitivity and specificity of the C. purpurea cpn60-targeted LAMP assay compared to visual rating gold standard.doi10.1371journal.pone.0173495.t006With Isothermal detection more of the grain wash samples tested positive consistent with the increased analytical sensitivity of the assay in this format .
 
-in contrast the cpn60-targeted lamp assay was apparently discriminatory for c. purpurea dna since neither the nontarget genomic dna templates nor the c. purpurea-negative samples profiled by sequencing  generated a signal.
+The sequences of the amplicons indicated that the wheat samples indeed contained C. purpurea genomic DNA while the canola samples yielded amplicons that did not correspond to C. purpurea data not shown.
 
-to determine if samples providing dis- cordant results contained amplifiable c. purpurea dna the calcein-negative grain washits-targeted qpcr assay linearity assessed by standard curve a or ddpcr calibration curve b.doi10.1371journal.pone.0173495.g003templates were amplified using primers d0282-d0283 .
+To determine if samples providing dis- cordant results contained amplifiable C. purpurea DNA the calcein-negative grain washITS-targeted qPCR assay linearity assessed by standard curve A or ddPCR calibration curve B.doi10.1371journal.pone.0173495.g003templates were amplified using primers D0282-D0283 .
 
-this would likely be done on ground material rather than grain washes.the detection of ergot and other pathogen dna in grain wash samples can be readily accomplished using sequencing methods which can provide a profile of the bacterial and fun- gal microbiome associated with the grain lot under analysis .
-
-this is supported by the fact that a single copy of both genes was found in the genome of c. purpurea.we have investigated the feasibility of applying targeted molecular diagnostic assays to the detection of c. purpurea dna from grain samples.
-
-similarly the ddpcr-adapted version of the assay was highly accurate the number of copies added to each assay was reported correctly at levels of input its copy numbers ranging from 10 to 105 copies .the its-targeted ddpcr assay was positive with all grain wash samples including 37 unratednegative samples and four samples from canola which is not a host for c. purpurea .
-
-for quantification of ergot in grain using molecular diagnostic assays dna was prepared in a similar manner except that 10 g of grain were used and the final solution was fur- ther purified using agencourt ampure xp beads beckman-coulter at 11 vv beaddna solution according to the manufacturer's recommendations.
-
-spearman rank correlation between ergot severity  weight basis and molecular quantification of ergot dna in grain wash templates.doi10.1371journal.pone.0173495.t004cpn60-targeted lamp assay linearity assessed by expressing tp related to c. purpurea genome copies using the two lamp detection systems evaluated in this study.
-
-these data allowed us to identify this fungal sequence as deriving from c. purpurea and suggested that c. purpurea dna is readily detectable on agricultural commodities including those for which ergot was not identified as a grading fac- tor.
+This is supported by the fact that a single copy of both genes was found in the genome of C. purpurea.We have investigated the feasibility of applying targeted molecular diagnostic assays to the detection of C. purpurea DNA from grain samples.
 

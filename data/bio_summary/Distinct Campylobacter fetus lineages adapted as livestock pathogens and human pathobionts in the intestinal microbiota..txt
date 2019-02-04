@@ -1,30 +1,20 @@
-we detect c. fetus genomes in 8 of healthy human fecal metagenomes where the human-associated lineages are the dominant type 78. thus our work suggests that c. fetus is an unappreciated human intestinal pathobiont likely spread by human to human transmission.
+Thus our work suggests that C. fetus is an unappreciated human intestinal pathobiont likely spread by human to human transmission.
 
-12. thus the accessory genomes of bovine and human lineages harbor distinct gene sets that are potentially important for genome evolution and host-pathogen interactions and likely reflect the adaptations to different hosts.interestingly other accessory genes involved in blocking the incorporation of foreign dna like cas protein coding genes were more abundant in human lineages supplementary fig.
+ARTICLE DOI 10.1038s41467-017-01449-9OPENDistinct Campylobacter fetus lineages adapted as livestock pathogens and human pathobionts in the intestinal microbiotaGregorio Iraola et al.Campylobacter fetus is a venereal pathogen of cattle and sheep and an opportunistic human pathogen.
 
-article doi 10.1038s41467-017-01449-9opendistinct campylobacter fetus lineages adapted as livestock pathogens and human pathobionts in the intestinal microbiotagregorio iraola et al.campylobacter fetus is a venereal pathogen of cattle and sheep and an opportunistic human pathogen.
+Clusters 2 to 8 are mainly associated to non-bovine hosts with up to 100 of human strains hence are hereinafter referred as the human lineages.
 
-clusters 2 to 8 are mainly associated to non-bovine hosts with up to 100 of human strains hence are hereinafter referred as the human lineages.
+Thus the accessory genomes of bovine and human lineages harbor distinct gene sets that are potentially important for genome evolution and host-pathogen interactions and likely reflect the adaptations to different hosts.Interestingly other accessory genes involved in blocking the incorporation of foreign DNA like Cas protein coding genes were more abundant in human lineages Supplementary Fig.
 
-surprisingly of the strains found from the human lineages tw2 represented 94 of strains found within healthy individuals suggesting clonal expansion of this genotype in the sampled human population fig.
+Surprisingly of the strains found from the human lineages TW2 represented 94 of strains found within healthy individuals suggesting clonal expansion of this genotype in the sampled human population Fig.
 
-we also provide evidence that human- adapted c. fetus acts as an intestinal pathobiont capable of asymptomatic carriage and likely human to human transmission.
+We also provide evidence that human- adapted C. fetus acts as an intestinal pathobiont capable of asymptomatic carriage and likely human to human transmission.
 
-human gastrointestinal metagenome analysis was performed using the human pan-microbe community database .
+Here we show that mammalian C. fetus consists of distinct evolutionary lineages primarily associated with either human or bovine hosts.
 
-thus the core genomes of the bovine and human lineages of c. fetus contain signatures of diversifying evolution as they are adapted in a unique way to interact with their hosts.a host-adapted accessory genome.
+We detect C. fetus genomes in 8 of healthy human fecal metagenomes where the human-associated lineages are the dominant type 78.
 
-b discriminant analysis of principal components dapc showing the complete separation between bovine and human lineages based on the accessory genome.
+Despite the importance of CffCfv in livestock and human health its genomic evolution within mammals remains poorly understood.
 
-also we revealed that the accessory genome of the bovine lineage is substantially larger than that of human lineages and contains a unique set of accessory genes including those putatively involved in host-pathogen interactions fig.
-
-then within the past 10500 years c. fetus likely began to colonize and adapt to cattle giving rise to a modern day bovine lineage that displays significant genomic distinctions from the other genomes belonging to the human lineages linked to host-microbe interactions and genome stability.
-
-second we explored the relationship between the synonymous divergence in the core genome and the genomic fluidity of the accessory genome to demonstrate the absence of a significant correlation between these two measures supplementary fig.
-
-the vertical color strip shows the correspondence of the accessory genome groups with the baps clusters identified with the core genome.
-
-the correlation between synonymdiversity a measure of effective population size in the core genome and genomic fluiditya robust measure of accessory genome diversity can be used to test for neutral evolution.
-
-here we show that mammalian c. fetus consists of distinct evolutionary lineages primarily associated with either human or bovine hosts.
+Many important questions remain unanswered regarding the evolutionary relationship between strains isolated from bovine and human hosts the transmission patterns ofC.
 

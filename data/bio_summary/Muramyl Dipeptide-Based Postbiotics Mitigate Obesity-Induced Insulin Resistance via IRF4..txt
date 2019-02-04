@@ -1,30 +1,20 @@
-recently published in nature links endoplasmic reticulum er stress to the transcriptional activation of the pro-inflammatory cytokine interleukin-6 il-6 via nod1 nod2 signaling independently of pgn stimulation.the er is an essential organelle in eukaryotic cells that regulates several cellular events including calcium storage and release as well as the traffic of proteins destined to be secreted or sorted to other organelles .
+recently published in Nature links endoplasmic reticulum ER stress to the transcriptional activation of the pro-inflammatory cytokine interleukin-6 IL-6 via NOD1 NOD2 signaling independently of PGN stimulation.The ER is an essential organelle in eukaryotic cells that regulates several cellular events including calcium storage and release as well as the traffic of proteins destined to be secreted or sorted to other organelles .
 
-multiple insults that cause er stress including accumulation of unfolded or misfolded proteins and infection with viruses and intracellular bacteria can induce the unfolded protein response upr a protective response that limits cellular damage caused by er stress .
+show that TRAF2 acts downstream of B. abortus VceC and host IRE1a to activate NOD1 NOD2 signaling but evidence that ER stress triggers the interaction of TRAF2 with NOD1 or NOD2 to activate the NOD1NOD2RIPK2-signaling pathway is lacking.
 
-whata nice way to spell the welcome of paleobotany at the high table of plant evo-devo from across what could be an epistemological dividereferencesinnate immunity er stress recruitsnod1 and nod2 for delivery of inflammationroberta caruso and gabriel nu' n ezdepartment of pathology and comprehensive cancer center university of michigan medical school ann arbor mi 48109 usacorrespondence nod1 and nod2 two members of the intracellular nod-like receptor family sense bacterial peptidoglycan-derived fragments and induce pro-inflammatory responses.
+Multiple insults that cause ER stress including accumulation of unfolded or misfolded proteins and infection with viruses and intracellular bacteria can induce the unfolded protein response UPR a protective response that limits cellular damage caused by ER stress .
 
-provides evidence for the activation of nod1 and nod2 by er stress independently of the canonical pgn-derived ligands.
+Whata nice way to spell the welcome of paleobotany at the high table of plant evo-devo from across what could be an epistemological divideREFERENCESInnate Immunity ER Stress RecruitsNOD1 and NOD2 for Delivery of InflammationRoberta Caruso and Gabriel Nu' n ezDepartment of Pathology and Comprehensive Cancer Center University of Michigan Medical School Ann Arbor MI 48109 USACorrespondence NOD1 and NOD2 two members of the intracellular NOD-like receptor family sense bacterial peptidoglycan-derived fragments and induce pro-inflammatory responses.
 
-in this pathway certain intracellular bacteria such as b. abortus induce er stress leading to ire1a activation which in turn activates nod1 and nod2 via traf2.
+provides evidence for the activation of NOD1 and NOD2 by ER stress independently of the canonical PGN-derived ligands.
 
-the upr involves activation of three er transmembrane receptors protein kinase rna-like endoplasmic reticulum kinase perk activating transcription factor 6 atf6 and inositol-requiring enzyme 1 ire1a.
+In this pathway certain intracellular bacteria such as B. abortus induce ER stress leading to IRE1a activation which in turn activates NOD1 and NOD2 via TRAF2.
 
-the physiological relevance of these findings was determined using experiments in which macrophages and mice were infected with brucella abortus an intracellular bacterium that induces er stress and can cause acute placentitis and abortion in pregnant cows .b.
+Collectively these results suggest that B. abortus and more specifically VceC triggers IL-6 production via ER stress and NOD1 NOD2 signaling.The observations made by Keestra- Gounder et al.
 
-in the cytosol vcec translocates to the er where it interacts with the chaperone bip and inducesire1a-dependent production of il-6 .
+are novel in that they provide evidence for the activation of NOD1 and NOD2 independently of their canonical PGN-derived ligands as wellas for a link between ER stress and NOD1NOD2-mediated inflammatory responses.
 
-collectively these results suggest that b. abortus and more specifically vcec triggers il-6 production via er stress and nod1 nod2 signaling.the observations made by keestra- gounder et al.
+The UPR involves activation of three ER transmembrane receptors protein kinase RNA-like endoplasmic reticulum kinase PERK activating transcription factor 6 ATF6 and inositol-requiring enzyme 1 IRE1a.
 
-are novel in that they provide evidence for the activation of nod1 and nod2 independently of their canonical pgn-derived ligands as wellas for a link between er stress and nod1nod2-mediated inflammatory responses.
-
-the mechanism by which er stress and more specifically ire1a activates nod1nod2 signaling remains unclear.
-
-show that traf2 acts downstream of b. abortus vcec and host ire1a to activate nod1 nod2 signaling but evidence that er stress triggers the interaction of traf2 with nod1 or nod2 to activate the nod1nod2ripk2-signaling pathway is lacking.
-
-abortus infection.the study by keestra-gounder et al.presents a sound argument that il-6 production induced by er stress is mediated through a nod1nod2- dependent tudcakira6-sensitivepathway that is distinct from the er- stress-independent nod1nod2 pathway triggered by pgn fragments.
-
-for example er stress may contribute to the pathogenesis of inflammatory diseases such as crohn's disease cd and polymorphisms in nod2 are the strongest known genetic risk factors in the development of cd.
-
-further studies are required to define the molecular details of the interactions between er stressand nod1nod2 activation and the role of this newly described signaling pathway in host defense and inflammatory diseases.references.. ............. .
+The physiological relevance of these findings was determined using experiments in which macrophages and mice were infected with Brucella abortus an intracellular bacterium that induces ER stress and can cause acute placentitis and abortion in pregnant cows .B.
 

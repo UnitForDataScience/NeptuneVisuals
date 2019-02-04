@@ -1,30 +1,20 @@
-thus researches on the composition and succession of gut microbiota of piglets are necessary for both pig health and human health.although much studies about the development of gut microbiota in adult pigs and its relationship with antibiotics treatment have been explored       few studies have been focused on the development of gut microbiota during suckling and weaning period.
+Thus researches on the composition and succession of gut microbiota of piglets are necessary for both pig health and human health.Although much studies about the development of gut microbiota in adult pigs and its relationship with antibiotics treatment have been explored       few studies have been focused on the development of gut microbiota during suckling and weaning period.
 
-this study helps us understand the maturing development of gut microbiota in commercial piglets.keywords piglet development gut microbiota weaning fusobacteriumintroductionthe human gastrointestinal tract is the home to microbes which is approximate 10-times to our own cells and thousands of bacterial phylotypes colonize the entire length of the gut with a collective genome that contains at least 100-times as many genes as our own genome    .
+This study helps us understand the maturing development of gut microbiota in commercial piglets.Keywords piglet development gut microbiota weaning FusobacteriumINTRODUCTIONThe human gastrointestinal tract is the home to microbes which is approximate 10-times to our own cells and thousands of bacterial phylotypes colonize the entire length of the gut with a collective genome that contains at least 100-times as many genes as our own genome    .
 
-a study about gradual changes of gut microbiota in weaned miniature piglets has been done recently   while it was small in scale and did not study the gut microbiota of piglets during suckling period.
+A study about gradual changes of gut microbiota in weaned miniature piglets has been done recently   while it was small in scale and did not study the gut microbiota of piglets during suckling period.
 
-thus further research on the development of gut microbiota in piglets is necessary and of great significance.the work presented here was designed to better understand the development of gut microbiota in piglets during the weaning transition.
+Thus further research on the development of gut microbiota in piglets is necessary and of great significance.The work presented here was designed to better understand the development of gut microbiota in piglets during the weaning transition.
 
-in this study we characterized the composition and dynamic shifts of piglet gut microbiota identified the phylogenetic core regardless of the wide gut microbiota structural variation across age and explored the potential interaction among microbes in piglets.materials and methodsanimals and sample collectiontwo replicated trials named t1 and t2 respectively were conducted on a commercial pig farm located in yichun city jiangxi province china.
+In this study we characterized the composition and dynamic shifts of piglet gut microbiota identified the phylogenetic core regardless of the wide gut microbiota structural variation across age and explored the potential interaction among microbes in piglets.MATERIALS AND METHODSAnimals and Sample CollectionTwo replicated trials named T1 and T2 respectively were conducted on a commercial pig farm located in Yichun city Jiangxi province China.
 
-eighty-five key otus clustered into 10 co-abundance group cags with the ward clustering algorithm and premanova 9999 permutations p  0.01 based on sparcc correlation coefficient by r program v2.11.1.statistical analysis of microbiota datathe mann-whitney test and wilcoxon signed-rank test were used to analyze the variance of microbiota data.
+The mean relative abundance ofLactobacillus declined from 12.25 to 1.76 during investigated period.To further detect the dynamics of gut microbiota structure during investigated period we evaluated the alpha diversity of piglet gut microbiota.
 
-the mean relative abundance oflactobacillus declined from 12.25 to 1.76 during investigated period.to further detect the dynamics of gut microbiota structure during investigated period we evaluated the alpha diversity of piglet gut microbiota.
+When evaluated Shannonindex and the observed OTUs independently in T1 and T2 the result confirmed the continuous increase of alpha diversity in piglet gut microbiota during investigated period Supplementary Figure 2.The remarkable changes in composition and alpha diversity of the piglet gut microbiota across individuals and different ages led us to assess the extent of interindividual structural variations with each age and intraindividual variations across age.
 
-when evaluated shannonindex and the observed otus independently in t1 and t2 the result confirmed the continuous increase of alpha diversity in piglet gut microbiota during investigated period supplementary figure 2.the remarkable changes in composition and alpha diversity of the piglet gut microbiota across individuals and different ages led us to assess the extent of interindividual structural variations with each age and intraindividual variations across age.
+The result showed the composition and dynamic shifts of gut microbiota phylogenetic core at genus and OTU level and potential interaction among key OTUs in piglets.Consistent with previous studies Firmicutes and Bacteroidetes were the two most dominant phyla in piglet gut microbiota regardless of age      .
 
-the result showed the composition and dynamic shifts of gut microbiota phylogenetic core at genus and otu level and potential interaction among key otus in piglets.consistent with previous studies firmicutes and bacteroidetes were the two most dominant phyla in piglet gut microbiota regardless of age      .
+A high diversity of gut microbiota is generally considered beneficial for host health     and it is alsoregard as the sign of mature gut microbiota.
 
-a high diversity of gut microbiota is generally considered beneficial for host health     and it is alsoregard as the sign of mature gut microbiota.
-
-thus the microbial community structure became similar increasingly after weaned.despite of the wide gut microbiota structural variations across age we characterized a phylogenetic core of gut microbiota which was made up of a small number of genus-level phylotypes.
-
- 1  yuesong xu1  xiaoyu chen1  chao fang2  liping zhao1 and 11 state key laboratory of microbial metabolism school of life sciences and biotechnology shanghai jiao tong university shanghai china 2 key laboratory of systems biomedicine ministry of education shanghai center for systems biomedicine shanghai jiao tong university shanghai chinaedited bygeorge tsiamis university of patras greecereviewed byspyridon ntougias democritus university of thracegreece dimitris tsaltascyprus university of technologycypruscorrespondencefeng chen specialty section this article was submitted to systems microbiologya section of the journal frontiers in microbiologyreceived 18 may 2017accepted 21 august 2017published 04 september 2017citation chen l xu y chen x fang c zhao l and chen f 2017the maturing development of gut microbiota in commercial piglets during the weaning transition.
-
-compelling evidence suggests that gut microbiota is vital to host health.
-
-however it is not well understood on the composition and succession of piglet gut microbiota during the weaning transition.
-
-the results showed that the gut microbiota of piglets shifted quickly after weaned and reached relatively stable level in 10 days after weaned.
+Thus the microbial community structure became similar increasingly after weaned.Despite of the wide gut microbiota structural variations across age we characterized a phylogenetic core of gut microbiota which was made up of a small number of genus-level phylotypes.
 

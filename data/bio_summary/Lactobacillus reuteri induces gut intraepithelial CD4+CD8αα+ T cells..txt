@@ -1,30 +1,20 @@
-the small intestinalcorrespondence to marco colonna department of pathology and immunology washington university school of medicine 660 s. euclid st louis mo 63110. tel 314-362-0367 fax the data reported in this manuscript are presented in the main paper and in the supplementary materials.cervantes-barragan et al.page 2epithelium contains a unique population of cd4cd8aa tcr ab t cells referred to as double-positive intraepithelial lymphocytes or dp iels 10. these cells have a regulatory function complementary to that of tregs and promote tolerance to dietary antigens 11. dp iels originate from lamina propria cd4 t cells that include but are not limited to tregs 11. upon reaching the epithelium these cells reactivate the cd8 t cell lineage program through downregulation of thpok and upregulation of runx3 and t-bet 12-14. this process is facilitated in part by transforming growth factor-b tgfb retinoic acid ra ifn-g and il-27 12 14. the lack of dp iels in germ-free gf mice 11 13 indicates that the intestinal microbiota is required for their differentiation although the bacterial taxa and metabolites required are not known.we noticed that mice born at one of our vivaria specialized research facility srf harbored substantial numbers of dp iels dp whereas dp iels were negligible or absent dp- in mice from another vivarium clinical sciences research building csrb fig.1a.
+L. reuteri induces DP IELsA Relative abundance of L. reuteri operational taxonomic unit ID 411486 as determined by sequencing of the V4 region of 16S rRNA genes present in the ileal microbiota of 8-week- old JAX mice and CR mice n  4 and 4 week-neomycin treated Neo or untreated Ctrl CR mice n5 mice per treatment group.
 
-because the great diversity of polyclonal t cells complicates analysis at the individual tcr level we analized the tcr a repertoires of dp iels cd4 iels cd8 iels and mlnnaive cd4 t cells from mice that express a fixed transgenic tcr b chain tcli mice 1617. tcli t cells were very similar in phenotype and frequency to wt t cells fig.
+Because the great diversity of polyclonal T cells complicates analysis at the individual TCR level we analized the TCR a repertoires of DP IELs CD4 IELs CD8 IELs and MLNnaive CD4 T cells from mice that express a fixed transgenic TCR b chain TCli mice 1617.
 
-thus l. reuteri together with a tryptophan-rich diet can reprogram intraepithelial cd4 t cells into immunoregulatory t cells.the gut microbiota drives maturation and function of the immune system 1-3. several bacterial taxa shape the differentiation of naive t cells segmented filamentous bacteria sfb bias cd4 t cells towards a th17 fate 4 clostridia clusters iv and xiva promote cd4 t regulatory cells treg differentiation 5 6 and bacteroides fragilis 7 8 and faecalibacterium prausnitzii 9 induce cd4 t cells that secrete il-10.
+Finally DP IELs were significantly reduced in Ahrflfl x Rorc-Cre mice which lack AhR in T cells and ILCs as well as inAhrflfl x Cd4-Cre mice which lack AhR in T cells in comparison to littermate controlsFig.
 
-2. l. reuteri induces dp ielsa relative abundance of l. reuteri operational taxonomic unit id 411486 as determined by sequencing of the v4 region of 16s rrna genes present in the ileal microbiota of 8-week- old jax mice and cr mice n  4 and 4 week-neomycin treated neo or untreated ctrl cr mice n5 mice per treatment group.
+Several bacterial taxa shape the differentiation of naive T cells segmented filamentous bacteria SFB bias CD4 T cells towards a Th17 fate 4 Clostridia clusters IV and XIVa promote CD4 T regulatory cells Treg differentiation 5 6 and Bacteroides fragilis 7 8 and Faecalibacterium prausnitzii 9 induce CD4 T cells that secrete IL-10.
 
-finally dp iels were significantly reduced in ahrflfl x rorc-cre mice which lack ahr in t cells and ilcs as well as inahrflfl x cd4-cre mice which lack ahr in t cells in comparison to littermate controlsfig.
+The lack of DP IELs in germ-free GF mice 11 13 indicates that the intestinal microbiota is required for their differentiation although the bacterial taxa and metabolites required are not known.We noticed that mice born at one of our vivaria specialized research facility SRF harbored substantial numbers of DP IELs DP whereas DP IELs were negligible or absent DP- in mice from another vivarium Clinical Sciences Research Building CSRB Fig.1A.
 
-if l. reuteri antigens shape the specificity of dp iels these cells would express quasi-clonal tcr ab repertoires as shown for sfb-specific th17 cells 15. analysis of tcr vb expression on dp iels cd4 iels and mesenteric lymph node mln naive cd4 t cells showed that tcr vb usage of dp iels resembled that of cd4 iels but was different from that of naive cd4 t cells fig.3a.
+L. reuteri was present in the ileum of CR control mice and CR mice treated with neomycin or metronidazole but absent in CR mice treated with ampicillin plus vancomycin fig.
 
-l. reuteri was present in the ileum of cr control mice and cr mice treated with neomycin or metronidazole but absent in cr mice treated with ampicillin plus vancomycin fig.
+F Total number of DP IELs in germ-free mice colonized with JAX mice ileal microbiota JAX mice ileal microbiota combined with L. reuteri W L. reuteri WU alone or CR ileal microbiota.
 
-f total number of dp iels in germ-free mice colonized with jax mice ileal microbiota jax mice ileal microbiota combined with l. reuteri w l. reuteri wu alone or cr ileal microbiota.
+This species induced DP IELs in germ-free mice and conventionally-raised mice lacking these cells.
 
-this species induced dp iels in germ-free mice and conventionally-raised mice lacking these cells.
+In contrast AhR-- T cells did not differentiate into CD8aaCD4 T cells whether or not DCs lacked AhR implying that AhR is required in T cells Fig.
 
-to determine whether l. reuteri induces dp iels through the release of ahr ligands we added l. reuteri culture supernatants to naive ovalbumin-specific cd4 t cells otii stimulated withovalbumin peptide-pulsed dendritic cells dcs with or without tgfb 12. l. reuteri culture supernatant induced cd8aacd4 t cell differentiation of otii t cells as did the ahr agonist 2378-tetrachlorodibenzodioxin tcdd fig.
-
-in contrast ahr-- t cells did not differentiate into cd8aacd4 t cells whether or not dcs lacked ahr implying that ahr is required in t cells fig.
-
-moreover dp iels in srf mice expressed low levels of the transcription factor thpok thpoklo whereas csrb mice lacked cd4 thpoklo iels 13 consistent with the observed lack of dp iels fig.
-
-1b.most srf dp mice are embryo-rederived using female recipient mice from charles river cr laboratories and thus acquire a cr microbiota.
-
-indeed c57bl6 mice purchased from cr had a dp phenotype whereas c57bl6 mice purchased from jax had a dp- phenotype fig.
-
-concurrent inoculation of gf mice with l. reuteri wu strain and ileal microbiota from jax mice induced dp iels whereas jax ileal microbiota alone was ineffective fig.
+Moreover DP IELs in SRF mice expressed low levels of the transcription factor Thpok Thpoklo whereas CSRB mice lacked CD4 Thpoklo IELs 13 consistent with the observed lack of DP IELs fig.
 

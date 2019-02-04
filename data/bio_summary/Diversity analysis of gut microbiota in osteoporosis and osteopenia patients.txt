@@ -1,30 +1,20 @@
-diet diversity is associated with beta but not alpha diversity of pika gut microbiota.
+Higher numbers of the estimators represent greater diversity which suggests that alpha diversity index was inversely correlated with BMD although there were no significant differences between the OP and ON groups as shown in .With regard to beta diversity unweighted UniFrac analysis indicated that hierarchical clustering and principal coordinate analysis PCoA could discriminate the NC samples from OP as well as ON samples.
 
-diversity analysis of gut microbiota in osteoporosis and osteopenia patientsjihan wang yangyang wang wenjie gao biao wang heping zhao yuhong zeng yanhong ji and dingjun hao1 hong hui hospital xi'an jiaotong university xi'an china2 the tenth research institute of telecommunications technology xi'an china3 department of pathogenic biology and immunology key laboratory of environment and genes related to diseases ministry of education of china school of basic medical sciences xi'an jiaotong university health science center xi'an chinathese authors contributed equally to this work.submitted 29 march 2017accepted 19 may 2017published 15 june 2017corresponding authorsyanhong ji dingjun hao doi copyright2017 wang et al.
+However there was substantial overlap between the OP and ON groups and most ON samples were positioned in the middle of the OP and NC samples as illustrates.Significance analysis of gut bacterial community abundance in osteoporosis and osteopenia patientsAt the phylum level illustrated in  Firmicutes Bacteroidetes Proteobacteria and Actinobacteria constituted the four dominant phyla in all samples.
 
-2017 diversity analysis of gut microbiota in osteoporosis and osteopenia patients.
+The average ratios of FirmicutesBacteroidetes were 3.326 1.755 and 1.290 in the OP ON and NC groups respectively.
 
-this approach overcomes the limitations of traditional technology and can effectively capture the genomic information of uncultured microorganisms which may be pathogenic or important for biological processes.the present study was to explore the bacterial community structure and diversity changes of gut microbiota in patients with primary osteoporosis and primary osteopenia based on 16s rrna gene sequencing.
+The significance and variance of bacterial communities as determined by sequencing analysis may help discriminate OP or ON patients from NC subjects.DISCUSSIONThe human microbiome referred to as our second genome can influence genetic diversity immunity and metabolism  .
 
-for the remaining components 28.6 the op group 13.6 accounted for nearly half of all otus.diversity analysis of gut microbiota in osteoporosis and osteopenia patientsto determine alpha diversity we calculated the mean ace index chao index shannon index and simpson reciprocal index.
+The Lachnoclostridium and Klebsiella genera were more abundant in the OP and ON groups as compared to the NC group.
 
-our study is the first survey about composition and diversity analysis of gut microbiota in osteoporosis osteopenia patients and healthy controls using metagenomic sequencing.
+Differences among the four dominant phyla Firmicutes Bacteroidetes Proteobacteria and Actinobacteria were not statistically significant for comparisons between the OP and ON group or the ON and NC group p  0.05.
 
-the results indicate that bacterial component structure and diversity are altered in osteoporosis and osteopenia patients as compared with normal controls this supported the perspective that the bone health can be affected by the gut microbiota.microbiota diversity analysis is valuable for quantifying the bacterial component and relative richness of a specific community.
+Diversity analysis of gut microbiota in osteoporosis and osteopenia patientsJihan Wang Yangyang Wang Wenjie Gao Biao Wang Heping Zhao Yuhong Zeng Yanhong Ji and Dingjun Hao1 Hong Hui Hospital Xi'an Jiaotong University Xi'an China2 The Tenth Research Institute of Telecommunications Technology Xi'an China3 Department of Pathogenic Biology and Immunology Key Laboratory of Environment and Genes Related to Diseases Ministry of Education of China School of Basic Medical Sciences Xi'an Jiaotong University Health Science Center Xi'an ChinaThese authors contributed equally to this work.Submitted 29 March 2017Accepted 19 May 2017Published 15 June 2017Corresponding authorsYanhong Ji Dingjun Hao DOI Copyright2017 Wang et al.
 
-these results suggested that a rich diversity of gut microbiota may be related to thereduction of bone mass.
+The gut microbiota regulates bone mass in mice.
 
-in our research we explored gut microbiota diversity changes in primary osteoporosis and osteopenia patients.
+For the remaining components 28.6 the OP group 13.6 accounted for nearly half of all OTUs.Diversity analysis of gut microbiota in osteoporosis and osteopenia patientsTo determine alpha diversity we calculated the mean ace index chao index shannon index and simpson reciprocal index.
 
-pika population density is associated with the composition and diversity of gut microbiota.
-
-higher numbers of the estimators represent greater diversity which suggests that alpha diversity index was inversely correlated with bmd although there were no significant differences between the op and on groups as shown in .with regard to beta diversity unweighted unifrac analysis indicated that hierarchical clustering and principal coordinate analysis pcoa could discriminate the nc samples from op as well as on samples.
-
-open accesssubjects microbiology orthopedics rheumatologykeywords osteoporosis 16s ribosomal rna diversity analysis bone mineral density gut microbiotaintroductionosteoporosis is a type of bone-thinning disorder characterized by a reduction of bone mass microarchitecture deterioration and an increased risk of fragility fractures.
-
-hereditary characteristics and environmental factors can regulate the complex process of bone metabolism and significantly contribute to age-related bone loss .recently the gut microbiota have attracted attention in connection with metabolic diseases.
-
-so far the effect of gut microbiota on bone health is a relatively new field of research.
-
-a better understanding of structure and function changes of microbes will help us search for novel biomarkers and understand the interaction between gut microbiota and bone mass disorder.
+The Blautia Parabacteroides and Ruminococcaceae genera differed significantly between the OP and NC groups.
 

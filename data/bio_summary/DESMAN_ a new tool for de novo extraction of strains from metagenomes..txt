@@ -1,0 +1,20 @@
+We will index the variant positions on the TTpEra  1 - pEsathla Thl 1across SCSGs which we order by their COG number sowhere we have introduced a new parameter for the rela- tive frequency of the consensus base p. We set an upper bound on this frequency pmax such that pl  1 -Nh is the number of variants on the hth SCSG and keep a note of the mapping back to the original position andSCSG denoted v -Jlv hv.
+
+We assume that a co-assembly has been performed and the contigs binned into MAGs.
+
+Any binning algorithm could be used for this but here we applied CONCOCT We also assume that reads have been mapped back onto these contigs as part of this process.
+
+We then use the base frequencies across samples on these variant positions to resolve the number of strains present their abundance and their unique sequence or haplotype at each variant position for each core gene.The second component of DESMAN is to use this infor- mation to determine which accessory genes are present inwhich strain.
+
+We infer these given the observed vari- ant base frequencies and gene coverages across samples whilst keeping the strain signatures fixed at those com- puted from the SCSGs and SCGs.
+
+We recommend applying this strat- egy to genes but crucially genes called on the assem- bled contigs.
+
+We used a synthetic data set of 64 samples generated from an in silico commu- nity comprising five E. coli strains and 15 other strains commonly found in human gut samples see Additional file Table S1.
+
+We then applied DESMAN to 53 real faecal metagenome samples from the 2011 Shiga-toxin-producing E. coli STEC O104H4 out- break and validated our ability to resolve the out- break strain correctly.
+
+We then identified coding domains in this contig collection and assigned them to 2854 COGs 372 of which matched our 982 SCSGs for E. coli see 'Identifying core genes in target species'.
+
+We identified variant positions using the likelihood ratio test defined below Eq.
+

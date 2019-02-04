@@ -1,30 +1,20 @@
-pinot noir in a vineyard subjected to integrated pest management ipm paying special attention to the shifts induced by i the phenological stage through the comparison between flowering and early fruiting time this period encompass the opening of the flower and the development of fruit which are very different phases of plant development under a physiological metabolic and hormonal points of view and ii the rhizosphere effects through the comparison between bulk and rhizosphere soil.materials and methodssoil samplingthe ipm vineyard is located close to carpeneto al altitude 286 m a.s.l.
+Pinot Noir in a vineyard subjected to integrated pest management IPM paying special attention to the shifts induced by i the phenological stage through the comparison between flowering and early fruiting time this period encompass the opening of the flower and the development of fruit which are very different phases of plant development under a physiological metabolic and hormonal points of view and ii the rhizosphere effects through the comparison between bulk and rhizosphere soil.MATERIALS AND METHODSSoil SamplingThe IPM vineyard is located close to Carpeneto AL Altitude 286 m a.s.l.
 
-as recommended by the italian law gu 1792002 for soil characterization analysis the three subsamples of rhizosphere and bulk soil were then pooled in order to obtain a homogeneousdna amplification and roche 454 pyrosequencingdna extracted from the five samples of bulk soil bs and rhizosphere rhiz harvested during flowering and fruit development were amplified with primers for the v1 5- agagtttgatcctggctcag-3   and v4 5-ctaccagggtatctaatc-3  regions of 16s rdna tagged with multiplex identifier sequences for 454 pyrosequencing roche.
+As recommended by the Italian law GU 1792002 for soil characterization analysis the three subsamples of rhizosphere and bulk soil were then pooled in order to obtain a homogeneousDNA Amplification and Roche 454 PyrosequencingDNA extracted from the five samples of bulk soil BS and rhizosphere Rhiz harvested during flowering and fruit development were amplified with primers for the V1 5- AGAGTTTGATCCTGGCTCAG-3   and V4 5-CTACCAGGGTATCTAATC-3  regions of 16S rDNA tagged with Multiplex Identifier sequences for 454 Pyrosequencing Roche.
 
-taken together these results suggest that the rhizosphere effect is dominant over the phenological stage in determining overall microbial community patterns in the rhizosphere.
+Taken together these results suggest that the rhizosphere effect is dominant over the phenological stage in determining overall microbial community patterns in the rhizosphere.
 
-alessandria italyedited by essaid ait barka university of reimschampagne-ardenne francereviewed bymunusamy madhaiyan temasek life sciences laboratorysingapore raffaella balestriniconsiglio nazionale delle ricerchecnr italycorrespondence elisa gamalero specialty section this article was submitted to plant microbe interactions a section of the journal frontiers in microbiologyreceived 01 june 2017accepted 28 july 2017published 14 august 2017citation novello g gamalero e bona e boatti l mignone f massa n cesaro p lingua g and berta g 2017 the rhizosphere bacterial microbiota of vitis vinifera cv.
+The aim of this study was to unravel the biodiversity of the bacterial rhizosphere microbiota of grapevine in an integrated pest management vineyard located in Piedmont Italy.
 
-the aim of this study was to unravel the biodiversity of the bacterial rhizosphere microbiota of grapevine in an integrated pest management vineyard located in piedmont italy.
+Comparison between the microbial community structure in the bulk and rhizosphere soil variable space were performed.
 
-comparison between the microbial community structure in the bulk and rhizosphere soil variable space were performed.
+Moreover the possible shifts of the bulk and rhizosphere soil microbiota according to two phenological stages such as flowering and early fruit development variable time were characterized.
 
-moreover the possible shifts of the bulk and rhizosphere soil microbiota according to two phenological stages such as flowering and early fruit development variable time were characterized.
+Biodiversity was higher in the rhizosphere than in the bulk soil independent of the phenological stage.
 
-biodiversity was higher in the rhizosphere than in the bulk soil independent of the phenological stage.
+Finally the microbiota associated with grapevine differed from the bulk soil microbiota and these variations were independent of the phenological stage of the plant.Keywords microbiota rhizosphere grapevine metagenome phenological stagesINTRODUCTIONVitis vinifera grapevine is a typical Mediterranean crop with a very relevant impact on the Italian landscape economy and culture.
 
-finally the microbiota associated with grapevine differed from the bulk soil microbiota and these variations were independent of the phenological stage of the plant.keywords microbiota rhizosphere grapevine metagenome phenological stagesintroductionvitis vinifera grapevine is a typical mediterranean crop with a very relevant impact on the italian landscape economy and culture.
+Among the microorganisms living in the rhizosphere arbuscular mycorrhizal fungi AMF not only improve V. vinifera growth both under natural and stressed conditions for an excellent review see   but also affect its proteome leading to changes on berry quality occurring especially on phenolic molecules synthesis  .
 
-among the microorganisms living in the rhizosphere arbuscular mycorrhizal fungi amf not only improve v. vinifera growth both under natural and stressed conditions for an excellent review see   but also affect its proteome leading to changes on berry quality occurring especially on phenolic molecules synthesis  .
-
-however it has been estimated that only 1-10 of soil bacteria are culturable    and the percentage of culturable bacteria in rhizosphere change according to the host plant  .
-
-the roots entrapped in the soil cores collected close to the stem were considered for the sampling of rhizosphere soil.
-
-raw sequence reads were demultiplexed to obtain a single file for each sample consisting of 5 biological replicates 2 plant phenological stages 2 soil sites classified as bulk and rhizosphere soil.
-
-the median value of the shannon-wiener's index that is an entropy measurement that increases according to the number of species in the sample was higher in the rhizosphere at the first sampling flowering than in all the other cases .
-
-similarly the number of reads ascribed to proteobacteria did not change significantly as a function of sampling time or site bs1 26.20 bs2 30.81 rhiz1 39.00 rhiz2 33.95. abundanceof gemmatimonadetes and chloroflexi differed significantly between bulk soil 8.15 and 0.45 respectively and rhizosphere 3.45 and 0.03 respectively at the first sampling flowering p 0.032 and p 0.012 respectively.
+However it has been estimated that only 1-10 of soil bacteria are culturable    and the percentage of culturable bacteria in rhizosphere change according to the host plant  .
 

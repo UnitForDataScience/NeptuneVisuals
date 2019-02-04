@@ -1,30 +1,20 @@
-1. overall samples clustered by git loca- tion with their degrees of similarity reflecting git anat- omy table 2. while rumen samples exhibited partial overlap with those obtained from the duodenum which may reflect a sinksource relationship anosim indicat- ed an overall difference in the microbial composition in the 2 git locations anosim r  0.353 p  0.001. the rumen microbiota was then progressively less similar to more distal regions of the git--the jejunum r  0.652 p  0.001 ileum r  0.815 p  0.001 colon r  1p  0.001 and feces r  1 p  0.001. similarly thetable 2. relationships among microbiota of differentgit regionscolon duodenum fecesileumjejunum rumencolonduodenum 0.987feces0.2960.974ileum0.8890.602 0.872 jejunum0.944 0.291 0.931 0.113rumen10.36510.815 0.652 p  0.005 p  0.001gut biospatial influence on feed efficiency2589figure 2. alpha-diversity of the ruminant git by location and feed efficiency phenotype.
+20323-330.2592Perea et al.Brulc J. M. C. J. Yeoman M. K. Wilson M. E. Berg Miller P. JeraldoJindou N. Goldenfeld H. J.
 
-20323-330.2592perea et al.brulc j. m. c. j. yeoman m. k. wilson m. e. berg miller p. jeraldojindou n. goldenfeld h. j. flint r. lamed i. borovok m. vodovnik k. e. nelson e. a. bayer and b. a. white.
+30433-439.Suchodolski J. S. M. L. Foster M. U. Sohail C. Leutenegger E. V. Queen J. M. Steiner and S. L. Marks.
 
-30433-439.suchodolski j. s. m. l. foster m. u. sohail c. leutenegger e. v. queen j. m. steiner and s. l. marks.
+In this context the pregastric rumen has logically received much attention due to its immense size and importance representing 80 of total GIT mass and serving as the location where  85 of the total SCFAs are produced in a ruminants GIT Oh et al.
 
-the 16s rrna gene v3-v4 region profiles of all samples were analyzed and revealed unique micro- biota in all git locations except the jejunum and ileum anosim r  0.2 p  0.001. measures of b-diversity revealed greater dissimilarity between more anatomi- cally distant git locations e.g.
+Good's nonparametric coverage estimates indicated we had extensively surveyed the microbiota in each location of the gastrointestinal tract GIT aver- age 0.99 - 0.01 range 0.94-  0.99.Biospatiality of the Lamb GIT MicrobiotaNon-metric multidimensional scaling nMDS was used to visualize Bray-Curtis dissimilarities among all samples Fig.
 
-short-chain fatty acids produced by their git microbes for 70 of their daily energy re- quirements and the microbes themselves for more than 50 of their daily protein requirements yeoman and white 2014. it is therefore reasonable to hypothesize that the git microbiota of ruminant livestock make sig- nificant contributions to feed efficiency phenotypes.
+Overall samples clustered by GIT loca- tion with their degrees of similarity reflecting GIT anat- omy Table 2.
 
-in this context the pregastric rumen has logically received much attention due to its immense size and importance representing 80 of total git mass and serving as the location where  85 of the total scfas are produced in a ruminants git oh et al.
+Greater relative abundances of Proteobacteria OTUs 30 33 and 37 in the small intes- tine and distal GIT may reflect dysbioses of these GIT regions among less efficient animals.
 
-good's nonparametric coverage estimates indicated we had extensively surveyed the microbiota in each location of the gastrointestinal tract git aver- age 0.99 - 0.01 range 0.94-  0.99.biospatiality of the lamb git microbiotanon-metric multidimensional scaling nmds was used to visualize bray-curtis dissimilarities among all samples fig.
+Perea K. Perz S. K. Olivo A. Williams M. Lachman S. L. Ishaq J. Thomson23 and C. J. Yeoman23Department of Animal and Range Science Montana State University Bozeman 59717ABSTRACT Several studies have revealed differenc- es in rumen-located microbes between greatly efficient and inefficient animals however how the microbiota vary in the hind gastrointestinal tract GIT has only been sparsely explored and how they vary in the small intes- tine remains to be determined.
 
-greater relative abundances of proteobacteria otus 30 33 and 37 in the small intes- tine and distal git may reflect dysbioses of these git regions among less efficient animals.
+1998.Collectively our results indicate differences in the feed efficiency phenotypes of lambs involving chang- es in the relative representations of a subset of micro- bial taxa found throughout the GIT and with roles in fibrolysis health and dysbiosis.LITERATURE CITEDArthur J. P. F. and R. M. Herd.
 
-perea k. perz s. k. olivo a. williams m. lachman s. l. ishaq j. thomson23 and c. j. yeoman23department of animal and range science montana state university bozeman 59717abstract several studies have revealed differenc- es in rumen-located microbes between greatly efficient and inefficient animals however how the microbiota vary in the hind gastrointestinal tract git has only been sparsely explored and how they vary in the small intes- tine remains to be determined.
+PLoS One 6e25329.Cani P. D. R. Bibiloni C. Knauf A. Waget A. M. Neyrinck N. M. Delzenne and R. Burcelin.
 
-1998.collectively our results indicate differences in the feed efficiency phenotypes of lambs involving chang- es in the relative representations of a subset of micro- bial taxa found throughout the git and with roles in fibrolysis health and dysbiosis.literature citedarthur j. p. f. and r. m. herd.
-
-plos one 6e25329.cani p. d. r. bibiloni c. knauf a. waget a. m. neyrinck n. m. delzenne and r. burcelin.
-
-551451.klaring k. l. hanske n. bui c. charrier m. blaut d. haller c. m. plugge and t. clavel.
-
-bmc bioinformatics 1331.mccann j. c. l. m. wiley t. d. forbes f. m. rouquette and l.o.
-
-plos one 10e0127378.swartz j. d. m. lachman k. westveer t. o'neill t. geary r. w. kott j. g. berardinelli p. g. hatfield j. m. thomson a. roberts and c. j. yeoman.
-
-our findings show biospatial delineations of microbi- ota throughout the git and suggest that feed efficiency extends beyond the rumen transcending these regions and involves increases in both rumen- and colon-locat- ed fibrolytic taxa increases in bifidobacterial species in the small intestine and reductions in small intestine and distal git-located proteobacteria.key words feed efficiency gastrointestinal tract gut biospatiality lamb microbiota residual feed intakec 2017 american society of animal science.
+551451.Klaring K. L. Hanske N. Bui C. Charrier M. Blaut D. Haller C. M. Plugge and T. Clavel.
 

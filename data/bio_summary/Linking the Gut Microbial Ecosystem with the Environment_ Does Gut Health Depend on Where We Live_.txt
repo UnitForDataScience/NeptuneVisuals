@@ -1,30 +1,20 @@
-here we summarize key questions in environmental health research and discuss some of the challenges that have hindered progress toward a better understanding of the role of the environment on gut microbiome development.keywords gut microbiome immunity environment human health immune tolerance microbial colonization biodiversity microbe-rich environmentsintroductionhuman health is closely linked to the diverse set of microorganisms in the intestine collectively known as the gut microbiota hooper and gordon 2001. this population of microorganisms and their genetic potential or the gut microbiome has been linked to human metabolism intestinal homeostasis immune development lynch and pedersen 2016 and brain processes and behavior mayer et al.
+This population of microorganisms and their genetic potential or the gut microbiome has been linked to human metabolism intestinal homeostasis immune development Lynch and Pedersen 2016 and brain processes and behavior Mayer et al.
 
-the gut microbiota also tunes local and systemic immune responses to confer protective immunity against pathogens while simultaneously maintaining immune tolerance toward commensals cerf-bensussan and gaboriau-routhiau 2010. other functions of the gut microbiota include fermentation of indigestible dietarycomponents flint et al.
+Other functions of the gut microbiota include fermentation of indigestible dietarycomponents Flint et al.
 
-2012 breakdown of environmental pollutants and pharmaceuticals claus et al.
+2012 breakdown of environmental pollutants and pharmaceuticals Claus et al.
 
-2017 and pathogen competitive exclusion kamada et al.
+2017 and pathogen competitive exclusion Kamada et al.
 
-2013. alterations to the gut microbiota known as dysbiosis can disrupt these essential health-promoting services and are associated with gastrointestinal cardiovascular autoimmune and metabolic diseases carding et al.
+Alterations to the gut microbiota known as dysbiosis can disrupt these essential health-promoting services and are associated with gastrointestinal cardiovascular autoimmune and metabolic diseases Carding et al.
 
-the gut microbiota is a diverse ecosystem comprised of bacteria archaea fungi and viruses including a diverse bacteriophage community manrique et al.
+The gut microbiota is a diverse ecosystem comprised of bacteria archaea fungi and viruses including a diverse bacteriophage community Manrique et al.
 
-2016. bacteria dominate the microbiota in abundance and diversity with commensal members from seven phyla firmicutes bacteriodetes actinobacteria fusobacteria proteobacteria verrucomicrobia and cyanobacteria the majority of which are uncultivated and novel phylotypes eckburg et al.
+Bacteria dominate the microbiota in abundance and diversity with commensal members from seven phyla Firmicutes Bacteriodetes Actinobacteria Fusobacteria Proteobacteria Verrucomicrobia and Cyanobacteria the majority of which are uncultivated and novel phylotypes Eckburg et al.
 
-2005. members of the microbiota can be permanent residents transmitted through close contact between individuals or transient hitchhikers from ingested food water and various components of the environment ley et al.
+Members of the microbiota can be permanent residents transmitted through close contact between individuals or transient hitchhikers from ingested food water and various components of the environment Ley et al.
 
-2006 harmsen and de goffau 2016. these transmission routes are important for establishing and maintaining microbial diversity in the gut browne et al.
+These transmission routes are important for establishing and maintaining microbial diversity in the gut Browne et al.
 
-colonizing gut microbes provide signals known as microbe-associated molecular patterns mamps that affect the maturation of the immune system and gut associated lymphoid tissue galt wopereis et al.
-
-2014. the development of the galt is associated with bacterial activation of toll-like receptors tlrs and downstream signaling pathways involved in maintaining host-microbial homeostasis regulated through cytokines and chemokines hooper et al.
-
-2015. germ free animals have defects in the development of galt as well as cellular defects such as decrease in the number of lymphocytes and molecular immune deficiencies such as reduced antibody production round and mazmanian 2009 torrazza and neu 2011. thus colonization of the gut by microbes is not only important for the development of gut tissue but also for the establishment of immune tolerance.gut bacterial community assembly begins pre-birth blaser and dominguez-bello 2016 but rapid colonization takes place at birth and continues for the first 3 years of life lozupone et al.
-
-under germ free conditions gut microbiota transplantation experiments between model organisms such as zebrafish and mice have shown that gut microbiota composition is host-specific rawls et al.
-
-2006. in humans many other factors contribute to variation such as diet host genetics and metabolism familial relationships culture dominguez- bello and blaser 2011 and demographics lozupone et al.
-
-2013. according to global surveys of fecal microbiota from healthy populations variation between individuals in richness of gut microbiota is largely explained by age ethnicity huttenhower et al.
+Colonizing gut microbes provide signals known as microbe-associated molecular patterns MAMPs that affect the maturation of the immune system and gut associated lymphoid tissue GALT Wopereis et al.
 

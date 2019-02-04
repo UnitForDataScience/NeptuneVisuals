@@ -1,30 +1,20 @@
-a relative abundance of two bacterial species before and after rs4 treatment shown as mean  change log10 with corresponding p values b percent change from before intervention of the same two bacterial species shown as individual data points with means and standard deviations on the side c descriptive statistical information from the two data sets presented in a and b. the information presented in the last four rows are less frequently reported in clinical trial publications.assessing disease risk in susceptible populations remains one major objective of personalized or precision nutrition allowing for stratifications of subpopulations in a manner that improves the accuracy and cost-effectiveness of interventions and follow-ups.
+How such data may precisely inform clinical study designs andor results in the future will depend on effective systematic reviews and meta-analysis outcome from the growing body of such data sets.
 
-how such data may precisely inform clinical study designs andor results in the future will depend on effective systematic reviews and meta-analysis outcome from the growing body of such data sets.
+A Relative abundance of two bacterial species before and after RS4 treatment shown as mean  change log10 with corresponding p values B Percent change from before intervention of the same two bacterial species shown as individual data points with means and standard deviations on the side C Descriptive statistical information from the two data sets presented in A and B.
 
-therefore while personalized microbiome profiling may be useful for predicting and mitigating disease it will take a huge scientific undertaking before it is ready for the clinical setting.in the past few decades there has been a surge in metabolic diseases that affect quality of life and pose a substantial medical and economic burden on society.
+A recent commentary in Nature Methods discussed similar data presentation approaches in lieu of sample-to-sample variability and irreproducibility of scientific data particularly in biomedical disciplines .
 
-for similar reasons personalized microbiome profiling while deemed promising as a tool for disease risk stratification is not ready for translation to a clinical setting.
+This article brings forward some current perspectives in prebiotic research to discuss why reporting of individual variations in response to interventions will be important to discern suitability of prebiotics as a disease prevention tool.Keywords prebiotics disease prevention dietary bioactives resistant starch type 4 intervention response variabilityThe ancient Greek physician Hippocrates perceived food as the key player in the maintenance of health not just as a fuel to run the human body.
 
-furthermore a plethora of contradictory research findings on what dietary component may or may not be healthy frequently confuse the public.
+The information presented in the last four rows are less frequently reported in clinical trial publications.Assessing disease risk in susceptible populations remains one major objective of personalized or precision nutrition allowing for stratifications of subpopulations in a manner that improves the accuracy and cost-effectiveness of interventions and follow-ups.
 
-in addition to that the author believes this may also provide an opportunity to build on the vast repertoire of individual response variations that may not otherwise be possible for any one research study to capture.
+For similar reasons personalized microbiome profiling while deemed promising as a tool for disease risk stratification is not ready for translation to a clinical setting.
 
-however here the author focusses on one other question that emerges from all of this will it benefit the scientific community in the long run if such side observations of response variability are routinely reported is it possible that we are missing out on information that may hold the key to unlocking some of the mysteries of diet and the microbiome interactions by not reporting individual responses to dietary interventions currently there is little enthusiasm from both scientists and publishers to report such information as data without statistical significance would rarely contribute to the conclusions drawn from the work.
+Therefore while personalized microbiome profiling may be useful for predicting and mitigating disease it will take a huge scientific undertaking before it is ready for the clinical setting.In the past few decades there has been a surge in metabolic diseases that affect quality of life and pose a substantial medical and economic burden on society.
 
-such data may be presented in formats that allow more holistic visualization of study results including but not limited to effect sizes percentile ranking minimum and maximumvalues outliers means and medians.
+However here the author focusses on one other question that emerges from all of this will it benefit the scientific community in the long run if such side observations of response variability are routinely reported Is it possible that we are missing out on information that may hold the key to unlocking some of the mysteries of diet and the microbiome interactions by not reporting individual responses to dietary interventions Currently there is little enthusiasm from both scientists and publishers to report such information as data without statistical significance would rarely contribute to the conclusions drawn from the work.
 
-collective data presentation formats such as the one shown in figure a are less helpful in revealing the distinct nature of the two datasets.figure 1. data presentation formats.
+The most common format for reporting such data is mean  change or fold change along with the p-value.
 
-for example being able to predict glycemic response may attenuate the risk of type 2 diabetes but will not help with the prognosis of hyperlipidemia heart disease or cancer.
-
-a recent commentary in nature methods discussed similar data presentation approaches in lieu of sample-to-sample variability and irreproducibility of scientific data particularly in biomedical disciplines .
-
-in addition microbiome-based biomarkers for personalized prognostic diagnostic and treatment may vary by geographic locations lifestyle and many other factors.
-
-encouraging the scientific community to report variations observed in clinical trials even if such observations may not meaningfully contribute to the main conclusions of the current study will be important.
-
-this article brings forward some current perspectives in prebiotic research to discuss why reporting of individual variations in response to interventions will be important to discern suitability of prebiotics as a disease prevention tool.keywords prebiotics disease prevention dietary bioactives resistant starch type 4 intervention response variabilitythe ancient greek physician hippocrates perceived food as the key player in the maintenance of health not just as a fuel to run the human body.
-
-mounting evidence suggests a more personalized approach is required for health promotion through disease prevention and that such personalization cannot entirely rely on human genomic variations in case of complex metabolic diseases.
+Less frequently individual data points with column means and associated descriptive statistical information are shown Figure BC.
 

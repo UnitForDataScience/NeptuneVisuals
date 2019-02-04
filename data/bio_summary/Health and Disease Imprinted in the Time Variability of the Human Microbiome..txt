@@ -1,30 +1,20 @@
-variability grew more for the gut microbiota of the male and shared a minimal value of around 0.1 with the gut microbiota of the female.shows time course changes in v for patient p2 in the ibs study  upper plot and patient d in the antibiotic study  lower plot.
+.Durban A Abellan JJ Jimenez-Hernandez N Artacho A Garrigues V Ortiz V Ponce J Latorre A Moya A.
 
-the results of solving this equation show that stability is best captured by a phase space determined by the fitness f and the amplitude of fluctuations v .the model predicted two phases for the gut microbiome a stable phase with large variability that enabled some changes in the relative abundances of taxa and an unstable phase with even larger variability above the phase transition where the order of abundant taxa varies significantly over time.
+The RSI is strictly 1 for an element whose range never changes over time and is strictly 0 for an element whose rank oscillates between the extremes from time to time.
 
-v the estimate of the mean v of the healthy subpopulation composed of h subjects is 1v viwi 1 i1i1viwias w1  2hwi  1 since wi are normalized weights calculated as1it2w  vi ih 1 i it2iwhere itvi is an estimate of the uncertainty in vi obtained together with vi from the x-weighted power law fit for healthy subjects.likewise the estimation of the standard deviation for the healthy population itv isitv  1hw v - v2where w2  2hw2 which finally yieldsitv w1 - 2 i1 1hw v - v2 selection and methods.
+Variability grew more for the gut microbiota of the male and shared a minimal value of around 0.1 with the gut microbiota of the female.shows time course changes in V for patient P2 in the IBS study  upper plot and patient D in the antibiotic study  lower plot.
 
-the rsi is strictly 1 for an element whose range never changes over time and is strictly 0 for an element whose rank oscillates between the extremes from time to time.
+The rank dynamics and stability plots in and show the variations in rank over time for the most dominant taxa and their calculated rank stability index RSI as discussed in Materials and Methods for the gut microbiome taxa of a healthy subject namely subject A in the host lifestyle study .
 
-the gut microbiotas of healthy subjects over a long time span show a quasiperiodic variability the central period is 10 days.
+.Perez-Cobas AE Artacho A Ott SJ Moya A Gosalbes MJ Latorre A.
 
-the healthy zone and the standardized taylor parameters for the temporal variability of the gut microbiome in subjects whose gut microbiota was compromised i.e.
+The total number of time points was divided into subsets of five points where the following subset was defined by adding the next sampling time and eliminating the earliest one.
 
-on the other hand the variability v is a direct estimator of the amplitude of fluctuations over time.
+We analyzed published 16S rRNA and shotgun metagenomic sequencing SMS data pertaining to the gut microbiotas of 99 sub- jects monitored over time.
 
-finally we studied the time dependence of variability v and the power law index see model in materials and methods by using a sliding-window approach.
+We analyzed over 40000 time series of taxa from the gut microbiomes of 99 subjects obtained from publicly available high-throughput sequencing data related to different conditions i.e.
 
-shows variability v as a function of time for the two subjects in the study of caporaso et al.
+The gut microbiotas of healthy subjects over a long time span show a quasiperiodic variability the central period is 10 days.
 
-antibiotic intake led to a quick increase in variabilityfig 4 rank variation over time of the 50 most dominant elements taxa and their calculated rsi rv and dv as detailed in rank stability and variability in materials and methods for a special period days 72 to 122 traveling abroad belonging to subject a in the host lifestyle study .that lasted a few days until v recovered a low level.
-
-v  xit -iicpt  xi where fi captured the fitness of the taxon i v corresponded to the noise amplitude and it wasa gaussian random noise with a mean of zero it  0 and variance uncorrelated in time itit  ot - t. the function cpt ensured normalization at all times ixit  1 and corresponded to cpt 2fixa.
-
-the total number of time points was divided into subsets of five points where the following subset was defined by adding the next sampling time and eliminating the earliest one.
-
-we analyzed published 16s rrna and shotgun metagenomic sequencing sms data pertaining to the gut microbiotas of 99 sub- jects monitored over time.
-
-we analyzed over 40000 time series of taxa from the gut microbiomes of 99 subjects obtained from publicly available high-throughput sequencing data related to different conditions i.e.
-
-the rank dynamics and stability plots in and show the variations in rank over time for the most dominant taxa and their calculated rank stability index rsi as discussed in materials and methods for the gut microbiome taxa of a healthy subject namely subject a in the host lifestyle study .
+The results of solving this equation show that stability is best captured by a phase space determined by the fitness F and the amplitude of fluctuations V .The model predicted two phases for the gut microbiome a stable phase with large variability that enabled some changes in the relative abundances of taxa and an unstable phase with even larger variability above the phase transition where the order of abundant taxa varies significantly over time.
 

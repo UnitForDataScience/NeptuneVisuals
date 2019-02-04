@@ -1,30 +1,20 @@
-megan  was used to construct the classification tree in order to present the composition of all the microor- ganisms at different classification levels .the community composition in different classification levels were clustered according to the abundance distribution of the taxon units or the similarity between different samples.
+Therefore the gut microbiota in L. japonica is more complex than in L. morii.Bacteroidetes and Proteobacteria were detected as the dominant phyla in the intestine of L. morii .
 
-the colored circles imply the top 20 dominant microbes in relative abundance in different classification level.
+Numbers of OTUs of intestinal microbe from hindgut contents of three individuals of L. japonica under different taxonomic level.The rarefaction and the rank abundance analysis of the microbe species from hindgut contents of L. japonica.
 
-in l. japonica however firmicutes and proteobacteria are dominant members.proteobacteria are a major phylum of gram-negative bacteria which are also dominant in the intestine of other species of aquatic organisms such as ctenopharyngodon idellusthe pairwise comparison of bacterial taxa abundance in intestine between three individuals of lamprey.
+The microbial diversity index including Chao1 ACE Simpson and Shannon of 16S rRNA sequence library from three individuals of L. japonica at a given rarefied depth.Microflora distributions of the microbe species from hindgut contents of L. japonica in five classification levels.
 
-lamprey gut microbiota deep sequence data derived from l. japonica in this study farmland frog american alligator grass carp and zebrafish gut microbiota deep sequence data derived from public database.the relative abundance of intestinal microbe involving in the subfunction of metabolic pathways predicted through kegg pathway database.betaproteobacteria in the digestive tract of the aquatic crustacean daphnia magna .
+There are 5415 shared function clusters existing in all of the three samples while 94 89 and 41 functional clusters of microbes distributing in each group of lamprey.DiscussionIn the present study gut content library from L. japonica contained 32 different phyla the number of which is much higher compared with gut microbiota from L. morii .
 
-in conclusion the gut microbiota of l. japonica displays little similarity with other aquatic organism of vertebrata because of their different diets and living environments.given the importance of microbiota in the development and maintenance of the immune system of host the characterization of the bacterial community in intestine of l. japonica will give clues for understanding the unique immune systems of lamprey.
+The differ- ence of gut microbiota between the two species is probably due to their different life cycle.Unlike L. japonica L. morii live in fresh water throughout their life cycle.
 
-the abundance of microorganisms in different individuals was displayed as the pie charts at the branch nodes in the classification tree.
+Firmicutes another dominant phylum in L. japonica intestine was not detected in L. morii.
 
-the taxon units can be distinguished between high abundance and low abundance.
+In conclusion the gut microbiota of L. japonica displays little similarity with other aquatic organism of Vertebrata because of their different diets and living environments.Given the importance of microbiota in the development and maintenance of the immune system of host the characterization of the bacterial community in intestine of L. japonica will give clues for understanding the unique immune systems of lamprey.
 
-the abundance of microorganisms in different samples is displayed as the pie charts at the branch nodes in the classification tree .
+Also the gut microbiota derived from L. japonica displays little similarity with other aquatic organism of Vertebrata after UPGMA analysis.
 
-numbers of otus of intestinal microbe from hindgut contents of three individuals of l. japonica under different taxonomic level.the rarefaction and the rank abundance analysis of the microbe species from hindgut contents of l. japonica.
+This study represents the first analysis of the bacterial community composition in the gut content of L. japonica.
 
-after data correction the top 50 genera with different abundance can be found accord-ing to the color variations.
-
-red represents the genus in high abundance while green represents low abundance.
-
-the pie charts in the branch nodes displaying the abundance of microor- ganisms in different samples.
-
-the pairwise comparison of bacterial taxa abundance revealed that there are no significant differences of gut microbiota between three individuals of lamprey at a given rarefied depth.
-
-using graphlanl top 20 dominant members at different classification level are displayed as the classification tree .
-
-a in the phylum level b in the class level c in the order level d in the family level e in the genera level.top 20 dominant microbes in different classification level.
+The investigation of the gut micro- biota associated with L. japonica will broaden our understanding of this unique organism.IntroductionThe microorganisms harboring in digestive system play important roles in nutritional immune and defense functions .
 

@@ -1,0 +1,20 @@
+Furthermore high heterogeneity allows exploring possi- ble drivers which might be associated with the between-study variability such as differences in climatic conditions farming practices and their induced changes in soil abiotic factors.Therefore we performed further investigations using categorical meta-analyses and meta- regression to verify the association of pedo-climatic land management and soil abiotic factors with soil microbial community abundance and activity in relation to organic vs conventional soil management.Factors influencing soil microbial communitiesPedo-climatic factors.
+
+First the sub set on soil property data encompassing soil organic carbon SOC total nitrogen TN and pH was subjected to a meta-analysis in order to analyse whether or not organic farming led to an enrichment in the soil .
+
+In 1992 Richard Dick  reviewed the effect of long-term organic farming on soil biochemical and microbialparameters while most recently Reeve and colleagues 2016 and Lorenz and Lal 2016 synthe- sized the effects of organic farming on soil health food quality and environment .However the current study is the first systematic review quantifying the impact of organic compared to conventional long-term farming on soil microbial community abundance and activity and is based on twenty years of data collected on a global scale.
+
+Organic farming was shown to improve soil physical and chemical properties such as soil organic matter content  aggregate stability  higher polysaccharide content and thicker top soil .
+
+In this concept an active soil microbiota plays an important role for various soil based ecosystem services such as nutrient cycling erosion control and pest and disease regulation.
+
+Several studies have reported a positive effect of organic farming on soil health and quality including microbial community traits.However so far no systematic quantification of whether organic farming systems comprise larger and more active soil microbial communities compared to conventional farming sys- tems was performed on a global scale.
+
+In soils microbial communities are the engines driving nutrient transformation and release as well as being directly and indirectly involved in many other ecosystem services such as erosion control by formation of stable soil aggregates and soil structuring  or pest and disease regulation .
+
+Besides many other bio- logical chemical and physical traits a fertile soil harbours an abundant active diverse and adaptive microbial community which underlies soil functioning -.There is a great need for agricultural systems that are capable of producing enough food while coping with changing climatic conditions but which do not further increase the exploi- tation and degradation of Earth's limited resources .
+
+Furthermore there are indications that mineral fertilization negatively impacts soil microbiota  whereas organic nitrogen fertilization improves biological activity and soil C and N content .Anyhow both fertilization strategies can be used with or without harmful effects to nature depending on their use and handling.
+
+For the target variable 'metabolic quotient' which does not show a signif- icant overall effect the opposite is the case a categorical effect is present whenever the CIs do not overlap with RR  1.Meta-regression was computed by method of moments using a random effects model with a 95 confidence interval and Knapp and Hartung adjustments  built on soil organic carbon SOC total soil nitrogen TN and pH.
+

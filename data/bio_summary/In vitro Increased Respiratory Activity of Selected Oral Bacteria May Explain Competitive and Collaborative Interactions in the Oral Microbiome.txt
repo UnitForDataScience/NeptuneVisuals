@@ -1,30 +1,20 @@
-table 2 includes the complete description of the metabolites the significant differences in their effects on the three groups of bacteria and p-values.table 2  metabolites associated with respiratory activity changes in oral bacteria at 24 and 48 h n  15.disease-associated n  7commensal n  3health-associated n  5h-ra high respiratory activity l-ra low respiratory activity p  0.10 p  0.05. c carbon source n nitrogen source nu nutrient source ps phosphorus andor sulfur source pep peptide source.in parenthesis species that increased their respiratory activity with the indicated metabolite smut streptococcus mutans aa aggregatibacter actinomycetemcomitans ssob streptococcus sobrinus pi prevotella intermedia pg porphyromonas gingivalis tf tannerella forsythia.figure 2  ward's method of hierarchical unsupervised clustering based on the respiratory activity triggered by substrates contained in the biolog phenotype microarray at a 24 h and b 48 h. the first 2 principal components of the multiple correspondence analysis were retained for cluster analysis.
+actinomycetemcomitans Aa S. gordonii Sgord S. mitis Smit S. mutans Smut S. salivarius Ssal S. sanguinis Ssang and S. sobrinus Ssob were incubated at 37C in a 5 CO2 environment.
 
-actinomycetemcomitans aa s. gordonii sgord s. mitis smit s. mutans smut s. salivarius ssal s. sanguinis ssang and s. sobrinus ssob were incubated at 37c in a 5 co2 environment.
+Table 2 includes the complete description of the metabolites the significant differences in their effects on the three groups of bacteria and P-values.TABLE 2  Metabolites associated with respiratory activity changes in oral bacteria at 24 and 48 h n  15.Disease-associated n  7Commensal n  3Health-associated n  5H-RA high respiratory activity L-RA low respiratory activity P  0.10 P  0.05.
 
-our methodology confirmed previously reported competitive and collaborative interactions among bacterial groups which could be used either as marker of health status or as targets for modulation of the oral environment.keywords oral pathobionts health-associated bacteria commensal bacteria phenotype microarray respiratory activity multivariate statistical analysisintroductionthe oral cavity is inhabited by a large and complex microbial community aas et al.
+For instance commensal biofilms containing S. oralis S. gordonii S. mitis and S. sanguinis inhibited the planktonic and biofilm concentrations of P. gingivalis andP.
 
- 1   2   2 1  3  2 and 11 center for microbial ecology and technology ghent university ghent belgium 2 department of oral health sciences ku leuven leuven belgium 3 colgate-palmolive technology center piscataway nj united statesedited bylorenza putignani bambino gesu ospedale pediatricoirccs italyreviewed byvalerio iebba sapienza universita di roma italy nick stephen jakubovicsnewcastle university united kingdom parish paymon sedghizadeh university of southern californiaunited statescorrespondencenico boon these authors have contributedequally to this work.received 06 december 2016accepted 22 may 2017published 07 june 2017citation hernandez-sanabria e slomka v herrero er kerckhof f-m zaidel l teughels w and boon n 2017 in vitro increased respiratory activity of selected oral bacteria may explain competitive and collaborative interactions in the oral microbiome.
+Furthermore S. sanguinis and S. gordonii were found to produce H2O2 and inhibit the growth of S. mutans and A. actinomycetemcomitans Kreth et al.
 
-2013. in this way the fitness of periodontal pathobionts to colonize dental plaque may be shaped by both synergistic and competitive interactions with other members of the oral ecosystem jakubovics 2010. even though we separately examined the respiratory activities of 15 members of the oral plaque the results of our clustering analyses presented associations validated in other systems kumar and mason 2015.the relevance of carbon and nitrogen sources for the metabolism of health-associated bacteria inferred in our analysis figure 3 may aid to explain competitive interactions detected when bacteria are grown in biofilms jakubovics and palmer 2013. for instance it has been reported that f. nucleatum bolstad et al.
+S. gordonii andsanguinis are closely related while S. mutans and S. sobrinus belong to the same subgroup of streptococci Xu et al.
 
-parvula were clustered with disease-associated whereasfigure 1  specific biolog substrates correlated with high respiratory activity at a 24 h and b 48 h in health-associated n  5 commensal n  3 and disease-associated bacteria n  7. substrates in red significantly increased the respiratory activity in regards to the control p  0.05. blue squares indicate metabolites that significantly decrease the respiratory activity and white squares are for compounds that had no significant effect on the selected bacteria.
+79 7857-7866. doi Cross K. J. Huq N. L. Park S. H. Park J. S. Pham P. Quah M. et al.
 
-2011. for instance commensal biofilms containing s. oralis s. gordonii s. mitis and s. sanguinis inhibited the planktonic and biofilm concentrations of p. gingivalis andp.
+Microbiologyopen 3 729-751. doi Hernandez-Sanabria E. Goonewardene L. A. Li M. Mujibi D. F. Stothard P. Moore S. S. et al.
 
-2000 42 158-179. doi kolenbrander p. e. palmer r. j. jr. periasamy s. and jakubovics n. s. 2010. oral multispecies biofilm development and the key role of cell-cell distance.
+2000 42 158-179. doi Kolenbrander P. E. Palmer R. J. Jr. Periasamy S. and Jakubovics N. S. 2010.
 
-thus principles such as substrate utilization must be considered when evaluating the impact of selected members of the oral microbiota on the host ramsey and whiteley 2009. this increased understanding of the metabolic activities of the oral microbiome may assist the successful management and personalized treatment of oral diseases in the future.cell response is a useful tool for characterizing performance variations resulting from environmental influences campbell et al.
+Cell 152 39-50. doi Mazumdar V. Snitkin E. S. Amar S. and Segre D. 2009.
 
-these results explain why collective modulation of respiratory activity may result challenging and thus alternativetable 3  total a and intact b cell number of selected oral inhabitants at 24 and 48 h.strategies may need to be developed.metabolic activity is not solelytime pointspeciestreatmentmean cell countlog unitssemp-valueattributable to increased cell numberflow cytometry was used to validate whether variations in the respiratory activity were a result of increased cell number.
-
-41 1-10. doi maddi a. and scannapieco f. 2013. oral biofilms oral and periodontal infections and systemic disease.
-
-doi takahashi n. 2005. microbial ecosystem in the oral cavity metabolic diversityin an ecological niche and its relationship with oral diseases.
-
-2014. furthermore s. sanguinis and s. gordonii were found to produce h2o2 and inhibit the growth of s. mutans and a. actinomycetemcomitans kreth et al.
-
-s. gordonii andsanguinis are closely related while s. mutans and s. sobrinus belong to the same subgroup of streptococci xu et al.
-
-7 1016-1025. doi alvarez g. gonzalez m. isabal s. blanc v. and leon r. 2013. method to quantify live and dead cells in multi-species oral biofilm by real-time pcr with propidium monoazide.
+11 114-118. doi Van Nevel S. Koetzsch S. Weilenmann H. U.
 

@@ -1,30 +1,20 @@
-prokaryotesdraft genome sequences of three lactobacillus paracasei strains members of the nonstarter microbiota of mature cheddar cheeseewelina stefanovicab gerald fitzgeraldb olivia mcauliffeateagasc food research centre moorepark fermoy co. cork irelanda school of microbiology university college cork cork irelandbabstract lactobacillus paracasei strains are common members of the nonstarter microbiota present in various types of cheeses.
+This work was funded by Teagasc grant 6224.REFERENCESMakarova K Slesarev A Wolf Y Sorokin A Mirkin B Koonin E Pavlov A Pavlova N Karamychev V Polouchine N Shakhova V Grigoriev I Lou Y Rohksar D Lucas S Huang K Goodstein DM Hawkins T Plengvidhya V Welker D Hughes J Goh Y Benson A Baldwin K Lee JH Diaz-Muniz I Dosti B Smeianov V Wechter W Barabote R Lorca G Altermann E Barrangou R Ganesan B Xie Y Rawsthorne H Tamir D Parker C Breidt F Broadbent J Hutkins R O'Sullivan D Steele J Unlu G Saier M Klaenham- mer T Richardson P Kozyavkin S Weimer B Mills D. 2006.
 
-the gc content of all three genomes was 46.3 which corresponds to the usual gc content of l. paracasei genomes.these sequencing data will contribute to the pool of available lactobacillus para- casei genomes and enable further comparative genome analysis of strains of this species.volume 5 issue 29 e00655-17 1stefanovic et al.accession numbers.
+PROKARYOTESDraft Genome Sequences of Three Lactobacillus paracasei Strains Members of the Nonstarter Microbiota of Mature Cheddar CheeseEwelina Stefanovicab Gerald Fitzgeraldb Olivia McAuliffeaTeagasc Food Research Centre Moorepark Fermoy Co. Cork Irelanda School of Microbiology University College Cork Cork IrelandbABSTRACT Lactobacillus paracasei strains are common members of the nonstarter microbiota present in various types of cheeses.
 
-the three lactobacillus paracasei strains dpc2071 dpc4206 and dpc4536 analyzed in this study were isolated from mature cheddar cheeses aspart of the nonstarter lab population.bacterial dna was isolated from all three strains and genomic libraries were prepared with the nextera xt dna library preparation kit illumina inc. usa.
+The three Lactobacillus paracasei strains DPC2071 DPC4206 and DPC4536 analyzed in this study were isolated from mature cheddar cheeses aspart of the nonstarter LAB population.Bacterial DNA was isolated from all three strains and genomic libraries were prepared with the Nextera XT DNA library preparation kit Illumina Inc. USA.
 
-the length of the dpc2071 genome was 2936872 bp consisting of 41 nonoverlapping contigs with a contig n50 of 300051 bp a maximum contig size of 536232 bp and a total of 2827 protein- coding genes.
+.Smokvina T Wels M Polka J Chervaux C Brisse S Boekhorst J van Hylckama Vlieg JE Siezen RJ.
 
-this work was funded by teagasc grant 6224.referencesmakarova k slesarev a wolf y sorokin a mirkin b koonin e pavlov a pavlova n karamychev v polouchine n shakhova v grigoriev i lou y rohksar d lucas s huang k goodstein dm hawkins t plengvidhya v welker d hughes j goh y benson a baldwin k lee jh diaz-muniz i dosti b smeianov v wechter w barabote r lorca g altermann e barrangou r ganesan b xie y rawsthorne h tamir d parker c breidt f broadbent j hutkins r o'sullivan d steele j unlu g saier m klaenham- mer t richardson p kozyavkin s weimer b mills d. 2006. comparative genomics of the lactic acid bacteria.
+.Rutherford K Parkhill J Crook J Horsnell T Rice P Rajandream MA BarrellB.
 
-the draft genome sequences of three strains isolated from mature cheddar cheeses are reported here.actic acid bacteria lab are gram-positive aerotolerant bacteria with a wide spec- trum of practical applications including food production biotechnology and medicine-related fields .
+The GC content of all three genomes was 46.3 which corresponds to the usual GC content of L. paracasei genomes.These sequencing data will contribute to the pool of available Lactobacillus para- casei genomes and enable further comparative genome analysis of strains of this species.Volume 5 Issue 29 e00655-17 1Stefanovic et al.Accession numbers.
 
-in cheese lactobacillus paracasei forms part of the nonstarter microbiota and is considered to have an important role in the ripening process and flavor development .
+J Mol Biol 215403- 410.
 
-initially the rast server was used to annotate each genome and the annotations were verified and manually curated using blastp  and artemis .sequence assemblies for the three strains indicated coverages of 88x 70x and 101x for dpc2071 dpc4206 and dpc4536 respectively.
+The draft genome sequences of three strains isolated from mature cheddar cheeses are reported here.actic acid bacteria LAB are Gram-positive aerotolerant bacteria with a wide spec- trum of practical applications including food production biotechnology and medicine-related fields .
 
-2013. lactobacillus paracasei comparative genomics towards species pan-genome definition and exploitation of diversity.
+Strains of the genus Lactobacillus have been isolated from diverse habitats such as fermented products plant materials and human and animal gastrointestinal tracts .
 
-the maximum contig size was 322047 bp and the contig n50 was 142300 bp while a total of 2951 protein-coding genes were identified.
-
-the maximum contig size was 426277 bp and the contig n50 was 191696 bp.
-
-.aziz rk bartels d best aa dejongh m disz t edwards ra formsma k gerdes s glass em kubal m meyer f olsen gj olson r osterman al overbeek ra mcneil lk paarmann d paczian t parrello b pusch gd reich c stevens r vassieva o vonstein v wilke a zagnitko o.
-
-strains of the genus lactobacillus have been isolated from diverse habitats such as fermented products plant materials and human and animal gastrointestinal tracts .
-
-in the case of strain dpc4206 the assembly yielded a genome sequence of 3095268 bp consisting of 49 contigs.
-
-the draft genome sequence of strain dpc4536 was 3078575 bp long and it consisted of 35 contigs and 2931 genes encoding proteins.
+In cheese Lactobacillus paracasei forms part of the nonstarter microbiota and is considered to have an important role in the ripening process and flavor development .
 

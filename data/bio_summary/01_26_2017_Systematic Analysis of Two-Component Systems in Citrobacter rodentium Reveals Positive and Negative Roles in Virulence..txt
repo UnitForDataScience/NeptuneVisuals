@@ -1,30 +1,20 @@
-additionally the only tcs deletion strain with significantly different pathology scores from the wild-type strain on day 9 postinfection was the dcpxra strain as we previously described  .virulence-associated phenotype of c. rodentium aarca strain.
+Additionally the only TCS deletion strain with significantly different pathology scores from the wild-type strain on day 9 postinfection was the DcpxRA strain as we previously described  .Virulence-associated phenotype of C. rodentium aarcA strain.
 
-an unpaired t test was used to determine statistical significance between each tcs deletion strain and the wild-type strain  p  0.05.this strain  we examined the localization of the bacteria in vivo in colonic cross sections taken from mice at day 9 postinfection .
+An unpaired t test was used to determine statistical significance between each TCS deletion strain and the wild-type strain  P  0.05.this strain  we examined the localization of the bacteria in vivo in colonic cross sections taken from mice at day 9 postinfection .
 
-in contrast and in agreement with our previous data the dcpxra strain displayed delayed colonization with lower levels of colonization at all time points and greater variability in bacterial burden than the wild-type strain .
+In contrast and in agreement with our previous data the DcpxRA strain displayed delayed colonization with lower levels of colonization at all time points and greater variability in bacterial burden than the wild-type strain .
 
-in agreement with the bacterial load data  staining of tissue sections revealed smaller amounts of c. rodentium present in sections of mice infected with the darca strain compared to mice infected with the wild-type strain .
+In agreement with the bacterial load data  staining of tissue sections revealed smaller amounts of C. rodentium present in sections of mice infected with the DarcA strain compared to mice infected with the wild-type strain .
 
-as shown in and s2 t3s was severely affected in the darca strain but functional in all other tcsfig 4 attenuation of c. rodentium darca strain.
+As shown in and S2 T3S was severely affected in the DarcA strain but functional in all other TCSFIG 4 Attenuation of C. rodentium DarcA strain.
 
-thus we propose that the c. rodentium darca strain is attenuated for virulence because of a defect in the regulation of the t3ss leading to a significant impairment in its ability to colonize the host.virulence-associated phenotype of c. rodentium arcsb strain.
+Thus we propose that the C. rodentium DarcA strain is attenuated for virulence because of a defect in the regulation of the T3SS leading to a significant impairment in its ability to colonize the host.Virulence-associated phenotype of C. rodentium arcsB strain.
 
-we next further investigated the attenuation of the c. rodentium drcsb strain that had a significant virulence defect but unlike the darca strain it did not display a significant difference in intestinal colonization levels.
+We next further investigated the attenuation of the C. rodentium DrcsB strain that had a significant virulence defect but unlike the DarcA strain it did not display a significant difference in intestinal colonization levels.
 
-although this requires further investigation we hypothesize that the virulence defect in the c. rodentium drcsb strain is related to alterations in surface structures potentially including colanic acid.investigation of increased virulence of the c. rodentium auvry strain.
+Although this requires further investigation we hypothesize that the virulence defect in the C. rodentium DrcsB strain is related to alterations in surface structures potentially including colanic acid.Investigation of increased virulence of the C. rodentium auvrY strain.
 
-we analyzed the colonization of the duvry strain at days 3 and 6 postinfection and found that fecal loads were not significantly different in mice infected with the duvry strain compared to wild-type c. rodentium .
+We analyzed the colonization of the DuvrY strain at days 3 and 6 postinfection and found that fecal loads were not significantly different in mice infected with the DuvrY strain compared to wild-type C. rodentium .
 
-however we did note a significant increase in the amount of c. rodentium present in the mesenteric lymph nodes of mice infected with the duvry strain  indicating an enhanced ability of the duvry strain to translocate from the intestine to this site or an enhanced ability to resist bacterial killing once translocated.
-
-s2 indicating that the enhanced virulence of the c. rodentium duvry strain is unlikely to be attributed to enhanced intestinal colonization cell adherence or t3s.fig 6 increased virulence of c. rodentium duvry strain.
-
-in a previous study we showed thatthe c. rodentium dcpxra strain was avirulent since all mice infected with this strain survived the infection .
-
-remarkably our data revealed that the darca strain is the only strain with a defect in t3s  see also fig.
-
-therefore it is plausible that the virulence defect of the darca strain is due to a reduced ability of this strain to translocate effector proteins including the tir protein in intestinal epithelial cells.deletion of the rcsb rr gene results in attenuation of virulence exemplified by a delay in mouse death and the survival of some mice infected with this mutant .
-
-in vitro analyses only revealed minor differences and surprisingly type iii secretion t3s was only affected in the darca strain.
+However we did note a significant increase in the amount of C. rodentium present in the mesenteric lymph nodes of mice infected with the DuvrY strain  indicating an enhanced ability of the DuvrY strain to translocate from the intestine to this site or an enhanced ability to resist bacterial killing once translocated.
 

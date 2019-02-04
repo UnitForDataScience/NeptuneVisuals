@@ -1,30 +1,20 @@
-furthermore all these compounds when screened on several normal flora bacteria of humans showed no effect on the microbiome emphasizing the selection of these compounds for these pathogens.
+1H NMR 300.08 MHz CDCl3 d ppm 4.21 5H s Cp 4.37 2H s Cp 4.55 2H s Cp 6.57 1H d J 14.40 CvCH 6.74 1H d J  14.04 CvCH 7.04 1H d J 8.52 ArH 7.28 1H s ArH 7.45 1H d J  8.43 ArH 8.622H br s ArH HCvN 8.87 1H s ArH 9.53 1H s ArH10.65 1H br s NH 10.93 1H s OH.
 
-compounds thattable 2 predicted log p values for 1-6 and isoniazidexhibit significant differences between the mic values ofdcydko and qcrba317t are believed to target this pathway.52 selected compounds were also screened in vitro for mam-malian cytotoxicity against chinese hamster ovarian cho cells using emetine as the control.
+1H NMR 300.08 MHz DMSO-d6 d ppm 4.14 5H s Cp 4.30 2H t J  2 Cp 4.56 2H t J  2 Cp6.75 1H d J  16 CvCH 6.85 1H d J  16 CvCH 6.931H d J  8 ArH 7.49 1H dd J  8 J  2 ArH 7.72 1H dJ  2 ArH 7.86 2H d J  6 ArH 8.71 1H s HCvN 8.811H d J  6 ArH 11.09 1H s OH 12.28 1H s NH.
 
-the minimum inhibitory concen- tration mic of compounds was determined in either 7h9 difco medium supplemented with 0.05 tween-80 0.2 gly- cerol and albuminnaclglucose adc complex andor in gast-fe glycerol-alanine-salts medium ph 6.6 sup- plemented with 0.05 tween-80.62 compounds were dissolved in dmso to a final stock concentration of 10 mm.
+1H NMR 300.08 MHz DMSO-d6 d ppm 4.17 5H s Cp 4.36 2H t J  2 Cp 4.61 2H t J  2 Cp6.82 1H d J  16 CvCH 7.12 1H d J  16 CvCH 7.592H d J  8 ArH 7.70 2H d J  8 ArH 8.63 1H s HCvN8.80 1H m ArH 8.94 1H d J  2 ArH 9.28 1H d J  1ArH 12.25 1H s NH.
 
-the antiplasmodial activities against the nf54 chloroquine-sensitive strain of plasmodium falciparum of some compounds were moderate while some complexes also showed prom- ising activity against trichomonas vaginalis.
+1H NMR 300.08 MHz CDCl3 d ppm 1.13 3H d J  4 CH3 1.16 3H d J  4 CH3 2.32 3Hs CH3 2.61 1H sept J  7 CH 4.31 5H s Cp 4.55-4.612H m Cp 4.67-4.69 1H m Cp 4.85 1H d J  6 p-cy5.10 1H d J  6 p-cy 5.40-5.45 2H m p-cy 5.77 1H br sCp 7.93 2H d J  6 ArH 8.64 2H d J  5 ArH 8.75 1Hs HCvN.
 
-the promising antimicrobial activities of the complexes thus sup- ports incorporation of ferrocene as part of existing antimicrobial therapies in order to alter their biological activities favorably.introductionthe development of organometallic compounds as potential medicinal agents has been on the rise for the past decade.1-3 although the field of bioorganometallic anticancer studies remains one of the most prevalent research areas recent advances in other fields have also generated scientific inter-adepartment of chemistry university of cape town rondebosch 7701 cape town south africa.
+1H NMR 300.08 MHz CDCl3 d ppm 4.25 5H s Cp 4.48 2H s Cp 4.77 2H s Cp 8.32 1H s ArH8.57 1H s HCvN 8.83 1H s ArH 9.53 1H s ArH 10.481H s NH.13C1H NMR 100.64 MHz CDCl3 d ppm 68.569.4 70.9 142.4 144.2 144.9 147.6 151.9 158.2.
 
-for example the replacement of an aromatic group in penicillin by ferrocene resulted in a com- pound comparable in activity to benzyl penicillin.56 ferrocene- containing compounds also exhibit antiproliferative activities.7-10 hydroxyferrocifen shows promising antiprolifera- tive activity against various breast cancer cell lines.
+A molecular ion peak was observed for each complex in the EI mass spectra confirming the structural integrity of complexes 2-6.Half-sandwich complexes specifically ruthenium com- pounds have generated interest owing to their lower toxicity compared to platinum-based drugs and their suitability as alternatives for chemotherapy.1 The half-sandwich complexes 7-9 were prepared by reacting ferrocenyl complex 1 with either IrCpCl22 RhCpCl22 or Ru p-cymeneCl22 in the presence of NaH Scheme 3 to yield the complexes as orange solids in high yields 80.
 
-the data are pre- sented in table 1.all of the compounds were screened against m. tuberculosis h37rvgfp in two different growth media - the glycerol-based gast-fe which does not contain bovine serum albumin and a glucose-based middlebrook 7h9-adc which does contain bsa supplement - to elucidate any condition-selective antimy- cobacterial activity.
+1H NMR 300.08 MHz DMSO-d6 d ppm4.17 5H s Cp 4.36 2H br s Cp 4.61 2H br s Cp 6.831H d J  16 CvCH 7.13 1H d J  16 CvCH 7.59 2H dJ  8 ArH 7.72 2H d J  8 ArH 7.84 2H d J  5 ArH8.46 1H s HCvN 8.79 2H d J  5 ArH 12.06 1H s NH.13C1H NMR 100.64 MHz DMSO-d6 d ppm 67.5 69.569.7 83.3 121.9 125.4 126.5 128.2 129.4 132.7 140.2 141.0149.3 150.8 162.01.
 
-the majority of the compounds tested exhibited potent activity in gast-fe medium giving minimum inhibitory concentration mic90 and mic99 values lower than 1 um on day 14. isoniazid exhibited similar activity profiles in both media.
+1 Ferrocenyl complexes with demonstrated antimicrobial activity.Scheme 1 Preparation of precursors i MeOH H2SO4 ii NH2NH2xH2O iii tri p-tolylphosphine PdOAc2 Et3N CH3CN 24 h 90 degC.Scheme 3 Preparation of PGM complexes 7-9 i DCM NaH1.5 hours ii DCM MCl2R2 1.5 hours.Scheme 2 Preparation of ferrocenyl complexes 1-6 ferrocenyl alde- hyde A B or C 1 eq.
 
-no signifi- cant differences in the mic values were observed between the two mutants unlike the control qcrb inhibitor suggesting that these compounds may not target the qcrb subunit of the respiratory bc1 complex in m. tuberculosis.
+The 1H NMR spectra of complexes 2 3 5 and 6 showed two doublets for each proton of the olefinic moiety and has coupling constants ranging between 14 and 16 Hz which suggests a trans geometry about the double bond consistent with data obtained for similar structures.202738 The infrared spectra of the ferrocenyl complexes showed absorp- tion bands between 1605 and 1633 cm-1 for the CvN stretch- ing frequencies.
 
-vaginalis is a mucosal pathogen that exists within a complex microbiome screening of all of these compounds on several common normal flora bacteria found within the human micro-compoundclog pa11.7524.5934.2240.7353.5763.21n.d.bn.d.n.d.isoniazid-0.69a log p values predicted using marvinsketch v5.9.4 according to the method described in ref.
-
-b not determined.biome at the highest concentration did not show any effect.all of the tested compounds with the exception of 6 and 7 displayed moderate to low parasite growth inhibition.
-
-the ferrocenyl-pyrazinamide complex 6 possessed the highest growth inhibitory activity of all of the tested compounds resulting in 88.2 inhibition.
-
-compounds 6 and 7 exhibited promising inhibition but were not comparable to metronidazole at the same test concen- tration data not shown - 100 inhibition.
-
-in addition the water-soluble isoniazid demonstrated very low inhibition alongtable 4 antiplasmodial activity of compounds 1-9 isoniazid and cq against the nf54 cqs strain of p. falciparumfig.
-
-2 antitrichomonal activity of complexes 1-9 and isoniazid against t. vaginalis.compoundic50 - se um1100231.52 - 6.4131.58 - 0.014100510.36 - 2.8163.77 - 0.8675.00 - 0.3982.99 - 0.7597.82 - 0.99isoniazidn.a.achloroquine0.0149 - 0.001a not active at the tested concentration.table 3 ic50 values of compounds 6 7 and metronidazole against the g3 strain of t. vaginalispounds.
+1H NMR 300.08 MHz CDCl3 d ppm 1.52 15H s Cp 4.32 5H s Cp 4.54 2H t J  1.83Cp 4.58-4.60 1H m Cp 5.90 1H br s Cp 7.98-8.01 2H m ArH 8.65-8.69 3H m ArH HCvN.
 

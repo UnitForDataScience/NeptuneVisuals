@@ -1,30 +1,20 @@
-principle component analysis pca indicated that the gut microbial composition in embryos was different from that in chicks and maternal hens while similar between chicks and maternal hens supplementary figure s2b.
+Principle component analysis PCA indicated that the gut microbial composition in embryos was different from that in chicks and maternal hens while similar between chicks and maternal hens Supplementary Figure S2B.
 
-the higher microbial diversity in embryos than in chicks and maternal hens indicates that the microbial diversity declined during host development and provides additional evidence for the hypothesis that the harbored microbiome is influenced by the host during development  and supplementary figure s2c.among 196 annotated genera 65 were considered as core microbes which existed in embryos chicks and maternal hens and  such as halomonas lactobacillus bacteroides and enterococcus .
+The higher microbial diversity in embryos than in chicks and maternal hens indicates that the microbial diversity declined during host development and provides additional evidence for the hypothesis that the harbored microbiome is influenced by the host during development  and Supplementary Figure S2C.Among 196 annotated genera 65 were considered as core microbes which existed in embryos chicks and maternal hens and  such as Halomonas Lactobacillus Bacteroides and Enterococcus .
 
-proteobacteria was mainly present in embryos 86 and maternal hens 22. firmicutes 76 and 44 and bacteroidetes 10 and 24 were the two major phyla in chicks and maternal hens respectively supplementary figure s2a.
+To explore the establishment and inheritance of the gut microbiome in the avian embryo we used the chicken as the model organism to investigate the gut microbial composition in embryos chicks and maternal hens.
 
-to explore the establishment and inheritance of the gut microbiome in the avian embryo we used the chicken as the model organism to investigate the gut microbial composition in embryos chicks and maternal hens.
+3 Gut microbes that are involved in substance metabolism infectious disease and environmental adaptation are enriched in embryos chicks and maternal hens respectively.
 
-3 gut microbes that are involved in substance metabolism infectious disease and environmental adaptation are enriched in embryos chicks and maternal hens respectively.
+Here we used the chicken as a model organism and performed 16S rRNA sequencing to analyze and compare the microbial composition abundance and dynamic distribution during different embryonic stages of development as well as chicks and their maternal hens Supplementary Figure S1.
 
-here we used the chicken as a model organism and performed 16s rrna sequencing to analyze and compare the microbial composition abundance and dynamic distribution during different embryonic stages of development as well as chicks and their maternal hens supplementary figure s1.
+Firmicutes 76 and 44 and Bacteroidetes 10 and 24 were the two major phyla in chicks and maternal hens respectively Supplementary Figure S2A.
 
-the declining population of those microbes during embryonic development and an absence in chicks and maternal hens suggested that some microbes were temporarily harbored in embryos and they were influenced by genetic and environmental factors during host development  and supplementary table s3.
+The declining population of those microbes during embryonic development and an absence in chicks and maternal hens suggested that some microbes were temporarily harbored in embryos and they were influenced by genetic and environmental factors during host development  and Supplementary Table S3.
 
-abundance of enterococcus ruminococcus and oscillospira was high in chicks and low in embryos and maternal hens.
+Abundance of Enterococcus Ruminococcus and Oscillospira was high in chicks and low in embryos and maternal hens.
 
-among the 162 genera that were detected in embryos 68 and 100 of them were detected in maternal hens and chicks respectively.
+Among the 162 genera that were detected in embryos 68 and 100 of them were detected in maternal hens and chicks respectively.
 
-of the132 genera detected in chicks 91 were also observed in the maternal hens .
-
-correlation coefficients ranging from 0.58 to 0.72 between chicks and maternal hens were found at the family level .
-
-halomonas had a high abundance in embryos and maternal hens with a decreasing trend in chicks.
-
-the heatmap circles show relative abundance of embryos e e4 and e19 chicks l at 4 l4 21 l21 and 42 days l42 post hatch and maternal hens h. b the venn diagram shows the microbes shared within different host development stages see supplementary table s3 in the supplementary material.
-
-c microbial composition structure of embryos chicks and maternal hens at the genus level.microbiota and its host.
-
-twenty-nine abundant secondary metabolism pathways were identified while 25 pathways showed significant differences among embryos chicks and maternal hens in all breeds supplementary table s4.
+Of the132 genera detected in chicks 91 were also observed in the maternal hens .
 

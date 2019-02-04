@@ -1,30 +1,20 @@
-our findings provide insight into the effects of the core functional microbiota in soy sauce aroma type liquor production and the characteristics of the fermentation microbiota under different environmental conditions.keywords fermentation microbiota core functional microbiota solid-state fermentation microbial succession functional shift high-throughput sequencing amplicons metatranscriptomicsintroductionthe microbiota in natural environments is complex and often includes thousands of genera from a diverse range of species  .
+Our findings provide insight into the effects of the core functional microbiota in soy sauce aroma type liquor production and the characteristics of the fermentation microbiota under different environmental conditions.Keywords fermentation microbiota core functional microbiota solid-state fermentation microbial succession functional shift high-throughput sequencing amplicons metatranscriptomicsINTRODUCTIONThe microbiota in natural environments is complex and often includes thousands of genera from a diverse range of species  .
 
-the fermentation process was carried out in four distinct phases starter daqu making stacking fermentation pit fermentation and distillation.
+The fermentation process was carried out in four distinct phases starter Daqu making stacking fermentation pit fermentation and distillation.
 
-ldh in the genus lactobacillus converted pyruvate to lactic acid while at the same time xfp in the genus lactobacillus converted glucose to acetyl phosphate directly in heterofermentative fermentation  .
+LDH in the genus Lactobacillus converted pyruvate to lactic acid while at the same time XFP in the genus Lactobacillus converted glucose to acetyl phosphate directly in heterofermentative fermentation  .
 
-bacterial genera lactobacillus and oscillibacter and fungal genera saccharomyces schizosaccharomyces purpureocillium pseudeurotium candida fusarium rhizomucor discosia and acremonium displayed a negative correlation with moisture p  0.05 in stage i. by contrast in the late stage of liquor production stage ii the genus corynebacterium showed a negative correlation with lactic acid whereas the genus lactobacillus showed a positive correlation with lactic acid p  0.05. the bacterial genus lactobacillus and various fungal genera penicillium zygosaccharomyces pleurotheciella naumovozyma kazachstania trichosporon pseudeurotium veronaea discosia and pseudogymnoascus displayed a negative correlation with ph p  0.05 in stage ii.
+As an example of a typical process involving fermentation microbiota traditional solid-state fermentation SSF generates fermented foods that have a high nutritional value and confer health benefits due to the involvement of multiple microorganisms and biochemical reactions      .In recent years the concept of core microbiota has emerged  .
 
-as an example of a typical process involving fermentation microbiota traditional solid-state fermentation ssf generates fermented foods that have a high nutritional value and confer health benefits due to the involvement of multiple microorganisms and biochemical reactions      .in recent years the concept of core microbiota has emerged  .
+Ethanol and moisture level significantly correlated with the fermentation microbiota in the early stage of production whereas lactic acid and pH significantly correlated with the fermentation microbiota in the late stage of production .
 
-ethanol and moisture level significantly correlated with the fermentation microbiota in the early stage of production whereas lactic acid and ph significantly correlated with the fermentation microbiota in the late stage of production .
+In a previous study to illustrate the variety of structures and functions within the fermentation microbiota the fermentation process was separated into several stages  .
 
-in a previous study to illustrate the variety of structures and functions within the fermentation microbiota the fermentation process was separated into several stages  .
+Our study found that the genes of four key enzymes in heterolactic fermentation and three key enzymes in homolactic fermentation were expressed Supplementary Figure S7.
 
-our study found that the genes of four key enzymes in heterolactic fermentation and three key enzymes in homolactic fermentation were expressed supplementary figure s7.
+Besides the gene expressions of four key enzymes in heterolactic fermentation were much higher than three key enzymes in homolactic fermentation.
 
-besides the gene expressions of four key enzymes in heterolactic fermentation were much higher than three key enzymes in homolactic fermentation.
+In our study the genera Pichia Saccharomyces Schizosaccharomyces Zygosaccharomyces and Lactobacillus were the dominant functional contributors to the fermentation microbiota Supplementary Figure S6.
 
-in our study the genera pichia saccharomyces schizosaccharomyces zygosaccharomyces and lactobacillus were the dominant functional contributors to the fermentation microbiota supplementary figure s6.
-
-therefore the genus lactobacillus had developed several survival systems in various acidic environments to prevent cell damage resulting from acid stress by the acid product during the fermentation process  .
-
-furthermore the genus lactobacillus exerts antifungal effects on food or feed-borne filamentous fungi and yeasts intraditional ssf such as kimchi fermentation  .
-
-1 2-8.papalexandratou z. lefeber t. bahrim b. lee o. s. daniel h. m. and de vuyst l. 2013. hanseniaspora opuntiae saccharomyces cerevisiae lactobacillus fermentum and acetobacter pasteurianus predominate during well-performed malaysian cocoa bean box fermentations underlining the importance of these microbial species for a successful cocoa bean fermentation process.
-
-these results showed that yeasts genera schizosaccharomyces pichia zygosaccharomyces and saccharomyces and lab genus lactobacillus were dominant functional contributors to major alcohol and acid production ethanol lactic acid and acetic acid production.accordingly pyruvate metabolism related to ethanol lactic acid and acetic acid production in yeasts genera pichia saccharomyces schizosaccharomyces and zygosaccharomyces and lab genus lactobacillus was selected to illustrate the functional shift functional conversion from ethanol to lactic acid production in different stages of liquor production  .
-
-with the genus lactobacillus being the main contributor under low ph lactic acid production was the major microbial function in stage ii .it was intriguing to understand why the genera schizosaccharomyces and lactobacillus were the major functional contributors among the core microbiota.
+Therefore the genus Lactobacillus had developed several survival systems in various acidic environments to prevent cell damage resulting from acid stress by the acid product during the fermentation process  .
 

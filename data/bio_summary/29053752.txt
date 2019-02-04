@@ -1,30 +1,20 @@
-previously these were also found in the root zones of date palms  and agave .in case of bacterial communities actinobacteria acidobacteria proteobacteria and bacteroi- dete were significantly abundant bacterial phyla from the three rhizospheric populations.these are some of the predominantly abundant bacterial species found in the metagenomic dataset obtained from various plants and rhizosphere  .
+In case of IAA content in the rhizospheric sam- ples of the three populations a significantly higher amount was detected in BSA P0.001 137.8-2.1nMmL samples as compared to other populations .Exozymes glucosidases and cellulases and indole acetic acid quantification in rhizosphere of wild and cultivated populations of B. sacra tree.DiscussionThe current study investigated the microbiomes associated with the rhizosphere of three popu- lations of Boswellia sacra tree.
 
-a total of 678mbp and 1.24gbp of high quality read data  wasdistribution of fungal and bacterial communities operational taxonomic units otus and chao-1 of each replica from data generated through miseq sequencing 16s and its of the rhizospheric samples from wild and cultivated rhizosphere of b. sacra tree.generated for fungal and bacterial microbial communities respectively .
+The mean read count of fungal communities was 127-2.1 995-43.2 BSA 98088-5.1 BSD and 75979-103.9 BSW whereas for bacterial communities it was 146650-21.5 BSA 199516-34.9 BSD and 188036-44.9 BSW.
 
-where iaa production has been shown a major feature of plant growth promoting activity of both fungal and bacterial rhizospheric communities as suggested by adriaenssens  cipriano et al.
+However a considerable progress is also being made in understanding the microbial ecology of the rhizosphere of non-cultivated plant species in natural ecosystems   and how microorganisms influence resource allocation biodiversity and above-ground interactions with herbivores and their natural enemies  .Current study elucidated the fungal and bacterial microbial communities of three B. sacra tree populations which showed a varying response in the metagenomic data output as well as the number of OTUs.
 
-however a considerable progress is also being made in understanding the microbial ecology of the rhizosphere of non-cultivated plant species in natural ecosystems   and how microorganisms influence resource allocation biodiversity and above-ground interactions with herbivores and their natural enemies  .current study elucidated the fungal and bacterial microbial communities of three b. sacra tree populations which showed a varying response in the metagenomic data output as well as the number of otus.
+A total of 678Mbp and 1.24Gbp of high quality read data  wasDistribution of fungal and bacterial communities operational taxonomic units OTUs and Chao-1 of each replica from data generated through MiSeq sequencing 16S and ITS of the rhizospheric samples from wild and cultivated rhizosphere of B. sacra tree.generated for fungal and bacterial microbial communities respectively .
 
-also showed that the struc- ture and diversity of bacterial communities vary significantly across the rhizosphere of the same plant species collected from different location.
+The R statistical framework version 2.11 was used for NMDS ordination plots metaMDS beta-dispersion betadis PERMANOVA adonis permutational ANOVA aovp and the estimation of diver- sity indices and PAST v3.01.ResultsMicrobial community diversity associated with the three populations of B. sacraWe assessed the prokaryotic and fungal communities of the rhizosphere of three distinctive populations of B. sacra viz.
 
-however this was different in bacterial communities as each sample formed a cladogram with each other .fungal microbial communities in the rhizosphere of b. sacrarhizospheric microbial diversity among the three populations varied greatly.
+The soil struc- ture in these three regions BSA BSD and BSW varied with respect to soil texture pH organic matter and nutrient concentration  which may act as potential selection fac- tors affecting rhizosphere communities and plant growth.
 
-in addition most of the studies are restricted to bacterial communitieswhereas less emphasis has been made on the fungal communities suggesting a future need to consider the holistic approach to understand the microbiome in the rhizosphere.besides the abundance the distribution of microbial communities also differed across the three population of rhizosphere.
+In current study we aimed to elucidate the core fungal and prokaryotic communities and their structure in the three popu- lation of B. sacra tree through detailed metagenomics and bioinformatics approaches.Materials and methodsSampling area and collectionRhizospheric soil samples of Boswellia sacra were collected from three major location at Adonab BSA N1720.47' E05404.51 Dowkah National Park BSD N194.89' E05422.81 and Dow- kah valley BSW N1907.76' E05425.43 respectively in dry summer season.
 
-2011 65e20611.pmidqi x wang e xing m zhao w chen x. rhizosphere and non-rhizosphere bacterial community com- position of the wild medicinal plant rumex patientia.
+In case of nMDS of fungal commu- nities all the three populations and their replications were significantly distant a part from each other however BSW and BSD were found closely associated R2  0.78 P0.031.Nonmetric Multidimensional Scaling NMDS plots for Bray-Curtis distances of different rhizospheric populations of B. sacra.
 
-2012 710e48479.pmidmarschner p yang c-h lieberei r crowley d. soil and plant specific effects on bacterial community composition in the rhizosphere.
+Gemmatimonadetes and Proteobac- teria were significantly higher P0.0001 from 5 to 29 in BSD rhizosphere whereas Actino- bacteria was significantly higher in BSW P0.0001 27.
 
-2005 375937-44.khan al al-harrasi a al-rawahi a al-farsi z al-mamari a waqas m et al.
-
-2012 710e47500.pmidkhan al hamayun m kang s-m kim y-h jung h-y lee j-h et al.
-
-however since in the bsw rhizosphere the tree populations are often confronted with extreme growth conditions showing a minimal microbial activity which is also in correlation with our miseq data for lower abundance of both fungal and bacterial communities.
-
-sacra tree showed a lower read count than the cultivated population .in case of otu analysis significantly higher p0.0019 average 1006-9.9 otus were revealed in bacterial communities whereas in fungi it was significantly lower p0.0019 aver- age 60.6-3.1. this suggests a higher microbial diversity of bacterial species.
-
-the soil struc- ture in these three regions bsa bsd and bsw varied with respect to soil texture ph organic matter and nutrient concentration  which may act as potential selection fac- tors affecting rhizosphere communities and plant growth.
-
-similarly solomon and matthews  demonstrated that the colonization of endophytes in plant internal tissues involved the production of cellulases and glucosidases   such indicating the cell wall degrading enzymes were most likely a key determinant for the bacteria to initially enter and colonize the plant host to promote plant growth .
+The current study elucidates the fungal andbacterial communities of the rhizospheric regions of the wild and cultivated B. sacra treeOPEN ACCESSCitation Khan AL Asaf S Al-Rawahi A Lee I-J Al- Harrasi A 2017 Rhizospheric microbial communities associated with wild and cultivated frankincense producing Boswellia sacra tree.
 

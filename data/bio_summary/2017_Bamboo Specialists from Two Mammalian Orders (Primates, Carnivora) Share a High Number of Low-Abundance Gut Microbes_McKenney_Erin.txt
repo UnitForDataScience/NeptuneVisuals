@@ -1,30 +1,20 @@
-to address these questions we used deep sequencing to investigate the nature and comparative impact of phylogenetic and dietary selection for specific gut microbial membership in three bamboo specialists--the bamboo lemur hapalemur griseus primates lemuridae giant panda ailuropoda melanoleuca carnivora ursidae and red panda ailurus fulgens carnivora musteloideadae as well as two phylogenetic controls--the ringtail lemur lemur catta and the asian black bear ursus thibetanus.
+The meta- bolic rate of the red panda is also low 39 of predicted value presumably to reduce energy requirements  and the daily energy expenditure of the giant panda is only 37.7 of the predicted value .The giant pandas' two most abundant bacterial OTUs an unclassified Enterobacteriaceae genus and Streptococcus were also found to be dominant in previous studies of the giant panda GM   .
 
-the meta- bolic rate of the red panda is also low 39 of predicted value presumably to reduce energy requirements  and the daily energy expenditure of the giant panda is only 37.7 of the predicted value .the giant pandas' two most abundant bacterial otus an unclassified enterobacteriaceae genus and streptococcus were also found to be dominant in previous studies of the giant panda gm   .
+103 sequences per sample did not detect dietary signatures in the giant panda or red panda GM  our increased coverage approach reveals 48 OTUs comprising a bamboo-associated core GM.
 
-we detected significantly higher shannon diversity in the bamboo lemur 10.029 compared to both the giant panda 8.256 p  0.0001936 and the red panda 6.484 p  0.0000029. we also detected significantly enriched bacterial taxa that distinguished each species.
+This transition indicates that for giant pandas Enterobacteriaceae may not be invaders so much as a nor- mal part of the healthy adult GM structure in species with relatively simple gut morphology.Diet May Govern Low-Abundance OTUsThe bamboo lemur shares six times more OTUs with other bamboo specialists than with its sister species Fig.
 
-two species are distantly related members of the order carnivora the giant panda ailuropoda melanoleuca and the red panda ailurus fulgens diverged 47.5 my  and one is a member of the order primates the bamboo lemur hapalemur griseus di- verged from carnivora 83 my .
+Two species are distantly related members of the order Carnivora the giant panda Ailuropoda melanoleuca and the red panda Ailurus fulgens diverged 47.5 my  and one is a member of the order Primates the bamboo lemur Hapalemur griseus di- verged from Carnivora 83 my .
 
-g giant panda r red panda b bamboo lemur l ringtail lemur.
+To address these questions we used deep sequencing to investigate the nature and comparative impact of phylogenetic and dietary selection for specific gut microbial membership in three bamboo specialists--the bamboo lemur Hapalemur griseus Primates Lemuridae giant panda Ailuropoda melanoleuca Carnivora Ursidae and red panda Ailurus fulgens Carnivora Musteloideadae as well as two phylogenetic controls--the ringtail lemur Lemur catta and the Asian black bear Ursus thibetanus.
 
-and the bamboo lemur's sister species the ringtail lemur lemur catta a gen- eralist diverged from the bamboo lemur 11.8 mya  data from mckenney et al.
+were the first to compare gut microbes in bamboo specialists using next-generation sequencing  relatively low coverage may have precluded detection of low-abundance diet-associated OTUs in previous studies of giant panda and red panda GMs.
 
-this transition indicates that for giant pandas enterobacteriaceae may not be invaders so much as a nor- mal part of the healthy adult gm structure in species with relatively simple gut morphology.diet may govern low-abundance otusthe bamboo lemur shares six times more otus with other bamboo specialists than with its sister species fig.
+also found that the giant panda GM is more similar to that of the Asian black bear than it is to the red panda  further suggesting that phylogenetic signal overrides die- tary signal in this case.While Li et al.
 
-additional research including rna-based library construction and measurement of enzymatic rates for cellulose and hemicel- lulose digestion are needed to confirm which bacterial taxa are active when and whether the bamboo lemur's extended transit time enables more effective microbial fiber degradation than is achieved in the giant panda or red panda.
+The lack of morphological adapta- tion to diet might suggest that GM composition will be especially important in these host species for adequately digesting their respective high-fiber diets.Most studies to date have been unable to detect a strong dietary signature in giant panda GMs  -.
 
-gp giant panda rp red panda bl bamboo lemur rl ringtail lemurweighted unifrac distance0.00.20.40.60.81.0fig.
+We detected significantly higher Shannon diversity in the bamboo lemur 10.029 compared to both the giant panda 8.256 p  0.0001936 and the red panda 6.484 p  0.0000029.
 
-were the first to compare gut microbes in bamboo specialists using next-generation sequencing  relatively low coverage may have precluded detection of low-abundance diet-associated otus in previous studies of giant panda and red panda gms.
-
-however we also find that 48 low-abundance otus are shared among bamboo specialists compared to only 8 otus shared by the bamboo lemur and its sister species the ringtail lemur lemur catta a generalist.
-
-the bamboo lemur hapalemur griseus and ringtail lemur lemur catta gut diagrams are adapted from among herbivores.
-
-also found that the giant panda gm is more similar to that of the asian black bear than it is to the red panda  further suggesting that phylogenetic signal overrides die- tary signal in this case.while li et al.
-
-notably while most mammal gms are dominated by bacteroidetes and firmicutes our re- sults confirm previous observations    that both giant panda and red panda gms are dominated by proteobacteria and firmicutes but not bacteroidetes fig.
-
-our findings are novel compared to a previous lower-coverage assessment of the giant panda and red panda  suggesting that diet- associated signatures may be masked by more abundant bac- terial taxa.
+Notably while most mammal GMs are dominated by Bacteroidetes and Firmicutes our re- sults confirm previous observations    that both giant panda and red panda GMs are dominated by Proteobacteria and Firmicutes but not Bacteroidetes Fig.
 

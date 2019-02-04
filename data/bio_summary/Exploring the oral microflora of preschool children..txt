@@ -1,30 +1,20 @@
-s2.supragingival plaque had the highest a diversity and a dif- ferent microbial structure than saliva and tongue coatinga comparison of a diversity across each niche plaque saliva and tongue coating using the shannon index revealed sig- nificant differences p  0.001 fig.
+The core saliva microbiome had the greatest number of OTUs 106 compared with plaque 86 and tongue coating 60.A co-occurrence network of plaque saliva and tongue coatingA total of 1190 OTUs were assigned to the genus or species level.
 
-the core saliva microbiome had the greatest number of otus 106 compared with plaque 86 and tongue coating 60.a co-occurrence network of plaque saliva and tongue coatinga total of 1190 otus were assigned to the genus or species level.
+S2.Supragingival plaque had the highest a diversity and a dif- ferent microbial structure than saliva and tongue coatingA comparison of a diversity across each niche plaque saliva and tongue coating using the Shannon index revealed sig- nificant differences P  0.001 Fig.
 
-3 friedman test follow- ing benjamini-hochberg correction p  0.05. only staphy- lococcus aureus infection and ion channels were enriched in saliva the remaining 9 pathways were enriched in supra- gingival plaque compared to saliva and tongue coating.
+Only Staphy- lococcus aureus infection and Ion channels were enriched in saliva the remaining 9 pathways were enriched in supra- gingival plaque compared to saliva and tongue coating.
 
-hy- pothesized that microorganisms attached to the teeth and tongue are continuously shed into the salivary fluid and bacteria residing in the periodontal pockets are constantlywashed into saliva by the gingival crevicular fluid making saliva a reservoir of oral microbiota and a fingerprint of the entire oral microbiome fabian et al.
+The plaque samples harbored a higher proportion of Actinobacteria while Firmicutes were the most abundant in saliva and tongue coa- ting.
 
-a sterile toothbrush was used to gently scrape the tongue dorsum from the vallate- papilla area to the front tongue border.
+The bacterial abundances and distribution structures of plaque were different from those of saliva and tongue coating which probably lie in the gra- dients and variations in physico-chemical features at diffe- rent sites such as moisture oxygen concentration and pH Simon-Soro et al.
 
-2012. tongue coat- ing microbiomes with oral malodor were more conserved than healthy tongue coating yang et al.
+The highest microbial diversity rich- ness and evenness were identified in plaque samples com- pared with saliva and tongue coating Fig.
 
-samples were collected from supragingival plaque saliva and tongue coating from 10 preschool children 30 samples total.
+The co-occurrence network presented in this study provides novel insight into the microbial associations across plaque saliva and tongue coating.
 
-we found the highest a diversity microbial richness and evenness in plaque com- pared with saliva and tongue coating.
+Samples were collected from supragingival plaque saliva and tongue coating from 10 preschool children 30 samples total.
 
-plaque was also dis- tinguished from saliva and tongue coating by phylogenetic distances weighted unifrac.
+We found the highest a diversity microbial richness and evenness in plaque com- pared with saliva and tongue coating.
 
-in summary our study provides a framework of oral microbial communities in the population of preschool chil- dren as a baseline for further studies of oral diseases related to microbes.keywords 16s rrna gene sequencing picrust microbiome supragingival plaque saliva tongue coatingfor correspondence.
-
-2008. in this study we fo- cused on the supragingival plaque saliva and tongue coating of children 4-5 years old in an attempt to estimate the de- tailed microbial composition species diversity interplay and functional prediction among three niches.materials and methodsethical approvalthis project was approved by the ethics committee at peking university school and hospital of stomatology pkussirb- 2012062. informed consent was obtained from all individual participants' guardians included in the study.enrollment criteria and sample collectionten children aged 4-5 years from yayuncun no.
-
-for each subject supragingival plaque stimulated saliva and tongue coating samples were collected in the mor- ning before tooth brushing.
-
-p supragingival plaque s saliva t tongue coating.statistical analysisthe friedman test with post hoc comparisons was used to compare a diversity differential taxa as well as functional predictions based on kegg categories of picrust outputs.
-
-nlm.nih.govsra.resultsoverview of the datasetsupragingival plaque saliva and tongue coating samples were collected from 10 preschool children supplementary data table s1.
-
-2. taxa with different relative abundances among plaque saliva and tongue coating samples at the phylum a and genus levels b-g. bars repre- sent the mean relative abundance - sd.
+In summary our study provides a framework of oral microbial communities in the population of preschool chil- dren as a baseline for further studies of oral diseases related to microbes.Keywords 16S rRNA gene sequencing PICRUSt microbiome supragingival plaque saliva tongue coatingFor correspondence.
 

@@ -1,30 +1,20 @@
-there were differences between bacteria binding observed for tulane virus for which individual bacterial strains either bound to the virus at a level statistically equivalent to the other norovirus strains or the bacteria did not bind the virus at all.
+There were differences between bacteria binding observed for Tulane virus for which individual bacterial strains either bound to the virus at a level statistically equivalent to the other norovirus strains or the bacteria did not bind the virus at all.
 
-binding in pbs was evaluated to three human norovirus strains gii.4 new orleans 2009 and sydney 2012 gi.6 and two surrogate viruses tulane virus and turnip crinkle virus tcv using a sus- pension assay format linked to rt-qpcr for quantification.
+All bacteria tested bound the repre- sentative human norovirus strains with high efficiency 1 log10 of input virus remained unbound or 10 unbound and 90 binding efficiency p0.05 there was selective bind- ing for Tulane virus and no binding observed for TCV.
 
-all bacteria tested bound the repre- sentative human norovirus strains with high efficiency 1 log10 of input virus remained unbound or 10 unbound and 90 binding efficiency p0.05 there was selective bind- ing for tulane virus and no binding observed for tcv.
+RESEARCH ARTICLEHuman norovirus binding to select bacteria representative of the human gut microbiotaErin A. Almand1 Matthew D. Moore2 Janie Outlaw2 Lee-Ann Jaykus121 Department of Plant and Microbial Biology North Carolina State University Raleigh NC United States of America 2 Department of Food Bioprocessing and Nutrition Sciences North Carolina State University Raleigh NC United States of America AbstractOPEN ACCESSCitation Almand EA Moore MD Outlaw J Jaykus L-A 2017 Human norovirus binding to select bacteria representative of the human gut microbiota.
 
-both gram-negative and gram-positive bacterial strains reference and fecal isolates were screened for binding with genotypes gi.6 and gii.4 new orleans 2009 and sydney 2012 human norovirus strains as well as the cultivable tulane virus surrogate.
+The findings reported here further elucidate and inform the dynamics between human noroviruses and enteric bacteria with implications for norovirus pathogenesis.IntroductionHuman norovirus is the leading cause of acute viral gastroenteritis worldwide  and also the most common cause of foodborne disease at least within the United States .
 
-information was collected on binding efficiency the impact of growth conditions on bacteria-virus binding and the location on the bacteria to which the virus bound.resultshuman norovirus binds to bacteriathirteen bacterial species were originally isolated from the gi.6-positive stool sample after growth on tryptic soy broth tsb tsb5 defibrinated sheep blood blood brucella agar ba bablood brain heart infusion bhi andor de man rogosa and sharpe mrs agars under anaerobic conditions.
+Until recently the lack of a reliable propagation model for human norovirus reviewed in  had been a significant roadblock and little is still known about the viral replication cycle.About fifteen years ago researchers identified human histo-blood group antigens HBGAs as a putative human norovirus cellular receptor .
 
-collectively all bacterial strains bound all human norovirus strains with high efficiency as in all cases 1 log10 of input virus was lost to supernatant or 90 bound .
+In gen- eral TSB5 sheep blood had the greatest negative impact on human norovirus binding toBinding efficiency of human norovirus and representative surrogate viruses to select bacteria.
 
-screened multiple bacterial strains for norovirus vlp bind- ing finding that virus binding of the bacteria correlated well with their hbga expression pro- files.
+Binding in PBS was evaluated to three human norovirus strains GII.4 New Orleans 2009 and Sydney 2012 GI.6 and two surrogate viruses Tulane virus and Turnip Crinkle Virus TCV using a sus- pension assay format linked to RT-qPCR for quantification.
 
-ph temperature bacterial interactions that could influence bacteria-virus binding and given the effect of growth medium we report further elucidation of their effect on viral binding would be a logi- cal future direction for investigation .improved understanding of norovirus-bacterial interactions has widespread implications ranging from understanding virus infectivity  aiding in in vitro cultivation of human norovirus  developing concentration and purification methods for detection  and design of novel removalinactivation methods .
+These findings and others  informed the development of a mammalian cell culture model for human norovirus propagation in which the target cell line Burkitt's Lymphoma BJAB B cells could support modest replication of the virus only when in the presence of E. cloacae or after supplementation with synthetic HBGAs .
 
-taken together these data suggest that human norovirus-bacteria bind- ing occurs with high efficiency but with relatively low inter-species specificity.human norovirus-bacteria binding efficiency is impacted by culture mediato further elucidate factors impacting the dynamics of bacteria-virus binding experiments were undertaken in which the bacterial strains were grown in enriched media chopped meat and tsbblood nutrient dense media tsb and bhi or minimal media and then equal amounts of bacterial cells assayed for binding in pbs with gii.4 sydney 2012 the most recent epidemic human norovirus strain.
+Certainly HBGAs are not the only com- pounds implicated in human norovirus binding and E. cloacae may not be the only strain to which the virus binds.
 
-for minimal media or nutrient dense media tsb or bhi there were no statistically significant differences between the input virus concentrations and virus concentrations estimated as bound to bacteria for any of the bacterial species suggesting high capture efficiency .
-
-research articlehuman norovirus binding to select bacteria representative of the human gut microbiotaerin a. almand1 matthew d. moore2 janie outlaw2 lee-ann jaykus121 department of plant and microbial biology north carolina state university raleigh nc united states of america 2 department of food bioprocessing and nutrition sciences north carolina state university raleigh nc united states of america abstractopen accesscitation almand ea moore md outlaw j jaykus l-a 2017 human norovirus binding to select bacteria representative of the human gut microbiota.
-
-the findings reported here further elucidate and inform the dynamics between human noroviruses and enteric bacteria with implications for norovirus pathogenesis.introductionhuman norovirus is the leading cause of acute viral gastroenteritis worldwide  and also the most common cause of foodborne disease at least within the united states .
-
-until recently the lack of a reliable propagation model for human norovirus reviewed in  had been a significant roadblock and little is still known about the viral replication cycle.about fifteen years ago researchers identified human histo-blood group antigens hbgas as a putative human norovirus cellular receptor .
-
-in gen- eral tsb5 sheep blood had the greatest negative impact on human norovirus binding tobinding efficiency of human norovirus and representative surrogate viruses to select bacteria.
-
-these findings and others  informed the development of a mammalian cell culture model for human norovirus propagation in which the target cell line burkitt's lymphoma bjab b cells could support modest replication of the virus only when in the presence of e. cloacae or after supplementation with synthetic hbgas .
+Both Gram-negative and Gram-positive bacterial strains reference and fecal isolates were screened for binding with genotypes GI.6 and GII.4 New Orleans 2009 and Sydney 2012 human norovirus strains as well as the cultivable Tulane virus surrogate.
 

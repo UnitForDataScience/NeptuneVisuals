@@ -1,30 +1,20 @@
-201177186313-22.gomez-silvan c vilchez-vargas r arevalo j gomez ma gonzalez-lopez j pieper dh et al.
+Be- cause the cycle from which fluorescence is detectable the threshold cycle Ct or quantification cycle Cq is related to the amount of DNA in the sample the Ct in PMA-treated and non-treated samples can be used to quantify the living microbial community PMA-treated the total microbial community PMA-untreated and to some degree the dead microbial community the differ- ence between PMA-untreated and PMA-treated.The advantages and disadvantages of different qPCR techniques have been extensively reviewed elsewhere e.g.
 
-201335403-11.dreo t pirc m ramsak z pavsic j milavec m zel j et al.
+Another encouraging technique demon- strated for specific microbial populations and consortia and in its early stages of development for more complex microbial communities is BONCAT which relies on the incorporation of labeled amino acids into proteins in ac- tively translating microbial cells during an incubation.
 
-20128421003-11.morrison t hurley j garcia j yoder k katz a roberts d et al.
+20128421003-11.Morrison T Hurley J Garcia J Yoder K Katz A Roberts D et al.
 
-201240492527-37.hultman j waldrop mp mackelprang r david mm mcfarland j blazewicz sj et al.
+However culture-independent assessments of microbial consortia particularly through DNA sequencing have allowed for the resolution of microbial community structure and function with a level of detail unimaginable a decade or so ago.
 
-j microbiol meth.
+marine built environment food bioaerosols and clean room samplesPresumably many thus far deep-sea methane seep sedimentsYMany e.g.archaea Gram  bacteria Gram - bacteria and fungiUnknownPresumably manythus far some archaea and Gram- bacteria including slow growingATP concentration has high correlation with number of metabolically active cells rapid and affordable assayCan reveal actively translating microbes in consortia and in combination with downstream approaches their phylogeny insights into micron-scale interactionsCan overestimate ATPconcentrations because of extracellular ATP metabolically dormant spores will not be detected lack of specificityApplication to microbial ecology is relatively newbroad applicability is presumed but not yet proven  Isothermal microcalorimetry IMCMeasuring heat flowYMany the method is nondestructiveMany including lakes marine sediments and soilsYMany any actively metabolizing organisms generating heatWill measure any sufficient metabolic activityCan only be applied to slow processes because of assay ramp-up time possible falseTable 1 Comparison of commonly used techniques to identify living andor dead cells particularly those applicable or potentially applicable to microbial communitiesContinuedMany means that most of the possibilities for this category have been shown to be or are likely to be compatible where practical we have added examples from the literature.
 
-int j food microbiol.
+Al- though this technique is likely to be broadly applicableto microbial studies it is as yet seldom mentioned in the microbial ecology literature.
 
-j microbiol.
+However MVT requires knowledge of the target region sequence and is therefore not yet conducive to most microbial community eco- logical studies.Using molecular approaches to determine total or livedead abundancesAs a prerequisite for accurate livedead enumeration ac- curate enumeration of untreated microbial communities is necessary.
 
-int j food microbiol.
+Quantitative PCR has been used successfully in combination with PMA for estimating livedead concen- trations of microbial cells in low-biomass samples and with some methods development this combination of techniques is likely to be broadly applicable across environments.Digital PCRApplication of digital PCR technology is very similar to traditional qPCR and has been implemented to quantify biomass in a variety of microbial systems -6.
 
-canadian j microbiol.
+Detailed reviews of metaproteomics and the many re- cently reported microbial metaproteomic studies across environments can be found elsewhere -3 but we highlight key strengths and weaknesses of this technique in terms of identifying active microbial populations and metabolic processes.
 
-j microbiol meth.
-
-j microbiol meth.
-
-j microbiol methods.
-
-j microbiol methods.
-
-j microbiol methods.
-
-j microbiol methods.
+In principle BONCAT is also compatible with metagenomic sequencing though this has yet to be reported Rela- tive to other techniques capable of measuring the activity of microbial consortia at the micron scale as opposed to the scale of bulk samples as required for most techniques de- scribed thus far BONCAT is relatively inexpensive and re- quires less specialized equipment  rendering it a promising approach for future microbial ecological studies and an excellent candidate for further methods develop- ment across sample and organism types.Measuring genome replication rates from metagenomic dataAs an expansion of the peak-to-trough method 7 an algorithm iRep has recently been developed to estimate genome replication rates from single-sample metagenomic data 8.
 

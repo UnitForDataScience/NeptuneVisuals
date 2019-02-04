@@ -1,30 +1,20 @@
-collectively these results indicated that the antibiotic intervention had profound effects on the lumen of the stomach and small intestine but few effects on the mucosa.effect of the antibiotic intervention on the representative dominant otus in pigletsbased on a 97 confidence level at the species level otu the relative abundance of the major dominant phylotypes in the lumen and mucosa was identified supplementary tables s6 s7.among the top 50 dominant phylotypes in the lumen the antibiotic intervention significantly altered the relative abundance of 12 otus in the stomach 7 otus in the duodenum 17 otus in the jejunum 2 otus in the ileum and 3 otus in the colon supplementary figure s4.
+Collectively these results indicated that the antibiotic intervention had profound effects on the lumen of the stomach and small intestine but few effects on the mucosa.Effect of the Antibiotic Intervention on the Representative Dominant OTUs in PigletsBased on a 97 confidence level at the species level OTU the relative abundance of the major dominant phylotypes in the lumen and mucosa was identified Supplementary Tables S6 S7.Among the top 50 dominant phylotypes in the lumen the antibiotic intervention significantly altered the relative abundance of 12 OTUs in the stomach 7 OTUs in the duodenum 17 OTUs in the jejunum 2 OTUs in the ileum and 3 OTUs in the colon Supplementary Figure S4.
 
-it is widely regarded that compared to the microbial numbers in the colon 1011-1012 cfuml stomach and small intestine have relatively low numbers of bacteria with 101-103 cfuml in the lumen of stomach and duodenum and 104-107 cfuml in the lumen of jejunum and ileum  .
+It is widely regarded that compared to the microbial numbers in the colon 1011-1012 CFUmL stomach and small intestine have relatively low numbers of bacteria with 101-103 CFUmL in the lumen of stomach and duodenum and 104-107 CFUmL in the lumen of jejunum and ileum  .
 
-the relative abundance of kos predicted to be involved in glycosyltransferases and starch and sucrose metabolism was higher in the lumen of both the duodenum and jejunum than in the mucosa q  0.05. the relative abundance of kos predicted to be involved in propionate metabolism butyrate metabolism flagellar assembly and lipopolysaccharide biosynthesis in the mucosa of the jejunum was higher than in the lumen q  0.05. these results indicated the different functional potential of the lumen versus the mucosa in the small intestine.
+The present study showed clear spatial variation of microbial communities in the stomach and intestine and found that the administration of antibiotics a mixture of olaquindox oxytetracycline calcium kitasamycin in early life caused markedly differential alterations in the compartmentalized microbiota with major alterations in their spatial variation in the lumen of the stomach and small intestine.
 
-analysis of molecular variance amova   was performed to compare the difference between lumen and mucosa antibiotic and control and adjacent gut segments.here we defined the segments to represent longitudinal locations from stomach to colon and niches to represent radial locations from mucosa to lumen.
+The microbial composition differs in lumen and mucosa of small intestine characterized as the higher Anaerobacter and lower Prevotella in the lumen than mucosa in ileum  .
 
-in the present study the relative abundances of escherichia pseudomonas and haemophilus were high in the lumen of the stomach and duodenum but reduced in the lumen of the jejunum and ileum.
+Analysis of molecular variance AMOVA   was performed to compare the difference between lumen and mucosa antibiotic and control and adjacent gut segments.Here we defined the segments to represent longitudinal locations from stomach to colon and niches to represent radial locations from mucosa to lumen.
 
-the present study showed clear spatial variation of microbial communities in the stomach and intestine and found that the administration of antibiotics a mixture of olaquindox oxytetracycline calcium kitasamycin in early life caused markedly differential alterations in the compartmentalized microbiota with major alterations in their spatial variation in the lumen of the stomach and small intestine.
+In the present study the relative abundances of Escherichia Pseudomonas and Haemophilus were high in the lumen of the stomach and duodenum but reduced in the lumen of the jejunum and ileum.
 
-the relative abundance of clostridium disporicum otu1212 eubacterium biforme otu1865 and l. mucosae otu1088 decreased in the antibiotic intervention group in the lumen of the stomach duodenum and jejunum q  0.05. on the other hand in response to the antibiotic intervention the relative abundance of s. porcorum otu1762 and s. suis otu1070 increased in both the stomach and jejunum and the relative abundance of escherichia coli otu1800 increased in the jejunum q  0.05. the antibiotic intervention also reduced the relative abundance of gemmiger formicilis otu218 ruminococcus lactaris otu570 r. faecis otu592 and coprococcus comes otu249 q  0.05 supplementary figure s4.
+The microbial diversity was higher in the lumen of stomach and duodenum than that in ileum.
 
-the results revealed that the antibiotic intervention induced a differential and compartmentalized alteration in the gut microbiota.spatial variations in the microbiota of the stomach versus the intestine and lumen versus the mucosathe study revealed large spatial variation in the microbial composition of the git of the piglets and found that although not as diverse as in the colon the stomach and duodenumhad a highly diverse microbiota.
+The early-life antibiotic intervention decreased the abundance of some Lactobacillus species and increased the abundance of potentially pathogenic Streptococcus suis in the lumen of the stomach and small intestine.
 
-therefore it is important to understand the simultaneous response of the stomach and intestine to orally administrated antibiotics.in the present study the goal was to characterize the microbial composition along the git of piglets especially for stomach and duodenum and the effects of early-life antibiotics on the microbiota along the git from stomach to colon.
+The relative abundance of Tenericutes decreased in the lumen of the stomach and colon in the antibiotic- treated piglets compared with the control group P  0.05 .
 
-the microbial composition differs in lumen and mucosa of small intestine characterized as the higher anaerobacter and lower prevotella in the lumen than mucosa in ileum  .
-
-after the antibiotics escherichia increased in the lumen of ileum cecum and colon while treponema decreased in the lumen of cecum colon and feces   .
-
-in the lumen of the colon the antibiotic intervention increased the relative abundance of ko-related genes emrk and emry that confer resistance to tetracycline more than 70-fold compared with the control group q  0.05. these results showed that antibiotics may have profound effects on kos associated with antibiotic resistance in the lumen but not the mucosa.to summarize the effects of the early-life in-feed antibioticson gut microbiota in piglets a function model was proposed as shown in .
-
-the microbial diversity was higher in the lumen of stomach and duodenum than that in ileum.
-
-the early-life antibiotic intervention decreased the abundance of some lactobacillus species and increased the abundance of potentially pathogenic streptococcus suis in the lumen of the stomach and small intestine.
-
-finally on average 267 102 otus good's coverage per sample were identified.impact of gut location lumenmucosa and antibiotics on the bacterial compositionto determine the impact of the gut segment longitudinal locations from the stomach to the colon niche radial locations from lumen to mucosa and antibiotics on the observed variation rda analysis was performed.
+The relative abundance of Clostridium disporicum OTU1212 Eubacterium biforme OTU1865 and L. mucosae OTU1088 decreased in the antibiotic intervention group in the lumen of the stomach duodenum and jejunum q  0.05.
 

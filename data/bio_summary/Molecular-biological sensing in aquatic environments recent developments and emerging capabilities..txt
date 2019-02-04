@@ -1,30 +1,20 @@
-wams typical sample volume is 150 ml and it is being developed to preserve cells with lugols solution after sample collectioninstrumentmanufacturer ordevelopermethodorganisms measuredmax volume per samplesizeplatformssamples collectedper deploymentreferencesdna detection population change autonomous microbial sampleramswhoifiltration supor20.45 mm150 mlsrov srv6taylor et al.
+This principle has been demonstrated using an SD Card- based genetic assay featuring an integrated circuit and reaction chamber with thermal controls and ISFET pH sensors demonstrating the potential scale of miniaturisa- tion that can currently be achieved  of miniaturised analytical modules currently available at the prototype level has the capacity to revolutionise ocean molecular-biological sensing pending furtherdevelopment and integration with existing sampling and sensing instrumentation.ConclusionsThe deployment of molecular biological sensing and sampling platforms has demonstrated the utility of in situ microbiology enabling researchers to study microbial communities in their natural environment.
 
-this principle has been demonstrated using an sd card- based genetic assay featuring an integrated circuit and reaction chamber with thermal controls and isfet ph sensors demonstrating the potential scale of miniaturisa- tion that can currently be achieved  of miniaturised analytical modules currently available at the prototype level has the capacity to revolutionise ocean molecular-biological sensing pending furtherdevelopment and integration with existing sampling and sensing instrumentation.conclusionsthe deployment of molecular biological sensing and sampling platforms has demonstrated the utility of in situ microbiology enabling researchers to study microbial communities in their natural environment.
+2011Figure 1Instrumentation discussed in this review a SID drifter and b ESP drifter from BioLINCS cruise September 2011 images courtesy of Kendra Turk-Kubo c WaMS with sampling bags image courtesy of SAHFOS d AMG on dock pictured next to housing Figure 6 from Paul et al.
 
-although most of the current instrumentation can only sample the ocean the development of integrated sampling and analysis platforms ecogenomic sensors has also been demon- strated most notably using the environmental sample processor.
+To address this a suite of ocean- deployable sampling and sensing instrumentation has been developed to retrieve archive and analyse water samples and their microbial fraction using state of the art genetic assays.
 
-this review highlights the most recent developments in this field and emerging capabili- ties for in situ genetic analysis which will influence the future development of aquatic microbial sensors.in situ microbial sampling and sensing instrumentationthe available suite of ocean-deployable instrumentation for molecular ecology is summarised in .
+This review highlights the most recent developments in this field and emerging capabili- ties for in situ genetic analysis which will influence the future development of aquatic microbial sensors.In situ microbial sampling and sensing instrumentationThe available suite of ocean-deployable instrumentation for molecular ecology is summarised in .
 
-the authors wish to thank george graham rowena stern j. chip breier jim birch and christopher scholin for technical and scientific input and the provision of photographs.references and recommended readingpapers of particular interest published within the period of review have been highlighted asof special interest.. of outstanding interestindicates that trans-pacific diurnal transcriptional patterns in marine microbial communities may regulate ocean biogeochemical processes.10... demonstrates a previously unrecognised relationship between phos-phate and nitrogen-fixing microbial communities using an in situ sensor on an ocean drifter.
+Describes an in situ sensor for the detection of microbial genetic sequences.43.Different microbial secies dislay similar time-variable synchronous atterns in gene regulation indicating cross-secies coordination of metabolic networks.This study demonstrates co-detection of both RNA and DNA-based genetic targets using a minuaturised analytical platform.
 
-20... describes an in situ sensor for the detection of microbial genetic sequences.43.different microbial secies dislay similar time-variable synchronous atterns in gene regulation indicating cross-secies coordination of metabolic networks.this study demonstrates co-detection of both rna and dna-based genetic targets using a minuaturised analytical platform.
+WaMS typical sample volume is 150 mL and it is being developed to preserve cells with Lugols Solution after sample collectionInstrumentManufacturer ordeveloperMethodOrganisms measuredMax volume per sampleSizePlatformsSamples collectedper deploymentReferencesDNA detection population change Autonomous Microbial SamplerAMSWHOIFiltration Supor20.45 mm150 mLSROV SRV6Taylor et al.
 
-2016autonomous microbial genosensor amguniversity of south floridafiltration custom  transcript quantification20.45 mm50 mlsm12fries et al.
+2006Phytoplankton Sampler PPSMcLane ResearchLaboratories Remote Access Sampler RASMcLane ResearchLaboratoriesFiltration GFF20.8 mm10 LSM P24Honda and Watanabe 2007and Winslow et al.
 
-to address this a suite of ocean- deployable sampling and sensing instrumentation has been developed to retrieve archive and analyse water samples and their microbial fraction using state of the art genetic assays.
+2014 Seawater collectionNo filtration500 mLMM P48McKinney et al.
 
-2007environmental sample processor espmbari  mclane research laboratoriesfiltration supor  rrna hybridization protein hybridization qene quantification20.22 mm2 llm p rov dp132 sampler32 sensorscholin et al.
+1997 andWinslow et al.
 
-2011figure 1instrumentation discussed in this review a sid drifter and b esp drifter from biolincs cruise september 2011 images courtesy of kendra turk-kubo c wams with sampling bags image courtesy of sahfos d amg on dock pictured next to housing figure 6 from paul et al.
-
-these three esp-based studies from a single deployment have contributed new insights to our understanding of the microbial ecology underpinning biogeochemistry in the open ocean.while the esp drifter is an ideal platform to study microbial dynamics within a single water mass the instru- ment is large and is dependent on intensive ship time and personnel for deployment and recovery.
-
-in each case there is a definite and immediate need to increase the resolution of sampling and analytics in order to accurately determine factors impacting microbial com- munities their distributions and the threats they may pose.
-
-preservation-type samplers include the biolog- ical osmosampling system boss the suspended particulate rosette spr the microbial sampler-in situ incubation device ms-sid and the environmental sample processor esp.
-
-2006phytoplankton sampler ppsmclane researchlaboratories remote access sampler rasmclane researchlaboratoriesfiltration gff20.8 mm10 lsm p24honda and watanabe 2007and winslow et al.
-
-2014 seawater collectionno filtration500 mlmm p48mckinney et al.
+2014Large Volume Water Transfer System WTS LVMcLane Research LaboratoriesFiltration GFF20.8 mm5000 LSROV CTDShip1Beaulieu et al.
 

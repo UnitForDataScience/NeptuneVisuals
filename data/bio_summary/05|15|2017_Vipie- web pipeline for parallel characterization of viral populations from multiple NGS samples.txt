@@ -1,30 +1,20 @@
-the tool found 167 unique accessions across the samples and an easy to use searchable and sortable sample hits table is provided and best experienced from the browser where the table can be collapsed based on taxonomy and sample viral hits can be downloaded as a text file ready for excel import.our user guide provides screenshots and directions on filtering the sample hits table and using the filtering function we found human herpes hits on a hmp blood sample srs072276 where herpes in hematological samples have been reported in a prior microbiome and hematopoiesis report our results showed that virus population profiles are unique across body sites reported also in viromescan and visually showntable 2 ngs samples used in vipie validation from human microbiome project africa study and diarrhea sample sourced in japan gastroenteritis outbreak.
+The tool found 167 unique accessions across the samples and an easy to use searchable and sortable sample hits table is provided and best experienced from the browser where the table can be collapsed based on taxonomy and sample viral hits can be downloaded as a text file ready for Excel import.Our user guide provides screenshots and directions on filtering the sample hits table and using the filtering function we found Human Herpes hits on a HMP blood sample SRS072276 where herpes in hematological samples have been reported in a prior microbiome and hematopoiesis report Our results showed that virus population profiles are unique across body sites reported also in ViromeScan and visually shownTable 2 NGS samples used in Vipie validation from Human Microbiome Project Africa study and diarrhea sample sourced in Japan gastroenteritis outbreak.
 
-this enables employing the ensuing virus quantity tables in downstream analyses similarly to the well-established analyses of bacterial profiles from 16s rdna mass sequencing.availability and requirementsproject name vipie web pipeline for parallel characteri- zation of viral population from multiple ngs samples project home page source code operating systems platform independent programming language python 2.7 r 3.3 javascript html5 postgresql 9license vipie is available free of charge to academic and non-profit institutions.any restrictions to use by non-academics please con- tact authors for commercial use.additional fileassigned 3.73 less reads to their correct species meta- shot 96.70 vipie 92.97 - this may be a the effect of clustering our representative virus database somereads falling into species or serotype specific viral re- gions may thus remain unidentified b the consequence of subsampling - vipie uses subsampling to 1 million reads maximum whereas the simulated metashot data set is more than 20 times larger with most of the viruses in trace amounts.conclusionsvirome ngs datasets are unique in several aspects.
+The sample set consists of a blood nasal stool and vagina data from Human Metagenome Project HMP b diarrhea sample from gastroenteritis out- break DRA004165 DNA Data Bank Japan used in VirusTAP and c stool data from in-house ongoing African metagenomics project Table lists rele- vant accession identifiers sources and number of reads along with result links.
 
-for comparison virustap processing up to assembly with 1 sample 2 million reads 172 mbs took 17 min input upload time is not included as it is dependent completely on local network speed.. vipie process the same sample in 32 min includ- ing assembly cross validation scoringremapping known reference filtering and viral dark matter processing.
+The script and Vipie results used for computing this statistics are avail- able with README in Vipie project page on SourceForge.
 
-the sample set consists of a blood nasal stool and vagina data from human metagenome project hmp b diarrhea sample from gastroenteritis out- break dra004165 dna data bank japan used in virustap and c stool data from in-house ongoing african metagenomics project table lists rele- vant accession identifiers sources and number of reads along with result links.
+For comparison VirusTAP processing up to assembly with 1 sample 2 million reads 172 MBs took 17 min Input upload time is not included as it is dependent completely on local network speed.. Vipie process the same sample in 32 min includ- ing assembly cross validation scoringremapping known reference filtering and viral dark matter processing.
 
-blue bars represent bacterial ribosome green for human while red is for known viral matchestable 3 a read assignment benchmark assessment of metashot and vipie on simulated dataseta consisting of 19 582 500 human 94.5 986 114 bacterial 4.8 and 146 886 viral 0.7 reads.
+The Creative Commons Public Domain Dedication waiver applies to the data made available in this article unless otherwise stated.and producing text based outputs that are not easily interpretable -Recently released web based applica- tions Taxonomer VirusTAP  Virome and Metavir   have addressed some of the issues espe- cially those of user interaction but mostly operate only on single sample experiments with different workflows.
 
-viromescan listed 20 hmp samples but only stool types of 4 samples passed qcin addition to those stool samples vipie test archive includes 4 other hmp sample types.
+The 20 HMP samples used for its validation only the stool samples passed QC and likely due to timing the other sample types were not available on HMP download page.
 
-and viral hits of the 11 samples are accessible at and table contains accession ids along with sample read sizes.then performance of vipie was compared to virustap.
+a The chart shows the number of NGS reads retained per sample through QC interlacing and de novo assembly.
 
-the script and vipie results used for computing this statistics are avail- able with readme in vipie project page on sourceforge.
+The de novo assembly step im- plements random subsampling on user defined read per- centage default of 75 with a maximum of 1000000 NGS reads per sample.
 
-as a representative of diversity methods vipie intui- tively offers web based form or file upload sample groupcolor key31 0 1 2 3row z scoresample viral hitsfig.
+ViromeScan listed 20 HMP samples but only Stool types of 4 samples passed QCIn addition to those stool samples Vipie test archive includes 4 other HMP sample types.
 
-vipie percentages are based on random subsampling of 1 000 000 reads and bacterial statistics are not reported as vipie reports information on bacterial ribosome only the bacterial genomic dna is not filtered out as it might lead to loss of dormant phage sequences.
-
-vipie using the same input detected similar findings of 14 human rotavi- ruses strains shown in additional file user guide figure 10b and also interestingly streptococcus phage strains.
-
-we believe that our strategy offers a good balance between bearable algorithm speed on most machines and availability of multiple sample processing.importantly the pipeline offers a set of files with bac- terial human and unknown sequences the dark mat- ter of the virome.
-
-figure shows an interactive sample based chart consisting of stacked bars represent- ing the percentage of reads mapped to human bacterial ribosomes known viruses and dark matter.
-
-the creative commons public domain dedication waiver applies to the data made available in this article unless otherwise stated.and producing text based outputs that are not easily interpretable -recently released web based applica- tions taxonomer virustap  virome and metavir   have addressed some of the issues espe- cially those of user interaction but mostly operate only on single sample experiments with different workflows.
-
-here we introduce vipie a web based viral diversity population tool accepting as input a set of files from virome metagenomics ngs analyses of multiple samples.
+and viral hits of the 11 samples are accessible at and Table contains accession ids along with sample read sizes.Then performance of Vipie was compared to VirusTAP.
 

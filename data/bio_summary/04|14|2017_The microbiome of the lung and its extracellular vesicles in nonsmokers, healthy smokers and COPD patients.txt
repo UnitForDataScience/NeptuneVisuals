@@ -1,30 +1,20 @@
-our analysis of the lung microbiome revealed that the bacterial communities present in the evs and in the copd group possessed distinct characteristics with differences in the otus diversity indexes and pca clustering.experimental  molecular medicine 2017 49 e316 doi17 published online 14 april 2017introductionchronic obstructive pulmonary disease copd is the third leading cause of death worldwide.among several risk factors for copd cigarette smoking is the main factor.
+Our analysis of the lung microbiome revealed that the bacterial communities present in the EVs and in the COPD group possessed distinct characteristics with differences in the OTUs diversity indexes and PCA clustering.Experimental  Molecular Medicine 2017 49 e316 doi17 published online 14 April 2017INTRODUCTIONChronic obstructive pulmonary disease COPD is the third leading cause of death worldwide.Among several risk factors for COPD cigarette smoking is the main factor.
 
-all rights reserved 2092-641317the microbiome of the lung and its extracellular vesicles in nonsmokers healthy smokers and copd patientshyun jung kim12 you-sun kim3 kang-hyun kim4 jun-pyo choi4 yoon-keun kim5 sunmi yun6 lokesh sharma7 charles s dela cruz7 jae seung lee2 yeon-mok oh2 sang-do lee2 and sei won lee2chronic obstructive pulmonary disease copd is a chronic inflammatory disease and bacterial infection plays a role in its pathogenesis.
+All rights reserved 2092-641317The microbiome of the lung and its extracellular vesicles in nonsmokers healthy smokers and COPD patientsHyun Jung Kim12 You-Sun Kim3 Kang-Hyun Kim4 Jun-Pyo Choi4 Yoon-Keun Kim5 Sunmi Yun6 Lokesh Sharma7 Charles S Dela Cruz7 Jae Seung Lee2 Yeon-Mok Oh2 Sang-Do Lee2 and Sei Won Lee2Chronic obstructive pulmonary disease COPD is a chronic inflammatory disease and bacterial infection plays a role in its pathogenesis.
 
-in the healthy smoker and copd groups evs had a higher shannon index and a lower simpson index than lung tissue and this trend was more prominent in the copd group.
+In the healthy smoker and COPD groups EVs had a higher Shannon index and a lower Simpson index than lung tissue and this trend was more prominent in the COPD group.
 
-however smoking does not explain all of the aspects of this condition because copd can develop in nonsmokers and more than half of smokers do not have copd.patients with copd exhibit persistent inflammation despite smoking cessation.
+However smoking does not explain all of the aspects of this condition because COPD can develop in nonsmokers and more than half of smokers do not have COPD.Patients with COPD exhibit persistent inflammation despite smoking cessation.
 
-that study has also suggested that patients with chronic respiratory diseases are highly sensitized to environmental evs.to elucidate the relationship between bacterial inflammation and copd the contribution of the bacterial community present in the evs should be considered.we hypothesized that lung evs might display specific microbiome characteristics in copd.
+That study has also suggested that patients with chronic respiratory diseases are highly sensitized to environmental EVs.To elucidate the relationship between bacterial inflammation and COPD the contribution of the bacterial community present in the EVs should be considered.We hypothesized that lung EVs might display specific microbiome characteristics in COPD.
 
-copd was defined as a ratio of o0.7 between forced expiratory volume in 1 s fev1 per forced vital capacity fvc.the copd group included individuals with the same smoking criteria as in the healthy smoker group.
+COPD was defined as a ratio of o0.7 between forced expiratory volume in 1 s FEV1 per forced vital capacity FVC.The COPD group included individuals with the same smoking criteria as in the healthy smoker group.
 
-in contrast the shannon diversity index for lung evs showed that the nonsmoker group 3.28 was the least diverse and the copd group was the most diverse 3.91. the simpson index indicated that the nonsmoker group had the highest evenness in the lung tissue whereas the copd group had the highest evenness in lung evs.
+The difference in diversity indices between lung tissue and lung EVs was most prominent in the COPD group followed by the healthy smoker and nonsmoker groups 2.The mean beta diversities for OTUs between lung tissue andlung EVs from each patient were 42.2 - 10.7 in the nonsmoker group 45.9 - 12.8 in the healthy smoker group and47.4 - 12.4 in the COPD group.
 
-the difference in diversity indices between lung tissue and lung evs was most prominent in the copd group followed by the healthy smoker and nonsmoker groups 2.the mean beta diversities for otus between lung tissue andlung evs from each patient were 42.2 - 10.7 in the nonsmoker group 45.9 - 12.8 in the healthy smoker group and47.4 - 12.4 in the copd group.
+The COPD group showed the highest beta diversity between lung tissue and lung EVs 168 in nonsmokers 161 in healthy smokers and 208 in the COPD group.
 
-the copd group showed the highest beta diversity between lung tissue and lung evs 168 in nonsmokers 161 in healthy smokers and 208 in the copd group.
+The proportion of Firmicutes in the COPD lung EVs was significantly higher than in the healthy smoker lung EVs 27.0 vs 13.4 P  0.037 one-way analysis of variance and Tukey's post hoc analysis or in the COPD lung tissue samples 27.0 vs 11.3 P  0.026 paired t-test.
 
-the proportion of firmicutes in the copd lung evs was significantly higher than in the healthy smoker lung evs 27.0 vs 13.4 p  0.037 one-way analysis of variance and tukey's post hoc analysis or in the copd lung tissue samples 27.0 vs 11.3 p  0.026 paired t-test.
-
-b the simpson index for lung tissue was highest in the copd group and lowest in the nonsmoker group thus indicating that there were some dominant organisms in the copd group.
-
-in copd increased esophageal refluxmay result in microbial immigration from the gut.2firmicutes may be more likely than other speciestable 2 beta diversities of the six study groupsnonsmokershealthy smokerscopd patientslung tissuelung evslung tissuelung evslung tissuelung evslung tissuenonsmokers0 0168 61139 57173 60157 61190 63healthy smokers136 57150 550 0161 57165 63174 58copd patients157 61197 65165 63212 670 0207 64lung evsabbreviations copd chronic obstructive pulmonary disease ev extracellular vesicle otu operational taxonomic unit.
-
-b the order lactobacillales in the phylum firmicutes showed a marked difference in prevalence between the copd group and other groups and among sample types within the copd group.
-
-we hypothesized that the microbiome of lung evs might have distinct characteristics depending on the presence of copd and smoking status.
-
-we analyzed and compared the microbiomes of 13 nonsmokers with normal spirometry 13 smokers with normal spirometry healthy smokers and 13 patients with copd by using 16s ribosomal rna gene sequencing of surgical lung tissue and lung evs.
+b The Simpson index for lung tissue was highest in the COPD group and lowest in the nonsmoker group thus indicating that there were some dominant organisms in the COPD group.
 

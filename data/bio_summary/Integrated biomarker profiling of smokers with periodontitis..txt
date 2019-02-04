@@ -1,30 +1,20 @@
-2014 1451227-1239. doi 10.14219jada.2014.92 pubmed 25429036miller cs foley jd 3rd floriano pn christodoulides n ebersole jl campbell cl bailey al rose bg kinane df novak mj mcdevitt jt ding x kryscio rj.
+Recent studies with complex disease phenotypes have clearly demonstrated the usefulness of single classifiers in conjunction with molecular profiling in discerning distinct disease groups Kebschull and Papapanou 2010 Kebschull et al.
 
-drive lexington ky 40536.nagarajan et al.page 2introductionperiodontitis is a chronic destructive inflammatory disease that affects a majority of u.s. and global adults jin et al.
+However it is important to recognize disease variation within the smoking population and thus critical to delineate the unique biological features of health and disease in the smoking population Haytural et al.
 
-2011 eke et al.
+It is well documented that the host responds to oral bacteria with generally elevated levels of antibody to putative oral pathogens in both serum and gingival crevicular fluid in disease however some reports have suggested that severe generalized disease may show some decreased antibody levels Califano et al.
 
-2012 baelum and lopez 2013 eke et al.
+While many of these biomolecules have been detected in saliva and correlate with periodontal disease a wide array of them have also been detected in serum associated with chronic inflammation related to the oral disease Fain 2006 Zakynthinos and Pappa 2009 Cierny et al.
 
-2015 and has been associated with significant systemic consequences for general health linden et al.
+While several studies have successfully demonstrated the usefulness of molecular expression profiling in conjunction with single classifier systems in discerning distinct disease groups the majority of these studies do not provide sufficient insights into potential variations within the disease groups.Aim--The goal of the present study is to discern biological response profiles of periodontitis and non-periodontitis smoking subjects using an informed panel of biomarkers across multiple scales salivary oral microbiome pathogens and other markers.Materials and Methods--The investigation uses a novel ensemble classification approach SVA-SVM to differentiate disease groups and patient-specific biological variation of systemic inflammatory mediators and IgG antibody to oral commensal and pathogenic bacteria within the groups.Results--Sensitivity of SVA-SVM is shown to be considerably higher than several traditional independent classifier systems.
 
-2013 torumtay et al.
+Drive Lexington KY 40536.Nagarajan et al.Page 2IntroductionPeriodontitis is a chronic destructive inflammatory disease that affects a majority of U.S. and global adults Jin et al.
 
-recent studies with complex disease phenotypes have clearly demonstrated the usefulness of single classifiers in conjunction with molecular profiling in discerning distinct disease groups kebschull and papapanou 2010 kebschull et al.
+2015b we had demonstrated the usefulness of SVA in understanding potential variations between gingivitis and periodontitis populations using four critical salivary biomarkers IL-1b IL-6 MIP-1a MMP-8 corresponding to fundamental biologic processes driving the disease such as inflammation tissue destruction and bone remodeling Ebersole et al.
 
-as importantly the literature is replete with publications demonstrating differences in host factors eren et al.
+Treatment of periodontal disease is typically associated with early increases but longer-term decreases with successful therapy in antibody specific for oral bacteria Ebersole et al.
 
-2015 winning et al.
+DOI 10.1111prd.12006 PubMed 23574462Baelum V Lopez R. Periodontal disease epidemiology - learned and unlearned Periodontol 2000.
 
-2015 lutfioglu et al.
-
-2016 and oral microbes shchipkova et al.
-
-2010 bizzarro et al.
-
-however it is important to recognize disease variation within the smoking population and thus critical to delineate the unique biological features of health and disease in the smoking population haytural et al.
-
-2015 eren et al.
-
-2015. the present study applies an ensemble classification framework sva selective voting ensemble classification approach nagarajan et al.
+DOI 10.1016j.molmed.2014.11.004 PubMed 25498392Lappin DF Apatzidou D Quirke AM Oliver-Bell J Butcher JP Kinane DF Riggio MP Venables P McInnes IB Culshaw S. Influence of periodontal disease Porphyromonas gingivalis and cigarette smoking on systemic anti-citrullinated peptide antibody titres.
 

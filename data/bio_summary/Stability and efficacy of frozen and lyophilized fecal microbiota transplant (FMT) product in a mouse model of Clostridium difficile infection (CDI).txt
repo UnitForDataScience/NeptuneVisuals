@@ -1,30 +1,20 @@
-the results indicated the fmt product was not stable after 7-month storage in either frozen or lyophilized conditions.influence of storage time and microbiota species preservationchanges in fmt product bacterial species after storage analyzedby qpcr and compared by generalized linear model analysis to compare species change after storage.
+The results indicated the FMT product was not stable after 7-month storage in either frozen or lyophilized conditions.Influence of storage time and microbiota species preservationChanges in FMT product bacterial species after storage analyzedby qPCR and compared by generalized linear model analysis to compare species change after storage.
 
-bacteroides did not change significantly after storage with a p-value of 0.6109. bifidobacterium significantly decreased after storage p  0.0001. clostridium content increased over time of storage compared to the baseline reference but it did not reach a level of significance p 0.5008. e. coli levels showed a significant increase p 0.0002 after storage.
+Bifidobacterium had a statistically significant decrease after storage p  0.0001.demonstrated protective effect of FMT in treatment of recurrent CDI was maintained during six months of storage at 800 C. We could not find published data for FMT product storage beyond six months.In the present study the efficacy of fresh frozen and lyophilized products stored from 2 to 15 months were examined.
 
-none of the changes were significant p  0.05. bifidobacterium had a statistically significant decrease after storage p  0.0001.demonstrated protective effect of fmt in treatment of recurrent cdi was maintained during six months of storage at 800 c. we could not find published data for fmt product storage beyond six months.in the present study the efficacy of fresh frozen and lyophilized products stored from 2 to 15 months were examined.
+Anaerobe 48 2017 110e114113Table 3Alteration of bacterial species with storage for frozen and lyophilized FMT products.due to the housing limitations to collect stool samples from indi- vidual animal.Species2 months n 14 69 months n 14 12P-valueDeveloping advanced probiotics that interact with the gutneutralization of CDI in a mouse could be used to determine effi-Lactobacillus30.6083 28.44e31.4826.6742 25.43e27.600.0001In this study a mouse model was developed to evaluate the storage time during which frozen or lyophilized FMT productsGeneralized linear model analysis to compare species change after storage.
 
-anaerobe 48 2017 110e114113table 3alteration of bacterial species with storage for frozen and lyophilized fmt products.due to the housing limitations to collect stool samples from indi- vidual animal.species2 months n 14 69 months n 14 12p-valuedeveloping advanced probiotics that interact with the gutneutralization of cdi in a mouse could be used to determine effi-lactobacillus30.6083 28.44e31.4826.6742 25.43e27.600.0001in this study a mouse model was developed to evaluate the storage time during which frozen or lyophilized fmt productsgeneralized linear model analysis to compare species change after storage.
+Others have developed reproducible mouse models of CDI Increased storage time may be achieved by adding cryoprotectant agents to the FMT product prior to freezing or lyophilizing to prolong storage such as carbohydrates or polyol compounds .This animal model developed for studying stability of FMT products should be further refined.
 
-others have developed reproducible mouse models of cdi increased storage time may be achieved by adding cryoprotectant agents to the fmt product prior to freezing or lyophilizing to prolong storage such as carbohydrates or polyol compounds .this animal model developed for studying stability of fmt products should be further refined.
+The median diarrhea-free time for the mice treated by frozen product were 3 2 and 2 days for the storage time of 9 11and 15- month respectively.
 
-for theconsistent species dna changes in both products qpcr analysis reveals clostridium increased after storage but the changes did not reach a statistically significant level in lyophilized or frozen samples p  0.05. e. coli significantly increased over time for both products p  0.05. lactobacillus significantly decreased p  0.0001. some species dna changes are not consistent over the storage time.
+The median diarrhea-free time for the mice treated with lyophilized product were 6 2 and 3 days for the storage time of 9- 11- and 15 month respectively.
 
-the median diarrhea-free time for the mice treated by frozen product were 3 2 and 2 days for the storage time of 9 11and 15- month respectively.
+difficile VPI 10463 which produced toxins A and B used for the study was obtained from ATCC ATCC 43255 Manassas VA and stored at 80 0C before culturing on 5 blood agar plates in an anaerobic atmosphere AnaeroPack System Mitsubishi Gas Chemical Co. Inc. New York NY at 37 0C for 72 h.Diarrhea model definitions and FMT products stabilityTo evaluate the protective effect of FMT product storage time between 2 months and 15 months we included 5 mice per group in the four study groups C. difficile challenge only as a controlC.
 
-the median diarrhea-free time for the mice treated with lyophilized product were 6 2 and 3 days for the storage time of 9- 11- and 15 month respectively.
+At the different storage time points FMT product's DNA was extracted and adjusted to equal concentrations for subsequent qPCR analysis.
 
-difficile vpi 10463 which produced toxins a and b used for the study was obtained from atcc atcc 43255 manassas va and stored at 80 0c before culturing on 5 blood agar plates in an anaerobic atmosphere anaeropack system mitsubishi gas chemical co. inc. new york ny at 37 0c for 72 h.diarrhea model definitions and fmt products stabilityto evaluate the protective effect of fmt product storage time between 2 months and 15 months we included 5 mice per group in the four study groups c. difficile challenge only as a controlc.
+To quantitatively predict how storage times affected FMT outcomes Cox proportional hazard regression analysis model was performed using time of onset of diarrhea with results presented as hazard ratios using fresh product as reference.
 
-at the different storage time points fmt product's dna was extracted and adjusted to equal concentrations for subsequent qpcr analysis.
-
-to quantitatively predict how storage times affected fmt outcomes cox proportional hazard regression analysis model was performed using time of onset of diarrhea with results presented as hazard ratios using fresh product as reference.
-
-however animals treated with more than 7-month storage fmt products had both early time diarrhea and long disease-free time.
-
-prevention if cdi by frozen and lyophilized product was not different for storage of 9- 11- and 15-months.
-
-in one study of fmt storage ef-ficacy in treatment of recurrent cdi was seen for product stored at 800 c for up to six months .
-
-however the optimal storage time for the frozen fmt products re- mains unknown.
+However animals treated with more than 7-month storage FMT products had both early time diarrhea and long disease-free time.
 

@@ -1,0 +1,20 @@
+Thus transcriptomics can be considered a tool for comprehensive molecular phenotyping of the patient useful for identifying new disease subphenotypes generating hypotheses regarding disease mechanisms and in some cases discovery of disease genetics.The application of transcriptomics has focused thus far on discovery of novel biomarkers and disease mechanisms.Crouser and colleagues identified two matrix metalloproteinases MMP-12 ADAMDEC1 that were highly expressed in lung tissue and BAL and correlated with clinical disease activity 16.
+
+WORKSHOP REPORTApplication of Omics and Systems Biology to Sarcoidosis ResearchElliott D. Crouser1 Tasha E. Fingerlin2 Ivana V. Yang3 Lisa A. Maier4 Patrick Nana-Sinkam5 Ronald G. Collman6 and Naftali Kaminski71Division of Pulmonary Critical Care and Sleep Medicine Ohio State University Wexner Medical Center Columbus Ohio 2Center for Genes Environment and Health Department of Biomedical Research National Jewish Health Denver Colorado 3Department of Medicine University of Colorado School of Medicine Aurora Colorado 4Division of Occupational and Environmental HealthSciences National Jewish Health University of Colorado School of Medicine Denver Colorado 5Virginia Commonwealth University Richmond Virginia 6Department of Medicine University of Pennsylvania Perelman School of Medicine Philadelphia Pennsylvania and 7Pulmonary Critical Care and Sleep Medicine Yale School of Medicine New Haven ConnecticutORCID ID E.D.C..AbstractSarcoidosis is a complex polygenic disease of unknown cause with diverse clinical phenotypes ranging from self-limited asymptomatic disease to life-altering symptoms and early disease-related mortality.
+
+infection antigen entirely explains the disease and numerous genetic mutations are associated with the disease.
+
+In a systemic and variable disease such as sarcoidosis obtaining multiple omic profiles from multiple compartments may allow better modeling of the disease process.The ability to measure millions of data points for every single omics experiment makes hypothesis generation dependenton advanced computational approaches.
+
+For example machine learning techniques can identify sets of genes whose expression distinguishes the disease of interest from other states or to predict clinical disease severity.
+
+At the level of the organ and in the context of human disease the transcriptome represents the integration of multiple factors including the patient's genetic background the environmental stimuli to which the patient is exposed the disease process and many other variables.
+
+a biomarker such as was reported inthe context of fibrotic pulmonary sarcoidosis 26 or could direct investigators in terms of understanding disease mechanisms to guide novel therapeutics or to monitor the progression of disease 27 28.MicrobiomicsHumans exist symbiotically with microbes that inhabit multiple body sites including the skin and the gastrointestinal and respiratory tracts.
+
+Considering the complexity and varying presentations of sarcoidosis omics and systems biology techniques promise to catalyze scientific discovery to elucidatethe biological mechanisms underlying disease phenotypes to identify more effective disease biomarkers and treatments.
+
+The primary objectives of this article are to review the available omicstools assess the currentstatus of omicsand systems biology research in the field of sarcoidosis and consider how this technology could be applied to advance our understanding of the mechanistic underpinnings of disease and to develop novel treatments.Keywords granuloma genomic proteomic microbiome epigeneticReceived in original form July 18 2017 accepted in final form October 18 2017 Supported by National Institutes of Health Grants R34HL123586 and R13HL126399 E.D.C.
+
+Fresh tissue sortingsingle-cell analysis and laser capture microdissection 7 are all increasingly used including in lung disease 8.
+

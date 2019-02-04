@@ -1,0 +1,20 @@
+Similarly ordination methods are valuable tools for capturing snapshots of these microbial populations and better understanding the major driving factors affecting these populations.Although it is clear that the frontier of microbiome research is shifting to under- standing microbiome dynamics it re- mains a challenge to ''see'' the dynamics in these increasingly large datasets.
+
+We previously created a web-based application EMPeror for visualizing ordinations derived from comparisons of these microbiome communities.
+
+We have now improved EMPeror to create interactive animations that connect successive samples to highlight patterns over time.IntroductionRecent developments in high-throughput DNA sequencing improvements in mo- lecular methods and the continual in- crease in computational power have enabled microbiome researchers to test ever-more sophisticated hypotheses and study designs.
+
+Just a decade ago a microbiome study with a few dozen sam- ples was considered large.
+
+Furthermore many selective pres- sures act on the microbiome.
+
+Currently when antibiotics or other pharmaceuticals are prescribed the doctor does not know the ''state'' of the microbiome or how it will be altered.
+
+Being able to read out and predict changes in the microbiome will enable a field of precision medicine for restoring the altered ecology to a healthy one.
+
+Similarly there is great hope that designer pre- and probiotics will be powerful tools for ''gardening'' one's microbiome back to health.
+
+How- ever until more quantitative and large- scale trials have been performed with longitudinal tracking of the changes in the microbiome the precise impact of these tools will remain at best a conjecture.With the improved understanding of human microbial dynamics the concep- tual framework of medicine will continue to experience big changes.
+
+Given the high dimensionality of microbiome studies dimensionality reduction techniques otherwise known as ordinations have been widely used in the field some examples include principal component analysis PCA principal coordinates analysis PCoA non-metric multidimen- sional scaling NMDS and correspon- dence analysis CA.
+

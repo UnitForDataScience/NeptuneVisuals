@@ -1,30 +1,20 @@
-phytopathology 97 958-963. cornelis p. 2013. iron transport systems and iron homeostasis in pseudomonas in iron uptake in bacteria with emphasis on e. coli and pseudomonas springerbriefs in molecular science eds r. chakraborty v. braun k. hantke and p. cornelis dordrecht springer 67-89. depoorter e. bull m. j. peeters c. coenye t. vandamme p. and mahenthiralingam e. 2016. burkholderia an update on taxonomy and biotechnological potential as antibiotic producers.
+Therefore it is interesting to understand the antimicrobial activity forall six strains against P. nicotianae and P. palmivora which cause root rot both species and foot rot P. nicotianae only.
 
- 1  utpal handique1  1  megan m. dewdney2 and 11 citrus research and education center department of microbiology and cell science institute of food and agricultural sciences university of florida lake alfred fl united states 2 citrus research and education center department of plant pathology institute of food and agricultural sciences university of florida lake alfred fl united statesedited byhua lu university of maryland baltimoreunited statesreviewed byhuang lili northwest af university chinazhengqing fu university of south carolinaunited statescorrespondencenian wang specialty section this article was submitted to plant microbe interactions a section of the journal frontiers in microbiologyreceived 02 june 2017accepted 22 november 2017published 07 december 2017citation riera n handique u zhang y dewdney mm and wang n 2017characterization of antimicrobial-producing beneficial bacteria isolated from huanglongbingescape citrus trees.
+RAST annotation identified 8366 7722 and 4615 features in Burkholderia territorii Burkholderia metallica and P. geniculata draft genomes respectively.Genes Responsible for Beneficial TraitsThe PATRIC database was used to search for genes typically involved in beneficial traits for the four strains.
 
-genes involved in phosphate solubilization siderophore production and iron acquisition volatile organic compound production osmoprotection and osmotic tolerance phytohormone production antagonism and nutrient competition were predicted and discussed related to the beneficial traits.keywords plant growth-promoting bacteria pgpb citrus microbiome hlb antimicrobial antifungal compoundsintroductioncitrus huanglongbing hlb also known as citrus greening is a devastating citrus disease    .
+For instance the presence of cellulase gene in Bacillus pumilusstrain 104 Burkholderia metallica strain A53 and Burkholderia territorii strain A63 could potentially explain the antagonistic activity against P. nicotianae in vitro that was not seen forP.
 
-this study advanced our understanding of the roles of microbiome on hlb-escape trees and the potential application of beneficial bacterial in disease management.materials and methodsisolation of bacteria from healthy citrus rhizosphereall bacterial strains used in this study were isolated from the rhizosphere of asymptomatic citrus trees in citrus groves with most trees showing severe hlb symptoms.
+Among the antimicrobial-producingisolates Burkholderia metallica A53 and Burkholderia territorii strain A63 which were isolated from a mandarin rhizosphere belong to the Burkholderia cepacia complex BCC.
 
-88 7-37. bove j. m. calavan e. c. capoor s. p. cortez r. e. and schwarz r. e. 1974. influence of temperature on symptoms of california stubborn south africa greening india citrus decline and philippines leaf mottling diseases in proceedings of the sixth conference of the international organization of citrus virologists oakland ca university of california 12-15.chen x. h. scholz r. borriss m. junge h. mogel g. kunz s. et al.
+Inhibition of P. nicotianae growth by VOCs was significant for R. jialingiae strain 108 P. geniculata strain 95 and B. pumilus strain 104.
 
-here we focus our attention in understanding the potential of putative beneficial bacteria in directly antagonizing las other citrus pathogens and promoting plant growth.the goal of this study was to isolate and characterize antimicrobial-producing bacterial strains from the rhizosphere of hlb escape citrus trees.
+Also they would like to acknowledge Dr. James H. Graham for providing P. nicotianae and P. palmivora and Diane Bright for her help and suggestions.SUPPLEMENTARY MATERIALThe Supplementary Material for this article can be found online at REFERENCESAziz R. K. Bartels D. Best A.
 
-76 3427-3436. trivedi p. spann t. and wang n. 2011. isolation and characterization of beneficial bacteria associated with citrus roots in florida.
+Notably Burkholderia metallica strain A53 was able to solubilize phosphate and P. granadensis strain 100 was positive for siderophore production.Antimicrobial Activity against Phytophthora spp.
 
-therefore it is interesting to understand the antimicrobial activity forall six strains against p. nicotianae and p. palmivora which cause root rot both species and foot rot p. nicotianae only.
+nicotianae and P. palmivora  whereas Burkholderia spp.
 
-inhibition of p. nicotianae growth by vocs was significant for r. jialingiae strain 108 p. geniculata strain 95 and b. pumilus strain 104. it is noticeable that inhibition of p. nicotianae by bacillus pumilus strain 104 may result from the production of vocs or a combination of vocs and antimicrobial compounds.
+Alpha alpha-trehalose-phosphate synthase and trehalose-6-phosphate phosphatase are two enzymes important for the synthesis of trehalose and both genes are present in P. geniculata strain 95 and the two Burkholderia strains A53 and A63.Phytohormone Production1-Aminocyclopropane-1-carboxylate deaminase ACC deaminase is known to regulate plant development by reducing levels of the plant hormone ethylene  .
 
-four bacterial strains burkholderia territorii a63 burkholderia metallica a53 pseudomonas geniculata 95 and bacillus pumilus 104 were shown to have antagonistic activity against the citrus root pathogen phytophthora nicotianae based on dual culture antagonist assays and compartmentalized petri dish assays.
-
-four of the six strains belong to the proteobacteria phylum the most abundant phylum in the citrus microbiome   with burkholderia metallica strain a53 and burkholderia territorii strain a63 within the b-proteobacteria class whereas pseudomonas granadensis strain 100 and pseudomonas geniculata strain 95 within the g-proteobacteria class.
-
-both burkholderia metallica a53 and burkholderia territorii strain a63 have the ability to modulate citrus immune system under greenhouse conditions when applied as soil drench.
-
-understanding the beneficial traits of burkholderia metallica a53 and burkholderia territorii strain a63 might provide useful hints on promoting citrus growth and disease management.antimicrobials produced by pgpb might also suppress eukaryotic plant pathogens.
-
-paired end reads 150 bp were generated using an illumina hiseq2000 platform by novogene corporation for bacillus pumilus strain 104 and p. geniculata strain 95. burkholderia territorii strain a63 and burkholderia metallica strain a53 were sequenced by bgi shenzhen using illumina hiseq2000 and paired end reads 125 bp were generated.
-
-rast annotation identified 8366 7722 and 4615 features in burkholderia territorii burkholderia metallica and p. geniculata draft genomes respectively.genes responsible for beneficial traitsthe patric database was used to search for genes typically involved in beneficial traits for the four strains.
+However indolepyruvate ferredoxin oxidoreductase and indole-3-glycerol phosphate synthase were found in the two Burkholderia strains and in P. geniculata strain 95.
 

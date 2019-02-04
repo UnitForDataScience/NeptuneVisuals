@@ -1,30 +1,20 @@
-furthermore we cannot exclude that isolates obtained here contain other virulence genes that were not targeted in the present study.finally the clonal relationship and population structure baps groups found in e. faecium and e. faecalis isolates indicated that the vast majority of our e. faecium isolates clustered in subgroups 2.1a and 3.3a2 representing separate hospital lineages that belong to clade a1 that contains most nosocomial e. faecium isolates willems et al.
+Furthermore we cannot exclude that isolates obtained here contain other virulence genes that were not targeted in the present study.Finally the clonal relationship and population structure BAPs groups found in E. faecium and E. faecalis isolates indicated that the vast majority of our E. faecium isolates clustered in subgroups 2.1a and 3.3a2 representing separate hospital lineages that belong to clade A1 that contains most nosocomial E. faecium isolates Willems et al.
 
-furthermore simultaneous presence andor replacement of e. faecium sts was observed- reinforcing the importance of screening multiple isolates to comprehensively characterize enterococcal diversity in icu patients.keywords enterococcus intestinal colonization antibiotic resistance virulence factors antibiotic prophylactic therapy selective digestive decontaminationintroductionthe genus enterococcus encompasses indigenous commensal bacteria reported from the human and animal gut as well as the oral cavity and vagina in humans where they have adapted to nutrient-rich oxygen-depleted and ecologically complex environments fisher and phillips 2009.in the human gut the genus enterococcus can constitute up to 1 of the total bacterial microbiota in healthy individuals with enterococcus faecium and enterococcus faecalis as most common species sghir et al.
+The majority of the STs belonged to BAPS group 2.1a 18 isolates and 15 of them were resistantto ampicillin ST117 n  12 ST78 n  2 and ST730 n  1.Other sub-groups observed included BAPS 1.2 2 isolates as well as BAPS 3.3a2 3 isolates.
 
-2016. in addition other enterococcal species including enterococcus durans enterococcus avium enterococcus gallinarum enterococcus casseliflavus enterococcus raffinosus and enterococcus hirae have sporadically been associated with infections in humans klein 2003.most of the e. faecium and e. faecalis infections are opportunistic and are increasingly difficult to treat due to high rates of resistance to b-lactams aminoglycosides and vancomycin which are mostly associated with e. faecium strains cattaneo et al.
+Three out of these four ST589 isolates carried the ermB gene.From the group of E. faecalis isolates belonging to ST6 n 6 three carried ermB asa and esp genes and were susceptible toampicillin whereas the other three isolates displayed resistance to ampicillin.
 
-faecium populations differ with respect to the observed clonal lineages between hospitalized patients and community-based individuals.moreover the previous identification by whole genome sequencing of e. faecium isolates of distinct hospital a1 and commensal b clades suggests that a distinct evolutionary background exists between commensal and clinical isolatespalmer et al.
+2016.The clinical isolates causing nosocomial infections in the patients included in our study were not available for further analysis which limited the possibility to clarify whether the infections derived from the isolates colonizing the patient in that period and whether the isolates obtained from fecal material correspond to a nosocomial acquisition or selection of strains that were present in the gut microbiota of these patients priorto hospitalization.
 
-six patients receiving sdd developed nosocomial enterococcal infections during icu stay figure 1 including one pleural infection caused by e. faecium six urinary tract infections two episodes in a single patient caused by e. faecalis five cases and e. faecium one case and one central line catheter associated infection caused by e. faecalis two episodes in a single patient.
+Furthermore 30 out of 41 isolates harbored the erm B gene mainly present in E. faecium isolates 78.
 
-faecium isolates21 91 e. faecium three 23 e. faecalisand one 20 e.sp e.sp5.
+In this study we characterized Enterococcus isolates colonizing the intestinal tract of ICU patients receiving SDD therapy and to evaluate in more detail the genetic relatedness of E. faecalis and E. faecium isolates using MLST and Bayesian analysis of the population structure BAPS.
 
-2012.in our study the highest prevalence of ampicillin resistance were found in e. faecium isolates compared to non-ampicillin resistant-e. faecium isolates.
+The most commonly found species were E. faecium 23 isolates and E. faecalis 13 isolates.
 
-strains were isolated and characterized from these patients at different time points during and after icu hospitalization including e. faecalis n  13 e. faecium n  23 and five isolates that could not unequivocally assigned to a specific species e. sp.
+In the patients substantial shifts in the absolute enterococcal 16S rRNA gene copy number were observed during the hospitalization period Figure 2.Antimicrobial SusceptibilityAll isolates were vancomycin-susceptible MIC 0.5-2 ugml except for a single vancomycin resistant MIC 16 ugml isolate closely related to E. gallinarum E.sp3 99 nucleotide identity.Ampicillin resistance was detected in 25 out of 41 isolates with the highest prevalence of resistant strains being found amongstE.
 
-n  5 multi locus sequence typing revealed a high prevalence of st 6 in e. faecalis isolates 46 and st 117 in e. faecium 52. furthermore antibiotic resistance phenotypes including macrolide and vancomycin resistance as well as virulence factor-encoding genes asa1 esp-fm esp-fs hyl and cyl b were investigated in all isolates.
+The asa1 gene was frequently present in E. faecalis isolates n  713 whereas the esp gene was more often found in E. faecium isolates n  1723.
 
-furthermore 30 out of 41 isolates harbored the erm b gene mainly present in e. faecium isolates 78. the most prevalent virulence genes were asa1 in e. faecalis 54 and esp esp-fm 74 esp-fs 39. six out of nine patients developed nosocomial enterococcal infections however corresponding clinical isolates were unfortunately not available for further analysis.
-
-2000. in contrast to their commensal role over the past decades e. faecium and e. faecalis have also emerged as agents of nosocomial infections such as endocarditis bacteraemia meningitis wound and urinary tract infections guzman prieto et al.
-
-2011. both e. faecium ande.
-
-2004whereas for e. faecium genes associated with virulence encode a putative hyalorunidase hyl klare et al.
-
-2013 among others.studies using multi locus sequence typing mlst have shown that there is a remarkable difference in the population structure between e. faecalis and e. faecium palmer et al.
-
-2016.in contrast in e. faecium high-risk clonal-complexes exist which exhibit high levels of antibiotic resistance and are significantly associated with clinical infections in hospitalized patients leavis et al.
+2008 was not detected in any of the isolates Figure 1.Clonal Relatedness and Analysis of Population StructureUsing MLST we established the clonal relationship of all E. faecium and E. faecalis isolates obtained in this study.
 

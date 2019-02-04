@@ -1,30 +1,20 @@
-while there were no significant differences between the two clusters for the signatures of hpv 6b hpv 16 hpv 26 hhv 8 hhv 6b hhv 5 retroviral signatures certain pox viral signatures parapox viral signatures and polyoma viral signatures there were significant differences in the detection of some of the viral and all the bacterial fungal and parasiticfigure 3. fungal a-e and parasitic f-j signatures detected in oral cancer samples.
+We detect a distinct OCSCC microbiome signature consisting primarily of HPV16 viral signatures bacterial signatures of Proteobacterias Eshcherichia Brevundimonas Comamonas Alcaligenes Caulobacter Cardiobacterium Plesiomonas Serratia Edwardsiella Haemophilus Frateuria along with Actinobacteria Rothia and Bacteroidetes Peptoniphilus fungal signatures of Rhodotorula Geotrichum Pneumocystis and parasitic signatures of Hymenolepis Centrocestus Trichinella to be associated only with OCSCC and not the controls.
 
-we detect a distinct ocscc microbiome signature consisting primarily of hpv16 viral signatures bacterial signatures of proteobacterias eshcherichia brevundimonas comamonas alcaligenes caulobacter cardiobacterium plesiomonas serratia edwardsiella haemophilus frateuria along with actinobacteria rothia and bacteroidetes peptoniphilus fungal signatures of rhodotorula geotrichum pneumocystis and parasitic signatures of hymenolepis centrocestus trichinella to be associated only with ocscc and not the controls.
+While there were no significant differences between the two clusters for the signatures of HPV 6b HPV 16 HPV 26 HHV 8 HHV 6B HHV 5 retroviral signatures certain pox viral signatures parapox viral signatures and polyoma viral signatures there were significant differences in the detection of some of the viral and all the bacterial fungal and parasiticFigure 3.
 
-as in the case of the viruses the bacterial microbial signatures showed a significant divergence in the ocscc when compared to the normal signatures and were more robust.fungal signatures associated with ocscc.
+As in the case of the viruses the bacterial microbial signatures showed a significant divergence in the OCSCC when compared to the normal signatures and were more robust.Fungal signatures associated with OCSCC.
 
-however both group a and group b ocscc samples were positive for bacterial signatures of frateuria mobiluncus fungal signatures of cladophialophora fonsecaea and rhodotorula and all the parasitic signatures except for trichinella in addition to hpv16 signatures.clustering of the ocscc samples were done using nbclust software as described in the methods section fig.
+However both group A and group B OCSCC samples were positive for bacterial signatures of Frateuria Mobiluncus fungal signatures of Cladophialophora Fonsecaea and Rhodotorula and all the parasitic signatures except for Trichinella in addition to HPV16 signatures.Clustering of the OCSCC samples were done using NBClust software as described in the methods section Fig.
 
-the 6 un-grouped samples had significantly lower detection of the majority of microbial signatures that were detected in the 'grouped' samples table  un-grouped vs group a b except for fungal signatures of cladosporium and viral signatures of polyomaviridae and hpv16.the clustering analysis clearly showed that the ocscc samples fall into at least two distinct microbial sig- natures.
+The 6 un-grouped samples had significantly lower detection of the majority of microbial signatures that were detected in the 'grouped' samples Table  un-grouped vs group a b except for fungal signatures of Cladosporium and viral signatures of Polyomaviridae and HPV16.The clustering analysis clearly showed that the OCSCC samples fall into at least two distinct microbial sig- natures.
 
-to identify the microbial signatures associated with ocscc both dna and rna were extracted from the samples subjected to whole genome and transcriptome amplification referred here as wgta labelled and hybridized to the probes on the pathochip.viral signatures associated with ocscc.
+The microbiome signatures found in OCSCC tissue were quite different from signatures found in adjacent clinically normal controls or oral tissue from otherwise healthy controls.
 
-the microbiome signatures found in ocscc tissue were quite different from signatures found in adjacent clinically normal controls or oral tissue from otherwise healthy controls.
+To identify the microbial signatures associated with OCSCC both DNA and RNA were extracted from the samples subjected to whole genome and transcriptome amplification referred here as WGTA labelled and hybridized to the probes on the PathoChip.Viral signatures associated with OCSCC.
 
-these data show that viral signature is significantly changed when compared specifically to the ocscc tissue.bacterial signatures associated with ocscc.
+Again we note that a significant change in the fungal biome of OCSCC was observed when compared to control oral samples.Parasitic signatures associated with OCSCC.
 
-again we note that a significant change in the fungal biome of ocscc was observed when compared to control oral samples.parasitic signatures associated with ocscc.
+a Pie charts showing the percentage of different groups and phyla of bacteria detected in oral cancer matched MC and non-matched controls NC.b The bacterial signatures that are detected with hybridization signal g-r 30 by PathoChip screen of 100 oral cancer samples and in MCs and NCs are shown and ranked according to decreasing hybridization signal weighted score sum of all the probes per accession and prevalence.
 
-however we detected species of streptomyces in the ocscc tumor site and in both matched and non-matched controls and signatures of prevotella in both ocscc and non-matched controls.there are few studies showing an association between fungi and cancer.
-
-epstein-barr virus ebv has been detected in 60 of ocscc samples in one study 38 of ocscc patients in another and in the majority of ocscc samples in another study.
-
-notably viral signatures of coronoviridae picornaviridae adenoviridae anelloviridae hepadnaviridae and flaviviridae were significantly and specifically detected in the controls along with signatures of non-hpv16 papillomaviridae fig.
-
-.as expected the matched control samples shared some of the bacterial signatures that were detected in the can- cer samples along with other bacterial signatures of normal oral flora fig.
-
-among the fungal signatures detected in the non-matched control samples signatures of cladosporium phialophora cladophialophora piedraia pleistophora and alternaria were detected in all fig.
-
-the bacterial signatures were broadly detected in group a samples compared to the sporadic bacterial signatures detected in group b samples with rothia and mobiluncus detected in both a and b groups.
+.As expected the matched control samples shared some of the bacterial signatures that were detected in the can- cer samples along with other bacterial signatures of normal oral flora Fig.
 

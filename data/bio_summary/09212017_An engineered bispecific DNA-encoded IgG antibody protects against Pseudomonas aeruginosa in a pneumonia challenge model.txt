@@ -1,30 +1,20 @@
-to confirm dmab expression in mouse muscle anti-p. aeruginosa dmab-apcrv 100 mg dmab-bispa 100 mg control dmab-dvsf3 100 mg or control pgx0001 empty vector 100 mg were administered to balbc mice byabdmab expression in 293t cell supernatantdmab expression inc293t cell lysate100 kda80 kda3.53.02.53.5hc 50 kda3.02.560 kda50 kda40 kda2.01.51.00.50.02.01.51.00.50.0lc 25 kdadmab-apcrvdmab- bispapvax1 apcrv30 kda20 kdafig.
+To confirm DMAb expression in mouse muscle anti-P. aeruginosa DMAb-aPcrV 100 mg DMAb-BiSPA 100 mg control DMAb-DVSF3 100 mg or control pGX0001 empty vector 100 mg were administered to BALBc mice byabDMAb expression in 293T cell supernatantDMAb expression inc293T cell lysate100 kDa80 kDa3.53.02.53.5HC 50 KDa3.02.560 kDa50 kDa40 kDa2.01.51.00.50.02.01.51.00.50.0LC 25 KDaDMAb-aPcrVDMAb- BiSPApVax1 aPcrV30 kDa20 kDaFig.
 
-all bioprocessed anti-pseudomonal igg mabs anti-psl anti-pcrv and medi3902 have been pre- viously shown to be protective against p. aeruginosa clinicalisolates derived from diverse serotypes multiple t3s phenotypes cytotoxic vs. invasive strain exou exos- exou- exos respectively and multiple infection sites-  .the field of mab engineering is evolving dynamically and dmab delivery offers an additional strategy to help transporta100755025dmab-dvsf3 100 mgsaline  mem 2.3 mgkg dmab-bispa 100 mgdmab-bispa 100 mg  mem 2.3 mgkg0024487296120144b4210.50.250.1250.0625hours after infection human iggdmab-dvsf3 100 mgsaline  mem 2.3 mgkg dmab-bispa 100 mgdmab-bispa 100 mg  mem 2.3 mgkglod 0.1fig.
+All bioprocessed anti-Pseudomonal IgG mAbs anti-Psl anti-PcrV and MEDI3902 have been pre- viously shown to be protective against P. aeruginosa clinicalisolates derived from diverse serotypes multiple T3S phenotypes cytotoxic vs. invasive strain ExoU ExoS- ExoU- ExoS respectively and multiple infection sites-  .The field of mAb engineering is evolving dynamically and DMAb delivery offers an additional strategy to help transporta100755025DMAb-DVSF3 100 mgSaline  MEM 2.3 mgkg DMAb-BiSPA 100 mgDMAb-BiSPA 100 mg  MEM 2.3 mgkg0024487296120144b4210.50.250.1250.0625Hours after infection Human IgGDMAb-DVSF3 100 mgSaline  MEM 2.3 mgkg DMAb-BiSPA 100 mgDMAb-BiSPA 100 mg  MEM 2.3 mgkgLOD 0.1Fig.
 
-a balbc mice were injected with control dmab-dvsf3 100 ug saline  mem 2.3 mg kg-1 dmab-bispa 100 ug or dmab-bispa 100 ug  mem 2.3 mg kg-1 and then challenged with a lethal dose of p. aeruginosa 6077. mem was administered 1 h post lethal challenge.
+We selected two anti-P. aeruginosa mAb genes to be re-encoded for optimal expression into a DNA expression vector system based on their previously described potent protective in vivoactivity against lethal P. aeruginosa infection .
 
-.we next evaluated dmab expression in immunocompetent balbc mice as they are commonly used as a model for p. aeruginosa infection.
+Although we did not evaluate DMAb activity against apanel of P. aeruginosa bacterial strains the experiments outlined in this manuscript demonstrate that DMAb is functionally equivalent to protein IgG.
 
-we selected two anti-p. aeruginosa mab genes to be re-encoded for optimal expression into a dna expression vector system based on their previously described potent protective in vivoactivity against lethal p. aeruginosa infection .
+The remaining animals in each group were then challenged with a lethal dose of P. aeruginosa by intranasal inoculation followed by monitoring of survival for6 days post infection 144 h. Animals receiving the control DMAb-DVSF3 succumbed to infection within 24-55 h. In con- trast approximately 94 of animals 1516 that received either DMAb-aPcrV or DMAb-BiSPA survived challenge Fig.
 
-fol- lowing confirmation of in vitro expression we investigated expression of dna-delivered dmab-apcrv and dmab-bispa in mice.
+a BALBc mice were injected with control DMAb-DVSF3 100 ug saline  MEM 2.3 mg kg-1 DMAb-BiSPA 100 ug or DMAb-BiSPA 100 ug  MEM 2.3 mg kg-1 and then challenged with a lethal dose of P. aeruginosa 6077.
 
-although we did not evaluate dmab activity against apanel of p. aeruginosa bacterial strains the experiments outlined in this manuscript demonstrate that dmab is functionally equivalent to protein igg.
+These two infec- tious disease models did not require high serum IgG levels however optimized DMAb formulations to increase expression levels are desirable so as to provide extended coverage after a single DMAb administration.
 
-these two infec- tious disease models did not require high serum igg levels however optimized dmab formulations to increase expression levels are desirable so as to provide extended coverage after a single dmab administration.
+This is facilitated though specific Ig heavy and light chain nucleotide sequence optimizations formulation development and by recent advances in in vivo electroporation EP technology that hasdirectly lead to increased DNA uptake into cells translating to significantly enhanced DNA expression in vivo.Employing this pathogen-specific approach we utilized the DMAb platform to deliver two well-characterized mAbs targeting Pseudomonas aeruginosa an environmentally ubiquitous bacter- ium that can cause life-threatening infections in critically ill and immunocompromised patients.
 
-this is facilitated though specific ig heavy and light chain nucleotide sequence optimizations formulation development and by recent advances in in vivo electroporation ep technology that hasdirectly lead to increased dna uptake into cells translating to significantly enhanced dna expression in vivo.employing this pathogen-specific approach we utilized the dmab platform to deliver two well-characterized mabs targeting pseudomonas aeruginosa an environmentally ubiquitous bacter- ium that can cause life-threatening infections in critically ill and immunocompromised patients.
+.We next evaluated DMAb expression in immunocompetent BALBc mice as they are commonly used as a model for P. aeruginosa infection.
 
-toward this end we sought to optimize serum dmab expression levels for our efforts against p. aeruginosa supplementary fig.
-
-in addition treatment of mice with dmab-bispa at 100 mg 1 site x 100 ug 200 mg2 sites x 100 ug or 300 ug 3 sites x 100 ug followed by infec- tion with p. aeruginosa yielded concentration-dependent survival fig.
-
-b e. human igg1 dmab expression in balbc mice was eliminated by the mouse immune system by day 14 supplementary fig.
-
-3 in vivo expression of dmab-apcrv and dmab-bispa in mice.
-
-furthermore the low cost of dmab production the favorable safety profile of dna delivery in humans and the ease of administrationwould benefit a wider population of individuals that are at risk for infection.here we describe the development and analysis of synthetic dmabs consisting of a monospecific anti-pcrv igg dmab- apcrv and clinical candidate bispecific antibody medi3902 dmab-bispa for in vivo production and activity.
-
-d serum dmab concentrations with different doses of dmab-bispa.
+Toward this end we sought to optimize serum DMAb expression levels for our efforts against P. aeruginosa Supplementary Fig.
 

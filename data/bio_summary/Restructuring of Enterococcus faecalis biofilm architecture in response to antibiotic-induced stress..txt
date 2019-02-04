@@ -1,30 +1,20 @@
-we also provide evidence that exposure of parent biofilms to subinhibitory concentrations of antibiotics results in restructuring of biofilms into a complex three- dimensional 3d architecture reminiscent of depaox biofilms grown in the absence of antibiotics.
+We also provide evidence that exposure of parent biofilms to subinhibitory concentrations of antibiotics results in restructuring of biofilms into a complex three- dimensional 3D architecture reminiscent of DepaOX biofilms grown in the absence of antibiotics.
 
-faecalis restructures into microcolony biofilms in response to antibioticsto determine the impact of antibiotics on established biofilms we cultured parent and depaox strains in cbrs for 24 h without antibiotic and then exposed the resulting biofilms to antibiotic and examined architecture using sem.
+faecalis restructures into microcolony biofilms in response to antibioticsTo determine the impact of antibiotics on established biofilms we cultured parent and DepaOX strains in CBRs for 24 h without antibiotic and then exposed the resulting biofilms to antibiotic and examined architecture using SEM.
 
-sem micrographs showed that the biofilms of the depaox mutant remained the same throughout the 48 h time course with cells chaining clumping and forming complex 3d biofilms fig.
+SEM micrographs showed that the biofilms of the DepaOX mutant remained the same throughout the 48 h time course with cells chaining clumping and forming complex 3D biofilms Fig.
 
-6. while increased biofilm detachment could be advantageous for bacterial dissemination during infection detachment could be disadvanta- geous for e. faecalis by making the detached bacteria more susceptible to antibiotics or the immune response.microcolony formation in cbr grown e. faecalis biofilms could be viewed as a stress response where the source of stress for parent biofilms is antibiotics while depaox mutant cells may be experiencing increased stress in the absence of antibiotics due to cell envelope defects.
+While increased biofilm detachment could be advantageous for bacterial dissemination during infection detachment could be disadvanta- geous for E. faecalis by making the detached bacteria more susceptible to antibiotics or the immune response.Microcolony formation in CBR grown E. faecalis biofilms could be viewed as a stress response where the source of stress for parent biofilms is antibiotics while DepaOX mutant cells may be experiencing increased stress in the absence of antibiotics due to cell envelope defects.
 
-the antibiotics used were chosen based on clinical relevance and the concentrations were chosen based on previous results demonstrating that these concentrations were subinhibitory for planktonic growth.in the absence of antibiotics parent cells formed monolayer biofilms that resulted in the formation of occasional microcolonies greater than two cells in depth after 48 h of growth.
+The antibiotics used were chosen based on clinical relevance and the concentrations were chosen based on previous results demonstrating that these concentrations were subinhibitory for planktonic growth.In the absence of antibiotics parent cells formed monolayer biofilms that resulted in the formation of occasional microcolonies greater than two cells in depth after 48 h of growth.
 
-in total these data suggest that parent restructuring from monolayers into microcolonies is mediated by the division or rearrangement of bacterial cells attached prior to antibiotic treatment vs. new colonization by planktonic cells in the cbr vessel.microcolony biofilms show reduced structural integrity relative to monolayer biofilmswhile removing samples from the cbrs for imaging we observed turbidity differences between parent and depaox in the liquid phase of the cbr cultures following antibiotic exposure.
+In total these data suggest that parent restructuring from monolayers into microcolonies is mediated by the division or rearrangement of bacterial cells attached prior to antibiotic treatment vs. new colonization by planktonic cells in the CBR vessel.Microcolony biofilms show reduced structural integrity relative to monolayer biofilmsWhile removing samples from the CBRs for imaging we observed turbidity differences between parent and DepaOX in the liquid phase of the CBR cultures following antibiotic exposure.
 
-few cells stained with propidium iodide pi which stains dead cells or cells with increased permeability supplementary fig.
+Few cells stained with propidium iodide PI which stains dead cells or cells with increased permeability Supplementary Fig.
 
-in addition the structural stability of e. faecalis biofilms exhibiting increased 3d cellular architecture is significantly diminished relative to monolayer biofilms even though biofilm biomass is not reduced.
+In addition the structural stability of E. faecalis biofilms exhibiting increased 3D cellular architecture is significantly diminished relative to monolayer biofilms even though biofilm biomass is not reduced.
 
-in addition depaox biofilms were much less stable overall than parent biofilms in both the absence andbiofilm restructuring in e. faecalisjl dale et al.4fig.
+In addition DepaOX biofilms were much less stable overall than parent biofilms in both the absence andBiofilm restructuring in E. faecalisJL Dale et al.4Fig.
 
-low-voltage scanning electron microscopy sem demonstrating the presence of cellular appendages triangles produced by e. faecalis biofilms not exposed to antibiotics compared to extracellular debris squares released from biofilms exposed to daptomycin dap scale bars 1 umfig.
-
-in support of this hypothesis rt-qpcr analysis demonstrated that e. faecalis parent biofilms treated with dap or gm showed increased expression of three stress response genes sigv cror and liar compared to untreated biofilms supplementary table 2. these three stress response genes show increased expression in response to environmental pressure cell- wall active antibiotics and cell envelope damage-respec- tively in e. faecalis and other organisms.
-
-interestingly gm- exposed parent biofilms exhibited the largest fold-change increase in the stress response genes even though dap-exposed parent biofilms demonstrated the most drastic biofilm architec- ture phenotypes.
-
-these results suggest there is increased cell lysis andor release of intracellular content from biofilm cells exposed to dap with somewhat higher levels of released material evident in the depaox biofilms fig.
-
-2. after 8 h exposure to gm parent cells started clustering into small microcolonies that were more apparent by 24 h. the depaox mutant continued to form the same complex 3d architecture biofilms in the presence of gm as was observed when cultured without antibiotics.
-
-this suggested that the structural stability of e. faecalis biofilms could be impacted by the complexity of the biofilm architecture with increased turbidity resulting from detachment of biofilm cells.
+Low-voltage scanning electron microscopy SEM demonstrating the presence of cellular appendages triangles produced by E. faecalis biofilms not exposed to antibiotics compared to extracellular debris squares released from biofilms exposed to daptomycin DAP scale bars 1 umFig.
 

@@ -1,0 +1,20 @@
+Furthermore RNAlaterOR can interfere with the DNA extraction process Athanasio et al.To prepare reads for bacterial community analyses in QIIME version 1.9.1 Caporaso et al.
+
+Overall NAP had better preservation qualities than RNAlaterr and DNARNA ShieldTM making this self-made buffer a valuable solution in wildlife microbiome studies.Keywords gut microbiome fecal samples sample preservation swabs buffer freezing sheep next-generation sequencingINTRODUCTIONRecent advances in high-throughput sequencing computational techniques and new bioinformatics tools have tremendously increased our knowledge about the beneficial role of symbiotic gut microbes in host nutrition the immune system and social interactions and the negative implications of microbiome disorders promoting human diseases Kau et al.
+
+2011 Cho and Blaser 2012 Althani et al.
+
+2016 O'Doherty et al.
+
+Indeed gut microbiome research into non-model species for whichsuch information has previously been lacking is becoming increasingly popular and highlights important aspects with respect to animal health and conservation Bahrndorff et al.
+
+2016 Stumpf et al.
+
+Since these primers amplify across bacterial taxa this simple and cost-effective approach provides ideal data sets for microbial community analyses Soergel et al.
+
+After initial quality filtering the obtained reads are clustered according to a similarity threshold are compared with bacterial databases for assignment of taxonomy DeSantis et al.
+
+2006 Quast et al.
+
+If this is not possible then fresh samples should be immediately frozen until laboratory analyses can be carried out Wu et al.
+

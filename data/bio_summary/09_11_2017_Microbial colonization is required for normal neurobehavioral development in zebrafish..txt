@@ -1,30 +1,20 @@
-compared to mammals it is relatively simple to generate microbe-free axenic zebrafish and axenic zebrafish subsequently colonized with diverse zebrafish facil- ity microbes or single strains of microbes-and to administer probiotics to conventionally colonized fish .
+Conventionally colonized axenic and axenic larvae colonized at 1 day post fertilization dpf were evaluated using a standard locomotor assay.
 
-these findings support the use of zebrafish as an efficient experimental model system to define mechanisms underlying host-microbiota relationships that may be relevant to human health and environmental toxicology.locomotor activity has been widely used as an indicator of neurobehavioral function in the zebrafish model in drug development  chemical toxicity  and more recently microbiome  research.
+Colonization of axenic embryos at 1 dpf with individual bacterial species Aeromonas veronii or Vibrio cholerae was sufficient to block locomotor hyperactivity at 10 dpf.Exposure to heat-killed bacteria or microbe-associated molecular patterns pam3CSK4 or PolyIC was not sufficient to block hyperactivity in axenic larvae.
 
-here we amplified quantitated and sequenced the 16s rrna gene to describe host-associated microbial communities in axenic zebrafish colonized on day 1 and conventionally colonized zebrafish larvae.
+Compared to mammals it is relatively simple to generate microbe-free axenic zebrafish and axenic zebrafish subsequently colonized with diverse zebrafish facil- ity microbes or single strains of microbes-and to administer probiotics to conventionally colonized fish .
 
-we investigated whether early life microbial disruption alters neurodevelopment and behavior in larval zebrafish.
+To examine whether micro- biota modify neurobehavioral activity during development we generated axenic larvae axenic larvae conven- tionalized on 1 dpf with zebrafish facility microbes or conventionally colonized larvae Table and Fig.
 
-at 10 dpf axenic zebrafish exhibited hyperactivity compared to conventionalized and conventionally colonized controls.
+To determine whether there is a timing requirement for microbial colonization to affect locomotor responses we tested the effect of conventionalization of axenic larvae on different days of development where axenic larvae were colonized on 1 3 6 or 9 dpf and then evaluated on 10 dpf Fig.
 
-zebrafish assemble a diverse microbial community in their intestinethat varies over developmental time and similar to humans exhibits significant interindividual variation.
+Here we report hyperactivity as measured by the distance moved following a light-to-dark transition in axenic larvae at 10 dpf relative to axenic larvae colonized on day 1 or conventionally colonized controls.
 
-gut microbiota may modify brain physiology by regulating synaptogen- esis neurotransmitters and neurotrophic factors and several reports have highlighted a connection between gut microbiota and behavior in mice- rats and zebrafish  .
+Despite temporal differences in the appearance of the hyperac- tivity phenotype increased activity in axenic larvae reported in the current study and in Davis et al.recapitulates findings in mice using the open field test in which axenic mice move more relative to specific-pathogen-free conventionalized controls .In mouse models microbiota appear to have a role in normal stress responsivity anxiety-like behaviors socia- bility and cognition reviewed in refs and .
 
-still pathways by which intestinal microbes modulate locomotor activity are not defined.in this study we identify neurobehavioral effects of microbiota disruptions in early zebrafish development and report for the first time a temporal dependency for microbial colonization to facilitate normal locomotor activity patterns.
+For example several studies have reported a reduction in basal levels of anxiety-like behavior in axenic mice-  while other studies report no change in anxiety-like behavior in axenic mice .
 
-in addition we report that normal locomotor activ- ity when stimulated by colonization with a diverse mixture of microbes can be phenocopied by colonization of axenic zebrafish with a single strain of bacteria but not by host toll-like receptor tlr activation via heat-killed bacteria or selected microbe-associated molecular patterns mamps.
+In the current study we did not observe differences in thigmotaxic behavior in axenic larvae and axenic larvae colonized on day 1 at 6 or 10 dpf nor did we observe differences in the initial 10 sec startle response following onset of the dark period.
 
-these findings indicate that microbial colonization during early life is required for normal neurobehavioral development.resultscharacterization of larval zebrafish microbiota community structure.
-
-to examine whether micro- biota modify neurobehavioral activity during development we generated axenic larvae axenic larvae conven- tionalized on 1 dpf with zebrafish facility microbes or conventionally colonized larvae table and fig.
-
-there were no differences in locomotor activ- ity observed in 6 dpf or 10 dpf axenic and conventionalized zebrafish larvae during the first 10 sec of darkness supplemental fig.
-
-in this study we used a zebrafish model to identify neurobehavioral effects of microbiota disruptions in early development and show a temporal dependency for these effects.
-
-we also demonstrated that conventionally colonized zebrafish exposed to broad-spectrum antibiotics were hyperactive phenocopying locomotor hyperactivity observed in axenic larvae.
-
-second different strains of zebrafish were used in these studies and there are an increasing number of reports of strain-level differences in baseline swimming behaviors .
+showed decreased thigmotaxis in 6 dpf axenic larvae as compared to axenic larvae colonized on day 1 or conventionally colonized controls.
 

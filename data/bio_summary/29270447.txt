@@ -1,30 +1,20 @@
-published by elsevier inc. this is an openaccess article under the cc by license specifications tablesubject areabiologymore specific subject areadiversity and functional structure of the gut microbiome of the snail caracolus marginellatype of datatext files and figureshow data was acquiredshotgun sequencing miseq illumina mr dna laboratories usa.data formatraw and analyzedexperimental factorsexperimental featuresdata source locationgut dissection and washed metagenomic library construction shotgun sequencing and analysis.metagenomic library was constructed and shotgun sequencing were per- formed from sample obtained from the caracolus marginella gut.the specimens were collected in puerto rico at the followed locations car- olina 18deg17'37.75' lat -65deg55'5.19' lng canovanas 18deg19'59.73' lat -65deg53' 20.53' lng guayama 17deg58'46.58' lat -66deg6'10.44' lng mayaguez 18deg12' 87.61' lat -67deg7'36.0' lng and camuy 17deg58'37.75' lat -66deg55'20.4' lng.data accessibility generated metagenomic data was submitted into ncbi database under the accession number samn07420447value of the datathis project present the microbial diversity and functional profile of caracolus marginella gut microbiome by using metagenomics and shotgun sequencing.this project generated the first snail gut metagenomic libraries in puerto rico.these data are the first steps in gaining a better understanding of the caracolus marginella gut microbiome.
+This is an openaccess article under the CC BY license Specifications TableSubject areaBiologyMore specific subject areaDiversity and Functional structure of the gut microbiome of the snail Caracolus marginellaType of dataText Files and FiguresHow data was acquiredShotgun Sequencing MiSeq Illumina MR DNA Laboratories USA.Data formatRaw and AnalyzedExperimental factorsExperimental featuresData source locationGut dissection and washed Metagenomic Library Construction Shotgun Sequencing and Analysis.Metagenomic library was constructed and shotgun sequencing were per- formed from sample obtained from the Caracolus marginella gut.The specimens were collected in Puerto Rico at the followed locations Car- olina 18deg17'37.75' lat -65deg55'5.19' lng Canovanas 18deg19'59.73' lat -65deg53' 20.53' lng Guayama 17deg58'46.58' lat -66deg6'10.44' lng Mayaguez 18deg12' 87.61' lat -67deg7'36.0' lng and Camuy 17deg58'37.75' lat -66deg55'20.4' lng.Data accessibility Generated metagenomic data was submitted into NCBI database under the accession number SAMN07420447Value of the dataThis project present the microbial diversity and functional profile of Caracolus marginella gut microbiome by using metagenomics and shotgun sequencing.This project generated the first snail gut metagenomic libraries in Puerto Rico.These data are the first steps in gaining a better understanding of the Caracolus marginella gut microbiome.
 
-the data represents the combination pooling of the dna extracted from c. marginella gut from four distant regions of puerto rico.structure of the snail caracolus marginella gut metagenome.
+The data represents the combination pooling of the DNA extracted from C. marginella gut from four distant regions of Puerto Rico.structure of the snail Caracolus marginella gut metagenome.
 
-provide and overview of the functional structure of the snail caracolus marginella gut metagenome using subsystem annotation.experimental design materials and methodssample collectionthirty caracolus marginella snails were collected by hand during the years 2013 to 2015. in order to have a representation from different gut microbiomes from c. marginella adapted to different environments of puerto rico five different locations from four regions in the island were established and used as collection sites.
+DNA was sent to MR DNA  where the genomic library was generated using Nextera DNA Sample Preparation Kit Illumina and Qubitr dsDNA HS Assay Kit Life Technologies.
 
-dna was sent to mr dna  where the genomic library was generated using nextera dna sample preparation kit illumina and qubitr dsdna hs assay kit life technologies.
+DNA was end-repaired and ligated into a pCCFOS1 fosmid vector then the cloned DNA was transduced into Escherichia coli EPI300.
 
-dna was end-repaired and ligated into a pccfos1 fosmid vector then the cloned dna was transduced into escherichia coli epi300.
+The data represents the combination of the DNA extracted from C. marginella gut from the four regions of Puerto Rico.Fig.
 
-the taxonomic analysis reveals that bacteria domain was the most abundant 82.15 followed by viruses 16.49 eukaryotes 0.83 archaea 0.31 other sequences 0.13 and unidentified sequences 0.09. the metagenome was constituted of a total of 50 microbial phyla from which the most abundant was proteobacteria 51.47 followed by unclassified derived from virus 16.28 actinobacteria 8.52 bac- teroidetes 3.83 and plactomycetes 3.54. the data represents the combination of the dna extracted from c. marginella gut from the four regions of puerto rico.fig.
+provide and overview of the functional structure of the snail Caracolus marginella gut metagenome using subsystem annotation.Experimental design materials and methodsSample collectionThirty Caracolus marginella snails were collected by hand during the years 2013 to 2015.
 
-dna extraction using metagenomic dna isolation kit for water epicentre usa were performed to the membranes following the manufacturer's specifications.
+DNA extraction using Metagenomic DNA Isolation Kit for water Epicentre USA were performed to the membranes following the manufacturer's specifications.
 
-data articlethe metagenome of caracolus marginella gut microbiome using culture independent approaches and shotgun sequencingrobert j. rabelo-fernandez kevin santiago-morales luis morales-vale carlos rios-velazquez biology department university of puerto rico at mayaguez puerto ricoa r t i c l e i n f o article historyreceived 10 september 2017 received in revised form9 november 2017accepted 13 november 2017available online 22 november 2017a b s t r a c t studies underestimate the microbial diversity and genotypic traits in the snails' microbiome.
+Data ArticleThe metagenome of Caracolus marginella gut microbiome using culture independent approaches and shotgun sequencingRobert J. Rabelo-Fernandez Kevin Santiago-Morales Luis Morales-Vale Carlos Rios-Velazquez Biology Department University of Puerto Rico at Mayaguez Puerto Ricoa r t i c l e i n f o Article historyReceived 10 September 2017 Received in revised form9 November 2017Accepted 13 November 2017Available online 22 November 2017a b s t r a c t Studies underestimate the microbial diversity and genotypic traits in the snails' microbiome.
 
-caracolus marginella a land snail native to caribbean islands can adapt to different environments.
+Caracolus marginella a land snail native to Caribbean islands can adapt to different environments.
 
 marginella gut to further explore the diversity and functional traits.
-
-thirty specimens of c. marginella were collected from the four regions of puerto rico.
-
-high molecular weight 40 kb meta- genomic libraries were generated using a direct dna isolation method.
-
-published by elsevier inc. this is an open access article under the cc by license metagenomic examination of a snail gut in puerto rico and will serve as a baseline to start understanding of c. marginella gut microbiome.
-
-in this order metagenomic library was con- structed from c. marginella and shotgun sequencing were performed.
-
-1. community structure of the snail caracolus marginella gut metagenome.
 

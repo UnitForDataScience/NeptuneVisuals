@@ -1,16 +1,16 @@
-report that mice fed diets that release high levels of either acetate or butyrate have enhanced protection from t1d and this is mediated by a decreased frequency of autoreactive t cells or an increased number of regulatory t treg cells respectively.patients with t1d have impaired gut barrierfunction and the microbiota has been implicated in disease progression.
+report that mice fed diets that release high levels of either acetate or butyrate have enhanced protection from T1D and this is mediated by a decreased frequency of autoreactive T cells or an increased number of regulatory T Treg cells respectively.Patients with T1D have impaired gut barrierfunction and the microbiota has been implicated in disease progression.
 
-indeed mice fed either the hamsa or the hamsb diet had a reduced incidence of diabetes compared with those given the hams diet and a combination of the hamsa and hamsb diet provided complete protection from diabetes indicating that acetate and butyrate may act through different mechanisms.the authors first investigated whether the different diets influence the number ofautoreactive t cells and found that mice fed the hamsa diet had less t1d autoantigen-reactive t cells.
+Indeed mice fed either the HAMSA or the HAMSB diet had a reduced incidence of diabetes compared with those given the HAMS diet and a combination of the HAMSA and HAMSB diet provided complete protection from diabetes indicating that acetate and butyrate may act through different mechanisms.The authors first investigated whether the different diets influence the number ofautoreactive T cells and found that mice fed the HAMSA diet had less T1D autoantigen-reactive T cells.
 
-moreover these mice had a marked reduction in the number of b cells in the spleen and peyer's patches and their b cells expressed lower levels of mhc class i and cd86 costimulatory molecules.
+Moreover these mice had a marked reduction in the number of B cells in the spleen and Peyer's patches and their B cells expressed lower levels of MHC class I and CD86 costimulatory molecules.
 
-this indicates thatacetate alters the number and surface phenotype of b cells and thereby impairs the ability of b cells to expand autoreactive t cell populations.
+This indicates thatacetate alters the number and surface phenotype of B cells and thereby impairs the ability of B cells to expand autoreactive T cell populations.
 
-of note the protective effect of the hamsa diet was associated with an increase in bacteroides and transfer of microbiota from hamsa-fed mice to germ-free nod mice fed a normal diet protected against diabetes for 30 weeks.the protective effect of the hamsb diet was examined by transferring t cells from nod mice fed various diets into mice of the nod-severe combined immunodeficiency scid strain which lack b and t cells.
+Of note the protective effect of the HAMSA diet was associated with an increase in Bacteroides and transfer of microbiota from HAMSA-fed mice to germ-free NOD mice fed a normal diet protected against diabetes for 30 weeks.The protective effect of the HAMSB diet was examined by transferring T cells from NOD mice fed various diets into mice of the NOD-severe combined immunodeficiency SCID strain which lack B and T cells.
 
-by contrast nod-scid mice that received t cells from nod mice fed a hamsb diet were protected from diabetes which correlated with an increased number of treg cells in thespleen.
+By contrast NOD-SCID mice that received T cells from NOD mice fed a HAMSB diet were protected from diabetes which correlated with an increased number of Treg cells in thespleen.
 
-further cell-transfer experiments andsingle-cell transcriptome analysis showed that the hamsb diet promoted the conversion of naive t cells into treg cells by affecting histone acetylation leading to the upregulation of the lineage-specifying transcription factor foxp3.in summary acetate- and butyrate-yielding diets provide protection from diabetes suggesting that dietary supplements couldbe an effective treatment for t1d.elisabeth kugelbergnature reviews  immunology
+Further cell-transfer experiments andsingle-cell transcriptome analysis showed that the HAMSB diet promoted the conversion of naive T cells into Treg cells by affecting histone acetylation leading to the upregulation of the lineage-specifying transcription factor FOXP3.In summary acetate- and butyrate-yielding diets provide protection from diabetes suggesting that dietary supplements couldbe an effective treatment for T1D.Elisabeth KugelbergNATURE REVIEWS  IMMUNOLOGY
 
-t cells from nod mice fed the hams diet rapidly transferred diabetes to the recipient mice.
+T cells from NOD mice fed the HAMS diet rapidly transferred diabetes to the recipient mice.
 

@@ -1,30 +1,20 @@
-two arginines in the 1 subsite likely contribute to d-gala binding through formation of ion pairs consistent with mutagenesis data supplementary table 4. the -1 active site and 1 subsites are narrow preventing binding of d-apif linked to borate and d-gala appended to the backbone at o-1 or o-4 extended data fig.
+Thus the enzyme system that depolymerizes wine and apple RG-II is capable of degrading the glycan from all other plant sources.Purifying RG-II--RG-II from wine was purified as described previously26.
 
-the data displayed are examples from biological replicates n  3.extended data fig.
+The degradome informs revision of the current structural model of RG-II and highlights how individual gut bacteria orchestrate manifold enzymes to metabolize the most challenging glycans in the human diet.Plants containing rhamnogalacturonan-II RG-II have been consumed since the archaic humans1.
 
-the crystal structure datasets generated coordinate files and structure factors have been deposited in the protein data bank and are listed in supplementary table 8. the authors declare that the data supporting the findings of this study are available within the paper and the supplementary informationndeh et al.page 2 these authors contributed equally to this work.abstractcarbohydrate polymers drive microbial diversity in the human gut microbiota.
+To test this hypothesis the mechanism by which B. thetaiotaomicron degrades RG-II was elucidated.Growth of HGM Bacteroides on RG-IITo explore whether single organisms grow on RG-II the glycan was incubated with Bacteroides species of the HGM.
 
-transcriptomic analysis of one of these species b. thetaiotaomicron showed that rg-ii upregulates three polysaccharide utilization loci puls rg-ii pul1-pul3 extended data fig.
+Transcriptomic analysis of one of these species B. thetaiotaomicron showed that RG-II upregulates three polysaccharide utilization loci PULs RG-II PUL1-PUL3 Extended data Fig.
 
-1a8.activities of recombinant enzymes encoded by these loci were determined using rg-ii or rgii-derived oligosaccharides extended data fig.
+The widespread presence of these newly discovered enzyme families in Bacteroidetes and other bacterial phyla and the occurrence of GH139 GH140 GH141 and GH142 in fungi suggest that these enzymes contribute to glycan degradation in diverse environments.The generic relevance of RG-II PUL1 in RG-II utilization was supported by bioinformatic analysis.
 
-2 and methods 1.1.2. the data revealed the degradative pathway for each oligosaccharide leading to a model for rg-ii depolymerisation fig.
+3.A model for RG-II degradationA hierarchical model for the RG-II degradome is proposed Fig.
 
-bt1013 and bt1020 hydrolyse the two linkages in chain c and d respectively extended data fig.
+These data indicate that borate only bound to D-Apif in full length Chain A explaining how initial degradation of this side chain relieved steric constraints imposed by the oxyanion.Ndeh et al.Page 6The species-dependent variation of the terminal region of Chain B in RG-II1920 Supplementary Discussion 1.0 may explain why RG-II PUL3 encodes several putative GHs that may contribute to degradation of all RG-II structures.
 
-3 and supplementary discussion 2. the crystal structure of bt1020 extended data fig.
+The D1683Dbt1682 mutant grew on apple but not wine RG-II while the Dbt1024Dbt1029 variant deletion of suschsusdh in RG-II PUL1 metabolized the glycan from wine but slowly from apple Fig.
 
-3 and extended data fig.
+These data suggest that the multiple SusChSusDh pairs encoded by the RG-II PULs are required to import plant-specific variants of RG-II.New features of RG-II structureThe specificity of the RG-II-degradome shows that the current model of the glycan requires revision.
 
-5 represent new activities for their respective families supplementary table 3 while the crystal structure of the a-l- rhamnosidase bt0986 provides unique insights into the mechanism of substrate recognition and catalysis for a gh106 enzyme11 extended data fig.
-
-the crystal structure and mutagenesis of bt1003 extended data fig.
-
-bt1017 represents a new family of pectin methyl-esterases extended data fig.
-
-xenologs of rg-ii pul1 proteins were identified by reciprocal best-blast hits in the hgm bacteroides species extended data fig.
-
-this suggests that these species may also depolymerize the glycan extended data fig.
-
-the enzyme cleaved only the homogalacturonan within rg-ii extended data fig.
+The final pellet was redissolved in 0.5 L of ultrapure water and freeze-dried to obtain crude RG-II apple material.HPAEC analysis showed that the crude apple RG-II was contaminated with arabinan and galactan.
 

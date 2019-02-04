@@ -1,30 +1,20 @@
-alterations in the taxonomic and functional composition of gut microbiota have been observed in patients with chronic conditions such as diabetes 89 obesity 1011 and crohn's disease 1213 and the composition is reportedly influenced by dietary nutrition 1415. similarly the oral microbiota is also known to change in response to local and general conditions and is considered to be an indicator of homeostatic deteriora- tion 71617. although the association between oral and intestinal microbiota is unclear recent studies have suggested that alterations in the microbial composition of dental plaque are associated with periodontal disease 618. in addition a number of reports have suggested that periodontitis is linked to some systemic disorders including diabetes mellitus 1920. although the oral microbiota seems to play a key role in human health its relationship with diabetes has not been examined in detail.
+Genomic DNA was extracted from each sample and then the V4 region of the 16S rRNA gene was amplified and sequenced.Correspondence to Dr. Taiji Ogawa Department of ProsthodonticsAlpha diversity in terms of operational taxonomic unit richness was significantly higher in samples from the non-DM group than in those from the HC group.
 
-although our findings were limited by the small sample size oral bacterial diversity in the dm group was clearly different from that in the non-dm group.keywords salivary microbiota diabetes dysbiosis 16s rrna sequencing nursing home.gerodontology and oral rehabilitation osaka university graduate school of dentistry 1-8 yamadaoka suita osaka565-0871 japanfax 81-6-6879-2957 e-mail j-stage advance publication october 6 2017color figures can be viewed in the online issue at j-stage.
+Furthermore in the DM group Actinomyces and Selenomonas showed signifi- cantly higher abundance whereas Alloprevotella showed significantly lower abundance relative to the non-DM group.
 
-therefore we conducted microbiome analysis of saliva samples obtained from 15 elderly residents 3 with type 2 diabetes mellitus dm and 12 without diabetes non-dm at three different nursing homes as well as 9 young healthy controls hc.
+OTU richness observed OTUs andChao index was significantly higher in samples from the non-DM group than in those from the HC group Fig.
 
-among them 15 elderly indi- viduals aged between 68 and 101 years who provided sufficient quantities of unstimulated saliva for microbial analysis were selected 3 with type 2 diabetes mellitus dm and 12 without evidence of diabetes non-dm.
+A microbial diversity estimator Shannon index also indicated a significantly more diverse bacterial commu- nity in the non-DM group than in the HC group Fig.
 
-actinomyces is a widely recognized pathogen causing actinomycosis and several case reports of actinomycosis complicating diabetes have been published 2829. however details of the relationship between actinomycosis severity and diabetes remain unknown.
+The DM group showed a significantly lower abundance of Bacteroidetes than the non-DM group Fig.
 
-several studies have suggested that periodontitis is associated with systemic disorders such as diabetes mellitus indi- cating a key role for oral microbiota in human health.
+In the samples obtained from the DM group Actinomyces and Selenomonas were significantly more abundant whereas Alloprevotella showed lower abundance than in the non-DM group.
 
-however the relationship between oral microbiota and diabetes has not been well clarified.
+In addition Actinomyces Rothia Fillifactor Selenomonas and Synergistes showed significantly higher abundance whereas Virgibacillus Abiotrophia Veillonella and Fusobacterium showed significantly lower abundance in the non-DM group than in the HC group Figs.
 
-recently it has been reported that the intestinal microbiota in humans with type 2 diabetes differs from that in non-diabetic individuals the proportions of the phylum firmicutes and the class clostridia being significantly reduced in diabetics 23. on the other hand an increase in the relative abundance of the phylum firmicutes and a reduced level of bacte- roidetes have been observed in both obese mice 10 and humans 24. the present findings are in accord with those studies indicating similar mechanisms of oral and intestinal dysbiosis.within the oral cavity of any given individual the environment can differ according to tissue location the bacterial composition of the buccal area vestibule tongue palate tonsil tooth surface and gingiva being site-specific 2. the major phylum present in saliva samples is low-gc gram-positive bacteria firmicutes and this includes both healthy subjects and patients with periodontal disease 17. although the methods we used for sequence analyses were not the same as those used in previous studies our present results were concordant.
+Weighted UniFrac distance analysis showed that salivary microbial communities in the DM group were separately clustered.
 
-although our findings are limited by the very small sample size they are considered to be of interest as no previously reported studies have addressed the relationship between oral microbiota and diabetes.
+Although our findings were limited by the small sample size oral bacterial diversity in the DM group was clearly different from that in the non-DM group.Keywords salivary microbiota diabetes dysbiosis 16S rRNA sequencing nursing home.Gerodontology and Oral Rehabilitation Osaka University Graduate School of Dentistry 1-8 Yamadaoka Suita Osaka565-0871 JapanFax 81-6-6879-2957 E-mail J-STAGE Advance Publication October 6 2017Color figures can be viewed in the online issue at J-STAGE.
 
-2012 a metagenome-wide association study of gut microbiota in type 2 diabetes.
-
-nature 490 55-60.tai n wong fs wen l 2015 the role of gut microbiota in the development of type 1 type 2 diabetes mellitus and obesity.
-
-2010 gut microbiota in human adults with type 2 diabetes differs from non-diabetic adults.
-
-the dynamics of saliva microbiota remain more stable over time than those of gut microbiota in response to environmental alterations 25. this suggests that the oral and gut microbiomes have different origins as reflected in the difference evident in their microbial phyla.
-
-3 4. furthermore 25 species including major periodontal pathogens such as a. israelii porphyromonas gingivalis prevotella intermedia and s. noxia were found to be more abundant in the samples from elderly subjects without diabetes than in samples from the hc group fig.
-
-genomic dna was extracted from each sample and then the v4 region of the 16s rrna gene was amplified and sequenced.correspondence to dr. taiji ogawa department of prosthodonticsalpha diversity in terms of operational taxonomic unit richness was significantly higher in samples from the non-dm group than in those from the hc group.
+1C true diversity also being higher in the non-DM group Fig.
 

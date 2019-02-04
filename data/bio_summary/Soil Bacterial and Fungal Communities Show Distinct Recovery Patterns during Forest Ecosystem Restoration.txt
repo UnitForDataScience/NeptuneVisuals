@@ -1,30 +1,20 @@
-interestingly the overall pattern of 3-diversity across the chronosequence was maintained in each of the two clusters  with bacterial community structure becoming more similar to those of reference sites with increasing chronosequence age.
+.Caporaso JG Kuczynski J Stombaugh J Bittinger K Bushman FD Costello EK Fierer N Pena AG Goodrich JK Gordon JI Huttley GA Kelley ST Knights D Koenig JE Ley RE Lozupone CA McDonald D Muegge BD Pirrung M Reeder J Sevinsky JR Turnbaugh PJ Walters WA Widmann J Yatsunenko T Zaneveld J Knight R. 2010.
 
-in contrast sir was mainly correlated with bacterial community shifts that occurred with chronosequence age with an increase along the chronosequence.
+The use of specific controlled reforestation practices   aids in the creation of replicated sites over time with relatively well-controlled ecosystem development in terms of soil properties land- scapes and vegetation .In this study we characterized both the intra-annual variability and long-term recovery in bacterial and fungal components of soil microbiota in a chronosequence of reclaimed mine lands that spans 5 to 30 years postreforestation and includes unmined reference plots.
 
-chronosequence ages had significant effects on more taxa including dothideomycetes eurotiomycetes leotiomycetes sordariomycetes rozellomycota and incertae sedis within zygomycotatable 1 bacterial and fungal network properties at different chronosequence agesbacteriaapos positive neg negative.p  0.05 anova and table s4.
+Appalachian Regional Reforestation Initiative Pittsburgh PA. .Frouz J Prach K Pizl V HaneVl L Stary J Tajovsky K Materna J Balik V KalcVik J RVehounkova K. 2008.
 
-moreover the average degree also increased from early chronosequence ages 5 and 11 years to later chronosequence ages 21 and 30 years and .
+.Schutte UM Abdo Z Foster J Ravel J Bunge J Solheim B Forney LJ.
 
-overall the nodes edges and average degree of fungal networks typically peaked in the middle chronosequence ages.networks in consecutive chronosequence ages were compared to identify overlap- ping nodes and edges.
+The rapid responses of microorganisms to alterations in environmental conditions and their high turnover rates may provide additional information and possibly an early indication of the restoration progress following ecosystem disturbance .Both bacteria and fungi are significant components of the soil microbiota and perform critical ecological functions but they also have many differences in phenotype phylogeny and life history that could cause different succession patterns during recovery.
 
-bacterial communities shifted gradually with overlapping 3-diversity patterns across chronosequence ages while shifts in fungal communities were more distinct among different ages.
+For example typical soil fungal growth rates appear to be about 10-fold lower than those of soil bacteria and fungi tend to be more tolerant of low temperatures and dry soils  .
 
-finally the complexity of bacterial cooccurrence networks increased with chronosequence age while fungal networks did not show clear age-related trends.
+The dendrograms to the left of the heatmaps represent clustering of microbial taxa based upon similar patterns of variation.experimentation would be required to determine which might be directly driving or resulting from changes in soil microbiota.The dominant bacterial phyla and proteobacterial classes across all samples were Acidobacteria and Alphaproteobacteria respectively representing 21.5 and 18.0 of all sequences assigned to the domain Bacteria .
 
-we hypothesize that these contrasting dynamics of bacteria and fungi in the chronosequence result from i higher growth rates for bacteria leading to higher intra-annual variability ii higher tolerance to environmental changes for fungi and iii stronger influence of vegetation on fungal communities.importance both bacteria and fungi play essential roles in ecosystem functions and information about their recovery after extreme disturbances is important for un- derstanding whole-ecosystem development.
+For example soil fungal biomass turnover times have been estimated to be 100 days which is about 10-fold slower than those of typical soil bacteria  .
 
-this study compares bacterial and fungal cooccur- rence networks and reveals cooccurrences persisting through successional ages.keywords bacteria chronosequence cooccurrence networks disturbance fungi reclaimed mine soils soil microbiotacologists have been studying the succession dynamics of plant communities for more than a century   and the patterns of changes in plant community composition are used as indicators for the restoration of ecosystems .
+The significantly higher- than-average numbers of overlaps in both bacterial OTUs and cooccurrences indicate that a portion of the bacterial interaction network persists over relatively long periods of time during the recovery of soil microbiota.
 
-for example microbial diversity has not shown consistent patterns in glacial chronosequences  and an abundance of bacterial phyla showed different trends along chronosequence ages in two glacier forelands within the same study .
-
-the use of specific controlled reforestation practices   aids in the creation of replicated sites over time with relatively well-controlled ecosystem development in terms of soil properties land- scapes and vegetation .in this study we characterized both the intra-annual variability and long-term recovery in bacterial and fungal components of soil microbiota in a chronosequence of reclaimed mine lands that spans 5 to 30 years postreforestation and includes unmined reference plots.
-
-however along chronosequence ages there were no obvious patterns in the 16s rrna or its copy numbers except that bacterial abundance was significantly lower at 5 years p  0.05 tukey's hsd test and .
-
-overall the monthly shifts in bacterial and fungal abundance were equal to or greater than the shifts across chronosequence ages.
-
-there were no significant interactions between chronosequence age and sampling month for either richness or abundance of either bacteria or fungi.-diversity and taxonomic composition.
-
-bacterial 3-diversity varied significantly within the study year with may and july harboring significantly different communities from those of september and october regardless of chronosequence age p  0.001 anosim with 999 permutations and table s1a.
+Three soil samples were taken from 0 to 10 cm depth in each plot pooled and homogenized to more fully capture the diversity at the plot level while using the replicated plots to characterize variation in the soil microbiota at each site.
 

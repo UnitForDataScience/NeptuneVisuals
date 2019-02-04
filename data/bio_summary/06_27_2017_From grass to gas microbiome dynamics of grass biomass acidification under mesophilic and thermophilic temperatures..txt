@@ -1,30 +1,20 @@
-for amplification after initial denatura- tion at 95 degc for 5 min 35 cycles of amplification 95 degc for 30 s 54 degc for 30 s and extension at 72 degc for 1 min werecarried out.
+For amplification after initial denatura- tion at 95 degC for 5 min 35 cycles of amplification 95 degC for 30 s 54 degC for 30 s and extension at 72 degC for 1 min werecarried out.
 
-b. in concordance with a previous work  the liquefied cod from the produced high-strength liquor was efficiently trans- formed into methane indicating no inhibitory effects.usage of the high-strength liquor producedhigh-strength liquor was stored in bottles at rt upon production which were always flushed with nitrogen after opening to keep anoxic conditions.
+In order to bridge this gap and to finely characterize one of the most important phases of the biogas production process the dynamic behaviour of grass acidification processes at mesophilic and thermo- philic temperatures 37 and 55 degC respectively was mon- itored through both proteomics and 16S-rDNA analysis.
 
-in order to bridge this gap and to finely characterize one of the most important phases of the biogas production process the dynamic behaviour of grass acidification processes at mesophilic and thermo- philic temperatures 37 and 55 degc respectively was mon- itored through both proteomics and 16s-rdna analysis.
+Therefore successful adaption to high temperatures and well-cho- sen seed sludge might be crucial for a separated acidifica-tion step.In concordance with the reduced acid production in the thermophilic acidification two of the correspond- ing methane stages leach bed and semicontinuous batch with sewage yielded more methane per gram of input COD with thermophilic liquor than with mesophilic.
 
-therefore successful adaption to high temperatures and well-cho- sen seed sludge might be crucial for a separated acidifica-tion step.in concordance with the reduced acid production in the thermophilic acidification two of the correspond- ing methane stages leach bed and semicontinuous batch with sewage yielded more methane per gram of input cod with thermophilic liquor than with mesophilic.
+.Proteomic analysis on the high-strength liquor produced Proteins were extracted from the samples d2 d4 d6 and d8 from the first cycle of acidification.
 
-c. however in the system containing seed sludge from a co-digester cd the yield from the thermophilic- treated liquor was higher than in the one receiving mes- ophilic liquor.
+In concordance with a previous work  the liquefied COD from the produced high-strength liquor was efficiently trans- formed into methane indicating no inhibitory effects.Usage of the high-strength liquor producedHigh-strength liquor was stored in bottles at RT upon production which were always flushed with nitrogen after opening to keep anoxic conditions.
 
-using thehigh-strength liquor for co-digestion prevented the entry of solids into the water treatment circle.in the last days of the experiment the sludge samples from the co-digester exhibited low levels of firmicutes and bacteroidetes and high rates of actinobacteria.
+1997632802-13.Ritari J Koskinen K Hultman J Kurola JM Kymalainen M Romantschuk M Paulin L Auvinen P. Molecular analysis of meso- and thermophilic micro- biota associated with anaerobic biowaste degradation.
 
-it was dominated by bacteroidetes and firmicutes at 37 degc and by firmicutes and proteo- bacteria at 55 degc.
+Biotechnol Biofuels 2017 10171DOI 10.1186s13068-017-0859-0Biotechnology for BiofuelsFrom grass to gas microbiome dynamicsof grass biomass acidification under mesophilic and thermophilic temperaturesChristian Abendroth123 Claudia Simeonov3 Juli Pereto1247 Oreto Antunez5 Raquel Gavidia5 Olaf Luschnig6 and Manuel Porcar1278AbstractBackground Separating acidification and methanogenic steps in anaerobic digestion processes can help to opti- mize the process and contribute to producing valuable sub-products such as methane hydrogen and organic acids.
 
-a. at 37 degc the rela- tive amount of acetic acid and propionic acid were much higher than at 55 degc fig.
+As pH values between 4 and6.5 are common during acidification - and metha- nogenesis is inhibited at either low pH or high VFA con- centration  this renders hydrogen production in the acidification stage as a valuable sub-product in addition to the methane .
 
-a. on comparing pro- tein abundances during sampling time 120 out of 1731 proteins showed differential expression at 37 degc whereas at 55 degc the differentially expressed proteins were only 5 out of 1731 fig.
+A total of 1731 proteins were quantified from samples d2 d4 d6 and d8 collected from the first cycle of acidification 556 proteins increased and176 decreased between mesophilic and thermophilic conditions 37 vs. 55 degC.
 
-the taxonomic communities in both cases proved very different and consisted of bacteroidetes and firmicutes at 37 degc and firmicutes and proteobacteria at 55 degc.
-
-even though hydrogen production in seed sludges with diverse microbiomes is highly unpredictable a few previous reports have explored the possible production of hydrogen - by for example immobilization of hydrogen-producing bacteria  .separated acidification has been proposed as the best technology to produce organic acids like lactic butyric and acetic acid even though it is still complicated to extract organic acids from the fermentation process .
-
-b  .the used seed sludge from the co-digester was very rich in firmicutes synergistetes and bacteroidetes while the seed sludge from the sewage plant sw con- sisted mainly of proteobacteria bacteroidetes spiro- chaeta and chloroflexi matrix at day 7 fig.
-
-two leach-bed systems three batch systems filled with low ts seed sludge sewage and three batch systems filled high ts seed sludge cstr co-digester additional file  table s1 and additional file  table s2.
-
-hydrogen production in anaerobic reactors during shock loads--influence of formate production and h2 kinetics.
-
-201634307-15.maragkaki ae fountoulakis m kyriakou a lasaridi k manios t. boosting biogas production from sewage sludge by adding small amount ofagro-industrial by-products and food waste residues.
+More differentially expressed proteins were found under mesophilic 120 than thermophilic 5 conditions.Conclusion Our results are the first multi-omics characterisation of a two-stage biogas production system with separated acidification and suggest that screening approaches targeting specific taxa such as Methanosaeta Metha- nomicrobium and Methanosarcina could be useful diagnostic tools as indicators of environmental changes such as temperature or oxidative stress or as in the case of Actinobacteria they could be used as a proxy of the gas produc- tion potential of anaerobic digesters.
 

@@ -1,30 +1,20 @@
-.caporaso jg kuczynski j stombaugh j bittinger k bushman fd costello ek fierer n pena ag goodrich jk gordon ji huttley ga kelley st knights d koenig je ley re lozupone ca mcdonald d muegge bd pirrung m reeder j sevinsky jr turnbaugh pj walters wa widmann j yatsunenko t zaneveld j knight r. 2010. qiime allows analysis of high-throughput community sequencing data.
+As the microbiome research field continues to evolve Microbiome Helper will be updated with new protocols scripts and training materials.KEYWORDS 16S rRNA gene sequencing Microbiome Helper bioinformatics dual-indexing PCR education metagenomics microbiome standard operating procedure virtual machineesearch has associated the human microbiome with lifestyle changes  severity of disease  treatment outcomes   and the built environment .
 
-currently illumina sequencing is the most prevalent next-generation sequencing ngs technology for microbiome sequencing and several studies have outlined different methods and strategies for processing samples .
+Illumina has since improved its sequencing image base-calling to require less phiX even with very low sequence diversity libraries opening the door for a simplified dual-indexing strategy.On the bioinformatics front there have been tremendous efforts to develop systems to process and analyze microbiome data including QIIME  and mothur  primarily for 16S rRNA data while metagenomic data analysis is still often pieced together using various individual bioinformatic methods .
 
-.brown j de vos wm distefano ps dore j huttenhower c knight r lawley td raes j turnbaugh p. 2013. translating the human micro- biome.
+Note that achieved cluster densities and final outputs are slightly below Illumina's best-case scenario specifications but this is to be expected as the latter is for a complex phiX genomic library whereas the former amplicon libraries typically pose a challenge for NGS systems and can easily overcluster saturate leading to reduced Q30 and pass- filter read numbers.TABLE 1 Run metrics for the first 25 amplicon runs 9145 total samples at the IMR and comparison to Illumina's MiSeq maximum output specifications for phiXaNumbering is not consecutive as other metagenomics runs were completed in between amplicon runs.bExtra phiX was added to this run for diagnostic reasons and does not factor into the below mean.cNA not applicable.For diagnostic purposes and to show an example of sample performance the commonly used bacterial Mock Community B developed for the HMP project BEI Resources was processed using our protocol employing two separate sets of primers for the V4-V5 and V6-to-V8 regions of the 16S rRNA gene  in triplicate on threeFIG 1 Workflow diagram of on-bench and bioinformatic custom pipelines.
 
-.abubucker s segata n goll j schubert am izard j cantarel bl rodriguez-mueller b zucker j thiagarajan m henrissat b white o kelley st methe b schloss pd gevers d mitreva m huttenhower c. 2012. metabolic reconstruction for metagenomic data and its applica- tion to the human microbiome.
+Amplicon samples in our presented protocol are run on the Illumina MiSeq using 2 X 300 bp PE v3 chemistry which allows for overlap and stitching together of paired amplicon reads into one full-length read of higher quality see below for further quality discussion.
 
-at one point illumina sequencing had difficulties with low-sequence-complexity libraries like those resulting from 16s rrna gene profiling and a large proportion of phix control dna was spiked in to improve sequencing quality.
+This resource will provide the foundations for those newly enter- ing the microbiome field and will provide much-needed guidance and best practices to ensure that quality microbiome research is undertaken.
 
-2013. development of a dual-index sequencing strategy and curation pipeline for analyzing amplicon sequence data on the miseq illumina sequencing platform.
+Currently Illumina sequencing is the most prevalent next-generation sequencing NGS technology for microbiome sequencing and several studies have outlined different methods and strategies for processing samples .
 
-.mysara m leys n raes j monsieurs p. 2016. iped a highly efficient denoising tool for illumina miseq paired-end 16s rrna gene amplicon sequencing data.
+It is currently only a lack of support from Illumina on the run-prep software side that leads to this work-around the v3 kit chemistry fully supports physically sequencing these libraries and Illumina's cloud-based BaseSpace application also properly handles postrun delivery and analysis of these samples.Bioinformatics pipeline.
 
-.smith am heisler le mellor j kaper f thompson mj chee m roth fp giaever g nislow c. 2009. quantitative phenotyping via deep barcode sequencing.
+All protocols scripts workflows tutorials and virtual images are freely available through the Microbiome Helper website .IMPORTANCE As the microbiome field continues to grow a multitude of research- ers are learning how to conduct proper microbiome experiments.
 
-.kembel sw jones e kline j northcutt d stenson j womack am bohannan bj brown gz green jl.
+Here we present the examples of 16S V6-to-V8 bacteria and archaea and 18S V4 eukarya amplicons but the protocols can be easily modified for use with any correctly sized amplicons of your choice--such as other rRNA gene variable regions or any functional genes of interest such as psbA cox1 etc.. At the IMR we have successfully tested and deployed additional amplicons for 16S V4-V5  fungal ITS1 and ITS2   nitrogen cycle nifH J. Laroche unpublished data and BarSeq mutant analysis .Custom Illumina primers.
 
-.caporaso jg lauber cl walters wa berg-lyons d huntley j fierer n owens sm betley j fraser l bauer m gormley n gilbert ja smith g knight r. 2012. ultra-high-throughput microbial community analysis on the illumina hiseq and miseq platforms.
-
-.nelson mc morrison hg benjamino j grim sl graf j.
-
-methods and protocolsnovel systems biology techniquesmicrobiome helper a custom and streamlined workflow for microbiome researchandre m. comeau gavin m. douglas morgan g. i. langillecgeb-integrated microbiome resource imr and department of pharmacology dalhousie university halifax canadaabstract sequence-based approaches to study microbiomes such as 16s rrna gene sequencing and metagenomics are uncovering associations between microbial taxa and a myriad of factors.
-
-a drawback of these approaches is that the necessary sequencing library preparation and bioinformatic analyses are complicated and con- tinuously changing which can be a barrier for researchers new to the field.
-
-we pres- ent three essential components to conducting a microbiome experiment from start to finish first a simplified and step-by-step custom gene sequencing protocol that requires limited lab equipment is cost-effective and has been thoroughly tested and utilized on various sample types second a series of scripts to integrate various commonly used bioinformatic tools that is available as a standalone installation or as a single downloadable virtual image and third a set of bioinformatic workflows and tutorials to provide step-by-step guidance and education for those new to the microbiome field.
-
-we outline here a streamlined and custom approach to processing samples from detailed sequencing library construction to step-by-step bioinformatic standard operating procedures.
+Mean- while the microbiomes from oceans  to atmospheres  have provided key insights into the influence and response of particular microbes to various complex environ-ments.Methods for profiling microbiome samples have changed from presequencing techniques such as denaturing gradient gel electrophoresis and terminal restriction fragment length polymorphisms to newer sequenced-based approaches including amplicon rRNA gene sequencing metagenomics and metatranscriptomics.
 

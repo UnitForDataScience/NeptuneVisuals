@@ -1,30 +1,20 @@
-as the use of microbiome data in forensic research is standardized knowledge of these tools in forensic research is key to significantly advancethefieldand to fullyintegratemicrobiome-deriveddatainto the forensic community.any introduction of novel techniques in forensic science alsonecessitates changes in the laws and standards governing their collection and use.
+As the use of microbiome data in forensic research is standardized knowledge of these tools in forensic research is key to significantly advancethefieldand to fullyintegratemicrobiome-deriveddatainto the forensic community.Any introduction of novel techniques in forensic science alsonecessitates changes in the laws and standards governing their collection and use.
 
-here we summarize information on the current status of microbiome research as applies to the forensic field the mathematical models used to make predictions and the possible legal and practical difficulties that can limit the application of microbiomes in forensic science.c 2017 the authors.
+Here we summarize information on the current status of microbiome research as applies to the forensic field the mathematical models used to make predictions and the possible legal and practical difficulties that can limit the application of microbiomes in forensic science.c 2017 The Authors.
 
-however the capacity of wgs of microbiomes to aid in forensic investigations by connecting objects and environments to individuals has been poorly investigated  and although suggesting significant potential it is limited as a forensic tool at this time.
+However the capacity of WGS of microbiomes to aid in forensic investigations by connecting objects and environments to individuals has been poorly investigated  and although suggesting significant potential it is limited as a forensic tool at this time.
 
-the forensics microbiome database fmd created by our group which links publicly available 16s rrna-derived taxa data with their geographic origins down to the city in order to perform geolocation  is an example of harnessing meta-samples to perform forensic analyses.forensic microbiome applicationsthe potential forensic utility of microbial dna has been demonstrated for samples collected from highly diverse locations including the environment e.g.
+The Forensics Microbiome Database FMD created by our group which links publicly available 16S rRNA-derived taxa data with their geographic origins down to the city in order to perform geolocation  is an example of harnessing meta-samples to perform forensic analyses.Forensic microbiome applicationsThe potential forensic utility of microbial DNA has been demonstrated for samples collected from highly diverse locations including the environment e.g.
 
-thus the forensic literature refers to the potential uses of microbial-derived data  distinctive signa- tures  and forensic indicators .
+Thus the forensic literature refers to the potential uses of microbial-derived data  distinctive signa- tures  and forensic indicators .
 
-since each of these indicators is of interest to forensic scientists we will take a closer look at these three scenarios to explore how microbiome derived data can be employed in forensic studies.identityresearches have demonstrated the potential to identify a single individual in large populations based on microbial fingerprints from metagenomic tags even over long periods of time .
+Since each of these indicators is of interest to forensic scientists we will take a closer look at these three scenarios to explore how microbiome derived data can be employed in forensic studies.IdentityResearches have demonstrated the potential to identify a single individual in large populations based on microbial fingerprints from metagenomic tags even over long periods of time .
 
-machine learning and classification methods as applied in microbial forensic research may be useful in identifying potential contamination sources and labeling errors in samples of forensic relevance .
+Machine learning and classification methods as applied in microbial forensic research may be useful in identifying potential contamination sources and labeling errors in samples of forensic relevance .
 
-research paperintegrating the microbiome as a resource in the forensics toolkitthomas h. clarke andres gomez harinder singh karen e. nelson lauren m. brinkacj craig venter institute rockville md 28050 usaa r t i c l e i n f oarticle historyreceived 24 february 2017received in revised form 26 may 2017 accepted 24 june 2017available online 27 june 2017keywordshuman microbiome forensics geolocation fingerprinting16s rrnanext generation sequencing postmortem interval estimationa b s t r a c tthe introduction of dna fingerprinting to forensic science rapidly expanded the available evidence that could be garnered from a crime scene and used in court cases.
+Research paperIntegrating the microbiome as a resource in the forensics toolkitThomas H. Clarke Andres Gomez Harinder Singh Karen E. Nelson Lauren M. BrinkacJ Craig Venter Institute Rockville MD 28050 USAA R T I C L E I N F OArticle historyReceived 24 February 2017Received in revised form 26 May 2017 Accepted 24 June 2017Available online 27 June 2017KeywordsHuman microbiome Forensics Geolocation Fingerprinting16S rRNANext generation sequencing Postmortem interval estimationA B S T R A C TThe introduction of DNA fingerprinting to forensic science rapidly expanded the available evidence that could be garnered from a crime scene and used in court cases.
 
-next generation sequencing technologies increased available genetic data that could be used as evidence by orders of magnitude and as such significant additional genetic information is now available for use in forensic science.
+Next generation sequencing technologies increased available genetic data that could be used as evidence by orders of magnitude and as such significant additional genetic information is now available for use in forensic science.
 
-however the applications of this new field in forensic sciences raises concerns on current methods used in sample processing including sample collection storage and the statistical power of published studies.
-
-these areas of human microbiome research need to be fully addressed before microbiome data can become a regularly incorporated evidence type and routine procedure of the forensic toolkit.
-
-published by elsevier ireland ltd. this is an open access article under the cc by-nc-nd license .introductionadvances in dna analysis in the 1970s such as southern blotting and restriction enzyme digests gave forensic inves- tigators a new tool for criminal investigations with dna-based evidence first introduced in a court in 1985 .
-
-however as with all restriction fragment length polymorphism rflp-based methods the requirement of high molecular weight dna limited the type of sample that could be processed for forensic purposes .
-
-depending on the forensic question and quality and quantity of dna available current standard methods of dna profiling use one or more of autosomal microsatellites or short tandem repeats strs or lineage markers corresponding author.e-mail address l.m.
-
-strs are more precise in determining human identity and thus were found to be ideally suited for forensic applications when sufficient dna is available.
+However the applications of this new field in forensic sciences raises concerns on current methods used in sample processing including sample collection storage and the statistical power of published studies.
 

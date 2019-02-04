@@ -1,30 +1,20 @@
-2016. for example the variability of bacterial assemblages in agave plants was linked to plant compartment rather than biogeog- raphy suggesting a major role of the plant microenvironment as compared with climate-associated variables coleman- derr et al.
+By sampling plants grown in the same type of soil along an altitudinal transect we studied changes in the composition of endo- phytes inhabiting plants that are exposed to different climatic conditions throughout the year similarly to recent studies on plant-associated fungal assemblages in Coince et al.
 
-exploring the assembly dynamics of bacterial endophytic communities is essential to understand the functioning of the plant holobiont and to optimise their possible use as biopesticides or plant biostimulants.
+Bacteria from the Coxiellaceae Hyphomicrobiaceae Nocardioidaceae Methylocystaceae Ohtaekwangia and Sinobacteraceae families were more commonly found in greenhouse plants while Pseudomo- nadaceae were more common in field-grown plants.
 
-conversely a variety of plant endophytes colonise all plant organs compant et al.
+Cladograms showing the most discriminative taxa LEfSe analysis between time-points in field plants A and B and greenhouse plants C and D.Node colour and shading highlight treatments in which taxa with names in the legend had a significantly higher relative abundance LEfSe Kruskal-Wallisp  0.01 Wilcoxon p  0.01 logarithmic LDA score  2.
 
-2011. root-associated communities including root endophytes have received considerable attention as they are thought to play a crucial role in plant nutrition and growth while fewer studies have addressed endophytic communities in the plant canopy.
+4 were highest in plants grow- ing at high temperature 358C and lowest in plants growing at the lowest temperature 158C.
 
-samples are coded as follows for greenhouses 15 25 35 temperature of 158c 258c 358c plant organ r roots s stems sampling time t1 1 montht2 3 months for field sampling time t0 start of the experiment t1 to t4 every 3 months plant organ r roots s stems sampling location l lenzima f faedo n navicello s san michele.
+Four plants were sampled at Tf0 and twelve plants three per field were sampled at all successive samplings.
 
-2015.perennial deciduous plants in temperate climates experi-ence an annual metabolic cycle that determines among other things the loss of leaves and the translocation of nutrients toward the roots in the colder season tromp 1983. these drastic changes are caused by profound metabolic shifts that involve the plant as a whole and are likely to be reflected in the composition of the endophytic communities therein.
+Five plants were sampled at the beginning of the experiment to represent the initial bacterial communities greenhouse time- point Tg0 then the plants were placed in cells with a fixed air temperature either 158C 258C or 358C and 168 h lightdark photoperiod.
 
-distances from t0 increased with time in roots while peaking at tg1 and decreasing at tg2 in stems figs 3de and 5b supporting information table s5.in plant stems sequences affiliated to bacteroidetes had their maximum relative abundance during early expo- sure to fixed temperatures tg1 while at the same time proteobacteria the most abundant phylum in all samples had their minimum relative abundance with the lowest rel- ative abundance recorded in plants exposed to higher temperatures supporting information fig.
+A second sampling of three plants for each temperature treatment greenhouse time-point Tg2 was carried out after 3 months.The sampled plants were taken immediately to the lab quickly washed and air-dried at room temperature.
 
-2010. as a perennial woody plant the grapevine offers an interesting model when compared with annual herbaceous plants as it accumulates stratified endophytic communities during its lifetime campisano et al.
+Dried roots were weighed at one timepoint during the course of each experi- ment at Tg2 for greenhouse plants and at Tf1 for field plants.DNA extraction handling and amplificationIn total 104 and 58 samples were collected from plants grown in field and greenhouse conditions respectively.
 
-4. alpha diversity of endophytic communities in roots a and c and stems b and d measured as observed otus a and b and shannon entropy c and d. colour figure can be viewed at of season and temperature on the evolution of the plant microbiome in this study we removed the confounding effect of soil by growing greenhouse and field plants in the same soil.
+2015.Perennial deciduous plants in temperate climates experi-ence an annual metabolic cycle that determines among other things the loss of leaves and the translocation of nutrients toward the roots in the colder season Tromp 1983.
 
-5. box plot of weighted unifrac distances for endophytic communities from time point 0 tf0 and tg0 in plant roots and stems of field a and greenhouse b plants.
-
-endophytes in plant roots responded to temperature- driven changes at a slower pace than those in stems both in field and greenhouse plants.
-
-6. networks of otus in plant stemsand roots b of grapevine plants.
-
-2014 plant host and soil origin influence fungal and bacterial assemblages in the roots of woody plants.
-
-plant soil 71 401-413.vancvura v. 1967 root exudates of plants.
-
-by sampling plants grown in the same type of soil along an altitudinal transect we studied changes in the composition of endo- phytes inhabiting plants that are exposed to different climatic conditions throughout the year similarly to recent studies on plant-associated fungal assemblages in coince et al.
+In annual plants the soil is the main source of endophytic colonisation but several vertically-transmitted endophytes are also commonly found Hodgson et al.
 

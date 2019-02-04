@@ -1,0 +1,20 @@
+However the mechanism by which NLRC3 promotes cell death remains to be determined.NLRC3 regulates colonic stem cells and sensitivity to tumorigenesisStem cells are considered to be the cells of origin of CRC because they can undergo self-renewal unlimited proliferation and differentiation.Several markers such as LRR-containing G-protein-coupled receptor 5 LGR5 sex-determining region y-box 9 SOX9 olfactomedin-4 OLFM4 and Musashi1 MSI1 have been used to identify stem cells and quantify their stemness.Colonic stem cells harvested from mice lacking NLRC3 develop more readily into organoids than do those iso- lated from WT mice.Expression of genes encoding stem cell markers LGR5BMI1 MSI1 OLFM4 and SOX9 was similar in colon tissues from WT and Nlrc3 mice  before AOM injection suggesting that the increased number and size of intestinal organoids derived from the colonic epithelium of Nlrc3 mice were because of increased colony-forming capacity rather than differences in the numbers of starting intestinal stem cells.
+
+From the clinical standpoint understanding the complex network through which NLRC3 promotes intestinal homeostasis can lead to the development of new therapeutic approaches to prevent and treat cancer.Results and discussionNLRC3 sequesters TRAF6 to modulate mTOR signalingIn our recent study we reported that deletion of NLRC3 results in the co-localization of mTOR with lysosomal-associ- ated membrane protein 1 leading to auto-activation of mTOR which subsequently targets S6 and 4E-BP1.
+
+The interaction of NLRC3 with PI3K subunits but not with AKT and PDK1 inhibits activation of the PI3K-AKT-mTOR axis.NLRC3 contains binding sites for tumor necrosis factor receptor-associated factors TRAFs within the nucleotide- binding domain which allow its association with the TLR sig- naling molecule TRAF6.Association with NLRC3 leads to auto-ubiquitylation and degradation of TRAF6 thereby tem- pering TLR-dependent activation of the NF-kB signaling pathway.Similarly the interaction of TRAF6 with p62 is required for translocation of mTOR to the lysosome for its subsequent activation.One possibility is that NLRC3 regu- lates mTOR activation by directly associating with TRAF6 and mTOR.
+
+J Immunol 2010 1854912-20 PMID2Elinav E Strowig T Kau AL Henao-Mejia J Thaiss CA Booth CJ Peaper DR Bertin J Eisenbarth SC Gordon JI et al.
+
+Nature 2001 411599-603 PMID11385576 Gagniere J Raisch J Veziant J Barnich N Bonnet R Buc E Bringer MA Pezet D Bonnet M. Gut microbiota imbalance and colorectal cancer.
+
+However we found that caspase-1 was similarly activated in wild-type WT and Nlrc3 mice  which is in line with our previous finding that IL-18 production is similar in colons of WT and Nlrc3 mice 14 d after azoxymethane AOM injection.Figure 1.
+
+Before expo- sure to AOM and DSS numbers of cyclin D1C cells were similar in the intestinal epithelium of WT mice and Nlrc3 mice .
+
+However 14 d after AOM injection numbers of cyclin D1C cells per intestinal crypt were signifi- cantly higher in Nlrc3 mice than in WT mice .Figure 2.
+
+Consistent with increased acti- vation of AKT we observed higher phosphorylation ofFoxO3a and FoxO1 in the colon of Nlrc3 mice than of WT mice .
+
+Caspase-8 cas- pase-3 and caspase-7 activation was lower in the colon of Nlrc3 mice than of WT mice  suggesting that reduced apoptosis during the early phase in the absence of NLRC3 contributes to increased tumorigenesis.
+

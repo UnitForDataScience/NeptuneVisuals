@@ -1,30 +1,20 @@
-jose et al.
+Jose et al.
 
-the rumen has evolved into an efficient and effec- tive fermentation vat for fiber degradation and the rumen is inhabited by a consortium of microorganisms con- sisting of bacteria archaea fungi protozoa and viruses miron et al.
+The rumen has evolved into an efficient and effec- tive fermentation vat for fiber degradation and the rumen is inhabited by a consortium of microorganisms con- sisting of bacteria archaea fungi protozoa and viruses Miron et al.
 
-pope et al.
+Pope et al.
 
-among the various domains of microorganisms residentin the rumen bacteria are predominant representing about 95 of the total microbes mackie et al.
+Among the various domains of microorganisms residentin the rumen bacteria are predominant representing about 95 of the total microbes Mackie et al.
 
-lin et al.
+Lin et al.
 
-the rumen fermentation process mediated by microbial communities affects the quality and compo- sition of milk and meat and the productive performance of the host welkie et al.
+The rumen fermentation process mediated by microbial communities affects the quality and compo- sition of milk and meat and the productive performance of the host Welkie et al.
 
-stevenson and weimer  sundset et al.
+Stevenson and Weimer  Sundset et al.
 
-numerous metagenomic studies have reported on the diversity of fibrolytic enzymes from the rumen of yak dai et al.
+Numerous metagenomic studies have reported on the diversity of fibrolytic enzymes from the rumen of yak Dai et al.
 
-reindeer pope et al.
+reindeer Pope et al.
 
-jersey cow wang et al.
-
-angus cattle brulc et al.
-
-and buffalo singh et al.
-
-the library was then loaded onto the illumina miseq plat- form for cluster generation and subjected to paired-end sequencing.metagenome assembly and bioinformatic analysisde novo assembly of high quality data was accomplished using the clc genomics workbench 6.0 qiagen usa at default parameters minimum contig length 200 auto- matic word size yes perform scaffolding yes mismatch cost 2 insertion cost 3 deletion cost 3 length fraction 0.5 similarity fraction 0.8. bioinformatic analysis of the metadata was performed with metagenome rapid anno- tation using subsystem technology mg-rast meyer et al.
-
-the metadata were functionally categorized via an rps-blast comparison with the subsystem data- base overbeek et al.
-
-and kegg databases kane- hisa and goto .carbohydrate-active enzyme annotation and taxonomic profilingthe fibrolytic gene encoding contigs from the metadata were identified and classified based on the carbohydrate- active enzymes database cantarel et al.
+Jersey cow Wang et al.
 

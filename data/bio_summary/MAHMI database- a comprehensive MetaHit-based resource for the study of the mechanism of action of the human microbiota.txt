@@ -1,30 +1,20 @@
-possibly the para- digm of the link between gut microbiota and immunity are the inflammatory bowel diseases ibd in which an aber- rant immune response to the gut microbiota is related to development persistence and relapse of the disease  .
+Despite of the growing number of solid scientific evidences showing that our intestinal microbiota is implicated in maintaining the gut physiology we are far from reaching a clear understanding about the molecular mechanisms underlying this mutualism and how alter- ations in the relative amounts of microbiota populations are related to human health .In order to maintain intestinal homeostasis host bac- teria and human immune system are constantly engaged in sensing and reacting to one another by means of specific molecules such as extracellular proteins .
 
-et al.
+Possibly the para- digm of the link between gut microbiota and immunity are the Inflammatory Bowel Diseases IBD in which an aber- rant immune response to the gut microbiota is related to development persistence and relapse of the disease  .
 
-et al.
+2016 article ID baw157 doi10.1093databasebaw157.Received 4 May 2016 Revised 4 November 2016 Accepted 5 November 2016AbstractThe Mechanism of Action of the Human Microbiome MAHMI database is a unique resource that provides comprehensive information about the sequence of potential immunomodulatory and antiproliferative peptides encrypted in the proteins produced by the human gut microbiota.
 
-et al.
+The host provides microbiota with nutrients and a friendly environment whereas the microbiota helps in the development of the gut mucosa including the immune system and provides the host with nutritional contributions .
 
-et al.
+Different functions have been assigned to human gut microbiota including maintenance of the epithelial barrier direct or indirect inhibition of pathogen adhesion to intestinal surfaces modulation and proper maturation of the immune system degradation of otherwise non-digestible carbon sources such as plant polysaccharides and production of different metabolites such as vitamins and short-chain fatty acids among which butyric acid is of paramount importance for colono- cyte physiology .
 
-et al.
+The interaction of MAMPs with PRRs also affects the mat- uration of antigen-presentation cells which willsubsequently define the type of T-cell immune response mainly Th1 Th2 Th17 or Treg .Several non-infectious human diseases including auto- immune inflammatory diseases and certain types of can- cer are related to both an immunological imbalance and a dysbiosis of the gut microbiota -.
 
-et al.
+Sequences contained within MAHMI database may help the basic researcher working in the field of bacteria-human host molecular cross-talk as this kind of peptides are relevant from a physiological and immune point of view.Proteins produced by our intestinal microbiota are important molecular targets that can allow the study of the mechanism of action of our gut microbes .
 
-et al.
+The human gastrointestinal tract GIT and more concisely the gut- associated lymphoid tissue GALT is perhaps the main point of contact between gut microorganisms and the human host.
 
-et al.
+Our bioactivity prediction method encompasses in silico protein digestion using intestinal proteases from pro- tein microbiome complements and global sequence similar- ity search against the reference peptides.The overall aim of MAHMI is to facilitate the work of those scientific teams working in the field of the molecular interaction between the human host and the intestinal microbiota.
 
-et al.
-
-et al.
-
-et al.
-
-et al.
-
-et al.
-
-et al.
+The curation workflow is divided into two processes manual curation and automatic annotation.application in the framework of IBD but also in other immune-associated diseases where the gut microbiota plays a part including Irritable Bowel Syndrome   Celiac Disease   and Type-1 Diabetes  .Database construction and updateDatabase overviewThe system integrates a Web-based front-end a Java appli- cation as processing core version 1.8.066 and a MySQL data management system version 14.14.
 

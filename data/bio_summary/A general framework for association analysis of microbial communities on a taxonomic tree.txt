@@ -1,30 +1,20 @@
-our tests identify two bmi- associated lineages family ruminococcaceae q1 p-value 14 0.00011 q2 p-value 14 0.025 qzero p-value 14 0.38 qpos p-value 14 0.0070and family veillonellaceae q1 p-value 14 0.0036 q2p-value 14 0.0018 qzero p-value 14 0.0011 qpos p-value 14 0.20. as indicated by the results of the zero-part and the positive-part tests theassociation of ruminococcaceae is driven mainly by the changes in the positive abundances and the association of veillonellaceae is driven mainly by the changes of the presenceabsence frequencies.
+The vector of the score statistics among taxa might generally be expected to exhibit negative correl- ations because the total taxa count is bounded by the sequencing depth.
 
-for lineage detection on the tree we controlled the fdr at a 14 005. for the global test we rejected the null composite hypothesis at a 14 005.supplementary figure s4a displays the heatmap of the counts for the 40 taxa under order lactobacillales when pe 14 0002. clearly the counts of the taxa under genus streptococcus are different between the two groups.
+It is de- sirable to incorporate the taxonomic information into the analyses of the microbiome composition because the ecological roles played by the microbial communities are different at various taxonomic lev- els and changes in the structure of the microbiota that are associ- ated with covariates can occur at any taxonomic levels and along any relevant lineages of the tree  .Association analysis of the microbiome composition proves chal-lenging for several reasons the number of taxa is large relative to the sample size the count data are sparse for many taxa with exces- sive zero observations and total counts across taxa are constrained by the sequencing depth .
 
-then ydsdvkthth is the vector of counts of reads assigned to its direct child nodes and ydvkth-ydvk thijf dyijth 14 fprdyij 14 0thg1-dij f1 - prdyij 14 0thgdij hdyijjdijthdij is the count of unassigned reads.
+In the view of the fact that the sum of the proportions over taxa is bounded by 1 we induced an abundance difference between two groups by applying a swapping procedure to change abundances of two taxa at a time increase the abundance in one taxon and decrease in the other without disturb- ing other taxa.
 
-we will perform hypothesis tests on the zero and the positive parts separately and then combine the tests.for the positive part we apply the qcat approach to the condi- tional mean of the countthe set of hypothesesone-part test hdkth  bdkth 14 0 dk 14 1 ...  kthtwo-part test hdkth  cdkth 0 adkth 0k1 ...  k 011where bdkth are the parameters of interest under the one-part model onedyijjdijth14 cidijlij j 14 1 .. .
+The secondour framework in the detection of associations between the human microbiome and two disorders psoriasis and obesity.Methods2.1 Quasi-conditional association test QCATSuppose that we have n subjects measured on m th 1 taxa.
 
-the results are not significant because the association signals are subtle and sparse on the tree permanova p-value 14 0.39 mirkat p-value 14 0.57 mispu p-value 14 0.24.discussionin this paper we develop a general framework for association ana- lysis between microbial communities on a taxonomic tree and cova- riates e.g.
+The DM test is often applied to taxa at high taxonomic levels e.g.
 
-under the log-normal model we set the means of the 7 normal distributions tol 14 dl1 ...  l7th14 d3 14 12 1 08 05 0th and variances to 1. the proportions of the 7 taxa are calculated from the relative abun- dance among the 7 log-normal samples.
+The proportions of the 7 taxa are calculated from the relative abun- dance among the 7 log-normal samples.
 
-bt tht we consider the following estimating equationsnnsidbth 14dyi - nipithr xi 14 02type directly models the compositional taxa counts using dirichlet-i141i141dmth1thmultinomial dm distribution  where r denotes the kronecker product ni 14 pyij pi 14. dm distribution was shown to fit the overdispersed countdata better than the multinomial distribution by assuming that the proportion parameters follow a dirichlet distribution.
+The results forwere performed based on the same taxonomic tree.Q  Qand Qtests are not shown under the log-normal2ZEROPOSSimulation studiesWe simulated taxa counts for two groups with an equal number ofmodel because the two-part test degenerates to the one-part testTable 1.
 
-it is de- sirable to incorporate the taxonomic information into the analyses of the microbiome composition because the ecological roles played by the microbial communities are different at various taxonomic lev- els and changes in the structure of the microbiota that are associ- ated with covariates can occur at any taxonomic levels and along any relevant lineages of the tree  .association analysis of the microbiome composition proves chal-lenging for several reasons the number of taxa is large relative to the sample size the count data are sparse for many taxa with exces- sive zero observations and total counts across taxa are constrained by the sequencing depth .
+The PERMANOVA MiRKAT and MiSPU tests have low power because the differentiation is too subtle to be de- tected by jointly considering all the taxa on the tree.
 
-in the view of the fact that the sum of the proportions over taxa is bounded by 1 we induced an abundance difference between two groups by applying a swapping procedure to change abundances of two taxa at a time increase the abundance in one taxon and decrease in the other without disturb- ing other taxa.
+The root nodes of the discovered lineages are annotated by the names of the corresponding taxa.
 
-for the count data it is natural to model the taxon-specific component as lij 14 exp dbtxithwhere b 14 db  .. .
-
-without loss of generality we order the subjects such that the first n1 subjects belong to group 1 and the remaining subjects belong to group 2. we construct the design matrix as xi 14 12 xi1 1  where xi1 takes a value of 0 or 1 to indicate mem- bership in group 1 or 2. the null hypothesis can be written ash0  b 14 db  .. .
-
-under the ziln model we set the mean parameters of the normal distributions the same as those in the log-normal model and considered two sets of zero proportion parameters a p 14 d06 055 05 045 04 03502th and b p 14 d0 01 015 02 025 03 04th.
-
-the lesion and normal groups dif- fer in the percentages of the presence qzero p-value 14 0.000075but do not differ in the counts at those presence qpos p-value 14 0.34. the family paenibacillaceae that shows a prominent difference between groups is also detected by the two-part test at the family level.the four lineages identified at the family level were completely missed by the investigators' initial analysis  .
-
-this suggests the advantage of our methods especially in the detection of associations at lower taxonomic levels.for the global association analysis our fisher-q1 test produced significant results with p-values of 0.0016. the simes' tests are less significant than the fisher's test simes-q1 p-value 14 0.073 simes- q2 p-value 14 0.016 because the differential signals spread over many lineages in the taxonomic tree.
-
-the p-values of the dm global tests are not significant fisher-dm p-value 14 0.06 simes- dm p-value 14 0.22.gut microbiome and body mass indexgut microbiota play an important role in obesity by contributing to nutrient digestion and absorption in humans.
+The differentiation of the identified lineage is driven mainly by the differences in the presenceabsence frequencies of taxa in those lineages.
 

@@ -1,20 +1,14 @@
-in general on the first time point there are four strains on the second time point there are two strains and on the third point - one strain.experimental design materials and methodseradication therapy schemeeradication therapy was carried out according to the scheme maastricht 4 including the antibiotics clarithromycin amoxicillin proton pump inhibitors and bismuth subsalicylate.
+Value of the dataThis data set will be useful for the scientific community working in the area of medical genomics andor metagenomics since it represents the data set of Enterococcus faecium genomes isolated from stool samples of the patients before and after Helicobacter pylori eradication therapy.This data may be used for comparisons Enterococcus spp.
 
-data articledraft genomes of enterococcus faecium strains isolated from human feces before and after eradication therapy against helicobacter pylorinikita a. prianichnikov  maja v. malakhova vlad v. babenko andrei k. larin evgenii i. olekhnovich elizaveta v. starikova dmitry i. chuvelev oksana e. glushchenkoandrei e. samoilov alexander i. manolov boris a. kovarsky alexander v. tyakht alexander v. pavlenko elena n. ilina elena s. kostryukovafederal research and clinical centre of physical-chemical medicine malaya pirogovskaya 1a moscow 119435 russiaa r t i c l e i n f o article historyreceived 24 october 2017 received in revised form 16 november 2017accepted 20 november 2017available online 27 november 2017a b s t r a c t the abundance of enterococci in the human intestinal microbiota environment is usually o 0.1 of the total bacterial fraction.
+Data ArticleDraft genomes of Enterococcus faecium strains isolated from human feces before and after eradication therapy against Helicobacter pyloriNikita A. Prianichnikov  Maja V. Malakhova Vlad V. Babenko Andrei K. Larin Evgenii I. Olekhnovich Elizaveta V. Starikova Dmitry I. Chuvelev Oksana E. GlushchenkoAndrei E. Samoilov Alexander I. Manolov Boris A. Kovarsky Alexander V. Tyakht Alexander V. Pavlenko Elena N. Ilina Elena S. KostryukovaFederal Research and Clinical Centre of Physical-Chemical Medicine Malaya Pirogovskaya 1a Moscow 119435 Russiaa r t i c l e i n f o Article historyReceived 24 October 2017 Received in revised form 16 November 2017Accepted 20 November 2017Available online 27 November 2017a b s t r a c t The abundance of Enterococci in the human intestinal microbiota environment is usually o 0.1 of the total bacterial fraction.
 
-is alarming for the world medical community because of their high prevalence among clinically significant strains of microorganisms.
+The multiple resistance to antibiotics of the opportunistic Enterococcus spp.
 
-enterococci are able to collect different mobile genetic elements and transmit resistance to antibiotics to wide range of gram-positive and gram-negative species of microorganisms including the transmission of vancomycin resistance to methicillin-resistant strains of staphylo- coccus aureus.
+The number of infections caused by antibiotics resistant strains of Enterococcus spp.
 
-the number of infections caused by antibiotics resistant strains of enterococcus spp.
+Here we present a draft genomes of Enterococcus faecium strains.
 
-here we present a draft genomes of enterococcus faecium strains.
+genomic data.This data will also be valuable for more detailed study of processes occurring in the gut microbiota during the antibiotics administration.DataThe following data represents contigs of genomes Enterococcus faecium strains isolated from stool sam- ples of two patients before time point 1 and after time points 2 and 3 Helicobacter pylori eradication therapy.
 
-these strains were isolated from human feces before and after 1 month helicobacter pylori era- dication therapy.
-
-genomic data.this data will also be valuable for more detailed study of processes occurring in the gut microbiota during the antibiotics administration.datathe following data represents contigs of genomes enterococcus faecium strains isolated from stool sam- ples of two patients before time point 1 and after time points 2 and 3 helicobacter pylori eradication therapy.
-
-.isolationenterococcus faecium strains from two patients hp003 three time points and hp010 two time points were isolated from stool samples before and after helicobacter pylori eradication therapy.
-
-data in brief 16 2018 511-514513table 1genome assembly statistics of enterococcus faecium strains isolated from patients before and after helicobacter pylori eradi- cation therapy.obtaining sufficient biomass and put to the conservation.
+Data in Brief 16 2018 511-514513Table 1Genome assembly statistics of Enterococcus faecium strains isolated from patients before and after Helicobacter pylori eradi- cation therapy.obtaining sufficient biomass and put to the conservation.
 

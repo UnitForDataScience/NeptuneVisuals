@@ -1,30 +1,20 @@
-the majority of the isolates belonged to clonal complex 1 which con- tained two predominant mlva types mt14 and mt20 that differed to each other by one repeat at vntr3.the distribution of the mlva types over the sampling period was examined to determine the possible evolution of the mlva types over time and the introduction of distant- ly related mlva types fig.
+Strains were selected based on four criteria i to represent variations in MLVA types seen with- in the herd eight MLVA types ii to cover MLVA types appearing early seven isolates towards the middle sev- en isolates and at the end of the study four isolates iii to represent isolates from the same MLVA type but from different cows.
 
-these two snps were both located within isolates of lineage 2 making it is less likely that an mt3 isolate was transmitted from cow j to cow k. however identical genome sequen- ces were observed for five isolates of mt14 and mt20 from cow k and cow j making it difficult to discern whether cross cow transmission of these two mlva types have occurred in these cases.discussionin this study we analysed 169 stec o157 isolates from an australian beef herd collected over nine months.1842 m. jones et al.australia has a unique stec o157 population as shown by mlva and snp typing previously mellor et al.
+These two SNPs were both located within isolates of Lineage 2 making it is less likely that an MT3 isolate was transmitted from cow J to cow K. However identical genome sequen- ces were observed for five isolates of MT14 and MT20 from cow K and cow J making it difficult to discern whether cross cow transmission of these two MLVA types have occurred in these cases.DiscussionIn this study we analysed 169 STEC O157 isolates from an Australian beef herd collected over nine months.1842 M. Jones et al.Australia has a unique STEC O157 population as shown by MLVA and SNP typing previously Mellor et al.
 
-strains were selected based on four criteria i to represent variations in mlva types seen with- in the herd eight mlva types ii to cover mlva types appearing early seven isolates towards the middle sev- en isolates and at the end of the study four isolates iii to represent isolates from the same mlva type but from different cows.
+VNTR34 displayed the least variation with two alleles.Genetic diversity of cow isolates as measured by MLVA and temporal MLVA type changesMLVA divided the 169 isolates into 33 MLVA types MT with 141 of the 169 isolates 83.4 belonging to fivePopulation dynamics of O157 in a Herd 1837predominant types MT2 MT3 MT8 MT14 and MT20.
 
-vntr34 displayed the least variation with two alleles.genetic diversity of cow isolates as measured by mlva and temporal mlva type changesmlva divided the 169 isolates into 33 mlva types mt with 141 of the 169 isolates 83.4 belonging to fivepopulation dynamics of o157 in a herd 1837predominant types mt2 mt3 mt8 mt14 and mt20.
+The majority of the isolates belonged to clonal complex 1 which con- tained two predominant MLVA types MT14 and MT20 that differed to each other by one repeat at VNTR3.The distribution of the MLVA types over the sampling period was examined to determine the possible evolution of the MLVA types over time and the introduction of distant- ly related MLVA types Fig.
 
-2. temporal variation of the diversity of stec o157 mlva types.bar chart of the distribution of three main mlva types mt2 14 and 20 in the three different isolation period.diversity of mlva types detected each day.
+Based on sharing of MLVA types with clade 7 isolates it was likely that this new SNP type was a new variant of clade 7 rather than a divergent clade unrelated to clade 7.Genome sequencing and phylogenomic analysis of 18 selected isolatesTo further understand the genomic composition of the MLVA types and microevolution of STEC O157 in a herd a total of 18 isolates from three different cows J K and M were selected for genome sequencing Supporting Infor- mation Table S1.
 
-based on sharing of mlva types with clade 7 isolates it was likely that this new snp type was a new variant of clade 7 rather than a divergent clade unrelated to clade 7.genome sequencing and phylogenomic analysis of 18 selected isolatesto further understand the genomic composition of the mlva types and microevolution of stec o157 in a herd a total of 18 isolates from three different cows j k and m were selected for genome sequencing supporting infor- mation table s1.
+Of the remaining 28 isolates 19 possessed a unique MLVA type three MLVA types contained two isolates and one MLVA type contained three isolates.The majority of MLVA types differed by one VNTR with the most diverse differing by five VNTR loci.
 
-subtyping of cow isolates by both mlva and pfge revealed a diversity of stec o157 strains and a turnover of predominant types kondo et al.
+Subtyping of cow isolates by both MLVA and PFGE revealed a diversity of STEC O157 strains and a turnover of predominant types Kondo et al.
 
-five predominant mlva types were evident with most of the remaining types containing only a single isolate.
+A minimum spanning tree of MLVA types was constructed with the MLVA types and the number of isolates with that type within the circle.
 
-of the remaining 28 isolates 19 possessed a unique mlva type three mlva types contained two isolates and one mlva type contained three isolates.the majority of mlva types differed by one vntr with the most diverse differing by five vntr loci.
+Isolates from within the same lineage were mostly identical with two isolates in Lineage 1 and one isolate each in Lineage 2 and Lineage 3 differing by 2 SNPs from their respective main genome types and one isolate in Lin- eage 1 differing by 1 SNP.Seven Lineage 1 isolates were identical by genomesequences.
 
-nevertheless the selected isolate reflects the majority of the mlva types at that time point.when the sampling period was divided into early octo- ber to december middle january to march and late times may to june evolution of mlva types and clonal replacement were apparent fig.
-
-a minimum spanning tree of mlva types was constructed with the mlva types and the number of isolates with that type within the circle.
-
-mlva types differed by multiple vntr differences belonged to different snp lineages while closely related mlva types differing by one repeat clustered together in the same line- age.
-
-by mlva there were 33 mlva types found with 5 mlva types predominant.
-
-2013. isolates with matching pulsed-field gel electrophoresis pfge profiles and highly similar multi- locus variable number tandem repeat vntr analysis mlva types have been found in cows sheep and humans suggesting that strains circulate between ruminant reser- voirs and humans prendergast et al.
-
-2010. some mlva types were continuously detected throughout the sampling period in some cases over a three month period kondo et al.
+A clonal changeover from MT20 to MT2 occurred towards the end of the study as the two MLVA types differed at seven out of the eight VNTR loci.Clade variability of cow isolates as measured using SNP typingSNP typing based on the scheme of Manning et al.
 

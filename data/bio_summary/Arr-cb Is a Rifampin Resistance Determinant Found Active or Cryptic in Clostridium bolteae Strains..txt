@@ -1,30 +1,20 @@
-mechanisms of resistancearr-cb is a rifampin resistance determinant found active or cryptic in clostridium bolteae strainsjean-christophe marvaud thierry lambertea 4043 unite bacteries pathogenes et sante ubaps universite paris-sud universite paris-saclay chatenay- malabry franceabstract clostridium bolteae which belongs to the clostridium clostridioforme com- plex is a member of the human gut microbiota.
+The aim of this study was to evaluate the capacity of arr-cb of C. bolteae to confer rifampin resistance.RESULTS AND DISCUSSIONSusceptibility of C. bolteae to rifampin.
 
-the most common mechanism of rifampin resistance is a nucleotide mutation within the rpob gene which encodes the subunit of rna polymerase .
+The common region was disrupted 36 bp upstream of the initiation codon by a 107-bp sequence in 90A7 90A9 and 90B3 versus a 283-bp sequence in 90A5 90B7 90B8 and ATCC BAA613 .No DNA sequence related to genes involved in the mobilization or transfer was detected in the environment of arr-cb in the seven C. bolteae genomes analyzed except an ISL3 family insertion sequence integrated just downstream from arr-cb in strain 90A7.
 
-the second arr-ms confers intrinsic resistance to rifam- pin on the opportunistic pathogen mycobacterium smegmatis  and the third arr-sc is from environmental streptomyces coelicolor .recent genomic comparison inside the clostridium clostridioforme group has re- vealed the presence of an arr-like determinant in clostridium bolteae .
+The559-bp spacing sequence which contained a GC-rich stem-loop sequence TATCCGC CTTTGGCGGATA may be responsible for transcription attenuation.To quantify the influence of the two arr-cb regulatory regions specific mRNA for arr-cb was measured by quantitative reverse transcription qRT-PCR in 90A7 90B3 and 90A5.
 
-anaerobes of the gut microbiota represent a reservoir for antibiotic resistance determinants .
+Thus two independent mecha- nisms can make the probably intrinsic arr-cb gene of C. bolteae cryptic.KEYWORDS rifampin ADP-ribosyltransferase Clostridium bolteae antibiotic resistanceifampin belongs to the first-line drug treatment of tuberculosis leprosy and brucellosis.
 
-c. bolteae 90a5 90a9 90b3 90b7 90b8 and atcc baa613 were very susceptible to rifampin mics 0.006 ugml meanwhile 90a7 was resistant mic 32 ugml .in silico analysis of rifampin resistance in c. bolteae.
+C. bolteae 90A5 90A9 90B3 90B7 90B8 and ATCC BAA613 were very susceptible to rifampin MICs 0.006 ugml meanwhile 90A7 was resistant MIC 32 ugml .In silico analysis of rifampin resistance in C. bolteae.
 
-to rule out the possibility that the rifampin resistance of 90a7 resulted from a mutation of the target the rpob sequence was compared to that of the susceptible c. bolteae strains included in this study.
+The structure of Arr-ms in complex with rifampin has been determined and compared with that of other ADP-ribosyltransferases leading to identification of the residues contacting both NAD and rifampin .
 
-a clustalw alignment of the deduced rpob sequences showed that the subunit of rna polymerase of the seven c. bolteae strains differed at most by three amino acid residues located outside the four clusters involved in rifampin resistance .
+Cloning of arr-cb from 90A7 in Escherichia coli combined with directed mutagenesis demonstrated that Arr-cb was functional but that a Q127R variant present in 90A9 and 90B3 was inac- tive.
 
-involvement of this mutation in the rifampin resistance of 90a7 was unlikely since this position has never been reported to be involved in resistance.ncbi genbank analysis including other c. bolteae genomes such as that of cag59 strain wal-14578 indicated an arr gene as part of the core genome  whereas it was not found in other species.
+Quantitative reverse transcription-PCR analysis indicated that arr-cb was silent in the four remaining strains because of defective transcription.
 
-the arr-cb90a7 gene cloned into puc18 conferred rifampin resistance on e. coli .
+The arr-cb gene encoded a 137-amino-acid protein that displayed similarity to Arr-2 Arr-ms and Arr-sc 51 57 and 55 identity respectively .Four Arr-cb variants differing by a single amino acid change were detected among the seven C. bolteae strains .
 
-the lack of resistance in the hosts could be due to either an amino acid substitution leading to a nonfunctional protein or failure of transcription.
-
-the mutated gene was unable to confer rifampin resistance on e. coli  confirming that position 127 is crucial for that activity.
-
-this determinant borne by the core genome of c. bolteae was able to confer resistance however it was also found to be cryptic in certain members of the species because of either a gene mutation or a polymorphism in the regulatory region leading to transcription attenuation.
-
-the resulting 447-bp fragment was cloned into vector puc18 by placing the resistance gene under the control of the plac promoter.
-
-site-directed mutagenesis was performed to demonstrate in e. coli that the unique substitution change between arr-cb from 90a7 and that from 90b3 and 90a9 is crucial for resistance activity.
-
-.o'connor jr galang ma sambol sp hecht dw vedantam g gerding dn johnson s. 2008. rifampin and rifaximin resistance in clinical isolates of clostridium difficile.
+Two features were found in the regulatory region of the arr-cb genes.
 

@@ -1,30 +1,20 @@
-hence in this study the lactobacillus in the duodenum and cecum might play a major gene role and other differentially abundant microbes in cecum perform the minor gene role in influencing host feed efficiency.in conclusion with the high-throughput sequencing technology this study profiled the microbial communi- ties in the duodenum cecum and feces which represent the niches of the anterior segment posterior segment and the end of gastrointestinal tract respectively.
+Hence in this study the Lactobacillus in the duodenum and cecum might play a major gene role and other differentially abundant microbes in cecum perform the minor gene role in influencing host feed efficiency.In conclusion with the high-throughput sequencing technology this study profiled the microbial communi- ties in the duodenum cecum and feces which represent the niches of the anterior segment posterior segment and the end of gastrointestinal tract respectively.
 
-in addition significant absorption of glucose was observed in the cecum and a higher ability to actively absorb sugars at low concentrations was found in the cecum compared with the jejunum.
+In addition significant absorption of glucose was observed in the cecum and a higher ability to actively absorb sugars at low concentrations was found in the cecum compared with the jejunum.
 
-however the lactobacillus in the cecum and feces was weakly corre- lated with corresponding shannon index.similarities of the microbial communities among the duodenum cecum and feces.
+However the Lactobacillus in the cecum and feces was weakly corre- lated with corresponding Shannon index.Similarities of the microbial communities among the duodenum cecum and feces.
 
-in the cecum the most significantly different functions such as the functions related to photosyn- thesis glycometabolism ion transportation and amino acid metabolism were enriched in the bfe group com- pared with the pfe group d. in feces no function was significantly different between the two groups.figure 6. box plots of differentially abundant genera and species in cecum fdr  0.05 and feces fdr  0.1. bfe and pfe denote better feed efficiency and poor feed efficiency respectively.figure 7. heat map of the top 50 predicted functions by kegg.
+The results showed that the microbial community in the cecum was quite different from those in the duodenum and feces.
 
-this study determined the microbial community composition and the predicted functions of the metagenome in the cecum duodenum and feces and has thus provided comparative information for understanding the cecal microbiota.figure 8. heat map showing the different abundances of functions predicted by kegg among duodenum cecum and feces.
+The cecum which is full of microbial fermentations plays important roles in preventing pathogen colonization detoxifying harmful substances recycling nitrogen and absorbing additional nutrients.
 
-the results showed that the microbial community in the cecum was quite different from those in the duodenum and feces.
+The predominant microbes in the duodenum cecum and feces were similar at the phylum level in which Firmicutes and Bacteroidetes were the major microbes.
 
-cecum is the chief func- tional section in the distal intestine and its importance in birds' metabolism has received increasing attention.
+The cecum was dominated by Bacteroides 21.7 in BFE 23.6 in PFE followed by Prevotella 6.2 in BFE 3.9 in PFE.
 
-the cecum which is full of microbial fermentations plays important roles in preventing pathogen colonization detoxifying harmful substances recycling nitrogen and absorbing additional nutrients.
+The significantly different taxa in the cecum FDR  0.05 and suggestively different taxa in the feces FDR  0.1 are listed in Supplementary Table.
 
-located at the beginning of the intestine the duodenum is crucial for feed digestion and absorption it has a lower ph than the hindgut and is the region that absorbs most glucoseand other nutrients within the small intestine.although the cecum and the duodenum themselves are important interactions between the gut and com- mensal microbes may exert a significant influence on the function of the intestine.
+The top 50 predicted functions were used as variants to hierarchically cluster the samples at the three sites 7 this clustering showed the distinct functions of the metagenome in the duodenum cecum and feces.
 
-previous studies showed that the digestion of uric acid cellulose starch and other resistant carbohydrates in the cecum was associated with the cecal microbial members.
-
-mignon-grasteau et al.quantified the microbial 16s rdna in the cecum by qpcr and observed higher ratios of clostridium leptum clostridium coccoides and lactobacillus sali- varius to e. coli in the better efficiency group.
-
-however the microbial communities have not been compared among the foregut duodenum hindgut cecum and feces in hens and the interactions between the feed efficiency evaluated using rfi and gut microbiota need to be explored.resultsphenotypic and sequencing data.
-
-after assembly and filtration the bfe samples had an average of 44998 102993 and 66094 clean tags in the duodenum cecum and feces respectively.
-
-in addition the clean tags for the pfe samples in the duodenum cecum and feces were 37404 91143 and 65315 respectively.
-
-the predominant microbes in the duodenum cecum and feces were similar at the phylum level in which firmicutes and bacteroidetes were the major microbes.
+The finding that all differentially abundant FDR  0.05 microbes were observed in the cecum in the current study might have revealed a prominent role for cecal microbiota in feed efficiency.
 

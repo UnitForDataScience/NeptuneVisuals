@@ -1,30 +1,20 @@
-these results revealed that dietary phb supplementation had a beneficial effect on intestine health of l. vannamei by mod- ulating the composition of intestine microbiota and acti- vating mtor signaling.keywords litopenaeus vannamei poly-b-hydroxybutyrate phb prebiotic intestine microbiota mtor signalingintroductionpacific white shrimp litopenaeus vannamei is an importantfor correspondence.
+These results revealed that dietary PHB supplementation had a beneficial effect on intestine health of L. vannamei by mod- ulating the composition of intestine microbiota and acti- vating mTOR signaling.Keywords Litopenaeus vannamei poly-b-hydroxybutyrate PHB prebiotic intestine microbiota mTOR signalingIntroductionPacific white shrimp Litopenaeus vannamei is an importantFor correspondence.
 
-in this study 16s rdna gene illumina sequencing was used to study the intestine microbiota composition in l. vanna- mei fed different does of phb results showed that dietary phb altered the composition of the intestine microbiota in the shrimp.
+In this study 16S rDNA gene illumina sequencing was used to study the intestine microbiota composition in L. vanna- mei fed different does of PHB results showed that dietary PHB altered the composition of the intestine microbiota in the shrimp.
 
-2016. these activities suggest potential mechanisms behind the activa- tion of mtor signaling by phb treatment however further investigation is required for confirmation.in conclusion this study demonstrated that dietary supple-mentation of phb modulated the composition of intestine microbiota in l. vannamei that some species of beneficial bacteria were abundant and that intestine microbiota diver- sity decreased with increasing phb doses.
+These activities suggest potential mechanisms behind the activa- tion of mTOR signaling by PHB treatment however further investigation is required for confirmation.In conclusion this study demonstrated that dietary supple-mentation of PHB modulated the composition of intestine microbiota in L. vannamei that some species of beneficial bacteria were abundant and that intestine microbiota diver- sity decreased with increasing PHB doses.
 
-2014. it was re- ported that mtor affected intestine mucosa development and immune protein synthesis and may function to nega-tively regulate intestine inflammation induced by lipopoly- saccharides lps in broilers liu 2015. additionally mtor rnai-mediated knockdown has resulted in growth arrest and intestine degeneration long et al.
+During the feeding trial the shrimp were fed close to satiation uneaten feed particles were collected dried and weighed for correction of feed intake after feeding for 1 h. The feeding trial lasted for 35 days.Sample collection and processingAt the end of the experiment 35 days whole intestine tissue including feces of six shrimp from each tank was collected mixed and frozen at -80degC for intestine microbiota analysis.
 
-2014. commensal microbiota in the intestine produces short-chain fatty acids scfas during the fermentation process providing nut- rients for the regeneration and repair of the intestine epithe- lium.
+Commensal microbiota in the intestine produces short-chain fatty acids SCFAs during the fermentation process providing nut- rients for the regeneration and repair of the intestine epithe- lium.
 
-however the effects of phb on the intestine microbiota remain unknown.the mammalian target of rapamycin mtor signaling path- way as a nutrient-sensitive mechanism plays a crucial role in intestine inflammation and epithelial morphogenesis la- plante and sabatini 2012 abuhagr et al.
+However the effects of PHB on the intestine microbiota remain unknown.The mammalian target of Rapamycin mTOR signaling path- way as a nutrient-sensitive mechanism plays a crucial role in intestine inflammation and epithelial morphogenesis La- plante and Sabatini 2012 Abuhagr et al.
 
-during the feeding trial the shrimp were fed close to satiation uneaten feed particles were collected dried and weighed for correction of feed intake after feeding for 1 h. the feeding trial lasted for 35 days.sample collection and processingat the end of the experiment 35 days whole intestine tissue including feces of six shrimp from each tank was collected mixed and frozen at -80degc for intestine microbiota analysis.
+High-throughput sequencing an- alysis revealed that dietary PHB altered the composition and diversity of intestine microbiota and that the microbiota di- versity decreased with the increasing doses of PHB.
 
-high-throughput sequencing an- alysis revealed that dietary phb altered the composition and diversity of intestine microbiota and that the microbiota di- versity decreased with the increasing doses of phb.
+Additionally whole intestine tissue without feces of another three shrimp from each tank was collected and mixed then snap frozen in liquid nitrogen and stored at -80degC for gene expression analysis.Intestine microbiota analysisIntestine microbiota DNA was extracted using the Power- SoilTM DNA Isolation Kit Mo Bio Laboratories Inc. per the manufacturer's protocol and analyzed using 1.0 agarose gel electrophoresis.
 
-additionally whole intestine tissue without feces of another three shrimp from each tank was collected and mixed then snap frozen in liquid nitrogen and stored at -80degc for gene expression analysis.intestine microbiota analysisintestine microbiota dna was extracted using the power- soiltm dna isolation kit mo bio laboratories inc. per the manufacturer's protocol and analyzed using 1.0 agarose gel electrophoresis.
+While the abundance of Firmicutes increased in the PHB1 group and decreased in the PHB5 group which is con- sistent with the alpha diversity of intestine microbiota the microbiota diversity overall decreased with increasing doses of PHB.SCFAs can penetrate through the bacterial cell wall re-leasing protons H in the neutral cytoplasm and lowering the intracellular pH.
 
-2013 2014. while the abundance of firmicutes increased in the phb1 group and decreased in the phb5 group which is con- sistent with the alpha diversity of intestine microbiota the microbiota diversity overall decreased with increasing doses of phb.scfas can penetrate through the bacterial cell wall re-leasing protons h in the neutral cytoplasm and lowering the intracellular ph.
-
-in this study we examined the composition of intestine microbiota and mtor signaling-related gene expression in pacific white shrimp litopenaeus vannamei fed diets containing different levels of phb 0 control 1 phb1 3 phb3 and 5 phb5 ww for 35 days.
-
-additionally shrimp intestine harbors a diverse community of microbiota the balance of which plays a critical role in host health via mechanisms such as influencing immunity and nutrient processing rungrassamee et al.
-
-vannamei.in the present study two indices microbiota composition and mtor signaling were selected to investigate the effects of dietary phb on intestine health regulation in l. vannamei.
-
-pairwise comparisons were per- formed if a difference was detected among the groups.resultsrichness and diversityillumina sequencing of intestine microbiota produced 467497 sequences and 463732 quality sequences with an average of 38644 sequences per sample obtained after optimization and quality control the percent was 99.19. the average read length was 255 nt.
-
-1. the alpha diversity of intestine microbiota of the four groups was evaluated through the number of otus chao1 abun- dance-based coverage estimator ace and shannon index.
+The alpha diversity of intestine microbiota of the four groups was evaluated through the number of OTUs Chao1 abun- dance-based coverage estimator ACE and Shannon index.
 

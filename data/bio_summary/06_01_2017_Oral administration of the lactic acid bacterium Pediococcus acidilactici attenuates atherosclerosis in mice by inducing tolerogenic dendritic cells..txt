@@ -1,30 +1,20 @@
-although the specific antigens driving atherosclerosis remain unclear the activation of cd4 t cells by antigen-presenting cells such as dendritic cells dcs has been demonstrated to aggravate atheroscle- rosis in both humans and mice .the dc-expressed co-stimulatory molecules cd80 and cd86 activate t-cell proliferation by binding to their recep- tors on t cells their absence renders dcs tolerogenic and prevents the development of atherosclerosis by suppressing th1-driven inflammation in mice .
+Although the specific antigens driving atherosclerosis remain unclear the activation of CD4 T cells by antigen-presenting cells such as dendritic cells DCs has been demonstrated to aggravate atheroscle- rosis in both humans and mice .The DC-expressed co-stimulatory molecules CD80 and CD86 activate T-cell proliferation by binding to their recep- tors on T cells their absence renders DCs tolerogenic and prevents the development of atherosclerosis by suppressing Th1-driven inflammation in mice .
 
-r037 treatment did not affect plasma cholesterol content or body weight table  however the size of atherosclerotic lesions in the aortic root was significantly decreased in r037- treated mice compared to control mice 2.3 - 0.15 x 105 vs. 3.3 - 0.29 x 105 um2 respectively p  0.01 fig.
+R037 treatment did not affect plasma cholesterol content or body weight Table  however the size of atherosclerotic lesions in the aortic root was significantly decreased in R037- treated mice compared to control mice 2.3 - 0.15 x 105 vs. 3.3 - 0.29 x 105 um2 respectively P  0.01 Fig.
 
-further morphometric analysis of atherosclerotic lesions in the aortic sinus was performed by immunohistochem- istry no significant differences in macrophage accumula- tion and cd4 t-cell infiltration were detected between r037-treated and control mice data not shown.administration of r037 suppressed cd4 t-cell proliferation th1-driven inflammation and cytokine production from splenic lymphocytesto examine the effect of r037 treatment on the systemic immune system we analyzed the expression of activa- tion and proliferation markers in cd4 t cells from the spleen of control and r037-treated mice.
+Further morphometric analysis of atherosclerotic lesions in the aortic sinus was performed by immunohistochem- istry no significant differences in macrophage accumula- tion and CD4 T-cell infiltration were detected between R037-treated and control mice data not shown.Administration of R037 suppressed CD4 T-cell proliferation Th1-driven inflammation and cytokine production from splenic lymphocytesTo examine the effect of R037 treatment on the systemic immune system we analyzed the expression of activa- tion and proliferation markers in CD4 T cells from the spleen of control and R037-treated mice.
 
-splenic lymphocytes from r037-treated mice secreted significantly less ifn-g il-17 and il-10 than those from control mice p  0.05 fig.
+Splenic lymphocytes from R037-treated mice secreted significantly less IFN-g IL-17 and IL-10 than those from control mice P  0.05 Fig.
 
-e.cd11c cells from r037-treated mice exhibited immunosuppressive effects on cd4 t cells in vitrobecause tolerogenic dcs are known to inhibit t-cell acti- vation  we investigated whether splenic dcs from r037-treated mice have an immunosuppressive effecton cd4 t cells.
+e.CD11c cells from R037-treated mice exhibited immunosuppressive effects on CD4 T cells in vitroBecause tolerogenic DCs are known to inhibit T-cell acti- vation  we investigated whether splenic DCs from R037-treated mice have an immunosuppressive effecton CD4 T cells.
 
-splenic cd11c cells from control or r037-treated mice were co-cultured with splenic cd4 t cells from untreated apoe-- mice in the presence of anti-cd3 antibody.
+Splenic CD11c cells from control or R037-treated mice were co-cultured with splenic CD4 T cells from untreated ApoE-- mice in the presence of anti-CD3 antibody.
 
-ki-67 expression was significantly inhibited in cd4 t cells co-cultured with cd11c cells from r037-treated mice compared to those cultured with cd11c cells from control mice p  0.05 fig.
+Ki-67 expression was significantly inhibited in CD4 T cells co-cultured with CD11c cells from R037-treated mice compared to those cultured with CD11c cells from control mice P  0.05 Fig.
 
-a. the suppressive effect of dcs derived from r037-treated mice on cd4 t-cell proliferation was further confirmed by co-culturing cfse-labeled cd4 t cells with splenic cd11c cells from control or r037-treated mice.
+The suppressive effect of DCs derived from R037-treated mice on CD4 T-cell proliferation was further confirmed by co-culturing CFSE-labeled CD4 T cells with splenic CD11c cells from control or R037-treated mice.
 
-therefore we believe that the immune mechanisms triggered by r037 administration in mice such as suppression of th1-driven inflammation and t-cell cytokine production might be attributed to upregulation of pd-l1 expression in splenic dcs at least in part resulting in atherosclerosis prevention.analysis of t-cell activation markers revealed no signifi-cant differences in the levels of cd44highcd62llowcd4 effector t cells and cd44lowcd62lhighcd4 naive t cells between r037-treated and untreated mice.
+Therefore we believe that the immune mechanisms triggered by R037 administration in mice such as suppression of Th1-driven inflammation and T-cell cytokine production might be attributed to upregulation of PD-L1 expression in splenic DCs at least in part resulting in atherosclerosis prevention.Analysis of T-cell activation markers revealed no signifi-cant differences in the levels of CD44highCD62LlowCD4 effector T cells and CD44lowCD62LhighCD4 naive T cells between R037-treated and untreated mice.
 
-doi 10.1007s00380-017-0949-8oral administration of the lactic acid bacterium pediococcus acidilactici attenuates atherosclerosis in mice by inducing tolerogenic dendritic cellstaiji mizoguchi1  kazuyuki kasahara1  tomoya yamashita1  naoto sasaki1  keiko yodoi1  takuya matsumoto1  takuo emoto1  tomohiro hayashi1  naoki kitano1  naofumi yoshida1  hilman zulkifli amin1  ken-ichi hirata1received 6 november 2016  accepted 19 january 2017  published online 8 february 2017c springer japan 2017abstract the intestinal microbiota appears to play an important role in the development of atherosclerosis.
-
-we investigated the effect of the probiotic lactic acid bacteriumpediococcus acidilactici r037 on atherosclerosis using apolipoprotein e-deficient apoe-- mice.
-
-six-week-old apoe-- mice were orally administered r037 six times a week.
-
-mice treated with r037 for 12 weeks exhibited markedly attenuated atherosclerotic lesions in the aortic root 2.3 - 0.15 x 105 um2 vs. 3.3 - 0.29 x 105 um2 respec- tively p  0.01 n  15-17 each group.
-
-the expression of ki-67 in cd4 t cells the population of interferon g-producing cd4 t cells in the spleen and pro-inflamma- tory cytokine production from splenic lymphocytes were significantly decreased in r037-treated mice.
-
-interestingly splenic dendritic cells dcs isolated from r037-treated mice suppressed cd4 t-cell proliferation and pro-inflam- matory cytokine production ex vivo suggesting that r037 treatment induced tolerogenic dcs.
+DOI 10.1007s00380-017-0949-8Oral administration of the lactic acid bacterium Pediococcus acidilactici attenuates atherosclerosis in mice by inducing tolerogenic dendritic cellsTaiji Mizoguchi1  Kazuyuki Kasahara1  Tomoya Yamashita1  Naoto Sasaki1  Keiko Yodoi1  Takuya Matsumoto1  Takuo Emoto1  Tomohiro Hayashi1  Naoki Kitano1  Naofumi Yoshida1  Hilman Zulkifli Amin1  Ken-ichi Hirata1Received 6 November 2016  Accepted 19 January 2017  Published online 8 February 2017c Springer Japan 2017Abstract The intestinal microbiota appears to play an important role in the development of atherosclerosis.
 

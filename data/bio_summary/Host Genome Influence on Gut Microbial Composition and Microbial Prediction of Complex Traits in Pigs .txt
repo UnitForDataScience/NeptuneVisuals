@@ -1,0 +1,20 @@
+The G matrix was estimated using SNP genotypes following VanRaden 2008 asdZ 2 2QThdZ22QTh2pmd1 2 pmThwhere Z is the gene content matrix with entries 0 1 or 2 for each SNP and each animal and matrix Q contains the fre- quency pm of each SNP m Narrow-sense heritability was estimated as h2 s2s2 with s2 s2 s s  The p-values of the heritability estimates were calculated by con- ducting a likelihood-ratio test on random animal effects.
+
+The microbial rela- tionship matrix M was calculated as follows we have M 1NXXT with matrix X dimension n 3 N where n is the number of animals and N is the number of OTUs con- structed from matrix P dimension n x N. The elements Pik are the relative abundance of OTU k in animal i plus 0.01.
+
+ GENOMIC SELECTIONHost Genome Influence on Gut Microbial Composition and Microbial Prediction of Complex Traits in PigsAmelia Camarinha-Silva1 Maria Maushammer1 Robin Wellmann Marius Vital Siegfried Preussand Jorn Bennewitz2Institute of Animal Science University of Hohenheim 70599 Stuttgart Germany and Microbial Interactions and Processes Research Group Helmholtz Centre for Infection Research 38124 Braunschweig GermanyABSTRACT The aim of the present study was to analyze the interplay between gastrointestinal tract GIT microbiota host genetics and complex traits in pigs using extended quantitative-genetic methods.
+
+The study design consisted of 207 pigs that were housed and slaughtered under standardized conditions and phenotyped for daily gain feed intake and feed conversion rate.
+
+The pigs were genotyped with a standard 60 K SNP chip.
+
+The GIT microbiota composition was analyzed by 16S rRNA gene amplicon sequencing technology.
+
+The fraction of phenotypic variance explained by the microbial variance was 0.28 0.21 and 0.16 for daily gain feed conversion and feed intake respectively.
+
+The SNP data and the microbiota composition were used to predict the complex traits using genomic best linear unbiased prediction G-BLUP and microbial best linear unbiased prediction M-BLUP methods respectively.
+
+The prediction accuracies of G-BLUP were 0.35 0.23 and 0.20 for daily gain feed conversion and feed intake respectively.
+
+The corresponding prediction accuracies of M-BLUP were 0.41 0.33 and 0.33.
+

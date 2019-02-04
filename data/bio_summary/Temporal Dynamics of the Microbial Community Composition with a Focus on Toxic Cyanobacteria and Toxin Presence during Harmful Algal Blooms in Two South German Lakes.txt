@@ -1,30 +1,20 @@
-gene quantification by qpcr phylogenetic identification of the main microcystin producer through sequencing of clone libraries of one microcystin synthesis gene region and two different microcystin measurement methods underpin the information about community composition.materials and methodssamplingsampling areaboth lakes used in this study are known for recurrent cyanobacterial blooms and used for recreational purposes .
+The family Saprospiraceae in The Prokaryotes Other Major Lineages of Bacteria and the Archaea eds E. Rosenberg E. F. Delong S. Lory E. Stackebrandt and F. Thompson Berlin Springer 863-889.McMurdie P. J. and Holmes S. 2014.
 
-more awareness about the possibility of low abundant microcystin producers is required to avoid underestimating toxicity risks in blooms that predominantly contain non-toxic species.physico-chemical parametersthe positive correlation of tp with microcystin concentration and microcystin synthesis gene copy number observed in this study has previously been reported    .
+The bacterial community composition of Alpha- and Beta-proteobacteria remained stable over time in Lake Klostersee but it showed temporal variations in Lake Bergknappweiher.
 
-at the same time we assessed the correlation of a genetic marker with microcystin concentration and aimed to identify the main microcystin producer.
+The most widespread molecular methods for the study of aquatic microbiomes are denaturing gradient gel electrophoresis DGGE     terminal restriction fragment length polymorphism T-RFLP     Sanger sequencing of clone libraries       and more recently high-throughput sequencing          .So far only a few studies have combined high-throughput sequencing-based assessment of cyanobacterial community composition with toxic genotype quantification by qPCR      and even fewer included microcystin measurements  .
 
-we quantified a microcystin biosynthesis gene mcyb using qpcr and linked this information with microcystin concentration to assess toxicity.
+The second most abundant phylum in this lake was Proteobacteria.Cyanobacterial Community CompositionThe community composition of Cyanobacteria in Lake Klostersee changed considerably over the sampling period .
 
-microcystin biosynthesis gene mcye-clone libraries were used to determine the origin of microcystin biosynthesis genes.
+The community composition of Cyanobacteria in Lake Bergknappweiher changed during the sampling period in particular at the OTU level .
 
-microcystin variants detected were microcystin-lr -rr and -yr. the maximum microcystin concentrations measured was 6.7 ugl a value still acceptable for recreational waters but not drinking water.microcystin concentration correlated positively with total phosphorus and mcyb copy number.
+The dominant OTU in the Alphaproteobacteria community was a member of the order Sphingomonadales OTU2 and a member of the family Pelagibacteraceae OTU3.
 
-specifically we hypothesized a positive correlation between microcystin synthesis gene copy number and microcystin concentration.
+The different chloroplast orders showed distinctive correlations with environmental parametersFIGURE 3  Non-cyanobacteria community composition in Lake Klostersee left and Lake Bergknappweiher right at the OTU level 97 sequence identity.
 
-the filtrate was stored at 4-8c for a maximum of 12 h.measurementtotal microcystin particulate and dissolved microcystin measured together was measured immunologically in duplicates using a commercially available elisa kit beacon analytical systems portland or united states.
+The peculiar and constant community composition of both Alpha- and Betaproteobacteria in LakeBergknappweiher between 07 October and 21 Octoer 2015  coincided with the overwhelming dominance of Dolichospermum OTU1 .
 
-in lake klostersee microcystin concentrations were negatively correlated with no3- nitrogen elisa r0.47 hplc r0.42 while in lake bergknappweiher they were positively correlated with no3 nitrogen elisa r 0.51 hplc r 0.41. in both lakes actual microcystin measurements coincided with vsbs.
+The fact that high relative abundances of Sphingomonadales and Limnohabitans were not observed in Lake Klostersee while the same Dolichospermum dominated the cyanobacterial community 29 May and 12 June 2015 can be explained by the overall lower relative abundance of cyanobacteria in Lake Klostersee.The data from our study complement other studies that have looked at the cyanobacterial bloom associated BCC        .
 
-nevertheless  showed that dolichospermum flos-aquae was not overestimated by high-throughput sequencing compared to microscopic analysis.microcystin-producing cyanobacteriacorrelations with microcystin occurrencemicrocystis was present in almost every sample from lake klostersee and lake bergknappweiher and its highest relative abundances on 25 jun 20 aug and 15 october 2015 coincided with microcystin detections .
-
-other potentials and limitations of different methods for microcystin analysis have been reported        .low abundant microcystin producerin this study we identified the microcystin-producing cyanobacterium without the need for time-consuming isolation and cultivation.
-
-the presence of potential microcystin degraders and potential algicidal bacteria amongst prevalent bacteroidetes and alphaproteobacteria implied a role of those co-occurring heterotrophic bacteria in cyanobacterial bloom dynamics.
-
-as the only microcystin producer in both lakes.
-
-in particular cyanobacteria capable of producing the hepatotoxic secondary metabolite microcystin cause problems in drinking and recreational water reservoirs      .
-
-for this reason identification of potentially microcystin-producing species by microscopy and microcystin analyses is commonly used to assess risks associated with toxic cyanobacteria        .deducing the toxicity of an algal bloom based on the cyanobacterial community composition can be difficult because microcystins are potentially produced by different species  .
+The fact that the potential algicidal bacteria Sphingobacteriales and Saprospiracea OTU23 27 and30 are amongst the most abundant Bacteroidetes  hints toward a potential role in regulation of the bacterial community composition.
 

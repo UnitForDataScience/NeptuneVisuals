@@ -1,30 +1,20 @@
-increased abundances of bacterial vitamin biosynthesis genes may protect the gut microbiome against arsenic-induced stress and facilitate arsenic detoxification.multidrug resistance genes and conjugative transposon protein genes were highly enriched in the gut microbiome following exposure to arsenicwe next investigated whether arsenic exposure would increase heavy metal resistance in the gut microbiome.
+In conclusion we demonstrate that arsenic exposure at an environmentally relevant dose not only perturbed the communal composition of the gut microbiome but also profoundly altered a variety of important bacterial functional pathways.Key words arsenic gut microbiome metagenomics functional pathways.Trillions of symbiotic microbiota reside in the gastrointestinal tract where they play essential regulatory roles in human me- tabolism aEUR .
 
-in conclusion we demonstrate that arsenic exposure at an environmentally relevant dose not only perturbed the communal composition of the gut microbiome but also profoundly altered a variety of important bacterial functional pathways.key words arsenic gut microbiome metagenomics functional pathways.trillions of symbiotic microbiota reside in the gastrointestinal tract where they play essential regulatory roles in human me- tabolism aeur .
+Principal coordinate analysis indicates that arsenic expo- sure disturbed the trajectories of gut microbiome development over 13 weeks A arsenic exposure reduced the alpha diversity of the gut microbiome B the bacteria phyla that were significantly altered by arsenic treatment p  .01 C the bacterial taxa that were differentially abundant in the controls and arsenic-exposed mice are illustrated using a cladogram that was generated from a linear discriminant analysis LDA effect size analysis Red taxa enriched in control mice Green taxa enriched in exposed mice D and bacterial taxa analyzed in a LDA with a significant threshold over 2 g genus f family o order c class and p phylum E.CHI ET AL.
 
-principal coordinate analysis indicates that arsenic expo- sure disturbed the trajectories of gut microbiome development over 13 weeks a arsenic exposure reduced the alpha diversity of the gut microbiome b the bacteria phyla that were significantly altered by arsenic treatment p  .01 c the bacterial taxa that were differentially abundant in the controls and arsenic-exposed mice are illustrated using a cladogram that was generated from a linear discriminant analysis lda effect size analysis red taxa enriched in control mice green taxa enriched in exposed mice d and bacterial taxa analyzed in a lda with a significant threshold over 2 g genus f family o order c class and p phylum e.chi et al.
+Increased abundances of bacterial vitamin biosynthesis genes may protect the gut microbiome against arsenic-induced stress and facilitate arsenic detoxification.Multidrug Resistance Genes and Conjugative Transposon Protein Genes Were Highly Enriched in the Gut Microbiome Following Exposure to ArsenicWe next investigated whether arsenic exposure would increase heavy metal resistance in the gut microbiome.
 
-201figure 6. the abundances of arsenic resistance-related genes were reduced in the gut microbiome of arsenic-treated mice a the abundances of cobalt zinc and cadmium resistance genes were increased in the gut microbiome of arsenic-treated mice b p  .01 p  .001.species such as oh .
+The abundances of arsenic resistance-related genes were reduced in the gut microbiome of arsenic-treated mice A the abundances of cobalt zinc and cadmium resistance genes were increased in the gut microbiome of arsenic-treated mice B p  .01 p  .001.Species such as OH .
 
-toxicological sciences 1602 2017 193-204doi 10.1093toxscikfx174advance access publication date august 29 2017 research articlethe effects of an environmentally relevant level of arsenic on the gut microbiome and its functional metagenomeliang chi xiaoming bian bei gao pengcheng tu hongyu ru and kun lu1department of environmental sciences and engineering university of north carolina at chapel hill chapel hill north carolina 27519 department of molecular and cellular biology nih west coast metabolomics center university of california davis davis california 95616 and department of population health and pathobiology north carolina state university raleigh north carolina 27607the entire set of raw fastq data have been deposited to metagenomics rast rapid annotation using subsystem technology server last access june 20 2017 with sample ids mgs487184 mgs487190 mgs482399 mgs482378 mgs482372 mgs482375 mgs487175 mgs487172 mgs482408 and mgs482405.1to whom correspondence should be addressed.
+Fax 919-966-7911 E-mail ABSTRACTMultiple environmental factors induce dysbiosis in the gut microbiome and cause a variety of human diseases.
 
-fax 919-966-7911 e-mail abstractmultiple environmental factors induce dysbiosis in the gut microbiome and cause a variety of human diseases.
+Previously we have first demonstrated that arsenic alters the composition of the gut microbiome.
 
-previously we have first demonstrated that arsenic alters the composition of the gut microbiome.
+However the functional impact of arsenic on the gut microbiome has not been adequately assessed particularly at environmentally relevant concentrations.
 
-however the functional impact of arsenic on the gut microbiome has not been adequately assessed particularly at environmentally relevant concentrations.
+In this study we used 16S rRNA sequencing and metagenomics sequencing to investigate how exposure to 100 ppb arsenic for 13 weeks alters the composition and functional capacity of the gut microbiome in mice.
 
-in this study we used 16s rrna sequencing and metagenomics sequencing to investigate how exposure to 100 ppb arsenic for 13 weeks alters the composition and functional capacity of the gut microbiome in mice.
+Moreover lipopolysaccharide biosynthesis genes multiple stress response genes and DNA repair genes were significantly increased in the gut microbiome of arsenic- exposed mice.
 
-moreover lipopolysaccharide biosynthesis genes multiple stress response genes and dna repair genes were significantly increased in the gut microbiome of arsenic- exposed mice.
-
-however the gut microbiome is a highly dynamic system that is affected by many xenobiotics such as antibiotics and heavy metals which influence its normal composition and therefore its functionsvc the author 2017. published by oxford university press on behalf of the society of toxicology.
-
-environmental factor-induced perturbations of the gut microbiome are associ- ated with multiple diseases such as obesity and diabetes.
-
-for example it has been shown that antibiotics can shift the com- position of the gut microbiome which dysregulates host im- mune homeostasis and increases host susceptibility to clostridium difficile infection  .
-
-however in addition to modulating the effects of xenobiotics on the gut microbiome gut bacteria can also influence the absorption and biotransformation of xenobi- otics which can alter their effects on the host.
-
-our previous results showed that 4 weeks of exposure to 10 ppm of arsenic perturbed the compo- sition of the mouse gut microbiome and disturbed its metabolic profile .
+However the gut microbiome is a highly dynamic system that is affected by many xenobiotics such as antibiotics and heavy metals which influence its normal composition and therefore its functionsVC The Author 2017.
 

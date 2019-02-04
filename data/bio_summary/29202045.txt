@@ -1,30 +1,20 @@
-gene gains via recombination have also allowed staphylococcus aureus st71 to emerge into a bovine-associated niche .using contemporary and ancient genomic data from strains of s. saprophyticus we found previously that uti-associated lineages of s. saprophyticus were not associated with specific gene gains or losses the evolutionary genetic processes underlying the adoption by s. saprophyticus of the human-pathogenic niche are likely more subtle than those previously described for canonical pathogens .
+Infect Immun 643893-3896.Kuroda M Yamashita A Hirakawa H Kumano M Morikawa K Higashide M Maruyama A Inose Y Matoba K Toh H Kuhara S Hattori M Ohta T. 2005.
 
-internal recombination was simulated at rates ranging from 0 to 0.03 rm  10. external recombination was simulated at rates ranging from 0 to 0.003. the lower bound of difference for external recombination was 0 and the upper bound was simulated at values ranging from 0.25 to 1.0. simulations were performed in sfscode release date 10 september 2015  to evaluate the power of aaai to accurately estimate demographic parameters in the presence of gene conversion and selection.
+.Bendall ML Stevens SL Chan LK Malfatti S Schwientek P Tremblay J Schackwitz W Martin J Pati A Bushnell B Froula J Kang D Tringe SG Bertilsson S Moran MA Shade A Newton RJ McMahon KD Malmstrom RR.
 
-.ronald ar nicolle le stamm e krieger j warren j schaeffer a naber kg hooton tm johnson j chambers s andriole v. 2001. urinary tract infection in adults research priorities and strategies.
+.Ronald AR Nicolle LE Stamm E Krieger J Warren J Schaeffer A Naber KG Hooton TM Johnson J Chambers S Andriole V. 2001.
 
-.bendall ml stevens sl chan lk malfatti s schwientek p tremblay j schackwitz w martin j pati a bushnell b froula j kang d tringe sg bertilsson s moran ma shade a newton rj mcmahon kd malmstrom rr.
+Gene gains via recombination have also allowed Staphylococcus aureus ST71 to emerge into a bovine-associated niche .Using contemporary and ancient genomic data from strains of S. saprophyticus we found previously that UTI-associated lineages of S. saprophyticus were not associated with specific gene gains or losses the evolutionary genetic processes underlying the adoption by S. saprophyticus of the human-pathogenic niche are likely more subtle than those previously described for canonical pathogens .
 
-the placement of the 800-year- old strain between bovine-associated and human-associated lineages suggests that it could represent a generalist intermediate between human-adapted and bovid-adapted strains.core genome analysis of the 58 isolates of s. saprophyticus in our sample showedfig 2 recombination in s. saprophyticus.
+.Devault AM Mortimer TD Kitchen A Kiesewetter H Enk JM Golding GB Southon J Kuch M Duggan AT Aylward W Gardner SN Allen JE King AM Wright G Kuroda M Kato K Briggs DE Fornaciari G Holmes EC Poinar HN Pepperell CS.
 
-b tajima's d values from simulations performed with an internal recombination rate of 0.003 rm  1 and external recombination rates ranging from 0 to 0.003. points are filled according to the upper limit of diversity in external recombinant fragments.bacterial demography  so we used simulations to investigate their effects on our demographic inference performed for uropathogenic s. saprophyticus.
+.He M Sebaihia M Lawley TD Stabler RA Dawson LF Martin MJ Holt KE Seth-Smith HMB Quail MA Rance R Brooks K Churcher C Harris D Bentley SD Burrows C Clark L Corton C Murray V Rose G Thurston S van Tonder A Walker D Wren BW Dougan G Parkhill J.
 
-we did not identify any genes that were significantly associated with the human- pathogenic niche after correction for multiple-hypothesis testing using the bonferroni method.in addition to the observed gene content variability analyses of the core genome also indicated relatively frequent recombination among s. saprophyticus isolates .
+.Lebreton F van Schaik W McGuire AM Godfrey P Griggs A Mazumdar V Corander J Cheng L Saif S Young S Zeng Q Wortman J Birren B Willems RJL Earl AM Gilmore MS. 2013.
 
-we used an sfs-based method to reconstruct the demographic history of s. saprophyticus the accuracy of demo- graphic inference using these methods has been shown to be unaffected by within- population recombination  and this was confirmed in our analyses of simulated data.
+.Chen SL Hung CS Xu J Reigstad CS Magrini V Sabo A Blasiar D Bieri T Meyer RR Ozersky P Armstrong JR Fulton RS Latreille JP Spieth J Hooton TM Mardis ER Hultgren SJ Gordon JI.
 
-saprophyticus to the uropathogenic niche may have been driven by selection for one or more mutations that were advantageous in the new environment and that levels of recombination have been sufficient to preserve the signature of a selective sweep at loci under positive selection.
+The placement of the 800-year- old strain between bovine-associated and human-associated lineages suggests that it could represent a generalist intermediate between human-adapted and bovid-adapted strains.Core genome analysis of the 58 isolates of S. saprophyticus in our sample showedFIG 2 Recombination in S. saprophyticus.
 
-to our knowledge this is the first description of a single nucleotide sweep in a bacterium.depending on the strength of selection and the recombination rate positive selection in bacteria has been observed to affect the entire genome resulting in clonal replacements or to affect only specific regions of the genome .
-
-adhesion to the uroepithelium is essential for uropathogens to establish them- selves in the bladder where they are subject to strong shear stress  we hypothesize that s. saprophyticus strains with the derived aas variant are better able to colonize the human bladder.invasion of the human urinary tract may provide a fitness advantage by allowing relative enrichment of s. saprophyticus in a site with little competition from other bacterial species and by providing a mechanism of dispersal in the environment.
-
-the roles of adhesins and other virulence factors in the colonization by s. sapro- phyticus of niches in livestock and the environment are also interesting topics for further study.our demographic analysis of the uropathogenic lineage of s. saprophyticus showed evidence of a population bottleneck and subsequent expansion.
-
-.holt ke thieu nga tv thanh dp vinh h kim dw vu tra mp campbell ji hoang nv vinh nt minh pv thuy ct nga tt thompson c dung tt nhu nt vinh pv tuyet pt phuc hl lien nt phu bd ai nt tien nm dong n parry cm hien tt farrar jj parkhill j dougan g thomson nr baker s. 2013. tracking the establishment of local endemic popu- lations of an emergent enteric pathogen.
-
-.lebreton f van schaik w mcguire am godfrey p griggs a mazumdar v corander j cheng l saif s young s zeng q wortman j birren b willems rjl earl am gilmore ms. 2013. emergence of epidemic multidrug-resistant enterococcus faecium from animal and commensal strains.
-
-.chen sl hung cs xu j reigstad cs magrini v sabo a blasiar d bieri t meyer rr ozersky p armstrong jr fulton rs latreille jp spieth j hooton tm mardis er hultgren sj gordon ji.
+The roles of adhesins and other virulence factors in the colonization by S. sapro- phyticus of niches in livestock and the environment are also interesting topics for further study.Our demographic analysis of the uropathogenic lineage of S. saprophyticus showed evidence of a population bottleneck and subsequent expansion.
 

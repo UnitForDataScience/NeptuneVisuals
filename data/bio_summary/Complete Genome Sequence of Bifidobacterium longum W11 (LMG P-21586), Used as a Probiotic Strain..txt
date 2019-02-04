@@ -1,22 +1,20 @@
-prokaryotescomplete genome sequence of bifidobacterium longum w11 lmg p-21586 used as a probiotic strainrosanna inturria marco venturab c gabriele andrea luglib giovanna blandinoadepartment of biomedical and biotechnological sciences university of catania catania italya laboratory of probiogenomics department of life sciences university of parma parma italyb department of microbiology and biochemistry of dairy products instituto de productos lacteos de asturias consejo superior de investigaciones cientificas ipla-csic villaviciosa asturias spaincabstract we report the complete genome sequence of bifidobacterium longum w11 lmg p-21586 isolated from the intestinal microbiota of a healthy man.
+PROKARYOTESComplete Genome Sequence of Bifidobacterium longum W11 LMG P-21586 Used as a Probiotic StrainRosanna Inturria Marco Venturab c Gabriele Andrea Luglib Giovanna BlandinoaDepartment of Biomedical and Biotechnological Sciences University of Catania Catania Italya Laboratory of Probiogenomics Department of Life Sciences University of Parma Parma Italyb Department of Microbiology and Biochemistry of Dairy Products Instituto de Productos Lacteos de Asturias Consejo Superior de Investigaciones Cientificas IPLA-CSIC Villaviciosa Asturias SpaincABSTRACT We report the complete genome sequence of Bifidobacterium longum W11 LMG P-21586 isolated from the intestinal microbiota of a healthy man.
 
-the average of gc content of the genome is 59.9.the complete genome sequence of b. longum w11 may be useful to better understand the health-promoting characteristics of this probiotic strain and to clarify the mechanisms involved in its interaction with the host.accession numbers.
+The possible innovative use of Bifidobacterium longum W11 in association with rifaximin a new horizon for combined approach J Clin Gastroenterol 50Suppl 2S153-S156 Proceedings from the 8th Probiotics Prebiotics  New Foods for Micro- biota and Human Health meeting held in Rome Italy 13 to 15 September 2016.
 
-paired-end reads obtained from targeted genome sequencing were used as input for the genome assemblies through the megannotator pipeline .
+The analysis of the sequence may provide insights into the microbiological characteris- tics and the functional activity of this probiotic strain.embers of the genus Bifidobacterium are nonmotile non-spore-forming Gram- positive polymorphic anaerobic rods with a high GC DNA content.
 
-2013. draft genome sequences of two pairs of human intestinal bifidobacterium longum subsp.
+The average of GC content of the genome is 59.9.The complete genome sequence of B. longum W11 may be useful to better understand the health-promoting characteristics of this probiotic strain and to clarify the mechanisms involved in its interaction with the host.Accession numbers.
 
-longum w11 lmg p-21586 has been isolated from the intestinal microbiota of a healthy man and has been studied for some microbialcharacteristics .genomic dna of b. longum w11 was subject to whole-genome sequencing using miseq illumina united kingdom at genprobio s.r.l.
+longum W11 LMG P-21586 has been isolated from the intestinal microbiota of a healthy man and has been studied for some microbialcharacteristics .Genomic DNA of B. longum W11 was subject to whole-genome sequencing using MiSeq Illumina United Kingdom at GenProbio s.r.l.
 
-food nutr sci 20141787-1792.graziano t amoruso a nicola s deidda f allesina s pane m piffanelli p strozzi f mogna l del piano m. 2016. the possible innovative use of bifidobacterium longum w11 in association with rifaximin a new horizon for combined approach j clin gastroenterol 50suppl 2s153-s156 proceedings from the 8th probiotics prebiotics  new foods for micro- biota and human health meeting held in rome italy 13 to 15 september 2016.
+The MIRA program version 4.0 was used for the de novo assembly while proteins encoded by open reading frames ORFs were predicted using Prodigal.
 
-genome announc 13e00234-13.
+The circular chromosome contains 2329981 bp with 1884 ORFs with these total numbers being higher than those in the representativelongum NCC2705.
 
-the analysis of the sequence may provide insights into the microbiological characteris- tics and the functional activity of this probiotic strain.embers of the genus bifidobacterium are nonmotile non-spore-forming gram- positive polymorphic anaerobic rods with a high gc dna content.
+The version de- scribed in this paper is version MRBG01000000.ACKNOWLEDGMENTNo support was received in order to perform this research.REFERENCESBiavati B Mattarelli P. 2006.
 
-.valdes-varela l ruas-madiedo p gueimonde m. 2017. in vitro fermenta- tion of different fructo-oligosaccharides by bifidobacterium strains for the selection of synbiotic combinations.
+The family Bifidobacteriaceae p 322-382.
 
-2007. differential immuno- modulatory properties of bifidobacterium longum strains relevance to probiotic selection and clinical applications.
-
-.inturri r stivala a sinatra f morrone r blandino g. 2014. scanning electron microscopy observation of adhesion properties of bifidobacte- rium longum w11 and chromatographic analysis of its exopolysaccharide.
+In Dworkin M Falkow S Rosenberg E Schleifer K-H Stackebrandt E ed The prokaryotes vol 3 3rd ed.
 

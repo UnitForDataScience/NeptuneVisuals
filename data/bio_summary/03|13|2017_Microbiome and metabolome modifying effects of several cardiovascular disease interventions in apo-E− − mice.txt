@@ -1,0 +1,20 @@
+OBG and HFC displayed similar diversitieswhile PSE BSH and STAT animals had further reduced diversities compared to HFC for phylogenetic diversity whole tree and observed species p  0.05.
+
+depicts the taxa most associated with each of the interventions and HFC as determined by LEfSe.Phylum-relative abundance analysis revealed a signifi- cant increase in OBG p  0.01 and decrease in STAT p  0.05 Verrucomicrobia levels when compared to HFC Additional file Figure S1.
+
+Apolipoprotein-E-deficient mice were fed for 24 weeks either high-fatcholesterol diet alone control HFC or high-fatcholesterol in conjunction with one of three dietary interventions as follows plant sterol ester PSE oat b-glucan OBG and bile salt hydrolase-active Lactobacillus reuteri APC 2587 BSH or the drug atorvastatin STAT.
+
+All intervention groups received a high-fatcholesterol HFC 42 fat 1.25 cholesterol Harlan diet alongside treatment for a 24- week period.
+
+In addition E HFC diet control and F normal chow control NC were run concurrently.Bacteria and culturingA rifampicin-resistant derivative of BSH was created and stored in 70 vv glycerol at -80 degC.
+
+The analysis revealed levels of a range of specific amino acids biogenic amines BA acylcarnitines AC lysophosphotidylcho- lines lysoPC phosphotidylcholines PC sphingomyelins SM and hexoses.Statistical analysisBiochemical and biometric data were analyzed by one-way ANOVA against the HFC performed in PASW Statistics v18.0 IBM Corp. Chicago IL USA.
+
+All groups were analyzed by Kruskal-Wallis followed by 2- tailed Mann-Whitney U pairwise comparisons solely be- tween HFC and each other group.MetaboAnalyst metabolomics analysis suite - was utilized for normalization and multivariate analyses of data.
+
+PERMANOVA analyses of all groups together and direct comparisons of each treatment group against the HFC were performed using Adonis Vegan onBray-Curtis index of dissimilarity PCoA plot.
+
+For all analyses a p value of less than 0.05 was consid- ered to be statistically significant.ResultsBiochemical and biometric analysisAnimal body weights stratified the six groups into two significantly separate clusters p  0.01 the high-weight cluster which consists of PSE HFC and BSH and a low- weight cluster consisting of STAT OBG and NC--named in order of descending mean body weight Fig.
+
+Both OBG p  0.01 and STAT p  0.05 mice presented with reduced percentage body fat when compared to the HFC Fig.
+

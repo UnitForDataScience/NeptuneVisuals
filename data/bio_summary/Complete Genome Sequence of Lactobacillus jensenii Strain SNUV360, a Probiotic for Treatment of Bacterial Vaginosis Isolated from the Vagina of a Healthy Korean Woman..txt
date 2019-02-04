@@ -1,14 +1,20 @@
-prokaryotescomplete genome sequence of lactobacillus jensenii strain snuv360 a probiotic for treatment of bacterial vaginosis isolated from the vagina of a healthy korean womansunghee leeab hyun ju youcde bomi kwonc gwangpyo koabcekobiolabs inc. seoul republic of koreaa n-bio seoul national university seoul republic of koreab department of environmental health sciences graduate school of public health seoul national university seoul republic of koreac institute of health and environment seoul national university seoul republic of koread center for human and environmental microbiome seoul national university seoul republic of koreaeabstract lactobacillus jensenii snuv360 is a potential probiotic strain that shows antimicrobial activity for the treatment of bacterial vaginosis.
+PROKARYOTESComplete Genome Sequence of Lactobacillus jensenii Strain SNUV360 a Probiotic for Treatment of Bacterial Vaginosis Isolated from the Vagina of a Healthy Korean WomanSunghee Leeab Hyun Ju Youcde Bomi Kwonc GwangPyo KoabceKoBioLabs Inc. Seoul Republic of Koreaa N-Bio Seoul National University Seoul Republic of Koreab Department of Environmental Health Sciences Graduate School of Public Health Seoul National University Seoul Republic of Koreac Institute of Health and Environment Seoul National University Seoul Republic of Koread Center for Human and Environmental Microbiome Seoul National University Seoul Republic of KoreaeABSTRACT Lactobacillus jensenii SNUV360 is a potential probiotic strain that shows antimicrobial activity for the treatment of bacterial vaginosis.
 
-here we pres- ent the complete genomic sequence of l. jensenii snuv360 isolated from a vaginal sample from a healthy korean woman.
+The L. jensenii SNUV360 genome was compared with the reference strain L. jensenii TL2937 genome accession number NZMDTN01000000 with the Rapid Annotations using the Subsys-Volume 5 Issue 10 e01757-16 1Lee et al.tems Technology RAST server .
 
-strains have been shown to decrease patho- genic bacteria in vaginal environments of women diagnosed with bv  .in this study the strain lactobacillus jensenii snuv360 isolated from the vaginas of healthy women shows functional properties in the treatment of vaginal infection caused by lactobacilli deficiency.
+.McArthur AG Waglechner N Nizam F Yan A Azad MA Baylay AJ Bhullar K Canova MJ De Pascale G Ejim L Kalan L King AM Koteva K Morar M Mulvey MR O'Brien JS Pawlowski AC Piddock LJ Spanogiannopoulos P Sutherland AD Tang I Taylor PL Thaker M Wang W Yan M Yu T Wright GD.
 
-here we present the complete genome sequence of this probiotic strain.in order to perform the complete genome sequencing of the strain l. jensenii snuv360 high throughput sequencing technology was implemented using the pacbio platform pacific biosciences menlo park ca.
+Curated virulence factors and antibiotic resistance genes were estimated by using IslandViewer3  against the Virulence Factor Database VFDB  of virulence factors and Comprehensive Antibiotic Resistance Database CARD  of antibiotic resistance genes.The genome contains 1595 CDSs 58 tRNA genes and 12 rRNA genes.
 
-the l. jensenii snuv360 genome consisted of a 1672949 bp single-chromosome contig with coverage of 420x and gc content of 34.4. no plasmids were detected.the assembled genome sequences were annotated using the prokka annotation pipeline version 1.11  which predicted trna rrna and mrna genes.
+NRF-2015R1A2A1A10054078.REFERENCESKoumans EH Sternberg M Bruce C McQuillan G Kendrick J Sutton M Markowitz LE.
 
-the l. jensenii snuv360 genome was compared with the reference strain l. jensenii tl2937 genome accession number nzmdtn01000000 with the rapid annotations using the subsys-volume 5 issue 10 e01757-16 1lee et al.tems technology rast server .
+Here we present the complete genome sequence of this probiotic strain.In order to perform the complete genome sequencing of the strain L. jensenii SNUV360 high throughput sequencing technology was implemented using the PacBio platform Pacific Biosciences Menlo Park CA.
 
-jensenii snuv360 may assist in understanding the mechanisms involved in its effect against bacterial vaginosis.accession numbers.
+.Chin CS Alexander DH Marks P Klammer AA Drake J Heiner C Clum A Copeland A Huddleston J Eichler EE Turner SW Korlach J.
+
+.Aziz RK Bartels D Best AA DeJongh M Disz T Edwards RA Formsma K Gerdes S Glass EM Kubal M Meyer F Olsen GJ Olson R Osterman AL Overbeek RA McNeil LK Paarmann D Paczian T Parrello B Pusch GD Reich C Stevens R Vassieva O Vonstein V Wilke A Zagnitko O.
+
+Here we pres- ent the complete genomic sequence of L. jensenii SNUV360 isolated from a vaginal sample from a healthy Korean woman.
+
+strains have been shown to decrease patho- genic bacteria in vaginal environments of women diagnosed with BV  .In this study the strain Lactobacillus jensenii SNUV360 isolated from the vaginas of healthy women shows functional properties in the treatment of vaginal infection caused by lactobacilli deficiency.
 

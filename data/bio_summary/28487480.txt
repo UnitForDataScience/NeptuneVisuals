@@ -1,0 +1,20 @@
+Suppression of Erdr1 depends on detection of circulating microbial products by Toll-like receptors on T cells and this regulation is conserved in human T cells.
+
+Erdr1 was originally identified in supernatants of B-cell leukemic cells and named for its hemoglobin-inducing activity on erythroid lines but now has implicated roles in cellular survival NK cytotoxicity and metastasis however its function within T cells remains completely unexplored 11-15.ResultsErdr1 Expression in T Cells Is Suppressed by the Microbiota.
+
+One gene in particular Erdr1 was one of the most highly up-regulated genes in germ- free T cells in the Kyoto Encyclopedia of Genes and Genomes KEGG category cellular maintenance suggesting that the microbiota suppressed expression of Erdr1 in T cells Fig.
+
+We verified the results of our transcriptional profiling by qRT- PCR of Erdr1 in either germfree or SPF splenic CD4 T cells and found that T cells from germfree mice consistently had el- evated levels of Erdr1 transcripts and protein Fig.
+
+S1 D and E. Expression levels of Erdr1 in CD4 T cells isolated from multiple tissues including the colon mesenteric lymph node and spleen remained similar indicating that prox- imity to the microbiota does not affect expression of Erdr1 in T cells Fig.
+
+Although there is no difference in the per- centage of CD4 T cells in control versus Erdr1 shRNA- expressing T cells Fig.
+
+Further supporting a role for Erdr1 as a mediator of T-cell death T cells treated with recombi- nant Erdr1 rErdr1 also induced an increase in the percentage of preapoptotic T cells Fig.
+
+CD4OT-IIErdr1 shRNA or control T cells were adoptively transferred into TCRb-deficient mice animals that lack T cells and subsequently immunized with OVA Fig.
+
+Indeed animals that received T cells with Erdr1 shRNA had marked increases in spleen size with greater cellularity and increased numbers of OT-II T cells Fig.
+
+Fas-- or WT T cells were transferred into TCRb-- mice and these animals were subsequently immunized to measure cell death of OVA- specific T cells.
+

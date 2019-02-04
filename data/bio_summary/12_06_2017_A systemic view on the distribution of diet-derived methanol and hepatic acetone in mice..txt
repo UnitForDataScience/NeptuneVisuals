@@ -1,30 +1,20 @@
-in addition pca and hierarchical clustering clearly separated samples from mice fed a chow diet from lfd mice.
+Kistler M Szymczak W Fedrigo M Fiamoncini J Hollriegl V Hoeschen C Klingenspor M Hrabe de Angelis M and Rozman J 2014 Effects of diet-matrix on volatile organic compounds in breath in diet-induced obese mice J.
 
-animal models for human disease such as mutant mice provide the possibility to reproduce genetic predisposition to disease thereby allowing in-depth analysis of metabolic and biochemical functions.
+Nakhleh M K et al 2016 Diagnosis and classification of 17 diseases from 1404 subjects via pattern analysis of exhaled molecules ACS Nano Obermeier J Trefz P Happ J Schubert J K Staude HFischer D-C and Miekisch W 2017 Exhaled volatile substances mirror clinical conditions in pediatric chronic kidney disease PLoS One O'Hara M E Clutton-Brock T H Green S and Mayhew C A 2009 Endogenous volatile organic compounds in breath and blood of healthy volunteers examining breath analysis as a surrogate for blood measurements J.
 
-for this we fed c57bl6n mice a grain-based chow or a purified low-fat diet thereby modifying the emission of methanol in breath whereas acetone levels were unaffected.
+van Vliet D Smolinska A Jobsis Q Rosias P Muris J Dallinga J Dompeling E and van Schooten F-J 2017 Can exhaled volatile organic compounds predict asthma exacerbations in children J.
 
-our findings are a first step to the systemic mapping of voc patterns to metabolic functions in mice because differences between vocs could be traced to different sources in the body.
+In addition PCA and hierarchical clustering clearly separated samples from mice fed a chow diet from LFD mice.
 
-for such approaches stable iso- tope-labeled substrates were administered in mice to follow up specific vocs sinues et al .
+Kistler M et al 2016 Diet-induced and mono-genetic obesity alter volatile organic compound signature in mice J.
 
-evidently mammalian model organisms such as laboratory rats or the c57bl6n mouse facilitated pilot work in this field aprea et al  szymczak et al  huppe et al  kistler et al  sinues et al .we investigated systemic voc distribution in organs blood feces urine and breath of male c57bl 6n mice that were fed a purified low-fat experimental diet or standard laboratory chow.
+Sweeting J N Siu M McCallum G P Miller L and Wells P G 2010 Species differences in methanol and formic acid pharmacokinetics in mice rabbits and primates Toxicol.
 
-by using such a system-wide approach the so far largely unex- plored links between several tissues and vocs that finally contribute to the sum signal presented in breath can be investigated and mapped to metabolic functions.material and methodsanimal housing and diet regimesmale mice n34 were housed in type iil poly- carbonate cages with individual ventilation tecni- plast italy in specific pathogen-free conditions at the german mouse clinic gmc fuchs et al .
+Axelrod J and Daly J 1965 Pituitary gland enzymic formation of methanol from S-adenosylmethionine Science Baranska A et al 2016 Volatile organic compounds in breath as markers for irritable bowel syndrome a metabolomic approach Aliment.
 
-all mice had ad libitum access to pelleted laboratory chow no.
+Bean H D Rees C A and Hill J E 2016 Comparative analysis of the volatile metabolomes of Pseudomonas aeruginosa clinical isolates J.
 
-from the age of 32 weeks on mice were randomly assigned to either continued chow diet feeding or a semi-purified lfd low fat e 15000-04 ssniff soest germany for a period of 3 weeks until the voc analysis measurements were conducted.
+Diliberto E J and Axelrod J 1974 Characterization and substrate specificity of a protein carboxymethylase in the pituitary gland Proc.
 
-all experiments were performed following animal welfare regulations supervised by the district government of upper bavaria regierung von oberbayern.analysis of vocs from ad libitum fed mice was performed between 7 am and 1 pm.
-
-mice were in a postprandial state as they typically feed in the early morning hours.
-
-chow and lfd mice were measured in alternating order to remove potential systemic bias.
-
-mice were weighed immediately before the voc mea- surement to the nearest 0.1 g.proton-transfer reaction tof mass spectrometrya high-sensitivity ptr-ms ionicon analytic gmbh innsbruck austria with a resolution of m dm2000 was used.
-
-we previously found it elevated in the exhaled breath of mice in response to feeding a grain-based chow diet compared to a pur- ified control diet kistler et al .
-
-we hypothesized that breath21.0221 no mz 29.9971 and the two high mass peaks provided by the built-in permascal unit c6h5i mz 203.9431 and c6h5i2 mz 330.8481.a total of 306 peaks were selected manually from the spectra using ptr-ms viewer version 3.2.1.2 ioni- con analytic gmbh innsbruck austria.real-time voc analysis in unrestrained and anaesthesized micea setup and protocol for real-time measurement of vocs in unrestrained mice using respiratory cham- bers was again applied as described previously szymc- zak et al  kistler et al  .
+Diliberto E J and Axelrod J 1976 Regional and subcellular distribution of protein carboxymethylase in brain and other tissues J. Neurochem.
 

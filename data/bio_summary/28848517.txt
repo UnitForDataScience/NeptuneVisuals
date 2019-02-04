@@ -1,30 +1,20 @@
-science 307 1915-1920. becker a. a. m. j. janssens g. p. j. snauwaert c. hesta m. and huys g. 2015. integrated community profiling indicates long-term temporal stability of the predominant faecal microbiota in captive cheetahs.
+57 289-300.Blackmore T. M. Dugdale A. Argo C. M. Curtis G. Pinloche E. Harris P. A. et al.
 
-57 289-300.blackmore t. m. dugdale a. argo c. m. curtis g. pinloche e. harris p. a. et al.
+Degnan P. H. Pusey A. E. Lonsdorf E. V. Goodall J. Wroblewski E. E. Wilson M. L. et al.
 
-this question has received limited attention in humans but the core population has been shown to be stable over time     and indeed  suggested that for a core community to be truly core it must be stable over time.
+Hunter J. O. Darby A. C. Escalona E. E. Batty C. and Turner C. 2015.
 
-cn acknowledge the support of the biotechnology and biological sciences research council uk via grant number bbj00131.supplementary materialthe supplementary material for this article can be found online at referencesargo c. m. curtis g. c. grove-white d. dugdale a. h. barfoot c. f. and harris p. a.
+Eckburg P. B. Bik E. M. Bernstein C. N. Purdom E. Dethlefsen L. Sargent M. et al.
 
-119 116-128. proudman c. j. hunter j. o. darby a. c. escalona e. e. batty c. and turner c. 2015. characterisation of the faecal metabolome and microbiome of thoroughbred racehorses.
+Milinovich G. J. Trott D. J. Burrell P. C. Croser E. L. Al Jassim R. A. M. Morton J. M. et al.
 
-the relative abundance of core otus between diets and periods was analyzed by two-way anova using genstatqr 12th edition using a benjamini-hochberg correction to account for multiple comparisons    and considered significant when the adjusted p-value was less than 0.1. stability was measured as the mean abundance of otus shared between time periods 1 and 2. this was calculated for the total bacterial community at three different levels of relative abundance 0.01 0.05 and 0.1. the jaccard index a coefficient of community similarity was calculated for each animal between the two time periods using the vegdist function from the vegan community ecology package in r.to test for statistical differences in abundance of individual bacteria over time or between diets data were firstly groupedby bacterial genus.
+This question has received limited attention in humans but the core population has been shown to be stable over time     and indeed  suggested that for a core community to be truly core it must be stable over time.
 
-2 1089-1100. milinovich g. j. trott d. j. burrell p. c. croser e. l. al jassim r. a. m. morton j. m. et al.
+CN acknowledge the support of the Biotechnology and Biological Sciences Research Council UK via grant number BBJ00131.SUPPLEMENTARY MATERIALThe Supplementary Material for this article can be found online at REFERENCESArgo C. M. Curtis G. C. Grove-White D. Dugdale A. H. Barfoot C. F. and Harris P. A.
 
-obesity 18 190-195. seganfredo f. b. blume c. a. moehlecke m. giongo a. casagrande d. s. spolidoro j. v. n. et al.
+Aziz Q. Dore J. Emmanuel A. Guarner F. and Quigley E. M. M. 2013.
 
-supplementary table s4 shows the jaccard index across all 12 animals.changes in bacteria over time and with dietwhen bacterial otus were compared statistically between time points otus belonging to five genera lactobacillus roseburia butyrivibrio streptococcus and an unclassified genus belonging to the acidaminococcaceae family showed a significant increase from time period 1 to 2 and otus belonging to 6 genera anaeroplasma anaerophaga phocaeicola and two unclassified genera belong to the firmicutes and bacteroidetes phyla and one totally unclassified genera showed a significant decrease see .
+Turnbaugh P. J. Ley R. E. Mahowald M. A. Magrini V. Mardis E. R. and Gordon J. I.
 
-194 179-188. aziz q. dore j. emmanuel a. guarner f. and quigley e. m. m. 2013. gut microbiota and gastrointestinal health current concepts and future directions.
-
-32 1720-1724. eckburg p. b. bik e. m. bernstein c. n. purdom e. dethlefsen l. sargent m. et al.
-
-costello e. k. lauber c. l. hamady m. fierer n. gordon j. i. and knight r. 2009. bacterial community variation in human body habitats across space and time.
-
-the most abundant members of the core that are maintained over this time are the same families that we have previously identified    as accounting for the largest part of the core population.
-
-costa m. c. arroyo l. g. allen-vercoe e. stampfil h. r. kim p. t. sturgeon a. et al.
-
-15550. lozupone c. a. stombaugh j. gonzalez a. ackermann g. wendel d. vazquez-baeza y. et al.
+A. M. J. Janssens G. P. J. Snauwaert C. Hesta M. and Huys G. 2015.
 

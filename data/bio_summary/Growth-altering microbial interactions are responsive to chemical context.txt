@@ -1,30 +1,20 @@
-it is also known that many species of p. aeruginosa excrete molecules that broadly inhibit growth among neighboring species including s. aureus and haemophilus species .
+It is also known that many species of P. aeruginosa excrete molecules that broadly inhibit growth among neighboring species including S. aureus and Haemophilus species .
 
-we selected bacterial species which are commonly associated with the respiratory tract  p. aer- uginosa pa01 p. aeruginosa pa14 haemophilus influenza type b atcc 10211 haemophilus parainfluenzae atcc 7901 and staphylococcus aureus atcc 29213.media and culture protocolall five species were cultured in brain-heart infusion bhi medium bd supplemented with l-histidine 0.01 gl sigma hemin 0.01 gl sigma and b-nad 0.01 gl sigma .
+We selected bacterial species which are commonly associated with the respiratory tract  P. aer- uginosa PA01 P. aeruginosa PA14 Haemophilus influenza type B ATCC 10211 Haemophilus parainfluenzae ATCC 7901 and Staphylococcus aureus ATCC 29213.Media and culture protocolAll five species were cultured in brain-heart infusion BHI medium BD supplemented with L-histidine 0.01 gL Sigma hemin 0.01 gL Sigma and b-NAD 0.01 gL Sigma .
 
-each species was grown alone and in pairwise combinations with the other four species.
+Each species was grown alone and in pairwise combinations with the other four species.
 
-the row indicates the species grown on the left and the column indicates the species grown on the right.
+The row indicates the species grown on the left and the column indicates the species grown on the right.
 
-the colony areas correspond to the species labels on the left while the labels along the bottom indicate the paired species.
+The colony areas correspond to the species labels on the left while the labels along the bottom indicate the paired species.
 
-the species along the rows are those which influenced the growth of the species in the columns.
+The species along the rows are those which influenced the growth of the species in the columns.
 
-one contributing factor is that p. aeruginosa pa14 and pa01 colo- nies were enormous  suggesting that these two species utilized nutritional resources more rapidly than neighboring species could access them.
+One contributing factor is that P. aeruginosa PA14 and PA01 colo- nies were enormous  suggesting that these two species utilized nutritional resources more rapidly than neighboring species could access them.
 
-for example pseudomonads can exhibit a swarming pheno- type which drastically alters colony shape and streptomyces coelicolor can produce a large vari- ety of pigments which differ depending on the identity of neighboring species .furthermore this method is extensible to higher order interactions between three or more species similar to previous work exploring how spatial arrangement of colonies influences interactions .the novel pipeline applied here enables faster screening of microbial interactions in vitro.
+For example pseudomonads can exhibit a swarming pheno- type which drastically alters colony shape and Streptomyces coelicolor can produce a large vari- ety of pigments which differ depending on the identity of neighboring species .Furthermore this method is extensible to higher order interactions between three or more species similar to previous work exploring how spatial arrangement of colonies influences interactions .The novel pipeline applied here enables faster screening of microbial interactions in vitro.
 
-we apply our approach to infer interactions among bacterial species associated with the normal lung microbiome and how those interactions are altered by the presence of benzoapyrene a carcinogenic compound found in cigarettes.
+We apply our approach to infer interactions among bacterial species associated with the normal lung microbiome and how those interactions are altered by the presence of benzoapyrene a carcinogenic compound found in cigarettes.
 
-c. difficile is an intestinal pathogen that can reside indefi- nitely in the intestinal tract of healthy humans alongside hundreds of other species.
-
-interestingly the addi- tion of a single species--c. scindens--to the intestinal community can prevent c. difficile over- growth and the associated negative symptoms .
-
-for example burkholderia cenocepacia increases mortality among cystic fibrosis patients with pseudomonas aeruginosa-associated lung infections illustrating that interactions among microbes are just as relevant to human health as the identities of the species with which humans interact .analysis decision to publish or preparation of the manuscript.competing interests the authors have declared that no competing interests exist.however it is difficult to measure and characterize microbial interactions .
-
-interactions have many underlying causes including direct interactions through signaling or toxin mole- cules competition and cross-feeding or the result of one species actively changing environ- mental factors such as ph .
-
-as a test case we chose to examine the influence of benzoapyrene bap on the interactions between a subset of core lung bacterial species .
-
-we quan- tified the pairwise interactions between bacterial species in control and bap media conditions using a novel inoculation protocol and semi-automated image analysis.
+C. difficile is an intestinal pathogen that can reside indefi- nitely in the intestinal tract of healthy humans alongside hundreds of other species.
 

@@ -1,30 +1,20 @@
-these genes were connected to membrane synthesis including the outer membrane lipoprotein opri and a hypothetical outer membrane chaperone.32 these variations in cell requirements can produce a different set of essential pathways and essential genes that may aid in selecting targets against a limited range of bacteria.we undertook this approach by focusing on a pathogen-selective target against the gram-negative periodontal pathogen p. gingivalis.33 we previously conducted a genome-wide essential gene identification study in the gram-positive early oral colonizer streptococcus sanguinis using systematic single and double gene deletions.
+Porphyromonas gingivalis has been found in 85 of patients with periodontitis and is isolated at higher levels from areas of disease progression compared with healthy sites.2526 In an animal periodontitis model vaccinating against a major P. gingivalis virulence factor reduced alveolar bone loss decreased pathogen colonization and improved disease outcome.27 Clinical trials using human patients showed that repeated applications of monoclonal antibodies specific to a P. gingivalis protease complex prevented recolonization of the pathogen for approximately 9 months leading to a significant improvement in oral health.28By targeting key pathogens such as P. gingivalis and S. mutans it may be possible to treat periodontitis or dental caries while allowing for the protection of the beneficial commensal flora and reducing the chance for antibiotic resistance.
 
-the underlying benefit of this study was that we discovered general rules for essential genes provid- ing us with the basis for predicting essential genes in other organisms including staphylococcus aureus bacillus subtilis streptococcus pneu- moniae34 and recently for p. gingivalis and mycobacterium tuberculo- sis.
+The underlying benefit of this study was that we discovered general rules for essential genes provid- ing us with the basis for predicting essential genes in other organisms including Staphylococcus aureus Bacillus subtilis Streptococcus pneu- moniae34 and recently for P. gingivalis and Mycobacterium tuberculo- sis.
 
-this suggested that the gen- eral rule for essential genes identified through our experimental stud- ies in s. sanguinis could be universally applied for different bacterial species including gram-negative bacteria.based on our prediction in p. gingivalis strain w83 212 genes were essential.
+The sheep myeloid antimicro- bial peptide SMAP29 which has shown potent antimicrobial activity against Fusobacterium nucleatum P. gingivalis and several other peri- odontal organisms52 was conjugated to a P. gingivalis surface-specific IgG antibody.53 Treatment of P. gingivalis Aggregatibacter actinomyce- temcomitans and Peptostreptococcus micros in a mixed-species culture showed inconsistent but promising results.
 
-about 32 7 of total predicted essential genes of those genes were directly related to peptidoglycan biosynthesis whereas about 19 4 of total were related to fatty acid biosyn- thesis.
+The majority of the predicted essential genes 148 genes were grouped into the processing of genetic information category.
 
-the majority of the predicted essential genes 148 genes were grouped into the processing of genetic information category.
+This suggested that the gen- eral rule for essential genes identified through our experimental stud- ies in S. sanguinis could be universally applied for different bacterial species including gram-negative bacteria.Based on our prediction in P. gingivalis strain W83 212 genes were essential.
 
-although this prediction may not be comprehensive due to a lack of annotated biological data ie hypothetical genes the func- tional classification fell in line with recent experimental essential gene studies in p. gingivalis atcc 33277.3536as the healthy oral cavity comprises roughly 80 streptococcus species37 it was theorized that selecting essential genes in p. gingi- valis that were absent or not essential within s. sanguinis would pres- ent potential pathogen-selective antimicrobial targets within the oral cavity.
+Although this prediction may not be comprehensive due to a lack of annotated biological data ie hypothetical genes the func- tional classification fell in line with recent experimental essential gene studies in P. gingivalis ATCC 33277.3536As the healthy oral cavity comprises roughly 80 streptococcus species37 it was theorized that selecting essential genes in P. gingi- valis that were absent or not essential within S. sanguinis would pres- ent potential pathogen-selective antimicrobial targets within the oral cavity.
 
-oral microbial essential genes were identified by blast proteins of completed oral microbial genomes against the database of essential genes deg.
+These genes were connected to membrane synthesis including the outer membrane lipoprotein OprI and a hypothetical outer membrane chaperone.32 These variations in cell requirements can produce a different set of essential pathways and essential genes that may aid in selecting targets against a limited range of bacteria.We undertook this approach by focusing on a pathogen-selective target against the gram-negative periodontal pathogen P. gingivalis.33 We previously conducted a genome-wide essential gene identification study in the gram-positive early oral colonizer Streptococcus sanguinis using systematic single and double gene deletions.
 
-essential genes are more evolutionarily conserved than are nonessential genes in bacteria.
+About 32 7 of total predicted essential genes of those genes were directly related to peptidoglycan biosynthesis whereas about 19 4 of total were related to fatty acid biosyn- thesis.
 
-although not comprehensive and although the application of novel strategies within the oral microbiome is still in its infancy we focus on a few studies aimed selectively against oral pathogens including targeted delivery systems and our own selective drug discovery project exploiting pathogenic essential genes.
+Essential genes are more evolutionarily conserved than are nonessential genes in bacteria.
 
-we will also address what is needed for the successful development of novel antibiotics in the microbiome era.4  strategies applied against periodontal pathogens  targeting pathogenic essential genesessential genes are critical for the growth and survival of an organ- ism and therefore present an ideal pool of potential drug targets.
-
-due to essential genes being characteristically conserved30 target-based screens undertaken in the early years of the genomics era used abroad-spectrum approach for drug discovery.
-
-a bioinformatics approach was applied to select genes conserved across a diverse population of species.
-
-in one prime example glaxosmithkline initially selected more than 350 genes and screened between 260 000 and 530 000 compounds which only yielded one lead compound against staphylococcus aureus targeting the fatty acid biosynthesis enzyme fabi.31 the ability of some pathogens to use exogenous fatty acids or the presence of isozymes performing the same function limited the suc- cess rate.
-
-essential gene targets can be selected and separated by different categories aimed at a specific group pathogen or environment for instance dif- ferences in essential genes required for cell-wall biosynthesis in gram- negative gram-positive and mycobacteria.
-
-genes required for energy production in anaerobic vs aerobic respira- tion could also present selective targets.
+In one prime example GlaxoSmithKline initially selected more than 350 genes and screened between 260 000 and 530 000 compounds which only yielded one lead compound against Staphylococcus aureus targeting the fatty acid biosynthesis enzyme FabI.31 The ability of some pathogens to use exogenous fatty acids or the presence of isozymes performing the same function limited the suc- cess rate.
 

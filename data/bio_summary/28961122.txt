@@ -1,0 +1,20 @@
+Then the weight is rewritten asencodes the local similarities between each sample and its k nearest neighbors.Let Pv and Mv represent similarity matrices from v-thview SNF always starts from P as initial state using M as the kernel matrix iteratively updating Pv as followsw wiji N j or j N i 5Pk ij 0otherwise.Pv M v k v M v T  v 1 210j 1 At last we transform the weight matrix W into normal-4At last the fused and consensus matrix P is defined as1 jtion of multi-view symmetric nonnegative matrix factori- zation Mul-SNMF can be defined as followP pvj v 111 nv2nv2 O MinAv H v H v TH vQv H 14 Through the fusion process SNF reveals the underlying geometric structure shared by all views and propagates the v1Fv 1F similarity information between two nodes to another data type which does not possess this similarity.In this paper using SNF we construct the final weight matrix across networks and obtain the Laplacian matrix.
+
+In this paper we proposed a novel variant of symmetric nonnegative matrix factorization SNMF called Laplacian regularization based joint symmetric nonnegative matrix factorization LJ-SNMF for clustering multi- view data.
+
+Symmetric nonnegative factorization SNMF takes an nxn similarity matrix A as input and generates a clus- tering indicator matrix and its transposition.
+
+W is usually called to be the basis matrix and H is called to be the coefficient matrix respectively.NMF cannot only be used for data representation butalso for classification.
+
+Once the similarity matrix W was constructed Eq.3 4a well-normalized similarity matrix P can be derived fromtion faster than full graph.
+
+Thenwhere n indicates the number of the views H denotesThe graph Laplacian is defined as L D A  where D isvthe consensus matrix v denotes the weight of v-th view.the degree matrix.
+
+Table IV shows the best clustering performance on these two datasets in terms of ACNMI for LJ-SNMF.The compatibility analysis of LJ-SNMF On Three-source and HMP dataAs described in the section 2 the noisy view can be iden- tified by measuring the NMI between its affinity matrix and the final fused matrix P obtained from SNF.
+
+To integrate information from multiple views data integration approaches such as nonnegative matrix factorization NMF have been developed to combine multiple heterogeneous data simultaneously to obtain a comprehensive representation.
+
+So it is urgent to develop novel methods in this field to straighten out complicated microbial community.As a clustering technology nonnegative matrix factori- zation NMF also has been applied to microbiome datasets.
+
+At the same time a membership label could be assigned to each sample or a feature by the corresponding coefficient matrix.
+

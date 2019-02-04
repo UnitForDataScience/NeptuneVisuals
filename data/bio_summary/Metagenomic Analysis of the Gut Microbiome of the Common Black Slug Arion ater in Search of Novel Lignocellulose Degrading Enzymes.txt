@@ -1,30 +1,20 @@
-these slugs feed activelydown to temperatures approaching 0 c and adults and eggshave been observed to survive freezing at -3c for 3 days or more slotsbo et al.
+These slugs feed activelydown to temperatures approaching 0 C and adults and eggshave been observed to survive freezing at -3C for 3 days or more Slotsbo et al.
 
-2011. it is therefore believed that slugs survive seasonal weather either by preservation of buried eggs or through migration to areas unaffected by frosts such as deep in compost heaps and underground in leaf litter kozlowski 2007. slugs are also known to be resistant to high concentrations of toxic metals so much so that they are often used in studies of environmental levels of pollution ireland 1979 seric jelaska et al.
+Slugs are also known to be resistant to high concentrations of toxic metals so much so that they are often used in studies of environmental levels of pollution Ireland 1979 Seric Jelaska et al.
 
-2014. the ability to utilize a broad range of food sources and their physiological robustness to environmental challenges are amongst the reasons why slugs are such a successful group of organisms despite the best efforts of humans to eradicate them from agricultural and suburban land.it is now well established that the gut microbiome plays a pivotal role in digestion in many invertebrates and vertebrates such as termites brune 2014 cockroaches bertino-grimaldi et al.
+The ability to utilize a broad range of food sources and their physiological robustness to environmental challenges are amongst the reasons why slugs are such a successful group of organisms despite the best efforts of humans to eradicate them from agricultural and suburban land.It is now well established that the gut microbiome plays a pivotal role in digestion in many invertebrates and vertebrates such as termites Brune 2014 cockroaches Bertino-Grimaldi et al.
 
-2013 cattle hess et al.
+2013 cattle Hess et al.
 
-2011 and humans qin et al.
+2011 and humans Qin et al.
 
-one recent study has demonstrated the ecological richness of the gut microbiome of the gastropod achatina fulica giant snail highlighting its metabolic capabilities with a large number of cazymes being observed cardoso et al.
+One recent study has demonstrated the ecological richness of the gut microbiome of the gastropod Achatina fulica giant snail highlighting its metabolic capabilities with a large number of CAZymes being observed Cardoso et al.
 
-ater is directly involved in breakdown of the lignocellulose portion of its diet joynson et al.
+ater is directly involved in breakdown of the lignocellulose portion of its diet Joynson et al.
 
-slugs have recently been proposed as vectors for the transmission of bacterial pathogens gismervik et al.
+Slugs have recently been proposed as vectors for the transmission of bacterial pathogens Gismervik et al.
 
-identified in this study and many others could be advantageous in the mollusc gut toth et al.
+identified in this study and many others could be advantageous in the mollusc gut Toth et al.
 
-2011.materials and methodssample collection and metagenomics dna extractionslugs were collected from a suburban area in north cheshire53.391463 n 2.211214 w a sampling area used in a previous study joynson et al.
-
-25996846 reads passed quality control according to fastqc defaults and were assembled using velvet v1.2.10 zerbino and birney 2008 using options k  51 covcutoff  auto expcov auto and inslength 200. velvet output de bruijn graphs werethen used as input to metavelvet v1.2.01 namiki et al.
-
-2012. to assess the quality of the resulting assembly raw reads were aligned to resultant contigs using burrow-wheeler aligner bwa with default settings li et al.
-
-2009. the resulting sam file was then converted to a.bam file sorted indexed and mapping statistics obtained using the samtools li et al.
-
-assembly output contigs were then subjected to open reading frame prediction using the ab initio gene prediction method of metagenemark zhu et al.
-
-the blast alignments were then used to organize predicted proteins into function and phylogeny using megan4 huson et al.
+2011.MATERIALS AND METHODSSample Collection and Metagenomics DNA ExtractionSlugs were collected from a suburban area in North Cheshire53.391463 N 2.211214 W a sampling area used in a previous study Joynson et al.
 

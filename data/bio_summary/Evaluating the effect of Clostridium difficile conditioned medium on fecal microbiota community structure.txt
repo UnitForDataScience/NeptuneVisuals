@@ -1,30 +1,20 @@
-furthermore the development of cdi is favoured because microbiota changes are associated with unbalanced immune responses after antibiotic treatment.while mechanisms through which gut microbiota influences c. difficile are being partially elucidated not much is known about the possible effect of c. difficile on gut microbiota.
+Furthermore the development of CDI is favoured because microbiota changes are associated with unbalanced immune responses after antibiotic treatment.While mechanisms through which gut microbiota influences C. difficile are being partially elucidated not much is known about the possible effect of C. difficile on gut microbiota.
 
-another recent study demon- strated that epidemic c. difficile isolates successfully compete for nutrients even in the presence of a complex gut microbiota.it is very likely that c. difficile overgrowth in the gut niche affects the reconstitution of gut microbiota dur- ing and after the cdi.
+Another recent study demon- strated that epidemic C. difficile isolates successfully compete for nutrients even in the presence of a complex gut microbiota.It is very likely that C. difficile overgrowth in the gut niche affects the reconstitution of gut microbiota dur- ing and after the CDI.
 
-to address the possible impact of c. difficile on the growth of common gut bacteria we analyzed the differences in bacterial community structure of fecal microbiota after in vitro growth in c. dif- ficile conditioned medium.
+To address the possible impact of C. difficile on the growth of common gut bacteria we analyzed the differences in bacterial community structure of fecal microbiota after in vitro growth in C. dif- ficile conditioned medium.
 
-black lines separate two c. difficile ribotypes whereas colored lines indicate different c. difficile strains.figure 4. otus associated with wcab wilkins chalgren anaerobe broth conditioned medium of ribotype 027   or ribotype 014020  on day 5 selected by using a the mothur software lefse test andb machine learning pct clus software.
+Black lines separate two C. difficile ribotypes whereas colored lines indicate different C. difficile strains.Figure 4.
 
-within c. difficile samples further clustering was associated with fecal microbiota type healthy or post-antibiotic and further with c. difficile ribotype.
+Within C. difficile samples further clustering was associated with fecal microbiota type healthy or post-antibiotic and further with C. difficile ribotype.
 
-in the present study we have mimicked the conditions of a c. difficile influenced environment by comparing fecal microbiota community structure after cultivation in c. difficile con- ditioned and fresh growth medium.possible mechanisms of interactions between pathobionts and gut microbiota include nutrient depletion direct inhibition and effect via immune defenses.
+In the present study we have mimicked the conditions of a C. difficile influenced environment by comparing fecal microbiota community structure after cultivation in C. difficile con- ditioned and fresh growth medium.Possible mechanisms of interactions between pathobionts and gut microbiota include nutrient depletion direct inhibition and effect via immune defenses.
 
-in co-culture of c. difficile and selected bacterial species no direct inhibition was detected except for r. gnavus while all tested strains showed various degrees of growth decrease in c. difficile conditioned medium fig.
+In co-culture of C. difficile and selected bacterial species no direct inhibition was detected except for R. gnavus while all tested strains showed various degrees of growth decrease in C. difficile conditioned medium Fig.
 
-to test whether changes in microbiota grown in c. difficile conditioned medium are specific we compared two different types of pooled fecal microbiota pre- and post-antibiotics after cultivation in c. difficile conditioned medium with conditioned media of other bacteria.
+To test whether changes in microbiota grown in C. difficile conditioned medium are specific we compared two different types of pooled fecal microbiota pre- and post-antibiotics after cultivation in C. difficile conditioned medium with conditioned media of other bacteria.
 
-the specific nature of changes was to some extent confirmed also in gnotobiotic mouse model with simplified 12 species murine microbiota oligo-mm where colonization with c. difficile but not with c. scindens resulted in significant compositional perturbation as compared to uninfected control animals.
+The specific nature of changes was to some extent confirmed also in gnotobiotic mouse model with simplified 12 species murine microbiota Oligo-MM where colonization with C. difficile but not with C. scindens resulted in significant compositional perturbation as compared to uninfected control animals.
 
-the most prominently influenced otus have well defined roles within gut microbiota functions andor have been previously associated with presence or absence of c. difficile dorea enterococcus clostridiumxiva veillonella escherichiashigella and lactobacillus.the microbiota in c. difficile conditioned medium generally contained significantly over-represented oppor- tunistic pathogens particularly enterococcus members.
-
-patients with recurrent cdi possessed an increased proportion of veillonella while onco- logical patients colonized with c. difficile had decreased levels of veillonella.in summary we could show that c. difficile causes specific changes in fecal microbiota and that nutrient availability is a more likely mechanism than direct inhibitory effects.
-
-six different c. difficile strains belonging to two pcr ribotypes 014020 027 were selected from our c. difficile strain collection strain designations zzv10-2514 zzv11- 3188 zzv11-3298 zzv11-3304 zzv12-4777 zzv14-5907.
-
-c. difficile negative fecal samples were randomly selected from samples sent for c. difficile testing male n  5 female n  5 all aged under 65 years.
-
-for each sample with a specific combination of growth medium bacterial strain and type of microbiota three parallels were tested.cultivation of pure cultures of selected bacteria in c. difficile conditioned media or in co-culture with c. difficile.
-
-journal of bacteriology 190 2505-2512 2008.vincent c.  manges a. antimicrobial use human gut microbiota and clostridium difficile colonization and infection.antibiotics-basel 4 230-253 2015.wong j. m. de souza r. kendall c. w. emam a.  jenkins d. j. colonic health fermentation and short chain fatty acids.
+The most prominently influenced OTUs have well defined roles within gut microbiota functions andor have been previously associated with presence or absence of C. difficile Dorea Enterococcus ClostridiumXIVa Veillonella EscherichiaShigella and Lactobacillus.The microbiota in C. difficile conditioned medium generally contained significantly over-represented oppor- tunistic pathogens particularly Enterococcus members.
 

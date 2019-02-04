@@ -1,30 +1,20 @@
-a all samples colored by oral site stress value 0.16. b tongue and saliva samples colored by oral site stress value 0.20. c all samples colored by subject number stress value 0.16. d supragingival plaque samples colored by subject number stress value 0.16. e tongue and saliva samples colored by subject number stress value 0.20state of microbial homeostasis some studies indicate that the oral microbiota remain stable over time at least in healthy subjects.-temporal oral microbiota patterns may depend on the time scale.
+a Bray-Curtis distances between saliva samples from subject 7. b Sorensen distances between saliva samples from subject 7. c Sorensen distances between saliva samples from subject 1. d Sorensen distances between saliva samples from subject 10plaque respectively.
 
-a bray-curtis distances between saliva samples from subject 7. b sorensen distances between saliva samples from subject 7. c sorensen distances between saliva samples from subject 1. d sorensen distances between saliva samples from subject 10plaque respectively.
+a All samples colored by oral site stress value 0.16. b Tongue and saliva samples colored by oral site stress value 0.20. c All samples colored by subject number stress value 0.16. d Supragingival plaque samples colored by subject number stress value 0.16. e Tongue and saliva samples colored by subject number stress value 0.20state of microbial homeostasis some studies indicate that the oral microbiota remain stable over time at least in healthy subjects.-Temporal oral microbiota patterns may depend on the time scale.
 
-for example bulleidia moorei was found in 95 of tongue plaque and saliva samples but 95 of supragingival plaque samples while rothia dentocariosa was found in 95 of the samples from all three sites.
+For example Bulleidia moorei was found in 95 of tongue plaque and saliva samples but 95 of supragingival plaque samples while Rothia dentocariosa was found in 95 of the samples from all three sites.
 
-community diversity was variable between individuals but remained consistent within an individual over time.resultsto investigate the longitudinal stability and characterize intra-- and inter-individual variability of the plaque and salivary micro- biota 286 samples containing supragingival plaque tongue dorsum plaque and saliva were obtained from ten healthy volunteers over a period of 90 days sampled on days 1 2 3 4 714 21 28 60 and 90. four of the subjects were sampled at an additional time point after 365 days.
+Also notably in contrast to saliva and supragingival samples that showed significant differ- ences in PD between subjects no significant differences were observed between subjects across tongue samples Fig.
 
-with all samples pooled random-forest classification achieved an accuracy of 95 -3.8. using only samples from within each site the subjects were predicted with accuracies of 96.6 -3.2 for saliva 96.0 -4.4 for supragingival plaque and 88.2 -7.9 for tongue plaque.
+All three sites pooled together had a prediction accuracy of 83.3 supragingival plaque had an accuracy of 75 one misclassification whereas tongue plaque and saliva samples achieved 100 accuracy.Twenty-six core OTUs persist across sites individuals and time In order to highlight the most consistent members of the oral microbiota we identified coreOTUs that were present in95 of all collected samples.
 
-all three sites pooled together had a prediction accuracy of 83.3 supragingival plaque had an accuracy of 75 one misclassification whereas tongue plaque and saliva samples achieved 100 accuracy.twenty-six core otus persist across sites individuals and time in order to highlight the most consistent members of the oral microbiota we identified coreotus that were present in95 of all collected samples.
+In particular bacterial biomarkers in saliva are being investigated for their use in treatment monitoring during oral diseases such as periodontitis and caries-and researchers are investigating the correlation between the salivary microbiota and diseases such as inflammatory bowel diseaseand pancreatic cancer.The higher OTU count and wider inter-subject variation in PD seen in saliva can be attributed to the saliva bathing other oral sites such as the supragingival tooth surface and picking up additional microbial taxa.
 
-e mrpp p  0.001 a  0.26.phylogenetic diversity is consistent between subjects in tongue plaque and variable in supragingival plaque and salivawe measured alpha diversity using faith's phylogenetic diversity pd measure.supragingival plaque samples had significantly lower pd compared with that of tongue and salivary communities fig.
+We trained an additional random-forest classifier against all of the samples collected in the first 90 days and predicted the source subject of the 12 samples taken at 365 days.
 
-we identified 26 core otus that classified within streptococcus fusobacterium haemophilus neis- seria prevotella and rothia genera which were present across95 of samples derived from saliva tongue plaque and dental plaque.
+For the classification of the 1-year samples only the samples from that time-point were held out of the training set.
 
-a mrpp p  0.001 a  0.15. when supragin- gival plaque samples are excluded from the analysis tongue plaque and saliva communities show clear differences but with a much smaller effect size fig.
+Community diversity was variable between individuals but remained consistent within an individual over time.RESULTSTo investigate the longitudinal stability and characterize intra-- and inter-individual variability of the plaque and salivary micro- biota 286 samples containing supragingival plaque tongue dorsum plaque and saliva were obtained from ten healthy volunteers over a period of 90 days sampled on days 1 2 3 4 714 21 28 60 and 90.
 
-because the mouth is exposed to the external environment and subjected to brushing flossing and nutrient intake it can be expected that microbial turnover in saliva tooth-associated and tongue- associated plaque would vary significantly which in turn affects the reliable utility of plaque and saliva in risk assessmentdiagnostic or prognostic applications.
-
-tongue plaque and saliva commu- nities cluster together distinctly from supragingival plaque communities fig.
-
-thorough testing must be undertaken to ensure that potential biomarkers are robust and generalize well outside of the sample cohort.our results indicate that oral bacterial communities that inhabit supragingival plaque tongue plaque and saliva are clearly distinct from one another fig.
-
-also notably in contrast to saliva and supragingival samples that showed significant differ- ences in pd between subjects no significant differences were observed between subjects across tongue samples fig.
-
-in particular bacterial biomarkers in saliva are being investigated for their use in treatment monitoring during oral diseases such as periodontitis and caries-and researchers are investigating the correlation between the salivary microbiota and diseases such as inflammatory bowel diseaseand pancreatic cancer.the higher otu count and wider inter-subject variation in pd seen in saliva can be attributed to the saliva bathing other oral sites such as the supragingival tooth surface and picking up additional microbial taxa.
-
-heterogeneous variance was observed across the sample sites p  0.01 by fligner-killeen test with significantly higher variance in pd values in supragingival plaque compared with tongue plaque and saliva.microbial dynamics in the healthy mouth mw hall et al3fig.
+When supragin- gival plaque samples are excluded from the analysis tongue plaque and saliva communities show clear differences but with a much smaller effect size Fig.
 

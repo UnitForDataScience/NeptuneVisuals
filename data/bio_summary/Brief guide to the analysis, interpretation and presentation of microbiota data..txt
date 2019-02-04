@@ -1,30 +1,20 @@
-for instance if comparing100 otus and using a p value 0.05 to define significance simply by chance five otus will be reported as significant.
+For instance if comparing100 OTUs and using a P value 0.05 to define significance simply by chance five OTUs will be reported as significant.
 
-the relatively short read length of 16s rrna gene sequencing and homolo- gous sequences between different genera prevent classification of otus to the species level.
+The relatively short read length of 16S rRNA gene sequencing and homolo- gous sequences between different genera prevent classification of OTUs to the species level.
 
-of the 776 samples 56 from 3 patients never received any expressed breast milk.numeric descriptorsdiversitydiversity relates to the number of different otus and their relative abundance and is often a primary outcome in microbiome studies although variably presented.
+Of the 776 samples 56 from 3 patients never received any expressed breast milk.numeric descriptorsDiversityDiversity relates to the number of different OTUs and their relative abundance and is often a primary outcome in microbiome studies although variably presented.
 
-shannon diversity typically ranges from 0 to 2 in neonatal studies.alpha diversity describes diversity in one site or sample that is the total number of different otus and how abundant each of them are in relation to one another within one sample .
+Higher diversity is often associated with better health outcomes but not always.The number of distinct OTUs corresponds to richness and the relative abundance reads for each OTU allows a measure of diversity.
 
-if all otus from all samples were shared evenly between samples these samples would sit at ordinates 00. thus samples further from this point are more different from'average' than those near to this point and samples placed closer together are more similar to each other than those further away from each other.
+For example two communities that contain only taxa A and B one with nine OTUs of taxon A and one of taxon B and the other with five of each both have equal richness but the latter is more even.
 
-higher diversity is often associated with better health outcomes but not always.the number of distinct otus corresponds to richness and the relative abundance reads for each otu allows a measure of diversity.
+Shannon diversity typically ranges from 0 to 2 in neonatal studies.Alpha diversity describes diversity in one site or sample that is the total number of different OTUs and how abundant each of them are in relation to one another within one sample .
 
-for example two communities that contain only taxa a and b one with nine otus of taxon a and one of taxon b and the other with five of each both have equal richness but the latter is more even.
+If all OTUs from all samples were shared evenly between samples these samples would sit at ordinates 00.
 
-ordination axes show proportion of total variability accounted for by the ordination space components and thus residual unexplained differences.as well as studying the community as a whole many studies seek to identify and compare specific taxa in association with health and disease states.heat mapsheat maps  cluster samples and otus based on similarity within the data set.
+Ordination axes show proportion of total variability accounted for by the ordination space components and thus residual unexplained differences.As well as studying the community as a whole many studies seek to identify and compare specific taxa in association with health and disease states.Heat mapsHeat maps  cluster samples and OTUs based on similarity within the data set.
 
-because many otus are detected and thus many comparisons will be made for each otu and each clinical variable statistics must be applied cautiously and it is important to adjust p values for multiple comparisons.
+Because many OTUs are detected and thus many comparisons will be made for each OTU and each clinical variable statistics must be applied cautiously and it is important to adjust P values for multiple comparisons.
 
-despite these statis- tical difficulties appropriately analysed data sets can point to changes in key otus associated with disease or treatments.2zalewski s et al.
-
-a box plot analysis of the observed number of otus and shannon diversity between groups where the middle line of the box represents the median the bottom line represents the lower quartile and the top line represents the upper quartile.
-
-b linear regression analysis of the observed number of otus and shannon diversity between groups where the alpha diversity values are plotted by the day of life.
-
-this article provides an overview of terminology and data generation and uses one of our study data sets to demonstrate different presentations of those data.bacteria are important in a range of physiological processes in humans nutrient assimilation vitamin production modification of the nervous system the gut-brain axis and development of the immune system.
-
-interpretation is further chal- lenged when studies present results at different taxonomic levels eg genus vs phyla.
-
-arch dis child educ pract ed 201701-4. doi10.1136archdischild-2017-3138381copyright article author or their employer 2017. produced by bmj publishing group ltd under licence.organisms also discount potentially discordant func- tional impacts of low abundant organisms and do not account for differences in absolute load.analysis and presentation of otu data different numeric descriptive measures and graphical techniques can be used to illustrate key features of the microbiota that may be relevant to disease devel- opment as depicted below.
+Despite these statis- tical difficulties appropriately analysed data sets can point to changes in key OTUs associated with disease or treatments.2Zalewski S et al.
 

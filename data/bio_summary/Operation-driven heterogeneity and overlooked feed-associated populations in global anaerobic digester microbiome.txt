@@ -1,30 +1,20 @@
-smithella related otus were observed in clusters b e f g and h whereas syntrophomonas related otus were observed in clusters with high salinity cluster a industrial influent cluster c and high operating temperature cluster d. for the methanogenic core populations there was asimilar trend that an otu related to candidatus methanofastidiosa hydrogenotrophic methanogen and an otu related to meth- anosaeta aceticlastic methanogen were consistently observed in clusters b e f g and h. the high-temperature cluster d contained two unique core otus related to methanothermobacter and meth- anoculleus.
+Smithella related OTUs were observed in clusters B E F G and H whereas Syntrophomonas related OTUs were observed in clusters with high salinity cluster A industrial influent cluster C and high operating temperature cluster D. For the methanogenic core populations there was asimilar trend that an OTU related to Candidatus Methanofastidiosa hydrogenotrophic methanogen and an OTU related to Meth- anosaeta aceticlastic methanogen were consistently observed in clusters B E F G and H. The high-temperature cluster D contained two unique core OTUs related to Methanothermobacter and Meth- anoculleus.
 
-plants that have samples not clustered together are marked.was 0.02 in ussf1 that received feed sludge after pretreatment and the majority 117 out of 148 ad samples were less than 10. high residue populations were less common with 26 samples between 10 and 20 and five samples between 20 and 30. the highest abundance was observed with jpys1 27.3 that wasoperated below 20 0c.
+S5C where only two samples diverged from cluster G and three samples diverged from cluster H compared to the results based on weighted UniFrac.Characterization of feed-derived residue populationsOur previous study revealed that in a single wastewater treat- ment plant AD microbial communities could contain exogenous populations i.e.
 
-s5c where only two samples diverged from cluster g and three samples diverged from cluster h compared to the results based on weighted unifrac.characterization of feed-derived residue populationsour previous study revealed that in a single wastewater treat- ment plant ad microbial communities could contain exogenous populations i.e.
+In contrast within each cluster OTUs shared by all the samples accounted for a large portion of the total sequences 50 in each cluster Fig.
 
-in contrast within each cluster otus shared by all the samples accounted for a large portion of the total sequences 50 in each cluster fig.
+Thus we defined cluster-specific core populations  by including OTUs that were both prevalent and abundant top 15 abundant bacterial and top three abundant archaeal OTUs that were detected in all samples of that cluster.
 
-thus we defined cluster-specific core populations  by including otus that were both prevalent and abundant top 15 abundant bacterial and top three abundant archaeal otus that were detected in all samples of that cluster.
+In total 704 residue OTUs were associated with Proteobacteria and 298 OTUs with Bacteroidetes accounting for 20.8 and 13.4 of sequences in feed sludge respectively A. Abundances of these OTUs in the AD community decreased drastically to 3.6 and 1.6 respectively.
 
-in total 704 residue otus were associated with proteobacteria and 298 otus with bacteroidetes accounting for 20.8 and 13.4 of sequences in feed sludge respectively a. abundances of these otus in the ad community decreased drastically to 3.6 and 1.6 respectively.
+However the variance could not be explained by geographical locations as only North America samples significantly differed from Hong Kong samples in PC1 and from Japan samples in PC2.
 
-by removing residue populations from each community we observed almost no change on the beta-diversity and the clus- tering remained almost the same based on either weighted unifrac only seven samples split from cluster h or bray-curtis distance only cluster e split.
+Plants that have samples not clustered together are marked.was 0.02 in USSF1 that received feed sludge after pretreatment and the majority 117 out of 148 AD samples were less than 10.
 
-cluster f contained residue populations mainly related to sphin- gobacteria in bacteroidetes likely because the feed sludge of cluster f had highest abundance of bacteroidetes and lowest abundance proteobacteria in comparison to other clusters fig.
+Fifty milliliters of sludge were collected from the recirculation lines of digesters transported to laboratory in UIUC onice including international samples and stored at 80 0C untilDNA extraction.16S rRNA gene sequencingGenomic DNA was extracted from 2 mL of well-mixed sludge using the FastDNA SPIN Kit for Soil MP Biomedicals Carlsbad CA USA and quantified using a Nanodrop 2000c spectrophotometer.
 
-cluster b con- tained two samples from digesters one from the us and one from the netherlands that received feed sludge after pretreatment with thermal hydrolysis.
+By removing residue populations from each community we observed almost no change on the beta-diversity and the clus- tering remained almost the same based on either weighted UniFrac only seven samples split from cluster H or Bray-Curtis distance only cluster E split.
 
-however the variance could not be explained by geographical locations as only north america samples significantly differed from hong kong samples in pc1 and from japan samples in pc2.
-
-fifty milliliters of sludge were collected from the recirculation lines of digesters transported to laboratory in uiuc onice including international samples and stored at 80 0c untildna extraction.16s rrna gene sequencinggenomic dna was extracted from 2 ml of well-mixed sludge using the fastdna spin kit for soil mp biomedicals carlsbad ca usa and quantified using a nanodrop 2000c spectrophotometer.
-
-seven plants jphw jpmu jpna jpstjptb jpys and usdv used a two-stage anaerobic digestion process with similar sludge retention time the first digester treating sludge from primarysecondary clarifiers and the second digester treating sludge from the first digester.
-
-to be stringent we first defined an otu as being more abundant in feed sludge in a plant only when its feedad abundance ratio was over 2 and conversely an otu as being more abundant in ad when the feedad abundance ratio was below 0.5. further we defined otus as residue populations if they were frequently more abundant in feed sludge minimum five plants and rarely more abundant in ad maximum five plants .
-
-s9 but the correlation was weak as indicated by a low coefficient rho 0.361 p  0.01.the presence of residue populations was also influenced by operating conditions d. the highest residue population abundance was 21.4 observed in cluster e low operating tem- perature followed by 13.9 in cluster f. correspondingly clusters e and f had the highest alpha diversity.
-
-s12b.with regards to residue populations the core communities of cluster b plants with pretreatment and cluster g plants operated at  40 0c did not contain any otu identified as residue population.
+Seven plants JPHW JPMU JPNA JPSTJPTB JPYS and USDV used a two-stage anaerobic digestion process with similar sludge retention time the first digester treating sludge from primarysecondary clarifiers and the second digester treating sludge from the first digester.
 

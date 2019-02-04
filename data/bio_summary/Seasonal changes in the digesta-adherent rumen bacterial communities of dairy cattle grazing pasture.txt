@@ -1,30 +1,20 @@
-therefore examining the same animals over different seasons could capture greater ruminal bacterial diversity and offer the opportunity to examine the stability of the bacterial community under production conditions.
+The season-specific variation in bacterial community structure was confirmed by the fact that the rumen bacterial communities in the individual animals changed more-or-less in unison and by the close clus- tering of the two samples taken in the same season a year apart.
 
-pyrosequen- cing of the v1-v3 region of the bacterial 16s rrna gene was used to provide higher resolution on the variation of the digesta-adherent bacterial community in individual animals and at dif- ferent sampling times.materials and methodsanimal handling and sample fractionationuse of the animals for rumen sampling was approved by the agresearch ruakura animal eth- ics committee under permit number ae 11483 and was conducted in accordance with the institutional codes of ethical conduct for the use of animals in research testing and teach- ing as prescribed in the new zealand animal welfare act of 1999 and its amendments.rumen samples from five ruminally fistulated holsteinfriesian cows four animals at each time point that were part of a normal dairy herd were taken at five time points over the course of a year.
+Therefore examining the same animals over different seasons could capture greater ruminal bacterial diversity and offer the opportunity to examine the stability of the bacterial community under production conditions.
 
-this particular sample did not seem different with pyrosequencing analysis see below and so differences in the rumen vfa composition does not always indicate differences in the bacterial community structure.pyrosequencing of the v1-v3 region of the 16s rrna genethe digest-adherent rumen bacteria were analysed using 454 titanium pyrosequencing of the bacterial 16s rrna gene v1-v3.
+Pyrosequen- cing of the V1-V3 region of the bacterial 16S rRNA gene was used to provide higher resolution on the variation of the digesta-adherent bacterial community in individual animals and at dif- ferent sampling times.Materials and methodsAnimal handling and sample fractionationUse of the animals for rumen sampling was approved by the AgResearch Ruakura Animal Eth- ics Committee under permit number AE 11483 and was conducted in accordance with the institutional Codes of Ethical Conduct for the Use of Animals in Research Testing and Teach- ing as prescribed in the New Zealand Animal Welfare Act of 1999 and its amendments.Rumen samples from five ruminally fistulated HolsteinFriesian cows four animals at each time point that were part of a normal dairy herd were taken at five time points over the course of a year.
 
-the season-specific variation in bacterial community structure was confirmed by the fact that the rumen bacterial communities in the individual animals changed more-or-less in unison and by the close clus- tering of the two samples taken in the same season a year apart.
+This particular sample did not seem different with pyrosequencing analysis see below and so differences in the rumen VFA composition does not always indicate differences in the bacterial community structure.Pyrosequencing of the V1-V3 region of the 16S rRNA geneThe digest-adherent rumen bacteria were analysed using 454 Titanium pyrosequencing of the bacterial 16S rRNA gene V1-V3.
 
-it will be interesting to determine if this is due to changes in gene expression from within any single genotype or if different genotypes within bacterial groups dominate at different times.in conclusion the work presented here revealed the bacterial community was largely simi- lar between animals and that the small detectable differences due to the season appeared to be cyclic returning to the composition previously seen when the feed and production phase was similar.
+It will be interesting to determine if this is due to changes in gene expression from within any single genotype or if different genotypes within bacterial groups dominate at different times.In conclusion the work presented here revealed the bacterial community was largely simi- lar between animals and that the small detectable differences due to the season appeared to be cyclic returning to the composition previously seen when the feed and production phase was similar.
 
-evaluation of bacterial diversity in the rumen and feces of cattle fed different levels of dried distillers grains plus solubles using bacterial tag-encoded flx amplicon pyrosequencing.
+Evaluation of bacterial diversity in the rumen and feces of cattle fed different levels of dried distillers grains plus solubles using bacterial tag-encoded FLX amplicon pyrosequencing.
 
-research articleseasonal changes in the digesta-adherent rumen bacterial communities of dairy cattle grazing pasturesamantha j. noel123 graeme t. attwood1 jasna rakonjac2 christina d. moon1 garryc.
+The adherent bacterial community was strongly dominated by members of Firmicutes 82.1 followed by Bacteroidetes 11.8.
 
-waghorn4 peter h. janssen11 grasslands research centre agresearch limited palmerston north new zealand 2 institute of fundamental sciences massey university palmerston north new zealand 3 department of animal science aarhus university tjele denmark 4 dairynz hamilton new zealand abstractopen accesscitation noel sj attwood gt rakonjac j moon cd waghorn gc janssen ph 2017 seasonal changes in the digesta-adherent rumen bacterial communities of dairy cattle grazing pasture.
+The bacterial species that adhere to ingested feed are reported to be different from the planktonic bacteria in the rumen fluid and those associated with the rumen epithelium -.
 
-we monitored the diversity of rumen bacteria in four new zealand dairy cows grazing a rye-grass and clover pasture over five consecu- tive seasons using high throughput pyrosequencing of bacterial 16s rrna genes.
+The bacterial community com- positions appeared similar for each animal over the five samplings with only small differences in the abundance of the major groups 0.5 of the total reads and presence or absence of minor groups 0.5 of the total reads.
 
-we chose to focus on the digesta-adherent bacterial community to learn more about the stability of this community over time.
-
-16s rrna gene sequencing showed a high level of bacterial diversity totalling 1539 operational taxonomic units otus grouped at 96 sequence simi- larity across all samples and ranging from 653 to 926 otus per individual sample.
-
-sequence analysis showed that overall the bacterial communities were broadly similar between the individual animals.
-
-the adherent bacterial community was strongly dominated by members of firmicutes 82.1 followed by bacteroidetes 11.8. this community differed between the seasons returning to close to that observed in the same season one year later.
-
-these seasonal differences were only small but were statisti- cally significant p  0.001 and were probably due to the seasonal differences in the diet.these results demonstrate a general invariability of the ruminal bacterial community struc- ture in these grazing dairy cattle.introductionthe rumen is a specialised organ that allows fermentation of ingested plant material by a complex consortium of microbes including prokaryotic bacteria and archaea and eukaryotic fungi and protozoa.
-
-the bacterial species that adhere to ingested feed are reported to be different from the planktonic bacteria in the rumen fluid and those associated with the rumen epithelium -.
+PCoA revealed no clustering of samples by animal and a separation by month indicated by barely overlapping clusters.Samples taken in February and November clustered completely separately from the other The percentage of major bacterial taxa 0.5 of the total found in digesta-adherent rumen samples.aTaxa were defined to the lowest level possible using the greengenes release gg138otus database.
 

@@ -1,30 +1,20 @@
-here we review the effects of the microbiome on innate and adaptive immunological players from epithelial cells and antigen-presenting cells to innate lymphoid cells and regulatory t cells.
+Here we review the effects of the microbiome on innate and adaptive immunological players from epithelial cells and antigen-presenting cells to innate lymphoid cells and regulatory T cells.
 
-lrc bacteria colonize den- dritic cells and uniquely modulate cytokines that promote responses by local th17 cells and group 3 innate lymphoid cells ilc3.
+LRC bacteria colonize den- dritic cells and uniquely modulate cytokines that promote responses by local TH17 cells and group 3 innate lymphoid cells ILC3.
 
-under these conditions self-reactive cd4 t cells differentiate into th17 cells alongside pathogen-specific cd4 t cells and mediate intestinal inflammation.
+Under these conditions self-reactive CD4 T cells differentiate into TH17 cells alongside pathogen-specific CD4 T cells and mediate intestinal inflammation.
 
-the strategic positioning of colonocytes and stem cells within the colon mirrors the concentration gradient of butyrate colonocytes are positioned at the location of highest concentrations near the lumen where they consume butyrate thus decreasing the concentration to which distally located stem cells within the colonic crypts are exposed.
+The strategic positioning of colonocytes and stem cells within the colon mirrors the concentration gradient of butyrate colonocytes are positioned at the location of highest concentrations near the lumen where they consume butyrate thus decreasing the concentration to which distally located stem cells within the colonic crypts are exposed.
 
-in mice infection-induced apoptosis of intestinal epithelial cells trig- gers the loss of cd4 t cell tolerance to self-antigen derived from intestinal epithelial cells.
+In mice infection-induced apoptosis of intestinal epithelial cells trig- gers the loss of CD4 T cell tolerance to self-antigen derived from intestinal epithelial cells.
 
-differentiation of t follicular helper cells and plasma cells in response to intranasal immunization is promoted by the nasal microbiota of mice particularly staphylococcus sciuri via signaling by nod2 and the kinase ripk2 in cd11c phagocytes.
+Differentiation of T follicular helper cells and plasma cells in response to intranasal immunization is promoted by the nasal microbiota of mice particularly Staphylococcus sciuri via signaling by Nod2 and the kinase RIPK2 in CD11c phagocytes.
 
-we consider the properties of the microbiota that most critically affect the immune response including its biogeography metagenome and metabolome and how the microbiome modulates the host response to infection autoimmunity neuroinflammation vaccination and tumor immunotherapy.toward identification of an immune-modulatory microbiota physical and biochemical barriers anatomically segregate the micro- biota from mammalian immune cells in the intestine.
+We consider the properties of the microbiota that most critically affect the immune response including its biogeography metagenome and metabolome and how the microbiome modulates the host response to infection autoimmunity neuroinflammation vaccination and tumor immunotherapy.Toward identification of an immune-modulatory microbiota Physical and biochemical barriers anatomically segregate the micro- biota from mammalian immune cells in the intestine.
 
-jmblandermed.cornell.edu.received 11 april 2017 accepted 30 may 2017 published online 19 july 2017 on the host side of this zone lies the intestinal epithelium which comprises a single layer of intestinal epithelial cells whose frequent cycles of apoptosis and renewalmaintain cellular fitness and orches- trate intestinal immune homeostasis.the demilitarized zone is not impermeable and certain commen- sals such as segmented filamentous bacteria sfb acinetobacter spp.
+jmblandermed.cornell.edu.Received 11 April 2017 accepted 30 May 2017 published online 19 July 2017 On the host side of this zone lies the intestinal epithelium which comprises a single layer of intestinal epithelial cells whose frequent cycles of apoptosis and renewalmaintain cellular fitness and orches- trate intestinal immune homeostasis.The demilitarized zone is not impermeable and certain commen- sals such as segmented filamentous bacteria SFB Acinetobacter spp.
 
-for example the capsular polysaccharide a of the human commensal b. fragilis stimulates production of the anti-inflammatory cytokine il-10 by foxp3 regulatory cd4 t treg cells thus facilitating colonization while promoting beneficial immunosuppression in the intestine.
+For example the capsular polysaccharide A of the human commensal B. fragilis stimulates production of the anti-inflammatory cytokine IL-10 by Foxp3 regulatory CD4 T Treg cells thus facilitating colonization while promoting beneficial immunosuppression in the intestine.
 
-outer-membrane vesicles pro- duced by b. fragilis activate noncanonical autophagy involving the autophagy-related protein atg16l1 and the receptor nod2 thereby inducing treg cells and suppressing mucosal inflammation.
-
-intestinal sfb colonization induces a response by il-17-producing helper t th17 cells positive for the transcription factor rorgt thus protect- ing mice from infection with the enteric rodent pathogen citrobacter rodentium.
-
-and the human symbiont clostridium ramosum are potent inducers of colonic treg cells.
-
-human-derived adherent-invasive escherichia coli and bifidobacteria adolescentis induce both mucosal and systemic inflam- matory th17 cells.
-
-although both of these pathosymbionts reca- pitulate the close epithelial adherence that has been observed for sfbadolescentis triggers an epithelial transcriptional response distinct from that of sfb thus suggesting the potential for shared and distinct pathways in microbial induction of th17 cells.
-
-whereas cluster iv cluster xiva and cluster xviii clostridium support treg induction nearly one-quarter of the 53 species recently profiled similarly induce colonic treg cells.
+Outer-membrane vesicles pro- duced by B. fragilis activate noncanonical autophagy involving the autophagy-related protein ATG16L1 and the receptor Nod2 thereby inducing Treg cells and suppressing mucosal inflammation.
 

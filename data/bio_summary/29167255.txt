@@ -1,30 +1,20 @@
-prokaryotescomplete genome sequences of two plant-associated pseudomonas putida isolates with increased heavy-metal tolerancea barbara caniaab urska zadela anne scholera graz.yna a. plazab michael schloteraresearch unit for comparative microbiome analysis department of environmental sciences helmholtz zentrum munchen neuherberg germanya department of environmental microbiology institute for ecology of industrial areas katowice polandbabstract we report here the complete genome sequences of two pseudomonas putida isolates recovered from surface-sterilized roots of sida hermaphrodita.
+PROKARYOTESComplete Genome Sequences of Two Plant-Associated Pseudomonas putida Isolates with Increased Heavy-Metal Tolerancea Barbara Caniaab Urska Zadela Anne Scholera Graz.yna A. Plazab Michael SchloteraResearch Unit for Comparative Microbiome Analysis Department of Environmental Sciences Helmholtz Zentrum Munchen Neuherberg Germanya Department of Environmental Microbiology Institute for Ecology of Industrial Areas Katowice PolandbABSTRACT We report here the complete genome sequences of two Pseudomonas putida isolates recovered from surface-sterilized roots of Sida hermaphrodita.
 
-p. putida is also often found to be associated with plants and can actively enhance their growth and tolerance against abiotic and biotic stressors   notably elevated heavy-metalconcentrations in soil .pseudomonas putida strains namely e41 and e46 were isolated from surface- sterilized roots of sida hermaphrodita grown on the institute for ecology of industrial areas' experimental field in bytom upper silesia poland 50deg2043.0n 18deg5719.6e.
+P. putida is also often found to be associated with plants and can actively enhance their growth and tolerance against abiotic and biotic stressors   notably elevated heavy-metalconcentrations in soil .Pseudomonas putida strains namely E41 and E46 were isolated from surface- sterilized roots of Sida hermaphrodita grown on the Institute for Ecology of Industrial Areas' experimental field in Bytom Upper Silesia Poland 50deg2043.0N 18deg5719.6E.
 
-2013. analysis of the plant growth-promoting properties encoded by the genome of the rhizobacterium pseudomonas putida bird-1.
+Furthermore the strains showed typical plant growth-promoting properties such as the production of indole acetic acid cellulolytic enzymes and siderophores.he Pseudomonas putida complex is a broad group of Gammaproteobacteria including mostly isolates from environmental samples  and comprising sev- eral genomic species .
 
-.canovas d cases i de lorenzo v. 2003. heavy metal tolerance and metal homeostasis in pseudomonas putida as revealed by complete genome analysis.
+P. putida isolates are characterized by a versatile metabolism allowing them to survive in a variety of different ecological settings.
 
-furthermore the strains showed typical plant growth-promoting properties such as the production of indole acetic acid cellulolytic enzymes and siderophores.he pseudomonas putida complex is a broad group of gammaproteobacteria including mostly isolates from environmental samples  and comprising sev- eral genomic species .
+and for Pseudomo- nas putida strains E41 and E46 respectively.ACKNOWLEDGMENTSThis project has been implemented under Maria Curie-Sklodowska Actions of the Seventh Framework Programme for research technological development and demonstration of the European Union under grant agreement no.
 
-p. putida isolates are characterized by a versatile metabolism allowing them to survive in a variety of different ecological settings.
+Analysis of the plant growth-promoting properties encoded by the genome of the rhizobacterium Pseudomonas putida BIRD-1.
 
-and for pseudomo- nas putida strains e41 and e46 respectively.acknowledgmentsthis project has been implemented under maria curie-sklodowska actions of the seventh framework programme for research technological development and demonstration of the european union under grant agreement no.
+Comparative genomics and functional analysis of niche-specific adapta- tion in Pseudomonas putida.
 
-.wu x monchy s taghavi s zhu w ramos j van der lelie d. 2011. comparative genomics and functional analysis of niche-specific adapta- tion in pseudomonas putida.
+Isolation and functional characterization of siderophore-producing lead- and cadmium- resistant Pseudomonas putida KNP9.
 
-.tripathi m munot hp shouche y meyer jm goel r. 2005. isolation and functional characterization of siderophore-producing lead- and cadmium- resistant pseudomonas putida knp9.
+Key genes involved in heavy-metal resistance inPseudomonas putida CD2.
 
-2007. key genes involved in heavy-metal resistance inpseudomonas putida cd2.
-
-the obtained genome sequence has been verified for circularity using overlapping contig ends.
-
-the genomes were submitted to the ncbi prokaryotic genome annotation pipeline  on october 2017.accession numbers.
-
-2014. pilon an integrated tool for comprehensive microbial variant detection and genome assem- bly improvement.
-
-.hunt m silva nd otto td parkhill j keane ja harris sr. 2015. circlator automated circularization of genome assemblies using long sequencing reads.
-
-genome biol 16294.
+Heavy metal tolerance and metal homeostasis in Pseudomonas putida as revealed by complete genome analysis.
 

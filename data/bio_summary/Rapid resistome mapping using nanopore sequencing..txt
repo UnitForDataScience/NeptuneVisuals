@@ -1,30 +1,20 @@
-fi- nally the error corrected reads were polished using nanopo- lish  which uses the raw nanopore event data to increase the accuracy.we annotated the error corrected and polished sequenc- ing data for the presence of antibiotic resistance genes us-figure 5. histogram of the sequence identity of the 2d nanopore sequence reads of library a 12 820 reads after two rounds of error correction and polishing showing a mean sequence identity to the sanger data set of 98.0. the pacbio dataset after a single round of consensus calling using pbdagcon 3086 reads shows a mean sequence identity to the sanger dataset of 99.3.abfigure 6. a example of card genes found in the nanopore dataset that were plated on spectinomycin.
+Using the MinION read lengths larger than 100 kb study various aspects related to antibiotic resistance and infection microbiology including determining the structure and chromosomal insertion site of a bacterial antibiotic re- sistance island in Salmonella Typhi  detection of car- bapenemases and ESBL genes and their genomic location in Gram-negative pathogenic isolates  and identifi- cation of species and resistance profiles of Staphylococcus aureus and Mycobacterium tuberculosis isolates .
 
-the sequence identity between the sanger reads and the non-corrected 2d reads of nanopore library a was 85.8 supplementary figure s2 this confirms the higher error rate of the used minion reads .
+Nanopore sequencing is thus able to identify such differing contexts of antibi- otic resistance genes which can impact the probability of a pathogen to acquire specific antibiotic resistance genes .DISCUSSIONHospital settings including ICUs are hotspots for the emergence and selection for antibiotic resistant organisms.
 
-in 126 reads aada is flanked by dfra1 which confers resistance to trimethoprim and in 74 reads aada is flanked by sat-1 which confers resistance to streptothricin.
+The attC region is a repeat sequence which typically flanks a resistance cassette dfrA encodes a dihydrofolate reductase known to confer resistance against trimethoprim aadA is an aminoglycoside nucleotidyltransferase known to confer resistance to spectinomycin and ybeA also known as orfX which is a pseudocassette and present as conserved 3 fragment in class 2 integrons .ing Comprehensive Antibiotic Research Database CARD .
 
-however by using two rounds of error correction and polishing implemented by porefume the sequence identity of the nanopore reads was improved from 86.8 to 98.0 which enables accurate resistome mapping using card.nanopore reads are longer and typically capture the en- tire metagenomic insert.
+A variety of antibiotic resistance genes were detected with a mean sequence identity of 97.3 including beta lactamase genes blaCTX-M blaTEM and cblA genes cod- ing aminoglycoside modifying proteins from different sub- classes of AAC ANT and APH enzymes and diverse genes encoding ribosomal and efflux mediated resistance towards tetracycline antibiotics among others Figure and Supple- mentary Figure S3.
 
-all the244 reads contain the aada gene which encodes an amino- glycoside nucleotidyltransferase known to confer resistance to spectinomycin figure a. in 74 reads aada was flanked by sat-1 which encodes a streptothricin acetyltransferase and confers resistance to streptothricin.
+Antibiotic resistance databases such as CARD are commonly used to identify antibiotic resistance genes in metagenomic sequencing data .
 
-in 44 reads the aada was the only gene detected however in 126 reads aada was flanked by dfra1.
+Fi- nally the error corrected reads were polished using nanopo- lish  which uses the raw nanopore event data to increase the accuracy.We annotated the error corrected and polished sequenc- ing data for the presence of antibiotic resistance genes us-Figure 5.
 
-poretools  was used to extract 2d reads using the poretools fasta -type 2d command.
+Yet based on our observation 33.8 inserts had no identifiably match in CARD indicating the further potential for discoveries of novel antibiotic resistance genes from the human gut Fig- ure .To validate the nanopore sequencing results we se- quenced the same barcoded DNA using PacBio SMRT technology yielding 93.5 Mbase of DNA in 68 144 reads with 99 accuracy from two sequencing cells.
 
-next the 2d reads were analyzed using porefume.porefume nanopore sequence analysis.
+After an- notation with the CARD database we observed that the ex- act same set of 26 antibiotic resistance genes detected in the nanopore dataset were also present in the PacBio datasetFigure .
 
-first the reads are demul- tiplexed on barcode using the smith-waterman algorithmfigure 2. barcode distribution of the 24 126 2d-reads nanopore library a green and control library b 3361 2d-reads orange.
+2014 MinION nanopore sequencing identifies the position and structure of a bacterial antibiotic resistance island.
 
-second the demultiplexed reads were error corrected using the original nanocorrect protocol .
-
-briefly the raw event data is mapped to the nanocorrected sequences via bwa  and only nanocor- rected reads with a mean raw read coverage of 30 are used in the polishing step.
-
-finally only nanopolish pro- posed mutations are accepted if 85 of the reads sup- port this base.
-
-in the last step of porefume the error cor- rected and polished reads were mapped against the card database  using blastn  version 2.4.0 with the parameters max hsps 1 and max target seqs 1000. closely related genes such as blatem blactx mir and srt ie.
-
-the sanger sequencing re- sulted in 770 'forward' and 779 'reverse' sequencing reads.
-
-raw pacbio data from the flowcells was analyzed with pacbio smrtr portal version2.3.0 and reads were extracted using the rs readsofinsert protocol version 2.3.0. the rs readsofinsert protocol was run with a minimum predicted accuracy of 99 and minimum read length of insert length of 100 bp.
+The gut microbiome comprises a diverse set of antibiotic resistance genes which may impact antibiotic treatment out- comes in at least two ways .
 

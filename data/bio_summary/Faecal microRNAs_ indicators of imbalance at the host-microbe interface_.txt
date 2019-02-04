@@ -1,30 +1,20 @@
-subsequently the expression of mir-200a and mir-141 decreased at week 4 and continued to decrease at week 6. this data demonstrates that mirnas can be used as an independent non-invasive marker of microbial fluctuations along with gut pathology in the intestine.keywords microbiota microrna enteric stool hostintroductionthe gut hosts a complex and diverse population of commensal bacteria collectively known as the gut microbiota which has increasingly been implicated in host metabolism immunity nervous system function and disease backhed et al.
+This data demonstrates that miRNAs can be used as an independent non-invasive marker of microbial fluctuations along with gut pathology in the intestine.Keywords microbiota microRNA enteric stool hostIntroductionThe gut hosts a complex and diverse population of commensal bacteria collectively known as the gut microbiota which has increasingly been implicated in host metabolism immunity nervous system function and disease Backhed et al.
 
-the expression of mir-1224-5p was also lower in germ-free animals however this failed to reach statistical significance.antibiotic mediated depletion of the gut microbiota influences faecal mirna expression in diverse patternsrecognising that mirna expression in the faeces of mice was influenced by the microbiota we investigated if absence of bacteria from birth was required to see such reductions in mirna expression.
+The expression of miR-1224-5p was also lower in germ-free animals however this failed to reach statistical significance.Antibiotic mediated depletion of the gut microbiota influences faecal miRNA expression in diverse patternsRecognising that miRNA expression in the faeces of mice was influenced by the microbiota we investigated if absence of bacteria from birth was required to see such reductions in miRNA expression.
 
-2014. moreover eliminating the microbiota withtable 2. functional characterisation of faecal micrornas.table 3. correlation of faecal mirna expression with phyla relative abundance.1antibiotics at different developmental stages will have very distinct effects in the molecular architecture of the intestinal epithelium.the detection of mirnas in the faeces of rodents may offer a new method for measuring signalling events between the microbiota and the host epithelium on a temporal basis in live animals.
+Cork Ireland 2APC Microbiome Institute University College Cork Cork Ireland 3Department of Psychiatry and Neurobehavioural Science University College Cork Ireland  Received 25 January 2017  Accepted 8 September 2017c 2017 Wageningen Academic PublishersAbstractOPEN ACCESSRESEARCH ARTICLEThe enteric microbiota is characterised by a balance and composition that is unique to the host.
 
-cork ireland 2apc microbiome institute university college cork cork ireland 3department of psychiatry and neurobehavioural science university college cork ireland  received 25 january 2017  accepted 8 september 2017c 2017 wageningen academic publishersabstractopen accessresearch articlethe enteric microbiota is characterised by a balance and composition that is unique to the host.
+It is important to understand the mechanisms through which the host can maintain the composition of the gut microbiota.
 
-it is important to understand the mechanisms through which the host can maintain the composition of the gut microbiota.
+Recent findings suggest that miRNA produced by the host's intestinal epithelial cells IECs participate in shaping the microbiota.
 
-recent findings suggest that mirna produced by the host's intestinal epithelial cells iecs participate in shaping the microbiota.
+To investigate whether miRNA expression was influenced by the gut microbiota we measured the expression of miRNAs expressed by intestinal epithelial cells in faeces.
 
-to investigate whether mirna expression was influenced by the gut microbiota we measured the expression of mirnas expressed by intestinal epithelial cells in faeces.
+Specifically we measured miRNA expression in faeces from germ-free GF and conventional mice and similarly in a rat model of antibiotic-mediated depletion of the gut microbiota control rats.
 
-specifically we measured mirna expression in faeces from germ-free gf and conventional mice and similarly in a rat model of antibiotic-mediated depletion of the gut microbiota control rats.
+Following antibiotic-mediated depletion of gut microbiota rats showed two divergent profiles of miRNA expression.
 
-following antibiotic-mediated depletion of gut microbiota rats showed two divergent profiles of mirna expression.
+During the first year of life the microbiota has a maternal signature however it evolves fairly quickly and reaches adult- like complexity after 1-3 years Grenham et al.
 
-during the first year of life the microbiota has a maternal signature however it evolves fairly quickly and reaches adult- like complexity after 1-3 years grenham et al.
-
-2007. numerous factors have been shown to influence gut microbiota composition includingdiet disease and host age and genetics claesson et al.
-
-2012 wu and hui 2011. the composition of the microbiota seems to maintain a personal 'signature' which may be transiently altered by antibiotics infection and diseases forsythe et al.
-
-2010. thus despite a significant interpersonal and inter-special variation the enteric microbiota seems to be characterised by a balance and composition that is unique and beneficial to the individual host and disruption of this balance causes disease susceptibility diaz heijtz et al.
-
-2011. to this extent it is important to characterise the biological mechanisms through which the host can maintain the composition of the gut microbiota and how this relationship is affected during pathological states.issn 1876-2883 print issn 1876-2891 online doi 10.3920bm2017.0013175micrornas mirnas are small non-coding rnas synthesised in the nucleus and functional in the cytoplasm where they are involved in regulating transcription bartel 2004. bacteria express non-coding rnas but they differ from mirna in size 50-500 nucleotides in length and structure including the number of stem-loops viegas and arraiano 2008. the oral pathogen streptococcus sanguinis was recently shown to release a number of small rnas in micro vesicles suggested to be involved in bacteria-to bacteria communication and in addition bacteria-to-host communication choi et al.
-
-it has recently been shown that the microbiota regulates gene expression in the colon of mice dalmasso et al.
+Numerous factors have been shown to influence gut microbiota composition includingdiet disease and host age and genetics Claesson et al.
 

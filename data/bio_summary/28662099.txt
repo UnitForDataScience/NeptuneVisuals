@@ -1,30 +1,20 @@
-in this approach while the biological delivery vehicle is not confined to tumours tnfa production is restricted via physically targeted radiation induction of the egr-1 promoter to express the tnfa transgene.bacteria represent another class of cancer gene therapy vector that have an established safety profile and track record of facilitating protein production within tumours  .
+ELISA analysis of tumour homogenates demonstrated significantly higher TNFa levels within tumours of MG-TNFa treated mice compared with controls mice i.v.
 
-in vitro cytotoxicity assays with the various cell lines in the presence of tnfa indicated signifi- cant sensitivity to tnfa with all cell lines examined ed50 ct26-37 ngml renca 50 ngml tramp 64 ngml .in order to qualitatively assess tumour targeting and proliferation of mg-tnfa bacteria were administered to balbc mice bearing ct26 tumours i.v.
+Immune competent syngeneic mice were utilised for all studies and downstream local pro-inflammatory effects were apparent following treatment as evidenced byIntravenous administration of MG-Tnfa to tumour bearing mice.
 
-elisa analysis of tumour homogenates demonstrated significantly higher tnfa levels within tumours of mg-tnfa treated mice compared with controls mice i.v.
+These findings in immune-competent syngeneic BalbC mice contrast with our previous observations in immune-reduced athymic mice MF1nunu where we observed no increase in pro-inflammatory cytokines following IV administration of MG1655 .
 
-in the tramp prostatic tumour model tumour growth was signifi- cantly reduced in mg-tnfa treated mice versus controls p  0.05 p  0.01 but apparent increase in median survival was not significant compared with mg-empty p  0.05. median survival of mice bearing ct26 tumours treated with mg- tnfa was significantly increased vs. mg-empty p  0.049 although the apparent reduction in tumour volume was not significant vs. controls p 0.05. significant reduction in tumour volume was observed at certain time- points in the renca renal tumour model p  0.01 with no significant increase in survival p  0.05 in this rapid growing model.
+A pattern of pro- inflammatory cytokine induction was observed in tumours of treated mice vs. controls.
 
-persistent bioluminescence signal was observed for 9 days indicat- ing bacterial survival and growth in tumours .engineered e. coli facilitates tnfa production within tumoursa tnfa -expressing mg was designed and generated as described in materials  methods and .
+Health status of all mice was monitored daily for the duration of experiments.
 
-mg was administered to balbc mice bearing renca tumours i.t or ct26 tumours i.v.
+To minimize suffering or distress during invasive procedures imaging and bacterial injection mice were anaesthetised with isoflourane 2.5 mixture with oxygen.Animals and tumour inductionMice were kept at a constant room temperature 22 C with a natural daynight light cycle in a conventional animal colony.
 
-a pattern of pro-inflammatory cytokine induc- tion was observed in tumours of mg-tnfa treated mice vs. controls .in vivo therapy of prostate colon and renal carcinomamice bearing subcutaneous flank tumours trampc1 ct26 and renca were administered pbs mg-empty or mg-tnfa i.t tramp renca or i.v.
+Before experiments the mice were afforded an adaptation period of at least 7 days.
 
-mice remained healthy throughout experiments as evi- denced by a disease activity index   which was constructed by frequent monitor- ing of behaviour and appearance.discussionto our knowledge this is the first in vivo study that demonstrates tnfa delivery by bacteria to experimental murine tumours.
+Male C57Bl TRAMPC1 model and female BalbC RENCA and CT26 models mice in good condition without fungal or other infections weighing 16-22 g and of 6-8 weeks of age were included in experiments Harlan Oxfordshire UK.
 
-balbc mice bearing s.c. ct26 flank tumours n  6 received 106 cfu ofmg-tnfa i.v.. growth of bacteria in tumours was analysed by a bli and b immunofluorescence if while c plating of tumour extracts on agar plates quantified viable bacteria.
+When tumours reached approximately 100 mm3 in volume mice were randomly divided into experimental groups.In vivo bacterial administrationInocula were prepared by growing MG-Empty and MG-TNFa with or without the integrated p16Slux aerobically in 100 mL LB broth containing either 50 mgmL Kan MG1655 or 50 mg mL  300 mgmL Em MG1655p16Slux.
 
-mice n  6 bearing ct26 tumours were injected with 106 bacteria to the lateral tail vein and all mice monitored at each time point over the course of time right.
-
-research articleintratumoural production of tnfa by bacteria mediates cancer therapycarola murphy1 elizabeth rettedal1 panos lehouritis1 ciara'n devoy12 mark tangney1231 cork cancer research centre university college cork cork ireland 2 synbiocentre university college cork cork ireland 3 apc microbiome institute university college cork cork ireland abstractsystemic administration of the highly potent anticancer therapeutic tumour necrosis factor alpha tnfa induces high levels of toxicity and is responsible for serious side effects.
-
-bacteria have a natural capacity to grow within tumours and deliver therapeuticopen accesscitation murphy c rettedal e lehouritis p devoy c tangney m 2017 intratumoural production of tnfa by bacteria mediates cancer therapy.
-
-the non-pathogenic e. coli strain mg1655 was investi- gated as a tumour targeting system in order to produce tnfa specifically within murine tumours.
-
-tnfa was identified in 1975 when it was discovered that a sub- stance from the sera of animals that were challenged with bcg and endotoxin could kill mouse cells in vitro and induce haemorrhagic necrosis of transplantable mouse tumours in vivo .
-
-the pri- mary factors believed to be responsible for tumour-selective survival and replication involve tissue traits unique to tumours irregular leaky vasculature permits bacterial entry to tissue local immune suppression allows the bacteria to 'hide' from the immune system tumour cell necrosis provides a rich nutrient supply and anaerobicfacultative-anaerobic bacteria grow well in the hypoxic tissue unique to tumours.
+Following whole-body imaging the mice were euthanized via cervical dislo- cation and the subcutaneous tumours were aseptically removed and imaged.
 

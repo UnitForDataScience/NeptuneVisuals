@@ -1,30 +1,20 @@
-borrelia species were present in 70 of i. scapularis samples all of which were adult ticks with a median relative abundance of 0.01 range 0-0.08. rickettsia species were present in 60 of samples again all of which were adults with a median relative abun- dance of 0.02 range 0-0.07. no anaplasma francisella or cox- iella were detected.dermacentor variabilis had 9 dominant families with the most abundant families of an unclassified clostridiales ruminococcaceae and planococcaceae.
+Data was projected in QGIS 2.18.2 with base layers accessed through the Scholar's Geoportal at the University of Guelph.. For interpretation of the references to color in this figure legend the reader is referred to the web version of this article.internal physiological processes  .We conducted an exploratory study of the microbiota of two tick species of public health interest in Ontario I. scapularis and D. variabilis and compared the characteristics of the microbial communities be- tween species sex life stage and geographic location.MethodsField samplingAdult male and female and nymphal I. scapularis and D. variabilis ticks were collected from two geographic areas during the spring and summer of 2014 the first location was in eastern Ontario around Murphy's Point Provincial Park and the other was in southern Ontario around Turkey Point Provincial Park .
 
-in contrast fle which is thought to be a primary symbiont of d. variabilis and was found by in 100 of samples was observed in only 44 of our tick samples.
+Our study provides pre- liminary descriptive data on the microbiota of the two most commonSample descriptions based on species sexlife stage location of collection and number of ticks.human-associated ticks in the province of Ontario I. scapularis and D. variabilis .Families Planococcaceae Moraxelleceae and Xanthomonadeceae and genera Persicirhabdus were observed in both I. scapularis and D. variabilis at a high median relative abundance i.e.
 
-lindsay n.h. ogden and p. michel all with the public health agency of canada for their helpful comments on the manu- script.appendix a. dominant families and genera.table a1dominant median relative abundance  1 families and genera of i. scapularis samples n  10.table a2dominant median relative abundance  1 families and genera of d. variabilis samples n  9.appendix b. measures of alpha and beta diversity.table b1alpha diversity measures by species location life stage and sex.table b2the top ten bacterial genera shown to be enriched between species location and life stagesex comparisons based on linear discriminant analysis effect size lefse.references .
+Dominant families and genera.Table A1Dominant median relative abundance  1 families and genera of I. scapularis samples n  10.Table A2Dominant median relative abundance  1 families and genera of D. variabilis samples n  9.Appendix B.
 
-75 in 100 of samples were only detected in 60 of i. scapularis samples at a low median relative abundance .
+For I. scapularis there were 246 families and 773 genera while for D. variabilis 251 families and 766 genera were identified.The most abundant families in I. scapularis were an unclassified Clostridiales Ruminococcaceae and an unclassified Bacteria.
 
-to examine the microbiota of these two species we collected adult and nymphal i. scapularis and d. variabilis from the eastern and southern regions of the province via tick dragging and conducted next generation sequencing of 19 samples composed of 45 ticks via illumina miseq.
+The four I. scapularis samples from Ontario had high relative abundance of Pseudomonadaceae and Enterobacteriaceae which is similar to our study while the I. scapularis from Nova Scotia were dominated by the Rickettsiaceae .
 
-ticks were categorized based on species d. variabilis or i. scapularis location east or south sex male or female and life stage adult or nymph.dna extractionall tick samples were rinsed in 70 ethanol followed by sterile distilled water.
+To examine the microbiota of these two species we collected adult and nymphal I. scapularis and D. variabilis from the eastern and southern regions of the province via tick dragging and conducted next generation sequencing of 19 samples composed of 45 ticks via Illumina MiSeq.
 
-this data analysis was completed in mothur and visualized using the galaxywebserver .resultsin total 19 samples 11 single 8 pooled which represented 36 i. scapularis and 9 d. variabilis ticks were processed .
+Ticks were categorized based on species D. variabilis or I. scapularis location east or south sex male or female and life stage adult or nymph.DNA extractionAll tick samples were rinsed in 70 ethanol followed by sterile distilled water.
 
-2. the median relative abundance of microbial genera in i. scapularis and d. variabilis samples.
+This data analysis was completed in mothur and visualized using the Galaxywebserver .ResultsIn total 19 samples 11 single 8 pooled which represented 36 I. scapularis and 9 D. variabilis ticks were processed .
 
-samples are categorized by species is  i. scapularis dv  d. variabilis lifestage m  adult male f  adult female ny  nymph and location of collection e  eastern ontario s  southern ontario.fig.
+The median relative abundance of microbial genera in I. scapularis and D. variabilis samples.
 
-samples are categorized by species is  i. scapularis dv  d. variabilis life stage m  adult male f  adult female ny  nymph and location of collection e  eastern ontario s  southern ontario.increase if there is some degradation of the ticks during storage and this cannot be ruled out given the timeframe between sample collection and processing.several of the other dominant taxa are likely associated with the digestive system of the tick.
-
-for d. variabilis it is unlikely that any pathogenic organisms were present.rickettsia were detected in two samples 22 and these most likely constitute non-pathogenic com- mensals.
-
-examined 778 d. variabilis samples in ontario and detected low levels of r. montanensis and r. peacockii and these species are not associated with human disease   .previous studies examining the microbiota of i. scapularis have consistently identified rickettsia as well as ralstonia wolbachia bacillus and lactobacillus .
-
-additionally ralstonia was present in only 40 of samples and no wolbachia were observed.differences were also identified in the microbial community of d. variabilis when compared to previous studies.
-
-data was projected in qgis 2.18.2 with base layers accessed through the scholar's geoportal at the university of guelph.. for interpretation of the references to color in this figure legend the reader is referred to the web version of this article.internal physiological processes  .we conducted an exploratory study of the microbiota of two tick species of public health interest in ontario i. scapularis and d. variabilis and compared the characteristics of the microbial communities be- tween species sex life stage and geographic location.methodsfield samplingadult male and female and nymphal i. scapularis and d. variabilis ticks were collected from two geographic areas during the spring and summer of 2014 the first location was in eastern ontario around murphy's point provincial park and the other was in southern ontario around turkey point provincial park .
-
-our study provides pre- liminary descriptive data on the microbiota of the two most commonsample descriptions based on species sexlife stage location of collection and number of ticks.human-associated ticks in the province of ontario i. scapularis and d. variabilis .families planococcaceae moraxelleceae and xanthomonadeceae and genera persicirhabdus were observed in both i. scapularis and d. variabilis at a high median relative abundance i.e.
+examined 778 D. variabilis samples in Ontario and detected low levels of R. montanensis and R. peacockii and these species are not associated with human disease   .Previous studies examining the microbiota of I. scapularis have consistently identified Rickettsia as well as Ralstonia Wolbachia Bacillus and Lactobacillus .
 

@@ -1,30 +1,20 @@
-dysregulation of foxp3 treg cells hyperactivation of effector t cells in- creased circulating memory t cells and lymphocytic infil- tration of target organs were evidenced.
+Gut 64121889-1897Schubert D Bode C Kenefeck R Hou TZ Wing JB Kennedy A Bulashevska A Petersen BS Schaffer AA Gruning BA Unger S Frede N Baumann U Witte T Schmidt RE Dueckers G Niehues T Seneviratne S Kanariou M Speckmann C Ehl S Rensing-EhlA Warnatz K Rakhmanov M Thimme R Hasselblatt P Emmerich F Cathomen T Backofen R Fisch P Seidl M May A Schmitt- Graeff A Ikemizu S Salzer U Franke A Sakaguchi S Walker LS Sansom DM Grimbacher B 2014 Autosomal dominant immune dysregulation syndrome in humans with CTLA4 mutations.
 
-ctla-4 haploinsufficiency also causes progressive loss of circulat- ing b cells associated with an increase of predominantly autoreactive cd21lo b cells and accumulation of b cells in non-lymphoid organs.
+J Crohns Colitis 104395-401Robert C Schachter J Long GV Arance A Grob JJ Mortier L Daud A Carlino MS McNeil C Lotem M Larkin J Lorigan P Neyns B Blank CU Hamid O Mateus C Shapira-Frommer R Kosh M Zhou H Ibrahim N Ebbinghaus S Ribas A 2015 Keynote-006 investigators.
 
-it also needs binding of cd80 and cd86 ligands on the antigen-presenting cells with cd28 co-stimulatory receptor on the t cells  .
+Curr Gastroenterol Rep 66482-487Calderon-Gomez E Bassolas-Molina H Mora-Buch R Dotti I Planell N Esteller M Gallego M Marti M Garcia-Martin C Martinez-Torro C Ordas I Singh S Panes J Benitez-Ribas D Salas A 2016 Commensal-specific CD4 cells from patients with Crohn's disease have a T-helper 17 inflammatory profile.
 
-anti-ctla- 4 mabs reactivate t cells that are primed in lymphoid organs regardless of the antigen specificity and therefore affect amuch wider repertoire of t cells than those involved in the anti-cancer response  .
+N Engl J Med 372262521-2532Larkin J Chiarion-Sileni V Gonzalez R Grob JJ Cowey CL Lao CD Schadendorf D Dummer R Smylie M Rutkowski P Ferrucci PF Hill A Wagstaff J Carlino MS Haanen JB Maio M Marquez- Rodas I McArthur GA Ascierto PA Long GV Callahan MK Postow MA Grossmann K Sznol M Dreno B Bastholt L Yang A Rollin LM Horak C Hodi FS Wolchok JD 2015 Combined nivolumab and ipilimumab or monotherapy in untreated melanoma.
 
-it is therefore not surprising that ipilimumab induces immune-related adverse events enteroco- litis is one of the most frequent of them.the role of ctla-4 in intestinal homeostasisctla-4 is upregulated on naive t cells upon activation but it is also expressed in a high proportion of treg cells which play an important role in intestinal homeostasis.
+N Engl J Med 373123-34Boutros C Tarhini A Routier E Lambotte O Ladurie FL Carbonnel F Izzeddine H Marabelle A Champiat S Berdelou A Lanoy E Texier M Libenciuc C Eggermont AM Soria JC Mateus C Robert C 2016 Safety profiles of anti-CTLA-4 and anti-PD-1 antibodies alone and in combination.
 
-j exp med 19571-84cong y brandwein sl mccabe rp lazenby a birkenmeier eh et al 1998 cd4 t cells reactive to enteric bacterial antigens in spontaneously colitic c3hhejbir mice increased t helper cell type 1 response and ability to transfer disease.
+Proc Natl Acad Sci U S A 112196140-6145Selby MJ Engelhardt JJ Quigley M Henning KA Chen T Srinivasan M Korman AJ 2013 Anti-CTLA-4 antibodies of IgG2a isotype enhance antitumor activity through reduction of intratumoral regulatory T cells.
 
-anti-ctla-4 mabs might also induce the depletion of treg cells which express ctla-4.
+Nature 4787368250-254Zeissig S Petersen BS Tomczak M Melum E Huc-Claustre E Dougan SK Laerdahl JK Stade B Forster M Schreiber S Weir D Leichtner AM Franke A Blumberg RS 2015 Early-onset Crohn's disease and autoimmunity associated with a variant in CTLA-4.
 
-these cells are susceptible to antibody-dependent cell-medi- ated cytotoxicity after binding of anti-ctla-4 antibody to the cd16-expressing monocytes and macrophages -.
+Ann Oncol 2591750-1755Sangro B Gomez-Martin C De la Mata M et al 2013 A clinical trial of CTLA-4 blockade with tremelimumab in patients with he- patocellular carcinoma and chronic hepatitis C. J Hepatol 59181- 88Weber JS Kahler KC Hauschild A 2012 Management of immune-related adverse events and kinetics of response with ipilimumab.
 
-in an experimental colitis model based upon t cell transfers antibodies to ctla-4 induced colitis by targeting treg cells and disrupting their activ- ity thereby abolishing their immunomodulatory role .
+Proc Natl Acad Sci U S A 10084712-4717Hodi FS Butler M Oble DA et al 2008 Immunologic and clinical effects of antibody blockade of cytotoxic T lymphocyte-associated antigen 4 in previously vaccinated cancer patients.
 
-this effect was due to the blockade of the interaction between ctla-4 and its ligand not by depletion of ctla-4 treg cells .
-
-the same group showed that the role of ctla-4 is critical for the accumulation of foxp3 treg cells in the lamina propria of the intestines but not in the spleen and the lymph nodes .
-
-these cells are generated locally from cd4 foxp3-precursors that express tcrs spe- cific for microbiota-derived antigens .recently three independent groups have reported pa- tients with germline heterozygous mutations of ctla-4 called ctla-4 haploinsufficiency with autoimmunity -.
-
-about half of the patients have chronic mild patchy inflammation of the stomach and the duodenum crypt distortion focal and heterogeneous villus shortening in- creased eosinophils and mononuclear inflammatory cells in the lamina propria.
-
-t cells dis- tinguish between self and non-self during thymic develop- ment but are also educated in the gut to tolerate the non-self antigens derived from the commensal microbiota.
-
-in many animal models of ibd germ-free mice do not develop colitis  and t cells specific for commensal bacteria induce intestinal inflamma- tion  .
+Proc Natl Acad Sci U S A 10583005-3010Yang JC Hughes M Kammula U et al 2007 Ipilimumab anti- CTLA4 antibody causes regression of metastatic renal cell cancer associated with enteritis and hypophysitis.
 

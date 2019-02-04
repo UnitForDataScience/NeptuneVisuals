@@ -1,30 +1,20 @@
-a histopathology scoring of distal colon tissue samples obtained from 6 and 18-week wt and mdr1a22 mice n 14 11-16. b principal component analysis plot of fingerprinting data of fecal and mucus-associated microbiota from wt and mdr1a22 mice n 7-8group showing differential clustering of mucus microbiota from wt and mdr1a22 mice but no clear clustering in stool bacteria permanova p  0.05 for mucus and nonsignificant for stool.
+Expression of IFN-g was absent in WT and mdr1a22 mice at 6 weeks and in 18-week-old WT mice however its levels were increased in the subset of mdr1a22 mice at 18 weeks of age that also showed indication of histological inflammation see Fig.
 
-to further characterize whether there were molecular indicators of inflammation detectable before onset of histological inflammation we performed qpcr for the inflammatory cytokine ifn-g. expression of ifn-g was absent in wt and mdr1a22 mice at 6 weeks and in 18-week-old wt mice however its levels were increased in the subset of mdr1a22 mice at 18 weeks of age that also showed indication of histological inflammation see fig.
+B Principal component analysis plot of fingerprinting data of fecal and mucus-associated microbiota from WT and mdr1a22 mice n 7-8group showing differential clustering of mucus microbiota from WT and mdr1a22 mice but no clear clustering in stool bacteria PERMANOVA P  0.05 for mucus and nonsignificant for stool.
 
-nonmetric multidimensional scaling analysis of these data using bray-curtis distances also revealed separation of mucus microbial communities between control and mdr1a22 mice permanova r2 14 0.293 p 14 0.015 for mucus and r2 14 0.192 p 14 0.021 for stools no difference in group variance.the abundance of gram-positive bacteria was much higher only in mdr1a22 mice compared with the levels of gram- negative bacteria in the mucus at 18 weeks fig.
+Nonmetric multidimensional scaling analysis of these data using Bray-Curtis distances also revealed separation of mucus microbial communities between control and mdr1a22 mice PERMANOVA R2 14 0.293 P 14 0.015 for mucus and R2 14 0.192 P 14 0.021 for stools no difference in group variance.The abundance of Gram-positive bacteria was much higher only in mdr1a22 mice compared with the levels of Gram- negative bacteria in the mucus at 18 weeks Fig.
 
-thus there was an association between mdr1a22 mice that presented with a higher colitis score and elevated levels of gram-negative bacteria.overall 18-week-old mdr1a22 mice harbored similar numbers of mucus and stool bacteria fig.
+Thus there was an association between mdr1a22 mice that presented with a higher colitis score and elevated levels of Gram-negative bacteria.Overall 18-week-old mdr1a22 mice harbored similar numbers of mucus and stool bacteria Fig.
 
-although clostridiales were similar in stool samples from wt and 18-week-old mdr1a22 mice in agreement with our sequencing data there was a significant increase p 14 0.0312 in clostridiales in older mdr1a22 mice see fig.
+Although Clostridiales were similar in stool samples from WT and 18-week-old mdr1a22 mice in agreement with our sequencing data there was a significant increase P 14 0.0312 in Clostridiales in older mdr1a22 mice see Fig.
 
-a principal component analysis plot of stool and mucus samples based on fingerprinting data at 18 weeks of age from wt and mdr1a22 mice n 14 7-8group showing diversification of both mucus and stool microbial communities between wt and mdr1a22 mice permanova r2 0.293 p 0.015 for mucus and r2 0.192 p0.021 for stools.
+A Principal component analysis plot of stool and mucus samples based on fingerprinting data at 18 weeks of age from WT and mdr1a22 mice n 14 7-8group showing diversification of both mucus and stool microbial communities between WT and mdr1a22 mice PERMANOVA R2 0.293 P 0.015 for mucus and R2 0.192 P0.021 for stools.
 
-d and e significant community shifts were associated with progression to inflammation in mdr1a22 mice compared with healthy wt and disease-free mdr1a22 mice.
+D and E Significant community shifts were associated with progression to inflammation in mdr1a22 mice compared with healthy WT and disease-free mdr1a22 mice.
 
-b scoring of bacterial location in distal colon tissue samples derived from 6-and c 18-week-old wt and mdr1a22 mice n 14 8-10. d thickness of the inner mucus layer in wt and mdr1a22 mice at 6 weeks and e 18 weeks.
+A Principal component analysis plot of stool and mucus samples based on fingerprinting data from WT and mdr1a22 mice at 18 weeks n 4-6group showing differential clustering of stool microbial communities in mdr1a22 animals with no inflammation compared with age-matched mdr1a22 with inflammation.
 
-a principal component analysis plot of stool and mucus samples based on fingerprinting data from wt and mdr1a22 mice at 18 weeks n 4-6group showing differential clustering of stool microbial communities in mdr1a22 animals with no inflammation compared with age-matched mdr1a22 with inflammation.
+Our objective was to investigate both temporal and spatial changes in colonic microbiota communities preceding the onset of colitis.Methods We studied mucus and stool microbiota using a spontaneous model of colitis the mdr1a22 mouse and their respective wild-type littermate controls in a time series mode.Results Using this approach we have shown that microbial dysbiosis was evident in the mucus but not stools with reduced abundance of Clostridiales evident in the mucus but not stools of colitis-prone mice mdr1a22- mice 12 weeks before the onset of detectable inflammation.
 
-our objective was to investigate both temporal and spatial changes in colonic microbiota communities preceding the onset of colitis.methods we studied mucus and stool microbiota using a spontaneous model of colitis the mdr1a22 mouse and their respective wild-type littermate controls in a time series mode.results using this approach we have shown that microbial dysbiosis was evident in the mucus but not stools with reduced abundance of clostridiales evident in the mucus but not stools of colitis-prone mice mdr1a22- mice 12 weeks before the onset of detectable inflammation.
-
-s1a supplemental digital content 1 mdr1a22 mice had similar crypt length muscle wall thickness and goblet cell numbers relative to their wt counterparts at both time points with the exception of those 18-week-old mice with indications of colitis see figs.
-
-in contrast the relative abundance of clostridiales in the mucus tended to be reduced in the mdr1a22 mice at 6 weeks of age compared with age-matched wt mice see fig.
-
-s2d sup- plemental digital content 1 mdr1a22 mice that exhibited severe inflammation had a dis- tinctive microbial profile compared with healthy age-matched knockout mice fig.
-
-s4d and s5 supplemental digital content 1 there was evidence that the microbial profiles of the mucusand stools were more similar to each other in mice showing overt inflammation than those with little or no inflammation.to gain insight into the effect of mdr1a gene deficiency into driving inflammation we looked at the microbial composi- tion in wt and mdr1a22 mice.
-
-recent findings indicate that bacteria themselves can influence mucus barrier properties50 and because mucus bacterial composition is altered in mdr1a22 mice before disease and before the mucus barrier properties are lost it may contribute to that impaired mucus barrier and subsequently to inflammatory pathology.the shift in microbial community composition that was initially identified in the mucus of colitis-prone mice progresses to stools over time concurrently with the development of inflam- mation.
+In contrast the relative abundance of Clostridiales in the mucus tended to be reduced in the mdr1a22 mice at 6 weeks of age compared with age-matched WT mice see Fig.
 

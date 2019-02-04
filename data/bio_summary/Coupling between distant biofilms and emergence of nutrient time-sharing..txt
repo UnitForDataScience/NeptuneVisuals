@@ -1,30 +1,20 @@
-we investigated whether two bacterial biofilm communities can coordinate their growth dynamics to engage in time-sharing and resolve competition for limited resources.we studied bacillus subtilis biofilm communities that engage in collective growth-rate oscillations in response to glutamate starvation 5. oscillations are driven by a spatially extended negative feedback loop where growth of the biofilm results in glutamate stress within the interior and this stress in turn interferes with biofilm growth fig.
+We investigated whether two bacterial biofilm communities can coordinate their growth dynamics to engage in time-sharing and resolve competition for limited resources.We studied Bacillus subtilis biofilm communities that engage in collective growth-rate oscillations in response to glutamate starvation 5.
 
-the biofilms were also assumed to communicate through known electrical signaling during periods of metabolic stress which can also couple their growth dynamics 5 15.furthermore we assumed that communication increases with the concentration of glutamate in the medium because the activity of the potassium ion channel underlying electrical signaling is regulated by glutamate availability 15. with these assumptions the mathematical model could predict synchronization between two biofilms as a function of glutamate concentration and communication strength.liu et al.page 3the model additionally predicted antiphase oscillations at lower glutamate concentrations in the medium as a result of enhanced competition fig.
+Oscillations are driven by a spatially extended negative feedback loop where growth of the biofilm results in glutamate stress within the interior and this stress in turn interferes with biofilm growth Fig.
 
-in contrast to the case for a single biofilm two biofilms growing at lower glutamate concentrations had a faster average growth rate than two biofilms growing at higher glutamate concentrations fig.
+B Model prediction and C experimental validation of the average growth rate for a single biofilm gray line and for a biofilm pair black line at different glutamate concentrations.
 
-b model prediction and c experimental validation of the average growth rate for a single biofilm gray line and for a biofilm pair black line at different glutamate concentrations.
+In contrast to the case for a single biofilm two biofilms growing at lower glutamate concentrations had a faster average growth rate than two biofilms growing at higher glutamate concentrations Fig.
 
-for each strain the biofilm pairs showed in-phase phase difference of 0 oscillations at high glutamate glu concentrations and antiphase phase difference of p oscillations at low glutamate concentrations.
+For each strain the biofilm pairs showed in-phase phase difference of 0 oscillations at high glutamate glu concentrations and antiphase phase difference of p oscillations at low glutamate concentrations.
 
-our mathematical model indeed predicted greater biofilm growth when glutamate concentrations were reduced by 25 fig.
+Whereas a complete deletion of the YugO ion channel interferes with biofilm formation 15 25 the truncated version lacking the TrkA gating domain simply decreases the transmission efficiency of electrical signaling without abolishing it completely 15.Such reduced communication within a biofilm may also reduce synchronization between two biofilms.
 
-we also verified that the growth rate of a single biofilm is slower at reduced concentrations of glutamate fig.
+D Growth-rate oscillation measured by the expansion speed of biofilm edges shown in C. E Membrane-potential oscillation measured from the mean ThT fluorescence at biofilm edges shown in C.Fig.
 
-s1 5. coordination of these growth-rate oscillations within a biofilm are facilitated by potassium ion channel-mediated electrical cell-to-cell signaling 15. because these long- range electrical signals have been shown to extend beyond the biofilm 16 we hypothesized that neighboring biofilms could potentially affect each other's growth rates.
+In each panel the filmstrip shows the membrane-potential oscillation of a representative biofilm pair scale bars 50 mm with corresponding time traces color-coded by biofilm.
 
-whereas a complete deletion of the yugo ion channel interferes with biofilm formation 15 25 the truncated version lacking the trka gating domain simply decreases the transmission efficiency of electrical signaling without abolishing it completely 15.such reduced communication within a biofilm may also reduce synchronization between two biofilms.
+We explicitly modeled competition for glutamate which is used as a nitrogen source in the medium and is required for biofilm growth.
 
-d growth-rate oscillation measured by the expansion speed of biofilm edges shown in c. e membrane-potential oscillation measured from the mean tht fluorescence at biofilm edges shown in c.fig.
-
-in each panel the filmstrip shows the membrane-potential oscillation of a representative biofilm pair scale bars 50 mm with corresponding time traces color-coded by biofilm.
-
-d biofilm growth rate is determined by the phase difference between biofilm pairs.
-
-we explicitly modeled competition for glutamate which is used as a nitrogen source in the medium and is required for biofilm growth.
-
-counterintuitively biofilm growth would thus increase when nutrient supply is low because a reduction in the concentration of glutamate promotes the transition to time-sharing.
-
-3b and supplementary text.we experimentally tested the prediction that reduced concentrations of glutamate would improve biofilm growth through time-sharing.
+Counterintuitively biofilm growth would thus increase when nutrient supply is low because a reduction in the concentration of glutamate promotes the transition to time-sharing.
 

@@ -1,30 +1,20 @@
-however recent findings suggest a novel tumor protective role for ltb4blt1 mediated host response in crc.our recent work with apcmin mice in the context of blt1-- 5-lo-- myd88-- and blt1-- myd88-- mice led to several im- portant observations .
+However recent findings suggest a novel tumor protective role for LTB4BLT1 mediated host response in CRC.Our recent work with ApcMin mice in the context of BLT1-- 5-LO-- MyD88-- and BLT1-- MyD88-- mice led to several im- portant observations .
 
-most importantly deletion of blt1 in the myd88-- mice resulted in neonatal lethality of the mice further supporting the role of blt1 in host-response.
+Most importantly deletion of BLT1 in the MyD88-- mice resulted in neonatal lethality of the mice further supporting the role of BLT1 in host-response.
 
-fecal microbiota analysis showed that blt1--apcmin mice harbor distinct microbial com- position with increased levels of akkermansia muciniphila compared to apcmin mice.
+Fecal microbiota analysis showed that BLT1--ApcMin mice harbor distinct microbial com- position with increased levels of Akkermansia muciniphila compared to ApcMin mice.
 
-interestingly small intestinal tumors are unaltered in germ-free blt1--apcmin mice suggesting microbiota independent tumor promoting mechanisms operate in the small intestines of these mice.
+Interestingly small intestinal tumors are unaltered in germ-free BLT1--ApcMin mice suggesting microbiota independent tumor promoting mechanisms operate in the small intestines of these mice.
 
-in all these tumor models implantation of cancer cells s.c. in blt1-- mice significantly increased tumor size and decreased the survival compared to wt mice.
+In all these tumor models implantation of cancer cells s.c. in BLT1-- mice significantly increased tumor size and decreased the survival compared to WT mice.
 
-in contrast in a gm-csf gene transduced leu- kemia model blt1-- mice showed similar or better primary and recall immune responses that were attributed to a reduced mdscpopulation in the tumors of blt1-- mice and robust cd4 dependent antitumor responses.
+In contrast in a GM-CSF gene transduced leu- kemia model BLT1-- mice showed similar or better primary and recall immune responses that were attributed to a reduced MDSCpopulation in the tumors of BLT1-- mice and robust CD4 dependent antitumor responses.
 
-interestingly the blt1--cxcr3-- double knockout mice did not display further enhance-ment in tumor growth or decrease survival compared to either of the single knockout mice .
+Interestingly the BLT1--CXCR3-- double knockout mice did not display further enhance-ment in tumor growth or decrease survival compared to either of the single knockout mice .
 
-an important development in this area is the generation of mice that are deficient in leukotriene biosynthesis or leukotriene receptors as well as transgenic animals expressing specific receptors.
+An important development in this area is the generation of mice that are deficient in leukotriene biosynthesis or leukotriene receptors as well as transgenic animals expressing specific receptors.
 
-several independent lines of blt1 andor blt2 deficient mice as well as a transgenic over expressing blt1 were generated in different laboratories .
+Several independent lines of BLT1 andor BLT2 deficient mice as well as a transgenic over expressing BLT1 were generated in different laboratories .
 
-these gene targeted mice have been instrumental in defining a critical role for these receptors in diverse inflammatory diseases such as atherosclerosis asthma autoimmune diseases inflammatory arthritis diet induced obesity  sleep apnea  bone resorption and colitis .although blt1 was long known to be a neutrophil chemoattractant receptor recent studies identified blt1 expression on macrophages smooth muscle cells  endothelial cells  activated t-cells and mast cells  considerably expanding the potential roles of ltb4.
-
-treating mice with zi- leuton an inhibitor of 5-lo was found to reduce systemic inflammation and polyp burden of small intestinecolon in a murine model of poly- posis supporting above human studies .
-
-apcmin mice carrying a germ-line mutation in the apc gene develop multiple polyps in the small intestine that produced sig- nificantly higher levels of ltb4 relative to colonic mucosa .
-
-it was shown that members of eicosanoid pathways such as cpla2 cox2 and prostaglandin e2 receptor ep2 play a critical role in promoting intestinal tumors in apcmin mice .
-
-furthermore these mice displayed significantly decreased survival increase in total intestinal tumor burden and anemia.
-
-in the blt1-- mice a significant increase in colon tumor burden was also observed in azoxymethanedextran sodium sulfate induced colon tumor model.
+These gene targeted mice have been instrumental in defining a critical role for these receptors in diverse inflammatory diseases such as atherosclerosis asthma autoimmune diseases inflammatory arthritis diet induced obesity  sleep apnea  bone resorption and colitis .Although BLT1 was long known to be a neutrophil chemoattractant receptor recent studies identified BLT1 expression on macrophages smooth muscle cells  endothelial cells  activated T-cells and mast cells  considerably expanding the potential roles of LTB4.
 

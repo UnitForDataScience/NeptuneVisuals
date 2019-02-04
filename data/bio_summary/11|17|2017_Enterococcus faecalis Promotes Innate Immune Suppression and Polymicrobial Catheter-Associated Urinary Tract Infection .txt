@@ -1,0 +1,20 @@
+Taken together these results support the hypothesis that E. faecalis suppression of NF-KB-driven responses in macrophages promotes polymicrobial CAUTI pathogene- sis especially during coinfection with less virulent or commensal E. coli strains.KEYWORDS Enterococcus faecalis Escherichia coli catheter-associated UTI coinfection immune suppression macrophage polymicrobial urinary tract infectionnterococcus faecalis is an early colonizer in infants and a ubiquitous member of the human gut microbiome .
+
+Given the frequency with which E. faecalis is found within polymicrobial infections and that E. faecalis can modulate the host immune response within the catheterized bladder we tested the hypothesis that E. faecalis immune modulation promotes polymicrobial CAUTI.
+
+Our work indicates that E. faecalis may possess similar secreted factors that modulate NF-KB activation and prevent bacterial clearance by host immune cells.A large proportion of E. faecalis infections are polymicrobial and E. faecalis is frequently coisolated with E. coli from urinary tract and wound infections  .
+
+BACTERIAL INFECTIONSEnterococcus faecalis Promotes Innate Immune Suppression and Polymicrobial Catheter-Associated Urinary Tract InfectionBrenda Yin Qi Tienab Hwee Mian Sharon Goha Kelvin Kian Long Chongab Soumili Bhaduri-Tagoreab Sarah Holeca Regine Dressd Florent Ginhouxd Molly A. Ingersollef Rohan B. H. Williamsc aSingapore Centre for Environmental Life Sciences Engineering School of Biological Sciences Nanyang Technological University Singaporea Singapore Centre for Environmental Life Sciences Engineering Interdisciplinary Graduate School Nanyang Technological University Singaporeb Singapore Centre for Environmental Life Sciences Engineering National University of Singapore Singaporec Singapore Immunology Network Agency for Science Technology and Research ASTAR Singapored Unit of Dendritic Cell Immunobiology Department of Immunology Institut Pasteur Paris Francee INSERM U1223 Institut Pasteur Paris FrancefABSTRACT Enterococcus faecalis a member of the human gastrointestinal microbi- ota is an opportunistic pathogen associated with hospital-acquired wound blood- stream and urinary tract infections.
+
+Together these observations suggest that E. faecalis can subvert immune-mediated killing to persist within the infected bladder.During UTI and CAUTI E. faecalis is often part of a polymicrobial community .E.
+
+We found that E. faecalis actively subverts E. coli-mediated NF-KB activation and proinflammatory cytokine production in RAW264.7 macrophages in vitro and macrophage-associated proinflammatory expres- sion profiles in catheterized bladders in vivo culminating in higher-titer E. coli CAUTI.RESULTSLive E. faecalis prevents lipopolysaccharide LPS- or lipoteichoic acid LTA- mediated NF-KB-driven activation in RAW macrophages.
+
+To determine whether E. faecalis actively prevented NF-KB-mediated tran-FIG 1 E. faecalis prevents NF-KB-driven macrophage activation.
+
+We exposed macrophages to LPS or LTA simultaneously with E. faecalis for 6 h quantified both NF-KB-mediated transcription and LDH release and observed a dose-dependent inhibition of LPS- and LTA-induced NF-KB activation by E. faecalis and  Fig.
+
+S1D.To determine whether the absence of an NF-KB transcriptional response was due to an E. faecalis secreted factor we examined the macrophage response to heat-killed E. faecalis or cell-free bacterial supernatants at MOI equivalents ranging from 1 to 100.
+
+We then simultaneously infected macrophages with E. faecalis and E. coli at these predetermined MOIs and observed that while both E. coli strain MG1655 and UTI89 monoinfections induced NF-KB reporter activity equal to that with LPS alone E. faecalis prevented E. coli-induced NF-KB activity in a dose-dependent manner .
+

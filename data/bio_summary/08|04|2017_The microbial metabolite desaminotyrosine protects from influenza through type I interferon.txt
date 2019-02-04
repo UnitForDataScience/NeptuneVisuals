@@ -1,30 +1,20 @@
-influenza virus pathogenicity is highly influenced by the microbiota infection of antibiotic-treated or germ- free mice results in poor outcomes 6-8. how the microbiota exerts its protective effects remains incompletely understood but we do know that microbial metabolites modulate a variety of im- portant systemic phenotypes 5 9-11. possibly specific microbial metabolites mediate protec- tion against viral infection.we focused on type i interferon ifn as an important signaling pathway in viral immunity in part because increasing evidence shows that the microbiota can regulate host immune ho- meostasis as well as the response to injury and bacterial infection through type i ifn signaling 12. however its role during in vivo influenza in- fection remains uncertain with multiple studies reporting dichotomous results 13-32. these stud- ies primarily use loss of function of type i ifn signaling or administration of high levels of type i ifn.
+This model has a modest but functionally relevantthreefold elevation in systemic type I IFNs compared with controlsand allows evaluation of the role of augmented type I IFN signaling before influenza infection.To confirm that the lungs of Irgm1-- mice expressed elevated type I IFNs we used multiple assays.
 
-therefore we screened the effects of 84 microbially associated metabolites 38 using a reporter cell line that harbors multiple type i ifn response elements 39. each metabolite was screened for its in- duction of type i ifn signaling with polyinosinic- polycytidylic acid polyic a structural analog of double-stranded rna or amplification of type i ifn pathways with ifn-b treatment fig.
+A Scatter plots displaying fold change in lumines- cence for 100 mM metabolite screen inPolyICthe presence of 5 mgml polyIC treatment left or 10 Uml type I IFN treatment right.Fold increase compared with con- trol in luminescence for DAT at the indi- cated doses in the presence of speci- fied doses of polyIC or type I IFN n  three to four experiments.Stool and serum DAT levels measuredPolyICPolyIC PolyICby mass spectroscopy in mice treated with either vehicle mock or 2 weeks of antibiotics n  9 to 15 mice per group from three experiments.Serum IFN activity as measured by the IFN bioassay of polyIC- and DAT-treated mice after 2 weeks of antibiotics n  7 or 8 mice per group from two experiments.
 
-a scatter plots displaying fold change in lumines- cence for 100 mm metabolite screen inpolyicthe presence of 5 mgml polyic treatment left or 10 uml type i ifn treatment right.fold increase compared with con- trol in luminescence for dat at the indi- cated doses in the presence of speci- fied doses of polyic or type i ifn n  three to four experiments.stool and serum dat levels measuredpolyicpolyic polyicby mass spectroscopy in mice treated with either vehicle mock or 2 weeks of antibiotics n  9 to 15 mice per group from three experiments.serum ifn activity as measured by the ifn bioassay of polyic- and dat-treated mice after 2 weeks of antibiotics n  7 or 8 mice per group from two experiments.
+Irgm1 -- mice have elevated type I IFN in the lungs and are resistant to influenza.Bioassay for type I IFN activity see Methods from lung homogenates of littermate control and Irgm1 -- mice n  19 to 21 mice per group from five experiments.
 
-consistent with this idea irgm1--rag1-- mice which maintain elevated levels of type i ifn showed protection compared with rag1-- mice fig.
+Each metabolite was screened for its in- duction of type I IFN signaling with polyinosinic- polycytidylic acid polyIC a structural analog of double-stranded RNA or amplification of type I IFN pathways with IFN-b treatment fig.
 
-1. irgm1 -- mice have elevated type i ifn in the lungs and are resistant to influenza.bioassay for type i ifn activity see methods from lung homogenates of littermate control and irgm1 -- mice n  19 to 21 mice per group from five experiments.
+Possibly specific microbial metabolites mediate protec- tion against viral infection.We focused on type I interferon IFN as an important signaling pathway in viral immunity in part because increasing evidence shows that the microbiota can regulate host immune ho- meostasis as well as the response to injury and bacterial infection through type I IFN signaling 12.
 
-this model has a modest but functionally relevantthreefold elevation in systemic type i ifns compared with controlsand allows evaluation of the role of augmented type i ifn signaling before influenza infection.to confirm that the lungs of irgm1-- mice expressed elevated type i ifns we used multiple assays.
+These stud- ies primarily use loss of function of type I IFN signaling or administration of high levels of type I IFN.
 
-b relative mrna expression of oas2 and mx2 by qrt-pcr from control and irgm1 -- lung homogenates n 7 to 14 mice per group from three to four experiments.c kaplan-meier survival analysis of infected control irgm1-- ifnar-- and irgm1--ifnar-- micen  18 to 40 mice per group from three to five experiments.
+DAT enhances type I IFN in macrophages via type I IFN amplifi- cation.
 
-s15 and this implies that innate not adapt- ive immunity is crucial for the protective priming effect of type i ifn.within the lung phagocytes are essential me- diators of innate immune responses to bacterial and viral pathogens 48. to determine whether type i ifn mediates protection from influenza infection through a phagocytic-dependent mech- anism we treated mice systemically with clod- ronate liposomes to deplete lung phagocytes 49 fig.
+4 F and G.Our initial validation of DAT did not discern between augmentation of type I IFN induction or type I IFN amplification.
 
-first an ifn-specific varicella zoster vi- rus infectivity bioassay of whole-lung tissue ho- mogenate showed elevated type i ifn activity of irgm1-- lungs compared with littermate con- trols fig.
+Consistent with this idea Irgm1--Rag1-- mice which maintain elevated levels of type I IFN showed protection compared with Rag1-- mice fig.
 
-these assays support the utility of this model to study host responses to influenza in- fection in a background of elevated type i ifn in the lung.a dose of influenza that caused 50 mortal- ity of control mice showed minimal mortality and weight loss in irgm1-- littermates fig.
-
-consistent with our hypothesis that dat protects from influenza infection by enhancing type i ifn signaling before infection dat con- ferred no beneficial effect on weight loss or sur- vival in ifnar-- animals fig.
-
-to query the upstream induction pathway we isolated bmdms from mavs-- mice and found that dat still en- hanced polyic and type i ifn expression of interferon-g-induced protein 10 ip-10 fig.
-
-4. dat enhances type i ifn in macrophages via type i ifn amplifi- cation.
-
-4 f and g.our initial validation of dat did not discern between augmentation of type i ifn induction or type i ifn amplification.
-
-note that clostridial species are sensitive to met- ronidazole and vancomycin 47 the individual antibiotics that enhanced influenza-associatedmavs --stat 1--mavs --stat 1--polyic polyic datpolyic polyic datpolyicpolyic datfig.
+B Relative mRNA expression of Oas2 and Mx2 by qRT-PCR from control and Irgm1 -- lung homogenates n 7 to 14 mice per group from three to four experiments.C Kaplan-Meier survival analysis of infected control Irgm1-- Ifnar-- and Irgm1--Ifnar-- micen  18 to 40 mice per group from three to five experiments.
 

@@ -1,30 +1,20 @@
-it also could provide key information on complex protein networks and signal transduc- tion pathways in certain diseases carrasco-navarro et al.. therefore to satisfy the demands of discovering the gut microbiota related biomarkers and addressing the relation- ship of functional redundancy and diversity of gut microbiota it is necessary to use metaproteomics to gain the quantitative information of all proteins in the gut microbiota.metaproteomics methodology for gut microbiota researchmass spectrometry is more suitable for analyzing complex samples and revealing their biological function schneider et al.
+Therefore to satisfy the demands of discovering the gut microbiota related biomarkers and addressing the relation- ship of functional redundancy and diversity of gut microbiota it is necessary to use metaproteomics to gain the quantitative information of all proteins in the gut microbiota.Metaproteomics methodology for gut microbiota researchMass spectrometry is more suitable for analyzing complex samples and revealing their biological function Schneider et al.
 
-currently metaproteomics might provide new insights into the diversity of the gut microbiota and re- searchers have worked in the field of characterization of the composition of microbiota using metaproteomics.levi mortera et al.
+Currently metaproteomics might provide new insights into the diversity of the gut microbiota and re- searchers have worked in the field of characterization of the composition of microbiota using metaproteomics.Levi Mortera et al.
 
-notably the two metaproteomic techniques were used to characterize the gut microbiota from various angles and depth and both were found to be reliable techniques to describe the gut microbiota.identification of therapeutic target in the gut microbiota ms-based traditional proteomics is an effective tool that is employed in both in vitro and in vivo models to identify ther- apeutic targets and discover biomarkers and to reveal the mo- lecular mechanisms associated with many diseases including cancer cardiovascular disease and cognitive disease wang et al.
+Notably the two metaproteomic techniques were used to characterize the gut microbiota from various angles and depth and both were found to be reliable techniques to describe the gut microbiota.Identification of therapeutic target in the gut microbiota MS-based traditional proteomics is an effective tool that is employed in both in vitro and in vivo models to identify ther- apeutic targets and discover biomarkers and to reveal the mo- lecular mechanisms associated with many diseases including cancer cardiovascular disease and cognitive disease Wang et al.
 
-in addition depending on various factors such as diet mood and age the composition of gut microbiota is constantly changing which might affect human health kasparovska et al.
+In addition depending on various factors such as diet mood and age the composition of gut microbiota is constantly changing which might affect human health Kasparovska et al.
 
-nutrition is a very vital factor to affect the gut microbiota and human healthy graf et al.
+Nutrition is a very vital factor to affect the gut microbiota and human healthy Graf et al.
 
-for example several beneficial mem- bers of the gut microbiota such as faecalibacteriumprausnitzii were significantly reduced in crohn's disease yuefei wang1 tianjin state key laboratory of modern chinese medicine tianjin university of traditional chinese medicine tianjin 300193 china2 research and development center of traditional chinese medicine tianjin international joint academy of biotechnology and medicine tianjin 300457 chinacompared with healthy controls erickson et al.
+For example several beneficial mem- bers of the gut microbiota such as Faecalibacteriumprausnitzii were significantly reduced in Crohn's disease Yuefei Wang1 Tianjin State Key Laboratory of Modern Chinese Medicine Tianjin University of Traditional Chinese Medicine Tianjin 300193 China2 Research and Development Center of Traditional Chinese Medicine Tianjin International Joint Academy of Biotechnology and Medicine Tianjin 300457 Chinacompared with healthy controls Erickson et al.
 
-the hypothesis that signaling mole- cules produced by the gut microbiota could lead to a variety of diseases is yet to be confirmed zhu et al.
+The hypothesis that signaling mole- cules produced by the gut microbiota could lead to a variety of diseases is yet to be confirmed Zhu et al.
 
-protein expression in the gut microbi- ota might be altered in patients therefore metaproteomic analysis of gut microbiota might reveal the molecular mecha- nisms of diseases xu et al.
+Protein expression in the gut microbi- ota might be altered in patients therefore metaproteomic analysis of gut microbiota might reveal the molecular mecha- nisms of diseases Xu et al.
 
-shotgun metaproteomic analysis has been applied widely to measure the total proteins in the gut microbiota tanca et al.
+Shotgun metaproteomic analysis has been applied widely to measure the total proteins in the gut microbiota Tanca et al.
 
-for convenient sampling and saving costs most inves- tigators choose to isolate the gut microbiota from feces of human which contain approximately 1011 bacteria per gram tlaskalova-hogenova et al.
-
-analyzed the data for the human gut microbiota proteome from feces with or without differen- tial centrifugation and found that the former method is supe- rior to the later for harvesting bacteria and proteins.recently indirect double filtering a non-centrifugation method was developed to harvest gut bacteria xiong et al.
-
-thus an ideal database with all potentially expressed proteins in the gut microbiota sample is urgently required.to solve this problem zhang et al.
-
-recent reports have highlighted the important role of the gut microbiota which might contribute to the occurrence and development of dis- ease tai et al.
-
-overall this study revealed more comprehensive and specific proteins of gut microbiota in patients with cirrhosis and therefore provided potential biomarkers and therapeutic targets for the progress and treat- ment of cirrhosis.erickson et al.
-
-mass spectrometryintroductiontrillions of microbes such as bacteria fungi and viruses inhabit the human gut and could be considered as a virtual organ baothman et al.
+For convenient sampling and saving costs most inves- tigators choose to isolate the gut microbiota from feces of human which contain approximately 1011 bacteria per gram Tlaskalova-Hogenova et al.
 

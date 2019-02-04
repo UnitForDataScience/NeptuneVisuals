@@ -1,30 +1,20 @@
-based on the results of the two-way anova and using specific primers for 3 mirnas mmu-mir-342-3p mmu-mir-294-5p and mmu-mir-16- 5p  we found a significant increase in expression of mir-294- 5p only in the hippocampus of male mice compared to conventionally raised male mice c p  0.05. this increase in gene expression was reversed upon colonisation of male germ free mice.
+In male mice Kat1 was significantly decreased in germ free mice B p  0.05 compared with conventional mice this decrease was not reversed by colonisation.
 
-in male mice kat1 was significantly decreased in germ free mice b p  0.05 compared with conventional mice this decrease was not reversed by colonisation.
+In contrast the gene which encodes Tdao2 was significantly increased in germ free male mice and in recolonized mice compared with conventional male mice C p  0.05 D p  0.05.These results demonstrate to our knowledge that the gut micro- biota can regulate the expression of miRNAs in the hippocampus spe- cifically miR-294-5p.
 
-in contrast the gene which encodes tdao2 was significantly increased in germ free male mice and in recolonized mice compared with conventional male mice c p  0.05 d p  0.05.these results demonstrate to our knowledge that the gut micro- biota can regulate the expression of mirnas in the hippocampus spe- cifically mir-294-5p.
+Based on the results of the two-way ANOVA and using specific primers for 3 miRNAs mmu-miR-342-3p mmu-miR-294-5p and mmu-miR-16- 5p  we found a significant increase in expression of miR-294- 5p only in the hippocampus of male mice compared to conventionally raised male mice C p  0.05.
 
-statistical analysis was carried out as previously described .sex and germ free status interact to alter the expression of mirna'smicroarray analysis was performed on hippocampi removed from both male and female conventional con germ free gf and mice that had previously been germ free but were colonised exgf post- weaning day 21 a. microarray analysis revealed that micro- bial colonisation status and sex affected the expression of hippocampal mirnas b. a two-way analysis of variance anova analysis revealed a significant interaction between sex and colonisation status in 15 mirnas .mir-294-5p expression in the hippocampus is regulated by the gut microbiotato validate our microarray results we performed qrt-pcr on hippocampal rna from the same mice from the microarray experiment.
+Little is known about the function of miR-294 but it is part of a cluster of miRNAs that are expressed in embryonic stem cells and plays an important role in embryogenesis.We found a significant increase in the expression of miR-294-5p only in the hippocampus of male mice compared to conventionally raised mice but this did not result in alterations in Brd2.
 
-little is known about the function of mir-294 but it is part of a cluster of mirnas that are expressed in embryonic stem cells and plays an important role in embryogenesis.we found a significant increase in the expression of mir-294-5p only in the hippocampus of male mice compared to conventionally raised mice but this did not result in alterations in brd2.
+N  8-11 mice per group   p  0.05 Two-way ANOVA with Tukey's HSD  t-test versus Control mice p  0.05.
 
-n  8-11 mice per group   p  0.05 two-way anova with tukey's hsd  t-test versus control mice p  0.05. for interpretation of the references to color in this figure legend the reader is referred to the web version of this article.expression though some have reported differences in expression in peripheral blood.
+Tdao2 was increased in GF and exGF male mice compared to conventional mice.
 
-tdao2 was increased in gf and exgf male mice compared to conventional mice.
+Tdao2 which was increased in germ free mice irrespective of sex has previously been shown to be increased in the hippocampus of a mouse model of Alzheimer's diseasewhile Kat1 which is altered in a number of neurological disorderswas decreased in germ free mice.
 
-tdao2 which was increased in germ free mice irrespective of sex has previously been shown to be increased in the hippocampus of a mouse model of alzheimer's diseasewhile kat1 which is altered in a number of neurological disorderswas decreased in germ free mice.
+We measured miRNAs in the hippocampus of Germ free GF conventional C and Germ free colonised exGF Swiss Webster mice.
 
-we measured mirnas in the hippocampus of germ free gf conventional c and germ free colonised exgf swiss webster mice.
+Behaviours associated with the hippocampus such as anxiety depression and cognitive func- tion are also abnormal in germ free mice.
 
-behaviours associated with the hippocampus such as anxiety depression and cognitive func- tion are also abnormal in germ free mice.
-
-expression of mir-16-5p was significantly increased in the germ free male mice also though this increase was not reversed by colonisation.
-
-collectively these data suggests that individual mirnas may differ in their expression patterns in the hippocampus based on sex and colo- nisation status.mir-294-5p targets the kynurenine pathway enzymesconsidering these results and the role the gut microbiota plays inand sex  were overrepresented in the tryptophan catabolic process to kynurenine pathway go 0019441 as recent data from our group has shown components of this pathway to be altered in germ free mice in a sex dependent manner .
-
-brd2 was increased following colonisation in female mice the increase in brd2 expression in re- colonized animals may indicate that the expression of mir-294-5p is linked to immune system development with the immune-responsive mirna leading to transcriptional activation following colonisation.
-
-changes in expression of mir-294-5p under germ free conditions were only evident in male mice suggesting as we and other groups have previously shown that the microbiota can impact the cns in a sex specific manner.
-
-we have demonstrated that the presence of the gut microbiota in mice controls the expression of hip- pocampal mir-294-5p .
+Statistical analysis was carried out as previously described .Sex and germ free status interact to alter the expression of miRNA'sMicroarray analysis was performed on hippocampi removed from both male and female conventional CON germ free GF and mice that had previously been germ free but were colonised exGF post- weaning day 21 A. Microarray analysis revealed that micro- bial colonisation status and sex affected the expression of hippocampal miRNAs B.
 

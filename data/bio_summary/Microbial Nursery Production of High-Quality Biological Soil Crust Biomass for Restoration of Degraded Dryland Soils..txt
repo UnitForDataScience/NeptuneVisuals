@@ -1,30 +1,20 @@
-.caporaso jg kuczynski j stombaugh j bittinger k bushman fd costello ek fierer n pena ag goodrich jk gordon ji huttley ga kelley st knights d koenig je ley re lozupone ca mcdonald d muegge bd pirrung m reeder j sevinsky jr turnbaugh pj walters wa widmann j yatsunenko t zaneveld j knight r. 2010. qiime allows analysis of high-throughput community sequencing data.
+.Caporaso JG Kuczynski J Stombaugh J Bittinger K Bushman FD Costello EK Fierer N Pena AG Goodrich JK Gordon JI Huttley GA Kelley ST Knights D Koenig JE Ley RE Lozupone CA Mcdonald D Muegge BD Pirrung M Reeder J Sevinsky JR Turnbaugh PJ Walters WA Widmann J Yatsunenko T Zaneveld J Knight R. 2010.
 
-.belnap j phillips s herrick j johansen j.
+Nostoc Tolypothrix Leptolyng- bya and diatoms through plastid 16S rRNA sequences grew in samples cultivated in the greenhouse whereas their relative abundances were not so important in the initial biocrust especially in FB J and BB sites .DISCUSSIONOur work clearly shows that it is feasible to produce large amounts of biocrust biomass from low levels of natural inoculum within relatively short incubation times by using controlled but seminatural greenhouse facilities biocrust nurseries.
 
-.zhang b zhang y su y wang j zhang j.
+When using open-air facilities the production of inoculum with a high content on nonterrestrial water or airborne contaminant phototrophs is virtually unavoidable making it necessary to i restrict the growth of airborne noncrust cyanobacteria by imposing recurrent desic- cation and ii carry out microbiological quality control monitoring of the microbial composition of the products.We present here an alternative approach to the production of biocrust inoculum that is based on the enhancement of natural populations of remnant biocrust organ- isms on native soils in controlled but seminatural greenhouse facilities biocrust nurseries.
 
-.belnap j phillips sl flint s money j caldwell m. 2008. global change and biological soil crusts effects of ultraviolet augmentation under altered precipitation regimes and nitrogen additions.
+This makes physiological sense in that photosynthetic microorganisms in these assemblages respond rapidly to hydration  but require sufficiently long periods of hydration to turn on the specific sets of genes involved in nutrient uptake chl a and ATP synthesis as well as DNA repair after drought episodes  before net growth canTABLE 2 Summary statistics of null models calculated with randomized microbial community data of bacterial phyla and cyanobacteria to assess the similarity between inoculum and nursery-reared biocrusts during the optimized second set of experiments according to siteaaBC Bray-Curtis dissimilarity index as an estimate of community composition shift based on bacterial phyla and cyanobacteria SES standardized effect size.FIG 6 Endpoint cyanobacterial community composition by clades at the end of the greenhouse incubation period for the second set of experiments that were optimized according to previous results versus that obtained for the field biocrusts used as inoculum.
 
-.bowker m belnap j budel b sannier c pietrasiak n eldridge dj rivera-aguilar v. 2016. controls on distribution patterns of biological soil crusts at micro- to global scales p 173-198. in weber b bu del b belnap j ed biological soil crusts an organizing principle in drylands.
+shows community composition at the level of bacterial phyla for eachTABLE 1 Results of linear models for the effect of selected factors as obtained after the preliminary screening process for each of the four sites on chlorophyll a and Bray-Curtis dissimilarity index as an estimate of community composition shift based on bacterial phyla and cyanobacteriaaaIn parentheses levels of factors that maximized the production of biomass chlorophyll a Chl a or minimized changes in community composition Bray-Curtis BC based on bacterial phyla or cyanobacteria according to LS means tests P  0.05 P addition of phosphorus N addition of nitrogen S slurry-like inoculum.treatment as well as that of the respective biocrusts used as inoculum INOC.
 
-.caporaso jg lauber cl walters wa berg-lyons d huntley j fierer n owens sm betley j fraser l bauer m gormley n gilbert ja smith g knight r. 2012. ultra-high-throughput microbial community analysis on the illumina hiseq and miseq platforms.
+Also included are the community composition determined for the biocrust samples used as inoculum INOC n  3 technical replicates.FIG 3 Endpoint cyanobacterial community composition by major clades for each of the treatments in the fractional factorial experiments.
 
-similarly the addition of nutrients enhanced the yield of biocrust growth in hot desert sites p plus n in fort bliss fb but only p in jornada j ls means tests p  0.05 .
+Seven 0.4-cm-diameter cores of biocrust 1 cm deep were randomly taken in each replicate or field biocrust sample mixed and extracted in 95 ethanol at 4degC in the dark for 24 h. Extracts were then centrifuged 5000 rpm for 5 min at 4degC and chl a concentrations were quantified according to references and in a Shimadzu UV-1601 spectropho- tometer Shimadzu Corporation Kyoto Japan.To determine the microbial community structure of biocrust samples we used high-throughput 16S rRNA gene amplicon sequencing.
 
-algal plastids were as expected minor components in most sites but the presence of significant contributions of diatoms in the j inoculum was an unusual trait.
+.Belnap J Phillips S Herrick J Johansen J.
 
-in some treatments relatively minor components of the biocrust microbial community become important as is the case in fb j and bb samples where we observed a high relative abundance of trichocoleus in various treatments .
+In some treatments relatively minor components of the biocrust microbial community become important as is the case in FB J and BB samples where we observed a high relative abundance of Trichocoleus in various treatments .
 
-we did not detect any significant factor in the fb site but in the j site inoculum and calcium were important.
-
-pioneer crust-forming cyanobacteria microcoleus vaginatus microcoleus steenstrupii  retained significant proportions of the final biomass in all sites 18 29 51 and 47 for fb j nosecone n and bb respectively in the greenhouse-grown biomass .
-
-nostoc tolypothrix leptolyng- bya and diatoms through plastid 16s rrna sequences grew in samples cultivated in the greenhouse whereas their relative abundances were not so important in the initial biocrust especially in fb j and bb sites .discussionour work clearly shows that it is feasible to produce large amounts of biocrust biomass from low levels of natural inoculum within relatively short incubation times by using controlled but seminatural greenhouse facilities biocrust nurseries.
-
-boxes denote lower and upper quartiles with median values depicted as black solid lines and whiskers denote lower and upper extremes n  5. blue lines indicate the chl a content of field biocrust samples used as inoculum inoc and red lines indicate the initial chl a content in the inoculated soils init color solid lines indicate mean and color dashed lines indicate standard deviations of n  5 fb fort bliss j jornada n nosecone bb burr buttercup.remnant which in turn can be used to inoculate ca.
-
-data are averages from five technical replicates inoc inoculum biocrust samples or five biological replicates cultivated biocrusts fb fort bliss j jornada n nosecone bb burr buttercup.
-
-data are averages from five technical replicates inoc inoculum biocrust samples or five biological replicates cultivated biocrusts fb fort bliss j jornada n nosecone bb burr buttercup.occur.
+Blue lines indicate the chl a content of field biocrust samples used as inoculum INOC and red lines indicate the initial chl a content in the inoculated soils INIT color solid lines indicate mean and color dashed lines indicate standard deviations of n  5 FB Fort Bliss J Jornada N Nosecone BB Burr Buttercup.remnant which in turn can be used to inoculate ca.
 

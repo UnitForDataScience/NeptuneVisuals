@@ -1,30 +1,20 @@
-the 956 otus shared across all four time series make up the following percent- ages of total abundances in each time series m3  69.9 f4  77.2 da  76.9 and db  79.9. the percent of total community abundance made up by the 308 otus shared across all data sets including hmp are as follows m3  61.1 f4  70.0 da  61.7 db  59.1 and hmp  39.3.shared across 4 time series 956shared across all data sets 308doi10.1371journal.pcbi.1005364.t002amount of variance explained by svar3 model for top 50 otus in each time series.
+Thus despite the fact that most OTUs appear to be A shows decay in the number of Dirichelet multinomial mixture model DMM states as the sparcity of the time series is increased for the top 50 most abundant OTUs from each time series and for the 76 abundant OTUs shared across all four time series.
 
-thus despite the fact that most otus appear to be a shows decay in the number of dirichelet multinomial mixture model dmm states as the sparcity of the time series is increased for the top 50 most abundant otus from each time series and for the 76 abundant otus shared across all four time series.
+In this paper we conduct a meta-analysis of the four longest densest human gut time series currently available  .Time series analysis approachWe separated microbial dynamics into autoregressive and non-autoregressive components by applying vector autoregressive VAR models which were originally developed for economet- rics -.
 
-in this paper we conduct a meta-analysis of the four longest densest human gut time series currently available  .time series analysis approachwe separated microbial dynamics into autoregressive and non-autoregressive components by applying vector autoregressive var models which were originally developed for economet- rics -.
+The EMP study numbers were 1240 English Channel marine time series and 1242 Lake Mendota freshwater time series.
 
-the emp study numbers were 1240 english channel marine time series and 1242 lake mendota freshwater time series.
+Granger causality is based on linear time-lagged prediction if time series A is predictive of the future values of time series B it is said that A Granger causes B .
 
-granger causality coefficients were calculated for each non-zero svar coefficient  and significance was assessed using a chi- squared test p  0.05. granger causality is based on linear time-lagged prediction if time series a is predictive of the future values of time series b it is said that a granger causes b .
+In order to test whether CRT blooms drove significant compositional effects in the correlation structure of our time series we calculated Spearman's correlations between the 100 most abundant taxa in the M3 DA and DB time series with and without the CRT time points i.e.
 
-in order to test whether crt blooms drove significant compositional effects in the correlation structure of our time series we calculated spearman's correlations between the 100 most abundant taxa in the m3 da and db time series with and without the crt time points i.e.
+The M3 time series was an outlier with much more frequent CRT blooms than the other time series.
 
-the m3 time series was an outlier with much more frequent crt blooms than the other time series.
+In particular the DA time series showed much less autocorrelation than the other three time series .Stationarity implies that there is a restoring force on an OTU's abundance over time so that it returns to a mean value after a perturbation i.e.
 
-in particular the da time series showed much less autocorrelation than the other three time series .stationarity implies that there is a restoring force on an otu's abundance over time so that it returns to a mean value after a perturbation i.e.
+The fact that these rate dynamics can be modeled as linear stationary processes opens up a wide array of time series models to gut data sets.Autocorrelation decay plots for the 50 most abundant OTUs in each time series.
 
-the fact that these rate dynamics can be modeled as linear stationary processes opens up a wide array of time series models to gut data sets.autocorrelation decay plots for the 50 most abundant otus in each time series.
+the most abundant OTU in M3 F4 and DB time series and 2nd most abundant OTU in DA time series.
 
-the most abundant otu in m3 f4 and db time series and 2nd most abundant otu in da time series.
-
-dmm states were fit to the full-length time series which included the food poisoning event in the db time series.
-
-independent of our otu filtering method 50 most abundant otus in each time series or 76 abundant otus shared across all time series we found that the number of dmm states decayed rapidly from 15 to a plateau of 6 .
-
-in addition only db and m3 time series harbored multiple states which is consistent with major perturbations in the gut com- munity within these time series i.e.
-
-this lack of significant granger relationships at 3-day lags may be due to the higher frequency of crt blooms in that time series which may have continually disruptedscatter plots of the log median abundances of shared 99 otus across time series.
-
-in addition to phylogenetic coherence in the correlation structure within a gut time series we find the same phylogenetic coherence in the correlations between otu abundances acrossgranger causal networks for each time series.
+DMM states were fit to the full-length time series which included the food poisoning event in the DB time series.
 

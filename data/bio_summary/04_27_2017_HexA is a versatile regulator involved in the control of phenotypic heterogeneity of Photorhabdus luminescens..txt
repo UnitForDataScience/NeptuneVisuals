@@ -1,30 +1,20 @@
-artificial overpro- duction of antj leads to anthraquininone production in the usually non-pigmented secondary cells showing that the non-pigmentation is due to a tight regulation of gene expression rather than the result of a special metabolic condition in 2 cells .despite the fact that 2 cells are also pathogenic towards insect larvae they are unable to support nematode growth and development.
+This is an open access article distributed under the terms of the  which permits unrestricted use distribution and reproduction in any medium provided the original author and source are credited.Data Availability Statement All relevant data are within the paper and its Supporting Information files.Funding This work was supported by Deutsche Forschungsgemeinschaft SPP1617 HE-52475- 1.Competing interests The authors have declared that no competing interests exist.insect larvae.
 
-electrocompetent e. coli cells were prepared by cultivation of the cells in lb medium at 37cup to an od600nm of 1. cells were then harvested and washed three times with ice-cold 10 vv glycerol and subsequent centrifugation steps 1 min 16.000 rpm 4c.
+The 1 cells are bioluminescent pigmented and can support nematode growth and development.
 
-the fluorescence intensities were up to 1.4 fold higher in 2 cells compared to 1 cells at time point 48 h p-value  0.05. the fluorescence was comparable in a 1 hexa deletion strain and 1 wild-type cells at all time points p-value 0.05 revealing that phexa activity is not under auto- regulation of hexa .
+The LysR-type regulator HexA has been described as major regulator of this switching pro- cess.
 
-therefore our data confirms previous reports describing enhanced hexa levels in p. temperata and p. luminescens 2 cells .influence of hexa on the 1 specific phenotype bioluminescenceone of the most striking phenotypic differences between 1 and 2 cells of p. luminescens is bioluminescence which is predominantly present in 1 cells.
+The corresponding pcfABCDEF operon could be identified as the first direct target of HexA since the regulator binds to the pcfA promoter region and thereby blocks expres- sion of the target operon.
 
-individual 1 cells undergo phenotypic switch- ing after prolonged cultivation and convert to 2 cells which lack the 1 specific phenotypes.
+The bacteria colonize the upper gut of the nematodes in its infective juvenile IJ stage which search for insect larvae in the soil.
 
-expression of hexa is enhanced in 2 cells and the corresponding regulator inhibits 1 specific traits in 2 cells.
+The 1 cells are able to associate with the nematodes and show the characteristic features like bioluminescence pigmentation production of exoenzymes and antibiotics.
 
-luminescens exists in two phenotypically different cell types designated as primary 1 and secondary cells 2. the 1 cells are able to associate with the nematodes and show the characteristic features like bioluminescence pigmentation production of exoenzymes and antibiotics.
+The 2 cells lack all these phenotypes .
 
-it was recently found that the regulator antj is required for the heterogeneous activation of the expression of antabcdefghi in 1 cells whereas only a basal but homogeneous activation was observed in 2 cells.
+The synthesis of anthra- quinones is accomplished via the operon antABCDEFGHI which encodes a type II polyketide synthase and several modifying enzymes .
 
-therefore it is assumed that 2 cells although never isolated as free-living form are better adapted to a free life in the soil as they cannot use the nematodes as a shuttle to reach their prey like 1 cells do .
+The photopyrones are recognized by the LuxR solo PluR which then activates the pro- moter of the pcfABCDEF Photorhabdus clumping factor PCF operon.
 
-furthermore a huge set of metabolic enzymes was found to be up-regulated in 2 cells which lends support to the idea that 2 cells have adapted to use the limited nutrients that are present in the soil .recently it was found that cell clumping in p. luminescens is mediated via a novel quorum sensing system.
-
-these symbiosis factors are repressed in 2 cells by hexa and the derepression of the symbiosis factors in 2 cells resulted in a significant attenuation of virulence to insect larvae.
-
-interruption of hexa in 2 cells resulted in a bright phenotype of the normally non-bioluminescent 2 cells.
-
-electrocompetent cells were shortly incubated with 50-100 ng of plasmid dna and then electroporation was performed in 0.2 cm cuvettes using a pulse of 2.5 kv for 4-6 msec for e. coli cells and a pulse of 1.8 kv for 4-6 msec for sh.
-
-different concentrations of arabinose andor iptg were added to induce plur andor hexa expression after the cells reached an od600 of 0.2. data are reported as relative light units rlu in counts per second per milliliter per od600.for reporter activity assays in p. luminescens the od600 was set to 0.05 and the cells were aerobically grown at 30c in microtiter plates in a tecan infinite f500 system tecan salz- burg.
-
-luminescens 2 cells contain increased levels of hexaas a first step to get more insights into the mechanism of hexa to act as a regulator of pheno- typic heterogeneity of p. luminescens we investigated hexa levels in 1 and 2 cells.
+The exact mechanism how HexA can control the various phenotypes remained unclear and DNA-binding of HexA has never been shown.
 

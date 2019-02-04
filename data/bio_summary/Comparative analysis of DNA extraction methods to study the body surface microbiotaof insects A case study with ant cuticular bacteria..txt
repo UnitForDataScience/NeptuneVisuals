@@ -1,30 +1,20 @@
-c-d represent the rarefaction curves on averaged bacterial communities for each dna extraction methods for a a. cephalotes 15 mm and b p. penetrator 5 mmand otus for p. penetrator 5 mm samples and extraction controls.
+c-d represent the rarefaction curves on averaged bacterial communities for each DNA extraction methods for a A. cephalotes 15 mm and b P. penetrator 5 mmand OTUs for P. penetrator 5 mm samples and extraction controls.
 
-a. cephalotes 15 mm samples contained more reads andotus than p. penetrator 5 mm samples for all extraction methods figure 2 table s3 tukey post hoc test most p  .001. dneasy yielded significantly less reads and otus for p. penetrator 5 mm table s3 tukey post hoc test all p  .001 and even produced less readsotus than some extraction controls figure 2. pc yielded sig- nificantly less otus for both species than qiaamp table s3 tukey post hoc test all p  .01. pc also yielded a similar number of readsa1e05b10001e03101e01qiaamp dneasypcmo bioqiaampdneasypcmo biospeciescephalotes 15 mmp.
+These correspond to one tweezer control and one extraction control for i each of the four DNA extraction methods tested and for both P. penetrator 5 mm and forA.
 
-penetrator 5 mm extraction controlextraction methodsqiaamp dneasy pcmo biofi gu re 2 effect of dna extraction protocols on the number of reads a otus b and diversity coverage c-d. in a-b number of reads and otus are represented for atta cephalotes 15 mm blue pseudomyrmex penetrator 5 mm yellow ant species with cleaned data and a logarithmic scale y axis.
+When the contribution of contaminant OTUs to sam- ple diversity across A. cephalotes 15 mm and P. penetrator 5 mm individuals was examined we found that both ant species ANOVA F1191  26.539 p  .001 extraction methods ANOVA F3191  16.305 p  .001 and their interactions ANOVA F3191  4.252 p  .006 had an effect on these proportions with a particularly high amount of con- taminant OTUs in P. penetrator 5 mm samples Table S1.
 
-when repeating the analysis in each ant species separately qiaamp dis- played better repeatability than pc and mo bio for p. penetrator 5 mm samples tukey post hoc test p  .01.to further characterize potential biases in the bacterial commu- nity composition analysis from dna extraction protocols we assessed the differential abundance of the most abundant bacterial phyla between methods fig.
+a Bacterial community composition similarities between Atta cephalotes 15 and 5 mm and Pseudomyrmex penetrator 5 mm using QIAamp DNA extraction protocol.
 
-penetrator 5 mmextraction methodsqiaamp dneasy pcmo biosequencing depth103104105fi gu re 3 taxonomic composition of bacterial cuticular microbiota and effect of dna extraction methods on bacterial beta-diversity.
+penetrator 5 mm and 13 A. cephalotes 15 mm individuals extracted with the four methods four pools of P. penetrator 5 mm four pools of A. cephalotes 5 mm and four pools ofA.
 
-a bacterial community composition similarities between atta cephalotes 15 and 5 mm and pseudomyrmex penetrator 5 mm using qiaamp dna extraction protocol.
+Choosing an appropriate DNA extraction method here is crucial as extraction methods differ in the amount of DNA lost during the elu- tion step and in their efficiency to remove PCR inhibitors contained in cuticles bacteria or washing solutions.
 
-differences between dna extraction methods were also observed along the pcoa axis 2 for samples of both species and supported by the permanova analysis speciesf180  9.046 p  .001 r2  .091 extraction method f380  3.563p  .001 r2  .107 interaction f380  2.297 p  .001 r2  .069. theeffect of dna extraction methods was consistent when repeating the analysis in each ant species separately a. cephalotes f346  2.673 p  .001 r2  .157 p. penetrator f333  3.192 p  .001 r2  .242.p.
+Overview of DNA extraction protocolsOur comparative study included four DNA extraction methods or kits the Qiagen QIAamp DNA mini kit QIAamp Qiagen Carlsbad CA USA the Qiagen DNeasy blood and tissue kit DNeasy Qiagen a modified phenol-chloroform protocol PC Sambrook Fritschi  Maniatis 1989 and the MO BIO UltraClean tissues and cells kit MO BIO Mo Bio Laboratories Hilden Germany.
 
-statistical analysesto evaluate potential errors in dna extraction protocols we assessed whether the extraction methods yielded similar amounts of artefactual contaminants bacterial or false-positive otus.
+To ascertain the sources of DNA contamination in each extraction method two types of negative controls were included a tweezers control and an extraction control.
 
-these should result in flatter rarefaction curves and lower number of otus than for biological samples.we then assessed the effect of dna extraction protocols num- ber of individuals used for extraction and individual body size on the cuticular bacterial beta-diversity community composition varia- tion across samples.
+The extraction control measures the contamination introduced by the DNA extraction protocol.To test the effect of the starting material i.e.
 
-community differences were visualized using a principal coordinates analysis pcoa and effects of dna extraction method ant species and their interaction were tested with a permutational multivariate analysis of variance permanova anderson 2001.the multivariate homogeneity analysis of group dispersions anderson 2006 for each dna extraction protocol and ant species was performed to assess the reproducibility of the retrieved bacterial community composition in each method.
-
-these correspond to one tweezer control and one extraction control for i each of the four dna extraction methods tested and for both p. penetrator 5 mm and fora.
-
-nevertheless the evolutionary and eco- logical mechanisms shaping cuticle microbiota remain poorly under- stood scheuring  yu 2012. a methodological challenge prevents detailed description of insect cuticular microbiota the bacterial dna extraction protocol which involves washing one small individual in a detergent solution to detach low amounts of bacterial cells tightly fixed on the cuticle.
-
-2014. while such samples all have particularities that require optimizations they contain nonlimit- ing bacterial biomass which makes bacterial dna extraction rela- tively straightforward.
-
-2011.after data cleaning we observed noticeable differences amongst the four dna extraction methods tested in terms of extracted dna yield number of sequencing reads retrieved and bacterial community diversity and composition that were consistent between the two spe- cies in most cases and particularly more visible in p. penetrator 5 mm samples.
-
-when the contribution of contaminant otus to sam- ple diversity across a. cephalotes 15 mm and p. penetrator 5 mm individuals was examined we found that both ant species anova f1191  26.539 p  .001 extraction methods anova f3191  16.305 p  .001 and their interactions anova f3191  4.252 p  .006 had an effect on these proportions with a particularly high amount of con- taminant otus in p. penetrator 5 mm samples table s1.
+Statistical analysesTo evaluate potential errors in DNA extraction protocols we assessed whether the extraction methods yielded similar amounts of artefactual contaminants bacterial or false-positive OTUs.
 

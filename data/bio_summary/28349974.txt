@@ -1,0 +1,20 @@
+Data for each gene were normalized to mC57 controls n 6group CD11c p 0.0529 for strain p 0.0018 for sex and p 0.019 for strain x sex IL-10 p 0.0041 for strainp 0.7827 for sex and p 0.9739 for strain x sex IL-6 p 0.0106 for strain p 0.0107 for sex and p 0.002 for strain x sex TNF-alpha p 0.0001 for strain p 0.2196 for sex and p 0.0354 for strain x sex by two-way ANOVA.
+
+Data were normalized to mC57 control n 6group OCLN p 0.0067 for strain p 0.9105 for sex and p 0.1623 for strain x sex Tjp1 p 0.0004 for strain p 0.6202 for sex and p 0.9105 for strain x sex by two-way ANOVA.C Colon mRNA levels of inflammatory markers CD11c IL-10 IL-6 and TNF-alpha normalized to GAPDHin BTBR and C57 mice of both sexes.
+
+A Three-chamber social interaction test showing time spent in each chamber by BTBR and C57 mice of both sexes n 12group p 0.7424 for chamber p 0.0077 for strain p 0.7761 for sex p 0.0001 for chamber x strain and p 0.1671 for chamber x strain x sex by three-way ANOVA.
+
+Significant differences are indicated by p  0.05 p  0.01 p  0.001 and p  0.0001 using Bonferroni post-hoc tests following three-way ANOVA with chamber strain and sex as factors A or two-way ANOVA with strain and sex asfactors B and C. Abbreviations fBTBR BTBR female mice mBTBR BTBR male mice fC57 C57 female mice mC57 C57 male mice.
+
+Significant differences were indicated in figures by p 0.05 p  0.01 p  0.001 p  0.0001.
+
+B Number of buried marble by BTBR and C57 mice of both sexes after a 30 min testing session n 12group p 0.0001 for strain p 0.1322 for sex and p 0.2689 for strain x sex by two-way ANOVA.
+
+C Seconds spent in repetitivegrooming measured for BTBR and C57 mice of both sexes during 10 min test session n 12group p 0.0001 for strain p 0.0372 for sex and p 0.0269 for strain x sex by two-way ANOVA.
+
+Data are represented as plasma concentration of FITC dextran nM n 5group p 0.0002 for strain p 0.0469 for sex and p 0.8187 for strain x sex by two-way ANOVA.
+
+In bar charts all data are expressed as mean values -SEM significant differences are indicated byp  0.05 p  0.01 p  0.001 and p  0.0001 near-significant differences are also reported Bonferroni post-hoc tests following two-way ANOVA with strain and sex as factors.
+
+Significant differences are indicated by p  0.05 and p  0.01 for comparison of fBTBR vs. fC57 and mBTBR vs. mC57.
+

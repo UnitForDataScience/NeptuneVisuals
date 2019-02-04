@@ -1,30 +1,20 @@
-to this end wt mice were cohoused with pd-1-- mice at 11 ratio for 4 wks and then treated with dss in drinking water for 9 d. we found that pd-1-- mice cohoused with wt mice had significant loss of body weight as compared to pd-1-- mice housed alone while the loss of body weight of wt mice was slightly ameliorated by cohousing with pd-1-- mice but was not statistically significant fig.
+To this end WT mice were cohoused with PD-1-- mice at 11 ratio for 4 wks and then treated with DSS in drinking water for 9 d. We found that PD-1-- mice cohoused with WT mice had significant loss of body weight as compared to PD-1-- mice housed alone while the loss of body weight of WT mice was slightly ameliorated by cohousing with PD-1-- mice but was not statistically significant Fig.
 
-these results suggest that resistance to dss-induced colitis in pd-1-- mice is dependent on their gut microbiota that is less colitogenic than those in wt mice.composition of gut microbiota is altered in pd-1-deficient micesince our data in cohousing experiment supports the previous report showing altered composition of microbiota in pd-1--mice 23 we next characterize microbial communities through 16s rrna gene-pyrosequencing analysis with cecal contents of wt or pd-1-- mice.
+These results suggest that resistance to DSS-induced colitis in PD-1-- mice is dependent on their gut microbiota that is less colitogenic than those in WT mice.Composition of gut microbiota is altered in PD-1-deficient miceSince our data in cohousing experiment supports the previous report showing altered composition of microbiota in PD-1--mice 23 we next characterize microbial communities through 16S rRNA gene-pyrosequencing analysis with cecal contents of WT or PD-1-- mice.
 
-interestingly pd-1-- mice cohoused with wt mice became susceptible to colitis suggesting that resistance of pd-1-- mice to colitis is dependent on their gut microbiota.
+Interestingly PD-1-- mice cohoused with WT mice became susceptible to colitis suggesting that resistance of PD-1-- mice to colitis is dependent on their gut microbiota.
 
-in addition to its inhibitory effect on t cells pd-1 negatively regulates the function of innate immune cells as shown by down-regulation of cytokine production from macrophages upon pd-1 engagement 12 and elevated production of interleukin il-12 from pd-1-- dendritic cells dc 17. consistently we observed higher il-12p40 production inlaminar propria mononuclear cells lpmc from colon of both naive and dss-treated pd-1-- mice as compared to the wt control supplementary fig.
+We previously showed the protective effect of IL-12p40 on DSS-induced colitis 18 thus we next examined whether higher production of IL-12p40 in PD-1-- mice is critical for decreased incidence of colitis in PD-1-- mice.
 
-we previously showed the protective effect of il-12p40 on dss-induced colitis 18 thus we next examined whether higher production of il-12p40 in pd-1-- mice is critical for decreased incidence of colitis in pd-1-- mice.
+We observed that treatment of neutralizing anti-IL-12p40 mAb into PD-1-- mice during DSS administration did not exacerbate colitis in PD-1-- mice Supplementary Fig.
 
-we observed that treatment of neutralizing anti-il-12p40 mab into pd-1-- mice during dss administration did not exacerbate colitis in pd-1-- mice supplementary fig.
+At the species level 5 species in major species  2 abundance were significantly decreased in PD-1-- mice compared to WT mice among which 3 unculturable species DQ815759s EF603419s EF097057s belonged to Rikenelleceae family and otherspecies is Helicobacter muridarum that was not detected in PD-1-- mice Fig.
 
-showed that pd-1-- mice exhibited alteration in their gut microbiota caused by impaired ability of follicular t helper tfh cells to select proper iga precursor cells in peyer's patches in the absence of pd-1 23. these studies led us to investigate whether the gut microbiota of pd-1-- mice contributes to their non-colitogenic phenotype.
+Therefore our results suggest that PD-1 deficiency resulted in altered composition of gut microbiota which is associated with resistance to DSS- induced colitis.Colon epithelial cells produce less inflammatory mediators in response to cecal extracts from PD-1-deficient miceTo further determine whether colon microbiota of PD-1-- mice is less colitogenic than WT commensal bacteria we stimulated CT-26 colon epithelial cell lines with cecal extracts from WT or PD-1-- mice.
 
-at the species level 5 species in major species  2 abundance were significantly decreased in pd-1-- mice compared to wt mice among which 3 unculturable species dq815759s ef603419s ef097057s belonged to rikenelleceae family and otherspecies is helicobacter muridarum that was not detected in pd-1-- mice fig.
+Wild-type WT mice had severe wasting disease during experimentally induced colitis while mice deficient for PD-1 PD-1-- did not develop colon inflamma- tion.
 
-representativedata mean - sem from two independent experiments are shown.associated with intestinal inflammation 22 24 and mono- association of h. muridarum in severe combined immuno- deficiency scid mice provoked intestinal inflammation in t cell transfer model of colitis 25 26. therefore our results suggest that pd-1 deficiency resulted in altered composition of gut microbiota which is associated with resistance to dss- induced colitis.colon epithelial cells produce less inflammatory mediators in response to cecal extracts from pd-1-deficient miceto further determine whether colon microbiota of pd-1-- mice is less colitogenic than wt commensal bacteria we stimulated ct-26 colon epithelial cell lines with cecal extracts from wt or pd-1-- mice.
+16S rRNA gene-pyrosequencing analysis showed that PD-1-- mice had altered composition of gut microbiota with significant reduction in Rikenellaceae family.
 
-wild-type wt mice had severe wasting disease during experimentally induced colitis while mice deficient for pd-1 pd-1-- did not develop colon inflamma- tion.
-
-16s rrna gene-pyrosequencing analysis showed that pd-1-- mice had altered composition of gut microbiota with significant reduction in rikenellaceae family.
-
-these altered colon bacteria of pd-1-- mice induced less amount of inflammatory mediators from colon epithelial cells including interleukin il-6 and inflammatory chemokines.
-
-in this study we reveal that pd-1 deficiency alters composition of gut microbiota thereby suppressing development of experimentally induced colitis.results and discussionpd-1-deficient mice are less susceptible to dss-induced colitisto investigate the involvement of pd-1 in development ofissn 1976-670x electronic editioncopyright c 2017 by the the korean society for biochemistry and molecular biologythis is an open-access article distributed under the terms of the creative commons attribution non-commercial license  censesby-nc4.0 which permits unrestricted non-commercial use distribution and reproduction in any medium provided the original work is properly cited.colitis we employed dextran sodium sulfate dss-induced murine colitis model that mimics clinical and histological features of human ibd 16. wild type wt and pd-1- deficient pd-1-- mice were fed with 2 dss in drinking water for 9 d and parameters for colitis evaluation were determined.
-
-wt mice given 2 dss showed time-dependent body weight loss 82.3 - 2.2 of original weight at day 9 whereas pd-1-- mice rarely lost their weight during dss administration for 9 d 95.7 - 0.9 of original weight at day9 fig.
-
-concomitantly colon shortening was not significantly observed in dss-treated pd-1-- mice compared to dss-fed wt mice fig.
+These altered colon bacteria of PD-1-- mice induced less amount of inflammatory mediators from colon epithelial cells including interleukin IL-6 and inflammatory chemokines.
 

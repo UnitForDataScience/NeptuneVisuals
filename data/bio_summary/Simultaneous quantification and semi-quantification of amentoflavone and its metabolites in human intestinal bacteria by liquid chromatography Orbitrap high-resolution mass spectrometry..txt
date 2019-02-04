@@ -1,0 +1,20 @@
+The autosampler stability was tested by analyzing QC samples at 4degC for 24 h.TABLE 1 The related MS data of amentoflavone AMF and three metabolitesFIGURE 2 Representative MSMS spectra.
+
+The structures of these metabolites are proposed and confirmed by comparing the retention times and MSMS spectra with those of authentic standards Xu et al.
+
+The mixture was centrifuged at 1000 g for 5 min and the suspension was used as human intestinal bacterial mixture.
+
+The bacterial mixture without AMF was incubated for 24 h as a blank sample.
+
+The supernatant was trans- ferred into another tube and freeze-dried.
+
+The supernatant was dissolved in 1 mL of 40 methanol and centrifuged at 13000 g for 10 min then the supernatant was analyzed by LTQ- Orbitrap-MS. UHPLCESI LTQ-Orbitrap parametersAn LTQ Orbitrap Velos mass spectrometer Thermo Scientific Hemel Hempstead UK equipped with an ESI source was used to acquire mass spectra in profile.
+
+The column was equilibrated for 2 min prior to each analysis.The optimized operating parameters in the negative ion mode were as follows source voltage 3 kV sheath gas 40 arbitrary units auxiliary gas 15 arbitrary units sweep gas 0 arbitrary units and capillary temperature 275degC.
+
+The LTQ delivers single-stagemass analysis providing molecular mass information two-stage massanalysis MSMS and multi-stage mass analysis MSn which gives structural information.
+
+The limit of quantification was determined as the lowest concentration of calibration curve signal-to-noise ratio  10.The precision and accuracy were estimated by analyzing five rep- licates of QC samples at three different concentrations low medium high.
+
+The acceptance values used for validation of RSD and RE were within 15.The matrix effect of analyte was determined at three different concentrations 0.1 1 10 mgmL of QC samples n  5 by comparing the area ratio of the analyte in the spiked samples after extraction with that acquired from the standard solutions at equivalent concentrations.
+

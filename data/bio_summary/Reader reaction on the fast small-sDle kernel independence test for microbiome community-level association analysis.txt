@@ -1,30 +1,20 @@
-1 weighted unifrac distance kernel denoted as kw 2 unweighted unifrac distance ker- nel denoted as ku 3 variance adjusted weighted unifrac distance kernel denoted as kv 4 generalized unifrac dis- tance kernel kth with th  0 denoted as k0 5 generalized unifrac distance kernel kth with th  0.5 denoted as k0.5.
+1 weighted UniFrac distance kernel denoted as Kw 2 unweighted UniFrac distance ker- nel denoted as Ku 3 variance adjusted weighted UniFrac distance kernel denoted as Kv 4 generalized UniFrac dis- tance kernel Kth with th  0 denoted as K0 5 generalized UniFrac distance kernel Kth with th  0.5 denoted as K0.5.
 
-in addition we analytically show that krv can be written as a form of correlation coefficient which can dramatically expedite its computation and make permutation p-value calculation more efficient.key words gamma distribution kurtosis microbiome rv coefficient skewness.introduction proposed a kernel rv krv coefficient to test the overall association between host gene expression and microbiome composition.
+So when the kernel matrix is directly available not computed from some dis- tance matrix we can substitute the centered kernel matrix as Gower matrix to calculate GRV in Section 3 we will see one such example.
 
-for example when analyzing the association of host gene expression and microbiome profiles in 196 pre- pouch ileum ppi samples using krv test see section 3q  trdt ct dt c  ijz2  0 which is closely relatedthe gamma approximation gives a p-value of 6.5 x 10-5while the actual permutation p-value is 1.5 x 10-4 based onto the multi-trait variant set association test statisticpermutation p-value calculationthe distributions of grv and krv are generally unknown and permutations have been typically used to obtain their p-values specifically their null distributions are obtained by randomly shuffling rows and columns of one kernel matrix simultaneously.
+For example when analyzing the association of host gene expression and microbiome profiles in 196 pre- pouch ileum PPI samples using KRV test see Section 3Q  trDT CT DT C  ijz2  0 which is closely relatedthe Gamma approximation gives a p-value of 6.5 x 10-5while the actual permutation p-value is 1.5 x 10-4 based onto the multi-trait variant set association test statisticPermutation P-Value CalculationThe distributions of GRV and KRV are generally unknown and permutations have been typically used to obtain their p-values Specifically their null distributions are obtained by randomly shuffling rows and columns of one kernel matrix simultaneously.
 
-in this article we clarify the close relation of krv to the existing generalized rv grv coefficient and show that krv and grv have very similar performance.
+In light of their simple structure as a correlation and the common practice of compar- ing different methods based on the computed p-values we recommend that small Gamma approximation p-values should always be verified by the actual permutation p-values.On KRV5Supplementary MaterialsWeb appendices tables and figures referenced in Section 3.2 and an R package implementing the proposed method are available with this article at the Biometrics website on Wiley Online Library.AcknowledgementsThis research was supported in part by NIH grant GM083345 and CA134848.
 
-the proposed rrv has reduced inflations compared to krv though it still has increased inflations at more stringent significance levels.figure 1 shows the qq-plots for the krv and rrv p-values based on the kw and k0 kernels.
+presented a kernel RV coefficient KRV test to evaluate the overall association between host gene expression and microbiome composition and showed its competitive performance compared to existing meth- ods.
 
-presented a kernel rv coefficient krv test to evaluate the overall association between host gene expression and microbiome composition and showed its competitive performance compared to existing meth- ods.
+In addition we analytically show that KRV can be written as a form of correlation coefficient which can dramatically expedite its computation and make permutation p-value calculation more efficient.Key words Gamma distribution Kurtosis Microbiome RV coefficient Skewness.Introduction proposed a kernel RV KRV coefficient to test the overall association between host gene expression and microbiome composition.
 
-both are essentially the correla- tions between two similarity matrices krv uses kernel matrixk following the approach of specifi- cally given the eigen decomposition g  ut.
+Both are essentially the correla- tions between two similarity matrices KRV uses kernel matrixK following the approach of Specifi- cally given the eigen decomposition G  Ut.
 
-let kx and ky be the transformed kernel matrices from gx and gy respectively.the krv is then computed astrkxkyqk  trk k  trk k  matrix.
+Let Kx and Ky be the transformed kernel matrices from Gx and Gy respectively.The KRV is then computed astrKxKyQk  trK K  trK K  matrix.
 
-to compute krv we first transform the gower matrix g into a kernel matrixas a sample correlation.
+GRVwhere Kx  HKxH and Ky  HKyH are the centered kernel matrices.
 
-the proposed rrv mitigates the inflation of krv and is closer to the permutation p-values.simulation studyfor illustration we fix the six microbiome kernels we com- puted previously for the 196 ppi samples and randomly simulate the expressions of 100 genes for these 196 samples from a multivariate normal distribution with zero means and compound symmetry covariance matrix with unit variance and pairwise covariance being 0.25. we compute the gaussian kernel for these gene expression profiles as previously.
-
-we con- sider three tests krv the proposed rrv based on matching kurtosis and the permutation test based on randomly shuf- fling the columns and rows of the expression gaussian kernel.
-
-so when the kernel matrix is directly available not computed from some dis- tance matrix we can substitute the centered kernel matrix as gower matrix to calculate grv in section 3 we will see one such example.
-
-although the krv test could control the type i error rate well at 1 and 5 levels we show that it could largely underestimate p-values at small significance levels leading to significantly inflated type i errors.
-
-as a partial remedy we propose an alternative p-value calculation which is efficient and more accurate than krv p-value at small significance levels.
-
-we recommend that small krv test p-values should always be accompanied and verified by the permutation p-value in practice.
+Here the kernel matrix is essentially the Gower matrix with a positive semi-definiteness correction.
 

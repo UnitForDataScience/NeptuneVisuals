@@ -1,0 +1,20 @@
+Generally glucose diffusing up through the agar was depleted by the cells growing at the periphery and bottom of the colony while oxygen diffusing in from above was predomi- nantly consumed by those at the top of the colony producing an anoxic zone with little growth at the colony center.
+
+the existence of a nearby wall of agar can dramatically impact the colony's growth more subtle curvatures such as those that may arise within the gut give rise to growth dynamics that are very similar to refer- ence colonies grown on flat agar.Metabolic crossfeeding in E. coli.
+
+Results are shown for models - where maximal O2 and growth associated ATP maintenance have been fitted to minimize deviation from experimental acetate production and growth rates.aOptimal growth rate for cells grown in a chemostat in units of hr-1.bExperimentally quantified maximal uptake rate for glucose in units of mmolgDCWhr .cMaximal efflux rate for acetate in units of mmolgDCWhr.dFitted maximal uptake rate for oxygen in units of mmolgDCWhr.
+
+Profiles through the center axis of an E. coli K-12 MG1655 colony showing the concentrations x-axis of several metabolites at a given depth y-axis relative to the agar surface after 30 hours of colony growth.
+
+Cross-sections of the acetate utilizing volume fraction of cells after 30 hours of growth show that while the colony growth rates are slightly different the structure of the metabolic cross-feeding is essentially the same heatmaps.
+
+A profile the colony showing the acetate utilizing fraction contour level  0.05 bottom right and the whole colony contour level  0.64 top right after 25 hours of growth.
+
+Variability in nutrient uptake rates among the strains causes differences in the colony aspect ratios early in colony growth right.EPSS4 Fig.
+
+A profile the colony showing the acetate utilizing fraction contour level  0.05 bottom right and the whole colony contour level  0.64 top right after 35 hours of growth.
+
+A pro- file the colony showing the acetate utilizing fraction contour level  0.05 bottom right and the whole colony contour level  0.64 top right after 35 hours of growth.
+
+Key measures examined include colony growth rate and shape height vs. width metabolite productionconsumption and concentration profiles and the emergence of metabolic cooperativity and the fractions of cell phenotypes.
+

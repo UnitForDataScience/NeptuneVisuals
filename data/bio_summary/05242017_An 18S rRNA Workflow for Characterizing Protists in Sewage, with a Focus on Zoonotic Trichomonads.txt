@@ -1,30 +1,20 @@
-fragments were amplified from total genomic dna using either phusion high-fidelity dna polymerase neb catalog m0530s or phusion high- fidelity pcr master mix thermo scientific catalog  f-531s in a 50 ml reaction volume with 1-5 ml input dna depending on concentration pcr grade water and a final primer concentration of 0.5 mm.
+Fragments were amplified from total genomic DNA using either Phusion High-Fidelity DNA Polymerase NEB catalog M0530S or Phusion High- Fidelity PCR Master Mix Thermo Scientific catalog  F-531S in a 50 mL reaction volume with 1-5 mL input DNA depending on concentration PCR grade water and a final primer concentration of 0.5 mM.
 
-lda scores for taxa identified as differentially abundant between a 10 and 1 ml for the v4 region and b 1 ml1 ml blocking 10 ml and10 ml blocking samples for the v9 region.
+Results were plotted using the ggplot2  R package and statistically compared using either the Wilcox Rank Sum or Kruskal-Wallis tests in R. Univariate tests for differentially abundant taxa with respect to extraction volume and primers used was performed on sum-normalized phylum level taxo- nomic summaries of non-rarefied eukaryotic OTU tables using LEfSe  with default settings Alpha  0.05 LDA  2 All-against-all or strict comparison.
 
-results were plotted using the ggplot2  r package and statistically compared using either the wilcox rank sum or kruskal-wallis tests in r. univariate tests for differentially abundant taxa with respect to extraction volume and primers used was performed on sum-normalized phylum level taxo- nomic summaries of non-rarefied eukaryotic otu tables using lefse  with default settings alpha  0.05 lda  2 all-against-all or strict comparison.
+In part two we developed experimental protocols for processing and sequencing of raw sewage samples and further evaluated the use of V4 and V9 regions for protist diversity studies and techniques.Evaluation of Published 18S rRNA Primers and Reference DatabasesWe first tested the ability of two of the most variable regions of the 18S rRNA gene V4 and V9 which are widely used in studies of eukaryotic microbial biodiversity to distinguish be- tween a variety of protist species and distinguish protist DNA from vertebrate DNA likely to be present in sewage.
 
-genomic dna was extracted from clonal isolates using a dnaeasy blood  tissue extraction kit qiagen catalog69504.sewage sample collection and dna extractiontwo 50 ml samples of raw sewage were collected from the aerated feed tank in the basement of a private apartment building in new york city in july and september of 2014 and transported in secure containers to new york university.
+No bands were visible on agarose gels after amplification and no DNA was able to be quantified using the Qubit dsDNA HS Assay kit and thus these control samples were excluded from downstream Illumina sequencing.
 
-dna from 10 of the 11 aliquots was concentrated post-extraction using a speedvac savant and subsequently pooled to represent dna from 10 ml of sewage.
+Genomic DNA was extracted from clonal isolates using a DNAEasy Blood  Tissue extraction kit QIAGEN catalog69504.Sewage Sample Collection and DNA ExtractionTwo 50 mL samples of raw sewage were collected from the aerated feed tank in the basement of a private apartment building in New York City in July and September of 2014 and transported in secure containers to New York University.
 
-fresh dna extrac- tions were performed using 11 1 ml aliquots per sample on the day of sample collection with the powersoil dna isolation kit mobio catalog 12888 following manufac- turer's instructions.
+Fresh DNA extrac- tions were performed using 11 1 mL aliquots per sample on the day of sample collection with the PowerSoil DNA Isolation kit MOBIO catalog 12888 following manufac- turer's instructions.
 
-in part two we developed experimental protocols for processing and sequencing of raw sewage samples and further evaluated the use of v4 and v9 regions for protist diversity studies and techniques.evaluation of published 18s rrna primers and reference databaseswe first tested the ability of two of the most variable regions of the 18s rrna gene v4 and v9 which are widely used in studies of eukaryotic microbial biodiversity to distinguish be- tween a variety of protist species and distinguish protist dna from vertebrate dna likely to be present in sewage.
+DNA from 10 of the 11 aliquots was concentrated post-extraction using a SpeedVac Savant and subsequently pooled to represent DNA from 10 mL of sewage.
 
-a al- though the only significant pairwise comparison was the v9table 2 reads returned after joining andor de-multiplexing the v4phylogenetic diversity metric wilcox test p  0.001. for samples with the blocking primer v9 region only the higher extraction volume continued to show higher alpha diversity than the 1 ml extractions however the addition of the blocking primer reduced the phylogenetic diversity of those samples fig.
+Additionally param- eters of sample collection and processing DNA extraction and sequencing protocols need to be evaluated which are particularly important in studies of eukaryotes due to the po- tential masking effects of host DNA.
 
-no bands were visible on agarose gels after amplification and no dna was able to be quantified using the qubit dsdna hs assay kit and thus these control samples were excluded from downstream illumina sequencing.
+The size distribution of purified libraries was determined using the 2100 Bioanalyzer or 2200 TapeStation Agilent Technologies and quantified via qPCR using the Library Quantification Kit--IlluminaLightCyclerr 480 KAPA Biosystems Rocher LightCycler 480.Quantified libraries were individually normalized to 4 nM based on qPCR and Bioanalyzer values and equal amounts of each 4 nM dilution were pooled.
 
-additionally param- eters of sample collection and processing dna extraction and sequencing protocols need to be evaluated which are particularly important in studies of eukaryotes due to the po- tential masking effects of host dna.
-
-library synthesis and amplification were per- formed in triplicate using phusion high-fidelity pcr master mix thermo scientific catalog f-531s a 20 ml reaction volume and a two-step pcr amplification strategy as de- scribed in  98 degc for 30 s 10 cycles of 98 degc for 10 s53 degc for 30 s 72 degc for 30 s and then 25 cycles of 98 degc for10 s 48 degc for 30 s 72 degc for 30 s and ending at 72 degc for10 min.the v9 fragment of the 18s rrna gene was amplified using illumina primer constructs containing the universal primers 1391f-eukbr  and the mammal blocking primer designed as described in .
-
-library synthesis and amplification using 5 ml of input dna was done in triplicate following the earth microbiome protocol  .
-
-for templates that did not amplify initially 1.5 ml of dmso per reaction was added and the pcr was repeated.18s rrna amplification for illumina sequencingenvironmental dna extracted from sewage samples was pre- pared for illumina sequencing targeting the v4 region and also the v9 region with and without the addition of the mam- mal blocking primer.
-
-doihu sk liu z lie aa countway pd kim dy jones ac gast rj cary sc sherr eb sherr bf caron da 2015 estimating protis- tan diversity using high-throughput sequencing.
-
-doiamaral-zettler la mccliment ea ducklow hw huse sm 2009 a method for studying protistan diversity using massively parallel sequencing of v9 hypervariable regions of small-subunit ribosomal rna genes.
+The resulting trees were visualized using FigTree v1.4.2 .All Sanger sequences from the V4 and V9 regions used in this study were de-replicated and clustered into OTUs at both 97 and 98 identity cutoff values using USEARCH v8.0.1 .
 

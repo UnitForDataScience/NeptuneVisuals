@@ -1,30 +1,20 @@
-to link the potential function capacity of gut microbiome to the level of serum glucose and lipids we performed functional prediction of gut microbiome based on the 16s rrna gene sequences.
+The heatmap of the KEGG terms associated with serum glucose and lipids was constructed by R software.To estimate the contribution of gut microbiome to the variation of serum glucose and lipids a 100x cross-validation was performed as described by Fu et al.. For each analysis the data set was randomly split into a 70 discovery set and a 30 validation set.
 
-the heatmap of the kegg terms associated with serum glucose and lipids was constructed by r software.to estimate the contribution of gut microbiome to the variation of serum glucose and lipids a 100x cross-validation was performed as described by fu et al.. for each analysis the data set was randomly split into a 70 discovery set and a 30 validation set.
+OPENReceived 13 February 2017Accepted 19 October 2017 Published xx xx xxxxEvaluating the contribution of gut microbiome to the variance of porcine serum glucose and lipid concentrationXiaochang Huang Shaoming Fang HuiYang Jun Gao Maozhang He Shanlin Ke Yuanzhang Zhao Congying Chen  Lusheng HuangSerum glucose and lipids are important indicators for host metabolic condition.
 
-openreceived 13 february 2017accepted 19 october 2017 published xx xx xxxxevaluating the contribution of gut microbiome to the variance of porcine serum glucose and lipid concentrationxiaochang huang shaoming fang huiyang jun gao maozhang he shanlin ke yuanzhang zhao congying chen  lusheng huangserum glucose and lipids are important indicators for host metabolic condition.
+However how much the gut microbiome contributes to the variance of serum glucose and lipids is largely unknown.
 
-however how much the gut microbiome contributes to the variance of serum glucose and lipids is largely unknown.
+Here we carried out a 16S rRNA gene based association study between cecum microbiome and the concentration of serum glucose and lipids in 240 Chinese Erhualian pigs.
 
-cross-validation analysis revealed that 23.8 variation of serum glucose and 1.66.0 variations of serum lipids were explained by gut microbiome.
+We identified tens of bacterial taxa associated with serum glucose and lipids.
 
-the results provide meaningful information to get insight into the effect of gut microbiome on serum glucose and lipid levels in pigs.serum glucose and lipids are important indicators for the condition of body metabolism.
+The pathogenic bacteria belonging to Proteobacteria and Fusobacteria showed significant associations with increased serum lipid levels while the bacteria Lactobacillus and Bacilli had negative correlations with serum lipids.
 
-however these genetic variants together account for only 25-30 of phenotypic variation of blood glucose and lipids which suggests that a big puzzle remains to be explored.mammalian gut microbiota is a complex ecosystem and composed of thousands of heterogeneous microbial species.
+Cross-validation analysis revealed that 23.8 variation of serum glucose and 1.66.0 variations of serum lipids were explained by gut microbiome.
 
-to date there are several studies focusing on the relationship between gut microbiome and blood glucose and lipids in humans.
+The results provide meaningful information to get insight into the effect of gut microbiome on serum glucose and lipid levels in pigs.Serum glucose and lipids are important indicators for the condition of body metabolism.
 
-fu et al.revealed that gut microbiome contributes a substantial proportion of variation in serum lipids.
+Abnormal concentra- tions of blood glucose and lipids are associated with various kinds of chronic diseases such as obesity diabetes as well as cardiovascular diseases.
 
-some studies have suggested that short chain fatty acids scfas produced by fermentation of gut bacteria play important roles in regulating serum glucose and lipids e.g.
-
-this suggests that pigs should be a perfect model for studying the contribution of gut microbiome to the variance of blood glucose and lipids.
-
-we evaluated the contribution of gut microbiome to the variance of serum glucose and lipids.
-
-we identified tens of bacterial taxa and predicted kegg function terms of gut microbiome showing significant associations with serum glucose and lipids.
-
-the results provided meaningful information about the relationship of homeostasis of serum glucose and lipids to gut microbiome.resultsmicrobial diversity of porcine cecum luminal samples from experimental pigs.
-
-.association of gut bacteria with the variance of serum glucose and lipids.
+However these genetic variants together account for only 25-30 of phenotypic variation of blood glucose and lipids which suggests that a big puzzle remains to be explored.Mammalian gut microbiota is a complex ecosystem and composed of thousands of heterogeneous microbial species.
 

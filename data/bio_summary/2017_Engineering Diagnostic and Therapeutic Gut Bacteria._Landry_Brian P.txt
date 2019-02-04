@@ -1,0 +1,20 @@
+Many strains of bacteria including most E. coli used in engineered gut bacteria have difficulty competing against the native microbiota so antibiotic treatment is used to facilitate colonization with antibiotic-resistant engineered gut bacteria.
+
+Second bacteria produce drugs on-site eliminating the need for ex- pensive purification steps involved in chemical drugFIGURE 1 The three classes of engineered gut bacteria.
+
+In addition to their clinical applications diagnostic gut bacteria will serve as scientific tools to lo- cally measure specific metabolites within gut models.These advances in engineering gut bacteria will enable the creation of the first smart probiotics capable of sensing and treating human disease within the gut.
+
+Engineering Diagnostic and Therapeutic Gut BacteriaBRIAN P. LANDRY1 and JEFFREY J. TABOR121Department of Bioengineering Rice University Houston TX 770302Department of Biosciences Rice University Houston TX 77030ABSTRACT Genetically engineered bacteria have the potential to diagnose and treat a wide range of diseases linked to the gastrointestinal tract or gut.
+
+Recent advances in synthetic biology have dramatically improved the reliability with which bacteria can be engineered with the sensors genetic circuits and output actuator genes necessary for diagnostic and therapeutic functions.
+
+Other recent reviews have focused on engineering bacteria to target cancer or genetically modifying the endogenous gut microbiota in situ.
+
+Here we develop a standard approach for engineering smart probiotics which both diagnose and treat disease as well as diagnostic gut bacteria and drug factory probiotics which perform only the former and latter function respectively.
+
+We focus on theuse of cutting-edge synthetic biology tools gut-specific designconsiderations and current and future engineering challenges.INTRODUCTION AND BACKGROUNDGenetically engineered bacteria have the potential to diagnose and treat a wide range of diseases linked to the gastrointestinal tract or gut.
+
+However to deploy such bacteria in vivo researchers must identify appropriate gut-adapted strains and consider performance metricssuch as sensor detection thresholds circuit computation speed growth rate effects and the evolutionary stability of engineered genetic systems.
+
+Other recent reviews have focused on engineering bacteria to target cancer   or genetically modifying the endogenous gut microbiota in situ  .
+

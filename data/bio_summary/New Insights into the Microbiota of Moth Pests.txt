@@ -1,30 +1,20 @@
-in this paper we review the literature pertaining to the microbiota of lepidopterans with a focus on pests and highlight potential recurrent patterns regarding microbiota structure and composition.keywords symbiosis bacterial communities crop pests forest pests lepidoptera next generation sequencing ngs technologies diet developmental stagesintroductioninsects represent the most successful taxa of eukaryotic life being able to colonize almost all environments including antarctica which is populated by some species of chironomids e.g.
+were different but it also showed that different populations feeding on the same diet had different microbiota thus indicating that multiple factors help in shaping the microbial community of this pest.Only one study has investigated the bacterial community associated with Helicoverpa armigera using NGS techniques  unfortunately they did not analyze how the bacterial community changed when the moths fed on different substrates.
+
+The composition of the gut microbiota was different both among caterpillars feeding on different diets and among individuals of the same feeding group.
+
+Interestingly Prya and colleagues  using T-RFLP analysis investigated the microbiota that are associated with leaf crops and the corresponding groups of larvae feeding on them castor chickpea cotton ladyfinger redgram sorghum sunflower and tomato discovering that the bacteria associated with the leaf phyllospere was shared with the microbiota of the different moth groups.
+
+Studies on the effect of the diet on the microbial composition of the pest Heliothis virescens showed that the microbiota of different populations fed on different diets Gossypium hirsutum Cicer arietinum and Nicotiana sp.
+
+The microbiota of this moth was investigated in both laboratory and field populations feeding on different diets.
+
+The authors investigated the microbiota of laboratory populations feeding on different diets e.g.
+
+The laboratory population was dominated by Enterococcaceae while field populations feeding on cotton chickpea and tobacco showed a richer microbiota composed of different bacterial families with more or less the same abundance .
+
+The results show that in the case of crop pests the families of Enterobacteriaceae and Enterococcaceae were shared across the different lepidopteran species that were analyzed Figure  suggesting the importance of these two families in the fitness of moth pests.Microbiota of Stored Products PestsStored products such as seeds dried tubers and fruit are infested and damaged by a different group of pests including arthropods e.g.
+
+In this paper we review the literature pertaining to the microbiota of lepidopterans with a focus on pests and highlight potential recurrent patterns regarding microbiota structure and composition.Keywords symbiosis bacterial communities crop pests forest pests Lepidoptera next generation sequencing NGS technologies diet developmental stagesIntroductionInsects represent the most successful taxa of eukaryotic life being able to colonize almost all environments including Antarctica which is populated by some species of chironomids e.g.
 
 the use of microbiota signatures as biomarkers of disease presence antibacterial molecules produced by the microbiota used for therapeutic purposes etc.
-
-interestingly prya and colleagues  using t-rflp analysis investigated the microbiota that are associated with leaf crops and the corresponding groups of larvae feeding on them castor chickpea cotton ladyfinger redgram sorghum sunflower and tomato discovering that the bacteria associated with the leaf phyllospere was shared with the microbiota of the different moth groups.
-
-in order to test if there was a factor influencing moth microbiota we used the data on the moth microbiota provided by the available studies.
-
-reviewnew insights into the microbiota of moth pestsvaleria mereghetti bessem chouaia and matteo montagna  dipartimento di scienze agrarie e ambientali universita degli studi di milano 20122 milan italy v.m.
-
-to date little is known about the microbiota of lepidopterans which includes some of the most damaging agricultural and forest pests worldwide.
-
-studying their microbiota could help us better understand their ecology and offer insights into developing new pest control strategies.
-
-indeed recent work suggests that the microbiota plays an important role during insect developmental stages and is involved in many host activities such as nutrition - reproduction  and protection against insecticides or plant secondary metabolites e.g.
-
-these different factors are not necessarily exclusive but recent work has suggested that the microbiota can be altered by diet and host phylogeny -.
-
-these symbiotic associations represent the major driving force of evolutionary innovation by conferring novel phenotypic traits on the host allowing for the colonization of new ecological niches.an enhanced understanding of the bacterial community of insects is that the resident microbiota may offer new possibilities to improve integrated pest management methods targeting economically important insects.
-
-an early study examined the effect of different diets and insect origin laboratory or field populations on the microbiota that are associated with this moth using traditional culture-dependent and independent approaches i.e.
-
-in particular they studied the microbiota that are associated with the three gut regions of last instar larvae and pupae when the insect fed on different plants.
-
-the composition of the gut microbiota was different both among caterpillars feeding on different diets and among individuals of the same feeding group.
-
-the results obtained by vilanova and colleagues  showed that the b. crini microbiota was dominated by firmicutes assigning 94-99 of the bacterial operational taxonomic units otus to enterococcus sp.
-
-generally the microbiota of t. pityocampa were dominated by the phylum proteobacteria 61 followed by actinobacteria 19 bacteroidetes 15 and firmicutes 3. within proteobacteria the highest numbers of otus were assigned to moraxellaceae enterobacteriaceae and pseudomonadaceae.
 

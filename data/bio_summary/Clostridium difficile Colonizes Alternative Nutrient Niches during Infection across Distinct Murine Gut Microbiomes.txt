@@ -1,30 +1,20 @@
-to investigate the physiology of c. difficile when colonizing distinct susceptible gut environments we performed whole-transcriptome analysis of c. difficile from the cecal content of the same mice used to measure c. difficile density and toxin activity.c.
+To investigate the physiology of C. difficile when colonizing distinct susceptible gut environments we performed whole-transcriptome analysis of C. difficile from the cecal content of the same mice used to measure C. difficile density and toxin activity.C.
 
-combined these results suggested that while catabolism of amino acids and specific carbohydrates is a core component of the c. difficile nutritional strategy during infection c. difficile adapted its metabolism across different susceptible environments.genome-scale metabolic model structure underscores known c. difficile phys- iology.
+Combined these results suggested that while catabolism of amino acids and specific carbohydrates is a core component of the C. difficile nutritional strategy during infection C. difficile adapted its metabolism across different susceptible environments.Genome-scale metabolic model structure underscores known C. difficile phys- iology.
 
-taken together these results are a strong indication that the healthy gut microbiota inhibits the growth of c. difficile by limiting the availability of thesubstrates that it needs to grow.based on genomic and in vitro growth characteristics c. difficile appears able to adapt to a variety of nutrient niches .
+Taken together these results are a strong indication that the healthy gut microbiota inhibits the growth of C. difficile by limiting the availability of thesubstrates that it needs to grow.Based on genomic and in vitro growth characteristics C. difficile appears able to adapt to a variety of nutrient niches .
 
-by characterizing a transcriptome-enabled metabolic model of c. difficile and changes in the metabolome of each respective environment we were able to generate a systems model to directly test the nutrient niche hypothesis.resultslevels of c. difficile sporulation and toxin activity vary among different micro- biomes.
+By characterizing a transcriptome-enabled metabolic model of C. difficile and changes in the metabolome of each respective environment we were able to generate a systems model to directly test the nutrient niche hypothesis.RESULTSLevels of C. difficile sporulation and toxin activity vary among different micro- biomes.
 
-a vegetative c. difficile cfu per gram of cecal content p  0.05. b c. difficile spore cfu per gram of cecal content.
+These results reflected the defined biological patterns of C. difficile and were therefore a viable platform to study metabolism of the pathogen.Metabolite score algorithm reveals adaptive nutritional strategies of C. difficile during infection of distinct environments.
 
-these results reflected the defined biological patterns of c. difficile and were therefore a viable platform to study metabolism of the pathogen.metabolite score algorithm reveals adaptive nutritional strategies of c. difficile during infection of distinct environments.
+We went on to confirm that our strain of C. difficile could metabolize GlcNAc for growth  Table S5 in C. difficile minimal medium .
 
-we went on to confirm that our strain of c. difficile could metabolize glcnac for growth  table s5 in c. difficile minimal medium .
+Previous analysis of C. difficile colonizing GF mice under monoassociated conditions indicated that C. difficile uses both sets of metab- olites  however use of these metabolites in the context of a complex community of potential competitors has not been observed.
 
-previous analysis of c. difficile colonizing gf mice under monoassociated conditions indicated that c. difficile uses both sets of metab- olites  however use of these metabolites in the context of a complex community of potential competitors has not been observed.
+This analysis indicated that these metabolites might be an integral component of the nutrient niche for C. difficile.In vivo metabolomic analysis supports that C. difficile consumes metabolites indicated by metabolic modeling.
 
-this analysis indicated that these metabolites might be an integral component of the nutrient niche for c. difficile.in vivo metabolomic analysis supports that c. difficile consumes metabolites indicated by metabolic modeling.
+We tested whether the susceptible communities had significantly different concentrations of each metabolite relative to untreated SPF mice and whether the presence of C. difficile affected the metabolite composition.First we compared the relative concentrations of highly scored metabolites in untreated SPF mice and antibiotic-pretreated mice in the absence of C. difficile .
 
-we tested whether the susceptible communities had significantly different concentrations of each metabolite relative to untreated spf mice and whether the presence of c. difficile affected the metabolite composition.first we compared the relative concentrations of highly scored metabolites in untreated spf mice and antibiotic-pretreated mice in the absence of c. difficile .
-
-na denotes metabolites that were not included in our metabolic model of c. difficile strain 630. black asterisks inside the panels represent significant differences between mock- and c. difficile-infected groups within separate treatment groups all p values were 0.05. gray asterisks above each panel indicate significant differences from untreated spf mice all p values were 0.05. significance was determined with the wilcoxon signed-rank test with the benjamini-hochberg correction.increased fitness for exploiting differentially perturbed gut communities.
-
-even with this possibility the application of multiple methods to study the altered physiology of c. difficile in mock-infected and infected communities allowed us to validate our results based on known elements of c. difficile biology and to internally cross-validate the novel results from our experiments.
-
-only through integrative multiomic analysis of c. difficile infection employing genomics transcriptomics and metabolomics were we able to uncover a much clearer image of c. difficile's nutrient niche space during infection in the context of complex microbial communities.
-
-a major risk factor for clostridium difficile infection cdi is prior exposure to antibiotics as they disrupt the gut bacterial community which pro- tects from c. difficile colonization.
-
-these community structures present separate metabolic challenges to c. difficile.
+Even with this possibility the application of multiple methods to study the altered physiology of C. difficile in mock-infected and infected communities allowed us to validate our results based on known elements of C. difficile biology and to internally cross-validate the novel results from our experiments.
 

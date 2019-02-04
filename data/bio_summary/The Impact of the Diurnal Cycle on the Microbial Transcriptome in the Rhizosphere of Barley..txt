@@ -1,30 +1,20 @@
-microb ecol httpsdoi.org10.1007s00248-017-1101-0the impact of the diurnal cycle on the microbial transcriptome in the rhizosphere of barleydivyashri baraniya1  paolo nannipieri1  susanne kublik2  gisle vestergaard2 michael schloter2  anne scholer2received 25 september 2017  accepted 26 october 2017 springer sciencebusiness media llc 2017abstract while root exudation follows diurnal rhythms little is known about the consequences for the microbiome of the rhizosphere.
+Microb Ecol httpsdoi.org10.1007s00248-017-1101-0The Impact of the Diurnal Cycle on the Microbial Transcriptome in the Rhizosphere of BarleyDivyashri Baraniya1  Paolo Nannipieri1  Susanne Kublik2  Gisle Vestergaard2 Michael Schloter2  Anne Scholer2Received 25 September 2017  Accepted 26 October 2017 Springer ScienceBusiness Media LLC 2017Abstract While root exudation follows diurnal rhythms little is known about the consequences for the microbiome of the rhizosphere.
 
-in this study we used a metatranscriptomic ap- proach to analyze the active microbial communities before and after sunrise in the rhizosphere of barley.
+In this study we used a metatranscriptomic ap- proach to analyze the active microbial communities before and after sunrise in the rhizosphere of barley.
 
-actinomycetales planctomycetales rhizobiales and burkholderiales were the most abundant and therefore the most active orders in the barley rhizosphere.
+Actinomycetales Planctomycetales Rhizobiales and Burkholderiales were the most abundant and therefore the most active orders in the barley rhizosphere.
 
-this study significantly enhances our present knowledge on how rhizospheric mi- crobiota perceives and responds to changes in the soil dur- ing dark and light periods.keywords rhizosphere .
+Microbial dynamicsThe microbiome of the rhizosphere plays a crucial role in plant health as it determines nutrient availability as well as response patterns of the plant towards abiotic and biotic stressors .
 
-microbial dynamicsthe microbiome of the rhizosphere plays a crucial role in plant health as it determines nutrient availability as well as response patterns of the plant towards abiotic and biotic stressors .
+In turn the microbiome of the rhizosphere benefits from plant- derived carbon as a major energy source and surfaces for colo- nization and formation of microbial networks  .
 
-in turn the microbiome of the rhizosphere benefits from plant- derived carbon as a major energy source and surfaces for colo- nization and formation of microbial networks  .
+So far these short-term dynamics have mostly been ignored when composition and function of the rhizosphere microbiome have been analyzed.
 
-so far these short-term dynamics have mostly been ignored when composition and function of the rhizosphere microbiome have been analyzed.
+We hypothesize that microbial activities in the rhizosphere are closely linked to theElectronic supplementary material The online version of this article  contains supplementary material which is available to authorized users.
 
-we hypothesize that microbial activities in the rhizosphere are closely linked to theelectronic supplementary material the online version of this article  contains supplementary material which is available to authorized users.
+At that time point rhizosphere samples were col- lected at 4.30 a.m. 1 h before sunrise and 9.30 a.m. 4 h after sunrise respectively.
 
-at that time point rhizosphere samples were col- lected at 4.30 a.m. 1 h before sunrise and 9.30 a.m. 4 h after sunrise respectively.
-
-1 analysis of metatranscriptomic data sampled from the rhizosphere of barley at pre-dawn and post-dawn stages.
+1 Analysis of metatranscriptomic data sampled from the rhizosphere of barley at pre-dawn and post-dawn stages.
 
 a which is in agreement with other studies on the microbiome of the barley rhizosphere.
-
-another interesting study proposed that higher solute and carbon flux to the rhizosphere at night facilitates microbial growth which results in higher nutrient demands .
-
-front microbiol 5148bais hp weir tl perry lg gilroy s vivanco jm 2006 the role of root exudates in rhizosphere interactions with plants and other organisms.
-
-annu rev plant biol 57233-266brzostek er greco a drake je finzi ac 2013 root carbon inputs to the rhizosphere stimulate extracellular enzyme activity and increase nitrogen availability in temperate forest soils.
-
-plant cell environ 32666-681kuzyakov y cheng w 2004 photosynthesis controls of co2 efflux from maize rhizosphere.
 

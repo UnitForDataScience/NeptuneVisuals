@@ -1,30 +1,20 @@
-thus the fitness effects of mutations comprising the first step of adaptation to the gut could be described by a simple distribution where all mutations have similar effect .here we use an evolved gat-negative single mutant to colonize a new set of mice mimicking a strong transmission bottleneck and ask if the rate of adaptation slows down in this complex ecosystem.
+3 and 5 imply that irrespectively of the founder clone being constitutive or regulated in the long run gat-negative and gat-positive poly- morphism is likely to emerge and be maintained in the gut.Microbiota Composition Affects E. coli Abundance but not E. coli Reverse EvolutionThe success of E. coli colonization in terms of population size is variable among mice.
 
-data pre- sented in supplementary table s1 supplementary material online.diet supplementation experimentto test the selective pressure exerted by galactitol when pre- sent in the gut we performed in vivo competitions between gat-positive dm08 and gat-negative jb18 bacteria whereas supplementing the diet with this sugar.
+Thus the fitness effects of mutations comprising the first step of adaptation to the gut could be described by a simple distribution where all mutations have similar effect .Here we use an evolved gat-negative single mutant to colonize a new set of mice mimicking a strong transmission bottleneck and ask if the rate of adaptation slows down in this complex ecosystem.
 
-frequencies are depicted in supplementary table s1 supplementary material online.microbiota analysiswe extracted dna from mice fecal samples from two experi- ments the second colonization  and the galactitol supplementation experiment .
+In this mouse model the E. coli that naturally inhabits the mouse gut is killed by the antibiotic whereas the fluorescently labeled E. coli which is streptomycin resistant is able to stably colonize and evolve in the gut.
 
-remarkably we uncovered the rapid emergence of several mutations in the galactitol operon  see also supplementary table s1 supplementary material online particularly in the previ- ously pseudogenized gatc .
+Remarkably mice with low loads of E. coli  exhibit a microbiota community composition significantly different from mice with high loads of E. coli .
 
-recurrent reverse evolution maintains polymorphism after strong bottlenecks in commensal gut bacteriaana sousa12 ricardo s. ramiro1 joao barroso-batista1 daniela guleresi1 marta lourenco1 and isabel gordo11instituto gulbenkian de ciencia oeiras portugal2department of medical sciences institute for biomedicine university of aveiro aveiro portugalpresent address department of microbiology institute pasteur 25-28 rue du dr roux 75015 paris francecorresponding author e-mail associate editor deepa agasheabstractthe evolution of new strains within the gut ecosystem is poorly understood.
+This suggests that there is variation in the concentrations of the unidentified resources that are con- sumed by the gat-negative E. coli.Natural Polymorphism for Galactitol Consumption in Indigenous Enterobacteriacea of Mice and Humans The findings reported here suggest that the gut ecology may favor natural polymorphism for galactitol metabolism in its microbiota.
 
-our results demonstrate that natural selection can greatly overwhelm genetic drift at structuring the strain diversity of gut commensals and that competition for limiting resources may be a key mechanism for maintaining polymorphism in the gut.key wordsexperimental evolution microbiota reverse evolution intrastrain polymorphism nutritional optimization precision medicine.introductionthe mammalian gut is inhabited by a highly diverse microbial community including multiple phyla of bacteria archaea eukaryotes and viruses.
+The gut microbiota affects the densities of gat-negative but not gat-positive E. coli A.
 
-in this mouse model the e. coli that naturally inhabits the mouse gut is killed by the antibiotic whereas the fluorescently labeled e. coli which is streptomycin resistant is able to stably colonize and evolve in the gut.
+C-D Temporal dynamics of gat- negative and gat-positive E. coli showing that the densities of gat-negative E. coli are lower in mice with the cluster I microbiota C than in mice2886Table 1.
 
-recently we began to uncover the nature of the adaptive process that e. coli experiences in the gut by following the evolutionary dynamics of a lineage colonizing mice.
+The number of spontaneous gat-positive mutants and total num- ber of cells grown on LB were used to estimate the mutation rate using the maximum likelihood approach as implementedin FALCOR .We measured the mutation rate to reacquire the ability to consume galactitol since this locus was previously demon- strated to be a hotspot for loss of function mutations c. The fluctuation test revealed that the spontaneous rate at which the ancestor of the second colonization gat-negative recovers the ability to consume galactitol is 9.710-9 95 CI 310-9 1.910-8 per generation.
 
-distinct but phenotypically equivalent knock-out alleles of this op- eron bearing a similar selective effect 7.5 benefit  were recurrently observed to emerge across all populations adapting to the gut of independent mice reaching 95-99 frequency after 24 days  430 gener- ations.
+C The third colonization initiated with a gat-positive clone isolated from the second colonization exhibited the reemergence of gat-negative mutants as in the first colonization.gat-positive to gat-negative and 9.710-9 95 CI 310-9 1.9 10-8 for gat-negative to gat-positive see Materials and Methods.
 
-finally we find that natural isolates of e. coli inhabiting the guts of healthy humans show variation for galactitol consumption--a trait that we find to be under strong selection in laboratory mice.results and discussionrate of adaptation to the mouse gut during the second steps of adaptationwe colonized 15 mice with a clonal population of e. coli exhibiting the first beneficial phenotype--inability to uptake galactitol--conferred by a single base pair insertion in the coding region of the gatc gene which encodes a subunit of the galactitol transporter.
-
-we then colonized new mice with this strain and followed its evolution in the mouse gut for 19 days n 6. in contrast to the colonization initi- ated with gat-positive constitutive we did not observe the2884emergence of gat-negative mutants.
-
-we thus enquired whether we could observe an association between the loads of e. coli and the microbiota community composition in the gut of the colonized mice .
-
-this suggests that there is variation in the concentrations of the unidentified resources that are con- sumed by the gat-negative e. coli.natural polymorphism for galactitol consumption in indigenous enterobacteriacea of mice and humans the findings reported here suggest that the gut ecology may favor natural polymorphism for galactitol metabolism in its microbiota.
-
-to test for this we sampled enterobacteriacea clones from the natural microbiota of our host model organ- ism fecal samples of mice untreated with antibiotics in the igc animal house n20 and from the gut microbiota of healthy humans with no controlled diet n9.
-
-b analysis of the mouse gut microbiota divides mice into two main clusters i red and ii blue.
+The total load of E. coli was not significantly different across diets v2 4.9 P 0.09 consistent with the main effect of galactitol supplementation being the increase of gat-positive abundance.We then assayed if the composition of the other species in the mouse gut could be altered when adding galactitol to the diet by 16S rDNA metagenomics of the mouse fecal samples.
 

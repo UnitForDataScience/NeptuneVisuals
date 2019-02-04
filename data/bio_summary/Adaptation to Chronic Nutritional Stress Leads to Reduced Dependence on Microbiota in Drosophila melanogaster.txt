@@ -1,30 +1,20 @@
-irrespective of this apparent decline over time colonization by microbiota strongly enhanced proteolysis in control larvae but had a significantly smaller effect on proteolysis in selected larvae as evidenced by the significant inter- action term in  p 0.005. while gf selected larvae exhibited marginally significantly p 0.083 higher levels of protease activity than gf controls the trend went in the opposite direction in microbiota-associated larvae.
+This confirmed that the Selected and Control populations did not develop different microbiota communities Therefore any differences in responses between Selected and Control populations to microbiota would be unlikely to be due to differences in the microbiota communities with which they coevolved instead they would be driven by adaptation to different dietary regimes in the presence of similar microbiotas.As a consequence of evolutionary adaptation to poor diet over 170 generations larvae of our Selected populations had previously been reported to develop faster and survive better than Control larvae on a poor diet but not on a standard diet  .
 
-irrespective of these temporal changes gf selected larvae consistently showed 3-fold-lower amylase activity than gf control larvae of the same stage blue symbols in  this difference is much smaller and nonsignificant in microbiota-colonized larvae orange symbols in .
+Whereas Control larvae colonized with microbiota developed 40 faster and were three times more likely to survive on the poor diet than their GF siblings the corresponding effect of microbiota treatment onSelected larvae was much smaller and  for statistical analysis see Table S1 in the supplemental material.
 
-we show that protein and carbohydrate digestion in selected larvae is much less affected by microbiota than in controls in spite of the two types of larvae carrying microbiota of similar compositions and abundances.
+The differential effects of microbiota on survival development and digestive enzyme activity of the Selected versus Control larvae reported above might result from differential coloniza- tion of their guts by the microbiota from the fecal transplant used as inoculum in these experiments.
 
-larvae of selected populations from poor diet and larvae of control populations from standard diet.
+Dependence on microbiota remained strong in our Control populations which originated from the same base population as the Selected popu- lations but did not have a history of evolution on the poor diet.The dependence of Drosophila larvae facing nutrient shortage on benefits provided by gut microbiota is known to be mediated at least in part by two major mechanisms enhanced digestion and induction of IIS and TOR signaling which regulate cell and tissue growth via the transcription factor dFOXO .
 
-this confirmed that the selected and control populations did not develop different microbiota communities therefore any differences in responses between selected and control populations to microbiota would be unlikely to be due to differences in the microbiota communities with which they coevolved instead they would be driven by adaptation to different dietary regimes in the presence of similar microbiotas.as a consequence of evolutionary adaptation to poor diet over 170 generations larvae of our selected populations had previously been reported to develop faster and survive better than control larvae on a poor diet but not on a standard diet  .
+This suggests that evolution in response to nutrient shortage acted in part by releasing the larvae from dFOXO-mediated growth suppression modifying some of the same mechanisms that mediate responses to microbiota in nonadapted larvae.We also find that the expression of dFOXO itself is downregulated by association with microbiota as well as in Selected compared to Control populations.
 
-as explained in the introduction our study was motivated by the hypothesis that the improved performance of selected larvae on the poor diet is at least in part mediated by an improved ability of larvae to benefit from interactions with microbiota.
+Possibly in spite of the positive net effect of microbiota on Control larvae the microbiota may have competed with the host for nutrition on the poor diet which may have acted as a selective force for adaptation on the Selected populations to increase nutrient effi- ciency.
 
-whereas control larvae colonized with microbiota developed 40 faster and were three times more likely to survive on the poor diet than their gf siblings the corresponding effect of microbiota treatment onselected larvae was much smaller and  for statistical analysis see table s1 in the supplemental material.
+We show that protein and carbohydrate digestion in Selected larvae is much less affected by microbiota than in Controls in spite of the two types of larvae carrying microbiota of similar compositions and abundances.
 
-in particular the developmental time became statistically indistinguish- able between the selected and control larvae in the colonized state even though selected larvae still tended to develop about 1 day faster than controls.
+Irrespective of this apparent decline over time colonization by microbiota strongly enhanced proteolysis in Control larvae but had a significantly smaller effect on proteolysis in Selected larvae as evidenced by the significant inter- action term in  P 0.005.
 
-microbiota had a striking effect on how amylase activity changed over time while it declined between early and late third stage in the microbiota-colonized larvae it increased sharply during the corresponding developmental period in gf larvae slope difference p  0001 .
+In the GF state the Selected larvae show a higher proteolytic activity at least in mid-third larval stage and lower amylase activity than GF Controls which parallels the effects of microbiota on Control larvae.
 
-detailed statistics including pairwise contrasts are presented in table s3.by glucose concentration   these results suggest that control larvae maintain lower glucose levels than selected larvae under gf conditions.to verify if the pattern that we observed is regulated at the transcriptional level we quantified amylase transcript levels in the guts.
-
-in the gf state the selected larvae show a higher proteolytic activity at least in mid-third larval stage and lower amylase activity than gf controls which parallels the effects of microbiota on control larvae.
-
-although in the gf state selected larvae produce larger amounts of maltases which would correlate with higher maltose breakdown in these larvae addition of microbiota does not systematically induce maltase expression.
-
-however we cannot exclude the possibility that carbohydrate metabolism in bacteria also influences the amount of monosaccharides present in the system and thus the feedback loops that control the activity and expression of these enzymes.interestingly protease and amylase activity of selected larvae is less strongly affected by microbiota than is the case for control larvae.
-
-the same strain of l. plantarum that alleviates the effect of nutrient limitation on growth of mice  promotes the growth of drosophila larvae on a protein-poor diet.
-
-the nutrient content of the poor diet is so low that nonadapted larvae take twice as long to develop as on a standard diet which contains 1.2 wtvol yeast and the resulting adults are only half of normal weight .
+However we cannot exclude the possibility that carbohydrate metabolism in bacteria also influences the amount of monosaccharides present in the system and thus the feedback loops that control the activity and expression of these enzymes.Interestingly protease and amylase activity of Selected larvae is less strongly affected by microbiota than is the case for Control larvae.
 

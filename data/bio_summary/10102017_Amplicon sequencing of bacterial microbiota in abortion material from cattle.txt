@@ -1,30 +1,20 @@
-the healthy fetal samples were all negative no bacterial dna was amplified in thecontrol samples including the two negative extraction control tubes.sequencing overviewa total of 81 samples from 64 bovine abortion cases were analyzed to investigate the composition of the bac- terial microbiota.
+Thus far no study has focused on the bacterial microbi- ota present in bovine abortion material.The objective of this study was to characterize the microbiota of samples from cattle abortions using high throughput sequencing of the V3-V5 region of the 16S rRNA gene to provide new insight into the bacteria that may play a role in bovine abortion.Materials and methodsSample collectionSamples from 64 bovine abortion cases from different cantons of Switzerland that were submitted for routine abortion investigation were collected from October 2012 to March 2014 Bern n  40 Luzern n  6 SolothurnSwitzerland.
 
-appl environ microbiol 725069-5072caporaso jg kuczynski j stombaugh j bittinger k bushman fd costello ek fierer n pena ag goodrich jk gordon ji huttley ga kelley st knights d koenig je ley re lozupone ca mcdonald d muegge bd pirrung m reeder j sevinsky jr turnbaugh pj walters wa widmann j yatsunenko t zaneveld j knight r 2010 qiime allows analysis of high- throughput community sequencing data.
+The healthy fetal samples were all negative no bacterial DNA was amplified in thecontrol samples including the two negative extraction control tubes.Sequencing overviewA total of 81 samples from 64 bovine abortion cases were analyzed to investigate the composition of the bac- terial microbiota.
 
-microbial profiles from the pl showed signifi- cant higher values of actual species richness number of otus figure a and the estimated species richness or chao-1 figure c. the shannon diversity index did not show significant differences figure b. on aver- age samples from the ac showed 42 - 1 sem otus whereas samples from the pl showed 110 - 1 sem otus.composition of the associated bacterial communities in the ac and plat the phylum and class level 16 and 35 subcategories were identified in the abortion material samples respec- tively figure .
+Appl Environ Microbiol 725069-5072Caporaso JG Kuczynski J Stombaugh J Bittinger K Bushman FD Costello EK Fierer N Pena AG Goodrich JK Gordon JI Huttley GA Kelley ST Knights D Koenig JE Ley RE Lozupone CA Mcdonald D Muegge BD Pirrung M Reeder J Sevinsky JR Turnbaugh PJ Walters WA Widmann J Yatsunenko T Zaneveld J Knight R 2010 QIIME allows analysis of high- throughput community sequencing data.
 
-thus far no study has focused on the bacterial microbi- ota present in bovine abortion material.the objective of this study was to characterize the microbiota of samples from cattle abortions using high throughput sequencing of the v3-v5 region of the 16s rrna gene to provide new insight into the bacteria that may play a role in bovine abortion.materials and methodssample collectionsamples from 64 bovine abortion cases from different cantons of switzerland that were submitted for routine abortion investigation were collected from october 2012 to march 2014 bern n  40 luzern n  6 solothurnswitzerland.
+On aver- age samples from the AC showed 42 - 1 SEM OTUs whereas samples from the PL showed 110 - 1 SEM OTUs.Composition of the associated bacterial communities in the AC and PLAt the phylum and class level 16 and 35 subcategories were identified in the abortion material samples respec- tively Figure .
 
-in contrast to previous studies that focused on implicat- ing specific bacteria from bovine abortion material by bacterial culture and targeted molecular detection   - we studied the total bacterial microbiota present in abortion material from cattle using a 16s rrna ampli- con sequencing approach.
+In contrast to previous studies that focused on implicat- ing specific bacteria from bovine abortion material by bacterial culture and targeted molecular detection   - we studied the total bacterial microbiota present in abortion material from cattle using a 16S rRNA ampli- con sequencing approach.
 
-front microbiol 3146horz hp conrads g 2010 the discussion goes on what is the role ofeuryarchaeota in humans archaea 2010967271aagaard k ma j antony km ganu r petrosino j versalovic j 2014 the placenta harbors a unique microbiome.
+J Clin Micro- biol 424909-4911Plumed-Ferrer C Uusikyla K Korhonen J von Wright A 2013 Characteri- zation of Lactococcus lactis isolates from bovine mastitis.
 
-appl environ microbiol 86324-6332rodrigues nf kastle j coutinho tj amorim at campos gb santos vm marques lm timenetsky j de farias st 2015 qualitative analysis of the vaginal microbiota of healthy cattle and cattle with genital-tract disease.
+Front Microbiol 3146Horz HP Conrads G 2010 The Discussion goes on what is the role ofEuryarchaeota in humans Archaea 2010967271Aagaard K Ma J Antony KM Ganu R Petrosino J Versalovic J 2014 The placenta harbors a unique microbiome.
 
-pcr was performed at a final volume of 30 ul of reaction mixture contain- ing 1x pcr buffer 2 mm mgcl2 0.4 um forward andreverse primer 200 um drntps 0.25 ul of 5 uul ther-n  5 aargau n  3 vaud n  3 basel-land n  2mostable dna firepolpolymerase solis biodynefribourg n  2 jura n  2 and valais n  1. from the 64 cases of aborted cows we analyzed 81 samples 32 samples of placenta pl and 49 of fetal abomasal content ac.
+lactis which is mainly associated with bovine mastitis  has also been isolated from a bovine abortion .
 
-the p values werebraunschweig germany slides and stained with hema- toxylin and eosin he.results16s rrna gene--pcr screeningwe confirmed the presence of bacterial dna in the 81 samples of abortion material.
+PLoS One 9e85904Kuehn JS Gorden PJ Munro D Rong R Dong Q Plummer PJ Wang C Phillips GJ 2013 Bacterial community profiling of milk samples as a means to understand culture-negative bovine clinical mastitis.
 
-after interpretation of results it was possible to reveal different taxonomic profiles showing two principal components accounting for 53 of the total data variability and thereby clearly splitting autol- ytic samples from those with infectious bacterial causes on the x-axis figure .
-
-plos one 9e85904kuehn js gorden pj munro d rong r dong q plummer pj wang c phillips gj 2013 bacterial community profiling of milk samples as a means to understand culture-negative bovine clinical mastitis.
-
-the case 14a20pl with a high number of reads for aeromonadaceae 73 displayed a mild necrotizing placentitis with mixed inflammatory infiltrate without vasculitis.figure 5 heat map showing the relative abundances of the most abundant genera identified in the ac and pl microbiota only taxa with relative abundances of  0.5.table 2 abortive agents isolated in pure culturelarge number and the corresponding most abundant genera found by ngswhile the samples from 13ue491pl 13ue851pl and 13ue1218pl showed lesions as described below we did not identify a specific possible pathogen from a high number of reads andor isolated in culture.
-
-in our study the negative control samples were extracted in the nec- ropsy hall in aseptic conditions directly from the uterus of a dead cow having a minimal contact with the envi- ronment and no contact with the commensal microbiota from the vagina.
-
-moreover the extraction of the mentioned biopsies was done through the vaginal tract of the live cows exposing the samples to the commensal microbiota.
-
-sci transl med 6237ra65lauder ap roche am sherrill-mix s bailey a laughlin al bittinger k leite r elovitz ma parry s 2016 comparison of placenta samples with contamination controls does not provide evidence for a distinct placenta microbiota.
+From the 64 cases of aborted cows we analyzed 81 samples 32 samples of placenta PL and 49 of fetal abomasal content AC.
 

@@ -1,30 +1,20 @@
-postnatal changes in the relative abundance of intestinal lactobacillus spp.
+The individual differences in the taxonomic composition of the intestinal microbiota among the calves were smaller at 7 days after birth.Seven families of bacteria rose to dominance in the microbiota of the tested samples during the first 7 days as follows families Bifidobacteriaceae and Coriobacteriaceae in phylum Actinobacteria families Lactobacillaceae Streptococcaceae and Veillonellaceae in phylum Firmicutes family Bacteroidaceae in phylum Bacteroidetes and family Enterobacteriaceae inphylum Proteobacteria Table 1.
 
-sci.793 452-455 2017doi 10.1292jvms.16-04061school of veterinary medicine rakuno gakuen university 582 bunkyodai ebetsu-shi hokkaido 069-0836 japan2scientific feed laboratory co. ltd. 3-5 miyahara takasaki gunma japan3research institute for microbial diseases osaka university 3-1 yamadaoka suita osaka japanreceived 25 august 2016accepted 20 december 2016 published online in j-stage8 january 2017the intestinal microbiota is affected by gender diet age antibiotic treatment and environmental factors.
+The RAs of the following bacterial families increased significantly from day 1 to day 7 Bifidobacteriaceae P0.001 Coriobacteriaceae P0.01 and Veillonellaceae P0.01 while that of Enterobacteriaceae decreased with borderline significance P0.07.One study in adult cattle reveals that Firmicutes dominate the intestinal microbiome representing 81.9 of all sequence reads followed by Proteobacteria 9.6 Bacteroidetes 5.4 and Actinobacteria 2.8 .
 
-it has been reported that the relative abundance ra values of bifidobacterium and lactobacillus in the intestinal microbiota vary according to the host species .
+The calves were fed mother's fresh colostrum within 12 hr after birth and after that they were fed 2 l of a commercially available milk replacement Meiji Feed Co. Ltd. Tokyo Japan twice a day during the observation period.Samples were collected from rectal feces a day after birth day 1 and 7 days after birth day 7.
 
-in human adults and adult cows the intestinal microbiome has been studied by metagenomic analysis and is reported to be composed of the phylafirmicutes ra 64 81.9 bacteroidetes 23 5.4 proteobacteria 8 9.6 and actinobacteria 3 2.8 .
+The intestinal microbiome in calves at 36 days of age was reported to be composed of Firmicutes 49.1 Bacteroidetes 42.3 and Proteobacteria 4.1 .
 
-the intestinal microbiome in calves at 36 days of age was reported to be composed of firmicutes 49.1 bacteroidetes 42.3 and proteobacteria 4.1 .
+The relative abundance of intestinal bacteria according to metagenomic analysis.
 
-nonetheless there have been no reports on the development of the intestinal microbiota in newborn calves by means of the metagenomic method.lactobacillus spp.
+The relative abundance values of intestinal microbial taxa in newborn calvesThe data show the taxonomic levels of the detected microbes more than 1 of RA in newborn calves on day 1 and day 7.Fig.
 
-1. the relative abundance of intestinal bacteria according to metagenomic analysis.
+The intestinal microbiome was characterized by an increase in the RA of Firmicutes including families such as Lactobacillaceae during the first week after birth.
 
-these results showed that the intestinal microbiota of newborn calves was composed of 4 phyla actinobacteria bacteroidetes firmicutes and proteobacteria.
+The RAs and colony counts in the microbiota between day 1 and day 7 after birth were calculated and significance of the differences was analyzed by Student's t-test.The sequencing generated a dataset consisting of filtered high-quality classifiable 16S rRNA gene sequences with a mean - standard error SE of 14317 - 3967 sequences per sample.The metagenomic analysis determined that several phyla were present in the microbiome.
 
-all the calves were managed in the same breeding environment and given the same milk replacement diet.nevertheless differences in the composition of the intestinal microbiome among individual calves were observed in the day 1 feces.
+The RAs of Lactobacillaceae Streptococcaceae and Veillonellaceae changed from 0.14 - 0.13 0.16 - 0.07 and 0.08 - 0.04 on day 1 to 11.3 - 5.1 4.7 - 2.2 and 7.1 - 1.6 on day 7.
 
-the individual differences in the taxonomic composition of the intestinal microbiota among the calves were smaller at 7 days after birth.seven families of bacteria rose to dominance in the microbiota of the tested samples during the first 7 days as follows families bifidobacteriaceae and coriobacteriaceae in phylum actinobacteria families lactobacillaceae streptococcaceae and veillonellaceae in phylum firmicutes family bacteroidaceae in phylum bacteroidetes and family enterobacteriaceae inphylum proteobacteria table 1. bifidobacteriaceae were undetectable and the ra of coriobacteriaceae was 0.2 - 0.14 on day 1 while their ras on day 7 were 2.3 - 0.29 and 9.3 - 2.3 respectively.
-
-the ras of lactobacillaceae streptococcaceae and veillonellaceae changed from 0.14 - 0.13 0.16 - 0.07 and 0.08 - 0.04 on day 1 to 11.3 - 5.1 4.7 - 2.2 and 7.1 - 1.6 on day 7. the ra of bacteroidaceae increased from 4.2 - 2.1 on day 1 to 22.2 - 4.6 on day 7 and that of enterobacteriaceae decreasedtable 1. the relative abundance values of intestinal microbial taxa in newborn calvesthe data show the taxonomic levels of the detected microbes more than 1 of ra in newborn calves on day 1 and day 7.fig.
-
-in feces from calves as determined by the culture method cfug feces.from 51.3 - 17.2 on day 1 to 10.5 - 2.8 on day 7 respectively table 1. the ras of the following bacterial families increased significantly from day 1 to day 7 bifidobacteriaceae p0.001 coriobacteriaceae p0.01 and veillonellaceae p0.01 while that of enterobacteriaceae decreased with borderline significance p0.07.one study in adult cattle reveals that firmicutes dominate the intestinal microbiome representing 81.9 of all sequence reads followed by proteobacteria 9.6 bacteroidetes 5.4 and actinobacteria 2.8 .
-
-in the present study the composition of the intestinal microbiome in the first feces varied among newborn calves born under the same environmental conditions.
-
-therefore some bacteria contained in the mother's colostrum may contribute to the composition of the intestinal microbiota of newborn calves.the number of bacterial cfus on the lbs agar plates increased in all the calves from a mean value of 2.87 log cfug on day 1 to 8.76 log cfug on day 7 fig.
-
-in the first feces samples from only 2 of 5 calves but the population increased to more than 107 cfug on day 7. therefore the intestinal colonization of newborn calves by lactobacillus spp.
+The RA of Bacteroidaceae increased from 4.2 - 2.1 on day 1 to 22.2 - 4.6 on day 7 and that of Enterobacteriaceae decreasedTable 1.
 

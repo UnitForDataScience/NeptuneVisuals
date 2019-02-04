@@ -1,30 +1,20 @@
-there were no significant differences between groups for other-cause death ahr  1.76 95 ci  0.52-5.92 p  .365.table 3. multivariable associations of bacterial community types with all-cause death pneumonia-related death and other-cause deathall-cause deathpneumonia-related deathother-cause deathbacterial community typessubjectsahr95 cip value subjectsahr95 cip value subjectsahr95 cip valuetype ii n  525 9.611 1.914 7.71type i n  12127 22.3 3.79 1.38-10.39 .0114 11.6 13.88 1.64-117.21 .01613 10.7 1.76 0.52-5.92.365note ahr  adjusted hazard ratio ci  confidence interval.
+Considering aspiration pneumonia pathogenesis it is reasonable to assume that tongue microbiota relate to pneumonia risk and death in frail elderly adults who reside in nursing homes.
 
-the ellipse covers 67 of the samples belonging to each community type.table 1. bacterial species corresponding to differentially abundant otus in each community typerelative abundance  mean - sdldadifferentially abundant in type ii718we classified the bacterial communities of the baseline tongue coatings collected from each subject as either type i or type ii depending on the bacterial compositions of bacterial genera using jensen-shannon divergence distance metric and pam cluster- ing .
+These results suggest that the tongue microbiota composition is associated with increased pneumonia- related mortality risk in frail elderly nursing home residents.The tongue is one of the largest bacterial reservoirs in the oral cavity and tongue bacterial communities are a dominant source of salivary bacteria .
 
-there was no significant difference in other-causefigure 2. survival plots of each community type by a all-cause death b pneumonia-related death and c other-cause death.
+While several previous studies have focused on the relationship between tongue coatings and pneumonia  no attempts have been made to clarify the relationship between pneumonia and the bacterial composition of tongue micro- biota.
 
-baseline characteris- tics of the subjects according to the bacterial community types of tongue coatings are shown in .tongue community type and mortalityof the 121 subjects who demonstrated community type i microbiota at baseline 27 22.3 died and 14 11.6 experienced pneumonia- related deaths during follow-up.
+This suggests that microbiota type relates to pneumonia-related death independent of the presence of known potentially pathogenic bacteria.In conclusion the present study demonstrated that a type I tongue microbiota community characterized by OTUs that cor- respond to Streptococcus salivarius HOT-755 Veillonella atypica HOT-524 and Prevotella histicola HOT-298 was a risk factor for pneumonia-related death in nursing home residents.
 
-the linear discriminant analysis score lda score indicated the effect size of each otu and we defined otus with  4.0 lda score as the most differentially abundant otus in each community type.outcome measuresall subjects were followed prospectively to assess the incidence of all-cause death and that of pneumonia-related death.
+Adjusted for age sex number of teeth dysphagia symptoms care level nutritional condition dementia Charlson comorbidity index and type of nursing home.DiscussionThis prospective cohort study of elderly nursing home residents dem- onstrated an association between tongue microbiota type and risk of all-cause death and pneumonia-related death.
 
-subjects with micro- biota community type i were at a significantly greater risk of all- cause death and pneumonia-related death.
+Survival plots of each community type by a all-cause death b pneumonia-related death and c other-cause death.
 
-this suggests that microbiota type relates to pneumonia-related death independent of the presence of known potentially pathogenic bacteria.in conclusion the present study demonstrated that a type i tongue microbiota community characterized by otus that cor- respond to streptococcus salivarius hot-755 veillonella atypica hot-524 and prevotella histicola hot-298 was a risk factor for pneumonia-related death in nursing home residents.
+Conclusions The tongue microbiota type was significantly associated with an increased mortality risk from pneumonia in nursing home residents.Keywords Oral cavity Tongue microbiota Prospective cohort Aspiration pneumonia Mortality riskPneumonia is a major worldwide health problem with high mor- tality risk in elderly adults .
 
-considering aspiration pneumonia pathogenesis it is reasonable to assume that tongue microbiota relate to pneumonia risk and death in frail elderly adults who reside in nursing homes.
+The continuous exposure of the throat to dysbiotic microbiota via saliva may contribute to inflammation of the lower airways in frail elderly adults.Our previous study reported that tongue dorsum bacterial colo- nization patterns were related to pneumonia onset and the number of febrile days in institutionalized elderly adults using a terminal restriction fragment length polymorphism T-RFLP analysis of the 16S rRNA gene.
 
-all deaths that occurred during follow-up were defined as all-cause deaths and deaths caused by pneumonia pneumonia was recorded in death records were defined as pneumonia-related deaths.
+Baseline characteris- tics of the subjects according to the bacterial community types of tongue coatings are shown in .Tongue Community Type and MortalityOf the 121 subjects who demonstrated community type I microbiota at baseline 27 22.3 died and 14 11.6 experienced pneumonia- related deaths during follow-up.
 
-the lda score indicated the effect size of each otu and otus with  4.0 lda score were shown.table 2. baseline characteristics of the subjects grouped by tongue coating bacterial community typesatypica hot-524 and prevotella histicola hot-298 were identi- fied as the most differentially abundant otus in community type i by the lefse approach to detect discriminant otus .
-
-while several previous studies have focused on the relationship between tongue coatings and pneumonia  no attempts have been made to clarify the relationship between pneumonia and the bacterial composition of tongue micro- biota.
-
-the subjects with prevotella and veillonella-dominated community microbiota type were older showed poorer oral health and had higher body mass index suggesting that this microbiota community type had a relationship to health problems .
-
-we evaluated risk estimates of microbiota effects on death using multivariate cox proportional hazards regression analysis.results tongue microbiota were classified into two community types type i was dominated by prevotella and veillonella species while type ii was dominated by neisseria and fusobacterium species.
-
-of the 52 subjects with community type ii microbiota five 9.6 died and one 1.9 had a pneumonia-related death.
-
-on the other hand there was no significant association between community type i microbiota and risk of other-cause death.
+This study identified differences in the relative abundances of dominant bacteria in tongue microbiota and associated these dif- ferences with risk for death among institutionalized elderly adults.
 

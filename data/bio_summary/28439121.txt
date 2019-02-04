@@ -1,30 +1,20 @@
-actinobacteria and chloroflexi were consistently identified in all samples with significant increase in a samples while bacteroidetes showed higheraverage relative abundance in dwh and i samples fig.
+Actinobacteria and Chloroflexi were consistently identified in all samples with significant increase in A samples while Bacteroidetes showed higheraverage relative abundance in DWH and I samples Fig.
 
-phylum actinobacteria and class actinobacteria which were detected as biomarkers in the a samples exhibited significant correlations with almost all differentially abundant kos for a samples including hydrocarbon degrading genes as pcag phenol-2-monooxygenase bbsh and pcal data not shown.in osc samples over-represented taxa methylobacterium was associated with genes involved in degradation of furfural and other hydrocarbons supplementary fig.
+Phylum Actinobacteria and class Actinobacteria which were detected as biomarkers in the A samples exhibited significant correlations with almost all differentially abundant KOs for A samples including hydrocarbon degrading genes as pcaG phenol-2-monooxygenase bbsH and pcaL data not shown.In OSC samples over-represented taxa Methylobacterium was associated with genes involved in degradation of furfural and other hydrocarbons Supplementary Fig.
 
-importantly a number of biomarkers identified here for the taiga samples such as phenylobacterium sphingomonadaceae novosphingobium and rhodococcus were detected as habitat specialists in oil contaminated taiga samples recently by yang et al..anaerobic photoautotrophic ignavibacteriaceae was identified as a biomarker in i samples table supplementary fig.
+Importantly a number of biomarkers identified here for the taiga samples such as Phenylobacterium Sphingomonadaceae Novosphingobium and Rhodococcus were detected as habitat specialists in oil contaminated taiga samples recently by Yang et al..Anaerobic photoautotrophic Ignavibacteriaceae was identified as a biomarker in I samples Table Supplementary Fig.
 
-acidobacteria was detected in large numbers in all samples with notably decreased mean relative abundances in the osc ostpu ostpm and ostpd samples fig.
+Acidobacteria was detected in large numbers in all samples with notably decreased mean relative abundances in the OSC OSTPu OSTPm and OSTPd samples Fig.
 
-additionally chlorobi was detected in high mean relative abundance only in m and i samples with increased gemmatimonadetes abundance identified in a c and m samples fig.
+Additionally Chlorobi was detected in high mean relative abundance only in M and I samples with increased Gemmatimonadetes abundance identified in A C and M samples Fig.
 
-for instance acidobacterales had a 21 mean relative abundance in i while burkholderiales had an average relative abundance of 30 across ostp samples and caulobacerales had an average relative abundance of 19 in taiga samples fig.
+For instance Acidobacterales had a 21 mean relative abundance in I while Burkholderiales had an average relative abundance of 30 across OSTP samples and Caulobacerales had an average relative abundance of 19 in taiga samples Fig.
 
-additionally xanthomonadales showed increased mean relative abundance 15-20 in i and dwh samples and actinomycetales dominated a samples with an average relative abundance of 24 fig.
+Additionally Xanthomonadales showed increased mean relative abundance 15-20 in I and DWH samples and Actinomycetales dominated A samples with an average relative abundance of 24 Fig.
 
-samples from 12 environments are depicted by different colors see legend.candidatus koribacter methylobacterium caulobacter and rhodococcus were attributed as biomarkers for ostpu ostpm a c dwh i osc tb and tu samples respectively supplementary fig.
+The largest number of differentially abundant modules were attributed to the OSC samples 70 while the least 8 were attributed to the OSTPm samples Supplementary Fig.
 
-the largest number of differentially abundant modules were attributed to the osc samples 70 while the least 8 were attributed to the ostpm samples supplementary fig.
+For example three different KEGG modules for lysine biosynthe- sis M00525-M00527 and one each for threonine methionine and cysteine biosynthesis M00018 M00017 M00021 were significantly abundant in Tb samples while KEGG modules for valineisoleucine phenylalanine tyrosine leucine and isoleucine biosynthesis M00019 M00024 M00026 M00040 M00432 M00535 M00570 were over-represented in Tp samples Fig.
 
-for example three different kegg modules for lysine biosynthe- sis m00525-m00527 and one each for threonine methionine and cysteine biosynthesis m00018 m00017 m00021 were significantly abundant in tb samples while kegg modules for valineisoleucine phenylalanine tyrosine leucine and isoleucine biosynthesis m00019 m00024 m00026 m00040 m00432 m00535 m00570 were over-represented in tp samples fig.
-
-for example abundance for alkane-1-monooxygenase k00496 was contributed mainly by alteromonadaceae in dwh samples comammonadaceae in i mycobacteriaceae and nocardiaceae in c propionibacteriaceae in osc and a mixture of acetobacteraceae mycobacteriaceae nocardiaceae and rhodospirillaceae in the taiga samples supplementary fig.
-
-similarly for protocatechuate-45-dioxygenase k04100-01 alteromonadaceae was again the major contributor for dwh samples comamonadaceae and methylobacteriaceae for osc rhodocyclaceae for i rhodocyclaceae and comamonadaceae in ostp and comamonadaceae and bradyrhizobiaceae for taiga samples supplementary fig.
-
-however at the genus level it was seen that while hb2.32.21 was the dominant effector organism in dwh samples marinobacter was the largest metagen- omic contributor for k03381 in the m samples supplementary fig.
-
-we deliberately kept the taiga and ostp samples separate even though we expected high amounts of similarity between them in certain aspects when compared to other samples due to evidence of ample distinctive characteristics in the said samples in their parent studies .
-
-other highly specific increases in average relative abundance at the family level as compared to other samples included microbacteriaceae 19 for a sam- ples alteromonadaceae 14 xanthomonadaceae 20 for dwh samples and moraxellaceae 26 for osc samples supplementary table .similarity in bacterial community structure and detection of taxonomic biomarkers of oil pol- luted environments.
+For example abundance for alkane-1-monooxygenase K00496 was contributed mainly by Alteromonadaceae in DWH samples Comammonadaceae in I Mycobacteriaceae and Nocardiaceae in C Propionibacteriaceae in OSC and a mixture of Acetobacteraceae Mycobacteriaceae Nocardiaceae and Rhodospirillaceae in the taiga samples Supplementary Fig.
 

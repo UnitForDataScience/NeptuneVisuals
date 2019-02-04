@@ -1,30 +1,20 @@
-at the gene level we first used the abun- dance of the uida gene encoding an extensively char- acterized b-glucuronidase as a proxy and found the gene to be 6.1-fold higher in the strr than in the nonr group p  8.41 3 10212. furthermore we performed an unbiased analysis of all b-glucuronidases genes through a metagenome assembly gene predic- tion and mapping approach and this also revealed their increased abundance within the microbiome in the strr versus nonr groups approximately 9 higher p  2.2 310216. taken together our results demonstrate an association between gut microbial composition b-glucuronidase abundance and tacrine- induced transaminitis.oral b-glucuronidase and antibiotics modulate susceptibilityto validate the influence of intestinal b- glucuronidase activities on the susceptibility of lh rats to tacrine-induced transaminitis we administered an oral gavage tacrine 20 mg kg21 to lh rats pre- treated with a single oral dose of 168400 units ml21 of b-glucuronidase 5 minutes before the administra- tion of tacrine n 5 17 and compared this group with a conventional tacrine-dosed group without b- glucuronidase pretreatment n 5 17 fig.
+Fractional abundance of a Bacteroides b Enterobacteriaceae and c Lactobacillus in the StrR group and the NonR group at four different time periods as coded in the legend of panel a. d Heat map of log2fold change of the upper quartile normalized read counts of the bacterial genera between StrR versus NonR.
 
-fractional abundance of a bacteroides b enterobacteriaceae and c lactobacillus in the strr group and the nonr group at four different time periods as coded in the legend of panel a. d heat map of log2fold change of the upper quartile normalized read counts of the bacterial genera between strr versus nonr.
+At the peak of transaminitis 8-24 hours the StrR were found to form a distinct cluster from the rest of the rats .To screen for transaminitis-related metabolites wecompared the metabolomes of the StrR with the NonR during the peak of transaminitis 8-24 hours.Our analysis uncovered 43 unique urinary marker metabolites and 62 unique fecal metabolites associated with tacrine-induced transaminitis variable impor- tance in the projection  1 andor P  0.05 r  0.6 Fig.
 
-b plasma ast levels of individual lh rats in the control group n 5 12 nonr n 5 16 milr n 5 3 modr n 5 3 and strr n 5 4. c plasma tacrine concentration-time profile following an acute oral dose of 20 mg  kg21 of tacrine in the four toxicity pheno- types and the four rats in the strr group.
+b Plasma AST levels of individual LH rats in the control group n 5 12 NonR n 5 16 MilR n 5 3 ModR n 5 3 and StrR n 5 4. c Plasma tacrine concentration-time profile following an acute oral dose of 20 mg  kg21 of tacrine in the four toxicity pheno- types and the four rats in the StrR group.
 
-at the peak of transaminitis 8-24 hours the strr were found to form a distinct cluster from the rest of the rats .to screen for transaminitis-related metabolites wecompared the metabolomes of the strr with the nonr during the peak of transaminitis 8-24 hours.our analysis uncovered 43 unique urinary marker metabolites and 62 unique fecal metabolites associated with tacrine-induced transaminitis variable impor- tance in the projection  1 andor p  0.05 r  0.6 fig.
+For panels a-c n 5 4 for StrR at all time peri- ods n 5 16 for NonR before dos- ing and at 8-24 hours and n 5 6 for NonR at 0-8 hours and 72-96 hours.
 
-for panels a-c n 5 4 for strr at all time peri- ods n 5 16 for nonr before dos- ing and at 8-24 hours and n 5 6 for nonr at 0-8 hours and 72-96 hours.
+Through a longitudinal temporal pharmacokinetics study we observed for the first time the occurrence of double-Cmax profile of tacrine in plasma of StrR which is characteristic of enterohepatic recycling.2627 Taken together higher systemic expo- sure of tacrine in StrR correlated with the hepatotoxic outcome.
 
-through a longitudinal temporal pharmacokinetics study we observed for the first time the occurrence of double-cmax profile of tacrine in plasma of strr which is characteristic of enterohepatic recycling.2627 taken together higher systemic expo- sure of tacrine in strr correlated with the hepatotoxic outcome.
+Tacrine and OH-THA were quantitated using liquid chromatography tandem mass spectrometry inthe feces of four StrR T8 T10 T12 and T14 and six NonR rats T1 T2 T11 T16 T18 and T27 col- lected over 0-8 and 8-24 hours.
 
-tacrine and oh-tha were quantitated using liquid chromatography tandem mass spectrometry inthe feces of four strr t8 t10 t12 and t14 and six nonr rats t1 t2 t11 t16 t18 and t27 col- lected over 0-8 and 8-24 hours.
+Differential abundance testing StrR versus NonR group was performed using the webtool EDDA version 1.4.0  upper- quartile normalization cuffdiff mode.23Metaphlan24 default parameters was used to pro- file community abundance at the genus level.
 
-differential abundance testing strr versus nonr group was performed using the webtool edda version 1.4.0  upper- quartile normalization cuffdiff mode.23metaphlan24 default parameters was used to pro- file community abundance at the genus level.
+Differen- tial abundance testing StrR versus NonR was performed with the webtool EDDA version 1.4.0 upper-quartile normalization cuffdiff mode23 using the mapped clade-specific genus reads produced by metaphlan.
 
-differen- tial abundance testing strr versus nonr was performed with the webtool edda version 1.4.0 upper-quartile normalization cuffdiff mode23 using the mapped clade-specific genus reads produced by metaphlan.
+An false discovery rate FDR cutoff  0.05 was used to filter for significant differentially abundant genera StrR versus NonR.
 
-an false discovery rate fdr cutoff  0.05 was used to filter for significant differentially abundant genera strr versus nonr.
-
-based on the severity of transaminitis 10 tacrine-dosed rats with ele- vation of ast 33 mean of controls were classified as strr elevations over 3 time points n 5 4 modr elevations over 2 time points n 5 3 or milr eleva- tions over 1 time point n 5 3 while 16 rats with ast33 mean of controls were classified as nonr to reflect the graded responses.
-
-to test our hypothesis we compared the levels of free and conju- gated tacrine and hydroxytacrine metabolites oh- tha in strr and nonr.
-
-no significant differences were observed in the excretion of oh-tha between the strr and nonr fig.
-
-however the mean amount of total tacrine free tacrine and tacrine-n-glu- curonides excreted by the strr over 24 hours was sig- nificantly higher than that for the nonr 127.4 6 69.9 nmol mg21 dose vs 40.4 6 17.8 nmol mg21 dose p  0.05 mann-whitney u test fig.
-
-58.8 6 10.0 of the total tacrine were excreted as tacrine-n-glucuronide in the feces of strr whereas this proportion was signifi- cantly lower 15.6 6 3.4 for the nonr p  0.05 mann-whitney u test fig.
+Based on the severity of transaminitis 10 tacrine-dosed rats with ele- vation of AST 33 mean of controls were classified as StrR elevations over 3 time points n 5 4 ModR elevations over 2 time points n 5 3 or MilR eleva- tions over 1 time point n 5 3 while 16 rats with AST33 mean of controls were classified as NonR to reflect the graded responses.
 

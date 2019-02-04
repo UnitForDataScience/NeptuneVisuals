@@ -1,30 +1,20 @@
-b top- species hits across the mgrg standard at the various dna input levels.mgrg sample the total number of sequences was 2478166 and the percent of gc content was 45. for the 1 ng repli-g mgrg sample the total sequences were 2811864 and the percent of gc content was 46. finally the total number of sequences for the 0.5 ng repli-g mgrg sample was 2814482 and the percent of gc content was 44. the sequence duplication level was 23.87 for 10 ng mgrg sample 22.63 for 5 ng mgrg sample 26.76 for 1 ng mgrg sample 38.75 for 0.5 ng sample and 29.81 for the unamplified sample.there were no significantly over-represented se- quences reported in the fastqc files for any of the samples except for the mda carousel floor sample.
+The sequence duplication level was 23.87 for 10 ng MGRG sample 22.63 for 5 ng MGRG sample 26.76 for 1 ng MGRG sample 38.75 for 0.5 ng sample and 29.81 for the unamplified sample.There were no significantly over-represented se- quences reported in the FastQC files for any of the samples except for the MDA carousel floor sample.
 
-for the unamplified mgrg sample the total number of sequences was 2946836 and the percent of gc content was 68 table 3. for the 10 ng repli-g mgrg sample the total number of sequences was 3216104 and percent of gc content was 45. for the 5 ng repli-gta b l e 5one codex species abundance and depth estimates for mgrg samples50journal of biomolecular techniques volume 28 issue 1 april 2017figure 2heatmaps of metaphlan analysis.
+The degree of REPLI-g MDA bias was evaluated by sequence metrics species composition and cross- validating observed species abundance and species diversity estimates using the One Codex and MetaPhlAn taxonomic classification tools.
 
-of the 16 species detected in the unamplified ferris wheel door sample 15 were detected in the paired repli-g sample.
+Of the 16 species detected in the unamplified Ferris wheel door sample 15 were detected in the paired REPLI-g sample.
 
-of the 39 species detected in the unamplified thunderbolt sample only 12 were detected in the paired repli-g sample.
+Of the 39 species detected in the unamplified Thunderbolt sample only 12 were detected in the paired REPLI-g sample.
 
-two additional species were detected in the repli-g sample that were not detected in the paired unamplified sample.
+Two additional species were detected in the REPLI-g sample that were not detected in the paired unamplified sample.
 
-of the 110 species detected in the unamplified carousel sample 61 were detected in the paired repli-g sample.
+Of the 110 species detected in the unamplified carousel sample 61 were detected in the paired REPLI-g sample.
 
-whereas 15 species were detected in the unamplified railing sample the sequencing coverage was not even enough in the paired repli-g sample to perform automated abundance estimation and false- positive filtering.
+Whereas 15 species were detected in the unamplified railing sample the sequencing coverage was not even enough in the paired REPLI-g sample to perform automated abundance estimation and false- positive filtering.
 
-the degree of repli-g mda bias was evaluated by sequence metrics species composition and cross- validating observed species abundance and species diversity estimates using the one codex and metaphlan taxonomic classification tools.
+However the carousel- and Thunderbolt-amplified samples had 2-3 additional species that were not detected in their unamplified counterparts.However despite relatively high concordance of species abundance in the samples REPLI-g WGA often resulted in fewer species detected.
 
-however the carousel- and thunderbolt-amplified samples had 2-3 additional species that were not detected in their unamplified counterparts.however despite relatively high concordance of species abundance in the samples repli-g wga often resulted in fewer species detected.
+B The MGRG 10 ng sample has a depth is 24.6 6 243.63 with 38.3 of the genome covered and 98.1 of identity.C The MGRG 5 ng sample had 75.99 of 2478166 as classified reads.
 
-note that in most cases the repli-g hits fall in the unamplified hits with 6 and 1 species being found only in the repli-g sample and not in the unamplified results a and d respectively.
-
-fragmentation of the dna to 500 nt wassample nameconcentration ngconcentration ngperformed using the covaris v2.0 covaris woburn macarousel floor normal15.5085.80ferris wheel door normal19.4080.20railing normal21.0071.00thunderbolt normal18.1054.80mgrg normal7.10mgrg 10 ng41.20mgrg 5 ng36.4mgrg 1 ng37.80mgrg 0.5 ng43.00repli-g dna amplificationmda was performed on 1 sample from each location using the qiagen repli-g wga kit.
-
-in this study we investigate the effect of repli-g multiple displacement amplification mda qiagen valencia ca usa on sequencing data quality and species abundance detection in 8 paired metagenomic samples and 1 titrated mixed control sample.
-
-these findings demonstrate the application of repli-g amplification for metagenomics research while noting the caution regarding localized coverage variance and species absence that can occur at lower input.materials and methodssample collectionwith the use of the sample processing protocol from existing studies in urban metagenomics13 14 2 samples were collected in tandem at 4 separate locations carousel floor ferris wheel door promenade railing and the thunderbolt rollercoaster in coney island brooklyn new york usa.
-
-no other unique species were detected in the paired repli-g sample.
-
-six additional species were detected in the repli-g samples that were not detected in the paired unamplified sample.
+Note that in most cases the REPLI-g hits fall in the unamplified hits with 6 and 1 species being found only in the REPLI-g sample and not in the unamplified results A and D respectively.
 

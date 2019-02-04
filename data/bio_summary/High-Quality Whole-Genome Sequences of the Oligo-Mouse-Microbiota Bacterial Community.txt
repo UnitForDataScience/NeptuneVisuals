@@ -1,28 +1,20 @@
-prokaryoteshigh-quality whole-genome sequences of the oligo-mouse-microbiota bacterial communitydebora garzettiab sandrine brugirouxa boyke bunkc rudiger pukallc kathy d. mccoyd andrew j. macphersond barbel stecherabmax von pettenkofer institute of hygiene and medical microbiology ludwig-maximilians-university of munich munich germanya german center for infection research dzif partner site munich munich germanyb leibniz institute dsmz-german collection of microorganisms and cell cultures braunschweig germanyc maurice muller laboratories department of clinical research dkf uvcm university hospital bern switzerlanddabstract the oligo-mouse-microbiota oligo-mm12 is a community of 12 mouse intestinal bacteria to be used for microbiome research in gnotobiotic mice.
+The funders had no role in study design data collection and interpretation or the decision to submit the work for publication.REFERENCESBrugiroux S Beutler M Pfann C Garzetti D Ruscheweyh HJ Ring D Diehl M Herp S Lotscher Y Hussain S Bunk B Pukall R Huson DH Munch PC McHardy AC McCoy KD Macpherson AJ Loy A Clavel T Berry D StecherB.
 
-the assembled whole-genome sequences of the oligo-mm12 strains have been deposited in ddbjenagenbank under the accession numbers given in .acknowledgmentswe thank cathrin sproer nicole heyer and simone severitt for sequencing of the kb18 pacbio genome.this work was supported by the german center for infection research dzif the center for gastrointestinal microbiome research cegimir and the german research foundation dfg.
+.Aziz RK Bartels D Best AA DeJongh M Disz T Edwards RA Formsma K Gerdes S Glass EM Kubal M Meyer F Olsen GJ Olson R Osterman AL Overbeek RA McNeil LK Paarmann D Paczian T Parrello B Pusch GD Reich C Stevens R Vassieva O Vonstein V Wilke A Zagnitko O.
 
-we pres- ent here the high-quality whole genome sequences of the oligo-mm12 strains which were obtained by combining the accuracy of the illumina platforms with the long reads of the pacbio technology.n a recent study we described a defined intestinal community of 12 murine strains termed oligo-mouse-microbiota oligo-mm12 which permanently colonize gnotobi- otic mice over several generations and provide colonization resistance against salmo- nella enterica serovar typhimurium .
+.Lagkouvardos I Pukall R Abt B Foesel BU Meier-Kolthoff JP Kumar N Bresciani A Martinez I Just S Ziegler C Brugiroux S Garzetti D Wenning M Bui TP Wang J Hugenholtz F Plugge CM Peterson DA Hornef MW Baines JF Smidt H Walter J Kristiansen K Nielsen HB Haller D Over- mann J Stecher B Clavel T. 2016.
 
-in future studies genetic variation genome evo-volume 5 issue 42 e00758-17 1garzetti et al.table 1 assembly information and accession numbers of the oligo-mm12 genomeslution and functional genomics among other research applications of the oligo-mm12 community can be assessed by high-quality analyses.accession numbers.
+.Li H Limenitakis JP Fuhrer T Geuking MB Lawson MA Wyss M Brugir- oux S Keller I Macpherson JA Rupp S Stolp B Stein JV Stecher B Sauer U McCoy KD Macpherson AJ.
 
-since the oligo-mm12 strains are being used by an increasing number of research groups   the multitude of genome sequences precludes the possibility of a meaningful exchange of data within the scientific community.
+We pres- ent here the high-quality whole genome sequences of the Oligo-MM12 strains which were obtained by combining the accuracy of the Illumina platforms with the long reads of the PacBio technology.n a recent study we described a defined intestinal community of 12 murine strains termed Oligo-Mouse-Microbiota Oligo-MM12 which permanently colonize gnotobi- otic mice over several generations and provide colonization resistance against Salmo- nella enterica serovar Typhimurium .
 
-aiming to create a set of reference genomes in this study we present the high-quality genome sequences of the oligo-mm12 bacteria which were assembled by a hybrid approach combining illumina and pacbio sequences .as previously described  the complete genome sequence of acutalibacter muris kb18 was obtained on the pacbio rsii platform and assembled using the rshgap assembly.3 protocol default parameters.
+In future studies genetic variation genome evo-Volume 5 Issue 42 e00758-17 1Garzetti et al.TABLE 1 Assembly information and accession numbers of the Oligo-MM12 genomeslution and functional genomics among other research applications of the Oligo-MM12 community can be assessed by high-quality analyses.Accession numbers.
 
-thus there is a strong need for availability and constantupdate of the oligo-mm12 reference genomes.it is well recognized that sequences from the illumina platforms have low error rates with systematic errors being mainly situated at the end of the reads but are too short for an efficient complete genome assembly .
+.Uchimura Y Wyss M Brugiroux S Limenitakis JP Stecher B McCoy KD Macpherson AJ.
 
-.lagkouvardos i pukall r abt b foesel bu meier-kolthoff jp kumar n bresciani a martinez i just s ziegler c brugiroux s garzetti d wenning m bui tp wang j hugenholtz f plugge cm peterson da hornef mw baines jf smidt h walter j kristiansen k nielsen hb haller d over- mann j stecher b clavel t. 2016. the mouse intestinal bacterial collec- tion mibc provides host-specific insight into cultured diversity and functional potential of the gut microbiota.
+.Studer N Desharnais L Beutler M Brugiroux S Terrazos MA Menin L Schurch CM McCoy KD Kuehne SA Minton NP Stecher B Bernier- Latmani R Hapfelmeier S. 2016.
 
-.li h limenitakis jp fuhrer t geuking mb lawson ma wyss m brugir- oux s keller i macpherson ja rupp s stolp b stein jv stecher b sauer u mccoy kd macpherson aj.
+.Bankevich A Nurk S Antipov D Gurevich AA Dvorkin M Kulikov AS Lesin VM Nikolenko SI Pham S Prjibelski AD Pyshkin AV Sirotkin AV Vyahhi N Tesler G Alekseyev MA Pevzner PA. 2012.
 
-the funders had no role in study design data collection and interpretation or the decision to submit the work for publication.referencesbrugiroux s beutler m pfann c garzetti d ruscheweyh hj ring d diehl m herp s lotscher y hussain s bunk b pukall r huson dh munch pc mchardy ac mccoy kd macpherson aj loy a clavel t berry d stecherb.
-
-.uchimura y wyss m brugiroux s limenitakis jp stecher b mccoy kd macpherson aj.
-
-2016. complete genome sequences of 12 species of stable defined moderately diverse mouse microbiota 2. genome an- nounc 45e00951-16.
-
-.studer n desharnais l beutler m brugiroux s terrazos ma menin l schurch cm mccoy kd kuehne sa minton np stecher b bernier- latmani r hapfelmeier s. 2016. functional intestinal bile acid 7a- dehydroxylation by clostridium scindens associated with protection from clostridium difficile infection in a gnotobiotic mouse model.
-
-.aziz rk bartels d best aa dejongh m disz t edwards ra formsma k gerdes s glass em kubal m meyer f olsen gj olson r osterman al overbeek ra mcneil lk paarmann d paczian t parrello b pusch gd reich c stevens r vassieva o vonstein v wilke a zagnitko o.
+PROKARYOTESHigh-Quality Whole-Genome Sequences of the Oligo-Mouse-Microbiota Bacterial CommunityDebora Garzettiab Sandrine Brugirouxa Boyke Bunkc Rudiger Pukallc Kathy D. McCoyd Andrew J. Macphersond Barbel StecherabMax von Pettenkofer Institute of Hygiene and Medical Microbiology Ludwig-Maximilians-University of Munich Munich Germanya German Center for Infection Research DZIF Partner Site Munich Munich Germanyb Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures Braunschweig Germanyc Maurice Muller Laboratories Department of Clinical Research DKF UVCM University Hospital Bern SwitzerlanddABSTRACT The Oligo-Mouse-Microbiota Oligo-MM12 is a community of 12 mouse intestinal bacteria to be used for microbiome research in gnotobiotic mice.
 

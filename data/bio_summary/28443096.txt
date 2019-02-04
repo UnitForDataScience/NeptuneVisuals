@@ -1,30 +1,20 @@
-given the role of epigenetic mechanisms in the regulation of immune functions notably in the control of th17 cell and treg differentiation it is not surprising that inflammatory diseases are linked to a substantial remodeling of the host epigenome in varioustissues  -.
+Finally we examine the potential for nutritional interventions affecting the gut microbiota to reshape the T cell epigenome and address the inflammatory component of various diseases.Keywords gut microbiota epigenetics regulatory T cell T helper 17 cell inflammatory bowel diseases obesity type 2 diabetesiNTRODUCTiONImmune homeostasis is a complex process involving a wide variety of key immunological players.
 
-collectively these data established that the demethylated tsdr contributes to the stable expression of foxp3 in tregs.micrornas are emerging as critical regulators of th17 and treg cell differentiation and function and consequently are also implicated in a number of diseases including ibd diabetes neurological diseases and cardiovascular diseases  .
+The same miR cluster has further been reported to be critical for the differentiation of Treg withthe loss of miR-17-92 significantly affecting the accumulation of activated Tregs and their differentiation into IL-10-producing cells .FiGURe 2  epigenetic regulation of the T helper 17regulatory T cell Th17Treg balance by the gut microbiota.
 
-collectively these data highlight the role ofppar-g-expressing foxp3 tregs in the control of inflammation induced by obesity and in metabolic diseases such as t2d .epigenetic regulation of the th17 treg balancethe differentiation of th17 cells and tregs from naive cd4 t-cells is not only controlled by a combination of their cytokine milieu and transcriptional activities but is also subjected to epigenetic control through various mechanisms including dna methylation  - changes in microrna mirna expres- sion - and histone modification  - illustrating the complexity of cd4 t-cell lineage decisions .it has been proposed that the induction maintenance and function of foxp3 are regulated by epigenetic mechanisms   .
+miR-21 promotes Th17 differentiation and mediates the development of EAE as shown by the association between the defect in Th17 differentiation and the strong resistance to EAE in miR-21-deficient mice .
 
-finally we examine the potential for nutritional interventions affecting the gut microbiota to reshape the t cell epigenome and address the inflammatory component of various diseases.keywords gut microbiota epigenetics regulatory t cell t helper 17 cell inflammatory bowel diseases obesity type 2 diabetesintroductionimmune homeostasis is a complex process involving a wide variety of key immunological players.
+Inflamm Cell Signal 2016 311-7. doFujino S Andoh A Bamba S Ogawa A Hata K Araki Y et al.
 
-microrna-155 modulates treg and th17 cells differentiation and th17 cell function by targeting socs1.
+Gut Microbes 2014 53333-9. doPompei A Cordisco L Amaretti A Zanoni S Raimondi S Matteuzzi D et al.
 
-in a murine model of colitis the methyltransferase g9a has been identified as playing a key role in t-cell differentiation in particular by facilitating dimethylation of histone h3 at lysine 9 supporting th17 cell and treg differentiation both in vivo and in vitro .
+Given the role of epigenetic mechanisms in the regulation of immune functions notably in the control of Th17 cell and Treg differentiation it is not surprising that inflammatory diseases are linked to a substantial remodeling of the host epigenome in varioustissues  -.
 
-mir-21 promotes th17 differentiation and mediates the development of eae as shown by the association between the defect in th17 differentiation and the strong resistance to eae in mir-21-deficient mice .
+microRNA-155 modulates Treg and Th17 cells differentiation and Th17 cell function by targeting SOCS1.
 
-in addition both butyrate and propionate have been reported to inhibit de novo fatty acid syn- thesis though the deactivation of acetyl-coa carboxylase 1  a process known to limit th17 cell differentiation and promote treg development .
+In a murine model of colitis the methyltransferase G9A has been identified as playing a key role in T-cell differentiation in particular by facilitating dimethylation of histone H3 at lysine 9 supporting Th17 cell and Treg differentiation both in vivo and in vitro .
 
-immunologically obesity is characterized by low-grade chronic inflammation with abnormal cytokine production and the activation of various inflammatorytable 1  the t helper 17regulatory t cell th17treg balance in ibd and metabolic disease.ibds inflammatory bowel diseases uc ulcerative colitis cd crohn's disease il interleukin tregs regulatory t-cells tgf-b transforming growth factor beta t2d type 2 diabetes pbmcs peripheral blood mononuclear cells hfd high-fat diet foxp3 forkead box p3.red arrow pointing toward upper right increased levels black arrow pointing toward lower right decreased levels.pathways associated with adverse clinical outcomes including insulin resistance and t2d .
+These alteration were mediated by the regulation of macrophageinfiltration and their regulatory rather than inflammatory polari- zation in the adipose tissue  confirming the effect of the gut microbiota on inflammation in metabolic diseases.Although it is clear that a link exists between the gut microbiota and the immune system this association is complex.
 
-the same mir cluster has further been reported to be critical for the differentiation of treg withthe loss of mir-17-92 significantly affecting the accumulation of activated tregs and their differentiation into il-10-producing cells .figure 2  epigenetic regulation of the t helper 17regulatory t cell th17treg balance by the gut microbiota.
-
-some of the key manifestations of these inflammatory conditions that include inflammatory bowel disease ibd and metabolic diseases involve modulation of thelocal and circulating cytokine profile but also significant changes in the frequency function and trafficking pattern of immune cells including major alterations in the th17treg balance affecting the immunological environment in the host tissues -.
-
-scfas short-chain fatty acids psa polysaccharide a hdac histone deacetylase h3 histone 3 foxp3 forkhead box p3 il10 interleukin 10ra retinoic acid treg regulatory t cell.future perspectives and conclusionchanges in the gut microbiota are intimately linked to signifi- cant alterations in th17treg balance potentially mediated by epigenetic mechanisms and contributing to the development and establishment of ibd obesity and t2d and possibly other chronic inflammatory conditions.
-
-these findings not only provide insight into the importance of histone acetyltransferases in the regulation of treg development and function but also delin-eate distinct roles for cbp and p300 in the control of tregs .dysbiosis and the th17treg balance in ibd and metabolicdiseasesas illustrated above the th17treg balance plays a critical role in control of the inflammatory process in ibd  .
-
-this could have important consequences on the t-cell profile in these patients as mir-21 has been linked to th17 cell differentiation  .
-
-nat med 2009 158930-9. doivanov ii zhou l littman dr. transcriptional regulation of th17 cell differentiation.
+genetic deficiency in TLR1 and or environmental factors pathogens are present immune activa- tion and the resulting inflammatory process could contribute to altering IECs function and affect their secretory pattern resulting in a remodeling of the gut microbiota .The relationship between the gut microbiota and the immune system and in particular the Th17Treg balance is now well established.
 

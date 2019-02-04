@@ -1,30 +1,20 @@
-supernatants from p1 and p2 induced high levels of tumour necrosis factor tnf-a interleukin il212 and il-6 from dcs and primed t cells to secrete interferon ifn-g il-22 compared to supernatants from sp ss and rm.
+DCs from six different individuals were used to assay the response to the supernatants.For experiments with individual metabolites immatureDCs were obtained as above and then cultured with 23- butanediol 20 mM 23-butanedione 02 mM putres- cine 1 mM or glucose 15 mM for 24 h. The metabolites were obtained from Sigma-Aldrich St Louis MO USA.Cytokine production by DCsCytokines tumour necrosis factor TNF-a interleukin IL26 IL-12p70 IL-10 monocyte chemoattractant pro- tein 1 CCL-2 and CXC chemokine ligand CXCL210 in the supernatants for each experiment were measured by specific enzyme-linked immunosorbent assay ELISA kits BD Pharmingen San Jose CA as per the manufacturer's protocol.DC-CD4 T cell culturesImmature DCs were stimulated with bacterial supernatants or metabolites as described above.
 
-dcs from six different individuals were used to assay the response to the supernatants.for experiments with individual metabolites immaturedcs were obtained as above and then cultured with 23- butanediol 20 mm 23-butanedione 02 mm putres- cine 1 mm or glucose 15 mm for 24 h. the metabolites were obtained from sigma-aldrich st louis mo usa.cytokine production by dcscytokines tumour necrosis factor tnf-a interleukin il26 il-12p70 il-10 monocyte chemoattractant pro- tein 1 ccl-2 and cxc chemokine ligand cxcl210 in the supernatants for each experiment were measured by specific enzyme-linked immunosorbent assay elisa kits bd pharmingen san jose ca as per the manufacturer's protocol.dc-cd4 t cell culturesimmature dcs were stimulated with bacterial supernatants or metabolites as described above.
+These data suggest that different bacteria from the oral microbiome have differential effects on DC activation.DCs activated with different bacterial supernatants induce distinct T cell cytokinesDCs activated with different bacterial supernatants were cultured with purified allogenic T cells to determine the T cell responses.
 
-these data suggest that different bacteria from the oral microbiome have differential effects on dc activation.dcs activated with different bacterial supernatants induce distinct t cell cytokinesdcs activated with different bacterial supernatants were cultured with purified allogenic t cells to determine the t cell responses.
+These data con- firm that among the bacterial supernatants tested P1 P2 were most efficient in activating DCs.Distinctive composition of secreted metabolites from different bacteriaWe next determined whether the differential response of DCs to the bacterial supernatants is due to strain-specific differences in supernatant composition detected using GC- MS.
 
-2. these data con- firm that among the bacterial supernatants tested p1 p2 were most efficient in activating dcs.distinctive composition of secreted metabolites from different bacteriawe next determined whether the differential response of dcs to the bacterial supernatants is due to strain-specific differences in supernatant composition detected using gc- ms. the heat map shows an overview of the different metabolites secreted by different bacteria fig.
+In contrast to Sp and Ss supernatants Bdl was not detected in the supernatants from P1 P2 and Rm.
 
-in contrast to sp and ss supernatants bdl was not detected in the supernatants from p1 p2 and rm.
+These results indi- cate that although bacteria in the oral microbiome secrete many similar metabolites each strain has its own distinct metabolic signature.Response of DCs to unique metabolites present in the bacterial supernatantsNext we examined whether the differential response of DCs to various bacterial supernatants is a consequence of the unique metabolites present in the supernatants.
 
-these results indi- cate that although bacteria in the oral microbiome secrete many similar metabolites each strain has its own distinct metabolic signature.response of dcs to unique metabolites present in the bacterial supernatantsnext we examined whether the differential response of dcs to various bacterial supernatants is a consequence of the unique metabolites present in the supernatants.
+Altogether these data suggest that DCs activated with the signature metabolite of the bacterial supernatants respond as they did to the supernatants themselves.
 
-altogether these data suggest that dcs activated with the signature metabolite of the bacterial supernatants respond as they did to the supernatants themselves.
+The magnitude of cyto- kine induction was higher when DCs were exposed to the total supernatants than with a single metabolite suggesting that other common metabolites also influence the DC response.Cytokine secretion by T cells primed with DCs exposed to the signature metabolitesWe investigated whether the DCs activated with signature metabolites induced T cell cytokine responses similar to those observed with the total supernatants.
 
-the magnitude of cyto- kine induction was higher when dcs were exposed to the total supernatants than with a single metabolite suggesting that other common metabolites also influence the dc response.cytokine secretion by t cells primed with dcs exposed to the signature metaboliteswe investigated whether the dcs activated with signature metabolites induced t cell cytokine responses similar to those observed with the total supernatants.
+These data confirm that the unique metabolites present in the bacterial supernatants and total bacterial supernatants influence DC functions similarly.
 
-5. these data confirm that the unique metabolites present in the bacterial supernatants and total bacterial supernatants influence dc functions similarly.
+The effect of bacterial metabolites on dendritic cell DC activation T cell priming and cytokine secretion was determined by exposing DCs to bacterial supernatants and individual metabolites of interest.
 
-the effect of bacterial metabolites on dendritic cell dc activation t cell priming and cytokine secretion was determined by exposing dcs to bacterial supernatants and individual metabolites of interest.
-
-investigations into the composition of supernatants using gas chromatography-mass spectroscopy gc-ms revealed signature metabolites for each of the strains.
-
-supernatants from p1 and p2 contained high levels of putrescine and glucose while sp and ss contained high levels of 23- butanediol.
-
-the individual metabolites replicated the results of whole supernatants although the magnitudes of their effects were reduced significantly.
-
-this study was approved by the institu- tional review board of the university of california irvine ca usa.generation of supernatants from oral bacteria and identification of metabolites in bacterial culture supernatant by gas chromatography-mass spectroscopy gc-msclinical isolates collected from cystic fibrosis cf patients at the ucsd adult cf clinic were used.the five cultures table 1 were started from a single col- ony and grown statically in 2 ml todd-hewitt th medium at 378c in ambient conditions for 4 days.
-
-strains grew to saturation while rothia mucilaginosa did not grow as robustly in these conditions table 1. culture cells were pelleted in a micro- fuge and supernatants were collected for cell-culture assays and metabolomics analysis.
+Supernatants from P1 and P2 induced high levels of tumour necrosis factor TNF-a interleukin IL212 and IL-6 from DCs and primed T cells to secrete interferon IFN-g IL-22 compared to supernatants from Sp Ss and Rm.
 

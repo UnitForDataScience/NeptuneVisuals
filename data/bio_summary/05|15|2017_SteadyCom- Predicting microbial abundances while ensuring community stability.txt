@@ -1,30 +1,20 @@
-in contrast joint fba optimizing for an unweighted sum of biomass predicts that each of the mutants can have abundances ranging from 0 to 100 for s 99 maximum community growth and only the growth of ec2 and ec3 are necessary at 100 maximum community growth .the underlying reason for the difference is the community steady-state condition imposed in steadycom.
+The growth rate computed here is suitable only for comparing the maximum possible growth yield between species under the nutrient condition which becomes useful in explaining the results that follow not for pre- dicting growth rates within the community.SteadyCom was next applied to the gut community model.
 
-the growth rate computed here is suitable only for comparing the maximum possible growth yield between species under the nutrient condition which becomes useful in explaining the results that follow not for pre- dicting growth rates within the community.steadycom was next applied to the gut community model.
+In contrast joint FBA optimizing for an unweighted sum of biomass predicts that each of the mutants can have abundances ranging from 0 to 100 for S 99 maximum community growth and only the growth of Ec2 and Ec3 are necessary at 100 maximum community growth .The underlying reason for the difference is the community steady-state condition imposed in SteadyCom.
 
-the bacteroidetes and clostridia act as primary fiber-fer- menting microbes that indirectly feed others with simple carbohydrates.both the community growth rates predicted by steadycom  and the maximum growth rates for each species predicted by joint fba  given community uptake rates based on the consumption and chemical composition of the average american diet lie in the range of the intestinal microbial growth rates reported i.e.
+the Bacteroidetes and Clostridia act as primary fiber-fer- menting microbes that indirectly feed others with simple carbohydrates.Both the community growth rates predicted by SteadyCom  and the maximum growth rates for each species predicted by joint FBA  given community uptake rates based on the consumption and chemical composition of the average American diet lie in the range of the intestinal microbial growth rates reported i.e.
 
-steadycom directly imposes time-averaged equality of growth rates and apportions atp maintenance atpm requirements across different microbes in accordance with specific growth unlike joint fba optcom d-optcom and casino.
+Flux variability analysis at 90 maximum community growth rate using Steady- Com at various maximum amino acid uptake rates The maximum and minimum relative abundances of A Ec1 B Ec2 C Ec3 and D Ec4 are displayed for various community growth rates for various maximum amino acid uptake rates.
 
-under the assumption of identical dilution rates for all organisms in the community the condition is simplified into an identical specific growth rate for all organisms see for the general condition and its derivationk biomass14 m8k 2 kd5thwhere m is the community growth rate.
+SteadyCom directly imposes time-averaged equality of growth rates and apportions ATP maintenance ATPM requirements across different microbes in accordance with specific growth unlike joint FBA OptCom d-OptCom and CASINO.
 
-theallowable ranges of the relative abundance of the mutants at90 of the maximum commu- nity growth rate computed by flux variability analysis fva indicate the essentiality of each mutant for growth  using steadycom.
+Under the assumption of identical dilution rates for all organisms in the community the condition is simplified into an identical specific growth rate for all organisms see for the general condition and its derivationk biomass14 m8k 2 Kd5Thwhere m is the community growth rate.
 
-each mutant is essential at maximum community growth rate at a defined relative abundance.the conditional dependency between mutant abundances was assessed for various commu- nity growth rates by iteratively fixing the abundance of one mutant at increasing values and computing the allowable range of the abundance of the other mutants .
+Theallowable ranges of the relative abundance of the mutants at90 of the maximum commu- nity growth rate computed by flux variability analysis FVA indicate the essentiality of each mutant for growth  using SteadyCom.
 
-as the community growth rate increases however the coupling between mutants becomes tighter and abundances converge to unique values at maximum growth rate.
+Each mutant is essential at maximum community growth rate at a defined relative abundance.The conditional dependency between mutant abundances was assessed for various commu- nity growth rates by iteratively fixing the abundance of one mutant at increasing values and computing the allowable range of the abundance of the other mutants .
 
-in steadycom constraints cou- pling reaction fluxes and growth emerge from the community steady-state imperative and the direct tracking of biomass gdw growth rate h-1 reaction rate mmol h-1 and specific reac- tion rate mmol gdw-1h-1.nine-species model for gut microbiotaa community model consisting of nine microbes present in the human gut with available genome-scale metabolic reconstructions was compiled.
+As the community growth rate increases however the coupling between mutants becomes tighter and abundances converge to unique values at maximum growth rate.
 
-maximizing the community growth rate given a constant total biomass favored the growth of e. faecalis and s. thermophilus because they can generate biomass more economically from the given nutrients .
-
-flux variability analysis at 90 maximum community growth rate using steady- com at various maximum amino acid uptake rates the maximum and minimum relative abundances of a ec1 b ec2 c ec3 and d ec4 are displayed for various community growth rates for various maximum amino acid uptake rates.
-
-while several modeling techniques have been developed for micro- bial communities little emphasis has been placed on the need to impose a time-averaged constant growth rate across all members for a community to ensure co-existence and stabil- ity.
-
-each of the aforementioned approaches has been shown to capture some of the important features of microbial communities such as competi- tion and cross-feeding.nevertheless there is a fundamental omission in almost all existing fba based frameworks arising from the fact that the biomass reaction flux is not only a sink for the biomass constitu- ents but also measures the specific growth rate in h-1 and thus the size of the system.
-
-however when multiple organisms are growing together a joint fba framework does not necessarily impose any restrictions on the growth rate of all participating members in the community.
-
-this lack of constant growth rate across all microbes in the community may lead to metabolic fluxes inconsistent with an unchanging average community composition termed community steady-state in this article as the fastest growing organism will take over the population.
+In SteadyCom constraints cou- pling reaction fluxes and growth emerge from the community steady-state imperative and the direct tracking of biomass gdw growth rate h-1 reaction rate mmol h-1 and specific reac- tion rate mmol gdw-1h-1.Nine-species model for gut microbiotaA community model consisting of nine microbes present in the human gut with available genome-scale metabolic reconstructions was compiled.
 

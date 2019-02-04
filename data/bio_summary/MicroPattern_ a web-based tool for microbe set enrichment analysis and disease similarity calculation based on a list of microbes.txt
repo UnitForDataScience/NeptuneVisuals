@@ -1,30 +1,20 @@
-for every disease i 39 in total and every microbe j 292 in total we described the wij as the quantitative strength of relationship between them n wij  eij x wij x log nj 2eij eij  -1 1 represents the changing direction of microbe j in disease i. eij equals to 1 when microbe j is increased in disease i while eij equals to -1 when microbe j is decreased in disease i. wij represents the number of associations of disease i and microbe j. n here is 39 is the number of all disease and nj is the number of diseases associated with microbe j. thus for every disease i it has a vector di of length m m is the number total microbes here is 292.then we took the cosine similarity value between two vectors di and dj as similarity between disease i and disease j ascosdi d j m 1di m x d j m 3referencessommer f.  backhed f. the gut microbiota-masters of host development and physiology.
+For every disease i 39 in total and every microbe j 292 in total we described the wij as the quantitative strength of relationship between them N wij  Eij x Wij x log nj 2Eij Eij  -1 1 represents the changing direction of microbe j in disease i. Eij equals to 1 when microbe j is increased in disease i while Eij equals to -1 when microbe j is decreased in disease i. Wij represents the number of associations of disease i and microbe j. N here is 39 is the number of all disease and nj is the number of diseases associated with microbe j.
 
-flowchart for microbe sets integration was showed in 1. among these sets the size of 36 sets was in the range of 1577 5 sets in the range of 61011 1 set in the range of 11152 2 sets in the range of 16204 and 3sets in the range of 212096 see also 2. all sets can be downloaded from our web server.analysis procedure of micropattern.
+In total 47 microbe sets were collected including 37 disease sets where microbes in the same set is associated with the same disease and 10 position sets where microbes in the same set is colonized on the same body position.
 
-in total 47 microbe sets were collected including 37 disease sets where microbes in the same set is associated with the same disease and 10 position sets where microbes in the same set is colonized on the same body position.
+Among these sets the size of 36 sets was in the range of 1577 5 sets in the range of 61011 1 set in the range of 11152 2 sets in the range of 16204 and 3sets in the range of 212096 see also 2.
 
-openreceived 31 october 2016accepted 30 november 2016published 10 january 2017micropattern a web-based tool for microbe set enrichment analysis and disease similarity calculation based on a list of microbeswei ma12 chuanbo huang13yuan zhou12 jianwei li14  qinghua cui12the microbiota colonized on human body is renowned as a forgotten organ due to its big impacts on human health and disease.
+Thus for every disease i it has a vector di of length M M is the number total microbes here is 292.Then we took the cosine similarity value between two vectors di and dj as similarity between disease i and disease j ascosdi d j M 1di m x d j m 3ReferencesSommer F.  Backhed F. The gut microbiota-masters of host development and physiology.
 
-in the result page the first column and the second column are two diseases and the third column is similarity between them.detailed tutorial about how to use micropattern are shown on the help page of our web server.figure 3. stepwise guideline for performing the microbe set enrichment analysis.figure 4. stepwise guideline for running the disease similarity calculating procedure.diet altering the human gut microbiome which is associated with disease.
+OPENReceived 31 October 2016accepted 30 November 2016Published 10 January 2017MicroPattern a web-based tool for microbe set enrichment analysis and disease similarity calculation based on a list of microbesWei Ma12 Chuanbo Huang13Yuan Zhou12 Jianwei Li14  Qinghua Cui12The microbiota colonized on human body is renowned as a forgotten organ due to its big impacts on human health and disease.
 
-we adapted the equation for the calculation of symptoms-based disease similarity to calculate the microbe-based disease similarity.
+Stepwise guideline for running the disease similarity calculating procedure.Diet altering the human gut microbiome which is associated with disease.
 
-thus two disease sets were abandoned due to lack of such specified microbe association.
+We adapted the equation for the calculation of symptoms-based disease similarity to calculate the microbe-based disease similarity.
 
-moreover with the accumulation of study focus on human microbiome more associations between microbe and disease will be curated and micropattern will be improved greatly.materials and methodscollection of microbe sets.
+Thus two disease sets were abandoned due to lack of such specified microbe association.
 
-so current microbe sets were collected according to two rules the microbe associated disease and the microbe colonized positions.
+Moreover with the accumulation of study focus on human microbiome more associations between microbe and disease will be curated and MicroPattern will be improved greatly.Materials and MethodsCollection of microbe sets.
 
-micropattern first grouped microbes into different sets based on the associated diseases and the colonized positions.then for a given list of microbes micropattern performed enrichment analysis of the given microbes on all of the microbe sets.
-
-different microbe sets could overlap with each other.figure 2. size distribution of microbe sets.
-
-in step 3 the users would choose what sets should be used for analysis according to the size of sets.
-
-in total we collected 47 microbe sets including 37 disease-microbe sets and 10 position-microbe sets.enrichment analysis.
-
-recently microbiome studies have identified a large number of microbes differentially regulated in a variety of conditions such as disease and diet.
-
-in addition micropattern implemented and integrated an algorithm we previously presented for the calculation of disease similarity based on disease-microbe association data.
+So current microbe sets were collected according to two rules the microbe associated disease and the microbe colonized positions.
 

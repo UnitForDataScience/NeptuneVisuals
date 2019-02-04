@@ -1,30 +1,20 @@
-b. clustering of the cultivation- dependent e. labiata 'plate-washes' together with cultivation- independent e. labiata samples and their long distance from all seawater replicates indicates the successful cultivation of afigure 2. prokaryotic community composition at a class- and b genus-level in seawater and the gorgonian e. labiata.
+For direct comparison between bacterial community structures retrieved from E. labiata with cultivation- dependent and cultivation-independent methods NGS taxo- nomic profiling of the 'plate-wash' samples from the same E. labiata specimens was performed in addition to the isolation of single colonies.
 
-we hypothesised that this strategy would represent the phylogenetic diversity of the bacterial community inhabiting e. labiata to a higher extent than expected from colony-forming unitsmicroscopy count ratios or conventional cultivation surveys.methodssampling and sample processingeunicella labiata specimens were sampled in the atlantic ocean offshore faro beach algarve portugal 'pedra da greta' lat.
+Surprisingly bacterial richness in the cultivation- dependent E. labiata 'plate-washes' did not differ PTukey  0.137 from the cultivation-independent E. labiata samples.
 
-for direct comparison between bacterial community structures retrieved from e. labiata with cultivation- dependent and cultivation-independent methods ngs taxo- nomic profiling of the 'plate-wash' samples from the same e. labiata specimens was performed in addition to the isolation of single colonies.
+OTUs but also their relative abundance in each sample--were highest for sea- water 4.21 - 0.09 mean - SE followed by the cultivation- independent E. labiata samples 3.4 - 0.52 mean - SE andthe cultivation-dependent E. labiata 'plate-washes' 2.75 - 0.09mean - SE although statistical difference was only seen be- tween the seawater and 'plate-wash' samples Fig.
 
-surprisingly bacterial richness in the cultivation- dependent e. labiata 'plate-washes' did not differ ptukey  0.137 from the cultivation-independent e. labiata samples.
+Plotting of the 20 most abundant phylotypes OTUs into the PCoA diagram demonstrated their correspondences with the different microhabitats Endozoicomonas OTU 6 was prevalent in the cultivation-independent E. labiata samples while bacte- rial genera such as Ruegeria Sphingorhabdus and Labrenzia were shared between the cultivation-independent and dependent E. labiata samples.
 
-otus but also their relative abundance in each sample--were highest for sea- water 4.21 - 0.09 mean - se followed by the cultivation- independent e. labiata samples 3.4 - 0.52 mean - se andthe cultivation-dependent e. labiata 'plate-washes' 2.75 - 0.09mean - se although statistical difference was only seen be- tween the seawater and 'plate-wash' samples fig.
+B. Clustering of the cultivation- dependent E. labiata 'plate-washes' together with cultivation- independent E. labiata samples and their long distance from all seawater replicates indicates the successful cultivation of aFigure 2.
 
-plotting of the 20 most abundant phylotypes otus into the pcoa diagram demonstrated their correspondences with the different microhabitats endozoicomonas otu 6 was prevalent in the cultivation-independent e. labiata samples while bacte- rial genera such as ruegeria sphingorhabdus and labrenzia were shared between the cultivation-independent and dependent e. labiata samples.
+The cultivation- independent E. labiata samples had 62 376 out of 603 of OTUs in common with the cultivation-dependent 'plate-washes' and 11 68 of these OTUs were unique to the E. labiata microbiome.
 
-labiata samples el.0n.pl--cultivation-dependent e. labiata 'plate-washes'.
+However the E. labiata specimens of this study appeared healthy with no macroscopic signs of necrosis or disease.Some recently described bacterial taxa not yet typically known for their association with gorgonian corals were also detected in E. labiata.
 
-a. the cultivation- independent e. labiata samples had 62 376 out of 603 of otus in common with the cultivation-dependent 'plate-washes' and 11 68 of these otus were unique to the e. labiata microbiome.
+More importantly all of the top 10 most abundant OTUs detected in E. labiata by cultivation- independent means were present in the 'plate-wash' samples with 12 reads per sample and 7 out of these top 10 cultivation- independent E. labiata phylotypes were also among the 10 most abundant phylotypes on the culture plates.
 
-however the e. labiata specimens of this study appeared healthy with no macroscopic signs of necrosis or disease.some recently described bacterial taxa not yet typically known for their association with gorgonian corals were also detected in e. labiata.
+We hypothesised that this strategy would represent the phylogenetic diversity of the bacterial community inhabiting E. labiata to a higher extent than expected from colony-forming unitsmicroscopy count ratios or conventional cultivation surveys.METHODSSampling and sample processingEunicella labiata specimens were sampled in the Atlantic Ocean offshore Faro beach Algarve Portugal 'Pedra da Greta' Lat.
 
-more importantly all of the top 10 most abundant otus detected in e. labiata by cultivation- independent means were present in the 'plate-wash' samples with 12 reads per sample and 7 out of these top 10 cultivation- independent e. labiata phylotypes were also among the 10 most abundant phylotypes on the culture plates.
-
-fems microbiology ecology 93 2017 fix143doi 10.1093femsecfix143advance access publication date 24 october 2017 research articleresearch article the gorgonian coral eunicella labiata hosts a distinct prokaryotic consortium amenable to cultivationtina keller-costa dominic eriksson jorge m. s. gonc alves newton c.m.
-
-tel 351 21 841 7339 e-mail one sentence summary in contrast to current understanding the phylogenetically distinct prokaryotic community inhabiting the gorgonian eunicella labiata is highly amenable to cultivation opening new avenues to study coral-microbe interactions.editor julie olsonabstractmicrobial communities inhabiting gorgonian corals are believed to benefit their hosts through nutrient provision and chemical defence yet much remains to be learned about their phylogenetic uniqueness and cultivability.
-
-here we determined the prokaryotic community structure and distinctiveness in the gorgonian eunicella labiata by illumina sequencing of 16s rrna genes from gorgonian and seawater metagenomic dna.
-
-with 1016 operational taxonomic units otus prokaryotic richness was higher in seawater than in e. labiata where 603 otus were detected 68 of which were host-specific.
-
-oceanospirillales and rhodobacterales predominated in the e. labiata communities.
+labiata samples EL.0n.PL--cultivation-dependent E. labiata 'plate-washes'.
 

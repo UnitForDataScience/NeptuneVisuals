@@ -1,30 +1,20 @@
-2016 revealed that when m9 was incubated with human feces homogenate m9 was almost completely consumed in 24 hours with epac and m11 the two major products observed suggesting the deglucuronidation of m9 to form epac via gut microbiota.
+2016 revealed that when M9 was incubated with human feces homogenate M9 was almost completely consumed in 24 hours with EPAC and M11 the two major products observed suggesting the deglucuronidation of M9 to form EPAC via gut microbiota.
 
-m12 was a weak inhibitor of oatp1b3 with an ic50 value .200 mm and it inhibited the uptake mediated by oat1 oat3 oct2 and oatp1b1 with ic50 values of 8.6 21 21 and 49 mm respectively table 3.the calculated ratios of total cmaxic50 for hepatic uptake transporters oatp1b1 and oatp1b3 and the ratios of unbound cmaxic50 for renal uptake transporters oat1 oat3 and oct2 are less than 0.1 except that the ratios of total cmaxic50 of m9 and m11 for oatp1b3 are greater than 0.1 0.38 and 0.11 respectively tables 5 and 6. because the ratios of total cmaxic50 of m9 and m11 for oatp1b3 are greater than 0.1 the r values of m9 and m11 were calculated using extrapo- lation table 5 by following the decision tree in the fda guidance fda 2012. the estimation of iinmax of metabolites is difficult because parameters such as ka fa fg and dose are difficult to estimate.
+Under the most conservative consid- eration if all EPAC molecules after an oral dose of 300 mg the highest dose in clinical development are converted to M11 in the intestine or M9 in the liver with all M9 molecules moving to the intestine the I2 concentrations of M11 and M9 would be the same as that of EPAC 2740 mM.
 
-under the most conservative consid- eration if all epac molecules after an oral dose of 300 mg the highest dose in clinical development are converted to m11 in the intestine or m9 in the liver with all m9 molecules moving to the intestine the i2 concentrations of m11 and m9 would be the same as that of epac 2740 mm.
+Consequently the EPAC glucuro- nide M9 as the most abundant metabolite in human plasma was further studied as a substrate for MRP2 and MRP3 to better understand the mechanisms of disposition of M9 in the liver and its implication for the pharmacokinetics of EPAC.Materials and MethodsMaterials.
 
-2016. consequently the epac glucuro- nide m9 as the most abundant metabolite in human plasma was further studied as a substrate for mrp2 and mrp3 to better understand the mechanisms of disposition of m9 in the liver and its implication for the pharmacokinetics of epac.materials and methodsmaterials.
+The ER of M9 was 2.5 and1.9 at 1 or 20 mM respectively suggesting that the efflux of M9 in Caco- 2 cells is minimal and it is unlikely a P-gp substrate Fig.
 
-n  3.cms the value of m9 was very low 0.1 1026 cms table 2. this result was expected because m9 as a direct glucuronide conjugate is more hydrophilic and polar with a low logp value 22.1 and a high polar surface area value 264.pharmacokinetic profiles of epac in human subjects suggest- ing ehc.
+6 E and F. These results confirm that M9 is a substrate of both OATP1B1 and OATP1B3.Evaluation of M9 as a Substrate for MRP2 and MRP3.
 
-the er of m9 was 2.5 and1.9 at 1 or 20 mm respectively suggesting that the efflux of m9 in caco- 2 cells is minimal and it is unlikely a p-gp substrate fig.
+The ERBCRPERcontrol value of prazosin was not reduced in the presence of various concentrations of EPAC or M9 0-300 mM which indicates that EPAC and M9 are not inhibitors of BCRP.
 
-6 e and f. these results confirm that m9 is a substrate of both oatp1b1 and oatp1b3.evaluation of m9 as a substrate for mrp2 and mrp3.
+Because the ratios of total CmaxIC50 of M9 and M11 for OATP1B3 are greater than 0.1 the R values of M9 and M11 were calculated using extrapo- lation Table 5 by following the decision tree in the FDA guidance FDA 2012.
 
-2002. the erbcrpercontrol value of prazosin was not reduced in the presence of various concentrations of epac or m9 0-300 mm which indicates that epac and m9 are not inhibitors of bcrp.
+Both EPAC and M9 in the bile move to the intestine lumen where M9 can be converted back to parent EPAC by gut microflora.
 
-both epac and m9 in the bile move to the intestine lumen where m9 can be converted back to parent epac by gut microflora.
+Thus the interactions of M9 with hepatic drug transporters were investigated to gain insight about the disposition of M9 in the liver and its implication for the pharmacokinetics of EPAC.
 
-thus the interactions of m9 with hepatic drug transporters were investigated to gain insight about the disposition of m9 in the liver and its implication for the pharmacokinetics of epac.
-
-although more studies are needed in this emerging area in the future the transporter-mediated disposition of glucuronide metabolites of epac ezetimibe and diclofenac in the liver might support this hypothesis.potentially modulation of the interactions of m9 with the transporters responsible for its disposition may have an impact on the pharmacoki- netics of epac because of the high systemic exposure and possible involvement of m9 in the ehc of epac.
-
-in the case of epac metabolism m11 is formed from epac by the gut flora and most of the m9 is moved from the bile to the intestine where m9 can be deconjugated to form epac.
-
-given the likely involvement of m9 in the ehc of epac observed in humans we also identified the transporters involved in the disposition of m9 epac glucuronide in the liver.
-
-in humans three major plasma me- tabolites have been identified m9 a glucuronide-conjugate m11 a gut microbiota metabolite and m12 a secondary metabolite formed from m11.
-
-it is proposed based on the human pharma- cokinetics of epac that the biliary excretion of m9 the most abundant metabolite leads to the enterohepatic circulation of epac.
+Although more studies are needed in this emerging area in the future the transporter-mediated disposition of glucuronide metabolites of EPAC ezetimibe and diclofenac in the liver might support this hypothesis.Potentially modulation of the interactions of M9 with the transporters responsible for its disposition may have an impact on the pharmacoki- netics of EPAC because of the high systemic exposure and possible involvement of M9 in the EHC of EPAC.
 

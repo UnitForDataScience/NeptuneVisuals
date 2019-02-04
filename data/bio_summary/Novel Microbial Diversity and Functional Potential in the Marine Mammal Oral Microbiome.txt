@@ -1,30 +1,20 @@
-to compare the dolphin cas9 protein sequences against previously sequenced cas9 proteins we down- loaded all cas9 proteins from the refseq database  and confirmed whether they were genuine cas9 proteins using the same hmm search pipeline.
+To compare the dolphin Cas9 protein sequences against previously sequenced Cas9 proteins we down- loaded all Cas9 proteins from the RefSeq database  and confirmed whether they were genuine Cas9 proteins using the same HMM search pipeline.
 
-attempts to infer theabfigure 5. unusual predicted cas9 protein sequences in the dolphin oral sampleslength distribution of 1799 complete cas9 proteins from the refseq database  light blue and 53 complete cas9 proteins from the dolphin datasets dark blue.
+Unusual Predicted Cas9 Protein Sequences in the Dolphin Oral SamplesLength distribution of 1799 complete Cas9 proteins from the RefSeq database  light blue and 53 complete Cas9 proteins from the dolphin datasets dark blue.
 
-the longest cas9 protein in the refseq database  is 1669 amino acids long whereas the longest cas9 proteins in the dolphin datasets are 1794 and 1895 amino acids long.insertions and deletions in the three dolphin-associated cas9 pro- teins dolzoral12495334 dolzoral124196762 and dolzoral1242662 compared to the reference cas9 protein anacas9.
+The longest Cas9 protein in the RefSeq database  is 1669 amino acids long whereas the longest Cas9 proteins in the dolphin datasets are 1794 and 1895 amino acids long.Insertions and deletions in the three dolphin-associated Cas9 pro- teins DolZOral12495334 DolZOral124196762 and DolZOral1242662 compared to the reference Cas9 protein AnaCas9.
 
-we then aligned all dolphin metagenome cas9 proteins cas9 proteins classified into subtypes by makarova et al.
+To evaluate the dis- tribution of Cas9 protein lengths we aligned all RefSeq and dolphin metagenome Cas9 proteins with the well-characterized AnaCas9 and SpyCas9 proteins using MUSCLE  and removed partial sequences that did not span the domains present in AnaCas9 and SpyCas9.
 
-to evaluate the dis- tribution of cas9 protein lengths we aligned all refseq and dolphin metagenome cas9 proteins with the well-characterized anacas9 and spycas9 proteins using muscle  and removed partial sequences that did not span the domains present in anacas9 and spycas9.
+We uncovered a rich diversity of pre- dicted Cas9 proteins including the two longest pre- dicted Cas9 proteins to date.
 
-regions where both proteins have a residue although not necessarily the same one are shown in gray regions where the dolphin cas9 has an insertion are shown in red and regions where the dolphin cas9 has a deletion are shown in blue.
+Although the two complete Saccharibac-teria Cas9 proteins are affiliated with a single clade of type II-C Cas9 proteins Figure S6 neither of the CRISPR-Cas loci en- codes a Cas4 protein as would be expected for a type II-C system.The ability to identify phages that infect CPR bacteria is important to understanding CPR bacterial evolution and the con- straints that they face in their natural settings.
 
-we uncovered a rich diversity of pre- dicted cas9 proteins including the two longest pre- dicted cas9 proteins to date.
+We then aligned all dolphin metagenome Cas9 proteins Cas9 proteins classified into subtypes by Makarova et al.
 
-although the two complete saccharibac-teria cas9 proteins are affiliated with a single clade of type ii-c cas9 proteins figure s6 neither of the crispr-cas loci en- codes a cas4 protein as would be expected for a type ii-c system.the ability to identify phages that infect cpr bacteria is important to understanding cpr bacterial evolution and the con- straints that they face in their natural settings.
+We aligned all three novel Cas9 amino acid sequences against AnaCas9 from Actinomyces naeslundii B. AnaCas9 was selected as a reference because it has a resolved crystal structure and it is a type II-C Cas9 as are the three novel predicted proteins in the present study Figure S6 Data S1.
 
-we aligned all three novel cas9 amino acid sequences against anacas9 from actinomyces naeslundii b. anacas9 was selected as a reference because it has a resolved crystal structure and it is a type ii-c cas9 as are the three novel predicted proteins in the present study figure s6 data s1.
+Regions where both proteins have a residue although not necessarily the same one are shown in gray regions where the dolphin Cas9 has an insertion are shown in red and regions where the dolphin Cas9 has a deletion are shown in blue.
 
-was based on output from antismash which was modified using inkscape .identification and classification of crispr-cas systems and predicted cas9 proteinsto search for cas9 protein sequences we performed an hmm search with hmmer suite version 3.1b2  using the cas9 hmms from makarova et al.
-
-.figure 1. phylogenetic relationships among genomes recovered from the dolphin mouththe maximum-likelihood tree includes representation from all genomes that contained r8 of 15 ribosomal proteins used to infer the phylogeny with the exception of one delongbacteria genome with 7 ribosomal proteins as well as from published genomes.
-
-ribosomal protein sets from the dolphin samples were obtained from all genomes for which at least eight of the ribosomal proteins were present with the exception of the doljoral78delongbacteria302 genome which had seven ribosomal proteins present and sets from candidate phyla genomes were curated and confirmed to have no assembly errors prior to analysis.
-
-for 16s rrna genes that could not be classified by rdp classifier we attempted to identify them by a determining whether the 16s rrna gene was binned with a genome of known taxonomic identity or b by using blast  with otus from the previous 16s rrna gene survey  and determining whether close relatives r95 identity had been detected and identified.phylogenetic placement of genomesthe concatenated ribosomal protein tree was created using a set of 15 ribosomal proteins l2p l3p l4p l5p l14p l15p l16p l18p l22p l24p s3p s8p s10p s17p and s19p in bacteria and the homologous archaeal proteins l8e l3e l1e l11e l23e l23ae l10e l5e l17e l26e s3e s15ae s20e s11e and s15e .
-
-searches for specific proteins of interest that were not identified by kaas  or our annotation pipe- line for example proteins we wished to confirm as absent from the genome were conducted by either obtaining the corresponding hidden markov models hmms profile from the pfam database  and searching for it using the hmmer suite version 3.1b2  or by obtaining the corresponding protein sequence from the ncbi database and querying it against our genome with blast  and then confirming the identity of hits as described above.
-
-we applied a cutoff e-value of 0.01 in order to identify cas proteins with low sequence similarity to previously identified cas proteins.
+was based on output from antiSMASH which was modified using Inkscape .Identification and classification of CRISPR-Cas systems and predicted Cas9 proteinsTo search for Cas9 protein sequences we performed an HMM search with HMMER suite version 3.1b2  using the Cas9 HMMs from Makarova et al.
 

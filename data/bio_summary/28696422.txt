@@ -1,30 +1,20 @@
-it was in overall agreement with the 16s rrna gene tree regarding the phylogenetic place- ment of the bins containing this gene and further- more provides placement for the three bins missing the 16s rrna gene.sponge symbiont genomes are enriched in defense and in matrix interactionsin order to identify the gene functions that are enriched in the genomes of sponge symbionts we compared the pool of symbiont genomes against thepool of selected reference genomes.
+It was in overall agreement with the 16S rRNA gene tree regarding the phylogenetic place- ment of the bins containing this gene and further- more provides placement for the three bins missing the 16S rRNA gene.Sponge symbiont genomes are enriched in defense and in matrix interactionsIn order to identify the gene functions that are enriched in the genomes of sponge symbionts we compared the pool of symbiont genomes against thepool of selected reference genomes.
 
-the accession numbers for all bins 470 completeness are listed in 2. the illumina- only assembly is also deposited on genbank with the accession mkwu00000000.comparative analysisa total of 27 reference genomes were chosen based on phylogeny and environment supplementary table 1. close taxonomic relatedness to the sym- biont genomes closed genomes as well as marine or at least aquatic environments were preferably selected.
+For these reasons all downstream analyses were carried out with the genomes binned from the PacBio-Illumina hybrid assembly.Thirty-seven high-quality sponge symbiont genomes representing 13 bacterial phylaThe 37 binned genomes belonged to 11 bacterial phyla and 2 candidate phyla which are representa- tive of the sponge symbiont consortium Proteobac- teria Alpha Gamma and Delta Chloroflexi Acidobacteria Actinobacteria Bacteroidetes Gem- matimonadetes Deinococcus-Thermus Nitrospirae Nitrospinae Cyanobacteria Spirochaetes and the candidate phyla Poribacteria and SBR1093 2.
 
-for these reasons all downstream analyses were carried out with the genomes binned from the pacbio-illumina hybrid assembly.thirty-seven high-quality sponge symbiont genomes representing 13 bacterial phylathe 37 binned genomes belonged to 11 bacterial phyla and 2 candidate phyla which are representa- tive of the sponge symbiont consortium proteobac- teria alpha gamma and delta chloroflexi acidobacteria actinobacteria bacteroidetes gem- matimonadetes deinococcus-thermus nitrospirae nitrospinae cyanobacteria spirochaetes and the candidate phyla poribacteria and sbr1093 2. this composition is congruent with the known microbial diversity of a. aerophoba .
+Statistical comparison of symbiont genomes with selected reference genomes revealed a significant enrichment of genes related to bacterial defense restriction-modification systems toxin-antitoxin systems as well as genes involved in host colonization and extracellular matrix utilization in sponge symbionts.
 
-statistical comparison of symbiont genomes with selected reference genomes revealed a significant enrichment of genes related to bacterial defense restriction-modification systems toxin-antitoxin systems as well as genes involved in host colonization and extracellular matrix utilization in sponge symbionts.
+Close taxonomic relatedness to the sym- biont genomes closed genomes as well as marine or at least aquatic environments were preferably selected.
 
-marine sources were preferred over other sources.to discover statistically significant differences between the sponge symbiont genomes and reference genomes welch's t-test was performed in stamp2.0.9 with storey fdr and a q-value cutoff of 0.01. this was performed on the cog class level double-counting cogs that belong to multiple classes as well as on the cog level.interactions between the significantly sponge- enriched cogs were explored using string v10 networks and a heatmap was created in r version 3.2.3 the phylo.heatmap function of phy- tools package version 0.5.30 was used to complement the heatmap with phylogeny.
+Marine sources were preferred over other sources.To discover statistically significant differences between the sponge symbiont genomes and reference genomes Welch's t-test was performed in STAMP2.0.9 with Storey FDR and a q-value cutoff of 0.01.
 
-overall the sponge symbionts had genomes of high gc-content which are as follows 13 were between 50 and 60 17 of symbiont genomes comprised 460 of gc-bases.
+Overall the sponge symbionts had genomes of high GC-content which are as follows 13 were between 50 and 60 17 of symbiont genomes comprised 460 of GC-bases.
 
-significant differences were identified between the symbiont genomes and reference genomes on the level of cog classes.
+Significant differences were identified between the symbiont genomes and reference genomes on the level of COG classes.
 
-it also improves the quality of binned genomes and eases often newly enables phylogenetic classification of the binned genomes.
+It also improves the quality of binned genomes and eases often newly enables phylogenetic classification of the binned genomes.
 
-the statistical comparison revealed an enrichment of genes related to rm and ta systems in most symbiont genomes over the reference genomes.
+The statistical comparison revealed an enrichment of genes related to RM and TA systems in most symbiont genomes over the reference genomes.
 
-plos one 9 e109486.alneberg j bjarnason bs de bruijn i schirmer m quick j ijaz uz et al.
-
-j comput biol 19 455-477.beims h wittmann j bunk b sproer c rohde c gunther g et al.
-
-bioinformatics 30 1-8. hentschel u hopke j horn m friedrich ab wagner m hacker j et al.
-
-nucleic acids res 41 590-596.reddy tbk thomas ad stamatis d bertsch j isbandi m jansson j et al.
-
-gene 586 239-247.schmitt s tsai p bell j fromont j ilan m lindquist n et al.
-
-fems microbiol rev 41 182-199.siegl a kamke j hochmuth t piel j richter m liang c et al.
+PLoS One 9 e109486.Alneberg J Bjarnason BS de Bruijn I Schirmer M Quick J Ijaz UZ et al.
 

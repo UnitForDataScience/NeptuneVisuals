@@ -1,30 +1,20 @@
-to address the variable li- brary sizes traditional methods involve either normalizing the count data into proportion data divided by the total sum or rarefying the data into equal library sizes.
+To address the variable li- brary sizes traditional methods involve either normalizing the count data into proportion data divided by the total sum or rarefying the data into equal library sizes.
 
-recently showed the inadmissibility of methods based on rarefied or propor- tion data and suggested directly applying the negative-binomial nb based methods such as deseq  and edger  for rna-seq data to the taxa count data.
+recently showed the inadmissibility of methods based on rarefied or propor- tion data and suggested directly applying the negative-binomial NB based methods such as DESeq  and edgeR  for RNA-seq data to the taxa count data.
 
-the complete likelihood function under the augmented data which include the original data cij's and the missing data zij's becomesthe lr statistic can be easily obtained by fitting the zinb modelto all samples and the samples from each group separately.
+The complete likelihood function under the augmented data which include the original data cij's and the missing data zij's becomesThe LR statistic can be easily obtained by fitting the ZINB modelto all samples and the samples from each group separately.
 
-for permissions please e-mail 643with regard to addressing the special characteristics of the micro- biome sequencing data which are zero-inflated count data with variable library sizes sequencing depths.
+For Permissions please e-mail 643with regard to addressing the special characteristics of the micro- biome sequencing data which are zero-inflated count data with variable library sizes sequencing depths.
 
-compared to rna-seq data the microbiome data contain a large number of zeros typically  50. many attempts have been made to tackle the excessive zeros including the application of hur- dle and zero-inflated models    .
+Compared to RNA-seq data the microbiome data contain a large number of zeros typically  50.
 
-the first set of simulation data consisted of count data from a single taxon at various levels of prevalence abundance and dispersion and a wide range of change models were investigated.
+The first set of simulation data consisted of count data from a single taxon at various levels of prevalence abundance and dispersion and a wide range of change models were investigated.
 
-if a type i error of 5 was used to identify differentialtable 2. number of samples and otus in each dataset before and after filteringu unfiltered data f filtered data nora new-onset rheumatoid arthritis.fig.
+Number of samples and OTUs in each dataset before and after filteringU unfiltered data F filtered data NORA new-onset rheumatoid arthritis.Fig.
 
-we note that lefse which also used wilcoxon test did not perform multiple testing correction while maaslin worked with proportion data which could be sensi- tive to compositional effects especially in datasets such as the ibd dataset with large numbers of differential taxa.discussiondifferential abundance analysis of microbiome data is instrumental in identifying potential microbiome biomarkers for further biolo- gical validation.
+We note that LEfSe which also used Wilcoxon test did not perform multiple testing correction while MaAsLin worked with proportion data which could be sensi- tive to compositional effects especially in datasets such as the IBD dataset with large numbers of differential taxa.DiscussionDifferential abundance analysis of microbiome data is instrumental in identifying potential microbiome biomarkers for further biolo- gical validation.
 
-to account for differential library sizes in nonparametric methods normalizing the count data into proportions or rarefying the data to the same library size has been suggested.
+To account for differential library sizes in nonparametric methods normalizing the count data into proportions or rarefying the data to the same library size has been suggested.
 
-another possible approach for addressing outliers is through data reweighting assign a weight to each data point based on its 'outly- ingness' .
-
-previous statistical methods focus on detecting the shift in the abundance andor prevalence of the microbes and treat the dispersion spread of the data as a nuisance.
-
-moreover the widespread out- liers in the microbiome sequencing data make existing parametric models not overly robust.
-
-therefore a robust and powerful method that allows covariate-dependent dispersion and addresses outliers is still needed for differential abundance analysis.results we introduce a novel test for differential distribution analysis of microbiome sequencing data by jointly testing the abundance prevalence and dispersion.
-
-the test is built on a zero-inflated negative binomial regression model and winsorized count data to account for zero-inflation and outliers.
-
-using simulated data and real microbiome sequencing datasets we show that our test is robust across various biological conditions and overall more powerful than previous methods.availability and implementation r package is available at contact or supplementary information are available at bioinformatics online.introductiona central goal of human microbiome studies is to identify microbial taxa associated with certain biological or clinical conditions such as disease state.
+Another possible approach for addressing outliers is through data reweighting assign a weight to each data point based on its 'outly- ingness' .
 

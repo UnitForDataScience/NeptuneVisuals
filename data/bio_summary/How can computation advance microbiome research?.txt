@@ -1,30 +1,20 @@
-these and additional emerging data may offer new insights into disease processes and microbiome-inspired therapeutic strategies--insights that may provide leads that can be explored experimentally.
+It almost seems like every day inspiring observations come to light.Consider for example the possible link that was observed between gut bacteria of mice and Parkinson disease in which changes in the bacteria populating the gut apparently appear to be associated with a decline in motor skills.
 
-taken together these may also bear on questions such as how medical approaches influence selection pressure on the human microbiome which may influence treatment decisions.new computational approaches are already changing medicine and traditional biology.computational biologists can spur cutting-edge microbiome research.
+How can computations further speed up the pace of microbiome research as it dashes farther scaling higher summits What can computations accomplish What questions can computations help address and what types of algorithms and software should computational biologists aim to develop These are tantalizing questions that many of us are facing probably in particular new groups aiming to venture into a relatively nascent and fast-developing area that promises rapid accumulation of data emergence of alluring new concepts and significant discoveries.
 
-a remarkable earlier study suggested that parkinson disease may start in the stomach because people who had their vagus nerve cut to treat gastric ulcers exhibited a lower risk of parkinson disease than those whose treatment involved only a partial dissection .
+In another striking discovery it was found that gut bacteria may have a role in autism and curiously there is evidence that a single species of gut bacteria can reverse autism-related social behavior in mice .
 
-genomic transcriptomic proteo- mic and metabolomic on the interactions between microbial communities and their hosts towards the most challenging question of the quantification of the impact of the human micro- biome on our health as in the examples above.beyond the discovery of fundamental biological understanding that computations may enable the development and applications of efficient algorithms to analyze and sift through data relating to infections and surgical and other medical procedures is yet another complex aspect that may critically affect human health.
+A remarkable earlier study suggested that Parkinson disease may start in the stomach because people who had their vagus nerve cut to treat gastric ulcers exhibited a lower risk of Parkinson disease than those whose treatment involved only a partial dissection .
 
-this is an open access article distributed under the terms of the  which permits unrestricted use distribution and reproduction in any medium provided the original author and source are credited.funding the authors received no specific funding for this article.competing interests ruth nussinov and jason papin are editors-in-chief for plos computational biology.biome and cancer  cardiovascular disease  obesity  and more e.g.
+Together we look forward to making a difference.ReferencesSampson TR Debelius JW Thron T Janssen S Shastri GG Ilhan ZE et al.
 
-as the leading journal in computational biology plos computational biology is planning to catalyze such develop- ments to stimulate an area that is already surging.
+Cell 167 6 1469- 1480 PMIDSvensson E Horva'th-Puho' E Thomsen RW Djurhuus JC Pedersen L Borghammer P et al.
 
-in another striking discovery it was found that gut bacteria may have a role in autism and curiously there is evidence that a single species of gut bacteria can reverse autism-related social behavior in mice .
+British Journal of Cancer 114 3 237-42 PMIDWang Z Klipfell E Bennett BJ Koeth R Levison BS Dugar B et al.
 
-uncovering trends in antibiotic resistance may impact our healthcare ecosystem--which computations can help decipher.
+Nature 472 7341 57-63 PMIDCox LM Yamanishi S Sohn J Alekseyenko AV Leung JM Cho I et al.
 
-how can computations further speed up the pace of microbiome research as it dashes farther scaling higher summits what can computations accomplish what questions can computations help address and what types of algorithms and software should computational biologists aim to develop these are tantalizing questions that many of us are facing probably in particular new groups aiming to venture into a relatively nascent and fast-developing area that promises rapid accumulation of data emergence of alluring new concepts and significant discoveries.
+Nature 444 1027-1031 PMIDStefka AT Feehley T Tripathi P Qiu J McCoy K Mazmanian SK et al.
 
-it almost seems like every day inspiring observations come to light.consider for example the possible link that was observed between gut bacteria of mice and parkinson disease in which changes in the bacteria populating the gut apparently appear to be associated with a decline in motor skills.
-
-computational methods are emerging to facilitate the detection and quantification of diverse patterns among these data as well as the construction of microbial networks and cross interactions between members of microbial communities.
-
-computational biology can also develop and apply statistical methods to bacterial communities evolving in different environments in diverse populations to obtain correlations and trends in disparate ecosystems.
-
-in this endeavor plos computational biol- ogy collaborates with other plos community journals to lead to an upswing in microbiome research for the good of the community.
-
-2016 gut microbiota regulate motor deficits and neuroinflammation in a model of parkinson's disease.
-
-2015 vagotomy and subsequent risk of parkinson's disease.
+The Journal of Allergy and Clinical Immu- nonlogy 135 1 25-30 PMIDvan Nood E Vrieze A Nieuwdorp M Fuentes S Zoetendal EG de Vos WM et al.
 

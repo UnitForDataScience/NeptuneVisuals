@@ -1,30 +1,20 @@
-corduneanu a. and bishop c. m. 2001. variational bayesian model selection for mixture distributions in proceedings eighth international conference on artificial intelligence and statistics burlington ma morgan kaufmann 27-34.cowan d. a. arslanoglu a. burton s. g. baker g. c. cameron r. a. smithj.
+Pell J. Hintze A. Canino-Koning R. Howe A. Tiedje J. M. and Brown C. T. 2012.
 
-here we review a collection of tools for the analysis of metagenomic microbiome sequence data with a focus on the prediction of novel genes and proteins.sequencing technologies for whole genome shotgun metagenomicsmany microbiomes are incredibly complex - for example  estimated that a single cow rumen contains approximately 1000 otus - and therefore any sequencing technology applied to microbiome samples needs to be sufficiently deep and comprehensive to capture representative sequences from all species within a microbiome many of which exist at varying abundances.second and third generation sequencing technologies collectively called next-generation sequencing ngs have enabled much deeper and more comprehensive studies of microbiomes.
+A. McKain N. Duthie C. A. Hyslop J. J. RossD.
 
-methods 11 1144-1146. aziz r. k. bartels d. best a. a. dejongh m. disz t. edwards r. a. et al.
+Here we review a collection of tools for the analysis of metagenomic microbiome sequence data with a focus on the prediction of novel genes and proteins.SEQUENCING TECHNOLOGIES FOR WHOLE GENOME SHOTGUN METAGENOMICSMany microbiomes are incredibly complex - for example  estimated that a single cow rumen contains approximately 1000 OTUs - and therefore any sequencing technology applied to microbiome samples needs to be sufficiently deep and comprehensive to capture representative sequences from all species within a microbiome many of which exist at varying abundances.Second and third generation sequencing technologies collectively called next-generation sequencing NGS have enabled much deeper and more comprehensive studies of microbiomes.
 
-crucially by sequencing the genomes of all organisms rather than a single marker gene metagenomic studies can provide information about the function of genes the structure and organization of genomes identification of novel genes and biocatalysts community structure and evolutionary relationships within the microbial community.advances in metagenomics have themselves been driven by advances in second- and third- generation sequencing technologies which are now capable of producing hundreds of gigabases of dna sequenced data at a very low cost  .
+Chaudhuri R. R. Loman N. J. Snyder L. A. Bailey C. M. Stekel D. J. and PallenM.
 
-15 387-396. pell j. hintze a. canino-koning r. howe a. tiedje j. m. and brown c. t. 2012. scaling metagenome sequence assembly with probabilistic de bruijn graphs.
+Kislyuk A. Bhatnagar S. Dushoff J. and Weitz J. S. 2009.
 
-metagenomics refer to the application of sequencing techniques to the entirety of the genomic material in the microbiomeabbreviations gmm gaussian mixture model gpu graphical processing unit gui graphical user interphase imm interpolated markov model lsa latent strain analysis mpi message passing interface ngs next generation sequencing olc overlap layout consensus ont oxford nanopore technologies otu operational taxonomic unit pacbio pacific biosciences rbs ribosomal binding site smrt single molecule real time wgs whole genome shotgun zmw zero-mode waveguide.of a sample.
+Lo C. C. Anderson J. J. Davenport K. W. Bishop-Lilly K. A. Xu Y. et al.
 
-second-generation sequencing includes technologies such as illumina and ion torrent that produce many millions of short reads 150-400 bp whereas third- generation sequencing includes pacbio and ont which produce much longer reads 6-20 kb but far fewer reads per run typically hundreds of thousands.illumina technology uses the sequence-by-synthesis method.
+Venter J. C. Remington K. Heidelberg J. F. Halpern A. L. Rusch D. EisenJ.
 
-pacbio sequencing has a high raw error rate  15 but this can be corrected to very high accuracy    .oxford nanopore technologies also offer single-molecule sequencing.
+All authors approved the final manuscript.FUNDINGThis work was enabled by funding from the Biotechnology and Biological Sciences Research Council including Institute Strategic Programme and National Capability grants BBSRC BBSED20310000 BBJ0042431 and an industrial CASE studentship BBL0163891 with Ingenza.SUPPLEMENTARY MATERIALThe Supplementary Material for this article can be found online at TABLE S1  A summary of the tools databases and technologies used for metagenomic bioprospecting.REFERENCESAlneberg J. Bjarnason B. S. de Bruijn I. Schirmer M. Quick J. Ijaz U.
 
-in 2014 ont released the minion sequencing systems which unlike the other technologies bulk sequencing installations is a palm-sized device producing long reads in real time.
+Variational Bayesian model selection for mixture distributions in Proceedings Eighth International Conference on Artificial intelligence and Statistics Burlington MA Morgan Kaufmann 27-34.Cowan D. A. Arslanoglu A. Burton S. G. Baker G. C. Cameron R. A. SmithJ.
 
-36 d543-d546.chin c.-s. alexander d. h. marks p. klammer a. a. drake j. heiner c. et al.
-
-32 298-302. delcher a. l. bratke k. a. powers e. c. and salzberg s. l. 2007. identifying bacterial genes and endosymbiont dna with glimmer.
-
-42 600-606. hunter s. jones p. mitchell a. apweiler r. attwood t. k. bateman a. et al.
-
-338 1027-1036. kurtz s. phillippy a. delcher a. l. smoot m. shumway m. antonescu c. et al.
-
-4168. roehe r. dewhurst r. j. duthie c. a. rooke j. a. mckain n. ross d. w. et al.
-
-science 304 66-74. wallace r. j. rooke j. a. mckain n. duthie c. a. hyslop j. j. rossd.
+Metagenomics refer to the application of sequencing techniques to the entirety of the genomic material in the microbiomeAbbreviations GMM Gaussian mixture model GPU graphical processing unit GUI graphical user interphase IMM Interpolated Markov model LSA latent strain analysis MPI message passing interface NGS next generation sequencing OLC overlap layout consensus ONT Oxford nanopore technologies OTU operational taxonomic unit PacBio Pacific Biosciences RBS ribosomal binding site SMRT single molecule real time WGS whole genome shotgun ZMW zero-mode waveguide.of a sample.
 

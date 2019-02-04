@@ -1,30 +1,20 @@
-the inner layer physically excludes bac- teria   and is enriched in innate and adaptive immune effectors targeting the microbiota thereby providing a biochemical barrier as well  .like the microbiota composition the mucus varies throughout the colon becoming denser and more continuous along the length toward the rectum in part due to decreased water con- tent.
+The inner layer physically excludes bac- teria   and is enriched in innate and adaptive immune effectors targeting the microbiota thereby providing a biochemical barrier as well  .Like the microbiota composition the mucus varies throughout the colon becoming denser and more continuous along the length toward the rectum in part due to decreased water con- tent.
 
-nonetheless this methodology has opened the door for systematic studies of the spatial organization of the gut microbiota within the colon environment and has laid the foundation for understanding the bacte- ria-mucus interface .imaging the microbiota alongside mucus presents additional challenges.
+Nonetheless this methodology has opened the door for systematic studies of the spatial organization of the gut microbiota within the colon environment and has laid the foundation for understanding the bacte- ria-mucus interface .Imaging the microbiota alongside mucus presents additional challenges.
 
-the first rudimentary evidence that the human body harbors a microbiota hinted at the complexity of host- associated microbial ecosystems.
+The first rudimentary evidence that the human body harbors a microbiota hinted at the complexity of host- associated microbial ecosystems.
 
-now almost 400 years later a renaissance in the study of microbiota spatial organization driven by coincident revolutions in imaging and sequencing technologies is revealing functional relationships between biogeography and health particularly in the vertebrate gut.
+Now almost 400 years later a renaissance in the study of microbiota spatial organization driven by coincident revolutions in imaging and sequencing technologies is revealing functional relationships between biogeography and health particularly in the vertebrate gut.
 
-instead there largely was consensus that the majority of the gastrointestinal tract and its microbial community were evolu- tionary relics .recent insight into the gut microbiota's tremendous impact on health and development has largely been driven by techno- logical advances.
+Instead there largely was consensus that the majority of the gastrointestinal tract and its microbial community were evolu- tionary relics .Recent insight into the gut microbiota's tremendous impact on health and development has largely been driven by techno- logical advances.
 
-continually decreasing sequencing costs have helped establish a foundational understanding of the natu- ral variation of microbiota composition among healthy subjects and variation due to numerous factors ranging from diet to life- style to delivery method.
+Continually decreasing sequencing costs have helped establish a foundational understanding of the natu- ral variation of microbiota composition among healthy subjects and variation due to numerous factors ranging from diet to life- style to delivery method.
 
-although cataloging membership of the gut microbiota has become routine understanding the function- ality of individual members in the context of their ecosystem remains challenging.
+Although cataloging membership of the gut microbiota has become routine understanding the function- ality of individual members in the context of their ecosystem remains challenging.
 
-perhaps most importantly the snapshot of the gastrointestinal system provided by a single fecal sample is unable to capture the variation in bacterial locali- zation and function along the length of the digestive tract.efforts have been made to quantify microbiota composition us- ing 16s rrna sequencing from samples derived invasively from distinct locations along the gastrointestinal tract either by biopsy  laser-capture microdis- section  or manual dissection  .
+Perhaps most importantly the snapshot of the gastrointestinal system provided by a single fecal sample is unable to capture the variation in bacterial locali- zation and function along the length of the digestive tract.Efforts have been made to quantify microbiota composition us- ing 16S rRNA sequencing from samples derived invasively from distinct locations along the gastrointestinal tract either by biopsy  laser-capture microdis- section  or manual dissection  .
 
-to determine which bacteria are where how their gene expression and function is connected to their local environment and how global spatial organization varies in health and disease we must return to where the field began the microscope.biogeography of the gut microbiota the gut contains a number of distinct habitats that select for het- erogeneous spatial organization of the microbes housed within reviewed in detail in cell host  microbe 21 april 12 2017 a 2017 elsevier inc. 433figure 1. biogeography of the mouse gastrointestinal microbiotatop confocal micrographs of intestinal sections stained with uea-1 green and dapi blue in epithelium red in lumen.
+To determine whether these results reflect immature mucus present in gnotobiotic mice colo- nized for short periods of time  or are representative of a fully developed barrier will require additional studies.Similar to crypts the transverse folds of the proximal colon of mice provide an epithelium-associated microhabitat for a spe- cific subset of the mouse gut microbiota.
 
-to determine whether these results reflect immature mucus present in gnotobiotic mice colo- nized for short periods of time  or are representative of a fully developed barrier will require additional studies.similar to crypts the transverse folds of the proximal colon of mice provide an epithelium-associated microhabitat for a spe- cific subset of the mouse gut microbiota.
-
-however the mecha- nisms by which specific taxa colonize and are restricted to partic- ular anatomical sites are still largely unknown and future studies are required to determine how stable colonization of host tissueaffects host biology.spatial redistribution of commensals during disease historically research into the impact of the microbiota on human health has focused on either compositional changes associated with disease or the emergence of pathogens that can colonize or breach the epithelium.
-
-now it is becoming clear that spatial re- programming of the microbiota may be a common and function- ally relevant feature of chronic inflammatory diseases.
-
-recently specific microbiota members such as the mucus degradermuciniphila have been implicated in wound healing by stimu- lating enterocyte proliferation and migration .
-
-recently a specific host molecular chaperone cosmc was shown to be associated with ibd in humans and deletion of cosmc in mice led to loss of gut microbiota diversity .
-
-furthermore the structure of the fecal microbiota is affected in patients with chronic idiopathic diarrhea suggest- ing that gut homeostasis is an important feature in establishing commensal organization .such as caenorhabditis elegans or zebrafish is needed to deter- mine the dynamics of mislocalization during and its contribution to disease processes.figure 2. improved histological methods allow visualization of mucus heterogeneity in the mouse colondistal colon of a conventional mouse stained with uea-1 green dapi blue in epithelium red in lumen and fish probes specific to firmicutes yellow and bacteroidales maroon.
+However the mecha- nisms by which specific taxa colonize and are restricted to partic- ular anatomical sites are still largely unknown and future studies are required to determine how stable colonization of host tissueaffects host biology.Spatial Redistribution of Commensals during Disease Historically research into the impact of the microbiota on human health has focused on either compositional changes associated with disease or the emergence of pathogens that can colonize or breach the epithelium.
 

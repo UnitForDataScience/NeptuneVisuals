@@ -1,30 +1,20 @@
-therein 143 out of 16 isolated strains showed at least slight activity 5 strains exhibited strong activity against the gram-positive test strain and 1 strain showed anti-mrsa activity.one isolate even showed activity against enterohemorrhagice.
+V. alginolyticus Bu1537 was isolated starting with sponge material.An interesting outcome of this study is that a large portion of bacteria with antimicrobial activity was isolated from egg masses.
 
-v. alginolyticus bu1537 was isolated starting with sponge material.an interesting outcome of this study is that a large portion of bacteria with antimicrobial activity was isolated from egg masses.
+Investigation of the interrelation between associated bacteria and desired protection of egg masses opens up a topic for future research.To tackle the threat by antibiotic-resistant bacteria new treatment options and new bioactive compounds must be identified.
 
-therefore genomic dna was isolated from 2 ml of liquid culture using the genelute bacterial genomic dna kit sigma and the 16s rdna region was amplified by pcr using rd1 and fd1 primers  .
+To test the potential of the associated bacteria the latter were isolated from their hosts brought into culture and extracts were prepared and tested for antimicrobial activities.
 
-plates were incubated at 37c for 18 h and checked for inhibition zones.detection of pks and nrps biosynthetic genesgenomic dna of the different bacterial strains was isolated using the genelute bacterial genomic dna kit sigma according to the manufacturer protocol.
+The isolated bacteria were tested for the presence of polyketide synthases PKSs and non-ribosomal peptide synthetases NRPSs coding genes since a majority of pharmaceutical interesting compounds is produced by these biosynthetic pathways.
 
-bu1544 yielded 3 distinct ks fragments.discussionthe isolation of vibrio and pseudoalteromonas strains from marine sea slugs seemed likely since these bacteria are known as abundant species in the marine habitat and many strains were already isolated by using commercially available complex media with a concentration of ions mimicking seawater.
+However the strain showing activity against the Gram-negative EHEC strain was a Marinomonas species.Phylogenetic AnalysisFor all isolated axenic bacteria the 16S rDNA gene was amplified using rD1 and fD1 primers designed for the specific and long range amplification of eubacterial 16S rDNA.
 
-heidelberg springer-verlag gmbh.donia m. and hamann m. t. 2003. marine natural products and their potential applications as anti-infective agents.
+Bu1544 yielded 3 distinct KS fragments.DISCUSSIONThe isolation of Vibrio and Pseudoalteromonas strains from marine sea slugs seemed likely since these bacteria are known as abundant species in the marine habitat and many strains were already isolated by using commercially available complex media with a concentration of ions mimicking seawater.
 
- nils bohringer12  katja m. fisch12  dorothee schillo3  robert bara4  cora hertzer1  fabian grein56  jan-hendrik eisenbarth3  fontje kaligis4  tanja schneider56 heike wagele3  gabriele m. konig16 and 1261 institute for pharmaceutical biology university of bonn bonn germany 2 institute for insect biotechnology justus liebig university of giessen giessen germany 3 centre of molecular biodiversity zoological research museum alexander koenig bonn germany 4 faculty of fisheries and marine science sam ratulangi university manado indonesia 5 german center for infection research partner site bonn-cologne bonn germany 6 institute of medical microbiology immunology and parasitology - pharmaceutical microbiology section university of bonn bonn germanyedited byjack wong the chinese university of hong konghong kongreviewed byangelina lo giudice consiglio nazionale delle ricerchecnr italy osmar nascimento silva universidade catolica dom boscobrazilcorrespondence till f. schaberle specialty section this article was submitted to antimicrobials resistance and chemotherapya section of the journal frontiers in microbiologyreceived 28 february 2017accepted 30 may 2017published 14 june 2017citation bohringer n fisch km schillo d bara r hertzer c grein f eisenbarth j-h kaligis f schneider t wagele h konig gm and schaberle tf 2017 antimicrobial potential of bacteria associated with marine sea slugs from north sulawesi indonesia.front.
+Many natural products originally isolated from sponges can be attributed to bacteria as the real producers .
 
-blastn search of the 16s rdna sequences revealed the closest relatives thereby enabling determination of the species due to the fact thatidentity to known type strains was in the range of 98-100. the phylogenetic tree of all obtained bacterial isolates was created by aligning the 16s rdna sequences of the respective type strains using mafft  and constructing the tree using raxml .resultsisolation and identification of sea slug associated bacteriapreliminary identification of the slugs and egg masses were confirmed by barcoding.
+In this context the presence of PKS- and NRPS-coding sequences in the isolated strains provides further evidence that biosynthesis of specialized metabolites with interesting biological activities is encoded in these bacteria.
 
-the highest proportion of strains 20 each was isolated from the egg masses hesa15bu1 and hesa15bu2 of h. sanguineus whereby only 2 equates to 1 strain were isolated from the processed sponge sample.
+The highest proportion of strains 20 each was isolated from the egg masses Hesa15Bu1 and Hesa15Bu2 of H. sanguineus whereby only 2 equates to 1 strain were isolated from the processed sponge sample.
 
-all of the 10 isolated pseudoalteromonas strains showed activity and 7 thereof revealed strong activity against the gram-positive test strain.
-
-however the strain showing activity against the gram-negative ehec strain was a marinomonas species.phylogenetic analysisfor all isolated axenic bacteria the 16s rdna gene was amplified using rd1 and fd1 primers designed for the specific and long range amplification of eubacterial 16s rdna.
-
-from 49 isolated bacterial strains 35 showed antibiotic activity.
-
-the plasmids were isolated using the pureyield miniprep kit promega madison wi united states and the insert was sequenced from both sides using t7 and sp6 primers gatc konstanz germany.
-
-for barcoding a small portion of the sampled slugs egg masses and sponges was stored in 96 etoh and the dna was isolated using qiagen dneasy blood and tissue-kit qiagen hilden germany.
-
-most of the strains were recovered using marine broth standard medium while 10 strains were recovered by using isp2 medium optimized for actinobacteria see materials and methods.
+Thereby the original source of these natural products varies it might be the food source de novo synthesis from the sea slug or biosynthesis by associated bacteria.
 

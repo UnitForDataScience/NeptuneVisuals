@@ -1,30 +1,20 @@
-we show that different stages of bd infection can be observed on zebrafish larvae using histopathology and confocal microscopy alongside symptoms of infection that are comparable to those observed in amphibians.these results show that zebrafish larvae undergo an infection process similar to that of bd's native amphibian hosts highlighting the utility of zebrafish larvae as an important model to study this emerging panzootic infectious disease.resultsbd infection of zebrafish larvae.
+We show that different stages of Bd infection can be observed on zebrafish larvae using histopathology and confocal microscopy alongside symptoms of infection that are comparable to those observed in amphibians.These results show that zebrafish larvae undergo an infection process similar to that of Bd's native amphibian hosts highlighting the utility of zebrafish larvae as an important model to study this emerging panzootic infectious disease.ResultsBd infection of zebrafish larvae.
 
-these results show that zebrafish larvae undergo an infection process similar to that of amphibians and that bd infection of zebrafish can be powerful model system to study the invasion and proliferation of bd in vivo.discussionour study shows that bd is able to infect and multiply on zebrafish larvae treated with antibiotics in a dose dependent manner that mimics the process of infection seen in amphibians.
+Thus a zebrafishlarvae infection model would present a novel opportunity to study pathogenesis and innate immune responses during Bd infection in vivo.Here we tested whether zebrafish larvae can act as carriers of Bd by developing a 3-day dose-dependent model in which infection can be detected and quantified.
 
-takentogether these results show that zebrafish larvae can be infected with bd in the presence of broad spectrum antibiotics and that bd infection of larvae resembles that of amphibians.symptoms of bd infection in zebrafish larvae.
+These results show that zebrafish larvae undergo an infection process similar to that of amphibians and that Bd infection of zebrafish can be powerful model system to study the invasion and proliferation of Bd in vivo.DiscussionOur study shows that Bd is able to infect and multiply on zebrafish larvae treated with antibiotics in a dose dependent manner that mimics the process of infection seen in amphibians.
 
-these results demonstrate that bd infection in zebrafish larvae is underpinned by severe tissue damage caused by secreted toxins and the infection process.intracellular colonization by bd in zebrafish larvae.
+We also show that infection phenotypes fin erosion cell apoptosis and muscle degeneration are direct symptoms of infection.
 
-however in common with many macroparasite disease systems not all larvae became infected and mortality is heterogeneous among experiments supplementary table 1 suggesting that there are unknown factors underlying the susceptibility of zebrafish larvae to bd.heterogeneity in susceptibility of zebrafish larvae to infection may arise from a number of intrinsic and extrinsic factors investigation of which will likely prove to be fruitful areas offuture research using this model.
+An unexamined factor that may confound all of these studies is whether commensal bacteria either interact synergistically with Bd to exacerbate infection through dysbiosis or rather protect against infection through the production of antimicrobial compounds.
 
-eggs were obtained by placing breeding boats at the base of adult zebrafish tanks overnight then bleached according to protocols described in the zebrafish book.
+Recent studies have uncovered host immune responses of Bd infection in amphibians though most of this work focused on adaptive immunity despite research suggesting an important roleof the innate immune system especially at the early stages of infection.
 
-samples with greater than 0.1 ge were considered positive for bd.to eliminate background upregulation due to residual bd dna in zebrafish larvae bath water data showing ge of bd on zebrafish was normalized using the following formula for all qpcr figures except in and supplementary fig.
+To investigate infection burden we quantified the amount of Bd DNA on infected larvae using quantitative PCR qPCR an assay typically used to detect Bd infection in vivo using swabs or toeclips.
 
-275 329-334 2008.westerfield m. the zebrafish book a guide for the laboratory use of zebrafish danio rerio 4th edn university of oregon press 2000.lips k. r. et al.
+To visualize Bd infection in larvae weperformed histopathology using methods commonly employed to confirm infection in amphibians.
 
-articlereceived 12 sep 2016  accepted 23 feb 2017  published 20 apr 2017 doi 10.1038ncomms15048openchytrid fungus infection in zebrafish demonstrates that the pathogen can parasitize non-amphibian vertebrate hostsnicole liew12 maria j. mazon moya1 claudia j. wierzbicki2 michael hollinshead3 michael j. dillon4 christopher r. thornton4 amy ellison5 jo cable5 matthew c. fisher2  serge mostowy1aquatic chytrid fungi threaten amphibian biodiversity worldwide owing to their ability to rapidly expand their geographical distributions and to infect a wide range of hosts.
+Takentogether these results show that zebrafish larvae can be infected with Bd in the presence of broad spectrum antibiotics and that Bd infection of larvae resembles that of amphibians.Symptoms of Bd infection in zebrafish larvae.
 
-here we extend our knowledge on the host range of the chytrid batrachochytrium dendrobatidis by demonstrating infection of a non-amphibian vertebrate host the zebrafish.
-
-we observe dose-dependent mortality and show that chytrid can infect and proliferate on zebrafish tissue.
-
-successful infection is dependent on disrupting the zebrafish microbiome highlighting that as is widely found in amphibians commensal bacteria confer protection against this pathogen.
-
-if bd were able to successfully parasitize fish then this would represent an unparalleled opportunity for studying infection through use of the widely available zebrafish danio rerio.
-
-the fully developed innate immune system present in zebrafish larvae along with its natural transparency make it possible to easily study host-pathogen interactions in real time using non-invasive live-cell microscopy.
-
-furthermore the immediate environment of the zebrafish larvae can easily be manipulated with antibiotics allowing the role of commensal bacteria in disease dynamics to be studied.
+Moreover CFW-positive punctae colocalized with blister-like structures on eroded muscle of infected larvae 2e suggesting that both CFW-positive punctae and blistering of skin are symptoms of infection by Bd.Consequence of Bd infection on zebrafish larvae host tissue.
 

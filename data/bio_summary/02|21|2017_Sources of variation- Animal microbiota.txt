@@ -1,26 +1,20 @@
-natural variation in microbiota between experiments or facilities may be important for repli- cation efforts to ascertain that a given effect is robust to mi- crobial background for example when testing a drug that may be administered to patients with different microbiota.the confounding of environment genotype and micro- biota effects that occurs when parents transmit microbiota to their offspring may be the most problematic aspect of microbiota-mediated effects for researchers.
+Natural variation in microbiota between experiments or facilities may be important for repli- cation efforts to ascertain that a given effect is robust to mi- crobial background for example when testing a drug that may be administered to patients with different microbiota.The confounding of environment genotype and micro- biota effects that occurs when parents transmit microbiota to their offspring may be the most problematic aspect of microbiota-mediated effects for researchers.
 
-not only immunity and metabo- lism but also traits as diverse as bone density blood-brain barrier integrity and behavior are influenced by the non- pathogenic microbes bacteria and eukaryotes with which animals come into contact.some effects are seen when examining the differences be- tween microbiologically sterile axenic and conventional animals whereas others are observed between animals with natural variations in the microbiome.
+Not only immunity and metabo- lism but also traits as diverse as bone density blood-brain barrier integrity and behavior are influenced by the non- pathogenic microbes bacteria and eukaryotes with which animals come into contact.Some effects are seen when examining the differences be- tween microbiologically sterile axenic and conventional animals whereas others are observed between animals with natural variations in the microbiome.
 
-for many experiments it may be sufficient to randomize theeffects of microbiota across treatment groups such that var- iation in microbiota may add a certain amount of noise but not create a spurious signal.
+For many experiments it may be sufficient to randomize theeffects of microbiota across treatment groups such that var- iation in microbiota may add a certain amount of noise but not create a spurious signal.
 
-fur- thermore some microbiota may have a different phenotypic effect in host animals with different genetic backgrounds and vice versa.
+Fur- thermore some microbiota may have a different phenotypic effect in host animals with different genetic backgrounds and vice versa.
 
-in some cases it may be necessary to standardize the mi- crobiota of the experimental animals--for example by ar- tificially creating a standard microbial mixture similar to but even more rigorously standardized than the schaedler flora sometimes used in mice or by autoclaving or irra- diating food and water to prevent the introduction of new microbes.
+In some cases it may be necessary to standardize the mi- crobiota of the experimental animals--for example by ar- tificially creating a standard microbial mixture similar to but even more rigorously standardized than the Schaedler flora sometimes used in mice or by autoclaving or irra- diating food and water to prevent the introduction of new microbes.
 
-parallel experiments using axenic animals may also be necessary.
+Parallel experiments using axenic animals may also be necessary.
 
-when studying in- tact animals variability comes from many sources including the microbial organisms that associate with the animals being studied.
+When studying in- tact animals variability comes from many sources including the microbial organisms that associate with the animals being studied.
 
-these measures include rearing animals in identical conditions for several generations prior to the start of an exper- iment co-housing or cross-fostering animals before assigning them to treatments or conducting experiments in which re- plicates are matched pairs from the same litter littermate controls or split-brood designs.
+These measures include rearing animals in identical conditions for several generations prior to the start of an exper- iment co-housing or cross-fostering animals before assigning them to treatments or conducting experiments in which re- plicates are matched pairs from the same litter littermate controls or split-brood designs.
 
-the effect of microbes on a certain trait can be independent of the host's genotype or the microbiota composition may be shaped by traits of the host and in turn confer a phenotypic trait.
+The effect of microbes on a certain trait can be independent of the host's genotype or the microbiota composition may be shaped by traits of the host and in turn confer a phenotypic trait.
 
-in a genome-wide association study of nutritional traits of flies for example some genetic polymorphisms re- sulted in phenotypic differences only in the presence of mi- crobiota whereas others did only in the absence of microbiota 1. the diversity of these effects means that the microbiota may contribute to unexplained variation either within or be- tween experiments in a number of different often difficult-to- predict ways.clearly the best way to take microbiota into account when designing experiments depends on the research question being asked and the parameter being studied.
-
-changes in microbiota over the course of an experiment may need to be monitored which involves culturing and sequencing microbial communities.
-
-in other types of research such measures may obscure im- portant differences between genotypes produce a biologi- cally irrelevant phenotype or simply be ineffective.
-
-en- vironmentally acquired microbes can also be transferred to offspring or to animals that are housed together.
+The diversity of these effects means that the microbiota may contribute to unexplained variation either within or be- tween experiments in a number of different often difficult-to- predict ways.Clearly the best way to take microbiota into account when designing experiments depends on the research question being asked and the parameter being studied.
 

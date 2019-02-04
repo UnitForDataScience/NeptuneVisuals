@@ -1,30 +1,20 @@
-20161301169-80.davis c peters d warshauer d king j budowle b. sequencing the hypervariable regions of human mitochondrial dna using massively parallel sequencing improved methods for dna sam- ples encountered in forensic testing.
+However microbial foren- sics now can contribute to human identification potentially geolocation and human networking postmortem interval esti- mation  and even profiling of evidentiary soil samples .The human genome contains approximately 20000 genes however the human microbiome carries well over 1000000 genes -.
 
-200247773-85.flores sk sun j king j budowle b. validation of the globalfilertm express pcr amplification kit for the direct am- plification of single-source dna samples on a high-throughput automated workflow.
+The advent of MPS will impact forensic science in many ways - hopefully all to the benefit of society.Key pointsForensic genetics has made great strides both scientifical- ly and as a forensic science standard since its inception in the 1980s.The latest technology being embraced by forensic genet- ics is massively parallel sequencing MPS.MPS offers higher throughput so more markers different classes of markers and multiple individuals can be ana- lyzed simultaneously.MPS also offers a unified approach that can be applied for human identification and beyond to analysis in molecular autopsy and identification of animals plants and microbes.Compliance with ethical standards The authors state that they have no conflicts of interest to declare related to this Review.
 
-1977745463-7.wilson mr polanskey d butler j dizinno ja replogle j budowle b. extraction pcr amplification and sequencing of mitochondrial dna from human hair shafts.
+Long before the inception of microbial forensics epidemiologists were sequencing microbes in civil and criminal investigations such as tracing transmission of human immunodeficiency virus HIV from healthcare pro- viders to their patients or lovers   which continues to this day with a landmark case example of identifying the health care provider source of a large epidemic outbreak of hepatitis C virus HCV transmission to patients in Spain .
 
-in 1985 alec jeffreys applied a dna multi- locus probe to hybridize to various repetitive regions in the human genome and directly interrogated dna from forensic samples to help link two rape-murders in leicester  .
+However the through- put power of MPS allows for sequencing entire human ge- nomes and with effective bioinformatics tools to compare both genomes those few variants can now be elucidated.
 
-capillary electro- phoresis ce which sorts dna products by their size and enables their detection because of a set fluorescent labels that have been attached to the dna molecules during pcr  .
+But whole human genome sequencing although not likely to be used routinely will potentially create some privacy issues.
 
-this general dna typing workflow is used by essentially all forensic laboratories worldwide that analyze biological evidence.forensic dna typing to characterize biological evidence either directly i.e.
+Forensic Sci Int.
 
-many countries have established dna databanks that contain dna profiles from convicted offenders arrestees and foren- sic samples from unsolved cases  .
+198917 6463-71.Edwards A Civitello A Hammond HA Caskey CT. DNA typing and genetic mapping with trimeric and tetrameric tandem repeats.
 
-dna profiles from biological evidence can be searched against dna profiles from for example convicted offenders or other unknown source evidence samples to develop associations that can support investigative leads.
+199149746-56.Edwards A Hammond HA Jin L Caskey CT Chakraborty R. Genetic variation at five trimeric and tetrameric tandem repeat loci in four human population groups.
 
-one example of a successful dna database program is the combined dna index system codis developed by the fbi.
+Forens Sci Int Genet.
 
-body fluid identification by integrated analysis of dna methylation and body fluid-specific microbial dna.
-
-20101131-46.shendure j ji h. next-generation dna sequencing.
-
-2016372822-31.churchill jd chang j ge j rajagopalan n lagace r liao w et al.
-
-201728146-54.zeng x king j hermanson s patel j storts dr budowle b. an evaluation of the powerseqtm auto system a multiplex short tandem repeat marker kit compatible with massively parallel se- quencing.
-
-199661 216-28.weber-lehhmann j schilling e gradl g richter dc wiehler j rolf b. finding the needle in the haystack differentiating 'iden- tical' twins in paternity testing and forensics by ultra-deep next generation sequencing.
-
-since that ground-breaking application of dna fingerprint- ing took place the field of forensic genetics has advanced substantially by 1 exploiting advances in molecular biology2 developing sound statistical analyses based on population genetics principles 3 implementing stringent quality assur- ance standards and 4 promoting open and constructive de- bate within and outside the forensic community.
+Forensic Sci Int Genet.
 

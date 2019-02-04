@@ -1,30 +1,20 @@
-high-throughput sequencing results showed higher microbial diversity in the stomach than in the intestine and distinguishable community structures between stomach and intestine.
+High-throughput sequencing results showed higher microbial diversity in the stomach than in the intestine and distinguishable community structures between stomach and intestine.
 
-2007. due to highly varying acidic milieu in stomach creating different niches potentially challenging the ph tolerance of microbiota the community might change more rapidly in the stomach compared to that in the approximately ph-neutral intestine keenan et al.
+Due to highly varying acidic milieu in stomach creating different niches potentially challenging the pH tolerance of microbiota the community might change more rapidly in the stomach compared to that in the approximately pH-neutral intestine Keenan et al.
 
-however we did not collect the stomach samples at 24h after feeding because no food besides occasionally some observed fishbones was found in the stomach.
+However we did not collect the stomach samples at 24h after feeding because no food besides occasionally some observed fishbones was found in the stomach.
 
-ribosomal database project rdp classifier was used for the taxonomic assignment.student's t-test was used to estimate differences in alpha diversity observed species and phylogenetic diversitypd whole tree between stomach and intestine and those in the stomach between sampling time points meanwhile one-way analysis of variance anova was used to examine the differences in intestine among different time points using spss 20.0. we performed non-metric multidimensional scaling analysis nmds for gi microbial community at otulevel with bray-curtis distance.
+Ribosomal Database Project RDP classifier was used for the taxonomic assignment.Student's t-test was used to estimate differences in alpha diversity observed species and Phylogenetic diversityPD whole tree between stomach and intestine and those in the stomach between sampling time points meanwhile one-way analysis of variance ANOVA was used to examine the differences in intestine among different time points using SPSS 20.0.
 
-however there was no difference in the microbial diversity at 03 and 12h for the stomach student's t-test p  0.979 for pd p  0.390 for observed species and among the three time points for the intestine one-way anova p  0.942 for pd p  0.916 for observed species.the differences of microbial communities between the stomach and intestinethe most abundant phyla across all samples were fusobacteria firmicutes proteobacteria and bacteroidetes figure 2a.
+The genus Cetobacterium significantly decreased from 44.48 at 03h to 14.69 at 12h after feeding in the stomach Student's t-test P  0.027 and from 65.51 at 03h to 44.02 at 24h in theintestine one-way ANOVA P  0.014 whereas unclassifiedClostridiaceae increased from 23.03 to 35.76 in the stomach Student's t-test P  0.027 and from 1.5 to 7.84 in the intestine one-way ANOVA P  0.016 Table S2.
 
-the genus cetobacterium significantly decreased from 44.48 at 03h to 14.69 at 12h after feeding in the stomach student's t-test p  0.027 and from 65.51 at 03h to 44.02 at 24h in theintestine one-way anova p  0.014 whereas unclassifiedclostridiaceae increased from 23.03 to 35.76 in the stomach student's t-test p  0.027 and from 1.5 to 7.84 in the intestine one-way anova p  0.016 table s2.
+The results showed higher individual distances in the stomach than the intestine for both distance metrics Figures 5CD P  0.001 for both suggesting larger fluctuations in microbial community structure in the stomach compared to the intestine during the digestive process.pH Changes in Gastrointestinal Tract after FeedingThe GI tract environment changes with food digestion.
 
-the results showed higher individual distances in the stomach than the intestine for both distance metrics figures 5cd p  0.001 for both suggesting larger fluctuations in microbial community structure in the stomach compared to the intestine during the digestive process.ph changes in gastrointestinal tract after feedingthe gi tract environment changes with food digestion.
+At the KEGG level 3 principal components analysis PCA based on the abundance of functional genes of microbial communities in the GI tract showed clear separations between stomach and intestine samples Figure 7B indicating functional differences in microbial communities between the stomach and the intestine.
 
-during digestion the ph of gi tract including the stomach and intestine significantly decreased over time figure 6. a significantly lower stomach ph was observed compared to intestine ph.
+Significant differences in the metabolism between the stomach and intestine are suggested by the overrepresentation or underrepresentation of the predicted KEGG pathways associated with different metabolic processes and biosynthesis in the intestine or stomach.
 
-at the kegg level 3 principal components analysis pca based on the abundance of functional genes of microbial communities in the gi tract showed clear separations between stomach and intestine samples figure 7b indicating functional differences in microbial communities between the stomach and the intestine.
+Although dynamic transitions of fermentative chyme from the stomach into the intestine and pH changes were found after feeding non-synchronization of changes occur in the microbial communities between stomach and intestine despite that they function together to digest food.
 
-significant differences in the metabolism between the stomach and intestine are suggested by the overrepresentation or underrepresentation of the predicted kegg pathways associated with different metabolic processes and biosynthesis in the intestine or stomach.
-
-2016. although dynamic transitions of fermentative chyme from the stomach into the intestine and ph changes were found after feeding non-synchronization of changes occur in the microbial communities between stomach and intestine despite that they function together to digest food.
-
-however fundamental dynamics of microbial ecology associated with food digestion in intestine and stomach are poorly understood in fish.
-
-firmicutes were dominated by both clostridium and unclassified clostridiaceae which was the most abundant taxon in the stomach whereas fusobacteria were dominated by cetobacterium which prevailed in the intestine.
-
-the comparisons of microbiota between stomach and intestine assist in unveiling overall microbial ecology in fish gi tract.
-
-thus the purpose of this study is to compare microbial ecology between stomach and intestine in southern catfish and further to estimate dynamic variations of gi tract microbial community after feeding.
+However fundamental dynamics of microbial ecology associated with food digestion in intestine and stomach are poorly understood in fish.
 

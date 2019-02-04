@@ -1,0 +1,20 @@
+As intestinal microbiota of fish play a key role in health understanding the interactions between fish and gut microbiota is an important research field for fish health and aquaculture .
+
+OTUs were identified that were present in either group at a statistically significant level with OTUs only present in the aquarium reared fish Supplementary Table S1 OTUs only present in the loch reared fish Supplementary Table S2 and OTUs significantly more abundant in either group Supplementary Table S3.Metastats analysis found that 306 OTUs were unique to the fish from the recirculating aquarium system mapping to 16 phyla and loch samples harboured 328 unique OTUs mapping to 13 phyla.
+
+In fish unlike mammals acquiring intestinal microbes is believed to occur around the time of first feeding mainly from the water surrounding them and their microbial composition over time is shaped therefore by their habitat.Here we compare the distal intestine microbiota of Atlantic salmon parr reared in a recirculating laboratory aquarium with that of age matched parr maintained in cage culture in an open freshwater loch environment of a commercial fish farm to establish the microbial profiles in the gut at the freshwater stage and investigate if there is a stable subset of bacteria present regardless of habitat type.
+
+Core microbiotas of the individual rearing groups were determined aquarium fish 19  4 total 23 OTUs loch fish 19  13 total 32 OTUs indicating that microbe acquisition or loss is occurring differently in the two habitats but also that selective forces are acting within the host offering niches to specific bacterial taxa.The new information gathered in this study by the Illumina MiSeq approach will be useful to understand and define the gut microbiota of healthy Atlantic salmon in freshwater and expand on previous studies using DGGE TGGE and T-RFPL.
+
+However several samples showed poor PCR amplification most likely due to co-extraction of PCR inhibitors and were not used for sequencing leaving 8 fish from the aquarium and 12 fish from the loch for analysis.
+
+When separated by treatment group the aquarium fish shared a core microbiota of 23 OTUs with four additional OTUs to the above overall core microbiota EscherichiaShigella Brucella Corynebacterium and one Other Bacteria whereas loch fish harboured additional 13 OTUs two Photobacterium Aliivibrio Moritella Psychrobacter Jeotgalicoccus two Lactobacillus Psychrilyobacter and Rubrobacter plus an additional OTU for Pseudomonas Stenotrophomonas and Streptococcus representing a core microbiota of 32 OTUs.3.4.
+
+However there was a greater presence of Tenericutes in samples from aquarium fish whereas Proteobacteria were more abundant in the loch sampled fish.
+
+This differs from mammals were Firmicutes and Bacteroidetes tend to dominate .Mycoplasmataceae phylum Tenericutes was the second most abundant family in the aquarium fish samples and were less abundant in loch sampled fish.
+
+A similar finding was observed in a comparative study of wild and captive killifish Fundulus heteroclitus with wild fish having higher species richness and phylogenetic diversity in gut than captive fish .
+
+The loch fish are likely to be continually exposed to a much greater variety of bacteria as there is a full natural community with fish also being able to eat additional food items above and beyond the commercial salmon feed presented.
+

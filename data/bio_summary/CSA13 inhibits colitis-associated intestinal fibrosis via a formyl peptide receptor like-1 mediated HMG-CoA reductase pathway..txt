@@ -1,30 +1,20 @@
-the cd patients with high colonic fprl1 mrna expression above five fold had significantly higher colonic col1a2 mrna expression than those with low colonic fprl1 mrna expression below five fold fig.
+The CD patients with high colonic FPRL1 mRNA expression above five fold had significantly higher colonic COL1A2 mRNA expression than those with low colonic FPRL1 mRNA expression below five fold Fig.
 
-d the high colonic fprl1 expression group had significantly higher colonic collagen col1a2 mrna expression than the low colonic fprl1 expression group.
+Based on our evidence CSA13 may be an FPRL1 pathway activator.Fluorescent BODIPY-conjugated CSA13 binding to human colonic fibroblasts was not significantly affected by pretreatment of FPRL1 inhibitor WRW4 data not shown suggesting that CSA13 did not bind to FPRL1 receptor directly.
 
-based on our evidence csa13 may be an fprl1 pathway activator.fluorescent bodipy-conjugated csa13 binding to human colonic fibroblasts was not significantly affected by pretreatment of fprl1 inhibitor wrw4 data not shown suggesting that csa13 did not bind to fprl1 receptor directly.
+The high colonic FPRL1 mRNA expression was associated with increased immune cell infiltration as reflected by the elevated immune cell subscore Supplementary Table 2.CD patients with high colonic FPRL1 mRNA expression had an elevated relative risk of intesti- nal stricture.
 
-currently the significance of colonic fprl1 mrna and protein expression in ibd patients including cd patients with intesti- nal strictures has never been reported in the literature.due to the importance of fprl1 in intestinal inflammation we hypothesize that colonic fprl1 mrna expression correlates with mucosal damages in ibd patients and stricture formation in cd patients.
+To make CSA13 clinically applicable for this use we collaborated with Southwest Research Institute SWRI in Texas to combine the CSA13 with the Eudragit polymer.
 
-the high colonic fprl1 mrna expression was associated with increased immune cell infiltration as reflected by the elevated immune cell subscore supplementary table 2.cd patients with high colonic fprl1 mrna expression had an elevated relative risk of intesti- nal stricture.
+To determine whether CSA13 can serve as an anti-fibrogenic drug we subcutaneously administered CSA13 to the 246-Trinitrobenzenesulfonic acid TNBS-exposed mice with colonic fibrosis Fig.
 
-in cohort 1 colonic fprl1 mrna expression was positively correlated with colonic collagen col1a2 mrna expression fig.
+As cell culture model was not able to address how CSA13 inhibited fibroblast accumulation we believe that CSA13 may change the intestinal chemical environment leading to inhibition of fibroblast accumulation.Metabolomic analysis of fecal samples indicated that 19 out of 790 detected fecal metabolites were significantly influenced by both TNBS and oral CSA13-Eudragit Fig.
 
-both ileal and colonic fprl1 mrna expression are correlated with collagen mrna expression supplementary figure 1d.
+CSA13 unlike cathelicidin has a high safety margin for clinical application.Both routes of CSA13 administration demonstrated effective suppression of colitis and fibrosis.
 
-b the high colonic fprl1 expression group had significantly higher histology score than the low colonic fprl1 expression group.
+However low concentration of CSA13 promoted cell migration without affecting cell viability of human colonic epithelial cells Supplementary Figure 3BC suggesting that CSA13 may ameliorate mucosal damages by promoting epithelial healing process.The 16 S sequencing of mouse fecal samples demonstrated that there was no significant change in the micro- bial environment during the fibrogenic phase of chronic TNBS colitis Fig.
 
-c scatter plot shows the positive correlation between colonic fprl1 mrna expression and colonic collagen col1a2 mrna expression.
+Colitis developed at ten weeks after T-cell injection.Subcutaneous CSA13 treatment and microbiomemetabolomic analysis Mice were injected with CSA13 in saline 100 mL under the skin daily during the weeks 7-8.
 
-csa13 was not associated with modulation of gut microbiota.csa13 treatment significantly inhibited colonic collagen col1a2 mrna expression and fibroblast accumula- tion asma and vimentin in the mice with tnbs colitis that was reversed by fpr2 shrna fig.
-
-csa13 also inhibited macrophage accumulation f480 and cytokine expression tnf however this inhibition was not affected by the fpr2 shrna.
-
-in cultured human colonic fibroblasts csa13 mildly inhib- ited collagen col1a2 mrna expression in an fprl1-dependent manner fig.
-
-oral csa13-eudragit administration may be the best approach to maximize exposure of intestinal fprl1 as this formulation releases csa13 in ileum and colon.inhibition of colonic fprl1 with intracolonic administration of fpr2 shrna moderately increased colonic collagen col1a2 mrna expression but did not worsen colonic histological damages and fibrosis in the tnbs-treated mice data not shown.
-
-6 mice per group.inhibition of fprl1 by transient sirna transfection increased collagen mrna expression and reversed the anti-fibrogenic effects of csa13 treatment in human colonic fibroblasts fig.
-
-the potential involvement of microbiota in the csa13 treatment with other animal models of colitis should be examined in the future.in conclusion colonic fprl1 expression is associated with colonic histological damage in ibd patients and presence of stricture in cd patients.
+We thank Prof. Paul Savage Brigham Young University Utah for providing pure CSA13 and BODIPY-labeled CSA13 and Dr. Xingguo Cheng Southwest Research Institute Texas for providing the CSA13-Eudragit.
 

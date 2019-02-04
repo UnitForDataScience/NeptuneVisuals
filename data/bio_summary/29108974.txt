@@ -1,0 +1,20 @@
+The samples were analyzed using culture-independent 16S rRNA gene amplicon sequencing and culture-dependent methods.
+
+The amplicon sequencing results revealed a broad taxonomic diversity including 21 phyla and 20 candidate phyla.
+
+The Nanga Parbat has Rakhiot Cave which is 73.2 m long and the highest known cave at an alti- tude of 6644 m. So far no systematic studies have been conducted to explore the caves system in those mountains.
+
+The caves identified by local people have never been sur- veyed for microorganisms.
+
+The 454 FLX-titanium pyrosequencing platform Roche Basel Switzerland was used to perform high-throughput sequencing following the manufacturer's protocol.
+
+The local names of those caves are Koat Maqbari Ghaar KMG 3449113.0611 N 7230141.8111 E and Smasse-Rawo Ghaar SG 3433138.111 N 7151103.411 E and they are located in the Swat and Malakand division respectively.
+
+The KMG cave is about 2.5 m wide and 15 m deep and is located at about 1260 m above sea level.
+
+The SRG cave has an almost horizontal orientation and around 2 m wide 10 m long and is located at 1062 m above sea level.
+
+The samples were collected in February 2013.
+
+The alpha diversity analysis was performed with Chao1 and the non-parametric Shannon formula using QIIME v1.9 software.Culture-dependent samples processingSediment samples were serially diluted for the isolation of bacterial colonies with improved culture methods based on an increased number of inoculation plates for each dilution longer incubation times selection of micro-colonies and use of modified culture media as previously described.
+

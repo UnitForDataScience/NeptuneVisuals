@@ -1,0 +1,20 @@
+Novel treatments could try to first elim- inate the protective outer layer and then target the metabolic cross-feeding of the inner layer to disrupt the overall biofilm structure by targeting specific metabolic pathways particular to the corresponding phenotypes.Integrated multi-species model of a human gut communityWe used BacArena to model the multi-species community of the human gut .
+
+All simulations were performed using pFBA to generate the flux distribu- tions of each individual.Integrated multi-species model of the human gutA model for the human gut was assembled using seven recently reconstructed genome-scale metabolic models of human gut bacteria .
+
+In this study we combine both techniques into the R package BacArena   to generate novel biological insights into Pseudomonas aeruginosa biofilm formation as well as a seven species model community of the human gut.
+
+For our P. aeruginosa model we found that cross-feeding of fermentation products cause a spatial dif- ferentiation of emerging metabolic phenotypes in the biofilm over time.
+
+In the human gut model community we found that spatial gradients of mucus glycans are important for niche formations which shape the overall community structure.
+
+To model metabolic interactions within microbial communities different COBRA-based approaches have been developed .
+
+First approaches modeled bacterial communities by combining the reconstructions of single microbes into a metabolic model where metabolites can be exchanged and community growth is maximized using FBA  .
+
+Accordingly complex dynamics arise as emergent properties of locally interacting individuals -.In this study we develop and apply BacArena a community modeling tool which extends the integration of FBA and individual based modeling proposed by MatNet to model multi- species communities.
+
+Essentially we model populations as aggregations of heterogeneous indi- viduals that have their own metabolism and interact spatially as well as temporarily according to biologically relevant rules e.g.
+
+In particular we applied BacArena to model Pseudo- monas aeruginosa biofilm formation on the level of metabolic phenotypes.
+

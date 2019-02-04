@@ -1,30 +1,20 @@
-in the murine small intestinal lamina propria si-lp the cd103cd11b dc subset predominates whereas in the colonic lp cd103cd11b- dcs are the most prevalent -.the cd103cd11b- lp dcs may also express cd8a which initially led to speculation that these cells were derived from peyer's patches and isolated lymphoid follicles as cd8a dcs were originally identified inlymphoid tissues.
+In the murine small intestinal lamina propria SI-LP the CD103CD11b DC subset predominates whereas in the colonic LP CD103CD11b- DCs are the most prevalent -.The CD103CD11b- LP DCs may also express CD8a which initially led to speculation that these cells were derived from Peyer's patches and isolated lymphoid follicles as CD8a DCs were originally identified inlymphoid tissues.
 
-the cd103cd11b- cd8a intestinal lymph dcs like lymph node-resident cd8a dcs and cd103cd11b- lp dcs were dra- matically reduced in batf3-deficient mice .
+The CD103CD11b- CD8a intestinal lymph DCs like lymph node-resident CD8a DCs and CD103CD11b- LP DCs were dra- matically reduced in BatF3-deficient mice .
 
-how- ever the expression of cd8a by cd103cd11b- lymph dcs was generally lower than that observed on lymph node-resident cd11b- dcs  which could explain why cd8a is not consistently detected on intestinal lp dcs.
+How- ever the expression of CD8a by CD103CD11b- lymph DCs was generally lower than that observed on lymph node-resident CD11b- DCs  which could explain why CD8a is not consistently detected on intestinal LP DCs.
 
-ctl cytotoxic t lymphocyte no nitric oxide.revealed that the cd103cd172a- human intestinal dcs were related to human blood cd141 dcs and to mouse intestinal cd103cd11b- dcs .
+CTL cytotoxic T lymphocyte NO nitric oxide.revealed that the CD103CD172a- human intestinal DCs were related to human blood CD141 DCs and to mouse intestinal CD103CD11b- DCs .
 
-conversely human intestinal cd103cd172a dcs aligned with human blood cd1c dcs and mouse intestinal cd103 cd11b dcs .
+Conversely human intestinal CD103CD172a DCs aligned with human blood CD1c DCs and mouse intestinal CD103 CD11b DCs .
 
-interestingly similar changes in relative proportions of dc subsets in human si-lp and colonic lp were observed with the cd103cd172a predominating in the small intestine but present at reduced frequencies in the colon  .ontogeny of intestinal dcsintestinal cd103 dc populations arise from a pre- classical dc pre-cdc progenitor and are dependent onflt3l for their development as cd103 lp dcs are absent in mice deficient in either flt3 or flt3l   and in vivo administration of flt3l dramatically in- creases the number of both cd103cd11b dcs and cd103cd11b- dcs .
+Interestingly similar changes in relative proportions of DC subsets in human SI-LP and colonic LP were observed with the CD103CD172a predominating in the small intestine but present at reduced frequencies in the colon  .Ontogeny of Intestinal DCsIntestinal CD103 DC populations arise from a pre- classical DC pre-cDC progenitor and are dependent onFlt3L for their development as CD103 LP DCs are absent in mice deficient in either Flt3 or Flt3L   and in vivo administration of Flt3L dramatically in- creases the number of both CD103CD11b DCs and CD103CD11b- DCs .
 
-whether and how local environ- mental signals influence the development of the different populations of intestinal dcs remains to be determined.intestinal dcs migrate at steady state and induce t-cell toleranceintestinal dcs continuously migrate to the draining lymph node although how this constitutive migration is regulated is still poorly understood .
+Whether and how local environ- mental signals influence the development of the different populations of intestinal DCs remains to be determined.Intestinal DCs Migrate at Steady State and Induce T-Cell ToleranceIntestinal DCs continuously migrate to the draining lymph node although how this constitutive migration is regulated is still poorly understood .
 
-however the capacity to induce foxp3 treg cells does not seem to be linked to a par- ticular subset of cd103 dcs as lp foxp3 treg cells were not reduced in mice deficient in either cd103 cd11b dcs or cd103cd11b- dcs  .
+However the capacity to induce FoxP3 Treg cells does not seem to be linked to a par- ticular subset of CD103 DCs as LP FoxP3 Treg cells were not reduced in mice deficient in either CD103 CD11b DCs or CD103CD11b- DCs  .
 
-we also outline their roles in host protection from infection and their regula- tory functions in maintaining immune tolerance towardbeneficial intestinal antigens.intestinal dcssubsets of intestinal dcs in mice and humans murine dcs in lymphoid tissues have historically been defined as cells expressing the integrin cd11c and high surface levels of major histocompatibility complex class ii mhc-ii.
+We also outline their roles in host protection from infection and their regula- tory functions in maintaining immune tolerance towardbeneficial intestinal antigens.INTESTINAL DCsSubsets of Intestinal DCs in Mice and Humans Murine DCs in lymphoid tissues have historically been defined as cells expressing the integrin CD11c and high surface levels of major histocompatibility complex class II MHC-II.
 
-however cd103cd11b-cd8a dcs were also found to migrate in intestinal lymph and the frequency of cd11b-cd8a lp dcs was not reduced in mice deficient in the transcription factor rar-related orphan receptor gt rorgt which lack secondary lymphoid tissues .
-
-furthermore toll-like receptor tlr 78 ligand administration led to a dramatic increase in all intestinal lymph migratory dcs including the cd103cd11b- cd172a- subset but this was not accompanied by any loss of dcs from peyer's patches  .
-
-hence cd103cd11b- intestinal dcs expressing intermedi- ate levels of cd8a appear to constitute a bona fide lp- resident dc population.in addition to the two subsets of cd103 intestinal dcs cd11cmhc-ii cells that express intermediate levels of cx3cr1 but not cd103 have recently been described   .
-
-cd103- lymph dcs can be further subdivided based on cd11b expression and the cd11b- subset might be derived from intestinal lymphoid tissues as it is signifi- cantly reduced in rorgt-deficient mice .the study of human intestinal dcs from unperturbed tissue is limited.
-
-recently however dcs enriched from proximal human small intestine were obtained from patients undergoing bariatric surgery and compared with murine si-lp dcs.
-
-moreover in a recent study in which intestinal cd11c cx3cr1int dcs were further subdivided according to ccr2 expression targeted ablation of irf4 in all cd11c cells resulted in a selective reduction in the ccr2 fraction of intestinal cd11ccx3cr1int dcs .
+However CD103CD11b-CD8a DCs were also found to migrate in intestinal lymph and the frequency of CD11b-CD8a LP DCs was not reduced in mice deficient in the transcription factor RAR-related orphan receptor gt RORgt which lack secondary lymphoid tissues .
 

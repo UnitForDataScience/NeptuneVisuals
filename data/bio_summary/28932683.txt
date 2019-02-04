@@ -1,30 +1,20 @@
-data in briefrhizospheric metagenome of the terrestrial mangrove fern acrostichum from indian sunderbanssayak ganguli sabdar rahaman abhishek r. bera vineet vishal shelvia malikroopalakshmi pankaj k. singha theoretical and computational biology division aiist palta 743122 indiab department of botany bangabasi evening college kolkata 700009 indiac bengaluru genomics centre bengaluru indiad computational biology division the biome kolkata 700064 indiaa r t i c l e i n f o keywordsfern rhizospheric metagenome proteobacteriaacidobacteria qiimesraa b s t r a c t this study reports the analyses of the rhizospheric microbiome of the terrestrial mangrove fern acrostichum aureum linn.
+Data in BriefRhizospheric metagenome of the terrestrial mangrove fern Acrostichum from Indian SunderbansSayak Ganguli Sabdar Rahaman Abhishek R. Bera Vineet Vishal Shelvia MalikRoopalakshmi Pankaj K. Singha Theoretical and Computational Biology Division AIIST Palta 743122 Indiab Department of Botany Bangabasi Evening College Kolkata 700009 Indiac Bengaluru Genomics Centre Bengaluru Indiad Computational Biology Division The Biome Kolkata 700064 IndiaA R T I C L E I N F O KeywordsFern Rhizospheric metagenome ProteobacteriaAcidobacteria QIIMESRAA B S T R A C T This study reports the analyses of the rhizospheric microbiome of the terrestrial mangrove fern Acrostichum aureum Linn.
 
-basak et al.reported the soil metagenome from three different locations of the indian sunderbans where they have identified the abundance of bac- teroides and acidobacteria whereas in our study we observed the highest abundance of proteobacteria followed by acidobacteria.
+Basak et al.reported the soil metagenome from three different locations of the Indian Sunderbans where they have identified the abundance of bac- teroides and acidobacteria whereas in our study we observed the highest abundance of proteobacteria followed by Acidobacteria.
 
-this work attempts to analyse the rhizospheric abundance of microorganisms around acrostichum aureum linn.
+Large quantities of or-SexHermaphroditeSequencer or arrayIllumina MiSeq typeData formatRaw readsExperimental factors Regular habitat in Sunderban Region Experimental features Analyses of Rhizospheric soil sample ConsentNot applicableganic carbon are released by plant roots resulting in an enrichment of the microbial populace and their associated functions .
 
-this is one of the first studies which reports a fern rhizospheric assemblage of microorganisms.experimental design materials and methodsrhizospheric soil collection and metagenomic sequencingthe 16s rrna gene consists of nine hypervariable regions inter- spersed between conserved regions which has been widely used to study and characterize the bacterial community of an environmental sample.
+as a measure for es- timating the optimum microbial content for proper sustenance of the fern taxon .
 
-the comparative analyses from the data reveals similar microbial community structure as re- ported in previous metagenomic assemblies from the sunderbans with the exception in the abundance of heliobacterium species.
+The comparative analyses from the data reveals similar microbial community structure as re- ported in previous metagenomic assemblies from the Sunderbans with the exception in the abundance of Heliobacterium species.
 
-this is the first report of the rhi- zospheric microbiome belonging to a fern species.specificationsorganismcell line tissuerhizospheric metagenome of acrostichum aureumrhizosphere as a region where various important life processes occur.
+This is the first report of the rhi- zospheric microbiome belonging to a fern species.SpecificationsOrganismcell line tissueRhizospheric metagenome of Acrostichum aureumRhizosphere as a region where various important life processes occur.
 
-in contrast with non-rooted mass soil the soil compartment specifically around plant roots which defines the rhizosphere is significantly po- pulated by microorganisms .
+In contrast with non-rooted mass soil the soil compartment specifically around plant roots which defines the Rhizosphere is significantly po- pulated by microorganisms .
 
-large quantities of or-sexhermaphroditesequencer or arrayillumina miseq typedata formatraw readsexperimental factors regular habitat in sunderban region experimental features analyses of rhizospheric soil sample consentnot applicableganic carbon are released by plant roots resulting in an enrichment of the microbial populace and their associated functions .
+This work attempts to analyse the rhizospheric abundance of microorganisms around Acrostichum aureum Linn.
 
-further recent reports suggest that adirect link to deposited data.introductionit has been more than 100 years since the characterisation of thefew species such as acrostichum with its unique terrestrial habitat have migrated from their original habitat in the northern side of the sun- derbans to the southern side where the anthropogenic pressure is much less.
+This is one of the first studies which reports a fern rhizospheric assemblage of microorganisms.Experimental design materials and methodsRhizospheric soil collection and metagenomic sequencingThe 16s rRNA gene consists of nine hypervariable regions inter- spersed between conserved regions which has been widely used to study and characterize the bacterial community of an environmental sample.
 
-belongs to the family pteridaceae and is an erect terrestrial fern with a tail of 1-1.5 m the stipes are woody which arise from a strong woody rhizome and are generally glabrous fronds uni-pinnate with 8-14 alternate pinnae the upper pinnae are corresponding author.e-mail address s. ganguli.1 equally contributed.2 current address division of plant biology bose institute kolkata india.received 3 july 2017 received in revised form 27 august 2017 accepted 2 september 20172213-5960c2017publishedbyelsevierinc.thisisanopenacessarticleundertheccby-nc-ndlicensetable 1summary statistics table.total number of raw reads19312523.1.2.
-
-proteobacteria was observed as the most abundant phylum fol- lowed by acidobacteria and planctomycetes .further analysis at species level revealed heliobacterium mod- esticaldum a gram positive nitrogen fixing phototrophic bacterium to be the most abundant species followed by pseudoflavonifractor capillosus and caldanaerobacter subterraneus .
-
-2. species abundance as identified from the study.referencest.s.
-
-vivanco root exudation and rhizosphere biology plant physiol.
-
-in india this species occurs in a disjunct manner in sunderbans and mahanadi estuarine forests along the east coast in some parts of kerala and in the andaman and nicobar islands.
-
-in the present study microbial community structure was identified by targeting v3-v4 region as these regions are highly vari- able to distinguish bacterial subtypes.sample preparationgenomic dna was isolated from a rhizosphere sample using an in- house standardized protocol.
+Samples were collected using standard protocols and 16S rRNA gene V3-V4 region amplicon sequencing was performed to identify the microbial communities prevalent in the rhi- zosphere.
 

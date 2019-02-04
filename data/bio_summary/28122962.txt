@@ -1,30 +1,20 @@
-thus downregulation of ip-10 expression by s. aureus was not the result of increased de novo ip-10 mrna degradation but of decreased ip-10 gene transcription.figure 2. s. aureus downregulates th1 cell- recruiting chemokine production and prevents th1 cell recruitment.
+Thus downregulation of IP-10 expression by S. aureus was not the result of increased de novo IP-10 mRNA degradation but of decreased IP-10 gene transcription.FIGURE 2.
 
-importantly note that although il-10 can inhibit ip-10 44 it is not essential for s. aureus-induced inhibition of ip-10 as demonstrated by the observation that neutralizing abs against il-10 and the il-10r did not rescue ip-10 production.
+Importantly note that although IL-10 can inhibit IP-10 44 it is not essential for S. aureus-induced inhibition of IP-10 as demonstrated by the observation that neutralizing Abs against IL-10 and the IL-10R did not rescue IP-10 production.
 
-to confirm that the ip-10 production to see was dependent on ifn-g 31 we blocked ifn-g r signaling using an anti-ifngr1 ab and found that this blockade abrogated the ip-10 response to see fig.
+To confirm that the IP-10 production to SEE was dependent on IFN-g 31 we blocked IFN-g R signaling using an anti-IFNGR1 Ab and found that this blockade abrogated the IP-10 response to SEE Fig.
 
-g quantification of ifn-g in supernatants from human pbmc cultures stimulated with the indicated concentrations of see for 18 h. h quantification of ip-10 in the culture supernatants of human pbmcs stimulated with the indicated concentrations of rhifn-g for 18 h. i quantifi- cation of ip-10 in supernatants of human pbmc cultures stimulated with see 1 ngml in the ab- sence or presence of neutralizing ab against ifn-g r ifngr1 or its isotype control iso 10 or 20 mgml for 18 h. results are plotted as mean 6 sd and are representative of three independent exper- iments from three different donors triplicate sam- ples for each experiment.
+G Quantification of IFN-g in supernatants from human PBMC cultures stimulated with the indicated concentrations of SEE for 18 h. H Quantification of IP-10 in the culture supernatants of human PBMCs stimulated with the indicated concentrations of rhIFN-g for 18 h. I Quantifi- cation of IP-10 in supernatants of human PBMC cultures stimulated with SEE 1 ngml in the ab- sence or presence of neutralizing Ab against IFN-g R IFNGR1 or its isotype control Iso 10 or 20 mgml for 18 h. Results are plotted as mean 6 SD and are representative of three independent exper- iments from three different donors triplicate sam- ples for each experiment.
 
-4a such a response did not seem to mediate ip-10 inhibition becauseblocking il-10 r binding with neutralizing abs against il-10 or the il-10 r did not restore ip-10 production in response to see fig.
+4A such a response did not seem to mediate IP-10 inhibition becauseblocking IL-10 R binding with neutralizing Abs against IL-10 or the IL-10 R did not restore IP-10 production in response to SEE Fig.
 
-aureus downregulates monocyte ip-10 gene transcriptionnext we investigated the mechanism of inhibition of ip-10 production by s. aureus.
+aureus downregulates monocyte IP-10 gene transcriptionNext we investigated the mechanism of inhibition of IP-10 production by S. aureus.
 
-we found that the main source of ip-10 in pbmcs was the cd14 monocyte population with .95 of monocytes pro- ducing ip-10 in response to see fig.
+We found that the main source of IP-10 in PBMCs was the CD14 monocyte population with .95 of monocytes pro- ducing IP-10 in response to SEE Fig.
 
-aureus downregulated ip-10 mrna in the presence of chx by 80.5 implying that de novo protein synthesis is not re- quired for ip-10 downregulation by s. aureus.
+aureus downregulated IP-10 mRNA in the presence of CHX by 80.5 implying that de novo protein synthesis is not re- quired for IP-10 downregulation by S. aureus.
 
-moreover the downregulation of ip-10 mrna was not due to mrna insta- bility as the rate of decay of ip-10 mrna was unaffected by the presence of s. aureus fig.
+Moreover the downregulation of IP-10 mRNA was not due to mRNA insta- bility as the rate of decay of IP-10 mRNA was unaffected by the presence of S. aureus Fig.
 
-aureus modulates ip-10 production through tlr2 and mapks p38 and erk signalingnext we examined how the cell wall of s. aureus could selectively modulate the production of ip-10 and other ifn-g-dependent chemokines.
-
-sb239063 a selective inhibitor of the p38 mapk pathway almost completely restored ifn-g-induced ip-10 production in the presence of s. aureus.figure 4. il-10 is not required for ip-10 inhi- bition by s. aureus.
-
-aureusthe ip-10 gene is a target of stat1 which is activated by ifn-g binding to its receptors ifngr1 and ifngr2 34. because ifn-g production to see was not affected by s. aureus stimulation wefigure 5. monocytes are the main source of ip-10 in human pbmcs responding to see superantigen.
-
-also de novo synthesis of ifn-g is required for the induction of ip-10 because chx dramatically inhibited see-induced ip-10 mrna in pbmcs data not shown.however unregulated production of ifn-g and other th1 cyto- kines may have lethal effects for the host e.g.
-
-ip-10 is a chemokine that recruits cxcr3-expressing cells such as activated t lymphocytes macrophages dendritic cells and nk cells 58. aberrant expression of ip-10 has been linked to various diseases including infections e.g.
-
-mycoplasma helicobacter pylori and malaria autoimmune diseases marginal periodontitis and cancer 59. accordingly several therapeutic strategies have been developed to target ip-10 including anti-ip-10 mabs and ip-10 antagonists.
+aureus modulates IP-10 production through TLR2 and MAPKs p38 and ERK signalingNext we examined how the cell wall of S. aureus could selectively modulate the production of IP-10 and other IFN-g-dependent chemokines.
 

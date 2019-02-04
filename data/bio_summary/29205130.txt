@@ -1,30 +1,20 @@
-s1 available in the online version of this article for more details about the groups see shutt et al.
+Craig Venter Institute 4120 Capricorn Lane La Jolla CA 92037 USA 11Carl R. Woese Institute for Genomic Biology University of Illinois at Urbana-Champaign 1206 West Gregory Drive Urbana IL 61801 USA 12Department of Microbiology University of Illinois at Urbana-Champaign 601 South Goodwin Avenue Urbana IL 61801 USA 13Department of Anthropology University of Illinois at Urbana-Champaign 607 South Mathews Avenue Urbana IL 61801 USA 14Department of Anthropology University of Colorado at Boulder 1350 Pleasant Street Boulder CO 80309-0233 USA 15Department of Animal Science University of Minnesota 1364 Eckles Aneue St Paul MN 55108-6118 USA.Correspondence Klara Vlckova Keywords gastrointestinal microbiome bacteria stress western lowland gorilla faecal glucocorticoid metabolites.Abbreviations CAR Central African Republic DSPA Dzanga Sangha Protected Areas FGCM faecal glucocorticoid metabolites GI gastrointestinal GIM gastrointestinal microbiome OTU operational taxonomic unit PCoA principal coordinate analysis RDP Ribosomal Database Project WLG west- ern lowland gorilla Gorilla gorilla gorilla.Five supplementary figures are available with the online version of this article.000587 a 2018 The Authors byhuman GIMs due to stress  as well as in infant rhesus monkeys where a significant decrease in lactobacilli was recorded in response to stressors .
 
-we did not observe significant differences in fgcm levels among the studied groups which is in contrast to shutt et al.
+S1 available in the online version of this article for more details about the groups see Shutt et al.
 
-u1 and u2 unhabituated groups h1 and h2 habituated groups.
+We did not observe significant differences in FGCM levels among the studied groups which is in contrast to Shutt et al.
 
-short communicationvlckova et al.
+U1 and U2 unhabituated groups H1 and H2 habituated groups.
 
-otus detected fewer than five times across the entire data set andor in fewer than three in one and two individuals were removed to avoid including probable sequence arti- facts in the analyses.fgcm measurements were performed using a 11b-hydroxy- etiocholanolone 3a11 b-dihydroxy-cm enzyme immunoas- say as previously validated in shutt et al.
+Here we evaluate the relationship between FGCM levels and GIM composition in a set of faecal samples from four WLG groups in DSPA characterized by different levels of habitua- tion to humans and thus exposed to different levels of phys- iological stress.
 
-we used the statistics package to perform linear regression models  the psych package  for spearman rank cor- relations used with false discovery rate analyses the pgirm- ess package  to calculate kruskal-wallis tests adjusted for multiple comparisons the vegan package  to calcu- late permanova shannon diversity indices and princi-pal coordinate analysis pcoa conducted on the square root transformed relative abundance of each operational taxonomic unit otu based on bray-curtis dissimilarity matrices and the ggplot2 package  to plot the pcoa with colour key.the median of the fgcm levels fgcmg of faeces wasmin 26.74 max 243.61 for more details see shutt et al.
+Although we observed variation in the GIM composition profiles among the groups based on the first principal coordinate and FGCM levels with individuals in U2 showing the low- est stress hormone metabolite values this relationship was not significant linear regression model adjusted R20.01 t-1.22 P0.23 Spearman rank correlation p-0.24 P0.12 .
 
-cell host microbe 201517592-602.borre ye o'keeffe gw clarke g stanton c dinan tg et al.
+Although a completely unha- bituated group U2 showed the lowest incidence of physiological stress and the GIM compositions among indi- viduals from this group were more similar to one another than those observed in the other studied groups it is unclearFunding informationThis work was supported by the Institute of Vertebrate Biology Acad- emy of Sciences of the Czech Republic RVO 68081766 by the project 'CEITEC - Central European Institute of Technology' CZ.1.05 1.10002.0068 from the European Regional Development Fund and co-financed from the European Social Fund and the State Budget of the Czech Republic project OPVK CZ.1.072.3.0020.0300 a NERC ESRC interdisciplinary PhD studentship the Primate Society of Great Britain the International Primatological Society the Bio-Social Society UK Rufford Small Grants for Nature Conservation and the US National Science Foundation NSF BCS 0935347.AcknowledgementsWe thank the Government of the Central African Republic and the World Wildlife Fund for granting permission to conduct our research in the Central African Republic and the Primate Habituation Pro- gramme Dzanga-Ndoki National Park Dzanga-Sangha Protected Areas for logistical support in the field.
 
-world j gastroenterol 2005112016-2021.antonopoulos da huse sm morrison hg schmidt tm sogin ml et al.
+Chronic and acute stress models are widely employed in GI research because stress has been identified as a risk factor for or modulator of the expression of several GI disorders .Many factors including exposure to stressors can cause transient alterations in GIM composition .
 
-plos biol 20086e280.galley jd nelson mc yu z dowd se walter j et al.
+The major effects of stress on gut physiology include 1 altera- tions in GI motility 2 increase in visceral perception 3 changes in GI secretion 4 increase in intestinalpermeability 5 impaired regenerative capacity of GI mucosa and mucosal blood flow and 6 negative effects on the GIM .
 
-bmc microbiol 201414189-13.de palma g blennerhassett p lu j deng y park aj et al.
-
-nat commun 201567735-13.bailey mt dowd se parry nm galley jd schauer db et al.
-
-dev psychobiol 199935146-155.bailey mt dowd se galley jd hufnagle ar allen rg et al.
-
-brain behav immun 201125397-407.shutt k heistermann m kasim a todd a kalousova b et al.
-
-mol ecol 2015242551-2565.gomez a rothman jm petrzelkova k yeoman cj vlckova k et al.
-
-vienna austria r foundation for statistical computing 2008.oksanen j blanchet fg kindt r legendre p minchin pr et al.
+SHORT COMMUNICATIONVlckova et al.
 

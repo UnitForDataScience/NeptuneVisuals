@@ -1,30 +1,20 @@
-the values returned from analysis of feces water and soil samples are ingeneral agreement between the assays pearson corre- lation r  0.9828 p  0.001 with the nd5 assay being consistently more sensitive tables  .table 3 qpcr assays conducted on field samples includ- ing soils amended with chicken manure dz-1cm-- dezhou soil and water from duck farms in longyan ly and yizhou yza concentrations are expressed in log10 copies per g dry soil or log10 copies per 100 ml water for environmental water samplesb qpcr results of the other seven treatments from dezhou including control and field soil amended with urea or sewage sludge were below the lod and not shown in the tablesoil samples amended with chicken manure tested positive using both nd5 and cytb assays returning concentrations of 4.3 and 4.0 log10 copies per g dry soil respectively.
+Standard curves of chicken and duck ND5 and cytb were generated using tenfold serial dilutions 9.70 x 107 - 100 and 1.08 x 108 - 101 copies per mL respectively ofTable 1 Oligonucleotide sequences for quantitative PCRstandard plasmids containing chicken and duck ND5 orcytb genes.Quantitative PCRChicken and duck ND5 and cytb gene abundances were determined by qPCR using the LightCycler 480 real-time PCR detection system Roche480 USA.
 
-a20 ml alirquot of qpcr mixture contained 10 ml of 2xresultsdesign of chicken and duck-specific mtdna nd5 and cytbgenetic markersmultiple alignments of mtdna nd5 and cytb gene from cat human dog pig cattle sheep goat horse goose chicken and duck were performed using clustal x. we designed two assays targeting chicken and duck mtdna nd5 and cytb gene the expected amplicon sizes beingtaqman gene expression master mix applied bio-172 and 263 bp respectively table .
+Samples taken ten months after the appli- cation of chicken manure were still positive in both assays suggesting that the ND5 and cytb assays are robust enough to be used on field samples.In conclusion we developed qPCR assays target- ing the chicken and duck mitochondrial ND5 and cytb genes.
 
-standard curves of chicken and duck nd5 and cytb were generated using tenfold serial dilutions 9.70 x 107 - 100 and 1.08 x 108 - 101 copies per ml respectively oftable 1 oligonucleotide sequences for quantitative pcrstandard plasmids containing chicken and duck nd5 orcytb genes.quantitative pcrchicken and duck nd5 and cytb gene abundances were determined by qpcr using the lightcycler 480 real-time pcr detection system roche480 usa.
+a mtDNA ND5 assay and b mtDNA cytb assayStandard curve generationTo make standard plasmids the purified chicken and duck ND5 and cytb gene products of traditional PCR were cloned using the pMD19-T vector Takara Bio Inc. Shiga Japan and were then sequenced.
 
-samples taken ten months after the appli- cation of chicken manure were still positive in both assays suggesting that the nd5 and cytb assays are robust enough to be used on field samples.in conclusion we developed qpcr assays target- ing the chicken and duck mitochondrial nd5 and cytb genes.
+A20 mL alirquot of qPCR mixture contained 10 mL of 2xResultsDesign of chicken and duck-specific mtDNA ND5 and cytbgenetic markersMultiple alignments of mtDNA ND5 and cytb gene from cat human dog pig cattle sheep goat horse goose chicken and duck were performed using Clustal X.
 
-a mtdna nd5 assay and b mtdna cytb assaystandard curve generationto make standard plasmids the purified chicken and duck nd5 and cytb gene products of traditional pcr were cloned using the pmd19-t vector takara bio inc. shiga japan and were then sequenced.
+Overall the assays should be a useful addition to existing meth- ods for detecting domestic chicken and duck fecal pollution.AbbreviationsND5 NADH dehydrogenase subunit 5 cytb cytochrome b FIB fecal indicator bacteria MST microbial source tracking mtDNA mitochondrial DNA CM chicken manure MGB minor groove binder FAM 6-carboxy-fluorescein NFQ non-fluorescent quencher LOD limits of detection.Authors' contributionsJQS and YGZ conceived and designed the project.
 
-the specificity of cytb assay was 89.8 if these low concentration positives are included in the calculation table .application of qpcr assays on field sampleswe then applied the qpcr assays to environmental soil and water samples from nine duck farms and soils fer- tilized with chicken manure.
+Minor groove binder MGB probes were designed for chicken and duck ND5 and chicken and duck cytb markers.
 
-in addition contaminants in water are more mobilized than that in soil leading to rapid spread in water bodies.to test if this was because the mtdna degraded more rapidly in soil we tested soil where chicken manure had been applied.
+The values returned from analysis of feces water and soil samples are ingeneral agreement between the assays Pearson corre- lation r  0.9828 P  0.001 with the ND5 assay being consistently more sensitive Tables  .Table 3 qPCR assays conducted on field samples includ- ing soils amended with chicken manure DZ-1CM-- Dezhou soil and water from duck farms in Longyan LY and Yizhou YZa Concentrations are expressed in log10 copies per g dry soil or log10 copies per 100 mL water for environmental water samplesb qPCR results of the other seven treatments from Dezhou including control and field soil amended with urea or sewage sludge were below the LOD and not shown in the tableSoil samples amended with chicken manure tested positive using both ND5 and cytb assays returning concentrations of 4.3 and 4.0 log10 copies per g dry soil respectively.
 
-overall the assays should be a useful addition to existing meth- ods for detecting domestic chicken and duck fecal pollution.abbreviationsnd5 nadh dehydrogenase subunit 5 cytb cytochrome b fib fecal indicator bacteria mst microbial source tracking mtdna mitochondrial dna cm chicken manure mgb minor groove binder fam 6-carboxy-fluorescein nfq non-fluorescent quencher lod limits of detection.authors' contributionsjqs and ygz conceived and designed the project.
+The Longyan soil sample was positive at the high concentra- tions of 8.1 log10 ND5 gene copies per g dry soil and 8.0 log10 cytb gene copies per g dry soil.Both ND5 and cytb assays target mtDNA and because the number of mtDNA molecules remains constant the two assays should ideally return identical values for copy number in any particular sample.
 
-minor groove binder mgb probes were designed for chicken and duck nd5 and chicken and duck cytb markers.
+New primers and probes for mitochon- drial genes NADH dehydrogenase subunit 5 ND5 and cytochrome b cytb for chicken and duck Table  were designed manually and then confirmed with OligoAna- lyzer software from IDT Owczarzy et al.
 
-all water samples tested positive using the nd5 assay with copy numbers rang- ing from 2.8 log10 copies per 100 ml to 6.4 log10 copies per 100 ml water table .
-
-the longyan soil sample was positive at the high concentra- tions of 8.1 log10 nd5 gene copies per g dry soil and 8.0 log10 cytb gene copies per g dry soil.both nd5 and cytb assays target mtdna and because the number of mtdna molecules remains constant the two assays should ideally return identical values for copy number in any particular sample.
-
-we applied the nd5 and cytb assays to environ- mental soil and water samples from nine duck farms.
-
-all water samples were positive with the exception of one cytb assay.
-
-water res 47186839- 6848. doifield kg samadpour m 2007 fecal source tracking the indicator paradigm and managing water quality.
-
-water res 413701-3715. doikobayashi a sano d hatori j ishii s okabe s 2013 chicken- and duck-associ- ated bacteroides-prevotella genetic markers for detecting fecal contami- nation in environmental water.
+1 Alignments of mtDNA ND5 and cytb gene from cat human dog pig cattle sheep goat horse goose chicken and duck.
 

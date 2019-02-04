@@ -1,30 +1,20 @@
-furthermore the range of host cytokine inputs that produce acceptable t cell population phenotypes is greatly increased by the addition of indole suggesting that adding indole to t cell stimulation conditions may help stabilize the treg population and more reliably produce the desired high treglow th17 t cell population in vitro.the results described herein contribute to indole's role in immunomodulation.
+Th17 cells comprise a class of activated Th cells that express high levels of RORgT IL-17 IL-17F IL-21 and IL-22 in addition Th17 cells are reported to readily differentiate to IFN-g  Tbet Th1-like cells in vivo Zuniga et al.
 
-the ability of indole to promote anti-inflammatory treg and inhibit pro-inflammatory th17 differentiation as well as the decrease of indole in the stool of ibd patients suggests that indole from the microbiota could be an important point of regulation missing in vivo that can be reintroduced during the in vitro culture step of treg adoptive transfer.although the signaling pathways underlying the influence of host cytokines on t cell differentiation are beginning to be uncovered carbo et al.
+2014.Treg and Th17 cells are two major Th cell lineages found at mucosal sites such as the GI tract Shale et al.
 
-furthermore as the tgf-b concentration continues to increase higher doses of indole are again needed to obtain high treg and low th17 induction.these model predictions were verified by testing a higher resolution of indole concentrations with a low intermediate or highfigure 2. input concentrations predicted to produce more than 50 foxp3th and less than 5 th17 cells.
+Th17 cells play an important role in autoimmune and aberrant inflammatory responses of mucosal surfaces in the GItract Weaver et al.
 
-3 and 4. these results support the use of the neural network model as a tool to predict the complex interplay between the multiple signals a t cell receives during activation and ultimately guide cellular therapeutics toward a tailored approach providing therapeutic applicability across multiple auto-immune and auto- inflammatory diseases currently not being considered as strong candidates for treg adoptive transfer therapy.optimal t cell conditions heavily favored the use of indole in differentiating toward a high treglow th17 phenotype acceptable for adoptive transfer applications.
+In the periphery Th17 cells are produced when Th cell activation occurs in the presence of TGF-b and inflammatory cytokines such as IL-1b IL-6 and IL-23 Shale et al.
 
-naeurive t cells were able to tolerate much higher amounts of il-6 in the presence of indole while still adopting a phenotype with low numbers of th17 cells supporting the hypothesis that indole preserves homeostasis in the gi tract.
+Th17 cells and their secreted cytokines are increased in IBD Eastaff-Leung et al.
 
-as expected from the training data in the absence of il-6 and at a low tgf-b concentration a high concentration of indole is necessary to sufficiently polarize the differentiated t cell distribution to favor treg differentiation and suppress th17 differentiation.
+2009 and genome-wide association studies have linked IBD and polymorphisms in the receptor for IL-23 a main driver of pro- inflammatory Th17 differentiation Weaver et al.
 
-2013. the balance between treg and th17 responses in the gi tract has multiple regulatory nodes that when dysregulated can lead to pathologic inflammation that includes epithelial insult microbiota dysbiosis and development of genetic or epigenetic abnormalities in immune signaling pathways.one hypothesis that has gained attention recently is that production of metabolites from the microbiota alters t cell differentiation rooks and garrett 2016. a number of groups have reported that short-chain fatty acids a microbiota-derived product of dietary fiber breakdown can promote both treg and th17 differentiation arpaia et al.
+Mouse models of IBD have shown a similar importance for Th17 cells in pathogenesis Ahern et al.
 
-this work employs anns as a tool for uncovering the complex relationship between microbial metabolites and t cell differentiation into th17 and treg progeny with the ultimate goal to derive host cytokine and bacterial metabolite conditions which will result in high levels of anti-inflammatory treg and low levels of pro-inflammatory th17 after differentiation.materials and methodschemicalssodium propionate sodium acetate sodium butyrate and sodium chloride all from sigma-aldrich st. louis mo were solubilized inmedia and added to culture.
+Promotion of a Th17 response and subsequent inhibition of Tregs is thought to be important in the pathogenesis ofaberrant inflammation in the GI tract Ahern et al.
 
-in support of the role of indole specifically as a tolerogenic signal from the microbiota both ibd patients and colitic mice have a lower level of indole in stool samples hisamatsu et al.
+segmented filamentous bacteria SFB presence for proliferation in the GI tract but the role of Th17 cells is reported to be clearance rather than tolerance of antigen Basu et al.
 
-the indole concentrations represent the minimum amount of indole needed to satisfy the prediction criteria.figure 3. comparison of model predictions and experimental validation for 0 ngml il-23 200 uml il-2 and selected concentrations of other metabolites.
-
-2015. the microbiota-derived metabolite indole has recently been shown to be a potent augmenter of treg differentiation and inhibitor of th17 differentiation katepalli et al.
-
-the percentages of treg foxp3  and th17 il17  cells outputs were predicted from the concentrations of cytokines and indole in the stimulation media inputs.
-
-the interested reader is referred to the wide body of literature on information criteria for model selection for example kuha 2004 ljung 1999.briefly for a model with np parameters the normalized aic naic can be written asinitial combinatorial experimental studies were generated using concentrations of il-6 il-23 il-2 tgf-b and indole that included a null concentration a functional concentration and a concentra- tion that results in maximal effect on promoting treg or th17 differentiation supplemental table si.
-
-2013. interestingly indole promotes treg and inhibits th17 differentiation at all cytokine concentrations with varying levels of dose response.
-
-the performance of the final ann on the training testing and validation sets is presented in table iii.model predictionsthe ann was then used to predict cytokine and indole concentrations that gave maximal 50 treg induction minimal 5 th17 induction.
+In addition to responding to foreign antigen Th17 cells may also contribute to epithelial barrier integrity Rutz et al.
 

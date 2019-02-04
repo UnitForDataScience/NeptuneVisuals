@@ -1,30 +1,20 @@
-rarefaction depth of 10000 sequences per sample removed 9 samples from the dataset for ileum n  31 low rfi chickens and n  30 high rfi chickens for ceca n  32 low rfi chickens and n  35 high rfi chickens for feces n  33 low rfi chickens and n  35 high rfi chickens.changes in the bacterial community related to rfialthough the b-diversity analysis did not show rfi-associated clustering fig comparison of the microbiota composition between rfi ranks demonstrated that rfi-related differences in bacterial abundances were evident whereby rfi x location interactions suggested that many rfi effects were specific for the geographical location tables -.
+Rarefaction depth of 10000 sequences per sample removed 9 samples from the dataset for ileum n  31 low RFI chickens and n  30 high RFI chickens for ceca n  32 low RFI chickens and n  35 high RFI chickens for feces n  33 low RFI chickens and n  35 high RFI chickens.Changes in the bacterial community related to RFIAlthough the b-diversity analysis did not show RFI-associated clustering Fig comparison of the microbiota composition between RFI ranks demonstrated that RFI-related differences in bacterial abundances were evident whereby RFI x location interactions suggested that many RFI effects were specific for the geographical location Tables -.
 
-in each replicate it was aimed to select the three chickens with the lowest rfi low rfi chickens and the threechickens with the highest rfi high rfi chickens separately for female and male chickens.
+In each replicate it was aimed to select the three chickens with the lowest RFI low RFI chickens and the threechickens with the highest RFI high RFI chickens separately for female and male chickens.
 
-also previous research mainly focused on male chickens  and adult hens whereas fe-related bacterial profiles were hardly investigated simultaneously in broiler chickens of both sexes.so far most studies on the fe-associated intestinal microbiota in chickens have been con- ducted using feed conversion ratio fcr or apparent metabolizable energy ame as metrics for fe .
+Also previous research mainly focused on male chickens  and adult hens whereas FE-related bacterial profiles were hardly investigated simultaneously in broiler chickens of both sexes.So far most studies on the FE-associated intestinal microbiota in chickens have been con- ducted using feed conversion ratio FCR or apparent metabolizable energy AME as metrics for FE .
 
-injection into the caudal tibial vein from day 37 of life with three to six chickens per day whereas at l2 selected chickens were sacrificed on days 41 and 42 of life.
+injection into the caudal tibial vein from day 37 of life with three to six chickens per day whereas at L2 selected chickens were sacrificed on days 41 and 42 of life.
 
-because chickens were sacrificed at different days of life and to con- sider that chickens were consecutively sampled the first model included the random effects of chicken nested within day of life and chicken order at sacrifice.
+Because chickens were sacrificed at different days of life and to con- sider that chickens were consecutively sampled the first model included the random effects of chicken nested within day of life and chicken order at sacrifice.
 
-by contrast tbwg was equal for low and high rfi ranks but it was lower in chickens from l2 who gained about 350 to 400 g less compared to chickens from l1 p  0.001. chicken's fcr values corresponded to those of the rfi values in low and high rfi groups.
+By contrast TBWG was equal for low and high RFI ranks but it was lower in chickens from L2 who gained about 350 to 400 g less compared to chickens from L1 P  0.001.
 
-however the location effect showed that chickens from l2 had higher fcr values and thus poorer fe than chickens from l1 p  0.001.absolute 16s rrna gene abundancetotal bacterial 16s rrna gene copy numbers in intestinal and fecal samples were affected by intestinal site geographical location and rfi .
+However the location effect showed that chickens from L2 had higher FCR values and thus poorer FE than chickens from L1 P  0.001.Absolute 16S rRNA gene abundanceTotal bacterial 16S rRNA gene copy numbers in intestinal and fecal samples were affected by intestinal site geographical location and RFI .
 
-as simple ratio trait the fcr accounted for the slower growth of chickens from l2 com- pared to chickens from l1 which was apparent throughout all replicate batches and for both sexes.
+As simple ratio trait the FCR accounted for the slower growth of chickens from L2 com- pared to chickens from L1 which was apparent throughout all replicate batches and for both sexes.
 
-this led to our observation that low rfi chickens from l2 had a comparable fcr value as high rfi chickens from l1.
+This led to our observation that low RFI chickens from L2 had a comparable FCR value as high RFI chickens from L1.
 
-for this reason the greater abundance of bacteria in ileal digesta of chickens from l1 compared to chickens from l2 may have yielded more energy from fermentation for the host and may help explaining the cross-locational variation in growth performance.
-
-research articleintestinal microbiota profiles associated with low and high residual feed intake in chickens across two geographical locationssina-catherine siegerstetter12 stephan schmitz-esser23a elizabeth magowan4 stefanie urimare wetzels12b qendrim zebeli12 peadar g. lawlor5 niamh e. o'connell6 barbara u. metzler-zebeli121 institute of animal nutrition and functional plant compounds department for farm animals and veterinary public health university of veterinary medicine vienna austria 2 research cluster animal gut health department for farm animals and veterinary public health university of veterinary medicine vienna austria 3 institute of milk hygiene milk technology and food science department for farm animals and veterinary public health university of veterinary medicine vienna austria 4 agri-food and biosciences institute agriculture branch large park co. down hillsborough northern ireland united kingdom5 teagasc pig development department animal  grassland research  innovation centre moorepark fermoy co. cork ireland 6 institute for global food security queen's university belfast university road belfast belfast northern ireland united kingdomopen accesscitation siegerstetter s-c schmitz-esser s magowan e wetzels su zebeli q lawlor pg et al.
-
-2017 intestinal microbiota profiles associated with low and high residual feed intake in chickens across two geographical locations.
-
-the funders had no role in study design data collection anda current address department of animal science college of agriculture and life science iowa state university ames iowa united states of americab current address institute of milk hygiene milk technology and food science department for farm animals and veterinary public health university of veterinary medicine vienna austriaabstractintestinal microbe-host interactions can affect the feed efficiency fe of chickens.
-
-as incon- sistent findings for fe-associated bacterial taxa were reported across studies the present objective was to identify whether bacterial profiles and predicted metabolic functions that were associated with residual feed intake rfi and performance traits in female and male chickens were consistent across two different geographical locations.
-
-at six weeks of life the microbiota in ileal cecal and fecal samples of low n  34 and high n  35 rfi chickens were investigated by sequencing the v3-5 region of the 16s rrna gene.
+For this reason the greater abundance of bacteria in ileal digesta of chickens from L1 compared to chickens from L2 may have yielded more energy from fermentation for the host and may help explaining the cross-locational variation in growth performance.
 

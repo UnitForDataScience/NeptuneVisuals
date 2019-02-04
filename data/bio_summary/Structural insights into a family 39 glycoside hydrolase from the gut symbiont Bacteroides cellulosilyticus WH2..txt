@@ -1,30 +1,20 @@
-overall we propose that these changes in the conformation of the active site of gh39wh2 are responsible for a new substrate specificity in the gh39 family.bio-informatics analysesto support functional adaptation among members of the gh39 family we construct a phylogenetic tree using the entire gh39 family sequences.
+Overall we propose that these changes in the conformation of the active site of GH39wh2 are responsible for a new substrate specificity in the GH39 family.Bio-informatics analysesTo support functional adaptation among members of the GH39 family we construct a phylogenetic tree using the entire GH39 family sequences.
 
-an example of this sequential synergic action was evidenced by the characterization of eight ghs encoded by a pul from bac- teroides ovatus involved in the complete degradation of xyloglucan .conclusionin summary the crystal structure of the single gh39 member from bacteroides cellulosilyticus wh2 reveals a similar structuralfold and catalytic residues as reported for other members of the gh39 family but surprisingly lacks activity on typical gh39 sub- strates consistent with an enlarged active site groove.
+An example of this sequential synergic action was evidenced by the characterization of eight GHs encoded by a PUL from Bac- teroides ovatus involved in the complete degradation of xyloglucan .ConclusionIn summary the crystal structure of the single GH39 member from Bacteroides cellulosilyticus WH2 reveals a similar structuralfold and catalytic residues as reported for other members of the GH39 family but surprisingly lacks activity on typical GH39 sub- strates consistent with an enlarged active site groove.
 
-these structural adaptations seem to favour recognition of large branched substrates and may explain the lack of activity of gh39wh2 toward small xylose-based and other typical substrates from gh39 members emphasizing the molecular diversity within the gh39 family.
+These structural adaptations seem to favour recognition of large branched substrates and may explain the lack of activity of GH39wh2 toward small xylose-based and other typical substrates from GH39 members emphasizing the molecular diversity within the GH39 family.
 
-in contrast to common exoglycosidase activities previously reported for most members of the gh39 family pslg could represent the first member with an endoglycosidase activity  .in this study we report the 2.5 a resolution crystal structure of the single gh39 member gh39wh2 from the human gut bacteria bacteroides cellulosilyticus wh2.
+In contrast to common exoglycosidase activities previously reported for most members of the GH39 family PslG could represent the first member with an endoglycosidase activity  .In this study we report the 2.5 A resolution crystal structure of the single GH39 member GH39wh2 from the human gut bacteria Bacteroides cellulosilyticus WH2.
 
-1. although a monomer state is not a common feature in gh39 family gh39wh2 appears to be the third member to behave as a monomer in solution along with the gh39 from caulobacter crescentus ccxynb2 and the recently reported pslg from pseudomonas aeruginosa  .
+Although a monomer state is not a common feature in GH39 family GH39wh2 appears to be the third member to behave as a monomer in solution along with the GH39 from Caulobacter crescentus CcXynB2 and the recently reported PslG from Pseudomonas aeruginosa  .
 
-differently gh39 from b. intestinalis and b. ovatus share more than 20 of sequence identity with gh39wh2 and belong to its subgroup in the gh39 family.
+Differently GH39 from B. intestinalis and B. ovatus share more than 20 of sequence identity with GH39wh2 and belong to its subgroup in the GH39 family.
 
-in this study we present the 2.5 a resolution crystal structure of a member gh39wh2 from the human gut bacteria bacteroides cellulosilyticus wh2 representative of a new subgroup within family gh39.
+The phylogram of family GH39 was generated using in- house modified version of Jalview .
 
-a phylogenetic analysis of the entire gh39 family assigns gh39wh2 as a new subgroup consistent with the extensive remodelling of the active site region that may confer new substrate specificity toward a complex glycan chain.c 2016 elsevier inc. all rights reserved.introductionthe human intestinal tract hosts a nutrient-rich and stable envi- ronment for about 1014 bacteria and other organisms like fungi protozoa and archaea  .
+The contribution of these domains and their precise role remain unclear and curiously GH39wh2 is the first reported GH39to own three unknown accessory domains.Significant changes in active-site conformationThe comparison with other GH39 structures revealed that GH39wh2 active site is located within the central ba8 TIM barrel at the basis of a large shallow groove formed by the six surface loops 200-219 247-258 282-294 314-337 366-375 and 402-413 respectively named L1 to L6.
 
-this arsenal provides substantial carbohydrate-digestive capacities and may explain the over- representation of this phylum in human microbiota.among these ghs b. cellulosilyticus wh2 encodes for a single gh39 family member.
+The phylogenetic analysis documents the large diversity among GH39 family and clustered PslG and GH39wh2 within a new subgroup with potential new substrate specificity.Finally the gene coding for GH39wh2 is present in an identified PUL that encodes for 6 other glycoside hydrolases belonging to GH78 GH16 GH3 GH2 and GH92 families c  .
 
-in the cazy database   that currently hosts 135 gh distinct families the gh39 family contains both eukaryote and prokaryote enzymes   and is associated to two distinct activities b-xylosidaseec 3.2.1.37 and a-l-iduronidase ec 3.2.1.76. thea-l-iduronidase activity is only present in eukaryotic members while the b-xylosidase activity is specific to prokaryotic members.
-
-however other members may harbor different uncharacterized activities as reported for gh39 from pseudomonas aeruginosa pslg that acts on psl polysaccharides a repeating pentasaccharide containing d-mannose d-glucose and l-rhamnose and secreted by pseudomonas aeruginosa .
-
-gh39wh2 shares a similar archi- tecture as found in other related gh39 members but unveils an atypical shallow solvent-exposed groove.
-
-complementary bio- chemical and bioinformatics analyses confirm the assignment of gh39wh2 as a new gh39 type activity .
-
-and molecular graphics and analyses were performed with pymol and the ucsf chimera package supported by nigms p41-gm103311 .bio-informatics analysesthe catalytic domain of 405 modularly annotated members of family gh39 was extracted from the cazy database and alignedtable 1data collection and refinement statistics.crystal parametersnativetabr-sadspace groupp3121p3121using the multiple sequence alignment program mafft version 7 under default conditions .
-
-the phylogram of family gh39 was generated using in- house modified version of jalview .
+The accessory domain changes the accessibility and molecular topography of the catalytic interface in monomeric GH39 b-xylosidases.
 

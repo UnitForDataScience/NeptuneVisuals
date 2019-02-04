@@ -1,18 +1,20 @@
-the second round of nifh pcr used the same components and thermocycling conditions as the first round except the dna extract was replaced with 1 ul of the amplified product generated during the first round pcr reaction and custom primers were used consisting of gene-specific sites nifh1 and nifh2 dual- indexed barcodes illumina linkers and a sequencing primer binding region similar to those described by kozich et al.
+The second round of nifH PCR used the same components and thermocycling conditions as the first round except the DNA extract was replaced with 1 uL of the amplified product generated during the first round PCR reaction and custom primers were used consisting of gene-specific sites nifH1 and nifH2 dual- indexed barcodes Illumina linkers and a sequencing primer binding region similar to those described by Kozich et al.
 
-2013.the authors apologize for these errors and state that they do not change the scientific conclusions of the article in any way.gradoville et al.corrigendum microbiome of trichodesmium coloniesreferenceskozich j. j. westcott s. l. baxter n. t. highlander s. k. and schloss p. d. 2013. development of a dual-index sequencing strategy and curation pipeline for analyzing amplicon sequence data on the miseq illumina sequencing zani s. mellon m. t. collier j. l. and zehr j. p. 2000. expression of nifh genes in natural microbial assemblages in lake george new york detected by reverse transcriptase pcr.
+The first round contained 1X PCR buffer 0.1U Platinum High Fidelity Taq polymerase Invitrogen 200 umol L-1 dNTPs 3 BSA 4 mmol L-1 Mg2 1 uL DNA or cDNA and 1 umol L-1 nifH3 and nifH4 primers Zani et al.
 
-blue text indicates the binding site for sequencing primers which were designed to optimize melting temperature during sequencing as described by kozich et al.
+Forward and reverse nifH PCR primers are indicated by nifH1 TGYGAYCCNAARGCNGA and nifH2 ADNGCCATCATYTCNCC note the misprint of this primer in the original manuscript by Zani et al.
 
-2000. the first round contained 1x pcr buffer 0.1u platinum high fidelity taq polymerase invitrogen 200 umol l-1 dntps 3 bsa 4 mmol l-1 mg2 1 ul dna or cdna and 1 umol l-1 nifh3 and nifh4 primers zani et al.
+2013.The authors apologize for these errors and state that they do not change the scientific conclusions of the article in any way.Gradoville et al.Corrigendum Microbiome of Trichodesmium ColoniesREFERENCESKozich J. J. Westcott S. L. Baxter N. T. Highlander S. K. and Schloss P. D. 2013.
 
-forward and reverse nifh pcr primers are indicated by nifh1 tgygayccnaargcnga and nifh2 adngccatcatytcncc note the misprint of this primer in the original manuscript by zani et al.
+PCR negative controls and filter blank samples were included in PCR reactions.Finally there was a mistake in the legend for Supplementary Table 1 as published.
 
-a correction has been made to methods nucleic acid extraction amplification and sequencing paragraph 3the nifh gene was amplified using nested degenerate nifh primers zehr and mcreynolds 1989 zani et al.
+A correction has been made to Methods Nucleic Acid Extraction Amplification and Sequencing Paragraph 3The nifH gene was amplified using nested degenerate nifH primers Zehr and McReynolds 1989 Zani et al.
 
-pcr negative controls and filter blank samples were included in pcr reactions.finally there was a mistake in the legend for supplementary table 1 as published.
+Blue text indicates the binding site for sequencing primers which were designed to optimize melting temperature during sequencing as described by Kozich et al.
 
-assemblies and annotation data are available from imgm er  taxon oids 3300009572 3300009536 and 3300010936.additionally in the original article the two primer sets used for nested nifh pcr were listed in the incorrect order and included an incorrect reference.
+Development of a dual-index sequencing strategy and curation pipeline for analyzing amplicon sequence data on the MiSeq Illumina sequencing Zani S. Mellon M. T. Collier J. L. and Zehr J. P. 2000.
 
-the correct legend appears below.table s1 dual-index barcoded forward and reverse nifh primers 5' - 3' used in this study.
+Assemblies and annotation data are available from IMGM ER  Taxon OIDs 3300009572 3300009536 and 3300010936.Additionally in the original article the two primer sets used for nested nifH PCR were listed in the incorrect order and included an incorrect reference.
+
+Expression of nifH genes in natural microbial assemblages in Lake George New York detected by reverse transcriptase PCR.
 

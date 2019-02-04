@@ -1,30 +1,20 @@
-in the case when a model involves latent or miss- ing data one can employ data augmentation techniques pro- posed by tanner and wong 1987. the main idea of data augmentation method is that instead of working with the intractable posterior density th  it is convenient to work with th o  where o is the missinglatent data in the model.
+The main idea of data augmentation method is that instead of working with the intractable posterior density Th  it is convenient to work with Th O  where O is the missinglatent data in the model.
 
-bayesian inference via pgdafor  1 ...  1 the distribution of the observed data conditional on the lvs    is 1      bayesian inference for lv model with mixed nbg1  16and zinb responsesthe data in our model contain the observed nb or zinb count1 1g  1  exp1 outcomes  the direct fixed effect covariates   thewhere  0    - log.indirect fixed effect covariates   the kinship coeffi- cient related matrices  and the random effect design matrixfor  1  1 ...   we introduce a set of indicator vari- .
+Received 18 August 2016Revised 20 October 2016Accepted 22 October 2016Published on 22 January 2017 DOI 10.1002gepi.22031RESEAR C H AR TICLE Bayesian latent variable models for hierarchical clustered count outcomes with repeated measures in microbiome studiesLizhen Xu1Andrew D. Paterson12Wei Xu231Program in Genetics and Genome Biology The Hospital for Sick Children Toronto ON M5G 0A4 Canada2Dalla Lana School of Public Health University of Toronto ON M5T 3M7 Canada3Department of Biostatistics Princess Margaret Cancer Centre 610 University Avenue Toronto ON M5G 2M9 CanadaCorrespondenceWei Xu Department of Biostatistics Princess Mar- garet Cancer Centre University Health Network Toronto ON M5G2M9 Canada.Email INTRODUCTION AND MOTIVATION The human microbiome plays an important role in human disease and health.
 
-notice that the param- eter estimates for the structural zero part are less accurate than those for the count data part in zinb responses table 2 which is consistent with prior observations on the studies of univariate count response with zero inflation lambert 1992. this is not surprising given the discrepancy between the infor- mation provided by counts in the count part and the binary data in the structural zero part.
+In the case when a model involves latent or miss- ing data one can employ data augmentation techniques pro- posed by Tanner and Wong 1987.
 
-our method also performs well on the estimations of most of the random effects but is less accurate for the variance of serial random effect on thedic comparisons on model selectionsto examine the performance of dic in selecting the most appropriate models we compare the dics of the true model with different scenarios of model misspecifications on the data distributions under simulation 2. the misspecified models misspecified distributions are indicated in bold we have investigated include the fitting of zinb nb zinbnb zinb zinb or nb nb nb distributions to the data corresponding to the misspecifications of 1 2 and3 respectively.
+BAYESIAN INFERENCE VIA PGDAfor  1 ...  1 the distribution of the observed data conditional on the LVs    is 1      Bayesian inference for LV model with mixed NBG1  16and ZINB responsesThe data in our model contain the observed NB or ZINB count1 1G  1  exp1 outcomes  the direct fixed effect covariates   thewhere  0    - log.indirect fixed effect covariates   the kinship coeffi- cient related matrices  and the random effect design matrixFor  1  1 ...   we introduce a set of indicator vari- .
 
-typical data in microbiome studies are the taxonomic counts that are nonnegative and often overdis- persed with excess zeros xu paterson turpin  xu 2015. the zero inflation of microbiota abundance is due to the fact that some of the operational taxonomic units otus are sub- ject specific and are detected only in a fraction of the samples.
+The type I error rates are estimated using the pro- portion of data sets for which the null hypothesis was falsely rejected i.e.
 
-this hierarchical classification struc- ture implies a multivariate nature of microbiome data.
+For example in simulation 1 with MAF0.2 and 2  0.2 the power to detect the continuous covariate effect is 30.8 when1  0.05 and increases to 99.5 when 1  0.15.Parameter estimations of the modelTables 1 and 2 show the true value the mean estimates and the root mean square errors RMSEs of the parameters computed from 1000 independently replicated data sets inT A BLE 2 Summary of parameter estimation results for simulation2 with 2  0.2 and MAF0.2 from 1000 replications Parameters True Estimation RMSE Fixed effects Direct on counts 3200030000 Direct on SZ  On 3310.50.5500.122 Indirect  On SZ 2800026000On 3311.0700.167NBNBZINBZINB NB ZINBNB ZINB ZINBNB NB NBTruey1 mis-specified y2 mis-specified y3 mis-specified Random effect covariance Response level for counts 2FIGURE 2 The distribution of DICs for the true and misspecified models112LV levelOverdispersion  322S0.10.1090.0750.20.1600.069probability of structural zeros 2 as well as for the variance of serial random effects on the LV3 s i.e.
 
-how- ever there is a paucity of multivariate methods for analysis of such data.
+The misspecified models misspecified distributions are indicated in bold we have investigated include the fitting of ZINB NB ZINBNB ZINB ZINB or NB NB NB distributions to the data corresponding to the misspecifications of 1 2 and3 respectively.
 
-it not only can improve the power of test but also allows for making infer- ence about the dependence structure within the cluster.a common way of modeling multivariate count data is to use the multinomial model.
+The trace plots of the regression coefficient of age on the three OTUs are shown in supplemen- tary Figure S9 and the scatter plots of the predicted expected means of the three investigated genus versus ages are shown in Figure 3.We also apply sensitivity analysis assuming that SMB53 has zero inflation and fit the data using a multivariate NB NB ZINB distribution for the joint modeling of UCG Clostridium SMB53.
 
-however the multinomial model does not model the overdispersion of count data which is often observed.
+The red solid line is the smooth spline best-fitted line for the expected mean of second measured samples with df  2 and the two red dotted curves represent the confidence bands surrounding the best fitconsequence when a nonzero inflated data set is fitted by zero inflated models Min  Agresti 2005 Xu et al.
 
-to allow for overdispersion dirichlet multi- nomial dm regression chen  li 2013 and logistic nor- mal multinomial regression xia chen fung  li 2013 were proposed for modeling microbiome data.
-
-these meth- ods are based on the underlying assumption that the data are generated by sampling from the community and the proba- bilities of a given read being from each taxon sum to one.
-
-family members thus impose further com- plexity to the multivariate modeling of the count data.
-
-in the context of22  1  1 ...   microbiome studies manifest variables can be the observed counts of the multiple taxa within a certain hierarchical clus- 1 ...  ' are count data following zinb distribu- tion w1 ithter which inform the lv that represents the underlying con- ceptual traits of this taxonomic cluster.
-
-to deal with more gen-eral situations of microbiome data we extend their method20with probability  with probability 1- to accommodate mixed negative binomial nb and zero-where 0 represents the structural zero.inflated nb zinb variables as a feasible solution for mod-let  1 ...   and   1 ... eling multiple count outcomes.
-
-we adopt a polya- gamma data augmentation pgda technique proposed by polson scott and windle 2013 to the bayesian lv model.
+The calculation of posterior distributions by data augmentation.
 

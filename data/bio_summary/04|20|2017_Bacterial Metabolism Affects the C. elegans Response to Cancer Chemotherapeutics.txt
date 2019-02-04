@@ -1,30 +1,20 @@
-2011. thus an increase in drug efficacy upon ndk deletion agrees with the model that bacterial synthesis of fump from 5-fu and fudr is a primary mechanism of eliciting cytotoxicity in c. elegans when ndk is deleted fump can no longer be converted into futp and accumulates.a comamonas mutant that increases c. elegans sensitivity to fudrso far we have found that bacterial ribonucleotide metabolism modulates the c. elegans response to 5-fu and fudr.
+Thus an increase in drug efficacy upon ndk deletion agrees with the model that bacterial synthesis of FUMP from 5-FU and FUDR is a primary mechanism of eliciting cytotoxicity in C. elegans when ndk is deleted FUMP can no longer be converted into FUTP and accumulates.A Comamonas Mutant that Increases C. elegans Sensitivity to FUDRSo far we have found that bacterial ribonucleotide metabolism modulates the C. elegans response to 5-FU and FUDR.
 
-2014 30496-503. pubmed 25172020garcia-gonzalez et al.page 16garcia-gonzalez et al.page 17figure 1. screen of cancer chemotherapeutics in c. elegans fed two different bacteriafecundity and developmental phenotypes in c. elegans in response to chemotherapeutic drugs when fed either e. coli op50 or comamonas.
+We found that the parental strain of this collection E. coli K-12 BW25113 modulates drug efficacy in a similar manner as E. coli OP50 although there was a relatively small difference between animals fed E. coli OP50 and E. coli K-12 BW25113 with 5-FU Figure S2.
 
-however the precise mechanism by which this difference occurs remains to be elucidated.bacterial modulation of 5-fu and fudr efficacy ribonucleotide rather than dna metabolismthe efficacy of fudr is differently modulated by e. coli and comamonas and this difference requires active metabolism in both bacteria e. coli metabolism to increase and comamonas metabolism to decrease drug efficacy in c. elegans figure 7. with 5-fu however we did not observe a difference between animals fed these two bacterial species.
+However the precise mechanism by which this difference occurs remains to be elucidated.Bacterial Modulation of 5-FU and FUDR Efficacy Ribonucleotide Rather than DNA MetabolismThe efficacy of FUDR is differently modulated by E. coli and Comamonas and this difference requires active metabolism in both bacteria E. coli metabolism to increase and Comamonas metabolism to decrease drug efficacy in C. elegans Figure 7.
 
-elegans--n2 bristol was used as the wild-type strain and animals were maintained with e. coli op50 as diet on nematode growth media ngm as previously described brenner 1974.bacterial strains--bacterial strains e. coli op50 e. coli bw25113 and comamonas aquatica da1877 were grown as described watson et al.
+elegans--N2 Bristol was used as the wild-type strain and animals were maintained with E. coli OP50 as diet on Nematode Growth Media NGM as previously described Brenner 1974.Bacterial Strains--Bacterial strains E. coli OP50 E. coli BW25113 and Comamonas aquatica DA1877 were grown as described Watson et al.
 
-we exposed c. elegans to 11 drugs while feeding them either e. coli or comamonas and found that four chemotherapeutics cause abnormal phenotypes in c. elegans at the administered dose.
+By high-throughput forward and reverse genetics in both the animal and these bacteria we found that the Comamonas effects on C. elegans development and fecundity can be explained in a large part by the fact that this bacterial species can synthesize vitamin B12 whereas E. coli cannot Watson et al.
 
-from this finding we conclude that at least two mechanisms aregarcia-gonzalez et al.page 5involved e. coli metabolism increases fudr efficacy in c. elegans while comamonas metabolism reduces it.
+The latter effect indicates that bacterial metabolism not only increases drug efficacy but that it can also be protective.Genetic Screens with Two Bacterial Species and Three DrugsIn order to gain insight into the mechanisms by which bacteria modulate the C. elegans response to chemotherapeutics we performed genetic screens in both E. coli and Comamonas and using all three drugs CPT 5-FU and FUDR.
 
-2006. we found that the parental strain of this collection e. coli k-12 bw25113 modulates drug efficacy in a similar manner as e. coli op50 although there was a relatively small difference between animals fed e. coli op50 and e. coli k-12 bw25113 with 5-fu figure s2.
+Screen of Cancer Chemotherapeutics in C. elegans Fed Two Different BacteriaFecundity and developmental phenotypes in C. elegans in response to chemotherapeutic drugs when fed either E. coli OP50 or Comamonas.
 
-2014. for instance we previously found that when fed a diet of comamonas aquatica da1877 comamonas c. elegans develop faster have reduced fecundity and live shorter than animals fed the standard laboratory diet of escherichia coli op50 e. colimacneil et al.
+We find numerous bacterial nucleotide metabolism genes that affect drug efficacy in C. elegans.Surprisingly we find that 5-FU and FUDR act through bacterial ribonucleotide metabolism to elicit their cytotoxic effects in C. elegans rather than by thymineless death or DNA damage.
 
-2013. by high-throughput forward and reverse genetics in both the animal and these bacteria we found that the comamonas effects on c. elegans development and fecundity can be explained in a large part by the fact that this bacterial species can synthesize vitamin b12 whereas e. coli cannot watson et al.
+We exposed C. elegans to 11 drugs while feeding them either E. coli or Comamonas and found that four chemotherapeutics cause abnormal phenotypes in C. elegans at the administered dose.
 
-we found that e. coli and comamonas oppositely affect the c. elegans response to fudr and cpt.
-
-interestingly the c. elegans response to fudr was different between animals fed the two bacteria on e. coli the animals were completely sterile while on comamonas they produced live progeny figure 1a.
-
-we found that the increase in drug efficacy elicited by comamonas for cpt and by e. coli op50 for fudr is 'dominant' because even when either species was greatly diluted into the other we observed enhanced drug efficacy in c. elegans figure 2a.
-
-the latter effect indicates that bacterial metabolism not only increases drug efficacy but that it can also be protective.genetic screens with two bacterial species and three drugsin order to gain insight into the mechanisms by which bacteria modulate the c. elegans response to chemotherapeutics we performed genetic screens in both e. coli and comamonas and using all three drugs cpt 5-fu and fudr.
-
-most of these mutants increase the efficacy of the anti- pyrimidine drugs and decrease the c. elegans response to cpt.one explanation for the effects of bacterial mutants on drug efficacy in c. elegans could be that the growth of the microbes is affected by the mutation and that this in turn affects the response in the animal.
-
-altogether these findings suggest that bacteria use the first pathway to generate pyrimidines that support c. elegans fecundity in the presence of anti-pyrimidines and use the second pathway to convert the anti-pyrimidine drugs into fump which is then delivered to c. elegans.
+From this finding we conclude that at least two mechanisms areGarcia-Gonzalez et al.Page 5involved E. coli metabolism increases FUDR efficacy in C. elegans while Comamonas metabolism reduces it.
 

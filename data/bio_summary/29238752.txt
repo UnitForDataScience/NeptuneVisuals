@@ -1,30 +1,20 @@
-.qin j li r raes j arumugam m burgdorf ks manichanh c nielsen t pons n levenez f yamada t mende dr li j xu j li s li d cao j wang b liang h zheng h xie y tap j lepage p bertalan m batto jm hansen t le paslier d linneberg a nielsen hb pelletier e renault p sicheritz- ponten t turner k zhu h yu c li s jian m zhou y li y zhang x li s qin n yang h wang j brunak s dore j guarner f kristiansen k pedersen o parkhill j weissenbach j bork p ehrlich sd wang j.
+.Qin J Li R Raes J Arumugam M Burgdorf KS Manichanh C Nielsen T Pons N Levenez F Yamada T Mende DR Li J Xu J Li S Li D Cao J Wang B Liang H Zheng H Xie Y Tap J Lepage P Bertalan M Batto JM Hansen T Le Paslier D Linneberg A Nielsen HB Pelletier E Renault P Sicheritz- Ponten T Turner K Zhu H Yu C Li S Jian M Zhou Y Li Y Zhang X Li S Qin N Yang H Wang J Brunak S Dore J Guarner F Kristiansen K Pedersen O Parkhill J Weissenbach J Bork P Ehrlich SD Wang J.
 
-.qin j li y cai z li s zhu j zhang f liang s zhang w guan y shen d peng y zhang d jie z wu w qin y xue w li j han l lu d wu p dai y sun x li z tang a zhong s li x chen w xu r wang m feng q gong m yu j zhang y zhang m hansen t sanchez g raes j falony g okuda s almeida m lechatelier e renault p pons n batto jm zhang z chen h yang r zheng w li s yang h wang j ehrlich sd nielsen r pedersen o kristiansen k wang j.
+.Qin J Li Y Cai Z Li S Zhu J Zhang F Liang S Zhang W Guan Y Shen D Peng Y Zhang D Jie Z Wu W Qin Y Xue W Li J Han L Lu D Wu P Dai Y Sun X Li Z Tang A Zhong S Li X Chen W Xu R Wang M Feng Q Gong M Yu J Zhang Y Zhang M Hansen T Sanchez G Raes J Falony G Okuda S Almeida M LeChatelier E Renault P Pons N Batto JM Zhang Z Chen H Yang R Zheng W Li S Yang H Wang J Ehrlich SD Nielsen R Pedersen O Kristiansen K Wang J.
 
-.le chatelier e nielsen t qin j prifti e hildebrand f falony g almeida m arumugam m batto jm kennedy s leonard p li j burgdorf k grarup n jorgensen t brandslund i nielsen hb juncker as bertalan m levenez f pons n rasmussen s sunagawa s tap j tims s zoetendal eg brunak s clement k dore j kleerebezem m kristiansen k renault p sicheritz-ponten t de vos wm zucker jd raes j hansen t metahit consortium bork p wang j.
+.Le Chatelier E Nielsen T Qin J Prifti E Hildebrand F Falony G Almeida M Arumugam M Batto JM Kennedy S Leonard P Li J Burgdorf K Grarup N Jorgensen T Brandslund I Nielsen HB Juncker AS Bertalan M Levenez F Pons N Rasmussen S Sunagawa S Tap J Tims S Zoetendal EG Brunak S Clement K Dore J Kleerebezem M Kristiansen K Renault P Sicheritz-Ponten T de Vos WM Zucker JD Raes J Hansen T MetaHIT Consortium Bork P Wang J.
 
-.caporaso jg kuczynski j stombaugh j bittinger k bushman fd costello ek fierer n pena ag goodrich jk gordon ji huttley ga kelley st knights d koenig je ley re lozupone ca mcdonald d muegge bd pirrung m reeder j sevinsky jr turnbaugh pj walters wa widmann j yatsunenko t zaneveld j knight r. 2010. qiime allows analysis of high-throughput community sequencing data.
+.Backhed F Roswall J Peng Y Feng Q Jia H Kovatcheva-Datchary P Li Y Xie H Khan MT Zhang J Li J Xiao L Al-Aama J Zhang D Lee Y Kotowska D Colding C Tremaroli V Bergman S Madsen L Kristiansen K Dahlgren J Jun W. 2015.
 
-.backhed f roswall j peng y feng q jia h kovatcheva-datchary p li y xie h khan mt zhang j li j xiao l al-aama j zhang d lee y kotowska d colding c tremaroli v bergman s madsen l kristiansen k dahlgren j jun w. 2015. dynamics and stabilization of the human gutmicrobiome in the first year of life.
+.Caporaso JG Kuczynski J Stombaugh J Bittinger K Bushman FD Costello EK Fierer N Pena AG Goodrich JK Gordon JI Huttley GA Kelley ST Knights D Koenig JE Ley RE Lozupone CA Mcdonald D Muegge BD Pirrung M Reeder J Sevinsky JR Turnbaugh PJ Walters WA Widmann J Yatsunenko T Zaneveld J Knight R. 2010.
 
-.zeller g tap j voigt ay sunagawa s kultima jr costea pi amiot a bohm j brunetti f habermann n hercog r koch m luciani a mende dr schneider ma schrotz-king p tournigand c tran van nhieu j yamada t zimmermann j benes v kloor m ulrich cm von knebel doeberitz m sobhani i bork p. 2014. potential of fecal microbiota for early-stage detection of colorectal cancer.
+.Zeller G Tap J Voigt AY Sunagawa S Kultima JR Costea PI Amiot A Bohm J Brunetti F Habermann N Hercog R Koch M Luciani A Mende DR Schneider MA Schrotz-King P Tournigand C Tran Van Nhieu J Yamada T Zimmermann J Benes V Kloor M Ulrich CM von Knebel Doeberitz M Sobhani I Bork P. 2014.
 
-.forslund k hildebrand f nielsen t falony g le chatelier e sunagawas prifti e vieira-silva s gudmundsdottir v pedersen hk arumugam m kristiansen k voigt ay vestergaard h hercog r costea pi kultima jr li j jorgensen t levenez f dore j metahit consortium nielsen hb brunak s raes j hansen t wang j ehrlich sd bork p pedersen o.
+.Forslund K Hildebrand F Nielsen T Falony G Le Chatelier E SunagawaS Prifti E Vieira-Silva S Gudmundsdottir V Pedersen HK Arumugam M Kristiansen K Voigt AY Vestergaard H Hercog R Costea PI Kultima JR Li J Jorgensen T Levenez F Dore J MetaHIT Consortium Nielsen HB Brunak S Raes J Hansen T Wang J Ehrlich SD Bork P Pedersen O.
 
-clostridium xiva and f. prausnitzii of the ac pathway were the only taxafig 2 correlation between abundances of butyrate-forming pathways a of terminal enzymes linked to the acetyl-coa pathway b and of all individual taxa harboring a pathway c. analyses were performed on data derived from eight data sets studies i to vi viii and ix where line width represents correlation strength defined as the number of data sets displaying a correlation p and q  0.05 and spearman's p  0.4 a minimum of three correlations was required for connecting individual nodes the dashed line in panel b represents correlations in two data sets.
+.Qin N Yang F Li A Prifti E Chen Y Shao L Guo J Le Chatelier E Yao J Wu L Zhou J Ni S Liu L Pons N Batto JM Kennedy SP Leonard P Yuan C Ding W Chen Y Hu X Zheng B Qian G Xu W Ehrlich SD Zheng S LiL.
 
-.qin n yang f li a prifti e chen y shao l guo j le chatelier e yao j wu l zhou j ni s liu l pons n batto jm kennedy sp leonard p yuan c ding w chen y hu x zheng b qian g xu w ehrlich sd zheng s lil.
+.Zhang C Yin A Li H Wang R Wu G Shen J Zhang M Wang L Hou Y Ouyang H Zhang Y Zheng Y Wang J Lv X Wang Y Zhang F Zeng B Li W Yan F Zhao Y Pang X Zhang X Fu H Chen F Zhao N Hamaker BR Bridgewater LC Weinkove D Clement K Dore J Holmes E Xiao H Zhao G Yang S Bork P Nicholson JK Wei H Tang H Zhang X Zhao L. 2015.
 
-.zhang c yin a li h wang r wu g shen j zhang m wang l hou y ouyang h zhang y zheng y wang j lv x wang y zhang f zeng b li w yan f zhao y pang x zhang x fu h chen f zhao n hamaker br bridgewater lc weinkove d clement k dore j holmes e xiao h zhao g yang s bork p nicholson jk wei h tang h zhang x zhao l. 2015. dietary modulation of gut microbiota contributes to alleviation of both genetic and simple obesity in children.
-
-.gao z yin j zhang j ward re martin rj lefevre m cefalu wt ye j.
-
-.franzosa ea morgan xc segata n waldron l reyes j earl am gian- noukos g boylan mr ciulla d gevers d izard j garrett ws chan at huttenhower c. 2014. relating the metatranscriptome and metagenome of the human gut.
-
-.raymond f ouameur aa deraspe m iqbal n gingras h dridi b leprohon p plante pl giroux r berube e frenette j boudreau dk simard jl chabot i domingo mc trottier s boissinot m huletsky a roy ph ouellette m bergeron mg corbeil j.
-
-.li ss zhu a benes v costea pi hercog r hildebrand f huerta-cepas j nieuwdorp m salojarvi j voigt ay zeller g sunagawa s de vos wm bork p. 2016. durable coexistence of donor and recipient strains after fecal microbiota transplantation.
-
-.cani pd amar j iglesias ma poggi m knauf c bastelica d neyrinck am fava f tuohy km chabo c waget a delmee e cousin b sulpice t chamontin b ferrieres j tanti jf gibson gr casteilla l delzenne nm alessi mc burcelin r. 2007. metabolic endotoxemia initiates obesity and insulin resistance.
+.Gao Z Yin J Zhang J Ward RE Martin RJ Lefevre M Cefalu WT Ye J.
 

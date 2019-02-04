@@ -1,0 +1,20 @@
+This is an open access article distributed under the terms of the  which permits unrestricted use distribution and reproduction in any medium provided the original author and source are credited.Data Availability Statement Raw reads of all samples were deposited at the EBI Short Read Archive SRA under the study accession number ERP010584.Funding The authors received no specific funding for this work.Competing interests The authors have declared that no competing interests exist.Microbiota plays an important role in the homeostasis of the gastrointestinal tract.
+
+The data were analysed by an unsupervised and a supervised approach in the Ribosomal Database Project RDP pipeline.
+
+The mucosal samples were characterised by Herbiconiux and Brevundimonas two genera which include cellulolytic and xylanolytic strains.
+
+The poten- tiality of the gastric environment as a microbial niche was reconsidered after the discovery of Helicobacter pylori and thanks to successive technological advances .
+
+The samplings in each pig and each stomach region were carried out using sterile instruments to avoid potential cross-contamination of the microbial DNA.The samples were stored at -80C until use.
+
+The bacterial DNA was isolated and extracted using QiaAmp DNA Stool Mini Kit Qiagen Hilden Germany.
+
+The protocol followed the manufacturer's instructions with a pretreatment step with TES buffer  Lysozyme at 37C for two hours.
+
+The quality and purity of the isolated DNA was checked using spectrophotometry on the NanoDrop Fisher Scientific Schwerte Germany.Library generation and sequencingPolymerase chain reaction PCR amplification of the V6 hypervariable region from the 16S rRNA gene was carried out with a pool of 5 forward primers and 4 reverse primers pooled equimolar as described by Huber et al.
+
+The libraries were constructed using the aforementioned amplified products after ExoSAP-IT USB Corpora- tion Cleveland Ohio USA treatment and 16 equimolar pools of amplicons were obtained.
+
+The preparation of the libraries was carried out according to the instructions for the Ion Tor- rent Personal Genome Machine PGM Life TechnologiesCarlsbad CA sequencing of short amplicons for each library 200 ng of amplified DNA was end-repaired and ligated with a spe- cific barcode in total 16 different barcodes were used using the Ion Xpresstm Barcode Adapters 1-16 kits Life Technologies.
+

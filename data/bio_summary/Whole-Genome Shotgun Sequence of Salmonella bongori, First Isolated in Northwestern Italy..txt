@@ -1,26 +1,20 @@
-prokaryoteswhole-genome shotgun sequence of salmonella bongori first isolated in northwestern italyangelo romanoa alberto bellioa guerrino macoribc paul d. cotterbc daniela manila bianchia silvia gallinaa lucia decastelliafood control and production hygiene unit istituto zooprofilattico sperimentale del piemonte liguria e valle d'aosta turin italya teagasc food research centre moorepark fermoy cork irelandb apc microbiome institute cork irelandcabstract this study describes the whole-genome shotgun sequence of salmo- nella bongori 48z35- originally isolated from a 1-year-old symptomatic patient in northwest italy a typically nonendemic area.
+The draft genome sequence contained4.56 Mbp and the GC content was 51.27.almonella bongori 48z35- is considered endemic in Sicily Italy but has not been reported as a clinical isolate responsible for human infection in mainland Italy .
 
-the draft genome sequence contained4.56 mbp and the gc content was 51.27.almonella bongori 48z35- is considered endemic in sicily italy but has not been reported as a clinical isolate responsible for human infection in mainland italy .
+The draft genome sequence was annotated using the NCBI GenBank annotation pipeline and RAST genome annotation server .
 
-the draft genome sequence was annotated using the ncbi genbank annotation pipeline and rast genome annotation server .
+A total of 4446 coding sequences were annotated in various functional catego- ries including biological processes and metabolism 1836 genes cellular components 431 genes and molecular functions 828 genes.
 
-a total of 4446 coding sequences were annotated in various functional catego- ries including biological processes and metabolism 1836 genes cellular components 431 genes and molecular functions 828 genes.
+PROKARYOTESWhole-Genome Shotgun Sequence of Salmonella bongori First Isolated in Northwestern ItalyAngelo Romanoa Alberto Bellioa Guerrino Macoribc Paul D. Cotterbc Daniela Manila Bianchia Silvia Gallinaa Lucia DecastelliaFood Control and Production Hygiene Unit Istituto Zooprofilattico Sperimentale del Piemonte Liguria e Valle d'Aosta Turin Italya Teagasc Food Research Centre Moorepark Fermoy Cork Irelandb APC Microbiome Institute Cork IrelandcABSTRACT This study describes the whole-genome shotgun sequence of Salmo- nella bongori 48z35- originally isolated from a 1-year-old symptomatic patient in northwest Italy a typically nonendemic area.
 
-here we report the whole-genome shotgun sequence of s. bongori a fecal isolate from a 1-year old symptomatic patient in piedmont in northwestern of italy.
+.Aziz RK Bartels D Best AA DeJongh M Disz T Edwards RA Formsma K Gerdes S Glass EM Kubal M Meyer F Olsen GJ Olson R Osterman AL Overbeek RA McNeil LK Paarmann D Paczian T Parrello B Pusch GD Reich C Stevens R Vassieva O Vonstein V Wilke A Zagnitko O.
 
-phylogenetic analysis and comprehensive salmonella evolution studies have suggested the genomic relationship between s. bongori and an ancestral salmonella virulence gene set which has been adapted by incorporating virulence determinants highly similar to those found in enteropathogenic escherichia coli .
+The genomic content of the isolates was analyzed for potential genes that may be involved in virulence and antibiotic resistance.
 
-the version described in this paper is version napq01000000.referencesgiammanco gm pignato s mammina c grimont f grimont pad nastasi a giammanco g. 2002. persistent endemicity of salmonella bongori 48z35- in southern italy molecular characterization of human animaland environmental isolates.
+The version described in this paper is version NAPQ01000000.REFERENCESGiammanco GM Pignato S Mammina C Grimont F Grimont PAD Nastasi A Giammanco G. 2002.
 
-2014. trimmomatic a flexible trimmer for illumina sequence data.
+Phylogenetic analysis and comprehensive Salmonella evolution studies have suggested the genomic relationship between S. bongori and an ancestral Salmonella virulence gene set which has been adapted by incorporating virulence determinants highly similar to those found in enteropathogenic Escherichia coli .
 
-the genomic content of the isolates was analyzed for potential genes that may be involved in virulence and antibiotic resistance.
+Here we report the whole-genome shotgun sequence of S. bongori a fecal isolate from a 1-year old symptomatic patient in Piedmont in northwestern of Italy.
 
-de novo assembly was performed using the spades genome assembler v3.9.1 .
-
-as a result a total number of 4242 genes were predicted.
-
-2011. salmonella bongori provides insights into the evolu- tion of the salmonellae.
-
-.bankevich a nurk s antipov d gurevich aa dvorkin m kulikov as lesin vm nikolenko si pham s prjibelski ad pyshkin av sirotkin av vyahhi ntesler g alekseyev ma pevzner pa. 2012. spades a new genome as- sembly algorithm and its applications to single-cell sequencing.
+Persistent endemicity of Salmonella bongori 48z35- in southern Italy molecular characterization of human animaland environmental isolates.
 

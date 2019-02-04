@@ -1,30 +1,20 @@
-to obtain ssu rrna gene-like sequences in metagenome datasets 71 representative sequences 45 bacterial 17 archaeal and 9 eukaryotic sequences were obtained by clustering the silva ssu database v102 with usearch v5.2.32  at a sequence identity level of 75. these representative sequences are then used as queries in a blastn search against the user-defined sequences default parameters db alignments per query was 65535. a draft of the user-defined ssu dataset is then built to evaluate different primer sets.
+To obtain SSU rRNA gene-like sequences in metagenome datasets 71 representative sequences 45 bacterial 17 archaeal and 9 eukaryotic sequences were obtained by clustering the SILVA SSU database v102 with Usearch v5.2.32  at a sequence identity level of 75.
 
-mipe can also be used to evaluate large subunit ribosomal rna lsu rrna primers only if the users replace the ssu reference sequence the silva ssu database and the ssu primers with the lsu reference sequence the silva lsu database   and lsu primers respectively.data preprocessingmipe consists of two parts namely dataset preprocessing and the main program.
+The default reference sequences are the standard full-length 16S rRNA gene sequence of Escherichia coli GenBank accession number J01695 and the corresponding sequence of Methanomethylovorans hollandica GenBank accession number NC019977 and the 18S rRNA gene sequence of Saccharomyces cerevisiae GenBank accession number NR132213.1.
 
-the default reference sequences are the standard full-length 16s rrna gene sequence of escherichia coli genbank accession number j01695 and the corresponding sequence of methanomethylovorans hollandica genbank accession number nc019977 and the 18s rrna gene sequence of saccharomyces cerevisiae genbank accession number nr132213.1.
+MIPE can also be used to evaluate large subunit ribosomal RNA LSU rRNA primers only if the users replace the SSU reference sequence the SILVA SSU database and the SSU primers with the LSU reference sequence the SILVA LSU database   and LSU primers respectively.Data preprocessingMIPE consists of two parts namely dataset preprocessing and the main program.
 
-the user-defined ssu sequences and the reference sequence are combined and aligned against the aligned the silva ssu database v119 using the multiple-sequence aligner align.seqs in mothur v1.33.3 so that every base is given a unique position on the reference sequence.users would make a list of degenerate primers as input and make sure both their degenerateand non-degenerate formats have right primer binding sites on the reference sequence.
+The user-defined SSU sequences and the reference sequence are combined and aligned against the aligned the SILVA SSU database v119 using the multiple-sequence aligner align.seqs in Mothur v1.33.3 so that every base is given a unique position on the reference sequence.Users would make a list of degenerate primers as input and make sure both their degenerateand non-degenerate formats have right primer binding sites on the reference sequence.
 
-the sequences were checked for chimeric artifacts using the chimera.uchime in mothur v1.33.3 and the passed sequences were processed with mipe metatranscriptome search score cutoff 20 bootstrap cutoff 80.results and discussionextraction and taxonomic identification of ssu sequencesrunning time of mipe cpu time was tested using the 13-organism genomic mock dataset con- taining 1000000 sequences.
+The sequences were checked for chimeric artifacts using the chimera.uchime in Mothur v1.33.3 and the passed sequences were processed with MIPE metatranscriptome search score cutoff 20 bootstrap cutoff 80.Results and discussionExtraction and taxonomic identification of SSU sequencesRunning time of MIPE CPU time was tested using the 13-organism genomic mock dataset con- taining 1000000 sequences.
 
-with the develop- ment of high-throughput sequencing technology unbiased ssu rrna gene sequences can be mined from shotgun sequencing-based metagenomic or metatranscriptomic datasets to obtain a reflection of the microbial community structure in specific types of environment and to evaluate ssu primers.
+With the develop- ment of high-throughput sequencing technology unbiased SSU rRNA gene sequences can be mined from shotgun sequencing-based metagenomic or metatranscriptomic datasets to obtain a reflection of the microbial community structure in specific types of environment and to evaluate SSU primers.
 
-in conclusion mipe can efficiently extract ssu rrna gene sequences from metagenome datasets and accu- rately identify the taxonomy of each sequence.the metatranscriptomic dataset srx155355 contains 21035 sequences prior to processing by mipe.
+The reference sequence which is used as a marker helps extract the primer binding sites in the user-defined SSU sequences.The SILVA SSU database v119 that is used with MIPE was downloaded from the Mothur modified Recreated SEED database  .
 
-because primerprospector was not designed for metagenomes and cannot perform global alignments or classify metagenome sequences using its primer evaluation modules analyzeprimers.py and taxacoverage.py we had to input the ssu rrna gene sequence and taxonomy files for the comparison.the coverage of most phyla by the primers f515 and r806 as evaluated by mipe basically agreed with the results obtained by primerprospector presenting a 0-to-10 difference  in the silva test set.
+In conclusion MIPE can efficiently extract SSU rRNA gene sequences from metagenome datasets and accu- rately identify the taxonomy of each sequence.The metatranscriptomic dataset SRX155355 contains 21035 sequences prior to processing by MIPE.
 
-mipe can effectively extract shotgun rrna reads from a metagenome or metatranscriptome and is capable of classifying these sequences and exhibiting sensitivity to different ssu rrna pcr primers.
+The Mothur command align.seqs is called for the alignment of every extracted primer binding site from the user-defined SSU sequences against the non-degenerate primers to rectify any base slips caused by multiple sequence alignment.
 
-if the sequence is classified into bacteria archaea or eukarya and the bootstrap value is not less than the threshold cutoff mothur declares a minimum cutoff of 60 and 50 is also used for sequences shorter than 250 bp  the sequence passes through to the next analysis.alternatively the first step can be the sequence screening and taxonomy of a metatranscrip- tome.
-
-for the analysis of metatranscriptome and amplified rrna gene sequences mipe skips this step and runs the main program directly because rrna gene sequences constitute a large part of these datasets.
-
-however some rrna sequences in some metatranscriptomic samples are removed for mrna enrichment in these cases using the metagenome workflow would be a wise choice and these rrna sequences cannot be used to reflect the community.
-
-mipe extracted 10885 ssu sequences and 7452 lsu sequences.
-
-the reference sequence which is used as a marker helps extract the primer binding sites in the user-defined ssu sequences.the silva ssu database v119 that is used with mipe was downloaded from the mothur modified recreated seed database  .
-
-the mothur command align.seqs is called for the alignment of every extracted primer binding site from the user-defined ssu sequences against the non-degenerate primers to rectify any base slips caused by multiple sequence alignment.
+The SILVA test set sequences were derived from the SILVA SSU database v104 and filtered at 97 sequence identity with Uclust.
 

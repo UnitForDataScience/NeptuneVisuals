@@ -1,30 +1,20 @@
-furthermore the fly gut microbiotas not only were distinct but also were largely dominated by the otus that were absent or nearly absent from cactus tissues .fly microbiotas on average had more bacterial otus mean 373 otus than did cactus tissue mean 290 otus t70.73  5.34 p  0.0001 and this difference held if otus that were never 1 of any sample were removed fly mean 92 otus cactus mean 80 otus t36.30  3.79 p  0.0003. the majority of bacterial otus 670894 otus were shared at similar abundances and did not have significantly different distributions between flies and cactus tissues  but there were many more otus overrepresented in flies than overrepresented in cactus samples.
+Furthermore the fly gut microbiotas not only were distinct but also were largely dominated by the OTUs that were absent or nearly absent from cactus tissues .Fly microbiotas on average had more bacterial OTUs mean 373 OTUs than did cactus tissue mean 290 OTUs t70.73  5.34 P  0.0001 and this difference held if OTUs that were never 1 of any sample were removed fly mean 92 OTUs cactus mean 80 OTUs t36.30  3.79 P  0.0003.
 
-the bacterial otus that were enriched in flies were also broadly distributed across d. nigrospiracula individuals with 57 otus present in 90 of the flies and 18 otus present in 100 across cactus species and across localities.widespread bacteria in wild drosophila species.
+The bacterial OTUs that were enriched in flies were also broadly distributed across D. nigrospiracula individuals with 57 OTUs present in 90 of the flies and 18 OTUs present in 100 across cactus species and across localities.Widespread bacteria in wild Drosophila species.
 
-the factor explaining the most variation in community composition for both flies and cactus tissue was the individual cactus of origin which accounted for 19 to 35 of variation for flies and 30 to 53 for cactus samples .
+The majority of bacterial OTUs 670894 OTUs were shared at similar abundances and did not have significantly different distributions between flies and cactus tissues  but there were many more OTUs overrepresented in flies than overrepresented in cactus samples.
 
-further microbiotas did not differ significantly between male and female flies .table 1 comparison of microbial community compositions with adonisaaanalysis of variance using distance matrices adonis function was performed using 999 permutationsf tests and 97 otus.sampling at each locality and for each cactus species was too limited to make conclusions about an effect of locality or cactus species on microbiota composition.cactus tissue samples displayed considerable variation in microbiotas and .
+The factor explaining the most variation in community composition for both flies and cactus tissue was the individual cactus of origin which accounted for 19 to 35 of variation for flies and 30 to 53 for cactus samples .
 
-nearly 20 of all otus 184894 otus were present only in flies and were undetected in cacti whereas 10894 otus were exclusive to cactus samples.
+Further microbiotas did not differ significantly between male and female flies .TABLE 1 Comparison of microbial community compositions with AdonisaaAnalysis of variance using distance matrices Adonis function was performed using 999 permutationsF tests and 97 OTUs.Sampling at each locality and for each cactus species was too limited to make conclusions about an effect of locality or cactus species on microbiota composition.Cactus tissue samples displayed considerable variation in microbiotas and .
 
-although it is difficult to entirely rule out the presence of the gut-biased bacterial otus in the food tissue at extremely low abundance we note that our methods can retrieve extremely rare taxa and that the cactus samples harbored fewer otus than did thenigrospiracula samples data set s1a.the bacterial otus that were generally abundant in the d. nigrospiracula microbiota were also broadly distributed across the flies surveyed and were concentrated in three distinctive taxonomic groups orbales dysgonomonas and serpens and and  also see fig.
+Nearly 20 of all OTUs 184894 OTUs were present only in flies and were undetected in cacti whereas 10894 OTUs were exclusive to cactus samples.
 
-bars are for individual d. nigrospiracula flies or individual cactus tissue samples.discussionthe d. nigrospiracula microbiota differs sharply from the bacterial communities in the flies' cactus food  and largely consists of insect-specialized bacterial types.
+Although it is difficult to entirely rule out the presence of the gut-biased bacterial OTUs in the food tissue at extremely low abundance we note that our methods can retrieve extremely rare taxa and that the cactus samples harbored fewer OTUs than did thenigrospiracula samples Data Set S1a.The bacterial OTUs that were generally abundant in the D. nigrospiracula microbiota were also broadly distributed across the flies surveyed and were concentrated in three distinctive taxonomic groups Orbales Dysgonomonas and Serpens and and  also see Fig.
 
-individual flies consistently harbored identical bacterial otus across collection localities and host cactus species.
+Bars are for individual D. nigrospiracula flies or individual cactus tissue samples.DISCUSSIONThe D. nigrospiracula microbiota differs sharply from the bacterial communities in the flies' cactus food  and largely consists of insect-specialized bacterial types.
 
-individual d. nigrospiracula flies harbored an average of 373 - 12 otus mean - standard error se but only 50 - 4 otus made up 90 of the total sequences across all flies.
+Individual flies consistently harbored identical bacterial OTUs across collection localities and host cactus species.
 
-comparisons of the mean abundances of individual otus across d. nigrospiracula and cactus samples were performed using a nonparametric kruskal-wallis test with the bonferroni correction using a significance level of 0.05. otus were grouped by taxonomic assignment at the order level to visualize differences in composition between flies and cacti.
-
-the most abundant bacteria in the flies are rare or completely ab- sent in the cactus tissue and are consistently abundant in flies from different cacti and localities.
-
-however we found a very different pattern for wild-caught d. nigrospiracula flies we observed large com- positional differences between the microbiotas of cactus tissues and flies.
-
-tissue samples of the cactus from which the flies were feeding were collected in triplicate with sterile tools into 1.5-ml tubes with 95 ethanol and were stored until further processing.dna extraction was performed for each whole fly using the dneasy blood and tissue kit qiagen valencia ca following the manufacturer's protocol with the modification that flies were initially ground with sterile pestles in 1.5-ml tubes with animal tissue lysis atl buffer and proteinase k and were incubated for 60 min at 56degc to increase the dna yield.
-
-we used amplicon sequencing of the variable v4 region of the 16s rrna gene to obtain microbiota profiles of flies and of the necrotic cactus tissue on which the flies were collected.
-
-defecation by the flies in the cactus tissue most likely is the source for the small number of fly-specific sequences retrieved from necrotic tissue an alternative is that these bacteria although rare are a signature of a community that correlates with suitable breeding conditions for d. nigrospiracula.individual cactus samples had unique microbial communities suggesting that mi- crobiotas may be stochastically assembled from the local environment.
+Individual D. nigrospiracula flies harbored an average of 373 - 12 OTUs mean - standard error SE but only 50 - 4 OTUs made up 90 of the total sequences across all flies.
 

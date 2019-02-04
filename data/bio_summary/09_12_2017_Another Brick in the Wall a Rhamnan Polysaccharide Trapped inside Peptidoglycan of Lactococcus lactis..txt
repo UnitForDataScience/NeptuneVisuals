@@ -1,30 +1,20 @@
-the psp structure varies among lactococcal strains in l. lactis mg1363 the psp is composed of repeating hexasaccharide phosphate units.
+The PSP structure varies among lactococcal strains in L. lactis MG1363 the PSP is composed of repeating hexasaccharide phosphate units.
 
-the psp not only provides a protective barrier against phagocytosis by murine macrophages but also acts as the receptor for members of various lactococcal phage groups allowing their adsorption through specific recognition events .the genes encoding psp biosynthesis are located in a large chromosomal gene cluster in l. lactis  that is composed of a highly conserved region as well as a more variable region .
+The PSP not only provides a protective barrier against phagocytosis by murine macrophages but also acts as the receptor for members of various lactococcal phage groups allowing their adsorption through specific recognition events .The genes encoding PSP biosynthesis are located in a large chromosomal gene cluster in L. lactis  that is composed of a highly conserved region as well as a more variable region .
 
-high- resolution magic-angle spinning nuclear magnetic resonance hr-mas nmr experi- ments performed with intact whole bacterial cells allowed us to reveal surface-exposed cwps and confirmed the surface localization of psp .we observed that apart from the psp crude extracts of l. lactis strains contained variable amounts of an additional rhamnose-rich polysaccharide component.
+High- resolution magic-angle spinning nuclear magnetic resonance HR-MAS NMR experi- ments performed with intact whole bacterial cells allowed us to reveal surface-exposed CWPS and confirmed the surface localization of PSP .We observed that apart from the PSP crude extracts of L. lactis strains contained variable amounts of an additional rhamnose-rich polysaccharide component.
 
-here by further analyzing the cell surface by 1h-1h cosy experiments and comparing the data with those obtained from the purified psp  and from the newly identified rhamnan we could not only confirm the disappearance of the psp but also identify rhamnan at the surface of l. lactis nz9000 psp-negative mutant cells .
+Here by further analyzing the cell surface by 1H-1H COSY experiments and comparing the data with those obtained from the purified PSP  and from the newly identified rhamnan we could not only confirm the disappearance of the PSP but also identify rhamnan at the surface of L. lactis NZ9000 PSP-negative mutant cells .
 
-thus rhamnan appears to be located underneath the psp and embedded andor trapped inside the peptidoglycan layer of l. lactis.rhamnan biosynthesis is encoded in the same chromosomal gene cluster as the psp.
+Thus rhamnan appears to be located underneath the PSP and embedded andor trapped inside the peptidoglycan layer of L. lactis.Rhamnan biosynthesis is encoded in the same chromosomal gene cluster as the PSP.
 
-in addition to the psp structure of l. lactis mg1363 those of two other strains smq-388 and 3107 both of the c type have been determined thereby confirming that genetic variation of the cwps locus among l. lactis strains indeed corresponds to structural diversity of their respective psps  .
+The attribution of PSP monosaccharide signals was based on previous NMR identification of intact and HF-generated oligosaccharides from the PSP  .
 
-l. lactis 3107 was previously shown to possess a psp that is also a phosphopolysaccharide yet with repeating pentasac- charide units instead of the hexasaccharide found in l. lactis mg1363 .
+In addition to the PSP structure of L. lactis MG1363 those of two other strains SMQ-388 and 3107 both of the C type have been determined thereby confirming that genetic variation of the cwps locus among L. lactis strains indeed corresponds to structural diversity of their respective PSPs  .
 
-furthermore the hr-mas 1h-13c hsqc nmr spectrum of l. lactis psp-negative nz9000 cells noninduced l. lactis nz9000-gt1pptpic2 established that the inactivation of the glycosyltransferase-encoding gene llnz01145 caused the disappearance of the psp at the cell surface .
+L. lactis 3107 was previously shown to possess a PSP that is also a phosphopolysaccharide yet with repeating pentasac- charide units instead of the hexasaccharide found in L. lactis MG1363 .
 
-from the analysis of l. lactis mutants producing reduced amounts of rhamnan we conclude that rhamnan synthesis is essential for normal growth and division.resultspurification and structural elucidation of a rhamnan from l. lactis mg1363 and 3107. in our previous study  cell wall-associated carbohydrates were extracted from the defatted cell walls of l. lactis mg1363 by trichloroacetic acid tca treatment.
+Furthermore the HR-MAS 1H-13C HSQC NMR spectrum of L. lactis PSP-negative NZ9000 cells noninduced L. lactis NZ9000-GT1pPTPiC2 established that the inactivation of the glycosyltransferase-encoding gene LLNZ01145 caused the disappearance of the PSP at the cell surface .
 
-this rhamnan is still pres- ent in mutants devoid of the psp indicating that its synthesis can occur indepen- dently of psp synthesis.
-
-the attribution of psp monosaccharide signals was based on previous nmr identification of intact and hf-generated oligosaccharides from the psp  .
-
-in addition as reported in our previous study genetic swapping of a part of the psp clusters between nz9000 and 3107 had demonstrated that the variable part is involved in psp synthesis .
-
-we have previously reported that l. lactis mg1363 possesses a cwps that constitutes a bacterial surface layer that was named the polysaccharide pellicle psp  .
-
-rhamnan with an identical structure was also purified from l. lactis strain 3107. we show here that in contrast to the psp rhamnan is not exposed at the bacterial surface and is likely embedded within the peptidoglycan.
-
-employing a protocol similar to the one used for mg1363 a rhamnan identical to that of mg1363 as determined by nmr was extracted from l. lactis 3107 .synthesis of rhamnan in mutants devoid of psp.
+The genes annotated as rmlA to rgpF  are highly conserved in a number of L. lactis strains belonging to the CWPS C- and B-type groups  suggesting that rhamnan is a conserved component of the L. lactis cell wall at least in the strains belonging to either of these two groups.On the basis of our experimental results and sequence homology analysis we propose the following model of rhamnan biosynthesis involving an ABC transporter- dependent pathway .
 

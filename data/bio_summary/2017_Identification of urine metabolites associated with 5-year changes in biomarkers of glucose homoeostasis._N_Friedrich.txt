@@ -1,30 +1,20 @@
-- higher baseline levels of urinary alanine betaine nn-dimethylglycine dmg creatinine and trimethylamine were associated with an increase in hba1c from baseline to follow-up.
+Associations of baseline metabolite levels with longitudinal changes in continuous markers of glucose homoeostasis during the 5-year follow-up in the whole studypopulation black squares and healthy subpopulation red squares no diabetes or use of diabetes medication HbA1c  5.7 and estimated glomerular filtration rate eGFR  60 mLmin.
 
-of these subjects with missing values for baseline follow-up hba1c or baseline confounders were excluded resulting in a total of 3986 subjects included in the analyses.measurementsinformation on lifestyle such as smoking habits and coffee consumption were assessed by questionnaire.
+A more recent study based on 2400 subjects confirmed the increased betaine excretion in diabetes patients and also found a non-linear association between betaine excretion and HbA1c with a strong positive association for HbA1c levels  6.Interestingly among diabetes patients betaine excretion was inversely linked to plasma betaine levels  thereby providing a further explanation for the above-mentioned discrepant findings for plasma and urine betaine levels in cases of incident diabetes .
 
-correlation between metabolites at baseline or follow-up as well as metabolite-specific correlation between baseline and follow-up values are presented in fig.
+- Higher baseline levels of urinary alanine betaine NN-dimethylglycine DMG creatinine and trimethylamine were associated with an increase in HbA1c from baseline to follow-up.
 
-this means that subjects with low hba1c levels at baseline generally deteriorate more than subjects with high baseline hba1c levels.
+Of these subjects with missing values for baseline follow-up HbA1c or baseline confounders were excluded resulting in a total of 3986 subjects included in the analyses.MeasurementsInformation on lifestyle such as smoking habits and coffee consumption were assessed by questionnaire.
 
-in the first-step linear regression analyses of the 5- year follow-up hba1c levels as outcome and baseline urine metabolite levels as exposure adjusted for baseline hba1c levels were performed.
+Correlation between metabolites at baseline or follow-up as well as metabolite-specific correlation between baseline and follow-up values are presented in Fig.
 
-higher baseline levels of alanine betaine dmg creatinine and tma were associated with an increase in hba1c from baseline to follow-up.
+This means that subjects with low HbA1c levels at baseline generally deteriorate more than subjects with high baseline HbA1c levels.
 
-therefore the aim of this study was to analyze the associations between baseline urinary metabolites and 5-year changes in continuous markers of glucose homoeostasis including fasting glucose hba1c and homoeostasis model assessment of insulin resistance homa-ir index values.methods.
+In the first-step linear regression analyses of the 5- year follow-up HbA1c levels as outcome and baseline urine metabolite levels as exposure adjusted for baseline HbA1c levels were performed.
 
-- urine metabolites in 3986 participants at both baseline and 5-year follow-up of the population-based inter99 study were analyzed by 1h-nmr spectroscopy.
+Higher baseline levels of alanine betaine DMG creatinine and TMA were associated with an increase in HbA1c from baseline to follow-up.
 
-analyses of 5-year changes in fasting glucose and homa-ir index showed similar findings with high baseline levels of lactic acid beta-d-glucose creatinine alanine and 1-methylnicotinamide associated with increases in both parameters.conclusion.
+In the present study higher urinary baseline levels of betaine as well as its metabolite DMG were linked to an increase in HbA1c over time.Our findings are in concordance with a study reporting positive associations with incident diabetes for both urine metabolitesFig.
 
-thus the aim of the present investigation was to analyze the associations between baseline urine metabolites measured by nmr spectroscopy and 5-year longitudinal changes in continuous markers of glucose homoeostasis including fasting glucose glycated haemoglobin hba1c and homoeostasis model assessment of insulin resistance homa-ir.methodsstudy populationthe inter99 a population-based non-pharmacological lifestyle intervention study was initiated in march 1999 and carried out by the capital region of denmark research centre for prevention and health.
-
-from this study population 13016 were randomly drawn for the intervention of whom 6784 52.5 were examined at baseline.
-
-the present project was approved by the ethics committee of the capital region of denmark h-15004167 and danish data protection agency.baseline nmr measurements were available for 4117 subjects who participated in both the baseline and 5-year follow-up examinations.
-
-in addition the fourier-transformed and baseline corrected spectra were processed using the published focus workflow including a proposed alignment and peak-picking algorithm called runas .
-
-constraints are metabolite- and signal-specific parameters and their ranges includingmetabolite parameters molecular massparametersstrategies for identification of each considered signal of each metabolite number of protons relaxation time multiplicity coupling constant andor peak patterns search range for signal detectionand definition of additional signal-fit parameters their start and allowed minimum and maximum values fit range chemical shift line width coupling constant gauss-lorentz ratio baseline offset and slope.in all 17 metabolites were used in the present study.
-
-to derive the ipa weights a logistic-regression model for participation at follow-up was applied using baseline variables such as age sex bmismoking habits physical activity education and hba1c as independent variables.
+In the present study higher baseline urinary MNA levels were related to increases in HbA1c fasting glucose and HOMA-IR values during the 5-year follow-up.Higher NNMT expression was previously described in adipose tissue in diabetic mice and in patients with either diabetes or insulin resistance .
 

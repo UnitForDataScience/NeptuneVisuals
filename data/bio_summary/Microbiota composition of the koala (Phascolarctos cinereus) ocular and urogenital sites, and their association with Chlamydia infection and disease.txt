@@ -1,30 +1,20 @@
-the target chlamydia spe- cies of this study is c. pecorum however c. pneumoniae has previously been identified in koalasand c. psittaci is endemic to birds of the study region.
+The target Chlamydia spe- cies of this study is C. pecorum however C. pneumoniae has previously been identified in koalasand C. psittaci is endemic to birds of the study region.
 
-it is unknown how common clos are what diversity exists and if they contribute to chlamydial disease.due to the unique nature of c. pecorum's koala host there is little available information on the site-specific host response to and interaction with c. pecorum infection.
+The categorisation of C. pecorum infection status was based on qPCR testing and C. pecorum detection in the microbiota analysis.
 
-it was found that when the animal was infected with c. pecorum at the ocular site the dominant otu observed was c. pecorum with a minimal number of non-chlamydial otus detected resulting in their removal from the analysis.
+It is unknown how common CLOs are what diversity exists and if they contribute to chlamydial disease.Due to the unique nature of C. pecorum's koala host there is little available information on the site-specific host response to and interaction with C. pecorum infection.
 
-this provides an indication that the urogenital microbiota influences the c. pecorum infection potential rather than c. pecorum influencing the microbiota.canonical correspondence analysis of urogenital microbiotas.
+It was found that when the animal was infected with C. pecorum at the ocular site the dominant OTU observed was C. pecorum with a minimal number of non-chlamydial OTUs detected resulting in their removal from the analysis.
 
-these variations interestingly co-correlated with disease status with low c. pecorum detection being correlated with reproductive disease rd and negative c. pecorum infection status with no associated disease nad.
+This provides an indication that the urogenital microbiota influences the C. pecorum infection potential rather than C. pecorum influencing the microbiota.Canonical Correspondence Analysis of urogenital microbiotas.
 
-the remaining four otus chlamydiae otu95 otu510 otu537 and otu3241 were not associated with an existing chlamydiae family and have a 90 to 97 blast similarity to uncultured microbes previously detected in environmental samples supplementary table .these rare clos were found either as the single chlamydiae inhabitant of a site n 9 or as co-habitants of sites with c. pecorum and other chlamydiae n 5. cohabitation of c. pecorum and clos has previously been reported.
+These variations interestingly co-correlated with disease status with low C. pecorum detection being correlated with reproductive disease RD and negative C. pecorum infection status with no associated disease NAD.
 
-to avoid biasing during subsequent statistical analysis c. pecorum otus were removed from the otu table and c. pecorum microbiota counts were used in assessing infection status table .
+To avoid biasing during subsequent statistical analysis C. pecorum OTUs were removed from the OTU table and C. pecorum microbiota counts were used in assessing infection status Table .
 
-the categorisation of c. pecorum infection status was based on qpcr testing and c. pecorum detection in the microbiota analysis.
+The ability to study C. pecorum infections was limited by the infective agents dominating detection over non-C. pecorum reads.
 
-ugt samples from high c. pecorum-infected animals had lower microbiota diversity and richness compared to those samples from animals with low level infection or negative for c. pecorum fig.
+UGT samples from high C. pecorum-infected animals had lower microbiota diversity and richness compared to those samples from animals with low level infection or negative for C. pecorum Fig.
 
-this raises several questions is the infective capability of c. pecorum influenced by the microbiota is there a life stage when animals are more susceptible to infection due to their microbiota it was noted during analysis in both diversity and the range of otu abundance that a chlamydia-negative microbiota could have similar com- position and structure to those in high c. pecorum-infected animals.
-
-the ability to study c. pecorum infections was limited by the infective agents dominating detection over non-c. pecorum reads.
-
-peerj 2 e545 doi2014.kopylova e. noe l.  touzet h. sortmerna fast and accurate filtering of ribosomal rnas in metatranscriptomic data.bioinformatics oxford england 28 3211-3217 doi2012.mercier c. boyer f. bonin a.  coissac e. sumatra and sumaclust fast and exact comparison and clustering of sequences httpsgit.metabarcoding.orgobitoolssumaclustwikishome 2013.edgar r. c. search and clustering orders of magnitude faster than blast.
-
-nucleic acids research 41 d590-d596 doi2013.paulson j. n. stine o. c. bravo h. c.  pop m. differential abundance analysis for microbial marker-gene surveys.
-
-however koalas that are infected with c. pecorum do not always progress to disease.
-
-changes in the urogenital microbiota of koalas is correlated with infection by the common pathogen c. pecorum.
+This raises several questions Is the infective capability of C. pecorum influenced by the microbiota Is there a life stage when animals are more susceptible to infection due to their microbiota It was noted during analysis in both diversity and the range of OTU abundance that a Chlamydia-negative microbiota could have similar com- position and structure to those in high C. pecorum-infected animals.
 

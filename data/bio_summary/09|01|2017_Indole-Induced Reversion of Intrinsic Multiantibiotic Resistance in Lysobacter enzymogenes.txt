@@ -1,30 +1,20 @@
-next we identified two tcs genes l. enzymogenes qsec le-qsec and le-qseb in l. enzymogenes and found that mutations of le-qsec and le-qseb also led to a dramatic increase in indole production.
+Next we identified two TCS genes L. enzymogenes qseC Le-qseC and Le-qseB in L. enzymogenes and found that mutations of Le-qseC and Le-qseB also led to a dramatic increase in indole production.
 
-for example l. enzymogenes diffusible signaling factor 1 ledsf1 to ledsf5 a group of fatty acids were identified in l. enzymogenes strain oh11 and found to act as dsfs to regulate the biosynthesis of hsaf .
+For example L. enzymogenes diffusible signaling factor 1 LeDSF1 to LeDSF5 a group of fatty acids were identified in L. enzymogenes strain OH11 and found to act as DSFs to regulate the biosynthesis of HSAF .
 
-in this study we describe the identification of indole as a small-molecule signal for le-qsecle-qseb in l. enzymogenes oh11 and present evi- dence for the involvement of this signaling system in intrinsic multiantibiotic resistance.resultstreatment of l. enzymogenes oh11 with the qsec inhibitor led209 induces a dramatic increase in indole production.
+In this study we describe the identification of indole as a small-molecule signal for Le-QseCLe-QseB in L. enzymogenes OH11 and present evi- dence for the involvement of this signaling system in intrinsic multiantibiotic resistance.RESULTSTreatment of L. enzymogenes OH11 with the QseC inhibitor LED209 induces a dramatic increase in indole production.
 
-indeed treatment with epineph- rine also led to a remarkable induction of indole production in l. enzymogenes oh11 .deletion of le0754-le0752 in l. enzymogenes oh11 also leads to a large increase in indole production.
+Indeed treatment with epineph- rine also led to a remarkable induction of indole production in L. enzymogenes OH11 .Deletion of Le0754-Le0752 in L. enzymogenes OH11 also leads to a large increase in indole production.
 
-because l. enzymogenes is known to produce several antibiotic metabolites we examined indole's effect on the biosynthesis of hsaffig 5 effect of indole on antibiotic resistance of l. enzymogenes oh11.
+Because L. enzymogenes is known to produce several antibiotic metabolites we examined indole's effect on the biosynthesis of HSAFFIG 5 Effect of indole on antibiotic resistance of L. enzymogenes OH11.
 
-nonetheless these data support that the binding of indole to l. enzymogenes cells isle-qsec dependent.fig 3 fluorescence imaging of lysobacter enzymogenes oh11 the le-qseb deletion mutant and the le-qsec deletion mutant.
+Nonetheless these data support that the binding of indole to L. enzymogenes cells isLe-QseC dependent.FIG 3 Fluorescence imaging of Lysobacter enzymogenes OH11 the Le-qseB deletion mutant and the Le-qseC deletion mutant.
 
-upon treatment with led209 an inhibitor of the widespread tcs qsecqseb l. enzymogenes produced a large amount of an unknown metabo- lite that was barely detectable in the untreated culture.
+Upon treatment with LED209 an inhibitor of the widespread TCS QseCQseB L. enzymogenes produced a large amount of an unknown metabo- lite that was barely detectable in the untreated culture.
 
-therefore we tested if the dra- matic increase in the level of indole production in l. enzymogenes upon blocking of le-qsec and le-qseb would lead to enhanced antibiotic resistance.
+Therefore we tested if the dra- matic increase in the level of indole production in L. enzymogenes upon blocking of Le-qseC and Le-qseB would lead to enhanced antibiotic resistance.
 
-here we found that the inac- tivation of a two-component regulatory system tcs by an inhibitor or by gene de- letion led to a remarkable increase in the level of production of a metabolite in l. enzymogenes and this metabolite was identified to be indole.
+Here we found that the inac- tivation of a two-component regulatory system TCS by an inhibitor or by gene de- letion led to a remarkable increase in the level of production of a metabolite in L. enzymogenes and this metabolite was identified to be indole.
 
-indole treatment caused the intrinsically multidrug-resistant bac- terium l. enzymogenes to be susceptible to antibiotics.
-
-because indole is known as an interspecies signal between gut microbiota and mammalian hosts the observation that indole could render intrinsically resistant l. enzymogenes susceptible to common antibiotics may have implications.september 2017 volume 83 issue 17 e00995-17applied and environmental microbiology 1keywords indole intrinsic antibiotic resistance lysobacter natural products two- component regulatory systemshe search for new antibiotics is a pressing and continual need as drug-resistant pathogens constantly emerge.
-
-heat-stable antifungal factor hsaf and analogs from l. enzymogenes strains c3 and oh11 are a group of polycyclic tetramate macrolac- tams with potent antifungal activity and a distinct mode of action .
-
-the signaling is mediated by a two-component regulatory system tcs l. enzymogenes rpfc le- rpfcle-rpfg which is responsible for sensing the dsf and for conveying the signal for subsequent gene expression and hsaf production.
-
-interest- ingly pilspilr another tcs that is known to regulate t4p type iv pilus production in many bacteria was unexpectedly found to play a role in hsaf regulation in l. enzymogenes and signaling was conveyed by the second messenger cyclic di-gmp c-di-gmp .in contrast to the biosynthesis and regulation of natural products essentially nothing is known about the molecular mechanisms underlying intrinsic multidrug resistance in lysobacter.
-
-since antibiotic treatment could be regarded as a type of environmental stress to bacteria wewere curious about the potential consequences of blocking tcss in l. enzymogenes.
+Indole treatment caused the intrinsically multidrug-resistant bac- terium L. enzymogenes to be susceptible to antibiotics.
 

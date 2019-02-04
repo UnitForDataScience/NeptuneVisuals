@@ -1,0 +1,20 @@
+There were 56 genera positively correlated including16 highly positively correlated with methane Increasing effects on methane emissions group in Table 1 and 40 genera considered as positively correlated with methane emissions but showing a low regression coefficients Low effect on methane emissions in Table 1.
+
+It is known that methane production gkgDMI and to an extent the microbial community is heritable and therefore biomarkers can offer a method of selecting cattle for low methane emitting phenotypes.
+
+Finally this study confirmed the importance of using robust and applicable biomarkers from the microbiome as a proxy of CH4 emissions across diverse production systems and environments.Keywords rumen microbiome methane biomarkers metagenomics dietsINTRODUCTIONRecent metagenomic analyses have highlighted the exciting opportunity that rumen microbial biomarkers of methane CH4 emissions could enable the selection by breeding of cattle which emit less CH4 and ultimately may lower agricultural greenhouse gas GHG emissions.
+
+Higher abundance of bacteria populations involved in propionate metabolism is associated with reduced methane emissions compared to acetate metabolism because more H2 is utilized per mole VFA thus reducing availability for methane production Janssen 2010 Wanapat et al.
+
+All samples without VFA measurements were removed N1 N3 N7 and RR41.The residual methane emissions were calculated using a General Linear Model including diet and breed into the model and measured methane data as dependent variable.
+
+Interestingly a positivecorrelation between CH4 emissions and the relative abundance of Euryarchaeota was confirmed F  0.567 P  0.003 but only when studying high emitters.Partial Least Square analysis including in the model diet and breed effects showed that the relative abundances of 31 microbial genera were negatively correlated with methane emissions Reducing effects on methane emissions group in Table 1.
+
+Syntrophobotulus genus.Validation of Functional Genes as Biomarkers of Methane EmissionsThe main result from the network analysis is that most of the same genes directly involved in methane emissions were foundTABLE 1  PLS results identifying the most important microbial genera affecting methane emissions.ContinuedVIP Variable importance for projection Coef Coefficient AA Amino acids metabolim AOB Ammonia-oxidizing bacteria NOB Nitrite-oxidizing bacteria SOB Sulfur-oxidizing bacteria ox Oxidizer Methanogen H Hydrogenotrophic pathway Methanogen M Methylotrophic methanogenic pathway VFA Volatile Fatty Acids N.I.
+
+As a result 37 genes were identified as important to predict methane emissions in cattle and as part of a model including breed type and diet effects explained 62 of the variation in methane emissions.
+
+Bovine host genetic variation influences rumen microbial methane production with best selection criterion for low methane emitting and efficiently feed converting hosts based on metagenomic gene abundance.
+
+82642. doi Previous shotgun metagenomic analyses of ruminal digesta identified some microbial information that might be useful as biomarkers to select cattle that emit less methane CH4 which is a potent greenhouse gas.
+

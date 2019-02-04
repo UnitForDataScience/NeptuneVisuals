@@ -1,30 +1,20 @@
-this left 662 otus observed among the tumor samples 639 otus observed among the nca tissues and with 589 otus observed concordantly in both tumor and nca tissues .
+Diversity shifts in tumor microbiota have been observed in a variety of cancers including prostate cancer  cervical cancer  colorectal cancer   and lung cancer   and breast cancer -.Breast cancer is one of the most common cancers in women worldwide and despite the sig- nificant progress in the diagnosis and treatment of breast cancers there are still more than 40000 deaths per year  .
 
-we observed that both tumor and nca cohorts demonstrated the existence of a batch processing effect indicated by the tcga plate id .two clusters were identified for tumor cluster 1  197 and cluster 2  471 samples and nca cohorts cluster 1  54 and cluster 2  18 samples .
+The concordant set of 327 OTU's that were observed among the four clusters was normalized and scaled .Pairwise differential abundance analysis of the 327 OTU's was performed among the four tissue groups NCA HER2 ER and triple negative breast cancer .
 
-additionally we observed an increased presence of actinobacteria 13 of 48 significant otu's in the nca tissue samples while proteobacteria 20 of the 48 significant otu's demonstrated increased presence among the tumor tissues see .microbial association with breast cancerwe investigated whether the microbial composition was associated with alterations in thehost expression profiles.
+Interestingly the vast majority 75 36 of 48 were found to comprise less prevalent OTU's less than 0.5 on an average in the NCA.While this may be attributed to the tumor-biased nature of the TCGA data it could also sug- gest that breast cancer studies with limited sampling power coupled with sparse microbiome data could be inadequate for accurate signal detection.
 
-two clusters were present in tcga breast tissue samples tumor n  668 and nca n  72. a venn diagram of the bacterial otu's observed among the tumors and nca demonstrating similar microbial presence.
+Epub 201410PMID PubMed Central PMCID PMC4178372.Anders S Pyl PT Huber W. HTSeq--a Python framework to work with high-throughput sequencing data.
 
-concordances of 327 species were observed among the nca tissues and the tumor samples and consistent across the observed batch effect.
+The remainder of the less prevalent microbiota on average comprises 14.7 of the NCA microbiota 11.1 of the triple negative microbiota 12.8 of the HER2 microbiota and 12.5 of the ER microbiota.OTU's significantly different among the breast cancer populations.
 
-c filtering was re-applied among the tissue samples and per processing differences.venn diagram demonstrates a core 327 bacterial otu's was observed among all samples.
+C The average relative abundance and standard deviation of the 12species differing in abundance depicted in the barplots with the NCA tissue cohort's averages in green and tumor cohort averages in purple.Significant OTU's.
 
-d a perspective plot of the tumor samples demonstrat- ing the sharpness and isolation of tumor samples designated as tumor cluster 1. e silhouette plot for the nca samples demonstrate a significant proportion normal cluster 2 18 of 72 0.56 present a distinct batch processing factor which needs to be accounted for.
+Similarly the majority 6 of the nine OTU's significantly altered from NCA tissues were also comprised from the less prevalent OTU's.
 
-concordance of sample retention of the parallel processed tcga samples further pruned the study cohort to a final cohort consisting of 668 tumor samples and 72 nca nca reference samples.16s ribosomal sequencing validationfrozen breast tissue blocks demonstrating greater than 60 tumor composition were selected from six er patients from mayo clinic that were submitted to tcga.
+Additionally we observed an increased presence of Actinobacteria 13 of 48 significant OTU's in the NCA tissue samples while Proteobacteria 20 of the 48 significant OTU's demonstrated increased presence among the tumor tissues see .Microbial association with breast cancerWe investigated whether the microbial composition was associated with alterations in thehost expression profiles.
 
-the concordant set of 327 otu's that were observed among the four clusters was normalized and scaled .pairwise differential abundance analysis of the 327 otu's was performed among the four tissue groups nca her2 er and triple negative breast cancer .
+A PCA plot of these significant OTU's is presented demonstrating that the batch differences had been accounted for NCA tissues indicated with an 'N' and tumor samples indicated with a 'T'.Phylum compositions of the tumor and NCA tissues.
 
-a pca plot of these significant otu's is presented demonstrating that the batch differences had been accounted for nca tissues indicated with an 'n' and tumor samples indicated with a 't'.phylum compositions of the tumor and nca tissues.
-
-samples were removed from consid- eration if they possessed any of the following characteristics male gender metastatic samples history of prior breast cancer disease recipients of neoadjuvant therapy andor samples lack- ing documented interrogation of her2 amplification status.
-
-twelve of these twenty-one species were observed to be significantly altered after adjusting for multiple testing errors using benjamini and hochberg across the four 4 breast tissue phenotypes .we provide confirmatory evidence that escherichia coli as one of the more prevalent species in the breast tissue and is observed in higher abundance within nca breast tissues   .
-
-table documenting the percent of read count evidence retained as a result of filtering out taxonomic units low abun- dant otu's with less than nine maximum reads across samples and less prevalent observed in less than 25 of the sampling population.tsvs2 table.
-
-we observed abundance shifts in proteobacteria in tumor samples while shifts in actinobacteria abundance favored nca tis- sues.
-
-a twenty-four species were observed to have average abundance between 0.5 - 19.3 among the nca samples.
+EdgeR analysis was performed between the NCA tissue and the breast cancer subtype tissue using host gene expression data.
 

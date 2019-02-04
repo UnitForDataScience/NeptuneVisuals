@@ -1,30 +1,20 @@
-again change in microbiota composition was not significantly greater during treatment with ivacaftor compared to placebo wilcoxon test p  0.51. a significant change in microbiota composition was however associated with any change in antibiotic exposure regardless of whether ivacaftor or placebo was administered p  0.006. in a small subgroup analysis of subjects whose antibiotic exposure did not change within the study period a significant reduction in total bacterial load was observed during treatment with ivacaftor p  0.004 two-tailed paired student's t-test.
+We were able to detect no differences between ivacaftor and placebo treatment in terms of either change in microbiota composition or in change in total or pseudomonal load.While the airway microbiota of individuals with CF has been shown to be relatively stable over long periods of time  substantial differences in composition exist between patients .
 
-sputum microbiota composition was assessed by 16s rrna gene amplicon sequencing and quantitative pcr at five key time points along with regular clinical review respiratory function assessment and peripheral blood testing.results no significant difference in microbiota composition was observed in subjects following ivacaftor treatment or placebo permanova p  0.95 square root ecv  - 4.94 9479 permutations.
+Sputum microbiota composition was assessed by 16S rRNA gene amplicon sequencing and quantitative PCR at five key time points along with regular clinical review respiratory function assessment and peripheral blood testing.Results No significant difference in microbiota composition was observed in subjects following ivacaftor treatment or placebo PERMANOVA P  0.95 square root ECV  - 4.94 9479 permutations.
 
-changing antibiotic exposure was associated with a significant change in microbiota composition compared to samples collected during consistent antibiotic exposure p  0.006 mann whitney u test .a subgroup analysis was performed on those subjects whose antibiotic exposure was consistent during the assessed period n  5. while no significant difference in microbiota composition was seen between treatment and placebo armsabp 0.
+S1A and S1B Supplemen- tary table S1 and S2 respectively.Impact of ivacaftor on microbiota compositionSputum microbiota composition for all subjects at each of the time points assessed are shown in Fig.
 
-microbiota similarity assessed as bray curtis similarity score for treatment and placebo armsmasking of microbiological impact of cftr potentiator therapy by antibiotic exposurethe potential confounding effect of the impact of antibiotic therapy on airway microbiota composition was investigated.
+We did not observe a discernible change in microbiota com- position in this subgroup and this is likely due to the very small number of subjects relative to the high degree of dissimilarity in the starting microbiota composition.
 
-we were able to detect no differences between ivacaftor and placebo treatment in terms of either change in microbiota composition or in change in total or pseudomonal load.while the airway microbiota of individuals with cf has been shown to be relatively stable over long periods of time  substantial differences in composition exist between patients .
+Conclusions The short-term impact of ivacaftor therapy on sputum microbiota composition in patients with G551D mutations are modest compared to those resulting from antibiotic exposure and may be masked by changes in antibiotic treatment regimen.c 2017 European Cystic Fibrosis Society.
 
-future studies should therefore assess longer treatment courses and extend microbiological surveillance beyond treatment cessation.in conclusion we found some evidence of a change in airway microbiology following four weeks of ivacaftor treatment.
+To address this we performed a four month placebo controlled crossover study to investigate the impact of ivacaftor therapy on the airway microbiota in adult patients with G551D mutations.
 
-microbiota composition variance was significantly greater between subjects than within subjects over time p b 0.0001 mann whitney u test and an additional within-patient paired assessment of microbiota similarity was therefore performed.
+In addition antibiotic treatment regimens which are likely to exert a substantial selective pressure on microbiota composition are variable both within and between patients.
 
-s1a and s1b supplemen- tary table s1 and s2 respectively.impact of ivacaftor on microbiota compositionsputum microbiota composition for all subjects at each of the time points assessed are shown in fig.
+While it remains important to assess the impact of ivacaftor on airway microbiology in the context of routine care the extent of variability in airway microbiota composi- tion between patients and the substantial impact of periodic antibiotic treatment suggests that studies based on very large patient populations are required.
 
-we did not observe a discernible change in microbiota com- position in this subgroup and this is likely due to the very small number of subjects relative to the high degree of dissimilarity in the starting microbiota composition.
+Impact of the CFTR-potentiator ivacaftor on airway microbiota in cystic fibrosis patients carrying a G551D mutation.
 
-conclusions the short-term impact of ivacaftor therapy on sputum microbiota composition in patients with g551d mutations are modest compared to those resulting from antibiotic exposure and may be masked by changes in antibiotic treatment regimen.c 2017 european cystic fibrosis society.
-
-however our under- standing of the degree to which this occurs and the timeframe over which it happens remains incomplete.a previous study assessed the impact of ivacaftor treatment in three children with g551d mutations over more than one year and also showed no effect at a microbiota level although some differences in specific taxa were reported .
-
-in addition antibiotic treatment regimens which are likely to exert a substantial selective pressure on microbiota composition are variable both within and between patients.
-
-much of this background variance likely stems from antibiotic exposure and indeed we showed that a change in antibiotic regimen in the two weeks prior to sample collection was associated with a significant change in microbiota composition regardless of ivacaftor treatment.
-
-while it remains important to assess the impact of ivacaftor on airway microbiology in the context of routine care the extent of variability in airway microbiota composi- tion between patients and the substantial impact of periodic antibiotic treatment suggests that studies based on very large patient populations are required.
-
-all patients completed five visits during the 4 month placebo controlled crossover study  with sputum samples not being available for assessment on only 6 occasions a total of 94 sputum samples were available for analysis.impact of ivacaftor treatment on sputum bacterial loadthe change in levels of total bacteria and of p. aeruginosa that followed treatment were compared between ivacaftor and placeboarms for each subject.
+Ivacaftor a CFTR-potentiating agent improves sweat chloride weight lung function and pulmonary exacerbation rate in CF patients with G551D mutations but its effect on the airway microbiome remains poorly characterised.Methods Twenty CF patients with at least one G551D mutation from a single centre were recruited to a 4 month double-blind placebo-controlled crossover study of ivacaftor with 28 days of active treatment.
 

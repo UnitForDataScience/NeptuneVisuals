@@ -1,30 +1,20 @@
-most of the residues present at the binding sites of digoxin and fumarate in cgr2 remained the same throughout the simulation period and the number of hydrogen bonds and the residues involved in making those hydrogen bonds also show stability.the binding energy calculation for fumarate and digoxin to cgr2 show that fumarate binds to cgr2 with high affinity in comparison to digoxin in support of this fumarate also forms more number of hydrogen bonds with cgr2 in comparison to digoxin.
+The analysis of the binding site of Cgr2 suggests that digoxin binds to the same active site as of the natural substrate fumarate although with lower affinity than the natural substrate fumarate predominantly because of the high number of hydrogen bonds formed by fumarate at the binding site.
 
-the analysis of the binding site of cgr2 suggests that digoxin binds to the same active site as of the natural substrate fumarate although with lower affinity than the natural substrate fumarate predominantly because of the high number of hydrogen bonds formed by fumarate at the binding site.
+Most of the residues present at the binding sites of digoxin and fumarate in Cgr2 remained the same throughout the simulation period and the number of hydrogen bonds and the residues involved in making those hydrogen bonds also show stability.The binding energy calculation for fumarate and digoxin to Cgr2 show that fumarate binds to Cgr2 with high affinity in comparison to digoxin in support of this fumarate also forms more number of hydrogen bonds with Cgr2 in comparison to digoxin.
 
-1984. cgr2 is a fumarate reductase with fumarate as the proposed natural substrate and is a soluble protein haiser et al.
+The docking of Cgr2 with fumarate revealed that Asp349 Asn351 His353 Asn357 and Arg469 were involved in H-bonding and the other residues present in the vicinity of fumarate were Val350 Ile352 Asp354 Ser355 Ser356 Glu376 and Trp377 with the peripheral cut-off of 4 Aas depicted in Figure 2C.
 
-to comprehend the effect of homology modelling on these detailed simulation studies similar studies of digoxin and fumarate binding were also carried out with the used structural template for cgr2 flavocytochrome c3 fumarate reductase pdb-id 1qo8 resolution 2.15 a from shewanella frigidimarina.
+The docking study performed on 1QO8 with fumarate which is a known substrate of flavocytochrome c fumarate reductase Leys et al.
 
-the docking of cgr2 with fumarate revealed that asp349 asn351 his353 asn357 and arg469 were involved in h-bonding and the other residues present in the vicinity of fumarate were val350 ile352 asp354 ser355 ser356 glu376 and trp377 with the peripheral cut-off of 4 aas depicted in figure 2c.
+The hydrogen bonds are shown as dash line interacting amino acids residues as stick model and fumarate is shown as ball and stick model.Docking of 1QO8 with fumarate.
 
-the docking study performed on 1qo8 with fumarate which is a known substrate of flavocytochrome c fumarate reductase leys et al.
+The drug digoxin was found to bind Cgr2 at the same binding site as that of fumarate which is the proposed natural substrate.
 
-in the case of fumarate cgr2 showed 3-4 and 1qo8 showed 2-3 h- bonds as shown in figure s5.cgr2 is considered to be a fumarate reductase and promiscuously metabolize digoxin haiser et al.
+The binding energy values obtained after pulling of digoxin and fumarate from Cgr2 along Z-axis using 35 and 38 windows were 17.75-2 Kcal mol-1 and 42.17 -2 Kcal mol-1 respectively as shown in Figure 4.DISCUSSIONGut microbes encode a vast reservoir of metabolic enzymes which can potentially modulate the efficacy and pharmacological properties of the orally administered drug molecules through their promiscuous activity.
 
-further the complex of fumarate with cgr2 showed thathigh binding free energy for fumarate binding to cgr2 than for digoxin binding to cgr2the binding energy of substrate to the target provides insight on the extent of binding and metabolism of the substrate.
+The most appealinglogical strategy would be to provide a high concentration of fumarate a common and harmless metabolite along with digoxin which would lead to a preferential binding of the former at the binding site of Cgr2 and this may prevent the metabolism of digoxin.
 
-docking of cgr2 with both digoxin and fumarate at thebonds were formed with digoxin whereas fumarate formed five hydrogen bonds with the residues at the binding site.
+The hydrogen bonds are shown as dash line interacting amino acids residues as stick model and digoxin is shown as ball and stick model.Docking of Cgr2 with fumarate.
 
-in the case of digoxin these hydrogen bonds are with nonpolar hydrophobic amino acids such as val whereas in the case of fumarate these hydrogen bonds majorly involved the polar amino acids such as his and asn.md simulations study for 10 ns showed that the ligand digoxin and fumarate binding at the binding site is stable as multiple parameters such as rmsd the radius of gyration and sasa solvent accessible surface area showed stability as the time progresses during the 10 ns simulation.
-
-this was expected as the fumarate is the natural substrate for cgr2 whereas digoxin is not the natural substrate but harbors structural properties similar to fumarate which is the lactone ring and hence gets promiscuously metabolized by cgr2.
-
-the hydrogen bonds are shown as dash line interacting amino acids residues as stick model and fumarate is shown as ball and stick model.docking of 1qo8 with fumarate.
-
-the drug digoxin was found to bind cgr2 at the same binding site as that of fumarate which is the proposed natural substrate.
-
-however digoxin showed a much lower binding energy 17.75 -2 kcal mol-1 than the binding energy 42.17 -2 kcal mol-1 of fumarate.
-
-additionally they propose that electronic and structural similarity of the unsaturated dicarboxylic acid of fumarate and lactone ring of digoxin is the major cause of digoxin binding to cgr2 and its subsequent metabolism.above we carried out the homology modeling docking and molecular dynamics md simulation studies of cgr2-digoxin complex.
+The hydrogen bonds are shown as dash line interacting amino acids residues as stick model and fumarate is shown as ball and stick model.Fig.
 

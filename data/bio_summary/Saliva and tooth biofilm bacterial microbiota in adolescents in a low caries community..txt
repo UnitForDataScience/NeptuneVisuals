@@ -1,0 +1,20 @@
+mitis bv 2 S. mutans S. oralis S. parasanguinis I S. salivarius S. sanguinis and S. sobrinus and iii 25 spe- cies of mixed genera Actinomyces gerencseriae Actinomyces meyeri Actinomyces odontolyticus Bifidobacterium longum Escherichia coli Fusobacterium nucleatum L. acidophilus L. casei L. coleohominis Leptotrichia buccalis Porphyromonas gingivalis Prevotella denticola Prevotella oris Rothia dentocariosa Scardovia wiggsiae S. gordoniS.
+
+intermedius S. mitis S. mutans S. oralis S. parasanguinis I S. salivarius S. sanguinis S. sobrinus and Veillonella parvula.
+
+The aims of the present study were to i characterize and compare saliva and tooth biofilm microbiota via deep sequencing using the Illumina MiSeq and the PacBio SMRT plat- forms and the Human Oral Microbiome Database HOMD www.HOMD.org for taxa resolutionin a popula- tion with long-term caries prevention and low disease activity ii compare saliva and tooth biofilm microbiota in caries-affected and caries-free adolescents cross-sectionally and longitudinally and iii evaluate the relative validity between and within the two sequencing methods.
+
+These included i 20 Lactobacillus species L. acidophilus L. brevis L. buchneri L. casei L. coleohominis L. crispatus L. curvatus L. fermentum L. gallinarium L. gasseri L. graminis L. jensenii L. johnsonii L. panis L. paracasei L. pentosus L. reu- teri L. rhamnosus L. salivarius and L. vaginalis ii 10 Streptococcus species S. gordonii S. intermedius S. mitisS.
+
+The three most influential species were S. wiggsiae S. mutans and B. longum.
+
+A Rarefaction curves showing species richness based on number of species by species per sample in saliva and tooth biofilm samples.
+
+C. matruchotii which was also detected in all adolescents by both sequencing methods was the most abundant species by PacBio SMRT and ranked second by Illumina MiSeq reflecting its central position in the hedgehog or so-called corn-cob formation.Overall saliva sequences represented more genera and species than tooth biofilm sequences.
+
+HOT498 r 0.6 p  0.001 S. mutans r 0.7 p  0.001 and B. longum and Selenomonas Genus probe 1 r 0.3 p 0.05.DiscussionIn the present study saliva and tooth biofilm samples were analysed using Illumina MiSeq and tooth biofilm sam- ples were also analysed using PacBio SMRT sequencing.
+
+for streptococci from 553 for S. sobrinus to 49 for S. sanguinis in addition to S. mitis with 1 sequence for lactobacilli from 343 for L. paracasei to 10 for L. crispatus.In addition a negative control sample ultra-pure water subjected to Illumina MiSeq sequencing yielded 620 reads which was far below the acceptance criterion for this method i.e.
+
+The species richness in saliva and tooth biofilm samples did not differ between subjects with or without caries Fig.
+

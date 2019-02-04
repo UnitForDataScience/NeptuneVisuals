@@ -1,30 +1,20 @@
-abbrevia- tions of the eight different diets were con 14 control diet standard diet hbact 14 high bacterial load bacteria-mix added to standard diet cell 14 cellulose chit 14 chitin lig 14 lignin protr 14 high protein brewer's grains poil 14 plant oil mix 14 mixed diet.
+Abbrevia- tions of the eight different diets were Con 14 control diet standard diet HBact 14 high bacterial load bacteria-mix added to standard diet Cell 14 cellulose Chit 14 chitin Lig 14 lignin ProtR 14 high protein brewer's grains POil 14 plant oil Mix 14 mixed diet.
 
-whole larval samples con 14 control diet hbact 14 high bacterial load cell 14 cellulose chit 14 chitin lig 14 lignin protr 14 high protein poil 14 plant oil mix 14 mixed diet.
+Whole larval samples Con 14 control diet HBact 14 high bacterial load Cell 14 cellulose Chit 14 chitin Lig 14 lignin ProtR 14 high protein POil 14 plant oil Mix 14 mixed diet.
 
-whole larval samples con 14 control diet hbact 14 high bacterial load cell 14 cellulose chit 14 chitin lig 14 lignin protr 14 high protein poil 14 plant oil mix 14 mixed diet.
+Whole larval samples Con 14 control diet HBact 14 high bacterial load Cell 14 cellulose Chit 14 chitin Lig 14 lignin ProtR 14 high protein POil 14 plant oil Mix 14 mixed diet.
 
-larval tissues fmgut 14 foregut and midgut hgut 14 hindgut salgl 14 salivary glands.h.
+H. illucens candidate AMP genes wereidentified using an established reference set of insect-derived AMPs and lysozymes and additional filtering steps as previously described to avoid interpreting incomplete genes or allelic variants as further AMP genes .
 
-larval tissues fmgut 14 foregut and midgut hgut 14 hindgut salgl 14 salivary glands.on amp gene expression but also on overall antimicrobial activities against a range of bacterial species.
+Although the presence of a large bacterial load in the diet resulted in the significant upregulation of more than half of the identified candidate AMP genes larvae fed on the diet supple- mented with plant oil displayed the most robust overall induction of immunity-related genes both quantitatively and qualitatively .Diet dependent antibacterial activities in H. illucensStandard plate-growth inhibition assays were used for the relative quantification of the diet-dependent antimicrobial activity of H. illucens extracts against the bacterial species E. coli M. luteusP.
 
-although the presence of a large bacterial load in the diet resulted in the significant upregulation of more than half of the identified candidate amp genes larvae fed on the diet supple- mented with plant oil displayed the most robust overall induction of immunity-related genes both quantitatively and qualitatively .diet dependent antibacterial activities in h. illucensstandard plate-growth inhibition assays were used for the relative quantification of the diet-dependent antimicrobial activity of h. illucens extracts against the bacterial species e. coli m. luteusp.
+Larval tissues FMGut 14 foregut and midgut HGut 14 hindgut SalGl 14 salivary glands.H.
 
-here we show that h. illucens larvae express a remarkably expanded spectrum of antimicrobial peptides amps many of which are induced by feeding on a diet containing high bacterial loads.
+Larval tissues FMGut 14 foregut and midgut HGut 14 hindgut SalGl 14 salivary glands.on AMP gene expression but also on overall antimicrobial activities against a range of bacterial species.
 
-we postulate that the fine-tuned expression of the expanded amp repertoire mediates the adaptation of the gut microbiota to the digestion of un- usual diets and this feature could facilitate the use of h. illucens for the bioconversion of organic waste.c 2017 elsevier ltd. all rights reserved.introductionthe growing human population requires a corresponding in- crease in the food supply and food security has therefore become the top priority among the sustainable development goals for a global bioeconomy.
+For both methods the thresholds for differ- entially expressed genes were a minimum two-fold change in expression and a false discovery rate FDR-corrected p-value of0.05.ResultsIdentification and relative expression levels of immunity- related genesThe screening of our H. illucens larval de novo transcriptome assembly revealed a diverse spectrum of AMP and lysozyme gene family members.
 
-to contribute to the emerging field of nutritional immunology   we selected the omnivorous larvae of h. illucens as a model.
+We identified a total of 53 genes encoding putative AMPs in the H. illucens transcriptome .
 
-all experiments were performed in triplicate.rna-seq de novo assembly and candidate gene identificationafter brief washes in pbs and ethanol two pools biological replicates of five h. illucens larvae for each of the seven diet treatment groups were shock-frozen for rna isolation.
-
-the de novo reference transcriptome assembly backbone of h. illucens contained 25197 contigs minimum contig size 250 bp with an n50 contig size of 1330 bp and a maximum contig length of 23709 bp.
-
-h. illucens candidate amp genes wereidentified using an established reference set of insect-derived amps and lysozymes and additional filtering steps as previously described to avoid interpreting incomplete genes or allelic variants as further amp genes .
-
-1. heat map showing the relative expression levels of amps and lysozymes in h. illucens larvae in relation to different diets and tissues.
-
-for both methods the thresholds for differ- entially expressed genes were a minimum two-fold change in expression and a false discovery rate fdr-corrected p-value of0.05.resultsidentification and relative expression levels of immunity- related genesthe screening of our h. illucens larval de novo transcriptome assembly revealed a diverse spectrum of amp and lysozyme gene family members.
-
-we identified a total of 53 genes encoding putative amps in the h. illucens transcriptome .
+We also identified genes mediating the recognition of bacteria such as those encoding peptidoglycan recognition proteins PGRPs Gram-negative bac- teria binding proteins GNBPS and phenoloxidases .Principal component analysis of the H. illucens RNA-Seq data Fig.
 

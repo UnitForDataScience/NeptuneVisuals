@@ -1,30 +1,20 @@
-given the vast diversity of both bacteria and genes in the external environment  environmental gene cassettes are likely to be an important source of novel resistance genes to pathogens.early knowledge of genes with a potential to become clinically relevant resistance genes is important because this helps us to better understand how resistance de- velops and to prepare surveillance and control measures to reduce their dissemination.
+Given the vast diversity of both bacteria and genes in the external environment  environmental gene cassettes are likely to be an important source of novel resistance genes to pathogens.Early knowledge of genes with a potential to become clinically relevant resistance genes is important because this helps us to better understand how resistance de- velops and to prepare surveillance and control measures to reduce their dissemination.
 
-the fact that so few genes have been detected despite almost 80 years of intense usage of sulfonamides is intriguing as there are considerably more types of mobile genes fortetracycline resistance beta-lactamases or aminoglyco- side acetyltransferases our finding of a fourth mo- bile sulfonamide resistance gene indicates that there are still ongoing forces that introduce mobilize and main- tain new sulfonamide resistance genes in bacterial com- munities.
+The fact that so few genes have been detected despite almost 80 years of intense usage of sulfonamides is intriguing as there are considerably more types of mobile genes fortetracycline resistance beta-lactamases or aminoglyco- side acetyltransferases Our finding of a fourth mo- bile sulfonamide resistance gene indicates that there are still ongoing forces that introduce mobilize and main- tain new sulfonamide resistance genes in bacterial com- munities.
 
-to the best of our knowledge the numbers of differ- ent partial integrons and putative gene cassettes in this study are considerably higher than any previous study that has identified gene cassettes from environ- mental samples table .for both sites resistance gene cassettes known and pu- tative dominated 51 to 89 fig.
+The gene cassette contains an ORF for the sul4 gene and a partial domain of FolK COG0801 that is present in the upstream region of sul4 similar to the fused folKP gene in chlamydia.
 
-the gene cassette contains an orf for the sul4 gene and a partial domain of folk cog0801 that is present in the upstream region of sul4 similar to the fused folkp gene in chlamydia.
+To the best of our knowledge the numbers of differ- ent partial integrons and putative gene cassettes in this study are considerably higher than any previous study that has identified gene cassettes from environ- mental samples Table .For both sites resistance gene cassettes known and pu- tative dominated 51 to 89 Fig.
 
-many of the known and putative args that were found were previ- ously not reported as gene cassettes thus revealing a potential to be spread via integrons.a mobile sulfonamide resistance gene with only 31-33 identity to previously known mobile sulfonamide resist- ance genes was discovered providing a very high level ofresistance when expressed in e. coli.
+Many of the known and putative ARGs that were found were previ- ously not reported as gene cassettes thus revealing a potential to be spread via integrons.A mobile sulfonamide resistance gene with only 31-33 identity to previously known mobile sulfonamide resist- ance genes was discovered providing a very high level ofresistance when expressed in E. coli.
 
-the inti gene encodes a site-specific tyrosine re- combinase which performs integration and excision of genetic elements known as gene cassettes at the recom- bination site atti.
+The intI gene encodes a site-specific tyrosine re- combinase which performs integration and excision of genetic elements known as gene cassettes at the recom- bination site attI.
 
-the primer pair hs458-hs459 which was de- signed to preferentially recover clinical integrons showed the strongest dominance of known and putative resistance gene cassettes 78 to 89. the primer pair hs464-gcp2 which recovers a slightly more even mix of clinical as well as environmental pre-clinical integrons contained a somewhat lower proportion 52 to 59 whereas 51 to 73 of the amplicons from the mrg284- mrg285 primer pair included known and putativetable 1 total number of unique long reads by sample and primer combinations in the sequenced ampliconsthe average lengths of the long reads are presented in parenthesisresistance gene cassettes additional file figure s1.
+The sul4 gene was retrieved by amplifying gene cassettes using class 1 integron-specific primers the most common type of integron found in hu- man pathogens.
 
-since a new mobile sulfona- mide resistance gene is a significant observation we focused on this gene for further characterization.fourteen lrs in river sediment collected in pune rspune and 48 lrs in river sediment collected near petl rspetl contained sul4.
+The high abundance of resistance gene cassettes both in environmental and clinical inte- grons indicates an extensive exchange of gene cassettes between them.
 
-the sul4 gene was retrieved by amplifying gene cassettes using class 1 integron-specific primers the most common type of integron found in hu- man pathogens.
+The MICs of the antibiotics for the strains containing the candidate novel resistance genes were determined using E-tests on Mueller-Hinton Agar plates BioMerieux France with the addition of 100 ngml anhydrotetracycline aTC which acts as an ex- pression inducer for the pZE21-MCS1 gene inserts .
 
-moreover the presence of sul4 in dif- ferent samples from different continents suggests that the gene has found a way to spread successfully.the sul4 gene was abundant both at the petl and pune sites fig.
-
-the high abundance of resistance gene cassettes both in environmental and clinical inte- grons indicates an extensive exchange of gene cassettes between them.
-
-201151162-77.koenig j boucher y charlebois rl nesbo c zhaxybayeva o bapteste e spencer m joss mj stokes h doolittle w. integron-associated gene cassettes in halifax harbour assessment of a mobile gene pool in marine sediments.
-
-diversity of gene cassettes and the abundance of the class 1 integron- integrase gene in sediment polluted by metals.
-
-these genetic elements capture and express genes they are often associated with trans- posons and can be carried by conjugative plasmids integrons are composed of three key features an inte- gron integrase gene inti an integron-associated recom- bination site atti and an integron-associated promoter pc.
-
-then the integrated gene or genes are expressed by a dedicated promoter pc embedded in inti or the atti site.
+The protein sequences of the synthesized genes are presented in Additional file Additional filesAbbreviationsARG Antibiotic resistance gene DHPP 78-Dihydropterin pyrophosphate DHPS Dihydropteroate synthase enzyme ESBL Extended spectrum beta- lactamase resistance IR Inverted repeat ISCR Insertion sequence common region LR Long read MIC Minimal inhibitory concentration ORF Open reading frame pABA Para-aminoBenzoic acid PETL Patancheru Enviro Tech Ltd. an industrial waste water treatment plant RC Rolling circle transposition RSPETL River sediment collected near PETL RSPune River sediment collected in Pune SMRT Single-molecule real-time SR Short readAcknowledgementsNot applicable.FundingThis work was funded by the Swedish Research Council for Environment Agriculture and Spatial Planning FORMAS the Swedish Research Council VR and the Centre for Antibiotic Resistance Research CARe at the University of Gothenburg to DGJL.Availability of data and materialsThe raw sequencing data of the sediment samples have been deposited in the NCBI Sequence Read Archive SRA under the bio-projectPRJNA400874.
 

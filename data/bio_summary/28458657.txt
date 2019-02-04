@@ -1,30 +1,20 @@
-the proportions of functional genes assigned to cyanobacteria and bacteroidetes in the metagenomic assemblies matched the proportion of these phyla detected by 16s rrna gene surveys while the proportion of proteobacteria was higher in 16s gene surveys than in metagenomic assemblies figure s1.binning of the assembled metagenomic datasets produced a total of 26 mags with estimated genome coverage ranging from 9x to 776x table 1. the annotated mags are publicly available in img and under the accession numbers listed in table 1. mags had varying levels of estimated genome completeness and redundancy table 1. with the exception of the lkpool roseofilum which was assembled from pooled coral hosts the mags of roseofilum were relatively complete and contained low redundancy 4 or less of the single- copy genes in the roseofilum mags were present in morethan one copy.
+Both Bacteroidetes and Proteobacteria MAGs contained genes for the degradation of branched chain amino acids leucine isoleucine valine that were not present in the five Roseofilum MAGs and the Roseofilum MAGs had more genes associated with the degradation of urea than Bacteroidetesand Proteobacteria MAGs Table S4.
 
-however the overall functional profile of all eight mags based on seed subsystems is well-conserved with the exception of the less-complete lkpool roseofilum figure 2. clustering of roseofilum mags based on the relative abundance of proteins showed a clear geographic signal with caribbean mags clustering together and pacific mags from three different research groups clustering together figure 2. a total of 36649 genes in 8690 protein clusters were identified in the eight mags.
+Clustering of Roseofilum MAGs based on the relative abundance of proteins showed a clear geographic signal with Caribbean MAGs clustering together and Pacific MAGs from three different research groups clustering together Figure 2.
 
-of these differentially represented functions 13 had an effect size 0.6 meaning that the difference in the mean relative abundance was 60 and encompassed mostly functions that were present solely in the roseofilum mags and not in the mags of heterotrophs figure 3. genes associated with carbon fixation subsystem co2 uptake carboxysome micronutrient acquisition subsystem ecf class transporters and phototrophy subsystems cytochrome b6-f complex photosystem ii and phycobilisome were more abundant in the roseofilum mags than the mags of heterotrophs figure 3. in addition functions related to carbon respiration subsystems cyanobacterial bypass in the tca maltose and maltodextrin utilization and the redox-regulated molecular chaperone hsp33figure 2  roseofilum pan-genome.
+The Roseofilum MAGs contained the highest number of biosynthetic clusters followed by Bacteroidetes MAGs and the fewest clusters were detected in Proteobacteria MAGs.
 
-both bacteroidetes and proteobacteria mags contained genes for the degradation of branched chain amino acids leucine isoleucine valine that were not present in the five roseofilum mags and the roseofilum mags had more genes associated with the degradation of urea than bacteroidetesand proteobacteria mags table s4.
+The presence of sulfidequinone oxidoreductase genes in all five Roseofilum MAGs and in the MAGs of several heterotrophs demonstrates that resistance to sulfide is an important characteristic for members of the BBD consortium.Keywords coral microbiology coral disease cyanobacteria microbiome Roseofilum reptotaeniumINTRODUCTIONBlack Band Disease BBD is a globally distributed coral disease that devastates dozens of species of corals including large reef-building scleractinians Sato et al.
 
-2016. the roseofilum mags contained the highest number of biosynthetic clusters followed by bacteroidetes mags and the fewest clusters were detected in proteobacteria mags.
+A second pan- genome analysis of the five Roseofilum MAGs described here along with the recently published MAGs of Roseofilum from the Great Barrier Reef Sato et al.
 
-the presence of sulfidequinone oxidoreductase genes in all five roseofilum mags and in the mags of several heterotrophs demonstrates that resistance to sulfide is an important characteristic for members of the bbd consortium.keywords coral microbiology coral disease cyanobacteria microbiome roseofilum reptotaeniumintroductionblack band disease bbd is a globally distributed coral disease that devastates dozens of species of corals including large reef-building scleractinians sato et al.
+With the exception of the LKpool Roseofilum which was assembled from pooled coral hosts the MAGs of Roseofilum were relatively complete and contained low redundancy 4 or less of the single- copy genes in the Roseofilum MAGs were present in morethan one copy.
 
-2008 for annotation and the img-annotated mags are publically available under the accession numbers listed intable 1. statistical analyses of seed subsystems annotation from rast profiles of mags were performed with stamp parks et al.
+The two-way average nucleotide identity of the four Caribbean Roseofilum MAGs was 99 similarity while the Guam Roseofilum MAG showed around 94 similarity to the Caribbean Roseofilum MAGs.
 
-2015. a second pan- genome analysis of the five roseofilum mags described here along with the recently published mags of roseofilum from the great barrier reef sato et al.
+In addition to the five Roseofilum MAGs MAGs of 12Bacteroidetes and 9 Proteobacteria were recovered by binning including an unclassified gammaproteobacterium Bacteroidales and Desulfovibrio which have been detected as common in BBD consortia through 16S amplicon surveys Figure 1 Miller and Richardson 2011 Meyer et al.
 
-the two-way average nucleotide identity of the four caribbean roseofilum mags was 99 similarity while the guam roseofilum mag showed around 94 similarity to the caribbean roseofilum mags.
+2016.Functional Characteristics of Black Band Disease Metagenomes andMetagenome-Assembled GenomesThe five Roseofilum MAGs had similar functional profiles based on KEGG Ontology Figure S2 as well as similar gene synteny Figure S3 in contrast to the more taxonomically and functionally diverse Bacteroidetes and Proteobacteria MAGs Figure S2.
 
-in addition to the five roseofilum mags mags of 12bacteroidetes and 9 proteobacteria were recovered by binning including an unclassified gammaproteobacterium bacteroidales and desulfovibrio which have been detected as common in bbd consortia through 16s amplicon surveys figure 1 miller and richardson 2011 meyer et al.
-
-2016.functional characteristics of black band disease metagenomes andmetagenome-assembled genomesthe five roseofilum mags had similar functional profiles based on kegg ontology figure s2 as well as similar gene synteny figure s3 in contrast to the more taxonomically and functionally diverse bacteroidetes and proteobacteria mags figure s2.
-
-genes for nitrogen fixation nifhdk were detected in the five roseofilum mags as well as in two proteobacteria mags blz4bin3alteromonadalesblz4bin7rhodospirillales table s5.
-
-each of the roseofilum mags contains two unique copies of sqr with the exception of the less complete florida mag lkpoolthat has only one assembled copy figure 4. the roseofilum mags contain both type vi and type ii sqr genes which are adapted to high sulfide concentrations and low sulfide affinity respectively marcia et al.
-
-we sequenced the metagenomes of caribbean and pacific black band mats and cultured roseofilum and obtained five metagenome-assembled genomes mags of roseofilum nine of proteobacteria and 12 of bacteroidetes.
-
-2009. the metagenomic sequencing coverage was assessed with non-pareil rodriguez and konstantinidis 2014.metagenome-assembled genomes mags were retrieved from the assembled metagenomic contigs by binning based on tetranucleotide frequencies using emergent self-organizing maps esom as in dick et al.
+Of these differentially represented functions 13 had an effect size 0.6 meaning that the difference in the mean relative abundance was 60 and encompassed mostly functions that were present solely in the Roseofilum MAGs and not in the MAGs of heterotrophs Figure 3.
 

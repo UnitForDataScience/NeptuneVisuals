@@ -1,30 +1,20 @@
-blanco-miguez a. gutierrez-jacome a. fdez-riverola f. lourenco a. and sanchez b.
+Modulation of the human microbiome in order to balance the microbial populations toward a healthy situation is a promising intervention to improve human health in the framework of many diseases  .The human microbiome performs key metabolic roles such as production of vitamins short-chain fatty acids and other essential compounds digestion of several components of the diet such as fibers gut homeostasis maintenance and modulation of the host immune response  .
 
-levy m. kolodziejczyk a. a. thaiss c. a. and elinav e. 2017. dysbiosis and the immune system.
+These results strongly suggest the combined use of bioinformatics and in vitro tools as a first stage in the screening of bioactive peptides encrypted in the human gut metaproteome.Keywords bacterial peptides Th17 response CD4 cytokines flow cytometry microbiome gut metaproteomeINTRODUCTIONThe composition of the human microbiome has revealed strong associations with human health.
 
-blanco-miguez a. gutierrez-jacome a. perez-perez m. perez-rodreguez g. catalan-garcia s. fdez-riverola f. et al.
+Moro-Garcia M. A. Alonso-Arias R. Baltadjieva M. Fernandez Benitez C. Fernandez Barrial M. A. Diaz Ruisanchez E. et al.
 
-176 1098-1106.lasiglie d. traggiai e. federici s. alessio m. buoncompagni a. accogli a. et al.
+Blanco-Miguez A. Gutierrez-Jacome A. Fdez-Riverola F. Lourenco A. and Sanchez B.
 
-lopez p. gonzalez-rodriguez i. sanchez b. ruas-madiedo p. suarez a. margolles a. et al.
+We propose the possibility to use bacterial peptides encrypted in the human microbiome proteins as key inductors to modulate the human immune response for several immunological disorders as recently reviewed   .AUTHOR CONTRIBUTIONSBS conceived the experiments and wrote the manuscript.
 
-190 805-811. moro-garcia m. a. alonso-arias r. baltadjieva m. fernandez benitez c. fernandez barrial m. a. diaz ruisanchez e. et al.
+Blanco-Miguez A. Gutierrez-Jacome A. Perez-Perez M. Perez-Rodreguez G. Catalan-Garcia S. Fdez-Riverola F. et al.
 
-age 35 1311-1326. ng s. c. plamondon s. kamm m. a. hart a. l. al-hassi h. o. guenther t. et al.
+176 1098-1106.Lasiglie D. Traggiai E. Federici S. Alessio M. Buoncompagni A. Accogli A. et al.
 
-front microbiol 71193. ruiz l. hidalgo c. blanco-miguez a. lourenco a. sanchez b. and margolles a.
+Ng S. C. Plamondon S. Kamm M. A. Hart A. L. Al-Hassi H. O. Guenther T. et al.
 
-6594. sanchez b. lopez p. gonzalez-rodriguez i. suarez a. margolles a. and urdaci m. c. 2011. a flagellin-producing lactococcus strain interactions with mucin and enteropathogens.
+Sanchez B. Lopez P. Gonzalez-Rodriguez I. Suarez A. Margolles A. and Urdaci M. C. 2011.
 
-1 20-36. wexler a. g. and goodman a. l. 2017. an insider's perspective bacteroides as a window into the microbiome.
-
- claudio hidalgo-cantabrana12  marco a. moro-garcia12  aitor blanco-miguez134  florentino fdez-riverola34  analia lourenco345  rebeca alonso-arias2 and1edited byphilippe langella institut national de la recherche agronomique inra francereviewed by maria de los angeles serradell consejo nacional de investigaciones cientificas y tecnicas conicetargentina odile tresseinra centre angers-nantes paysde la loire francecorrespondence borja sanchez specialty sectionthis article was submitted tofood microbiology a section of the journal frontiers in microbiologyreceived 28 may 2017accepted 24 august 2017published 08 september 2017citationhidalgo-cantabrana c moro-garcia ma blanco-miguez a fdez-riverola f lourenco a alonso-arias r and sanchez b 2017 in silico screening of the human gut metaproteome identifies th17-promoting peptides encrypted in proteins of commensal bacteria.
-
-gut 65 415-425. ruiz l. delgado s. ruas-madiedo p. margolles a. and sanchez b.
-
-these results strongly suggest the combined use of bioinformatics and in vitro tools as a first stage in the screening of bioactive peptides encrypted in the human gut metaproteome.keywords bacterial peptides th17 response cd4 cytokines flow cytometry microbiome gut metaproteomeintroductionthe composition of the human microbiome has revealed strong associations with human health.
-
-few proteins involved in gut homeostasis maintenance and produced by gut bacteria have been identified so far.
-
-briefly the pipeline starts with the in silico digestion of the proteins obtained from the human gut microbiome gut metaproteome.
+Prediction of the potential bioactivity of the products encoded by the human gut microbiome or metaproteome is the first step for identifying proteins responsible for the molecular interaction between microorganisms and the immune system.
 

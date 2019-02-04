@@ -1,30 +1,20 @@
-finally a group of sequences clustering in a single otu was associated to the genus botrytis 0.51 -table 1 diversity indices of fungal communities associated to b. oleae0.17 .
+Finally a group of sequences clustering in a single OTU was associated to the genus Botrytis 0.51 -Table 1 Diversity indices of fungal communities associated to B. oleae0.17 .
 
-this disadvantage may be partially solved by combining bioinformatics and phylogenetic analy- sis of unique representative sequences along with validated reference sequences   .
+This disadvantage may be partially solved by combining bioinformatics and phylogenetic analy- sis of unique representative sequences along with validated reference sequences   .
 
-allowed the identification of29 core otus persistence 6 samples--goodness of fitkh2  17.54 p  0.17. these sequences represented the89.7  of the total fungal sequences retrieved in this study.
+These sequences represented the89.7  of the total fungal sequences retrieved in this study.
 
-a total of 4344 sequences 9.78 - 3.93  clustering in a single otu were associated to alternaria sect.
+A total of 4344 sequences 9.78 - 3.93  clustering in a single OTU were associated to Alternaria sect.
 
-another otu ac- counting for the 0.36 - 0.16  of sequences was associated top.
+Another OTU ac- counting for the 0.36 - 0.16  of sequences was associated toP.
 
-sequences associated to alternaria sect.
+Moreover we retrieved sequences that were associated to A. pullulans Devriesia sp.
 
-moreover we retrieved sequences that were associated to a. pullulans devriesia sp.
+Indeed in our study the sequences associated to the genus Cladosporium were up to 42 times greater than that reported by Abdelfattah and co- workers.
 
-indeed in our study the sequences associated to the genus cladosporium were up to 42 times greater than that reported by abdelfattah and co- workers.
+Otherwise sequences associated to the genus Alternaria showed the same pattern resulting up to 49 times more abundant on the body of B. oleae than that in the olive phyllosphere.
 
-otherwise sequences associated to the genus alternaria showed the same pattern resulting up to 49 times more abundant on the body of b. oleae than that in the olive phyllosphere.
+Among putative plant pathogens we also retrieved sequences associated to Aspergillus spp.
 
-among putative plant pathogens we also retrieved sequences associated to aspergillus spp.
-
-the its regions of the ribosomal rdna are the most used dna barcodes in fungalmetabarcoding since they can be easily amplified and se- quenced with universal primers and their sequences are high- ly represented in genetic databases  .
-
-a major drawback of the its regions as barcode genes concern difficulties in discriminating phylogenetically related fungal species which may have al- most identical sequences but completely different ecology including pathogenicity.
-
-both primers were modified to construct fusion primers appropriate for 454 sequencing with adapter sequences a and b a key sequence and multiplex identifiers mids .
-
-ten microliters of each pooled sample was se- quenced by macrogen inc. seoul korea on one eight of a sequencing plate on 454 gs flx system 454 life sciences branford ct usa.hts data processingraw sequencing data were processed using qiime 1.8.0   setting the minimum quality score to 25. furthermore mismatches in the primer sequence were not allowed and sequences 150 and 1000 bp contain- ing homopolymers 10 bp and with 6 ambiguous bases were discarded.
-
-reads were denoised using denoise wrap- per  and chimeric sequences were identified using usearch 6.1 algorithm  combining a reference- based with a de novo detection.
+The ITS regions of the ribosomal rDNA are the most used DNA barcodes in fungalmetabarcoding since they can be easily amplified and se- quenced with universal primers and their sequences are high- ly represented in genetic databases  .
 

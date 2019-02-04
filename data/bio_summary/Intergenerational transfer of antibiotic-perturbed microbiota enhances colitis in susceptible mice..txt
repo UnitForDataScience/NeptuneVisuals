@@ -1,30 +1,20 @@
-supplementary figure 11. in general for the control inoculum the source for nearly all genera could be identified whereas for the stat inoculum there was somewhat less identification by source donor reflecting in part the extensive intragroup variation in the recipients of the stat inoculum supplementary figure 11.we hypothesized that there would be a bottleneck with the transfer of the inoculum to the new hosts and the figures showing a-diversity supplementary figure 3b-d clearly indicate that for the dams.
+In general for the Control inoculum the source for nearly all genera could be identified whereas for the STAT inoculum there was somewhat less identification by source donor reflecting in part the extensive intragroup variation in the recipients of the STAT inoculum Supplementary Figure 11.We hypothesized that there would be a bottleneck with the transfer of the inoculum to the new hosts and the figures showing a-diversity Supplementary Figure 3b-d clearly indicate that for the dams.
 
-in particular in the dams that received the stat inocula there is dominance by a single taxon akkermansia verrucomicrobiae with a mean abundance of 34.5 - 34.1. interestingly in 3 of 4 comparisons akkermansia was significantly more dominant in the dams than in the pups supplementary figure 4c.metagenomic pathwayswe identified a single pathway that was significantly enriched in the stat-recipient pups in relation to the control-recipients in the il10-- background supplementary figure 7. this pathway also was significantly enriched in the il10-- stat mice compared to the wt stat mice further indicating that this pathway is associated with the mice with the most severe disease.
+a-c Numbers of mice are as in Supplementary Table 1. a Percentage of inoculum OTUsshared by that inoculum and the mouse group that received that inoculum.
 
-see supplementary table 8. d median jaccard index values were calculated for each sample's pairwise comparison between the indicated groups inoculum vs. dams dams vs. dams etc.boxplots indicate the median values with interquartile range.
+In genomic studies Akkermansia has been shown to contain the glycosulfatases needed to contribute to the pathway.31 This finding is consistent with the taxonomic studies based on 16S analyses that show the high abundance of Verrucomicrobiae in the inoculum Supplementary Figure 1a and in the STAT compared to Control dams and pups especially in the IL10-- background Supplementary Figure 4c.
 
-il-10-- dams receiving the control inoculum have lower within-mouse variability than wild-type wt mice receiving the control inoculum but this does not hold true for pups.
+MetaCyc pathway abundances generated using HUMAnN2.Significance was determined by PERMANOVA P 0.001 WT vs. IL10-- all P 0.12 Control vs STAT WT P 0.04 Control vs STAT IL10-- P 0.04 Control vs Control P0.03 STAT vs STAT.
 
-bottom panel n 59 wt stat dams 74 wt stat pups 50 il10-- stat dams 135 il10-- stat pups.supplementary tablessupplementary table 1. adonis p values of group pairs across time b-diversitysupplementary table 2. statistics for single unweighted unifrac component distancessupplementary table 3. statistics for a-diversity measurementssupplementary table 4. statistics for mean consecutive pairwise jaccard distancessupplementary table 5. statistics for colonic inflammation metricssupplementary table 6. statistics for differentially expressed genes in il10-- pup colon control vs statsupplementary table 7. statistics for percent shared otussupplementary table 8. statistics for gakkermansia relative abundancesupplementary table 9. statistics for median jaccard indexsupplementary table 10. statistics for litter and mouse variation over timesupplementary table 11. statistics for weight and body composition over timesupplementary table 12. statistics for differentially expressed genes in pup colon wt vs il10--supplementary notesotu transferan advantage of pooling donor samples to create a single inoculum for each treatment group is that we could track which bacteria from each original donor mouse colonized both genotypes of mice.
+IL-10-- dams receiving the control inoculum have lower within-mouse variability than wild-type WT mice receiving the control inoculum but this does not hold true for pups.
 
-a-c numbers of mice are as in supplementary table 1. a percentage of inoculum otusshared by that inoculum and the mouse group that received that inoculum.
+IL10-- pups receiving the STAT inoculum have lower within- mouse variability than wild-type WT mice receiving the STAT inoculum but this does not hold true for dams.
 
-il10-- pups receiving the stat inoculum have lower within- mouse variability than wild-type wt mice receiving the stat inoculum but this does not hold true for dams.
+See Supplementary Table 8. d Median Jaccard index values were calculated for each sample's pairwise comparison between the indicated groups Inoculum vs. dams dams vs. dams etc.Boxplots indicate the median values with interquartile range.
 
-analysis of the b-diversity of the dam and pup communities after inoculation shows mouse genotype- related differences along pc2 and treatment-related differences along pc3 supplementary figures 2 3. for both dams and pups receipt of the antibiotic- perturbed microbiota resulted in significantly higher intra-group variability compared to controls for most time points except for il10-- dams at the pup week 6 time point as examined with t-tests fdr-corrected supplementary figure 5 panel a. however the intra-group variation among the il10-- mice was not greater than for the wt mice regardless of treatment.
+The imputed sources are shown for the introduced taxa from the Control inoculum top panel and STAT inoculum bottom panel.
 
-treatment groups werecompared with a set of pairwise wilcoxon tests with holm correction  p  0.05  p0.01  p0.001  p0.0001 see supplementary table 9. numbers of mice studied for dams pups respectively in each of the 4 groups are il10-- control 5 42 wt control7 20 il10-- stat5 34 wt stat 6 15. each inoculum was 4 replicate samples.supplementary figure 5. intra-litter and intra-mouse variation over time.
+Numbers of mice studied for dams pups respectively in each of the 4 groups are IL10-- Control 5 15- 42 WT Control7 20 IL10-- STAT5 10-34 WT STAT 6 15.
 
-upon inspection this pathway was found to only have increased abundance in the il10-- stat mice and in the stat inoculum suggesting it may have originated in the donor material that the dams received.
-
-numbers of mice studied for dams pups respectively in each of the 4 groups are il10-- control 5 15- 42 wt control7 20 il10-- stat5 10-34 wt stat 6 15. numbers for the il10pup groups declined after 6 weeks due to sacrifices.supplementary figure 3. stable microbiota communities in recipient mice aredetermined by genotype and antibiotic influence.
-
-p0.05 p0.01p0.001 p0.0001 one-way anova with sidak's multiple comparison test for alltime points except mann-whitney test was used when only two groups were compared see supplementary table 3. b phylogenetic diversity in dams left and pups right.c microbial richness observed species in dams left and pups right.
-
-percent otus shared were calculated by the number of shared otus between a sample and its respective inoculum divided by the total number of otus found within the inoculum.
-
-aintragroup distances in community composition in dams and their pups according togenotype and inoculum over time.
-
-the only classifiable taxon identified by humann2 as contributing genes to this pathway was akkermansia mucinophila shown in brown in the stat inoculum and in three of the four il10-- stat pups at 3 weeks of age.supplementary figure 8. weight and body composition of dams and pups over time.
+Numbers of mice studied for dams pups respectively in each of the 4 groups are IL10-- Control 5 42 WT Control7 20 IL10-- STAT5 34 WT STAT 6 15.
 

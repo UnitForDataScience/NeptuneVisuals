@@ -1,30 +1,20 @@
-therefore the gut microbiota may be thought of as an extended phenotype of the host.differences in the composition of the gut microbiota as an extended phenotype may result from neutral host divergence natural selection acting on the gut microbiota or both.
+In or- der to demonstrate the causal relationship and the functional capacities of gut microbiota associated with food degradation strict control experiments should be performed using multiple approaches.The relationship between gut microbiota and host phylogenyVarious internal and external factors have been identified that influence the composition and diversity of the gut microbiota including host phylogeny gut morphology diet disease state geography and body weight Ba ckhed et al.
 
-signifi- cant structural divergence of the gut microbiota across species was confirmed by permanovas p  0.001 while sex and body weight had no significant effects on gut microbiota composition across all the individuals p  0.05. overall lagomorphs and ro- dents also had distinct gut microbiota structure permanova p  0.001. similar results were obtained using bray-curtis dis- tance metrics data not shown.
+Our results thus suggest the gut microbial composition is associated with host phylogeny and further suggest that dissimilarity of animal gut microbiota may predict host divergence time.Keywords Glires lagomorphs rodents gut microbiota host divergence timeINTRODUCTIONAnimals and microbes have likely been coevolving since animals first diverged from their protist ancestor 700-800 million years ago McFall-Ngai et al.
 
-in or- der to demonstrate the causal relationship and the functional capacities of gut microbiota associated with food degradation strict control experiments should be performed using multiple approaches.the relationship between gut microbiota and host phylogenyvarious internal and external factors have been identified that influence the composition and diversity of the gut microbiota including host phylogeny gut morphology diet disease state geography and body weight ba ckhed et al.
+Therefore the gut microbiota may be thought of as an extended phenotype of the host.Differences in the composition of the gut microbiota as an extended phenotype may result from neutral host divergence natural selection acting on the gut microbiota or both.
 
-our results thus suggest the gut microbial composition is associated with host phylogeny and further suggest that dissimilarity of animal gut microbiota may predict host divergence time.keywords glires lagomorphs rodents gut microbiota host divergence timeintroductionanimals and microbes have likely been coevolving since animals first diverged from their protist ancestor 700-800 million years ago mcfall-ngai et al.
+Although there are intensive reports on the evolutionary history of the clade Glires little is known regarding the gut microbial ecology of these ani- mals and the relationship between host phylogeny and gut mi- crobiota.In order to understand the relationship between host phy- logeny of Glires and their gut microbiota we examined the com- position including core microbial taxa and diversity of the gut microbiota in the clade Glires.
 
-accordingly the gut microbiota may be significant in the diver- sification of host species.our previous work has explored the relationship between pika gut microbiota and diet li et al.
+Accordingly the gut microbiota may be significant in the diver- sification of host species.Our previous work has explored the relationship between pika gut microbiota and diet Li et al.
 
-although there are intensive reports on the evolutionary history of the clade glires little is known regarding the gut microbial ecology of these ani- mals and the relationship between host phylogeny and gut mi- crobiota.in order to understand the relationship between host phy- logeny of glires and their gut microbiota we examined the com- position including core microbial taxa and diversity of the gut microbiota in the clade glires.
+Thus diet may also explain the differences of phylogenetic relationship in host-gut micro- biota.Differences in the gut microbiota as an extended phenotype may result from neutral host divergence natural selection act- ing on the gut microbiota or both Sanders et al.
 
-the ochotonidae and lep- oridae species formed two parallel branches thus we regarded the gut microbiota of l. europaeus as a baseline in lagomorpha lineages whereas the gut microbiota of s. dauricus was used as another baseline in rodentia lineages fig.
+Tel 8613550130410 Fax 86028-82890288 E-mail One sentence summary Exploration of the relationship between gut microbiota and host divergence time in Glires.Editor Julian MarchesiABSTRACTThe gut microbial communities of animals play key roles in host evolution.
 
-we found that the dissimilarity of gut microbiota can predict hostfigure 3. composition changes in the gut microbiota during glires diversification.
+The weighted UniFrac and Bray-Curtis dissimilarity metrics were compared with the distance matrix of the host genes COI and cytb using Mantel's test in order to test the correlations between the host phylogeny and gut microbiota.
 
-thus diet may also explain the differences of phylogenetic relationship in host-gut micro- biota.differences in the gut microbiota as an extended phenotype may result from neutral host divergence natural selection act- ing on the gut microbiota or both sanders et al.
+The Mantel test between the distance metrics of host genes and weighted UniFrac or Bray- Curtis dissimilarity showed a significant overall correlation be-tween host phylogeny and gut microbiota r  0.406 P  0.05r  0.431 P  0.05 respectively.
 
-fems microbiology ecology 93 2017 fix009doi 10.1093femsecfix009advance access publication date 30 january 2017 research articleresearch article gut microbiota may predict host divergence time during glires evolutionhuan li jiapeng qu tongtong li minjie yao jiaying li and xiangzhen li1key laboratory of environmental and applied microbiology chinese academy of sciences environmental microbiology key laboratory of sichuan province chengdu institute of biology chinese academy of sciences sichuan 610041 pr china 2university of chinese academy of sciences beijing 100049 pr china and 3key laboratory of adaptation and evolution of plateau biota northwest institute of plateau biology chinese academy of sciences xining qinghai 810008 pr chinacorresponding author chengdu institute of biology chinese academy of sciences sichuan 610041 pr china.
-
-tel 8613550130410 fax 86028-82890288 e-mail one sentence summary exploration of the relationship between gut microbiota and host divergence time in glires.editor julian marchesiabstractthe gut microbial communities of animals play key roles in host evolution.
-
-however the possible relationship between gut microbiota and host divergence time remains unknown.
-
-here we investigated the gut microbiota of eight glires species four lagomorph species and four rodent species distributed throughout the qinghai-tibet plateau and inner mongolia grassland.
-
-the structure of the gut microbiota showed significant differences between lagomorphs and rodents.
-
-in addition we calculated host phylogeny and divergence times and used a phylogenetic approach to reconstruct how the animal gut microbiota has diverged from their ancestral species.
+These results provided key information for un- derstanding the relationship between gut microbiota and host phylogeny.The implications of functionally variable gut communities in Glires evolutionSeveral studies have indicated that core bacteria may have evolved in close association with the host and are potentially commensal or beneficial Turnbaugh and Gordon  Mar- tinson et al.
 

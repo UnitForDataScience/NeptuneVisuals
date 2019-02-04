@@ -1,30 +1,20 @@
-chip-seq data is similar to rna-seq data involving quantifying the data as read count per peak instead of per gene.
+ChIP-seq data is similar to RNA-seq data involving quantifying the data as read count per peak instead of per gene.
 
-however the complexity of power computations is much greater for sequencing data than for the simpler genotyping array data.
+However the complexity of power computations is much greater for sequencing data than for the simpler genotyping array data.
 
-most importantly we review the methods of power analysis for several types of sequencing data and guide the reader to the relevant methods for each data type.key words high-throughput sequencing power sample sizeintroductionrecent advancement in high-throughput sequencing hts technology has stimulated a range of new possibilities for bio- medical research.
+Most importantly we review the methods of power analysis for several types of sequencing data and guide the reader to the relevant methods for each data type.Key words high-throughput sequencing power sample sizeIntroductionRecent advancement in high-throughput sequencing HTS technology has stimulated a range of new possibilities for bio- medical research.
 
-at the same time these advances have intro- duced a series of bioinformatics challenges including quality control data storage and complexity in data analyses.
+At the same time these advances have intro- duced a series of bioinformatics challenges including quality control data storage and complexity in data analyses.
 
-in hts other factorspffipffiffi0ffiffidffiffi1ffiffiffiffi-ffiffiffiffiffipffiffi0ffiffiffithffiffiffiffinffiffi1-a2pffipffiffi0ffiffidffiffi1ffiffiffiffi-ffiffiffiffiffipffiffi0ffiffiffithffiffiffiffinffiffi1-a2unique to hts data such as sequencing depth and dispersion play significant roles in determining the true power adding an unfamil- iar layer of complexity to the analysis.it is vital to not let the excitement and challenges of hts data overshadow the importance of power analysis.
+In HTS other factorspffipffiffi0ffiffidffiffi1ffiffiffiffi-ffiffiffiffiffipffiffi0ffiffiffiThffiffiffiffinffiffi1-a2pffipffiffi0ffiffidffiffi1ffiffiffiffi-ffiffiffiffiffipffiffi0ffiffiffiThffiffiffiffinffiffi1-a2unique to HTS data such as sequencing depth and dispersion play significant roles in determining the true power adding an unfamil- iar layer of complexity to the analysis.It is vital to not let the excitement and challenges of HTS data overshadow the importance of power analysis.
 
-currently those are the only two available methods that can assess power for tests of differential expression from rna-seq data based on a poisson model.negative binomial modelit has been repeatedly shown that rna-seq data exhibit an overdispersed read count distribution   which means that the variance of sequence counts exceeds the mean.
+Currently those are the only two available methods that can assess power for tests of differential expression from RNA-seq data based on a Poisson model.Negative binomial modelIt has been repeatedly shown that RNA-seq data exhibit an overdispersed read count distribution   which means that the variance of sequence counts exceeds the mean.
 
-microbiome data are commonly modeled with a multinomial distribution because the abundance of each microbe is represented as a percentage of the total reads and the sum of the total microbe abundance within a sample is 1. the probability mass function of the multinomial distribution for microbiome data can be described as followscounts is more appropriately modeled by a poisson-lognormalfdx  ...  x  p  ...  p th 14 n pjpxi distribution.
+Combined with the complex format of HTS data and the distinct statistical assumption behind the differ- ent types of HTS data analysis the power analysis for HTS- based experiments has been a challenging problem.
 
-combined with the complex format of hts data and the distinct statistical assumption behind the differ- ent types of hts data analysis the power analysis for hts- based experiments has been a challenging problem.
+615-445-0018 Fax 615-936-2602 E-mail AbstractPowersample size power analysis estimates the likelihood of successfully finding the statistical significance in a data set.
 
-615-445-0018 fax 615-936-2602 e-mail abstractpowersample size power analysis estimates the likelihood of successfully finding the statistical significance in a data set.
+Power analysis is often one of the overlooked aspects of HTS data analysis.Power calculation is the first step in designing a successful study.
 
-power analysis is often one of the overlooked aspects of hts data analysis.power calculation is the first step in designing a successful study.
-
-his research is focused on genomic and epigenomic data analysis.
-
-each type of sequencing is designed to examine a completely different problem and often the data follow distinctly different distributions thus requiring a specific strategy for com-puting power.
-
-simply put the power of a study is the probability ofdetection of heterozygous variant using hts data.
-
-however for hts extra complexity is intro- duced with sequencing depth and read dispersion which directly affect the probability of correctly identifying a variant introducing a series of additional power analysis methods that we review below.power to detect a heterozygous variantin traditional gwas snps are detected using genotyping arrays by clustering algorithms based on fluorescent intensity data.
-
-these power analyses are based on collected snp data and do not model the process of detecting snps.
+His research is focused on genomic and epigenomic data analysis.
 

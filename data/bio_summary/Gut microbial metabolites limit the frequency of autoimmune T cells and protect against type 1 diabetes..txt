@@ -1,30 +1,20 @@
-we found that 103 genes were expressed differentially by b cells from mice fed the hamsa diet relative to such expression by b cells from mice fed the hams diet and 355 were expressed differentially by b cells from mice fed the hamsb diet relative to such expression by b cells from mice fed the hams diet and supplementary fig.
+We found that 103 genes were expressed differentially by B cells from mice fed the HAMSA diet relative to such expression by B cells from mice fed the HAMS diet and 355 were expressed differentially by B cells from mice fed the HAMSB diet relative to such expression by B cells from mice fed the HAMS diet and Supplementary Fig.
 
-f single-cell gene expression log2 arbitrary units ex in cd45rblocd25 cd4 t cells from the plns of female nod mice fed the hams diet n  20 cells hamsa diet n  14 cells or hamsb diet n  29 cells key.
+f Single-cell gene expression log2 arbitrary units Ex in CD45RBloCD25 CD4 T cells from the PLNs of female NOD mice fed the HAMS diet n  20 cells HAMSA diet n  14 cells or HAMSB diet n  29 cells key.
 
-these differences in the frequency of tet cells and tet- cells suggested that the hamsa diet suppressed the proliferation of autoreactive t cells.alteration in b cell differentiation and function by scfas antigen-presenting b cells serve an important role in the population expansion of cd4 and cd8 t cells in nod mice by directly pre- senting islet antigens to t cells.
+These differences in the frequency of Tet cells and Tet- cells suggested that the HAMSA diet suppressed the proliferation of autoreactive T cells.Alteration in B cell differentiation and function by SCFAs Antigen-presenting B cells serve an important role in the population expansion of CD4 and CD8 T cells in NOD mice by directly pre- senting islet antigens to T cells.
 
-thus scfas in particular acetate altered the number differentiation gene transcription and surface phenotype of b cells which probably affected the ability of b cells to expand populations of autoreactive t cells in vivo.enhancement of treg cells in nod mice by butyratewe considered whether the much greater than expected delivery of acetate and butyrate to the portal vein and peripheral blood achieved by feeding mice the hamsa or hamsb diet might modulate the biol- ogy of peripheral treg cells in nod mice.
+Thus SCFAs in particular acetate altered the number differentiation gene transcription and surface phenotype of B cells which probably affected the ability of B cells to expand populations of autoreactive T cells in vivo.Enhancement of Treg cells in NOD mice by butyrateWe considered whether the much greater than expected delivery of acetate and butyrate to the portal vein and peripheral blood achieved by feeding mice the HAMSA or HAMSB diet might modulate the biol- ogy of peripheral Treg cells in NOD mice.
 
-g expression and co-expression overlap of gata3 gitr and sell in cd4cd45rblocd25foxp3 t cells from the plns of 15-week-old female nod mice fed the hams diet left n  12 cells or hamsb diet right n  27 cells numbers in plots indicate quantification of foxp3 treg cells filled circles that express those genes.
+g Expression and co-expression overlap of Gata3 Gitr and Sell in CD4CD45RBloCD25Foxp3 T cells from the PLNs of 15-week-old female NOD mice fed the HAMS diet left n  12 cells or HAMSB diet right n  27 cells numbers in plots indicate quantification of Foxp3 Treg cells filled circles that express those genes.
 
-feeding nod mice the hamsa diet in particular markedly inhibited the proliferation of nod8.3 t cells g.to determine whether scfas affected the ability of b cells to induce t cell proliferation in vitro we cultured purified cd4 t cells with irradiated nod b cells pre-stimulated with insulin peptide in the pres- ence or absence of acetate or butyrate.
+Feeding NOD mice the HAMSA diet in particular markedly inhibited the proliferation of NOD8.3 T cells g.To determine whether SCFAs affected the ability of B cells to induce T cell proliferation in vitro we cultured purified CD4 T cells with irradiated NOD B cells pre-stimulated with insulin peptide in the pres- ence or absence of acetate or butyrate.
 
-the hamsa diet increased the abun- dance of treg cells and decreased the abundance of autoreactive t cells in nod.gpr43 mice but not in their nod.gpr43-- lit- termates relative to the abundance of such cells in their counterparts fed the np diet supplementary fig.
+The HAMSA diet increased the abun- dance of Treg cells and decreased the abundance of autoreactive T cells in NOD.Gpr43 mice but not in their NOD.Gpr43-- lit- termates relative to the abundance of such cells in their counterparts fed the NP diet Supplementary Fig.
 
-both the acetate-yielding diet and butyrate-yielding diet also increased frequency and number of splenic treg cells relative to that of such cells in mice fed the np diet .
+Both the acetate-yielding diet and butyrate-yielding diet also increased frequency and number of splenic Treg cells relative to that of such cells in mice fed the NP diet .
 
-b incidence of t1d in nod-scid mice at 0-20 weeks horizontal axis after transfer of total splenic t cells from female nod mice fed the np diet n  9 mice hams diet n  12 mice hamsa diet n 12 mice or hamsb diet n  13 mice key.
+b Incidence of T1D in NOD-SCID mice at 0-20 weeks horizontal axis after transfer of total splenic T cells from female NOD mice fed the NP diet n  9 mice HAMS diet n  12 mice HAMSA diet n 12 mice or HAMSB diet n  13 mice key.
 
-among those 14 genes expressed differentially by b cells in response to the hamsa or hamsb diet encode products involved in important b cell functions such as antigen presentation signal- ing via the b cell antigen receptor cell metabolism and activation of cytotoxic t cells and supplementary table 2. consistent with those changes in gene transcription acetate and butyrate reduced the proliferation of b cells in vitro in response to cross-linking of the b cell antigen receptor ligation of the co-stimulatory receptor cd40 and stimulation via the receptor tlr4 .
-
-downregulation of the expression of co-stimulatory molecules and mhc class i on b cells of nod mice fed the hamsa diet cor- related with a low frequency of igrpcd8 t cells and greatly dimin- ished the population expansion of autoreactive nod8.3 t cells in vivo.
-
-c real-time pcr analysis ofhdac3 in sorted splenic cd21hicd23lo marginal-zone b cells mzb and cd21intcd23hi follicular b cells fob gated from total igmb220b cells from 15-week-old female nod mice fed the np hamsa or hamsb diet horizontal axis results are presented relative to those of the control gene actb.
-
-to confirm that ace- tate or butyrate might alter presentation by antigen-presenting cells apcs and their stimulation of autoreactive t cells in vivo we labeled nod8.3 cd8 t cells with the division-tracking dye cfse purified them and transferred them into 8- to 10-week-old nod mice fed the np hams hamsa or hamsb diet.
-
-c quantification of foxp3 cd4 t cells in the spleen and plns of nod-scid mice n  3 at 3 weeks after transfer of foxp3- cd4 t cells from nod.foxp3-gfp mice gated on total cd4 t cells host mice were fed the np hams hamsa or hamsb diet horizontal axis.
-
-the acetate-yielding hamsa diet markedly decreased the frequency and number of diabetogenic t cells in the spleen andc 100np80hams60hamsahamsb4020 pancreatic lymph nodes plns in nod mice relative to that of mice fed the hams diet as measured by tetramer staining of t cells reactive with major autoantigens such as igrp 'islet-specific antigen glucose- 6-phosphatase catalytic subunit-related protein' and bdc2.5  and supplementary fig.
+Downregulation of the expression of co-stimulatory molecules and MHC class I on B cells of NOD mice fed the HAMSA diet cor- related with a low frequency of IGRPCD8 T cells and greatly dimin- ished the population expansion of autoreactive NOD8.3 T cells in vivo.
 

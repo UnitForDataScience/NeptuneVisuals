@@ -1,30 +1,20 @@
-the aims were to i examine the impact of sb and as contamination on the soil microbial community composition and diversity ii elucidate the correlation between soil microbial assemblages with environ- mental factors especially those directly linked to sb and as contamination and iii explore the potential metabolic pathways of the soil microbial ecosystems.materials and methodssite location and soil sampling.
+Bioinformatics 2011 27 2957-2963.Caporaso J. G. Kuczynski J. Stombaugh J. Bittinger K.Bushman F. D. Costello E. K. Fierer N. Pena A. G. Goodrich J. K. Gordon J. I. QIIME allows analysis of high-throughput community sequencing data.
 
-microbial communities differed by site as shown by the upgma tree and pcoa  suggesting that innate environmental parameters may shape the indigenous microbial communities.
+2015 9 2490-2502.Hu H. W. Wang J. T. Li J. Li J. J. Ma Y.
 
-in addition shotgunmetagenomics was used to decipher the metabolic potentials of the soil microbial communities and the microbial response tofigure 4. co-occurrence network showing the correlation between bacterial taxa otus and contaminant fractions as nodes colored by modularity class.
+2006 40 7270-7276.Majzlan J. Lalinska B. Chovan M. Blass U. Brecht B. Gottlicher J. Steininger R. Hug K. Ziegler S. Gescher J.
 
-the presence of various as-related genes and their positive correlations with contaminant fractions indicates the potential for biotransformation and resistance of as and perhaps sb by the soil microbial communities.contaminant fractions affect microbial diversity.
+A. Feldmann J. Cotter-Howells J. Arsenic accumulation and metabolism in rice Oryza sativa L.. Environ.
 
-however this effect was not obvious at higher concentrations of mv-c. six of the ten measured contaminant fractions demonstrated negative effects on microbial diversity suggesting that the contamination generally impairs the microbial diversity .
+Co. 2013.Stolz J. F. Basu P. Santini J. M. Oremland R. S. Arsenic and Selenium in Microbial Metabolism.
 
-the current study investigated the microbial response to as and sb contamination and identified the potential functional members of the microbial community and key functional genes.
+2006 72 5069-5072.Wang Q. Garrity G. M. Tiedje J. M. Cole J. R. NaiveBayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy.
 
-pubs.acs.orgestresponse of soil microbial communities to elevated antimony and arsenic contamination indicates the relationship between the innate microbiota and contaminant fractionsweimin sunenzong xiaotangfu xiao valdis kruminsqi wangmax haggblom yiran dong song tang min hubaoqin libingqing xiaand wei liuguangdong key laboratory of agricultural environment pollution integrated control guangdong institute of eco-environmental science  technology guangzhou 510650 chinakey laboratory of water quality and conservation in the pearl river delta ministry of education school of environmental science and engineering guangzhou university guangzhou 510006 chinassstate key laboratory of environmental geochemistry chinese academy of sciences guiyang 550081 chinauniversity of chinese academy of sciences beijing 100049 chinadepartment of environmental sciences rutgers university new brunswick new jersey 08901 united statesdepartment of biochemistry and microbiology rutgers university new brunswick new jersey 08901 united statesinstitute for genomic biology university of illinois urbana-champaign urbana illinois 61801 united statesnational institute of environmental health chinese center for disease control and prevention beijing 100021 chinawater resources protection bureau of pearl river water resources commission guangzhou 510611 china introductionantimony sb and arsenic as are two toxic metalloidsbelonging to group 15 of the periodic table.
+Nature 2005 433 895-900.Hartwell L. H. Hopfield J. J. Leibler S. Murray A. W. From molecular to modular cell biology.
 
-fewer studies have previously investigated variations in indigenous microbial communities from sb- and as- contaminated habitats.
+BioMetals 2009 22 711-721.Ramos J. L. Duque E. Huertas M. J. HalDour A. Isolationand expansion of the catabolic potential of a Pseudomonas putida strain able to grow in the presence of high concentrations of aromatic hydrocarbons.
 
-therefore an understanding of theindigenous microbial communities in sb- and as-contaminated habitats is needed.the extensive mining and smelting activities at the banpo sb mine southwest china have made this area one of the most severely sb-contaminated areas in the world.
+2009 6 95- 105.Fu Z. Wu F. Mo C. Deng Q. Meng W. Giesy J. P. Comparison of arsenic and antimony biogeochemical behavior in water soil and tailings from Xikuangshan China.
 
-elevated concentrations of sb and contamination of both sb and as have been observed in surface waters aquatic sediments and tailing dumps with effects on their bacterial communities.- therefore these sites provided excellent natural laboratories to study the microbial response to different concentrations of sb and as.
-
-flash was used to merge paired-end reads and qiime quantitative insights into microbial ecology v1.7.0 was used to filter the raw reads and analyze these reads.chimeric sequences were removed by comparing with the gold database using uchime.operational taxonomic units otus 97 similarity were clustered by uparse.
-
-each tree is growing while training using both bagging bootstrap aggregation and random variable selection.- rf does not require a preselection of variables because it has good predictive performance even when most variables are noisy.rf was used to predict the contributions of the individual environ- mental factors on the microbial diversity i.e.
-
-at the genus level anthrobacter janthinobacterium and pseudomonas demonstrated significant higher relative abundan- ces in sm than as figure s6.correlation between environmental factors and microbial communities.
-
-we hypothesized that the observed differences in the microbial communities at the two sites may be shaped by innate environmental parameters.
-
-in order to elucidate the metabolic potential of the microbial community with a focus on those relating to as metabolism a total of 242 475 010 high- quality reads were generated after filtering the five libraries.
+2015 112 247-270.Abedin M. J. Cresser M. S. Meharg A.
 

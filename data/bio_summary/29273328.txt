@@ -1,30 +1,20 @@
-we aimed to assess levels of serum pkm2 in healthy and newly diagnosed ibd patients and its relationship with ibd indices and microbiota changes.design and methods ibd serum samples from newly diagnosed patients were collected and analyzed using a pkm2-elisa and correlated with disease activity scores ibd disease type and intestinal microbiota.
+We aimed to assess levels of serum PKM2 in healthy and newly diagnosed IBD patients and its relationship with IBD indices and microbiota changes.Design and methods IBD serum samples from newly diagnosed patients were collected and analyzed using a PKM2-ELISA and correlated with disease activity scores IBD disease type and intestinal microbiota.
 
-elevation of serum pyruvate kinase m2 pkm2 in ibd and its relationship to ibd indicesahmed a. almousa marc morris sharyle fowler jennifer jones jane alcorna drug discovery and development research group college of pharmacy and nutrition university of saskatchewan 107 wiggins road saskatoon saskatchewancanadab department of gastroenterology college of medicine university of saskatchewan saskatoon canadac division of digestive care  endoscopy department of community health and epidemiology dalhousie university halifax canadaa r t i c l e i n f o keywordsinflammatory bowel disease serum biomarkerpyruvate kinase m2 microbiotaa b s t r a c t objectives endoscopy remains the gold standard to diagnose and evaluate inflammatory bowel disease ibd activity.
+Elevation of serum pyruvate kinase M2 PKM2 in IBD and its relationship to IBD indicesAhmed A. Almousa Marc Morris Sharyle Fowler Jennifer Jones Jane Alcorna Drug Discovery and Development Research Group College of Pharmacy and Nutrition University of Saskatchewan 107 Wiggins Road Saskatoon SaskatchewanCanadab Department of Gastroenterology College of Medicine University of Saskatchewan Saskatoon Canadac Division of Digestive Care  Endoscopy Department of Community Health and Epidemiology Dalhousie University Halifax CanadaA R T I C L E I N F O KeywordsInflammatory bowel disease Serum biomarkerPyruvate kinase M2 MicrobiotaA B S T R A C T Objectives Endoscopy remains the gold standard to diagnose and evaluate inflammatory bowel disease IBD activity.
 
-these studies identified pkm2 as candidate marker for inclusion into a biomarker panel for ibd diagnosis and additionally showed pkm2 was predictive of a dysbiotic gut microbiome in cd.at present current biomarkers of ibd complement the assessment ofthe ibd patient but are inadequate to reliably and reproducibly de- termine disease diagnosis stage progression and response to treat- ment.
+These studies identified PKM2 as candidate marker for inclusion into a biomarker panel for IBD diagnosis and additionally showed PKM2 was predictive of a dysbiotic gut microbiome in CD.At present current biomarkers of IBD complement the assessment ofthe IBD patient but are inadequate to reliably and reproducibly de- termine disease diagnosis stage progression and response to treat- ment.
 
-p-value of two tailed t-test  0.01.table 2pearson linear correlation between ibd disease scores and pkm2 serum concentrations in ngml.variablenr2 p-valuewhich is a common feature of both uc and cd.in newly diagnosed ibd patients elevated serum pkm2 showed limited interindividual variation compared to fc and fl the more commonly used biomarkers in ibd that exhibit large variability.
+p-value of two tailed t-test  0.01.Table 2Pearson linear correlation between IBD disease scores and PKM2 serum concentrations in ngmL.Variablenr2 p-valuewhich is a common feature of both UC and CD.In newly diagnosed IBD patients elevated serum PKM2 showed limited interindividual variation compared to FC and FL the more commonly used biomarkers in IBD that exhibit large variability.
 
-low variability in pkm2 among ibd patients warrants further evaluation as it is an attractive feature not possessed by other ibd biomarkers and may improve accuracy and sensitivity of ibd diagnosis disease progression and or response to treatment .
+Low variability in PKM2 among IBD patients warrants further evaluation as it is an attractive feature not possessed by other IBD biomarkers and may improve accuracy and sensitivity of IBD diagnosis disease progression and or response to treatment .
 
-measurement of pkm2 in both feces and blood may better represent pkm2 arising from the ibd pathology namely the intestinal epithelium that is shed in feces and the concomitant immune system activation presented both locally at the intestine and systemi- cally.conclusionsnewly diagnosed ibd patients have elevated serum pkm2 levels although pkm2 measured by elisa cannot differentiate between the ibd phenotypes or disease localization.
+Measurement of PKM2 in both feces and blood may better represent PKM2 arising from the IBD pathology namely the intestinal epithelium that is shed in feces and the concomitant immune system activation presented both locally at the intestine and systemi- cally.ConclusionsNewly diagnosed IBD patients have elevated serum PKM2 levels although PKM2 measured by ELISA cannot differentiate between the IBD phenotypes or disease localization.
 
-a 450 mg fecal sample was transferred to an eppendorf tube and diluted at 1100 to 110000. samples and controls were plated on a 96-well plate provided with the kit and read at 450 and 620 nm excitation and emission respectively using a biotek synergy ht mi- croplate reader fisher scientific canada.pkm2 enzyme linked-immunosorbent assay elisa in human ibd patientsserum from thirty-three newly diagnosed ibd participants was collected and used to quantify pkm2 content.
+Samples and controls were plated on a 96-well plate provided with the kit and read at 450 and 620 nm excitation and emission respectively using a Biotek Synergy HT mi- croplate reader Fisher Scientific Canada.PKM2 enzyme linked-immunosorbent assay ELISA in human IBD patientsSerum from thirty-three newly diagnosed IBD participants was collected and used to quantify PKM2 content.
 
-whether serum pkm2 is elevated in ibd is largely unknown and a necessary first step in its potential use as a biomarker for ibd.
+Whether serum PKM2 is elevated in IBD is largely unknown and a necessary first step in its potential use as a biomarker for IBD.
 
-this is consistent with reports of elevated fecal pkm2 differentiating between ibs and ibd but not the sub-classifications of ibd .
+This is consistent with reports of elevated fecal PKM2 differentiating between IBS and IBD but not the sub-classifications of IBD .
 
-dysbiosis in ibd favors an 8-fold increase in the mucosal associated bacteria aerobic and anaerobic in patients with ibd in comparison to asymptomatic patients .
-
-current biomarkers or their combinations cannot adequately predict ibd risk diagnosis progression or relapse and response to therapy.
-
-furthermore we tested the genetic and protein expression of pkm2 in an in vitro intestinal cell model of in- flammation.results serum pkm2 levels were 6-fold higher in ibd patients compared to healthy controls with no sensitivity to disease phenotype crohn's disease or ulcerative colitis or localization of inflammation.
-
-serum pkm2 had considerably less interindividual variability than established ibd fecal biomarkers.
-
-furthermore lps 500 ng ml significantly increased pkm2 expression in vitro which was significantly suppressed by an anti-in- flammatory flaxseed bioactive agent.conclusion our data suggests pkm2 as a putative biomarker for ibd and the dysbiosis of microflora in cd.
-
-investigations involving larger number of clinical patients are necessary to validate its use as a serum biomarker of ibd.introductioninflammatory bowel disease ibd presents in two different distinct pathologies ulcerative colitis uc and crohn's disease cd .
+Dysbiosis in IBD favors an 8-fold increase in the mucosal associated bacteria aerobic and anaerobic in patients with IBD in comparison to asymptomatic patients .
 

@@ -1,30 +1,20 @@
-searching the 16s rrna data set against the metagenome data demonstrated that this population was among the 10 most abundant microbes in frbgr comprising 0.5 of the total 16s rrna gene sequences.
+The proteomes of other FrBGR phylotypes also contained enzymes for amino acid metabolism such as Anaerobaculum-affiliated phylotypes Amob that formed proteins inferred in glycine16S rRNAOther 0.3Euryarchaeota 0.046 more incl.Natranaerobiales unFirm02 0.5SHA-98 0.420 more incl.Thermotogaceae 0.4Actinobacteria 0.4Chloroflexi 0.3Proteobacteria 0.2Thermodesulfovibrio 0.05 Methanosaeta 1FIG 1 Phylogenetic distribution of the most dominant 16S rRNA gene sequences in FrBGR.
 
-the proteomes of other frbgr phylotypes also contained enzymes for amino acid metabolism such as anaerobaculum-affiliated phylotypes amob that formed proteins inferred in glycine16s rrnaother 0.3euryarchaeota 0.046 more incl.natranaerobiales unfirm02 0.5sha-98 0.420 more incl.thermotogaceae 0.4actinobacteria 0.4chloroflexi 0.3proteobacteria 0.2thermodesulfovibrio 0.05 methanosaeta 1fig 1 phylogenetic distribution of the most dominant 16s rrna gene sequences in frbgr.
+The 16S rRNA gene analysis revealed an uneven genus distribution within the FrBGR microbiome whereby affiliates of the bacterial genus Coprothermobacter were predominant repre- senting approximately 76 of the total 16S rRNA gene inventory .
 
-phylotypes affiliated with syntrophic bacteria from the genus syntrophomonas were among the most prominent in the frbgr 16s rrna data set and two population bins were reconstructed for phylotypes closely affiliated with syntrophomonas wolfei.
+Searching the 16S rRNA data set against the metagenome data demonstrated that this population was among the 10 most abundant microbes in FrBGR comprising 0.5 of the total 16S rRNA gene sequences.
 
-the incorporation of the reference genome of p. thermopropionicum table s1 improved proteome mapping and suggested metabolism of propionate as both the mmc cluster and propionate coa transferase pct cluster were detected with relatively high abundance up to log10lfq of 8.1 and 7.5 respectively table s3.the most numerically abundant phylotype inferred in acetate oxidation was affili- ated with two phylotypes closely related to thermacetogenium phaeum tpha-c1 and tphac2 that collectively represented approximately 7 of the 16s rrna gene inven-unfic2log10lfq109-108-97-86-75-6h2fig 3 selected metabolic pathways of the putative novel saob unfirm02frbgr cluster 2. the pathways are proposed based on genome and proteome comparison and protein abundances are indicated by color ranging from high abundance red to low abundance green.
+High-resolution investigation of the 16S rRNA gene inventory detected potential polymorphisms in the 16S rRNA data set demon- strating that the operational taxonomic units OTUs assigned as Coprothermobacter comprised at least 11 oligotypes Fig.
 
-the genomic reconstruction of phylotypes affiliated with the well-known soab t. phaeum  was accompanied by high proteomic detection of the wl pathway which collectively suggests that acetate turnover is occurring predominately via syntrophic acetate oxidation in coexistence with hydrogen-consuming methanothermobacter thermoautotrophicus-like phylotypes.
+Proteins were extracted from the FrBGR sample by two approaches one tailored for extracting proteins from within the bacterial cells and one for proteins residing in the extracellular liquid.
 
-the 16s rrna gene analysis revealed an uneven genus distribution within the frbgr microbiome whereby affiliates of the bacterial genus coprothermobacter were predominant repre- senting approximately 76 of the total 16s rrna gene inventory .
+The next day proteins were dissolved in SDS sample buffer separated by SDS-PAGE using an Any-kD Mini-Protean gel Bio-Rad Laboratories Hercules CA USA and stained using Coomassie brilliant blue R250.
 
-high-resolution investigation of the 16s rrna gene inventory detected potential polymorphisms in the 16s rrna data set demon- strating that the operational taxonomic units otus assigned as coprothermobacter comprised at least 11 oligotypes fig.
+Phylotypes affiliated with syntrophic bacteria from the genus Syntrophomonas were among the most prominent in the FrBGR 16S rRNA data set and two population bins were reconstructed for phylotypes closely affiliated with Syntrophomonas wolfei.
 
-the peptides were analyzed by nano-liquid chromatography-tandem mass spectrometry as described previously using a q-exactive hybrid quadrupole orbitrap mass spectrometer thermo scientific bremen germany  and acquired raw data were analyzed using maxquant  version 1.4.1.2. proteins were quantified using the maxlfq algorithm .
+Slip although Syntrophothermus was not present among the abundant genera in the FrBGR 16S rRNA data set.
 
-slip although syntrophothermus was not present among the abundant genera in the frbgr 16s rrna data set.
+Only the most prominent with regard to relative abundance in the 16S rRNA gene sequence inventory and protein abundance phylotypes in the FrBGR microbial community were evaluated and it should be noted that a rare portion of the population might account for underlying key metabolic pathways not shown here.
 
-only the most prominent with regard to relative abundance in the 16s rrna gene sequence inventory and protein abundance phylotypes in the frbgr microbial community were evaluated and it should be noted that a rare portion of the population might account for underlying key metabolic pathways not shown here.
-
-chimeric sequences were removed from the data set using uchime incorpo- rated in usearh  and a threshold of 3 dissimilarity between 16s rrna gene sequences was used to cluster sequences into de novo operational taxonomic units otus .
-
-the phylotype assigned to the order natranaerobiales in the 16s rrna data set corresponds to the population genome bin named unfirm02frbgr in the metagenomic data set as indicated.
-
-a deeply branching bacterium d. thermophilum was observed at relatively high abundance 2 of all 16s rrna gene sequences  and with high abundance levels of proteins related to xylan degradation in accordance with literature .
-
-genome reconstruction and functional interpretation of uncultured phylotypes identified participants within key central metabolic pathways in frbgr including hydrolysis of macromolecules downstream fermentation syntrophic degradation of intermediates and methanogenesis via two pathways syntrophic acetate oxidation- hydrogenotrophic methanogenesis and acetoclastic methanogenesis summarized in  see also table s3 in the supplemental material.
-
-since frbgr has been running steadily for several years the populations of acetoclastic methanogens in frbgr are seemingly accli- matized to the relatively high free ammonia levels calculated for the reactor.
+More than 600000 16S rRNA gene sequences were obtained using MiSeq sequencing of technical triplicates of the DNA sample.
 

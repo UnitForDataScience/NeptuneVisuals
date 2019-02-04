@@ -1,30 +1,20 @@
-for all storage durations stabilizers s3 s4 and s6 always led to a significantly shorter distancehigher similarity at room tempera- ture when compared with the nonstabilizer group .ionic liquid-based reagents reduced the variation of stored samplesin addition to similarities between stored and fresh samples variation defined as the difference between aliquots of the same sample stored at different temperatures andor for different durations is also important for evaluating a preservation method.
+For all storage durations stabilizers S3 S4 and S6 always led to a significantly shorter distancehigher similarity at room tempera- ture when compared with the nonstabilizer group .Ionic liquid-based reagents reduced the variation of stored samplesIn addition to similarities between stored and fresh samples variation defined as the difference between aliquots of the same sample stored at different temperatures andor for different durations is also important for evaluating a preservation method.
 
-some investigators have suggested fecal samples can be stored at room temperature for up to 2 weeks without affecting the microbiotacomposition of the sample  whereas others have shown that samples should not be stored at room temperature for  2 days or the sequencing results will be unreliable .
+Some investigators have suggested fecal samples can be stored at room temperature for up to 2 weeks without affecting the microbiotacomposition of the sample  whereas others have shown that samples should not be stored at room temperature for  2 days or the sequencing results will be unreliable .
 
-overall 190 aliquots were processed in this study 27.8 of aliquots stored without stabilizer reagents n  36 yielded degraded dna while only 10.4 of aliquots stored in ionic liquid-based solutions n  144 exhibited the same problem.
+Overall 190 aliquots were processed in this study 27.8 of aliquots stored without stabilizer reagents n  36 yielded degraded DNA while only 10.4 of aliquots stored in ionic liquid-based solutions n  144 exhibited the same problem.
 
-the stabilizer groups except group s1 showed significantly higher correla- tions between stored and fresh samples at room temperature after storage for 3 or 7 days than in the nonstabilizer group .we also calculated the euclidean distances between stored and corresponding fresh aliquots at the genus level to quantify the dissim- ilarities.
+The stabilizer groups except group S1 showed significantly higher correla- tions between stored and fresh samples at room temperature after storage for 3 or 7 days than in the nonstabilizer group .We also calculated the Euclidean distances between stored and corresponding fresh aliquots at the genus level to quantify the dissim- ilarities.
 
-compared with aliquots stored with no stabilizer reagents aliquots stored in stabilizers s3 s4 s5 and s6 were more similar to the fresh samples andor had lower intragroup variation however the performance of stabilizer s1 was not constant .discussionas described above keeping fecal samples stable during storage particularly at room temperature is a challenge in metagenomic research.
+Compared with aliquots stored with no stabilizer reagents aliquots stored in stabilizers S3 S4 S5 and S6 were more similar to the fresh samples andor had lower intragroup variation however the performance of stabilizer S1 was not constant .DiscussionAs described above keeping fecal samples stable during storage particularly at room temperature is a challenge in metagenomic research.
 
-however the best conditions for stable and reliable storage and transport of these samples at room temperature are still unknown and whether samples stored at room temperature for several days will maintain their microbiota composition is still unknown.
+However the best conditions for stable and reliable storage and transport of these samples at room temperature are still unknown and whether samples stored at room temperature for several days will maintain their microbiota composition is still unknown.
 
-we stored human fecal samples in these reagents for up to 7 days at different temperatures.
+We stored human fecal samples in these reagents for up to 7 days at different temperatures.
 
-the 16s rrna sequencing results suggested that ionic liquid-based reagents could stabilize the composition of the microbiota in fecal samples during a 7-day storage period particularly when stored at room temperature.
+The 16S rRNA sequencing results suggested that ionic liquid-based reagents could stabilize the composition of the microbiota in fecal samples during a 7-day storage period particularly when stored at room temperature.
 
-the stability of fecal samples stored at room temperature has not yet been confirmed .
+The stability of fecal samples stored at room temperature has not yet been confirmed .
 
-tubes were then closed tightly and stored on racks or in freezers before extraction of dna from the aliquots.
-
-negative controls nonstabilizer group were stored in centrifuge tubes without any other reagents.
-
-aliquots that had not been extracted right after preserva- tion were temporarily stored at -80 degc for no  12 h.dna library construction and sequencingthe v4-v5 regions of the 16s rrna gene were amplified by polymerase chain reaction of total dna extracted from each aliquot using the universal primers 515f gtgccagcmgccgcggtaa and 907r ccgtcaattcmtttragt.
-
-in contrast dna from the aliquots extracted immediately after splitting all showed good quality.ionic liquid-based reagents increased the similarity between stored and fresh fecal samplesmost metagenomic studies aim to evaluate the microbiota composi- tion.
-
-the microbiota composition of the stored aliquots from each sample was then compared to the immediately extracted aliquots.
-
-therefore we calculated the correlation coefficients and distances between every two aliquots stored in the same or without stabilizer reagent.
+Tubes were then closed tightly and stored on racks or in freezers before extraction of DNA from the aliquots.
 

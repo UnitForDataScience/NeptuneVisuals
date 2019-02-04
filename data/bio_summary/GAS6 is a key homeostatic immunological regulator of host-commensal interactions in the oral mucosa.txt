@@ -1,30 +1,20 @@
-a gingival cross-sections from adult swiss webster spf mice germ- free mice gf and gf mice cocaged with spf mice for 2 mo stained with antibodies against pros1 red gas6 green axl green and hoechst blue.
+GAS6 is a key homeostatic immunological regulator of host-commensal interactions in the oral mucosaMaria Nassara Yaara Tabiba Tal Capuchaa Gabriel Mizrajia Tsipora Nira Meirav Pevsner-FischerbGili Zilberman-Schapirab Oded Heymanc Gabriel Nussbauma Herve Bercovierd Asaf Wilenskyc Eran ElinavbTal Burstyn-Cohena12 and Avi-Hai Hovava12aInstitute of Dental Sciences Faculty of Dental Medicine Hebrew University Jerusalem 91120 Israel bDepartment of Immunology Weizmann Institute of Science Rehovot 7610001 Israel cDepartment of Periodontology Faculty of Dental Medicine Hadassah Medical Center Jerusalem 91120 Israeland dDepartment of Microbiology and Molecular Genetics Faculty of Medicine Hebrew University Jerusalem 91120 IsraelEdited by Lora V. Hooper University of Texas Southwestern Dallas TX and approved December 7 2016 received for review September 6 2016The oral epithelium contributes to innate immunity and oral mucosal homeostasis which is critical for preventing local inflammation and the associated adverse systemic conditions.
 
-2 a and b. col- onization of gf mice with bacteria following cocaging with spf mice for 2 mo restored gas6 expression though not to similar levels as in spf mice.
+1073pnas.1614926114-DCSupplemental.GAS6 in the oral epithelium is induced by oral microbiota and plays a critical role in maintaining immunological and microbial oral homeostasis.
 
-8 a-c. however whereas reconstitution of wt mice with bm of gas6-- mice g-w had no impact on the load and diversity of oral micro-biota administration of wt bm cells into gas6-- mice w-g resulted in a significant alteration of the oral microbiota.
+We thus propose GAS6 as a key im- munological regulator of host-commensal interactions in the oral epithelium.oral mucosa  GAS6  TAM  homeostasis  microbiotahe stratified epithelium covering the oral mucosa is continu- ously challenged by an immense amount of diverse microor- ganisms some of which might be pathogenic.
 
-s6 e-g. whereas the lack of alveolar bone loss in aged gas6-- mice does not reflect the immunological and microbial status of their gingiva it is in agreement with previous studies reporting that gas6 is crucial for the resorption function of mature osteoclasts 22 23. there- fore although gas6-- mice should have an increased periodontal bone loss based on their periodontal immunological and microbial dysbiosis the lack of gas6 that prevents osteoclast function ulti-mately protects these mice from alveolar bone loss.discussionin this study we first demonstrated that gas6 plays a funda- mental role in maintaining oral mucosal homeostasis.
+Therefore the stratified oral epi- thelium not only forms a physical barrier to oral microorganisms but actively participates in inducing immunity thus providing an immunological barrier.
 
-in contrast to spf mice gas6 was not expressed in the gingiva of gf mice fig.
+Nevertheless whereas much attention was given in recent years to study oral mucosal immunity in a setting of infection or immunization less attention was given to mech- anisms engaged by the oral mucosa to maintain homeostasis.
 
-we next assessed expression of pros1 in gf mice and found that pros1 was not significantly altered by bacterial colonization in these mice.
+We first sampled bacteria using oral swabs from the oral cavity of individual age- and sex-matched Gas6-- and Gas6 littermates born and housed under identical conditions.
 
-nevertheless compared with gas6 mice gas6-- mice have elevated numbers of neutrophils cd45cd11bly6g cells fig.
+We further compared the load of oral an- aerobic bacteria in these mice by plating oral swab samples on blood agar under anaerobic conditions.
 
-we then quantified mrna levels of il-10 and tnf-a in the gingiva and concurring with our results il-10 was highly expressed in gas6 mice whereas tnf-a was pre- dominantly expressed in gas6-- mice fig.
+To test whether changes in the oral microbial load of Gas6-- mice affects bacterial diversity we performed a taxonomic analysis of the oral microbiota.
 
-3d the gingiva of gas6-- mice contained significantly higher percentages of il- 17a-producing cd4 t cells than gas6 mice.
+5C the absence of GAS6 led to a considerable shift in oral microbiota composition.Whereas the oral mucosa of Gas6 mice was mainly colonized by bacteria of the Firmicutes phylum Gas6-- mice contained three main phyla Firmicutes Proteobacteria and Bacteriodetes.
 
-data indicate the relative ex- pression levels of the noted gene among spf gf and cocaged mice and represent the mean of five mice - sem.
-
-bar graph illustrates levels of gas6 expression in b6 and myd88-- mice and represent the mean of three mice - sem.
-
-furthermore the amount of foxp3 expressed per cell was significantly reduced in gas6-- mice in comparison with gas6 mice fig.
-
-such a reduction in cellular foxp3 levels was shown previously to severely impair treg capability to regulate immunity 17. in contrast to tregs th17 cells identified by ics on pmaionomycin-stimulated ln cells were significantly higher in gas6-- mice compared with gas6 mice fig.
-
-5a the oral cavity of gas6-- mice sheltered an overall elevated bacterial load about twofold higher compared with gas6 mice.
-
-a considerable elevation of about 1.2 logs in the load of cultivated anaerobic bacteria was found in gas6-- mice in comparison with gas6 mice fig.
+However whereas reconstitution of WT mice with BM of Gas6-- mice G-W had no impact on the load and diversity of oral micro-biota administration of WT BM cells into Gas6-- mice W-G resulted in a significant alteration of the oral microbiota.
 

@@ -1,30 +1,20 @@
-these cytokines are all capable of influen- cing tumor progression through multiple mechanisms including the promotion of tumor growth through the recruitment of suppressive immune cells into the tumor microenvironment via tnfa il-6 il-1b or facilitating enhanced tumor immune surveillance via ifng and il-17.
+As discussed previously many secreted bacterial factors act in context-dependent mechanisms and depending upon the type and stage of cancer the class of antibiotics prescribed the duration of antibiotic exposure and the initial compo- sition of commensal microorganisms antibiotic use during cancer therapy has the potential to both promote and to inhibit cancer pro- gression.
 
-these contrasting findings may depend on several factors including the an- tigenicity of the tumor the timing of the flagellin stimulus  the cytokine and immune composition of the tumor microenvironment and perhaps even the stage of tumor initiation or progression.two additional bacterial components peptidoglycan and poly- saccharide a psa affect systemic inflammation through the ligation of tlr2.
+Fecal transplant experi- ments have demonstrated that transfer of the microbiome from mice fed a high-fat diet was sufficient to increase cancer incidence in recipient animals  providing evidence that diet-induced changes to the composition of commensal microbes is sufficient to influence cancer progression independent of the physiologic manifestations associated with obesity.
 
-these innate re- cognition receptors may serve a protective role in breast tissue as tlr5 signaling and activation of maip1s has been shown to inhibit breast tumor growth through the induction of autophagy and tumor cell death .
+While a large-scale retrospective study of over 2 million women found only a slight increase in hazard risk of breast cancer in women using all classes of antibiotics for more than 101 days women prescribed 3 or more courses of tetracyclines over a span of more than 101 days have a sig- nificantly greater risk of breast cancer than women given other types of antibiotics .
 
-butyrate directly inhibits the growth of multiple tumor types through inhibition of histone deacetylases and potent anti-in- flammatory activity  suggesting that dietary intervention through consumption of fiber-rich foods could provide therapeutic benefitduring tumor progression.
+Clinically these findings are relevant as human colorectal cancer specimens have significantly reduced levels of RIG-I suggesting that downregulation of this receptor results in dysbiosis and susceptibility to colorectal cancer .
 
-although most studies have focused upon the role of nod re- ceptors in modulating intestinal malignancies a study using nod-de- ficient breast tumor cell lines demonstrated that breast tumors lacking nod were more resistant to tnfa-induced apoptosis and were more sensitive to estrogen-mediated tumor growth .
+Thus similar to what has been reported in colorectal cancer NOD expression on the tumor epithelium may have a host-protective role in extramucosal cancers such as breast cancer.
 
-this demonstrates that hormones directly impact both tumor growth and immune function.additional bacterial metabolites have potential roles in promotingsystemic inflammation and tumor progression.
+In vitro flagellin enhances proliferation and migration of several types of cancer cell lines including multiple myeloma gastric cancer and salivary gland adenocarcinoma .
 
-thus it will be critical to understand the relevant contexts in which commensal mi- crobes and the activation of relevant signaling pathways influence tumor progression and anti-tumor immunity.commensal disequilibrium results in a range of pathologies and inthe context of cancer can have a direct influence on tumor proliferation and cytokine secretion .
+Polyamines are in- creased in the urine and serum of cancer patients and have been shown to promote cancer cell proliferation .
 
-the role of commensal microbes during cancer is dependent upon many factors demonstrating that a more comprehensive under- standing of the effects that individual microbes have on tumor growth and immune function within the tumor microenvironment is needed.
+The widespread use of antibiotics in our society makes this topic relevant in the context of cancer as cancer patients are frequently prescribed prophylactic antibiotics to combat infections associated with chemotherapy-induced immunosuppression.
 
-for patients with extramucosal cancers or cancers occurring distal to barrier surfaces the role of commensal mi- crobes in influencing tumor progression is beginning to be appreciated.
+Alterations in commensal microbe composition resulting from dietary changes may also influence additional bacterial metabolites as highlighted in .Antibiotic-induced dysbiosisAlthough antibiotics have significant health benefits for individuals with microbial infections excessive antibiotic exposure can negatively impact commensal biodiversity and immune function .Table 1Bacteria and associated metabolites that influence cancer and anti-tumor immunity.According to the CDC greater than 5 out of 6 individuals are prescribed antibiotics annually in the United States  often unnecessarily.
 
-thus it is evident that the mechanisms associated with commensal microbe facilitation of both pro- and anti-tumor immune responses are context dependent and rely upon a variety of factors present within the tumor microenvironment and sys- temic periphery.
-
-the goal of this review is to highlight the various contexts during which commensal microbes orchestrate systemic immune function with a focus on describing possible scenarios where the loss of microbial homeostasis enhances tumor progression.introductioncommensal microbes comprised of bacteria archaea viruses and eukaryotes inhabit all mucosal barrier surfaces providing a physical barrier in defense against invading pathogens.
-
-in this context alterations to commensal equilibrium induce pathological inflammation that is supportive of tumor growth.
-
-these studies underscore the complex immunoregulatory influence that commensal microbes have on local and systemic immune homeostasis in healthy individuals.cancer is a systemic disease inflammatory immune cells chemo- kines and cytokines distally influence tumor growth and metastatic progression.
-
-cancer can impact the composition of commensal mi- crobes locally within affected tissues or distally within the intestines  altering the immune environment in favor of tumor growth and global immune suppression .
-
-dysbiosis can be induced by multiple me- chanisms including diet or genetic-induced dysbiosis antibiotic- induced dysbiosis and dysbiosis due to tumor-promoting chronic in- flammation all of which associate with a more unfavorable outcome during cancer.inflammation dysbiosis and cancerthere are several studies linking dysbiosis with cancer and in- flammation although it remains relatively undefined whether dysbiosis directly impacts tumor progression or serves as a biomarker of onco- genesis.
+Additionally cancer patients are frequently prescribed prophylactic antibiotics due to severe immune suppression and susceptibility to in- fectious diseases.
 

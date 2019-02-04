@@ -1,30 +1,20 @@
-2shows the embedding process on a diagram while the formal algorithm is described in algorithm 1 and the symbols used in the algorithm are defined in table i.figure 2. tree embedding in which we structure the tree in a matrix format.the roots are placed in the top left corner.algorithm 1 tree embeddinginput a populated phylogenetic tree g  n eoutput a matrix m which preserves both the abundance data and the spatial information of the tree.1 construct a zero matrix m with l rows and s columns 2 node list root node of the tree g3 for j from 0 to l do 4k 05next list 6for each node n in node list do 7mk j an8push cn onto next list9k k  110end for11node list next list 12 end for13 return m.table i.symbols and definitions used in algorithm 1the cnn architectureour cnn model has three convolutional layers.
+Tree embedding in which we structure the tree in a matrix format.The roots are placed in the top left corner.Algorithm 1 Tree EmbeddingInput A populated phylogenetic tree G  N EOutput A matrix M which preserves both the abundance data and the spatial information of the tree.1 Construct a zero matrix M with L rows and S columns 2 Node List Root Node of the tree G3 For j from 0 to L do 4k 05Next List 6For each node n in Node List do 7Mk j an8Push Cn onto Next List9k k  110End For11Node List Next List 12 End For13 Return M.TABLE I.SYMBOLS AND DEFINITIONS USED IN ALGORITHM 1The CNN ArchitectureOur CNN model has three convolutional layers.
 
-the dropout rate was 0.5 and the numbers of the feature maps at the three convolution layers are 20 40 and 60 respectively.resultsthe cnn used in this work was implemented using the theano python library 9. in our experiment we compared the proposed cnn model using the phylogenetic tree to matrix method cnn-2d with a simple one-dimensional application using a sliding window kernel cnn-1d.
+In this paper we examine the potential of using a deep learning framework a convolutional neural network CNN for such a prediction.
 
-developed another cnn framework to predict the change of accessibility of genome between variant alleles 11. the spatial relationship in the dna sequences could be attributed to the success in both applications.the use of microbial taxa abundance profiles in the cnn learning framework presents a challenge.
+To facilitate the CNN learning we explore the structure of abundance profiles by creating the phylogenetic tree and by designing a scheme to embed the tree to a matrix that retains the spatial relationship of nodes in the tree and their quantitative characteristics.
 
-in this paper we examine the potential of using a deep learning framework a convolutional neural network cnn for such a prediction.
+The proposed CNN framework is highly accurate achieving a 99.47 of accuracy based on the evaluation on a dataset 1967 samples of three phenotypes.
 
-to facilitate the cnn learning we explore the structure of abundance profiles by creating the phylogenetic tree and by designing a scheme to embed the tree to a matrix that retains the spatial relationship of nodes in the tree and their quantitative characteristics.
+Our result demonstrated the feasibility and promising aspect of CNN in the classification of sample phenotype.INTRODUCTIONThe microbiome of the gut has been linked to many diseases including but not limited to inflammatory bowel disease irritable bowel disease diabetes obesity cancer autoimmune diseases and various metabolic disorders 1.
 
-the proposed cnn framework is highly accurate achieving a 99.47 of accuracy based on the evaluation on a dataset 1967 samples of three phenotypes.
+However its classification accuracy is not as satisfactory compared with MLPNN and other models such as support vector machines and random forest.In this work we propose a novel framework using Convolutional Neural Network CNN which is a deep learning model based on the visual cortex and is more commonly used in image processing and speech recognition.
 
-our result demonstrated the feasibility and promising aspect of cnn in the classification of sample phenotype.introductionthe microbiome of the gut has been linked to many diseases including but not limited to inflammatory bowel disease irritable bowel disease diabetes obesity cancer autoimmune diseases and various metabolic disorders 1. a microbiome study is usually started with the characterization of the microbial community in an environmentalgenomic sample using next generation sequencing ngs technologies.
+A CNN incorporates spatial information into the model and generates convolution layers with multiple feature maps.
 
-however its classification accuracy is not as satisfactory compared with mlpnn and other models such as support vector machines and random forest.in this work we propose a novel framework using convolutional neural network cnn which is a deep learning model based on the visual cortex and is more commonly used in image processing and speech recognition.
+Since microbial taxonomic abundance profiles imply structure information we take advantage of the CNN modeling approach to explore this structure by constructing a phylogenetic tree.
 
-a cnn incorporates spatial information into the model and generates convolution layers with multiple feature maps.
+These matrices are input to our CNN model.
 
-since microbial taxonomic abundance profiles imply structure information we take advantage of the cnn modeling approach to explore this structure by constructing a phylogenetic tree.
-
-these matrices are input to our cnn model.
-
-our computational study shows the strong performance of the cnn and its ability to handle large datasets.models and methodsin this section we first describe how to represent the microbial taxonomic abundance data obtained from a sample on a phylogenetic tree as well as how to embed the tree into a matrix to preserve the spatial information of the phylogenetic tree.
-
-any node without a child node is considered a leaf node and its abundance is taken from the input vector by matching the feature label to the node label in the phylogenetic tree.matrix constructionwith a populated tree that contains abundance data nodes as well as phylogenetic similarity topology the next challenge is embedding the tree structure into a matrix format so that it can be used as an input for a cnn model.
-
-it is important to note that no further feature selection was considered in our experiment since a cnn performs featureselection intrinsically during training.
-
-experimental procedurethe cnn model was implemented using the theano - 5python library 9. in preprocessing the data we only  -1  - 6attempted to classify the site location for this experiment.
+Our computational study shows the strong performance of the CNN and its ability to handle large datasets.MODELS AND METHODSIn this section we first describe how to represent the microbial taxonomic abundance data obtained from a sample on a phylogenetic tree as well as how to embed the tree into a matrix to preserve the spatial information of the phylogenetic tree.
 

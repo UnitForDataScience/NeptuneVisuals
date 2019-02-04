@@ -1,30 +1,20 @@
-are the low levels of anti-a13 gal igg in ms patients associated with a decrease in ggta1 gene encoding a13- galactosyltransferase-positive bacteria in the gut b andc relative abundance of ec 2.4.1.87 enzyme the ggta1 gene controlling a13-galactosylation based on picrust metagenome prediction in ms patients and healthy volun- teers hv matched for age and sex.
+Are the low levels of anti-a13 Gal IgG in MS patients associated with a decrease in GGTA1 gene encoding a13- galactosyltransferase-positive bacteria in the gut B andC Relative abundance of EC 2.4.1.87 enzyme the GGTA1 gene controlling a13-galactosylation based on PICRUSt metagenome prediction in MS patients and healthy volun- teers HV matched for age and sex.
 
-in this viewpoint using picrust phylogenetic investigation of communities by reconstruction of unobserved states to infer the functional content of the gut microbiota we show that the gut microbiota of ms patients is characterized by a significant decrease in the relative abundance of the enzyme ec 2.4.1.87 which corresponds to the ggta1 gene which codes for the a13-gal epitope and is lacking in humans against which ms patients also have low levels of igg antibodies.
+In this Viewpoint using PICRUSt Phylogenetic Investigation of Communities by Reconstruction of Unobserved States to infer the functional content of the gut microbiota we show that the gut microbiota of MS patients is characterized by a significant decrease in the relative abundance of the enzyme EC 2.4.1.87 which corresponds to the GGTA1 gene which codes for the a13-Gal epitope and is lacking in humans against which MS patients also have low levels of IgG antibodies.
 
-as humans become immunized against the a13-gal epitope by the gut microbiota our observation suggests that the low level of anti-a13-gal recently reported in ms  may be related to low ggta1 gene contents in the gut microbiota in this disease.
+As humans become immunized against the a13-Gal epitope by the gut microbiota our observation suggests that the low level of anti-a13-Gal recently reported in MS  may be related to low GGTA1 gene contents in the gut microbiota in this disease.
 
-the relative abundance of the ec 2.4.1.87 gene was also sig- nificantly decreased in ms patients compared to the controls t-test p- value  0.0263 c. in parallel we found that bacteroides bac- teroides coprophilus members of the phylum firmicutes and janthino- bacterium lividum a member of the phylum proteobacteria contributed to the ec 2.4.1.87 gene content supplementary material 1 and 2. in healthy adults most of the identified fecal microbiota can be classified into three dominant phyla bacteroidetes firmicutes and actinobacteria .
+The relative abundance of the EC 2.4.1.87 gene was also sig- nificantly decreased in MS patients compared to the controls t-test p- value  0.0263 C. In parallel we found that Bacteroides Bac- teroides coprophilus members of the phylum Firmicutes and Janthino- bacterium lividum a member of the phylum Proteobacteria contributed to the EC 2.4.1.87 gene content Supplementary material 1 and 2.
 
-studies in twins have emphasized the importance of environment in disease.in this viewpoint we suggest for the first time a defect in the re- lative abundance of the ggta1 gene which controls the synthesis of the a13-gal epitope in the gut microbiota of patients with ms. to study the relative abundance of ec 2.4.1.87 we used the picrust tool which uses evolutionary modeling to predict metagenomes from 16s rrna data and a reference genome database.
+Studies in twins have emphasized the importance of environment in disease.In this Viewpoint we suggest for the first time a defect in the re- lative abundance of the GGTA1 gene which controls the synthesis of the a13-Gal epitope in the gut microbiota of patients with MS. To study the relative abundance of EC 2.4.1.87 we used the PICRUSt tool which uses evolutionary modeling to predict metagenomes from 16S rRNA data and a reference genome database.
 
-the correlations between the inferred and metagenomically measured gene content approached0.9 in human gut datasets .
+The correlations between the inferred and metagenomically measured gene content approached0.9 in human gut datasets .
 
-however the bias in gut microbiota that are positive for ggta1 gene in ms may not be the only factor theoretically able to affect the level of anti-a13-gal as several bacteria can also produce the a13-gal epitope.
+However the bias in gut microbiota that are positive for GGTA1 gene in MS may not be the only factor theoretically able to affect the level of anti-a13-Gal as several bacteria can also produce the a13-Gal epitope.
 
-the a13-gal epitope is lacking in human glycans following the loss-mutation of the glycosyl- transferase a1 ggta1 gene that controls its synthesis  .
+The a13-Gal epitope is lacking in human glycans following the loss-mutation of the glycosyl- transferase A1 GGTA1 gene that controls its synthesis  .
 
-preprocessed sequences were clustered at the 97 nu- cleotide sequence similarity level using closed-reference operational taxonomic unit otu picking against the greengenes 138 reference database .we then used picrust phylogenetic investigation of communities by reconstruction of unobserved states to predict the functional composition of a metagenome using the 16s rrna gene and a database of reference genomes.
+Preprocessed sequences were clustered at the 97 nu- cleotide sequence similarity level using closed-reference Operational Taxonomic Unit OTU picking against the Greengenes 138 reference database .We then used PICRUSt Phylogenetic Investigation of Communities by Reconstruction of Unobserved States to predict the functional composition of a metagenome using the 16S rRNA gene and a database of reference genomes.
 
-picrust uses ancestral state reconstruction to infer the content of the organism's last phylogenetic common ancestor based on one or more sequenced genomes along with a weighting method maximum likelihood or bayesian posterior probability to predict the gene content for all organisms represented in the greengenes phylogenetic tree of 16s sequences.
-
-this metagenomic approach recaptures key findings from the human microbiome project and accurately predicts the actual abundance of gene families in host- associated and environmental communities with a high degree of con- fidence .
-
-the final output from picrust was an annotated table of predicted gene family counts for each sample with a detailed kegg orthology ko description and with enzyme entryannotation.
-
-interestingly picrust also estimates the contribution of each otu to a given gene function.
-
-therefore picrust accurately recaptured most of the variation in gene content obtained by metagenomic sequencing using only a few hundred 16s sequences.
-
-kidney from pigs engineered to lack functional ggta1 gene are protected from this hyper-acute phe- nomenon .however anti-a13-gal igs are involved in several diseases in hu- mans acting as possible protective antibodies against ggta1-positive germs or parasites  or against virus budding from animal-derived cells expressing a13-gal  or in contrast exacerbating inflammation in some chronic ggta1 parasitic diseases .
+PICRUSt uses ancestral state reconstruction to infer the content of the organism's last phylogenetic common ancestor based on one or more sequenced genomes along with a weighting method maximum likelihood or Bayesian posterior probability to predict the gene content for all organisms represented in the Greengenes phylogenetic tree of 16S sequences.
 

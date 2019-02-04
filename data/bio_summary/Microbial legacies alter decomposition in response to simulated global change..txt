@@ -1,30 +1,20 @@
-by 2013 the microbial origin effect was much less apparent 6 whereas the effects of litter origin and plot environment were slightly clearer d. plotting the effectfigure 3 percent estimated variance explained by plot environ- ment blue litter origin green and microbe origin orange on microbial composition and litter mass loss each year.
+By 2013 the microbial origin effect was much less apparent 6 whereas the effects of litter origin and plot environment were slightly clearer d. Plotting the effectFigure 3 Percent estimated variance explained by plot environ- ment blue litter origin green and microbe origin orange on microbial composition and litter mass loss each year.
 
-in fact the communities inside and outside of the litterbags were highly correlated supplementary figure s1.in contrast to the dissipating effect of the microbial origin over time plot environment and litter origin had a relatively consistent effect on microbial composition over the 3 years blue and green lines in d. this result was expected as the plot and litter treatments were maintained over the course of the experiment new litter from a single collection was added yearly.
+In fact the communities inside and outside of the litterbags were highly correlated Supplementary Figure S1.In contrast to the dissipating effect of the microbial origin over time plot environment and litter origin had a relatively consistent effect on microbial composition over the 3 years blue and green lines in d. This result was expected as the plot and litter treatments were maintained over the course of the experiment new litter from a single collection was added yearly.
 
-for fungal and bacterial composition estimated variance is plotted at zero if the factor was not significant p40.05 except one case where p  0.055 in the permanova 1. for litter mass loss all positive estimates are plotted and marked by 'ns' if not significant.sizes over time orange line in reveals that fungal composition was in part determined by the original inoculum even after 3 years.in the nitrogen experiment fungal composition was also still affected by the legacy of the microbial community after 3 years .
+We defined subject as the batch of litterbags with the same block plot litter origin and microbe origin.Results and DiscussionThe taxonomic composition and diversity in the litterbags indicated that the cages allowed a natural grassland litter community to persist while prevent- ing microbial immigration.
 
-we defined subject as the batch of litterbags with the same block plot litter origin and microbe origin.results and discussionthe taxonomic composition and diversity in the litterbags indicated that the cages allowed a natural grassland litter community to persist while prevent- ing microbial immigration.
+This comparison reveals how long a legacy of initial composition was apparent after being transferred to a new litter or plotTable 1 The effect of plot environment litter origin and microbe origin on microbial compositionFactor201120122013the litterbags Supplementary Figure S2.
 
-this comparison reveals how long a legacy of initial composition was apparent after being transferred to a new litter or plottable 1 the effect of plot environment litter origin and microbe origin on microbial compositionfactor201120122013the litterbags supplementary figure s2.
+For litter mass loss all positive estimates are plotted and marked by 'ns' if not significant.sizes over time orange line in reveals that fungal composition was in part determined by the original inoculum even after 3 years.In the nitrogen experiment fungal composition was also still affected by the legacy of the microbial community after 3 years .
 
-here we assayed the taxonomic composition of bacteria and fungi in the litterbags and followed composition and litter mass loss over 3 years.
+Here we assayed the taxonomic composition of bacteria and fungi in the litterbags and followed composition and litter mass loss over 3 years.
 
-global change manipulations were initiated in february 2007. in december 2010 microbial cage litterbags were filled with sterilized leaf litter collected from either ambient rainfall or drought treatment plots litter origin.
+In December 2010 microbial cage litterbags were filled with sterilized leaf litter collected from either ambient rainfall or drought treatment plots litter origin.
 
-to keep the litter treatment constant across years the litter from this collection was stored dry at room temperature and used each year of the experiment.
+To keep the litter treatment constant across years the litter from this collection was stored dry at room temperature and used each year of the experiment.
 
-hyphal lengths were converted to biomass mgc g- 1 dry litter assuming a fresh density of 1.1 g cm- 3 33 dry mass 40 c in dry mass and hyphal diameter of 5.2 mm  hyphal diameter was estimated as described in and did not vary by treatment or date.genetic analysesfrom each litterbag 0.05 g of ground litter was flash frozen using liquid nitrogen and stored at - 80 degc for dna extraction.
+Hyphal lengths were converted to biomass mgC g- 1 dry litter assuming a fresh density of 1.1 g cm- 3 33 dry mass 40 C in dry mass and hyphal diameter of 5.2 mm  Hyphal diameter was estimated as described in and did not vary by treatment or date.Genetic analysesFrom each litterbag 0.05 g of ground litter was flash frozen using liquid nitrogen and stored at - 80 degC for DNA extraction.
 
-in this litter community traits that affect litter decomposition appear to be corre- lated with the response to changing rainfall but not to changing nitrogen availability.two additional considerations will be important to understand the consequences of microbial lega- cies for predictions of ecosystem processes.
-
-bacteria and fungi decompose most plant detritus litter in terrestrial ecosystems  and this process is a key step in the carbon cycle as it mediates the balance of carbon being respired as co2 into the atmosphere or stored in the soil .in this study we tested the resilience of a microbial community--its composition and func- tioning--in its natural environment using microbial 'cages' in the largest and longest experiment of its kind.
-
-we then compared these metrics with those of control communities remaining in their original environment to quantify how long the origin of themicrobial community as opposed to its contempor- ary environment or litter substrate explained varia- tion in microbial composition or functioning 1b.we further investigated whether the resilience of microbial functioning in the litterbags was linked to changes in a community's potential for carbohy- drate degradation.
-
-b to assay resilience of the microbial community we quantified how well microbial origin explained either microbial composition or functioning litter mass loss at each time point.
-
-such a decline is expected as the initial inoculum would comprise litter specialists as well as transients fromthe results of permanova tests for bacterial or fungal composition for each year in each experiment drought or added nitrogen.
-
-to illustrate this analysis we first plot the results of the fungi in the drought experiment using non-metric mds 2. in 2011 just 3 months after the initial inoculation of the litterbags all three factors significantly altered fungal composi- tion po0.001 1. however most 18 of the variation in fungal composition could be explained by whether the inoculum originated from an ambient or drought plot firather than the origin of the litter 4 or the plot environment 5.5 of the litterbag fi1.
+In this litter community traits that affect litter decomposition appear to be corre- lated with the response to changing rainfall but not to changing nitrogen availability.Two additional considerations will be important to understand the consequences of microbial lega- cies for predictions of ecosystem processes.
 

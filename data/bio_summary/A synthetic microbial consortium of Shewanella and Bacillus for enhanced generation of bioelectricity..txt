@@ -1,30 +1,20 @@
-2015. so the strategy to provide more effective electron shuttles to designed microbial consortium broadens the potential application of mfcs in the future with continuous research achievement and technique development.conclusionsin conclusion we rationally designed and constructed a synthetic microbial consortium in which s. oneidensis mr-1 can efficiently utilize the high concentration of riboflavin produced by b. subtilis rh33 to largely enhance bioelectricity generation.
+Transferring electrons by electron shuttles flavins for MR-1 so-called mediated electron transfer MET in which electron shuttles undergo redox cycling between the electrode and the cell is an alternative way to direct-contact pathway.Riboflavin and rioboflavin-50-phosphate FMN were found to be secreted by MR-1 to mediate EET with riboflavin as the dominant component at biofilm mode Marsili et al.
 
-transferring electrons by electron shuttles flavins for mr-1 so-called mediated electron transfer met in which electron shuttles undergo redox cycling between the electrode and the cell is an alternative way to direct-contact pathway.riboflavin and rioboflavin-50-phosphate fmn were found to be secreted by mr-1 to mediate eet with riboflavin as the dominant component at biofilm mode marsili et al.
+Meanwhile previous studies revealed that both electrode and biofilm are inclined to absorb the electron shuttles and proper electrode modification would significantly increase the electron shuttles absorption by the p-p interaction between the electrode material and electron shuttle quinoidbenzenoid structure Marsili et al.
 
-2013 2014. so it is reasonable that om c-type cytochromes- based eet pathway was enhanced in the mixed-culture because mr-1 can utilize more riboflavin produced by rh33.figure 4. riboflavin concentration of anolyte in the mfcs with mr1 rh33 and the synthetic consortium respectively.figure 6. a cyclic voltammetry with a scanning rate of 1 mvs curves of the mfcs inoculated with mr-1 rh33 and the synthetic consortium under turnover conditions respectively.
+Considering the same MFC configuration and small cathode overpotential the low bioelectricity generation with RH33 inoculum can be ascribed to low efficiency in utilizing riboflavin for electron transfer Liu et al.
 
-meanwhile previous studies revealed that both electrode and biofilm are inclined to absorb the electron shuttles and proper electrode modification would significantly increase the electron shuttles absorption by the p-p interaction between the electrode material and electron shuttle quinoidbenzenoid structure marsili et al.
+The synthetic microbial consortium was also found to be an effective way to improve the performance of MFCs by producing more electron shuttles or broadening carbon source Tao et al.
 
-considering the same mfc configuration and small cathode overpotential the low bioelectricity generation with rh33 inoculum can be ascribed to low efficiency in utilizing riboflavin for electron transfer liu et al.
+The results proved that for the electroactive microbes which rely on soluble shuttles to facilitate EET the electron transfer from central metabolism to biofilm interface might act as the rate limitation step Yong et al.
 
-subtilis rh33 is a genetically modified strain obtained by integrating multi-copies of riboflavin operon in the genome using genome shuffling and dna recombination technologies in which the riboflavin production can be as high as 12 gl in fed-batch fermentation chen et al.
+Here we postulate that similar reason makes the low bioelectricity generation of MFCs with RH33 pure culture.To further compare the riboflavin utilization efficiency in MET by MR-1 and RH33 MFCs were first discharged under posed potential 0 V vs. SCE for 10 h and then the anolyte of MR-1 and RH33 were exchanged.
 
-2009. the synthetic microbial consortium was also found to be an effective way to improve the performance of mfcs by producing more electron shuttles or broadening carbon source tao et al.
+subtilis RH33 is a genetically modified strain obtained by integrating multi-copies of riboflavin operon in the genome using genome shuffling and DNA recombination technologies in which the riboflavin production can be as high as 12 gL in fed-batch fermentation Chen et al.
 
-2008. the strategy to rationally design microbial consortium presented here increases the potential of practical application of electron shuttles as it provides an easy and economic method to continuously provide selected electron shuttles by proper bacteria species selection and consortium design in mfc anode.
+The strategy to rationally design microbial consortium presented here increases the potential of practical application of electron shuttles as it provides an easy and economic method to continuously provide selected electron shuttles by proper bacteria species selection and consortium design in MFC anode.
 
-here we postulate that similar reason makes the low bioelectricity generation of mfcs with rh33 pure culture.to further compare the riboflavin utilization efficiency in met by mr-1 and rh33 mfcs were first discharged under posed potential 0 v vs. sce for 10 h and then the anolyte of mr-1 and rh33 were exchanged.
+It was found that proteins in the Mtr pathway especially OM c-type cytochromes MtrC and OmcA were essential for the activity of flavins-based electron shuttling Coursolle et al.
 
-it is interesting that a dramatic increase in current density from 249.8 to 1131.4 mam2 was observed instantly when anolyte of rh33 was added to the anode with mr-1 biofilm meanwhile difference was invisible for mr-1 anolyte with rh33 biofilm as shown in figure 5. these results confirm that improved mfc performance with syntheticmicrobial consortium was because mr-1 could efficiently utilize riboflavin produced by rh33.cv analyses at the scanning rate of 1 mvs were conducted when mfcs were at their maximum voltage outputs and thus the cv curves stand the current response to the voltage change under turnover conditions as shown in figure 6a.
-
-for the colony forming unit cfu counting colonies of mr-1 were coral in color while that those of rh33 were yellow.results and discussionsynthetic microbial consortium of shewanella andbacillus improved bioelectricity generationtwo-chamber mfcs were set up to investigate the potential difference of bioelectricity generation capability using mr-1 rh33 and mixed-culture as inocula separately.
-
-although pseudomonas species are well recognized in mfc microbial communities and are capable of synthesizing phenazines which are efficient electron shuttles bioelectricity in mfcs with the pure culture of pseudomonas species are usually very low boon et al.
-
-the peak clearly belongs to riboflavin however the reversible peak shape here indicates that riboflavin hardly made any contribution to generating catalytic current meaning rh33 could not effectively use riboflavin to facilitate eet.
-
-2015. in this study a synthetic microbial consortium in which high concentration of riboflavin produced by bacillus subtilis rh33 can be utilized by s. oneidensis mr-1 to boost bioelectricity generation was rationally designed and successfully constructed.b.
-
-this suggested that higher amount of riboflavin was present in rh33 and synthetic microbial consortium since the peak height of dpv is related to the abundance of electroactive species.
+Although Pseudomonas species are well recognized in MFC microbial communities and are capable of synthesizing phenazines which are efficient electron shuttles bioelectricity in MFCs with the pure culture of Pseudomonas species are usually very low Boon et al.
 

@@ -1,30 +1,20 @@
-in contrast to patient populations however our experiments have used genetically identical mice with similar microbiota compositions that receive identical antibiotic pretreatment prior to infection with precisely quantified inocula of c. difficile spores.we obtained 33 phylogenetically diverse c. difficile isolates from patients hospital- ized at memorial sloan kettering cancer center mskcc and barnes-jewish hospital infected mice with these c. difficile isolates and monitored them for signs of symp- tomatic disease.
+In contrast to patient populations however our experiments have used genetically identical mice with similar microbiota compositions that receive identical antibiotic pretreatment prior to infection with precisely quantified inocula of C. difficile spores.We obtained 33 phylogenetically diverse C. difficile isolates from patients hospital- ized at Memorial Sloan Kettering Cancer Center MSKCC and Barnes-Jewish Hospital infected mice with these C. difficile isolates and monitored them for signs of symp- tomatic disease.
 
-the precise mechanism by which lithocholic acid tolerance by c. difficile increases in vivo disease severity remains to be defined.while many studies have focused on established c. difficile virulence determinants ex vivo and in vitro experiments combined with whole-genome sequencing of pheno- typically distinct c. difficile isolates can provide a genome-wide perspective on viru- lence and pathogenicity.
+The precise mechanism by which lithocholic acid tolerance by C. difficile increases in vivo disease severity remains to be defined.While many studies have focused on established C. difficile virulence determinants ex vivo and in vitro experiments combined with whole-genome sequencing of pheno- typically distinct C. difficile isolates can provide a genome-wide perspective on viru- lence and pathogenicity.
 
-because patients infected with c. dif- ficile are unique in terms of medical history microbiome composition and immune competence determining the relative contribution of c. difficile virulence to disease severity has been challenging and conclusions regarding the virulence of specific strains have been inconsistent.
+Because patients infected with C. dif- ficile are unique in terms of medical history microbiome composition and immune competence determining the relative contribution of C. difficile virulence to disease severity has been challenging and conclusions regarding the virulence of specific strains have been inconsistent.
 
-we found that murine in- fections with c. difficile clade 2 strains including multilocus sequence type 1ri- botype 027 were associated with higher lethality and that c. difficile strains associated with greater human disease severity caused more severe disease in mice.
+We found that murine in- fections with C. difficile clade 2 strains including multilocus sequence type 1ri- botype 027 were associated with higher lethality and that C. difficile strains associated with greater human disease severity caused more severe disease in mice.
 
-we tested 33 distinct clinical c. difficile isolates for their ability to cause disease in genetically identical mice and found that c. difficile strains be- longing to clade 2 were associated with higher mortality.
+We tested 33 distinct clinical C. difficile isolates for their ability to cause disease in genetically identical mice and found that C. difficile strains be- longing to clade 2 were associated with higher mortality.
 
-mskcc patients were classified as c. difficile severe if they had serum creatinine levels that were 1.5 times the premorbid level and had confirmed colitis as evidenced by imaging.wild-type c57bl6 mice were rendered susceptible to c. difficile infection by treat- ment with a cocktail of several antibiotics see materials and methods .
+MSKCC patients were classified as C. difficile severe if they had serum creatinine levels that were 1.5 times the premorbid level and had confirmed colitis as evidenced by imaging.Wild-type C57BL6 mice were rendered susceptible to C. difficile infection by treat- ment with a cocktail of several antibiotics see Materials and Methods .
 
-twenty-four hours after antibiotic cessation designated day 0 the mice were orally gavaged with 100 spores from specific c. difficile clinical isolates and then monitored for the next 2 weeks for measures of disease burden and c. difficile colonization.
+Twenty-four hours after antibiotic cessation designated day 0 the mice were orally gavaged with 100 spores from specific C. difficile clinical isolates and then monitored for the next 2 weeks for measures of disease burden and C. difficile colonization.
 
-two other in vitro phenotypes that have previously been associated with c. difficile virulence sporulation rate   and germination efficiency  likewise did not demonstrate an associa- tion with acute virulence across our 33 clinical isolates data not shown.finally recent studies from our lab and others have examined the relationship between secondary bile acid concentrations and the ability of c. difficile vegetative cells to grow   .
+Two other in vitro phenotypes that have previously been associated with C. difficile virulence sporulation rate   and germination efficiency  likewise did not demonstrate an associa- tion with acute virulence across our 33 clinical isolates data not shown.Finally recent studies from our lab and others have examined the relationship between secondary bile acid concentrations and the ability of C. difficile vegetative cells to grow   .
 
-the mechanisms by which c. difficile causes severe disease in one individual but silently colonizes another are multifactorial and likely involve host factors microbiota composition and c. difficile strain differences.
+The mechanisms by which C. difficile causes severe disease in one individual but silently colonizes another are multifactorial and likely involve host factors microbiota composition and C. difficile strain differences.
 
-moreover the notoriously hypervirulent mlst 1 group was heterogeneous perhaps explaining the disagreement among published reports .a major hurdle facing previous investigations of c. difficile strain type and virulence had been deducing virulence from disease severities in the human host patients diagnosed with c. difficile colitis in addition to differing in age underlying disease and immune status often received different predisposing antibiotic treatments chemother- apy or other medical interventions.
-
-thus neither the levels of toxin production nor toxin sequence explain differences in in vivo c. difficile virulence.preliminary investigations into c. difficile virulence factors found no correlation with either sporulation rates or germination efficiency.
-
-in addition on days 1 2 7 and 14 postinfection fecal pellets were collected for quantification of c. difficile burden .quantitative c. difficile culture and toxin a and b titer determinations.
-
-while some individuals are asymptomatic c. difficile carriers symptomatic disease ranges from mild diarrhea to potentially lethal toxic megacolon.
-
-however strain-specific differences in c. difficile virulence have also been implicated in determining colitis severity.
-
-to address this we used a mouse model to test 33 clinical c. difficile strains isolated from patients with disease severities ranging from asymptomatic carriage to severe colitis and we determined their relative in vivo vir- ulence in genetically identical antibiotic-pretreated mice.
+Moreover the notoriously hypervirulent MLST 1 group was heterogeneous perhaps explaining the disagreement among published reports .A major hurdle facing previous investigations of C. difficile strain type and virulence had been deducing virulence from disease severities in the human host patients diagnosed with C. difficile colitis in addition to differing in age underlying disease and immune status often received different predisposing antibiotic treatments chemother- apy or other medical interventions.
 

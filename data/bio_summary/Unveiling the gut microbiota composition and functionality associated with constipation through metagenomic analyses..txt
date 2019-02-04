@@ -1,30 +1,20 @@
-interestingly the comparison between hs and fc datasets showed that profiles obtained from hs individuals are characterized by a statis- tically significant over-representation of bacteroides  absolute 1.28 p-value  0.01 roseburia  abso- lute 1.28 p-value  0.01 and coprococcus 3  absolute 0.14 p-value  0.01 and a statistically significantfigure 2. exploration of the diversity in hs and fc groups.
+functional constipation the use of stool samples does not suffer from the aforementioned problems associated with collection of biopsies.While exploration of the functional role of the gut microbiota in fecal transit timehas been attempted inthe past through analysis of urine metabolites the whole gut microbiome metabolic potential and its impact on host physiology and development of functional constipation has yet to be elucidated.
 
-openreceived 24 may 2017accepted 9 august 2017 published xx xx xxxxunveiling the gut microbiota composition and functionality associated with constipation through metagenomic analysesleonardo mancabelli1 christian milani 1 gabriele andrea lugli1 francesca turroni1 marta mangifesta12 alice viappiani2 andrea ticinesi 3 antonio nouvenne3 tiziana meschi3 douwe van sinderen4  marco ventura1functional constipation fc is a gastrointestinal disorder with a high prevalence among the general population.
+the prevalence showed that these taxa are present in 20 of FC or HS profiles thus indicating the absence of specific microbial biomarkers whose presence or absence is associated with constipation while pointing at a probable role played by the overall gut microbiota at functional level.Figure 1.
 
-notably the gut microbiota of fc individuals was shown to be depleted of members belonging to bacteroides roseburia and coprococcus 3. furthermore the metabolic capabilities of the gut microbiomes of five fc and five hs individuals were evaluated through shotgun metagenomics using a miseq platform indicating that hs are enriched in pathways involved in carbohydrate fatty acid and lipid metabolism as compared to fc.
+the anti-inflammatory genus Feacalibacterium as a biomarker of functional constipation highlights that increased relative abundance of certain taxa in the presence of a gut disorder may not reflect a taxa-specific role in patho- genesis but may be linked to a global alteration of gut microbiota's homeostasis.
 
-email here in order to identify a statistically significant and comprehensive correlation between microbiota and constipation we performed 16 s rrna-based profiling analysis of 147 stool samples collected from 68 functional constipated fc and 79 healthy subjects hs.
+OPENReceived 24 May 2017Accepted 9 August 2017 Published xx xx xxxxUnveiling the gut microbiota composition and functionality associated with constipation through metagenomic analysesLeonardo Mancabelli1 Christian Milani 1 Gabriele Andrea Lugli1 Francesca Turroni1 Marta Mangifesta12 Alice Viappiani2 Andrea Ticinesi 3 Antonio Nouvenne3 Tiziana Meschi3 Douwe van Sinderen4  Marco Ventura1Functional constipation FC is a gastrointestinal disorder with a high prevalence among the general population.
 
-the pcoa plot shows that the majority of the samples are grouped as two different clusters that correspond to fc or hs individuals thus highlighting an intriguing difference in microbiota composition between individuals that suffer from functional constipation and healthy individuals fig.
+The PCoA plot shows that the majority of the samples are grouped as two different clusters that correspond to FC or HS individuals thus highlighting an intriguing difference in microbiota composition between individuals that suffer from functional constipation and healthy individuals Fig.
 
-the prevalence showed that these taxa are present in 20 of fc or hs profiles thus indicating the absence of specific microbial biomarkers whose presence or absence is associated with constipation while pointing at a probable role played by the overall gut microbiota at functional level.figure 1. evaluation of the alpha- and beta-diversity in the 147 analyzed samples.
+Here we confirm preliminary findings regarding gut microbiota compositional shifts in individuals affected by FC as compared to healthy controls which are concurrent with a statistically significant increase of the gut microbiota biodiversity.
 
-functional constipation the use of stool samples does not suffer from the aforementioned problems associated with collection of biopsies.while exploration of the functional role of the gut microbiota in fecal transit timehas been attempted inthe past through analysis of urine metabolites the whole gut microbiome metabolic potential and its impact on host physiology and development of functional constipation has yet to be elucidated.
+Furthermore the metabolic capabilities of the gut microbiomes of five FC and five HS individuals were evaluated through shotgun metagenomics using a MiSeq platform indicating that HS are enriched in pathways involved in carbohydrate fatty acid and lipid metabolism as compared to FC.
 
-the american journal of gastroenterology 106 1582-1591 quiz 1581 1592 doi10.1038ajg.2011.164 2011.belsey j. greenfield s.  candy d.  geraint m. systematic review impact of constipation on quality of life in adults and children.alimentary pharmacology  therapeutics 31 938-949 doi2010.zhao y.  yu y. b. intestinal microbiota and chronic constipation.
+The bar plot shows the relative difference between the average abundance in HS and FC subjects of each pathway displaying ANOVA with p-value  0.05.glycerol degradation decrease of -58.93 in HS p-value  0.05 Fig.
 
-more specifically we obtained 68 samples from individuals affected by functional constipation fc while 44 samples were collected from healthy subjects hs.
+Interestingly average rarefaction curves revealed a difference between FC and HS samples in that on average the former samples were shown to exhibit a higher level of gut microbiota complexity compared to the latter samples.
 
-when analyzed at genus level the fc group displayed high levels of bacteroides 34.25 - 18.56 faecalibacterium 6.85 - 6.19 alistipes 6.48 - 9.69 lachnospira 4.44 - 6.13 and unclassified member of lachnospiraceae family 3.92 - 2.40. similarly the most represented taxa detected in hs samples were bacteroides 45.23 - 17.90 alistipes 5.34 - 5.60 and unclassified member of lachnospiraceae family 4.66 - 4.38.comparative analysis of the 331 bacterial taxa predicted by genus-level analysis revealed that 23 generaappeared to be present only in hs samples while 17 were uniquely present in fc subjects table.
-
-interestingly this genus has been reported to contribute to the pathogenesis of constipation via several mechanisms such as inhibition of mucin secretion and reduction of stool volume.metagenomic characterization of fc and hs microbiomes.
-
-furthermore comparison between hs and fc samples highlights a significant difference in pathways implicated infigure 3. functional characterization of fc and hs microbiomes.
-
-the bar plot shows the relative difference between the average abundance in hs and fc subjects of each pathway displaying anova with p-value  0.05.glycerol degradation decrease of -58.93 in hs p-value  0.05 fig.
-
-notably an in depth analysis of 16 s rrna otus of hs samples revealed that 17.33 of the reads belonging to the bacteroides genus correspond to unknown species followed by bacteroides vulgatus 13.83 bacteroides uniformis 4.21 and bacteroides fragilis 1.74 thus indicating that further genomic analyses are still needed to shed light on the biological role of this genus in protecting against or in preventing fc.conclusionsfunctional constipation is a widespread gastrointestinal disorder responsible for difficult or infrequent bowel movements defined as three or less defecations per week.
-
-we enrolled 68 volunteers suffering from functional constipation fc and 44 healthy subjects hs in an outpatient clinic setting.
+FC and HS datasets and corresponding clusters are colored in blue and red respectively.Difference in gut microbiota composition.
 

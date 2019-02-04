@@ -1,30 +1,20 @@
-along with methanotrophic bacteria supplementary results in the deep biofilms suggest a much larger potential for methane cycling in the deep communities.in summer the deep communities were in contact with well oxygenated water at the time of sampling however oxygen profiles indicated near-zero oxygen concentrations 2.9 of air equilibrium overlying the biofilms in spring supplementary fig.
+There is presently no summer bedfast ice in the lake and therefore no benthic sites that remain frozen throughout the year.Large changes in ice cover have already been observed throughout the Arctic with fewer lakes freezing to the bottom as the thickness of winter ice decreases.WHL lost its ice cover on two occasions in recent yearsand a shift from multi-year ice to full ice-out conditions in summer could expand the habitat for communities that remain active during winter.
 
-s4 consistent with the global distribution of cold-dwelling ecotypes of cyanobacteria.similar to antarctic lake communitiespotentially nitrogen-fixingcyanobacteria of the order nostocales were rare in the deep biofilms 0.01  of bacterial reads but abundant in the moat communities 6.2  supplementary fig.
+We found a high proportion of active OTUs in both communities with the rRNA OTUs accounting for 72-88  of1Departement de biologie  Centre d'etudes nordiques CEN Universite Laval Quebec QC G1V 0A6 Canada 2Departement de biochimie de microbiologie et de bio- informatique  Centre d'etudes nordiques CEN Universite Laval Quebec QC G1V 0A6 Canada 3Institut de biologie integrative et des systemes IBIS Universite Laval Quebec QC G1V 0A6 Canada 4Takuvik Unite Mixte Internationale UMI 3376 Universite Laval Canada  Centre National de la Recherche Scientifique France Quebec QC GIV 0A6 Canada and 5Centre Eau Terre Environnement Institut national de la recherche scientifique INRS Centre d'etudes nordiques CEN Quebec QC G1K 9A9 Canada Correspondence Warwick F. Vincent Received 5 March 2017 Revised 7 June 2017 Accepted 9 June 2017Microbiomes in the changing ArcticV Mohit et al.2a180degb90degWx0degcde005 mm102030Fig.
 
-as a resultof this taxonomic distribution the picrust analysis of the cdna reads predicted a greater percentage of the nitrogenase nifh gene in the moat microbiome supplementary table s3.eukaryote and bacteria otu chao1 richness estimates for the deep mat microbiome were high relative to the moat biofilms fig.
+Diatoms also tend to be abundant in Antarctic lake mats found under perennial ice cover and are known to tolerate a range of light conditions with a potential for heterotrophic growth when light becomes limiting.In contrast heterotrophic ciliates were the dominant microbial eukaryotes in the moat mats suggesting a more active microbial food web and dominance of heterotrophy with ciliates grazing on other eukaryotes and bacteria.
 
-compared to the moat biofilms there were more bacterial taxa normally associated with anaerobic conditions in the deep biofilms including sulfate-reducing delta-proteobacteria chloro- flexi ws3 gn04 spirochaetes clostridia denitrifying genus thiobacillus supplementary fig.
+Vigneron J. Comte and three anonymous referees for their comments and suggestions on the manuscript the Polar Continental Shelf Program for logistic support and Parks Canada for use of their facilities at Quttinirpaaq National Park.4AUTHOR CONTRIBUTIONSMicrobiomes in the changing ArcticV Mohit et al.Edgar R. C. UPARSE highly accurate OTU sequences from microbial ampliconV.M.
 
-asterisks indicate significant differences between deep vs. moat samples t-test p  0.05. the pcoa and taxonomic results shown are for the rrna analysis rdna results are given in supplementary fig.
+It was assumed that benthic communities were restricted to this moat area because earlier ice coring in the central part of the lake had recorded 3.5-4.3 m of ice that extended to the lake bed.
 
-a location of ward hunt lake red star relative to the north pole white cross the base map is the international bathymetric chart of the arctic ocean ibcao of the intergovernmental oceanographic commission ioc version 3.0 released in the public domain on 8 june 2012b ward hunt lake in mid-july 2015 showing the littoral open water zone moat and multi- year ice over the deeper waters of the lake c shallow biofilm over the rocks in the moat zone d sample of the deep biofilm in a mini-glew sediment core 38 mm diameter from 10 m depth and e schematic diagram of the biofilm color zonation description in supplementary resultsthe rdna otus supplementary table s2.
+In 2014 an extensive benthic biofilm was discovered in this deep perennially ice-covered zone of WHL SupplementaryVideo 1 and was sampled the following year.We hypothesized that the deep biofilm communities of WHL would have a lower alpha-diversity than the moat biofilms because they would be dominated by microbial specialists that were adapted to a low solar energy regime caused by the thick perennial ice combined with low nutrient conditions in this oligotrophic lake.
 
-in 2014 an extensive benthic biofilm was discovered in this deep perennially ice-covered zone of whl supplementaryvideo 1 and was sampled the following year.we hypothesized that the deep biofilm communities of whl would have a lower alpha-diversity than the moat biofilms because they would be dominated by microbial specialists that were adapted to a low solar energy regime caused by the thick perennial ice combined with low nutrient conditions in this oligotrophic lake.
+In contrast to the deep zone of the lake that does not freeze to theMicrobiomes in the changing Arctic V Mohit et al.3Fig.
 
-we found a high proportion of active otus in both communities with the rrna otus accounting for 72-88  of1departement de biologie  centre d'etudes nordiques cen universite laval quebec qc g1v 0a6 canada 2departement de biochimie de microbiologie et de bio- informatique  centre d'etudes nordiques cen universite laval quebec qc g1v 0a6 canada 3institut de biologie integrative et des systemes ibis universite laval quebec qc g1v 0a6 canada 4takuvik unite mixte internationale umi 3376 universite laval canada  centre national de la recherche scientifique france quebec qc giv 0a6 canada and 5centre eau terre environnement institut national de la recherche scientifique inrs centre d'etudes nordiques cen quebec qc g1k 9a9 canada correspondence warwick f. vincent received 5 march 2017 revised 7 june 2017 accepted 9 june 2017microbiomes in the changing arcticv mohit et al.2a180degb90degwx0degcde005 mm102030fig.
+We acknowledge funding support from the Natural Sciences and Engineering Research Council of Canada NSERC including the Discovery Frontiers project ADAPT the Fonds de Recherche du Quebec-Nature et Technologies FQRNT the ArcticNet Network of Centres of Excellence Northern Frontier and the program Sentinel North financed by the Canada First Research Excellence Fund CFREF.
 
-this analysis of the whl deep microbiome revealed a phylogenetic composition that differed markedly from the moat biofilms fig.
+We thank the Genomics Analysis Platform of the Institut de biologie integrative et des systemes IBIS of Universite Laval led by B. Boyle for sequencing advice and support.
 
-cyanobacteria were the most abundant bacteria in both deep and moat communities in whl fig.
-
-and supplementary fig.
-
-s1 and net relatedness indices supplementary fig.
-
-but differences in the cyanobacterial assemblages were observed between the two habitats supplementary fig.
-
-leptolyngbya supplementary fig.
-
-at a finer taxonomic scale many of the abundant otus were found to be closely related to antarctic cyanobacteria supplementary fig.
+Geobiology 9 280-293 2011.Smith H. J. et al.
 

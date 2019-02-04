@@ -1,30 +1,20 @@
-surprisingly there was no difference in the serum levels of meoh and fa between the mice treated with ascorbic acid 200 mgkg or tocopherol 100 mgkg and the control groups figure s1.thus we concluded that the ability of ala to exert a diminishing effect on the metabolic content of meoh and fa does not appear to be directly related to its antioxidant properties.investigation of the ala effect on hepatic detoxification function in a perfused rat liver modelthe liver is the main site for the synthesis of ala mayr et al.
+Surprisingly there was no difference in the serum levels of MeOH and FA between the mice treated with ascorbic acid 200 mgkg or tocopherol 100 mgkg and the control groups Figure S1.Thus we concluded that the ability of ALA to exert a diminishing effect on the metabolic content of MeOH and FA does not appear to be directly related to its antioxidant properties.Investigation of the ALA Effect on Hepatic Detoxification Function in a Perfused Rat Liver ModelThe liver is the main site for the synthesis of ALA Mayr et al.
 
-apparently the hippocampus figure 3b is responsible for the responsiveness of the brain to ala the rest parts of the brain did not reflect any changes figures 3f-h.we concluded that the brain along with the spleen are sensitive to the action of ala and are involved in maintaining a low level of fa in mammals.ala increases gsh synthesis and accelerates fa metabolism by activation of the brain aldh2 enzymebiologically ala ameliorates oxidative stress in the mammalian brain and this mechanism includes increasing the total gsh level panigrahi et al.
+Apparently the hippocampus Figure 3B is responsible for the responsiveness of the brain to ALA the rest parts of the brain did not reflect any changes Figures 3F-H.We concluded that the brain along with the spleen are sensitive to the action of ALA and are involved in maintaining a low level of FA in mammals.ALA Increases GSH Synthesis and Accelerates FA Metabolism by Activation of the Brain ALDH2 EnzymeBiologically ALA ameliorates oxidative stress in the mammalian brain and this mechanism includes increasing the total GSH level Panigrahi et al.
 
-since ala reduces the content of both fa and meoh in the blood of mice figure 1 we concluded that ala activated the fa and meoh oxidation system rather than alternative mechanisms of fa clearance.
+Since ALA reduces the content of both FA and MeOH in the blood of mice Figure 1 we concluded that ALA activated the FA and MeOH oxidation system rather than alternative mechanisms of FA clearance.
 
-studies on rat aging have suggested that ala usage results in improved memory performance and delayed structural mitochondrial decay ames and liu 2004. historically the ability of ala to ameliorate vitamin c and e deficiencies in laboratory guinea pigs and rats respectively first suggested that ala functions as an antioxidant rosenberg and culik 1959. oxidized and reduced dihydrolipoic acid dhla forms of ala have been found to chelate heavy metals ou et al.
+Statistical analyses were programmed in R using the Rstudio soft.RESULTSALA Influence on the MeOH and FA Content in Mice BloodWe used an experimental approach in which mice were administered ALA concomitantly with 4-MP and showed that theadministration of ALA 20 mgkg and 4-MP 10 mgkg led to statistically significant reductions of MeOH Figure 1A and FA Figure 1B content in the blood.
 
-statistical analyses were programmed in r using the rstudio soft.resultsala influence on the meoh and fa content in mice bloodwe used an experimental approach in which mice were administered ala concomitantly with 4-mp and showed that theadministration of ala 20 mgkg and 4-mp 10 mgkg led to statistically significant reductions of meoh figure 1a and fa figure 1b content in the blood.
+The mechanism of ALA activation of the ALDH2 gene in brain cells is unknown.Although natural antioxidants namely vitamins C and E did not change blood FA Figure S1 the possibility that the antioxidant properties of ALA are also involved in the activation of the ALDH2 gene in brain cells cannot be excluded.
 
-the mechanism of ala activation of the aldh2 gene in brain cells is unknown.although natural antioxidants namely vitamins c and e did not change blood fa figure s1 the possibility that the antioxidant properties of ala are also involved in the activation of the aldh2 gene in brain cells cannot be excluded.
+To test this assumption we administered ALA in mice in order to examine the effect on FA metabolism and collected blood samples for the measurement of FA.
 
-to test this assumption we administered ala in mice in order to examine the effect on fa metabolism and collected blood samples for the measurement of fa.
+Two of them SMAD3 and EGR1 are up-regulated in our array data Table S4 and thus they could be responsible for ALDH2 regulation by ALA.In the current work the involvement of ALA in maintaining a low level of FA in mice explains the results of published studies revealing a relationship between the elevated level of endogenous FA and neurodegeneration in humans Tang et al.
 
-two of them smad3 and egr1 are up-regulated in our array data table s4 and thus they could be responsible for aldh2 regulation by ala.in the current work the involvement of ala in maintaining a low level of fa in mice explains the results of published studies revealing a relationship between the elevated level of endogenous fa and neurodegeneration in humans tang et al.
+In principle there are two key strategies to balance the endogenous FA concentration i inhibition of ADH1-mediated FA synthesis and ii stimulation of FA clearance through ALDH2 and ADH5 activation.
 
-fa is converted to formic acid by the participation of enzymes mainly from the class of aldehyde dehydrogenase2 aldh2 sladek 2003 sophos and vasiliou 2003. the oxidation of fa also occurs by the participation of adh5 or the glutathione-dependent kh-adh fa dehydrogenase fdh enzyme tulpule et al.
+Historically the ability of ALA to ameliorate vitamin C and E deficiencies in laboratory guinea pigs and rats respectively first suggested that ALA functions as an antioxidant Rosenberg and Culik 1959.
 
-in principle there are two key strategies to balance the endogenous fa concentration i inhibition of adh1-mediated fa synthesis and ii stimulation of fa clearance through aldh2 and adh5 activation.
-
-with 300 ul of normal saline or 4-mp 10 mgkg with corresponding volume of ala vehicle in normal saline or a mix of ala 20 mgkg and 4-mp 10 mgkg in normal saline.
-
-however the isolated liver which had ceased all connections with the rest of the body lost its ability to respond to both 4-mp figure 2c and ala figure 2d.we concluded that the isolated rat liver failed to generate meoh and is not sensitive to exogenous ala.ala influence on mrna accumulation in mouse organsto understand which organs react to ala intake we analyzed the mrna content for fa-metabolizing genes.
-
-figure s2 shows that neither a racemic mixture of ala or individual isomers r- and s-ala notably affect the activity of aldh2 adh5 and adh1 in liver and brain homogenates in vitro.we concluded that ala increases the detoxification activity of aldh2 in the mouse brain without affecting its specific activity.discussionala is widely used as antioxidant in clinical practice venigalla et al.
-
-expression analysis of the fa-metabolizing gene cluster revealed that ala intake increased the accumulation of mrna from fa-metabolizing genes in mouse brains in generalparticularly in the mouse hippocampus aldh2 cat and spleen adh1 cyp2e1 adh5 figure 3. it has been suggested that ala predominantly ameliorates oxidative stress in the mammalian brain through nrf2 activation macias-barragan et al.
-
-2017.intriguingly there was no ala effect in mouse liver or in a rat liver isolated from the rest of the body figure 2. it can be assumed that although the liver is the main organ of ala synthesis hiltunen et al.
+with 300 ul of normal saline or 4-MP 10 mgkg with corresponding volume of ALA vehicle in normal saline or a mix of ALA 20 mgkg and 4-MP 10 mgkg in normal saline.
 

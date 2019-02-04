@@ -1,30 +1,20 @@
-.arumugam m raes j pelletier e le paslier d yamada t mende dr fernandes gr tap j bruls t batto jm bertalan m borruel n casellas f fernandez l gautier l hansen t hattori m hayashi t kleerebezem m kurokawa k leclerc m levenez f manichanh c nielsen hb nielsen t pons n poulain j qin j sicheritz-ponten t tims s torrents d ugarte e zoetendal eg wang j guarner f pedersen o de vos wm brunak s dore j metahit consortium antolin m artiguenave f blottiere hm almeida m brechot c cara c chervaux c cultrone a delorme c denariaz g dervyn r et al.
+.Arumugam M Raes J Pelletier E Le Paslier D Yamada T Mende DR Fernandes GR Tap J Bruls T Batto JM Bertalan M Borruel N Casellas F Fernandez L Gautier L Hansen T Hattori M Hayashi T Kleerebezem M Kurokawa K Leclerc M Levenez F Manichanh C Nielsen HB Nielsen T Pons N Poulain J Qin J Sicheritz-Ponten T Tims S Torrents D Ugarte E Zoetendal EG Wang J Guarner F Pedersen O de Vos WM Brunak S Dore J MetaHIT Consortium Antolin M Artiguenave F Blottiere HM Almeida M Brechot C Cara C Chervaux C Cultrone A Delorme C Denariaz G Dervyn R et al.
 
-.serino m luche e gres s baylac a berge m cenac c waget a klopp p iacovoni j klopp c mariette j bouchez o lluch j ouarne f monsan p valet p roques c amar j bouloumie a theodorou v burcelin r. 2012. metabolic adaptation to a high-fat diet is associated with a change in the gut microbiota.
+.Caporaso JG Kuczynski J Stombaugh J Bittinger K Bushman FD Costello EK Fierer N Pena AG Goodrich JK Gordon JI Huttley GA Kelley ST Knights D Koenig JE Ley RE Lozupone CA McDonald D Muegge BD Pirrung M Reeder J Sevinsky JR Turnbaugh PJ Walters WA Widmann J Yatsunenko T Zaneveld J Knight R. 2010.
 
-.caporaso jg kuczynski j stombaugh j bittinger k bushman fd costello ek fierer n pena ag goodrich jk gordon ji huttley ga kelley st knights d koenig je ley re lozupone ca mcdonald d muegge bd pirrung m reeder j sevinsky jr turnbaugh pj walters wa widmann j yatsunenko t zaneveld j knight r. 2010. qiime allows analysis of high-throughput community sequencing data.
+The human gut microbiota serves as an important bridge connecting diet to human metabolism since emerging evidence points to the metabolic mediation by the microbiota of both harmful and beneficial effects of dietary nutrients on human health  .In this study we explored the microbial and metabolic differences in the gut environment between two groups of adolescents--Egyptians consuming a Mediterra- nean diet and U.S. teenagers fed a typical Western diet.
 
-the human gut microbiota serves as an important bridge connecting diet to human metabolism since emerging evidence points to the metabolic mediation by the microbiota of both harmful and beneficial effects of dietary nutrients on human health  .in this study we explored the microbial and metabolic differences in the gut environment between two groups of adolescents--egyptians consuming a mediterra- nean diet and u.s. teenagers fed a typical western diet.
+.Serino M Luche E Gres S Baylac A Berge M Cenac C Waget A Klopp P Iacovoni J Klopp C Mariette J Bouchez O Lluch J Ouarne F Monsan P Valet P Roques C Amar J Bouloumie A Theodorou V Burcelin R. 2012.
 
-considering the differentially abundant genera the higher abundance of prevotella in egkhlt samples and the reciprocal higher abundance of bacteroides in the uskhlt samples both are members of class bacteroidia are consistent with several previous studies that indicated a higher prevalence of members of bacteroides in samples from the united states western europe and industrialized asian countries than in samples from less-industrialized and more-rural populations .
+Considering the differentially abundant genera the higher abundance of Prevotella in egkHLT samples and the reciprocal higher abundance of Bacteroides in the uskHLT samples both are members of class Bacteroidia are consistent with several previous studies that indicated a higher prevalence of members of Bacteroides in samples from the United States western Europe and industrialized Asian countries than in samples from less-industrialized and more-rural populations .
 
-.o'keefe sj ou j aufreiter s o'connor d sharma s sepulveda j fukuwatari t shibata k mawhinney t. 2009. products of the colonic microbiota mediate the effects of diet on colon cancer risk.
+Thus the intestinal microbiota might be selected on the basis of the diets that we consume which can open op- portunities to affect gut health through modulation of gut microbiota with dietary supplementations.KEYWORDS children diet metabolomics metagenomics microbiota nutritionJanuaryFebruary 2017 Volume 2 Issue 1 e00169-16msystems.asm.org 1hroughout human evolution dramatic shifts in the lifestyle and geographical distribution of the human species have led to periodic changes in consumed diets and nutritional intakes.
 
-these as- sociations are consistent with the differences between the typical u.s. diet western diet high in animal protein and fats and the typical egyptian diet mediterranean diet high in plant polysaccharides.
+These as- sociations are consistent with the differences between the typical U.S. diet Western diet high in animal protein and fats and the typical Egyptian diet Mediterranean diet high in plant polysaccharides.
 
-thus the intestinal microbiota might be selected on the basis of the diets that we consume which can open op- portunities to affect gut health through modulation of gut microbiota with dietary supplementations.keywords children diet metabolomics metagenomics microbiota nutritionjanuaryfebruary 2017 volume 2 issue 1 e00169-16msystems.asm.org 1hroughout human evolution dramatic shifts in the lifestyle and geographical distribution of the human species have led to periodic changes in consumed diets and nutritional intakes.
+.Steyn NP Mann J Bennett PH Temple N Zimmet P Tuomilehto J Lindstrom J Louheranta A.
 
-.steyn np mann j bennett ph temple n zimmet p tuomilehto j lindstrom j louheranta a.
+Simultaneous analyses of microbial community membership and functional gene pool data combined with the quantification of metabolites in the same samples allowed integrative analysis of these data sets and revealed links between the gut microbiota and the intestinal environment.RESULTSGut microbiota compositions differ between healthy U.S. and Egyptian teen- agers.
 
-to achieve that goal we compared fecal microbiota structures and functions as well as fecal metabolites in two cohorts of children teenagers from the united states consuming a typical western diet and population group age-matched egyptians consuming a mediterranean-type diet.
-
-simultaneous analyses of microbial community membership and functional gene pool data combined with the quantification of metabolites in the same samples allowed integrative analysis of these data sets and revealed links between the gut microbiota and the intestinal environment.resultsgut microbiota compositions differ between healthy u.s. and egyptian teen- agers.
-
-the revealed corroborating differences in fecal microbiota structure and functions and metabolite profiles between egyptian and u.s. teenagers are consistent with the nutrient variation between mediterranean and western diets.importance the human gastrointestinal microbiota functions as an important me- diator of diet for host metabolism.
-
-am j clin nutr 81 341-354.reedy j krebs-smith sm.
-
-.nakayama j watanabe k jiang j matsuda k chao sh haryono p la-ongkham o sarwoko ma sujaya in zhao l chen kt chen yp chiu hh hidaka t huang nx kiyohara c kurakawa t sakamoto n sonomoto k tashiro k tsuji h chen mj leelavatcharamas v liao cc nitisinprasert s rahayu es ren fz tsai yc lee yk.
-
-.ordiz mi may td mihindukulasuriya k martin j crowley j tarr pi ryan k mortimer e gopalsamy g maleta k mitreva m young g manary mj.
+The revealed corroborating differences in fecal microbiota structure and functions and metabolite profiles between Egyptian and U.S. teenagers are consistent with the nutrient variation between Mediterranean and Western diets.IMPORTANCE The human gastrointestinal microbiota functions as an important me- diator of diet for host metabolism.
 

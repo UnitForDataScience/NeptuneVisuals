@@ -1,30 +1,20 @@
-received 5 january 2017  revised 11 april 2017  accepted 18 april 2017 doi 10.1111mec.14151orig inal article nearly a decade-long repeatable seasonal diversity patterns of bacterioplankton communities in the eutrophic lake donghu wuhan chinaqingyun yan12 james c. stegen3  yuhe yu2  ye deng4 xinghao li2  shu wu2  lili dai2  xiang zhang2  jinjin li2  chun wang2  jiajia ni2  xuemei li2  hongjuan hu2  fanshu xiao1  weisong feng2  daliang ning5  zhili he15  joy d. van nostrand5  liyou wu5  jizhong zhou5671environmental microbiome research center and the school of environmental science and engineering sun yat-sen university guangzhou china2key laboratory of aquatic biodiversity and conservation of chinese academy of sciences institute of hydrobiology chinese academy of sciences wuhan china3biological sciences division pacific northwest national laboratory richland wa usa4cas key laboratory of environmental biotechnology research center for eco-environmental sciences chinese academy of sciences beijing china5department of microbiology and plant biology institute for environmental genomics university of oklahoma norman ok usa 6state key joint laboratory of environment simulation and pollution control school of environment tsinghua university beijing china 7earth sciences division lawrence berkeley national laboratory berkeley ca usacorrespondenceqingyun yan environmental microbiome research center and the school of environmental science and engineering sun yat-sen university guangzhou china.email andyuhe yu key laboratory of aquatic biodiversity and conservation of chinese academy of sciences institute of hydrobiology chinese academy of sciences wuhan china.email andjizhong zhou institute for environmental genomics and department of microbiology and plant biology university of oklahoma norman usa.email funding informationnational natural science foundation of china grantaward number 31672262 31572247 31400109molecular ecology.
+2015 was largely responsible for the assembly and turnover of bacterioplankton communities in Lake Donghu 75-82 Figure 5 while dispersal limitation which causes divergence in community composition due to limited exchange of microbes Stegen et al.
 
-for example different environmental factors such as salinity logares et al.
+Although planktonic microbes in Lake Donghu have been found to be significantly differ- ent among seasons within a single year Yu et al.
 
-the prepared dna library was sequenced using an illumina miseq plat- form with 2 9 250 bp kits at the institute for environmental geno- mics according wu et al.
+We found that 75-82 of community turnover in Lake Donghu was governed by the determin- istic process of homogeneous selection which causes the community composition to be similar under consistent environmental conditions Dini-Andreote et al.
 
-2010 and a maxi- mum-likelihood tree was constructed using fasttree price dehal  arkin 2009 for the following phylogenetic structure analysis.to test the hypothesis that environmental filtering may dominate the ecological processes governing bacterioplankton community turnover we first quantify phylogenetic diversity of communities between a given pair of samples yan et al.
+Although the Great Lake Donghu Ecological Water Network project started a couple of years after our first sampling time March 2006 in Yan et al.
 
-environmental filtering or competition rather than stochastic ones.we further applied phylogenetic analysis to determine how the bacterioplankton communities assembled and to clarify which eco- logical processes governed the communities as described previouslystegen et al.
+In 2008 a large-scale integrated eco- logical project named the Great Lake Donghu Ecological Water Net- work was started to connect the six lakes around Lake Donghu and also connect to the Yangtze River.
 
-as expected the deterministic process of homogeneous selection which causes community composition to be similar under consistent environmental conditions dini-andreote et al.
+However the six lakes around Lake Donghu are only connected by an ecological water network which is expected to greatly enhance natu- ral water purification and ecological restoration in Lake Donghu.
 
-as expected our results are consistent with an important influence of temperature over bacterioplankton composition including otu richness even- ness and temporal turnover in composition figures 2 and 6. how- ever there was no significant spatial effect on the observed community patterns which is likely due to consistent environmen- tal conditions across sampling stations table 2. however at much greater spatial scales with clearer environmental gradients such as across river to ocean ecosystems the spatial variability would likely overwhelm seasonal patterns of the bacterioplankton communities fortunato et al.
+2017263839-3850.c 2017 John Wiley  Sons Ltd  3839 INTRODUCTION Understanding natural biodiversity and determining the major fac- tors regulating community diversity patterns spatial or temporal are central issues in predicting ecosystem response to environ- mental change Chapin et al.
 
-we found that 75-82 of community turnover in lake donghu was governed by the determin- istic process of homogeneous selection which causes the community composition to be similar under consistent environmental conditions dini-andreote et al.
+As signifi- cant change in ecological patterns may result from serious disturbance Ferrenberg et al.
 
-indeed we found temperature was positively correlated regression models p  .05 with the alpha diversity met- rics figure 2. this temperature effect may be similar to mechanisms leading to the latitudinal diversity gradient of planktonic bacteriatabl e 2 summary of generalized linear models glm showing the statistical significance of the bacterial and environmental characteristicstn total nitrogen tp total phosphorus codmn chemical oxygen demand as arsenic cr chromium.p values .05 in bold.athere have some missing values due to environmental samples were not collected or failed in measurement for some sampling events.fi gu re 6 canonical correspondence analysis cca showing the relationships between bacterioplankton communities response variables and environmental factors explanatory variables.
+The percentages are given the relative contribution of each process to the community turnover as indicated by different colours DISCUSSION Previous studies on bacterioplankton diversity patterns were mainly restricted to single dimensions such as short time periods 1 or 2 years or horizontalvertical profiles across particular environmen- tal gradients Fortunato et al.
 
-2017263839-3850.c 2017 john wiley  sons ltd  3839 introduction understanding natural biodiversity and determining the major fac- tors regulating community diversity patterns spatial or temporal are central issues in predicting ecosystem response to environ- mental change chapin et al.
-
-monthly seasonal interannual scales chow et al.
-
-2013 fortunato herfort zuber baptista  crump 2012. for example previous studies have assumed that aquatic microbial species are ubiquitously distributed finlay 2002 finlay  clarke 1999 but more recent work suggests that planktonic microbial communities in specific locations are pri- marily structured by niche-based processes eiler hayakawa  rappe 2011 langenheder berga ostman  szekely 2012 ren et al.
-
-2015 wang et al.
-
-2013. moreover annually repeatable pat- terns in bacterial communities in the ocean suggest that community composition and abundance may be predictable based on the envi- ronmental parameters fuhrman et al.
-
-2013 ph ren et al.
+However at much greater spatial scales with clearer environmental gradients such as across river to ocean ecosystems the spatial variability would likely overwhelm seasonal patterns of the bacterioplankton communities Fortunato et al.
 

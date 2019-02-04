@@ -1,30 +1,20 @@
-gsts marked with an asterisk using the ec model a are combined with other gsts after cluster analysis at the 99.6 similarity level one snp b. squares of increasing shading represent gsts at proportions from 1 very pale to 100 black associated with individual animal and extraction method i.e.
+Using E. coli sequence data a database of 240 gnd sequence types gSTs was constructed containing representative 284 bp gnd sequences from all 184 recognised E. coli O serogroups Supplementary Table  28 gSTs from E. coli described as untypable or 'rough' and three new as yet undesig- nated O serogroups.
 
-thus recombination events associated with the transfer of o-agcmay result in novel gsts but with no change of o-antigenicity.although on average 30 gsts were associated with each library some low abundance gsts with a total count of 10 reads across our p  0.015 test dataset or present in datasets with a lower quality threshold may havebeen overlooked using culture-independent methods.
+To provide an indication whether the isolates were E. coli or K. pneumoniae their growth on media containing citrate and urea was investigated.Thirteen isolates were unable to be positively identified as E. coli as GenBank BLAST searches of their respec- tive gSTs obtained using Sanger sequencing indicated a closest match to E. coli andor K. pneumoniae sequences Supplementary Tables and .
 
-however the identification of additional low abundance gsts considered as noise after application of the ec model only provides a minor contribution to community structure where the proportions of the most abundant gsts remain relatively unchanged.currently the gnd database generated in this study contains 240 separate gsts that differ from a consensus sequence by between 3 and 62 snps.
+Peturbations of the mucin-degrading members of the gut microbiota caused by environmental or dietary factors or invading pathogeniccoli may in turn influence changes in the E. coli microbiota permitting less abundant clones to become dominant.In this work we explored the use of degenerate primers to amplify a segment of the gnd locus to provide an indication of E. coli diversity from cattle and the putative identification of low abundance E. coli types from multiple animals and samples.
 
-the ec model however identifies gsts by including a specified error based on the respective relative abundance of parent and daughter gsts and removes gsts where their relative abundance is assigned a probability of being generated in error.
+Thus recombination events associated with the transfer of O-AGCmay result in novel gSTs but with no change of O-antigenicity.Although on average 30 gSTs were associated with each library some low abundance gSTs with a total count of 10 reads across our P  0.015 test dataset or present in datasets with a lower quality threshold may havebeen overlooked using culture-independent methods.
 
-using e. coli sequence data a database of 240 gnd sequence types gsts was constructed containing representative 284 bp gnd sequences from all 184 recognised e. coli o serogroups supplementary table  28 gsts from e. coli described as untypable or 'rough' and three new as yet undesig- nated o serogroups.
+However the identification of additional low abundance gSTs considered as noise after application of the EC model only provides a minor contribution to community structure where the proportions of the most abundant gSTs remain relatively unchanged.Currently the gnd database generated in this study contains 240 separate gSTs that differ from a consensus sequence by between 3 and 62 SNPs.
 
-symbols close together indicate libraries containing similar gsts symbols far apart indicate libraries containing dissimilar gsts.
+The EC model however identifies gSTs by including a specified error based on the respective relative abundance of parent and daughter gSTs and removes gSTs where their relative abundance is assigned a probability of being generated in error.
 
-b diversity of gsts obtained from 20 calves using shannon index to illustrate the number of different gsts and the variation in gst relative abundance obtained from each of the four extraction methods pre-enrichment 'pre' post-enrichment boiled lysate 'pob' post-enrichment spin-column 'por' and faecal'fec' for each animal.
+'Animal' was the main determinantof E. coli diversity with limited impact of sample type or DNA extraction method on intra-host E. coli community variation from faeces and recto-anal mucosal swab samples.
 
-sequence data obtained from the four libraries originating from calf 96 contained between 3 and 13 different gsts in contrast sequence data obtained from the four libraries originating from calf 137 contained between 40 and 82 different gsts.
+Other cryptic E. coli strains phenotypically indistinguishable from E. coli and more abundant in animal faeces have been identified by multi-locus sequence typing clade-specific sin- gle nucleotide polymorphisms SNPs present in chuA and aesand genome sequencing.
 
-at the level of a single snp and 148 gsts including 62 matching with the gnd database and 86 novel gsts were identified.
+More recently shotgun metagen- omic methods for distinguishing the E. coli microbiota have achieved microbial resolution at the strain-level but may be limited in their resolution in complex samples containing E. coli strains at low abundance-.E.
 
-however 7 gsts matching database cultured entries clustered with other gsts that differed by one snp supplementary table  suggesting a potential limitation of simple clustering methods.e.g.
-
-the application of the error correction ec model on the p  0.015 test dataset resulted in 188 gsts being removed and the identification of 160 gsts of which 92 were novel and 68 matched the data- base supplementary table .
-
-thus the o17 and o176 gsts that differ by one snpfigure 2. effect of clustering using cd-hit and ec model on relative abundance and total number of gsts.
-
-when the 92 novel gsts identified using the ec model were compared with gsts from the gnd database to identify snps supplementary fig.
-
-snps were also mapped against the 3 codon positions of novel gsts and gsts removed using the ec model supplementary fig.
-
-therefore to provide an initial comparison of gsts obtained from culture-independent and culture dependent methods sanger sequencing of the gnd allele from culturedisolates was undertaken and compared to gsts obtained from matching animalslibraries using high throughput sequencing methods.
+The O-AGC and adjacent loci are prone to genetic rearrangement with many defined and well-characterised O-antigen somatic serogroups recognised however the isolation of untypable E. coli strains that do not cross-react with available O-antigen antisera is common.The presence of certain E. coli genotypesphenotypes in low numbers in a complex sample may lead to dif- ficulties in their detection and isolation using routine culture media.
 

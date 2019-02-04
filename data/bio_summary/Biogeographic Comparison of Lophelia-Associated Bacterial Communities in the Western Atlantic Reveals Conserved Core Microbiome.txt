@@ -1,30 +1,20 @@
-geology 34 773-776. yakimov m. m. cappello s. crisafi e. trusi a. savini a. corselli c. et al.
+The lower proportion of Novosphingobium and Pseudonocardia in ATL samples   is likely the driver behind lower functional predictions of xenobiotic biodegradation and metabolism for those samples vs. Gulf of Mexico samples .DISCUSSIONStudies on the stability of tropical coral-associated bacterial communities have found that temporal     and geographic               effects do occur but that species-specificity can still be detected            .
 
-9 894-908. morrow k. m. moss a. g. chadwick n. e. and liles m. r. 2012. bacterial associates of two caribbean coral species reveal species-specific distribution andgeographic variability.
+While several Gulf of Mexico samples had higher relative abundance of Pseudonocardiaceae  Atlantic samples also contained other actinobacterial species Actinomyces and Microbacterium in their local or individual microbiomes  at less than 1 total relative abundance.The dominant bacterial phylum detected in L. pertusa was Proteobacteria which corroborates prior work conducted using clone libraries     as well as pyrosequencing targeting the V1-V3   and V4   variable regions of the 16S rRNA gene.
 
-31 814-821. lawler s. n. kellogg c. a. france s. c. clostio r. w. brooke s. d. and ross s. w. 2016. coral-associated bacterial diversity is conserved across two deep-sea anthothela species.
+and 3 an environmentally variable bacterial community    .We hypothesize that there is a conserved core of bacterial symbionts held in common by all L. pertusa while the rest of the bacterial community varies depending on local environmental characteristics such as dominant food source benthic community structure or water mass parameters.
 
-72 5069-5072. edgar r. c. 2010. search and clustering orders of magnitude faster than blast.bioinformatics 26 2460-2461. edgar r. c. haas b. j. clemente j. c. quince c. and knight r. 2011. uchime improves sensitivity and speed of chimera detection.
+Brooke S. Young C. M. and Holmes M. 2007.
 
-99 42-50. gray m. a. stone r. p. mclaughlin m. r. and kellogg c. a.
+Hansson L. Agis M. Maier C. and Weinbauer M. G. 2009.
 
-24 4876-4882. van bleijswijk j. d. l. whalen c. duineveld g. c. a. lavaleye m. s. s. witteh.
+Sunagawa S. Woodley C. M. and Medina M. 2010.
 
-8 175-185. galkiewicz j. p. pratte z. a. gray m. a. and kellogg c. a.
+Yakimov M. M. Cappello S. Crisafi E. Trusi A. Savini A. Corselli C. et al.
 
-and 3 an environmentally variable bacterial community    .we hypothesize that there is a conserved core of bacterial symbionts held in common by all l. pertusa while the rest of the bacterial community varies depending on local environmental characteristics such as dominant food source benthic community structure or water mass parameters.
+24 4876-4882. van Bleijswijk J. D. L. Whalen C. Duineveld G. C. A. Lavaleye M. S. S. WitteH.
 
-85 19-29. wang q. garrity g. m. tiedje j. m. and cole j. r. 2007. naive bayesian classifier for rapid assignment of rrna sequences into the new bacterial taxonomy.
+Edgar R. C. Haas B. J. Clemente J. C. Quince C. and Knight R. 2011.
 
-75 1437-1444. neulinger s. c. jarnegren j. ludvigsen m. lochte k. and dullo w.-c. 2008. phenotype-specific bacterial communities in the cold-water coral lophelia pertusa scleractinia and their implications for the coral's nutrition health and distribution.
-
-available at kellogg c. a. lisle j. t. and galkiewicz j. p. 2009. culture-independent characterization of bacterial communities associated with the cold-water corallophelia pertusa in the northeastern gulf of mexico.
-
-microbiol.75 2294-2303. kellogg c. a. ross s. w. and brooke s. d. 2016. bacterial community diversity of the deep-sea octocoral paramuricea placomus.
-
-7 1162-1174. brooke s. young c. m. and holmes m. 2007. biological characterization and studies in continental shelf associates.
-
-328 133-142. hansson l. agis m. maier c. and weinbauer m. g. 2009. community composition of bacteria associated with cold-water coral madrepora oculata within and between colony variability.
-
-nature 163688. sunagawa s. woodley c. m. and medina m. 2010. threatened corals provide underexplored microbial habitats.
+By examining more than 40000 sequences per sample we found that GOM samples were dominated by the identified conserved core sequences whereas open Atlantic samples had a much higher proportion of locally consistent bacteria.
 

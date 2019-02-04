@@ -1,30 +1,20 @@
-after 23 weeks of hfd-based dietary intervention gliadin mice displayed significantly higher levels of glycated hemoglobin hba1c than gliadin- mice 1a suggesting a higher average blood glucose level in the gliadin mice during the inter- vention period.
+The dysregulated lipid phenotype of Gliadin mice did not manifest in the tri- glyceride profile Supplementary Table S2 or in the expression levels of a series of lipid metabolism related genes in the liver nor in the levels of alanine aminotransferase in plasma Supplementary Fig.
 
-gliadin mice exhibited more abundant lipid droplets in the liver 1c and but smaller adipocyte size in the epididymal white adipose tissue ewat also reflected in the adipocyte size dis- tribution that revealed higher frequencies of small adipocytes of gliadin mice in the range of 2000-4000 mm2 1e  moreover the adipocyte size and hepatic total lipid droplet area were strongly negatively corre- lated 1h suggesting a link between lipid storage capacity in the ewat and lipid accumulation in the liver.in spite of these differences the gliadin- and gliadin mice had similar levels of many of the assessed met- abolic parameters.
+Characterization of the inflammatory phenotype of the liver immune cell subsets through intracellular cytokine staining did not show any differences in immune cell activities between the two groups Supplementary Table S4.Within eWAT the numbers of several of the immune cell subsets tended to be influenced by gliadin Supplementary Fig.
 
-mice fed the gliadin-containing hfd displayed higher glycated hemoglobin and higher insulin resistance as evaluated by the homeostasis model assessment more hepatic lipid accumulation and smaller adipocytes than mice fed the gliadin-free hfd.
+See also Supplementary Figs S4-S6 and Supplementary Table S4.Combining Alterations in Microbiome and Host Metabolic Features.
 
-nevertheless the effects of glutengli- adin intake on intestinal microbes in gluten-tolerant miceor humanshave been addressed only by very few studies which were limited to apoe-deficient mice non-obese diabetic mice and very small groups of healthy humans and the results vary heavily.
+Expression of gut barrier function related genes was determined by SYBR green based real time PCR Supplementary Table S5 and the remaining analy- ses were based on Taqman primers and probes Supplementary Table S6.
 
-evaluation for non-alcoholic steatohepatitis parameters confirmed the higher steatosis grade of gliadin mice while all mice displayed the same degree of lobular inflammation and hepatocellular ballooning after 23 weeks of hfd supplementary fig.
+Network based on Spearman correlations was built with Cytoscape v3.2.1.ReferencesSapone A. et al.
 
-interestingly the ileal microbiota of gliadin mice exhibited a significantly larger diver- gence than that of gliadin- mice within-group unifrac distances unweighted 0.60 - 0.07 versus 0.52 - 0.09 weighted 0.17 - 0.08 versus 0.08 - 0.08 p 0.001 which is also manifested by the more scattered distribution of the gliadin samples in the pcoa plots and supplementary fig.
+10 13 2012.Biesiekierski J. R. et al.
 
-s2.gliadin intake altered the relative abundances of a total of 44 operational taxonomic units otus of whichthe ones with more than ten-fold differences in relative abundance included otus identified as lactobacillus that were less abundant in faecal samples of gliadin mice at week 9 as well as ileal otus identified as coriobacteriaceae enterorhabdus clostridium xi dorea and a colonic otu identified as akkermansia that were all more abundant in gliadin mice g. findings at the genusfamily level were generally consistent with the findings based on otus supplementary fig.
+106 508-14 quiz 515 2011.Vazquez-Roque M. I. et al.
 
-total caecal short chain fatty acid scfa concentrations tended to be higher in gliadin mice than in gliadin- mice p  0.05 which was mainly explained by higher levels of acetic acid .
+Gastroenterology 144 903-911.e3 2013.Pastore M.-R. et al.
 
-in feces butyric acid was also higher in gliadin mice than in gliadin- mice supplementary fig.
+88 162-5 2003.Hansen C. H. F. et al.
 
-of these the large majority 37 metabolites were found in higher levels in gliadin mice indicating a higher intestinal permeability of gliadin mice 4b.
-
-furthermore five oxidized tocopherol metabolites carboxyethyl-hydroxychromans were more abundant in gliadin mice than in gliadin- mice.
-
-additionally six metabolites associated with tyrosine and tryptophan metabolism including dopamine-glucuronide were identi- fied among the metabolites more abundant in gliadin mice than in gliadin- mice underpinning the observed gliadin-induced changes in the composition andor activity of the gut microbiota as these metabolites may be derived from intestinal bacteria.gliadin did not affect systemic inflammatory markers but altered immune cell composition in liver and inflammatory phenotype of visceral adipose tissue.
-
-accordingly we observed a significant impact on the com- position of the microbiota in the ileal and caecal environments as well as on gut microbial activity as reflected in a higher production of acetic acid and higher total scfa levels 2. as several previous reviews suggest that the gut microbiome affects intestinal integrity we speculate that not only the gliadin peptides themselves but also the gliadin-induced alterations in the ileal microbiota led to aberrations in the gut barrier function as measured by reduced expression of tight junction adherens junction and mucin protein encoding genes 3. reduced intestinal barrier function in the gliadin-fed animals was additionally reflected in the observation that out of 43 specific urinary metabolites observed to be differentially abundant in gliadin-fed vs gliadin-free mice 37 were found to be most abundant in the gliadin-fed mice 4 indicating a generally increased leakiness of the gut mucosa.
-
-parameters higher in gliadin mice are indicated in red while parameters lower in gliadin mice are indicated in green.intestinal bacteria to systemic circulation mesenteric adipose tissue and mesenteric lymph nodes is known to increase with a high fat diet and a recent study of lard and fish oil based diets indicates that dietary lipid com- position affects toll-like receptor-based activation within ewat.
-
-openreceived 07 november 2016accepted 10 february 2017published 16 march 2017effects of gliadin consumption on the intestinal microbiota andmetabolic homeostasis in mice fed a high-fat dietli zhang12 daniel andersen3 henrik munch roager1 martin iain bahl1camilla hartmann friis hansen2 niels banhos danneskiold-samsoe34 karsten kristiansen4 ilinca daria radulescu3 christian sina5 henrik lauritz frandsen1 axel kornerup hansen2 susanne brix3 lars i. hellgren3  tine rask licht1dietary gluten causes severe disorders like celiac disease in gluten-intolerant humans.
+15 323-327 1999.Soares F. L. P. et al.
 

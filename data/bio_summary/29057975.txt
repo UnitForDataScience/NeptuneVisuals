@@ -1,30 +1,20 @@
-in addition the overall structure of the gut microbiota was different between the time points before 3 and 8 weeks of age and after 11 and 15 weeks of age antibiotic treatment initiation at 9 weeks of age also in fig.
+In addition the overall structure of the gut microbiota was different between the time points before 3 and 8 weeks of age and after 11 and 15 weeks of age antibiotic treatment initiation at 9 weeks of age also in Fig.
 
-moreover the antibiotic-treated group before given the treatment 3 and 8 weeks of age shared similar gut microbiota composition with the control group but the antibiotic treatment initiated at 9 weeks of age appears to have altered the bacterial composition at 11 and 15 weeks of age fig.
+Moreover the antibiotic-treated group before given the treatment 3 and 8 weeks of age shared similar gut microbiota composition with the Control group but the antibiotic treatment initiated at 9 weeks of age appears to have altered the bacterial composition at 11 and 15 weeks of age Fig.
 
-together these results indicate amelioration of lupus-like disease in female mrllpr mice with post-disease-onset antibiotic treatment.we next sought to understand the underlying mechanism of how antibiotic treatment ameliorated lupus in female mrllpr mice by examining immune cell differentiation and inflammatory mediator production fig.
+This suggests that an appropriately selected antibiotic may attenuate disease flares in SLE patients by targeting Lachnospiraceae for removal.Our results have shown that a single antibiotic vancomycin can recapitulate the beneficial effect of mixed antibiotics ampicillin vancomycin neomycin and metronidazole against lupus progression in MRLlpr mice.
 
-in contrast neomycin an antibiotic with a broad spectrum of activity against both gram-positive and gram-negative bacteria did not affect the severity of lupus disease when given starting from 9 weeks of age.
+For single antibiotic treatment 2 gl vancomycin or 2 gl neomycin was given in the drinking water from 9 weeks of age till euthanasia at 15 weeks of age.
 
-antibiotic mixture 1 gl ampicillin 1 gl neomycin 1 gl metronidazole and 0.5 gl vancomycin was given in the drinking water starting from 9 weeks of age till euthanasia at 16 weeks of age.
+Together these results suggest that vancomycin given post disease onset recapitulated the attenuated disease phenotype seen with mixed antibiotic treatment.Vancomycin reshaped the gut microbiota and differentially affected KEGG pathways.
 
-for single antibiotic treatment 2 gl vancomycin or 2 gl neomycin was given in the drinking water from 9 weeks of age till euthanasia at 15 weeks of age.
+To determine the effects of antibiotics on active disease in lupus- prone MRLlpr mice we treated female mice with a combination of antibiotics ampicillin neomycin metro- nidazole and vancomycin started at 9 weeks of age and post disease onset.
 
-when the relative levels of these genes were plotted over time they exhibited the same pattern of a sharp decrease at 9 weeks of age followed by gradual recovery from 10-11 weeks of age fig.
+These results suggest that mixed antibiotics or a single antibiotic vancomycin ameliorate SLE-like disease in MRLlpr mice by changing the composition of gut microbiota.Little is known on the role of gut microbiota in systemic lupus erythematosus SLE.
 
-this suggests that an appropriately selected antibiotic may attenuate disease flares in sle patients by targeting lachnospiraceae for removal.our results have shown that a single antibiotic vancomycin can recapitulate the beneficial effect of mixed antibiotics ampicillin vancomycin neomycin and metronidazole against lupus progression in mrllpr mice.
+Antibiotic mixture 1 gl ampicillin 1 gl neomycin 1 gl metronidazole and 0.5 gl vancomycin was given in the drinking water starting from 9 weeks of age till euthanasia at 16 weeks of age.
 
-together these results suggest that vancomycin given post disease onset recapitulated the attenuated disease phenotype seen with mixed antibiotic treatment.vancomycin reshaped the gut microbiota and differentially affected kegg pathways.
+In contrast neomycin an antibiotic with a broad spectrum of activity against both Gram-positive and Gram-negative bacteria did not affect the severity of lupus disease when given starting from 9 weeks of age.
 
-these results suggest that mixed antibiotics or a single antibiotic vancomycin ameliorate sle-like disease in mrllpr mice by changing the composition of gut microbiota.little is known on the role of gut microbiota in systemic lupus erythematosus sle.
-
-il-6 known to promote lupus disease in both human and mouse due to its ability to increase t-helper th17 differentiation and il-17 production was significantly decreased in the serum with antibiotic treatment fig.
-
-to determine the effects of antibiotics on active disease in lupus- prone mrllpr mice we treated female mice with a combination of antibiotics ampicillin neomycin metro- nidazole and vancomycin started at 9 weeks of age and post disease onset.
-
-consistent with this our preliminary observations suggest that antibiotic treatment initiated from 3 weeks of age the time of weaning till the endpoint does not influence disease activity in mrllpr mice unpublished results.
-
-2. the analysis showed that the presentation of functional pathways was relatively stable over time for the control group whereas treatment with vancomycin produced the most significant changes of the functional pathways at 9 weeks of age and 4 days after the initia- tion of antibiotic treatment fig.
-
-moreover we showed that vancomycin a single antibiotic known to remove clostridia to which lachnospiraceae belongs to and enrich lactobacilli in both human and mouse- was able to recapitulate the attenuated disease phenotype seen with the mixed antibiotic treatment.
+The analysis showed that the presentation of functional pathways was relatively stable over time for the control group whereas treatment with vancomycin produced the most significant changes of the functional pathways at 9 weeks of age and 4 days after the initia- tion of antibiotic treatment Fig.
 

@@ -1,30 +1,20 @@
-.finn rd bateman a clements j coggill p eberhardt ry eddy sr heger a hetherington k holm l mistry j sonnhammer ell tate j punta m. 2014. pfam the protein families database.
+Due to its widespread and significant effects on human health modulation of the gut microbiome is an emerging therapeuticparadigm particularly for obesity diabetes and inflammatory bowel diseases .Through complex interactions with host metabolism the gut microbiome both influences and is influenced by the obesity phenotype .
 
-.finn rd tate j mistry j coggill pc sammut sj hotz hr ceric g forslund k eddy sr sonnhammer el bateman a.
+Nucleic Acids Res 27 4636 - 4641.
 
-the version de- scribed in this paper is the first version lszw01000000.acknowledgmentsthis work was funded by the national institutes of health nih human microbiome project 5u54hg004968 m.m.. we declare no conflicts of interest.referencesrodriguez jm murphy k stanton c ross rp kober oi juge n avershina e rudi k narbad a jenmalm mc marchesi jr collado mc.
+Nucleic Acids Res 36D281-D288.
 
-trna genes were determined using trnascan-se  and noncoding rna genes by rnammer  and rfam .
+Nucleic Acids Res 25955-964.
 
-we performed a screen for core genes as defined by the hmp project  on many of the assemblies to test for completeness of the genome.
+Nucleic Acids Res 353100 -3108.
 
-a total of 2487 genes 79.7 of all genes had some predicted functional annotation with 66.1 being assigned tovolume 5 issue 2 e01451-16 1rosa et al.at least one of 949 unique go term annotations 74.4 containing at least one of 2822 unique interpro domains and 69.5 containing at least one of 1412 unique pfam domains.accession numbers.
+Nucleic Acids Res 33D121-D124.
 
-prokaryotesgenome sequence of christensenella minuta dsm 22607tbruce a. rosaa kymberlie hallsworth-pepina john martina aye wollama makedonka mitrevaabthe mcdonnell genome institute washington university school of medicine st. louis missouri usaa department of medicine washington university school of medicine st. louis missouri usababstract obesity influences and is influenced by the human gut microbiome.
+Nucleic Acids Res 32D277-D280.
 
-this novel genome provides a valuable resource for future obesity therapeutic studies.he gut microbiome is acquired naturally from birth after which it is affected by host genetics environmental factors and diet .
+Nucleic Acids Res 33W116 -W120.
 
-recently christensenella minuta the first described member of the chris- tensenellaceae family  was described as being extremely highly heritable and as promoting a lean host phenotype through an unknown biological mechanism a finding which was experimentally verified using transplantation techniques in germ- free mice .in order to facilitate further research into identifying the biological mechanisms underlying the important role this organism plays in obesity prevention here we describe the first genome sequence of christensenella minuta dsm 22607t.genomic dna was obtained from the dsmz repository and sequenced using the illumina hiseq 2000 to a depth of 115x.
+Nucleic Acids Res 41D530 -D535.
 
-.borodovsky m mills r besemer j lomsadze a.
-
-due to its widespread and significant effects on human health modulation of the gut microbiome is an emerging therapeuticparadigm particularly for obesity diabetes and inflammatory bowel diseases .through complex interactions with host metabolism the gut microbiome both influences and is influenced by the obesity phenotype .
-
-.goodrich jk waters jl poole ac sutter jl koren o blekhman r beaumont m van treuren w knight r bell jt spector td clark ag ley re.
-
-.musso g gambino r cassader m. 2011. interactions between gut microbiota and host metabolism predisposing to obesity and diabetes.
-
-.gene ontology consortium blake ja dolan m drabkin h hill dp li n sitnikov d bridges s burgess s buza t mccarthy f peddinti d pillai l carbon s dietze h ireland a lewis se mungall cj gaudet p chrisholm rl fey p kibbe wa basu s siegele da mcintosh bk renfro dp zweifel ae hu jc brown nh tweedie s alam-faruque y apweiler r auchinchloss a axelsen k bely b blatter m- bonilla c bouguerleret l boutet e breuza l et al.
-
-here we present the genome of christensenella minuta a highly heritable bacterial species which has been found to be strongly associated with obesity through an un- known biological mechanism.
+Nucleic Acids Res 42 D222-D230.
 

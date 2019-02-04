@@ -1,18 +1,16 @@
-the core genome between the 2 isolates consists of 2332 genes.while the two isolates have differing profiles of antibiotic resistance genes both carry genes that confer resistance to aminoglycosides 13-lactams fosfomycin olaquin- dox quinolone sulfonamide and tetracycline.
+The core genome between the 2 isolates consists of 2332 genes.While the two isolates have differing profiles of antibiotic resistance genes both carry genes that confer resistance to aminoglycosides 13-lactams fosfomycin olaquin- dox quinolone sulfonamide and tetracycline.
 
-both isolates carry genes encoding extended-spectrum 13-lactamases.acteria of the enterobacter cloacae complex are commensal enteric bacteria of the human gastrointestinal tract.
+Both isolates carry genes encoding extended-spectrum 13-lactamases.acteria of the Enterobacter cloacae complex are commensal enteric bacteria of the human gastrointestinal tract.
 
-cloacae isolates 49530189 and 60830776 from the enterobacter cloacae complex which were isolated from two different individuals with hospital-acquired bacteremia.
+cloacae isolates 49530189 and 60830776 from the Enterobacter cloacae complex which were isolated from two different individuals with hospital-acquired bacteremia.
 
-both isolates were obtained by blood culture and their antibiotic susceptibilities were determined using eucast breakpoints with the bd- pheonix automated platform becton dickinson nj usa and double-disc testing.
+Both isolates were obtained by blood culture and their antibiotic susceptibilities were determined using EUCAST breakpoints with the BD- Pheonix automated platform Becton Dickinson NJ USA and double-disc testing.
 
-whole-genome amplicon libraries were prepared using an illumina nextera xt dna sample preparation kit illumina inc. ca and sequenced on an illumina nextseq platform with a nextseq 500550 mid-output kit v2 illumina 2 x 150-bp cycles.a total of 3066602 and 1876696 paired-end reads for isolates 49530189 and 60830776 respectively were mapped to the enterobacter cloacae subsp.
+Whole-genome amplicon libraries were prepared using an Illumina Nextera XT DNA sample preparation kit Illumina Inc. CA and sequenced on an Illumina NextSeq platform with a NextSeq 500550 mid-output kit v2 Illumina 2 X 150-bp cycles.A total of 3066602 and 1876696 paired-end reads for isolates 49530189 and 60830776 respectively were mapped to the Enterobacter cloacae subsp.
 
-the draft genomevolume 5 issue 33 e00756-17 1leong et al.of isolate 49530189 consisted of 170 contigs with a total of 5467426 bp and gc content of 54.8. the draft genome of isolate 60830776 consisted of 140 contigs with a total of 5168633 bp and gc content of 54.6. isolates 49530189 and 60830776 have 5239 and 4879 coding domain sequences respectively.
+The two isolates are AmpC negatve and ESBL positive.
 
-the two isolates are ampc negatve and esbl positive.
+Cefepime therapy for monomicrobial Enterobacter cloacae bacteremia unfavorable outcomes in patients infected by cefepime-susceptible dose-dependent isolates.
 
-2015. cefepime therapy for monomicrobial enterobacter cloacae bacteremia unfavorable outcomes in patients infected by cefepime-susceptible dose-dependent isolates.
-
-2004. molecular epidemiology of enterobacteriaceae isolates producing extended-spectrum beta-lactamases in a french hospital.
+Molecular epidemiology of Enterobacteriaceae isolates producing extended-spectrum beta-lactamases in a French hospital.
 

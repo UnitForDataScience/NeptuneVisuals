@@ -1,18 +1,20 @@
-prokaryotesdraft genome sequences of 14 staphylococcus aureus sequence type 5 isolates from california usasamantha j. haua darrell o. baylesb david p. altb tracy l. nicholsonbdepartment of veterinary diagnostic and production animal medicine college of veterinary medicine iowa state university ames iowa usaa national animal disease center agricultural research service usda ames iowa usababstract staphylococcus aureus is part of the human epithelial microbiota how- ever it is also a pathogen.
+These isolates were obtained from the University of California Irvine UCI3 UCI9 UCI11 UCI19 UCI21 UCI24 UCI27 UCI43 UCI45 UCI46 UCI48 UCI52 UCI56 and UCI64 .The patients had no known livestock exposure however because full patient histories were not provided it could not be determined whether the isolates were HA- or CA-MRSA.
 
-this re- port details the draft genome sequences of 14 clinical s. aureus isolates.taphylococcus aureus is part of the microbiota found on the skin of humans and other animals.
+The draft genome sequences obtained for these isolates were entered into DDBJENAGenBank with accession numbers as follows UCI3  UCI9  UCI11  UCI19 Volume 5 Issue 13 e00098-17 1Hau et al.UCI21  UCI24  UCI27  UCI43  UCI45  UCI46  UCI48  UCI52  UCI56  and UCI64 .ACKNOWLEDGMENTSThe research herein was funded by the United States Department of Agriculture Agricultural Research Service and by the National Pork Board.
 
-isolates were grown in trypticase soy broth bd biosciences sparks md and total genomic dna was extracted using the high pure pcr template preparation kit roche applied science indianapolis in.draft genome sequences were generated using an illumina miseq instrument.
+PROKARYOTESDraft Genome Sequences of 14 Staphylococcus aureus Sequence Type 5 Isolates from California USASamantha J. Haua Darrell O. Baylesb David P. Altb Tracy L. NicholsonbDepartment of Veterinary Diagnostic and Production Animal Medicine College of Veterinary Medicine Iowa State University Ames Iowa USAa National Animal Disease Center Agricultural Research Service USDA Ames Iowa USAbABSTRACT Staphylococcus aureus is part of the human epithelial microbiota how- ever it is also a pathogen.
 
-libraries were pooled and sequenced using the miseq version 2 500-cycle reagent kit yielding 2 x 250-bp paired-end reads illumina.draft genome assemblies were generated using mira version 4.0.2  resulting in the average coverages indicated here for each isolate uci3 56x uci9 82x uci11 72x uci19 47x uci21 66x uci24 62x uci27 40x uci43 46x uci45 53x uci46 73x uci4846x uci52 33x uci56 36x and uci64 52x.
+The acquisition of mobile genetic elements plays a role in the virulence of S. aureus isolates and contributes to treatment failures.
 
-following assembly only contigs1500 bp in length having a coverage of 66 of the average genome coverage were retained.
+Methicillin-resistant S. aureus MRSA is a growing concern in the health industry and MRSA isolates are categorized based on each isolate's source as either hospital-acquired MRSA HA-MRSA community-acquired MRSA CA-MRSA or livestock-associated MRSA LA-MRSA.
 
-the draft genome sequences obtained for these isolates were entered into ddbjenagenbank with accession numbers as follows uci3  uci9  uci11  uci19 volume 5 issue 13 e00098-17 1hau et al.uci21  uci24  uci27  uci43  uci45  uci46  uci48  uci52  uci56  and uci64 .acknowledgmentsthe research herein was funded by the united states department of agriculture agricultural research service and by the national pork board.
+The ST5 lineage is globally distributed and well known for acquisition of virulence factorsand antibiotic resistance genes contained on mobile genetic elements .We sequenced 14 ST5 isolates from patients with clinical disease caused by MRSA.
 
-1998. staphylococcus aureus infections.
+This re- port details the draft genome sequences of 14 clinical S. aureus isolates.taphylococcus aureus is part of the microbiota found on the skin of humans and other animals.
 
-.monecke s coombs g shore ac coleman dc akpaka p borg m chow h ip m jatzwauk l jonas d kadlec k kearns a laurent f o'brien fg pearson j ruppelt a schwarz s scicluna e slickers p tan hl weber s ehricht r. 2011. a field guide to pandemic epidemic and sporadic clones of methicillin-resistant staphylococcus aureus.
+Isolates were grown in Trypticase soy broth BD Biosciences Sparks MD and total genomic DNA was extracted using the High Pure PCR template preparation kit Roche Applied Science Indianapolis IN.Draft genome sequences were generated using an Illumina MiSeq instrument.
 
-2013. diversity of methicillin-resistant staphylococcus au- reus mrsa strains isolated from inpatients of 30 hospitals in orange county california.
+Libraries were pooled and sequenced using the MiSeq version 2 500-cycle reagent kit yielding 2 X 250-bp paired-end reads Illumina.Draft genome assemblies were generated using MIRA version 4.0.2  resulting in the average coverages indicated here for each isolate UCI3 56X UCI9 82X UCI11 72X UCI19 47X UCI21 66X UCI24 62X UCI27 40X UCI43 46X UCI45 53X UCI46 73X UCI4846X UCI52 33X UCI56 36X and UCI64 52X.
+
+Following assembly only contigs1500 bp in length having a coverage of 66 of the average genome coverage were retained.
 

@@ -1,30 +1,20 @@
-during the last decade high-throughput technologies including next-generation sequencing metabolomics and proteomics have allowed an in-depth study of the composition of the intestinal microbiota the genes and functions expressed by commensal bacteria and the metabolites and proteins derived from their biological activities.use of these high-throughput techniques in combination with mouse models such as germ free mice gfm or antibiotic-treated mice has highlighted the extent to which commensal microbes are essential for conferring protection against pathogens and how alterations of the microbiota such as those induced by antibiotics can promote infections.recent studies have started to thrown light on the mechanisms by which different commensal bacterial species confer resistance against infections.
+Zeng et al.
 
-in the presence of an intact microbiota primary bile acids are converted into secondary bile acids which can inhibit the growth of clostridium difficile.disruption of the microbiota by antibiotic treatment reduces the levels of secondary bile acids allowing the growth of c. difficile vegetative forms.
+Stecher et al.
 
-however if mice receive a diet consisting exclusively of simple sugars b. thetaiotaomi- cron is forced to compete for the same nutrient sources as the pathogen which diminishes c. rodentium levels.thus not only the composition of the microbiota but also diet influences the outcome of the infectious process.consistent with the effect that the microbiota has on resistance to infection through nutrient depletion antibiotic clearance of commen- sal bacteria can lead to pathogen expansion through liberation of nutrient sources.
+Gastroenterology 2014 146 1437-1448.e1.Ubeda C Taur Y Jenq RR Equinda MJ Son T Samstein M et al.
 
-based on these features ilcs have been classified into three groups ilc1s which rely on transcriptional factor t-bet or eomesodermin and produce interferon ifn-g ilc2s which rely on the gata-3 transcriptional factor and primarily produce interleukin il-5 and il-13 and ilc3s which rely on rorgt and produce il-17 andor il-22.earlier studies reported that the gut microbiota influences the development of some but not all ilc types.development of a subset of ilc3s that express nkp46 may be influenced by the microbiota since it has been reported that gfm contain lower numbers of these cells.
+J Clin Invest 2010 120 4332-4341.Isaac S Scher JU Djukovic A Jimenez N Littman DR Abramson SB et al.
 
-thus different ilcs confer protection against different pathogens and the microbiota influences ilc functionality.recent studies have begun to elucidate the precise mechanisms by which the microbiota influence ilc expression and subsequent pathogen clearance.
+J Antimicrob Chemother 2016 72 128-136.Buffie CG Bucci V Stein RR McKenney PT Ling L Gobourne A et al.
 
-early studies using gfm showed that the presence of gut commensal microbes increases the intestinal levels of plasma cells producers of iga but were unable to determine the exact mechanisms by which the microbiota influences iga production.notably a recent study has shown a clear relationbetween scfa derived from microbiota metabolism b-cell differ- entiation and iga production.
+Trends Immunol2012 33 459-466.Kommineni S Bretl DJ Lam V Chakraborty R Hayward M Simpson P et al.
 
-openreviewclinical  translational immunology 2017 6 e128 doiofficial journal of the australasian society for immunology inc.roles of the intestinal microbiota in pathogen protectioncarles ubeda12 ana djukovic13 and sandrine isaac13hundreds of commensal bacterial species inhabit the gastrointestinal tract.
+Nature 2015 526 719-722.Zipperer A Konnerth MC Laux C Berscheid A Janek D Weidenmaier C et al.
 
-in this review we will describe the major mechanisms by which the intestinal microbiota confers protection against infections focusing on those caused by intestinal bacterial pathogens.
+Nature 2016 535 511-516.Sassone-Corsi M Nuccio S-P Liu H Hernandez D Vu CT Takahashi AA et al.
 
-finally we will discuss novel therapeutic approaches based on commensal microbes and their products which could potentially be used to combat infections.clinical  translational immunology 2017 6 e128 doi published online 10 february 2017introductionthe intestinal tract is home to hundreds of bacterial species referred to collectively as the intestinal microbiota.
+Nature 2016 540 280-283.Quereda JJ Dussurget O Nahori M-A Ghozlane A Volant S Dillies M-A et al.
 
-the review will mainly focus on the way the intestinal microbiota protects against gastrointestinal bacterial pathogens.
-
-finally we will discuss novel therapeutic approaches for treating infections using commensalmicrobes and their products that have emerged from recent studies in the field.non-immune-derived mechanisms of protectioninhibitory moleculesthe microbiota can confer resistance to pathogens in a direct manner without the involvement of the immune system .
-
-listeria monocytogenes secretes a bacteriocin that alters the intestinal microbiota and allows this pathogen to colonize the intestinal tract and disseminate to other organs.
-
-on the other hand the intestinal microbiota may confer resistance through the production of short- chain fatty acids scfa a metabolic product derived from the bacterial fermentation of dietary fibers.
-
-the intestinal microbiota can confer protection without the induction of the immune system.
-
-ii anaerobic fermentation of dietary fiber by the microbiota generates short-chain fatty acids scfa which can inhibit the growth of certain pathogens such as e. coli strain o157h7.
+J Med Microbiol 2002 51 201-206.Hsiao A Ahmed AMS Subramanian S Griffin NW Drewry LL Petri WA et al.
 

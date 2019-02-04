@@ -1,30 +1,20 @@
-we observed a significant reduction in hcvpp infectivity with vf-fab1a-1-3 and vf-fab1b-1-3 vf-fab1a- 1-3 and vf-fab1b-5-1 vf-fab1b-1-3 and vf-fb1b-5-1 and vf-fab1b-5-1 and vf-fab3a-1-1 combinations when compared to the individual vf-fab concentration dunnett t test putative epitopes targeted by vf-fab.vf-fabs binding to b-turn mimics was higher when compared with that of linear mimics ref af011751 pepscan presto lelystad netherlands an1 epitope is located within hvr1 which is non-modelled and is represented in a white spherical cartoon .conformational epitope mapping of e2 glycoprotein region starting from amino acid 384-619. a. the multiple sequence alignment msa of the e2 glycoprotein.
+The default threshold for functional intolerance used was 0.05 for amino acid substitution.maintained the physicochemical properties by replacing hydrophobic amino acid V395A and I388V and thereby infectivity of HCVpp .
 
-the colour development was quantified with a charge coupled device camera and an image processing system.sift analysis to study small genomic variations in putative epitopes in e2we analysed the amino acid sequences of all the infectious hcvpp to assess whether an amino acid substitution in the predicted epitopes affect the protein function using a well characterised analytical tool called sorting intolerant from tolerant sift.
+Mutations in hepatitis C virus E2 located outside the CD81 binding sites lead to escape from broadly neutralizing antibodies but compro- mise virus infectivity.
 
-however vf-fab1a-1-33a-1-1 in combination did not show any substantial reduction in infectivity compared to individual vf-fab concentration  .analysis of tolerated amino acid substitution in predicted motifsusing an in silico sift analysis we discovered that epitopes an2-an5 were not affected by the observed variation at the different positions in the epitopes .
+We observed a significant reduction in HCVpp infectivity with VF-Fab1a-1-3 and VF-Fab1b-1-3 VF-Fab1a- 1-3 and VF-Fab1b-5-1 VF-Fab1b-1-3 and VF-Fb1b-5-1 and VF-Fab1b-5-1 and VF-Fab3a-1-1 combinations when compared to the individual VF-Fab concentration Dunnett t test Putative Epitopes targeted by VF-Fab.VF-Fabs binding to b-turn mimics was higher when compared with that of linear mimics Ref AF011751 Pepscan Presto Lelystad Netherlands AN1 epitope is located within HVR1 which is non-modelled and is represented in a white spherical cartoon .Conformational epitope mapping of E2 glycoprotein region starting from amino acid 384-619.
 
-the default threshold for functional intolerance used was 0.05 for amino acid substitution.maintained the physicochemical properties by replacing hydrophobic amino acid v395a and i388v and thereby infectivity of hcvpp .
+Although the VF-Fab were derived from sera from an anti-D cohort we observed varying degree of neutralisation breadth in HCVpp1b-1-2 and 1b-1-3 which were also derived from an anti-D patient serum.Conformational epitope mapping of E2Based on the available anti-HCV monoclonal nAb mapping information and E2 structure we selected amino acid residues that cover HVR1 384-410 HVR2 460-482 E2 b-sandwich 492-566 and IgVR 572-588 spanning up to aa 619 for conformational epitope mapping      .
 
-we observed that in the e1 glycoprotein of hcvpp1b-1-3 a polar amino acid t was replaced by a hydrophobica amino acid at position 292 sift score 0.26. supplementary screening of hcv geno- types from genbank revealed that position 292 is conserved first 123 hits data not shown.
+The colour development was quantified with a charge coupled device camera and an image processing system.SIFT analysis to study small genomic variations in putative epitopes in E2We analysed the amino acid sequences of all the infectious HCVpp to assess whether an amino acid substitution in the predicted epitopes affect the protein function using a well characterised analytical tool called Sorting Intolerant From Tolerant SIFT.
 
-the default threshold for functional intolerance used was 0.05 for amino acid substitution.table 7. tolerance to the amino acid substitution in the epitopes targeted by vf-fab1b-1-3.
+Score at a particular position for an amino acid substitution is mentioned below the amino acid variant.
 
-although the vf-fab were derived from sera from an anti-d cohort we observed varying degree of neutralisation breadth in hcvpp1b-1-2 and 1b-1-3 which were also derived from an anti-d patient serum.conformational epitope mapping of e2based on the available anti-hcv monoclonal nab mapping information and e2 structure we selected amino acid residues that cover hvr1 384-410 hvr2 460-482 e2 b-sandwich 492-566 and igvr 572-588 spanning up to aa 619 for conformational epitope mapping      .
+Score at a particular position for an amino acid substitution is mentioned below the amino acid variant.
 
-the observed variation in amino acid residues in the epitopes indicates that there must be preservation of the physicochemical prop- erties and perhaps structural conformation to enable the vf-fabs to target the previously unseen epitopes probabilities range between 0.34-1.00. specifically this explains in part why vf-fabs which were never exposed to the unrelated e1e2 glycoprotein were still able to cross neutralise the hcvpp in our experiments figs and .a limitation of this study is that we explored this phenomenon with only eleven patient derived vf-fabs in genotype 1 and in an hcvpp system only.
+We observed that in the E1 glycoprotein of HCVpp1b-1-3 a polar amino acid T was replaced by a hydrophobicA amino acid at position 292 SIFT score 0.26.
 
-score at a particular position for an amino acid substitution is mentioned below the amino acid variant.
+Score at a particular position for an amino acid substitution is mentioned below the amino acid variant.
 
-score at a particular position for an amino acid substitution is mentioned below the amino acid variant.
-
-score at a particular position for an amino acid substitution is mentioned below the amino acid variant.
-
-score at a particular position for an amino acid substitution is mentioned below the amino acid variant.
-
-in this instance our data supports the hypothesis that these amino acid coordinates play an important role in the infectivity of hcvpp1b-1-3.we investigated neutralisation efficacy of vf-fabs against the hcvpp expressing patient derived glycoprotein.
-
-2015 has shown that a major epitope lies on the neutralisation face of e2 glycoprotein between amino acid 421-543 .
-
-several studies have shown that mabs target amino acid residues 396-424 436-447 and 523-540 in the e2 glycoprotein    .
+Score at a particular position for an amino acid substitution is mentioned below the amino acid variant.
 

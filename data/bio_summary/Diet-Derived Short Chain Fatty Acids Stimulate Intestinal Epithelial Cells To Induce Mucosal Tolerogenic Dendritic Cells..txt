@@ -1,30 +1,20 @@
-these results are in line with previously published data demonstrating that iecsspecifically have a high expression of the raldh1 enzyme which is needed for the production of ra to induce raldh2 expression in dcs 21 23 24 26 33. to address whether raldh1 ex- pression in iecs is influenced by external factors we measured aldh1a1 expression in the intestines of mice that were raised on a standard conventional diet or a synthetic ain-93m diet.
+Furthermore our data showed that the expression levels of RALDH1 in small intestinal epithelial cells correlated with the activity of vitamin A-converting enzymes in mesenteric lymph node dendritic cells along with increased numbers of intestinal regulatory T cells and a higher production of luminal IgA.
 
-when we checked for the expression of raldh enzymes in small intestinal scrapings which mainly consist of epithelial cells we observed a high mrna expression of aldh1a1 fig.
+Tolerogenic dendritic cells DCs are well-described immune cells that interact with other hematopoietic cells to maintain a balanced mucosal immune system 20 21.
 
-relative mrna expression levels of proximal sis of mice fed a conventional diet were set at 1.0. aldh activity was measured by flow cytometry in mln dcs gated first for cd11ccd45 cells followed by cd103 expression on the forward scatter fs c and in mln cd1032cd11c dcs e using the aldefluor assay in the absence or presence of aldh inhibitor deab.
+For flow cytometric analysis of ALDEFLUOR- reacted cells cells were subsequently stained with anti-CD45-PE-Cy7 clone 30F11 anti-CD11c-PE clone N418 both from eBioscience anti- CD103-biotin clone M290 BD Biosciences Breda the Netherlands MHC class II clone M5114 affinity-purified from hybridoma cell culture supernatants Percp-conjugated BD Biosciences streptavidin and SYTOX Blue Invitrogen to discriminate between live and dead cells.
 
-e miccl2 were analyzed for aldh1a1 expression after a 30-min incubation with pertussis toxin pt before sb stimulation for 24 h. stimulation of miccl2 cells with 4-cmtb were analyzed for aldh1a1 f and nlpr3 g. mrna expression levels of aldh1a1 and nlpr3 were normalized to those of ubiquitin and cyclo.
+With the production of retinoic acid RA the active metabolite of vitamin A these DCs are crucial for the differentiation of regulatory T cells and promoteIgA class-switching of B cells and induce the expression of gut- homing molecules on lymphocytes 20-22.
 
-p  0.05 p  0.01.gpr43- and gpr109-knockout mice because scfas can mediate their effects via various gpcrs 8 37. in the absence of gpr109 aldh1a1 expression still increased upon consumption of high-fiber diet compared with mice that received a diet that lacked fiber indicating that induction of aldh1a1 expression can occur inde- pendently of gpr109 fig.
+When we checked for the expression of RALDH enzymes in small intestinal scrapings which mainly consist of epithelial cells we observed a high mRNA expression of aldh1a1 Fig.
 
-because the dna is wrapped around histones within the nucleus of the cell acetyl and deacetyl transferases can manipulate the chromatin conformation leading to more open chromatin and thus active or silenced gene expression respectively 39. therefore hdac inhibitors can have a direct effect on the expression of genes that are regulated by the specific hdacs.
+E mICcl2 were analyzed for aldh1a1 expression after a 30-min incubation with pertussis toxin PT before SB stimulation for 24 h. Stimulation of mICcl2 cells with 4-CMTB were analyzed for aldh1a1 F and nlpr3 G. mRNA expression levels of aldh1a1 and nlpr3 were normalized to those of Ubiquitin and Cyclo.
 
-these results demonstrate that hdac in- hibition does not generally increase gene expression and that the induction of aldh1a1 expression after hdac inhibition is specific.
+The critical role of retinol metabolism by small intestinal epithelium was shown by the absence of tolero- genic DCs in CRBPII-deficient mice because CRBP is predom- inantly expressed in small IECs and is necessary for the uptake of retinol 26.In this article we report that fiber-enriched diets promote vitamin A metabolism in epithelial cells in the SIs as well as enhanced tolerogenic activity in MLN DCs increased percentages of in- testinal regulatory T cells and higher levels of IgA production in the lumen of the intestine.
 
-we were able to show in vitro that inhibition of hdac activity resulted in increased expression of aldh1a1 and our data implicated hdac 1 in the control of aldh1a1 expression levels in iecs.
+Because CD103 DCs are crucial for the induction of regulatory T cells via their production of RA we examined the percentages of Foxp3 T cells in the SIs of these mice.
 
-in this article we demonstrate that dietary fiber and short chain fatty acids scfas induced the expression of the vitamin a-converting enzyme raldh1 in intestinal epithelial cells in vivo and in vitro respectively.
+A aldh1a1 levels of mICcl2 cells stimulated with the HDAC inhibitor TSA MS275 M344 or Droxinostat for 24 h. B aldh1a1 levels of mICcl2 cells stimulated with sodium bu- tyrate SB TSA and SBTSA.
 
-furthermore our data showed that the expression levels of raldh1 in small intestinal epithelial cells correlated with the activity of vitamin a-converting enzymes in mesenteric lymph node dendritic cells along with increased numbers of intestinal regulatory t cells and a higher production of luminal iga.
-
-with the production of retinoic acid ra the active metabolite of vitamin a these dcs are crucial for the differentiation of regulatory t cells and promoteiga class-switching of b cells and induce the expression of gut- homing molecules on lymphocytes 20-22. we 23 and other investigators 24-26 showed that these tolerogenic dcs them- selves depend on ra which is produced by iecs for their function and phenotype.
-
-a aldh1a1 mrna expression measured in total si and epithelial scrapings from the si.
-
-b the expression levels of aldh1a1 mrna in proximal middle and distal parts of the si.
-
-mice raised on a synthetic diet showed significantly reduced aldh1a1 mrna expression in the proximal part of the si compared with mice receiving a standard conventional diet fig.
-
-together these data demonstrate that mice fed the synthetic ain-93m diet have reduced expression levels ofvitamin a-converting enzymes as well as fewer intestinal regula- tory t cells and diminished production of luminal iga.transient dietary changes can modulate the mucosal immune systemwe next investigated whether the mucosal immune system could be influenced by transient changes in the diet.
+In turn these DCs produce RA themselves and thereby are able to induce regulatory T cells and IgA-producing B cells.
 

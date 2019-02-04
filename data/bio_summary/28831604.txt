@@ -1,30 +1,20 @@
-in order to test this hypothesis we addressed three basic questions i how do the taxonomical and functional diversities in microbial communities differ across different environments ii what are the core taxonomic and functional groups in each environment and iii what are the main soil parameters that drive microbial community assembly although there are reports addressing the composition and structure of the selected environments this is the first study that used shotgun metagenomics to compare the soil microbial ecology in this transect in a taxonomic and functional perspective.materials and methodssampling sitessoil samples were collected at cardoso island state park in the estuary of cananeia sao paulo state southeast brazil fig.
+In order to test this hypothesis we addressed three basic questions i how do the taxonomical and functional diversities in microbial communities differ across different environments ii What are the core taxonomic and functional groups in each environment And iii what are the main soil parameters that drive microbial community assembly Although there are reports addressing the composition and structure of the selected environments this is the first study that used shotgun metagenomics to compare the soil microbial ecology in this transect in a taxonomic and functional perspective.Materials and methodsSampling sitesSoil samples were collected at Cardoso Island State Park in the estuary of Cananeia Sao Paulo State Southeast Brazil Fig.
 
-overall our finds show that the microbial community structure and functional potential were clearly different across the environ- mental gradient followed by functional adaptation and both were related to the soil properties.keywords microbial ecology  soil microbiome tropical soils  soil factors  shotgun metagenomeintroductionsoil microorganisms play an important ecological and biogeochemical roles in terrestrial ecosystems.
+Mangrove soils hosted a high abundance of sequences related to replication survival and adaptation forest soils included high numbers of sequences related to the metabolism of nutrients and other composts while restinga soils included abundant genes related to the metabolism of carbohydrates.
 
-in this sense the use of metagenomics in studies of soil microbial communities has been useful to connect microbial community biodiversity and function with changes in the environment nesme et al.
+In this sense the use of metagenomics in studies of soil microbial communities has been useful to connect microbial community biodiversity and function with changes in the environment Nesme et al.
 
-these three distinct biomes are found in a gradient within a single landscape in coastal regions in brazil which make them an excellent site to study the factors that influence microbial community assembly in soil.in the last decades many different brazilian microbiomes have been the focus of microbial ecology studies pylro et al.
+These three distinct biomes are found in a gradient within a single landscape in coastal regions in Brazil which make them an excellent site to study the factors that influence microbial community assembly in soil.In the last decades many different Brazilian microbiomes have been the focus of microbial ecology studies Pylro et al.
 
-in recent years microbial ecology studies based on high-throughput sequencing have given many new perspectives on microbial diversity and functions in a wide range of soil environments nesme et al.
+In recent years microbial ecology studies based on high-throughput sequencing have given many new perspectives on microbial diversity and functions in a wide range of soil environments Nesme et al.
 
-a better understanding of the relationship between microbial diversity functions and environmental parameters would increase our ability to set conservation priorities.
+From the total 34 microbial phyla identified 14 were overrepresented in mangrove soils including several archaeal groups.
 
-from the total 34 microbial phyla identified 14 were overrepresented in mangrove soils including several archaeal groups.
+Overall our finds show that the microbial community structure and functional potential were clearly different across the environ- mental gradient followed by functional adaptation and both were related to the soil properties.Keywords Microbial ecology  Soil microbiome Tropical soils  Soil factors  Shotgun metagenomeIntroductionSoil microorganisms play an important ecological and biogeochemical roles in terrestrial ecosystems.
 
-soil microorganisms represent the largest biodiversity pool on earth with more than 1030 microbial cells and estimates of 104-106 species per gram of soil whitman et al.
+3 Diversity measurements of microbial communities in soils from forest restinga and mangrove.
 
-with their enormous number large biomass and involvement in numerous key biogeochemical functions the assessment of soil microbial communities is of paramount importance to a better comprehension of ecosystem dynamics.
+The man- grove sediment was the most distinct environment with 14 microbial groups with higher abundance in comparison to forest and restinga particularly Pro- teobacteria Firmicutes Chloroflexi and almost all archaeal phyla.At the family level a three-way comparison revealed that forest samples are dominated by Rhizo- biaceae Burkholderiaceae and Bradyrhizobiaceae while restinga are dominated by the families Solibac- teraceae Acidobacteraceae and a portion of unclassi- fied Acidobacteria on the other hand mangrove soils are dominated by Gallionellaceae Chromatiaceae Pseudomonadaceae and Enterobacteraceae families Fig.
 
-several factors have been described to influence soil microbial communities such as ph lauber et al.
-
-together these conditions make mangroves hotspots for microbial diversity.
-
-however there is a lack of studies comparing microbial communities in a connected gradient of distinct biomes.
-
-here we used shotgun dna sequenc- ing and integrated taxonomic and functional data to compare the soil microbiome along a connected environmental gradient within a single landscape in order to understand how soil properties influence microbial composition in soil.
-
-we hypothesize thatboth taxonomic structure and functional potential of microbial communities varies among forest restinga and mangrove systems.
-
-forward selection fs and the monte carlo permutation tests were applied with 1000 random permutations to verify the significance of soil chemical properties upon a microbial community.
+These authors also found a low microbial diversity in restinga soil compared to forest and mangrove soils which is similar to our findings.
 

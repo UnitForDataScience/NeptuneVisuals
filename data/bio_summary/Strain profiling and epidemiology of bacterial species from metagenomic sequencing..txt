@@ -1,30 +1,20 @@
-the strain identifiers are reported in d. b to verify that complex strain mixtures are not an artifact due to the presence of one strain not represented in the collection of genomic reference sequences we show for three representative samples the distribution of frequencies of the four possible nucleotides at each allelic position.
+The strain identifiers are reported in d. b To verify that complex strain mixtures are not an artifact due to the presence of one strain not represented in the collection of genomic reference sequences we show for three representative samples the distribution of frequencies of the four possible nucleotides at each allelic position.
 
-a. in particular while at the beginning of the sampling period we found that a strain closely related to strain 504sepi was dominant at later times there was a switch to strain 236sepi confirming thefindings of the original publication.
+In particular while at the beginning of the sampling period we found that a strain closely related to strain 504SEPI was dominant at later times there was a switch to strain 236SEPI confirming thefindings of the original publication.
 
-6 where we found that in all cases the strain distribution was reconstructed with high precision with an aver- age mcc 0.96 strains with relative predicted abundance below 1 were not considered in the comparison and an average jensen-shannon divergence jsd  0.02 for a total coverage of 100x supplementary tables 1 and 2.one of the major challenges of reference-based methods is when a strain is missing from the reference database.
+6 where we found that in all cases the strain distribution was reconstructed with high precision with an aver- age MCC 0.96 strains with relative predicted abundance below 1 were not considered in the comparison and an average Jensen-Shannon divergence JSD  0.02 for a total coverage of 100X Supplementary Tables 1 and 2.One of the major challenges of reference-based methods is when a strain is missing from the reference database.
 
-rather panphlan is able to identify and classify the dominant strain of each species using a reference database while midas provides the snv profiles and genomic repertoires of each of these dominant strains supplementary table 4. thus midas can be used to assess whether the same dominant strain is conserved across samples allowing e.g.
+b Whole-genome cladogram of the reference genomes also including the two high-quality genome sequences Sharon strain 1 and Sharon strain 3 assembled in the original paper from the same samples.
 
-b whole-genome cladogram of the reference genomes also including the two high-quality genome sequences sharon strain 1 and sharon strain 3 assembled in the original paper from the same samples.
+This guarantees that if the sample contains a strain that is divergent from all the sequences in the reference database StrainEst will not try to model it as a superposition of reference strains.
 
-this guarantees that if the sample contains a strain that is divergent from all the sequences in the reference database strainest will not try to model it as a superposition of reference strains.
+The repre- sentative sequences of these clusters were assigned to one of the six phylogenetic groups according to their Mash distance from the reference strain of each group namely E. coli str.
 
-this test was especially challenging due to the low abundance of some of these species in these samples see methods section and supplementary table 3. for this reason we included in the modeling step all snv positions with coverage 1 the default cutoff for this option is 6. for all species strainest identified correctly the presence of one dominant strain that coincided with the strain known to be present with the exception of n. meningitidis in sample srr172903 where the algorithm did not reach convergence due to the low number of reads that aligned to the referencea10xb100x11.000.750.500.250.001.000.750.502345678910123456789100.250.001.000.750.500.250.00c14x6xd12x6x 2xe8x6x4x 2xmethodmethodmethodfig.
+For all species StrainEst identified correctly the presence of one dominant strain that coincided with the strain known to be present with the exception of N. meningitidis in sample SRR172903 where the algorithm did not reach convergence due to the low number of reads that aligned to the referencea10xb100x11.000.750.500.250.001.000.750.502345678910123456789100.250.001.000.750.500.250.00c14x6xd12x6x 2xe8x6x4x 2xMethodMethodMethodFig.
 
-b. in agreement with the strain pattern reconstructed by strainest we found that for samples predicted to harbor a single strain the distribution was bimodal with allelic variants either supported by 100 of the reads or not present.
+In agreement with the strain pattern reconstructed by StrainEst we found that for samples predicted to harbor a single strain the distribution was bimodal with allelic variants either supported by 100 of the reads or not present.
 
-while the three initial samples were dominated by strain 504sepi at later times strain 236sepi was the most abundant.
+While the three initial samples were dominated by strain 504SEPI at later times strain 236SEPI was the most abundant.
 
-to eliminate spurious sequences the genome database was filtered discarding those sequences too divergent from the ncbi type strain of the species and clustered to reduce the redundancy of closely related genomes see methods section.computing the core genome and the reference snv profiles.
-
-we aligned each representative genome against the complete genome of a species representative sr. sr was usually the reference strain on the ncbi website although other choices are possible fig.
-
-c. profiles assigned to the same reference strain clearly clustered by subject and intra-subject variability was related to the amount of noise introduced by subdominant strains e.g.
-
-the repre- sentative sequences of these clusters were assigned to one of the six phylogenetic groups according to their mash distance from the reference strain of each group namely e. coli str.
-
-outliers are shown as pointsstrains we found that in all cases the consensus allelic profile of the metagenomic samples was closely associated to the reference strain fig.
-
-a. in this case a single strain clearly distinct from all the reference strains was present fig.
+To eliminate spurious sequences the genome database was filtered discarding those sequences too divergent from the NCBI type strain of the species and clustered to reduce the redundancy of closely related genomes see Methods section.Computing the core genome and the reference SNV profiles.
 

@@ -1,0 +1,20 @@
+Phage editing was also conducted in a S. aureus RN4220 background by cloning the S. epidermidis CRISPR-Cas10 system on a plasmid and using a two-step approach similar to the one described above data shown in .Virulent staphylococcal phages are intractable by most current genetic engineering techniques.Classical strategies that rely solely on homologous recombination between the phage genome and a donor DNA construct are inefficient owing to low recombination rates and massive screening efforts required to recover the desired mutant.Other strategies thatinvolve the transformation of bacterial hosts with whole phage genomesare unsuitable for use in natural Staphylococcus isolates which exhibit lowno competence.However recent reports have shown that CRISPR-Cas Clustered regularly- interspaced short palindromic repeats-CRISPR-associated systems in distinct bacteria can facilitate phage editing.- CRISPR-Cas systems are a diverse class of prokaryotic immune systems that use small CRISPR RNAs crRNAs and Cas nucleases to detect and destroy phages and other nucleic acid invaders.- In these systems CRISPR loci maintain anarchive of short 30-40 nucleotide invader-derived sequences called spacers integrated between similarly sized DNA repeats.
+
+Wild-type phages were included as a negative control and uncut and cut DNA fragments are indicated with arrowsbrackets.ylococcal phage families Podoviridae phage Andhra and Myoviridae phage ISP.Since the S. epidermidis CRISPR-Cas10 system lacks natural spacers targeting these phages the system had to be reprogrammed to target Andhra and ISP.
+
+Science 315 1709-1712.Brouns S. J. J. Jore M. M. Lundgren M. Westra E. R. Slijkhuis R. J. H. Snijders A. P. L. Dickman M. J. Makarova K. S. Koonin E. V. and van der Oost J.
+
+The targeting strain is challenged with the phage by spotting phage lysate on top agar overlays to confirm that the selected spacer indeed protects against phage infection via CRISPR-Cas10 immunity.
+
+9 244-253.Flores C. O. Meyer J. R. Valverde S. Farr L. and Weitz J. S. 2011 Statistical structure of host - phage interactions.
+
+Ferrer M. D. Maiques E. Ubeda C. Selva L.Lasa I. Calvete J. J. Novick R. P. and Penades J. R. 2008 Staphylococcus aureus Pathogenicity Island DNA Is Packaged in Particles Composed of Phage Proteins.
+
+Science 322 1843-1845.Makarova K. S. Wolf Y. I. Alkhnbashi O. S. Costa F. Shah S.A. Saunders S. J. Barrangou R. Brouns S. J. J. Charpentier E. and Haft D. H. 2015 An updated evolutionary classification of CRISPR- Cas systems.
+
+190 1390-1400.Semenova E. Jore M. M. Datsenko K. A. Semenova A. Westra E. R. Wanner B. van der Oost J. Brouns S. J. J. and Severinov K. 2011 Interference by clustered regularly interspaced short palindromic repeat CRISPR RNA is governed by a seed sequence.
+
+Fewer than 30 of sequenced staphylococcal phages are naturally virulent belonging to the families Myoviridae and Podoviridae.These phages exhibit a swift reproductive cycle that destroys the host within minutes of infection.
+
+These issues are compounded by the need to use cocktails of diverse phages for antimicrobial applications to curb the emergence of phage-resistant pathogens.Thus gaining a better understanding of virulent phages and engineering phage-based antimicrobials with well-defined genetic components are expected to alleviate safety concerns regulatory constraints and manufacturing challenges associated with the implementation of whole-phage therapeutics.have been sequenced to date the majority exhibit a temperate lifestyle that is unsuitable for antimicrobial applications.
+

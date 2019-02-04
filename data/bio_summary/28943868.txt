@@ -1,30 +1,20 @@
-in comparison of the four groups' treatments the numbers of unique genera for each group were 39 control group 2 low dosage group 6 pkpd dosage group and 32 high dosage group respectively.
+In comparison of the four groups' treatments the numbers of unique genera for each group were 39 control group 2 low dosage group 6 PKPD dosage group and 32 high dosage group respectively.
 
-the unique genera in the withdrawal periods of the four groups were 29 for control group 3 for low dosage group 29 for pkpd group and 30 for high dosage group.the nmds analysis was conducted to determine the changes of community structure of the four dosage groups.
+The unique genera in the withdrawal periods of the four groups were 29 for control group 3 for low dosage group 29 for PKPD group and 30 for high dosage group.The NMDS analysis was conducted to determine the changes of community structure of the four dosage groups.
 
-in the comparisons of treatment with withdrawal in each group genera whose abundances were higher in the treatment period than in the withdrawal period were marked with orange color otherwise marked with blue.tt treatment wd withdrawal a control group b low dosage group c pkpd dosage group d high dosage group.figure s3  venn diagram of the core and unique otus of the treatment a and withdrawal b period in each group.
+In the comparisons of treatment with withdrawal in each group genera whose abundances were higher in the treatment period than in the withdrawal period were marked with orange color otherwise marked with blue.TT treatment WD withdrawal A control group B low dosage group C PKPD dosage group D high dosage group.FIGURE S3  Venn diagram of the core and unique OTUs of the treatment A and withdrawal B period in each group.
 
-tt treatment wd withdrawal a control group b low dosage group c pkpd dosage group d high dosage group.figure s4  the non-metric multidimensional scaling nmds plots of the treatments and withdrawal in each group.
+TT treatment WD withdrawal A control group B low dosage group C PKPD dosage group D high dosage group.FIGURE S4  The non-metric multidimensional scaling NMDS plots of the treatments and withdrawal in each group.
 
-the salmonella was significantly reduced to a lower level in the low dosage group 0-0.006 and pkpd dosage group 0-0.004. significant differences of the treatments were observed between each medicated group and the control group .dna sequence data and quality controlin total 5250232 dna sequence reads were generated from the 50 fecal samples.
+The Salmonella was significantly reduced to a lower level in the low dosage group 0-0.006 and PKPD dosage group 0-0.004.
 
-the average values of chao1 were highest in the high dosage group and followed by control group pkpd group and low dosage group .
+The average values of Chao1 were highest in the high dosage group and followed by control group PKPD group and low dosage group .
 
-for most of the grouped samples except the high dosage group's treatments the prevalent phylum firmicutes was mainly comprised of peptostreptococcaceae 27.26-60.46 enterococcus 3.87-43.12 ruminococcaceae2.85-18.02 and lachnospiraceae 6.59-29.05. in the treatment period of the high dosage group burkholderia 26.37 was of highest abundance in the dominate phylum proteobacteria.all the differentially abundant genera n 113 identified by metastats p  0.05 are illustrated in .
+Low dosage group and PKPD dosage group were not clustered separately from the non-medicated group.
 
-the abundances of five genera anaerotruncus blautia janibacter flavisolibacter and parasutterella were significantly decreased in the high dosage group than in the control group for both the treatment period and the withdrawal period as shown in  bracket a. a total of 23 genera were significantly reduced in the medicated groupsthan in the control group and the differences were only observed in the treatment period  bracket b. abundances of seven genera chthoniobacter quadrisphaera salinimicrobium haliscomenobacter clostridium aquicella and nitrosococcus were consistently declined in the three medicated groups than in the control group in the withdrawal period  bracket c. of all the 61 genera which were significantly different among the treatments of the four groups 25 genera were significantly enriched in the high dosage group than in the control group including both probiotics e.g.
+TT treatment WD withdrawalA control group B low dosage group C PKPD dosage group.REFERENCESAgnello M. Finkel S. E. and Wong-Beringer A.
 
-most of the significant differences were observed in high dosage group 3864. of all the 38 differentially abundant genera detected in the high dosage group the relative abundances of 35 genera were significantly increased in the treatment period   bracket e.of all the 20 abundant genera 1 of the total sequences14 genera presented significant differences and they were summarized in .
+The results showed that the shedding levels of Salmonella were significantly reduced in the high dosage group as demonstrated by both the culturing method and 16S rRNA sequencing method.
 
-low dosage group and pkpd dosage group were not clustered separately from the non-medicated group.
-
-tt treatment wd withdrawala control group b low dosage group c pkpd dosage group.referencesagnello m. finkel s. e. and wong-beringer a.
-
-the results showed that the shedding levels of salmonella were significantly reduced in the high dosage group as demonstrated by both the culturing method and 16s rrna sequencing method.
-
-non-metric multidimensional scaling nmds analysis results showed that the microbial community of high dosage group was clearly separated from the other three groups.
-
-specially enterococcus was significantly reduced under high dosage of enrofloxacin treatment while significantly enriched in the withdrawal period which was presumably due to the resistance selection.
-
-predicted microbial functions associated with genetic information processing were significantly decreased in the high dosage group.
+Non-metric multidimensional scaling NMDS analysis results showed that the microbial community of high dosage group was clearly separated from the other three groups.
 

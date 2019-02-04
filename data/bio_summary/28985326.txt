@@ -1,30 +1,20 @@
-four mammalian families comprising 21 species had significantly decreased gut bacterial diversity in the captive state canidae p 0.0093 atelidae p 7.79e-08 cercopithecidae p 0.011 lemuridae p 0.0003. the equidae had marginally significantly decreased bacterial diversity in the captive state p 0.061 and the hominidae gorillas trended toward decreased bacterial diversity p 0.101. one family rhinocerotidae had significantly increased bacterial di- versity in captivity p 0.0028. four mammal families had no significant change in bacterial diversity between the wild and captive state bovidae p 0.55 giraffidae p 0.81 myrmecophagidae p 0.358orycteropodidae p0.448.to examine whether the gut bacterial commun- ities of mammals shift significantly in captivity we compared changes in beta-diversity in the captive versus wild state.
+This indicates that some species that did not have decreased bacterial alpha diversity in captivity such as the anteaters and aardvarks still differed in terms of bacterial composition andor relative abundance of various bacterial taxa.
 
-this indicates that some species that did not have decreased bacterial alpha diversity in captivity such as the anteaters and aardvarks still differed in terms of bacterial composition andor relative abundance of various bacterial taxa.
+Four mammal families had no significant change in bacterial diversity between the wild and captive state Bovidae P 0.55 Giraffidae P 0.81 Myrmecophagidae P 0.358Orycteropodidae P0.448.To examine whether the gut bacterial commun- ities of mammals shift significantly in captivity we compared changes in beta-diversity in the captive versus wild state.
 
-overall a clear pattern that emerged was a decrease in bacterial di- versity for the primates in this study wherein four out of five primate families had significantly reduced gut bacterial diversity in captivity and the remaining family gorillas trended toward lower diversity  .
+Overall a clear pattern that emerged was a decrease in bacterial di- versity for the primates in this study wherein four out of five primate families had significantly reduced gut bacterial diversity in captivity and the remaining family gorillas trended toward lower diversity  .
 
-shaded and open bars indicate significant increases of the relative abundances of specific bacterial taxa in the wild or in captivity respectively false discovery rate-corrected p  0.05. only those bacterial taxa with significant differences at the phyla class genus and otu 97-cutoff levels are shown.as indicated by the larger r2 values ranging from 19 to 56 of the variability explained by the cap- tive versus wild state.
+Though rhinoceros had increased bacterial alpha diver- sity overall the reduced abundance of these bacteria in captivity is potentially related to diet changes in captivity.Within the bacterial phylum Firmicutes captivemammals demonstrate markedly higher anaerobic Bacilli and lower relative abundance in Clostridia as compared to their wild counterparts.
 
-though rhinoceros had increased bacterial alpha diver- sity overall the reduced abundance of these bacteria in captivity is potentially related to diet changes in captivity.within the bacterial phylum firmicutes captivemammals demonstrate markedly higher anaerobic bacilli and lower relative abundance in clostridia as compared to their wild counterparts.
+The Equidae had marginally significantly decreased bacterial diversity in the captive state P 0.061 and the Hominidae gorillas trended toward decreased bacterial diversity P 0.101.
 
-results of the mantel tests indicate that for body mass there was a positive correlation between body mass differences and bacterial community differences for both captive mammals r 0.26 p 0.001 and wild mammals r 0.36 p 0.001. similarly we also observed a positive correlation between differences between diet breadth and bacterial community differ- ences for both captive mammals r 0.15 p 0.001 and wild mammals r 0.33 p 0.001. all mantel test correlations performed were positive greater than zero and the values of the r statistic were slightly higher for mammals in the wild state versus captive however all values were relatively low  0.36.we also examined whether collection site had anylarge signal in these data using adonis.
+.A contrasting example to the ungulates is repre- sented by the two myrmecophagous ant- and termite-eating species aardvark and giant anteater that did not show significant differences in bacterial alpha diversity but did have differences in beta- diversity of the bacterial communities between captive and wild individuals  .
 
-.a contrasting example to the ungulates is repre- sented by the two myrmecophagous ant- and termite-eating species aardvark and giant anteater that did not show significant differences in bacterial alpha diversity but did have differences in beta- diversity of the bacterial communities between captive and wild individuals  .
+The full list of these bacterial taxa including those not expli- citly discussed can be found in the supplemental material Supplementary Tables S5-S6.Within the bacterial phylum Bacteroidetes a fewtaxa of interest stand out.
 
-the full list of these bacterial taxa including those not expli- citly discussed can be found in the supplemental material supplementary tables s5-s6.within the bacterial phylum bacteroidetes a fewtaxa of interest stand out.
+Animals living in captivity experience a range of changes that may influence the gut bacteria such as diet changes treatments and reduced contact with other individuals species and variable environmental substrates that act as sources of bacterial diversity.
 
-animals living in captivity experience a range of changes that may influence the gut bacteria such as diet changes treatments and reduced contact with other individuals species and variable environmental substrates that act as sources of bacterial diversity.
+Second the few previous studies that directly compared captive to wild counterparts within a species suggest a trend towards reduced sym- biotic bacterial diversity in captivity      which leads to a number of questions.
 
-second the few previous studies that directly compared captive to wild counterparts within a species suggest a trend towards reduced sym- biotic bacterial diversity in captivity      which leads to a number of questions.
-
-our present study encompasses 41 species of mammals across six different orders that cover the four major placental clades allowing for a more robust analysis of any generalizable patterns of gut bacterial community changes associated with captivity.
-
-carnivores also showed a pattern of decreased bacterial diversity in captivity but too few species are represented in this dataset to make a robust con- clusion.
-
-equids also demonstrated a pattern of reduced bacterial diversity in captivity that wasfig.
-
-an important finding of this study however is that a decrease in gut bacterial diversity in captivity is not universal across mam- mals .
-
-several mammalian groups showed no change in bacterial diversity in captivity com- pared with the wild state bovids giraffes anteaters and aardvarks.
+One family Rhinocerotidae had significantly increased bacterial di- versity in captivity P 0.0028.
 

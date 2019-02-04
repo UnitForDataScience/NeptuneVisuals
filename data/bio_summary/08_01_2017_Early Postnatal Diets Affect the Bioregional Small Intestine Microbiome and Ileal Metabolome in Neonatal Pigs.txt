@@ -1,30 +1,20 @@
-correlations among microbes and metabolites were assessed with pearson correlations and presented as a network by use of cytoscape version 3.2.1.resultsdietary effects on bacterial a-diversity in the small intestine are region specificsample richness observed taxa and chao1 showed a signifi- cant interaction between diet and intestinal region at all taxonomic levels and sample diversity shannon index showed significant interactions between diet and intestinal region at all levels except class supplemental table 2. we analyzed the effect of diet on measures of a-diversity within intestinal regions supplemental table 3. at the genus level formula feeding resulted in lower sample richness in the duodenum relative to sow feeding figure 1a.
+Correlations among microbes and metabolites were assessed with Pearson correlations and presented as a network by use of Cytoscape version 3.2.1.ResultsDietary effects on bacterial a-diversity in the small intestine are region specificSample richness observed taxa and Chao1 showed a signifi- cant interaction between diet and intestinal region at all taxonomic levels and sample diversity Shannon index showed significant interactions between diet and intestinal region at all levels except class Supplemental Table 2.
 
-the dietary and regional patterns observed at the genus level were consistent across all of the other taxonomic levels supplemental table 3.all diet groups have distinct microbiomes in the duodenum but microbiomes of formula groups merge and remain distinct in the jejunum and ileum of breastfed neonatal pigsa total of 18 unique bacterial phyla were observed across all neonatal pigs with significant differences by gut location and diet bray-curtis dissimilarity p  0.01. in the duodenum firmicutes represented the most abundant phylum across all of the diets with median relative abundances of 78.8 80.1 and 53.4 in the sow-fed dairy formula- and soy formula-fed neonatal pigs respectively.
+The dietary and regional patterns observed at the genus level were consistent across all of the other taxonomic levels Supplemental Table 3.All diet groups have distinct microbiomes in the duodenum but microbiomes of formula groups merge and remain distinct in the jejunum and ileum of breastfed neonatal pigsA total of 18 unique bacterial phyla were observed across all neonatal pigs with significant differences by gut location and diet Bray-Curtis dissimilarity P  0.01.
 
-when comparing the effect of diet within the intestinal region there was a clear discrimination of diet p  0.01 in the duodenum supplemental figure 2a figure 3a.
+When comparing the effect of diet within the intestinal region there was a clear discrimination of diet P  0.01 in the duodenum Supplemental Figure 2A Figure 3A.
 
-dairy dairy-based infant formula sow sow milk soy soy-based infant formula.1502 piccolo et al.unique within the duodenum and 5 were unique within the jejunum figure 4. the remaining 45 otus altered by diet were located in multiple intestinal regions with the majority found in both the duodenum and jejunum followed by all 3 regions figure 4.in the duodenum a total of 77 genera were found to be differentially altered supplemental table 4. figure 5a displays all of the annotated genera altered by diet and the majority of differences are found between sow-fed and formula-fed neonatal pigs.
+Similar ordination results were found for ileum samples Supplemental Figure 2C Figure 3C.Greater number of genera are altered by diet in the duodenum followed by the jejunum and then the ileum At the genus level 86 total genera were statistically altered by diet within all small intestinal regions.
 
-similar ordination results were found for ileum samples supplemental figure 2c figure 3c.greater number of genera are altered by diet in the duodenum followed by the jejunum and then the ileum at the genus level 86 total genera were statistically altered by diet within all small intestinal regions.
+These analyses illustrate that there were distinct ileal tissue metabolites that could successfully discrim- inate postnatal diet conditions from one another.To aid in interpretation of these discriminating variables and to identify covariate metabolites 12 distinct modules of diet-altered metabolites were identified and then correlated to ileum genera that were altered by diet Supplemental Figure 3A.
 
-these analyses illustrate that there were distinct ileal tissue metabolites that could successfully discrim- inate postnatal diet conditions from one another.to aid in interpretation of these discriminating variables and to identify covariate metabolites 12 distinct modules of diet-altered metabolites were identified and then correlated to ileum genera that were altered by diet supplemental figure 3a.
-
-the bioregional effect of diet on the small intestine microbiome also extends previous observations of ileum-based diet alterations in neonatal pigs 37 and provides new data regarding the interaction between ileum tissue metabolism and luminal bacteria.there is considerable evidence that breastfeeding modulates the infant colonic gut microbiome relative to formula feeding.
+The bioregional effect of diet on the small intestine microbiome also extends previous observations of ileum-based diet alterations in neonatal pigs 37 and provides new data regarding the interaction between ileum tissue metabolism and luminal bacteria.There is considerable evidence that breastfeeding modulates the infant colonic gut microbiome relative to formula feeding.
 
 37 found higher total ileal bacteria in 7-d- old pigs fed a whey-based high-protein formula diet than in those fed a whey-based normoprotein diet however the total amount of ileal bacteria in normoprotein formula-fed neonatal pigs was similar to that in the high-protein-fed neonatal pigs at 28 d old.
 
-although the gut microbiome has been implicated little is known about how early diet affects the small intestine microbiome.
+Although the gut microbiome has been implicated little is known about how early diet affects the small intestine microbiome.
 
-in the duodenum 77 genera were altered by diet followed by 48 in the jejunum and 19 in the ileum.
+In the duodenum 77 genera were altered by diet followed by 48 in the jejunum and 19 in the ileum.
 
-acylcarnitines 3-aminoisobutyric acid and diet-responsive microbial genera.conclusions these results indicate that the neonatal diet has regional effects on the small intestine microbiome in pigs with the most pronounced effects occurring in the duodena.
-
-perhaps most important the small intestine is the first point of contact between the intestines and the diet providing carbon sources and other nutrients to bacteria residing in the small intestine well before passage into the large intestine.
-
-to address these knowledge gaps we used a neonatal pig model to characterize the influence of early diet on the small intestine microbiome and related gut tissue metabolism profiles.
-
-we hypothesized that disparate diet compositions would result in unique bacterial colonizations of the small intestine.
-
-litters from multiparous dutch landrace duroc sows fed a soy-free diet were used in this study.
+acylcarnitines 3-aminoisobutyric acid and diet-responsive microbial genera.Conclusions These results indicate that the neonatal diet has regional effects on the small intestine microbiome in pigs with the most pronounced effects occurring in the duodena.
 

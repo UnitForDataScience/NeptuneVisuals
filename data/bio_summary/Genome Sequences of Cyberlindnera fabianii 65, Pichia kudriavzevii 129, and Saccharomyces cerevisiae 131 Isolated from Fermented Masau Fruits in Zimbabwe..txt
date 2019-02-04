@@ -1,30 +1,20 @@
-eukaryotesgenome sequences of cyberlindnera fabianii 65 pichia kudriavzevii 129 and saccharomyces cerevisiae 131 isolated from fermented masau fruits in zimbabweirma m. h. van rijswijcka martijn f. l. derksbc tjakko abeea dick de ridderb eddy j. smidalaboratory of food microbiology wageningen university  research wageningen campus wageningen the netherlandsa bioinformatics wageningen university  research wageningen campus wageningen the netherlandsb animal breeding and genomics centre wageningen university  research wageningen campus wageningen the netherlandscabstract cyberlindnera fabianii 65 pichia kudriavzevii 129 and saccharomyces cerevisiae 131 have been isolated from the microbiota of fermented masau fruits.c.
+EUKARYOTESGenome Sequences of Cyberlindnera fabianii 65 Pichia kudriavzevii 129 and Saccharomyces cerevisiae 131 Isolated from Fermented Masau Fruits in ZimbabweIrma M. H. van Rijswijcka Martijn F. L. Derksbc Tjakko Abeea Dick de Ridderb Eddy J. SmidaLaboratory of Food Microbiology Wageningen University  Research Wageningen Campus Wageningen The Netherlandsa Bioinformatics Wageningen University  Research Wageningen Campus Wageningen The Netherlandsb Animal Breeding and Genomics Centre Wageningen University  Research Wageningen Campus Wageningen The NetherlandscABSTRACT Cyberlindnera fabianii 65 Pichia kudriavzevii 129 and Saccharomyces cerevisiae 131 have been isolated from the microbiota of fermented masau fruits.C.
 
-here we present the draft annotated genome sequences of these isolates.yberlindnera fabianii 65 previously known as lindnera fabianii hansenula fabianii and pichia fabianii   pichia kudriavzevii 129 previously known as issatchenkia orientalis  and saccharomyces cerevisiae 131 have been isolated from the microbiotaof fermented masau fruits ziziphus mauritiana in zimbabwe  .all three species are found regularly in fermented food products   but also occasionally in clinical sources .
+.Bourdichon F Casaregola S Farrokh C Frisvad JC Gerds ML Hammes WP Harnett J Huys G Laulund S Ouwehand A Powell IB Prajapati JB Seto Y Ter Schure E Van Boven A Vankerckhoven V Zgoda A Tuijtelaars S Hansen EB.
 
-the gc percentage of c. fabianii 65 is 44.4 but is lower for p. kudriavzevii 129 38.5 and s. cerevisiae 131 38.1. other assembly and annotation statistics are listed in .volume 5 issue 14 e00064-17 1van rijswijck et al.table 1 assembly characteristics of three fungal genome sequencesthe genome sequences and gene annotations can now be used to develop novel molecular tools to unravel the full metabolic repertoire of the two nonconventional yeasts compared to s. cerevisiae 131. additionally links between phenotypes and genotypes as well as comparative genomic studies among the three species will reveal opportunities for industrial applications of c. fabianii 65 and p. kudriavzevii 129.accession numbers.
+Here we present the draft annotated genome sequences of these isolates.yberlindnera fabianii 65 previously known as Lindnera fabianii Hansenula fabianii and Pichia fabianii   Pichia kudriavzevii 129 previously known as Issatchenkia orientalis  and Saccharomyces cerevisiae 131 have been isolated from the microbiotaof fermented masau fruits Ziziphus mauritiana in Zimbabwe  .All three species are found regularly in fermented food products   but also occasionally in clinical sources .
 
-de novo gene predictors augustus  and snap  were trained using pichia stipitis genome sequence data for c. fabianii 65 and p. kudriavzevii 129 and saccharomyces cerevisiae fors.
+BMC Bioinfor- matics 10421.Jones P Binns D Chang HY Fraser M Li WZ McAnulla C McWilliam H Maslen J Mitchell A Nuka G Pesseat S Quinn AF Sangrador-Vegas A Scheremetjew M Yong SY Lopez R Hunter S. 2014.
 
-2015. nutrient limitation leads to penetrative growth into agar and affects aroma formation in pichia fabianii p. kudriavzevii and saccharo- myces cerevisiae.
+Nevertheless P. kudriavzevii and S. cerevisiae were given the status of generally recognized as safe by the Food and Drug Adminis- tration FDA .
 
-the annotated genome sequences are deposited at ddbj emblgenbank under the accession numbers listed in .acknowledgmentsthis research was financially supported by the graduate school vlag wageningen university  research wageningen the netherlands and heineken supply chain bv zoeterwoude the netherlands.referencesminter dw.
+De novo gene predictors Augustus  and SNAP  were trained using Pichia stipitis genome sequence data for C. fabianii 65 and P. kudriavzevii 129 and Saccharomyces cerevisiae forS.
 
-nevertheless p. kudriavzevii and s. cerevisiae were given the status of generally recognized as safe by the food and drug adminis- tration fda .
+Int J Food Microbiol 120159 -166.
 
-to further explore these features the draft genomes of these wild isolates were investigated and annotated.dna was sequenced using illumina miseq paired-end 2 x 251 bp sequencing tech- nology with total depths of coverage of 83.3x c. fabianii 65 83.3x p. kudriavzevii 129 and 100x s. cerevisiae 131 based on a 12-mb genome size.
+Int J Food Microbiol 166426 - 432.
 
-moreover pacbio se- quencing was performed with total depths of coverage of 36.6x c. fabianii 65 32.1x p. kudriavzevii 129 and 22.2x s. cerevisiae 131. we performed hybrid assemblies using dbg2olc with illumina and pacbio data .
+Int J Food Microbiol 124 115-125.
 
-cerevisiae 131. functional annotation was performed using blastp  against swiss-prot .
-
-2015. tuning chocolate flavor through development of thermotolerant saccharomyces cerevisiae starter cultures with increased acetate ester production.
-
-2011. genome-wide association analysis of clinical vs. nonclinical origin provides insights into saccharomyces cerevisiae pathogenesis.
-
-mycotaxon 110473- 476.kurtzman cp robnett cj basehoar-powers e. 2008. phylogenetic rela- tionships among species of pichia issatchenkia and williopsis deter- mined from multigene sequence analysis and the proposal of barnet- tozyma gen. nov. lindnera gen. nov. and wickerhamomyces gen. nov. fems yeast res 8939 -954.
-
-int j food microbiol 120159 -166.
-
-int j food microbiol 166426 - 432.
+Int J Food Microbiol 1601-10.
 

@@ -1,10 +1,20 @@
-we filtered out low abundance gene pathways with max abundance  0.1 across all samples or present in 0 samples.the correct version should read as followswe filtered out the samples with non-human reads  30000 and bacterial genera with max abundance  1 across all samples or present in 10 of all samples.
+We filtered out low abundance gene pathways with max abundance  0.1 across all samples or present in 0 samples.The correct version should read as followsWe filtered out the samples with non-human reads  30000 and bacterial genera with max abundance  1 across all samples or present in 10 of all samples.
 
-the originally published version appears here with typos indicated in italic textwe filtered out the samples with non-human reads  30000 and bacterial genera with max abundance  1 across all samples or present in 0 of all samples.
+The originally published version appears here with typos indicated in italic textWe filtered out the samples with non-human reads  30000 and bacterial genera with max abundance  1 across all samples or present in 0 of all samples.
 
-gene pathway abundance was measured by humann.
+The distance between samples was measured by the Jaccard index.
 
-gene pathway abundance was measured by humann.
+The pamk func- tion in R package fpc was used to find the optimal clustering of bacterial data.
 
-we filtered out low-abundance gene pathways with max abundance  0.1 across all samples or present in 10 samples.the production department apologizes for any confusion.a 2017 elsevier inc.diversity of functionally permissive sequences in the receptor-binding siteof influenza hemagglutininnicholas c. wu jia xie tianqing zheng corwin m. nycholat geramie grande james c. paulson richard a. lerner and ian a. wilsoncorrespondence r.a.l.
+The distance between samples was measured by the Jaccard index.
+
+The pamk function in R package fpc was used to find the optimal clustering of bacterial data.
+
+The amino acid substitutions were referred to as Q226 G228 instead of L226S228.
+
+The corrected and original versions of Figure 4D are shown here.
+
+The authors apologize for any confusion this error may have caused.a 2017 Elsevier Inc.Cell Host  Microbe 22 247-248 August 9 2017 247
+
+Gene pathway abundance was measured by HUMAnN.
 

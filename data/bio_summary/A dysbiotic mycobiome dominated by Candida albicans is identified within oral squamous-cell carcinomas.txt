@@ -1,0 +1,20 @@
+However only 74 genera and 125 species were iden- tified in more than one sample seven genera and 10species in 25 of the samples and four genera and five species in 50.The relative abundances of the two phyla identi- fied as well as the genera and species detected in15 of the samples are shown in .
+
+Examples of species abundant in single samples include Rhodotorula mucilaginosa Sporidiobolus johnsonii Penicillium tox- icarium Toxicocladosporium irritans Gibberella intri- cans Alternaria infectoria Ophiocordyceps sinensis and Aspergillus tamarii as well as a number of potentially novel taxa.OSCC versus FEPThe number of species per sample ranged from 4 to 29 for the cases and from 8 to 64 for the controls.
+
+However this approach carries the risk of assigning reads belonging to species not represented inthe reference set to another closely related species.Of the species identified 239364 65.6 were from single samples indicating that they represent transient environmental fungi.
+
+Cladosporium exasperatum and a potentially novel species close to Cladosporium sphaerospermum were also identified in half of the samples at an average relative abundance of 2.However the relative abundance of these taxa varied significantly between the samples.
+
+A set of 23423 fungal ITS sequences representing all named species 16595 species in UNITE's database v7.1   22 August 2016 dynamic release untrimmed sequences  was used as reference the fasta andtaxonomy files of this set can be downloaded at .
+
+Singleton OTUs were excluded the rest were consid- ered potentially novel species and a representative read from each was BLASTN-searched against the same reference sequence set again to determine the closest species for taxonomy assignment.Downstream analysis was performed as previouslydescribed .
+
+At the species level C. albicans C. etchellii and a potentially novel species close to Hannaella luteola were significantly enriched in OSCC.
+
+This in addition to limiting the reference set to sequences from named species only enabled the reads to be classified at the species level.
+
+Therefore while these species may simply repre- sent transient environmental fungi or passenger oral fungal taxa it is also possible that carriage of some of these species confers some protection against the devel- opment of oral cancer.
+
+The number of classified reads per sample averaged 21641 range 3973-54849.Overall mycobiome profileA total of 364 species belonging to 162 genera and two phyla were detected in the samples.
+

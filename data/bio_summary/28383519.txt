@@ -1,30 +1,20 @@
-valine leucine and isoleucine degradation phenylalanine metabolism glycine serine and threonine metabolism glutathione metabolism arginine biosynthesis taurine and hypotaurine metabolism histidine metabolism glutathione metabolism nitrogen metabolism lysine degra- dation sugar and nucleotide sugar metabolism pathways e.g.
+Therefore we aimed to investigate the effects of cassava foliage as a dietary supplement on microbial diversity in the caecum of geese using HT-NGS technology.ResultsSequences.
 
-however liu et al.analyzed the microbial diversity of geese caecum at the class level using 16s rrna clone library approach and the cecal microbiome of geese are dominantly occupied by 58.7 clostridia firmicutes 26.9 bacteroidetes bacteroidetes and 11.2 erysipelotrichi firmicutes showing similar results with the cecal microbiome of chickens.
+However the effects of cassava foliage on the cecal microbial and functions remain unclear and the actual actions may wait for more efforts.Taken together our study based on 16 S rRNA gene sequencing reported the overall composition of the micro-bial ecosystem in the caecum of geese with different diets.
 
-liu et al.analyzed the geese caecum microbial diversity using 16s rrna clone library approach which are dominantly occupied by clostridia-related species 58.7 followed by bacteroidetes 26.9 and erysipelotrichi 11.2. however the dgge technique fails to accurately represent the gut microbiome due to its low coverage throughput and semi-quantitative features.
+Our data revealed that cassava foliage treatment had significant effects on the microbial community in the caecum of geese.
 
-cationic antimicrobial peptide camp ascorbate and aldarate metabolism african trypanosomiasis two-component system inositol phosphate metabolism carotenoid biosynthesis seleno compound metabolism bacterial proliferation and colonization e.g.
+At the phylum level Bacteroidetes Firmicutes Proteobacteria Synergistete and Spirochaetes were the most predominant phyla in the cassava foliage treated samples.The effect of cassava foliage on the relative abundance and diversity of microbial communities.
 
-sulfur relay system and sulfur metabolism energy metabolism methane metabolism respectively.
+Additionally the relative abundances of unclassified and uncultured bacteria were decreased with the addition of cassava foliage indicating that the microbiome of geese with more roughage could be better classified compared with the geese with less roughage.
 
-the results indicated that the most abundant functional categories were associated with amino acid metabolism sugar and nucleotide sugar metabolism fatty acid degradation energy metabolism immunity and signal transduction bacterial proliferation and colonization.
+However Liu et al.analyzed the microbial diversity of geese caecum at the class level using 16S rRNA clone library approach and the cecal microbiome of geese are dominantly occupied by 58.7 Clostridia Firmicutes 26.9 Bacteroidetes Bacteroidetes and 11.2 Erysipelotrichi Firmicutes showing similar results with the cecal microbiome of chickens.
 
-additionally this observation was in agreement with a recent study by jami et al.
+OPENreceived 11 July 2016accepted 03 March 2017Published 06 April 2017Cassava foliage affects the microbial diversity of Chinese indigenous geese caecum using 16S rRNA sequencingMao Li1 Hanlin Zhou1 Xiangyu Pan2 Tieshan Xu1 Zhenwen Zhang1 Xuejuan Zi3 Yu Jiang2Geese are extremely adept in utilizing plant-derived roughage within their diet.
 
-sequences of this project have been deposited into the ncbi nucleotide database under accession number sra544802.referencessekirov i. russell s. l. antunes l. c. et al.
+However to date there are only few studies reported the microbial community in the caecum of geese by HT-NGS technology.Cassava foliage is known as an agricultural by-product with high protein contents gross energy and mineralelements and it can be used as animal feed.
 
-physiological reviews 90 859-904 2010.shaufi m. a. m. sieo c. c. chong c. w. et al.
+Cassava foliage affects the microbial diversity of Chinese indigenous geese caecum using 16S rRNA sequencing.
 
-gut pathogens 7 1-12 2015.zhao l. wang g. siegel p. et al.
-
-scientific reports 3 1970-1970 2013.chung h. et al.
-
-cell 149 1578-1593 2012.zhang c. et al.
-
-nat commun 4 2163 2013.singh k. m. shah t. deshpande s. et al.
-
-molecular biology reports 39 10595-602 2012.vulevic j. juric a. tzortzis g. et al.
-
-journal of nutrition 143 324-31 2013.reyes a. haynes m. hanson n. et al.
+In this study for the first time we identified the microbial diversity of cecal samples from geese using high-throughput sequencing and then the effect of cassava foliage on such diversity was studied.
 

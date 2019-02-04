@@ -1,30 +1,20 @@
-an elevated smad7 level resulted in decreased smad3 phosphorylation and insufficient tgf-b signaling and may be associated with the pathogenesis of ibd  .role of tgf-b in intestinal immunitythe intestinal immune system balances immune responses to commensal and harmful antigens in the intestinal lumen to maintain homeostasis.
+An elevated Smad7 level resulted in decreased Smad3 phosphorylation and insufficient TGF-b signaling and may be associated with the pathogenesis of IBD  .Role of TGF-b in intestinal immunityThe intestinal immune system balances immune responses to commensal and harmful antigens in the intestinal lumen to maintain homeostasis.
 
-20034586-90.frank dn st amand al feldman ra et al.
+Babyatsky et al.
 
-j gastroenterol 2017 52777-787 doi 10.1007s00535-017-1350-1tgf-b in inflammatory bowel disease a key regulator of immune cells epithelium and the intestinal microbiotasozaburo ihara12  yoshihiro hirata2  kazuhiko koike2received 28 april 2017  accepted 7 may 2017  published online 22 may 2017c japanese society of gastroenterology 2017abstract inflammatory bowel disease ibd is defined as chronic intestinal inflammation and includes ulcerative colitis and crohn's disease.
+Del Zotto et al.
 
-in this review we describe the role of tgf-b in intestinal immunity focusing on immune cells epithelium and intestinal microbes.
+Kanazawa et al.
 
-reported that the active tgf-b level was higher in strictured intestinal muscle obtained from surgi- cally resected ilea of cd patients than in adjacent normal intestinal tissue .
+Di Sabatino et al.
 
-a previous study reported that in healthy individuals phosphorylation of smad3 in intestinal t-cells was upregulated compared to that in peripheral t-cells indicating a role for tgf-b signaling in intestinal immune homeostasis .
+Li et al.
 
-several experimental models of ibd facilitate evaluation of the role of the intestinal immune system and have identified key regulators and pathways of ibd pathogenesis.some mouse strains with inactivation or disruption of tgf-b signaling are susceptible to intestinal inflammation and are used to study the pathogenesis of ibd.
+Sambuelli et al.
 
-in addition we discuss the roles of tgf-b and the intestinal microbiota in intestinal immunity.immune cellst-cellstgf-b regulates multiple immune processes of t-cells.
+Contini et al.
 
-regarding the effect of tgf-b pro- duction by cd4 t-cells on treg differentiation mice with cd4 t-cell-targeted deletion of tgf-b1 production cd4-cretgfb1fl- did not show a reduction in the num- bers of peripheral cd4foxp3 tregs although tgf-b1-smad3ex2ex2 jackson laboratorysusceptible to dss colitisbacteria trigger is required for colitis-smad3ex8ex8spontaneous colitisdevelop colonic adenocarcinoma in 6 months of agesmad4-susceptible to dss colitisdysbiosis characterized by increasedenterococcus faecaliscell-specific ko or tg models epitheliumitf-dntgfbriisusceptible to dss colitisgenerate autoantibodies against intestinalgoblet cellslfabp-pts4-dntgfbriisusceptible to dss colitisdelayed wound healing of intestinal injuryvillin-creer tgfbr2flflsusceptible to dss colitisepithelial tgfb signaling suppresses colitis-associated tumorigenesist cellscd2-dntgfbriinormalenlarged lymphoid organs with cd8 t-cell expansioncd4-dntgfbriispontaneous colitis at 3-4 months of agemulti-organ autoimmunity cd4-dntgfbrii il10r2--spontaneous colitisantibiotic treatment prevents colitiscd4-cre tgfb1fl-spontaneous colitis over 4 months of agemulti-organ autoimmunity over 4 months of agecd4-cre tgfbr1flflnormalreduction in cd8aa iels cd4-cre tgfbr2flflspontaneous colitis at 3-5 weeks of agecd4-cre smad4flflspontaneous colitis at 9 months of agemore aggressive multi-organ autoimmunity than cd4-dntgfbriidevelop colonic adenocarcinoma in 9-16 months of age  cd4-cre b1glonormaltgf-b1 overexpression in t cellsclck-cre tgfbr2flflnormaluseful strain for understanding post-thymic t cell functions clck-cre smad4flflspontaneous colitis over 9 months of agedevelop colonic adenocarcinoma in 9-16 months of agecd2-smad7tgsusceptible to dss colitisdoes not show autoimmunity over 18 weeksof age b cellscd19-cre tgfbr2flflnormalb cell hyperplasia in peyer's patches with serum iga deficiency dendritic cellscd11c-dntgfbriinormaldoes not show autoimmunity and survive over 1 year cd11c-cre tgfbr2flsusceptible to dss colitisantibiotic treatment prevents dss colitiscd11c-cre tgfbr2flflspontaneous colitis at 5-14 weeks of agecolitogenic microbiota multi-organ autoimmunity cd11-cre smad2flflameliorate dss colitisincreased tregs macrophagescd68-dntgfbriisusceptible to dss colitisdecreased il-10 production and elevated il-33 macrophageslysm-cre tgfbr2flflnormalmyeloid tgfb signaling promotes colitis- associated tumorigenesisko knockout tgf-b transforming growth factor-b tgfbrii transforming growth factor-b type ii receptor dntgfbrii dominant-negative transforming growth factor-b receptor ii dss dextran sodium sulfate tregs regulatory t cells iels intestinal epithelial lymphocytes782j gastroenterol 2017 52777-787null mice showed lower numbers of tregs indicating that tgf-b1 produced by cell types other than t-cells con- tributes to peripheral treg differentiation .another function of tgf-b in t-cells is th17 differ- entiation.
+In a preclinical trial Monteleone et al.
 
-intestinal dcs produce tgf-b and il-10 which are major suppressors of intestinal immunity .
-
-upon infection by toxoplasma gondii tgf-b produced by iels interacted with the lamina propria cd4 t-cells and reduced intestinal inflammation by downregulating ifn-c production .epithelium and extracellular matrixprevious studies have unraveled the roles of tgf-b in intestinal epithelial homeostasis associated with mucosal integrity wound healing and consequent fibrosis.
-
-a previous in vitro study using an intestinal monolayer cell line reported that tgf-b enhanced intestinal epithelial barrier function by inducing production of the tight junction protein claudin-1 and by preventing the pathogenic bacteria-induced reduc- tion of levels of the tight-junction proteins claudin-2 occludin and zo-1 .as wound healing progresses in injured tissues the provisional extracellular matrix is replaced by a newly formed matrix which is rich in collagen synthesized by fibroblasts migrating into the wound .
-
-in cd patients chronic transmural intestinal inflammation can result in intestinal fibrosis and fistula which require sur- gical resection .
-
-moreover pirfenidone an anti-fibrogenic drug used for the treatment of fibrotic diseases suppressed intestinal fibrosis in a dss- induced colitis model by inhibiting tgf-b signaling  .microbiotathe intestinal lumen harbors trillions of microbes of diverse taxa including both commensal and harmful bac- teria this microbial ecosystem is termed the microbiota.
-
-importantly these two bacteroides species did not induce colitis in hosts with intact tgf-b signaling suggesting that tgf-b signaling suppresses the proinflammatory effects of com- mensal bacteria.784j gastroenterol 2017 52777-787enterobacteriaceaethe commensal gram-negative enterobacteriaceae com- prise a minor proportion of the intestinal microbiota however overgrowth of enterobacteriaceae occurs in most colitis models and ibd patients and may be associated with the promotion of intestinal inflammation   .
+2007448427-34.Jostins L Ripke S Weersma RK et al.
 

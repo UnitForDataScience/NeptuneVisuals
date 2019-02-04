@@ -1,30 +1,20 @@
-7268. doi christelle pere-vedrenne 1 2  1 2  benoit rousseau 3 1 2  lucie chambonnier 1 2  1 2  alice buissonniere 1 2 pierre dubus 1 2 4  1 2  1 2 and 1 21 institut national de la sante et de la recherche medicale umr1053 bordeaux research in translational oncology bariton bordeaux france 2 umr1053 bordeaux research in translational oncology bariton universite de bordeaux bordeaux france 3 service commun des animaleries universite de bordeaux bordeaux france 4 chu hopitaux de bordeaux pole biologie et pathologie service de biologie des tumeurs bordeaux francecytolethal distending toxins cdts are common among pathogenic bacteria of the human and animal microbiota.
+7268. doi Christelle Pere-Vedrenne 1 2  1 2  Benoit Rousseau 3 1 2  Lucie Chambonnier 1 2  1 2  Alice Buissonniere 1 2 Pierre Dubus 1 2 4  1 2  1 2 and 1 21 Institut National de la Sante et de la Recherche Medicale UMR1053 Bordeaux Research in Translational Oncology BaRITOn Bordeaux France 2 UMR1053 Bordeaux Research in Translational Oncology BaRITOn Universite de Bordeaux Bordeaux France 3 Service Commun des Animaleries Universite de Bordeaux Bordeaux France 4 CHU Hopitaux de Bordeaux Pole Biologie et Pathologie Service de Biologie des Tumeurs Bordeaux FranceCytolethal distending toxins CDTs are common among pathogenic bacteria of the human and animal microbiota.
 
-cdt is involved in the severity of the diseases caused by these bacteria and many properties of this toxin support the likelihood of its involvement in cancers reviewed in bezine et al.
+CDT is involved in the severity of the diseases caused by these bacteria and many properties of this toxin support the likelihood of its involvement in cancers reviewed in Bezine et al.
 
-2014 fais et al.
+2014 Fais et al.
 
-2016. in vivo cdt plays a key role in inflammation and promotes liver carcinogenesis in helicobacter hepaticus- infected mice ge et al.
+In vivo CDT plays a key role in inflammation and promotes liver carcinogenesis in Helicobacter hepaticus- infected mice Ge et al.
 
-2007 and intestinal carcinogenesis in 129rag2-deficient mice ge et al.
+2007 and intestinal carcinogenesis in 129Rag2-deficient mice Ge et al.
 
-2017. in vitro cdt targets the nucleus where the cdtb subunit displays dnase activity and induces dna breaks bezine et al.
+In vitro CDT targets the nucleus where the CdtB subunit displays DNase activity and induces DNA breaks Bezine et al.
 
-chronic exposure to cdt is considered to promote malignant transformation by inducing genomic instability and altering the response to dna damage guidi et al.
+Chronic exposure to CDT is considered to promote malignant transformation by inducing genomic instability and altering the response to DNA damage Guidi et al.
 
-2013. cdt intoxication leads to the formation of abnormal nuclei forming mononucleated giant cells with 4-16c dna content arrested in g2m phase concomitantly with a decline in cdk1 phosphorylation peres et al.
+CDT intoxication leads to the formation of abnormal nuclei forming mononucleated giant cells with 4-16C DNA content arrested in G2M phase concomitantly with a decline in Cdk1 phosphorylation Peres et al.
 
-1997 de rycke et al.
+1997 De Rycke et al.
 
-2000 nougayrede et al.
-
-endoreplication plays key roles in embryonic development but can also occur in response to certain physiological stresses and contributes to the development of cancer reviewed in lee et al.
-
-2009. for cell lines exposed to persistent dna damage endoreplication in g2 phase is a well-known mechanism to bypass the g2 permanent arrest leading to cell death fox and duronio 2013. in the cells that have compromised fidelity of dna synthesis these repeated rounds of dna replication could promote the selection of oncogenic mutations and also prolong the life-span of cancer cells giving rise to daughter cells with different genotypes some of which might be highly cancerous lee et al.
-
-to bypass these technological barriers we previously implemented a lentiviral-based approach to investigate the effects of the cdtb subunit varon et al.
-
-2014 pere-vedrenne et al.
-
-however although very useful this system does not allow the study of longer-term effects of the cdtb subunit or the possibility to conduct experiments requiring largeamounts of biological samples mostly because the cdtb induces g2m cell cycle arrest in vitro varon et al.
+2000 Nougayrede et al.
 

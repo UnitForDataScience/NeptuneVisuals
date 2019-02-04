@@ -1,16 +1,20 @@
-in this thematic minireview series jbc presents six exciting articles discussing a range of approaches for identifying microbial natural products and elucidating their biosynthetic pathways and their physiological effects which could poten- tially be leveraged for developing new therapeutics.genomic meta-transcriptomic and metabolomics studies con- trasts with the bottlenecks in identifying and ascribing func- tions to small molecules.
+292 8577- 8581Krautkramer K. A. Rey F. E. and Denu J. M. 2017 Chemical signaling between gut microbiota and host chromatin What is your gut really say- ing J. Biol.
 
-these multi-omic approaches are also revealing changes in microbial diversity decreased abundance of commensals and changes in metabolites e.g.
+292 8560 - 8568Pellock S. J. and Redinbo M. R. 2017 Glucuronides in the gut Sugar- driven symbioses between microbe and host.
 
-they also empha- size the importance of and challenges with mapping the microbial metabolome under defined conditions.
+Introduction to the Thematic Minireview Series Host-microbiome metabolic interplayPublished Papers in Press April 7 2017 DOI 10.1074jbc.R117.786137Ruma Banerjee1From the Department of Biological Chemistry University of Michigan Medical School Ann Arbor Michigan 48109-0600Edited by Chris WhitfieldLong before the recent thrust of scientific research on the microbiome the importance of its interface with the host was being acknowledged by practices such as probiotic supplemen- tation e.g.
 
-in addition to the better-studied gut microbiome the nasal and skin microbiomes represent other environments of host-mi- crobe metabolic interplay ripe for natural product mining.martinez leone and chang 2 focus on advances in identi-fying microbial metabolites linked to gastrointestinal and peripheral diseases.
+2017 29221 8544 -8545c 2017 by The American Society for Biochemistry and Molecular Biology Inc.
 
-16s rrna amplicon sequencing is being used to identify members of commensal microbial communities while multi-omic tech- niques are helping to elucidate functional characteristics of their metabolism.
+The human gut is estimated to host 1000 bacterial species that exist within distinct micro-niches.
 
-this metabolic cycle involves host udp-glucuronosyl transfer- ase which adds glucuronic acid and microbial 3-glucuroni- dases that remove it.
+292 8553- 8559Brown J. M. and Hazen S. L. 2017 Targeting of microbe-derived me- tabolites to improve human health The next frontier for drug discovery.
 
-rational targeting of microbial glucuronidase reduces dose-limiting gi toxicity of sn-38 and might be an effective strategy for increasing the tolerance and efficacy of other drugs whose metabolisms are influenced by the microbiome.the review by olsan byndloss faber rivera-chavez tsolisand baumler 5 highlights yet another dimension of the host- microbiome interface i.e.
+The shared metab- olite capital between the host and the microbiome is extensive and tightly controlled.
 
-2017 microbial metabolites in health and disease navigating the unknown in search of function.
+However despite the influence of microbe- derived metabolites on many aspects of host physiology behav- ior and pathology our understanding of this metabolic inter- face is still in its infancy and its therapeutic targeting is largely untapped.
+
+The sheer numbers of microorganisms that colonize humans in the trillions and collectively harbor 2 orders of magnitude more genes than the host hint at the depth of the secondary metabolite trove.
+
+The latter is acted upon by host flavin monooxygenases to produce TMAO.
 

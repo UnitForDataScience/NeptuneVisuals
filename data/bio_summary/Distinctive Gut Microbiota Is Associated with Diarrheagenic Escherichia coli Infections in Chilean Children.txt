@@ -1,30 +1,20 @@
-more intense and detailed identification of microbiota strains specifically associated with dec infections and disease is needed to pinpoint their role in dec pathogenicity.aim to identify resident indicative bacterial taxa in dec-positive diarrhea stool samples of chilean children.methods we analyzed 63 diarrheal stool samples from children 1-5 years of age by filmarrayr gi in order to identify a potential pathogen and to group diarrhea episodes into those caused by dec as sole pathogen dec group 32 samples and those caused by an enteric virus as sole pathogen viral group 31 samples.
+More intense and detailed identification of microbiota strains specifically associated with DEC infections and disease is needed to pinpoint their role in DEC pathogenicity.Aim To identify resident indicative bacterial taxa in DEC-positive diarrhea stool samples of Chilean children.Methods We analyzed 63 diarrheal stool samples from children 1-5 years of age by FilmArrayr GI in order to identify a potential pathogen and to group diarrhea episodes into those caused by DEC as sole pathogen DEC group 32 samples and those caused by an enteric virus as sole pathogen viral group 31 samples.
 
-the main goal of this study was to identify a distinctive gut microbiota in diarrheal samples positive for dec pathotypes compared to diarrheal samples positive for enteric virus and stool samples from healthy children.patients and methodsstool samplesdiarrheal stool samples were collected between january and december 2016 from children 1-5 years of age consulting at the outpatient clinic of clinica las condes santiagonataro et al.
+The main goal of this study was to identify a distinctive gut microbiota in diarrheal samples positive for DEC pathotypes compared to diarrheal samples positive for enteric virus and stool samples from healthy children.PATIENTS AND METHODSStool SamplesDiarrheal stool samples were collected between January and December 2016 from children 1-5 years of age consulting at the outpatient clinic of Clinica Las Condes SantiagoNataro et al.
 
-indicative species have a high indval 0.28 and a low p-value 0.05.resultstaxa assignments using otus and opuswe analyzed a total of 93 stool samples 32 diarrheal samples positive for at least one of the five dec pathotypes dec group 31 diarrheal samples positive only for enteric viruses viral group and 30 stool samples from healthy children healthy group.
+Indicative species have a high IndVal 0.28 and a low p-value 0.05.RESULTSTaxa Assignments Using OTUs and OPUsWe analyzed a total of 93 stool samples 32 diarrheal samples positive for at least one of the five DEC pathotypes DEC group 31 diarrheal samples positive only for enteric viruses viral group and 30 stool samples from healthy children healthy group.
 
-2007. gpower 3 aflexible statistical power analysis program for the social behavioral and fraher m. h. o'toole p. w. and quigley e. m. m. 2012. techniques used to characterize the gut microbiota a guide for the clinician.
+GPower 3 aflexible statistical power analysis program for the social behavioral and Fraher M. H. O'Toole P. W. and Quigley E. M. M. 2012.
 
-53 915-925. doi curtis m. m. hu z. klimko c. narayanan s. deberardinis r. and sperandio v. 2014. the gut commensal bacteroides thetaiotaomicron exacerbates enteric infection through modification of the metabolic de caceres m. and legendre p. 2009. associations between species and groups of sites indices and statistical inference.
+doi Pop M. Walker A. W. Paulson J. Lindsay B. Antonio M. Hossain M. et al.
 
-doi pop m. walker a. w. paulson j. lindsay b. antonio m. hossain m. et al.
+Microbiome 345. doi Stecher B. Robbiani R. Walker A. W. Westendorf A. M. Barthel M. Kremer M. et al.
 
-microbiome 345. doi stecher b. robbiani r. walker a. w. westendorf a. m. barthel m. kremer m. et al.
+Further studies including more samples from each of the various DEC pathotypes would allow to determine the microbiota associated to each DEC pathotypes and define if these infections should be analyzed individually or as a group.Among healthy children the gut microbiota has proven to be highly diverse during the early months of life.
 
-further studies including more samples from each of the various dec pathotypes would allow to determine the microbiota associated to each dec pathotypes and define if these infections should be analyzed individually or as a group.among healthy children the gut microbiota has proven to be highly diverse during the early months of life.
+Nature 473 174-180.De Caceres M. Legendre P. and Moretti M. 2010.
 
-2013. helicobacter pylori-negativein human health by acting as a barrier against pathogensstool samples were tested by filmarrayqrgi and pathogen-stimulating metabolic function and promoting the developmentfree samples were used in this study.
+Rep. 71088. doi Buss S. N. Leber A. Chapin K. Fey P. D. Bankowski M. J. Jones M. K. et al.
 
-diarrheal samples were grouped into a dec group samples only positive for at least one dec pathotype or enteric viral group sample positive only for at least one of the enteric viral pathogens.
-
-equimolar mixtures of the amplicons 10-12 samples each were shipped to macrogen inc. seoul korea for pyrosequencing through 454 gs-flx using 18 plate for each 10-sample mixture pooled samples.
-
-2007. considering a type i error of 0.05 and a potency of 80 and effect size of 0.4176 we calculated that a minimal of 60 samples were required 20 samples per group.
-
-at the genus level we found that compared to the healthy group dec samples had a greater abundance of pseudocitrobacter 1 vs. 19.3 p  0.01 bacteroides 4.7 vs. 17 p  0.01 escherichia-shigella 0.1 vs. 12 p  0.01. compared to the viral group dec samples had a greater abundance escherichia-shigella 0.6 vs. 12 p  0.01 figure 2c.differences in opu composition by abundance and redundancy analysesof the 852 opus identified 340 were associated to specific species 300 to a characterized genus 58 to more than one species and 154 to unassigned genus.
-
-some taxa were highly abundant and others were rare in dec samples probably due to different dec pathotypes present in the stool samples.
-
-it is important to note that filmarrayqrgi testing isapproach reviewed taxonomic inference and helped with datafda-approved exclusively for diarrheal stool samples and its use in stool samples from healthy individuals has not been validated.
+53 915-925. doi Curtis M. M. Hu Z. Klimko C. Narayanan S. Deberardinis R. and Sperandio V. 2014.
 

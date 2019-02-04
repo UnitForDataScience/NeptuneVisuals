@@ -1,30 +1,20 @@
-if this were the case ittable 4  cycle threshold ct values obtained by qpcr for tetrahydrodaidzein reductase tdr and dihydrodaidzein reductase ddr genes and isoflavone metabolites in the faecal slurry cultures.faecal samplegam-arg withaqpcr amplification from faecal culturesisoflavone metabolites in faecal cultures in umct tdrct ddrdaidzeindihydrodaidzeingenisteindihydrogenisteinequol equol producers- qpcr negative ct  30.00 or isoflavone metabolite under the limit of detection nd not done.a the medium used for the faecal cultures gam-arg contained either daidzein dzen genistein gten or no isoflavones control.b s. isoflav culture of slackia isoflavoniconvertens dsm 22006 in gam-arg.c gam-arg uninoculated culture medium incubated under the same conditions.would result in dna and thus the number of equol-producing bacteria overestimation.in conclusion this work reports a highly specific sensitive and reliable qpcr assay for the detection and quantification of equol-producing bacteria in microbiologically complex samples including human-derived faecal samples and faecal cultures.
+81155. doi This work introduces a novel real-time quantitative PCR qPCR protocol for detecting and quantifying equol-producing bacteria.
 
-it was also surprising to find amplicons of both tdr and ddr when examining the samples of two non-equol-producing women w7 and w15 table 3. to confirm that the phenotypic results of equol production whether positive and negative had been maintained and to gain further insights into the metabolism of soy isoflavones faecal slurries from selected faecal samples provided by equol-producing and non-equol-producing women including those in which tdr and ddr were detected were inoculated into gam-arg medium with no isoflavones control or with either daidzein dzen or genistein gten equol producersw3025.95 - 0.01 3.57 - 0.54 25.45 - 0.05 4.17 - 0.58123.75 - 0.70 4.23 - 0.53 25.00 - 0.40 4.30 - 0.58324.98 - 0.18 3.86 - 0.54 24.90 - 0.04 4.32 - 0.58626.24 - 0.04 3.48 - 0.54 25.91 - 0.01 4.05 - 0.58w8022.53 - 0.14 4.60 - 0.52 22.25 - 0.03 5.06 - 0.55122.86 - 0.22 4.50 - 0.52 22.53 - 0.19 4.98 - 0.55322.53 - 0.22 4.60 - 0.52 21.67 - 0.04 5.22 - 0.55622.53 - 0.44 4.60 - 0.52 21.43 - 0.18 5.28 - 0.55w18028.17 - 0.57 2.90 - 0.56-2124.80 - 0.22 3.92 - 0.54326.02 - 0.25 3.55 - 0.54626.11 - 0.22 3.52 - 0.54 equol non-producersw10-2-2136w20-2-2136w40-2-2136w50-2-2136w60-2-2136w7022.49 - 0.08 4.61 - 0.52 23.42 - 0.05 4.73 - 0.56123.40 - 0.02 4.34 - 0.53 24.30 - 0.13 4.49 - 0.57323.57 - 0.13 4.29 - 0.53 24.60 - 0.01 4.41 - 0.57628.01 - 0.51 2.95 - 0.56 27.56 - 0.08 3.59 - 0.57w90-2-2136w100-2-2136continuedtable 3  continuedwomen sampletimeaqpcr amplification of total microbial dna from faecesdihydrodaidzein were recovered from these cultures.
+356 133-141. doi Bilal I. Chowdhury A. Davidson J. and Whitehead S. 2014.
 
-however the added daidzein completely disappeared converted into equol when the medium containing this isoflavone was inoculated with s. isoflavoniconvertens dsm 22006. equol in the faecal cultures was only present in those provided by the equol-producing women.
+5 705-712. doi Browne H. P. Forster S. C. Anonye B. O. Kumar N. Neville B.
 
-faecal cultures were then incubated in open tubes under anaerobic conditions at 37c for 24 h. they were then centrifuged at 13500 rpm for 5 min and the supernatants and pellets independently collected for isoflavone metabolite analysis and dna extraction respectively.detection and quantification of isoflavone metabolitesdaidzein and genistein and their metabolites dihydrodaidzein dihydrogenistein and equol were measured in faecal cultures by a uhplc procedure based on the method for determining isoflavones in urine redruello et al.
+Nature 533 543-546 doi Cho G.-S. Ritzmann F. Eckstein M. Huch M. Briviba K. Behsnilian D. et al.
 
-quantification was performed against calibration curves prepared using commercially available standards.dna extraction from bacteria faecal samples and faecal culturestotal dna from both control bacteria and microorganisms from faeces and faecal cultures was extracted following the procedure of zoetendal et al.
+7658. doi Clavel T. Lepage P. and Charrier C. 2014.
 
-further whether equol-production is a phylogeny-related trait species-specific or an acquired property strain-specific has yet to be determined clavel and mapesa 2013. thus primers targeting functional single-copy genes such as those involved in equol biosynthesis are preferable.the present work reports a qpcr assay involving oligonucleotide primers based on conserved sequences of reductase-encoding genes implicated in the synthesis of equol plus the use of sybr green as a dye for the detection and quantification of equol-producing bacteria.
+Rep. 26 1001-1043. doi Delgado S. Cabrera-Rubio.
 
-unfortunately since only limited information on the microbial types involved in the synthesis of equol is available the identification and quantification of equol producers by qpcr technique developed in this work might be compromised.
+65 763-772. doi del Rio D. Rodriguez-Mateos A. Spencer J. P. Tognolini M. Borges G. and Crozier A.
 
-in contrast the ddr gene was only amplified in the faecal samples of two of these three women suggesting the presence in the non-amplified sample of reductase genes unrelated to those known to be involved in equol formation and used for primer design in this study.
+18 1818-1892. doi Denman S. E. and McSweeney C. S. 2006.
 
-monitoring equol-producing bacteria in the human gut could provide a means of evaluating strategies aimed at increasing the endogenous formation of this bioactive compound.keywords real time quantitative pcr qpcr soy isoflavones equol intestinal microbiology faecal microbiotaintroductionepidemiological evidence suggests high intakes of soy foods or purified soy isoflavones to be associated with less intense menopause symptoms and a reduced risk of developing cardiovascular diseases neurodegenerative diseases and cancer he and chen 2013 wada et al.
+58 572-582. doi Franke A.
 
-the detection limit of the qpcr assay was determined using genomic dna from these cultures assuming a genome sizetable 3  cycle threshold ct values obtained in faecal samples for tetrahydrodaidzein reductase tdr and dihydrodaidzein reductase ddr genes and absolute abundance of equol producing bacteria in the real-time pcr assay developed in this study.of about 3.0 fg of dna per cell rodriguez-lazaro et al.
-
-however the ddr gene was identified in the faeces of only two w3 and w8 of the three equol producers while no amplification was obtained for this gene when used as template dna for examining the faeces and faecal slurry cultures of subject w18.
-
-in addition isoflavones and their metabolites including daidzein genistein dihydrodaidzein dihydrogenistein and equol were measured in the faecal cultures by uhplc.
-
-however the transformation of daidzein into equol was never complete and variable amounts of daidzein and usuallythe qpcr results obtained for the faecal cultures matched those obtained with dna isolated from faeces.
-
-however the addition of equol to faecal cultures from subjects w7 and w15 excluded the possibility of any further metabolism of this compound data not shown.
-
-2015. equol status and changes in faecal microbiota in menopausal women receiving long-term treatment for menopausesymptoms with a soy-isoflavone concentrate.
+59 24-28. doi Furet J. P. Firmesse O. Gourmelon M. Bridonneau C. Tap J. Mondot S. et al.
 

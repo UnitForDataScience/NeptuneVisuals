@@ -1,0 +1,20 @@
+In the current study the microbiomes in H. tibetensis were explored using Illumina MiSeq sequencing.
+
+Female and male H. tibetensis harbored similar composition of the microbes with dominant bacteria from the genus Coxiella accounting for 87.5 and 66.5 in females and males respectively.
+
+Hence the current study investigated the microbiomes in H. tibetensis using Illumina MiSeq sequencing based on the V3-V4 hypervariable region of the bacterial 16S ribosomal RNA.
+
+The results may help better understand the relationship between this tick species and its symbiontic microorganisms.Materials and methodsSample collectionFree-living adult H. tibetensis ticks were collected by flag dragging from vegetation in the Damxung County 90deg450 to 91deg310E 29deg310 to 31deg040N altitude 4353 m north Lhasa City Tibet Autonomous Region China and identified according to available character- istics Teng and Jiang  Hoogstraal  Jin et al.
+
+.ResultsMicrobial community of Haemaphysalis tibetensisIn total 109478 reads and 5322 OTUs were obtained from both female and male H. tibetensis.
+
+The rarefaction curves showed that both sample sequencings almost approached the saturation plateau which indicated that the sequencing depth well represented the microbial communities in H. tibetensis Supplementary File 1.
+
+In current study we characterized the microbial community of the tick H. tibetensis using Illumina MiSeq sequencing.
+
+A total of 28 phyla were detected in tick H. tibetensis and Proteobacteria was the dominant which was consistent with the composition of microbial community reported in many other tick species Narasimhan and Fikrig .
+
+The second dominant phylum Cyanobacteria in H. tibetensis was also found in Amblyomma maculatum and Ixodes scapularis Budachetri et al.
+
+Additionally phyla of Actinobacteria Firmicutes and Bacteroideteswas were also abundant in H. tibetensis similar with that the gut microbiota of I. scapularis Narasimhan et al.
+

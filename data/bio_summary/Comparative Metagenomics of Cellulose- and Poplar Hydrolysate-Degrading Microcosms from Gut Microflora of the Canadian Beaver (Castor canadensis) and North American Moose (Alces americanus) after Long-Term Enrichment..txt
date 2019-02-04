@@ -1,30 +1,20 @@
-nonetheless along pc2 where these metagenomes diverge the most the pca plot depicted a closer resemblance of cazyme profiles microbiomes from termite gut and moose rumen samples enriched on poplar hydrolysate than that between the former and the non-enriched moose rumen.impact of enrichment substrate on profiles of predicted plant-polysaccharide degrading cazyme sequencesmetagenomes of cultures enriched on poplar hydrolysate yielded a higher proportion of predicted plant polysaccharides-active cazymes  33 compared to metagenomes of cultures enriched on cellulose  23  and .
+In particular the distribution of the CAZyme families predicted in moose rumen enrichments differed from that recently reported for the moose rumen metagenome   where highest contributing factors were attributed to relatively high abundance of CE4 GH94 and GH78 families and low abundance of GH2 GH43 in the moose rumen enrichments Supplementary Table S3.
 
-in particular the distribution of the cazyme families predicted in moose rumen enrichments differed from that recently reported for the moose rumen metagenome   where highest contributing factors were attributed to relatively high abundance of ce4 gh94 and gh78 families and low abundance of gh2 gh43 in the moose rumen enrichments supplementary table s3.
+Nonetheless along PC2 where these metagenomes diverge the most the PCA plot depicted a closer resemblance of CAZyme profiles microbiomes from termite gut and moose rumen samples enriched on poplar hydrolysate than that between the former and the non-enriched moose rumen.Impact of Enrichment Substrate on Profiles of Predicted Plant-Polysaccharide Degrading CAZyme SequencesMetagenomes of cultures enriched on poplar hydrolysate yielded a higher proportion of predicted plant polysaccharides-active CAZymes  33 compared to metagenomes of cultures enriched on cellulose  23  and .
 
-173 4155-4162. ndeh d. rogowski a. cartmell a. luis a. s. basle a. gray j. et al.
+Pope P. B. Denman S. E. Jones M. Tringe S. G. Barry K. Malfatti S. A. et al.
 
-82 6518-6530. pope p. b. denman s. e. jones m. tringe s. g. barry k. malfatti s. a. et al.
+Automatic prediction of polysaccharide utilization loci in Bacteroidetes species.Bioinformatics 31 647-655. van der Lelie D. Taghavi S. Mccorkle S. M. Li L. L. Malfatti S. A. Monteleone D. et al.
 
-2015. automatic prediction of polysaccharide utilization loci in bacteroidetes species.bioinformatics 31 647-655. van der lelie d. taghavi s. mccorkle s. m. li l. l. malfatti s. a. monteleone d. et al.
+These sequences were assigned to 100 distinct families of GHs13 families of CEs 15 families of PLs and 39 families of GTs as well as 43 families of associated CBMs.
 
-samples were centrifugedtotal identified counts of cazyme in a metagenomex 100at 15000g for 15 min at 4c and total community dnawas extracted using the qiaamp dna stool mini kit qiagenpublic metagenomes from the digestive systems of cow    moose   panda table 1  statistics of the sequencing and assembly of the metagenomes of cellulose c and poplar hydrolysate ph-fed enrichment cultures from beaver dropping bd and moose rumen mr.inoculabeaver droppingsmoose rumen reindeer   saudi sheep    termite   and wallaby    were also reannotated based on the latest version of the cazy database and included in this calculation.
+Meanwhile moose rumen samples enriched on poplar hydrolysate encoded higher counts of GH9 2 times higher CE4 1.8 times GH127 9 times and CE15 11 times compared to corresponding samples enriched on cellulose .Carbohydrate-active enzymes families that were enriched through growth on poplar hydrolysate included those that comprise enzymes involved in plant polysaccharide deconstruction.
 
-venditto i. luis a. s. rydahl m. schuckel j. fernandes v. o. vidal- melgosa s. et al.
+B Normalized count and fold difference of CAZyme families predicted to act on plant polysaccharides between poplar hydrolysate PH- and cellulose C-fed beaver dropping BD and moose rumen MR cultures.
 
-heiss-blanquet s. fayolle-guichard f. lombard v. hebert a. coutinho p. m. groppi a. et al.
+Contrary to findings recently reported for the moose rumen microbiome   the multi-modular enzymes comprising CBM50 and GH23 or GH73 were identified at low abundance 3.5 in the enriched moose rumen metagenomes reported herein.FIGURE 4  A Distribution of plant polysaccharide degrading-CAZyme families as single and multi-modular domains.
 
-a carbohydrate-binding domain and domains with unknown function.materials and methodsethics statementan ethics approval from an animal care and use committee was not required by the office of research ethics of the university of toronto as the moose rumen sample was collected from a dead moose that was hunted in the wild for meat by a registered hunter with a license authorized by the ministry of natural resources and forestry under government of ontario canada.setup and maintenance of lignocellulose active enrichment culturesas previously described   lignocellulose- degrading microorganisms from the digestive systems of canadian beaver castor canadensis and north american moose alces americanus were sampled and enriched under anaerobic conditions at 36c.
+Samples were centrifugedtotal identified counts of CAZyme in a metagenomex 100at 15000g for 15 min at 4C and total community DNAwas extracted using the QIAamp DNA Stool Mini Kit QiagenPublic metagenomes from the digestive systems of cow    moose   panda TABLE 1  Statistics of the sequencing and assembly of the metagenomes of cellulose C and poplar hydrolysate PH-fed enrichment cultures from beaver dropping BD and moose rumen MR.InoculaBeaver droppingsMoose rumen reindeer   Saudi sheep    termite   and wallaby    were also reannotated based on the latest version of the CAZy database and included in this calculation.
 
-herein 416 puls were predicted supplementary figure s4 where the normalized number predicted from poplar hydrolysate-fed microcosms of beaver droppings was 4.5 times that predicted from cellulose-fed microcosms.
-
-meanwhile moose rumen samples enriched on poplar hydrolysate encoded higher counts of gh9 2 times higher ce4 1.8 times gh127 9 times and ce15 11 times compared to corresponding samples enriched on cellulose .carbohydrate-active enzymes families that were enriched through growth on poplar hydrolysate included those that comprise enzymes involved in plant polysaccharide deconstruction.
-
-b normalized count and fold difference of cazyme families predicted to act on plant polysaccharides between poplar hydrolysate ph- and cellulose c-fed beaver dropping bd and moose rumen mr cultures.
-
-the cazyme profile of moose rumen enrichments also differed from a recently reported moose rumen metagenome most notably by the absence of gh13- appended dockerins.
-
-contrary to findings recently reported for the moose rumen microbiome   the multi-modular enzymes comprising cbm50 and gh23 or gh73 were identified at low abundance 3.5 in the enriched moose rumen metagenomes reported herein.figure 4  a distribution of plant polysaccharide degrading-cazyme families as single and multi-modular domains.
-
-and unlike the recent study ofthe moose rumen metagenome the recurrent gh13 appended- dockerins   were not identified in the current moose rumen metagenomes likely due to their long enrichment on cellulosic carbon sources.
+Venditto I. Luis A. S. Rydahl M. Schuckel J. Fernandes V. O. Vidal- Melgosa S. et al.
 

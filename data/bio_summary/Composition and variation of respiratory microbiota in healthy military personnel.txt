@@ -1,30 +1,20 @@
-in addition the criteria to define extreme or unusual samples subjects or both need to be further explored.the inter-individual diversity b-diversity for 30 subjects 720 samples was computed by using weighted unifrac distances and visualized in  using emperor .
+Samples from the anterior nares A are red samples from the nasopharynx N are blue and samples from the oropharynx samples T are green.
 
-the taxonomic classifica- tion of the quality-processed reads was based on the closed reference clustering of sequences into operational taxonomical units otus using the uclust tool  with a sequence iden- tity level of 97. the read clusters were further assigned to taxonomies by using the ribosomal database project rdp classifier  with a confidence level of 80. the bacterial commu- nity diversity within a sample a-diversity was assessed by using the r-package vegan  .
+Abundant Moraxella in oropharyngeal samples of some subjects including children and pneu- monia patients was also observed in other studies  -.Further study of the respiratory microbiomes of the healthy garrisoned military population in this project will provide a baseline understanding of normal respiratory microbiota longitu- dinal within subject community composition stability and of variations in the population between individuals and across time.
 
-prior to the influenza season during that year 26 subjects received the intramuscular influenza vaccine flu shot 19 subjects received the intranasal influenza vaccine flu mist and 5 subjects were not immunized .
+This project aimed to charac- terize the composition and temporal variation of the normal military respiratory microbiota identify individuals with abnormal respiratory bacterial taxa collect comprehensive demo- graphic data and uncover associations between variables and profiles of respiratory bacterial communities.Materials and methodsSampling and DNA isolationThe study protocol WRAIR1914 and protocol amendment were approved by the Walter Reed Army Institute of Research WRAIR Institutional Review Board.
 
-after demultiplexing sff files raw reads were filtered to ensure read qual- ity by using the following steps terminal trimming to remove n from the 30-end of the raw reads removal of reads smaller than 200 bases or larger than 1000 bases removal of reads with a homopolymer eight bases or longer removal of reads with more than one error in the 16s primer 539r sequence read trimming to remove primer and linker sequences and sliding- window trimming with a window width of 50 bases to remove terminal sequences within the window with an average quality score below 25. chimera filtering was subsequently per- formed using the uchime algorithm by either the reference-based or de novo method .
+Diversity analysis indicated a significant overlap between nasal and nasopha- ryngeal samples whereas oropharyngeal samples formed a cluster distinct from these two regions.
 
-the taxonomic classification of the quality-processed reads was based on the closed reference clustering of sequences into operational taxonomical units using the uclust tool with the sequence identity level at 97. the read clusters were further assigned to taxonomies using the rdp classifier with a confidence level of 80 .the microbial profiles obtained after this step contained various hierarchical levels of taxon-omy classification and their positions in the taxonomy were used to assess the diversity of each community.
+The diversity between samples b-diversity was ana- lyzed by using the QIIME implementation of UniFrac  and the weighted UniFrac distance as a measure of b-diversity.Results and discussionSubject recruitment and characteristicsA total of 1107 nasal oropharyngeal and nasopharyngeal swabs which represented 92.25 of the total number of planned samples 1200 were collected from 50 volunteers  .
 
-the results were visualized by using emperor .pyrosequencing and data analysisthe resulting 16s v1-v3 amplicon libraries were sequenced by using a roche 454 gs flx system and reagents roche 454 life sciences corporation branford ct usa.
+Analysis of data quarter S1 visit 1 from 36 subjects with samples available for all four quarters showing the percentage of samples with a relative abundance of 20.5 or 21.0.
 
-within-subject a-diversity values for 30 subjects that had a complete set of 24 swabs and at least 3000 reads per sample were computed by using the shannon entropy and averaged over each region and time point.
+In addition the criteria to define extreme or unusual samples subjects or both need to be further explored.The inter-individual diversity b-diversity for 30 subjects 720 samples was computed by using weighted UniFrac distances and visualized in  using EMPeror .
 
-they could not be classified to the genus level by using the pipeline based on qiime and the rdp classifier.bacterial community diversity and variabilitywithin- and between-subject comparisons of microbiome diversity across regions and time points were conducted for 30 subjects that had a complete set of 24 swabs and at least 3000 reads per sample.
+The diamond symbol represents the median of the samples.in the oropharyngeal microbiota although various other bacteria were also present but at much lower levels .Overall bacterial taxa with an average relative abundance of 20.5 constituted over 90 of the respiratory microbiota for all 432 samples  .
 
-the large set of sequences for region v1-v3 of the bacte- rial 16s rdna and the comprehensive demographic information for the 50 subjects contain valuable data that could be analyzed in depth using specialized statistical tools such as vegan  and metagenomeseq  to determine the extent of association between the subject variables and microbiome profiles.
+We initiated a study to characterize the upper respiratory micro- biomes of healthy military personnel in a garrison environment in order to establish a baseline for future studies on the effects of specific activities and exposures on respiratory microbiota.We previously conducted a preliminary study of laboratory and data processinganalysis procedures .
 
-a few subjects 1 to 5 out of 36 subjects at each collection time point had taxa with an abundance of 10 which did not belong to the representative bacteria shown in the charts.
-
-these subjects had bacterial taxa that were either absent or present only at substantially lower levels in many of the 36 subjects.
-
-respiratory bacterial taxa were characterized at the genus level using qiime 1.8 and the ribosomal database project classifier.
-
-the methodology which was established by using the microbial mock com- munities developed by the human microbiome project hmp has been used to obtain results comparable or superior to those of other studies .
-
-the swabs were processed in parallel by using 96-well plates.
-
-dneasy 96 extraction kit and qiavac 96 vacuum manifold qiagen were used in dna purification.pcr and roche 454 pyrosequencingas described previously  the purified dna samples were subjected to 16s rdna quantita- tive pcr to determine ct values using taqman universal master mix ii invitrogen carlsbad ca with 321f2 actgagayacggycca and 533r ttaccgcggctgctggc as the primersand 338p fam-actcctacgggaggcagcagt-black hole quencher as the probe.
+PMIDMan WH de Steenhuijsen Piters WA Bogaert D. The microbiota of the respiratory tract gatekeeper to respiratory health.
 

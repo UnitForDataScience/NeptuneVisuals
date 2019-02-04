@@ -1,30 +1,20 @@
-proportion of salmonella excreting sows at the beginning of gestation first 50 days of gestation 21 out of 27 78 was significantly fisher's exact p  0.05 higher than at the end of this period last 50 days of gestation 6 of 46 13. similar results were obtained when sampling for a second time at the end of gestation the 19 sows that had already been sampled at the beginning of their gestation with a statistically mcnemar's p  0.05 lower proportion of positive samples at the end of the gestation 2 of 19 11 than at the beginning 13 of 19 68.4 logistic regression showed no significant link between shedding and the parity of the sow p  0.05 .of the 27 positive samples 7 had discrepancies in the results when comparing enrichment by tbg and msrv with 3 samples only positive on msrv and 4 samples only positive on tbg.
+Finally for the gestation time 58 OTUs classified to 22 taxa were positively associated with animals at the beginning of the gestation while 20 OTUs classified to 10 taxa were positively associated with animals at the end of the gestation .Real Time Quantitative PCR for Specific PopulationsA difference between the sows at the beginning of gestation and the end of gestation was detected for the Enterobacteria group with a mean of 0.61 log of copies more at the beginning of gestation Student's t-test p  0.05 .
 
-finally for the gestation time 58 otus classified to 22 taxa were positively associated with animals at the beginning of the gestation while 20 otus classified to 10 taxa were positively associated with animals at the end of the gestation .real time quantitative pcr for specific populationsa difference between the sows at the beginning of gestation and the end of gestation was detected for the enterobacteria group with a mean of 0.61 log of copies more at the beginning of gestation student's t-test p  0.05 .
+Proportion of Salmonella excreting sows at the beginning of gestation first 50 days of gestation 21 out of 27 78 was significantly Fisher's exact p  0.05 higher than at the end of this period last 50 days of gestation 6 of 46 13.
 
-sows in the first third of their gestation shed salmonella significantly more frequently 2127 than those in the last third 646 kh2 p  0.05. the shedding status of 19 of the sows that were previously sampled in the first third of their gestation was followed this time in the last third of their gestation which confirmed reduction of shedding.
+Similar results were obtained when sampling for a second time at the end of gestation the 19 sows that had already been sampled at the beginning of their gestation with a statistically McNemar's p  0.05 lower proportion of positive samples at the end of the gestation 2 of 19 11 than at the beginning 13 of 19 68.4 Logistic regression showed no significant link between shedding and the parity of the sow p  0.05 .Of the 27 positive samples 7 had discrepancies in the results when comparing enrichment by TBG and MSRV with 3 samples only positive on MSRV and 4 samples only positive on TBG.
 
-in this study we showed that the level of salmonella shedding was variable during gestation with significantly higher shedding at the beginning rather than at the end of gestation.
+The shedding status of 19 of the sows that were previously sampled in the first third of their gestation was followed this time in the last third of their gestation which confirmed reduction of shedding.
 
-we also observed for the first time a significant change in the microbiota during sow gestation and identified interesting taxa which could be linked to a reduced salmonella shedding.keywords salmonella sows fecal microbiota gestation excretionintroductionin canada salmonella enterica is estimated to cause 269.26 infections per 100000 inhabitants each year confirming this pathogen as a public health priority  .
+In this study we showed that the level of Salmonella shedding was variable during gestation with significantly higher shedding at the beginning rather than at the end of gestation.
 
-significant differences were found for at least one test when comparing the group of sows shedding salmonella at the beginning of gestation with the group composed of non-shedding sows at the end of gestation.
+We also observed for the first time a significant change in the microbiota during sow gestation and identified interesting taxa which could be linked to a reduced Salmonella shedding.Keywords Salmonella sows fecal microbiota gestation excretionINTRODUCTIONIn Canada Salmonella enterica is estimated to cause 269.26 infections per 100000 inhabitants each year confirming this pathogen as a public health priority  .
 
-when comparing the sows by salmonella status or in groups that combine both shedding status and time of gestation no significant differences were measured for the four tested populations.discussionin this study we investigated the dynamics of shedding of salmonella by sows in terms of variation of both shedding prevalence and type of strains excreted during gestation in an industrial setting in quebec.
+Significant differences were found for at least one test when comparing the group of sows shedding Salmonella at the beginning of gestation with the group composed of non-shedding sows at the end of gestation.
 
-ten otus that were negatively associated with the time of gestation hence higher at the beginning of the gestation when salmonella shedding is at its highest were classified at the genus level.
+When comparing the sows by Salmonella status or in groups that combine both shedding status and time of gestation no significant differences were measured for the four tested populations.DISCUSSIONIn this study we investigated the dynamics of shedding of Salmonella by sows in terms of variation of both shedding prevalence and type of strains excreted during gestation in an industrial setting in Quebec.
 
-similar modifications could be at play during sow gestation resulting in lower salmonella carriage later in gestation.
+Ten OTUs that were negatively associated with the time of gestation hence higher at the beginning of the gestation when Salmonella shedding is at its highest were classified at the genus level.
 
-we also showed that the level of shedding was variable during gestation with significantly higher shedding at the beginning rather than at the end of gestation.
-
- 1  1  ann letellier1  2 and 11 nserc industrial research chair in meat-safety crsv faculty of veterinary medicine university of montreal saint-hyacinthe qc canada 2 centre inrs-institut armand-frappier institut national de la recherche scientifique universite du quebec laval qc canadaedited bythomas dandekar university of wurzburg germanyreviewed bymaria de toro centro de investigacion biomedicade la rioja spainfilip boyen ghent university belgiumcorrespondenceguillaume lariviere-gauthierguillaume.lariviere- philippe fravalo specialty sectionthis article was submitted toinfectious diseases a section of the journal frontiers in microbiologyreceived 18 may 2017accepted 27 october 2017published 10 november 2017citation lariviere-gauthier g thibodeau a letellier a yergeau e and fravalo p 2017 reduction of salmonella shedding by sows during gestation in relation to its fecal microbiome.
-
-the aim of this study was to assess the dynamics of shedding of salmonella in terms of variation in both shedding prevalence and strains excreted during gestation in quebec's maternity sector.
-
-the evolution of the fecal microbiota of these sows during gestation was also assessed to detect bacterial populations associated with these variations.
-
-a total of 73 sows both at the beginning and the end of the gestation were randomly selected and their fecal matter was analyzed.
-
-using 16s rrna gene sequencing and qpcr significant differences between the fecal flora of sows at the beginning and the end of the gestation shedding salmonella or not and with different parity number were detected.
+Similar modifications could be at play during sow gestation resulting in lower Salmonella carriage later in gestation.
 

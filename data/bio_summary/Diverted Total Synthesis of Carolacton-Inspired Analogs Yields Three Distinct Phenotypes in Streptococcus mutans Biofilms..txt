@@ -1,30 +1,20 @@
-2010 49 9592.cho y. s. wu k. d. moore m. a. s. chou t. c. danishefsky s. j. drugs future 2005 30 737.sun c. wang q. brubaker j. d. wright p. m. lerner c. d. noson k. charest m. siegel d. r. wang y. m. myers a. g. j. am.
+A. Minard-Smith A. T. Saeed K. Li H. Heizer E. M. McMillan N. J. Isom R. Abdullah A. S. Bornman D. M. Faith S. A. Choi S. Y. Dickens M. L. Cebula T. A. Colwell R. R. PLoS One 2014 9 e106124.
 
-further the side chain ketone was thought to be essential and pro-drug ester derivatives affected biofilmfigure 1. s. mutans biofilm lifecycle top kirschning analog library middle overview of the diverted total synthesis dts of aryl- analogs and modeling of simplified analog and carolacton bottom.inhibit s. mutans biofilm growthdemonstrating a future role for the natural product in the development of preventative materials.received april 17 2017published may 13 2017c 2017 american chemical society7188doi development at concentrations relative to their rate of hydrolysis indicating that carolacton and not the analogs were responsible for activity.
+Drug Discovery 2013 12 371.Brown E. J. Albers M. W. Shin T. B. Ichikawa K. Keith C. T. Lane W. S. Schreiber S. L. Nature 1994 369 756.Keohane C. E. Steele A. D. Wuest W. M. Synlett 2015 26 2739.a Kunze B. Reck M. Dotsch A. Schummer D. Irschik H. Steinmetz H. Wagner-Dobler I. BMC Microbiol.
 
-these findings demonstrate that our analogs can potentially control s. mutans growth at discrete points in biofilm maturation.the composition of the genome and proteome of a growing biofilm is constantly fluctuating.having the ability to arrest the growth at a specific point of the biofilm formation will allow for more in-depth studies on how biofilms grow thus providing snapshots of potential targets present only briefly in the biofilm lifecycle.
+Drugs Future 2005 30 737.Sun C. Wang Q. Brubaker J. D. Wright P. M. Lerner C. D. Noson K. Charest M. Siegel D. R. Wang Y. M. Myers A. G. J.
 
-drug discovery 2013 12 371.brown e. j. albers m. w. shin t. b. ichikawa k. keith c. t. lane w. s. schreiber s. l. nature 1994 369 756.keohane c. e. steele a. d. wuest w. m. synlett 2015 26 2739.a kunze b. reck m. dotsch a. schummer d. irschik h. steinmetz h. wagner-dobler i. bmc microbiol.
+These findings demonstrate that our analogs can potentially control S. mutans growth at discrete points in biofilm maturation.The composition of the genome and proteome of a growing biofilm is constantly fluctuating.Having the ability to arrest the growth at a specific point of the biofilm formation will allow for more in-depth studies on how biofilms grow thus providing snapshots of potential targets present only briefly in the biofilm lifecycle.
 
-2017 89 169.andrade r. b. synlett 2015 26 2199.a hasan n. a. young b. a. minard-smith a. t. saeed k. li h. heizer e. m. mcmillan n. j. isom r. abdullah a. s. bornman d. m. faith s. a. choi s. y. dickens m. l. cebula t. a. colwell r. r. plos one 2014 9 e106124.
+Diverted Total Synthesis of Carolacton-Inspired Analogs Yields Three Distinct Phenotypes in Streptococcus mutans BiofilmsAmy E. SolinskiAlexander B. KovalRichard S. BrzozowskiKelly R. MorrisonAmerico J. FraboniCarrie E. CarsonAnisa R. EshraghiGuangfeng ZhouRobert G. Quivey Jr. Vincent A. VoelzBettina A. Buttaroand William M. WuestDepartment of Chemistry Temple University Philadelphia Pennsylvania 19122 United StatesCenter for Oral Biology University of Rochester School of Medicine and Dentistry Rochester New York 14642 United StatesSSDepartment of Microbiology and Immunology Lewis Katz School of Medicine Temple University Philadelphia Pennsylvania 19140 United States atural products have served as starting points for both the discovery of new drugs and the identification of biological targets for decades.
 
-herein we report the dts of 16 simplified carolacton-inspired analogs that have resulted in the discovery of three independent biofilm phenotypes 1 inhibition of their formation 2 inhibition of their maturation and 3 acid-mediated cell death during formation akin to carolacton by an analog coined carylacton.our first generation dts library focused on not only conserving the connectivity and stereochemistry of the 12- membered macrolactone but also significantly simplifying the carolacton side chain by introducing an aryl moiety.
+A. Quivey R. G. Koo H. Abranches J. Microbiology2013 159 436.a Bagramian R. A. Garcia-Godoy F. Volpe A. R. Am.
 
-as we expected d4 and carolacton were both inactive however we serendipitously discovered that compounds c3 and c4 inhibited biofilm adherence a. we quantified their activity by measuring the concentration at which 50 inhibition of biofilm formation mbic50 occurs and found it to be 63 and 500 mm respectively see for details.
+2012 51 1063.Stumpp N. Premnath P. Schmidt T. Ammermann J. Drager G. Reck M. Jansen R. Stiesch M. Wagner-Dobler I. Kirschning A. Org.
 
-2007 70 461.b butler m. s. robertson a. a. b. cooper m. a. nat.
+2015 13 5765.Hallside M. S. Brzozowski R. S. Wuest W. M. Phillips A. J.Org.
 
-2012 51 1063.stumpp n. premnath p. schmidt t. ammermann j. drager g. reck m. jansen r. stiesch m. wagner-dobler i. kirschning a. org.
+2014 16 1148.Szpilman A. M. Carreira E. M. Angew.
 
-2015 13 5765.hallside m. s. brzozowski r. s. wuest w. m. phillips a. j.org.
-
-2014 16 1148.szpilman a. m. carreira e. m. angew.
-
-carolacton is a natural product that displays remarkablebioactivity against the pathogen streptococcus mutans whereby it does not affect the viability of planktonic bacteria but instead causes acid-mediated cell death during biofilm formation at low nanomolar concentration .
-
-s. mutans plays a significant role in human health as it is the causative agent in the formation of dental caries the single most common childhood chronic disease.recently wagner-dobler showed that dental composites impregnated with carolacton couldthis exquisite bioactivity of carolacton has drawn the interest of the synthetic community as a number of groups have targeted the natural product.kirschning in particular has been quite prolific as they have disclosed both the first total synthesis and uncovered useful information regarding the structure-activity relationship sar by analog synthesis .
-
-dts endeavors from our laboratory have uncovered new phenotypes for the antibiotic promysalinandscheme 1. diverted total synthesis of carolacton analogsaa k co  meohthf 99 b dmso cocl  ch cl  94we sought to use our initial total synthesis of carolacton toward2322 2this end.
-
-the discovery of a simplified carolacton-inspired analog c3 available in ten steps that inhibits biofilm formation is notable.the eradication of biofilms is a longstanding challenge thathas inspired many research programs to understand better theirour rationally designed isosteric structure would maintain biological activity similar to carolacton.
+Wengryniuk for valuable feedback A. Hess A. Plaster and C. Burns-Lynch for synthetic assistance and Materia Inc. for catalysts.
 

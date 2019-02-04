@@ -1,30 +1,20 @@
-we constructed a panel of iga antibodies specific to various bacteria and used it as a tool to study the mechanisms of iga-mediated control of microbiota by the host.the iga antibodies that are secreted into the intes- tinal lumen are mostly dimers wherein monomers are linked together via the j chain and secretory compo- nent sc 18. both piga and sc molecules are gly- cosylated 19 and their n- and o-bound glycans are involved in interacting with bacteria acting as adhe- sion competitors or providing for siga fixation in the mucus 20. the effect of the glycosylation pattern on the specificity of antibody binding with particular bac- teria is poorly understood and is worthy of future investigation.it has been demonstrated that branched n-glycans present in the sc as its main component are responsi- ble for fab- and fc-independent specific binding with gram-positive commensal bacteria 21. for instance siga antibodies specifically block certain bacterial epitopes and thus prevent adhesion of commensal bacteria to the apical surfaces of iecs 22. in addition siga limit microbial motility by nonspecifically bind- ing the glycans associated with the sc and constant region a ca iga.
+The resulting IgA antibodies were found to be specific mostly to Gram-positive bacteria present in intestinal microbiota and to recognize both bacteria from vari- ous sections of the intestine and particular bacterial species associated with the epithelium.
 
-the panel can be used to further under- stand the mechanisms whereby the adaptive immune system controls the microbiota composition.keywords immunoglobulin a iga microbiotadoi 10.1134s0026893317060152introductionto maintain intestinal homeostasis the immune system of mucous membranes selectively recognizes pathogenic microorganisms and selectively responds to them while remaining tolerant of harmless and symbiotic components of intestinal microbiota 1. class iga antibodies are though to play the main role in the process by controlling the microbiota composi- tion via the immune recognition of its components.
+However it is still unclear how the natural repertoire of IgA antibodies produced in the intestine regulates the microbiota composition.To study the mechanism whereby IgA antibodies interact with microbiota it is necessary to systematically analyze the specificity of IgA antibodies produced in vivo and on the other hand to obtain monoclonal IgA suit- able for directional effects on microbiota.
 
-however it is still unclear how the natural repertoire of iga antibodies produced in the intestine regulates the microbiota composition.to study the mechanism whereby iga antibodies interact with microbiota it is necessary to systematically analyze the specificity of iga antibodies produced in vivo and on the other hand to obtain monoclonal iga suit- able for directional effects on microbiota.
+Rag1-- fecal microbiota of Rag1-- mice Rag1--  IgA fecal microbiota of Rag1-- mice after incubation with the supernatant obtained by incubating sorted IgA-positive plasma cells with IL-6 and BAFF for 5 days WT fecal microbiota of C57Bl6 mice.
 
-rag1-- fecal microbiota of rag1-- mice rag1--  iga fecal microbiota of rag1-- mice after incubation with the supernatant obtained by incubating sorted iga-positive plasma cells with il-6 and baff for 5 days wt fecal microbiota of c57bl6 mice.
+The panel can be used to further under- stand the mechanisms whereby the adaptive immune system controls the microbiota composition.Keywords immunoglobulin A IgA microbiotaDOI 10.1134S0026893317060152INTRODUCTIONTo maintain intestinal homeostasis the immune system of mucous membranes selectively recognizes pathogenic microorganisms and selectively responds to them while remaining tolerant of harmless and symbiotic components of intestinal microbiota 1.
 
-a type a hybridoma reacts with micro- biota from the large and small intestine a type b hybridoma only with large intestinal microbiota and a type c hybridoma with small intestinal microbiota and epithelium-associated bacteria.
+A type A hybridoma reacts with micro- biota from the large and small intestine a type B hybridoma only with large intestinal microbiota and a type C hybridoma with small intestinal microbiota and epithelium-associated bacteria.
 
-thus we obtain a panel of iga antibodies specific to microbiota components.specificity analysis of iga hybridomasthe microbiota composition is known to change from one to another region of the gastrointestinal tract 15. in view of this the next step was testing whetherthe resulting antibodies bind with bacteria from vari- ous regions of the intestine figs.
+Thus maintaining the microbiota composition by the host immune system is crucial and one of the main mechanisms for microbiota control is production of immunoglobulin A IgA at mucosal surfaces.
 
-the resulting iga antibodies were found to be specific mostly to gram-positive bacteria present in intestinal microbiota and to recognize both bacteria from vari- ous sections of the intestine and particular bacterial species associated with the epithelium.
+a Analysis of antibody binding with microbiota from the large and small intestine and epithelium-associated microbiota.
 
-thus maintaining the microbiota composition by the host immune system is crucial and one of the main mechanisms for microbiota control is production of immunoglobulin a iga at mucosal surfaces.
+Thus we obtain a panel of IgA antibodies specific to microbiota components.Specificity Analysis of IgA HybridomasThe microbiota composition is known to change from one to another region of the gastrointestinal tract 15.
 
-a analysis of antibody binding with microbiota from the large and small intestine and epithelium-associated microbiota.
+The microbiota composition changes easily in response to internal or external factors which may result in dysbiosis and associated inf lam- matory reactions.
 
-a panel of hybridoma cell lines was constructed to produce monoclonal iga antibodies spe- cific to various commensal bacteria present in intestinal microbiota.
-
-to evaluate the iga binding with gram- positive and gram-negative bacteria microbiota was incubated with wheat germ agglutinin wga conju- gated with the f luorochrome alexa-488.
-
-examination was car-ried out in a facscanto ii f low cytometer with stan- dard facsdiva software.resultsgeneration of microbiota-specific iga hybridomasconsidering that iga antibodies produced by the immune system regulate the composition of intestinal microbiota we generated a panel of hybridomas pro- ducing antibodies specific to commensal bacteria.
-
-it is important to note that iga antibodies produced by highly purified cells of the intestinal lamina propria bound with bacteria from microbiota of rag1-- mice in vitro fig.
-
-approximately 40 of anaerobic bacteria contained in feces are covered with iga in humans from an early age 2 3. several studies have shown that iga binding with microorganisms contributes to maintaining homeostasis by weakening pro-inflammatory signaling and provide immune pressure on commensal bacteria 4 5.plasma cells occurring in the intestinal lamina pro- pria produce iga antibodies.
-
-then the bacteria were fixed with 50 ml of 4 paraformaldehyde.immediately prior to examination fixed bacteria were washed to remove paraformaldehyde and stained with the dapi f luorescent dye.
+The molecular mechanisms regulating the interactions between the immune system and microbiota remain obscure.
 

@@ -1,30 +1,20 @@
-1. confirmation of 20- and 20-hsdh activity from b. desmolans atcc 43058 a and c. scindens atcc 35704 b. each steroid substrate 50 m was incubated with both b. desmolans atcc 43058 and c. scindens atcc 35704 in bhi media for 48 h. the prod- ucts were extracted and analyzed using hplc equipped with a c-18 analytical column capcell pak c18.
+These results confirm that B. desmolans ATCC 43058 elaborates a 20-HSDH but lacks 20-HSDH activity.Identification of the steroid-1720-desmolase operon and prediction of a novel 20-HSDH gene in B. desmolans ATCC 43058The desA-deduced amino acid sequence CLOSCI00899 from C. scindens ATCC 35704 was used to query the nonre- dundant protein database BLASTP.
 
-6. confirmation of 20-hsdh activity from b. scardovii atcc baa-773 a and steroid-1720-desmo- lase activity in p. lymphophilum acs-093-v-sch5 b. each steroid substrate 50 m was incubated with both b. scardovii in bhi medium and p. lymphophilum in gifu anaerobic medium for 48 h. the products were extracted and analyzed using hplc equipped with a c-18 analytical column capcell pak c18.
+2.Characterization of mRNA encoding desEAB operon in B. desmolansTo determine whether the desEAB genes are coex- pressed as a polycistronic operon we isolated total RNA from mid-log phase B. desmolans and designed oligonu- cleotides supplemental Table S1 spanning the intergenic regions between desE-desA and desA-desB.
 
-desmolans atcc 43058. these results confirm that b. desmolans atcc 43058 elaborates a 20-hsdh but lacks 20-hsdh activity.identification of the steroid-1720-desmolase operon and prediction of a novel 20-hsdh gene in b. desmolans atcc 43058the desa-deduced amino acid sequence closci00899 from c. scindens atcc 35704 was used to query the nonre- dundant protein database blastp.
+Indeed desAB genes were not found in any other members of clusters 1 2 and 3 except for B. desmolans C. cadaveris and P. lymphophilum.Verification of functional steroid metabolic activity by selected members of cluster III of the 20-HSDH phylogenyWe next sought to determine whether two organisms whose gene products cluster closely with the 20-HSDH from B. desmolans ATCC 43058 exhibited 20-HSDH activity.
 
-2.characterization of mrna encoding deseab operon in b. desmolansto determine whether the deseab genes are coex- pressed as a polycistronic operon we isolated total rna from mid-log phase b. desmolans and designed oligonu- cleotides supplemental table s1 spanning the intergenic regions between dese-desa and desa-desb.
+We detected the formation of 20- dihydrocortisol when cortisol was the substrate however we did not detect the oxidation of 20-dihydrocortisol by whole-cells of B. scardovii which is consistent with the ob- servation that at equilibrium the recombinant 20-HSDH from B. desmolans converted 98 of cortisol to 20- dihydrocortisol in vitro over a 24 h period.
 
-indeed desab genes were not found in any other members of clusters 1 2 and 3 except for b. desmolans c. cadaveris and p. lymphophilum.verification of functional steroid metabolic activity by selected members of cluster iii of the 20-hsdh phylogenywe next sought to determine whether two organisms whose gene products cluster closely with the 20-hsdh from b. desmolans atcc 43058 exhibited 20-hsdh activity.
+H. Mosbach B. I. Cohen and P. B. Hylemon.
 
-we detected the formation of 20- dihydrocortisol when cortisol was the substrate however we did not detect the oxidation of 20-dihydrocortisol by whole-cells of b. scardovii which is consistent with the ob- servation that at equilibrium the recombinant 20-hsdh from b. desmolans converted 98 of cortisol to 20- dihydrocortisol in vitro over a 24 h period.
+In this work we identified and located a gene encoding 20-HSDH in both B. desmolans and C. cadaveris.
 
-peak retention times and peak areas of samples were com- pared with retention times of standards.and 2 regulate the flux of bile acids into the 7- dehydroxylation pathway by reversible oxidation-reduction of the 7-hydroxy group 19. gut bacteria in human and other mammalian hosts are also capable of forming 7- hydroxy bile acids including but not limited to clostridium baratii 21 b. producta 22 and ruminococcus gnavus 23. while lacking a 7-hsdh necessary to epimerize the 7- hydroxy c. scindens and other bile acid 7-dehydroxylating bacteria circumvent this need by expressing a 7-dehydratase 20. interestingly epimerization of the 3-hydroxy group to 3-hydroxyiso-bileacids24prevents7-dehydroxylation j. m. ridlon and p. b. hylemon unpublished observa- tions.
+The 20-HSDH of B. desmolans was heterologously overexpressed and purified from Escherichia coli.
 
-h. mosbach b. i. cohen and p. b. hylemon.
+Phylogenetic analy- sis of the 20-HSDH from B. desmolans suggested that the 20-HSDH is found in several Bifidobacterium spp.
 
-in this work we identified and located a gene encoding 20-hsdh in both b. desmolans and c. cadaveris.
+Unlike C. scindens ATCC 35704 which elaborates 20-HSDH both C. cadaveris and B. desmolans have been reported to express 20-HSDH activity 10.
 
-the 20-hsdh of b. desmolans was heterologously overexpressed and purified from escherichia coli.
-
-cortisol is the preferred substrate with km 0.80 - 0.06 m vmax 30.36 - 1.97 molmin1 kcat 607 - 39molm1min1 kcatkm 760 - 7.67. phylogenetic analy- sis of the 20-hsdh from b. desmolans suggested that the 20-hsdh is found in several bifidobacterium spp.
-
-purified recombinant desc was shown to have substrate-specificity and kinetics consistent with previously purified native 20-hsdh 7 8. in these studies steroids with 20-hydroxy groups were not substrates for desc 9.steroid-1720-desmolase activity has also been reported in clostridium cadaveris and butyricicoccus desmolans for- merly eubacterium desmolans 10 11. unlike c. scindens atcc 35704 which elaborates 20-hsdh both c. cadaveris and b. desmolans have been reported to express 20-hsdh activity 10. following the report of the desabcd operon from c. scindens atcc 35704 genome sequences fordesmolans atcc 43058 bio project prjna223055 andcadaveris bio projects prjna185698 prjeb17278 became available prompting us to determine whether these anaerobic bacteria encode the desab genes in addi- tion to an nadph-dependent dehydrogenase encoding 20-hsdh.materials and methodsbacterial strains and materialsb.
-
-desmolans atcc 43058 b. scardovii atcc baa-773 and c. scindens atcc 35704 were cultivated in supplemented brain heart infusion bhi broth containing 5 g l1 of yeast extract.p.
-
-b. desmolans atcc 43058 was cultivated in bhi broth in the presence or absence of 50 m cortisol until mid-log phase.
-
-b. desmolans atcc 43058 genomic dna was ex- tracted using the fast dna isolation kit from mo-bio carlsbad ca according to the manufacturer's protocol.
+desmolans ATCC 43058 B. scardovii ATCC BAA-773 and C. scindens ATCC 35704 were cultivated in supplemented brain heart infusion BHI broth containing 5 g l1 of yeast extract.P.
 

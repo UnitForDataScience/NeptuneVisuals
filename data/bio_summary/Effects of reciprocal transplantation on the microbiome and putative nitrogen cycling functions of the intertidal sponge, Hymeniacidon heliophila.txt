@@ -1,30 +1,20 @@
-our results support the hypothesis that some lma sponges display significant temporal variability as h. heliophila has been classified astable 3. taxonomic classification and average relative abundance  total community of core symbiont otus present in all 44 h. heliophila samples.figure 5. nitrogen transformation pathways and associated genes predicted in h. heliophila core microbial symbionts using picrust.
+Archaeal ammonia oxidizing genes amoA have been reported in the H. heliophila microbiome but microbial nitrogen cycling functions have never been holistically examined in an intertidal sponge species.In this study we conducted a reciprocal transplant experiment to directly test the effects of tidal exposure on the microbial symbiont community of H. heliophila which is amenable to transplantation within the littoral zone.
 
-archaeal ammonia oxidizing genes amoa have been reported in the h. heliophila microbiome but microbial nitrogen cycling functions have never been holistically examined in an intertidal sponge species.in this study we conducted a reciprocal transplant experiment to directly test the effects of tidal exposure on the microbial symbiont community of h. heliophila which is amenable to transplantation within the littoral zone.
+To address this objective we identified key nitrogen cycling processes in microbial symbionts of H. heliophila using a predictive metagenomic approach for all sponge individuals and verified these predictions by comparison with nitrogen cycling genes identified in a shotgun-sequenced H. heliophila metagenome for one sponge individual.ResultsTransplant survival and temperatures regimes.
 
-to address this objective we identified key nitrogen cycling processes in microbial symbionts of h. heliophila using a predictive metagenomic approach for all sponge individuals and verified these predictions by comparison with nitrogen cycling genes identified in a shotgun-sequenced h. heliophila metagenome for one sponge individual.resultstransplant survival and temperatures regimes.
+heliophila the congeneric sponge H. sinapiumand Halichondria panacea which belong to the same family Halichondridae as H. heliophila.
 
-heliophila the congeneric sponge h. sinapiumand halichondria panacea which belong to the same family halichondridae as h. heliophila.
+The core microbiome of H. heliophila consisted of 18 OTUs which together comprise an average of 63 of the total microbial community of H. heliophila and each member of the core microbiome was predicted to be associated with at least one nitrogen metabolism gene.
 
-the core microbiome of h. heliophila consisted of 18 otus which together comprise an average of 63 of the total microbial community of h. heliophila and each member of the core microbiome was predicted to be associated with at least one nitrogen metabolism gene.
+To verify that the nitrogen cycling genes identi- fied in experiment-wide metagenome PICRUSt predictions were present in an actual H. heliophila metagenome we constructed a full sponge and microbial DNA shotgun sequenced metagenome from DNA extracted from one of the 2014 intertidal H. heliophila samples.
 
-to verify that the nitrogen cycling genes identi- fied in experiment-wide metagenome picrust predictions were present in an actual h. heliophila metagenome we constructed a full sponge and microbial dna shotgun sequenced metagenome from dna extracted from one of the 2014 intertidal h. heliophila samples.
+We previously demonstrated that the marine sponge Hymeniacidon heliophila displayed significant community-level differences in microbial symbiont diversity structure and composition when sampled from intertidal and subtidal environments.
 
-we previously demonstrated that the marine sponge hymeniacidon heliophila displayed significant community-level differences in microbial symbiont diversity structure and composition when sampled from intertidal and subtidal environments.
-
-heliophila using next-generation illumina sequencing of 16s rrna gene sequences to characterize symbiont communities.
+heliophila using next-generation Illumina sequencing of 16S rRNA gene sequences to characterize symbiont communities.
 
 heliophila represent nitrogen cycling taxa that have the potential to contribute to a diverse array of nitrogen transformations in the sponge holobiont.
 
-we previously demonstrated that the marine sponge hymeniacidon heliophila displayed significant differences in microbial symbiont community diversity structure and composition when sampled from intertidal and subtidal environments.
+We previously demonstrated that the marine sponge Hymeniacidon heliophila displayed significant differences in microbial symbiont community diversity structure and composition when sampled from intertidal and subtidal environments.
 
-differences in the microbial symbiont communities of intertidal and subtidal conspecific h. heliophila included shifts in the relative abundance of dominant taxa as well as a unique composition of rare symbionts in each environment.
-
-heliophila.
-
-first we addressed whether reciprocal transplantation of h. heliophila between intertidal and subtidal environments can induce changes in microbial symbiont community structure and composition.
-
-to address this question we characterized the microbial symbiont community of h. heliophila before and after 70 days of experimental transplantation using next-generation illumina sequencing of bacterialarchaeal 16s rrna gene sequences.
-
-surprisingly temporal variation during the reciprocal transplant experiment accounted for most of the variation in microbial symbiont community structure thus we analyzed this dataset alongside previously col- lected 16s rrna microbial community data from h. heliophila to compare monthly and annual variation in the microbial symbiont communities.
+Differences in the microbial symbiont communities of intertidal and subtidal conspecific H. heliophila included shifts in the relative abundance of dominant taxa as well as a unique composition of rare symbionts in each environment.
 

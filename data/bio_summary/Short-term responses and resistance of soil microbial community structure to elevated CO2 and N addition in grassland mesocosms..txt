@@ -1,30 +1,20 @@
-fems microbiology letters 364 2017 fnx077doi 10.1093femslefnx077advance access publication date 18 april 2017 research letterr e s e a rch l e t t e r - environmental microbiologyshort-term responses and resistance of soil microbial community structure to elevated co2 and n addition in grassland mesocosmsmarie simonin naoise nunan juliette m. g. bloor vale'rie pouteau and audrey niboyet1institute of ecology and environmental sciences-paris umr 7618 universite' pierre etmarie curiecnrsagroparistech agroparistech 78850 thiverval-grignon france and 2inra ur0874 grassland ecosystem research unit f-63039 clermont-ferrand francecorresponding author institute of ecology and environmental sciences-paris umr 7618 universite' pierre et marie curiecnrsagroparistech agroparistech 78850 thiverval-grignon france.
+However micro- bial community responses to simultaneous increases in N and CO2 have attracted little attention to date Gutknecht Field and Balser .The response of soil microbial communities to global changes may be mediated by the plant community via changes in plant biomass or plant-induced changes in soil resource availability such as labile C or mineral N contents Bardgett Freeman and Ostle  Gutknecht Field and Balser  Drigo et al.
 
-9short-term bardgett et al.
+In contrast previous grassland studies have reported inconsistent responses of soil microbial commu- nity structure to elevated carbon dioxide CO2 elevated CO2 had either no effect on microbial community structure Ebersberger et al.
 
-but decrease this ratio in the longer term 1 year bardgett and mcalister  bradley drijber and knops  clegg  denef et al.
+Root and shoot biomass soil respiration and gross N mineralisation rates are represented as vectors as they were found to be significant explanatory variables P  0.05.The interactive effects of elevated CO2 and N supply on the relative abundance of bacteria and fungi and on the ratios between the relative abundance of fungalbacterial and Gram positiveGram negative biomarkers were assessed using PROC MIXED in SAS 9.3 SAS Institute Cary NC USA.Correlations between NMDS scores and potential drivers of microbial community structure plant biomass soil respiration gross N mineralisation and soil water content Niboyet et al.
 
-in contrast previous grassland studies have reported inconsistent responses of soil microbial commu- nity structure to elevated carbon dioxide co2 elevated co2 had either no effect on microbial community structure ebersberger et al.
+In our experiment elevated CO2 did not al- ter the microbial community structure in agreement with other short- and long-term studies Zak et al.
 
-gutknecht field and balser  or led to signifi- cant increases in fungal biomarkers and fungalbacterial ratio kandeler et al.
+N addition had a significant effect on microbial community structure likely driven by concurrent increases in plant biomass and in soil labile C and N. In contrast microbial community structure did not change under elevated CO2 or show significant CO2 x N interactions.
 
-guenet et al.
+Soil respiration was used as an indi- cator of soil labile carbon and gross N mineralisation rates as a proxy of soil N availability.Resistance of the soil microbial community structureTo measure the resistance of the soil microbial community structure to the disturbances we calculated Bray-Curtis similar- ities in microbial communities in disturbed treatments CO2 N or CO2  N relative to the control treatment given by the PLFA profiles de Vries and Shade  using the vegdist function Ve- gan in R. A similarity of 1 indicates maximum resistance i.e.
 
-in theory increases in the fungalbacterial ratio driven by decreased soil n availability under elevated co2 could be offset by n addition especially in n-limited ecosystems lagomarsino et al.
+In theory increases in the fungalbacterial ratio driven by decreased soil N availability under elevated CO2 could be offset by N addition especially in N-limited ecosystems Lagomarsino et al.
 
-however micro- bial community responses to simultaneous increases in n and co2 have attracted little attention to date gutknecht field and balser .the response of soil microbial communities to global changes may be mediated by the plant community via changes in plant biomass or plant-induced changes in soil resource availability such as labile c or mineral n contents bardgett freeman and ostle  gutknecht field and balser  drigo et al.
+Previ- ous work published on this mesocosm experiment has shown that soil microbial processes related to C and N cycling were al- tered by the combined effects of elevated CO2 and N addition Niboyet et al.
 
-philippot et al.
+These biomarkers were used to compute the relative abundance of bacteria fungi and the Gram-positiveGram-negative and fun- galbacterial ratios.Statistical analysis of PLFA profilesThe experiment was represented as a fully factorial split-plot de- sign the whole-plot factor is the CO2 treatment and the N treat- ment is the split-plot factor.The PLFA patterns of the soil samples were analysed in R R Core Team  by non-metric multidimensional scal- ing NMDS with the 'Vegan Community Ecology Package' Oksanen et al.
 
-numerous studies suggest that k-strategist microor- ganisms are more resistant to global change induced distur- bances de vries and shade  bischoff et al.
-
-villa et al.
-
-zhang et al.
-
-previ- ous work published on this mesocosm experiment has shown that soil microbial processes related to c and n cycling were al- tered by the combined effects of elevated co2 and n addition niboyet et al.
-
-and that the abundance of nitrifiers was al- tered by experimental treatments simonin et al.
-
-the treatments were initiated 1 month after sow- ing when the d. glomerata seedlings had fully emerged ni- boyet et al.
+FEMS Microbiology Letters 364 2017 fnx077doi 10.1093femslefnx077Advance Access Publication Date 18 April 2017 Research LetterR E S E A RCH L E T T E R - Environmental MicrobiologyShort-term responses and resistance of soil microbial community structure to elevated CO2 and N addition in grassland mesocosmsMarie Simonin Naoise Nunan Juliette M. G. Bloor Vale'rie Pouteau and Audrey Niboyet1Institute of Ecology and Environmental Sciences-Paris UMR 7618 Universite' Pierre etMarie CurieCNRSAgroParisTech AgroParisTech 78850 Thiverval-Grignon France and 2INRA UR0874 Grassland Ecosystem Research Unit F-63039 Clermont-Ferrand FranceCorresponding author Institute of Ecology and Environmental Sciences-Paris UMR 7618 Universite' Pierre et Marie CurieCNRSAgroParisTech AgroParisTech 78850 Thiverval-Grignon France.
 

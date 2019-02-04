@@ -1,0 +1,20 @@
+A parallel GWAS of melanization in these iso- lates identified loss of function mutation in clinical isolates inTable 1 Genome assemblies forhuman fungal pathogensSpeciesGenome size MbAssembly stateReferencesAspergillus fumigatus29Chromosomal draft Blastomyces dermatitidis67-75DraftCandida albicans Candida glabrata12-15Chromosomal diploid   Coccidioides immitis29ChromosomalCryptococcus neoformans Cryptococcus gattii17-19Chromosomal draft-Histoplasma capsulatum30-41DraftParacoccidioides brasiliensis29-30Draft Penicillium marneffei29Draft Pneumocystis jirovecii8Chromosomal Rhizopus oryzae Rhizopus delemar39-46Draft  Species representing the ten most significant invasive fungal infections adapted from Brown et al.
+
+Recent studies have also expanded our view within a single species by examining the genome of more than one refer- ence isolate for some species which can characterize differ- ences in gene content between isolates of the same species.
+
+These and other recent studies collectively provide refer- ence genomes for the study of all the major human fungal pathogens Table .In addition to studies focusing on a single genome as rep- resentative of a species multiple studies have used re- sequencing to examine variation across multiple isolates of a single species.
+
+This review describes current approaches resources and advances in applying whole genome sequencing to study clinically im- portant fungal pathogens.Recent Findings Genomes for some important fungal patho- gens were only recently assembled revealing gene family expansions in many species and extreme gene loss in one obligate species.
+
+In providing a comprehen- sive snapshot of the gene content and thereby the functional potential the genomic studies of human pathogenic fungal species have revealed the repertoire of proteins that contribute to host interactions     predicted metabolic capabil- ities and requirements   uncovered the potential for sexual reproduction in some species   and have been used as the platform to study specific genes as well as for system- atic functional genomic approaches -.
+
+In contrast to the predominant species that cause of human fungal infections many outbreaks have resulted from organisms that are not a common cause of infection and consequently some of these species are not well studied or previously sequenced.
+
+Initial study of microevolution and the acquisition of new phenotypes in serial isolates of Candida albicansChen Y Farrer RA Giamberardino C Sakthikumar S Jones A Yang T et al.
+
+Further comparing the genome-wide variation of clinical isolates from an outbreak with isolates from environmental or other associ- Christina A. Cuomo 1 Infectious Disease and Microbiome Program Broad Institute of MIT and Harvard Cambridge MA USAated samples can precisely determine how clonal an outbreak is across patients the identity to isolates from other sources and establish transmission chains.
+
+Remarkably whole genome se- quencing revealed that Coccidioides immitis isolates from these patient cases were nearly identical to local soil isolates differing by only three SNPs across the entire 28 Mb genome  suggestive of local transmission and a potentially an expanded endemic area for this pathogen.More recently genomic analysis of drug resistance Candida auris established that patient isolates from specific geographic regions are highly identical  .
+
+Also using a shotgun se- quencing approach the sequence of a pool of samples can be used to determine the species within a single sample to cate- gorize the gene content to suggest functional capacity and recently to examine species level variation.Fig.
+

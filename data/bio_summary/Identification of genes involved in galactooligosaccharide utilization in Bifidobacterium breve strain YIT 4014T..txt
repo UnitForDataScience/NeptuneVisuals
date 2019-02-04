@@ -1,30 +1,20 @@
-for genes that were not assigned ko numbers the default features are pre- dicted in genbank.the bold text indicate genes that were significantly up-regulated fold-change 2.0 during growth in medium containing 3c-gl or 6c-gl.which bifidobacterial genes are involved remain largely unknown.in this study we aimed to identify the genes responsible for the utilization of 3c-gl and 6c-gl in b. breve yit 4014t.
+For genes that were not assigned KO numbers the default features are pre- dicted in GenBank.The bold text indicate genes that were significantly up-regulated fold-change 2.0 during growth in medium containing 3C-GL or 6C-GL.which bifidobacterial genes are involved remain largely unknown.In this study we aimed to identify the genes responsible for the utilization of 3C-GL and 6C-GL in B. breve YIT 4014T.
 
-other up-regulated genes were hypothesized to be involved in the utilization of raffi- nosestachyosemelibiose rs09435-rs09440 rs09515- rs09525 ribose rs09645 arabinogalactanmaltooligo- saccharides rs00515 and lactose rs00050.table 2. b. breve yit 4014t genes highly expressed constitutively during growth in mpy medium supplemented with 3c-gl or glucose as the sole carbohydratelist derived from instances where the rpkm value was 10 000 among all genes.
+GL-SBP1 displayed high affinity3'-GL50403020100K 2.04x10-5 M6'-GL50403020100K 2.92x10-4 Mtoward 6C-GL and 4C-GL but showed extremely low affinity towards 3C-GL 2b.Thus we assumed that 6C-GL was transported into bifido- bacterial cells via the ABC transporter GL-SBP1 and digested by GL-BG however this finding did not explain why the strain utilized 3C-GL efficiently .Involvement of another ABC transporter in 3C-GL-5050150250-10Time s4'-GL50-5050150250-10Time sLactose50utilizationTherefore we considered that another transport system may be responsible for 3C-GL utilization.
 
-gl-sbp1 displayed high affinity3'-gl50403020100k 2.04x10-5 m6'-gl50403020100k 2.92x10-4 mtoward 6c-gl and 4c-gl but showed extremely low affinity towards 3c-gl 2b.thus we assumed that 6c-gl was transported into bifido- bacterial cells via the abc transporter gl-sbp1 and digested by gl-bg however this finding did not explain why the strain utilized 3c-gl efficiently .involvement of another abc transporter in 3c-gl-5050150250-10time s4'-gl50-5050150250-10time slactose50utilizationtherefore we considered that another transport system may be responsible for 3c-gl utilization.
+breve YIT 4014T can utilize these carbohydrates the strain showed the fastest growth with 3C-GL and the slowest growth with glucose.Genes induced upon 3C- and 6C-GL utilizationSubsequently we performed RNA sequencing RNA-Seq-10Time sConcentration of ligands-10Time sanalysis to identify which genes were up-regulated during growth in 3C-GL or 6C-GL as the sole carbon source.
 
-among genes with rpkm values 500 13 genes were found to be involved in sugar metabolism table s2 shown in bold text.based on their annotations we hypothesized that the gene locus bbbrrs 02305-02320 including b-galactosidase and an sbp type of abc transporter is involved in gl utili- zation these genes were designated gl-bg and gl-sbp1 respectively  .
+Among genes with RPKM values 500 13 genes were found to be involved in sugar metabolism Table S2 shown in bold text.Based on their annotations we hypothesized that the gene locus BBBRRS 02305-02320 including b-galactosidase and an SBP type of ABC transporter is involved in GL utili- zation these genes were designated GL-BG and GL-SBP1 respectively  .
 
-breve yit 4014t can utilize these carbohydrates the strain showed the fastest growth with 3c-gl and the slowest growth with glucose.genes induced upon 3c- and 6c-gl utilizationsubsequently we performed rna sequencing rna-seq-10time sconcentration of ligands-10time sanalysis to identify which genes were up-regulated during growth in 3c-gl or 6c-gl as the sole carbon source.
+B. breve YIT 4014T genes highly expressed constitutively during growth in mPY medium supplemented with 3C-GL or glucose as the sole carbohydrateList derived from instances where the RPKM value was 10 000 among all genes.
 
-all genes are represented by solid grey circles except for the putative gl utilization genes which are shown in red.
+All genes are represented by solid grey circles except for the putative GL utilization genes which are shown in red.
 
-target b-galactosidases final concentration 3.2 nm were dis- solved in mcilvaine buffer ph 5.5 and incubated with lactose 3c-gl 4c-gl or 6c-gl final concentration01 mm at 37 c. the carbohydrate profile was analyseda3'-gl10.80.60.40.20030 60 90 120time min6'-gl10.80.60.40.2003 0 6 0 9 0 1 2 0time minblast analysisamino acid sequence homologues of the genes involved in gl utilization were blast-searched against nine strains ofb.
+Target b-galactosidases final concentration 3.2 nM were dis- solved in Mcilvaine buffer pH 5.5 and incubated with lactose 3C-GL 4C-GL or 6C-GL final concentration01 mM at 37 C. The carbohydrate profile was analyseda3'-GL10.80.60.40.20030 60 90 120Time min6'-GL10.80.60.40.2003 0 6 0 9 0 1 2 0Time minBLAST analysisAmino acid sequence homologues of the genes involved in GL utilization were BLAST-searched against nine strains ofB.
 
-because these strains can utilize 3c-gl efficiently data not shown they might employ alternative molecular machinery for 3c-gl uptake.conclusionthe present findings improve our molecular understanding of prebiotic gos utilization by bifidobacteria in the human gut.
+Because these strains can utilize 3C-GL efficiently data not shown they might employ alternative molecular machinery for 3C-GL uptake.ConclusionThe present findings improve our molecular understanding of prebiotic GOS utilization by bifidobacteria in the human gut.
 
-our data agreed well with these notable publications furthermore we found that these genes were involved in 3c- and 6c-gl utilization but not 4c-gl utilization.
+Our data agreed well with these notable publications furthermore we found that these genes were involved in 3C- and 6C-GL utilization but not 4C-GL utilization.
 
-among the genes that showed high rpkm values  we found two abc transporter sbps whose substrates have not been characterized rs08090 and 09450.we subsequently prepared recombinant proteins from both sbp genes and their affinities were evaluated against gls.
-
-in con- trast the recombinant rs09450 protein showed no affinity with any of the gls data not shown.presence of gl-utilization genes among bifidobacteriato assess the universality of these findings we performed blast searches for 3c-gl- and 6c-gl-utilization genes against the genomes of 17 bifidobacteria strains deposited in public databases 9 complete b. breve genomes and 83'-gl6'-gl4'-glgl-bg4gl-bgfig.
-
-however the molecular mechanisms through which gos isomers are utilized by bifidobacteria andtable 1. b. breve yit 4014t genes up-regulated in expression during growth in modified py medium supplemented with 3c-gl 6c-gl or glucose as the sole carbohydrategene functions predicted based on information in the kegg database.
-
-transcriptome analysis revealed that 197 out of 1901 genes were significantly up-regulated fold-change 2.0 during growth in medium containing 3c-gl or 6c-gl.
-
-genes shown in bold text are predicted to be functionally related to 3c-gl metabolism.substrate specificity of up-regulatedb-galactosidase and the abc transporter sbpwe prepared the recombinant gl-bg protein and evaluated its substrate specificity by measuring substrate degradation.
-
-as shown in  rs08090 showed high spr signalswith 3c-gl indicating that gl-sbp2 is involved in uptake of 3c-gl the gene was designated gl-sbp2 .
+B. breve YIT 4014T genes up-regulated in expression during growth in modified PY medium supplemented with 3C-GL 6C-GL or glucose as the sole carbohydrateGene functions predicted based on information in the KEGG database.
 

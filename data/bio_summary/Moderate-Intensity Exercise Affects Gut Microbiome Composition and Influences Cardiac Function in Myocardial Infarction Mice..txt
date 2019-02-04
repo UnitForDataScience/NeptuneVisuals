@@ -1,30 +1,20 @@
-we also found that mi significantly affected the gut microbiota by comparison of the mi group with the sham r2 0.22 p  0.05 or non-surgery group r2 0.21 p  0.01 among the exercise-trained mice and similar findings were observed for the sedentary mice mi group vs. sham group r2 0.19 p  0.01 mi group vs. non-surgery group r2 0.21 p  0.01 .
+Additionally our results suggest that the MI mice harbored a distinct gut bacterial community structure as demonstrated by the fact that the dissimilarities observed between the negative control group and the sham group were significantly smaller than those between the MI and sham groups in the weighted uniFrac and unweighted uniFrac distance analyses.One potential reason that there was no significant difference between the MI groups is that MI severely influences cardiac function and leads to changes in intestinal blood perfusion and the intestinal microenvironment and these alterations might disguise the influence of exercise.
 
-additionally our results suggest that the mi mice harbored a distinct gut bacterial community structure as demonstrated by the fact that the dissimilarities observed between the negative control group and the sham group were significantly smaller than those between the mi and sham groups in the weighted unifrac and unweighted unifrac distance analyses.one potential reason that there was no significant difference between the mi groups is that mi severely influences cardiac function and leads to changes in intestinal blood perfusion and the intestinal microenvironment and these alterations might disguise the influence of exercise.
+These results suggested that exercise training improved cardiac function to some extent in addition to altering the gut microbiota therefore they could provide new insights into the use of exercise training for the treatment of CVD.Keywords exercise gut microbiome cardiac function myocardial infarction 16S rRNAINTRODUCTIONExercise has been associated with the risk of cardiovascular disease CVD for many years  .
 
-the dissimilarity distance in the mi vs. sham comparison was significantly higher than that in the non-surgery vs. sham comparison further suggesting that the mi groups experienced greater changes in the gut microbiota than wereobserved in the sham-operated mice and those not treated with surgery .we also analyzed the differences in composition between the exercise-trained and control mice in the non-surgery sham and mi groups .
+These results indicated that the gut microbiota was more strongly shifted by MI than by physical exercise and this may explain why there was no significant difference between the exercise and control groups that were both treated with MI.Both left coronary ligation and sham surgery altered the gut microbiota in mice.
 
-while exercise may also affect the community composition of the gut microbiota in the mi group a beta-diversity analysis of the unifrac distance was performed in a pcoa analysis and revealed clustering between the exercise and non-exercise samples obtained from the mi groups.
+While exercise may also affect the community composition of the gut microbiota in the MI group a beta-diversity analysis of the uniFrac distance was performed in a PCoA analysis and revealed clustering between the exercise and non-exercise samples obtained from the MI groups.
 
-to acquire a more accurate view of the changes that occurred in the gut microbial community of mi mice we performed beta diversity analysis using weightedunifrac and unweightedunifrac distances to compare the differences between non-surgery vs. sham and mi vs. sham groups for both the exercise-trained and non-exercise- trained mice.
+We also found that MI significantly affected the gut microbiota by comparison of the MI group with the sham R2 0.22 P  0.05 or non-surgery group R2 0.21 P  0.01 among the exercise-trained mice and similar findings were observed for the sedentary mice MI group vs. sham group R2 0.19 P  0.01 MI group vs. non-surgery group R2 0.21 P  0.01 .
 
-moreover compared to control mi mice exercise mi mice tended to have higher ef and fs although these differences were not significant.
+The results of these studies collectively indicate that the gut microbiota might be an attractive target for therapies for CVD and might provide a novel potential mechanism for how exercise prevents heart disease.Both the gut microbiome and exercise have been implicated in heart disease.
 
-of particular note is the finding that exercise was previously shown to exert cardioprotective effects in mi mice by inhibiting oxidative stress ameliorating inflammatory injury increasing the expression of vegf vascular endothelial growth factor and reducing mi size     .
+A potential mechanism by which exercise and MI might influence the gut microbiota involves changes in hemodynamics and intestinal blood perfusion which alter the microenvironment in which gut bacteria reside.
 
-in exercise-trained mi mice the relative abundance of phenylobacterium and roseateles was higher than that observed in the corresponding control mi mice.
+Further investigation is required to explore this issue.CONCLUSIONOur results show that the alterations in gut microbial structure that are caused by physical exercise are correlated with cardiac function in MI mice and that a strategy that involves modulating the microbiota using exercise might be an attractive method for treating CVDs.AUTHOR CONTRIBUTIONSSubstantial contributions to the conception or design of the study or the acquisition analysis or interpretation of data used in the study ZL H-YL HZ QZe QZh WL HR and DX.
 
-in addition the mi model was induced by coronary ligation in contrast with spontaneous mi which is typically accompanied by risk factors such as diabetes hyperlipidemia or hypertension.
+The dissimilarity distance in the MI vs. sham comparison was significantly higher than that in the non-surgery vs. sham comparison further suggesting that the MI groups experienced greater changes in the gut microbiota than wereobserved in the sham-operated mice and those not treated with surgery .We also analyzed the differences in composition between the exercise-trained and control mice in the non-surgery sham and MI groups .
 
-however the metabolic state of mi mice is different from that of patients as the most common type of mi was caused by plaque rupture and was associated with various cardiovascular risk factors.
-
-this model of mi is most likely type-ii mi which is caused by coronary spasm or embolization  .
-
-here we focused on the relationships among exercise the gut microbiota and cardiac function after myocardial infarction mi.
-
-in addition physical exercise and mi led to alterations in gut microbial composition.
-
-however the effect of exercise training on the microbiome in myocardial infarction mi remains unexplored.
-
-here we hypothesize that exercise training will trigger changes in the gut microbiome that favor a healthier phenotype and improve cardiac function in mi mice.
+Recent studies have reported that exercise alters the gut microbiota and that modification of the gut microbiota can influence cardiac function.
 

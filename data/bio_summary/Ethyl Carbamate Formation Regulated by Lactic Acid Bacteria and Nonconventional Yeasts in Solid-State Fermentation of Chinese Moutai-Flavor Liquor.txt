@@ -1,30 +1,20 @@
-the change in urea concentration during the fermentation was significant showing an average increase of 101.37 mg kg-1during the first 15 days of the fermentation and an averagedecrease of 96.57 mg kg-1 on days 15-30. the changes in cyanide and citrulline concentration during the fermentation were 10 mg kg-1.
+Most of the urea was produced during fermentation via the catabolism of arginine by microorganisms such as yeasts.Because excessive accumulation of urea in cells is toxic excess urea is secreted to the extracellular space eventually leading to a significant increase in urea content in the fermentation system.Therefore we investigated the dynamics of the concentration of arginine present during the heaping and fermentation of Moutai-flavor liquor .
 
-most of the urea was produced during fermentation via the catabolism of arginine by microorganisms such as yeasts.because excessive accumulation of urea in cells is toxic excess urea is secreted to the extracellular space eventually leading to a significant increase in urea content in the fermentation system.therefore we investigated the dynamics of the concentration of arginine present during the heaping and fermentation of moutai-flavor liquor .
+The arginine deiminase pathway in the malolactic fermentation of wine has been characterized in certain isolates including Oenococcus oeni.-The metabolism of arginine and the urea cycle are of oenological concern because they can result in the excretion of citrulline and urea which can spontaneously react with ethanol to form EC.In this study we employed amplicon and metatranscriptomic sequencing to explore nitrogen regulation in fermentation microbiota that produce and degrade EC precursors particularly urea.
 
-the arginine deiminase pathway in the malolactic fermentation of wine has been characterized in certain isolates including oenococcus oeni.-the metabolism of arginine and the urea cycle are of oenological concern because they can result in the excretion of citrulline and urea which can spontaneously react with ethanol to form ec.in this study we employed amplicon and metatranscriptomic sequencing to explore nitrogen regulation in fermentation microbiota that produce and degrade ec precursors particularly urea.
+The change in urea concentration during the fermentation was significant showing an average increase of 101.37 mg kg-1during the first 15 days of the fermentation and an averagedecrease of 96.57 mg kg-1 on days 15-30.
 
-plantarum l. fermentum and l. buchneri in the moutai-flavor liquor fermentation are also present in many other kinds of fermented foods.strains of these bacteria from moutai-flavor liquor fermentation could be used as the reference to study microbial function in other fermented foods.dominant nonconventional yeasts were functional regulators of the production of urea.
+plantarum L. fermentum and L. buchneri in the Moutai-flavor liquor fermentation are also present in many other kinds of fermented foods.Strains of these bacteria from Moutai-flavor liquor fermentation could be used as the reference to study microbial function in other fermented foods.Dominant Nonconventional Yeasts Were Functional Regulators of the Production of Urea.
 
-pombe c- 11 z. bailii c-7 and p. kudriavzevii c-16 could therefore reduce the urea content in the fermentation process.herein amplicon sequencing combined with metatranscrip- tomic sequencing was applied to determine the diversity and dynamics of the fermentation microbiota involved in the production of moutai-flavor liquor.
+pombe C- 11 Z. bailii C-7 and P. kudriavzevii C-16 could therefore reduce the urea content in the fermentation process.Herein amplicon sequencing combined with metatranscrip- tomic sequencing was applied to determine the diversity and dynamics of the fermentation microbiota involved in the production of Moutai-flavor liquor.
 
-2018 66 387-392pubs.acs.orgjafcethyl carbamate formation regulated by lactic acid bacteria and nonconventional yeasts in solid-state fermentation of chinese moutai-flavor liquorhai du zhewei song and yan xuthe key laboratory of industrial biotechnology of the ministry of education state key laboratory of food science and technology synergetic innovation center of food safety and nutrition school of biotechnology jiangnan university 1800 lihu avenue wuxi jiangsu 214122 china introductionethyl carbamate ec c2h5oconh2 occurs naturally infermented foods and beverages and may have carcinogenic and mutagenic effects.
+As traditional fermented alcoholic beverages are particularly important sources of EC intake the health risks posed by this EC are of concern.Solid-state fermentation SSF is a commonly used technology for the production of traditional alcoholic beverages and can improve the texture and flavor of the product.Chinese Moutai-flavor liquor 53 alcohol by volume production is a typical SSF process originating from ancient fermented beverages and driven by multistrain microbial communities.
 
-as traditional fermented alcoholic beverages are particularly important sources of ec intake the health risks posed by this ec are of concern.solid-state fermentation ssf is a commonly used technology for the production of traditional alcoholic beverages and can improve the texture and flavor of the product.chinese moutai-flavor liquor 53 alcohol by volume production is a typical ssf process originating from ancient fermented beverages and driven by multistrain microbial communities.
+Samples were collected from the same batch in two distinct phases of liquor production namely heaping and fermentation.
 
-samples were collected from the same batch in two distinct phases of liquor production namely heaping and fermentation.
+Fermentation-phase samples were the grain mixture fermented in the anaerobic environment and taken at 0 5 10 15 20 25 30 and 32 days the latter being the end of the fermentation.
 
-fermentation-phase samples were the grain mixture fermented in the anaerobic environment and taken at 0 5 10 15 20 25 30 and 32 days the latter being the end of the fermentation.
+The fermentation of Chinese liquor was simulated as a coculture system of the main brewing microorganisms.
 
-the fermentation of chinese liquor was simulated as a coculture system of the main brewing microorganisms.
-
-the solid-state fermentation medium was prepared as follows sorghum 250 g was added to hot water 350 ml 70-80 degc soaked for 24 h and sterilized at 121 degc for 20 min.
-
-rhizopus oryzae g4 was introduced to the simulated fermentation system as a spore suspension at 104 colony forming units cfu g-1 and incubated at 30 degc for 1 day to allow saccharification.
-
-the formation of ec in chinese moutai-flavor liquor can occur throughout the processes of both heaping and fermentation.
-
-urea cyanide and citrulline were also present in the fermented grains used for production of the moutai-flavor liquor and we tracked their concentrations throughout the fermentation process.
-
-the concentrations of cyanide citrulline and urea in the fermented grains initially increased reaching the highest values on the 15th day of fermentation and then decreased .
+The solid-state fermentation medium was prepared as follows sorghum 250 g was added to hot water 350 mL 70-80 degC soaked for 24 h and sterilized at 121 degC for 20 min.
 

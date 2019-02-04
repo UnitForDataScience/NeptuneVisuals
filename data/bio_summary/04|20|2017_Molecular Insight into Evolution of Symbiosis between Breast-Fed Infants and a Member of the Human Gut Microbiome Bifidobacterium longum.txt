@@ -1,30 +1,20 @@
-although the first-ranked docking result was not catalyti- cally competent data not shown the second-ranked result was similarly bound to the protein with the lnb complex structure figure s10a with estimated binding energy of -6.9 kcalmol.520 cell chemical biology 24 515-524 april 20 2017figure 4. role of b. longum lnbx in hmo degradation and in bifidus flora formationgrowth od600 of b. longum on lactose lac lacto-n-biose i lnb lacto-n-tetraose lnt and purified human milk oligosaccharides hmos.
+longum JCM1217 B. longum  .
 
-as expected based on previous studies   the breast-fed infants had gut microbiota that was substantially more rich in bifidobacteria compared with the mix-fed infants b p  0.012. notably b. longum was found to significantly dominate among members of the genus bifidobacterium in the breast-fed infants c p  0.02 whereas the copy number of the 16s rdna gene of bifidobacterial speciessubspecies other than b. longum did not differ between the two groups d. the lnbx gene was detected in five breast-fed infant stool samples occupancy of 50 and was pre- sent in only one mixed-fed infant stool sample 17 and its abundance differed significantly between the two groups  e p  0.049. a positive but not statistically significant cor- relation pearson's correlation coefficient r  0.62 p  0.058 was observed between the abundance of lnbx and 16s rdna ofb.
+Notably B. longum was found to significantly dominate among members of the genus Bifidobacterium in the breast-fed infants C p  0.02 whereas the copy number of the 16S rDNA gene of bifidobacterial speciessubspecies other than B. longum did not differ between the two groups D. The lnbX gene was detected in five breast-fed infant stool samples occupancy of 50 and was pre- sent in only one mixed-fed infant stool sample 17 and its abundance differed significantly between the two groups  E p  0.049.
 
-sym- bols white circles wild-type gray circles lnbx-dis- ruptant and triangles lnbx-complemented.b-e boxplots showing the abundance of bifido- bacterium genus b b. longum subspecies c bifidobacterium other than b. longum d and lnbx e in infant stools from exclusively breast-fed babies and mixed-fed babies.
+Role of B. longum LnbX in HMO Degradation and in Bifidus Flora FormationGrowth OD600 of B. longum on lactose Lac lacto-N-biose I LNB lacto-N-tetraose LNT and purified human milk oligosaccharides HMOs.
 
-our study demonstrates that lnbx plays key roles in the growth of a considerable number of b. longum strains on hmos and contributes to the persis- tence and survival advantage of members of the b. longum spe- cies complex in breast-fed infants.
+Sym- bols white circles wild-type gray circles lnbX-dis- ruptant and triangles lnbX-complemented.B-E Boxplots showing the abundance of Bifido- bacterium genus B B. longum subspecies C Bifidobacterium other than B. longum D and lnbX E in infant stools from exclusively breast-fed babies and mixed-fed babies.
 
-in addi- tion asp320 forms a hydrogen bond with the amide nitrogen of the n-acetyl group and helps to facilitate the nucleophilic attack of the carbonyl oxygen by stabilizing the charge develop- ment in the transition state .for the lnb molecule bound to lnbxc the planes of the two rings are not parallel but are instead oriented at an angle offigure 5. comparison of two lnbasesactive sites of gh136 lnbx from b. longum a andc and gh20 lnbb from b. bifidum b and d pdb 4h04.a and b molecular surfaces of the substrate- binding pocket.
+Our study demonstrates that lnbX plays key roles in the growth of a considerable number of B. longum strains on HMOs and contributes to the persis- tence and survival advantage of members of the B. longum spe- cies complex in breast-fed infants.
 
-longum jcm1217 b. longum  .
+longum is presentedd The mechanism of LnbX is distinct from the lacto-N- biosidase of B. bifidumd lnbX is indispensable for growth and occupancy in the breast-fed infant gutd Host and microbe symbiotic and co-evolutionary relationships are revealedAuthorsChihaya Yamada Aina Gotoh Mikiyasu Sakanaka ... Shujiro Okuda Takane Katayama Shinya FushinobuCorrespondence T.K.
 
-in particular lnbx seems to have specifically evolved in b. longum through adaptation and exploitation of the uncommon structural and mechanical features of the b helix fold to bind and cleave the decorated lnb unit.
+provide the structural basis of lacto-N-biosidase LnbX a key enzymatic factor for growth and proliferation of B. longum in breast- fed infants.
 
-b. longum and b. bifidum belong to the same genus and inhabit the sameenvironment nevertheless they have evolved structurally different lnbases.
+Bifidobacterium bifidum possesses a glycoside hydrolase family20 lacto-N-biosidase for liberating lacto-N-biose I from lacto-N-tetraose an abundant HMO unique to human milk while Bifidobacterium longum subsp.
 
-while b. bifidum pos- sesses lnbase lnbb belonging to the glycoside hydro- lase family 20 b. longum has an unclassified lnbase lnbx.
+longum has a non-classified enzyme LnbX.
 
-lnbase from b. bifidum jcm1254 lnbb which is classified in glycoside hydrolase gh family 20   is highly specific for lnb and cannot act on lnb units that have been decorated with additional carbohydrate motifs .
-
-the protein fold of lnbxc shows similarity to that of bhelix enzymes and proteins including poly b-mannuronate c5 epimerase pectate lyase and tailspike protein table s1.in the lnb complex reaction product complex the lnb is bound at the center of the concave side of the b helix b. the gal residue in the -2 subsite is recognized by hydrogen bonds with his150 lys244 and his245 and an aromatic stack- ing interaction with trp387.
-
-longum is presentedd the mechanism of lnbx is distinct from the lacto-n- biosidase of b. bifidumd lnbx is indispensable for growth and occupancy in the breast-fed infant gutd host and microbe symbiotic and co-evolutionary relationships are revealedauthorschihaya yamada aina gotoh mikiyasu sakanaka ... shujiro okuda takane katayama shinya fushinobucorrespondence t.k.
-
-provide the structural basis of lacto-n-biosidase lnbx a key enzymatic factor for growth and proliferation of b. longum in breast- fed infants.
-
-moreover through genetic studies we show that lnbx is indispensable for b. longum growth on lacto-n-tetraose and is a key genetic factor for persistence in the gut of breast-fed infants.
-
-next we examined the indispensability of the lnbx gene for the growth of b. longum on lntand also evaluated the importance and occupancy of lnbxb.
+Moreover through genetic studies we show that lnbX is indispensable for B. longum growth on lacto-N-tetraose and is a key genetic factor for persistence in the gut of breast-fed infants.
 

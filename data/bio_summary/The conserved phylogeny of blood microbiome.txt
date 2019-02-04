@@ -1,30 +1,20 @@
-2. an aggregated phylogeny with respect to 22 common proteins.until the necessity of a separate genus classification is realized in 1984 .co-existence analysisto explore the evolutionary closeness of the 22 common micro- biome proteins with human we look for their existence in human.
+After doing so we carry out further analyses on the selected 22 common protein sequences of these 43 blood microbes.Kindly note that the consideration of 22 common proteins in the blood microbiome in the current analysis is not arbitrary.
 
-interestingly the co-existence of five of those common proteins is observed in human too.c 2017 elsevier inc. all rights reserved.introductionthe human microbiome which consists of viruses bacteria archaea etc.
+An aggregated phylogeny with respect to 22 common proteins.until the necessity of a separate genus classification is realized in 1984 .Co-existence analysisTo explore the evolutionary closeness of the 22 common micro- biome proteins with human we look for their existence in human.
 
-after doing so we carry out further analyses on the selected 22 common protein sequences of these 43 blood microbes.kindly note that the consideration of 22 common proteins in the blood microbiome in the current analysis is not arbitrary.
+We do this for all the 22 common proteins and thus we obtain 22 distinct proteins having 22 distinct normalized similarity scores.
 
-in this work we analyze the sequence data provided through the human microbiome project to explore evolutionary relations within blood microbiome.
+Thus we now have 43 tables each consisting of 22 common proteins and its corresponding sequences.Obviously there might be multiple entries of the common pro- teins in each of the dataframes.
 
-this observation suggests to carry out similar experiments in all the organstissue types included in the human microbiome project.conclusionhuman microbiome analysis has drawn immense interest because of its promise of understanding biological systems at a deeper scale.
+The similarity function computes optimal alignment scores for global Needleman- Wunsch and local Smith-Waterman alignments with constant gap penalties.Now we have 43 dataframes and each of them has 22 common proteins and each dataframe is compared with rest of dataframes considering their common proteins.
 
-the total number of common proteins obtained is 22. the fasta sequence files are truncated suitably to contain the sequences of only those 22 common proteins and its variants.
+The homolog analysis is also done with the ConSurf tool.ResultsWe use programs written in R for the preliminary analyses namely finding common proteins between the 43 microbes con- verting each FASTA file to the dataframe and truncating each pro- tein sequence file for a blood microbe to contain only those 22 common proteins.
 
-thus we now have 43 tables each consisting of 22 common proteins and its corresponding sequences.obviously there might be multiple entries of the common pro- teins in each of the dataframes.
+Thus we get 22 phylogenies corresponding to the common proteins and a single phylogenetic tree by averaging over all these 22 trees.
 
-the similarity function computes optimal alignment scores for global needleman- wunsch and local smith-waterman alignments with constant gap penalties.now we have 43 dataframes and each of them has 22 common proteins and each dataframe is compared with rest of dataframes considering their common proteins.
+Therefore the choice of 22 common proteins is made based on some sensitivity analyses.MethodsFor building relationships within the microbiome we perform a sequence based comparative analysis.
 
-in this way we obtain 22 tables each corresponding to a common protein consisting of 1849 elements 43 43. the matrices that are constructed con- tain ''normalized similarity value calculated over the common proteins.
+The total number of common proteins obtained is 22.
 
-the homolog analysis is also done with the consurf tool.resultswe use programs written in r for the preliminary analyses namely finding common proteins between the 43 microbes con- verting each fasta file to the dataframe and truncating each pro- tein sequence file for a blood microbe to contain only those 22 common proteins.
-
-thus our motivation becomes to find similarity among sequences of common proteins of blood microbiomes and construct their phylogenetic relationships.here we aim to explore evolutionary relationships between region-specific microbes in human.
-
-therefore the choice of 22 common proteins is made based on some sensitivity analyses.methodsfor building relationships within the microbiome we perform a sequence based comparative analysis.
-
-as we have already stated that we have taken 43 files in fasta format of blood microbiome thus we obtain 43 tables out of it.after obtaining the tables we attempt to find out the common proteins among all these 43 microbes.
-
-using the consurf tool  we analyze the conservation of those 5 common proteins present in human.
-
-short communicationthe conserved phylogeny of blood microbiomemalay bhattacharyya  tuhin ghosh  sujit shankar  namrata tomar a department of information technology indian institute of engineering science and technology shibpur howrah 711103 indiab department of physiology medical college of wisconsin milwaukee wi 53226 usaa r t i c l e i n f oarticle historyreceived 29 september 2016revised 22 january 2017accepted 1 february 2017available online 12 february 2017keywords microbiome evolution phylogenyblood microbiome co-existence analysisa b s t r a c t the proliferation and intensification of diseases have forced every researcher to take actions for a robust understanding of the organisms.
+The FASTA sequence files are truncated suitably to contain the sequences of only those 22 common proteins and its variants.
 

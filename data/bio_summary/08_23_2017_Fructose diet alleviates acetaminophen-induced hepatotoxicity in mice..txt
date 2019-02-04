@@ -1,30 +1,20 @@
-comparisons between the control and fructose groups were made by using the student's t-test or mann-whitney nonparametric test via r studio version 0.99.903 or graphpad prism 7. for comparison of cecal microbiota between the control and fructose groups p-value of student's t-test and false discovery rate fdr were calculated using r package multtest.
+Adding fructose to drinking water had insignificant effects on mouse body weight despite higher calorie intake  consistent with a previous report that fructose diet did not affect body weight as it increased metabolic rate in mice .
 
-adding fructose to drinking water had insignificant effects on mouse body weight despite higher calorie intake  consistent with a previous report that fructose diet did not affect body weight as it increased metabolic rate in mice .
+p  0.001 vs. controlTo determine the effects of fructose diet on APAP hepatotoxicity APAP or vehicle was administered to the mice fed with fructose or control water for 8 weeks and the mice were sac- rificed 24 h post-dosing the time point when APAP-induced liver damage as determined by serum ALT levels is greatest  .
 
-p  0.001 vs. controlto determine the effects of fructose diet on apap hepatotoxicity apap or vehicle was administered to the mice fed with fructose or control water for 8 weeks and the mice were sac- rificed 24 h post-dosing the time point when apap-induced liver damage as determined by serum alt levels is greatest  .
+Firmicutes phyla were composed predominantly of bacteria in the Clostridia class of which Clostridiales order constitutes 99 and bacteria in Bacteroidia class were mainly from S24-7 and Rikenellaceae family  consistent with the previous report in C57BLJ mice .Further comparison of gut microbiota between the control and fructose groups revealed that the fructose diet increased the abundance of Rikenellaceae family Bifidobacterium genus Anaerostipes genus and Anaeroplasma genus  however only the difference in the rel- ative abundance of Anaerostipes genus was statistically significant after the correction for mul- tiple testing i.e.
 
-firmicutes phyla were composed predominantly of bacteria in the clostridia class of which clostridiales order constitutes 99 and bacteria in bacteroidia class were mainly from s24-7 and rikenellaceae family  consistent with the previous report in c57blj mice .further comparison of gut microbiota between the control and fructose groups revealed that the fructose diet increased the abundance of rikenellaceae family bifidobacterium genus anaerostipes genus and anaeroplasma genus  however only the difference in the rel- ative abundance of anaerostipes genus was statistically significant after the correction for mul- tiple testing i.e.
+iNos and Tnfa did not differ between the control and fructose groups in this study sug- gesting that fructose diet did not cause inflammation in our experimental setting unlike in a previous study .
 
-e correlation between anaerostipes otu and hepatic gsh levels in vehicle-treated mice fed with fructose or regular water n  18. comparison of cecal bacteria in mice fed with control or fructose water n  9group.
+The results from our study show that long-term administration of fructose decreases APAP-induced hepatotoxicity in mice potentially by reduced bioactivation of APAP and increased detoxification of reactive metabolites.Materials and methodsReagentsAPAP APAP-d4 APAP glucuronide APAP sulfate 2-benzoxazolinone chlorzoxazone ethoxyresorufin and protease type XIV enzyme were purchased from Sigma-AldrichSt.
 
-inos and tnfa did not differ between the control and fructose groups in this study sug- gesting that fructose diet did not cause inflammation in our experimental setting unlike in a previous study .
+The triglyceride level as well as ChREBP expression was significantly higher in mice treated with fructose compared to control mice .
 
-2017 fructose diet alleviates acetaminophen-induced hepatotoxicity in mice.plos one 128 e0182977.
+The results showed that fructose diet increased a-diversity i.e.
 
-previous studies have shown conflicting effects of fructose the major component in western diet on the susceptibility to apap-induced hepatotoxicity.
+The increased abundance of Bifidobacterium and Anaerostipes is in line with a previous report of their capability to metabolize fructose - in part supporting the validity of our finding.
 
-to evaluate the role of fructose-supplemented diet in modulating the extent of apap-induced liver injury male c57bl6j mice were given 30 wv fructose in water or regular water for 8 weeks fol- lowed by oral administration of apap.
+Previous studies have shown conflicting effects of fructose the major component in Western diet on the susceptibility to APAP-induced hepatotoxicity.
 
-apap-induced liver injury determined by serum lev- els of liver enzymes was decreased by two-fold in mice pretreated with fructose.
-
-analysis of bacterial 16s rrna gene amplicons from the cecal samples of vehicle groups showed that the fructose diet altered gut bacterial community leading to increased a-diversity.
-
-in rat liver slices fructose has shown to prevent apap injury potentially via generating atp .
-
-also rats fed with 25 wv fructose diet for 5 weeks showed resistance against apap- induced hepatotoxicity .
-
-in another study however increased apap hepatotoxicity was reported in rats co-administered with fructose .
-
-the results from our study show that long-term administration of fructose decreases apap-induced hepatotoxicity in mice potentially by reduced bioactivation of apap and increased detoxification of reactive metabolites.materials and methodsreagentsapap apap-d4 apap glucuronide apap sulfate 2-benzoxazolinone chlorzoxazone ethoxyresorufin and protease type xiv enzyme were purchased from sigma-aldrichst.
+To evaluate the role of fructose-supplemented diet in modulating the extent of APAP-induced liver injury male C57BL6J mice were given 30 wv fructose in water or regular water for 8 weeks fol- lowed by oral administration of APAP.
 

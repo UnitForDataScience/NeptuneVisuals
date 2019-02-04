@@ -1,30 +1,20 @@
-in contrast cardinium and solitalea-like bacteria were not influenced by perturba- tion in the above populations apart from solitalea-like bacteria in the koppert population .based on the illumina data set the laboratory population contained 13 core otus and perturbation resulted in the addition of three otus an otu of lactobacillus amylovorus otu 37 for perturbation 1 and two otus of virgibacillus otus 21 and 34 for perturbation 2. the dog population included nine core otus and perturbation 1 resulted in a loss of three noncore otus from l. amylovorus otu 37 lactobacillus sp.
+Lab laboratory population Phil Phillips population Kop Koppert population P1 perturbation 1 P2 perturbation 2.were exceptions in the dog population perturbation 1 dry dog food kernel diet switched to oilseed rape diet DDFdOSRd and Phillips population perturbation 1 SPMdDDFd.
 
-lab laboratory population phil phillips population kop koppert population p1 perturbation 1 p2 perturbation 2.were exceptions in the dog population perturbation 1 dry dog food kernel diet switched to oilseed rape diet ddfdosrd and phillips population perturbation 1 spmdddfd.
+In contrast Cardinium and Solitalea-like bacteria were not influenced by perturba- tion in the above populations apart from Solitalea-like bacteria in the Koppert population .Based on the Illumina data set the laboratory population contained 13 core OTUs and perturbation resulted in the addition of three OTUs an OTU of Lactobacillus amylovorus OTU 37 for perturbation 1 and two OTUs of Virgibacillus OTUs 21 and 34 for perturbation 2.
 
-strain 2 otu 24 prevotella paludivivens otu 45 lactobacillus paracol- linoides otu 106 and pseudomonas putida otu 203. the phillips population in- cluded nine core species and perturbation resulted in the disappearance of three otus that originally occurred with the control stored product mite diet spmd p. paludivi- vens otu 45 l. paracollinoides otu 106 and selenomonas lacticifex otu 202. perturbation 1 provided three new otus from l. amylovorus otu 37 staphylococcus saprophyticus otu 38 and s. lentus otu 16. the koppert population included 11 core otus and perturbation resulted in the disappearance of otus 27 30 and 31 classified as bacillaceae2 whereas l. amylovorus otu 37 lactobacillus sp.
+Therefore triplots were constructed with these variables population perturbation and lipids for the Illumina data set and population perturbation and glycogen status for the qPCR data set  and .
 
-spmd for all populations with the exception of the dog population ddfd 1 spmdddfd or for the dog population ddfdspmd 2 spmdosrd or for the dog population ddfdorsd.adjusted r2 cumulative 0.8 followed by lipid status adjusted r2 cumulative 0.814 and perturbation adjusted r2 cumulative 0.829. additionally the analysis of variance anova-like permutation test applied to the terms in the rda model confirmed the significant effects of population lipid status and perturbation and the interaction between population and perturbation all with p  0.01 on the otu distribution.
+Additionally the analysis of variance ANOVA-like permutation test applied to the terms in the RDA model confirmed the significant effects of population lipid status and perturbation and the interaction between population and perturbation all with P  0.01 on the OTU distribution.
 
-perturbation 1 spmdddfd for the koppert laboratory and phillips populations and ddfdspmd for the dog population perturbation 2 spmdosrd for the koppert laboratory and phillips populations and ddfdorsd for the dog population.perturbation of bacterial communities.
+The combination of the forward selection of the environmental variables with the VIF computation and the ANOVA-like permutation tests applied to the individual terms confirmed the inclusion of all populations glycogen content perturbation 2 and the interaction between population and perturbation in general for all cases P  0.001.
 
-the interactions between popula- tion and perturbation were also significant p  0.001. rda also suggested a substan- tial influence of both population and perturbation on the overall distribution of the studied nutrients .
+We observed that diet perturbation was associated with a rapid change in T. putrescentiae population growth as previously reported  and we confirmed the strong effect of perturbation on both population growth and nutrient status.
 
-therefore triplots were constructed with these variables population perturbation and lipids for the illumina data set and population perturbation and glycogen status for the qpcr data set  and .
+Four T. putrescentiae populations referred to as dog Koppert laboratory and Phillips underwent a perturbation i.e.
 
-the combination of the forward selection of the environmental variables with the vif computation and the anova-like permutation tests applied to the individual terms confirmed the inclusion of all populations glycogen content perturbation 2 and the interaction between population and perturbation in general for all cases p  0.001. based on the triplot  constructed for the model including all these mentioned variables predominantly negative correlations were apparent for the qpcr data set.
+The effect of diet perturbation on the variability of the microbiome composition and population growth was lower than the effect induced by mite population.
 
-we observed that diet perturbation was associated with a rapid change in t. putrescentiae population growth as previously reported  and we confirmed the strong effect of perturbation on both population growth and nutrient status.
+In contrast the diet perturbation showed a greater effect on nutritional status of mites than the mite population.
 
-invertebrate microbiologyexperimental manipulation shows a greater influence of population than dietary perturbation on the microbiome of tyrophagus putrescentiaea b marta nesvornaa acrop research institute prague czechiaa czech hydrometeorological institute prague czechiababstract tyrophagus putrescentiae is inhabited by bacteria that differ among mite populations strains and diets.
-
-four t. putrescentiae populations referred to as dog koppert laboratory and phillips underwent a perturbation i.e.
-
-the effect of diet perturbation on the variability of the microbiome composition and population growth was lower than the effect induced by mite population.
-
-in contrast the diet perturbation showed a greater effect on nutritional status of mites than the mite population.
-
-the t. putrescentiae microbiome is dynamic and varies based on both the mite population and perturbation however the mites remain characterized by robust bacterial communities.
-
-the microbiomes of four populations of t. putrescentiae insects subjected to diet perturbation were compared.
+The T. putrescentiae microbiome is dynamic and varies based on both the mite population and perturbation however the mites remain characterized by robust bacterial communities.
 

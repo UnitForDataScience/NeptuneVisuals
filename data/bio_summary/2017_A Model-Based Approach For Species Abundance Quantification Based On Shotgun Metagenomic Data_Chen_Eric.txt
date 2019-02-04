@@ -1,0 +1,20 @@
+MetaPhlAn ignores such marker effects and simply averages the normalized read counts of each marker to estimate the microbial abundances.
+
+After the sequencing reads are aligned to sets of clade-specific marker genes the data can be summarized as a large table of counts as shown in Table 1 where Xijk is the count data of sequencing reads for sample i i  1 2 ... n species j j  1 2 ... p and marker k k  1 2 ... mj.
+
+Here ti is the total read counts for sample i that are mapped to the marker genes and ljk is the length of the kth marker gene for jth species.
+
+The simulation setting with log-normal m  0 sd 0 indicates no marker effect in the data and the other three settings indicate increasing marker effects.We observed that ignoring the marker-specific effects led to large biases in the estimates of the abundance thij as shown in Figure 2 full-scale in upper panel and zoomed-in to 0-5 scale in lower panel.
+
+Our method uses the count data of reads aligned to clade- specific marker genes to quantify the species abundances taking into account the marker effects that are observed in the shotgun sequencing data.
+
+The raw sequencing reads were first aligned to the taxonomic markers and then normalized as the number of aligned reads for each marker divided by marker length and total number of aligned reads for each sample.
+
+2015 for details of the clinical meta-data.Summary of count data after the sequencing reads from n metagenomic samples are aligned to a set of mj clade-specific marker genes for the ith species for a total of p species where Xijk is the number of reads that are assigned to the kth marker gene of the jth species in the ith sample.
+
+Alternatively shotgun sequencing of metagenomes which sequences all genome sequences presented in the sample instead of just one marker gene provides a more comprehensive approach to study human microbiome.
+
+Unlike the 16S rRNA sequencing approach that only involves one marker gene the shotgun sequencing approach generates millions of reads from potentially all microbial genomes which may share great similarity and also distribute unevenly in the sample.
+
+2012 developed a computationally efficient algorithm MetaPhlAn which aligns reads only to the unique clade-specific marker genes that are identified from known microbial genomes and thus allows unambiguous taxonomic assignments Segata et al.
+

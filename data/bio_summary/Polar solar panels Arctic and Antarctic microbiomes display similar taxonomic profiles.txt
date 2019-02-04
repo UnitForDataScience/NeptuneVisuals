@@ -1,30 +1,20 @@
-our results suggest that solar panels even on high latitudes can shape a microbial ecosystem adapted to irradiation and desiccation.introductionthe microbial ecology of some artificial structures including solar panels has been poorly explored up to date shirakawa et al 2015 dorado-morales et al 2016. these reports suggest that photovoltaic surfaces display a diverse microbial community highly tolerant to thermal fluctuations ultraviolet uv irradiation and desiccation dorado-morales et al 2016. in this work we aimed to study through next generation sequencing ngs and microbial culturing techniques the micro- biome of photovoltaic solar panels from two cold loca- tions lying close or inside the polar circles tromso norway 698400n 188560e and two antarctic islands 62800s 58800w fig.
+Our results suggest that solar panels even on high latitudes can shape a microbial ecosystem adapted to irradiation and desiccation.IntroductionThe microbial ecology of some artificial structures including solar panels has been poorly explored up to date Shirakawa et al 2015 Dorado-Morales et al 2016.
 
-one of these was iden- tified as r. mucilaginosa a cold-adapted with activity at up to 25 8c carotenoid-producing cosmopolitan meso- philic yeast that has previously been isolated from a wide range of remote environments including antarctical ice cores or 11 000 m deep sea vents gadanho and sampaio 2005 amato et al.
+These reports suggest that photovoltaic surfaces display a diverse microbial community highly tolerant to thermal fluctuations ultraviolet UV irradiation and desiccation Dorado-Morales et al 2016.
 
-2009 moline et al.
+One of these was iden- tified as R. mucilaginosa a cold-adapted with activity at up to 25 8C carotenoid-producing cosmopolitan meso- philic yeast that has previously been isolated from a wide range of remote environments including Antarctical ice cores or 11 000 m deep sea vents Gadanho and Sampaio 2005 Amato et al.
 
-2012 nunes et al.
+2009 Moline et al.
 
-2013 connell et al.
+2012 Nunes et al.
 
-2014 yu et al.
+2013 Connell et al.
 
-the most frequent isolate able to resist two minutes of uv irradiation was r. mucilaginosa in which carotenoid accumulation may play an essential role in photoprotec-conditions that characterize these artificial environ- ments uv-radiation and desiccation.the taxonomic profiles obtained through ngs of three panels from each location were analysed breitwieser and salzberg 2016 kim et al.
+2014 Yu et al.
 
-r. mucilaginosa was present among these 38 isolates an expected result when considering previous studies that describe this species as highly resistant to desiccation connell et al.
+The most frequent isolate able to resist two minutes of UV irradiation was R. mucilaginosa in which carotenoid accumulation may play an essential role in photoprotec-conditions that characterize these artificial environ- ments UV-radiation and desiccation.The taxonomic profiles obtained through NGS of three panels from each location were analysed Breitwieser and Salzberg 2016 Kim et al.
 
-2008. the large heteroge- neity in uv-resistance is in contrast with the high irradiance in the sampled site suggesting that a tridi- mensional biofilm-like structure may play an important role not only in survival under desiccation conditions but also in uv-protection in the natural biocenosis gorbushina 2007 villa et al.
+R. mucilaginosa was present among these 38 isolates an expected result when considering previous studies that describe this species as highly resistant to desiccation Connell et al.
 
-antarctica is not only characterized by its low temperatures but also by displaying very low values of environmental humidity conditions which trebouxia can easily overcome thanks to its cryo- and desiccation- resistant properties hajek et al.
-
-2012 carniel et al.
-
-2c and d. interestingly many of the shared genera have also been found while reanalysing the sequences of the first ngs report of the solar panelmicrobiome dorado-morales et al.
-
-on the contrary some other genera are more frequently found in mediterra- nean solar panels than in the polar ones such as alternaria coniosporium escherichia massilia and modestobacter.our results not only reveal the existence of a diverse community of microorganisms in solar panels from polar environments which is in concordance with previous reports about the diversity of microbial life in polar regions but it also highlights the importance of adapta- tion in extreme environments friedmann 1982 1993 boetius et al.
-
-on the opposite our results demonstrate that solar pan- els in extreme latitudes bear a similar native micro- biome characterized by marker taxa shared with panels from other latitudes fitting nicely with previous work per- formed on geothermal communities of antarctica that aimed at assessing the role of aeolian transport and environmental selection in the establishment of microbial communities herbold et al.
-
-gerdol m. montagner a. banchi e. de moro g. manfrin c. et al.
+The large heteroge- neity in UV-resistance is in contrast with the high irradiance in the sampled site suggesting that a tridi- mensional biofilm-like structure may play an important role not only in survival under desiccation conditions but also in UV-protection in the natural biocenosis Gorbushina 2007 Villa et al.
 

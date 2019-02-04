@@ -1,30 +1,20 @@
-the combination of a sophisticated search algorithm with database indexing and a massively parallel search allowed us to achieve this large-scale similarity search within a short period of time.large-scale sequence similarity search for metagenomic sequencing datato demonstrate the applicability of ghost-mp to large-scale functional analysis of metagenomic data we applied the functional analysis workflow to healthy human oral metagenomic data consisting of 381 samples taken from eight oral sites with approximately 18 billion sequence reads table s2.
+The results indicated that oral cavity oral vestibule and plaque have different characteristics.The GHOST-MP program is implemented in C and is available under the BSD Berkeley Software Distribution License from .Results and DiscussionEvaluation of Scalability and Search SpeedBefore performing the analysis of the human oral microbiome we evaluated the search speed of GHOST-MP which was measured on two systems TSUBAME 2.5 at Tokyo Institute of Technology and the K computer at RIKEN Advanced Institute for Computational Science using human oral metagenomic shotgun sequencing data queries and the KEGG GENES amino acid sequence database.
 
-finally each worker process writes search results to a clustered file system and reports results to the master process figure .figure 6. schematic of task distribution and file io inputoutput in ghost-mp.conclusionswe have developed ghost-mp a massively parallel sequence similarity search tool for metagenomic data to allow for large-scale analyses of metagenomic data.
+The combination of a sophisticated search algorithm with database indexing and a massively parallel search allowed us to achieve this large-scale similarity search within a short period of time.Large-Scale Sequence Similarity Search for Metagenomic Sequencing DataTo demonstrate the applicability of GHOST-MP to large-scale functional analysis of metagenomic data we applied the functional analysis workflow to healthy human oral metagenomic data consisting of 381 samples taken from eight oral sites with approximately 18 billion sequence reads Table S2.
 
-this technique is particularly useful for metagenomic data produced by massively parallel dna sequencing because massively parallel sequencing data consist of many nucleotide sequence fragments and this approach can search for each fragment in parallel.
+We applied this tool to human oral metagenomic data and the results indicate that the oral cavity the oral vestibule and plaque have different characteristics based on the functional gene category.Keywords database search sequence similarity search metagenomics human oral microbiomeIntroductionMost microbes are difficult to isolate and cultivate .
 
-the reconstruction of metabolic pathways provides information about potential metabolites possible paths to a specific metabolite and the structure of a metabolic network in an environment.to estimate the abundance of ortholog groups in environmental samples sequence similarity searches have been used to identify ortholog groups of each sequence in the metagenomic data.
+The reconstruction of metabolic pathways provides information about potential metabolites possible paths to a specific metabolite and the structure of a metabolic network in an environment.To estimate the abundance of ortholog groups in environmental samples sequence similarity searches have been used to identify ortholog groups of each sequence in the metagenomic data.
 
-for example when kegg genes 3.5 gb released july 2012 is used as an amino acid sequence database the total size of the database sequence and its suffix array with auxiliary data is approximately 20 gb.
+The fast search ability of GHOST-MP enabled us to perform a large-scale sequence similarity search of 381 human oral microbiome metagenomic sequencing data 18 billion reads against the whole database of KEGG GENES 8.6 million amino acid sequences on a massively parallel computing system.
 
-this enables the analysis of large-scale metagenomic data consisting of hundreds of sets of environmental sequencing data.
+The centroid of the triangle represents an equal average relative abundance of the three oral site groups.Materials and MethodsSequence DataHuman oral metagenomic sequencing data were downloaded from the HMP Data Analysis and Coordination Center HMP DACC .
 
-the centroid of the triangle represents an equal average relative abundance of the three oral site groups.materials and methodssequence datahuman oral metagenomic sequencing data were downloaded from the hmp data analysis and coordination center hmp dacc .
+The similarity search of the sequencing data with the KEGG GENES amino acid sequence database on the K computer took 183 h 898231 core hours which is the product of the number of CPU cores used and the elapsed time.
 
-81-3-5734-3645received 31 august 2017 accepted 6 october 2017 published 11 october 2017abstract sequence similarity searches have been widely used in the analyses of metagenomic sequencing data.
+The suffix array can be used with a binary search to find all suffixes matching the query string and is a data structure widely used in biological sequence searches .
 
-because current metagenomic sequencing data consist of a large number of nucleotide sequences the time required for sequence similarity searches account for a large proportion of the total time.
+This technique is particularly useful for metagenomic data produced by massively parallel DNA sequencing because massively parallel sequencing data consist of many nucleotide sequence fragments and this approach can search for each fragment in parallel.
 
-to analyze large-scale metagenomic data such as those found in the human oral microbiome we developed ghost-mp genome-wide homology search tool on massively parallel system a parallel sequence similarity search tool for massively parallel computing systems.
-
-this tool uses a fast search algorithm based on suffix arrays of query and database sequences and a hierarchical parallel search to accelerate the large-scale sequence similarity search of metagenomic sequencing data.
-
-we applied this tool to human oral metagenomic data and the results indicate that the oral cavity the oral vestibule and plaque have different characteristics based on the functional gene category.keywords database search sequence similarity search metagenomics human oral microbiomeintroductionmost microbes are difficult to isolate and cultivate .
-
-thus a method that combines the advantages of both approaches is needed.in this study we developed a new massively parallel sequence similarity search tool for large-scale metagenomic sequencing data such as the human oral microbiome.
-
-we then show the results of large-scale sequence similarity searches of actual metagenomic data.
-
-the results indicated that oral cavity oral vestibule and plaque have different characteristics.the ghost-mp program is implemented in c and is available under the bsd berkeley software distribution license from .results and discussionevaluation of scalability and search speedbefore performing the analysis of the human oral microbiome we evaluated the search speed of ghost-mp which was measured on two systems tsubame 2.5 at tokyo institute of technology and the k computer at riken advanced institute for computational science using human oral metagenomic shotgun sequencing data queries and the kegg genes amino acid sequence database.
+Schematic of task distribution and file IO InputOutput in GHOST-MP.ConclusionsWe have developed GHOST-MP a massively parallel sequence similarity search tool for metagenomic data to allow for large-scale analyses of metagenomic data.
 

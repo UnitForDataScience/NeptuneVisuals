@@ -1,30 +1,20 @@
-research articlenasopharyngeal microbiome diversity changes over time in children with asthmamarcos pe'rez-losada123 lamia alamri2 keith a. crandall1 robert j. freishtat21 computational biology institute george washington university ashburn virginia united states of america 2 division of emergency medicine children's national medical center washington dc united states of america 3 cibio-inbio centro de investigacao em biodiversidade e recursos gene'ticos universidade do porto campus agra'rio de vairao vairao portugal abstractopen accesscitation pe'rez-losada m alamri l crandall ka freishtat rj 2017 nasopharyngeal microbiome diversity changes over time in children with asthma.
+doi10.1371journal.pone.0170543Editor Paul J Planet Columbia University UNITED STATESReceived January 29 2016Accepted January 6 2017Published January 20 2017Copyright c 2017 Pe'rez-Losada et al.
 
-here we use ngs technology to characterize the nasopha- ryngeal microbiomes of asthmatic children and adolescents 6 to 18 years and determine their stability over time.methodstwo nasopharyngeal washes collected 5.5 to 6.5 months apart were taken from 40 children and adolescents with asthma living in the washington d.c. area.
+Default settings were used to mini- mize sequencing errors as described in Schloss et al.
 
-written consent was obtained from all independent participants or their legal guardians using the children's national irb approved informed consent documents irb no pro00002517.samples and molecular analysestwo nasal washes w1 and w2 were collected from 40 children and adolescents ages 6 to 18 years mean  11 years enrolled in the asthmap2 study in two consecutive visits 5.5 to 6.5 months apart at children's national medical center washington dc .
+Chimeras were removed using uchime  and non-chimeric sequences were classified using the naive Bayes- ian classifier of Wang et al.
 
-additionally these studies have also shown a high inter-patient microbial diversity so no nasopharyngeal core microbiome could be defined at the otu level.here we use ngs technology to explore the nasopharyngeal microbiome.
+Studies included ours are ordered by patient age group.StudyTeo et al.
 
-this agrees with our previous results suggesting that the composition of the nasopharyngeal microbiome changes towards adult- hood  .our study and others shows that nasopharyngeal microbial communities are not stable rather they experience structural rearrangements deterministic or stochastic over time.given the exposure of the nasopharynx such longitudinal changes could be related to environ- mental factors e.g.
+2015Bogaert et al.
 
-similarly longitudinal studies of the nasopharyngeal microbiome in infants have revealed that certain microbial groups change over the first two years of life in both healthy and asthmatic children   and that micro- biota profiles vary strongly with the seasons  .
+2011This studyHilty et al.
 
-all analyses were per- formed in mothur qiime stamp  and rstudio .results and discussionthe nasopharyngeal microbiome of asthmatic childrena total of 80 nasal microbiomes corresponding to 40 asthmatic children two samples per patient 5.5 to 6.5 months apart were analyzed via miseq sequencing of 16s rrna v4 ampli- cons.
+OTUs present in more than 50 of all samples and representing 0.1 of the sequences Bogaert et al.
 
-for comparative purposes we have then compiled results from several published studies describing the nasopharyngeal microbiomes of non-asthmatic infants defined as children between the ages of 1-18 months and adults .
+2015 331. doi PMIDBisgaard H Hermansen MN Bonnelykke K Stokholm J Baty F Skytt NL et al.
 
-thus our results confirm intaxonomic profiles of 80 nasopharyngeal microbiomes from 40 asthmatic children.
+doi PMIDCastro-Nallar E Shen Y Freishtat RJ Pe'rez-Losada M Manimaran S Liu G et al.
 
-previous studies of the nasopharyngeal microbiome in both infants  and adults  with respiratory infections showed that their microbiomes were comprised of the same main genera reported here for asthmatic children and adolescents ages of 6 to 18 years although their mean relative proportions varied across studies.
-
-at the 95 level the nasopharyngeal core microbiome of asthmatic children was repre- sented by five otus of the genera moraxella staphylococcus streptococcus haemophilus and fusobacterium.
-
-all these results combined indicate that members of the nasopharyngeal bacteriome of asthmatic children change over time 5.5 to 6.5 months on an individual basis.
-
-variability and diversity of nasopharyngeal microbiota in children a metagenomic analysis.
-
-epidemiology of nasopharyngeal carriage of respiratory bacterial pathogens in children and adults cross-sectional surveys in a population with high rates of pneumococcal disease.
-
-nasopharyngeal micro- biota in healthy children and pneumonia patients.
+2015 850.Teo SM Mok D Pham K Kusel M Serralha M Troy N et al.
 

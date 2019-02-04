@@ -1,30 +1,20 @@
-mwas was performed to find significant associations between taxa and crop productivity using wilcoxon rank sum test after filtering taxa with raw abundance below 12 counts across 12 soil samples from mg-rast karlsson et al.
+MWAS was performed to find significant associations between taxa and crop productivity using Wilcoxon rank sum test after filtering taxa with raw abundance below 12 counts across 12 soil samples from MG-RAST Karlsson et al.
 
-while the nostocales in the cyanobacteria phylum was only found to be important by rf machine learning both actinomycetiales and rhizobiales were identified to be significant in the mwas table 2. in addition to rhizobiales other taxa such as an unclassified order under the gammaproteobacteria in the proteobacteria phylum was also found to be important by mwas and rf machine learning figure 4b.and aic-based model one explanatory variable failed to reject the smaller aic-based cca model p  0.709. the results of cca vector fitting indicated crop productivity is the major factor and explained 16 of taxa variance while water ph explained 8discussioncrop productivity is a quantitative trait determined by a variety of factors van roekel et al.
+The results of CCA vector fitting indicated crop productivity is the major factor and explained 16 of taxa variance while water pH explained 8DISCUSSIONCrop productivity is a quantitative trait determined by a variety of factors Van Roekel et al.
 
-moreover an important biotic feature is the genetics of the crop variety the genotype which includes the genetics of the photosynthesis and productivity performance dhanapal et al.
+Moreover an important biotic feature is the genetics of the crop variety the genotype which includes the genetics of the photosynthesis and productivity performance Dhanapal et al.
 
-bacteria in the bradyrhizodium genus are well known for their symbiosis roles with legumes to fix nitrogen and benefit crop productivity duran et al.
+Bacteria in the Bradyrhizodium genus are well known for their symbiosis roles with legumes to fix nitrogen and benefit crop productivity Duran et al.
 
-2014. the interactions between soybean and different bradyrhizodium strains on crop productivity were shown to be significant zimmer et al.
+The interactions between soybean and different Bradyrhizodium strains on crop productivity were shown to be significant Zimmer et al.
 
-nonetheless because soil microbiome could be far more complicated and diverse than human microbiome limited sequencing depth to detect rare taxa and the reproducibility under the challenge of highly varied environmental factors will be the technical bottlenecks.productivity areas similar to the abundance of ascomycota planctomycetales and streptophyta table 2 which gives an intuition that actinomycetales may be detrimental to crop health some studies reported co-inoculation benefits of actinomycetes with bradyrhizodium japonicum that promoted soybean growth soe et al.
+Nonetheless because soil microbiome could be far more complicated and diverse than human microbiome limited sequencing depth to detect rare taxa and the reproducibility under the challenge of highly varied environmental factors will be the technical bottlenecks.productivity areas similar to the abundance of Ascomycota Planctomycetales and Streptophyta Table 2 which gives an intuition that Actinomycetales may be detrimental to crop health some studies reported co-inoculation benefits of Actinomycetes with Bradyrhizodium japonicum that promoted soybean growth Soe et al.
 
-120 740-755. doi debenport s. j. assigbetse k. bayala r. chapuis-lardy l. dick r. p. and gardener b. b. m. 2015. association of shifting populations in the root zone microbiome of millet with enhanced crop productivity in the sahel dhanapal a. p. ray j. d. singh s. k. hoyos-villegas v. smith j. r. purcell l. c. et al.
+Association of shifting populations in the root zone microbiome of millet with enhanced crop productivity in the Sahel Dhanapal A. P. Ray J. D. Singh S. K. Hoyos-Villegas V. Smith J. R. Purcell L. C. et al.
 
-on the other hand aic-based model selection suggested the crop productivity as the only variable that needs to be included in the cca to explain the taxa variance aic 93.98 p  0.055. the addition of water ph into the vector fitting cca resulted in a perpendicular direction to crop productivity figure 2b and when pco1 and pco2 were added into the cca a consistent result that pco2 is closer to crop productivity can be observed figure s2c.
+Ourexperimental design ensured each pair of two areas in the same agronomic field with no known difference in environmental conditions such as rainfall received the same management by the farmers with identical crop genetic variety and agricultural applications such as fertilization at each of the six locations in Illinois and because there were known differences in diseases or pests reported in the sampling season between the two areas we hypothesized that bulk soils with some unevenly distributed abiotic or biotic factors might be a cause of crop productivity difference.Twenty-six soil characteristics were quantified in the soil samples however none of these displayed significant correlations to crop productivity.
 
-ourexperimental design ensured each pair of two areas in the same agronomic field with no known difference in environmental conditions such as rainfall received the same management by the farmers with identical crop genetic variety and agricultural applications such as fertilization at each of the six locations in illinois and because there were known differences in diseases or pests reported in the sampling season between the two areas we hypothesized that bulk soils with some unevenly distributed abiotic or biotic factors might be a cause of crop productivity difference.twenty-six soil characteristics were quantified in the soil samples however none of these displayed significant correlations to crop productivity.
+We demonstrated the merit of MWAS and machine learning for the first time in a plant-microbiome study.Keywords machine learning metagenome-wide association study microbiome nitrogen fixation productivity random forest rhizobium soybeansINTRODUCTIONThe soil microbiome has been a great interest for its potentials in improving plant nutrient utilization and suppressing soil-borne diseases Muller et al.
 
-we demonstrated the merit of mwas and machine learning for the first time in a plant-microbiome study.keywords machine learning metagenome-wide association study microbiome nitrogen fixation productivity random forest rhizobium soybeansintroductionthe soil microbiome has been a great interest for its potentials in improving plant nutrient utilization and suppressing soil-borne diseases muller et al.
-
-2016. while abiotic soil characteristics such as ph soil types and trace elements can strongly influence a microbiome composition xu et al.
-
-2009 tkacz and poole 2015 biological factors such as plant species or genotypes can also influence a soil microbiome composition resulting in taxonomic difference between genotypes peiffer et al.
-
-a couple of studies have suggested the link between yield performances and soil microbiome differences for grape and millet debenport et al.
-
-2015 xu et al.
-
-moreover shotgun metagenomics avoids the concern of pcr amplification bias and provides functional annotation through gene enrichment analysis and pathway analysis sharpton 2014. although there are several technical challenges such as sampling consistency from environments dna integrity and contamination and bioinformatic difficulties in taxa annotation and quantification the power of shotgun metagenomics has been demonstrated in several medical studies on finding associations between taxa in a microbiome and human diseases le chatelier et al.
+While abiotic soil characteristics such as pH soil types and trace elements can strongly influence a microbiome composition Xu et al.
 

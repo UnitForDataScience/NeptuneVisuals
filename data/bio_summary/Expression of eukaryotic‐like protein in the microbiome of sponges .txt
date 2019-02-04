@@ -1,30 +1,20 @@
-these transcripts without sequence similarity were also exam- ined for noncoding rnas but only 2.5 showed sequence similarity to the rfam database.as taxonomic assignment of transcripts might be impacted by the quality of the reference database we further classified transcripts based on their tetranu- cleotide composition.
+These transcripts without sequence similarity were also exam- ined for noncoding RNAs but only 2.5 showed sequence similarity to the Rfam database.As taxonomic assignment of transcripts might be impacted by the quality of the reference database we further classified transcripts based on their tetranu- cleotide composition.
 
-the other 31 transcripts that were located outside the prokaryotic region of the esom together with the short transcripts that were not anal- ysed in the map 540 transcripts with  500 bp were defined as a low-confidence lc group.it is important to note that this compositional e.g.
+The other 31 transcripts that were located outside the prokaryotic region of the ESOM together with the short transcripts that were not anal- ysed in the map 540 transcripts with  500 bp were defined as a low-confidence LC group.It is important to note that this compositional e.g.
 
-postsequencing transcripts from microorganisms can be identified bioinformatically by comparison to available reference genomes but in the case of novel or divergent transcripts this may not be efficient.
+Postsequencing transcripts from microorganisms can be identified bioinformatically by comparison to available reference genomes but in the case of novel or divergent transcripts this may not be efficient.
 
-b pipeline to reconstruct the eukaryotic transcriptomic dataset using a de novo assembly of quality-filtered reads and removal of transcripts with sequence similarity to prokaryotes 'wo ss' stands for transcripts without sequence similarity to nr database.
+B Pipeline to reconstruct the eukaryotic transcriptomic dataset using a de novo assembly of quality-filtered reads and removal of transcripts with sequence similarity to prokaryotes 'wo SS' stands for transcripts without sequence similarity to NR database.
 
-for this transcripts expressed by nonprokaryotic polya reads and transcripts with sequence similarity to the eukaryotic transcriptome were discarded.
+For this transcripts expressed by nonprokaryotic polyA reads and transcripts with sequence similarity to the eukaryotic transcriptome were discarded.
 
-the remaining transcripts were taxo- nomically classified through sequence similarity searches and the noneukaryotic transcripts were retained for further analyses.did not align with the reference database were consid- ered as putative mrna.eukaryotic and microbiome assemblyto generate a eukaryotic transcriptome fig.
+The remaining transcripts were taxo- nomically classified through sequence similarity searches and the noneukaryotic transcripts were retained for further analyses.did not align with the reference database were consid- ered as putative mRNA.Eukaryotic and microbiome assemblyTo generate a eukaryotic transcriptome Fig.
 
-furthermore we mapped the eukaryotic reads to the meta-rz using bowtie2 and removed transcripts with a depth of 1 read covering at least 50 of the length.analysis of elpsprotein-coding regions within the assembled transcripts were predicted with the transdecoder script within the trinity platform including homology searches sequence and protein databases as retention criteria for open reading frames orf.
+Furthermore we mapped the eukaryotic reads to the Meta-RZ using Bowtie2 and removed transcripts with a depth of 1 read covering at least 50 of the length.Analysis of ELPsProtein-coding regions within the assembled transcripts were predicted with the TransDecoder script within the Trinity platform including homology searches sequence and protein databases as retention criteria for open reading frames ORF.
 
-2013. as some prokaryotic mrna may also have polya tails sarkar 1997 or could have been unspecifically bound to the polyt probe we searched the transcripts against the nr data- base and removed 2257 transcripts with a positive hit blastx e-value  1.0e-3 against prokaryotes.for the host-mapping subtraction the polya- and rrna-depleted prokaryotic reads were then mapped against this de novo eukaryotic transcriptome using bowtie2.
+As some prokaryotic mRNA may also have polyA tails Sarkar 1997 or could have been unspecifically bound to the polyT probe we searched the transcripts against the NR data- base and removed 2257 transcripts with a positive hit BlastX E-value  1.0E-3 against prokaryotes.For the host-mapping subtraction the polyA- and rRNA-depleted prokaryotic reads were then mapped against this de novo eukaryotic transcriptome using Bowtie2.
 
-as we rigorously fil- tered out any reads or transcripts similar to our eukary- otic transcriptome it is surprising that these transcripts were still assigned to porifera or eukaryotes.
+As we rigorously fil- tered out any reads or transcripts similar to our eukary- otic transcriptome it is surprising that these transcripts were still assigned to Porifera or eukaryotes.
 
-transcripts without sequence similarity wo ss are shown in black and elp-containing transcripts are highlighted in red.
-
-2012 and this could also explain the lower number of transcripts.after the 'decontamination' steps using the eukary- otic transcriptomes and after taxonomy assignment of transcripts we obtained 8665 transcripts with sequence similarity to prokaryotes for scopalina sp.
-
-with respect to orfs identified in these prokaryotic transcripts table s1d supporting information 118 orfs from the met-sco-rz and 40 orfs from the meta-ted-rz contained elps represent- ing 1.4 and 1.3 of all prokaryotic transcripts respec- tively.
-
-3. the percent- age of transcripts encoding elps associated with any phylogenetic group broadly reflected the percentage of non-elps encoding transcripts for the same group forc.
-
-for instance the most frequent transcripts encoding elps in c. con- centrica were associated with the family rhizobiales 21 and rhodobacterales 23 which also included most of the non-elp encoding transcripts from the microbiome.
-
-rhizobiales and bac- teroidetes had the highest percentage transcripts encoding elps but the most frequent non-elp encod- ing transcripts were associated with other groups e.g.
+2012 and this could also explain the lower number of transcripts.After the 'decontamination' steps using the eukary- otic transcriptomes and after taxonomy assignment of transcripts we obtained 8665 transcripts with sequence similarity to prokaryotes for Scopalina sp.
 

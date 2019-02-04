@@ -1,0 +1,20 @@
+The protocol and software are focused on using LC-MS but can be adapted to map data from other mass spectrometry methods such as gas chromatography data from other types of mass spectrometry sequencing data or any other quantifiable data that are collected in a spatial manner 'Experimental design'.Overview of the procedureThe procedures described in this protocol can be used by any laboratory with a mass spectrometer and consist of the following134  VOL.13 NO.1  2018  nature protocolsstages  i obtaining a 3D model or a photo of the environ- ment of interest Step 27 ii surface sampling Steps 1-7 iii liquid extraction of molecules from the samples Steps 8-14 iv mass spectrometry analysis of the liquid extracts Steps 15-26data analysis to detect LC-MS molecular features correspond- ing to molecules the LC-MS feature is a set of MS signals of particular mz values and LC retention times RTs that can be associated with an ion and eventually annotate or identify the respective molecules Steps 28-73 and vi data visualization Steps 74-93.We describe how 3D models can be generated with a portable 3D scanner and also point the reader to online stock librar- ies of 3D models and free software for modifying 3D models.
+
+We have recently developed a method for 3D molec- ular cartography involving 3D surface scanning LC-MS for the detection of metabolites and environmental molecules and 3D visualization2.
+
+For the 3D mapping of the data it may also be pos- sible to use tools such as MATLAB but this is not designed for mass spectrometry information and will require a very experienced user to enable 3D visualization.Limitations and challengesAs molecular detection is performed using LC-MSMS 3D molec- ular cartography inherits LC-MSMS-specific challenges related to molecular identification quantitation separation and ion sup- pression2-4 in addition see the reviews devoted to this topic111.
+
+Instead of using the proposed portable 3D scanner to generate 3D models of a sampled object one can use a mobile device equipped with a photo camera and a mobile application for 3D scanning.
+
+Inspired by the enthusiasm of the scientific and nonscientific communities for the results as well as understandable and appealing images provided by the 3D molecular cartography we set out to develop an open-source software and provide step-by-step instructions for our approach.Here we present a protocol and software that we developed for 2D and 3D molecular cartography with a focus on small organic molecules metabolites and lipids.
+
+3D molecular cartography using LC-MS facilitated by Optimus and 'ili softwareIvan Protsyuk17 Alexey V Melnik27 Louis-Felix Nothias27 Luca Rappez1 Prasad Phapale3 Alexander A Aksenov2 Amina Bouslimani2 Sergey Ryazanov1 Pieter C Dorrestein24-6  Theodore Alexandrov1-31Structural and Computational Biology European Molecular Biology Laboratory Heidelberg Germany.
+
+We recently introduced 3D molecular cartography for mapping small organic molecules including metabolites lipids and environmental molecules found on various surfaces including the human body.
+
+Here we provide a protocol and open-source software for 3D molecular cartography.
+
+the protocol includes step-by-step procedures for sample collection and processing liquid chromatography-mass spectrometry lc-Ms-based metabolomics quality control Qc molecular identification using MsMs data processing and visualization with 3D models of the sampled environment.
+
+Correlating metabolite and microbial maps in 3D allowed us to discover microbial metabolites spatially associ- ated with the microbial niches on the human body and to reveal that organisms such as Propionibacteriumhydrolyze and oxidize triacyl glycerides2.
+

@@ -1,30 +1,20 @@
-a 2016 survey found that there were only 37 antibiotic candidates in clinical development compared to 500 candidates for oncology 2. furthermore innovation in antibacterial drug development has declined no novel class of antibiotics attacking a new bacterial target has entered the market in 45 years for the treatment of gram-negative infections 2. the number of patents filed for new candidate antibacterial drugs dropped 34.8 from 2007 to 2012 3. given the low rates of antibacterial discovery and development over the last few decades many observers believe that alternative approaches to treating or preventing infection will be needed.
+A 2016 survey found that there were only 37 antibiotic candidates in clinical development compared to 500 candidates for oncology 2.
 
-the early clinical data for many of these approaches appear strong with patients significantly reducing their rates of recrudescent c. difficile infections 9. however a recent failure of a microbiome-based product in clinical development has cast some doubts on previous assumptions of clinical efficacy 10.manufacturing and producing microbiome-based therapies present significant challenges.
+Technical challenges remain in addition to bioengineering the antisense technology itself the systemsTse et al.Page 8will need to be paired with effective delivery systems capable of targeting the bacterial strains of interest eg phage each of which brings its own challenges.CONCLUSIONSNontraditional antimicrobial therapeutics represent a reservoir of novel approaches for the treatment and prevention of bacterial infections and for slowing the development of antimicrobial resistance.
 
-2017 august 01 653 495-500. doi10.1093cidcix320.challenges and opportunities of nontraditional approaches to treating bacterial infectionsbrian n. tse1 amesh a. adalja23 christopher houchens1 joseph larsen1 thomas v. inglesby2 and richard hatchett41division of chemical biological radiological and nuclear cbrn medical countermeasures biomedical advanced research and development authority barda office of the assistant secretary for preparedness and response aspr us department of health and human services us dhhs washington district of columbia 2center for health security johns hopkins bloomberg school of public health baltimore maryland 3division of infectious disease university of pittsburgh school of medicine pennsylvania 4barda aspr us dhhs washington district of columbiaabstractdue to increasing rates of antimicrobial-resistant infections and the current inadequacy of the antibiotic pipeline there is increasing interest in nontraditional approaches to antibacterial therapies.
+Based upon the observed clinical efficacy of fecal microbiota transplantation several microbiome-based approaches to prevent or treat C. difficile-based bacterial infections are now under development.
 
-unclear regulatory pathways potential for adverse events due to modulation of host immune systems and a lack of preclinical animal and clinical data to validate their utility have hampered their clinical development.
+For example phage can be engineered to carry both the cas9 gene and a programmable RNA guide enabling the selective killing of specific bacterial strains 23 24.Beyond RNGs other antisense technologies have antibacterial potential through the silencing of bacterial gene expression.
 
-significant work will be needed to fully characterize these risks.microbiome-based therapiesthere are increasing data indicating that the human microbiome is critical to the maintenance of health and prevention of disease 4 5. based upon the observed clinical efficacy of fecal microbiota transplantation several microbiome-based approaches to prevent or treat c. difficile-based bacterial infections are now under development.
+However a recent failure of a microbiome-based product in clinical development has cast some doubts on previous assumptions of clinical efficacy 10.Manufacturing and producing microbiome-based therapies present significant challenges.
 
-facilitating antibacterial drug development for patients with unmet need and developing antibacterial drugs that target a single species.
+Unclear regulatory pathways potential for adverse events due to modulation of host immune systems and a lack of preclinical animal and clinical data to validate their utility have hampered their clinical development.
 
-they include approaches such as monoclonal antibodies virulence disruptors immunomodulators phage therapies microbiome-based therapies antibiotic potentiators and antisense approaches.
+Furthermore innovation in antibacterial drug development has declined no novel class of antibiotics attacking a new bacterial target has entered the market in 45 years for the treatment of gram-negative infections 2.
 
-and because these therapies do not kill the pathogenic microorganism they may need to be combined with traditional antibiotics as adjunctive therapies.antibiotic potentiatorsone of the newest classes of nontraditional antibacterial approaches is antibiotic potentiators.
+When these peptides are combined with conventional antibiotics the synergistic effect lowers the concentration of the antibiotic needed to eradicate certain bacterial strains of interest 20-22.However challenges remain to antibiotic potentiation.
 
-these approaches include monoclonal antibodies virulence disruptors immunomodulators phage therapies microbiome-based therapies antibiotic potentiators and antisense approaches.
+Facilitating antibacterial drug development for patients with unmet need and developing antibacterial drugs that target a single species.
 
-their development will require significant alterations in thinking about how clinical trials are conducted for narrow-spectrum agents how diagnostics are deployed operationalized and reimbursed and how in vitro and in vivo assays for activity efficacy are designed and qualified.
-
-antibiotics currently in clinical development.
-
-all authors have submitted the icmje form for disclosure of potential conflicts of interest.conflicts that the editors consider relevant to the content of the manuscript have been disclosed.tse et al.page 2rising rates of antimicrobial resistance represent one of the most significant public health threats of our time and create an urgent need to develop new antibiotics 1. unfortunately the antibiotic development pipeline is limited in terms of its depth and diversity.
-
-simpkin v. mossialos e. targeting innovation in antibiotic drug discovery and development the need for a one health-one europe-one world framework.
-
-in july 2016 the us food and drug administration fda convened a public meeting to explore the feasibility and regulatory pathway for developing narrow-spectrum antibacterial therapies for unmet medical needs 6. while no definitive path forward emerged from that meeting we are hopeful that fda will utilize all flexibilities at its disposal to establish viable pathways for the development and regulatory approval of these emerging technologies.furthermore many of these technologies will be developed as adjunctive therapies to be used in combination with traditional antibiotics.
-
-for example the combination of phenylbutyrate and vitamin d3 has been shown to induce the innate immune system's production of antimicrobial peptides amps thereby supporting a shorter treatment regimen for tuberculosis 11 12. in a more direct approach it is also possible to develop synthetic peptides based on amps that have both immunomodulatory and antibacterial potential as demonstrated by an engineered version of the amp clavanin a 13.despite these advantages few immunomodulators for use against infections have advanced to clinical-stage development.
+The program is currently in phase 3 clinical development.Tse et al.Page 6VIRULENCE DISRUPTORSStrategies that seek to disrupt bacterial virulence factors are also being pursued.
 
