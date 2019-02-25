@@ -1,0 +1,20 @@
+Considering that the root- associated fungal community might be a subset of the rhizosphere community the composition of root-associated fungal community is likely the result of active or passive selection of particular rhizosphere fungal taxa by the host plant.
+
+Furthermore we demonstrate that this intraspecific variation drives changes in the root microbiome induced by the interactive effect of host genotype and N envi- ronment G x N. While the controlled plant growing conditions minimised the effects of variable edaphic fac- tors and plant interspecific competition our results clearly demonstrate that differences in genotype performance in response to N form are associated with shifts in root- associated fungi and the rhizosphere bacterial community.
+
+4 Non-metric multidimensional scaling NMDS plots based onBray-Curtis dissimilarity for a root-associated fungal b ECM root fungal c saprotrophic fungal and d bacterial composition.
+
+revealed a significant negative relationship with organic N r4  -0.85p  0.02 and a trend for the inorganic N supply r4 0.75p 0.08 while the relationship between the ratio of fungal guilds and total biomass did not differ between tree genotypes.Table 3 Multiple linear regression model of the effect of tree biomass in response to N form on the ectomycorrhizal-to-saprotrophic fungal ratio in the root-associated fungal communitybSEt valuepTree biomass-0.300.079 -3.81 0.005L-arginine19.42 5.523.52 0.007Tree biomassL-arginine -0.230.08 -2.92 0.019Adjusted R20.77F13.24b estimates the standardised regression coefficients for the explanatory variables N form L-arginine NH4NO3 and tree biomassFig.
+
+The lack of correlation between distance matri- ces for root-associated and rhizosphere fungal communities Mantel test rM  0.01 p  0.05 suggests composition ofroot and rhizosphere fungal communities is determined by different factors.Rhizosphere Bacterial Community Responses to Nitrogen Form and Tree GenotypeRichness of the rhizosphere bacterial community was not affected by an interaction between N form and genotype F18  0.186 p  0.677 Fig.
+
+Specifi- cally 1 diversity and composition of rhizosphere bacterial and root-associated fungal communities differed between genotypes that had distinct responses to N form 2 shifts in the relative abundance of individual taxa were driven by the main effects of N form or host genotype and 3 the root microbiome of the P. radiata genotype with the most diver- gent growth responses to organic and inorganic N was most sensitive to differences in N form.
+
+In contrast saprotrophs were more abundant in genotype 31 with inor- ganic N supply than in the organic N supply F14  27.5p  0.006 but there was no difference for genotype 48.ECMsaprotrophs was significantly affected by N form F18  6.02 p  0.039 and not impacted by an inter- action between N form and tree genotype F181.22 p0.300.
+
+Main genotype effect was insignificant for both communitiesthis relationship was assessed for the genotypes individu- ally a similar trend was observed for genotype 31 r4 -0.75 p  0.08 but not for genotype 48 r4  0.38 p  0.44.
+
+Within the root-associated fungal community we studied the contribution of ectomycorrhizal and saprotrophic fun- gal communities to plant growth and development given the fact they are well-known fungal groups which pos- sess functional traits intimately related to N nutrition of pines.
+
+This is further supported by the negative correlation between root fungal richness and plant biomass for genotype 31.
+

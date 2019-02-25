@@ -1,20 +1,20 @@
-Comparison of the bacterial com- munities associated with roots colonized by the other four fungi following N addition however revealed that neither the difference between M. bicolor and M. variabilis nor the difference between P. fallax and P. sphaerosporum was sta- tistically significant data not shown.The addition of N had no statistically significant effect on the composition of bacterial communities associated withroots colonized by P. fallax however there was a highly significant ANOSIM P 5 0.0004 effect of N addition on the composition of bacterial communities associated with roots colonized by P. sphaerosporum Fig.
-
 Distribution of ectomycorrhizal roots collected from O E and B microcosms with or without N additions and used for fungal and bacterial microbiome analyses is described in Supporting Information Table S4.DNA extraction and PCR amplificationDNA extraction and bacterial PCR amplification were per- formed according to the methods described by Marupakula et al.
 
+Comparison of the bacterial com- munities associated with roots colonized by the other four fungi following N addition however revealed that neither the difference between M. bicolor and M. variabilis nor the difference between P. fallax and P. sphaerosporum was sta- tistically significant data not shown.The addition of N had no statistically significant effect on the composition of bacterial communities associated withroots colonized by P. fallax however there was a highly significant ANOSIM P 5 0.0004 effect of N addition on the composition of bacterial communities associated with roots colonized by P. sphaerosporum Fig.
+
 In the absence of N addition 76 2533 of bacterial genera showed significant variation in abundance with respect to the dominant ectomycorrhizal fungus colonizing the roots whereas the effect of different fungi on bacterial abundance was only significant in 27 933 of the bacterial genera following N addition Fig.
-
-2006.The abundance of Burkholderia Bradyrhizobium Gran- ulicella Steroidobacter and Acidobacter Gp1 associated with roots colonized by P. sphaerosporum increased signif- icantly in response to N. These variations in bacterial abundance and community composition may be due to direct effects of the N or to indirect quantitative andor qualitative effects of N on the production of different carbon compounds produced by different mycorrhizal fungi Ahonen-Jonnarth et al.
-
-In the O horizon bacterial diversity was increased by N addition but there was no statistically significant effect of N on the diversity associ- ated with roots in the E horizon Table 1.Bacterial microbiomes of ectomycorrhizal roots growing in O E and B horizon soilsPinus sylvestris roots colonized by different ectomycorrhi- zal fungi in the O E and B horizon soils harboured statistically distinct ANOSIM P 5 0.0001 bacterial com- munities irrespective of N addition Supporting Information Fig.
-
-3A.ANOSIM analysis revealed that the bacterial communities were statistically distinct from each other both in the pres- ence P 5 0.0389 and absence P 5 0.0001 of N addition although the statistical separation was much stronger in the absence of added N. Bonferroni-corrected pairwise comparisons NPMANOVA of the bacterial com- munities associated with root tips colonized by the different ectomycorrhizal fungi Table 2 suggest that the community composition was distinct in all cases in the absence of added N except for bacteria associated with roots colo- nized by M. bicolor which were not statistically distinct from those associated with roots colonized by S. variegatusP.
-
-Ectomycorrhizal fungi are known to differ in their responses to anthropogenic N deposition and the relationship between their sensitivity to N and functional traits has been discussed by Lilleskov et al.
 
 The ancient origin of mycorrhizal fungi over 450 million years ago early during the evolution of terrestrial plants is likely to have had a strong influence on bacterial niche development leading to both antagonistic and mutualistic strategies de Boer et al.
 
 Ectomycorrhizal mycelia receive a supply of energy-rich photosynthetically derived carbo- hydrates and have a large surface area for bacterial colonization van Hees et al.
 
 2007 and the pres- ence and expression of bacterial nifH nitrogenase genes has been shown by Izumi et al.
+
+Type III secretion systems have also been suggested to be involved in some bacterial interactions with fungal hosts Warmink and van Elsas 2008 Cusano et al.
+
+However many other studies have failed to demonstrate any significant effect of the ectomycorrhizal fungi colonizing plant roots on the bacterial communities associated with them Izumi et al.
+
+These authors were able to show strongly significant effects of different ectomycorrhizal fungi on bacterial com- munities associated with root tips in the organic horizon but no roots growing in the mineral soil horizons were investigated.Previous studies of mycorrhiza-bacteria interactions in boreal forests have not explicitly considered different soil horizons in spite of the fact that boreal forest podzols are highly stratified and have both organic and mineral soil horizons with markedly different physicochemical charac- teristics LundstroEURm et al.
+
+2013 has led to the sequencing of the bacterial microbiomes of a number of commercially or scientifically important plant species including rice Edwards et al.
 

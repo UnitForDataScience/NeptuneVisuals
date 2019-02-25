@@ -1,20 +1,20 @@
-Altogether these data document an important post-transcriptional function for SLP-2 in the production of mitochondria-encoded polypeptides.The impaired synthesis of mitochondria-encoded polypeptides in the absence of SLP-2 correlates with decreased T cell activationTo determine whether the defect in mitochondrial translation occurring in activated SLP- 2-deficient T cells was functionally relevant we measured interleukin IL-2 production inIL-2 production is decreased in SLP-2 T-KO T cells following activation.
-
-Given our previous finding that overexpression of SLP-2 in human T cells increased mtDNA content   it was possi- ble that a lack of SLP-2 in mouse T cells would have a negative impact on mtDNAmaintenance.
-
 These data identify SLP-2 as a key regulator of mitochondrial translation during T cell activation a function that may extend to other tissues or cell-types.ResultsDe novo synthesis of mitochondria-encoded polypeptides is dependent on SLP-2 in activated T cellsTo investigate whether SLP-2 functions to directly or indirectly regulate mitochondrial transla- tion we measured de novo mitochondrial protein synthesis in resting or stimulated T cellsMitochondrial translation is impaired in SLP-2-deficient T cells upon stimulation.
+
+Altogether these data document an important post-transcriptional function for SLP-2 in the production of mitochondria-encoded polypeptides.The impaired synthesis of mitochondria-encoded polypeptides in the absence of SLP-2 correlates with decreased T cell activationTo determine whether the defect in mitochondrial translation occurring in activated SLP- 2-deficient T cells was functionally relevant we measured interleukin IL-2 production inIL-2 production is decreased in SLP-2 T-KO T cells following activation.
 
 This implies that SLP-2 is not by itself responsible for monosome assembly or the potential association of prohibitins with the mitoribosome.Finally we found that although T cells lacking SLP-2 were able to produce each mito- chondria-encoded polypeptide efficient mitochondrial translation was dependent on SLP-2 only following T cell activation.
 
-However upon stimulation SLP-2-deficient T cells failed to upregulate the translation of many mito- chondria-encoded polypeptides to the same extent as stimulated WT T cells with de novo COXI Cytb COXII COXIII and ATP6 protein levels being significantly lower than in acti- vated WT T cells.
+Given this regulatory role of SLP-2 in pro- cesses closely associated with the mitochondrial inner membrane we hypothesized that the function of SLP-2 would have an impact on mitochondrial translation.
 
-We have previously reported thatSLP-2 overexpression increased PGC-1a gene and protein expression in human T cells and that SLP-2 was upregulated prior to PGC-1a upregulation in control human peripheral blood mononuclear cells following stimulation .
+Given our previous finding that overexpression of SLP-2 in human T cells increased mtDNA content   it was possi- ble that a lack of SLP-2 in mouse T cells would have a negative impact on mtDNAmaintenance.
 
-To determine whether the disparity in mito- chondrial translation between activated WT and SLP-2 T-KO T cells was due to impaired mitochondrial biogenesis in SLP-2-deficient T cells we measured the gene and protein expres- sion of PGC-1a under resting conditions and upon T cell activation.
+To assess mitoribosome assembly in the absence of SLP-2 we separated mitochondrial lysates of resting or stimulated WT or SLP-2 T-KO T cells based on size by sucrose density sedimentation then collected and resolved 14 equal fractions bySDS-PAGE.
 
-However SLP-2 deficiency did not affect PGC-1a abundance at the gene or protein levels indicating that mitochondrial biogenesis was not a contributing factor to the defective mitochondrial translation observed in SLP-2-deficient T cells upon activation.Since there were no apparent defects in mtDNA stability or PGC-1a expression in resting or activated SLP-2-deficient T cells we next examined whether mitochondrial transcription was occurring normally under these conditions.
+Though the mechanism underlying this function of SLP-2 remains uncertain the data presented here nar- row the focus to a post-transcriptional role.Deletion of Slp-2 did not affect mitoribosome assembly although we found that SLP-2 migrated in sucrose-density gradients similarly to the large mitoribosomal subunit and to a lesser extent the assembled monosome.
 
-Stimulated SLP-2 T-KO T cells exhibited a similar lack of differences in mitoribo- some assembly as compared to WT T cells under the same conditions .
+Since SLP-2 forms specialized prohibitin- and cardiolipin-enriched microdomains in the mitochondrial inner membrane that are associated with the activities of certain respiratory complexes and the formation of respiratory chain supercomplexes it is likely that SLP-2 may regulate mitochondrial transla- tion by controlling the membrane composition at sites where translation occurs.
 
-Interestingly however though the absence of SLP-2 impaired mito- chondrial translation in activated T cells both mitoribosome assembly and the migration of PHB2 were unchanged relative to activated WT T cells.
+Stomatin-like protein SLP-2 is a mainly mitochondrial protein that forms cardiolipin- and prohibitin-enriched microdomains in the mitochondrial inner membrane that are important for the formation of respiratory supercomplexes and their function.
+
+Examination of mitochondrial ribosome assembly showed that SLP-2 migrated in sucrose-density gradients similarly to the large ribosomal subunit but that its deletion at the genetic level did not affect mitochondrial ribo- some assembly.
 

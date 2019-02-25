@@ -1,20 +1,20 @@
-DOI 10.1056NEJMoa1503093 PubMed 25891173Robert C Long GV Brady B Dutriaux C Maio M Mortier L Hassel JC Rutkowski P McNeil C Kalinka-Warzocha E Savage KJ Hernberg MM Lebbe C Charles J Mihalcioiu C Chiarion-Sileni V Mauch C Cognetti F Arance A Schmidt H Schadendorf D Gogas H Lundgren-Eriksson L Horak C Sharkey B Waxman IM Atkinson V Ascierto PA. Nivolumab in previously untreated melanoma without BRAF mutation.
-
-DOI 10.1200JCO.2016.70.3348 PubMed 28296584Chaput N Lepage P Coutzac C Soularue E Le Roux K Monot C Boselli L Routier E Cassard L Collins M Vaysse T Marthey L Eggermont A Asvatourian V Lanoy E Mateus C Robert C Carbonnel F. Baseline gut microbiota predicts clinical response and colitis in metastatic melanoma patients treated with ipilimumab.
-
-DOI 10.1126 science.1240527 PubMed 24264989Viaud S Saccheri F Mignot G Yamazaki T Daillere R Hannani D Enot DP Pfirschke C Engblom C Pittet MJ Schlitzer A Ginhoux F Apetoh L Chachaty E Woerther P-L Eberl G Berard M Ecobichon C Clermont D Bizet C Gaboriau-Routhiau V Cerf-Bensussan N Opolon P Yessaad N Vivier E Ryffel B Elson CO Dore J Kroemer G Lepage P Boneca IG Ghiringhelli F Zitvogel L. The intestinal microbiota modulates the anticancer immune effects of cyclophosphamide.
-
-doi 10.1126scitranslmed.aah3560Van Allen EM Miao D Schilling B Shukla SA Blank C Zimmer L Sucker A Hillen U Foppen MHG Goldinger SM Utikal J Hassel JC Weide B Kaehler KC Loquai C Mohr P Gutzmer R Dummer R Gabriel S Wu CJ Schadendorf D Garraway LA.
-
 Metagenomic studies revealed functional differences in gut bacteria in R including enrichment of anabolic pathways.Immune profiling suggested enhanced systemic and anti-tumor immunity in responding patients with a favorable gut microbiome as well as in germ-free mice receiving fecal transplants from responding patients.
 
 Based on these data we examined the diversity of the oral and gut microbiomes in eligible patients on anti-PD1 therapy and found that alpha diversity of the gut microbiome was significantly higher in R n30 compared to NR n13 using several indices p0.01 Fig.
 
 S16.Next we sought to gain insight into the mechanism through which the gut microbiome may influence response to anti-PD-1 therapy and first conducted functional genomic profiling of gut microbiome samples via metagenomic WGS sequencing n25 in R n14 vs NR n11.
 
+S16 and table S7.There is clear evidence in pre-clinical models that differential composition of the gut microbiome may influence therapeutic responses to anti-PD-1 therapy at the level of the tumor microenvironment 12 thus we next examined the relationship between the gut microbiota and systemic and anti-tumor immune responses in our cohort of patients on anti- PD-1 therapy.
+
 Pairwise comparisons using Spearman rank correlations were then performed between specific bacterial taxa enriched in the gut microbiome of R and NR and immune markers in the tumor microenvironment demonstrating a statistically significant positive correlation between the CD8 T cell infiltrate in the tumor and abundance of the FaecalibacteriumGopalakrishnan et al.Page 5genus the Ruminococcaceae family and the Clostridiales order in the gut and a non- significant but negative correlation with Bacteroidales Fig.
 
-To test this we first compared an enrichment of operational taxonomic units OTUs in R versus NR demonstrating that distinct sets of rare low abundance OTUs were associated with response to anti-PD-1 therapy with enrichment of Clostridiales in R and Bacteroidales in NR in the gut microbiome p0.01 Fig.
+Analysis of systemic immune responses via flow cytometry and cytokine assays revealed that patients with a high abundance of Clostridiales Ruminococcaceae or Faecalibacterium in the gut had higher levels of effector CD4 and CD8 T cells in the systemic circulation with a preserved cytokine response to anti-PD-1 therapy whereas patients with a higher abundance of Bacteroidales in the gut microbiome had higher levels of regulatory T cells Treg and myeloid derived suppressor cells MDSC in the systemic circulation with a blunted cytokine response Fig.
 
-DOI 10.1126 science.aad0095 PubMed 26359337McGranahan N Furness AJS Rosenthal R Ramskov S Lyngaa R Saini SK Jamal-Hanjani M Wilson GA Birkbak NJ Hiley CT Watkins TBK Shafi S Murugaesu N Mitter R Akarca AU Linares J Marafioti T Henry JY Van Allen EM Miao D Schilling B Schadendorf D Garraway LA Makarov V Rizvi NA Snyder A Hellmann MD Merghoub T Wolchok JD Shukla SA Wu CJ Peggs KS Chan TA Hadrup SR Quezada SA Swanton C. Clonal neoantigens elicit T cell immunoreactivity and sensitivity to immune checkpoint blockade.
+S24 and S25 suggesting a possible mechanism through which the gut microbiome may modulate anti-tumor immune responses 12 though this must be validated in a larger cohort.To investigate a causal link between a favorable gut microbiome and response to immune checkpoint blockade we performed Fecal Microbiome Transplantation FMT experiments in germ-free recipient mice Fig.
+
+2018 January 05 3596371 97-103. doi10.1126science.aan4236.Gut microbiome modulates response to anti-PD-1 immunotherapy in melanoma patientsA full list of authors and affiliations appears at the end of the article.Pre-clinical mouse models suggest that the gut microbiome modulates tumor response to checkpoint blockade immunotherapy however this has not been well-characterized in human cancer patients.
+
+Here we examined the oral and gut microbiome of melanoma patients undergoing anti-PD-1 immunotherapy n112.
+
+Significant differences were observed in the diversity and composition of the patient gut microbiome of responders R versus non-responders NR.
 

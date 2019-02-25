@@ -1,20 +1,20 @@
-Kyoto Encyclopedia of Genes and Genomes KEGG pathway and Gene Ontology GO analysis of the transcripts differentiallyBusch et al.Page 4regulated upon 2 weeks of WD demonstrated enrichment of genes involved in pathways and biological processes mainly related to immune responses and responses to external stimulus or stress Figure 1A including chemokine signaling pathway leukocyte transendothelial migration cytokine-cytokine receptor interaction Figure 1B and metabolic activity Figure 1C consistent with other high-fat-diet models 10 11.
-
-Indeed intraperitoneal injection with MAA-BSA but not BSA resulted in a robust secretion of CXCL1 and CXCL2 after 2 hours Figure 5A and recruitment of neutrophils and Ly-6Chi inflammatory monocytes into the peritoneal cavity of MAA-injected mice indicating that MDA epitopes have pro- inflammatory properties in vivo Figure 5B C.Protection from MDA epitopes results in decreased hepatic inflammationTo investigate whether endogenously generated MDA epitopes can cause hepatic inflammation in vivo we fed Ldlr-- mice WD for 1 week during which they received two intravenous injections of 200 mg of the anti-MDA IgM antibody LR04 or of an isotype control antibody or PBS on day 1 and 4 Figure 6A.
-
-In addition GO analysis of the significantly downregulated transcripts in livers after 2 weeks of WD revealed a strong enrichment of genes involved in the biological process oxidation reduction Figure 1C suggesting the activation of oxidative stress response pathways.Indeed a set of genes implicated in oxidative stress response was found to be deregulated upon WD in our global analysis Figure 1E.
-
 When comparing the intersection of differentially regulated genes between the groups we found that most genes differentially regulated in 2 week WD vs. ND comparisons were also different in 4 week WD vs. ND comparisons  400 Figure S2C first vertical bar.Collectively WD induces highly consistent and robust alterations of hepatic gene expression between biological replicates and time points.
-
-Many inflammatory genes regulated by WD primarily belonged to the protein families of chemokines and complement components indicating a predominant activation of innate immune responses in this model of diet-induced hepatic inflammation Figure 1D.Indeed also pattern-recognition receptors PRRs such as Tlr2 Tlr9 Clec12a and Nlrp3were upregulated as well as regulators and transcription factors of the NFkB pathway a prominent signal transduction mechanism of innate immunity Figure 1D.
-
-Even in absence of microbiota WD induced hyperlipidemia hepatic steatosis and inflammation in Ldlr-- mice Figure 2A B characterized by infiltration of neutrophils and macrophages Figure 2C.
-
-We found that a range of transcripts involved in inflammatory responses that were highly upregulated due to WD in our global analysis was also upregulated in GF Ldlr-- mice upon WD Figure 2D.
 
 Together we show that 2 weeks of WD are sufficient to induce global changes in hepatic gene expression which are still present and largely unchanged after 4 weeks of WD feeding with a strong enrichment for transcripts involved in innate immunity and oxidative stress response.Microbiota are not required for development of hepatic steatosis and inflammationTo test whether the presence of microbiota is a requirement for diet-induced hepatic inflammation in hypercholesterolemic mice we fed conventionally-raised CONV-R and germ-free GF Ldlr-- mice a WD for 2 weeks and analyzed their livers for the presence of inflammation.
 
-Compared to total liver cells isolated Kupffer cells exhibited an even more pronounced and robust increase in Cxcl1 expression and CXCL1 secretion in response to MDA epitopes Figure 4A Figure S4A.
+Thus feeding a WD to Ldlr-- mice induces hepatic ROS production and accumulation of MDA mainly presented on dying Kupffer cells.To identify the specific proteins carrying MDA epitopes and thereby mediating pro- inflammatory effects we performed immunopurification of homogenized liver samples from mice fed a WD for 4 weeks using LR04 and an isotype control antibody and analyzed the obtained protein fraction by mass spectrometry.
 
-Lipid levels in both plasma and liver were elevated in the mice fed a WD accompanied by hepatic leukocyte infiltrates Figure S1AB Suppl.Table 1 in line with our previous study 9.
+WD drives hepatic steatosis and inflammation in the absence of microbiota.A Plasma and B liver triglyceride and cholesterol levels in GF and CONV-R Ldlr-- miceon ND or WD for 2 weeks.
+
+PubMed 22326434Niemela O Parkkila S Juvonen RO Viitala K Gelboin HV Pasanen M. Cytochromes P450 2A6 2E1 and 3A and production of protein-aldehyde adducts in the liver of patients with alcoholic and non-alcoholic liver diseases.
+
+In addition GO analysis of the significantly downregulated transcripts in livers after 2 weeks of WD revealed a strong enrichment of genes involved in the biological process oxidation reduction Figure 1C suggesting the activation of oxidative stress response pathways.Indeed a set of genes implicated in oxidative stress response was found to be deregulated upon WD in our global analysis Figure 1E.
+
+We found that a range of transcripts involved in inflammatory responses that were highly upregulated due to WD in our global analysis was also upregulated in GF Ldlr-- mice upon WD Figure 2D.
+
+WD induces hepatic inflammation and oxidative stress in Ldlr-- mice.A-C Scatter plots of in silico functional analyses of differentially regulated genes in livers after 2 weeks of WD.
+
+WD results in increased oxidative stress and lipid peroxidation in the liver.A Representative images of sites of ROS production red detected by dihydroxyethidium staining in livers of Ldlr-- mice fed ND or 2 or 4 weeks of WD.
+
+To investigate factors and mechanisms contributing to diet-induced hepatic inflammation in an unbiased manner we fed Ldlr-- mice a ND or a WD for 2 or 4 weeks and performed transcriptomic profiling of liver tissue using RNA sequencing.
 

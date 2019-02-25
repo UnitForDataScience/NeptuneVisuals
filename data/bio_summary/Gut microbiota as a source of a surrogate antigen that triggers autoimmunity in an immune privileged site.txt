@@ -1,20 +1,20 @@
-Upon immunization with the IRBP peptide the antibiotic treated WT mice developed full blown disease indistinguishable in severity from non- treated WT mice immunized as controls.
-
 R161H mice were treated with Ampi- cillin N 13 Metronidazole N 15 Neomycin N 4 or Vancomycin N 14 and eyes were collected for histology between 11 and 14 weeks of age and compared to age-matched R161H mice untreated None N 13 or treated with a cocktail of all 4 antibiotics AMNV N 40.
 
 We also monocolonized germ-free R161H mice with our Turicibacter H121 to test if it can promote spontaneous uveitis but there was no significant enhancement of disease or of Th17 induction in the gut in the monocolonized R161H mice unpublished data.Finally we performed extensive bioinformatics analyses searching for sequences related to the IRBP160-180 peptide in the microbial protein database obtaining a number of sequences with partial homol- ogy with IRBP161-180.
 
-These mice develop spontaneous uveitis due to having a high number of autoreactive T cells that are specific for the retinal antigen IRBP.
-
-We examined various organs of these mice to look for activated T cells and found that large numbers of ret- ina-specific T cells were being activated in the lamina propria LP of the intestine even before disease became apparent in the eye.
-
-Notably depletion of the gut microbiota by broad-spectrum antibiotics treat- ment ampicillin metronidazole neomycin and van- comycin D AMNV or by rearing the mice in germ- free conditions resulted in attenuation of uveitis and in parallel in reduction of Th17 cells in the intestinal LP.
-
 All R161H mice develop spontaneous uveitis that starts soon after weaning and reaches its peak by 3 months of age.In the classical model of uveitis induced by immunization with IRBP161-180 in complete Freund's adjuvant CFA the adjuvant provides necessary innate signals via receptors for pathogen-associated molecular patterns that promote antigen presenting cell maturation which then present the IRBP161-180antigen to autoreactive T cells in the host in the con- text of danger signals that drive them to a patho- genic tissue destructive phenotype.Although in the spontaneous R161H uveitis model the IRBP-specific T cells were seen to signal through their autoreactive TCRs in the gut environment in a microbiota-dependent fashion this does not negate the possibility that innate adjuvant effects are needed together with the TCR signal to activate these cells for pathogenicity.
+
+Upon immunization with the IRBP peptide the antibiotic treated WT mice developed full blown disease indistinguishable in severity from non- treated WT mice immunized as controls.
 
 Since R161H mice are bred heterozygously we had WT littermates treated long-term with antibiotics at our disposal.
 
 Not surprisingly 16S rDNA sequencing meta analysis of the microbiota composi- tion in R161H mice treated or untreated with the anti- biotic cocktail revealed multiple groups of bacteria that were present at the phylum level.
 
 The meta-analy- sis of the microbiota composition in R161H mice treated or untreated with the antibiotic cocktail revealed differences in bacterial phyla.
+
+These data suggest a pronounced shift in community composition and structure following anti- biotic treatment.In an attempt to narrow down the gut bacterial spe- cies that could be responsible for promoting disease in R161H mice we treated them with each of four antibi- otics ampicillin metronidazole neomycin or vanco- mycin individually to eliminate a more limited spectrum of microorganisms.
+
+In this context it is also impor- tant to mention that R161H mice kept in other animal facilities at NIH elsewhere in the US and abroad all develop spontaneous uveitis.
+
+This emphasized that the development of spontaneous uveitis in R161H mice is not restricted to a unique gut flora composition or a single animal facility.Figure 1.
 

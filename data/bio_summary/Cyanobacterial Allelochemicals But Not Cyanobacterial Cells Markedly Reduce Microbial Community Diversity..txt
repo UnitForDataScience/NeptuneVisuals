@@ -1,20 +1,20 @@
-To clarify whether the portoamides were in fact present in the spent medium extract LC-HRESIMS was carried out and portoamides A B C and D were detected with a proportion of 121624 .Initial Community CompositionImmediately after exposure as expected the microbial community was comparable among all treatments with the obvious exception of the treatment in which PHO was inoculated at 1 104 cells mL-1 .
-
-For the portoamides A and B treatment preparation 0.5 mg of the previously obtained portoamides A and B mixture 2.71 respectively was transferred to a round-bottom flask using MeOH the solvent was then removed under reduced pressure.
-
 Because PHO allelochemicals affect diverse organisms in vitro it is pertinent to study the extent to which PHO allelochemicals can impact natural microbial communities.
 
 Moreover we observed that different Microcystis genotypes had distinct responses to exposure to PHO allelochemicals - supporting the notion that chemically mediated interactions are a driving force for intraspecific diversification in phytoplankton as observed for example for dinoflagellates  .Here we aimed to deepen our understanding on how microbial communities may be influenced by the presence of an allelopathic organism or its allelochemicals by exploiting the fingerprinting potential of massive parallel sequencing technology.
 
 One possibility is that because the release of allelochemicals is likely slower than the one-time addition for the allelochemical-exposed treatments degradation of allelochemicals by members of the microbial community e.g.
 
-This is the case of the portoamides A and B cyclic dodecapeptides that are likely produced by a hybrid polyketide synthasenon-ribosomal peptide synthetase pathway together with the apparently less potent undecapepetides portoamides C and D  .
-
-This suggests that the allelopathic effect of either the portoamides A and B alone or that of the spent medium components drives the community in the same direction which is not surprising given that portoamides are found in the spent medium extract .It is possible that our analysis missed rare taxa and that the observed decrease in evenness  and Supplementary Figure S2 also led to an underestimation of species richness.
-
-However due to the plankton net filtration step this may not entirely reflect the composition of the original community present in the urban pond.Exposure to PHO Allelochemicals Drastically Reduces DiversityComparison of the microbial community compositions after 6 and 16 days of exposure revealed that profound changes occurred in communities exposed to the organic extract from PHO spent medium and to the 1 ug mL-1 mixture of portoamides A and B - i.e.
-
-This unicyanobacterial culture has not been determined to be axenic but no contamination is visible in exponentially growing cultures by light microscopy under high magnification probably due to the antibiotic properties that have been attributed to the portoamides.Purification of Portoamides A and BTo obtain a mixture of portoamides A and B in the proportions found inside PHO cells we carried out a slightly modified version of a previously reported isolation  .
+To clarify whether the portoamides were in fact present in the spent medium extract LC-HRESIMS was carried out and portoamides A B C and D were detected with a proportion of 121624 .Initial Community CompositionImmediately after exposure as expected the microbial community was comparable among all treatments with the obvious exception of the treatment in which PHO was inoculated at 1 104 cells mL-1 .
 
 Because PHO is able to produce allelochemicals as early as the third day of growth    it is unlikely that no effects were observed due to an inability of the cyanobacterium to produce the allelochemicals during the 16-day period of test.
+
+LEGE 05292 produces allelochemicals including the cyclic depsipeptides portoamides that influence the growth of heterotrophic bacteria cyanobacteria and eukaryotic algae.
+
+LEGE 05292 is able to synthesize potent allelochemicals that severely impact different microorganisms its allelopathic effect is not pronounced when in contact with a complex microbial community.
+
+Still even early studies on allelopathy in lake microbial communities hinted at an important role for allelochemicals in shaping future community dynamics   .
+
+This is the case of the portoamides A and B cyclic dodecapeptides that are likely produced by a hybrid polyketide synthasenon-ribosomal peptide synthetase pathway together with the apparently less potent undecapepetides portoamides C and D  .
+
+With this in mind in a previous study we have exposedunder laboratory conditions a Microcystis-dominated microbial community from pond water to the allelochemicals exuded by an PHO culture  .
 

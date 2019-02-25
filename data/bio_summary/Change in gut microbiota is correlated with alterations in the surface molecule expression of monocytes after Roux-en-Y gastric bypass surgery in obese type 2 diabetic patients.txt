@@ -2,13 +2,7 @@ Although a correlation was observed between the change in gut microbiota and the
 
 Data were presented as Mean - SD and statistical significance was performed using the student's t-test.DiscussionA number of major novel findings in this study were as follows 1 RYGB significantly affected the phenotypes of monocytes in obese T2D with a decrease in the inflammatory subpopula- tions of monocytes 2 In parallel with the alter- ations in the phenotypes the biological func- tions as assessed by monocyte migration and proinflammatory cytokines of the monocytes subsets were also significantly declined after RYGB in the obese T2D patients 3 A significant change of gut microbiota after RYGB was detected mainly with an increase in Bifid- obacterium but a decrease in Escherichia 4 Spearman's rank correlation coefficient analy-sis revealed a significant correlation between the shift of gut microbiota and the variations in the frequencies of inflammatory monocyte sub- sets and cytokines.In agreement with a previous report our data showed that RGYB reduced the percentages of both CD14dimCD16 and CD14CD16 mono- cytes in T2D subjects 15 as well as the levels of TNF-a and IL-6 the cytokines associated with insulin resistance in CD14CD16 mono- cytes 16 17.
 
-Diabetes 2007 56 1761-1772.Qin J Li Y Cai Z Li S Zhu J Zhang F Liang S Zhang W Guan Y Shen D Peng Y Zhang D Jie Z Wu W Qin Y Xue W Li J Han L Lu D Wu P Dai Y Sun X Li Z Tang A Zhong S Li X Chen W Xu R Wang M Feng Q Gong M Yu J Zhang Y Zhang M Hansen T Sanchez G Raes J Fal- ony G Okuda S Almeida M LeChatelier E Re- nault P Pons N Batto JM Zhang Z Chen H Yang R Zheng W Li S Yang H Wang J Ehrlich SD Nielsen R Pedersen O Kristiansen K and Wang J.
-
-Int J Immunopathol Phar- macol 2015 28 374-383.Furet J P Kong LC Tap J Poitou C Basdevant A Bouillot JL Mariat D Corthier G Dore J Hen- egar C Rizkalla S and Clement K. Differential adaptation of human gut microbiota to bariat- ric surgery-induced weight loss links with met- abolic and low-grade inflammation markers.
-
 However the link between gut microbiota and circulating monocytes subsets in T2D patients has not been well studied.In the present study we investigated the hypothesis that an alteration in gut microbiota in obese T2D subjects could be responsible for the low- grade chronic inflammation via the activation of monocytes.
-
-Indian J Endocrinol Metab 2016 20 523-530.Kong LC Tap J Aron-Wisnewsky J Basdevant A Bouillot JL Zucker JD Dore J and Clement K. Gut microbiota after gastric bypass in human obesity increased richness and associations of bacterial genera with adipose tissue genes.
 
 Conclusions This study for the first time demonstrated a link between the changes in gut microbiota and alterations in both phenotypes and functions of monocytes after RYGB which may contribute significantly to the low-grade chronic inflammation in obese T2D patients.Keywords Gut microbiota type 2 diabetes monocytes subsets chronic inflammation cytokineIntroductionLow-grade chronic inflammation is character- ized by high levels of inflammatory markers such as interleukins cytokines and C-reactive protein and is considered one of the major traits in Type 2 diabetes T2D and obesity 1.
 
@@ -17,4 +11,10 @@ RYGB also resulted in a shift of gut microbiota in the obese T2D patients.
 A Monocytes were initially gated based on light forward and side scatter B Plots showing CD14 and CD16 expression on gated monocytes Percentages of C intermediate monocytes IM D classical monocytes CM and E non-classical monocytes NCM from patients before M0 and six months after RYGB M6 F Intracellular cytokines TNF-a and G IL-6 assessed by MFI in the three monocyte subsets from patients before and after RYGB.
 
 A The percentage of TLR4 positive cells and B TLR4 assessed by MFI on the three monocytes subsets from the patients before and after RYGB C The percentage of TLR2 positive cells and D TLR2 assessed by MFI on monocytes subsets from patients before and af- ter RYGB.
+
+Represent correlations between the varia- tion of bacteroidetes and the alteration of CD14dimCD16 NCM and CD14CD16 IM monocytes respectively from patients before M0 and six months after RYGB M6 C D. Represent correlations between the variation of Bifidobacterium and the changes of CCR2 and CX3CR1 MFI on CD14CD16 monocytes respectively from patients before M0 and six months after RYGB M6.
+
+In this study we aimed to investigate gut microbiota and the expression of monocyte surface molecules in obese T2D subjects who underwent Roux-en-Y gastric bypass RYGB surgery.
+
+We sought to compare the alterations in gut microbiota and the expression of CCR2 CX3CR1 TNF-a interleukin-6 IL-6 and TLR4 on monocytes sub- sets in obese T2D subjects following Roux-en-Y gastric bypass RYGB sur-gery.
 

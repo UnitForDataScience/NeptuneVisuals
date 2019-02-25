@@ -1,20 +1,16 @@
-.Rutherford K Parkhill J Crook J Horsnell T Rice P Rajandream M-ABarrell B.
-
-Int J Syst Evol Microbiol 51433- 446.
-
-Afr J Bio- technol 117711.
-
-.Pokusaeva K Kuisiene N Jasinskyte D Rutiene K Saleikiene J Chitavi- chius D. 2009.
-
-Cent Eur J Biol 4196 -203.
-
-J Mol Biol 215403- 410.
-
-.van Heel AJ de Jong A Montalban-Lopez M Kok J Kuipers OP.
-
-.Kawai Y Kemperman R Kok J Saito T. 2004.
-
 PROKARYOTESGenome Sequence of Geobacillus stearothermophilus DSM 458 an Antimicrobial-Producing Thermophilic Bacterium Isolated from a Sugar Beet Factorya Philip Kellehera ab bc R. Paul Rossab bc abSchool of Microbiology University College Cork Cork City Irelanda APC Microbiome Institute University College Cork Cork City Irelandb Teagasc Food Research Centre Moorepark Fermoy Co. Cork IrelandcABSTRACT This paper reports the full genome sequence of the antimicrobial-pro- ducing bacterium Geobacillus stearothermophilus DSM 458 isolated in a sugar beet fac- tory in Austria.
 
 Here we report the full genome sequence of Geobacillus stearothermophilus DSM 458 which was isolated from sugar beet juice obtained from extraction installations in Austria.
+
+In order to identify the genes responsible for the production of this antimicrobial substance we com- pleted full-genome sequencing of this bacterium for which the 16S rRNA sequence hadpreviously been determined GenBank accession number AY608931.Cells of G. stearothermophilus DSM 458 were grown to mid-log phase in brain heart infusion BHI broth and centrifuged at 5000 rpm for 20 min.
+
+Chromosomal DNA was isolated by commercial sequence provider GATC Biotech Ltd. Konstanz Germany.
+
+The Linocin M18-like bacteriocin was determined to have a 25 identity to the Linocin M18 protein sequence as determined by pairwise alignment using BLASTp .Combining the in silico analysis with in vitro experimentation should ultimately lead to characterization and greater understanding of the antimicrobial potentialnature of this strain.
+
+The full genome sequence of Geobacillus stearothermophilusDSM 458 has been deposited in GenBank under the accession number .ACKNOWLEDGMENTSK.E.
+
+Artemis sequence visualization and annotation.
+
+.Lowe TM Eddy SR. 1997. tRNAscan-SE a program for improved detec- tion of transfer RNA genes in genomic sequence.
 

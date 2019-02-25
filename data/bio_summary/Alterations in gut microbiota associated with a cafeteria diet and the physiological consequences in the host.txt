@@ -1,20 +1,20 @@
-Accepted Article Preview Published ahead of advance online publicationAlterations in gut microbiota associated with a cafeteria diet and the physiological consequences in the hostJ M del Bas M Guirro N Boque' A Cereto R Ras A Crescenti A Caimari N Canela L ArolaThis is a PDF file of an unedited peer-reviewed manuscript that has been accepted for publication.
-
-However to date no specific microbiome fingerprint for obesity has been identified 23.The clear effects of CAF on different components of MetS and the role of gut microbiota in obesity and its derived pathologies prompted us to hypothesize that CAF can alter the gut microbiome of healthy rats and that these changes may be associated with some physiological alterations related to MetS caused by this specific diet.
-
 Therefore the associations found between microbiota and tissues such as adipose liver ormuscle might reflect the cross talk between microbiota and the host metabolism mediated by different metabolites and hormones.Among the different plasma components analyzed both glycerol and leptin clearly showed the highest number of associations with cecum bacteria mainly Firmicutes Bacteroidetes and Proteobacteria.
 
-Also hepatic lipid accretion was associated with changes in microbiota highlighting the relevance of gut microbiota homeostasis in the adipose-liver axis.Conclusions Overall our results suggest that CAF feeding has a profound impact on the gut microbiome and in turn that these changes may be associated with important features of MetS.IntroductionThe incidence of metabolic syndrome MetS is growing among developed and developing societies due to the increasing prevalence of obesity among all population groups 12.
-
-A PLS-based methodology was used to reveal associations between gut microbiota characterized by 16S rDNA gene sequencing and biochemical nutritional and physiological parameters.Results CAF feeding resulted in obesity dyslipidemia insulin resistance and hepatic steatosis.
+However to date no specific microbiome fingerprint for obesity has been identified 23.The clear effects of CAF on different components of MetS and the role of gut microbiota in obesity and its derived pathologies prompted us to hypothesize that CAF can alter the gut microbiome of healthy rats and that these changes may be associated with some physiological alterations related to MetS caused by this specific diet.
 
 Fax 0034977300431.Grants sponsors and funding sourcesThe research described here received funding from ACC1O TECCT11-1-0012.Conflict of interestsThe authors declare no conflicts of interest.Running titleCafeteria diet and gut microbiotaAbstractObjective Gut microbiota have been described as key players in the pathophysiology of obesity and different components of metabolic syndrome MetS.
 
 Our objective was to assess the effects of CAF on gut microbiota and their associations with different components of MetS in Wistar rats.Methods Animals were fed a standard diet or CAF for 12 weeks.
 
-Codes for bacteria are described in table 2.Associations between physiological parameters and metagenome in rats fed STD and CAFSelection of associations with R2 over 0.7 revealed that together with Firmicutes only two more phyla presented negative associations while the rest were positively associated with white adipose tissues and negatively associated with muscle weight.
+Also hepatic lipid accretion was associated with changes in microbiota highlighting the relevance of gut microbiota homeostasis in the adipose-liver axis.Conclusions Overall our results suggest that CAF feeding has a profound impact on the gut microbiome and in turn that these changes may be associated with important features of MetS.IntroductionThe incidence of metabolic syndrome MetS is growing among developed and developing societies due to the increasing prevalence of obesity among all population groups 12.
 
-Thus both glucose and insulin showed positive associations with different phyla while glycerol was negatively associated with Firmicutes and mostly positively 4 out of 5 associated with Bacteroidetes.
+The gut microbiota and its relationship to diet and obesity new insights.
 
-Together with the IWAT the muscle was the most associated tissue with 18 associations supplementary figure 2 and figure 2.Concerning the plasma parameters those showing associations with phyla with a R2 over 0.7 were glucose 3 associations insulin 4 triglycerides 7 NEFA 7 and adiponectin 1.
+A PLS-based methodology was used to reveal associations between gut microbiota characterized by 16S rDNA gene sequencing and biochemical nutritional and physiological parameters.Results CAF feeding resulted in obesity dyslipidemia insulin resistance and hepatic steatosis.
+
+Cell Host Microbe 2011 10 336-347.Filippo C De Cavalieri D Paola M Di Ramazzotti M Poullet JB Massart S et al.Impact of diet in shaping gut microbiota revealed by a comparative study in children from Europe and rural Africa.
+
+Obesity Silver Spring 2010 18 190-5.Lecomte V Kaakoush NO Maloney CA Raipuria M Huinao KD Mitchell HM et al.Changes in gut microbiota in rats fed a high fat diet correlate with obesity-associated metabolic parameters.
+
+Together with the high number of associations found between gut bacteria and adiposity-related parameters such as adiposity index or the weight of different adipose depots our results agree with the accepted hypothesis that gut microbiota modulate in part adipose tissue physiology.
 

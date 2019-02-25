@@ -16,5 +16,5 @@ Survivorship analyses were performed for each genotype reef abrasion treatment a
 
 Dmbt1 expression was positively correlated with survival and mmp expression was negatively associated with survival in our gene expression analysis.
 
-Coral genotypes differed significantly in their mortality rates under bacterial challenge Fig.
+To nevertheless account for variation in mortality associated with abrasion we ran our Cox proportional hazards model with abrasion included as a data stratification variable.Based on the lack of difference between two Vibrio species we simplified our subsequent analyses by consid- ering only two bacteria-related factor levels where corals were either exposed to bacteria n 12 per genotype pooling V. owensii and V. diazotrophicus treatments or not n 6 per genotype.
 

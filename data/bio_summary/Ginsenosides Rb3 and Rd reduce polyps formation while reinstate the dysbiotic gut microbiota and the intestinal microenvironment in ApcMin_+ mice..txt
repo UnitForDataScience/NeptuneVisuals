@@ -8,13 +8,13 @@ Especially the abundances of species from genera Butyricimonas Campylobacter Dys
 
 Thus in this study two purified compounds gypenoside Rb3 and gypenoside Rd of Gp were investigated for the cancer protec- tive effects and the impact on GM in the ApcMin colorectal cancer mouse model.
 
-Contrary to Rb3 treatment we noticed that Rd treatment upregulated mRNA expression of M2 macrophage phenotypic markers such as arginase-1 MR Trem-2 and Ym-1 compared to control group Fig.
-
-Moreover using UniFrac distance analysis weighted and unweighted clear shifts in bacterial composition were observed in the Rb3 Rd treated groups compared to control group Fig.
-
 The unique species detected in the Rd-treated group constituted 1 of the total OTUs in Rd group.
 
-Overall Rd exerted stronger impact than Rb3 on the expression of oncogenic genes displayed in Fig.
+Shared species are represented as inter-connected strokes and unique species are shown as outward strokes - uniquely present to each group.
 
-Contrary to Rb3 Rd treatment markedly p  0.01 decreased the expression profiles of iNOS and CXCL10 Fig.
+Similarly in the Rd treated group Bacteroidetes is the most abundant phylum whereas Proteobacteria is the most diverse phylum with 25 unique species in term of unique species.DiscussionMore than 150 different types of saponins have been identified for anti-cancer properties.
+
+OPENReceived 26 May 2017Accepted 13 September 2017 Published xx xx xxxxGinsenosides Rb3 and Rd reduce polyps formation while reinstate the dysbiotic gut microbiota and the intestinal microenvironment in ApcMin miceGuoxin Huang1 Imran Khan1 Xiaoang Li1 Lei Chen3 Waikit Leong1 Leung Tsun Ho2 L. Wendy Hsiao1Studies showed that manipulation of gut microbiota GM composition through the treatment of prebiotics could be a novel preventive measure against colorectal cancer CRC development.
+
+In conclusion ginsenosides Rb3 and Rd exerted anti-cancer effects by holistically reinstating mucosal architecture improving mucosal immunity promoting beneficial bacteria and down-regulating cancer-cachexia associated bacteria.CRC is ranked second among all the cancer incidences worldwide.
 

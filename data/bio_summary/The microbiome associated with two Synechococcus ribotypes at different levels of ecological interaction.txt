@@ -1,3 +1,5 @@
+Abundances of the six most important OTUs in distinguishing bacterial communities associated to LL and MW101C3 MW in all treatments as determined by Random Forest analysis.strains.
+
 MW MW101C3 LL LL P Poterioochromonas sp.
 
 MW MW101C3 LL LL P Poterioochromonas sp.interspecific competition in co-cultures as demon- strated by their significant decrease in cell number after 4 d Table 1 Table S2 in the SupportingTABLE 3.
@@ -15,6 +17,4 @@ Thus a competitive advantage of the bacteria associated with LL over those assoc
 The different pigment composition of cells belonging to MW101C3 and LL generate specific patterns of autoflorescence red signals in the dot plots of channels FL4 67525 nm vs FL3 670 nm thus allowing for their identification discrimination and cell counting also when they were mixed together in the co-cul- tures Callieri et al.
 
 The presence of LL was the main factor shaping the beta-diversity of the bacte- rial community 41 while MW101C3 explained only 9 Table 3.
-
-We used two Synechococcus strains as preys strain MW101C3 composed by phycocyanin-rich PC cells and belonging to MW101C3 Group I size1.16 0.61 9 0.86 0.45 lm volume 0.84 lm3 and strain LL composed by phycoerythrin-rich PE cells and belonging to the Lake Albano Group A size 1.52 - 1.18 9 1.27 -0.13 lm volume 1.44 lm3 Crosbie et al.
 

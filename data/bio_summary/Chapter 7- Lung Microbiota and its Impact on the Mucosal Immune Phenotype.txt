@@ -1,8 +1,4 @@
-PubMed 23133377Qin J Li Y Cai Z Li S Zhu J Zhang F Liang S Zhang W Guan Y Shen D Peng Y Zhang D Jie Z Wu W Qin Y Xue W Li J Han L Lu D Wu P Dai Y Sun X Li Z Tang A Zhong S Li X Chen W Xu R Wang M Feng Q Gong M Yu J Zhang Y Zhang M Hansen T Sanchez G Raes J Falony G Okuda S Almeida M LeChatelier E Renault P Pons N Batto JM Zhang Z Chen H Yang R Zheng W Li S Yang H et al.
-
 Thus changes in the lung microbiome that may be related to a subject having a COPD exacerbation may be lost early on in the disease and the changes seen may be due to an antibiotic effect on the lung microbiome117.Pragman and colleagues addressed the lung microbiome of moderate and severe COPD subjects with relatively stable disease and compared them to healthy subjects.
-
-PubMed 23023125Forslund K Hildebrand F Nielsen T Falony G Le Chatelier E Sunagawa S Prifti E Vieira-Silva S Gudmundsdottir V Pedersen HK Arumugam M Kristiansen K Voigt AY Vestergaard H Hercog R Costea PI Kultima JR Li JH Jorgensen T Levenez F Dore J Nielsen HB Brunak S Raes J Hansen T Wang J Ehrlich SD Bork P Pedersen O.
 
 Some of the unique challenges studying the lower airway microbiome include the technical difficulty sampling the lower respiratory tract the extremely low bacterial burden in healthy lung leading to low signal to high noise ratio and the lack of animal models to study the lung microbiome31 32.
 
@@ -17,4 +13,8 @@ Therefore steroid-induced suppression of MAIT cells may be responsible for the i
 Most importantly host responses and medications deserve particular attention as these mechanisms remain largely unexplored in current literature in relation to their effects on the lung microbiome.The Lung Microbiome in Disease StatesMorris and colleagues studied the microbiome of healthy subjects and healthy smokers in a study of the lung microbiome 85.
 
 Although the study did detect organisms found more abundant in the lung than in the oral cavity including Haemophilus Enterobacteriaceae and Tropheryma whipplei differences in the lung microbiota between smokers and non-smokers were not found85.
+
+Other studies have also described differences in the lung microbiome of COPD28 65 116.However most COPD microbiome studies have focused on GOLD Stage IV COPD and samples collected from explanted lungs where other confounders such as use of inhaled steroids and frequent courses of antibiotics are commonly present and may confound the lung microbiome.
+
+One important finding of this last study was that there were several taxa that were positively and negatively associated with the host immune response including neutrophil infiltration eosinophil infiltration and B-cell infiltration28.Despite studies that have examined the lung microbiome in GOLD Stage IV COPD early COPD moderate COPD and active smokers remain difficult to study and represent a knowledge deficit in lung microbiome research.
 

@@ -1,20 +1,20 @@
-However despite recent progress the degree to which soil microbial com- munity characteristics control Arctic CH4 emissions remains alarmingly unclear.In the research presented here the relationship between the soil microbial community soil chemistry and PMP are investigated at two remote sites on the Alaska North Slope representing two distinct Arctic bioclimate subzones Raynolds et al.
+Arrows 5 environmental variables with significant correlations with NMDS projection AFormate p 5 0.0001R2 5 0.78 ACH4 p 5 0.002 R2 5 0.62ApH p 5 0.003 R2 5 0.60 BCarbon p5 0.002 R2 5 0.52 DpH p 5 0.002R2 5 0.63 DCH4 p 5 0.005 R2 5 0.56DFormate p 5 0.002 R2 5 0.66 n 5 15Carbon 5  carbon contentFormate 5 nmoles cm23 CH4 5 potential CH4 production nmoles h21 cm23.
 
-Furthermore b-diversity of Arctic soil microbes is related to soil pH Chu et al.
+Environmental Microbiology 2017 198 3398-3410doi10.11111462-2920.13854Microbial community structure and soil pH correspond to methane production in Arctic Alaska soilsRobert Wagner Donatella Zona Walter Oechel and David LipsonSan Diego State University Biology San Diego CA USA.SummaryWhile there is no doubt that biogenic methane pro- duction in the Arctic is an important aspect of global methane emissions the relative roles of microbial community characteristics and soil environmental conditions in controlling Arctic methane emissions remains uncertain.
 
-However reduction of Fe31 to Fe21 can increase soil pH thereby alleviating inhibition of methano- genesis associated with soil acidity Tang et al.
+S3J K and L. Species evenness was significantly correlated with PMP for the whole microbial community p 5 0.01 R2 5 0.55 the methanogens p 5 0.003R2 5 0.5 and the FeRB p 5 0.03 R2 5 0.3 though notfor the aerobic methanotrophs p 5 0.72 R2 5 0.18 Supporting Information Fig.
 
-This is in spite of the fact that the soil micro- bial community is predicted to be severely impacted by a warming climate Singh et al.
+S1H.Total percent abundances of microbial groupsOn average there was a higher percent abundance of methanogens p 5 0.02 and FeRB p 5 0.003 in Atqa- suk than Ivotuk though there was no significant difference in methanotrophs between sites p 5 0.1 Fig.
 
-2013 and there is a general shift in dominance in the methanogen community from Methano- bacteriacea to Methanosarcinacea with decreasing microbial a-diversity and increasing soil depth Frank-Fahle et al.
+The dominant estimated pressure change sampling occurs evenly across all incubations.Species a- and b-diversityThe microbial community in Atqasuk had a significantly higher Shannon p 5 0.001 and Simpson p 5 0.002 species diversity than in Ivotuk though rarefied species richness was not significantly different between sites p 5 0.08 Fig.
 
-This work builds on previous research done in Barrow Alaska representing the remain- ing Arctic bioclimate subzone on the Alaska North Slope and lays the groundwork for a more comprehensive under- standing of soil microbial CH4 cycling across the entire North Slope region Lipson et al.
+These results indicate that the effect of FeRB on methanogenesis in these soils is probably through a greater role of dominant rather than rare FeRB species and that species evenness of this group is an important characteristic.Taken together this study reveals relationships between patterns of microbial diversity microbial community struc- ture and methane production in Arctic soils and lends support for the notion that community diversity or func- tional groups each taken alone may be insufficient to adequately describe relationships between the biological community and ecosystem processes Hector et al.
 
-Additionally this work investigates soils from two remote sites that have only recently begun being studied using soil chamber methods Davidson et al.
+S2.Potential methane production and potential anaerobic respirationMean PMP in Atqasuk 1.54 nmoles-h21-cm23 was a little over double that in Ivotuk 0.72 nmoles-h21-cm23 p 5 0.007 and increased with depth at both sites though the depth relationship was only marginally significant in Atqa- suk p 5 0.06 Fig.
 
-Both sites are in the footprint of eddy-c ovariance towers that continuously measure CH4 flux net eco- system exchange NEE and a variety of additional soil and meteorological parameters Zona et al.
+Across both sites Geobacter increased with soil depth p 5 0.01 while a decrease was observed in Anaeromyxobacter p 5 0.03 and Shewanella p 5 0.002 Supporting Information Fig.
 
-Colour figure can be viewed at Microbial communityMicrobial diversity has been previously linked to soil pH Fierer and Jackson 2006 Chu et al.
+2C and D. PMP correlated pos- itively with both methanogen p 5 0.0001 R2 5 0.59and FeRB p 5 0.003 R2 5 0.52 percent abundances and negatively with methanotroph p 5 0.0003 R2 5 0.64 percent abundance Fig.
 
-which agrees with previous findings showing that soil acetate concentrations are unconnected to Arctic methane production Hines et al.
+4B D and F.Whole community Shannon diversity was a significant correlate of PMP p 5 0.014 while Simpson diversity p 5 0.05 and rarefied species richness p 5 0.04 were only marginally significant correlates Supporting Information Fig.
 

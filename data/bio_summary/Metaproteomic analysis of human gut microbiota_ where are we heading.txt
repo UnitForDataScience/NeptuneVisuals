@@ -1,20 +1,20 @@
 Alternatively a double filtering separation step has been shown useful to deplete human proteins for selective enrichment of microbial proteins which was demonstrated to enhance prote- ome coverage by facilitating the identification of low- abundance proteins .Next efficient protein extraction from the complex microbial samples is critical to allow accurate represen- tation of the intracellular protein content.
 
-201615242-50.Kolmeder CA Salojarvi J Ritari J de Been M Raes J Falony G et al.
-
-201528203-9.Gagniere J Raisch J Veziant J Barnich N Bonnet R Buc E et al.
-
-2011126.Zhang X Ning Z Mayne J Moore JI Li J Butcher J et al.
-
 Journal of Biomedical Science 2017 2436DOI 10.1186s12929-017-0342-zMetaproteomic analysis of human gut microbiota where are we headingPey Yee Lee Siok-Fong Chin Hui-min Neoh and Rahman JamalBackgroundThe human gastrointestinal GI tract is colonized by a highly diverse population of microbial community collect- ively known as the gut microbiota that play vital roles in maintaining human health .
 
 Hence other complementary approaches are needed to elucidate the functional capacity of human gut microbiota.Over the past decade metaproteomics which is de- fined as the large-scale profiling of the whole protein complement expressed by a complex microbial ecosys- tem has been applied to analyze human gut micro- biota.
 
-20093179-89.Kolmeder CA de Been M Nikkila J Ritamo I Matto J Valmu L et al.
-
-20127e49138.Presley LL Ye J Li X Leblanc J Zhang Z Ruegger PM et al.
-
 However it was observed that despite greater microbial protein identifications the centrifugation step caused considerable protein loss due to non-specific re- moval of microbial cells which led to bias in the analysis .
 
 Accumulating evidence indicates that imbalances in the microbial community or dysbiosis have potential adverse effects on human health whereby such alterations are implicated in the development of numerous diseases including metabolic disorders inflam- matory diseases and cancers .Given the importance of gut microbiota in human health and disease development it has been the subject of extensive investigations in recent years.
+
+Prior to MS analysis exten- sive fractionation using multidimensional LC separationsTable 1 Summary of metaproteomic studies of human gut microbiotaTable 1 Summary of metaproteomic studies of human gut microbiota Continued1-DE one-dimensional electrophoresis 2-D PAGE two-dimensional polyacrylamide gel electrophoresis 2-D LC two-dimensional liquid chromatography FTICR Fourier transform ion cyclotron resonance LC liquid chroma- tography LTQ linear trap quadrupole MALDI-TOF matrix-assisted laser desorptionionization time-of-flight NCBI National Center for Biotechnology Information SELDI-TOF surface-enhanced laser desorptionionization time-of-flight WCX weak cation exchangeGeLC-MSMS or 2D-LC-MSMS is particularly useful to reduce sample complexity and improve protein iden- tification.
+
+The pipeline enabled efficient identifi- cation and quantification of over 120000 peptides corre- sponding to 30000 protein groups from human and mouse gut microbial metaproteome.
+
+detected significant differences in the gut microbial diversity and protein profiles along with a strong increase in host acute phase proteins in the patients which reflect the ongoing inflammatory condi- tion The study also reported a set of host and mi- crobial proteins that might serve as candidate biomarkers for cystic fibrosis.In the trending research area of microbiota and pro- biotic no conclusive data is observed regarding probiotic intervention on the host and microbial functionalities.
+
+in which the use of different databases in gut microbial metaproteome data analysis has led to complementary identification of unique peptides More recently a data analysis pipeline coupling publicly accessible gene catalog databases with iterative database searching known as MetaPro-IQ was introduced by Zhang et al.
+
+This problem could be partly alleviated by ap- plying different fractionation and enrichment strategies such as capillary and microchip methods to reduce sample complexity and increase protein detection but at the expense of increased cost and analysis time.Beyond protein identification quantitative analysis is important to determine key microbial players that con- tribute to metabolic functions .
 

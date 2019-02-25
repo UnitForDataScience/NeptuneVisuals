@@ -1,20 +1,20 @@
-1 weighted UniFrac distance kernel denoted as Kw 2 unweighted UniFrac distance ker- nel denoted as Ku 3 variance adjusted weighted UniFrac distance kernel denoted as Kv 4 generalized UniFrac dis- tance kernel Kth with th  0 denoted as K0 5 generalized UniFrac distance kernel Kth with th  0.5 denoted as K0.5.
+For example when analyzing the association of host gene expression and microbiome profiles in 196 pre- pouch ileum PPI samples using KRV test see Section 3Q  trDT CT DT C  ijz2  0 which is closely relatedthe Gamma approximation gives a p-value of 6.5 x 10-5while the actual permutation p-value is 1.5 x 10-4 based onto the multi-trait variant set association test statisticPermutation P-Value CalculationThe distributions of GRV and KRV are generally unknown and permutations have been typically used to obtain their p-values Specifically their null distributions are obtained by randomly shuffling rows and columns of one kernel matrix simultaneously.
 
 So when the kernel matrix is directly available not computed from some dis- tance matrix we can substitute the centered kernel matrix as Gower matrix to calculate GRV in Section 3 we will see one such example.
 
-For example when analyzing the association of host gene expression and microbiome profiles in 196 pre- pouch ileum PPI samples using KRV test see Section 3Q  trDT CT DT C  ijz2  0 which is closely relatedthe Gamma approximation gives a p-value of 6.5 x 10-5while the actual permutation p-value is 1.5 x 10-4 based onto the multi-trait variant set association test statisticPermutation P-Value CalculationThe distributions of GRV and KRV are generally unknown and permutations have been typically used to obtain their p-values Specifically their null distributions are obtained by randomly shuffling rows and columns of one kernel matrix simultaneously.
+Specifically given two n x n distance matrices Dx and Dy computed from X and Y  respectively we compute the Gower matrices11x  - 2 HDx HGy  - 2 HDy HH  In - J nnwhere In is the n-th order identity matrix J n is a n n matrix of ones D2 and D2 are the element-wise matrix squares.
 
 In light of their simple structure as a correlation and the common practice of compar- ing different methods based on the computed p-values we recommend that small Gamma approximation p-values should always be verified by the actual permutation p-values.On KRV5Supplementary MaterialsWeb appendices tables and figures referenced in Section 3.2 and an R package implementing the proposed method are available with this article at the Biometrics website on Wiley Online Library.AcknowledgementsThis research was supported in part by NIH grant GM083345 and CA134848.
 
-presented a kernel RV coefficient KRV test to evaluate the overall association between host gene expression and microbiome composition and showed its competitive performance compared to existing meth- ods.
+Although the KRV test could control the type I error rate well at 1 and 5 levels we show that it could largely underestimate p-values at small significance levels leading to significantly inflated type I errors.
 
-In addition we analytically show that KRV can be written as a form of correlation coefficient which can dramatically expedite its computation and make permutation p-value calculation more efficient.Key words Gamma distribution Kurtosis Microbiome RV coefficient Skewness.Introduction proposed a kernel RV KRV coefficient to test the overall association between host gene expression and microbiome composition.
+We recommend that small KRV test p-values should always be accompanied and verified by the permutation p-value in practice.
 
-Both are essentially the correla- tions between two similarity matrices KRV uses kernel matrixK following the approach of Specifi- cally given the eigen decomposition G  Ut.
+Denote Z  DT C  zij which canbe treated as a matrix of score type statistics testing the association between two sets of working out-comes the n columns of C and D. We then havelevel.For small p-values the accuracy of approximation crit- ically depends on the tail of Gamma distribution.
 
-Let Kx and Ky be the transformed kernel matrices from Gx and Gy respectively.The KRV is then computed astrKxKyQk  trK K  trK K  matrix.
-
-GRVwhere Kx  HKxH and Ky  HKyH are the centered kernel matrices.
+In our numerical studies the Mantel test performs worse than the RV statistics see supplementary materials for results which are consistent with the simulation studies of When assessing the significance of RV-type statistics we need to be cautious when using the existing Gamma approx- imation based p-values.
 
 Here the kernel matrix is essentially the Gower matrix with a positive semi-definiteness correction.
+
+Permutation p-values denoted Perm are obtained based on 107 Monte Carlo permutations and can be treated as the gold standard.
 

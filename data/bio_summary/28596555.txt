@@ -1,20 +1,20 @@
+the production of active pediocin PA-1 against Listeria innocua DPC3572 was only achieved at low copy level LC3 increasing from 25 uM to 50 uM IPTG concentration.Taken together these results demonstrate the production of active bactofencin A and pediocin PA-1 directlyinto the extracellular medium by E. coli TunerTM DE3 with the low copy state being the most suitable condition for the expression of both bacteriocins.
+
 Received 6 March 2017Accepted 19 April 2017 Published xx xx xxxxOPENControlled functional expression of the bacteriocins pediocin PA-1 and bactofencin A in Escherichia coliBeatriz Mesa-Pereira12 Paula M. O'Connor12 Mary C. Rea12 Paul D. Cotter 12 Colin Hill23 R. Paul Ross123The bacteriocins bactofencin A class IId and pediocin PA-1 class IIa are encoded by operons with a similarly clustered gene organization including a structural peptide an immunity protein an ABC transporter and accessory bacteriocin transporter protein.
 
-the production of active pediocin PA-1 against Listeria innocua DPC3572 was only achieved at low copy level LC3 increasing from 25 uM to 50 uM IPTG concentration.Taken together these results demonstrate the production of active bactofencin A and pediocin PA-1 directlyinto the extracellular medium by E. coli TunerTM DE3 with the low copy state being the most suitable condition for the expression of both bacteriocins.
+Remarkably both secreted bacteriocins contained disulfide bonds overcoming one of the major limitations of disulfide bond production in E. coli.This is to our knowledge the first description of the production of bactofencin A in E. coli and the functional analysis of the genes involved in their heterologous production.
+
+innocua DPC3572 were used as the indicator strains for bactofencin A and pediocin PA-1 activityrespectively.that the expressed bactofencin A in the cell-free extracellular fraction is biologically active against the indicator Lactobacillus delbrueckii subsp.
+
+Induction with 100 uM IPTG led to an increase in the bactofencin A production reaching in 3 hours 50 of the bactofencin Aproduced by the natural producer Lb.
+
+In addition we identify the minimum gene cluster required for the expression of the respective bacteriocins in E. coli and open up new perspectives for the biotechnological production and modification of these and other bacteriocins.ResultsCloning of bactofencin A bfn and pediocin PA-1 ped gene clusters in E. coli.
 
 Although the amount of bactofencin A and pediocin PA-1 produced by E. coli was found to be 4 and 8-fold lower than the bacteriocin produced by an overnight culture of the natural producers it should be noted that this level of bacteriocin production in E. coli is reached in only 3 hours.
 
-The development of heterologous expression systems for bacteriocin production in different hosts such as E. coli LAB and yeasts offers several advantages over native systems including increased production levels control of bacteriocin gene expression and characterization of bacteriocin systems from genera or species where there are no genetic tools available-.
-
 Interestingly the production of active bacteriocin in the transformed E. coli TunerTM DE3 cells was not proportional to copy number implying that the bactofencin A antimicrobial activity decreased at the medium-copy state and it became undetectable in the pediocin PA-1 constructs.
 
-Bactofencin A and pediocin PA-1 production were tested under different expression conditions plasmid copy number and IPTG concentration in order to find the best condi- tion to induce bacteriocin production.
+MRS and BHI agar plates were refrigerated for two hours prior to incubation at 37 degC under anaerobic and aerobic conditions respectively for 24 hours.As positive controls of bactofencin A and pediocin PA-1 production the natural producers L. salivarius DPC6502 and P. acidilactici LMG2351 were grown in MRS broth at 37 degC under anaerobic conditions and 30 degC aerobic conditions for 16 h respectively.
 
-MALDI TOF MS analysis of pediocin PA-1 fractions from E. coli showed that in addition to the expected mass of 4625 Da corresponding to the pediocin PA-1 synthesized by the natural producer P. acidilactici a 4641 Da mass consistent with the oxidation of methionine was also detected Fig.
-
-Expression and purification of a fusion-typed pediocin PA-1 in Escherichia coli and recovery of biologically active pediocin PA-1.
-
-Even though the levels of heterologousproduction of bactofencin A and pediocin PA-1 in E. coli were lower than those observed in the natural producer its recovery from the supernatants may be faster easier and more cost effective.The results presented here suggest that this system could be useful for expressing new bacteriocin operons described in silico as well as their characterization at molecular level when there is no access to the original pro- ducer strains or the transformation efficiencies of natural producers is a severe impediment for gene analysis opening the door to the heterologous expression and harnessing of the potential of new bacteriocins in the future.MethodsBacterial strains plasmids and culture conditions.
-
-innocua DPC3572 were used as the indicator strains for bactofencin A and pediocin PA-1 activityrespectively.that the expressed bactofencin A in the cell-free extracellular fraction is biologically active against the indicator Lactobacillus delbrueckii subsp.
+The Pediocin PA-1 Accessory Protein Ensures Correct Disulfide Bond Formation in the Antimicrobial Peptide Pediocin PA-1.
 

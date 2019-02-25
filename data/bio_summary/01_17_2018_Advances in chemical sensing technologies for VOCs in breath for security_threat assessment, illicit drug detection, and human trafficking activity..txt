@@ -1,20 +1,20 @@
-B Mochalski P Wiesenhofer H Allers M Zimmermann S Guntner A T Pineau N J Agapiou A Mayhew C A and Ruzsanyi V 2017 Monitoring selected skin- and breath-borne volatile organic compounds emitted from the human body using gas chromatography ion mobility spectrometry GC-IMS submittedStatheropoulos M Agapiou A and Georgiadou A 2006 Analysis of expired air of fasting monks at Mount Athos J. Chromatogr.B Wongchoosuk C Lutz M and Kerdcharoen T 2009 Detection and classification of human body odor using an electronic nose Sensors Costanzo M T Boock J J Kemperman R H J Wei M S Beekman C R and Yost R A 2016 Portable FAIMS applications and future perspectives Int.
-
 Some VOCs are associated with exhaled breath where research is moving from individual breath testing volatilome to cell breath microbiome and most recently to crowd breath metabolites exposome.
-
-Wang C and Sahay P 2009 Breath analysis using laser spectroscopic techniques breath biomarkers spectral fingerprints and detection limits Sensors Natale C D Macagnano A Paolesse R Tarizzo E Mantini A and Amico A D 2000 Human skin odor analysis by means of an electronic nose Sens.
-
-Bean H D Pleil J D and Hill J E 2015 Editorial new analytical and statistical approaches for interpreting the relationships among environmental stressors and biomarkers Biomarkers Statheropoulos M Pallis G Mikedi K Giannoukos S Agapiou A Pappa A Cole A Vautz W and Thomas C L P 2014 A dynamic vapor generator that simulates transient odor emissions of victims entrapped in the voids of collapsed buildings Anal.
 
 Hound labs Inc. have also developed a miniature portable breath THC detection device with a patent-pending approach with low detection limits below 500 pg .Laboratory-based breath testing using bench top instrumentation such as liquid chromatography tan- dem mass spectrometry LC-MS-MS equipped with positive electrospray ionisation and selected reaction monitoring and gas chromatography GC coupled with MS have shown the capability of multiple detec- tion of drugs of abuse in exhaled breath -.
 
-Acta Amann A Poupart G Tesler S Ledochowski M Schmid A and Mechtcheriacov S 2004 Applications of breath gas analysis in medicine Int.
-
-Actuators B Righettoni M Tricoli A Gass S Schmid A Amann A and Pratsinis S E 2012 Breath acetone monitoring by portable SiWO3 gas sensors Anal.
-
 The complexity and richness of human volatilome components from exhaled breath skin emanations urine saliva human breast milk blood and feces has been reviewed  .This article outlines a the chemistry of human body odour with the principal focus being human detection and tracking in security applications b the breath detectable illegal activities associated with exposures to threat compounds e.g.
+
+Journal of Breath ResearchPAPERAdvances in chemical sensing technologies for VOCs in breath for securitythreat assessment illicit drug detection and human trafficking activityTo cite this article S Giannoukos et al 2018 J.
 
 12 027106View the for updates and enhancements.This content was downloaded from IP address 129.219.8.139 on 09042018 at 1902PAPER Advances in chemical sensing technologies for VOCs in breath forRECEIVED24 June 2017ACCEPTED FOR PUBLICATION25 October 2017PUBLISHED17 January 2018securitythreat assessment illicit drug detection and humantrafficking activityS Giannoukos A Agapiou and S Taylor1 University of Liverpool Department of Electrical Engineering and Electronics Liverpool L69 3GJ United Kingdom2 University of Cyprus Department of Chemistry PO Box 20357 1678 Nicosia Cyprus3 Q Technologies Ltd 100 Childwall Road Liverpool L15 6UX United KingdomE-mail and Keywords human chemical signatures chemical sensing technologies national securityAbstractOn-site chemical sensing of compounds associated with security and terrorist attacks is of worldwide interest.
 
-A characteristic applica- tion could be the usage of human breath as an advanced level molecular security key.Combining odour data with visual andor other data for transmission over the internet and re-creation elsewhere allows odour teleportation to locations elsewhere.
+On-site systems employed in exhaled breath analysis i.e.
+
+Categories of VOCs of interest include a VOCs in human breath associated with exposure to threat compounds and b VOCs characteristic of and associated with human body odour e.g.
+
+breath sweat.
+
+Finally the outlook for rapid and precise real-time field detection of threat traces in exhaled breath is revealed and discussed.IntroductionThe world community is witnessing a complex multi- level and rapidly evolving international security crisis.
+
+On-site drug-testing is also a significant challenge.Human exposome consists of characteristic chemical markers of the human body odour breath and skin which can be applied for non-invasive extraction of molecular information for medical diagnostics psy- chological criminal law enforcement and other applications .
 

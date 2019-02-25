@@ -1,0 +1,20 @@
+Novel technologies and computational developments that allow an in-depth dissection of T cell heterogeneity on the single-cell level such as time of flight mass cytometry CyTOF and single-cell transcriptomics are expected to unravel even more T cell specializations fates developmental programs and functional states that translate into precisely tailored immune responses .Together the diversification of human T helper cell subsets and the co-regulation of their migration properties exemplify the division of labour of human immune surveillance on the effector T cell level.
+
+In addition the mismatch of T cell phenotypes in peripheral tissues and blood suggests distinct T cell identities in the tissues that are sequestered from recirculation.Over the past several years the existence of a novel T cell popula-tion has been established the tissue-resident memory T cells TRM .
+
+Mini-ReviewHuman T cell immune surveillance Phenotypic functional and migratory heterogeneity for tailored immune responsesChristina E. Zielinskia Institute for Medical Microbiology Immunology and Hygiene Technical University of Munich Germanyb German Center for Infection Research DZIF Munich GermanyA R T I C L E I N F O KeywordsT cell Immunosurveillance Migration Chemokine receptor Tissue residencyA B S T R A C T The human immune system constantly provides a balance between pathogen clearance as well as tolerance for autoantigens and the commensal microbiota.
+
+This review highlights and discusses re- cent developments in human T cell immune surveillance with a particular focus on functional and migratory T cell heterogeneity and provides a critical framework for new conceptual ideas which could serve as a starting point in the quest for novel targeted therapies for chronic tissue restricted inflammatory diseases.Dissecting human immunity - challenge and chanceT cells have critical roles in the defence against a great variety of pathogens as well as in the tolerance of autoantigens and of the com- mensal microbiota.
+
+T cell receptor signal strength and duration costimulation and cytokines represent the classic signals for the instruction of divergent T cell dif- ferentiation .
+
+The identifi- cation of Th17 cells as a distinct T helper cell subset has shaken this dichotomous view on the division of labour between T cells and has heralded the discovery of a so far unappreciated heterogeneity of T cell identities and fates.
+
+GM-CSF producing T cells have been detected in highly increased frequencies in the cere- brospinal fluid of patients with multiple sclerosis which suggests an association of this T cell functionality with multiple sclerosis and pos- sibly also with other autoimmune diseases .Likewise several other T cell differentiation programs have been demonstrated which translate into specialized functions and migratory preferences i.e.
+
+The absence of T cell recirculation via the blood as assessed byparabiosis experiments in which the blood circulation of two mice is conjoined is compelling evidence for T cell maintenance in the tissues .
+
+It remains unresolved how tissue residency is transcriptionally regulated in the CD4 T cell compartment as Hobit and Blimp-1 are not expressed in the T helper cell lineage except for in rare cases that go along with cytotoxic functionalities .Naive T cells recirculate between blood and secondary lymphoid tissues which they enter through high endothelial venules .
+
+Whether this constitutes a peripheral maintenance mechanism of the naive T cell pool after thymic involution or serves another physiological purpose remains to be elucidated.Implications for human health and diseaseThe last few years have witnessed a very successful translation of growing insights into the heterogeneity of human T cell subsets into therapeutic strategies.
+

@@ -1,16 +1,16 @@
-DCs pulsed with CBirTox for as little as five minutes were able to induce significant proliferation in CBir1 TCR Tg CD4 T cells demonstrating that CBirTox efficiently presents antigen and is capable of activating antigen-specific CD4 T cells in vitro .DCs and B cells pulsed with CBirTox selectively induce CD4Foxp3 CBir1 Tg T cell in vitroFoxp3 Tregs are important mediators of the immune response and function to control Teff cell responses as well as provide help to IgA B cells in the intestine .
-
 Furthermore CBirTox treated DCs induce considerable IgA production in vitro from a subset of naive B cells via a mechanism that is in part dependent on RA signaling.Collectively these data suggest that CBirTox modulates mTOR signaling in APCs to induce CD4Foxp3 Tregs directed at microbiota antigen thereby establishing it as a novel inducer of the Treg-IgA pathway and tolerance.ResultsThe CTB-A2-CBir1 fusion protein CBirTox activates CBir1 Tg T cells in vitroThe antigenic portion of the fusion protein CBirTox which replaces the toxic A1 subunit of CT is composed of a 261 base pair fragment of the carboxy terminus of CBir1 flagellin that expresses the dominant CBir1 TCR transgenic epitope and is genetically fused to the A2 linker of CT and expressed recombinantly with CTB .
 
-In order to deter- mine if CBirTox was capable of inducing Foxp3 expression in naive T cells CBirTox pulsed APCs were incubated with CD4CD25- CBir1 Tg T cells in vitro.
-
-Functionally CBirTox-generated Tregs decreased IFN-g and IL-2 production in subsequent cultures of freshly isolated CBir1 Tg CD4CD25- T effector cells demonstrating suppressive function in vitro .Splenic CD19 B cells were pulsed with 2 mgml of LPS-free CBirTox for 4 hours washed and then cultured with splenic CD4CD25- T cells from B6.10Bit.Foxp3gfp.CBir1 mice.CD4Foxp3gfp Tregs were flow sorted after four days and RNA was extracted and compared to RNA from naive CD4CD25- T cells from B6.10Bit.Foxp3gfp.CBir1 mice using next-genera- tion sequencing.
+DCs pulsed with CBirTox for as little as five minutes were able to induce significant proliferation in CBir1 TCR Tg CD4 T cells demonstrating that CBirTox efficiently presents antigen and is capable of activating antigen-specific CD4 T cells in vitro .DCs and B cells pulsed with CBirTox selectively induce CD4Foxp3 CBir1 Tg T cell in vitroFoxp3 Tregs are important mediators of the immune response and function to control Teff cell responses as well as provide help to IgA B cells in the intestine .
 
 Addition of rapamycin caused a slight though not significant increase in Foxp3 induc- tion in CBir1 peptide cultures but elicited no change in CBirTox treated cultures .Since rapamycin did not augment Foxp3 expression in CBirTox treated cultures we inferred that CBirTox may downregulate mTOR signaling.
 
 C CD11c DCs were pulsed with 1 mgml of CBirTox for 1 hour 30 minutes or 5 minutes and then co-cultured 110 with CFSE labeled CD4 CBir1 TCR Tg T cells for 3 days in vitro before flow cytometry analysis in order to verify biological activity of CBirTox.
 
 In order to test the biological activity and antigen presentation properties of CBirTox splenic CD11c DCs were pulsed with 1 mgml CBirTox corresponding to 0.025 mg of CBir1 flagellin for multiple time points and subsequently cultured with caroboxyfluorescein diacetate succinimidyl ester CFSE labeled CBir1 TCR Tg CD4 T cells for three days in vitro before analysis with flow cytometry.
+
+In order to deter- mine if CBirTox was capable of inducing Foxp3 expression in naive T cells CBirTox pulsed APCs were incubated with CD4CD25- CBir1 Tg T cells in vitro.
+
+CBirTox selectively induced Foxp3 expression as both B cells and DCs pulsed with CBirTox did not promote production of IFN-g after stimulation with PMA and ionomycin in contrast to APCs pulsed with CBir1 peptide .
 
 In order to determinethe phenotype of Tregs induced after CBirTox treatment RNA was collected from sorted CD4Foxp3gfp Tregs generated via co-culture of LPS-free CBirTox pulsed splenic CD19 B cells and CD4CD25- CBir1 Tg T cells using B6.10BiTFoxp3gfpCBir1Tg mice .
 

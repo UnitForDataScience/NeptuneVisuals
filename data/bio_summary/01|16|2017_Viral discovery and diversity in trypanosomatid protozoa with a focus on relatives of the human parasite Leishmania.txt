@@ -4,17 +4,17 @@ Leptomo- nas pyrrhocoris was a hotbed for viral discovery carrying a virus Lepto
 
 Most RNA segments were sequenced and the sequences of those encoding viral RNA- dependent RNA polymerase RDRP were used to assign affil- iations to the known viral families.RNA Viruses of Leptomonas pyrrhocoris.
 
-On the reconstructed phylogenetic tree all these viruses from metatranscriptomes intermingled with the trypanosomatid LBVs with high statistical support Fig.
-
-Consistent with the latter a significant albeit imperfect level of phylogenetic congruency can be seen between trypanosomatid LBVs and nu- clear genome phylogenies Fig.
-
 However the possibility of multiple acquisitions of LBVs by trypanosomatids from insects or other trypanosomatids cannot be formally excluded given that trypanosomatid LBV1s bear hallmarks of infectious bunyaviruses and reports of mixed trypanosomatid infections 75-78.
 
-Last for several trypanosomatid LBV1s we visu- alized the presence of enveloped virions bearing surface proteins Fig.
-
-These fas- cinating questions will be addressed in future studies.Phylogenetic relationships of relevant trypanosomatid taxa per- mit a broader view of the origins and evolution of their viruses Fig.
-
-Secondly nar- naviruses LBV1s and LRV12s appear to be distributed over the trypanosomatid phylogenetic tree in a patchy manner with many seemingly virus-free lineages interspersed with ones bearing diverse viruses Fig.
-
 It is thus possible that RNAi plays only a weak role in the evolutionary distribution of trypanosomatid viruses.Several studies have established a role for trypanosomatid viruses in the vertebrate host 6 27-29 40 98.
+
+A deep-branching clade of trypanosomatid narnavi- ruses was found notable as Leptomonas seymouri bearing Narna- like virus 1 LepseyNLV1 have been reported in cultures recovered from patients with visceral leishmaniasis.
+
+Indeed a number of telomere-associated transposable element TATE and spliced leader-associated SLAC retroelements have been identified in the Leptomonas pyrrhocoris genome 53 including oneAkb 6543.532.52BDRNA-T1 RNA-T2Tombus-like virusesLeppyrTLV1 RNA-T1 3472 bp Stem loop5'ORF1ORF2 RDRP3'850 aa -1 frameshift 515 aaLeppyrTLV1 RNA-T2 2055 bp5'3'455 aaORF1CVKAHFLPKSG...guuaaagcgcauuuuuuaccaagagcggat-SAFFTKER ...RDRP ORF -1 frameKey for hostsPlantsCrustaceansMyriapodsMolluscsInsects except beesBeesTicksNematodesVertebrates Leech OomycetesFungi Trypanosomatids  UnknownMetatranscriptomic sequences containing trypanosomatid readsFig.
+
+Genome Announc 4e00715-e00716.Lye LF Akopyants NS Dobson DE Beverley SM 2016 A Narnavirus-like element from the trypanosomatid protozoan parasite Leptomonas seymouri.
+
+2012 Cosmopolitan distribution of a trypanosomatid Leptomonas pyrrhocoris.
+
+Cell 47517-525.Gunzl A 2010 The pre-mRNA splicing machinery of trypanosomes Complex or simplified Eukaryot Cell 91159-1170.Mandelboim M Estrano CL Tschudi C Ullu E Michaeli S 2002 On the role of exon and intron sequences in trans-splicing utilization and cap 4 modification of the trypanosomatid Leptomonas collosoma SL RNA.
 

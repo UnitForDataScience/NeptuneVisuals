@@ -1,8 +1,12 @@
-This model has a modest but functionally relevantthreefold elevation in systemic type I IFNs compared with controlsand allows evaluation of the role of augmented type I IFN signaling before influenza infection.To confirm that the lungs of Irgm1-- mice expressed elevated type I IFNs we used multiple assays.
-
 A Scatter plots displaying fold change in lumines- cence for 100 mM metabolite screen inPolyICthe presence of 5 mgml polyIC treatment left or 10 Uml type I IFN treatment right.Fold increase compared with con- trol in luminescence for DAT at the indi- cated doses in the presence of speci- fied doses of polyIC or type I IFN n  three to four experiments.Stool and serum DAT levels measuredPolyICPolyIC PolyICby mass spectroscopy in mice treated with either vehicle mock or 2 weeks of antibiotics n  9 to 15 mice per group from three experiments.Serum IFN activity as measured by the IFN bioassay of polyIC- and DAT-treated mice after 2 weeks of antibiotics n  7 or 8 mice per group from two experiments.
 
 Irgm1 -- mice have elevated type I IFN in the lungs and are resistant to influenza.Bioassay for type I IFN activity see Methods from lung homogenates of littermate control and Irgm1 -- mice n  19 to 21 mice per group from five experiments.
+
+This model has a modest but functionally relevantthreefold elevation in systemic type I IFNs compared with controlsand allows evaluation of the role of augmented type I IFN signaling before influenza infection.To confirm that the lungs of Irgm1-- mice expressed elevated type I IFNs we used multiple assays.
+
+Consistent with this idea Irgm1--Rag1-- mice which maintain elevated levels of type I IFN showed protection compared with Rag1-- mice fig.
+
+B Relative mRNA expression of Oas2 and Mx2 by qRT-PCR from control and Irgm1 -- lung homogenates n 7 to 14 mice per group from three to four experiments.C Kaplan-Meier survival analysis of infected control Irgm1-- Ifnar-- and Irgm1--Ifnar-- micen  18 to 40 mice per group from three to five experiments.
 
 Each metabolite was screened for its in- duction of type I IFN signaling with polyinosinic- polycytidylic acid polyIC a structural analog of double-stranded RNA or amplification of type I IFN pathways with IFN-b treatment fig.
 
@@ -13,8 +17,4 @@ These stud- ies primarily use loss of function of type I IFN signaling or admini
 DAT enhances type I IFN in macrophages via type I IFN amplifi- cation.
 
 4 F and G.Our initial validation of DAT did not discern between augmentation of type I IFN induction or type I IFN amplification.
-
-Consistent with this idea Irgm1--Rag1-- mice which maintain elevated levels of type I IFN showed protection compared with Rag1-- mice fig.
-
-B Relative mRNA expression of Oas2 and Mx2 by qRT-PCR from control and Irgm1 -- lung homogenates n 7 to 14 mice per group from three to four experiments.C Kaplan-Meier survival analysis of infected control Irgm1-- Ifnar-- and Irgm1--Ifnar-- micen  18 to 40 mice per group from three to five experiments.
 

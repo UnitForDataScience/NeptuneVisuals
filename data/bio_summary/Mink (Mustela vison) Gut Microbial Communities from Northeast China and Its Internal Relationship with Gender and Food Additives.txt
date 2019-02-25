@@ -1,9 +1,3 @@
-Asian Aust J Anim 201438Caporaso JG Kuczynski J Stombaugh J Bittinger K Bushman FD Costello EK Fierer N Pena AG Goodrich JK Gordon JI Huttley GA Kelley ST Knights D Koenig JE Ley RE Lozu- pone CA McDonald D Muegge BD Pirrung M Reeder J Sevinsky JR Turnbaugh PJ Walters WA Widmann J Yat- sunenko T Zaneveld J Knight R 2010 QIIME allows analysis of high-throughput community sequencing data.
-
-Nature 457480-484. doiYatsunenko T Rey FE Manary MJ Trehan I Dominguez-Bello MG Contreras M Magris M Hidalgo G Baldassano RN Ano- khin AP Heath AC Warner B Reeder J Kuczynski J Caporaso JG Lozupone CA Lauber C Clemente JC Knights D Knight R Gordon JI 2012 Human gut microbiome viewed across age and geography.
-
-J Nutr 1282676S-2677SHaro C Rangel-Zu'niga OA Alcala'-D'iaz JF Go'mez-Delgado F Pe'rez-Mart'inez P Delgado-Lista J Quintana-Navarro GM Landa BB Navas-Corte's JA Tena-Sempere M Clemente JC Lo'pez-Miranda J Pe'rez-Jime'nez F Camargo A 2016 Intestinal microbiota is influenced by gender and body mass index.
-
 Comprehensive analyses of gut microbiota can contribute to understanding microbial interactions and biodiversity which is important in implementing strategies to improve gut health.Cultivation method was used as the major approach for microbial characterization for a long time.
 
 Despite the extensive use of NGS in unraveling the function andimportance of the human gut microbiome there is cur- rently a lack of detail in biodiversity assessment using NGS to understand the topological differences and development of gut microbiota in mink intestines .
@@ -17,4 +11,10 @@ Furthermore they imply that a resident and stable micro- biota is hosted in the 
 3 The distribution of the gut microbiomes composite for minkTable 1 List of the five bacterial phyla and their population abun- dance percentage along with OUT number and core OUT numberPhylumPopulation abundance OUT No.Core OUT No.were performed by rarefaction curves Shannon diversity assessment and Good's coverage.
 
 The major bacterial genus was Escherichia-Shigella while the low amount of Lactobacillus present was likely due to the relatively few dairy products included during feeding .The richness and structure of the gut microbiota were associated with gender and diet .
+
+In this study we characterized the gut microbiota communities in mink identifying the effects of bacterial taxa on weight gain in mink that were grouped by gender and by diet.
+
+Acta Vet Scand 3395-103Fan Z Liu H Wang F Li Z Li G 2016 Determination of bacterial community composition in the distal gut of mink Mustela vison by high-throughput sequencing.
+
+These results indicated that the majority of bacterial phylotypes present in mink fecal samples were captured during sequencing  ensuring broad coverage of the data for further analyses.Taxonomic Profiling of Bacterial CommunitiesThe phylogenetic classification of bacterial sequences from mink fecal samples is summarized in Fig.
 

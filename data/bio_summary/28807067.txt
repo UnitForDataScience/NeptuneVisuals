@@ -2,12 +2,6 @@ Accessed March 2 2017.Iterative Fecal Microbiota Transplantations for Eradicatin
 
 Bacterial identification of CPE colonies was controlled using matrix-assisted laser desorptionionization time-of-flight massTo the Editor--Carbapenemase-producing Enterobacteriaceae CPE have emerged as a major source of bacterial resistance and their dissemination is a serious public health threat.1 Furthermore those bacteria can disseminate outside the hospital setting.
 
-J Clin Nurs 2011213-4 424-436.Trubiano J Phillips R. Antimicrobial stewardship's new weapon A review of antibiotic allergy and pathways to 'de-labeling.
-
-J Infect Dis 2017215S28-S36.Palacios-Baena ZR Oteo J Conejo C et al.
-
-Is faecal microbiota transplantation an option to eradicate highly drug-resistant enteric bacteria carriage J Hosp Infect 201795 433-437.Bilinski J Grzesiowski P Sorensen N et al.
-
 One hypothesis is that a protocol including iterative FMT separated by a several-day latency could increase the effectiveness of theprocedure.Our objective was to evaluate the impact of iterative FMT for the clearance of CPE carriage in our mouse model of digestive colonization.
 
 Stool samples were seeded on agar media ChromID CARBA bioMerieux France after serial dilutions for CPE screening.
@@ -17,4 +11,8 @@ A large study including 34 hospitals in Spain demonstrated that a significant pr
 10evaluate the impact of the composition of the transplanted fecal material on the FMT outcome in terms of CPE eradication.
 
 Overall by consider- ing the placebo effect corresponding to the natural clearance of CPE digestive colonization of mice the iterative FMT series demonstrated a moderate impact on the decolonization kinetics P  .22.
+
+Moreover the uncertainty of the repeatability of this murine experiment in humans must be considered.The iterative FMT allowed the eradication of CPE in 50 of colonized mice which can be considered as a moderately convincing result.
+
+However iterative FMT is conceivable for patients hospitalized in long-term-care facilities or for the residents in nursing homes in contexts of uncontrolled cross-transmission during certain outbreaks of CPE carriage and if the FMT are administered orally.
 

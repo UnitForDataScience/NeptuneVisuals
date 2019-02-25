@@ -2,6 +2,12 @@ a-c IL-17A levels in lung tissue 12 h post-inoculation with K. pneumoniae a and 
 
 f g. Furthermore intranasal administration of recombinant IL-17A to antibiotic-treated mice rescued defects in respiratory GM-CSF production during infection with either K. pneumoniae or S. pneumoniae Fig.
 
+To do this we orally inoculated either consortium into antibiotic- treated mice prior to infection with S. pneumoniae and K. pneumoniae.
+
+To test the role of GM-CSF mice were administered a GM-CSF- neutralizing antibody concomitant with S. pneumoniae or K. pneumoniae infection.
+
+Studies using germ-free mice and mice given multiple broad-spectrum antibiotics have demonstrated that the microbiota as a whole protects against respiratory and systemic infection.
+
 Antibiotic-treated mice given rGM-CSF showed significantly greater survival during bacterial lung infection compared to antibiotic-treated mice given vehicle control Fig.
 
 Statistical comparisons were by Mann-Whitney a b d-g or by one-way ANOVA with post-hoc Sidak's or Dunnett's test c h and j P  0.05 P  0.01 P  0.001 and NS not significantof non-antibiotic-treated mice into antibiotic-treated mice res- cued this defect in IL-17A production during lung infection Fig.
@@ -10,11 +16,5 @@ In mice treated with isotype control antibody there were still significant defec
 
 l. Antibiotic-treated mice also suffered increased mortality during infection confirming the importance of the microbiota for protection against respiratory infection Fig.
 
-In wild-type mice there was significantly higher GM-CSF production in response to K. pneumoniae LPS in mice administered the High Nod2-stimulating bacteria in the gastrointestinal tract compared to those given Low Nod2- stimulating bacteria given via the same route Fig.
-
-To do this we orally inoculated either consortium into antibiotic- treated mice prior to infection with S. pneumoniae and K. pneumoniae.
-
-To test the role of GM-CSF mice were administered a GM-CSF- neutralizing antibody concomitant with S. pneumoniae or K. pneumoniae infection.
-
-In line with these similar defects in bacterial clearance there was reduced intra- pulmonary production of GM-CSF chemokine C-X-C motif ligand 2 CXCL2 and CXCL1 critical signaling molecules in the innate response to respiratory infection in antibiotic-treated mice infected with S. pneumoniae Fig.
+To examine the role of IL-17A in regulating lung GM- CSF production during infection mice were treated with an IL- 17A-neutralizing antibody 3 days prior to and concomitant with lung infection.
 

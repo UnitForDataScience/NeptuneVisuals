@@ -1,20 +1,20 @@
-.Wagner DM Klunk J Harbeck M Devault A Waglechner N Sahl JW Enk J Birdsell DN Kuch M Lumibao C Poinar D Pearson T Fourment M Golding B Riehm JM Earn DJD DeWitte S Rouillard JM Grupe G Wiechmann I Bliska JB Keim PS Scholz HC Holmes EC Poinar H. 2014.
+The genomes of strains sugar 2 and sugar 4 were identical to each other and differed from that of strain sugar 3 by a single nucleotide polymorphism SNP at position 883096 C  T. In a direct alignment of the three sugar draft genomes with that of the Ames ancestorMarchApril 2017 Volume 8 Issue 2 e00440-17r 1there were 5474730 high-quality nucleotide positions available for genotypic compar- ison.The initial molecular subtyping by canonical SNP typing   assigned the strains to the A.Br.Ames clade.
 
-.Read TD Peterson SN Friedlander AM Thomason B Salzberg SL White O Thwaite JE Redmond C Cline R Hazen A Nierman WC Watkins KL Wolf AM Plaut RD Berry KJ Weidman JF Hance IR Jiang L Mahamoud Y Benton JL Radune D Khouri HM Pop M Peterson JD Nelson WC Haft DH Durkin AS Daugherty SC Madpu R DeBoy RT Gwinn M Brinkac LM Dodson RJ Beanan MJ Kolonay JF Wu M Rilstone J Helgason E Okstad OA Holtzapple EK Gill SR Eisen JA Fouts DE Tettelin H Nelson KE Paulsen IT Baillie LW Tourasse N Friedlander AM Koehler TM et al.
-
-Phylo- geographic analysis was consistent with the derived Ames clade's historical importation into North America perhaps from China where many close relatives are found .In particular the Ames ancestor and its identical sister genome FTD1004 are very high quality closed and finished sequences that represent two stocks derived directly from the original 1981 Texas B. anthracis isolate.
-
-Together they represent the oldest known laboratory stocks of the original Ames strain established within months of the bovine anthrax case.Directly diverging from these five genomes  is that of strain Porton Down Ames with 65 unique SNPs.
-
-This high identity and phylogenetic topology argue that the Porton Down Ames strain and Porton Down sugar contaminants were derived from the Ames material sent in 1982.In the context of spatial separation of analytical and research facilities to avoid contamination there were no dedicated analytical facilities at the Porton Down defense laboratories in 1998.
+All strains sugar 2 sugar 3 and sugar 4 were successfully grown on sheep blood agar out of deep-frozen cryobank stocks in a biosafety level 3 BSL3 area.
 
 sugar 2 sugar 3 and sugar 4.SUPPLEMENTAL MATERIALSupplemental material for this article may be found at .TABLE S1 XLSX file 0.1 MB.ACKNOWLEDGMENTThis work was supported by a grant from the U.S. Department of Homeland Security Science and Technology Directorate.REFERENCESArias A Watson SJ Asogun D Tobin EA Lu J Phan MVT Jah U Wadoum REG Meredith L Thorne L Caddy S Tarawalie A Langat P Dudas G Faria NR Dellicour S Kamara A Kargbo B Kamara BO Gevao S Cooper D Newport M Horby P Dunning J Sahr F Brooks T Simpson AJH Grop- pelli E Liu G Mulakken N Rhodes K Akpablie J Yoti Z Lamunu M Vitto E Otim P Owilli C Boateng I Okoror L Omomoh E Oyakhilome J Omiunu R Yemisis I Adomeh D Ehikhiametalor S Akhilomen P Aire C Kurth A Cook N Baumann J et al.
 
-.Okinaka RT Henrie M Hill KK Lowery KS Van Ert M Pearson T Schupp J Kenefic L Beaudry J Hofstadler SA Jackson PJ Keim P. 2008.
+Redmondc H. Meyera bBundeswehr Institute of Microbiology Munich Germanya The Pathogen and Microbiome Institute Northern Arizona University Flagstaff Arizona USAb Defence Science and Technology Laboratory Porton Down United KingdomcABSTRACT In 1998 it was claimed that an 80-year-old glass tube intentionally filled with Bacillus anthracis and embedded in a sugar lump as a WWI biological weapon still contained viable spores.
 
-.Read TD Salzberg SL Pop M Shumway M Umayam L Jiang L Holt- zapple E Busch JD Smith KL Schupp JM Solomon D Keim P Fraser CM.
+The German spy Baron Otto von Rosen was imprisoned in 1917 in Karasjok Norway near the current Finnish border and accused of smuggling a biological weapon consisting of anthrax-filled glass capillaries hidden in sugar lumps with the intent to sabotage the transportation lines that relied upon reindeer during the Great War .
 
-.McKenna A Hanna M Banks E Sivachenko A Cibulskis K Kernytsky A Garimella K Altshuler D Gabriel S Daly M DePristo MA.
+The confiscated sugar lumps were stored for 8 decades at the police museum in Trondheim Norway before rediscovery and sent to the Defence Evaluation Research Agency Chemical and Biological Defence in Porton Down United Kingdom in 1997 .
 
-The genomes of strains sugar 2 and sugar 4 were identical to each other and differed from that of strain sugar 3 by a single nucleotide polymorphism SNP at position 883096 C  T. In a direct alignment of the three sugar draft genomes with that of the Ames ancestorMarchApril 2017 Volume 8 Issue 2 e00440-17r 1there were 5474730 high-quality nucleotide positions available for genotypic compar- ison.The initial molecular subtyping by canonical SNP typing   assigned the strains to the A.Br.Ames clade.
+and attributed to mutations that occurred during a plasmid-curing regimen  .We can only speculate about the direct linkage between the original Texas 1981 Ames strains and the Porton Down sugar isolates of 1998.
+
+This high identity and phylogenetic topology argue that the Porton Down Ames strain and Porton Down sugar contaminants were derived from the Ames material sent in 1982.In the context of spatial separation of analytical and research facilities to avoid contamination there were no dedicated analytical facilities at the Porton Down defense laboratories in 1998.
+
+Only this ultradiscriminatory power has unraveled the mystery of the historical B. anthracis sugar lumps revealing that the spores really did not survive for this extended period.
+
+Strain sugar 1 failed to grow.
 

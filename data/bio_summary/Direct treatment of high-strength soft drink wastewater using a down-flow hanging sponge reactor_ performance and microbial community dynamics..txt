@@ -1,20 +1,20 @@
-.In 1997 a post-treatment process or so-called down- flow hanging sponge DHS reactor was developed Agrawal et al.
-
-In comparison to traditional activated sludge process the operation and maintenance cost for DHS is relatively low Tandukar et al.
-
-In general the combination of anaerobic processes and DHS reactors was reported to achieve at least 90 of organic removal in most studies El-Kamah et al.
-
-So far only limited studies have attempted to use DHS reactor as a standalone process to treat low-strength 1000 mgL COD wastewater Fleifle et al.
+2 Spearman correlation between a TOC removal efficiency and effluent pH in reactor A b TOC removal efficiency and effluent pH in reactor B c effluent pH and VFA concentration d TOC removal efficiency and VFA concentration and e TOC removal efficiency and effluent SS concentrationsTable 2Summary of the concentration of nitrogen species from day 400 to day 700NH3 mg-NLNO - mg-NLNO - mg-NL Influent40.8 - 8.10.0 - 0.00.9 - 0.4Reactor A6.4 - 5.40.0 - 0.00.8 - 0.2Reactor B7.5 - 6.60.0 - 0.00.8 - 0.2Reactor 20.3 - 0.60.0 - 0.12.2 - 1.5TOC ammonia and retained biomass concentrations shared similar trend along the reactors in both reactors.
 
 Compared with a previous anaerobic process used to treat the same synthetic wastewater the DHS reactor in this study achieved a compatible organic removal efficiency  98 at the same HRT 1.5 days Narihiro et al.
 
-In addition the DHS used here did not require extra efforts that were needed in operating an anaerobic process such as main- taining anaerobic conditions and mesophilic operation tem- perature providing recirculation and treating off-gas Bal and Dhagat  Bandara et al.
+The effluent nitro- gen species removal efficiency in reactors in A and B did not correlate with the TOC removal efficiency.Vertical profiles of reactor performance in the DHS reactorsChanges of TOC nitrogen species and TSSVSS along the reactor height were only determined on day 666 when reactor A became stable and reactor B just suffered from sloughing Fig.
 
-In this study theamount of retained biomass recorded was 46.8 g-VSSL- sponge at an OLR of 4.9 kg CODm3 per day and these two numbers were higher than reported 12.8 g-VSSL-sponge and2.9 CODm3 per day respectively in a DHS reactor that treats agricultural drainage wastewater Fleifle et al.
+Despite the efficiency fluctuation in reactors A and B reactor 2 could consistently achieve an overall efficien- cy at 98 from day 300 and guaranteed the TOC of the efflu- ent from reactor 2 consistently at 20 mgL.Correlations between TOC removal efficiency and related parametersSpearman correlation test was used to correlate key operation parameters with the TOC removal efficiency.
 
-In ad- dition it was observed that the retained biomass in a DHS reactor treating gray wastewater increased when the OLR was increased Tawfik et al.
+In general the combination of anaerobic processes and DHS reactors was reported to achieve at least 90 of organic removal in most studies El-Kamah et al.
 
-This study and other stud- ies all suggested that the upper part of the DHS reactor con- tains higher retained biomass than the lower part due to higher OLR Fleifle et al.
+By contrast anaerobic processes have been widely applied to treat high-organic-strength wastewater primarily because of their characteristics including low oper- ation cost high organic loading tolerance low excessive sludge yield and reasonable treatment efficiency around 80 COD removal Kalyuzhnyi et al.
 
-Onodera et al.. Once the retained biomass was developed DHS reac- tor could effectively treat high-strength wastewater.The feasibility of DHS in treating the high-strength waste- water here was also related to the organic composition of the wastewater i.e.
+As higher SS was correlated with lower organic removal efficiency losing these populations due to sloughing events from the upper part of the DHS system could lead to poor organic removal effi- ciency.
+
+1 The schematic diagram of the DHS reactors with plots of TOC removal efficiency recorded in each reactor.
+
+Based on the Shapiro- Wilk tests the distribution of TOC removal efficiency of both reactors during the entire operation did not follow a normal distribution and the Wilcoxon and Kruskal-Wallis tests further verified that these two efficiency data sets could be considered as nearly identical to each other.Occasionally poor TOC removal performance with reac- tors A and B was observed at different time points due to primarily biomass sloughing.
+
+.In 1997 a post-treatment process or so-called down- flow hanging sponge DHS reactor was developed Agrawal et al.
 

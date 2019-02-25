@@ -1,20 +1,20 @@
-IL-7 seems to be constitutively produced in lymph nodes hence the availability of this cytokine might depend on the degradation andor consumption by IL-7 receptor IL-7R-expressing cells.Competition for and consumption of IL-7 has been discussed as a mode of regula- tion that enables a direct feedback loop between the size of the naive T cell pool and the availability of this niche-defining cytokine Mazzucchelli and Durum 2007.
-
 2017 pro- vide evidence that IL-7 availability is regulated through a ''cytokine sink'' involving innate lymphoid cells that compete for and consume IL-7 and thereby restrict T cell homeostasis in lymphoid organs.The common g-chain cytokine inter- leukin-7 IL-7 has key functions during the development and homeostasis of lymphocytes.
 
-Interestingly reconstituting IL-7Ra-defi- cient hosts with Rag-deficient bone marrow which does not enable T or B cell development allowed only slight pro- liferation of adoptively transferred IL-7Ra ''sensor'' T cells suggesting that IL-7Ra cells derived from Rag-deficient bone marrow might limit IL-7 availability for naive T cells.
+IL-7 seems to be constitutively produced in lymph nodes hence the availability of this cytokine might depend on the degradation andor consumption by IL-7 receptor IL-7R-expressing cells.Competition for and consumption of IL-7 has been discussed as a mode of regula- tion that enables a direct feedback loop between the size of the naive T cell pool and the availability of this niche-defining cytokine Mazzucchelli and Durum 2007.
 
 ..ILCs and T Cells Competing for Space More Than a Numbers GameChristin Friedrichand Georg Gasteiger1Institute of Medical Microbiology and Hygiene University of Freiburg Freiburg Medical Center 79104 Freiburg Germany2Institute of Medical Microbiology and Hygiene University of Mainz Medical Center 55131 Mainz Germany3Institute of Systems Immunology University of Wuerzburg 97078 Wuerzburg GermanyCorrespondence T cell homeostasis critically depends on interleukin-7 IL-7.
 
-By transferring IL-7Ra-suf- ficient T cell receptor TCR-transgenic orpolyclonal T cells into these mice the au- thors confirmed that radioresistant cells are a sufficient source of IL-7 in vivo.
-
 Naive T cells depend on IL-7 signals for peripheral homeostatic maintenance.
+
+Upon binding to its recep- tor IL-7 activates the Jak-Stat and PI3K-AKT pathways and thereby in- creases the expression of anti-apoptotic molecules and promotes the mainte- nance of glucose-dependent cellular metabolism Mazzucchelli and Durum 2007.
+
+Stromal cells represent a major source of IL-7 in secondary lymphoid organs as revealed by experiments using immunofluorescent microscopy and different reporter mouse strains Kim et al.
+
+However IL-7 produc- tion by hematopoietic cells has also been suggested Guimond et al.
 
 2009 raising the question of which source of IL-7 is most relevant to the regulation of periph- eral T cell homeostasis.
 
+In addition to the source it remains unclear how the abun- dance of and access to IL-7 might be regulated.
+
 In addi- tion it remains unclear whether cells other than naive T cells can compete for shared pools of IL-7 and potentially interact in spatiotemporally overlapping niches in vivo.In this issue of Immunity Martin et al.
-
-2017 directly address these questions by employing the transfer of naive T cells as biosensors for the availability of IL-7.
-
-The authors argue that measuring the ho- meostatic proliferation of these cells is a proxy for the relative availability of rele- vant IL-7 in the microanatomical locations of secondary lymphoid organs that enable the homeostatic expansion of naive T cells.
 

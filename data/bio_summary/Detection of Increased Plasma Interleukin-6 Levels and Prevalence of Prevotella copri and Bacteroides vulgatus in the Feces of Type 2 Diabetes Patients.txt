@@ -1,20 +1,20 @@
-The prevalent phyla in patients were Bacteroidetes patient reads P  47.97 control reads C  46.32 and Firmicutes P  43.77 C  43.92 the prevalent classes were Bacteroidia P  44.40 C  45.73 and Clostridia P  35.31 C  34.39 the prevalent orders were Bacteroidales P  44.41 C  45.73 and Clostridiales P  35.31 C  34.39 and the prevalent families were Bacteroidaceae P  21.09 C  27.19 Ruminococcaceae P  19.05 C  17.99 Prevotellaceae P  17.11 C  8.41 and Lachnospiraceae P  11.00 C  12.43 .
+LPS are endotoxins present in the cell wall of Gramnegative bacteria and these molecules are pri marily responsible for the endotoxemia observed in metabolic disorders .Changes in Gramnegative bacteria concentrations in the gut combined with increased intestinal permeability could promote LPS escape into the bloodstream and induce systemic inflammation .
 
-Significant correlations among the proinflammatory cytokine IFNg and relative abundan ces of Firmicutes P  0.007 r  0.75 Clostridia P  0.016r  0.69 Bacteroides P  0.014 r  -0.70 and Prevotella P  0.021 r  0.66 were observed .
+However the interruption of this healthy interaction with an imbalance in the normal bacterial ecology in the gut defined as intestinal dysbiosis may contribute to the development of metabolic and chronic inflammatory dis eases such as T2D -.Some mechanisms have been proposed to explain the influ ence of the gut microbiota on insulin resistance and T2D such as bacterial translocation metabolic endotoxemia defective secretion of incretins and decreased butyrate concentrations  .
+
+Furthermore studies in animal models showed that highfat diets promote an increase in Gramnegative bacteria in the gut and increased LPS absorption in the intestinal mucosa .
+
+However butyrateproducing bacteria such as Roseburia intestinalis and Faecalibacterium prausnitzii with antiinflammatory effects were decreased in T2D patients .Based on studies showing the importance of resilience of the intestinal microbiota in human health and studies showing that intestinal dysbiosis may be strongly associated with gut epithe lial barrier disruption bacterial translocation and metabolic endotoxemia -  we hypothesized that the abundance of Gramnegative bacteria is greater in the feces of T2D patients and positively correlated with the plasma levels of proinflam matory cytokines and LPS.
+
+Plasma samples were used for LPS quantification performed in duplicate using aLPS ELISA Kit LPS Elabscience Biotechnology MD USA according to the manufacturer's instructions.
 
 Prevalent phyla a classes B orders c families D genera e and species F. Bars represent the reads percentages found in metagenomic analyses.significant difference P  0.009 in the LPS concentration in plasma from T2D patients mean - SEM 13.54 - 0.86 ngmL and controls 16.98 - 0.79 ngmL .An inverse correlation between the LPS concentration in theplasma of patients and the relative abundance of Proteobacteria P  0.040 r  -0.58 was observed.
 
-vulgatus P  13 C  18 Bacteroides rodentium P  9 C  13 and Bacteroides xylanisolvens P  8 C  6 .To identify correlations between intestinal microbiota com position and clinical data we examined the correlations among IMC fasting blood glucose and HbA1C with relative abundances of bacterial groups detected in the feces of T2D patients.
+Here we investigated the intestinal dysbiosis in Brazilian T2D patients and correlated these data with systemic inflammatory cytokines LPS concentrations and with clinical data.The adult healthy gut microbiota is dominated by micro organisms belonging to the Firmicutes Grampositive and Bacteroidetes Gramnegative phyla .
 
-LPS are endotoxins present in the cell wall of Gramnegative bacteria and these molecules are pri marily responsible for the endotoxemia observed in metabolic disorders .Changes in Gramnegative bacteria concentrations in the gut combined with increased intestinal permeability could promote LPS escape into the bloodstream and induce systemic inflammation .
+WO and DP performed bioinformatics analyses VM participated in sample collection DNA cytokine and LPS quantification and data acquisition GO participated in experimental conception patient enroll ment sample collection cytokine and LPS quantification data interpretation and manuscript writing and revision.acKnOWleDgMenTsThe authors would like to thank Johnny Rodrigues and Antoniel da Silva Fernandes for technical support at School of Healthy Sciences from Barretos Dr. Paulo Prata.FUnDingThe study was supported by School of Health Sciences from Barretos Dr. Paulo Prata PAP2016 Barretos Cancer Hospital and by the Brazilian governmental agency Foundation for the Support of Research in the State of Sao Paulo FAPESP grant numbers 2016502040 and 2017180706.reFerencesDonath MY Shoelson SE.
 
-The prevalent genera in T2D patients were Bacteroides P  21.09 C  27.19 and Prevotella P  14.07 C  7.03.
+The main goal of the present study was to evaluate the intestinal dysbiosis in Brazilian T2D patients and correlate these data with inflammatory cytokines and lipopolysaccharides LPS plasma concentrations.
 
-The proinflammatory interleukin-6 IL-6 was significantly increased P  0.05 in patients' plasma and LPS levels were decreased.
-
-Furthermore a positive correlation between Negativicutes reads with IL6 P  0.037 r  0.59 was observed .lPs Plasma concentrations Were Different between Patients and controlsTo evaluate the metabolic endotoxemia in the plasma of T2D patients we quantified LPS using an ELISA.
-
-Moreover a positive correlation was observed between LPS and Prevotella reads P  0.041 r  0.58 .
-
-However the interruption of this healthy interaction with an imbalance in the normal bacterial ecology in the gut defined as intestinal dysbiosis may contribute to the development of metabolic and chronic inflammatory dis eases such as T2D -.Some mechanisms have been proposed to explain the influ ence of the gut microbiota on insulin resistance and T2D such as bacterial translocation metabolic endotoxemia defective secretion of incretins and decreased butyrate concentrations  .
+Peripheral blood was used to quantify inflammatory cytokines and plasma LPS concentrations by CBA flex and ELISA respectively.
 

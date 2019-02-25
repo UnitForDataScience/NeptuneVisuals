@@ -1,20 +1,20 @@
-As a member of the Skin Disease Research Center and Pinnell Center for Investigative Dermatology we gratefully acknowledge grant support to ASM from the Duke Skin Disease Research Center P30AR066527 02 and Pinnell Center for Investigative Dermatology and Skin Disease Research Center at Duke University Medical Center.AbbreviationsAPCantigen-presenting cellCHScontact hypersensitivityCLAcutaneous lymphocyte-associated antigenDETCdendritic epidermal T cellFDEfixed drug eruptionTCMcentral memory T cellTEFFeffector T cellThT helperTREGregulatory T cellTRMtissue-resident memory T cellSuwanpradid et al.Page 9ReferencesAdachi T Kobayashi T Sugihara E Yamada T Ikuta K Pittaluga S et al.
-
 Both CD8 and CD4 T cells the latter comprising regulatory T cells TREG and nonregulatory T cells exhibit strong tropism for the hair follicle region Figure 1 suggesting that the hair follicle is critical in regulating skin residence of these tissue-resident memory T cells TRM Chow et al.
 
 The critical roles of ab and gd T cells in the contexts of defense against skin infections host-microbiome interactions and skin damage will be discussed in this review article.Suwanpradid et al.Page 3THE CUTANEOUS T-CELL REPERTOIRE IN HUMAN SKINBoth epidermal and dermal gd and ab T cells are present in noninflamed human skinhowever cutaneous gd T cells are approximately 300 times less abundant than ab T cells Clark et al.
 
-DETC dendritic epidermal T cell TRM tissue-resident memory T cell.Suwanpradid et al.Page 16Table 1Heterogeneity of human and murine skin resident T cellsAbbreviations DETC dendritic epidermal T cell TREG regulatory T cell TRM tissue-resident memory T cell.
+The composition and function of cutaneous T cells can change dramatically onenvironmental insults and may be driven by both antigen exposure and innate immune signals derived from surrounding keratinocytes dendritic cells macrophages and other cells Iwasaki and Medzhitov 2015 Schroder et al.
 
 Notably in response to C. albicans stimulation skin-homing T cells isolated from human blood produce IL-9 to enhance effector function of IL-9-producing T helper type 9 Th9 cells and other effector T cells.
 
-T cell populations primed by hapten sensitization in contact sensitivity are distinguished by polarized patterns of cytokine production interferon gamma- producing Tc1 effector CD8 T cells and interleukin Il 4Il-10-producing Th2 negative regulatory CD4 T cells.
-
 Langerhans cells protect from allergic contact dermatitis in mice by tolerizing CD8 T cells and activating Foxp3 regulatory T cells.
+
+Dynamics and function of Langerhans cells in vivo dermal dendritic cells colonize lymph node areas distinct from slower migrating Langerhans cells.
 
 The heterogeneity of cutaneous-resident T cells in murine and human skin is highlighted in Table 1.T CELLS IN MURINE SKINIn a steady state murine T cells reside predominantly at the epidermal-dermal junction Figure 1.
 
 The epidermis contains a unique population of gd T cells called dendritic epidermal T cells DETCs Havran et al.
 
 2001.Under homeostatic conditions ab TCR T cells comprise approximately 40-50 of all dermal T cells Cai et al.
+
+Epidermal TRM are comprised predominantly of CD8 T cells and similar to DETCs these cells typically bear the a-chain of the integrin aEb7 and CD103 and express the activation marker CD69 Adachi et al.
 

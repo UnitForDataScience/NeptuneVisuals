@@ -1,12 +1,6 @@
-Porphyromonadaceae 56.01 vs. 35.06 P  0.001FDR  0.015 Clostridiaceae 0.08 vs. 0 P  0.003FDR  0.022 Peptostreptococcaceae 0.04 vs. 0P  0.003 FDR  0.017 Prevotellaceae 3.92 vs. 1.65P  0.018 FDR  0.066 Coriobacteriaceae 0.37 vs.0.19 P  0.014 FDR  0.092 and Lactobacillaceae7.81 vs. 3.47 P  0.011 FDR  0.064 were enriched in the experimental groups whereas Lachnospiraceae 23.31 vs. 6.90 P  0.003 FDR  0.022 Ruminococcaceae6.95 vs. 4.56 P  0.033 FDR  0.111 andBacteroidaceae 4.04 vs. 1.16 P  0.002 FDR  0.035 were enriched in the control groups.
-
 The main objective of our study was to explore the evolution of the microbiota community and molecules related with CRC in the dynamic transition from normal colon epithelium to premalignant adenoma with the aid of an 'adenoma-carcinoma sequence' mouse CRC model induced by DMH.
 
 Further investigation is warranted to confirm the mechanisms underlying dysbiosis which would aid in the development of effective methods to pre-diagnose CRC.In summary by establishing the network involving microbes and cellular molecules throughout the evolutionary progression of CRC tumorigenesis in the'adenoma-carcinoma sequence' mouse colorectal cancer model we have identified an imbalance in gut microbiota characterized by the 'driver-passenger' model involve in reduction of butyrate-producing bacteria and increase in DNA-damaging bacteria which leads to enhanced accumulation of mutations.
-
-Representative photomicrographs showing F mucosalinflammation G hyperproliferation tissueH adenoma and I adenocarcinoma magnified 20x.gut microbiota of experimental groups than control groups with statistically significant differences 77.65 vs. 56.72 P  0.001 whereas Firmicutes was markedly less abundant in the experimental groups 19.44 vs. 40.81 P  0.001.
-
-Two OTUs were affiliated with the species Alistipes finegoldii P  0.01 and three OTUs belonging to the genus Clostridium P  0.05 were significantly higher in the model group.
 
 In addition existing bacteria may also enhance the susceptibility to disease such as Helicobacter pylori to gastric cancer and human papilloma virus to cervical cancer.Previous studies demonstrating an association of one or more microbial species with CRC have implied that gut microbiota may be a driver of CRC tumorigenesis and not connected with colitis 10.
 
@@ -17,4 +11,10 @@ Our results demonstrate that the biological evolutionary shift of gut microbiota
 7 proposed a bacterial driver-passenger model explaining microbiota community involvement during CRC development which may contribute to the genetic paradigm of the 'adenoma- carcinoma sequence'.
 
 All animal experiments were approved by the University Committee on the Use and Care of Animals at Qingdao University and conducted in accordance with the National Institutes of Health guidelines.Establishment of the 'adenoma-carcinoma sequence' animal model and experimental proceduresWe modified the 'adenoma-carcinoma sequence' mouse CRC model induced by DMH.
+
+The synergistic actions of microbiota dysbiosis and effects of bacterial metabolites on related molecular events are proposed to contribute to the progression of CRC tumorigenesis.INTRODUCTIONColorectal cancer is the third most common cancer type in men and the second most common in women and reported as the fourth leading cause of cancer-related mortality worldwide 1 2.
+
+However the role played by gut microbiota in 'adenoma-carcinoma sequence' CRC pathogenesis is yet to be established.
+
+The aim of the current study was to investigate the evolutionary biologic changes of the gut microbiota in tumor progression from normal colon epithelium to premalignant adenoma and subsequently invasive adenocarcinoma with a view to establishing the potential roles of different gut microbes in the specific molecular events characterizing transition to adenocarcinoma in an 'adenoma-carcinoma sequence' mouse CRC model.RESULTSProgression of the 'adenoma-carcinoma sequence' in a mouse modelAccording to the experimental protocol Figure 1A no obvious macroscopic lesions were observed in colon mucosa on week 6 after the first drug injection Figure 1B but deeper staining for colon epithelial cell nucleus and atypical hyperplasia upon microscopic examination were observed Figure 1F.
 

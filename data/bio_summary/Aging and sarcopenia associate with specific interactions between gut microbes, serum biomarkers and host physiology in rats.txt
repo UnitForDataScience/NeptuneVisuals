@@ -2,13 +2,7 @@ The composition alpha diversity of the microbiome at the three ages demonstrated
 
 Based on Spearman correlations these two OTUs were also some of the most connected OTUs based on their positive correlation with other OTUs across the ages Figure 2B Supplementary Figure 1.
 
-The tabulated entries for the entire list of statistically different MFC's areavailable in the Supplementary Materials Supplemen- tary Materials S2.xlsx.To help focus the analysis the MFCs were put into the same 18 categories previously used for the OTUs in Figure 1 Figure 4B 4C and Figure 1D.
-
-Abbreviations SU - Statistically Up SD - Statistically Down Cat - Category 8M - 8 months 18M - 18 months and 24M - 24 months.Given the possible role of microbes in altering lipid and inflammatory status we looked at the correlations of the lipid species with the microbial members OTUs - Figure 6D MFC's - Supplementary Figure 5 and serum protein levels Figure 6E.
-
 To investigate the potential associations between the microbiome and the host we analysed the correlations details in materials and methods between the physiological measurements and the OTUs significantly correlated with age Figure 3B.
-
-Using aged Wistar rats of ages 8 18 and 24 months subsequently referred to as 8M for adult 18M for adult-pre-sarcopenic and 24M for adult- sarcopenic respectively similar framework as our previous work 20 we determined the ecological states of the microbiome at the various ages identified potential metabolic functions of these states and integrated this analysis with the biochemical and physiological phenotypes Figure 1A.Gut microbial diversity in aged ratsThe gut microbiome is a complex ecosystem that reflects the contribution of multiple environmental such as diet drugs and pathogens and host-related immunity factors.
 
 Abbreviations SU - Statistically Up SD - Statistically Down Cat - Category 8M - 8 months 18M - 18 months and 24M - 24 months.We considered the following key observations 1 analysis of the aging microbiome identified a diet-related ecology specifically associated with the transition at 18M to the sarcopenic phenotype 2 the OTUs characterized at the 18M correlated with observed Vitamin B12 and folate levels and 3 the MFC analysis identified candidate molecular mechanisms including pathogenesisand dietary metabolic function associated with the sarcopenic phenotype.
 
@@ -16,5 +10,11 @@ OTU 0914 Lactonifactor the only OTU found in category 9 was also well connected 
 
 The other OTUs identified were similar to the lipids identified Category 15 and 18 OTUs.
 
-Sciatic response amplitude positively correlated with LPC 205 and LPC 203 both decreased in 18M-24M and negatively correlated with PC 374 and SE 204 both increased in 18M-24M Figure 6C.
+The OTU classified as Clostridium XIVa highlighted in red text at the genus level is the most correlated while the OTU classified as Acidaminobacter highlighted in blue text is the least correlated.
+
+This enabled us to define a consensus phenotype of age-related alterations in gut microbiome muscle physiology and biochemical protein and lipid markers of aging.RESULTSIn this study we sought to investigate the association of age and sarcopenia AAS-related gut microbial changes with host physiology and identify the potential molecular mechanisms underlying these associations to evaluate the potential of targeting the microbiome in AAS-related health.
+
+Using aged Wistar rats of ages 8 18 and 24 months subsequently referred to as 8M for adult 18M for adult-pre-sarcopenic and 24M for adult- sarcopenic respectively similar framework as our previous work 20 we determined the ecological states of the microbiome at the various ages identified potential metabolic functions of these states and integrated this analysis with the biochemical and physiological phenotypes Figure 1A.Gut microbial diversity in aged ratsThe gut microbiome is a complex ecosystem that reflects the contribution of multiple environmental such as diet drugs and pathogens and host-related immunity factors.
+
+Neutral ceramidase ASAH2 Nuclear receptor subfamily 1 group D member 1 NR1D1 Parathyroid hormone PTH and X-linked ectodysplasin-A2 receptor EDA2R were implicated in glycosphingolipid metabolism sphingolipid metabolism GPCR signal- ling TNFR2 non-canonical NF-kB signalling and the immune system.Summarizing the genetic analysis of the microbiome and the serum protein response of the host there was a common theme associated with the microbiome and aging.
 

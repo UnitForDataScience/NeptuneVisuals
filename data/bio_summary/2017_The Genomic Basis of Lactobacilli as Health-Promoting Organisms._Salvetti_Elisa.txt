@@ -1,11 +1,5 @@
 Since its description by Beijerinck in 1901 the genus Lactobacillus has dra- matically expanded in membership often resulting in significant taxonomic changes causing confusion and leading to the misidentification of lactobacilli .As already mentioned the most updated phylogeno- mic analysis based on 73 core proteins of 175 Lacto- bacillus species showed a high molecular diversity that is far too broad to encompass a single well-defined genus reflected by the DNA GC content and phenotypic di- versity .An ongoing multilocus sequence typing and network analysis in our laboratory based on 29 ribosomal pro- teins and 12 established phylogenetic markers in 238 genomes of Lactobacillus and related genera namely Pediococcus Leuconostoc Weissella Fructobacillus and Oenococcus confirms that genus Lactobacillus is polyphyletic intermixed with the other genera of family Lactobacillaceae and Leuconostocaceae and character- ized by a complex evolutionary history Salvetti et al.
 
-Makarova K Slesarev A Wolf Y Sorokin A Mirkin B Koonin E Pavlov A Pavlova N Karamychev V Polouchine N Shakhova V Grigoriev I Lou Y Rohksar D Lucas S Huang K Goodstein DM Hawkins T Plengvidhya V Welker D Hughes J Goh Y Benson A Baldwin K Lee JH Diaz-Muniz I Dosti B Smeianov V Wechter W Barabote R Lorca G Altermann E Barrangou R Ganesan B Xie Y Rawsthorne H Tamir D Parker C Breidt F Broadbent J Hutkins R O'Sullivan D Steele J Unlu G Saier M Klaenhammer T Richardson P Kozyavkin S Weimer B Mills D. 2006.
-
-Kankainen M Paulin L Tynkkynen S von Ossowski I Reunanen J Partanen P Satokari R Vesterlund S Hendrickx AP Lebeer S De Keersmaecker SC Vanderleyden J Hamalainen T Laukkanen S Salovuori N Ritari J Alatalo E Korpela R Mattila-Sandholm T Lassig A Hatakka K Kinnunen KT Karjalainen H Saxelin M Laakso K Surakka A Palva A Salusjarvi T Auvinen P de Vos WM.
-
-Ceapa C Davids M Ritari J Lambert J Wels M Douillard FP Smokvina T de Vos WM Knol J Kleerebezem M. 2016.
-
 This is reflected in the lack of success in obtaining EFSA ap- proval for probiotics and functional foods mainly linked to insufficient characterization of the food and poor scientific support for the claimed effect  the absence of a beneficial physiological effect based on the scien- tific evidence assessed  and the nonrecognition of the property of preventing treating or curing a human disease with food .In reviewing the literature at this juncture a clear stalling in investment in Lactobacillus probioticresearch is apparent reflected in the large knowledge gap in molecular mechanisms that still needs to be filled.GENOMIC DIVERSITY OF LACTOBACILLIThe genome sequences of almost all Lactobacillus type strains and some historically associated genera were recently determined   providing the definitive genomic framework for mining all relevant phyloge- netic and functional information and corroborating the genetic basis of what had been described for nearly a century namely the extreme phenotypic diversity of lactobacilli  .Comparative analysis   uncovered the ex- traordinary level of genomic diversity of the lactobacilli the sizes of the genomes in fact range from 1.23 Mb to4.91 Mb four times larger and the DNA GC content range is from 31.93 to 57.02.
 
 Comparative genome analysis of Lactobacillus reuteri and Lactobacillus fermentum reveal a genomic island for reuterin and cobalamin production.
@@ -14,7 +8,13 @@ Comparative genomic and functional analysis of Lactobacillus casei and Lactobaci
 
 Probiotic properties of Lactobacillus salivarius and closely related Lactobacillus species.
 
-Sun Z Harris HM McCann A Guo C Argimon S Zhang W Yang X Jeffery IB Cooney JC Kagawa TF Liu W Song Y Salvetti E Wrobel A Rasinkangas P Parkhill J Rea MC O'Sullivan O Ritari J Douillard FP Paul Ross R Yang R Briner AE Felis GE de Vos WM Barrangou R Klaenhammer TR Caufield PW Cui Y Zhang H O'Toole PW.
+Lactobacillus species are used in mixed microbial cultures such as the classicalLactobacillus bulgaricusStreptococcus thermophilus inoculum for yogurt fermentation or combinations of diverse lactobacilli yeasts in kefir grains.
 
-Xu J Bjursell MK Himrod J Deng S Carmichael LK Chiang HC Hooper LV Gordon JI.
+The decade that followed the determination of the first genome sequence ofa food-associated species Lactobacillus plantarum saw the application to lactobacilli of a full range of functional genomics methods to identify the genes and gene products that govern their distinctive phenotypes and health associations.
+
+Finally we offer a perspective on classification of lactobacilli into new genera in a scheme that will make attributing probiotic properties to cladestaxa and species more logical and more robust.BENEFICIAL EFFECTS ASSOCIATED WITH LACTOBACILLIThe genus Lactobacillus includes 177 species  they are non-spore- forming mostly nonmotile and rod-shaped although coccobacilli are observed.
+
+With regard to their beneficial and protechnologi- cal properties 35 Lactobacillus species have Qualified Presumption of Safety QPS status from the European Food Safety Authority EFSA  and 12 species are Generally Recognized as Safe GRAS by the FDA  .
+
+Search performed 13 July 2016.and converting bacteriophages such discovery para- digms are less helpful in lactobacilli with the exception of the cobalamin biosynthesispropanediol utilization island of Lactobacillus reuteri  .
 

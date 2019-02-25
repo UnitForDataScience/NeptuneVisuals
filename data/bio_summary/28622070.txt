@@ -2,19 +2,19 @@ Total genomic DNA was extracted using QIAamp Cador pathogen lysis minikit Qiagen
 
 Data was normalized to total bacteria using universal pri- mers and the relative abundances of each phylum determined using the delta delta Ct 2DDCt algo- rithm method.Determination of total bacterial loadTotal bacterial load in the functional and defunctioned intestine was measured via qPCR using universal eubacterial 16S rRNA primers Uni334F and Uni514R Table S1 and Sybr Green ReadyMix Sigma- Aldrich.
 
-Ann Surg 1987 2064504-13 PMID3662660 Chow A Tilney HS Paraskeva P Jeyarajah S Zacharakis E Purkayastha S. The morbidity surrounding reversal of defunctioning Ileostomies A systematic review of 48 studies including 6107 cases.
-
-Proc Natl Acad Sci U S A 2008 1054316731-6 Backhed F Ding H Wang T Hooper LV Koh GY Nagy A Semenkovich CF Gordon JI.
-
-Gastroenterol Res Pract 2016 20168743187 PMID26880899 Cani PD Possemiers S Van de Wiele T Guiot Y Everard A Rottier O Geurts L Naslain D Neyrinck A et al.
-
-A standard curve constructed for bacterial enumeration using pCR2.1 Topo-TA plasmid vector containing a cloned portion of the 16S rRNA gene.
-
-Bacterial enumeration of A average- and B absolute-16S rRNA gene copy numbers per gram of mucosal tissue in functional and defunctioned intestine n D 27 p D 0.0003.Loss of microbial diversity and convergence toward a similar bacterial profile occurs in defunctioned intestineConsidering the decrease total bacterial load in defunctioned intestine microbial composition was investigated using DGGE.
-
 DGGE profiles were proc- essed digitally using BioNumerics software version 7.5 Applied Maths following the manufacturer's guidelines.DGGE band excision and sequencing analysisAmplicons from DGGE bands of interest were reamplified directly from the gel via inoculation using a sterile pipette tip.
 
 Consen- sus sequences were generated using BioEdit software available at  and sequences were then classified using nucle- otide Basic Local Alignment Search Tool BLASTn available online at .
 
-A defunctioned loop ileostomy is usually reversed within 12 months rein- stating luminal flow through the entire intestine.
+Participant demographics and post-surgical clinical data are presented in .Sample acquisition and handlingLoop ileostomy reversal surgery involves reanasto- mosis of functional and defunctioned ileum using aTable 1.
+
+Villous height was measured using ImageJ software.Coded H  E sections were scored for inflammation by a blinded observer.
+
+Scoring applied a well-validated system which assigns a score of 0 - 4 for inflammation and mucosal damage based on degree and extent of transmural inflammation goblet cell depletion immune infiltrate and architec- ture distortion.Immunofluorescence PCNA analysisParaffin sections were dewaxed rehydrated and subjected to antigen retrieval by boiling in Sodium Citrate Buffer 10mM Sodium Citrate 0.05 Tween 20 pH 6.0 using a microwave oven for15 minutes.
+
+Slides were counterstained withHoescht33342 trihydrochloride nucleic acid stain Life Technologies and mounted using VectaShield mounting medium Vector Laboratories.
+
+Number of PCNA-positive IEC per crypt was counted by a blinded observer and the percent of proliferative cellsall nucleated cells was calculated.TUNEL assayTUNEL assay was performed on tissue sections using Click-iT Plus TUNEL Alexa Flour 594 kit according to manufacturer's protocol Thermo- Fisher Scientific.
+
+Tissue sections were subjected to antigen retrieval by boiling in Sodium Citrate Buffer 10mM Sodium Citrate 0.05 Tween 20 pH 6.0 using a microwave oven for 15 minutes.
 

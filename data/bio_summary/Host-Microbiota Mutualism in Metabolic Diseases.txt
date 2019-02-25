@@ -1,9 +1,5 @@
 In this review we focus on the relationship between gut microbiota composition and host pathophysiology and on how shaping the microbiota can be beneficial to promote host health and combat metabolic disorders.DeReGULATiOn OF THe GUT MiCROBiOTA AnD THe MeTABOLiC SYnDROMeMicrobiota Compositional Changes in Metabolic DisordersThe gut microbiota is sensitive to external cues that can reshape it to new stable compositions resulting sometimes in a deranged or dysbiotic gut flora.
 
-Cell 2014 159514-29. doZarrinpar A Chaix A Yooseph S Panda S. Diet and feeding pattern affect the diurnal dynamics of the gut microbiome.
-
-Nutr Res 2017 4186-96. doMoya-Perez A Neef A Sanz Y. Bifidobacterium pseudocatenulatum CECT 7765 reduces obesity-associated inflammation by restoring the lympho- cyte-macrophage balance and gut microbiota structure in high-fat diet-fed mice.
-
 From the first observation that obese individuals have a distinct gut microflora compared to lean people  and the following efforts to elucidate the function of this altered microbiota  the past 10 years have seen a growing body of evidence on the impact of the gut microflora on the host.
 
 These metabolic traits are often clustered in metabolic syndrome patients  it is therefore relevant but challenging to distinguish the implication of the gut microbiota with each of these pathologies separately.Germ-free mice are extensively used as a model for study- ing the importance of the dysbiotic gut flora.
@@ -12,9 +8,13 @@ In addition it was suggested that the brown adipose tissue can also intervene in
 
 Changes in gut microbiota control inflammation in obese mice through a mechanism involving GLP-2-driven improvement of gut permeability.
 
-A catalog of the mouse gut metagenome.
+Here we review the recent knowledge of microbiota's contribution to host pathology the modulation of the microbiota by dietary habits and the potential therapeutic benefits of reshaping the gut bacterial landscape in context of metabolic disorders such as obesity.Edited byMargaret Morris University of New South WalesAustraliaReviewed by Darren Colin Henstridge Baker IDI Heart and DiabetesInstitute Australia Claire Joanne Stocker University of BuckinghamUnited KingdomCorrespondence Mirko Trajkovski These authors have contributedequally to this work.Specialty section This article was submitted to Obesity a section of the journal Frontiers in EndocrinologyReceived 26 July 2017Accepted 21 September 2017Published 04 October 2017Citation Fabbiano S Suarez-Zamorano N and Trajkovski M 2017 Host-Microbiota Mutualism in Metabolic Diseases.Front.
 
-A metagenome-wide associ- ation study of gut microbiota in type 2 diabetes.
+The gut microbiota in turn affects the host metabolic phenotype contributes to food and drug metabolism and helps the immune system to develop .
 
-Clin Nutr 2015 34501-7. doRamirez-Farias C Slezak K Fuller Z Duncan A Holtrop G Louis P. Effect of inulin on the human gut microbiota stimulation of Bifidobacterium adolescentis and Faecalibacterium prausnitzii.
+By transplanting the gut microbiota to germ-free GF animals it has become possible to directly assess the causality of microbiota composition with diseases.
+
+Considering that HFD challenges elicit heterogeneous responses in terms of weight gain and glucose homeostasis the differences in the pre-HFD gut microbiota-host interactions in mice can be predictive of the diet outcome  where final HFD-driven microbial differences are determinant to transfer these acquired phenotypes following microbiota transplantation and diet challenge .
+
+This sug- gests that components of the gut microbiota can influence liver steatosis and hyperglycemia independently from their effect on adiposity and systemic inflammation.Dysbiotic microbial composition can be at least in the case of the obesogenic microbiota resilient over time.
 

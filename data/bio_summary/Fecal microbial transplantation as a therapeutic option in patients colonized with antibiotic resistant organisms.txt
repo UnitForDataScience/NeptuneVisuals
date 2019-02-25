@@ -1,10 +1,6 @@
 At this point FMT has only demonstrated effi- cacy in reducing MDR organisms within the bowel and may need to be used in combination with other decolonization strategies to ensure MDR-eradication of all contaminated sites.Decolonization of enteric MDR organisms may prove especially useful in the subset of immunocom- promised patients who are susceptible to infection from endogenous bacteria through the gastrointestinal tract such as those undergoing haematopoietic stem cell transplantation.MDR infections are rampant in this patient population and are associated with signifi- cant mortality.FMT which is safe in immunocom- promised patients may not prevent bacterial translocation and subsequent bacteremia in these patients but it may select for infections that are more easily treated.FMT offers substantial benefits over antibiotics as a decolonization therapy.
 
-Current opinion in hematology 2014 21451-58 PMID Kelly CR Ihunnah C Fischer M Khoruts A Surawicz C Afzali A Aroniadis O Barto A Borody T Giovanelli A et al.
-
 MDR bacteria are believed to colonize the gastrointes- tinal tract contributing to the reservoir of antibiotic resistant ABR genes within the gut and subse- quently infecting their host.Patients that become col- onized with MDR bacteria often require prolonged hospitalization which increases the risk of acquiring further MDR bacteria.
-
-Further study regarding the efficacy of FMT in specific clinical situations is warranted.AbbreviationsABRAntibiotic ResistanceCDIClostridium difficile infection FMTFecal Microbiota Transplantation IBDInflammatory Bowel Disease MDR Multi-drug ResistanceDisclosure of potential conflicts of interestNo potential conflicts of interest were disclosed.FundingThis work was supported by Alberta Health Services Alberta Innovates and CIHR.ReferencesLye DC Earnest A Ling ML Lee TE Yong HC Fisher DA Krishnan P Hsu LY.
 
 Manges and colleagues recently published a review summarizing 8 different case reports on the suc- cess of FMT in the eradication of MDR organisms further supporting the concept of using FMT for this purpose.
 
@@ -17,4 +13,8 @@ in 8 patients undergoing FMT for recurrent CDI using a quantita- tive PCR array 
 Unfortunately persistent reser- voirs of MDR can occur in hospital settings leading to a spread of MDR throughout the patient population.The Centers for Disease Control and Prevention rec- ommend contact precautions i.e.
 
 However the emergence of MDR organisms as a result of widespread antibiotic usage has left the world on the cusp of a 'post-antibiotic' era.An approach to address these MDR organisms is required in the healthcare setting to prevent the resurgence of previously preventable infection-related adverse outcomes.
+
+3 221-224REVIEWFecal microbial transplantation as a therapeutic option in patients colonized with antibiotic resistant organismsMichael Laffin Braden Millan and Karen L. MadsenaDepartment of Medicine CEGIIR Center of Excellence for Gastrointestinal Inflammation and Immunity Research University of Alberta Edmonton Alberta bCumming School of Medicine University of Calgary Calgary AlbertaARTICLE HISTORYReceived 17 October 2016 Revised 15 December 2016 Accepted 28 December 2016KEYWORDSIntestinal microbiome antibiotics antibiotic resistance resistome Fecal Microbiota Transplantation Clostridium difficileIntroductionSelective pressures created by the clinical and agricul- tural use and misuse of antibiotics have resulted in the development of multidrug resistant MDR bacteria.
+
+Although no larger randomized controlled tri- als have been performed to study the efficacy and safety of FMTs for MDR organisms preliminary evidence is promising and suggests that a non-antibiotic therapy for ABR infections may be in the future of health care.The future of FMT in the health care systemSince their discovery antibiotics have drastically changed the clinical approach to the treatment of bac- terial infections.
 

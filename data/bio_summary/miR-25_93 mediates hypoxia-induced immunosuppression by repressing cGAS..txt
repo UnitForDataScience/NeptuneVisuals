@@ -2,17 +2,17 @@ For panels g and h n5 tumors from 5 different animals.For panels j and k control
 
 For panels a-c control n4 tumors from 4 different animals miR2593 n5 tumors from 5 different animals cGAS n5 tumors from 5 different animals.
 
+h Levels of CD4FoxP3 Tregs in control tumors HIF-1a-overexpressing tumors and HIF-1a- miR2593-si tumors.
+
 Likewise Tregs were decreased in cGAS re-expressing tumors compared with miR2593 overexpressing tumors Fig.
 
 INF-b levels were restored in HIF-1a-overexpressing tumors in which miR2593 were inhibited as well as in miR2593-overexpressing tumors in which cGAS was re-expressed Fig.
 
-S3g and h. Together these results indicate that elevated levels of miR2593 in tumor cells drive the establishment of an immunosuppressive environment.TET1 is important for the up-regulation of miR2593 in response to hypoxiaTo investigate the molecular mechanism underlying hypoxia-induced miR2593 expression we first examined the role of HIF-1a.HIF-1a expression was required for hypoxia to induce the expression ofmiR2593 Fig.
-
-h Levels of CD4FoxP3 Tregs in control tumors HIF-1a-overexpressing tumors and HIF-1a- miR2593-si tumors.
-
 c miR2593 levels inHIF-1a-overexpressing tumors vs. control tumors.
 
 2d and e. To explore the role of miR2593 in hypoxia- relevant tumor immune responses we inhibited miR2593 in tumors overexpressing HIF-1a.
+
+S3g and h. Together these results indicate that elevated levels of miR2593 in tumor cells drive the establishment of an immunosuppressive environment.TET1 is important for the up-regulation of miR2593 in response to hypoxiaTo investigate the molecular mechanism underlying hypoxia-induced miR2593 expression we first examined the role of HIF-1a.HIF-1a expression was required for hypoxia to induce the expression ofmiR2593 Fig.
 
 Collectively these results indicate that repression of NCOA3 by miR2593 is required for the suppression of cGAS in response to hypoxia.The biological significance for miR2593 and cGAS in clinical tissuesTo test the relevance of these findings to human cancer we first examined the prognostic impact of miR2593.
 

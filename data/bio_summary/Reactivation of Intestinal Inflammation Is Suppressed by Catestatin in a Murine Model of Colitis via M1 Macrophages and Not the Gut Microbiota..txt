@@ -6,8 +6,6 @@ These macrophages possess distinct characteristics compared to their tissue resi
 
 M2 macrophages in IBD patients also have defective functioning which is supported by an in vitro study demonstrating that blood macrophages collected from CD patients and stimulated to M2 macrophages resulted in altered expression of CD40 and CD163 compared to healthy cells .
 
-Am J Med 2000 1092150-8. doObermeier F Kojouharoff G Hans W Scholmerich J Gross V Falk W. Interferon-gamma IFN-gamma- and tumour necrosis factor TNF- induced nitric oxide as toxic effector molecule in chronic dextran sulphate sodium DSS-induced colitis in mice.
-
 In vitro peritonealmacrophages isolated from naive mice and treated with hCTS 10-5 M 12 h were exposed to either lipopolysaccharide 100 ngml 12 h to polarize M1 macrophages or to IL-4IL-13 20 ngml to polarize M2 macrophages.
 
 These findings suggest that hCTS treatment attenuates the severity of inflammatory relapse through the modulation of the M1 macrophages and the release of pro-inflammatory cytokines.Keywords inflammatory bowel disease chromogranin-a catestatin gut inflammation M1 and M2 macrophage gut dysbiosisinTrODUcTiOnInflammatory bowel diseases IBDs are well-known intestinal disorders that are characterized by chronic relapse and remitting stage of inflammation of gastrointestinal tract .
@@ -17,4 +15,6 @@ The aims of this study were to determine 1 whether hCTS treatment could attenuat
 Conversely hCTS 10-5M treatment neither affected the expression of M2 macrophages markers Arg1 and Ym1  nor the expression of anti-inflammatory cytokines Tgfb and Il10 .effect of hcTs on gut MicrobiotaGut microbial dysbiosis is evident in both UC and experimental colitis mice  .
 
 For example in genetically modified mice such as SHP-1 protein tyrosine phosphate- or CD-40-L-deficient mice hyperactive macrophages overexpress Ym1 which results in eosinophilic crystal formation in the lung .
+
+The anti-inflammatory effect of STAT3 also corroborates with mice studies observing that mice having STAT3-deficient macrophages produce excessive cytokine and develop colitis  .
 

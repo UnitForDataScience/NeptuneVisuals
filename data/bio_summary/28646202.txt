@@ -1,12 +1,8 @@
-Xanthomonadaceae in the case of site M and Enterobacteriaceae at site A were the dominant endophytic bacterial group in the trees of symptomatic stage III which had the most distinct microbiome according to Chao1 analysis at both sites 67 at M - 94 at A with high abundance of Serratia and especially Erwinia found at site A 8 at M - 82 at A while Dyella and Pseudoxanthomonas were highly enriched at site M 57 M - 9 A.
-
 Main bacterial OTUs belonged to the Proteobacteria 39 site M - 97 site A and Firmicutes 0.70 site A - 44 site M. However consequences of the invasion with the pathogen were comparable.
 
-Phylogenetic characterization of endophytic wood colonizing bacteria from pine trees of the two study sites A and M obtained by cultivation based approaches at the level of phyla A and families B.Isolates from site A tend to have more proteolytic and cellulolytic activity when isolated from trees in sympto- matic sV whereas at site M no clear pattern was visible and the functional activities of the isolates from trees in the different symptomatic stages were similar Figure .DiscussionEndophytic bacteria exist within the living tissues of probably all plants but compared with herbaceous plants remarkably little is known about their ecology in trees.
+Xanthomonadaceae in the case of site M and Enterobacteriaceae at site A were the dominant endophytic bacterial group in the trees of symptomatic stage III which had the most distinct microbiome according to Chao1 analysis at both sites 67 at M - 94 at A with high abundance of Serratia and especially Erwinia found at site A 8 at M - 82 at A while Dyella and Pseudoxanthomonas were highly enriched at site M 57 M - 9 A.
 
 At site A the microbiome at symptomatic stage sV resembles community composition similar to early stages of the disease which was not the case in site M. Thus it is quite likely that both the original composition of the microbiome as well as site specific conditions determine the course of the disease in terms of microbial community composition.Interestingly none of the ten most important plant pathogenic bacteriawere isolated or detected by 16S rRNA gene sequencing in this study and a pathogenic role for the endophytic community was previously disre- garded.
-
-A Comparison of different symptomatic stages B Comparison of sites.OTUs was higher at site M compared to site A H'  5.72 and 4.29 D 0.97 and 0.95 respectively but no statisti- cal differences were found between these two sites Table .
 
 The samples grouped according to the different symptomatic physiological classes in Malhada site A no clear clustering was observed in Avo site B.part of the Pinus spp.
 
@@ -14,7 +10,11 @@ Whereas at site A no clear clustering was observed accord- ing to the disease sy
 
 The number of detected OTUs ranged from 454 A-sI to 2260 M-sIV.Interestingly the highest diversity was found in the wood samples of the most diseased trees both for site A and site M which confirms the data of the fingerprint analysis of the individual samples.
 
+A Comparison of different symptomatic stages B Comparison of sites.OTUs was higher at site M compared to site A H'  5.72 and 4.29 D 0.97 and 0.95 respectively but no statisti- cal differences were found between these two sites Table .
+
 Also the alpha diversity measured based on Chao1 richness indicated higher diversity at site M compared to site A Fig.
 
 Proteobacteria varying between 39 M-sII and 97 A-sIII and Firmicutes rang- ing from 0.70 A-sIV and 44 M-sII were the predominant endophyte bacterial phyla in the pine trees at both sites followed by Actinobacteria Bacteroidetes Acidobacteria at site A and Fusobacteria Acidobacteria and Thermi at site M. Members of Proteobacteria included mainly Gammaproteobacteria 1 M-sI - 94 A-sIII Alphaproteobacteria 5.71 M-s0 - 40 M-s4 and Betaproteobacteria 10 M-sIII - 34 M-s0.
+
+In general the number of bacteria was higher in site A than in site M as found by community barcoding.
 

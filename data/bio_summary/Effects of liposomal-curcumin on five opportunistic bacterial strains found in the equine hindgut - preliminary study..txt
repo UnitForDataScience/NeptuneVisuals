@@ -1,20 +1,20 @@
-Calcula- tion of coefficients for linear orthogonal polynomials with unequal spacing was done using IML of SAS  Significance was set at P  0.05 and tendency was set at P  0.10.ResultsIn vitroThe bacteria concentrations for the in vitro study are summarized in Table Every flask had a pH within the normal equine cecum pH range of 6.5-7.1 Concen- trations of SBEC were significantly lower P  0.0001 at the recommended dose 15 when compared to the 20 25 and 30 dose treatments.
-
-SBEC bacterial concentrations increased linearly P  0.008 as LIPC dose increased Table However as the dose of LIPC increased the concentration of C. perfringens decreased linearly P  0.03.Cecal fluid pH and ammonia concentration were not significant among treatments P  0.82 and P  0.21 respectively Table .
+One of four treatments 1 no LIPC 02 15 g LIPC recommended dose 15 3 25 g LIPC 25 or 4 35 g LIPC 35 for a total of 7500 mg 12500 mg and 17500 mg respectively of the active in- gredient dosed daily were randomly assigned to horses.
 
 a-cMeans within a row with different superscripts differ significantly P  0.051Treatments 0  control no nutraceutical 15  15 g 25  25 g 35  35 g of 500 mgg 95 liposomal-curcumin2P-value for treatment means3P-value for linear contrastDiscussionIn vitroPrevious work with human subjects showed E. coli substrain K-12 possesses curcumin-converting activity allowing this substrain to utilize curcumin as a sub- strate for growth  It is possible that in the current study increasing the dosage of LIPC increased the con- centration of curcumin that E. coli general and K-12 could utilize as a substrate thus allowing for an in- crease in these bacterial concentrations.In vivoAlthough increasing the dose of LIPC decreased C. per- fringens the observation that increasing the dose also increases SBEC and C. difficile would suggest that there may be no additional benefit of dosing LIPC above the recommended rate and could lead to potential prob- lems such as an dysbiosis of the hindgut microbiota leading to colic diarrhea and enterocolitis.
 
-One of four treatments 1 no LIPC 02 15 g LIPC recommended dose 15 3 25 g LIPC 25 or 4 35 g LIPC 35 for a total of 7500 mg 12500 mg and 17500 mg respectively of the active in- gredient dosed daily were randomly assigned to horses.
-
-Concentrations of E. coli general were significantly less P  0.03 for 15 20 and 30 compared to the 25 treatment.In vivoBased on the results of the batch culture the authors decided to investigate 15 g 25 g and 35 g of 95 LIPC.
-
 Sixteen 125 mL Erhlenmeyer flasks were randomly assigned one of the following treat- ments in quadruplicate 1 LIPC at the recommended dose of 15 g 15 2 20 g of LIPC 20 3 25 g of LIPC 25 or4 30 g of LIPC 30.
 
-a-dMeans within a row with different superscripts differ significantly P  0.051Treatments 15 g 20 g 25 g 30 g of 95 liposomal-curcuminTable 3 Effects of liposomal-curcumin on opportunistic bacteria nguL found in equine cecal fluid and on cecal fluid characteristics 9 daaData are means of 4 cannulated horses per replicate.
+Calcula- tion of coefficients for linear orthogonal polynomials with unequal spacing was done using IML of SAS  Significance was set at P  0.05 and tendency was set at P  0.10.ResultsIn vitroThe bacteria concentrations for the in vitro study are summarized in Table Every flask had a pH within the normal equine cecum pH range of 6.5-7.1 Concen- trations of SBEC were significantly lower P  0.0001 at the recommended dose 15 when compared to the 20 25 and 30 dose treatments.
 
 Cecal fluid was collected at 0 h on d 0 and 8 and again on d 9 at 0 3 69 12 15 18 and 21 h. Whole cecal contents 100 mL were collected pH recorded Oakton pH 110 Advanced Portable Meter Vernon Hills IL subsampled 15 mL and immediately frozen for later analysis of opportunis- tic bacteria.
 
-E. coli substrain K-12 concen- trations increased P  0.01 in the 25 and 30 treatments compared to 15 and 20 treatments.
+Concentrations of E. coli general were significantly less P  0.03 for 15 20 and 30 compared to the 25 treatment.In vivoBased on the results of the batch culture the authors decided to investigate 15 g 25 g and 35 g of 95 LIPC.
+
+a-dMeans within a row with different superscripts differ significantly P  0.051Treatments 15 g 20 g 25 g 30 g of 95 liposomal-curcuminTable 3 Effects of liposomal-curcumin on opportunistic bacteria nguL found in equine cecal fluid and on cecal fluid characteristics 9 daaData are means of 4 cannulated horses per replicate.
 
 In additionwhen dosing higher than the recommended dose 15 g for long periods caretakers should take caution.
+
+SBEC bacterial concentrations increased linearly P  0.008 as LIPC dose increased Table However as the dose of LIPC increased the concentration of C. perfringens decreased linearly P  0.03.Cecal fluid pH and ammonia concentration were not significant among treatments P  0.82 and P  0.21 respectively Table .
+
+Comparison of fecal microbiota of healthy horses and horses with colitis by high throughput sequencing of the V3-V5 region of the 16s rrna gene.
 

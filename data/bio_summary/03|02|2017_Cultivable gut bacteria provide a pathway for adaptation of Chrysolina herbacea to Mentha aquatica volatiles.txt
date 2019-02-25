@@ -6,8 +6,6 @@ These inhibition values were similar to those found with the five gut isolates f
 
 The carvone-rich M. spicata L. the menthol and menthone containing M. x piperita L. and a chemotype of M. longifolia L. particularly rich in piperitenone oxide were used to demonstrate the ability of C. herbacea to metabolize the plant terpenoids and the insect's amazing ability to catabolize biotransform them thereby producing new compounds.
 
-shows the pseudocolor comparison of M. aqua- tica leaf volatiles reference image compared to the frass volatiles distribution from C. herbacea female population feeding on M. aquatica leaves whereas Fig.
-
 female frass.Characterization of the cultivable bacterial communities of the intestinal tract of C. herbacea female and male individuals feeding on M. aquaticaGut microorganisms from 10 male and 10 female C. her- bacea were isolated in pure culture by means of the standard dilution plating technique on Luria-Bertani LB Yeast Extract Peptone Dextrose YEPD and Nutrient Agar NA solid media.
 
 Although we only focused on cultivable gut bacteria we hypothesize that these new volatile organic compounds possibly derived from plant terpenoids as a consequence of gut bacterial metabolisms could be used as recruit- ment signals produced by both bacterial communities or sex pheromones produced by the bacterial commu- nity from female individuals by insects.
@@ -17,4 +15,6 @@ No strain was able to grow when DMSO replaced glucose without essential oil.Grow
 The diameters of the zones of growth inhibition were measured after subtracting the 1 cm-diameter of the agar disk containing the assayed bacterium and the mean - SD was calculated based on three independent experiments.Growth of gut bacteria on chemically defined mediaWe evaluated the ability of gut bacteria to grow in the chemically defined SRM SRM-0 without glucose or SRM-oil media by replacing glucose with DMSO- dissolved M. aquatica essential oil 0.0020.25 vv.
 
 These results were indicative of a po- tential ability of the gut bacteria to modify the terpene profile of M. aquatica essential oil thereby modulating the plant-insect interaction.DiscussionThe interaction between bacteria and insects is becoming a major topic of discussion particularly when bacteria contribute to insect fitness through their involvement in food digestion.
+
+Thus C. herbacea is attracted by pulegone produced by undamaged M. aquatica but is deterred by the metho- furan production by herbivore-infested M. aquatica.
 

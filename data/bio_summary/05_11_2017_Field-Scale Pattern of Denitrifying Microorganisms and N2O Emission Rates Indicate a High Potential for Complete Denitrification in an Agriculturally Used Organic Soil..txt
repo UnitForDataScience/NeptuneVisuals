@@ -1,20 +1,20 @@
 This might be due to i the niche partitioning of microbes contain- ing copper encoded by nirK or cytochrome cd1 encoded by nirS nitrite reductases ii the fact that one third of all denitrifying microbes use truncated denitrification pathwaysTable 1Primer and thermal profiles used for real-time PCR quantification of the genes nirS nirK and nosZ.
 
-Front Microbiol 61567Leppelt T Dechow R Gebbert S Freibauer A Lohila A Augustin J Drosler M Fiedler S Glatzel S Hoper H Jarveoja J Laerke PE Maljanen M Mander U Makiranta P Minkkinen K Ojanen P Regina K Stromgren M 2014 Nitrous oxide emission budgets and land-use-driven hotspots for organic soils in Europe.
-
-FEMS Microbiol Ecol 7795-106Ligi T Truu M Truu J Nolvak H Kaasik A Mitsch WJ Mander U 2014 Effects of soil chemical characteristics and water regime on denitrification genes nirS nirK and nosZ abundances in a created riverine wetland complex.
-
-Bioresour Technol 157341-345Regan KM Nunan N Boeddinghaus RS Baumgartner V Berner D Boch S Oelmann Y Overmann J Prati D Schloter M Schmitt B Sorkau E Steffens M Kandeler E Marhan S 2014 Seasonal controls on grassland microbial biogeography are they governed by plants abiotic properties or both Soil Biol Biochem 7121-30Meyer A Focks A Radl V Welzl G Schoning I Schloter M 2014 Influence of land use intensity on the diversity of ammonia oxidiz- ing bacteria and archaea in soils from grassland ecosystems.
-
-J Microbiol Methods 84406-412Towe S Albert A Kleineidam K Brankatschk R Dumig A Welzl G Munch JC Zeyer J Schloter M 2010 Abundance of microbes involved in nitrogen transformation in the rhizosphere of Leucanthemopsis alpina L. Heywood grown in soils from differ- ent sites of the Damma glacier forefield.
-
-Appl Environ Microbiol 745615-5620Towe S Albert A Kleineidam K Brankatschk R Dumig A Welzl G Munch J Zeyer J Schloter M 2010 Abundance of microbes involved in nitrogen transformation in the rhizosphere of Leucanthemopsis alpina L. Heywood grown in soils from differ- ent sites of the Damma glacier forefield.
-
 Most samples taken from the soil under investiga- tion had a water content of between 45 and 60 ww data not shown and a TOC content of above 12 and were thus characterised by favourable denitrification conditions.Besides the observation of low N2O emissions the spatial and correlation analyses differed considerably between theWhile NH4 correlated positively with the abundance of denitrifying microbes NO3- correlated negatively even though NO - is the direct denitrification substrate and regarded as a major driver of the denitrification processes.
 
 This observation was fur- ther underlined by the fact that the correlation of nirK and the slowly degradable carbon and nitrogen pools TOC or Nt de- creased from an R2 of 0.49 and 0.39 p  0.001 in March respectively to R2 of 0.03 in October.In conclusion our data indicate that the high denitrification potential of this drained organic soil prevents the distinct niche separation of microbes harbouring either nirK- and nirS-type nitrite reductase genes and favours microbes that possess nosZ genes thus leading to the emission of N2 rather than N2O.
 
-J Plant Nutr Soil Sci 17278-90Stempfhuber B Richter-Heitmann T Regan KM Kolbl A Wust PK Marhan S Sikorski J Overmann J Friedrich MW Kandeler E Schloter M 2015 Spatial interaction of archaeal ammonia- oxidizers and nitrite-oxidizing bacteria in an unfertilized grassland soil.
+Numerous studies have observed that the spatial distribution of denitrifying microbes in soils varies considerably and that the denitrifier community's spatial patterns of size and activity correlate strongly with environmental factors  .
 
-J Geophys Res- Atmos 1091-11Keil D Meyer A Berner D Poll C Schutzenmeister A Piepho H-P Vlasenko A Philippot L Schloter M Kandeler E Marhan S 2011 Influence of land-use intensity on the spatial distribution of N- cycling microorganisms in grassland soils.
+In March the abundance of denitrifiers was highly correlated R2  0.8 p  0.001 and indicated a spatial coexistence of microbes harbouring nirK and nirS Fig.
+
+Missing values indicate the absence of spatial correlationpHTOCNCNNO3NH4DNAnirKnirSnosZnirK  nirSmg g-1 mg g-1mg kg-1 mg kg-1 mg g-1 gene copies g-1 soilcalculated using the equation Eff  101-slope - 1 nirS 80- 92 nirK 86-88 and nosZ 73-83.
+
+The spatial behaviour of TOC Nt NH  NO - nirS nirK and nosZ data was analysed withvariogram.
+
+1 Kriged maps showing the spatial distribution of a a nitrite reductase cytochrome cd1 encoded by the nirS gene and b a Cu-containing enzyme encoded by the nirK gene c a N2O reduc- tase nosZ gene gene copy num- bers were related to g soil dNO - e NH  f TOC and g N in34tMarch and October 2013.
+
+By targeting the nirK nirS and nosZ genes the current study compares spatio-temporal distribution of denitrifying microbes in an agricultural soil with high organic matter content at the beginning March and end October of the vegetation period.
+
+FEMS Microbiol Ecol 7795-106Ligi T Truu M Truu J Nolvak H Kaasik A Mitsch WJ Mander U 2014 Effects of soil chemical characteristics and water regime on denitrification genes nirS nirK and nosZ abundances in a created riverine wetland complex.
 

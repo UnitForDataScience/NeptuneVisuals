@@ -1,20 +1,20 @@
-Skin-resident Th17 cells that are affected by the skin microbiota are also independent of those from the gut microbiota suggesting that Th17 cells of the barrier sites are regulated in a compartmentalized manner by local commensals .In the skin of both mice and humans Foxp3 regulatory T Treg cells are present in the dermis especially surrounding the hair follicles where skin-resident microorganisms also reside .
-
 As inhibition of complement component C5a receptor in germ-free mice leads to decreased levels of AMPs and proinflammatory factors the skinmicrobiome closely interacts with the complement system.A recent study using a Leishmaniasis skin infection model demonstrated that human skin microbiota is altered following infection with Leishmania and that this dysbiosis is transmissible and capable of exacerbating skin inflammation via recruitment of neutrophils and production of interleukin IL-1b  .
 
 In this review we describe current evidence for the basis of the interactions between pathogens microbiota and immune cells on surface barriers and offer explanations for how these interactions may lead to chronic inflammatory disorders.Keywords immune response microbiota skin mucosa orogenital mucosa inflammationiNTRODUCTiONThe skin and mucosae constitute complex protective barriers against infection and injuries.
 
-CD4CD25 regulatory T cells control Leishmania major persistence and immunity.Nature 2002 4206915502-7. doVolz T Skabytska Y Guenova E Chen KM Frick JS Kirschning CJ et al.
-
-J Invest Dermatol 2008 128112625-30. doNakatsuji T Chen TH Narala S Chun KA Two AM Yun T et al.
-
-J Cell Biochem 2018 11921591-603. doDutzan N Abusleme L Bridgeman H Greenwell-Wild T Zangerle- Murray T Fife ME et al.
-
-Cell Host Microbe 2011 105497-506. doMaekawa T Krauss JL Abe T Jotwani R Triantafilou M Triantafilou K et al.
-
-Immunol Rev 2016 2731282-98. doTada H Matsuyama T Nishioka T Hagiwara M Kiyoura Y Shimauchi H et al.
+Skin-resident Th17 cells that are affected by the skin microbiota are also independent of those from the gut microbiota suggesting that Th17 cells of the barrier sites are regulated in a compartmentalized manner by local commensals .In the skin of both mice and humans Foxp3 regulatory T Treg cells are present in the dermis especially surrounding the hair follicles where skin-resident microorganisms also reside .
 
 The difference between skin microbiota and that of the large intestine stems largely from the direct contact of the skin with the sur- rounding environment.
 
 During puberty the skin microbiota goes through a major transition with domination of lipophilic bacteria such as Propionibacterium and Corynebacterium.The Skin immune SystemThe immune system of the skin is composed of complex network of keratinocytes and immune cells including the skin-specific antigen-presenting cells the Langerhans cells.
+
+Cutaneous leishmaniasis induces a transmissible dysbiotic skin microbiota that promotes skin inflammation.
+
+Vaginal delivery results in babies with microbiota similar to thatof mother's vagina whereas babies born via cesarean section acquire microbiota related to skin.
+
+The clinical significance of these groupings has yet to be fully explored but once established the vaginal microbiota is stable despite frequent interruptions such as sexual behavior  .The vaginal microbiota is also influenced by gene polymor- phisms and the innate immune response to the microbiota in the female genital tract has been found to be associated with these genetic variants.
+
+Other human skin commensals such as Corynebacterium pseudodiphtheriticum Propionibacterium acnes and Staphylococcus aureus also increasethe number of skin IL-17A cells and IFN-g cells but do not induce as prominent a response as the introduction of S. epider- midis.
+
+The skin of germ-free mice however has a high frequency of Foxp3 Treg cells compared with the skin of specific pathogen-free SPF mice .
 

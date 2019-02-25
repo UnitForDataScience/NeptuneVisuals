@@ -1,20 +1,20 @@
-CON control group AMI acute myocardial infarction group SHAM sham group.differences were confirmed between AMI and SHAM groups at 7 d when they clustered distinctly.These results suggested that gut microbiota was markedly changed at 7 d post-AMI.Changes of microbial communities at 7 d after AMISince the microorganisms were significantly altered at 7 d after AMI as mentioned above we then analyzed the microbial differences between AMI and SHAM group at 7 d to identify the potential microbial biomarker of AMI .
-
 The observed species 929.2- 87.8 vs. 709.3 - 24.8 P0.001 ACE 1091.4 - 131.2 vs. 800.6 - 36.7 P0.001 and Chao11087.6 - 145.0 vs. 813.0 - 51.4 P  0.001 of AMI group were significantly higher than those of SHAM group at 7 d. The observed species 709.3- 24.8 vs. 884.7 - 30.4 P0.001 ACE 800.6 - 36.7 vs. 1106.6 - 61.0 P0.001 and Chao1 813.0 - 51.4 vs. 11167.0 - 46.8 P0.001of SHAM group at 7 d were significantly lower than those of CON group.
-
-We further identified the differences of microorganisms between AMI and SHAM group at 7 d. The abundance of Synergistetes phylum Spirochaetes phylum Lachnospiraceae family Syntrophomonadaceae family and Tissierella Soehngenia genus was higher in AMI group compared with SHAM group at 7 d post-operation q0.05.
-
-B Principal coordinate analysis PCoA of gut microbiota showed that the microbial communities of AMI group at 7 d post-AMI clustered distinctly from SHAM group at 7 d. One circle represents microbiota composition all phyla combined in one subgroup n  6 one dot represents one sample.
 
 The protocol was approved by the Committee on the Ethics of Animal Experiments of Peking University People's Hospital Permit Number 2015-29.Establishment of AMI modelRats were randomly divided into three groups control group CON group AMI group and SHAM group.
 
-Control group B D F H J represents SHAM group at 12 h 1 d 3 d 7 d 14 d respectively C E G I K represents AMI group at 12 h 1 d 3 d 7 d 14 d respectively.TIFS2 Fig.
+We further identified the differences of microorganisms between AMI and SHAM group at 7 d. The abundance of Synergistetes phylum Spirochaetes phylum Lachnospiraceae family Syntrophomonadaceae family and Tissierella Soehngenia genus was higher in AMI group compared with SHAM group at 7 d post-operation q0.05.
+
+CON control group AMI acute myocardial infarction group SHAM sham group.differences were confirmed between AMI and SHAM groups at 7 d when they clustered distinctly.These results suggested that gut microbiota was markedly changed at 7 d post-AMI.Changes of microbial communities at 7 d after AMISince the microorganisms were significantly altered at 7 d after AMI as mentioned above we then analyzed the microbial differences between AMI and SHAM group at 7 d to identify the potential microbial biomarker of AMI .
+
+We found that the relative abundances of Syner- gistetes 0.002 -0.000 vs. 0 q  0.019 and Spirochaetes 0.001 - 0.000 vs. 0 q  0.050 at phy-lum level Lachnospiraceae 0.165 - 0.009 vs. 0.115 - 0.008 q  0.027 Syntrophomonadaceae0.005 - 0.001 vs. 0 q  0.027 Eubacteriaceae 0.001 - 0.000 vs. 0 q  0.027 and Dethiosulfo- vibrionaceae 0.001 - 0.000 vs. 0 q  0.027 at family level and Tissierella Soehngenia 0.001 -vs. 0 q  0.037 at genus level were significantly higher compared to SHAM group .Analysis with LEfSe also confirmed the enrichment for Lachnospiraceae family in AMI group at 7d compared with SHAM group .Changes of gut barrier after AMISince the integrity of gut barrier is closely linked to alteration of gut microbiota we further evaluate the changes of gut barrier after AMI .The microbial changes after AMI.
 
 The richness of gut microbiota was significantly higher in AMI group than SHAM group at 7 d after AMI P0.05.
 
 The richness of gut microbiota was significantly higher in AMI group than SHAM group at 7 d after AMI.
 
+B Principal coordinate analysis PCoA of gut microbiota showed that the microbial communities of AMI group at 7 d post-AMI clustered distinctly from SHAM group at 7 d. One circle represents microbiota composition all phyla combined in one subgroup n  6 one dot represents one sample.
+
 P0.05.confirmed the effect of AMI on gut microbiota and found remarkably higher richness in AMI group than SHAM group at day 7 after AMI.The mechanisms of gut microbiota alteration post-AMI remainunclear.
 
-We found that the relative abundances of Syner- gistetes 0.002 -0.000 vs. 0 q  0.019 and Spirochaetes 0.001 - 0.000 vs. 0 q  0.050 at phy-lum level Lachnospiraceae 0.165 - 0.009 vs. 0.115 - 0.008 q  0.027 Syntrophomonadaceae0.005 - 0.001 vs. 0 q  0.027 Eubacteriaceae 0.001 - 0.000 vs. 0 q  0.027 and Dethiosulfo- vibrionaceae 0.001 - 0.000 vs. 0 q  0.027 at family level and Tissierella Soehngenia 0.001 -vs. 0 q  0.037 at genus level were significantly higher compared to SHAM group .Analysis with LEfSe also confirmed the enrichment for Lachnospiraceae family in AMI group at 7d compared with SHAM group .Changes of gut barrier after AMISince the integrity of gut barrier is closely linked to alteration of gut microbiota we further evaluate the changes of gut barrier after AMI .The microbial changes after AMI.
+CON control group AMI acute myocardial infarction group SHAM sham group.
 

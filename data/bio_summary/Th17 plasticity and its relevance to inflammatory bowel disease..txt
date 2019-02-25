@@ -1,20 +1,20 @@
 Furthermore patients with IBD demonstrate increased numbers of transdifferentiated T cell populations suggestive of heightened plasticity.This review will consider the mechanisms and roles of Th17 plasticity in the pathogenesis of IBD.c 2018 Elsevier Ltd. All rights reserved.ContentsIntroduction39Inflammatory bowel disease39Topology of inflammation and Th17 development in the gut39Heterogeneity of Th1740Th17 plasticity in IBD40Th17-Th1 transdifferentiation40Treg-Th17 transdifferentiation41Th17-Th22 plasticity41Innate lymphoid cells ILC plasticity41IL-17th CD8th T cells Tc17 plasticity41Influence of Ikaros family in Th17 plasticity41Ikaros IKZF143Helios IKZF243Aiolos IKZF343 Corresponding author.
 
-Tumour Necrosis Factor a TNFa is a key inflammatory mediator produced by M4 and other immune cells and is responsible for a diverse range of signalling events within immune and non-immune cells leading to accelerating inflammation.Table 2List of Ikaros family influencing T cell development and plasticity.Environmental cues towards Th17 plasticityThe gut microbiotaSince transdifferentiation between Treg and Th17 is diminished in germ-free conditions the microbiota is considered a major player in the generation of this population in the gut e. Clostridia species in particular are recognised for their contribution to gut homeostasis through T cell plasticity.
-
 Interest- ingly a lineage marker of progenitor Th17 cells CD161 is still sus- tained in Th1 cells converted from Th17 in human  and murine models  of IBD and serves as evidence for the trans- differentiation of Th17 cells into Th1 cells since the conventional Th1 population does not express CD161.Treg-Th17 transdifferentiationGut-resident FoxP3th CD4th Treg cells demonstrate a unique phenotype which is restricted by antigen-specificity against intes- tinal components comprised of harmless dietary antigens and gut microbiota .
-
-This cytokine milieu can be a matrix of initiators of T cell transdifferentiation or plasticity.Heterogeneity of Th17In response to the surrounding microenvironment Th17 cells can secrete IFN-g and IL-22 and express FoxP3 in addition to the canonical Th17 cytokines e.g.
-
-In addition Th17 cells occasionally express FoxP3 to maintain immune cell suppression for homeo- static status of the gut e. This could explain the greater plasticity of Th17 cells compared to other T cell classes when exposed to a change in cytokine milieu.
-
-Interestingly in vitro administration of the active form of vitamin D to circulating CD3th T cells results in a decrease in IFN-g secreting CD8th Tc1 regardless of illness and this observation is accompanied by a decrease in IFN-gth IL-17th CD8th T cells .Influence of Ikaros family in Th17 plasticityMembers of the Ikaros family of zinc-finger transcriptionproposed that expression of Helios may specifically identify nTreg allowing specific tracking of Treg from different origins in health and disease  although this remains uncertain e. None- theless Heliosth and Helios- subsets may differ in surface markers and cytokines and their suppressive nature e.Aiolos IKZF3Fig.
-
-Therefore vitB3 may induce Treg and Tr-1 cells and control Th17 plasticity along with SCFA activity by increasing expression of GPR109A.Tryptophan-IDO-AhR axesAn essential amino acid tryptophan is considered to play a unique role in the T cell plasticity via the Aryl hydrocarbon receptor AhR which is a ligand activated transcription factor that has ef- fects upon T helper cell differentiation.
-
-Those cytokines can induce tolerogenic and regulatory populations such as FoxP3th regulatory T cells Treg FoxP3- TGF-bth type 1 regulatory T Tr-1 cells and IFNg- IL-17- IL-22th Th22 cells while suppressing effector T cell Teff development .
 
 Furthermore Th17 cells and Treg are implicated in both CD and UC with Th17 cells thought to play a pathogenic role whereas Treg play a crucial anti- inflammatory and immunoregulatory role .
 
+This cytokine milieu can be a matrix of initiators of T cell transdifferentiation or plasticity.Heterogeneity of Th17In response to the surrounding microenvironment Th17 cells can secrete IFN-g and IL-22 and express FoxP3 in addition to the canonical Th17 cytokines e.g.
+
 For example IL-12 and IL- 23 can enhance T-bet and promote a switch to a Th1 phenotype or IL-17th IFNgth cells e whilst IL-4 can increase GATA3 and induce IL-4 expression in Th17 cells  and anti-TNF-a via cMaf and Aiolos could drive IL-10 expression in Th17 cells .
+
+IL-10 production by Th17 cells has been strongly related to the acquisi- tion of regulatory properties by Th17 cells and the resolution of intestinal inflammation .
+
+In addition Th17 cells occasionally express FoxP3 to maintain immune cell suppression for homeo- static status of the gut e. This could explain the greater plasticity of Th17 cells compared to other T cell classes when exposed to a change in cytokine milieu.
+
+It has beenSimilar to Ikaros Aiolos may favour a Th17 outcome as Th17 frequencies are reduced and Th1 cells increased in Aiolos deficient mice.
+
+Although the full mechanism by which Aiolos favours Th17 development remains unclear its ability to suppress IL-2 expression  a property also shared by Ikaros and Eos  might be involved since IL-2 is inhibitory to Th17 differ- entiation.
+
+Tumour Necrosis Factor a TNFa is a key inflammatory mediator produced by M4 and other immune cells and is responsible for a diverse range of signalling events within immune and non-immune cells leading to accelerating inflammation.Table 2List of Ikaros family influencing T cell development and plasticity.Environmental cues towards Th17 plasticityThe gut microbiotaSince transdifferentiation between Treg and Th17 is diminished in germ-free conditions the microbiota is considered a major player in the generation of this population in the gut e. Clostridia species in particular are recognised for their contribution to gut homeostasis through T cell plasticity.
 

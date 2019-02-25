@@ -4,10 +4,6 @@ From the clinical standpoint understanding the complex network through which NLR
 
 The interaction of NLRC3 with PI3K subunits but not with AKT and PDK1 inhibits activation of the PI3K-AKT-mTOR axis.NLRC3 contains binding sites for tumor necrosis factor receptor-associated factors TRAFs within the nucleotide- binding domain which allow its association with the TLR sig- naling molecule TRAF6.Association with NLRC3 leads to auto-ubiquitylation and degradation of TRAF6 thereby tem- pering TLR-dependent activation of the NF-kB signaling pathway.Similarly the interaction of TRAF6 with p62 is required for translocation of mTOR to the lysosome for its subsequent activation.One possibility is that NLRC3 regu- lates mTOR activation by directly associating with TRAF6 and mTOR.
 
-J Immunol 2010 1854912-20 PMID2Elinav E Strowig T Kau AL Henao-Mejia J Thaiss CA Booth CJ Peaper DR Bertin J Eisenbarth SC Gordon JI et al.
-
-Nature 2001 411599-603 PMID11385576 Gagniere J Raisch J Veziant J Barnich N Bonnet R Buc E Bringer MA Pezet D Bonnet M. Gut microbiota imbalance and colorectal cancer.
-
 However we found that caspase-1 was similarly activated in wild-type WT and Nlrc3 mice  which is in line with our previous finding that IL-18 production is similar in colons of WT and Nlrc3 mice 14 d after azoxymethane AOM injection.Figure 1.
 
 Before expo- sure to AOM and DSS numbers of cyclin D1C cells were similar in the intestinal epithelium of WT mice and Nlrc3 mice .
@@ -17,4 +13,8 @@ However 14 d after AOM injection numbers of cyclin D1C cells per intestinal cryp
 Consistent with increased acti- vation of AKT we observed higher phosphorylation ofFoxO3a and FoxO1 in the colon of Nlrc3 mice than of WT mice .
 
 Caspase-8 cas- pase-3 and caspase-7 activation was lower in the colon of Nlrc3 mice than of WT mice  suggesting that reduced apoptosis during the early phase in the absence of NLRC3 contributes to increased tumorigenesis.
+
+However the expression of genes encoding BMI1 and OLFM4 was signifi- cantly higher in the colon of Nlrc3 mice than in WT mice 14 d after AOM injection .
+
+OLFM4 interacts with NLRC1 and NLRC2 which are intracellular bacterial sensors associated with Crohn disease.Future studies are needed to investigate the interac- tion between NLRC3 and OLFM4.Since activation of the PI3K-AKT pathway positively corre- lates with upregulation of Bmi1 and Olfm4 expression in the colon of Nlrc3 mice studying the post-translational modifi- cations in BMI1 and OLFM4 is likely to provide mechanistic insights into how their oncogenic potential can be manipulated.Colorectal cancer in Nlrc3 mice is not driven by microbiotaThe human gut is colonized by a diverse microbial popula- tion that includes bacteria fungi and viruseswhich play a pivotal role in maintaining homeostasis in the gut.
 

@@ -1,20 +1,20 @@
-When added to PCPS liposomes the mRELMb C terminus yielded a dye efflux rate that exceeded that of full-length mRELMb while the mRELMb N terminus resulted in virtually no dye release Fig.
-
 Thus RELMb limits the association of bacteria with colonic tissues.Because RELMb preferentially kills Gram-negative bacteria we predicted that Retnlb-- mice would show an increased abun- dance of tissue-associated Gram-negative bacteria.
 
 RegIIIg is a bactericidal protein that specifically targets Gram-positive bacteria in the small intestine 4 15 20Lypd8 binds to flagellin and thus reduces the motility of flagel- lated Gram-negative bacteria in the colon 5 and ZG16 binds and aggregates Gram-positive bacteria in the colon 6.
 
-1 E and F. Thus RELMb permeabilizes the bacterial mem- brane suggesting a mechanism for its bactericidal activity.Interestingly the bactericidal activity of RELMb was dependenton the growth phase of the target bacteria as C. rodentium grown to midlogarithmic phase was more readily killed than stationary- phase bacteria Fig.
-
 Purified recombinant mouse RELMb mRELMb B or human RELMb hRELMb C  were added to midlogarithmic phase bacteria for 2 h and numbers of surviving bacteria were quantified by dilution plating.
 
-The mRELMb C terminus produced greater FRET than full-length mRELMb Fig.
-
-Both full-length mRELMb and the mRELMb C terminus triggered rapid dye efflux in lipo- somes loaded with CF 10-A Stokes diameter but not liposomes loaded with fluorescein isothiocyanate-dextran 10 FD10 44-A Stokes diameter Fig.
+When added to PCPS liposomes the mRELMb C terminus yielded a dye efflux rate that exceeded that of full-length mRELMb while the mRELMb N terminus resulted in virtually no dye release Fig.
 
 Other secreted proteins limit access of bacteria to the inner mucus layer of the colon including Ly6PLAUR domain containing 8 Lypd8 which binds to flagellated bacteria 5 and zymogen granulae protein 16 ZG16 which aggregates Gram-positive bac- teria 6.
 
 These findings are similar to those obtained with the antibacterial proteins RegIIIg 20 and human b-defensin-3 18 which both kill bacteria by membrane permeabilization suggesting that RELMb might kill bacteria through a similar mechanism.We assessed the capacity of RELMb to permeabilize bacterial membranes by quantifying bacterial uptake of the membrane impermeant dye propidium iodide PI.
 
+1 E and F. Thus RELMb permeabilizes the bacterial mem- brane suggesting a mechanism for its bactericidal activity.Interestingly the bactericidal activity of RELMb was dependenton the growth phase of the target bacteria as C. rodentium grown to midlogarithmic phase was more readily killed than stationary- phase bacteria Fig.
+
 Purified recombinant hRETN was added to midlogarithmic phase bacteria for 2 h and numbers of surviving bacteria were quantified by dilution plating.
+
+C. rodentium was treated with 5 mM mRELMb hRELMb or BSA and PI uptake was measured over 2 h. F PI uptake by C. rodentium in the presence of increasing concentrations of mRELMb or hRELMb.
+
+To determine which domain of mRELMb drives membrane permeabilization we synthesized a peptide representing the N-terminal a-helix and expressed a recombinant mRELMb C terminus.
 

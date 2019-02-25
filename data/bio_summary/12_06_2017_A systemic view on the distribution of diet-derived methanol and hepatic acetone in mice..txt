@@ -1,20 +1,20 @@
-Kistler M Szymczak W Fedrigo M Fiamoncini J Hollriegl V Hoeschen C Klingenspor M Hrabe de Angelis M and Rozman J 2014 Effects of diet-matrix on volatile organic compounds in breath in diet-induced obese mice J.
-
-Nakhleh M K et al 2016 Diagnosis and classification of 17 diseases from 1404 subjects via pattern analysis of exhaled molecules ACS Nano Obermeier J Trefz P Happ J Schubert J K Staude HFischer D-C and Miekisch W 2017 Exhaled volatile substances mirror clinical conditions in pediatric chronic kidney disease PLoS One O'Hara M E Clutton-Brock T H Green S and Mayhew C A 2009 Endogenous volatile organic compounds in breath and blood of healthy volunteers examining breath analysis as a surrogate for blood measurements J.
-
-van Vliet D Smolinska A Jobsis Q Rosias P Muris J Dallinga J Dompeling E and van Schooten F-J 2017 Can exhaled volatile organic compounds predict asthma exacerbations in children J.
-
 In addition PCA and hierarchical clustering clearly separated samples from mice fed a chow diet from LFD mice.
 
-Kistler M et al 2016 Diet-induced and mono-genetic obesity alter volatile organic compound signature in mice J.
+Animal models for human disease such as mutant mice provide the possibility to reproduce genetic predisposition to disease thereby allowing in-depth analysis of metabolic and biochemical functions.
 
-Sweeting J N Siu M McCallum G P Miller L and Wells P G 2010 Species differences in methanol and formic acid pharmacokinetics in mice rabbits and primates Toxicol.
+For this we fed C57Bl6N mice a grain-based chow or a purified low-fat diet thereby modifying the emission of methanol in breath whereas acetone levels were unaffected.
 
-Axelrod J and Daly J 1965 Pituitary gland enzymic formation of methanol from S-adenosylmethionine Science Baranska A et al 2016 Volatile organic compounds in breath as markers for irritable bowel syndrome a metabolomic approach Aliment.
+Our findings are a first step to the systemic mapping of VOC patterns to metabolic functions in mice because differences between VOCs could be traced to different sources in the body.
 
-Bean H D Rees C A and Hill J E 2016 Comparative analysis of the volatile metabolomes of Pseudomonas aeruginosa clinical isolates J.
+For such approaches stable iso- tope-labeled substrates were administered in mice to follow up specific VOCs Sinues et al .
 
-Diliberto E J and Axelrod J 1974 Characterization and substrate specificity of a protein carboxymethylase in the pituitary gland Proc.
+Evidently mammalian model organisms such as laboratory rats or the C57BL6N mouse facilitated pilot work in this field Aprea et al  Szymczak et al  Huppe et al  Kistler et al  Sinues et al .We investigated systemic VOC distribution in organs blood feces urine and breath of male C57BL 6N mice that were fed a purified low-fat experimental diet or standard laboratory chow.
 
-Diliberto E J and Axelrod J 1976 Regional and subcellular distribution of protein carboxymethylase in brain and other tissues J. Neurochem.
+By using such a system-wide approach the so far largely unex- plored links between several tissues and VOCs that finally contribute to the sum signal presented in breath can be investigated and mapped to metabolic functions.Material and methodsAnimal housing and diet regimesMale mice n34 were housed in type IIL poly- carbonate cages with individual ventilation Tecni- plast Italy in specific pathogen-free conditions at the German Mouse Clinic GMC Fuchs et al .
+
+All mice had ad libitum access to pelleted laboratory chow no.
+
+From the age of 32 weeks on mice were randomly assigned to either continued chow diet feeding or a semi-purified LFD low fat E 15000-04 Ssniff Soest Germany for a period of 3 weeks until the VOC analysis measurements were conducted.
+
+All experiments were performed following animal welfare regulations supervised by the district government of Upper Bavaria Regierung von Oberbayern.Analysis of VOCs from ad libitum fed mice was performed between 7 am and 1 pm.
 

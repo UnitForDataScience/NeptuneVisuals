@@ -1,14 +1,8 @@
 LCA lithocholic acid CDCA chenodeoxycholic acid CA cholic acid DCA deoxycholic acid TLCA taurolithocholic acid TDCA taurodeoxycholic acid TCDCA taurochenodeoxycholic acid TCA taurocholic acid AU Arbitrary units.
 
-In agreement with the findings on IFNg we observed that LCA also substantially inhibited IL-2 gene expression upon screening several bile acid species Panel C of .LCA inhibits IFNg gene expression in Jurkat T cells A Cell viability of Jurkat T cells measured by flowcytometry analysis and expressed as percentage of control in response to incubation with unconjugated bile acids and B taurine-conjugated bile acids for 24 hours.
-
 Outside the enterohepa- tic circulation bile acids reach micromolar concentrations in the systemic circulation that fluctuate upon meal intake  .The presence of bile acids in the systemic circulation and the fact that bile acids are able to induce specific signaling via dedicated bile acid receptors has established bile acids as hor- mone-like signaling molecules at the crossroad between food sensing and metabolism .
 
 The enzyme Cholesterol 7 a-hydroxylase CYP7A1 is a key enzyme in bile acid synthesis and converts cholesterol to the bile acid-precursor 7a-hydroxycholesterol.Subsequent conversions and conjugation results in the generation of the primary bile acids che- nodeoxycholic acid CDCA and cholic acid CA .
-
-We observed that bile acids predominantly the unconjugated bile acids only induce clear PARP1 cleavage at very high concentrations of 1 mM Panel A and B of .We then performed our screening experiment in which Interferon IFN-g mRNA expres- sion was determined in Jurkat T cells in response to 10 mM bile acid a concentration that does not affect cell viability.
-
-It however remains to be investigated whether LCA induces T cell senescence.We profiled the bile acid sensor in Th cells and observed that multiple bile acid receptors are expressed in Th cells notably TGR5 FPR S1PR2 PXR and VDR.
 
 Glycine- and taurine-conjugated bile acids enter the gut where the microbiota deconjugateCompeting interests The authors have declared that no competing interests exist.and metabolize primary bile acids to secondary bile acids lithocholic acid LCA and deoxycholic acid DCA.
 
@@ -16,5 +10,11 @@ The bile acids used for screening included taurine-conjugated and unconjugated v
 
 Sodium taurodeoxycholate hydrate tau- rocholic acid sodium salt hydrate sodium taurochenodeoxycholate sodium taurolithocholate lithocholic acid deoxycholic acid chenodeoxycholic acid and cholic acid all from Sigma- Aldrich were dissolved in dimethylsulfoxide DMSO and subsequently further diluted in the culture medium to a final DMSO concentration of 0.1.
 
+We observed that bile acids predominantly the unconjugated bile acids only induce clear PARP1 cleavage at very high concentrations of 1 mM Panel A and B of .We then performed our screening experiment in which Interferon IFN-g mRNA expres- sion was determined in Jurkat T cells in response to 10 mM bile acid a concentration that does not affect cell viability.
+
+In agreement with the findings on IFNg we observed that LCA also substantially inhibited IL-2 gene expression upon screening several bile acid species Panel C of .LCA inhibits IFNg gene expression in Jurkat T cells A Cell viability of Jurkat T cells measured by flowcytometry analysis and expressed as percentage of control in response to incubation with unconjugated bile acids and B taurine-conjugated bile acids for 24 hours.
+
 In the current study we screened common bile acid species to investigate the potency of bile acids with regard to their ability to affect adaptive immune cell responses to uncover novel signaling roles of bile acids.
+
+Interestingly out of all conjugated and unconjugated bile acid species tested we identified unconjugated LCA as the only bile acid species that significantly inhibited IFNg mRNA expression .
 

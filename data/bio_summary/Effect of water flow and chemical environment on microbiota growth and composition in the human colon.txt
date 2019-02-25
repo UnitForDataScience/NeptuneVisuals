@@ -1,20 +1,20 @@
-3 reproduce a number of published observations remarkably well The absolute magnitude of bacterial densities in the beginning of the colon 16 and in feces 1 19 the sharp drop in pH at the beginning of the colon and the later rise to neutral values 24 30 as well as SCFA concentrations in the dif- ferent parts of the colon 24 30 have all been measured in human subjects and are quantitatively captured by our model without pa- rameter fitting see SI Appendix Table S3 for a comparison ofmodeling results with literature data.These results show that bacterial growth at least of the primary carbohydrate consumers takes place in the proximal colon Fig.
-
-2 and SI Appendix section 2.2.Growth dynamics is governed by the growth rates lB and lF which de- pend on the local nutrient concentration n through the Monod form SI Appendix Eq.
-
-c2c  t  D x2 - x 12vdxThc  eBCO2 lBdn pHThrB  eFCO2 lFdn pHThrF ac  JSCFAdsTh - ecdc pHTh5lumen have to buffer more protons coming from SCFAs and total carbonate full discussion in SI Appendix section 4.Details of model implementation including boundary conditions and numerical solution are given in SI Appendix section 5.
-
-This effect is modeled by the term ecdc pHTh which includes the observed membrane permeability and the pH- dependent dissociation of CO2 into bicarbonate and protons.Finally local pH is obtained from the local SCFA and carbonate concen- trations pH x t  W s c SI Appendix Eq.
-
-In short pH follows observed buffer behavior of the luminal fluid and a self-consistent solution of the dissociation dynamics For lower pH the buffer components in themarized in SI Appendix Tables S1 and S2.ACKNOWLEDGMENTS.
-
-2C In a recent in vitro study 11 it has been shown that hydrodynamic mixing in combination with bacterial growth allows maintenance of stable bacterial populations even for high flow rates here we discuss the situation in the human gut in SI Appendix Fig.
-
-This in turn leads to a local drop in pH affecting bacterial growth 12 13.To quantitatively understand this pH change and its influence on bacterial growth physiology in the gut we first conducted controlled experiments with Bacteroides thetaiotaomicron Bt and Eubacterium rectale Er as members of the phyla Bacteroidetes and Firmicutes respectively.
-
-These findings clearly illustrate the importance of understanding spatial bacterial growth dynamics in the colon Fecal microbiota compo- sition is a consequence of bacterial growth in the proximal colon.To predict how changes in bacterial and host physiology may affect microbiota composition we performed a sensitivity analysis for a number of physiologically relevant parameters see SI Ap- pendix Table S4 for a comprehensive list of parameters.
+We further characterized the rates of bacterial growth carbohydrate consumption and fermentation product excretion for representatives of the two dominant bacteria phyla Bacteroidetes and Firmicutes that typically make up more than 90 of the bacterial cells observed in the gut 6.Combining these aspects of human and bacterial physiology into a coarse-grained mathematical model allowed us to study bacterial growth dynamics in the human gut.
 
 Both of these effects lead to a drop in pH and thus via the differential pH feedback on bacterial growth to an advantage for Firmicutes.We have shown that detailed and quantitative data on human and bacterial physiology can be used to understand their interac- tions leading to mechanistic insights into main factors shaping the composition of microbiota in the gut.
 
-We further characterized the rates of bacterial growth carbohydrate consumption and fermentation product excretion for representatives of the two dominant bacteria phyla Bacteroidetes and Firmicutes that typically make up more than 90 of the bacterial cells observed in the gut 6.Combining these aspects of human and bacterial physiology into a coarse-grained mathematical model allowed us to study bacterial growth dynamics in the human gut.
+We find that changes in pH values in the colon that are due to the secretion of acidic fermentation products and shaped by human physiology such as flow through the colon mixing of colonic contents epi- thelial absorption of water and fermentation products are key to understanding changes in microbiota composition by their fer- mentative mode of growth members of the gut microbiota are forced to acidify their environment and because different species exhibit different sensitivities to pH changes this internal feedbackchanges the microbiota composition.
+
+These findings clearly illustrate the importance of understanding spatial bacterial growth dynamics in the colon Fecal microbiota compo- sition is a consequence of bacterial growth in the proximal colon.To predict how changes in bacterial and host physiology may affect microbiota composition we performed a sensitivity analysis for a number of physiologically relevant parameters see SI Ap- pendix Table S4 for a comprehensive list of parameters.
+
+3 reproduce a number of published observations remarkably well The absolute magnitude of bacterial densities in the beginning of the colon 16 and in feces 1 19 the sharp drop in pH at the beginning of the colon and the later rise to neutral values 24 30 as well as SCFA concentrations in the dif- ferent parts of the colon 24 30 have all been measured in human subjects and are quantitatively captured by our model without pa- rameter fitting see SI Appendix Table S3 for a comparison ofmodeling results with literature data.These results show that bacterial growth at least of the primary carbohydrate consumers takes place in the proximal colon Fig.
+
+This in turn leads to a local drop in pH affecting bacterial growth 12 13.To quantitatively understand this pH change and its influence on bacterial growth physiology in the gut we first conducted controlled experiments with Bacteroides thetaiotaomicron Bt and Eubacterium rectale Er as members of the phyla Bacteroidetes and Firmicutes respectively.
+
+2C In a recent in vitro study 11 it has been shown that hydrodynamic mixing in combination with bacterial growth allows maintenance of stable bacterial populations even for high flow rates here we discuss the situation in the human gut in SI Appendix Fig.
+
+S1.To understand the growth conditions these bacteria encounter in the human colon it is also essential to quantify the important as- pects of human physiology affecting bacterial growth dynamics.
+
+Because Bacteroidetes grows faster than Firmicutes at neutral pH C it has a growth advantage over Firmicutes at higher pH whereas the reverse is true at lower pH.
+
+Although Bt can grow faster than Er at neutral pH Er has a less sensitive growth response to a drop in pH than Bt and is thus less affected by the acidification caused by fermentative growth Fig.
 

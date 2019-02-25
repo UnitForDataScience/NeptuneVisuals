@@ -2,19 +2,19 @@ DNA was extracted using the Qiagen DNeasy blood and tissue kit Qiagen Valencia C
 
 PROKARYOTESMetagenomic 16S rRNA Sequencing Analysis of Pacific Oyster Crassostrea gigas Microbiota from the Puget Sound Region in the United StatesZhen Lia Leyi WangbWashington State Department of Health Public Health Laboratories Shoreline Washington USAa Ohio Department of Agriculture Animal Disease Diagnostic Laboratory Reynoldsburg Ohio USAbABSTRACT This is the first study analyzing Pacific oyster microbiota in the Puget Sound estuarine system using a next-generation sequencing method.
 
-A total of 13 Hood Canal samples and 11 Oakland Bay samples were collected over this period of time.
-
 PANDAseq paired-end assembler for Illumina sequences.
 
 Oyster samples were collected during low tide at Hood Canal 47.66585 -122.90285 and Oakland Bay 47.228614 -123.063575 growing areas in the Puget Sound estuarine system from July to October 2014.
 
-The numbers of raw paired-end reads ranged from 79174 to 2497062 in these oyster samples.
+A total of 13 Hood Canal samples and 11 Oakland Bay samples were collected over this period of time.
 
-Filtered and assembled sequences are also publicly available on the MG-RAST server under the project ID mgp15218 and MG-RAST ID mgm4666675.3 to mgm4666698.3.ACKNOWLEDGMENTSThis project was supported in part by an appointment to the Research Participation Program at the Center for Food Safety and Applied Nutrition by the Oak Ridge Institute for Science and Education through an interagency agreement between the U.S. De- partment of Energy and the U.S. Food and Drug Administration.REFERENCESKaysner CA DePaola A Jr. 2004.
+The numbers of raw paired-end reads ranged from 79174 to 2497062 in these oyster samples.
 
 DECIPHER a search-based ap- proach to chimera identification for 16S rRNA sequences.
 
 Naive Bayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy.
 
 Small numbers of operational taxonomic units OTUs be- longing to the Vibrio genus were detected in all the oyster microbiome samples.arvesting of Pacific oysters Crassostrea gigas is an important component of the maritime economy in the Puget Sound region.
+
+gigas microbiota in the Puget Sound estuarine system of the U.S. Pacific coast.
 

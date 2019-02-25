@@ -12,9 +12,9 @@ We close with a discussion of future research frontiers in CRC prevention with p
 
 Applying principle components analysis to dietary intake data investigators identified three distinct dietary patterns 1 a MD pattern characterized by high consumption of olive oil fresh fruit vegetables legumes lean meat and fresh fish intake and low consumption of coffee meat beer fats whole-grain bread and cereals and delicatessen 2 a Western dietary pat- tern with high intake of potatoes fats delicatessen products high-fat meat beer rice pasta refined bread and cereals nuts and sodas and 3 a snacks dietary pattern with high positive loading for high-fat delicatessen meats high-fat cheese desserts and sweets beer soda and mineral water.
 
-Nutrition 2016 3248-55. doGagniere J Raisch J Veziant J Barnich N Bonnet R Buc E et al.
-
 An example query for a secondary search was Mediterranean vegetables AND colorectal cancer or Mediterranean dairy AND colorectal cancer.
 
 In secondary analyses stratified by cancer site the MD decreased risk of colon proximal colon distalcolon and rectal cancer  .CohortsUnlike case-control studies which suggested a decreased risk of CRC with adherence to a MD results of cohort studies  have been somewhat inconclusive.
+
+In HCT116 human colon cancer cells the deleted in colon cancer DCC gene sequence was enriched with the repressive marks H3K9me3 and H3K27me3 whereas the permissive mark H3K4me3 was absent .
 

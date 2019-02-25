@@ -8,8 +8,6 @@ Notably administration of L. rhamnosus before respiratory syncytial virus infect
 
 Moreover further investigations are warranted to resolve differences in the composition of the gut microbiota in different mouse strains and the influence of their respective microbiota on health and disease.Recently our knowledge of the respiratory microbiome has improved significantly.
 
-Sci Rep 2016 6 1-9.Monteagudo-Mera A Arthur J Jobin C Keku T Bruno-Barcena J Azcarate-Peril M. High purity galacto-oligosaccharides enhance specific Bifidobacterium species and their metabolic activity in the mouse gut microbiome.
-
 Furthermore recent evidence sug- gests that normal ageing profoundly affects the composition of microbiome in both humans and miceand is strongly influenced by BMI 1.Effects of diet and other factors on microbiome composition Thomson and co-workers analysed stool samples from nine infants age 7 days-10.5 months followed weekly for 16 weeks and reported that the infant microbiome was affected by age diet and day-care attendance.
 
 This was in comparison with a diet rich in polyunsaturated lipids in which the genera ActinobacteriaBifidobacterium and Adlercreutzia Lactobacillus Streptococcus Verru- comicrobia Akkermansia muciniphila Alphaproteobacteria and Delta- proteobacteria were increased.Effects of microbiome in health and regulation of host immunity Normal gut microbiota perform a wide range of metabolic activities that benefit the host.
@@ -17,4 +15,6 @@ This was in comparison with a diet rich in polyunsaturated lipids in which the g
 Similar to gut microbiota the 'core' airway microbiota in healthy lungs is predominantly comprised of the phyla Bacteroidetes Firmicutes and Proteobacteria followed by lesser proportions of Actinobacteria.
 
 These findings clearly demonstrate a critical role for normal microbiota as well as its metabolites in shaping and modulating host immune responses not only in intestinal tract but also at other sites such as the lungs.Disruption of either the composition or overall numbers of 'normal' microbiota in both gut and lungs is termed as 'dysbiosis' and may contribute to the development progression or exacerbation of various inflammatory disorders of lungs including asthma COPD and CF.
+
+Consumption of fibre is also important in maintaining the composition of the microbiome as a low fibre diet has recently been shown to cause an irreversible loss in gut bacterial diversity over several generations in mice.Lee and Ko reported that oral administration of retinoic acid significantly increased the abundance of members of Lactobacillaceae families in the murine gut which inhibited murine noroviral replica- tion in the host through the upregulation of interferon-b.
 

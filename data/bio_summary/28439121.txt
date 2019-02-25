@@ -1,4 +1,8 @@
+We deliberately kept the taiga and OSTP samples separate even though we expected high amounts of similarity between them in certain aspects when compared to other samples due to evidence of ample distinctive characteristics in the said samples in their parent studies .
+
 Actinobacteria and Chloroflexi were consistently identified in all samples with significant increase in A samples while Bacteroidetes showed higheraverage relative abundance in DWH and I samples Fig.
+
+Other highly specific increases in average relative abundance at the family level as compared to other samples included Microbacteriaceae 19 for A sam- ples Alteromonadaceae 14 Xanthomonadaceae 20 for DWH samples and Moraxellaceae 26 for OSC samples Supplementary Table .Similarity in bacterial community structure and detection of taxonomic biomarkers of oil pol- luted environments.
 
 Phylum Actinobacteria and class Actinobacteria which were detected as biomarkers in the A samples exhibited significant correlations with almost all differentially abundant KOs for A samples including hydrocarbon degrading genes as pcaG phenol-2-monooxygenase bbsH and pcaL data not shown.In OSC samples over-represented taxa Methylobacterium was associated with genes involved in degradation of furfural and other hydrocarbons Supplementary Fig.
 
@@ -12,9 +16,5 @@ For instance Acidobacterales had a 21 mean relative abundance in I while Burkhol
 
 Additionally Xanthomonadales showed increased mean relative abundance 15-20 in I and DWH samples and Actinomycetales dominated A samples with an average relative abundance of 24 Fig.
 
-The largest number of differentially abundant modules were attributed to the OSC samples 70 while the least 8 were attributed to the OSTPm samples Supplementary Fig.
-
-For example three different KEGG modules for lysine biosynthe- sis M00525-M00527 and one each for threonine methionine and cysteine biosynthesis M00018 M00017 M00021 were significantly abundant in Tb samples while KEGG modules for valineisoleucine phenylalanine tyrosine leucine and isoleucine biosynthesis M00019 M00024 M00026 M00040 M00432 M00535 M00570 were over-represented in Tp samples Fig.
-
-For example abundance for alkane-1-monooxygenase K00496 was contributed mainly by Alteromonadaceae in DWH samples Comammonadaceae in I Mycobacteriaceae and Nocardiaceae in C Propionibacteriaceae in OSC and a mixture of Acetobacteraceae Mycobacteriaceae Nocardiaceae and Rhodospirillaceae in the taiga samples Supplementary Fig.
+While Caulobacteraceae and Sphingomonadaceae were highly enriched in the taiga samples with an average relative abundance of 19 and 29 respectively Comamonadaceae exhibited a highly elevated mean relative abundance of 30 in the OSTP samples Supplementary Table .
 

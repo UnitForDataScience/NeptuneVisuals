@@ -1,20 +1,20 @@
-Because D is real and symmetric we can always write D  BEBT where B is orthogonal and E is diagonal however the elements of E may not all be positive unless D is Euclidean.We can attempt to restore the relationship between the eigenvectors of D and linear com- binations of the rows of X in two ways either using the singular value decomposition of X as our guide or using prediction of the left singular vectors of X that are used for ordination as our guide.
+For p  q let R be a p - qx p-dimensional matrix having orthonormal columns that span the orthogonal compliment of the space spanned by the columns of R. Because the columns of any p x d-dimensional matrix can we written in terms of the basis given by the columns of R and R we have W  RQ  R A for matrices Q and A. Inserting this form into fW and using RT R  0 and XR  0 we findf dWTh 14 jjX - BQTRTjj2 th jjATAjj2 .
+
+This may be because a certain set of OTUs may allow good prediction of a columns of B even if these OTUs do not explain much of the overall variability in the OTU table e.g.
+
+While this separation is useful in showing that OTUs vary systematically across groups investigators often wish to know which OTUs contribute most to this separation.
+
+In we show the 11 OTUs that were selected to be on the list of the top 5 OTUs foreach method along with the variability explained by that OTU and its rank by each method.
+
+We found that both orthogonal approaches and unconstrained decomposition were in broad agreement similar model sums of squares similar OTUs identified as impor- tant while unconstrained regression behaved very differently identifying very different OTUs as important and having a small model sum of squares.
+
+These pipelines produce OTU counts abundances that can be summarized in a data matrix X here we take the rows to correspond to observations and the columns to species or OTUs.
 
 Whatever scaling and centering is applied the data matrix X can always be written using the singular value decompo- sition SVD asX 14 LSRTd1Thwhere L is a n x q matrix with orthonormal columns S is a q x q diagonal matrix having posi- tive entries and R is a p x q matrix with orthonormal columns where q is rank of X.
 
 If we are willing to measure similarity between observations using D  XXT then the columns of L com- prise the coordinates of the observations in a principal components analysis or a principal coordinates analysis PCoA if count data in X have been scaled and centered as described above since the columns of L are also the principal components of XXT.
 
-The SVD is also the start- ing point for constructing a biplot of the data.If the data from each observation is standardized and we use D  I - XXT to measure dis-tance then using we see that the eigenvectors of D are given by the columns of L. In this situation given only the kth PC of D i.e.
+Note that if we are only inter- ested in a subset of the columns of B we can replace B by Bd the n x d matrix that contains the d columns of interest.
 
-For p  q let R be a p - qx p-dimensional matrix having orthonormal columns that span the orthogonal compliment of the space spanned by the columns of R. Because the columns of any p x d-dimensional matrix can we written in terms of the basis given by the columns of R and R we have W  RQ  R A for matrices Q and A. Inserting this form into fW and using RT R  0 and XR  0 we findf dWTh 14 jjX - BQTRTjj2 th jjATAjj2 .
-
-Thus if X contains the untransformed counts or even if the data matrix is scaled by the library size for each observation in the limit this corresponds to usingXij 14 pijM or Xij 14 pij if we scale the rows of X by the library sizes where pij is the frequency of the jth OTU in the ith sample and M is the number of reads selected in each rarefaction.Since centering for PCoA is also linear in the elements of X this argument suggests that using the empirical frequencies without rarefaction at least for the decomposition approaches is warranted.Turning now to the relationship between the orthogonal regression and decomposition approaches the objective function for the orthogonal regression approach given in assigns equal importance weight to the prediction of each column of B.
-
-However once a distance is calculated it is difficult to know which species or OTUs contribute to the observed distances or to place future observations in an ordination plot to see if they cluster with the 'correct' group.In high-dimensional data important linear combinations of features are frequently obtained by calculating the PCs of XT X the correlation or covariance matrix of the data depending on how X is scaled.
-
-Of course Eqs and  are immediate consequences of the SVD and coordinates for observations L factor loadings R and constants S can be calculated simultaneously.If we wish to use an arbitrary distance matrix D then the eigenvectors of D will not corre- spond to the left singular vectors of X.
-
-Note that the components are sorted by the eigenvalues of B not the magnitude of D so that the generally monotonic decrease in D values indicates directions that are important in describing B are also important in describing X.
-
-These pipelines produce OTU counts abundances that can be summarized in a data matrix X here we take the rows to correspond to observations and the columns to species or OTUs.
+Note that Lemma 1 implies that mini- mization of is equivalent to minimization of jjLS - BQTjj2 for q x d--dimensional matrix Q which implies we can find a unique minimizer even when p  n since q S minp n. By direct optimization we find that if the columns of B are orthogonal the minimizer of isWdu  VduDdu 14 XTBd6Thgiven Wdu Ddu and Vdu are determined by the norms of the columns of Wdu.Unlike  optimization of produces a family of solutions.
 

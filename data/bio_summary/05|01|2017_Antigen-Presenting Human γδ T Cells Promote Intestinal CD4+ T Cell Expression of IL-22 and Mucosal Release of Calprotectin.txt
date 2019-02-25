@@ -1,0 +1,20 @@
+For isolation of naive and memory sub- sets bulk CD4 T cells were labeled with anti-CD4 anti-CD45RA and anti-CCR7 mAbs prior to sorting using a FACSAria II BD Biosciences to obtain naive CD4 CD45RA CCR7 and memory CD4 CD45RA2 CCR72 populations of .99.4 purity.Generation of polarized T helper subsetsNaive CD4 T cells were polarized in anti-CD3 coated flat-bottom 96-well plates 5 mgml for Th1 cells 2.5 mgml for all other conditions in the presence of 1 mgml anti-CD28 together with the following reagents Th1 100 Uml IL-2 20 ngml IL-12 and 10 mgml anti-IL-4 Th2 20 ngml IL-4 and 10 mgml anti-IFN-g Th17 20 ngml IL-1b 50 ngml IL-6 2 ngml TGF-b and 10 mgml each of anti-IL-4 and anti-IFN-g and Th22 50 ngml IL-6 20 ngml TNF-a and 10 mgml each of anti-IL-4 and anti-IFN-g.APC assaysFor MLRs APCs and allogeneic CD4 T cells were cocultured at a 110 ratio.
+
+p  0.05 p  0.01 p  0.001.3422INTESTINAL CD4 T CELL POLARIZATION BY HUMAN gd T-APCsgd T-APC plasticity exerts a profound influence on the polariza- tion of naive CD4 T cells and that gdIL-15 T-APCs display an unexpected capacity to promote the differentiation of IL-22 IL-172 CD4 T cells.gdIL-15 T-APCs enhance IL-22 responses in memory CD4 T cellsWe next assessed whether gd T-APCs could similarly influence the outcome of established effectormemory CD4 T cell responses.
+
+The pathways underpinning the specific induction of IL-22 IL-172 CD4 T cells in the human gut remains unknown 16.Myeloid APCs may not be the only Ag-presenting populations in the intestine that can modulate local CD4 T cell responses.
+
+However little is known about the capacity of such gd T-APCs to polarize CD4 T cell responses especially in anatomical compartments other than blood.In this report we demonstrate that human microbe-responsive Vg9Vd2 T cells readily acquire gut-homing and Ag-presenting functions and stimulate CD4 T cell responses distinct from those induced by monocytes or DCs.
+
+Bulk CD4 T cells .95 purity were isolated from PBMC via negative selection using the CD4 T cell Isolation Kit Miltenyi.
+
+To assess CD4 T cell responses to complex Ag preparations APCs were cultured with 1 mgml PPD for the final 24 h of APC gener- ation and washed three times prior to coculture with autologous CD4 T cells.
+
+Hor- izontal lines display the median and error bars indicate the interquartile range.ResultsHuman gut gd T cells polarize naive CD4 T cells toward production of IFN-g and IL-22To assess the potential of gd T cells to exert APC functions in the human gut colonic organ cultures were either left untreated or stimulated with the microbial Vg9Vd2 T cell ligand HMB-PPeffects on CD4 T cell responses.
+
+These findings indicate that IL-2 and IL-15 play crucial and distinct roles in the acquisition of a gut-homing APC phenotype by human Vg9Vd2 T cells.gd T-APCs polarize naive CD4 T cells toward distinct effector phenotypesWhen assessing the resulting effector functions of stimulated CD4 T cells we observed striking outcomes depending on the type of APC used.
+
+D Polarization of superantigen-specific naive CD4 T cells in response to autologous APCs pulsed with TSST-1 within the Vb2 CD4 gate.
+
+As with naive CD4 T cells both gdIL-2 and gdIL-15 T-APCs induced memory CD4 T cell proliferation with comparable efficiency to that displayed by mDCs Fig.
+

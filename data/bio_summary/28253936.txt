@@ -1,11 +1,3 @@
-19988186-94.Bankevich A Nurk S Antipov D Gurevich AA Dvorkin M Kulikov AS et al.
-
-20138e69125.Marchler-Bauer A Derbyshire MK Gonzales NR Lu S Chitsaz F Geer LY et al.
-
-Boca Raton CRC Press 2002.Vizcaino JA Deutsch EW Wang R Csordas A Reisinger F Rios D et al.
-
-1993 1392041-5.Helling S Vogt S Rhiel A Ramzan R Wen L Marcus K et al.
-
 acknowledges funding from the DFG NO4075-1.Availability of data and materialsSequencing data of the sample was submitted to the European Nucleotide Archive under project number PRJEB16064 and sample accession number ERP017906.
 
 The method does not rely on a comprehensive evaluation of the metagenome and metaproteome data but rather utilizes both to simplify the discovery of proteins exhibiting a desired enzyme activity.Metaproteomics is quickly becoming a well-established high-throughput meta-omic approach to study microbial ecology as recently reviewed in and .
@@ -17,4 +9,12 @@ To verify the biocatalytic activity of the uncharacterized hydrolase ML-005 its 
 After separation proteins were refolded in the gel and an in-gel activity assay based on the fluorogenic lipase substrate para-methylumbelliferyl butyrate pMUBwas performed.
 
 The obtained database contained approximately 161000 proteins of which 37.6 were annotated as hypothetical proteins with un- known function.This customized database was then used to analyze the mass spectra obtained from the 14 lipolytically active protein spots Additional file Table S1.
+
+The limitations of our approach pertain to the difficulties inherent in the isolation of proteins and DNA from environmental samples -The complete phylogenetic diversity of a sample could only be harnessed if all DNA and all proteins expressed in the sample would be isolated.
+
+Sukul et al.
+
+19988186-94.Bankevich A Nurk S Antipov D Gurevich AA Dvorkin M Kulikov AS et al.
+
+20008373-83.Lescic Asler I Ivic N Kovacic F Schell S Knorr J Krauss U et al.
 

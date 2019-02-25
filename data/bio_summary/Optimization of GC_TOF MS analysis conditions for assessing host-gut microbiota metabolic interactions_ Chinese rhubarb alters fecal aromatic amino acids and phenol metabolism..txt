@@ -2,9 +2,9 @@ Peak intensities for pentanoic acid valine leucine isoleucine 3-phenyllactic aci
 
 Method 2 MC 21 locates in the left side of the inner circle and emphasized the majority fatty acid meta- bolismlipids metabolism 3 TCA Cycle intermediates isocitric acid a-ketoglutaric acid and succinic acid polyamines purine and pyrimidine derivatives and 2 metabolites from tyrosine and phenylalanine metabolism phenylacetic acid and mandelic acid.
 
-The added compounds were amino acids with the amounts of 1 2 4 10 15 20 30 40 50 nmol organic acids and fatty acids with the amounts of 0.5 1 2 5 7.5 10 15 20 25 nmol amines and nucleotides with the amounts of 0.25 0.5 1 2.5 3.75 5 7.5 1012.5 nmol.b Correlation coefficient r2 were calculated for the linear range listed in the table.c The LOD was calculated from the analysis of the reference standards with a SN of 61. d The LOQ was calculated from the analysis of the reference standards with a SN of 101. e Distribution of metabolites related to host-gut microbiota co-metabolism.f The compound is derived from gut microbiota-host co-metabolite and the others are fecal metabolites closely related to gut microbiota-host co-metabolism.on the retention time of a series of fatty acid methyl esters C6- C24 retention index was calculated by Retention Index Method function in ChromaTOF software .
-
 phenylalanine 7.4-hydroxyphenylacetic acid 8.2-phenyllactic acid 9. putrescine 10. tyrosine 11. indole-3-propanoic acid 12. ferulic acid 13. indole-3-lactic acid 14. tryptophan15.
+
+This area had 23 tyrosine and phenylalanine metabolites 4 metabolites from tryptophan meta- bolism tryptophol indole-3-acetic acid indole-3-propanoic acid and xanthurenic acid and 6 metabolites from fatty acid meta- bolismlipids metabolism.
 
 The debris was consid- ered as pre-extracted pooled feces samples and used for method evaluation.Standard mixtures were prepared by mixing the stock solutions in water or methanol resulting in a final concentration of 500 mM for each amino acid 250 mM for each phenyl derivative organic acid and fatty acids and 125 mM for each choline metabolite bile acid indole sugar vitamin and amine.
 
@@ -12,9 +12,9 @@ The correlation coefficients r2 for 3-phenyllactic acid 4- hydroxyphenylacetic a
 
 The optimal condition influencing the identified metabolite extraction is experiment 3 31 methanolchloroform vv which is correlated to most of the resolved peaks.acids SCFA including pentanoic acid hexanoic acid and 3- methylvaleric acid.
 
-This area had 23 tyrosine and phenylalanine metabolites 4 metabolites from tryptophan meta- bolism tryptophol indole-3-acetic acid indole-3-propanoic acid and xanthurenic acid and 6 metabolites from fatty acid meta- bolismlipids metabolism.
+IAA indole-3- propanoic acid IPA and 5-hydroxyindole-3-acetic acid 5-HIAA were elevated and xanthurenic acid was decreased in rhubarb treated samples in a dose dependent manner.
 
-The value of P1 is obtained from the low-dosed group and the control group The value of P2 is obtained from the mid-dosed group and the control group The value of P3 is obtained from the high-dosed group and the control group.c Fold change Fc is the ratio of the mean value for measured fecal samples obtained from each rhubarb-dosed group to the mean value for the control samples obtainedfrom the control group.
+The mass spectrometry data was acquired at full scan mode mz 30- 600 with an acquisition rate of 10 spectra per second and a solvent delay of 7 min.Method validation62 reference standards representing choline metabolism fatty acid metabolism tryptophan metabolism tyrosine and phenylala- nine metabolism lysine metabolism histidine metabolism argi- nine and proline metabolism branched-chain amino acid metabolism carbohydrate metabolism TCA cycle were used to evaluate with optimized procedure.
 
-The value of Fc 1 is obtained from the low-dosed group and the control group The value of Fc 2 is obtained from the mid-dosed group and the control group The value of Fc 3 is obtained from the high-dosed group and the control group.decreased in rhubarb treated samples.
+Method 1 located in the left side of the bi-plot and MC 11 emphasized two TCA metabolites malic acid and fumaric acid and short chain fattyFig.
 

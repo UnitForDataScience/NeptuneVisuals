@@ -1,10 +1,4 @@
-.Arumugam M Raes J Pelletier E Le Paslier D Yamada T Mende DR Fernandes GR Tap J Bruls T Batto JM Bertalan M Borruel N Casellas F Fernandez L Gautier L Hansen T Hattori M Hayashi T Kleerebezem M Kurokawa K Leclerc M Levenez F Manichanh C Nielsen HB Nielsen T Pons N Poulain J Qin J Sicheritz-Ponten T Tims S Torrents D Ugarte E Zoetendal EG Wang J Guarner F Pedersen O de Vos WM Brunak S Dore J MetaHIT Consortium Antolin M Artiguenave F Blottiere HM Almeida M Brechot C Cara C Chervaux C Cultrone A Delorme C Denariaz G Dervyn R et al.
-
-.Caporaso JG Kuczynski J Stombaugh J Bittinger K Bushman FD Costello EK Fierer N Pena AG Goodrich JK Gordon JI Huttley GA Kelley ST Knights D Koenig JE Ley RE Lozupone CA McDonald D Muegge BD Pirrung M Reeder J Sevinsky JR Turnbaugh PJ Walters WA Widmann J Yatsunenko T Zaneveld J Knight R. 2010.
-
 The human gut microbiota serves as an important bridge connecting diet to human metabolism since emerging evidence points to the metabolic mediation by the microbiota of both harmful and beneficial effects of dietary nutrients on human health  .In this study we explored the microbial and metabolic differences in the gut environment between two groups of adolescents--Egyptians consuming a Mediterra- nean diet and U.S. teenagers fed a typical Western diet.
-
-.Serino M Luche E Gres S Baylac A Berge M Cenac C Waget A Klopp P Iacovoni J Klopp C Mariette J Bouchez O Lluch J Ouarne F Monsan P Valet P Roques C Amar J Bouloumie A Theodorou V Burcelin R. 2012.
 
 Considering the differentially abundant genera the higher abundance of Prevotella in egkHLT samples and the reciprocal higher abundance of Bacteroides in the uskHLT samples both are members of class Bacteroidia are consistent with several previous studies that indicated a higher prevalence of members of Bacteroides in samples from the United States western Europe and industrialized Asian countries than in samples from less-industrialized and more-rural populations .
 
@@ -12,9 +6,15 @@ Thus the intestinal microbiota might be selected on the basis of the diets that 
 
 These as- sociations are consistent with the differences between the typical U.S. diet Western diet high in animal protein and fats and the typical Egyptian diet Mediterranean diet high in plant polysaccharides.
 
-.Steyn NP Mann J Bennett PH Temple N Zimmet P Tuomilehto J Lindstrom J Louheranta A.
-
 Simultaneous analyses of microbial community membership and functional gene pool data combined with the quantification of metabolites in the same samples allowed integrative analysis of these data sets and revealed links between the gut microbiota and the intestinal environment.RESULTSGut microbiota compositions differ between healthy U.S. and Egyptian teen- agers.
 
 The revealed corroborating differences in fecal microbiota structure and functions and metabolite profiles between Egyptian and U.S. teenagers are consistent with the nutrient variation between Mediterranean and Western diets.IMPORTANCE The human gastrointestinal microbiota functions as an important me- diator of diet for host metabolism.
+
+To achieve that goal we compared fecal microbiota structures and functions as well as fecal metabolites in two cohorts of children teenagers from the United States consuming a typical Western diet and population group age-matched Egyptians consuming a Mediterranean-type diet.
+
+Consistent with the consumed diets Egyptian gut samples were enriched in polysaccharide-degrading microbes and end products of polysac- charide fermentation and U.S. gut samples were enriched in proteolytic microbes and end products of protein and fat metabolism.
+
+With the exception of a single uskHLT sample which had an unusually large representation of Prevotella 15.8 compared with 7.7 average for uskHLT all uskHLT samples clustered into the Bacteroides enterotype and all egkHLT samples clustered into the Prevotella entero- type see and .
+
+Coinertia analysis CIA indicated that such sample sepa- ration was congruent with the dispersion of the same samples in the genus-based ordination analysis .Utilizing the SparCC algorithm to account for the limitations of compositional data  we also generated networks of intermetabolite correlations shared among all samples .
 

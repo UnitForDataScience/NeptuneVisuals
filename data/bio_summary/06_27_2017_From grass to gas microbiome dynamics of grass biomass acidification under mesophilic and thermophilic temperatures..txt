@@ -8,8 +8,6 @@ Therefore successful adaption to high temperatures and well-cho- sen seed sludge
 
 In concordance with a previous work  the liquefied COD from the produced high-strength liquor was efficiently trans- formed into methane indicating no inhibitory effects.Usage of the high-strength liquor producedHigh-strength liquor was stored in bottles at RT upon production which were always flushed with nitrogen after opening to keep anoxic conditions.
 
-1997632802-13.Ritari J Koskinen K Hultman J Kurola JM Kymalainen M Romantschuk M Paulin L Auvinen P. Molecular analysis of meso- and thermophilic micro- biota associated with anaerobic biowaste degradation.
-
 Biotechnol Biofuels 2017 10171DOI 10.1186s13068-017-0859-0Biotechnology for BiofuelsFrom grass to gas microbiome dynamicsof grass biomass acidification under mesophilic and thermophilic temperaturesChristian Abendroth123 Claudia Simeonov3 Juli Pereto1247 Oreto Antunez5 Raquel Gavidia5 Olaf Luschnig6 and Manuel Porcar1278AbstractBackground Separating acidification and methanogenic steps in anaerobic digestion processes can help to opti- mize the process and contribute to producing valuable sub-products such as methane hydrogen and organic acids.
 
 As pH values between 4 and6.5 are common during acidification - and metha- nogenesis is inhibited at either low pH or high VFA con- centration  this renders hydrogen production in the acidification stage as a valuable sub-product in addition to the methane .
@@ -17,4 +15,6 @@ As pH values between 4 and6.5 are common during acidification - and metha- nogen
 A total of 1731 proteins were quantified from samples d2 d4 d6 and d8 collected from the first cycle of acidification 556 proteins increased and176 decreased between mesophilic and thermophilic conditions 37 vs. 55 degC.
 
 More differentially expressed proteins were found under mesophilic 120 than thermophilic 5 conditions.Conclusion Our results are the first multi-omics characterisation of a two-stage biogas production system with separated acidification and suggest that screening approaches targeting specific taxa such as Methanosaeta Metha- nomicrobium and Methanosarcina could be useful diagnostic tools as indicators of environmental changes such as temperature or oxidative stress or as in the case of Actinobacteria they could be used as a proxy of the gas produc- tion potential of anaerobic digesters.
+
+Even though hydrogen production in seed sludges with diverse microbiomes is highly unpredictable a few previous reports have explored the possible production of hydrogen - by for example immobilization of hydrogen-producing bacteria  .Separated acidification has been proposed as the best technology to produce organic acids like lactic butyric and acetic acid even though it is still complicated to extract organic acids from the fermentation process .
 

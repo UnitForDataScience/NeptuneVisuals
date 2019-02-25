@@ -1,7 +1,5 @@
 We presume that the increment of F. prausnitzii in mice treated with E. durans EP1 is involved in the anti-inflammatory effects observed in mice mucosa.cOnclUsiOnEnterococcus durans strain EP1 selected by the evaluation of pro-inflammatoryanti-inflammatory cytokines ratio in PBMC has no virulence factors and has no deleterious effect on mice.
 
-Eur J Clin Nutr 2000 54288-97. doHlivak P Jahnova E Odraska J Ferencik M Ebringer L Mikes Z. Long- term 56-week oral administration of probiotic Enterococcus faecium M-74 decreases the expression of sICAM-1 and monocyte CD54 and increases that of lymphocyte CD49d in humans.
-
 On the other hand EP1 decreased expression of IL-1b IL-6 and IL-8 p  0.05 while EP3 did not affect expression of any tested genes data not shown.Considering all the obtained results the strain E. durans EP1 was selected to evaluate probiotic properties and its in vivo immunomodulatory effect in mice.eP1 resists gastrointestinal conditions without Modifying its adhesion capacity and also inhibits growth of gram-Positive and -negative PathogensThe ability of E. durans EP1 to survive to the simulated gastro- intestinal conditions was assessed.
 
 durans strains showed this profile data not shown.Considering the described results three E. durans strains were selected to perform in vitro studies on PBMC and Caco-2 cell line.E.
@@ -17,4 +15,6 @@ Thus E. durans EP1 is not only a good candidate to increases F. prausnitzii in s
 No significant changes were observed in any other quantified population not even in A. muciniphila which was perhaps expected to be affected due to the decrease in mucin expression in EP1-treated mice compared with controls.DiscUssiOnEnterococcus strains have been used as long time as effective probiotics but this bacterial group can also harbor pathogenic strains.
 
 Therefore susceptibility to clinically relevant antibiotics of Enterococcus strains isolated from food stuffs is very important for consumer health.Enterococcus faecium is one common species used as probi- otic in animal feed  and concerning its safety the European Food Safety Authority EFSA edited a new guidance documentto differentiate between safe and potentially harmful clini- cal strains based in their susceptibility to ampicillin and the absence of three genetic markers associated with virulence esp hylEfm IS16.
+
+All strains were grown in brain heart infusion broth BIOKAR in aerobic conditions at 37degC for 16 h.Molecular identificationGenomic DNA from Enterococcus strains was extracted using the Genomic DNA Purification Kit Fermentas France according to manufacturer's specifications.Species identification were confirmed by 16S rDNA gene sequencing and species-specific primers based on the superoxide dismutase sodA gene  .In Vitro safety evaluationDetection of Virulence GenesAll isolates were tested for the presence of the three genetic ele- ments considered relevant for EFSA  enterococcal surface protein esp IS16 and hylEfm.
 

@@ -6,8 +6,6 @@ Case ReportShifts of subgingival bacterial population after nonsurgical and phar
 
 J Clin Periodontol 198714190-6.Wade WG Moran J Morgan JR Newcombe R Addy M. The effects of antimicrobial acrylic strips on the subgingival microflora in chronic periodontitis.
 
-J Clin Periodontol 200835 8 Suppl 8-21.Eberhard J Jervoe-Storm PM Needleman I Worthington H Jepsen S. Full-mouth treatment concepts for chronic periodontitis A systematic review.
-
 The possibility of targeting the hypervariable region V3 of the 16S rRNA gene could provide a complete analysis of subgingival plaque samples giving additional informations to evaluate the impact of different treatments or to detect the presence of resistant forms of various bacteria species.
 
 The templates were sequenced on the Ion PGMtm System machine using the Ion PGM sequencing 200 Kit V2 Life Technologies New York USA.Sequence data analysis QIIME 1.8.0 Knight Lab Boulder Colorado USA was used to process the sequence data.
@@ -16,5 +14,7 @@ Nonsurgical treatment following full-mouth disinfection protocol together with s
 
 It is interesting to note that the bacterial shift toward a higher prevalence of pathogen species was not accompanied by clinical signs of inflammation microbiological analysis seems to predict the necessity of further therapies before the clinical scenario becomes evident.Figure 2 Periapical radiographs comparing baseline condition upper line with the situation 1 year after nonsurgical and pharmacological therapy lower lineThe main advantage of the Ion Torrent PGM platform is basically due to the high throughput of the technique able to identify microbiological species missed by culture-based method.
 
-J Periodontol 19986969-75.Sanz M Lau L Herrera D Morillo JM Silva A.
+The aim of the present case report was to follow shifts in subgingival bacterial communities after nonsurgical and pharmacological therapy in a case of localized aggressive periodontitis using next generation 16S rRNA gene sequencing approach.13CASE REPORTA 16-year-old female Caucasian patient smoker 10 cigarettesday for 3 years was referred to our observation showing a localized aggressive form of periodontitis.14 After retrieving general and dental anamneses the patient underwent oral examination to assess periodontal conditions and dental health complete periodontal chart was performed full-mouth plaque score FMPS 38 full-mouth bleeding score FMBS 28 together with full-mouth periapical radiographs.
+
+Specifically the presence of Tannerella was restored and Aggregatibacter was loweredFigure 1 The genus-level composition of the subgingival bacterial population  at the different time points dpt  days posttreatmentFusobacterium was not present and Veillonella was detected.
 

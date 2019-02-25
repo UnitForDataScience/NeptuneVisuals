@@ -1,20 +1,20 @@
-ACDS acetyl-CoA decarbonylasesynthase EC 1.2.99.5 formylmethanofuran dehydrogenase EC 1.2.1.2 formate dehy- drogenase EC 2.3.1.101 formylmethanofuran-tetrahydromethanopterin formyltransferase EC 3.5.4.27 methenyltetrahydromethanopterin cyclohydrolase EC 1.5.98.1 methylenete- trahydromethanopterin dehydrogenase EC 1.12.98.2 510-methenyltetrahydromethanopterin hydrogenase EC 2.1.1.86 tetrahydromethanopterin S-methyltransferase EC 2.8.4.1 methyl-coenzyme M reductase EC 1.8.98.1 heterodisulfide reductase.
-
-EC 2.7.2.1 acetate kinase EC 2.3.1.8 phosphate acetyl- transferase EC 6.2.1.1 acetyl-CoA synthetase EC 2.3.1.
-
-C Expression profiles of representatively selected EC numbers acetate EC 2.7.2.1 CO2 EC 1.2.99.5 converged EC 2.8.4.1.
-
-Though the expression and the methane production rates in R2 recovered steadily from day 21 as the temperature was set up again at day 16 and reached comparable levels as in R1 C.Remarkably the metatranscriptomic reads show that as an adap- tation to the acetic acid accumulation the expression of acet- ogenotrophic methanogenesis related genes is three times higher in R2 compared to R1 at day 21 B C. As previously discussed ex- pression is predominantly carried out by the two acetoclastic archaea Methanosarcina Eu6 and Eu43.
-
 After 10 days of feeding maximal methane production rates 0.37 lg VS in R1 was observed while in R2 the lower temperature led to only medium methane yields 0.15 lg VS day 7 A.
 
-Only the phosphoglucomutase EC 5.4.2.2 the ADP-dependent phosphofructinase EC 2.7.1.146 and the phosphoglycerate mutase EC 5.4.2.11 show an affected regulation at day 7 or 21.
+Accordingly the growth of 17 species being positively affected and of 16 species including the two archaea shown in B was measuredbeing negatively affected by the lower temperature in group 41 degC and 35 degC respectively.
 
-Beside the tremendous expression of the last three reactions where both modules converge EC 2.1.1.86 EC 2.8.4.1 and EC 1.8.98.1 the me- tatranscriptome data show that the hydrogenotrophic methanogenesis module is the one found to be higher expressed 852 FPKM in average compared to the acetotrophic module 144 FPKM in average A B marked in red.
+It was therefore distinguished between taxa within this complex population which are sensitive to a lower temperature and those which can cope better with temperature drops.
 
-The final estimate of the metabolic potential at a given time point was done by summing FPKM values for all enzymes with the same EC number using Genedata Selector 4.5 Analyst addition transformation activity on all genes with EC numbers.
+Group maize silage maize-optimized growth 13 GBs Group slurry slurry-optimized growth with temperature-specific overgrowth in R2 at 21 days 22 GBs Group 35degC growth positively affected by temperature drop 17 GBs Group 41 degC growth negatively affected by temperature drop 14 GBs.
 
-B Fold change between the expression of selected key EC numbers R1 vs. R2 positive fold change means a higher expression in R1 while a negative fold change indicates a higher expression in R2.
+As one the key parameters temperature is known to unbalance or inhibit the AD leading to an accumulation of organic acids andor a decrease in methane yields .
 
-They were identified and grouped according to the fol- lowing criteria based on differences in population abundances in Group maize silage - GBs show two times higher shares in R1 and R2 compared to R3 after day 42 and 84 Group slurry GBs show two times higher shares in R3 compared to R1 and R2 at day 42 and 84 Group 35degC GBs show two times higher shares in R2 compared to R1 at day 7 andor 21 Group 41degC GBs show two times higher shares in R1compared to R2 at day 7 andor at day 21 A and B.
+Further this study evaluated the microbiome during a temperature drop mediated process failure accompanied by acidosis and how it contributed to the recovery of the process on a functional level.MethodsFermentation setupAnaerobic Digestion Tests were carried out in a Continuous Biogas Test CBT among a series of trials on process stability and specific methane yield of maize silage variants in co-digestion with inoculated slurry and with inoculated slurry alone.
+
+A Methane production yields of the three reactors R1-R3 R1 and R2 were continuously fed with maize silage and digestate and temperature was adjusted to 41 degC except for R2 with an initial phase at 35 degC until day 16 and a substrate feeding stop between day 16 and 24 indicated by the dashed line with missing methane yields for R3 only digestate was applied.
+
+After increasing the temperature to the targeted value on day 16 and the subsequent feeding stop of 9 days in R2 fermentation was restored and methane production reached very quickly a maximum 0.38 lg VS 3 days after refeeding.
+
+The third reactor exclusively fed with digestate ran under optimal set temperature 41 degC throughout the whole process time.
+
+However pH did not decrease under 8.15 day 49 in R2 at any time C. The VOATIC value was not affected by the lower starting temperature E thus it was stable limiting value 0.3 in all reactors from day 28 on an average value of 0.125.
 

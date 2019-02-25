@@ -2,19 +2,19 @@ The draft genome sequence contained4.56 Mbp and the GC content was 51.27.almonel
 
 The draft genome sequence was annotated using the NCBI GenBank annotation pipeline and RAST genome annotation server .
 
-A total of 4446 coding sequences were annotated in various functional catego- ries including biological processes and metabolism 1836 genes cellular components 431 genes and molecular functions 828 genes.
-
 PROKARYOTESWhole-Genome Shotgun Sequence of Salmonella bongori First Isolated in Northwestern ItalyAngelo Romanoa Alberto Bellioa Guerrino Macoribc Paul D. Cotterbc Daniela Manila Bianchia Silvia Gallinaa Lucia DecastelliaFood Control and Production Hygiene Unit Istituto Zooprofilattico Sperimentale del Piemonte Liguria e Valle d'Aosta Turin Italya Teagasc Food Research Centre Moorepark Fermoy Cork Irelandb APC Microbiome Institute Cork IrelandcABSTRACT This study describes the whole-genome shotgun sequence of Salmo- nella bongori 48z35- originally isolated from a 1-year-old symptomatic patient in northwest Italy a typically nonendemic area.
 
-.Aziz RK Bartels D Best AA DeJongh M Disz T Edwards RA Formsma K Gerdes S Glass EM Kubal M Meyer F Olsen GJ Olson R Osterman AL Overbeek RA McNeil LK Paarmann D Paczian T Parrello B Pusch GD Reich C Stevens R Vassieva O Vonstein V Wilke A Zagnitko O.
+A total of 4446 coding sequences were annotated in various functional catego- ries including biological processes and metabolism 1836 genes cellular components 431 genes and molecular functions 828 genes.
 
 The genomic content of the isolates was analyzed for potential genes that may be involved in virulence and antibiotic resistance.
-
-The version described in this paper is version NAPQ01000000.REFERENCESGiammanco GM Pignato S Mammina C Grimont F Grimont PAD Nastasi A Giammanco G. 2002.
 
 Phylogenetic analysis and comprehensive Salmonella evolution studies have suggested the genomic relationship between S. bongori and an ancestral Salmonella virulence gene set which has been adapted by incorporating virulence determinants highly similar to those found in enteropathogenic Escherichia coli .
 
 Here we report the whole-genome shotgun sequence of S. bongori a fecal isolate from a 1-year old symptomatic patient in Piedmont in northwestern of Italy.
 
 Persistent endemicity of Salmonella bongori 48z35- in southern Italy molecular characterization of human animaland environmental isolates.
+
+The number of virulence disease and defense features generated was 91 including adhesion 6.6 bacteriocins and ribosomally syn- thesized antibacterial peptides 13.2 resistance to antibiotics and toxic compounds70.3 and invasion and intracellular resistance 9.9.Accession numbers.
+
+The version described in this paper is version NAPQ01000000.REFERENCESGiammanco GM Pignato S Mammina C Grimont F Grimont PAD Nastasi A Giammanco G. 2002.
 

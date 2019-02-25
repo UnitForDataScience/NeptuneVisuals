@@ -1,7 +1,3 @@
-The amplification was performed on a DNA ENGINE Chassis Bio-Rad Laboratories Hercules CA USA under the following conditions2 min at 94 C 30 cycles of 94 C for 40 s 50 C for 40 s and 65 C for 40 s and a final extension of 70 C for 7 min.
-
-PCR conditions were as follows initial denaturing at 94 C for 2 min 35 cycles of 94 C for 30 s 55 C for 30 s 65 C for 30 s and a final extension at 72 C for 2 min.
-
 The abundance of the genus Pseudomonas and the semi-chronic nature of the infection in the case reported see Supplementary Materials strongly suggest that the cause of death was an infection by this bacterial genus.
 
 For each of them the taxonomic assignment at five phylogenetic levels from phylum to genus the relative abundances at genus level the most abundant being 15 for Pseudomonas and the number of high-quality mapping reads are reported at the genus level.
@@ -12,9 +8,13 @@ The PCR product underwent electrophoresis in agarose gel at 100 V for 30 min.Mic
 
 16S ribosomal RNA sequencing showed that Proteobacteria and Actinobacteria were more abundant than Firmicutes and Bacteroidetes and that Pseudomonas was the most abundant bacterial genus in the Pseudomonadaceae family.
 
+The PCR reaction was carried out with 25 uL of H2O 20 uL of 2.5x HotMaster PCR mix Eppendorf Hamburg Germany 1.5 uL of each primer at 10 uM and 60 ng of DNA.
+
+The amplification was performed on a DNA ENGINE Chassis Bio-Rad Laboratories Hercules CA USA under the following conditions2 min at 94 C 30 cycles of 94 C for 40 s 50 C for 40 s and 65 C for 40 s and a final extension of 70 C for 7 min.
+
 A Proteobacteria was the most abundant phylum with a frequency of 59 within this phylum we found the prevalence of Gammaproteobacteria 45 of frequency class level panel B Pseudomonadales 16 of frequency order level panel C Pseudomonadaceae 15 of frequency family level panel D and Pseudomonas 15 of frequency genus level panel E.A complete list of the bacteria that reached the deepest taxonomic assignment i.e.
 
-DNA quality was assessed by gel electrophoresis showing a high molecular weight band with a smear thus ensuring that the DNA quality was sufficient for amplification and sequencing Supplementary Figure S3A.
+In fact after assessing the nature of the recovered ancient bone fragment the analysis of the entire microbiome composition of the bone showed that Pseudomonas within the Pseudomonadaceae family was the most abundant genus identified 15 which suggests it was the disease-etiopathogenetic agent of our cold case .Environmental contamination cannot be excluded in such an ancient bone sample.
 
-Figure B shows the pre-microdissected area and Figure C the post-microdissected area.
+In the latter study 16S rRNA sequencing showed that Pseudomonas constituted 18 to the total bacterial population similar to the 15 observed by us.The rare presence of this lineage in our sample suggests that the possibility of analyzing antique remains of biological samples is certainly useful to be approached by micro-environment microbiome typing.
 

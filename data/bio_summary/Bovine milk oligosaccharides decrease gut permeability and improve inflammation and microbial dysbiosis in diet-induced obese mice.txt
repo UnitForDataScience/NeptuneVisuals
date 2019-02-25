@@ -1,10 +1,8 @@
 On the other hand at the gut level the WD diet had a profound effect on gut barrier function and gut microbiota as already described Cani et al.
 
-Rarefaction curves A unweighted B and weighted C UniFrac analysis significant changes in relative genus abundance D and average relative abundance of Rikinellaceae E Coprococcus F Allobaculum G Ruminococcus H Lactobacillus I and Bifidobacterium J in cecal CA and colonic CO microbiota of mice fed a control chow C blue or Western diet WD for 7 wk green or WD for 5 wk followed by WD supplemented with bovine milk oligosaccharides WDBMO for 2 wk red.
-
-.Caporaso JG Kuczynski J Stombaugh J Bittinger K Bushman FD Costello EK Fierer N Pena AG Goodrich JK Gordon JI Huttley GA Kelley ST Knights D Koenig JE Ley RE Lozupone CA McDonald D Muegge BD Pirrung M Reeder J Sevinsky JR Turnbaugh PJ Walters WA Widmann J Yatsunenko T Zaneveld J Knight R. QIIME allows analysis of high-throughput community sequencing data.
-
 The gut microbiota and barrier function are highly responsive to gut environment Kashyap et al.
+
+Rarefaction curves A unweighted B and weighted C UniFrac analysis significant changes in relative genus abundance D and average relative abundance of Rikinellaceae E Coprococcus F Allobaculum G Ruminococcus H Lactobacillus I and Bifidobacterium J in cecal CA and colonic CO microbiota of mice fed a control chow C blue or Western diet WD for 7 wk green or WD for 5 wk followed by WD supplemented with bovine milk oligosaccharides WDBMO for 2 wk red.
 
 There was a significant increase in levels of tnf-a mRNA in WD versus C mice in the colonic mucosa addition of BMO to the WD normalized the levels of this inflammatory marker Figure 4G.DISCUSSIONWe demonstrated that whey-extracted BMO ameliorates WD-induced gut microbiota dysbiosis and intestinal barrier function in mice.
 
@@ -17,4 +15,6 @@ Moreover dietary components and timing of intervention alter gut microbiota diff
 Body weight A plasma leptin levels B fasted glycemia C and plasma LPS-binding protein LBP levels D were measured in mice fed a control chow C diet or Western diet WD for 7 wk or WD for 5 wk followed by WD supplemented with bovine milk oligosaccharides WDBMO for 2 wk.
 
 Cecal ex vivo permeability to FITC-4000 FD-4 Sigma Aldrich St. Louis MO A and horseradish peroxidase HRP Sigma Aldrich B cecal conductance C colonic ex vivo permeability to FD-4 D and HRP E colonic conductance F and colonic tumor necrosis factor TNF-a mRNA levels G were evaluated in mice fed a control chow C diet or Western diet WD for 7 wk or WD for 5 wk followed by WD supplemented with bovine milk oligosaccharides WDBMO for 2 wk.
+
+C mice fed a control chow diet WD mice fed Western diet for 7 wk WDBMO mice fed WD for 5 wk followed by WD supplemented with bovine milk oligosaccharides for 2 wk.
 

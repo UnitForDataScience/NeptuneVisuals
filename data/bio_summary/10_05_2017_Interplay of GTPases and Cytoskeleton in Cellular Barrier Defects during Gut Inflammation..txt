@@ -1,10 +1,6 @@
 In addition to cell-cell junctions coverage of the EndoC layer by pericytes is involved in the endothelial barrier function and was found to regulate permeability of the blood-brain barrier  .The intestinal vascular endothelium represents a specialized vascular bed  .
 
-J Cell Physiol 2005 2043934-47. doCitalan-Madrid AF Garcia-Ponce A Vargas-Robles H Betanzos A Schnoor M. Small GTPases of the Ras superfamily regulate intestinal epithelial homeosta- sis and barrier function via common and unique mechanisms.
-
 The destruction of intestinal architecture upon epithelial Pggt1b the gene encoding for GGTase-Ib geranylgeranyltransferase1 beta subunit deletion goes along with cytoskeleton remodeling cell shedding alterations and increased intestinal permeability.
-
-2005.11.009Fries W Belvedere A Vetrano S. Sealing the broken barrier in IBD intes- tinal permeability epithelial cells and junctions.
 
 In this review we will summarize the role of small and large GTPases for cytoskeleton plasticity and epithelialendothelial barrier in the context of gut inflammation.Keywords epithelium endothelium vascular barriers gut junction proteins inflammation inflammatory bowel diseaseinTRODUCTiOnEpithelia at mucosal surfaces represent the first barrier preventing potentially harmful environ- mental factors to invade the host.
 
@@ -17,4 +13,8 @@ Large GTPases are characterized by the ability to oligomerize and harbor an olig
 These results open new perspec- tives for the understanding of the role of the microbiome in the regulation of intestinal barrier function and in the onset of colitis.
 
 Despite these observations so far little is known about the role of Rho GTPases and prenylation inEndoCs during intestinal inflammation.Large GTPasesAmong large GTPases two molecules dynamin-2 and GBP-1 are of particular importance in the regulation of barrier function.
+
+The intestinal epithelium as guardian of gut barrier integrity.
+
+Central role of the gut epithelial barrier in the pathogenesis of chronic intestinal inflammation lessons learned from animal models and human genetics.
 

@@ -1,20 +1,20 @@
-Hemicellulose was cal- culated based on the difference between NDF and ADF the content of cellulose was calculated as the difference between ADF and ADL whereas lignin was calculated as the difference between the dried residue and ashes obtained from ADF.Statistical analysisTwo factors were used for the statistical analysis the digestive tract region in the worm sections A B and C and the time of the vermicomposting process fasting stage 24 h 30 60 and 90 days with 19 response variables each hydrolytic enzyme to determine the difference in the activities of hydrolytic en- zymes along the length of the worm's digestive tract and to evaluate the correlation between enzymes using multivariate analysis MANOVA multivariate analysis of variance and principal component analysis performed with the program R version 3.3.0 R Core Team .Results and discussionPre-composting for the adequate alimentary requirements of the wormsThe substrate used as a source of nutrients was a mix of coffee husks and organic residues from local markets mixed in a 31 ratio.
-
 Nevertheless we detected the highest a-chymotrypsin activity within section C suggest- ing that proteases are distributed along the length of the intes- tinal tract to digest nutrients from food.Relationships among digestive enzymes in the vermicomposting systemTo better understand enzyme activity trends throughout the process a principal component analysis was performed in which variables were grouped every enzyme based on the region of the digestive tract and the sampling period Fig.
 
-In section C all enzymes had a similar behavior p  0.05 but a- glucosidase activity was significantly higher during the fasting period p  0.027 and b-glucosidase significantly increased its activity at 90 days p  0.027 Table .The earthworm's digestive tract may be divided based on physiological functions section A is involved in the reception of nutrients section B secretes enzymes and section C ab- sorbs nutrients Edwards and Fletcher .
-
-to separate specific regions of the digestive tract A mouth pharynx crop and gizzard B anterior intestine C middle and poste- rior intestine into separate microtubes.
-
-the differentenzyme groups within each region of the digestive tract of the earthworm A B and C are shown over time.
-
-Region C C0 fasting C1 24 h C2 30 days C3 60 days C4 90 daysregion B was separated from region C. Almost all enzymes had their maximal activity within region B when compared to region C with the exception of two enzymes lipase and a- chymotrypsin.
-
-Each colorindicates a section of the digestive tract in the worm region A black region B red and region C green during different sampling times 0 fasting 1 24 h 2 30 days 3 60 days 4 90 days.
-
-At this stage the re-ingestion process increases the bioavailability of substrates within the worm's digestive tract potentially leading to the enrichment of aerobic and anaerobic microorganisms within sections A and B respectively.
+Hemicellulose was cal- culated based on the difference between NDF and ADF the content of cellulose was calculated as the difference between ADF and ADL whereas lignin was calculated as the difference between the dried residue and ashes obtained from ADF.Statistical analysisTwo factors were used for the statistical analysis the digestive tract region in the worm sections A B and C and the time of the vermicomposting process fasting stage 24 h 30 60 and 90 days with 19 response variables each hydrolytic enzyme to determine the difference in the activities of hydrolytic en- zymes along the length of the worm's digestive tract and to evaluate the correlation between enzymes using multivariate analysis MANOVA multivariate analysis of variance and principal component analysis performed with the program R version 3.3.0 R Core Team .Results and discussionPre-composting for the adequate alimentary requirements of the wormsThe substrate used as a source of nutrients was a mix of coffee husks and organic residues from local markets mixed in a 31 ratio.
 
 In addi- tion most of the studies mentioned thus far have been carried out in temperate climates hence the enzyme dy- namics within the digestive tract of E. fetida adapted to tropical climates is not known.
 
 The re- maining mix components such as proteins carbohydrates and fat were found to be less than crude fiber and did not signifi- cantly change with vermicomposting however the percentage of ashes slightly increased from 0.7 to 1.77 and 2.11 at day 30 and 60 respectively but then decreased to 0.8 90 days.This composition of the organic material consumed by earthworms was reflected inside of E. fetida digestive tract on different enzyme activity patterns.
+
+1 Total activity of enzyme groups in the digestive tract of E. fetida during lumbricomposting.
+
+Nevertheless the roles of these enzymes as well as of other enzyme groups such as proteases ami- nopeptidases lipases and phosphatases interacting in the different sections of worm's digestive tract have not been simultaneously studied throughout the vermicomposting process.
+
+In these studies the worm's glycosyl hydrolases were evaluated in different sections of the digestive tract with in vitro tissues and culture medium only to deter- mine the origin of these enzymes and its digestive capac- ity Garvin et al.
+
+A comparative study on the activities of digestive enzymes of epigeic worms Eudrilus euginae and E. fetida fed on municipal organic residues demonstrated that E. fetida has greater cellulase xylanase acid phosphatase and alka- line phosphatase activities while E. euginae has the highest cellobiose-amylase endoglucanase and nitrate reductase activities Prabha et al.
+
+2 Spatial and temporal enzymatic profile of the digestive tract of E. fetida.
+
+Using multivariate analysis to study those enzy- matic activities would help to improve our knowledge of the digestive physiology of Eisenia fetida and how it contributes to the process of vermicomposting.
 

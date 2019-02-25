@@ -1,12 +1,6 @@
 PROKARYOTESDraft Genome Sequences of 25 Listeria monocytogenes Isolates Associated with Human Clinical Listeriosis in IrelandAmy O'Callaghanab Amber Hilliardab Ciara A. Morganab Eamonn P. Culliganab Dara Leongc Niall DeLapped Colin Hillab Kieran Jordanc Martin Cormicane Cormac G. M. GahanabfAPC Microbiome Institute University College Cork Cork Irelanda School of Microbiology University College Cork Cork Irelandb Teagasc Food Research Centre Moorepark Fermoy Cork Irelandc National Salmonella Shigella and Listeria Reference Laboratory Galway University Hospitals Galway Irelandd School of Medicine National University of Ireland Galway Irelande School of Pharmacy University College Cork Cork IrelandfABSTRACT Listeria monocytogenes is a Gram-positive opportunistic pathogen that is the causative agent of listeriosis.
 
-J Mol Biol 215403- 410.Rutherford K Parkhill J Crook J Horsnell T Rice P Rajandream MA BarrellGenome AnnouncementB.
-
-Bioinformatics 16944 -945.Punta M Coggill PC Eberhardt RY Mistry J Tate J Boursnell C Pang N Forslund K Ceric G Clements J Heger A Holm L Sonnhammer EL Eddy SR Bateman A Finn RD.
-
 The isolates were obtained from clinical cases of disease in Ireland between 2013 and 2015 and were submitted to the National Salmonella Shigella and Listeria human health Reference Laboratory service at Galway University Hospital.Whole-genomic DNA was extracted using the GenElute bacterial genomic DNA kit Sigma Aldrich per the manufacturer's instructions.
-
-.Vazquez-Boland JA Kuhn M Berche P Chakraborty T Dominguez- Bernal G Goebel W Gonzalez-Zorn B Wehland J Kreft J.
 
 Library preparation and 250-bp paired-end sequencing was performed using the Illumina HiSeq 2500 platform Mi- crobes NG University of Birmingham UK.
 
@@ -17,4 +11,10 @@ Contigs were reordered using Mauve aligner v2.4.0.
 Prediction of putative open reading frames ORFs was performed using PRODIGAL prediction software  and supported by BLASTx  alignments.
 
 rRNA and tRNA genes were detected using RNAMMER  and tRNA-scanSE  re- spectively.
+
+The evolution and epidemi- ology of Listeria monocytogenes in Europe and the United States.
+
+Listeria pathogenesis and molecular virulence determinants.
+
+Uncovering Listeria monocytogenes hypervirulence by harnessing its biodiversity.
 

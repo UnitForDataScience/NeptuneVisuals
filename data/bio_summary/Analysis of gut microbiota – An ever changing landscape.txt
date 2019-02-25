@@ -4,10 +4,6 @@ However post-heterologous-FMT samples analyzed using Pac- Bio were considerably 
 
 Both pre- and post-FMT samples were examined using the RSII platform and Sequel results were compared against Illumina sequencing data from samples collected at 2 and 8 weeks after FMT was administered.
 
-Structure func- tion and diversity of the healthy human microbiome.Nature 2012 486207-14 Gilbert JA Meyer F Jansson J Gordon J Pace N Tiedje J Ley R Fierer N Field D Kyrpides N et al.
-
-J Biomed Biotechnol 2012 2012251364.Caporaso JG Lauber CL Walters WA Berg-Lyons D Huntley J Fierer N Owens SM Betley J Fraser L Bauer M et al.
-
 Notably very low abundances of genera within the Firmicutes a phylum typically prevalent in fecal communities were observed when samples were characterized by PacBio.Ordination of samples by principal coordinate analysis revealed similar separation of autologous FMT and heterologous FMT samples between plat- forms  in agreement with results described previously for the larger study cohort.
 
 A-FMT patients received autologous FMT H-FMT patients received heterologous FMT.Resolution of communities at the species level revealed a greater shift in community composition among autologous FMT samples than was observed in heter- ologous FMT samples  where autologous FMT samples were characterized by fluctuations in abun- dance of species predominantly within the genus Bac- teroides.
@@ -17,4 +13,8 @@ This bacterium pro- duces a devastating and often fatal colitis that affects nea
 CCS Circular Consensus reads were generated using default parameters in the SMRT Link 3.1.1 application Pacific Biosciences Menlo Park CA and reads were aligned against the RefSeq genomic database using blastn.
 
 Post-FMT samples were sequenced on the RSII system using 45 SMRT cells and generated 905267 reads comprising 662421070 bases and at N50 CCS read length of 739.
+
+DNA was sequenced on both platforms and samples included a pre-FMT time point as well as 2- and 8-week time points after FMT using autologous stool A-FMT and donor stool H-FMT .
+
+Distribution of genera in samples characterized using Pac- Bio Sequel A and Illumina B platforms.
 

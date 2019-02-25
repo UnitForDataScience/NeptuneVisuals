@@ -6,15 +6,15 @@ However it often remains unknown whether the disruption of the host microbiome i
 
 The project will also shed light on the role of parasites as vectors of microbes among intermediate and definitive hosts on the dynamics of horizontal transmission of microbes between hosts and parasites and on the corresponding impacts on parasite transmission and disease.As an initial approach we will launch a large-scale sequencing campaign including targeted surveys and metagenomes that will use standardized methodologies e.g.
 
-.Shi M Lin X-D Tian J-H Chen L-J Chen X Li C-X Qin X-C Li J Cao J-P Eden J-S Buchmann J Wang W Xu J Holmes EC Zhang Y-Z.
-
-.Chng KR Chan SH Ng AHQ Li C Jusakul A Bertrand D Wilm A Choo SP Tan DMY Lim KH Soetinko R Ong CK Duda DG Dima S Popescu I Wongkham C Feng Z Yeoh KG Teh BT Yongvanit P Wongkham S Bhudhisawasdi V Khuntikeo N Tan P Pairojkul C Ngeow J Nagarajan N. 2016.
-
-.Itthitaetrakool U Pinlaor P Pinlaor S Chomvarin C Dangtakot R Chaidee A Wilailuckana C Sangka A Lulitanond A Yongvanit P. 2016.
-
 This realization has propelled numerous large-scale microbiome projects including the Human Micro- biome Project and the Earth Microbiome Project to better understand the microbiome in both healthy and disease states NIH Human Microbiome Project Roadmap Project  and The Earth Microbiome Project data site .
 
 With an initial focus on eukaryotic parasites the PMP aims to fill important gaps in our understanding of parasite-microbe associations and the outcomes of parasitic infection by character- izing across space and time i the microbiome including virome composition of parasites and ii the microbiome of parasite-infected host tissues.
 
 It is also an invitation to foundations and national funding agencies to propel the field of parasitology into the microbiomemetagenomic era.KEYWORDS ecology microbiome parasitologyharacterizations of parasite diversity and interactions with hosts as well as the development of effective control methods are among the chief goals of parasitol- ogy.
+
+In an era in which microbes archaea bacteria fungi protozoans and viruses are known to play varied roles in host health Koch's postulates are notably under recon- sideration in light of the effects of the microbiome and polymicrobial infections on disease  .
+
+Moreover some parasites carry their own microbes a parasite-associated microbiome that in turn may influence a given infec- tion or parasite-host interaction.
+
+Comparative data analyses will include the following microbiomes within and among parasite species the effects of different parasites on their hosts host- and parasite-associated micro- biomes microbiomes of parasites coinfecting the same host and intermediate host- and definitive host-associated microbiomes for parasites with complex life cycles.Along with others we have begun to investigate host-parasite-microbe interactions and independently confirm that parasite-microbe interactions participate in parasite ecology and disease manifestations.
 

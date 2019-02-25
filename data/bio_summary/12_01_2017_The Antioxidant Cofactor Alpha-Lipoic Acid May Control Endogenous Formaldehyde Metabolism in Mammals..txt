@@ -2,19 +2,19 @@ Surprisingly there was no difference in the serum levels of MeOH and FA between 
 
 Apparently the hippocampus Figure 3B is responsible for the responsiveness of the brain to ALA the rest parts of the brain did not reflect any changes Figures 3F-H.We concluded that the brain along with the spleen are sensitive to the action of ALA and are involved in maintaining a low level of FA in mammals.ALA Increases GSH Synthesis and Accelerates FA Metabolism by Activation of the Brain ALDH2 EnzymeBiologically ALA ameliorates oxidative stress in the mammalian brain and this mechanism includes increasing the total GSH level Panigrahi et al.
 
-Since ALA reduces the content of both FA and MeOH in the blood of mice Figure 1 we concluded that ALA activated the FA and MeOH oxidation system rather than alternative mechanisms of FA clearance.
-
-Statistical analyses were programmed in R using the Rstudio soft.RESULTSALA Influence on the MeOH and FA Content in Mice BloodWe used an experimental approach in which mice were administered ALA concomitantly with 4-MP and showed that theadministration of ALA 20 mgkg and 4-MP 10 mgkg led to statistically significant reductions of MeOH Figure 1A and FA Figure 1B content in the blood.
-
-The mechanism of ALA activation of the ALDH2 gene in brain cells is unknown.Although natural antioxidants namely vitamins C and E did not change blood FA Figure S1 the possibility that the antioxidant properties of ALA are also involved in the activation of the ALDH2 gene in brain cells cannot be excluded.
-
-To test this assumption we administered ALA in mice in order to examine the effect on FA metabolism and collected blood samples for the measurement of FA.
-
-Two of them SMAD3 and EGR1 are up-regulated in our array data Table S4 and thus they could be responsible for ALDH2 regulation by ALA.In the current work the involvement of ALA in maintaining a low level of FA in mice explains the results of published studies revealing a relationship between the elevated level of endogenous FA and neurodegeneration in humans Tang et al.
-
-In principle there are two key strategies to balance the endogenous FA concentration i inhibition of ADH1-mediated FA synthesis and ii stimulation of FA clearance through ALDH2 and ADH5 activation.
-
 Historically the ability of ALA to ameliorate vitamin C and E deficiencies in laboratory guinea pigs and rats respectively first suggested that ALA functions as an antioxidant Rosenberg and Culik 1959.
 
 with 300 ul of normal saline or 4-MP 10 mgkg with corresponding volume of ALA vehicle in normal saline or a mix of ALA 20 mgkg and 4-MP 10 mgkg in normal saline.
+
+Statistical analyses were programmed in R using the Rstudio soft.RESULTSALA Influence on the MeOH and FA Content in Mice BloodWe used an experimental approach in which mice were administered ALA concomitantly with 4-MP and showed that theadministration of ALA 20 mgkg and 4-MP 10 mgkg led to statistically significant reductions of MeOH Figure 1A and FA Figure 1B content in the blood.
+
+However the isolated liver which had ceased all connections with the rest of the body lost its ability to respond to both 4-MP Figure 2C and ALA Figure 2D.We concluded that the isolated rat liver failed to generate MeOH and is not sensitive to exogenous ALA.ALA Influence on mRNA Accumulation in Mouse OrgansTo understand which organs react to ALA intake we analyzed the mRNA content for FA-metabolizing genes.
+
+Figure S2 shows that neither a racemic mixture of ALA or individual isomers R- and S-ALA notably affect the activity of ALDH2 ADH5 and ADH1 in liver and brain homogenates in vitro.We concluded that ALA increases the detoxification activity of ALDH2 in the mouse brain without affecting its specific activity.DISCUSSIONALA is widely used as antioxidant in clinical practice Venigalla et al.
+
+Since ALA reduces the content of both FA and MeOH in the blood of mice Figure 1 we concluded that ALA activated the FA and MeOH oxidation system rather than alternative mechanisms of FA clearance.
+
+Our results showed that the brain is the main organ of ALA effects and this result is consistent with known data that indicate the ability of ALA to alleviate oxidative stress and affect gene expression in the brain.
+
+The mechanism of ALA activation of the ALDH2 gene in brain cells is unknown.Although natural antioxidants namely vitamins C and E did not change blood FA Figure S1 the possibility that the antioxidant properties of ALA are also involved in the activation of the ALDH2 gene in brain cells cannot be excluded.
 

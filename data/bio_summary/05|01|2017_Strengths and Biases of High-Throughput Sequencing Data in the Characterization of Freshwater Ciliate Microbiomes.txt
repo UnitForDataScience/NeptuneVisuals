@@ -6,15 +6,15 @@ About 15 ml of the same samples used for morphological analyses were fixed in 70
 
 observed similar problems in a comparative study on diatoms but the incongruence did not extend to the BDiatom Index which was consistent when calculated from morphological and molecular data.Final Remarks on BiogeographyIn the morphological survey on these and other samples from the same geographic area  we concluded that no clear biogeographic pattern could be inferred citing as a possible explanation that microhabitat rather than the entire ecosys- tem has a larger influence on ciliate communities.
 
-Nucleic Acids Res 321363-1371Dunthorn M Klier J Bunge J Stoeck T 2012 Comparing the hyper-variable V4 and V9 regions of the small subunit rDNA for assessment of ciliate environmental diversity.
-
-J Eukaryot Microbiol 61404-409Medinger R Nolte V Pandey RV 2010 Diversity in a hidden world potential and limitation of next-generation sequencing for surveys of molecular diversity of eukaryotic microorganisms.
-
 Karyorelicteans are represented by only one genus Loxodes in freshwaters HTS data did not report the corresponding OTU in one of the three samples where its presence was assessed during the morphological survey.
-
-ISME J 8854- 866del Campo J Mallo D Massana R de Vargas C Richards TA Ruiz-Trillo I 2015 Diversity and distribution of unicellular opisthokonts along the European coast analysed using high- throughput sequencing.
 
 2015 Molecular diversity and distribution of marine fungi across 130 European environmen- tal samples.
 
 Here we directly compare morphological and Illumina data obtained from the same samples in an effort to characterize ciliate faunas from sediments in freshwater envi- ronments.
+
+The classification and terminology of Lynn  was employed.Comparison Between Morphological and Molecular OTUsIn the previously performed morphological survey on the same samples  OTUs were defined within each sample as morphotypes distinguishable in vivo and abundances were only qualitatively expressed.
+
+The difference is not only due to the ability of HTS data to distinguish among similarmorphospecies in most samples the molecular datasets contain entire classes that were not detected in the morphological sur- vey.
+
+Peritrichs reported relatively often in the morphological survey exhibited a huge diversity in the HTS analysis with 88 OTUs 256observations and the highest abundances of any group avg.
 

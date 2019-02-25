@@ -10,11 +10,11 @@ Three MAGs from the modern marine water garnet surface totaling 1.2 of the mappe
 
 Although the modern marine water wasostensibly anaerobic both MMGBin17 and OSGBin16 were most closely related to Sideroxydans lithotrophicus an iron-oxidizing bacterium that grows at oxic-anoxic inter- faces The old saline water contained one MAG OSRBin1 0.22 of the reads that was suggested to code for all genes required for biofilm formation group A.
 
-2004295-108.Edlund J Rabe L Bengtsson A Hallbeck B Eriksson L Johansson J Johansson L Pedersen K. Understanding microbial reduction of sulphate to sulphide in deep Olkiluoto groundwater.
-
 OSGBin16 showed the potential ability to reduce sulfate to sulfide fix carbon dioxide and nitrogen and generate a proton motive force via the Rnf complex.Potential metabolism in deep biosphere biofilmsAll MAGs were scrutinized for genes encoding electrondonor and acceptor use as well as carbon dioxide and ni- trogen fixation Table and Additional file13 Table S7.populations in both the modern marine and old saline water biofilm formers were putative carbon- and nitrogen- fixers MMGBin93 representing 11.73 of the reads and OSGBin24 representing 2.15 of the reads.
 
 The Rnf complex at least four of rnfABCDEG had higher frequencies in modern marine biofilms F  16.5 p  0.05 for the sum of the rnfABCDEG genes and combined with the widespread occurrence of these genes across both water types we propose that this respiration mechanism may constitute a generic adaptation to oligotrophy in the waters at the Aspo HRL.
 
 The deep biome is the largest microbial ecosystem on earth and the deep continental biosphere is estimated to host 2 to 19 of earth's total biomass Although a large proportion of the earth's microbial cells reside in the deep bio- sphere our knowledge of the biology and identity of these organisms is scarce One reason for this is the difficulty to obtain uncontaminated samples.
+
+All of these energy conservation strategies are supported by carbon dioxide and hydrogen as carbon and energy sources  - Recent metagenomic studies also point to extensive metabolic versatility with heterotrophic mixotrophic and autotrophic metabolic strategies However as a substantial fraction of the microbiome in the deep biosphere is likely to live in biofilms 5 the earl- ier work may provide an incomplete and possibly mislead- ing description of this biome.Despite biofilms in rock fractures being present in the deep biosphere - the factors controlling biofilm formation are poorly understood especially in deep subsurface environments.
 

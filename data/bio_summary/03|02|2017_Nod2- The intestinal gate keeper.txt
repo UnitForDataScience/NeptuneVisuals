@@ -4,8 +4,6 @@ Role of Nod2 in the host response toward viruses.RNA virusesRNA virusesdoi10.137
 
 Indeed Nod2KO mice display high numbers of CD4 T cells in Peyer's patches and an increased intesti- nal permeability but the transfer of microbiota from Nod2KO mice to WT mice alters neither CD4 T lymphocyte count nor permeability.
 
-2012 61 634-5. doi PMIDCouturier-Maillard A Secher T Rehman A Normand S De Arcangelis A Haesler R et al.
-
 Indeed Nod2KO mice obtained by embryo transfer into WT mice exhibit an intestinal microbiota different from their mothers but similar to that of single-housed Nod2KO mice .
 
 WT and Nod2KO mice obtained by embryo transfer into WT mother mice exhibit the same microbiota when housed in the same cage confirming the homogenization of the gut microbiota between cohoused mice likely through coprophagia.
@@ -17,4 +15,6 @@ This reciprocal link between immune cells intestinal permeability and microbiota
 L. monocytogenes also invades nonphagocytic cells such as entero- cytes and M cells.
 
 In vivo P. fluorescens increases the paracellular permeability of the intestinal mucosa via the release of IL-1b by immune cells and the activation of MLCK in the epithelial cells in a Nod2-dependent way .H.
+
+Hyperexpression of NOD2 in intestinal mast cells of Crohn's disease patients preferential expression of inflammatory cell-recruiting molecules via NOD2 in mast cells.
 

@@ -1,14 +1,14 @@
 EUKARYOTESGenome Sequences of Cyberlindnera fabianii 65 Pichia kudriavzevii 129 and Saccharomyces cerevisiae 131 Isolated from Fermented Masau Fruits in ZimbabweIrma M. H. van Rijswijcka Martijn F. L. Derksbc Tjakko Abeea Dick de Ridderb Eddy J. SmidaLaboratory of Food Microbiology Wageningen University  Research Wageningen Campus Wageningen The Netherlandsa Bioinformatics Wageningen University  Research Wageningen Campus Wageningen The Netherlandsb Animal Breeding and Genomics Centre Wageningen University  Research Wageningen Campus Wageningen The NetherlandscABSTRACT Cyberlindnera fabianii 65 Pichia kudriavzevii 129 and Saccharomyces cerevisiae 131 have been isolated from the microbiota of fermented masau fruits.C.
 
-.Bourdichon F Casaregola S Farrokh C Frisvad JC Gerds ML Hammes WP Harnett J Huys G Laulund S Ouwehand A Powell IB Prajapati JB Seto Y Ter Schure E Van Boven A Vankerckhoven V Zgoda A Tuijtelaars S Hansen EB.
-
 Here we present the draft annotated genome sequences of these isolates.yberlindnera fabianii 65 previously known as Lindnera fabianii Hansenula fabianii and Pichia fabianii   Pichia kudriavzevii 129 previously known as Issatchenkia orientalis  and Saccharomyces cerevisiae 131 have been isolated from the microbiotaof fermented masau fruits Ziziphus mauritiana in Zimbabwe  .All three species are found regularly in fermented food products   but also occasionally in clinical sources .
 
-BMC Bioinfor- matics 10421.Jones P Binns D Chang HY Fraser M Li WZ McAnulla C McWilliam H Maslen J Mitchell A Nuka G Pesseat S Quinn AF Sangrador-Vegas A Scheremetjew M Yong SY Lopez R Hunter S. 2014.
-
-Nevertheless P. kudriavzevii and S. cerevisiae were given the status of generally recognized as safe by the Food and Drug Adminis- tration FDA .
-
 De novo gene predictors Augustus  and SNAP  were trained using Pichia stipitis genome sequence data for C. fabianii 65 and P. kudriavzevii 129 and Saccharomyces cerevisiae forS.
+
+The annotated genome sequences are deposited at DDBJ EMBLGenbank under the accession numbers listed in .ACKNOWLEDGMENTSThis research was financially supported by the Graduate School VLAG Wageningen University  Research Wageningen The Netherlands and Heineken Supply Chain BV Zoeterwoude The Netherlands.REFERENCESMinter DW.
+
+Nutrient limitation leads to penetrative growth into agar and affects aroma formation in Pichia fabianii P. kudriavzevii and Saccharo- myces cerevisiae.
+
+Phylogenetic rela- tionships among species of Pichia Issatchenkia and Williopsis deter- mined from multigene sequence analysis and the proposal of Barnet- tozyma gen. nov. Lindnera gen. nov. and Wickerhamomyces gen. nov. FEMS Yeast Res 8939 -954.
 
 Int J Food Microbiol 120159 -166.
 
@@ -16,5 +16,5 @@ Int J Food Microbiol 166426 - 432.
 
 Int J Food Microbiol 124 115-125.
 
-Int J Food Microbiol 1601-10.
+Appl Environ Microbiol 82732-746.
 

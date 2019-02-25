@@ -1,20 +1,20 @@
-However it is also a feature of resident T cell populations that they can be activated by cytokines as well as by the entity recognised by their invariant receptors IL-23 has a particular role in this respect.Factors altering T cell differentiation in SpAWhilst a cell expressing the transcription factor RORgt is clearly implicated in the work on entheseal populations the role in AS of another transcription factor that determines T cell function Tbet TBX21 has been less clear.
-
-This population accounted for approximately 25 of the entheseal T cell population thus whilst TCR ab cells were also clearly present in entheses the proportion of gd cells was very high as compared with other sites such as the spleen where gd cells represent only 1-2 of T cells.
-
-Differences in mouse colonies and their gut flora might conceivably affect which T cell subset predominates.The broader question concerns the normal physiologic role of entheseal T cells and whether such a population is also found in humans.
-
-Likewise in the liver mice have a predomi- nant resident population of invariant natural killer NK T iNKT cells that recognise bacterial lipids presented by the non-classical MHC-like molecule CD1d whereas human livers have many fewer iNKT cells and instead a large population of cells - mucosal- associated invariant T cells MAIT cells - that recognise cer- tain bacterial metabolites presented by another MHC class I-like molecule MR1.
-
-However precisely how Tbet expression favours the emergence of a poten- tially pathogenic CD8 T cell population producing both IL-17 and IFNg is not yet clear.
-
 cited evidence of Tbet inducing IL-23R expression more recent evidence suggests that RORgt is the principal transcription factor required for this and that Tbet in fact can inhibit IL-23R expression.
-
-Multimer expres- sion engages KIR specifically KIR3DL2 on T cells and NK cells increasing IL-17 production by T cells and survival of NK cells.
-
-Perhaps unexpectedly these results suggest that effective ERAP1 function and hence optimal peptide loading of B27 molecules leads to more expression of the forms of B27 that can be recognised by KIR3DL2 on T cells and NK cells.
 
 would speak against a role for the expression of surface B27 multimers in pathogenesis since protective ERAP1 alleles increase their expression.
 
 Thus some feature of the expression of B27 led to changes in the microbiota by 10 weeks and analysis of cytokine mRNA expression in the gut revealed increases in TNFaand IL-1b together with increases in anti-microbial peptides.
+
+The debate on how HLA-B27 is implicated in inflammation is also considered together with recent and contradictory evidence on the effects of the peptide-trimming enzyme ERAP1 on B27 expression and hence susceptibility to spondylitis.
+
+Other characteristics also pointed to this capacity such as the expression of CCR6 the cells described by Sherlock et al.
+
+The new report emphasises the role of a gd subset in relation to IL-23R expression and hence an ability to respond to raised IL-23 levels and therefore IL-17 production.
+
+Whilst this might suggest that inflammation is needed for the effects of the SNP on expression levels to be manifest levels in AS patients were independent of disease activity.
+
+Proportions of Tbet cells were also elevated in AS especially CD8 cells and levels of expression of Tbet were also higher in these cells.
+
+However precisely how Tbet expression favours the emergence of a poten- tially pathogenic CD8 T cell population producing both IL-17 and IFNg is not yet clear.
+
+Since IL-23 is central to the SpA disease in SKG mice and is also implicated in human SpA with both genetic and therapeutic evidence this paradoxical effect of Tbet on IL-23R expression is puzzling and requires further work.
 

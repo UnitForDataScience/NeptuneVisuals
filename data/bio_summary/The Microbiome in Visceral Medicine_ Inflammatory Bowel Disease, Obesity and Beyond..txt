@@ -1,20 +1,20 @@
-Nature 2008456259- 263.Perez-Cobas AE Gosalbes MJ Friedrichs A Knecht H Artacho A Eismann K Otto W Rojo D Bargiela R von Bergen M Neulinger SC Daumer C Heinsen FA Latorre A Barbas C Seifert J dos Santos VM Ott SJ Ferrer M Moya A Gut microbiota disturbance during antibiotic therapy a multi-omic approach.
-
-Nat Rev Immunol 201414141-153.Nenci A Becker C Wullaert A Gareus R van Loo G Danese S Huth M Nikolaev A Neufert C Madison B Gumucio D Neurath MF Pasparakis M Epithelial NEMO links innate immunity to chronic intestinal in- flammation.
-
-Clin Exp Gastroen- terol 20147473-487.Scaldaferri F Gerardi V Mangiola F Lopetuso LR Pizzoferrato M Petito V Papa A Stojanovic J Poscia A Cammarota G Gasbarrini A Role and mechanisms of action of Escherichia coli Nissle 1917 in the mainte- nance of remission in ulcerative colitis patients an up- date.
-
-Curr Opin Biotechnol 20153299-103.Camuesco D Peran L Comalada M Nieto A Di Stasi LC Rodriguez-Cabezas ME Concha A Zarzuelo A Galvez J Preventative effects of lactulose in the trini- trobenzenesulphonic acid model of rat colitis.
-
-Proc Natl Acad Sci U S A 200710413780-13785.Morgan XC Tickle TL Sokol H Gevers D Devaney KL Ward DV Reyes JA Shah SA LeLeiko N Snapper SB Bousvaros A Korzenik J Sands BE Xavier RJ Huttenhower C Dysfunction of the intestinal microbi- ome in inflammatory bowel disease and treatment.
-
-Nature 2007446557-561.Vlantis K Wullaert A Polykratis A Kondylis V Dan- nappel M Schwarzer R Welz P Corona T Walczak H Weih F Klein U Kelliher M Pasparakis M NEMO prevents RIP kinase 1-mediated epithelial cell death and chronic intestinal inflammation by NF-kB- dependent and -independent functions.
-
-Inflamm Bowel Dis 200511265-271.Lara-Villoslada F Debras E Nieto A Concha A Gal- vez J Lopez-Huertas E Boza J Obled C Xaus J Oligo- saccharides isolated from goat milk reduce intestinal inflammation in a rat model of dextran sodium sulfate- induced colitis.
+The major implication of the microbiota in this context is high- lighted by the observation that inflammation is ameliorated or even absent in the absence of bacteria in different models of IBD 12 13.In this review we discuss the role of intestinal microbiota in visceral medicine in the context of gut health and intestinal inflam- mation and highlight some of the strategies aiming to functionally modulate microbiota as a new treatment frontier for visceral health.Essential Role of the Intestinal Microbiome in Visceral HomeostasisAlthough the structural and functional complexity of different ecosystems established within the gastrointestinal tract is daunting it has become evident over recent years that deciphering interac- tions between the microbiome and the intestinal immune system holds great promise for understanding homeostasis of the entire body.
 
 The upcoming decade holds great promise in uncovering why specific strains are localized to different segments of the gut and how microbiota supports visceral homeostasis 8.Different layers of passive and active defense including the physical integrity of the intestinal epithelial cell layer the mucus antimicrobial peptides glycoproteins and secretory immunoglob- ulin A protect viscera from the potentially aggressive microbial content of the intestinal lumen.
 
-The major implication of the microbiota in this context is high- lighted by the observation that inflammation is ameliorated or even absent in the absence of bacteria in different models of IBD 12 13.In this review we discuss the role of intestinal microbiota in visceral medicine in the context of gut health and intestinal inflam- mation and highlight some of the strategies aiming to functionally modulate microbiota as a new treatment frontier for visceral health.Essential Role of the Intestinal Microbiome in Visceral HomeostasisAlthough the structural and functional complexity of different ecosystems established within the gastrointestinal tract is daunting it has become evident over recent years that deciphering interac- tions between the microbiome and the intestinal immune system holds great promise for understanding homeostasis of the entire body.
+The fact that commensals cancause intestinal inflammation is strengthened by the observation that some species may acquire traits of pathogenicity including the potential to adhere to the intestinal epithelium or to express toxins as in the case of adherentinvasive E. coli 52.
 
-Sci- ence 20133411237439.Turnbaugh PJ Hamady M Yatsunenko T Cantarel BL Duncan A Ley RE Sogin ML Jones WJ Roe BA Affourtit JP Egholm M Henrissat B Heath AC Knight R Gordon JI A core gut microbiome in obese and lean twins.
+It has been demon- strated that adherentinvasive E. coli which is absent in healthy in- dividuals can be abundantly found in the inflamed ileal mucosa of CD patients where it causes intestinal inflammation by disrupting the intestinal barrier 53.
+
+In contrast organotypic culture of intestinal crypts that has been established and refined over the past decade the so-called organoids 58 currently provides a great tool for addressing molecular mechanisms governing intestinal epithelial cell physiology.
+
+Schematic representation of the interactions between the intestinal microbiota and the gut immune system during a homeostasis b pathology and c res- titution of inflammation.Future PerspectivesThe last decade has experienced an explosive interest in analyz- ing the composition of the intestinal microbiome and its interac- tions with the host.
+
+Strong evidence demonstrates for ex- ample that intestinal inflammation can develop as a re- sult of a dysregulated microbiota deficient antimicrobial responses and aberrant bacterial translocation into the bowel wall.
+
+In healthy individuals the bacterial translo- cation is blocked by a single layer of highly specialized intestinal epithelial cells which forms a strong barrier that lines the gut wall.
+
+In susceptible individuals for yet in- completely understood reasons either defective epithe- lial barrier function or dysregulated microbial composi- tion or microbial pathogens drive intestinal inflamma- tion.
+
+Many therapeutic strategies focusing on the modulation of the microbiota have been proposed re- cently but future research including prospective human studies and gnotobiotic mouse models are still needed to evaluate the contribution and potential therapeutic value of individual bacteria to human health.c 2017 S. Karger GmbH FreiburgIntroductionThe human gut flora which is contained within the lumen of the gastrointestinal tract is notoriously known to represent one of the most complex ecosystems on earth harboring a plethora of viral bacterial fungal protozoan and archaeal species which altogether represent the intestinal microbiome 1-3.
 

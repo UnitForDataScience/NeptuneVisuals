@@ -1,12 +1,4 @@
-Hemrajani C Marches O Wiles S Girard F Dennis A Dziva F Best A Phillips 656AD Berger CN Mousnier A Crepin VF Kruidenier L Woodward MJ Stevens 657MP La Ragione RM MacDonald TT Frankel G. 2008.
-
-Deng W Puente JL Gruenheid S Li Y Vallance BA Vazquez A Barba J Ibarra 648JA O'Donnell P Metalnikov P Ashman K Lee S Goode D Pawson T Finlay BB.
-
 QseC also may activate the responseregulator QseF which stimulates expression of Shiga toxin genes production but it is able torepress the expression of fusKR.The cognate sensor FusK is activated by fucose andphosphorylates FusR to inhibit LEE expression 28 98 105 129.
-
-A monkey model for enterohemorrhagic Escherichia coliinfection.
-
-A central metabolic circuit controlled by QseC in pathogenic Escherichia coli.
 
 Wealso review how bacteria chat via chemical signals integrated with metabolite recognition andutilization to promote successful associations among enteric pathogens the microbiota and thehost.Keywords Chemical signaling Enterobacteriaceae Escherichia Salmonella Intestinalmetabolites.383Commensals and pathogens in the gutThe large and diverse bacterial community in the human gut also plays importantfunctions in the physiology of the intestine.
 
@@ -16,5 +8,13 @@ Enteric foodborne pathogenssuch as enterohemorrhagic Escherichia coli EHEC and S
 
 Quorum sensing 718controls expression of the type III secretion gene transcription and protein secretion in 719enterohemorrhagic and enteropathogenic Escherichia coli.
 
-Gram-negative bacteria may chemically change their Lipid A chainsinducing distinct lipopolysaccharide layer modifications to fortify the bacterial defenses as ashield to resist antimicrobial peptides 24.
+AIs act ashormone-like molecules 89.The AI-3-epinpehrineNorepinephrine inter-kingdom signaling systemAmong these QS signaling systems the bacterial AI-3 molecule has been shown to bepresent in different bacterial species 90 and has a key role in inter-kingdom signaling.
+
+Some armsof these signaling systems converge among these pathogens while others diverge.Sugar regulation of virulenceSugars are the primary carbon sources to bacterial cells and also play an important rolein bacterial pathogenesis 28 114.
+
+We review how these signaling systems senseand relay these signals to drive bacterial gene expression specifically to modulate virulence.
+
+The nutrient limiting condition and different bacterial survival strategies are very importantplayers to understand how pathogens interact with indigenous microbiota the surroundingmetabolites and specifically draw their strategies to explore distinct niches.12toxin expression 66.
+
+D-serine can act aseither a carbon source or to modulate a set of stress-dependent genes in E. coli differentpathotypes and consequently modulate gene expression of unique virulence factors 87.13Other bacterial interactions may be very important during EHEC pathogenesis.
 

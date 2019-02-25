@@ -1,12 +1,6 @@
-.Durban A Abellan JJ Jimenez-Hernandez N Artacho A Garrigues V Ortiz V Ponce J Latorre A Moya A.
-
 The RSI is strictly 1 for an element whose range never changes over time and is strictly 0 for an element whose rank oscillates between the extremes from time to time.
 
 Variability grew more for the gut microbiota of the male and shared a minimal value of around 0.1 with the gut microbiota of the female.shows time course changes in V for patient P2 in the IBS study  upper plot and patient D in the antibiotic study  lower plot.
-
-The rank dynamics and stability plots in and show the variations in rank over time for the most dominant taxa and their calculated rank stability index RSI as discussed in Materials and Methods for the gut microbiome taxa of a healthy subject namely subject A in the host lifestyle study .
-
-.Perez-Cobas AE Artacho A Ott SJ Moya A Gosalbes MJ Latorre A.
 
 The total number of time points was divided into subsets of five points where the following subset was defined by adding the next sampling time and eliminating the earliest one.
 
@@ -17,4 +11,10 @@ We analyzed over 40000 time series of taxa from the gut microbiomes of 99 subjec
 The gut microbiotas of healthy subjects over a long time span show a quasiperiodic variability the central period is 10 days.
 
 The results of solving this equation show that stability is best captured by a phase space determined by the fitness F and the amplitude of fluctuations V .The model predicted two phases for the gut microbiome a stable phase with large variability that enabled some changes in the relative abundances of taxa and an unstable phase with even larger variability above the phase transition where the order of abundant taxa varies significantly over time.
+
+The rank dynamics and stability plots in and show the variations in rank over time for the most dominant taxa and their calculated rank stability index RSI as discussed in Materials and Methods for the gut microbiome taxa of a healthy subject namely subject A in the host lifestyle study .
+
+The healthy zone and the standardized Taylor parameters for the temporal variability of the gut microbiome in subjects whose gut microbiota was compromised i.e.
+
+This article analyzes the microbial composition of several subjects under differ- ent conditions over time spans that ranged from days to months.
 

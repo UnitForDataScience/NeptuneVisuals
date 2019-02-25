@@ -2,19 +2,19 @@ PROKARYOTESComplete Genome Sequence of Lactobacillus jensenii Strain SNUV360 a P
 
 The L. jensenii SNUV360 genome was compared with the reference strain L. jensenii TL2937 genome accession number NZMDTN01000000 with the Rapid Annotations using the Subsys-Volume 5 Issue 10 e01757-16 1Lee et al.tems Technology RAST server .
 
-.McArthur AG Waglechner N Nizam F Yan A Azad MA Baylay AJ Bhullar K Canova MJ De Pascale G Ejim L Kalan L King AM Koteva K Morar M Mulvey MR O'Brien JS Pawlowski AC Piddock LJ Spanogiannopoulos P Sutherland AD Tang I Taylor PL Thaker M Wang W Yan M Yu T Wright GD.
-
 Curated virulence factors and antibiotic resistance genes were estimated by using IslandViewer3  against the Virulence Factor Database VFDB  of virulence factors and Comprehensive Antibiotic Resistance Database CARD  of antibiotic resistance genes.The genome contains 1595 CDSs 58 tRNA genes and 12 rRNA genes.
 
-NRF-2015R1A2A1A10054078.REFERENCESKoumans EH Sternberg M Bruce C McQuillan G Kendrick J Sutton M Markowitz LE.
-
 Here we present the complete genome sequence of this probiotic strain.In order to perform the complete genome sequencing of the strain L. jensenii SNUV360 high throughput sequencing technology was implemented using the PacBio platform Pacific Biosciences Menlo Park CA.
-
-.Chin CS Alexander DH Marks P Klammer AA Drake J Heiner C Clum A Copeland A Huddleston J Eichler EE Turner SW Korlach J.
-
-.Aziz RK Bartels D Best AA DeJongh M Disz T Edwards RA Formsma K Gerdes S Glass EM Kubal M Meyer F Olsen GJ Olson R Osterman AL Overbeek RA McNeil LK Paarmann D Paczian T Parrello B Pusch GD Reich C Stevens R Vassieva O Vonstein V Wilke A Zagnitko O.
 
 Here we pres- ent the complete genomic sequence of L. jensenii SNUV360 isolated from a vaginal sample from a healthy Korean woman.
 
 strains have been shown to decrease patho- genic bacteria in vaginal environments of women diagnosed with BV  .In this study the strain Lactobacillus jensenii SNUV360 isolated from the vaginas of healthy women shows functional properties in the treatment of vaginal infection caused by lactobacilli deficiency.
+
+The L. jensenii SNUV360 genome consisted of a 1672949 bp single-chromosome contig with coverage of 420X and GC content of 34.4.
+
+Augmentation of antimicrobial metronidazole therapy of bacterial vaginosis with oral probiotic Lactobacillus rhamnosus GR-1 and Lactobacillus reuteri RC-14 randomized double-blind placebo controlled trial.
+
+Oral use of Lactobacillus rhamnosus GR-1 and L. fermen- tum RC-14 significantly alters vaginal flora randomized placebo- controlled trial in 64 healthy women.
+
+No plasmids were detected.The assembled genome sequences were annotated using the Prokka annotation pipeline version 1.11  which predicted tRNA rRNA and mRNA genes.
 

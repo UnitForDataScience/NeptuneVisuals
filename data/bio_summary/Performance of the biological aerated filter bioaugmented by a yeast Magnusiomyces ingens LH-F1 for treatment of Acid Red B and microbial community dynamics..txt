@@ -1,20 +1,20 @@
-Meanwhile the corresponding IR of the efflu- ent from BAF 2 was about 49 which was lower than that from BAF 1 suggesting that the yeast LH-F1 was able to degrade or even mineralize ARB Tan et al.
-
 Three col- umns named as 1 2 and 3 were inoculated with AS 6 g l-1 dry weight at 105 degC the yeast LH-F1 4 g l-1 wet weight at 10000xg for 10 min and both of them 3 g l-1 AS and 2 g l-1 the yeast LH-F1 respectively.
 
 They were acclimatized with simulated ARB wastewater which contains glucose 2.0 g l-1 NH42SO4 0.5 g l-1 K2HPO40.5 g l-1 MgSO47H2O 0.25 g l-1 and ARB 10 mg l-1for formation of biofilm for 50 days.
 
-3 The acute toxicity of the original influent and effluent sam- ples at the ends of phases a III and b IV assessed by Microtox bioas- says using the luminescent bacteria Vibrio fischeri NRRL B-11177.70 IR  100 high toxicity 20 IR  70 moderate toxicity 10 IR  20 ow toxicityprobably generated and accumulated in BAF 1 Sarioglu et al.
+When the influent ARB concentration increased to 50 mg l-1 in phase III the effluent ARB concentra- tion firstly increased to about 9 mg l- 1 and subsequently decreased to about 4 mg l-1 in the end.
 
-It was obvious that the effluent of BAF 3 also exhibited low toxicity against V. fischeri.Microbial community analysis by Miseq sequencingThe efficiency of bioaugmentation-based wastewater treat- ments depends on the type of microorganisms selected and their subsequent survival and degradation activity dur- ing the treatment process Qu et al.
+The abundances of Citrobacter and Enterobac- ter in three BAFs with 50 mg l-1 influent ARB were higher than the corresponding ones with 100 mg l-1 influent ARB suggesting that they might be inhibited by higher organic loading.
 
-In comparison the dominance of Acinetobacter in BAF 3 suggested that it might be versatile in degrading recalcitrant compounds according to corresponding reports Kowalczyk et al.
+Likewise the abun- dance of Bacteroidetes decreased after treating 50 mg l-1 ARB and increased again after treatment of 100 mg l-1 ARB in three BAFs.
 
-Meanwhile microbes in three BAFs were gathered at the end of phases III and IV for analyzing the dynamics of microbial including bacterial and fungal consortiums.Analytical methodsMethods of ARB concentration analysis and decoloriza- tion percentage calculation refer to the description by Tan et al.
+World J Microbiol Biotechnol 2017 3339 DOI 10.1007s11274-017-2210-0Performance of the biological aerated filter bioaugmentedby a yeast Magnusiomyces ingens LH-F1 for treatment of Acid Red B and microbial community dynamicsMuyang He1  Liang Tan1  Shuxiang Ning1  Li Song1  Shengnan Shi1Received 13 August 2016  Accepted 11 January 2017  Published online 24 January 2017c Springer ScienceBusiness Media Dordrecht 2017Abstract Biological aerated filters BAFs were con- structed and operated for assessing the effectiveness of bacterial community bioaugmented by a yeast Magnusio- myces ingens LH-F1 for treatment of azo dye Acid Red B ARB.
 
-1 2 and 3 represent the numbers of BAFsexperiments its efficiency in BAFs was relatively low probably due to the non-optimal environmental conditions Tan et al.
+It was shown that under the optimal condi- tions the growing cells of strain TL-F1 could completely decolorize 100 mg l-1 Acid Brilliant Scarlet GR within 24 h and could tolerate up to 500 mg l-1 of the dye.
 
-In comparison Proteobacteria including Alphaproteobacte- ria Betaproteobacteria and Gammaproteobacteria and Fir- micutes were dominant phyla in three BAFs which were expected due to their common occurrence in the micro- bial communities for treating azo dyes Miran et al.
+Similarly in phase IV with influent ARB concentration of 100 mg l-1 the effluent ARB concentration was increased at first and then decreased to about 6 mg l-1 which suggested that the color removal percentages gradually increased at the end of each phase probably due to the extending acclimatization time.
 
-Further analysis results at genus level showed that some bacterial genera which were not detectedin AS including Citrobacter Enterobacter and Acineto- bacter became dominant ones in three BAFs after treat- ing ARB suggesting that bacterial community structures remarkably shifted when operation conditions changed Qu et al.
+It was demonstrated that the effluent COD of BAF 1 decreased gradually from 500 to 350 mg l-1 in phase I when the influent COD was about 2010 mg l-1.
+
+Though the HRT was reduced from 48 to 24 h in phase II the efflu- ent COD gradually decreased from about 340 mg l-1 to about 300 mg l-1 also as a result of the long-time adapta- tion.
 

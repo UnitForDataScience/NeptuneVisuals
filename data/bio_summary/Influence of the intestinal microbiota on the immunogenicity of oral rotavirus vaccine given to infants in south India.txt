@@ -1,20 +1,20 @@
-At 10 weeks a modest enrichment of the phyla Bacteroidetes and Verrucomicrobia was observed among infants who shed rotavirus following the 6-week RV1 dose Supplementary Table 6.Random Forest models based on OTU abundance data failed to accurately predict rotavirus seroconversion mean accuracy 43.4 and 45.7 at 6 and 10 weeks respectively baseline accuracy 50.6 P values.05 but showed modest predictive accuracy for shedding after dose 1 mean accuracy 60.3 and 60.8 based on OTUs measured at 6 and 10 weeks respectively baseline accuracy 50.0 P  .038 and .040 Supplementary Fig.
-
-The prevalence of mixed infections did not differ significantly according to seroconversion status at 6 or 10 weeks kh2 P values .05 nor did total pathogen count Wilcoxon's ranksum P values .05 C and 1D.
-
-Their prevalence did not differ significantly according to seroconversion status Supplementary Table 1 although enterovirus abundance was greater among responders than non-responders at 6 weeks Ct 29.5 - 4.5 mean - standard deviation SD vs 31.0 - 4.1 Wilcoxon's rank sum FDR-corrected P  .042.
-
-4 or taxon relative abundance non-parametric t test FDR-corrected P values .15 Supplementary Table 5 according to seroconversion status and no significant clustering of samples based on Unifrac distances adonis P values .05 C Supplementary Fig.
+Across the 6- and 10-week doses we assessed the association between the number ofdoses in which 1 enteropathogen was present 0 1 or 2 and rotavirus seroconversion via logistic regression.Type 3 poliovirus seroconversion rate was compared according to rotavirus seroconversion status using the kh2 test as was the prevalence of dose 1 rotavirus shedding.
 
 Nonetheless after two doses rotavirus seroconversion did not differ by type 3 poliovirus seroconversion status 146447 33 seroconverted among poliovirus sero-responders and26103 25 among non-responders kh2 P  .143.
 
-Across the 6- and 10-week doses we assessed the association between the number ofdoses in which 1 enteropathogen was present 0 1 or 2 and rotavirus seroconversion via logistic regression.Type 3 poliovirus seroconversion rate was compared according to rotavirus seroconversion status using the kh2 test as was the prevalence of dose 1 rotavirus shedding.
+Here IgA seropositivity at baseline was negatively correlated with dose 1 shedding but not with seroconversion after two doses.We observed no differences in the composition or stability of the bacterial microbiota according to rotavirus seroconversion status.
 
-We observed 1 enteropathogen excluding EAEC enterovirus and rotavirus at either 6 or 10 weeks in 70154 45 non-responders and 78155 50 responders odds ratio OR 1.22 95 CI 0.78-1.90.Secondary outcomesEAEC and enteroviruses were the predominant TAC targets at 6 and 10 weeks A and 1B.
+In a systematic review of oral poliovirus vaccine OPV trials we observed a reduction in the odds of seroconversion and vaccine virus shedding among individuals infected with non-polio enteroviruses NPEVs 8.
 
-Combining across TAC targets 1 enteropathogen excluding EAEC enterovirus and rotavirus was observed in 56156 36 responders and 37157 24 non- responders at 6 weeks kh2 P  .017.
+Rotavirus seroconversion was defined as a four-fold increase in anti- VP6 IgA concentration or detection of antibodies at 20 Uml in previously seronegative infants.Hereafter we refer to infants who seroconverted to rotavirus as responders and infants who failed to seroconvert as non-responders.Following completion of the trial we conducted a nested case-control study to assess the association between enteropathogens and RV1 response.
 
-Concurrent diarrhea was documented in 5 of individuals at 6 and 10 weeks this proportion did not differ between responders and non-responders at either dose kh2 P values.05.3.2.1.
+Our primary outcome was the association between rotavirus seroconversion and the presence of 1 enteropathogen at 6 or 10 weeks of age as determined via logistic regression.
 
-We observed no association between intestinal bacteria eukaryotes mixed infections concurrent diarrhea or pathogen count at 6 weeks and the prevalence of shedding P values .05 A Supplementary Table 3.
+Rotaviruses were excluded from analyses of mixed infections pathogen groups and pathogen count given that in contrast to the hypothesized inhibitory effect of enteropathogens one would expect natural rotavirus exposure or RV1 shedding to be positively correlated with rotavirus seroconversion.
+
+Random Forest models were fit to discriminate infants according to RV1 outcome and study arm based on OTU abundances 34.Sensitivity analyses We carried out sensitivity analyses to assess the influence of Ct threshold study arm amplification efficiency of MS2 the extrinsic RNA control in the TACs baseline rotavirus- specific IgA status and seroconversion criteria on the comparisons described above.3.
+
+Infants receiving probiotics arms 1  2 or zinc supplementation arms 1  3 did not differ significantly in their rate of seroconversion compared with placebo recipients arms 3  4 or 2  4 respectively.
+
+However a significant increase in seroconversion rate was observed among infants who received both supplements compared with those who received neither Fisher's exact test P  .040.Association between pathogen burden and seroconversionPrimary outcome We assessed the presence of enteropathogens using TACs in 325 infants .
 

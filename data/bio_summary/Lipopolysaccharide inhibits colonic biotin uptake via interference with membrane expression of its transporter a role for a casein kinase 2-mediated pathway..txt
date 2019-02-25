@@ -8,8 +8,6 @@ This inhibition was again found to be associated with a decrease in the level of
 
 The effect of LPS CK2 inhibitors and mutating the putative CK2 phosphorylation sites in the SMVT protein on expression of the carrier protein at the cell membrane of NCM460 and ARPE-19 cells was examined by means of biotinylation assay using a cell surface biotinylation kit Pierce Biotechnology Rockford IL as previously described 6 21 33 39.
 
-PMCID PMC4382993 PubMed 25791315Zien P Duncan JS Skierski J Bretner M Litchfield DW Shugar D. Tetrabromobenzotriazole TBBt and tetrabromobenzimidazole TBBz as selective inhibitors of protein kinase CK2 Evaluation of their effects on cells and different molecular forms of human CK2.
-
 These findings suggest that LPS interferes with the level of expression of SMVT at the cell surface of the colonic epithelial cells.Role for CK2 in Mediating the LPS Effect on Colonic Biotin Uptake and on Membrane of Expression of the hSMVT ProteinRecent studies have reported a role for CK2 11 13 and protein kinase C PKC 23 40 in the process of cell surface expression of membrane transporters in a variety of cellular systems.
 
 The results showed a significant P  0.05 reduction in the level of expression of the Thr78Ala mutant at the cell surface compared with level of expression of the wild-typehSMVT protein .DISCUSSIONEmerging evidence has pointed to the involvement of biotin in critical metabolic activities andGo tophysiological functions beyond its classical role as a cofactor for enzymes like carboxylases.
@@ -17,4 +15,6 @@ The results showed a significant P  0.05 reduction in the level of expression of
 Also inhibiting CK2 with the use of specific pharmacological inhibitors led to significant inhibition in both biotin uptake and in the level of expression of the hSMVT protein at the cell membrane without affecting the level of expression of the transporter in total cell homogenate.
 
 These findings suggest a role for CK2 in mediating the inhibitory effect of LPS on biotin uptake and on membrane expression of the hSMVT protein.To further confirm the possible role of CK2 in regulating biotin uptake and in expression of the hSMVT protein at the cell surface we examined the effect of mutating individually the putative CK2 phosphorylation sites in the SMVT polypeptide on biotin uptake.
+
+The soluble fraction was isolated by centrifugation at 8000 g for 10 min and the protein content was measured using DC protein assay kit Bio-Rad.
 

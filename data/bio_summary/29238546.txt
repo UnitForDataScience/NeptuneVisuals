@@ -1,20 +1,20 @@
-10175How does natural selection set the number of receptor variants How does selection tune the binding affinities of different receptor variants in an array How does the design of receptor arrays shape the competitive and cooperative processes that define bacterial communitiesVitamin and metabolite receptor arrays provide an exceptional model to study conditional response to the environment.
+The gut microbe Bacteroides the- taiotaomicron has three different receptors to take up variants of vitamin B12 and 88 receptors to take up various glycans.
 
-The uptake rate of a receptor for a particular corrinoid diminishes with the distance between the receptor and the corrinoid location along the line.With numerical values for these assumptions we could calcu- late the optimal receptor array design to maximize the benefits of corrinoid uptake.
+The design of receptor arrays reflects key pro- cesses that shape cellular evolution.
 
-An optimal design would specify the number of different receptor types the number of surface receptors of each type the location of each receptor type along the line and the best trade-off between the maximum uptake rate and the diminishing uptake rate with distance between corrinoid and receptor.
+I emphasize broad questions about the characteristics of receptor uptake arrays for nutrient acquisition.This is an open access article under the terms of the License which permits use distribution and reproduction in any medium provided the original work is properly cited.c 2017 The Authors.
 
-The closer an uptake receptor moves toward a particular corrinoid the stronger that receptor's uptake of approaching corrinoids and the weaker that receptor's uptake of receding corrinoids.
+The ubiquitous battle for free iron sets the design of siderophore up- take receptor arrays.Glycans are complex carbohydrates with diverse molecular structures.
 
-Do themolecular changes that alter function also influence receptor uptake If so then functional divergence may lead to receptor array diversity whereas functional constraints may limit receptor diversity.Most glycans function independently of the bacteria that take them up.
+The cobalt-containing corrin ring defines the group and plays a key role in corrinoid coenzyme ac- tivity.
 
-Here I use the word receptor to include the various binding and transport processes that influence specificity and rate of uptake.For uptake of vitamin B12 analogs Bacteroides thetaiotaomicron ex- presses three homologous variants of the associated receptor DegnanBarry Mok Taga  Goodman 2014.
+The other species must take up the vitamin externally.
 
-The receptor function makes it difficult to hide or modify the receptor providing a point for attack.
+The cost difference between synthesis and uptake probably explains why uptake is so common even among those species that can make their own.Only prokaryotes can make corrinoids.
 
-In particular wild type with all three receptors outcompeted a mutant with btuB2 knockedout and the other two receptors intact.The key points are multiple receptors exist each receptor takes up a variety of corrinoids and the competitive performance of each receptor varies by corrinoid type.
+The specific numbers are imprecise.
 
-Given the corrinoid uptake property locations along the line how should the uptake receptor array be designed to maximize the benefit of uptake To answer that question about receptor array design we need to add some assumptions.Set constant concentrations for free corrinoids.
+The btuB1 strain won in the presence of two corrinoid variants whereas btuB3 won in the presence of theother four variants.An in vivo experiment colonized germ-free mice with a wild-type strain that expressed all three receptors and a mutant strain with btuB2 knocked out.
 
-By rec- ognizing the abstract structure of the receptor array design problem one can take advantage of the existing theory develop new theory that broadens understanding for a wide range of problems and con- sider uptake receptor design in biology as part of a broader subject of sensor and uptake properties of organisms.All of that makes for an interesting theoretical subject.
+The wild type strongly outcompeted the mutant.
 

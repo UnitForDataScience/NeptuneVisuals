@@ -12,9 +12,9 @@ Cellular fatty acid composition  of strain BR31T and related strains of cluster 
 
 The major cellular fatty acids of strain BR31T were C14  0 25.0  C16  0 18.6  summed feature 4 14.6  and C13  0 11.6  which were absent in the pro- file of DSM 3982T which encompassed iso- C17  110c 29.0  iso-C15  19c 26.5  and C15  0 2-OH18.8  as major fatty acids.
 
-Int J Syst Evol Microbiol 201464689-691.Saitou N Nei M. The neighbor-joining method a new method for reconstructing phylogenetic trees.
-
 The 16S rRNA gene sequence of ATCC 8486T was used as an outgroup.
 
 The highest ANI value was73.0  which was obtained through comparison of strain BR31T and ATCC 35704T PRJNA18175 Table S1.
+
+Although the same major fatty acids of strain BR31T were detected in DSM 15053T KCTC 5591T and ATCC 27756T strain BR31T had a higher C14  0 content.
 

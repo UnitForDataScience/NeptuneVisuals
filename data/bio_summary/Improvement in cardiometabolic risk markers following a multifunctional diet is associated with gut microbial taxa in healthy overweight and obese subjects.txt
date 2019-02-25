@@ -1,20 +1,20 @@
-Nordic Council of Ministers CopenhagenCaporaso J Kuczynski J Stombaugh J Bittinger K Bushman F Costello E Fierer N Pena A Goodrich J Gordon J Huttley G Kelley S Knights D Koenig J Ley R Lozupone C McDonald D Muegge B Pirrung M Reeder J Sevinsky J Turnbaugh P Wal- ters W Widmann J Yatsunenko T Zaneveld J Knight R 2010 QIIME allows analysis of high-throughput community sequencing data.
-
-doiArumugam M Raes J Pelletier E Le Paslier D Yamada T Mende DR Fernandes GR Tap J Bruls T Batto J-M Bertalan M Borruel N Casellas F Fernandez L Gautier L Hansen T Hattori M Hayashi T Kleerebezem M Kurokawa K Leclerc M Levenez F Manichanh C Nielsen HB Nielsen T Pons N Poulain J Qin J Sicheritz-Ponten T Tims S Torrents D Ugarte E Zoetendal EG Wang J Guarner F Pedersen O de Vos WM Brunak S Dore J Weissenbach J Ehrlich SD Bork P 2011 Enterotypes of the human gut microbiome.
-
-Besides slightly decreased body weight and diastolic blood pressure consumptionof MFD promoted marked reductions in total circulating cholesterol - 26 P  0.0001 LDL cholesterol - 34 P  0.0001 LDL-to-HDL and Apo B-to-Apo A1 ratios - 27 P  0.0001 and - 15 P  0.0001 respectively andtriglycerides - 16 P  0.05 compared to baseline .Furthermore the MFD reduced the Reynold's cardiovascular risk score with 36 P  0.05 while the CD did not alter this risk score .
-
-Eur J Nutr 5572295- 2306. doiTovar J de Mello VD Nilsson A Johansson M Paananen J Lehtonen M Hanhineva K Bjorck I 2017 Reduction in car- diometabolic risk factors by a multifunctional diet is mediated via several branches of metabolism as evidenced by nontargeted metabolite profiling approach.
-
-J Clin Bio- chem Nutr 572135-139. doiQuevrain E Maubert MA Michon C Chain F Marquant R Tailhades J Miquel S Carlier L Bermudez-Humaran LG Pigneur B Lequin O Kharrat P Thomas G Rainteau D Aubry C Breyner N Afonso C Lavielle S Grill JP Chassaing G Chatel JM Trugnan G Xavier R Langella P Sokol H Seksik P 2015 Identification of an anti-inflammatory protein from Faecalibacterium prausnitzii a commensal bacterium deficient in Crohn's disease.
-
 Althoughthe MFD did not significantly alter the gut abundance of these bacteria our correlation analyses of bacterial taxa with cardiovascular risk markers identified members of the gut microbiota that can be targeted in future dietary interven- tions to improve cardiometabolic risk markers.The diet is regarded as a major determinant of gut com- munity structure but in our study the effects of the MFD induced relatively small changes in the gut microbiotaFig.
 
-Br J Nutr 1147999-1012. doiTovar J Nilsson A Johansson M Ekesbo R Aberg AM Johans- son U Bjorck I 2012 A diet based on multiple functional con- cepts improves cardiometabolic risk parameters in healthy sub- jects.
-
-doiHaro C Garcia-Carpintero S Alcala-Diaz JF Gomez-Delgado F Delgado-Lista J Perez-Martinez P Rangel Zuniga OA Quin- tana-Navarro GM Landa BB Clemente JC Lopez-Miranda J Camargo A Perez-Jimenez F 2015 The gut microbialcommunity in metabolic syndrome patients is modified by diet.
-
-Treponema an unclassified family in Bacteroidales order adjusted P  0.001 and an unclas- sified genus in Clostridaceae family adjusted P  0.05 were positively associated with blood pressure while Faecalibacterium adjusted P  0.05 and Lachnospira adjusted P  0.001 were negatively correlated.
-
 In addition the control diet was a healthy diet formulated according to the Nordic Nutrition Recom- mendations while a more extreme unhealthy control diet may have resulted in larger differences between groups.In conclusion the MFD did not alter the gut microbiota at phylum or genus level.
+
+b.Associations between intake of MFD gut microbiota and cardiometabolic risk markersWe next sought to determine whether cardiometabolic risk parameters were associated with bacterial taxa and found that eight genera were significantly correlated withrisk markers Fig.
+
+3 Loading big panel and score scatter small PLS plots illus- trating correlations between gut microbiota at genus level and cardi- ometabolic risk markers in MFD and control diet groups.
+
+The functional capacity of the gut microbiome was estimated by inferring metabolic functionality from the 16S rRNA gene sequencing data using an open-source software Phylogenetic Investigation of Communities by Reconstruction of Unobserved States PICRUSt .ResultsThe multifunctional diet improved cardiometabolic risk markersAs described previously the 8-week intervention with MFD improved a range of cardiometabolic risk markers in healthy mature and overweight subjects while the CD did not have significant metabolic effects .
+
+Next-generation sequencing of bacterial 16S rRNA genes was used to analyze the gut microbiota composition.Electronic supplementary material The online version of this article doi contains supplementary material which is available to authorized users.Nittaya Marungruang Frida Fak Hallenius 1 Department of Food Technology Engineering and Nutrition Lund University Kemicentrum Solvegatan 39SE-22100 Lund Sweden2 InnovaFood AB Appelvagen 15 247 47 Flyinge SwedenResults The 8-week intervention with MFD did not sig- nificantly alter the gut microbiota composition at phylum or genus taxonomic levels while LEfSE analysis identifiedincreased abundance of Prevotella copri in the MFD group as compared to the control group.
+
+In contrast Faecalibacterium showed a negative association with blood pressure while Bilophila appeared to associate with a negative blood lipid profile.Conclusions Taken together results from the present study may be used in the further development of effective dietary concepts capable of reducing cardiometabolic risk markersin humans through a targeted modulation of the gut micro- bial community.Trial registration numberClinical Trials.govNCT02148653.Keywords Cardiovascular  Microbiota  Diet  Obese  Human  PreventionIntroductionIngested food components preferentially carbohydrates that are not digested and absorbed in the small intestine reach the colon where they serve as fuel for the inherent microbiota.
+
+Furthermore Bilophila also correlated positively with LDLHDL ratio ApoBApoA1 ratio and with TGHDLratio adjusted P  0.001.DiscussionThe MFD was effective in improving cardiometabolic risk markers and in the present study we show that it induced minor shifts in the gut microbiota at species level withincreased abundance of P. copri.
+
+Food Funct 741788- 1796. doiSelma MV Gonzalez-Sarrias A Salas-Salvado J Andres-Lacueva C Alasalvar C Orem A Tomas-Barberan FA Espin JC 2017 The gut microbiota metabolism of pomegranate or walnut ella- gitannins yields two urolithin-metabotypes that correlate with cardiometabolic risk biomarkers Comparison between normo- weight overweight-obesity and metabolic syndrome.
+
+Besides slightly decreased body weight and diastolic blood pressure consumptionof MFD promoted marked reductions in total circulating cholesterol - 26 P  0.0001 LDL cholesterol - 34 P  0.0001 LDL-to-HDL and Apo B-to-Apo A1 ratios - 27 P  0.0001 and - 15 P  0.0001 respectively andtriglycerides - 16 P  0.05 compared to baseline .Furthermore the MFD reduced the Reynold's cardiovascular risk score with 36 P  0.05 while the CD did not alter this risk score .
 

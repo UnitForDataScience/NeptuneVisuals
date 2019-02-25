@@ -1,20 +1,20 @@
 The percent survival was calculated as follows survival   CFUpeptide treatment CFUno treatment x 100.ResultsProfiling the transcriptome of V. cholerae in response to polymyxin B exposure using Illumina-based RNA-SeqTo characterize the V. cholerae transcriptional response to antimicrobial peptide treatment and the role of the putative VC1639 sensor kinase we used RNA-Seq analysis to quantitatively identify the transcriptome of V. cholerae grown in the presence and absence of sublethal concentrations of polymyxin B .
 
-Transcriptional response of the lipid A modification system and the vc1319-20 two-compo- nent system in response to polymyxin B exposure as determined by RNA-Seq analysis.Elevated transcript abundance from the almEFG lipid A modification system and the vc1319-20 carRS two-component system after polymyxin B exposureA novel lipid A modification system functions in V. cholerae to add a glycine or digycline moiety to the lipid A structure  resulting in increased resistance to polymyxin B.
+The construct was then transformed into E. coli SM10 lpir and moved into V. cholerae strain C6706 by conjugation.The vca0732lacZ fusion plasmid was constructed by amplifying the upstream 237 nucleo- tides of vca0732 the intergenic region between vca0731 and vca0732 from V. cholerae C6706 chromosomal DNA using Expand Hi-Fidelity polymerase Roche Molecular Biochemicals Indianapolis IN.
 
-Understanding the cellular response by pathogens to host-derived antimicrobial peptides is an active area of research.The subdivision of V. cholerae into the classical or El Tor biotype is based on several labora- tory tests one of which is sensitivity to the antimicrobial peptide polymyxin B  classical strains are more sensitive to polymyxin B than El Tor strains.
-
-In addition to providing the first systematic analysis of the transcriptional response of V. cholerae to polymyxin B the main findings of this study are that i expression of vca0732 is strongly induced by exposure to poly- myxin B and ii its expression is dependent on the VC1638-39 two-component system.
-
-In addition to many previously uncharacter- ized pathways responding with elevated transcript levels to polymyxin B exposure we con- firmed the predicted elevated transcript levels of a previously described LPS modification system in response to polymyxin B exposure.
-
-It can be applied as to learn more about the function of vca0732 transcript levels in response to polymyxin B treatment.Fold change values from the RNA-Seq analysis See also  were confirmed by qRT-PCR on independent samples in triplicate normalized to recA.vca0732 expression is upregulated in response to polymyxin B exposure and dependent on the VC1638-39 two- component system.
+One stress that V. cholerae encounters in the host is exposure to antimicrobial peptides on mucosal surfaces.
 
 We used massively parallel cDNA sequencing RNA-Seq to quantitatively identify the transcriptome of V. cholerae grown in the presence and absence of sub-lethal concentrations of the antimi- crobial peptide polymyxin B.
 
+We evaluated the transcriptome of both wild type V. cholerae and a mutant carrying a deletion of vc1639 a putative sensor kinase of an uncharacterized two-component system under these conditions.
+
+Additionally we identified the V. cholerae homologue of visP ygiW as a regulatory target of VC1639.
+
 This study provides the first system- atic analysis of the transcriptional response of Vibrio cholerae to polymyxin B raising impor- tant questions for further study regarding mechanisms used by V. cholerae to sense and respond to envelope stress.
 
-To more fully understand the role of VC1639 in antimicrobial peptide resistance and disease we investigated the transcriptome of a strain lacking this two-component system.Here we compare the transcriptomes of wild type C6706 and vc1639 mutant V. cholerae in the presence and absence of a sublethal concentration of polymyxin B using high through- put sequencing of cDNA libraries RNA-Seq.
+When water contaminated with V. cholerae is ingested by a human the bacteria colonize the small intestine where they produce cholera toxin the activity of which causes the profuse watery diarrhea that is the hallmark of cholera disease.
 
-Samples analyzed using RNA-Seq.Differential gene expression of V. cholerae with and without polymyxin B treatment in wild type C6706 and vc1639tn strains.
+In the host epithelial cells in the crypts of the intestinal lumen Paneth cells and enterocytes produce large amounts of antimicrobial peptides called defensins that the V. cholerae and other mucosal pathogensmust counter to survive .
+
+Understanding the cellular response by pathogens to host-derived antimicrobial peptides is an active area of research.The subdivision of V. cholerae into the classical or El Tor biotype is based on several labora- tory tests one of which is sensitivity to the antimicrobial peptide polymyxin B  classical strains are more sensitive to polymyxin B than El Tor strains.
 

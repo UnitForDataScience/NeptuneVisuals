@@ -8,11 +8,9 @@ Amino acid analysis of all gene segments from the AH1N1pdm09 isolates obtained i
 
 Six isolates were selected for whole-genome sequencing one isolate from 2009 two isolates from 2014 and three isolates from 2015.
 
-Similarly the majority of amino acid substitutions observed during the 2009 pandemic period--namely those for PB2-I354L PB1-I397M I435T PA-P224S NS-I123V and NP-Volume 5 Issue 28 e00598-17 1Jones et al.TABLE 1 Accession numbers of whole-genome sequences of AH1N1pdm09 clinical isolatesaPB2 polymerase basic 2 PB1 polymerase basic 1 PA polymerase acidic HA hemagglutinin M matrix NP nucleoprotein NA neuraminidase NS nonstructural.V100I--persisted in the isolates from 2014 to 2015 with the accumulation of several new mutations in PB2-R54K M66I D195N R293K V344M R368R W537L V731I S453T R299K T303S PB1-V113I G154D PA-I621V G684R R266H S522G R559K L649I V100I N321K I330V K361R R362K Ns-G51S and NP- A22T.Accession numbers.
-
 All eight influenza gene segments were amplified by reverse transcription-PCR using the WHO-CDC Atlanta recommended whole-genome primers .
 
-Compared to the pandemic period a large number of amino acid substitutions were observed for D97N N129D K163Q V173I S185T A256T K283E I295V E491G and E499K in the AH1N1pdm09 isolatesfrom 2014 to 2015.
+Similarly the majority of amino acid substitutions observed during the 2009 pandemic period--namely those for PB2-I354L PB1-I397M I435T PA-P224S NS-I123V and NP-Volume 5 Issue 28 e00598-17 1Jones et al.TABLE 1 Accession numbers of whole-genome sequences of AH1N1pdm09 clinical isolatesaPB2 polymerase basic 2 PB1 polymerase basic 1 PA polymerase acidic HA hemagglutinin M matrix NP nucleoprotein NA neuraminidase NS nonstructural.V100I--persisted in the isolates from 2014 to 2015 with the accumulation of several new mutations in PB2-R54K M66I D195N R293K V344M R368R W537L V731I S453T R299K T303S PB1-V113I G154D PA-I621V G684R R266H S522G R559K L649I V100I N321K I330V K361R R362K Ns-G51S and NP- A22T.Accession numbers.
 
 Death toll from swine flu in India exceeds 2500.
 

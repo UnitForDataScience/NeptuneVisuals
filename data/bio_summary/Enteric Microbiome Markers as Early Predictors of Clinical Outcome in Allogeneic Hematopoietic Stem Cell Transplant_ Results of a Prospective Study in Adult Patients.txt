@@ -1,9 +1,5 @@
 No sig- nificant risk factors were identified for microbiologically con- firmed enteric sepsis by gram-positive GP pathogens.Analogously no significant clinical or microbiome variables were identified in the 21 HSCT recipients 22.82 who devel- oped clinically defined severe sepsis or septic shock.At T0Microbiome MarkersShannon index 4 at T0 Enterobacteriaceae 5 at T0 Lachnospiraceae 10 at T0 Ruminococcaceae 10 at T0Risk of Graft-vs-Host DiseaseAcute GvHD developed in 23 HSCT recipients 25.27 within 30 days early acute GvHD and in 46 50.55 within 100 daysAt T1Shannon index 1.3 at T1 Staphylococcaceae 40 at T1Abbreviations T0 the day of the initiation of the pretransplantation conditioning regimen approximately 6 days before the transplant T1 10 days following transplant.Table 4.
 
-not significant.significant loss of Lachnospiraceae P  .022 and an increase in Staphylococcaceae P  .005 in patients with an early onset of acute GvHD Supplementary Figure 2.Microbiome markers were more informative at T1 still a clinically useful time point with a low a-diversity Shannon index  1.3 being significantly correlated to the risk of earlyacute GvHD odds ratio 7.833 P  .038 .
-
-However no significant antibiotic-induced differences were detected in the 2 most important microbiome markers iden- tified in the study that is Lachnospiraceae P  .188 and Enterobacteriaceae P  .896 Supplementary Table 2.Enteric Microbiome Shifts During the Peritransplant PeriodThe transplant procedures impacted the enteric microbiome with a dramatic decrease in bacterial a-diversity Shannon index particularly between T0 and T1 P  .001 .The loss of diversity was mainly due to the decrease in the relative amounts of strict anaerobic bacteria as noted for the phylum Bacteroidetes P  .002.
-
 Further details regarding GvHD grade and organ site are reported in the Supplementary Methods.In the risk stratification for early acute GvHD no sig- nificant variables were identified at T0.
 
 Moreover 10 Lachnospiraceae at T0 was the only significant factor for increased risk of overall mortality including death from both infectious and noninfectious causes.Finally a low bacterial alpha-diversity Shannon index  1.3 at T1 was the only variable significantly correlating with an increased risk of GvHD within 30 days.Conclusions.
@@ -12,9 +8,13 @@ Fecal samples were collected at all time points T0 T1 and T2 in 54 54 patients w
 
 However no significant associations were observed with late acute GvHD GvHD severity and GvHD organ localization.Risk of RelapseDuring the study period relapse was observed in 30 31.25 patients.
 
-Interestingly10 Lachnospiraceae was not only the unique independent variable for death due to infectious causes HR 7.051 P  .006 but also the most relevant for death due to noninfectious causes HR 21.211 P  .001 .DISCUSSIONInfections and GvHD still represent major allo-HSCT-related complications  stressing the need for noninvasive and reli- able laboratory tests allowing a precision medicine-tailored prophylactic approach.
+not significant.significant loss of Lachnospiraceae P  .022 and an increase in Staphylococcaceae P  .005 in patients with an early onset of acute GvHD Supplementary Figure 2.Microbiome markers were more informative at T1 still a clinically useful time point with a low a-diversity Shannon index  1.3 being significantly correlated to the risk of earlyacute GvHD odds ratio 7.833 P  .038 .
 
-A sig- nificant decrease in families with the most dominant anaero- bic features was observed including Clostridiaceae P  .038 Ruminococcaceae P  .038 and Veillonellaceae P  .016.
+Modifications of the enteric microbiome have also been correlated to different risk of GvHD in both mouse models and transplanted patients .
 
-The only other variable included in multivariate analy- sis was enteric colonization by GN-MDR pathogens HR 6.614 P  .001 Supplementary Table 7.Survival curves were plotted using the identified microbiome markers and highlighted an extremely significant rapid decline in survival in the first month and even more so during the entire observation period  .Importantly a relative amount of 10 Lachnospiraceae was the only independent risk factor in multivariate analysis for overall mortality HR 4.439 P  .001 .
+have been associated to higher risk of GvHD both in children and adults   .
+
+No significant microbiome cutoffs were identified at T2 data not shown The microbiome cutoffs were then used in univariate and multivariate regression analyses together with the other clinical variables for risk stratification of trans- plant-related infectious and noninfectious complications.The significant microbiome cutoffs and clinical variables associated with specific clinical outcomes emerging from the univariate analysis are reported in for microbiologically confirmed sepsis relapse of the underlying disease and GvHD and in Supplementary Table 7 for death.
+
+Current immune suppression strategies are only partially effective at preventing GvHD and increase the risk of infections and disease recurrence.
 

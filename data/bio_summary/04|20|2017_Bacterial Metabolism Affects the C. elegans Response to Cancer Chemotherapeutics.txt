@@ -2,9 +2,9 @@ Thus an increase in drug efficacy upon ndk deletion agrees with the model that b
 
 We found that the parental strain of this collection E. coli K-12 BW25113 modulates drug efficacy in a similar manner as E. coli OP50 although there was a relatively small difference between animals fed E. coli OP50 and E. coli K-12 BW25113 with 5-FU Figure S2.
 
-However the precise mechanism by which this difference occurs remains to be elucidated.Bacterial Modulation of 5-FU and FUDR Efficacy Ribonucleotide Rather than DNA MetabolismThe efficacy of FUDR is differently modulated by E. coli and Comamonas and this difference requires active metabolism in both bacteria E. coli metabolism to increase and Comamonas metabolism to decrease drug efficacy in C. elegans Figure 7.
-
 elegans--N2 Bristol was used as the wild-type strain and animals were maintained with E. coli OP50 as diet on Nematode Growth Media NGM as previously described Brenner 1974.Bacterial Strains--Bacterial strains E. coli OP50 E. coli BW25113 and Comamonas aquatica DA1877 were grown as described Watson et al.
+
+However the precise mechanism by which this difference occurs remains to be elucidated.Bacterial Modulation of 5-FU and FUDR Efficacy Ribonucleotide Rather than DNA MetabolismThe efficacy of FUDR is differently modulated by E. coli and Comamonas and this difference requires active metabolism in both bacteria E. coli metabolism to increase and Comamonas metabolism to decrease drug efficacy in C. elegans Figure 7.
 
 By high-throughput forward and reverse genetics in both the animal and these bacteria we found that the Comamonas effects on C. elegans development and fecundity can be explained in a large part by the fact that this bacterial species can synthesize vitamin B12 whereas E. coli cannot Watson et al.
 

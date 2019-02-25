@@ -1,20 +1,20 @@
 Thus Thpok and LRF redundantly support the CD4CD82 expression pattern of Tregs as they do for conventional CD4 T cells 16 42.Thpok and LRF affect Treg functions independently of Runx3 repressionIn thymocytes and conventional T cells Thpok acts by inhibiting the expression and function of the transcription factor Runx3 16 39 42. dKO Tregs had increased levels of Runx3 but not of its homolog Runx1 which is expressed in wild-type Tregs Fig.
 
-Of note disruption of the Foxp3 CNS2 cis-regulatory element which destabilizes Foxp3 expression but does not affect the function of remaining Foxp3 Tregs has a much milder impact on immune homeostasis than does disruption of Thpok and LRF 45 46.The functions of Thpok and LRF in Tregs differ in three important respects from those in conventional CD4 T cells.
-
-Whereas in conventional CD4 T cells Thpok inhibits the expression of cytotoxic genes 17 27 many of these genes including that for granzyme B are normally expressed in Tregs despite Thpok expression 73 74.
-
 3C this indi- cated that the impact of Thpok and LRF on Tregs is not mediated by their effect on CD4 expression and thereby MHC-II-induced TCR signaling 43 44.Effect of Thpok and LRF on Treg stabilityIt was reported that environmental cues in the small intestine at the interface of the epithelial layer and of the lamina propria siLP the main site of immune activity at steady-state repress Thpok resulting in Foxp3 silencing and conversion of Foxp3CD4 Tregs into Foxp32 CD4CD8aCD8b2 ex Treg intraepithelial lymphocytes IELs 20 accordingly inducible Thpok disruption resulted in the generation of Foxp32CD4CD8 ex Tregs 20.
 
 Unexpectedly this was not the case as the requirement for Thpok is not relieved by enforced expression of CD4.Given the role of Thpok in stabilizing Foxp3 expression in in- testinal Tregs 20 it is possible that Thpok contributes to Foxp3 expression in thymocytes.
 
 Our study supports the conclusion that the main function of Thpok and LRF in postthymic Tregs is to support Foxp3-mediated gene expression rather than to maintain expression of Foxp3 itself.This conclusion appears at odds with our observation and a previous report 20 that Thpok contributes to stabilize Foxp3 expression with little functional overlap with LRF.
 
-Sign up at Control of Regulatory T Cell Differentiation by the Transcription Factors Thpok and LRFAndrea C. Carpenter Elizabeth Wohlfert1 Laura B. Choppx Melanie S. y The CD4 lineage-specific transcription factor Thpok is required for intrathymic CD4 T cell differentiation and together with its homolog LRF supports CD4 T cell helper effector responses.
+We compared YFP dKO Tregs with 1 CD25YFP2 animal control cells obtained from the same female mice as the YFP Tregs but expressing the Foxp3 allele and 2 YFP Tregs from Foxp3YFP-Cre Thpok Lrf female mice genetic controls which express the Foxp3YFP-Cre allele.
 
-We retrovirally transduced Foxp3 in conventional T cells either Thpok and LRF sufficient CD4 and CD8 T cells from wild-type mice or Thpok and LRF deficient CD8 T cells from B2m22 Thpokflfl Lrfflfl Cd4-Cre mice which all are MHC-II restricted.
+Consistent with this impact the frequency of CD44hiCD62L2 effector Tregs which normally includes all Cxcr3 Tregs was significantly reduced among YFP dKO Tregs in female mice Fig.
 
-Red-line histograms top plots show Nrp1 left and CD25 right ex- pression in Foxp3-transduced MHC-II-restricted CD8 T cells from B2m22 Thpokflfl Lrfflfl Cd4-Cre mice in which MHC-II-restricted thy- mocytes differentiate into CD8 T cells and MHC-I-restricted T cells fail to develop.
+Accord- ingly Foxp3YFP-Cre-mediated disruption of Thpok LRF and Cbfb failed to generate functional Tregs A.C. Carpenter and R. Bosselut unpublished observations.Although additional investigations will be needed to gain a full mechanistic understanding of the functions of Thpok and LRF in Tregs our findings indicate that these factors redundantly pro- mote Treg survival and they suggest that they are especially important for the homeostasis of effector Tregs a subset whose importance is increasingly appreciated 76-78.
 
-E-mail address The online version of this article contains supplemental material.Abbreviations used in this article dKO double knockout IEL intraepithelial lymphocyte KO knockout MHC-II MHC class II RNAseq RNA sequencing ROR retinoic acid-related orphan receptor siLP small intestinal lamina propria Treg regulatory T cell.CD4 regulatory T cells Tregs 2-4 for immune homeostasis.
+Rather we favor the possibility that Thpok stabilizes Foxp3 expression in a cell-intrinsic manner but that in female Thpok KO or dKO mice the expansion of Foxp32 ex Tregs is restrained by functionally competent Tregs ex- pressing the wild-type Foxp3 allele.
+
+In contrast dKO cells had reduced expression of genes associated with cell migration and effector differentiation including Tbx21 encoding T-bet and Cxcr3 which characterize a population of Th1-like Tregs 52 and Batf Rora Il6ra and Ccr6 characteristic of Th17-like Tregs Fig.
+
+Ctrl control.Both factors act in Tregs by supporting Foxp3-directed gene ex- pression notably by enabling expression of IL-2-dependent genes and the development of effector Treg populations.DiscussionIn this study we report that overlapping functions of the tran- scription factors Thpok and LRF are critical for the differentiationand homeostasis of Foxp3 Tregs as shown by the severe breach of tolerance resulting from their Treg-specific disruption.
 

@@ -1,7 +1,3 @@
-.Arumugam M Raes J Pelletier E Le Paslier D Yamada T Mende DR Fernandes GR Tap J Bruls T Batto JM Bertalan M Borruel N Casellas F Fernandez L Gautier L Hansen T Hattori M Hayashi T Kleerebezem M Kurokawa K Leclerc M Levenez F Manichanh C Nielsen HB Nielsen T Pons N Poulain J Qin J Sicheritz-Ponten T Tims S Torrents D Ugarte E Zoetendal EG Wang J Guarner F Pedersen O de Vos WM Brunak S Dore J MetaHIT Consortium Antolin M Artiguenave F Blottiere HM Almeida M Brechot C Cara C Chervaux C Cultrone A Delorme C Denariaz G Dervyn R Foerstner KU Friss C van de Guchte M Guedon E Haimet F Huber W van Hylckama-Vlieg J Jamet A Juste C Kaci G Knol J Lakhdari O Layec S Le Roux K Maguin E Merieux A Melo Minardi R M'rini C Muller J Oozeer R Parkhill J Renault P Rescigno M Sanchez N Sunagawa S Torrejon A Turner K Vandemeulebrouck G Varela E Winogradsky Y Zeller G Weissenbach J Ehrlich SD Bork P. 2011.
-
-.Qin J Li R Raes J Arumugam M Burgdorf KS Manichanh C Nielsen T Pons N Levenez F Yamada T Mende DR Li J Xu J Li S Li D Cao J Wang B Liang H Zheng H Xie Y Tap J Lepage P Bertalan M Batto JM Hansen T Le Paslier D Linneberg A Nielsen HB Pelletier E Renault P Sicheritz- Ponten T Turner K Zhu H Yu C Li S Jian M Zhou Y Li Y Zhang X Li S Qin N Yang H Wang J Brunak S Dore J Guarner F Kristiansen K Pedersen O Parkhill J Weissenbach J.
-
 In comparing fungal microbiomes of mice and their corresponding chows we observed that 80 of fungal taxa in mice fed the standard diet were not present in the standard chow and 90 of fungal taxa in mice fed the high-fat diet were not present in the high-fat chow.
 
 Overall the results of this study provide evidence that fungi and interkingdom interactions are disrupted by high-fat diet thus supporting the inclusion of fungal community analyses in studies that seek to discover new connections between intestinal microbiomes and metabolic health.RESULTSMice fed a high-fat diet harbor gut fungal and bacterial communities that differ from those in mice fed standard chow.
@@ -16,5 +12,9 @@ In our study mice fed a high-fat diet had increased relative abundance of the fu
 
 S9.DISCUSSIONIn this study ingestion of a high-fat diet by mice resulted in major shifts in both gut bacterial and gut fungal community structures.
 
-.Caporaso JG Kuczynski J Stombaugh J Bittinger K Bushman FD Costello EK Fierer N Pena AG Goodrich JK Gordon JI Huttley GA Kelley ST Knights D Koenig JE Ley RE Lozupone CA McDonald D Muegge BD Pirrung M Reeder J Sevinsky JR Turnbaugh PJ Walters WA Widmann J Yatsunenko T Zaneveld J Knight R. 2010.
+saturated versus unsat- urated that are more typically consumed by human populations.In lean mice fed a standard chow we observed that the fungal species S. cerevisiae was significantly more abundant than in obese mice fed a high-fat diet.
+
+These results along with the results that we report here support the idea that gut fungal communities could contribute to metabolic health.The high-fat diet provided to the mice in this study contained 60 calories from fat compared to 18 for standard chow.
+
+In a recent study rats receiving A. terreus as a dietary supplement along with a high-fat diet had reduced hepatic steatosis compared to those fed a high-fat diet alone  further supporting a role for A. terreus in modulation of metabolism.
 

@@ -1,14 +1,12 @@
-For reactions at 34.2 47.7 and 61.5degC with EstC7 in panel A single measurements were performed.Polyesterase activity of EstB3 and EstC7 with PBAT milled and foil.
-
-Purified EstC7 yielded higher concentrations of Ta overall especially with theFIG 6 Hydrolysis of milled PBAT A and PBAT foil B by purified esterases EstB3 and EstC7.
-
 One unit was defined as the amount of activity required for the release of 1 umol of 4-methylumbelliferone per minute.Polyesterase activity of all six esterases cell-free lysates and purified EstB3 and EstC7 with PBAT milled and foil.
+
+For reactions at 34.2 47.7 and 61.5degC with EstC7 in panel A single measurements were performed.Polyesterase activity of EstB3 and EstC7 with PBAT milled and foil.
 
 Interestingly the three esterases EstB3 EstB11 and EstC7 that exhibited high levels of activity with PBAT belong to the same family of lipolytic enzymes i.e.
 
 In summary the esterases EstB3 EstB11 and EstC7 showed higher levels of activity in polyester hydro- lysis than did EstC5 EstC9 and EstG4 and therefore are the most promising candidates for further study.Kinetic characterization of purified EstB3 and EstC7.
 
-EstB3 showed a broader optimal pH range between 6.0 and 8.0 with a maximum at pH 7.0 whereas EstC7 had a narrow optimal pH range with a maximum at pH 8.5 .FIG 5 Temperature profiles A and pH profiles B of purified EstB3 and EstC7.
+Purified EstC7 yielded higher concentrations of Ta overall especially with theFIG 6 Hydrolysis of milled PBAT A and PBAT foil B by purified esterases EstB3 and EstC7.
 
 Since EstB3 and EstC7 belong to family VIII of carboxyles- terases polyesterase activity emerges as an unusual activity of this lipolytic enzyme family.
 
@@ -17,4 +15,6 @@ The esterases EstB3 EstB11 and EstC7 showed significant hydrolytic activity with
 For purified enzymes EstB3 and EstC7 the hydrolytic activity was calculated as units per milligram of enzyme.
 
 For the polyesterase activity determination the purified enzymes were shock- frozen in liquid nitrogen and lyophilized as described above.Temperature optima pH optima and kinetic characterization of EstC7 and EstB3.
+
+Therefore this study focused on characterization of purified EstB3 and EstC7 in terms of kinetic parameters and hydrolysis of the PBAT polyester.The kinetic data for EstC7 were fitted according to the Michaelis-Menten equation resulting in a Vmax of 70.6 U mg-1 and a Km of 3.43 uM.
 

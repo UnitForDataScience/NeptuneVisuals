@@ -1,20 +1,20 @@
-The correlation was stronger in the case of the direct exposure group PCC  0.29 P  0.01 for MCP PCC  0.07 P  0.05 for CHL PCC  -0.15 P  0.08 for MAL PCC  0.3 P 0.01 for MPAR than the indirect exposure group PCC 0.07 P  0.05 for MCP PCC  0.04 P  0.05 for CHL PCC  0.0004 P  0.06 for MAL and PCC  0.173 P 0.07 for MPAR Fig.
-
 Altogether this study indicates a prob- able association between OP accumulation and diabetic prevalence with no change in AChE activity.Chronic OP impairs glucose tolerance and induces oxidative stressSince the human studies indicate the association be- tween plasma OP residues and diabetes prevalence we examined whether chronic exposure to OP is a risk fac- tor for hyperglycemia by studying a preclinical model of OP exposure in BALBc mice.
 
-P 0.05 P 0.01 P 0.001 P 0.0001.Additional filesAbbreviationsAChE acetylcholine esterase CHL chlorpyrifos G6Pase glucose-6 phosphatase GNG gluconeogenesis MAL malathion MCP monocrotophos MPAR methyl parathion MRL maximum residue limit NaAc sodium acetate OP organophosphates SCFA short chain fatty acids TMDI theoretical maximum daily intakeAcknowledgementsThe authors extend their deep sense of gratitude to all volunteers who participated in the study.
-
 In sum RNA-seq analysis and subsequent studies indicate that OP chronic expos- ure induces the expression of OP degradation machinery of the gut microbiome that appears to be the key mech- anism behind impaired glucose tolerance.Acetic acid produced by microbial degradation of OP induces gluconeogenesisTo understand the effect of the microbial degradation of OP on host metabolism we executed whole metabolite profiling of caecum tissue from control and MCP-fed animals.
-
-The regression co-efficients b for direct ex- posure category were 3.8 x 10-3 P  0.01 2.1 x 10-3 P 0.05 7.2 x 10-7 P  0.08 and 2.4 x 10-4 P  0.01 forMCP CHL MAL and MAPR respectively.
-
-In the case of the indirect exposure category the b values were 1.5 x 10-4 P  0.05 1.2 x 10-3 P  0.05 7.2 x 10-7 P 0.06 and 8.7 x 10-5 P  0.07 for MCP CHL MAL andMAPR respectively Fig.
-
-Except MAL P 0.60 all other pes- ticides MCP P 0.01 CHL P 0.0001 and M.PAR P 0.0003 caused significant glucose intolerance Fig.
 
 Alterations in ecology and physiology of gut microbiota affects the host metabolism and thereby determines the transition between health and disease including diabetes For instance gut microbiota was proven to mediate the glucose in- tolerance induced by non-caloric artificial sweeteners Thus the present study is designed to explore the effect of chronic OP exposure on glucose homeostasis and to identify the role of gut microbiota in OP-induced hyperglycemia.ResultsPlasma OP residues associated with human diabetes Based on the survey executed among the pesticide users including pesticide applicators farmers and pesticide sellersinthevillagesofVadapalanjiPanchayat Additional file Figure S1 we found OP constitutes nearly 50 of insecticide usage Additional file FigureS2A Additional file Table S1.
 
 Collect- ively these results indicate that acetic acid was produced by the gut microbial degradation of OP and thereby glu- coneogenesis was induced in intestine and liver.Fecal acetate and esterase activity correlates with OP residues and human diabetic statusTo examine the prevalence of a similar phenomenon of gut microbiota-dependent OP-induced hyperglycemia in humans we collected fecal samples from control n 60 and diabetic people n  60 in the same population that studied for OP residues Additional file Table S8.
 
 A linear regression between OP residues and fecal esterase activity indicates the induction of the expression of OP degrading genes in OP environment and this is evi- denced by the increased fecal acetate observed in the diabetic samples.
+
+Similarly no significant association was observed in plasma AChE between diabetic and non-dia- betic individuals Rank sum P 0.40 Additional file Fig- ure S3A.The OP residues in the blood plasma were studied by GCMS and mz fragments specific to each OP are monitored by a single ion mode Additional file Figure S4.
+
+MCP is identified as the most frequently used insecticide in our survey Additional file Table S1 and as our previous study indicates that this OP induces hyperglycemia we employed MCP as the prototypical OP.
+
+Collectively these results indicate that chronic OP exposure induces glucose intolerance lead- ing to oxidative stress and hepatic damage.OP-induced glucose intolerance mediated by gut microbiomeAChE inhibition is the prime mode of action of OP but in our study both humans and mice exposed to chronic OPs developed hyperglycemia but no changes in the level of plasma AChE activity is observed.
+
+Together these results indicate that gut micro- biome plays an inevitable role in the induction of glu- cose intolerance by OP and it seems to be a uniform mechanism among most of the OP.OP exposure induces OP-metabolizing machinery of gut microbiotaAntibiotics are known to shape the physiology and gene expression of the active human gut microbiome In order to understand the functional effects of OP on gut microbiome we studied metatranscriptomics of bacterial RNA from the caecum of control and MCP-fed animals.
+
+which were characterized as potential OP degraders RNA-seq analysis indicated the upregulation of OP de- grading bacterial enzymes during chronic exposure Fig.
 

@@ -2,12 +2,6 @@ In addition no amino acid decarboxylasesVolume 5 Issue 17 e00205-17 1Linares et 
 
 In addition this commensal bacterium is one of the pioneer colonizers of oral and small intestine mucosal surfaces in newborns  and remains predominant in the oropharyngeal   and gastrointestinal  tracts throughout the human life span.Based on the potential beneficial effects on human health it is sometimes marketed as a probiotic .We here report the genome of Streptococcus thermophilus APC151 a strain isolated from the digestive tract of a marine fish that produces large amounts of gamma- aminobutyric acid GABA .
 
-.Shimada M Hasegawa T Nishimura C Kan H Kanno T Nakamura T Matsubayashi T. 2009.
-
-.Aziz RK Bartels D Best AA DeJongh M Disz T Edwards RA Formsma K Gerdes S Glass EM Kubal M Meyer F Olsen GJ Olson R Osterman AL Overbeek RA McNeil LK Paarmann D Paczian T Parrello B Pusch GD Reich C Stevens R Vassieva O Vonstein V Wilke A Zagnitko O.
-
-.Soltani N Qiu H Aleksic M Glinka Y Zhao F Liu R Li Y Zhang N Chakrabarti R Ng T Jin T Zhang H Lu WY Feng ZP Prud'homme GJ Wang Q.
-
 Its complete genome comprises 2097 genes and 1839134 nucleotides with an average GC content of 39.1.treptococcus thermophilus is a nonpathogenic homofermentative facultative an- aerobic lactic acid bacterium with a long history of use in the artisanal and modern industrial manufacture of fermented dairy products especially yogurt .
 
 Streptococcus thermophilus APC151 strain is suitable for the manufacture of naturally GABA-enriched bioactive yogurt.
@@ -17,4 +11,10 @@ PROKARYOTESComplete Genome Sequence of the Gamma-Aminobutyric Acid-Producing Str
 The comparison of the two genomes revealed that strain APC151 contains an additional cluster of 13 genes encoding a 5S RNA a small subunit rRNA a large subunit rRNA and 10 tRNA genes which are not present in the ND03 strain.
 
 In addition strain APC151 acquired a number of mutations that disrupted or caused a frameshift in seven genes encoding two transposases two acyltransferases the phosphate-transport-ATP-binding protein PstB the r3-carotene 15-15-monooxygenase and the substrate-specific component MtsA methionine-regulated ECF transporter.These data are intended to increase the availability of the genomes of GABA- producing S. thermophilus strains in order to better understand their biodiversity and their potential technological probiotic and biofunctional properties.Accession numbers.
+
+Lactic acid bacterial cell factories for gamma- aminobutyric acid.
+
+Additionally the genes respon- sible for GABA biosynthesis encoding the glutamate decarboxylase gadB and the glutamateGABA antiporter gadC have been identified in the genome of this strain.
+
+Complete genome sequence of Streptococcus salivarius HSISS4 a human commensal bac- terium highly prevalent in the digestive tract.
 

@@ -1,20 +1,20 @@
-Am J Physiol Gastrointest Liver Physiol 2013 305G573-84 PMID23989005 Kaser A Lee AH Franke A Glickman JN Zeissig S Tilg H Nieuwenhuis EE Higgins DE Schreiber S Glimcher LH et al.
-
-Nature 2012 491119-24 PMID23128233 Liu JZ van Sommeren S Huang H Ng SC Alberts R Takahashi A Ripke S Lee JC Jostins L Shah T et al.
-
 1 53-58ADDENDUMDysbiosis in Crohn's disease - Joint action of stochastic injuries and focal inflammation in the gutLudovica F. Butto and Dirk HallerTechnische UniversitEURat MEURunchen Chair of Nutrition and Immunology Freising GermanyARTICLE HISTORYReceived 21 July 2016 Revised 27 September 2016 Accepted 7 December 2016KEYWORDSDysbiosis microbiota microbiome inflammation Crohn's disease TNFDARE IBD intestinal epithelial cells IEC stochastic injuriesDysbiotic microbiota induces transmissible CD-like ileitis in susceptible hostOur laboratory recently demonstrated that germ-free GF TNFDARE mice do not develop CD-like ileitis supporting the initial hypothesis that bacterial trig- gers are essential tassels of disease pathogenesis.Of high relevance only specific dysbiotic bacterial communities so-called responder R or aggressive microbiota are associated to a disease phenotype in these mice capable to transmit disease once trans- ferred into a GF susceptible host TNFDARE mice.
 
-Nat Rev Immunol 2016 16 10639-49 PMID27498766 Johansson ME Jakobsson HE Holmen-Larsson J Schutte A Ermund A Rodriguez-Pineiro AM Arike L Wising C Svensson F BEURackhed F et al.
+Recent unpublished evidence reports that focal lesion occurrence is mouse strain dependent and that they are enriched in a selected bac- terial community.Therefore we suggest the hypothe- sis that focal lesions may fuel changes in the host microbiota reprogramming its disease-conditioning nature and that the transfer of such pre-selected com- munity may results in dysbiosis-associated transmissi- ble disease in a susceptible host TNFDARE mice.Paneth cell dysfunction does not precede inflammation and ileal pathology in TNFDARE mouse model of CD-like ileitisAbnormalities in Paneth cells structure and function have been increasingly recognized in IBD and a grow- ing body of evidence on Paneth cell lineage ablation supports their role in inflammation.Emerging data from genome-wide association studies GWAS in human cohorts also suggest that Paneth cells may play a critical role in the disease pathogenesis of IBD spe- cifically targeting CD.
+
+Failure of Paneth cell functionality determined by the reduced protein expression of lysozyme and cryptdin-2 using immunofluorescence analysis was an event subse- quent to inflammation and that was not caused by Paneth cell apoptosis in TNFDARE mice.One tempt- ing hypothesis is that the generation of reacting oxy- gen species ROS in response to inflammatory processes may lead to the functional exhaustion of Paneth cells.This is speculative and requires valida- tion in TNFDARE mice.
+
+In contrast microbiota derived from wild-type WT as well as from healthy but disease susceptible hosts so-called non-responder NR or non-aggressive microbiota is unable to trigger disease once trans- ferred into GF TNFDARE mice.These results provide functional evidence that dynamic alterations of the microbial ecosystem dysbiosis cause transmissible disease in the susceptible host.
+
+Bacterial profiles and functional dysbiosis mirror ileitis severity in TNFDARE mice.
 
 A Independently from the litter of origin SPF TNFDARE mice housed in the same cage display a gradient of ileitis severity ranging from not diseased i.e.
 
+B b-diversity analysis shows separation of responder TNFDARE mice R and low-responders lowR non-responders NR and WT littermate all mice are 18 weeks of age adapted from.
+
+C Lack of early changes in microbiota phylogeny and dysbiosis in SPF TNFDARE mice.
+
 Non-para- metrical multiple dimensional scaling NMDS analysis displaying phylogenetic distances between fecal bacterial communities of 4- week old TNFDARE mice including mice that later in life develop severe R intermediate lowR and no disease NR adapted from.microbiota is based on innate tissue activation or on antigen recognition.Gut epithelial stochastic injuries generate focal inflammation leading to a dysbiotic microbial ecosystem A provoking hypothesisIt is very challenging to unravel the mechanisms by which inflammation drives bacterial taxa selection and molds microbiota into a disease-conditioning commu- nity.
 
-Gut 2016 65225-237 PMIDRodriguez-Palacios A Kodani T Kaydo L Pietropaoli D Corridoni D Howell S Katz J Xin W Pizarro TT Comi- nelli F et al.
-
-Proc Natl Acad Sci U S A 2005 10218129-34 PMID16330776 Kobayashi KS Chamaillard M Ogura Y Henegariu O Inohara N Nunez G Flavell RA.
-
-Gut 2008 57903-10 PMID1Ito K Hirao A Arai F Takubo K Matsuoka S Miyamoto K Ohmura M Naka K Hosokawa K Ikeda Y et al.
-
-Aliment Pharmacol Ther 2014 391003-32PMID24641570 Paramsothy S Kamm M Walsh A van den Boaerde J Samuel D Leong R et al.
+Inflammation TNF levels in total tissue samples and tissue pathology CD-like ileitis HE score precede loss of Paneth cells function in TNFDARE mouse model.Figure 2.
 

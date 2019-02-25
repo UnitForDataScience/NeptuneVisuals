@@ -1,20 +1,20 @@
 By bioreactor we mean an environment constructed to harbor microbes and harness their metabolism of available nutrients where the degree of spatial homogenization of com- munity members is a manifestation of a complex dynamic involving many factors including flux of mucus and epithelial cells into the lumen the affinities of community members for these host con- stituents and food particles cooperativecompetitive attractive repulsive interactions between microorganisms and peristaltic flow of bulk material through the lumen.One might have expected a priori that differences between taxa in their binding affinities for substrates such as mucus or food particles combined with more rapid replication in a preferred microhabitat would lead to localized clonal expansion.
 
-D High-magnification views showing regions of the lumen with abundant mucus a large food particles b and a large food particle pressed close to the mucosa c. The cross-section shown is adjacent to the one presented in Fig.
-
 When averaged across the 245 transects the abundance pattern for each taxon was similar peaking close to the mucosa and then falling off sharply to a low level at distances greater than 75 mm into the lumen.We focused our analysis on four microhabitats i densely colonized regions adjacent to the colonic mucosa ii dense patches of microbes within the lumen of the colon iii sparsely colonized areas within the lumen and iv sparsely colonized crypts of Lieberkuhn.
 
+D High-magnification views showing regions of the lumen with abundant mucus a large food particles b and a large food particle pressed close to the mucosa c. The cross-section shown is adjacent to the one presented in Fig.
+
 This extensive mixing at micrometer scales the absence of large microcolonies associated with the mucosa or food particles and the broad similarity of luminal and mucosa-adjacent communities lead us to view the lumen and mucosa in the proximal colon not as stratified compartments but as components of a partially mixed bioreactor.
-
-As demonstrated by the universal Eub338 probe bacteria were not distributed homogeneously across cross- sections rather they were concentrated at the border between the lumen and mucosa as well as in patches in the interior of the lumen Fig.
-
-Substantially lower densities occurred inthe remainder of the lumen consisting primarily of regions in and surrounding large autofluorescent particles that we interpret as remnants of food Fig.
-
-In some images large auto- fluorescent particles of food pressed close to the mucosa so that the microbe-rich region was only 10-20 mm thick Fig.
 
 Finally we made use of endogenous auto- fluorescence to image food particles and host tissue.When gut samples are imaged at a resolution sufficient to dis-tinguish individual microbial cells the field of view is necessarily limited 100 x 100 mm and the depth of field is shallow 1 mm so that 10000 cubic micrometers of material are visualized in a single image.
 
 Employing the experimental approaches described should allow direct tests of whether and how specified host and microbial factors influence the nature and func- tional contributions of microscale mixing to the dynamic opera- tions of the microbiota in health and disease.gut microbial ecology  community biogeography  bacterial-bacterial interactions  microbiome function  multiplex fluorescence imaginghe functions expressed by members of a microbial community are impacted by their neighbors 1-4 and by physiological features of their environment 5-9.
 
 Differential replication of a microbe based on its localization in the mucus layer or the lumen 29 could itself generate a spatially structured microbial consortium or could amplify differences established by differential adherence.The lumen of the gut is considered to be a compartment inhabited by a microbiota distinct from that of the mucus layer 23 29-33.
+
+The use of the line rather than the mucosa itself was necessary because of crypts and invaginations in the mucosa that resulted in variable distances between theepithelial border and microbial community whereas the edge of microbial colonization itself was relatively smooth.
+
+It is possible that this underrepresentation was due in part to a failure to detect the edges of food particles accu- rately as food particles were detected by virtue of their endog- enous fluorescence rather than by specific staining.
+
+Images shown are representative of the region proximal to the epithelium A and B the region distal to the epithelium lumen C and crypts D. White boxes show the positions of higher magnification views Lower where individual bacterial cells are visible low-magnification image in C shows the image location in the lumen.
 

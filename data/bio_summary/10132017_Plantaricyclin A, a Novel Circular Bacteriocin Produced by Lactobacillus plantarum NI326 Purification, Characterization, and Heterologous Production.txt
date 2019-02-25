@@ -4,17 +4,17 @@ The immunity of wild-type L. lactis NZ9000 and recombinantstrains L. lactis NZ90
 
 plantarum NI326 against cultures of L. lactis NZ9000pNZ8048 L. lactis NZ9000pNZPlcD L. lactis NZ9000pNZPlcI andL.
 
-This novel bacteriocin named plantaricyclin A PlcA was grouped into the circular bacteriocin subgroup II due to its high degree of similarity with other gassericin A-like bacterio- cins.
-
-The plc gene cluster was cloned and expressed in Lactococcus lactis NZ9000 resulting in the production of an active 5570-Da bacteriocin in the supernatant.
-
-PlcA has a predicted mass of 5588 Da and represents a new bacteriocin within the subgroup II and the first predicted circular bacteriocin isolated from Lb.
-
 lactis NZ9000pNZPlcDI uninduced - or induced  with nisin A.FIG 4 MALDI-TOF mass spectrometry analysis of the purified plantaricyclin A produced by L. lactis pNZPlca A and L. plantarum NI326 B. Int.
 
 The whole genome was analyzed with the Web-based bacteriocin genome mining tool BAGEL3   to search for known andor potential novel bacteriocins.Cloning of the plc gene cluster in L. lactis NZ9000.
 
-PlcA is believed to be produced as a 91- amino-acid precursor with a 33-amino-acid leader peptide which is predicted to be removed followed by joining of the N and C termini via a covalent linkage to form the mature 58-amino-acid circular bacteriocin PlcA.
+In this study we describe a circular antimicrobial peptide PlcA for a Lactobacillus plantarum strain.KEYWORDS circular bacteriocin Alicyclobacillus acidoterrestris Lactobacillus plantarum immunityacteriocins are ribosomally synthesized antimicrobial peptides produced by bac- teria to inhibit the growth of other often closely related strains .
 
-We report the characterization of a circular bacteriocin produced by Lb.
+plantarum NI326 the entire plc cluster was cloned into the nisin-inducible plasmid pNZ8048 pNZPlc and transformed into L. lactis NZ9000 a naturally non-bacteriocin-producing strain.
+
+plantarum NI326 and L. lactis pNZPlc was purified by using reversed phase high-performance liquid chromatography RP-HPLC and the molecular mass was analyzed by using matrix- assisted laser desorption ionization-time of flight mass spectrometry MALDI-TOF MS.
+
+plantarum NI326 and L. lactis NZ9000 was transformed with pNZPlc as described previously  with modifications.
+
+This novel bacteriocin named plantaricyclin A PlcA was grouped into the circular bacteriocin subgroup II due to its high degree of similarity with other gassericin A-like bacterio- cins.
 

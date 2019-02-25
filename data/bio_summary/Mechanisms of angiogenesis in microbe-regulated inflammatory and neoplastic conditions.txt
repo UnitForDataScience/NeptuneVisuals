@@ -1,20 +1,20 @@
-Human Microbiome Jumpstart Reference Strains C Nelson KE Weinstock GM Highlander SK Worley KC Creasy HHWortman JR Rusch DB Mitreva M Sodergren E Chinwalla AT Feldgarden M Gevers D Haas BJ Madupu R Ward DV Birren BW Gibbs RA Methe B Petrosino JF Strausberg RL Sutton GG White OR Wilson RK Durkin S Giglio MG Gujja S How- arth C Kodira CD Kyrpides N Mehta T Muzny DM Pearson M Pepin K Pati A Qin X Yandava C Zeng Q Zhang L Berlin AM Chen L Hepburn TA Johnson J McCorrison J Miller J Minx P Nusbaum C Russ C Sykes SM Tomlinson CM Young S Warren WC Badger J Crabtree J Markowitz VM Orvis J Cree A Ferriera S Fulton LL Fulton RS Gillis M Hemphill LD Joshi V Kovar C Torralba M Wetterstrand KA Abouellleil A Wollam AM Buhay CJ Ding Y Dugan S FitzGerald MG Holder M Hostetler J Clifton SW Allen-Vercoe E Earl AM Farmer CN Liolios K Surette MG Xu Q Pohl C Wilczek- Boney K Zhu D 2010 A catalog of reference genomes from the human microbiome.
-
-Waldner MJ Wirtz S Jefremow A Warntjen M Neufert C Atreya R Becker C Weigmann B Vieth M Rose-John S Neurath MF 2010 VEGF receptor signaling links inflamma- tion and tumorigenesis in colitis-associated cancer.
-
-Ando T Kusugami K Ohsuga M Shinoda M Sakakibara M Saito H Fukatsu A Ichiyama S Ohta M 1996 Interleu- kin-8 activity correlates with histological severity in Helico- bacter pylori-associated antral gastritis.
-
-Scaldaferri F Vetrano S Sans M Arena V Straface G Stigli- ano E Repici A Sturm A Malesci A Panes J Yla-Herttuala S Fiocchi C Danese S 2009 VEGF-A links angiogenesis and inflammation in inflammatory bowel disease pathogenesis.
-
 This hypothesis was later confirmed as it was shown that E. coli STa has an inhibitory effect on colonic cancer cell proliferation through the PKG- ERK4244-mediated pathway .Other cancer types and common anticancer activitiesApart from colorectal cancer other cancer types are inversely affected by microbiota or microbiota-derived prod- ucts.
 
-Dicken BJ Graham K Hamilton SM Andrews S Lai R List- garten J Jhangri GS Saunders LD Damaraju S Cass C 2006 Lymphovascular invasion is associated with poor survival in gas- tric cancer.
+H. pylori-induced angiogenesis can be efficiently blocked with proton pump inhibitor PPI treatment through blockade of the MAPK signaling pathway .The inflammatory chemokine IL-8CXCL8 a potent angiogenesis inducer   is shown to be upregulated in gastric cancer and its presence strongly correlates with adhesion migration and invasion of gastric cancer cells   also verified by IL-8 overexpression and knockdown experiments using gastric cancer cells .
 
-Cancer 864566-571Kanai T Konno H Tanaka T Baba M Matsumoto K Nakamura S Yukita A Asano M Suzuki H Baba S 1998 Anti-tumor and anti-metastatic effects of human-vascular-endothelial-growth- factor-neutralizing antibody on human colon and gastric car- cinoma xenotransplanted orthotopically into nude mice.
+.Like in other cancer types the metastatic potential and the disease recurrence incidence of gastric cancer are angi- ogenesis dependent and especially in intestinal-type gas- tric cancers correlate with VEGF expression  .
 
-Gunawan E Tsuji S Tsujii M Kimura A Sun W-H Sawaoka H Sasayama Y Sasaki Y Kawano S Hori M 2002 Influences of Helicobacter pylorion gastric angiogenesis and ulcer heal- ing in mice.
+pylori-derived heat shock protein 60 HpHSP60 has beenshown to directly enhance cell migration and tube formation but not cell proliferation in human umbilical vein endothelial cells HUVECs highlighting the cell-specific complexity of signaling pathways involved in bacteria-promoted angio- genesis in gastric cancer .Another angiogenesis-related inflammatory marker which has been substantially studied for H. pylori infection and the related gastric cancer is cyclooxygenase-2 COX-2.
 
-Danese S Sans M de la Motte C Graziani C West G Phillips MH Pola R Rutella S Willis J Gasbarrini A Fiocchi C 2006 Angiogenesis as a novel component of inflammatory bowel dis- ease pathogenesis.
+VEGF alone is the primary prognostic factor for gastric cancer recurrence or disease-specific survival  and VEGF expression along with other angiogenesis-related genes is directly regulated by COX-2 in gastric cancer cell lines .
 
-Keates AC Tummala S Peek RM Jr Csizmadia E Kunzli B Becker K Correa P Romero-Gallo J Piazuelo MB Sheth S Kelly CP Robson SC Keates S 2008 Helicobacter pylori infec- tion stimulates plasminogen activator inhibitor 1 production by gastric epithelial cells.
+By regulating MMP expression COX-2 can affect metastatic dissemination of cancer cells as MMPs degrade ECM components of the local microenvironment  .Colorectal cancer CRCCarcinogenesis is the outcome of a combination of cell- intrinsic with cell-extrinsic factors.
+
+Moreover mucosal microbiota are a deter- mining factor for colorectal cancer formation and colorec- tal cancer incidence is significantly higher in individuals with microbial biofilms than in those without although no particular microorganism has been associated with the tumors .
+
+At the same time abnormal alterations of the gut bacterial community have been associated with several types of diseases such as cancer obesity allergy inflam- matory bowel disease and diabetes  .
+
+It was shown for example that certain quorum-sensing peptides produced by E. coli B. subtilis and S. mitis promote breast cancer cell invasion and angiogenesis in vitro potentially affecting the metastatic process .
+
+The most com- mon one Helicobacter pylori grows in the mucosal layer coating the stomach and causes a variety of gastric diseases including gastritis gastroduodenal ulcer and gastric cancer .
 

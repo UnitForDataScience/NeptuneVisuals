@@ -4,17 +4,17 @@ Mod- ules of cytokines were identified using significant Pearson's correlations 
 
 There was no significant increase or reduction in IL-10 G-CSF IFN-g or IL-17F data not shown.Cytokine modules associate with asthmatic phenotypes and pulmonary functionTo determine if the cytokines that were differentially abundant between controls and asth- matic phenotypes have effects that are independent or are correlated with other cytokines we constructed a correlation network of cytokines across all subject samples n  30 using signifi- cant associations Pearson's correlations P  0.05 Q  0.05 .
 
-We detected seven species that were dif- ferentially abundant FDR adjusted P  0.05 between controls AP1 pre-FP and AP2 pre-FP .An increased abundance of Streptococcus pneumoniae was found in AP2 pre-FP compared to AP1 pre-FP Log2 Fold Change L2FC 95 CI 3.5041.815-5.192 adjusted P  0.002 AP2AP1 and controls L2FC 95 CI 2.9091.219-4.598 adjusted P  0.002 AP2control.The changes in airway microbiome have unique associations with inflammation in asthmatics.
-
 We analyzed cytokine concentrations in bronchoalveolar lavage of young adult atopic asthmatics n  13 and their relationship to the airway microbiome and lung function.In addition we tested the impact of a short term commonly used asthma medication flutica- sone propionate FP on airway inflammation and microbiome.
 
 Bronchoalveolar lavage BAL cytokines and chemokines from asthmatic sub- jects were standardized using z-score and sample distances were determined using Euclidean distances.
 
 We analyzed bronchoalveolar lavage BAL cytokines and chemokines associated with T-cell responses and found no significant differences between asthmatics and controls using principal coordinate analysis PCoA and permutational MANOVA PERMANOVA .
 
-IL-2 b 95 CI  9.9221.243-18.600 R2  0.255 P  0.027 and MIP-1b b 95 CI  -17.220-33.480--0.921 R2  0.226 P  0.039 significantly associated with FEV1  predicted using univariate linear regression .
-
 Additionally the associations between the microbiome composition and cytokine profiles were diminished after inhaled corticoste- roid therapy.Interestingly with regards to baseline pulmonary function AP1 and AP2 resemble cluster 1 and 2 from Moore WC et al.
 
 In this large analysis asthma phenotypes were identified using unsupervised clustering of asthmatics based on clinical parameters .
+
+Thus there is a strong link with the airway microbiome and local airway inflammation specifically with respect to T-cell phe- notypes in healthy individuals.Recently the relationship between the microbiome of the airways and immune response in the airway of asthmatics has been explored   .
+
+We identified two mod- ules of cytokines Module 1 and Module 2 .
 

@@ -1,20 +1,20 @@
-Finally a group of sequences clustering in a single OTU was associated to the genus Botrytis 0.51 -Table 1 Diversity indices of fungal communities associated to B. oleae0.17 .
-
 This disadvantage may be partially solved by combining bioinformatics and phylogenetic analy- sis of unique representative sequences along with validated reference sequences   .
 
 These sequences represented the89.7  of the total fungal sequences retrieved in this study.
 
-A total of 4344 sequences 9.78 - 3.93  clustering in a single OTU were associated to Alternaria sect.
-
-Another OTU ac- counting for the 0.36 - 0.16  of sequences was associated toP.
-
-Moreover we retrieved sequences that were associated to A. pullulans Devriesia sp.
-
-Indeed in our study the sequences associated to the genus Cladosporium were up to 42 times greater than that reported by Abdelfattah and co- workers.
-
-Otherwise sequences associated to the genus Alternaria showed the same pattern resulting up to 49 times more abundant on the body of B. oleae than that in the olive phyllosphere.
-
-Among putative plant pathogens we also retrieved sequences associated to Aspergillus spp.
-
 The ITS regions of the ribosomal rDNA are the most used DNA barcodes in fungalmetabarcoding since they can be easily amplified and se- quenced with universal primers and their sequences are high- ly represented in genetic databases  .
+
+A major drawback of the ITS regions as barcode genes concern difficulties in discriminating phylogenetically related fungal species which may have al- most identical sequences but completely different ecology including pathogenicity.
+
+Both primers were modified to construct fusion primers appropriate for 454 sequencing with adapter sequences A and B a key sequence and multiplex identifiers MIDs .
+
+Furthermore mismatches in the primer sequence were not allowed and sequences 150 and 1000 bp contain- ing homopolymers 10 bp and with 6 ambiguous bases were discarded.
+
+Reads were denoised using denoise wrap- per  and chimeric sequences were identified using USEARCH 6.1 algorithm  combining a reference- based with a de novo detection.
+
+ITSx was used to extract ITS2 sequences .
+
+When reads failed to hit to reference database sequences were clustered as de novo.
+
+F urth ermo re so m e Bco re  OTUs were phylogenetically analysed along with related reference sequences to enable their identification with highest possible level of accuracy  .
 

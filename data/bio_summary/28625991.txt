@@ -2,8 +2,6 @@ Never- theless its use in HTS is often preferred thanks to the existence of a mo
 
 By analyzing a mock community and several biological samples we demonstrate that using different amplicon targets may change the results of fungal microbiota analysis and we highlight how a careful choice of the target is fundamental for a thorough description of the fungal communities.KEYWORDS fungal diversity primer bias amplicon sequencing high-throughput sequencing microbial ecologyommunities of fungi are of utmost importance in many different environments  and an accurate and detailed description of their structure is desirable in order to address fundamental biological questions in microbial ecology.
 
-A mock community of known composition including common fungal species as well as environmental samples was amplified using the three targets and HTS experiments were carried out in order to compare the results achieved.RESULTSIn silico evaluation of primer efficiency.
-
 On the contrary the target gene chosen did not seem to influence alpha-diversity parameters P  0.05 data not shown.FIG 2 Bar chart showing the relative abundance of the fungal species identified in the mock community amplified using three different target genes.
 
 Moreover PCA analysis showed a clear clustering of Mock-DNA samples according to the target gene while Mock-Ampl samples grouped together regardless of the target used .
@@ -12,9 +10,11 @@ The analysis of environmental samples based on high-throughput sequencing HTS te
 
 After an in silico primer evaluation we compared three amplicons the ITS1-ITS2 region ITS1-2 18S ribosomal small subunit RNA and the D1D2 domain of the 26S ribosomal large subunit RNA using biological samples and a mock community of common fungal species.
 
-.Stielow JB Levesque CA Seifert KA Meyer W Irinyi L Smits D Renfurm R Verkley GJ Groenewald M Chaduli D Lomascolo A Welti S Lesage- Meessen L Favel A Al-Hatmi AM Damm U Yilmaz N Houbraken J Lombard L Quaedvlieg W Binder M Vaas LA Vu D Yurkov A Begerow D Roehl O Guerreiro M Fonseca A Samerpitak K van Diepeningen AD Dolatabadi S Moreno LF Casaregola S Mallet S Jacques N Roscini L Egidi E Bizet C Garcia-Hermoso D Martin MP Deng S Groenewald JZ Boekhout T de Beer ZW Barnes I Duong TA Wingfield MJ de Hoog GS Crous PW Lewis CT Hambleton S Moussa TA Al-Zahrani HS Al- maghrabi OA Louis-Seize G Assabgui R McCormick W Omer G Dukik K Cardinali G Eberhardt U de Vries M Robert V. 2015.
+A mock community of known composition including common fungal species as well as environmental samples was amplified using the three targets and HTS experiments were carried out in order to compare the results achieved.RESULTSIn silico evaluation of primer efficiency.
 
 Indeed when DNA of all the strains was amplified in the same PCR resembling the typical condition of an HTS analysis primer biases were evident and clear preferential amplification phenomena were detected with all the primer sets.
 
 The primer analysis module of Primer Prospector  was used with default settings to compare primer specificity and taxonomic coverage.
+
+On the contrary multivariate analysis of variance MANOVA based on Jaccard Euclidean and Bray Curtis distances detected differences in the overall fungal community composition in Mock-DNA samples according to the target used P  0.05.
 

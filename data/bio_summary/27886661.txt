@@ -1,6 +1,8 @@
 It should be underlined that so far competition has been described only for Asaia a symbiont that has never been described in D. suzukii or other Drosophila flies.In conclusion AAB's high prevalence in individuals fed on both diet types their localization and ability to mas- sively recolonize the insect gut indicate that AAB are major components of the D. suzukii microbiota and simi- larly to D. melanogaster they might play important roles in the physiology and behaviour of the host.
 
-Prevalence of AAB and Wolbachia in D. suzukiispecimens.Fifty D. suzukii adults 25 males and 25 females reared on fruits and the same number of specimens maintained on artificial diet were used for assessing the prevalence of dif- ferent AAB and Wolbachia.
+S1.Characterization of D. suzukii bacterial diversity by DNA-based analysisAt first to have a general view of the bacterial communi- ty associated with D. suzukii DNA extracted from 32Fig.
+
+Bacterial diversity associated with D. suzukii by 16S rRNA gene pyrosequencing.16S RNA gene pyrosequencing describing bacterial communities at order level associated with D. suzukii.
 
 Orders under 3.Principal coordinate analysis PCoA on the phylogenetic b-diversity matrix on D. suzukii samples considering all the bacterial OTUs.Principal coordinate analysis PCoA on the phylogenetic b-diversity matrix on D. suzukii samples considering all the bacterial OTUs except for the ones belonging to AAB group.
 
@@ -8,13 +10,11 @@ The AAB diversity shifts and their weight in determining the clus- tering behavi
 
 16S rRNA sequen- ces of representative isolates have been deposited in the ENA database under the accession numbers LN884027-LN884133.Localization of D. suzukii AAB by fluorescent in situ hybridization FISH and colonization experiments with Gfp-labelled strainsFISH has been carried out on tissues and organs dissect- ed from mass-reared D. suzukii adults in a sterile saline solution.
 
-High prevalence localization and massive recolonization together with AAB clustering behav- iour in relation to diet suggest an AAB role in the D. suzukii gut response to diet modification.IntroductionThe insect gut microbiota plays very critical and essen- tial roles for the host biology physiology and immunity Hamdi et al.
-
-The AAB localization observed in the gut of D. suzukii confirmed that guts of sugar-feeding insects are primary habitat for AAB inwhich they establish strict topological and presumably functional connections with the epithelial cells Crotti et al.
-
-S1.Characterization of D. suzukii bacterial diversity by DNA-based analysisAt first to have a general view of the bacterial communi- ty associated with D. suzukii DNA extracted from 32Fig.
-
-Bacterial diversity associated with D. suzukii by 16S rRNA gene pyrosequencing.16S RNA gene pyrosequencing describing bacterial communities at order level associated with D. suzukii.
-
 Recolonization experi- ments using G. oxydans DSF1C.9AGfp A. tropicalis BYea.1.23Gfp and A. indonesiensis BTa1.1.44Gfp have been performed as indicated in Supporting infor- mation Method S5.Characterization of the D. suzukii bacterial community through molecular ecology approachesImmediately after collection larval pupal and adult indi- viduals of D. suzukii have been washed once with etha- nol 70 and twice with saline and immediately stored at 2208C in ethanol until molecular analyses.
+
+Characterization of the bacterial communityassociated to D. suzukii by PCR-Denaturing gradient gel electrophoresis DGGE.A 550 bp fragment of the 16S rRNA gene was amplified from the total DNA extracted from D. suzukii individuals using the forward primer GC357f 30-CCT ACG GGA GGC AGC AG-50 containing a 40-bp GC clamp and the reverse primer 907r 30-CCG TCA ATT CCT TTG AGT TT-50.
+
+Characterization of the bacterial community associated to D. suzukii by 16S rRNA gene pyrosequenc- ing.DNA extracted from D. suzukii individuals was used in 454 Pyrotag sequencing.
+
+Prevalence of AAB and Wolbachia in D. suzukiispecimens.Fifty D. suzukii adults 25 males and 25 females reared on fruits and the same number of specimens maintained on artificial diet were used for assessing the prevalence of dif- ferent AAB and Wolbachia.
 

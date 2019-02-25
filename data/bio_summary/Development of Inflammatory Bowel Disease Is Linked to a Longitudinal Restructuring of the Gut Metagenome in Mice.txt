@@ -2,19 +2,19 @@ In addition to these physiological similarities the DNR line serves as an effect
 
 As a result our insight into how the gut microbiome operates dynamically in association with disease development is limited.Mouse models of disease present an opportunity to quantify the longitudinal covariation between gut microbiome functions and IBD development while overcom- ing the challenges associated with a prospective human study and reducing the extensive genetic lifestyle and microbiome variations among humans.
 
-.Franke A McGovern DP Barrett JC Wang K Radford-Smith GL Ahmad T Lees CW Balschun T Lee J Roberts R Anderson CA Bis JC Bump- stead S Ellinghaus D Festen EM Georges M Green T Haritunians T Jostins L Latiano A Mathew CG Montgomery GW Prescott NJ Raychaudhuri S Rotter JI Schumm P Sharma Y Simms LA Taylor KD Whiteman D Wijmenga C Baldassano RN Barclay M Bayless TM Brand S Buning C Cohen A Colombel JF Cottone M Stronati L Denson T De Vos M D'Inca R Dubinsky M Edwards C Florin T Franchimont D Gearry R Glas J Van Gossum A et al.
-
 Our work indicates that the microbiome may contain biomarkers of IBD development clarifies mechanisms through which the microbiome may contribute to disease development and reveals how gut microbes operate to succeed in an inflamed intestinal environ- ment.RESULTSAge-matched female WT and DNR littermates were monitored longitudinally for IBD development over a period of 9 weeks starting at 4 weeks of age upon being weaned from their mother.
 
-Additionally future research should use this model and build upon our findings to clarify how TGF-l3-induced differentiation and function of T cells interact with the taxonomic structure and function of the gut microbiome.Overall our results indicate that the development of IBD is associated with corre- sponding changes in the operation of the gut microbiome.
-
-.Atarashi K Tanoue T Shima T Imaoka A Kuwahara T Momose Y Cheng G Yamasaki S Saito T Ohba Y Taniguchi T Takeda K Hori S Ivanov II Umesaki Y Itoh K Honda K. 2011.
-
 Elucidating the cryptic etiology of IBD would enable new preventative measuresdiagnostics and therapies.Recent work has implicated the gut microbiome in the development and severity of IBD .
+
+Additionally future research should use this model and build upon our findings to clarify how TGF-l3-induced differentiation and function of T cells interact with the taxonomic structure and function of the gut microbiome.Overall our results indicate that the development of IBD is associated with corre- sponding changes in the operation of the gut microbiome.
 
 These results show that the functional diversity of the mouse gut microbiome is relatively constrained early in life but increases over the lifetimes of WT but not DNR individuals.We then investigated how the composition of gut microbiome functions varies over time and between cohorts DNR mice versus WT mice by using an abundance- weighted beta-diversity metric Bray-Curtis dissimilarity.
 
 Collectively these analyses indicate that i the diversities and structures of the gut microbiome differ over time in WT and DNR mice that are between 4 and 15 weeks of age ii the WT and DNR microbiomes are generally consistent with each other prior to immune activation in DNR mice but diverge afterward and iii immune activation isassociated with changes in the subsequent successional diversification of the gut microbiome.On the basis of these observations we assessed how specific components of the microbiome associate with disease development.
 
-As this is a T cell-mediated IBD model we quantified peripheral CD4 and CD8 T cell activation by flow cytometry and measured the longitudinal change in the CD44hi activated fraction which includes both effector and memory T cells see Fig.
+This study was novel in its longitudinal design and focus on microbial pathways which provided new mechanistic insights into the role of gut microbes in IBD development.SeptemberOctober 2017 Volume 2 Issue 5 e00036-17msystems.asm.org 1KEYWORDS inflammatory bowel disease lipooligosaccharide transporter longitudinal metagenomics protein function statisticsnflammatory bowel disease IBD is an increasingly prevalent chronic autoimmune disease in which the cells of the immune system attack intestinal tissue .
+
+The occurrence of progressive divergence of DNR and WT microbiomes as IBD worsens is consistent with a 16S-based study using a different mouse model of IBD in which gut microbes and imputed functions changed in association with disease status and therapeutically induced remission .
+
+Future studies that seek to determine the existence of a microbiome-mediated etiology for IBD should consider these potential mechanisms of disease activation.Our identification of pathways that change in association with IBD development generates many novel hypotheses about the mechanisms through which gut microbes contribute or respond to disease development.
 

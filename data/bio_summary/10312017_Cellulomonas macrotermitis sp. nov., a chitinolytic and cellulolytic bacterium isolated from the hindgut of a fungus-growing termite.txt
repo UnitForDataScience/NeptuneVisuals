@@ -1,5 +1,3 @@
-J Bacteriol 173697-703Yoon SH Ha SM Kwon S Lim J Kim Y Seo H Chun J 2017 Introducing EzBioCloud a taxonomically united database of 16S rRNA and whole genome assemblies.
-
 Species of this genus have been isolated from various habitats such as the fecal flora of a healthy patient Lagier et al.
 
 paddy grains Ahmed et al.
@@ -17,4 +15,6 @@ ocean Zhang et al.
 compost Kang et al.
 
 reed periphyton Rusz- nyak et al.
+
+air Lee et al.
 

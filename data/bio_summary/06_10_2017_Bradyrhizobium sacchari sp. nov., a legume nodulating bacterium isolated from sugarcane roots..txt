@@ -12,9 +12,9 @@ The BR 10280T genome was found to have a G C content of 63.6 mol  which is in ac
 
 Plants were incubated under artificial light 12 h photo- period at approximately 28 degC and nodule formation was evaluated 28 days after inoculation.Results and discussionSequence analyses of the partial 1226 nt 16S rRNA gene sequence of the four strains placed them in the Bradyrhizo- bium genus and together with other species within the B. japonicum superclade showing 100 sequence identity with B. iriomotense and B. ingae Fig.
 
-Int J Syst Evol Microbiol 5781-91Gutierrez-Zamora ML Martinez-Romero E 2001 Natural endo- phytic association between Rhizobium etli and maize Zea mays L.. J Biotechnol 91117-126Hallmann J Quadt-Hallmann A Mahaffee WF Kloepper JW 1997 Bacterial endophytes in agricultural crops.
-
 The present study reports a detailed genotypic and functional characterization of four representative strains of this novel group BR 10280T BR 10266 BR 10555 and BR 10556.The strains were originally named P9-20 P4-7 P5-24 andP7-18 respectively.Materials and methodsCulture conditions and maintenanceBacterial cultures were grown on yeast mannitol liq- uid YM or solid YMA media Vincent .
 
 16S rRNA sequence analysis multilo- cus sequence analysis MLSA and analysis of the 16S-23S rRNA internal transcribed spacer showed that these strains form a novel clade close to but different from B. huang- huaihaiense strain CCBAU 23303T.
+
+Phylogenetic analysis of the nodC gene sequences of the novel strains placed them on a sepa- rate branch close to B. huanghuaihaiense CCBAU 23303TB.
 

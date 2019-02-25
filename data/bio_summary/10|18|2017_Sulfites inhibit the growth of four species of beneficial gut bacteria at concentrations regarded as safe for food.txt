@@ -1,9 +1,5 @@
 The range of colony forming units CFU's milliliter of untreated bacteria at 6 hours exposure time from two experiments establishes a baseline for uninhibited no sulfite exposure growth.non-viable within 4 hours of exposure at concentrations ranging between 1000 -3780ppm dependent on species tested .
 
-Streptococcus thermophilus also stopped increasing in number within two hours of exposure at concentrations between 250-500ppm however the bacteria were still viable in all concentrations of sodium sulfite tested up to 6 hours exposure time.
-
-Lactobacillus plantarum was found to be non-viable by 4 hours exposure at 2 1000ppm.Sodium bisulfite was bactericidal to S. thermophilus at 6 hours exposure and 2 1000 ppm.Results shown in .DiscussionIn the most recent evaluation of sulfite consumption by the World Health Organization it was concluded that in many countries a significant portion of the population regularly exceeds the daily amounts of sulfites considered 'safe in their diets .
-
 In all cases the goal was to determine the viability and growth trends of the bacteria not the exact count of cells.Effects of sodium sulfite on bacterial growth measured as OD600.
 
 We suggest that another possible difference in sulfite suscep- tibility of Streptococcus thermophilus compared to Lactobacillus spp may be that Streptococcus thermophilus produces less acid in BHI media due to the lower glucose content as compared to growth in MRS media MRS has 10 times more glucose than BHI and therefore less of the damaging sulfur dioxide would be generated.Sulfite is oxidized to sulfate in mammals by the mitochondrial enzyme sulfite oxidase found predominantly in liver and kidney cells .
@@ -12,9 +8,13 @@ This suggests that similar to antibiotics the use of sulfites in food may promot
 
 Final report on the safety assessment of sodium sulfite potassium sulfite ammo- nium sulfite sodium bisulfite ammonium bisulfite sodium metabisulfite and potassium metabisulfite.
 
-Plate A Representative example of L. plantarum control grown in sulfite free media utilized for drop plate counts at 6 hours in sulfite free media.
-
 Within 2 hours of sulfite exposure all bacteria types showed either a decrease or no increase in cell numbers in concentrations ofEffects of sodium bisulfite on bacterial growth measured as OD600.
 
-OD600 read- ings were recorded every hour from individual replicate wells in 96-well test plates.Determination of bacterial growth CfumLSerial dilutions or undiluted samples and drop plate counts were performed to determine the viability of bacteria between 1-6 hours of exposure time for all samples in preservative and at time 0 and 6 hours for controls.
+Streptococcus thermophilus also stopped increasing in number within two hours of exposure at concentrations between 250-500ppm however the bacteria were still viable in all concentrations of sodium sulfite tested up to 6 hours exposure time.
+
+Lactobacillus plantarum was found to be non-viable by 4 hours exposure at 2 1000ppm.Sodium bisulfite was bactericidal to S. thermophilus at 6 hours exposure and 2 1000 ppm.Results shown in .DiscussionIn the most recent evaluation of sulfite consumption by the World Health Organization it was concluded that in many countries a significant portion of the population regularly exceeds the daily amounts of sulfites considered 'safe in their diets .
+
+Addi- tionally ingestion of lactic acid bacteria LAB has been shown to positively impact the com- mensal gut residents by altering metabolic outputs of carbohydrate consumption while negatively affecting potential pathogens by decreasing the pH production of biofilms that encourage the growth of commensals and the production of antimicrobials like bacteriocins and hydrogen peroxide .When presented with this information it seems pertinent to ascertain the impact that expo- sure to food preservatives including sulfites may have on the gut and mouth microbiota.Experiments were designed to establish a basic understanding of the effects of two types of sul- fite preservatives at concentrations deemed GRAS by the FDA on the growth of four benefi- cial gut microbes.Methods  materialsBacteria culturesBacterial Cultures were obtained from Microbiologics in the form of LYFO DISK lyophilized bacteria pellet.
+
+Plate A Representative example of L. plantarum control grown in sulfite free media utilized for drop plate counts at 6 hours in sulfite free media.
 

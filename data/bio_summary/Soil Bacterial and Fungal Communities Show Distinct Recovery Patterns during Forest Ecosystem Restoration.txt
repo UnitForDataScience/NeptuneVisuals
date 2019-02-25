@@ -1,10 +1,4 @@
-.Caporaso JG Kuczynski J Stombaugh J Bittinger K Bushman FD Costello EK Fierer N Pena AG Goodrich JK Gordon JI Huttley GA Kelley ST Knights D Koenig JE Ley RE Lozupone CA McDonald D Muegge BD Pirrung M Reeder J Sevinsky JR Turnbaugh PJ Walters WA Widmann J Yatsunenko T Zaneveld J Knight R. 2010.
-
 The use of specific controlled reforestation practices   aids in the creation of replicated sites over time with relatively well-controlled ecosystem development in terms of soil properties land- scapes and vegetation .In this study we characterized both the intra-annual variability and long-term recovery in bacterial and fungal components of soil microbiota in a chronosequence of reclaimed mine lands that spans 5 to 30 years postreforestation and includes unmined reference plots.
-
-Appalachian Regional Reforestation Initiative Pittsburgh PA. .Frouz J Prach K Pizl V HaneVl L Stary J Tajovsky K Materna J Balik V KalcVik J RVehounkova K. 2008.
-
-.Schutte UM Abdo Z Foster J Ravel J Bunge J Solheim B Forney LJ.
 
 The rapid responses of microorganisms to alterations in environmental conditions and their high turnover rates may provide additional information and possibly an early indication of the restoration progress following ecosystem disturbance .Both bacteria and fungi are significant components of the soil microbiota and perform critical ecological functions but they also have many differences in phenotype phylogeny and life history that could cause different succession patterns during recovery.
 
@@ -17,4 +11,10 @@ For example soil fungal biomass turnover times have been estimated to be 100 day
 The significantly higher- than-average numbers of overlaps in both bacterial OTUs and cooccurrences indicate that a portion of the bacterial interaction network persists over relatively long periods of time during the recovery of soil microbiota.
 
 Three soil samples were taken from 0 to 10 cm depth in each plot pooled and homogenized to more fully capture the diversity at the plot level while using the replicated plots to characterize variation in the soil microbiota at each site.
+
+Interactions between soil development vegetation and soil fauna during spontaneous succession in post mining sites.
+
+A single application of Cu to field soil has long-term effects on bacterial com- munity structure diversity and soil processes.
+
+This study compares bacterial and fungal cooccur- rence networks and reveals cooccurrences persisting through successional ages.KEYWORDS bacteria chronosequence cooccurrence networks disturbance fungi reclaimed mine soils soil microbiotacologists have been studying the succession dynamics of plant communities for more than a century   and the patterns of changes in plant community composition are used as indicators for the restoration of ecosystems .
 

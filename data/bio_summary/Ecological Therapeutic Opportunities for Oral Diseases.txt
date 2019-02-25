@@ -6,8 +6,6 @@ We conclude with a perspective on what we believe are key points regarding the e
 
 Anaerobic bacteria also are found in greater proportions in the tongue crypts which serve as an anaerobic pocket-like reservoir for microbes 72.Ecological aspects of oral disease etiologyThe three main oral diseases that is caries periodontal diseases and oral candidiasis are associated with dysbiosis of the resident oral microbiome.
 
-PubMed 23967169Huang S Li R Zeng X He T Zhao H Chang A Bo C Chen J Yang F Knight R Liu J Davis C Xu J. Predictive modeling of gingivitis severity and susceptibility via oral microbiota.
-
 Other strategies such as whole oral microbiome transplantation or modification of community function by enrichment with health- promoting indigenous oral strains may offer more promise but research in this field is still in its infancy.
 
 Moreover the microbial composition of these communities is critical to oral health with the main oral diseases characterized by deleterious alterations in microbiome community structure at specific sub-habitats 13 14.As in other human mucosal compartments an understanding of the composition of health and disease-associated communities together with the development of treatments to attempt the restoration of healthy communities in diseased individuals has been the subject of increasing research.
@@ -17,4 +15,6 @@ Microbial successions and inter-species interactions also shape the development 
 Antimicrobial peptides of the b-defensin family hBDs are found in various locations of the oral cavity such as oral mucosa gingiva tongue epithelium and salivary glands 53.
 
 Saliva seems to be a key element in the control of Candida overgrowth since it has components such as soluble IgA and mucins that bind and clear the fungi from the oral cavity as well as histatin 5 and calprotectin that have potent antifungal activities 114.Contrary to other mucosal compartments no clear relationship between the disruption of the bacterial component of the oral microbiome by the use of antibiotics and the overgrowth of Candida spp.
+
+In summary although BALOsHoare et al.Page 15show promising in vitro results especially in the control of A. actinomycetemcomitans their effectiveness has not been tested in vivo.Evaluations of the oral virome have revealed that the oral cavity harbors a great amount of bacteriophages 252 253 254.
 

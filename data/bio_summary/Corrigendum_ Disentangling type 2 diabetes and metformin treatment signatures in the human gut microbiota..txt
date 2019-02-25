@@ -6,11 +6,11 @@ CORRECTIONS  AmENDmENTSCorrigendumdoiCorrigendum disentangling type 2 diabetes a
 
 Although this error does not affect the data used to generate the conclusions of the Letter it might affect follow-up studies using the glycated haemoglobin HbA1c and serum insulin phenotypes.
 
-The original Letter has not been corrected online.Supplementary Information is available in the .1 1 6  N A T U R E  V O L 5 4 5  4 m A y 2 0 1 7 c 2017 Macmillan Publishers Limited part of Springer Nature.
-
 However the unit con- versions used to make the data comparable were inconsistent for two of the included phenotype measures.
 
 On page 18 the sentence To convert mUl to pmoll for insulin levels a factor of 6.0 was used.
+
+The original Letter has not been corrected online.Supplementary Information is available in the .1 1 6  N A T U R E  V O L 5 4 5  4 m A y 2 0 1 7 c 2017 Macmillan Publishers Limited part of Springer Nature.
 
 should have read To convert mUl to pmoll for insulin levels a factor of 6.945 was used.We would like to thank the readers who brought these issues to our attention.
 

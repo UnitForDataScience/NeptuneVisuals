@@ -1,20 +1,20 @@
+Deeper in the core Pseudomonas was the major indicator taxon 0-55 total 16S rRNA gene reads per sample for strong OMZ periods together with Alcanivorax 0-11 total 16S rRNA gene reads per sample Fig.
+
+While the bacterial 16S rRNA gene abundance did not correlate significantly with sediment depth the archaeal 16S rRNA gene abundance was 5-10 fold higher in the interglacial sediments Fig.
+
+DNA and lipid molecular stratigraphic records of haptophyte succession in the Black Sea during the Holocene.Earth and Planetary Science Letters 84 610-621 2009.Ziegler M. Jilbert T. de Lange G. J. Lourens L.  Reichart G. J. Bromine counts from XRF scanning as an estimate of the marine organic carbon content of sediment cores.
+
+B Relative abundance of 16S rRNA genes percentage of total reads per sample assigned to sulfate reducing bacterial SRB taxa across the 214 samples are shown in the grey shaded area plot and total bacterial 16S rRNA genes as estimated by qPCR are displayed as white circles.
+
+Indeed despite passing through peri- ods with different preservation conditions Synechococcus 16S rRNA gene copy numbers exhibited a significant exponential decline with time r 0.89 P  0.001 and did not correlate with higher TOC values corresponding to periods of increased OMZ strength and OM preservation Fig.
+
+Archaeal 16S rRNA genes were amplified separately using the Domain-specific primers Arch21F 5'-TTC CGG TTG ATC CYG CC-3'and Arch915r 5'-GTG CTC CCC CGC CAA TTC-3' and then reamplified nested PCR prior to sequencing using the universal primers for the V4 region after Caporaso et al.. 16S rDNA V4-region of the widespread oceanic unicellular pelagic cyano- bacterial genera Synechococcus and Prochlorococcus was amplified from the sedimentary DNA with the universal bacterial primer 806r in combination with a newly developed specific forward primer SynPro525f 5'-CGC GGT AAT ACG GGA GTG-3'.
+
+The lack of a decrease in the overall 16S rRNA gene copies throughout our core suggests that a substantial part of the residing prokar- yotes contain intact DNA and are viable.
+
+No genes diagnostic for sulfate reduction dissimilatory sulfate reductase adenosine phos- phosulfate reductase were found in the metagenomes throughout the entire core presumably because the SRB had a relatively low 1 total 16S rRNA gene sequences abundance Fig.
+
 In line with this the relative abundance of monooxygenases had a significant inverse correlation with preserved marine organic matter Bromine r -0.35 P  0.001 and was thus most abundant during reduced OMZ strength.Anaerobic ammonia oxidizing anammox bacteria that are present in Arabian Sea sediments under the OMZ were presumably also affected by historical changes in the OMZ strength.
 
-These include continental mid-Cretaceous black shales harboring marine communities lignite-hosted subseafloor microbiomes that resemble soil communities Mediterranean turbidites harboring increased bacterial taxa from soils bacteria in Baltic Sea sediments that reflect variations in paleo-salinity and correlations between the microbial diversity and past depositional conditions in maar lake sediments.
-
-Thus in agreement with earlier studies   our results show that OMZ conditions and denitrification mainly occurred during the warm interstadials which led to the deposition of d15N-enriched and TOC-rich 0.5 sediments while no or weak OMZ during cold stadials resulted in thedeposition of bioturbated TOC-poor sediments.
-
-A.  Wellsbury P. Recent studies on bacterial populations and processes in subseafloor sediments A review.Hydrogeol J 8 11-28 2000.Parkes R. J. et al.
-
-With some notable exceptions  the abundance of prokaryotes in marine sediments usually decreases an order of magnitude over the top 10 m. However the multiple TOC-rich layers in our core likely bolstered the subsistence of the heterotrophic bacteria and archaea as was previously reported from Pleistocene Mediterranean sapropelsand organic-rich coastal sediments.
-
-The 0.5 mbsf depth suggested by our data is within the 0.4-2 mbsf depth where sulfate reduction predominantly occurs in multiple cores from several nearby locations on the continental margin sediments of the Arabian Sea.
-
-The TOC-rich intervals are separated by TOC-depleted sediments which exhibit signs of bioturbation and were thus deposited under higher bottom water oxygen concentrations and reduced OMZ strength.
-
-The age model used to deter- mine the timing of changes in depositional and environmental conditions is based on the correlation of our XRF- derived bromine Br record a biophilic halogen that binds to allochthonous marine organic matter to the high-resolution TOC record of Schulz et al.and radiocarbon dating of foraminiferal carbonates Tables  .
-
-Deep Sea Res I 57 384-393 2010.Naqvi S. W. A. et al.
-
-Rather they correlate with paleoenvironmental conditions namely past OMZ intensities which indicates that a portion 5-15 of the bacterial community in our Arabian Sea sediments have subsisted since burial with weak selection.
+Thermograms are normalized such that the area under each curve is equal to unity.deposited under recurring strong OMZ conditions are significantly more similar ANOSIM P  0.001 to one another than those deposited under weak OMZ conditions Fig.
 

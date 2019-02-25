@@ -4,8 +4,6 @@ This work highlights that E. tenella infection has a significant impact on the a
 
 It is now hypothesised that a combination of factors are involved and results from this study suggest either a func- tional role for the enteric microbiome or microbial variation as a consequence of infection.The importance of the enteric microbiome to fermentation and effective use of dietary resources underlines the significance of these changes .ConclusionThe current study has demonstrated that E. tenella infection of Cobb500 broilers elicited sig- nificant changes in the abundance of a number of microbial taxa in the caecal microbiome that were correlated with the most severe caecal pathology.
 
-A Uninfected controls versus all infected samples LS0 -LS 4 B uninfected controls versus lesion score 4 C lesion score 0 versus lesion score 3 D lesion score 0 versus lesion score 4.Research investigating the effect that Eimeria has on the caecal microbiome of poultry is sparse and to our knowledge this study is the first to specifically analyse the microbiome according to severity of caecal lesions following exposure to a defined high dose of a single Eimeria species.
-
 Additionally differences in species strain and level of Eimeria parasite infection may explain between study variations in alpha diversity .Eimeria infection per se also did not produce a significant impact on caecal microbiome beta-diversity P  0.062 compared to uninfected controls.
 
 1995 7411-7.Arakawa A Baba E Fukata T. Eimeria tenella infection enhances Salmonella typhimurium infection in chickens.
@@ -17,4 +15,6 @@ RESEARCH ARTICLEEffects of Eimeria tenella infection on chicken caecal microbiom
 2017 Effects of Eimeria tenella infection on chicken caecal microbiome diversity exploring variation associated with severity of pathology.
 
 This study evaluated the composition and structure of the caecal microbiome in the presence or absence of a defined Eimeria tenella challenge infection in Cobb500 broiler chickens using 16S rRNA amplicon sequencing.
+
+Following E. tenella infection the diversity of taxa within the caecal microbiome remained largely stable.
 

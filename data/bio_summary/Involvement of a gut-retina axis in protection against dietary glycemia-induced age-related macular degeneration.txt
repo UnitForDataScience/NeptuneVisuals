@@ -1,11 +1,3 @@
-To seek proof of principle that age-related HG-diet-induced phenotypes could be delayed or reversed half of the HG mice consumed the HG diet for 6 mo and then were transferred to the LG diet hereafter HGxoLG mice for the last 6 mo of life see schematic in Fig.
-
-All mice gained weight on their study diet but HG mice gained weight more rapidly than the mice fed the LG diet hereafter LG mice Fig.
-
-Higher levels of hydrophilic metabolites including carbohydrates and amino acids are associated with lower retinal damage scores and consumption of the LG diet whereas higher levels of lipids are associated with higher retinal damage scores and the HG diet Fig.
-
-The shift from the HG to the LG diet was associated with increased Fir- micutes and diminished levels of unclassified phyla thus re- sembling the microbiomes in LG mice Fig.
-
 Gut microbiota were responsive to diet and we identified microbiota in the Clostridiales order as being associated with AMDf and the HG diet whereas protection from AMDf was associated with the Bacteroidales order and the LG diet.
 
 Most of these AMDf were prevented or reversed by consuming the LG diet or by switching from the HG diet to the LG diet during maturity.Metabolic and Biochemical Insights into the Etiology of AMDf.
@@ -14,7 +6,15 @@ The con- sumption of a high-glycemia HG diet resulted in many AMD features AMDf 
 
 Plant J 521181-1191.Mevik B Wehrens R 2007 The pls package Principal component and partial least squares regression in R. J Stat Softw 181-24.Bylesjo M et al.
 
-Impressively there was no further photoreceptor cell loss in the HGxoLG group after their change to the LG diet implying a rapid diet-related arrest or reversal of HG-induced damage.Inner retina layer thinning photoreceptor disorganization and swelling of inner segments as well as photoreceptor de- generation were observed in HG but not in LG or HGxoLG mice Fig.
+We hypothesized that con- suming a low-glycemia LG diet could be used not only to delay the onset and progress of AMDf but also to arrest AMD if animals were switched from an HG to an LG diet.
 
-ANOVA indicated specific metabolites that associated with diet andor retinal damage score be it uniquely additively or as a diet-phenotype interaction Fig.
+To seek proof of principle that age-related HG-diet-induced phenotypes could be delayed or reversed half of the HG mice consumed the HG diet for 6 mo and then were transferred to the LG diet hereafter HGxoLG mice for the last 6 mo of life see schematic in Fig.
+
+All mice gained weight on their study diet but HG mice gained weight more rapidly than the mice fed the LG diet hereafter LG mice Fig.
+
+Remarkably despite their having consumed the HG diet for 6 mo before being switched to the LG diet the ONL thickness in HGxoLG animals did not differ from that in LG animals.
+
+Higher levels of hydrophilic metabolites including carbohydrates and amino acids are associated with lower retinal damage scores and consumption of the LG diet whereas higher levels of lipids are associated with higher retinal damage scores and the HG diet Fig.
+
+Coefficients with positive values on the x axis are more associated with the HG diet and those with positive values on the y axis are more associated with the HGxoLG diet.
 

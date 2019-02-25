@@ -2,13 +2,13 @@ Non-metric multidimensional scaling NMDS analysis of Bray-Curtis dissimilarity m
 
 ZetaOtu17 was not detected in any Lo-'ihi samples and only a small subset of samples from Lo-'ihi had reads from either ZetaOtu9 or ZetaOtu15.
 
-Combined samples from Lo-'ihi contained comparable broad-level taxonomic profiles as MAR samples Fig.
-
-None of the 52 Zetaproteobacteria nodes were found in all sam- ples across Lo-'ihi and the MAR however 4 were found in all Lo-'ihi samples veil and non-veil specifically nodes from ZetaOtu1 2110 ZetaOtu2 2086 2095 and Otu14 2067 Fig.
-
 Overview of study system.Bathymetric map of Lo-'ihi Seamount showing the relative location of major sampling sites North Hiolo Ridge NHR South Hiolo Ridge SHR and Pohaku Poh and associated markers.Example of veil and non-veil mat structures found at Lo-'ihi scale bar 10 cm.Broad-scale taxonomic composition of iron mats encompassing geography Lo-'ihi and MAR sites NHR SHR and Poh and mat structure non-veil and veil.
 
 A more detailed analysis of the vent fluid chemistry at these sites was published previously Glazer and Rouxel 2009.The summit of Lo-'ihi is in an O2 minima zone where ambi- ent O2 concentrations range from 30 to 60 mM.Approximately 82 000 16S rRNA pyrotag reads were gen- erated from 38 samples collected at sites within the Lo-'ihi Seamount.
+
+Combined samples from Lo-'ihi contained comparable broad-level taxonomic profiles as MAR samples Fig.
+
+None of the 52 Zetaproteobacteria nodes were found in all sam- ples across Lo-'ihi and the MAR however 4 were found in all Lo-'ihi samples veil and non-veil specifically nodes from ZetaOtu1 2110 ZetaOtu2 2086 2095 and Otu14 2067 Fig.
 
 Both of ZetaOtu6 and ZetaOtu28 were exclusive to non-veil samples at Lo-'ihi and only matched single amplified genome SAG 16S rRNA gene sequences retrieved previously from Lo-'ihi Field et al.
 

@@ -1,20 +1,20 @@
-J Immunol 184126799-6806McAleer JP Nguyen NL Chen K Kumar P Ricks DM Binnie M Armentrout RA Pociask DA Hein A Yu A Vikram A Bibby K Umesaki Y Rivera A Sheppard D Ouyang W Hooper LV Kolls JK 2016 Pulmonary Th17 antifungal immunity is regulated by the gut microbiome.
+IL-23 is released by several immune cells including Th17 hence interaction of IL-23 with its corresponding receptor on Th17 leads to production of IL-17A in an autocrine manner .
 
-Lopez P de Paz B Rodriguez-Carrio J Hevia A Sanchez B Margolles A Suarez A 2016 Th17 responses and natural IgM antibodies are related to gut microbiota composition in systemic lupus erythematosus patients.
-
-J Immunol 16811 5699-5708Fathalizadeh J Fathalizadeh H Mirzabeigi M Hakimi H Arababadi MK 2017 The Role of Interleukin-17A IL-17A in depression Iran Red Cresc Med J Article in pressMarques JM Rial A Munoz N Pellay FX Van Maele L Leger H Camou T Sirard JC Benecke A Chabalgoity JA 2012 Protection against Streptococcus pneumoniae serotype 1 acute infection shows a signature of Th17- and IFN-gamma-mediated immunity.
-
-Garidou L Pomie C Klopp P Waget A Charpentier J Aloulou M Giry A Serino M Stenman L Lahtinen S Dray C Iacovoni JS Courtney M Collet X Amar J Servant F Lelouvier B Valet P Eberl G Fazilleau N Douin-Echinard V Heymes C Burcelin R 2015 The gut microbiota regulates intestinal CD4 T cells ex- pressing RORgammat and controls metabolic disease.
-
-J Immunol 176127768-7774Parham C Chirica M Timans J Vaisberg E Travis M Cheung J Pflanz S Zhang R Singh KP Vega F 2002 A receptor for the heterodimeric cytokine IL-23 is composed of IL-12Rb1 and a novel cytokine receptor subunit IL-23R.
-
-J Biol Chem 2822216006-16015Huang C Chen J Wang J Zhou H Lu Y Lou L Zheng J Tian L Wang X Cao Z Zeng Y 2017 Dysbiosis of intes- tinal microbiota and decreased antimicrobial peptide level in Paneth cells during hypertriglyceridemia-related acute necro- tizing pancreatitis in rats.
-
-Rahman A Fahlgren A Sundstedt C Hammarstrom S Danielsson A Hammarstrom ML 2011 Chronic colitis induces expression of beta-defensins in murine intestinal epithelial cells.
-
-Gaboriau-Routhiau V Rakotobe S Lecuyer E Mulder I Lan A Bridonneau C Rochet V Pisi A De Paepe M Brandi G Eberl G Snel J Kelly D Cerf-Bensussan N 2009 The key role of seg- mented filamentous bacteria in the coordinated maturation of gut helper T cell responses.
-
-J Immunol 1801559-568Kanda T Nishida A Ohno M Imaeda H Shimada T Inatomi O Bamba S Sugimoto M Andoh A 2016 Enterococcus durans TN-3 induces regulatory T cells and suppresses the development of dextran sulfate sodium DSS-induced experimental colitis.
+It appears that Th17 development in the gut mucosa is more dependent on GM than interaction with other immune cells including Th1 Th2 and Treg and GM-derived lipolopysachardie LPS plays key roles in pro- gression of Th17 lineage  .
 
 In direct man- ner the SFB-derived antigens participate in the development of Th17 lineage while in indirect format SFB induces expres- sion of damage-associated molecular patterns DAMPs such as serum amyloid A SAA which influence Th17 cell differ- entiation  .
+
+In the case of increased number of GM Th17 are increased and fight against GM and decrease them which in itself results in decreased number of Th17 lineage.
+
+Interestingly another study demonstrated that depletion of Th17 lineage using specific anti-GM Th17 cells is associated with severe graft versus host disease GVHD following stem cell transplant recipients .
+
+Th17 including ab and gd Th cells and macrophages are the main cells which produce IL-17A in response to several inducers including IL-23  .
+
+IL-23 is a cytokine which is essential for maintenance of Th17 the main IL-17A producing cell .
+
+IL-23 receptor IL-23R on the Th17 and macrophages consists of two sub- units including beta 1 which interacts with IL-12p40 subunit and IL23-specific subunit which interacts with IL-23A .
+
+RORgt and RORa play essential roles in Th17 differentiation from Th0 cells and also expression of IL- 17A by the cells .
+
+Accordingly the patterns of IL- 17A in response to GM may be a key mechanism to regulate incidence of autoimmune disorders.IL-17A and Gut MicrobiotaBased on the investigations regarding the roles played by IL- 17A in response to GM three main categories have been designed for IL-17A 1 physiological roles of IL-17A 2 the roles played by IL-17A to induce production of antimicro- bial peptides and 3 pathological roles of IL-17A.Physiological Roles of IL-17A in the FightAgainst Microbes and Also Improvement of Diseases in Gut Microbiota-Dependent MannerRecent evidences have demonstrated that development of Th17 cells in the gut mucosa follows a different format when compared to other tissues.
 

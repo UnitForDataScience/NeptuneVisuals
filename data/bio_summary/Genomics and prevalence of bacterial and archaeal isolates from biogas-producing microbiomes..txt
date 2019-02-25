@@ -1,20 +1,20 @@
-The work of AP was supported by the BMBF-funded project 'Bielefeld-Giessen Center for Microbial Bioinformatics--BiGi Grant Number 031A533'within the German Network for Bioinformatics Infrastructure de.NBI.Publisher's NoteSpringer Nature remains neutral with regard to jurisdictional claims in pub- lished maps and institutional affiliations.Received 13 December 2016 Accepted 1 November 2017ReferencesKlocke M Nettmann E Bergmann I Mundt K Souidi K Mumme J et al.
-
-2014985719-35.Tomazetto G Hahnke S Langer T Wibberg D Blom J Maus I et al.
-
-Accessed 12 Sept 2016.Munoz R Yarza P Ludwig W Euzeby J Amann R Schleifer KH et al.
-
-201134169-70.Quast C Pruesse E Yilmaz P Gerken J Schweer T Yarza P et al.
-
-201523238-49.Wibberg D Blom J Jaenicke S Kollin F Rupp O Scharf B et al.
-
-201115550-62.Meyer F Goesmann A McHardy AC Bartels D Bekel T Clausen J et al.
-
-201437311-9.Koeck DE Wibberg D Koellmeier T Blom J Jaenicke S Winkler A et al.
-
-201419240-1.Maus I Wibberg D Stantscheff R Stolze Y Blom J Eikmeyer FG et al.
-
 Maus et al.
 
 The Creative Commons Public Domain Dedication waiver   applies to the data made available in this article unless otherwise stated.Maus et al.
+
+22-37Veillonellaceae48.392411.7569CSTR wet fer-mentationMaize silage grass38ePropionispora hippei KST 95.0NR036875Bacillus thermoa- mylovorans 1A1Bacillaceae48.392411.7569CSTR wet fer-mentationMaize silage pig manure52fBacillus thermoamylo- vorans DKPT99.0NR029151Table 1 continuedSpecies and strainFamilyOriginReferencefor the isola-Closest related NCBI GenBank entry with aSimilarity of 16S rRNA gene between isolateNCBI GenBank entry of closestLocation of BGPType of reac-Fed substrate T degC of reac-tion strategyvalidly publishedand GenBank entryrelativeLatitudeLongitudetortoror strain origintaxonomic affiliationProteiniphilum saccharo- fermentans M36TFermenti- monas caenicola ING2-E5BTPetrimonas mucosa ING2-E5ATPorphyromona- daceae52.387113.0993Lab-scaleUASSwet fermentation51.2554996.396524Lab-scaleCSTRwet fermentation51.2554996.396524Lab-scaleCSTRwet fermentationMaize silage wheat strawMaize silage pig manure cattle manureMaize silage pig manure cattle manure37Proteiniphilum saccharo- fermentans M36T37Fermentimonas caeni-cola ING2-E5BT37Petrimonas mucosaING2-E5AT100KP233809100KP233810100KP233808Defluviitoga tunisiensis L3ArchaeaPetrotogaceae51.2554996.396524Liquid pumpwet fermen- tationMaize pig manure grass54Defluviitoga tunisiensisSulfLac1T99.9NR122085Table 1 continuedSpecies and strainFamilyOriginReferencefor the isola-Closest related NCBI GenBank entry with aSimilarity of 16S rRNA gene between isolateNCBI GenBank entry of closestLocation of BGPType of reac-Fed substrate T degC of reac-tion strategyvalidly publishedand GenBank entryrelativeLatitudeLongitudetortoror strain origintaxonomic affiliationMethanoc- ulleus bourgensisMethanomicro- biaceaeDSMZ37Methanoculleus bour- gensis MS2T100NR042786CSTR continuously stirred tank reactor UASS upflow anaerobic solid-state reactora DSMZ Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures Braunschweig Germanyb Isolation strategy number four described in more detail by c Isolation strategy number eight a published in d Isolation strategy number five published in e Isolation strategy number seven published in f Isolation strategy number two published in g Isolation strategy number ten published in h Isolation strategy number eleven published in Maus et al.
+
+Mb1 the DW1 genome sequence was recovered from sequencing of a mixed culture consisting of strains DW1 and Mb1Maus et al.
+
+ING2-D1G are only dis- tantly related to known bacterial species of the familyMaus et al.
+
+Genome analyses provided insights into the life- style and functional roles of bacterial and archaeal strains.Maus et al.
+
+Considering the fact that strain 1A1 originally was isolated from a co-culture also containing C. thermocellum  it is assumed that B. thermoamylovorans 1A1 further metabolizes cellobiose produced by cellulolytic Clostridia.Maus et al.
+
+PP17-6aHerbinix hemi- cellulosilytica T355THerbinix luporum SD1DTGPEPaGPEPGPEPbGPEPGPEPGPEPGPEPcGPEPdPropionic acid fermentationgAcrylyl-CoA pathwayPropionic acid-ND-NA-NC D-NANA-NA-NC D-N Methylmalonyl-CoA pathway-------Ethanol fermentationEthanolDDDD Formic acid fermentation23-Butanediol fermentation23-Butanediol-ND--ND----ND-ND Formic acid-D-CO2 and H2--D----Mixed-acid fermentationEthanolDDDD AcetateNDLactateNDD-NDNDSuccinate-ND---Butyric acid fermentationButyrate-D-DD HomoacetogenesisAcetateDNDLactic acid fermentationHomolactic acid fermentationLactateNDD-NDND Heterolactic acid fermentationLactate---D-----AcetateDNDDD EthanolDCO2 and H2------Mixed-acid fermentationEthanol-DD-AcetateDDDDDLactateNDNDNDNDNDNDNDSuccinate--Butyric acid fermentationButyrate D  D  D HomoacetogenesisAcetateDDDDD Lactic acid fermentationHomolactic acid fermentationLactateNDNDNDNDNDNDND Heterolactic acid fermentationLactate------AcetateDDDDDDEthanolNDNDGenomic loci encoding enzymatic functions participating to the corresponding fermentation type for each bacterial strain analyzed are listed in Additional file  synthesis of the corresponding fermentation end-product is predicted  pathway incomplete or misses key enzymes the synthesis of the corresponding fermentation end-product is doubtful EP experimental proof D the corresponding fermentation product has been experimentally detected GP genes predicted applying metabolic reconstruction within the GenDB 2.0 system  NA not analyzed NC not confirmed ND fermentation product has been experimentally not detecteda Unpublished datab Data published in  c Data published in  d Data published in  e Data published in  f Data published in g Pathways for propionic acid synthesis via succinate decarboxylation or amino acid degradation were not includedMaus et al.
+
+To predict the pathway by which the analyzed Archaea produce CH4 genes involved in the different methanogenesis pathways mentioned aboveTable 4 Predicted genome features and traits of archaeal strains included in this studyrelated hydrogenase genes encoded in the genomeSubstrates used for methanogenesisH2CO2 FH2CO2 FH2CO2 FH2CO2 FH2CO2 FH2CO2 FH2CO2 FPredicted metabolites required for growthAcetate cysteinea vitamin BaAcetateAcetateAcetate lactateAcetateAcetate lactatebAcetate lactatebF formate H2 hydrogen CO2 carbon dioxidea Utilization of cysteine and vitamin B by the strain MFT was described previously b No growth or methane production was detected on lactate for Methanoculleus species described previously  Maus et al.
+
+22-37 M. formicicum MFT M. formicicum Mb9 M. con- golense Buetzberg and C. cellulosi DG5 seem to be if at all of minor importance in most BGPs group IV.Furthermore the non-cultivable fractions of the biogas microbiomes residing in BGPs 1 to 4 were studied by Stolze et al.
 

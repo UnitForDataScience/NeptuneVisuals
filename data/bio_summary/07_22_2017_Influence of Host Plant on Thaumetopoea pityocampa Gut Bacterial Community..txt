@@ -1,14 +1,8 @@
 In this work we performed a metabarcoding analysis to investigate for the first time the diversity of the gut bacterial community of pine processionary larvae associated with three different host pine species Pinus halepensis Pinus nigra subsp.
 
-5307-317. doiAndongma AA Wan L Dong Y-C Li P Desneux N White JA Niu C-Y 2015 Pyrosequencing reveals a shift in symbiotic bacteria populations across life stages of Bactrocera dorsalis Sci Rep 5 9470. doiPalmeri V Pulvirenti A Zappala L 2005 La processionaria dei pini nei boschi della dorsale appenninica della Calabria Forest- Journal of Silviculture and Forest Ecology 2345Berasategui A Axelsson K Nordlander G Schmidt A Borg- Karlson A-K Gershenzon J Terenius O Kaltenpoth M 2016 The gut microbiota of the pine weevil is similar across Europe and resembles that of other conifer-feeding beetles Mol.
-
 In this work we aimed to characterize the gut bacterial community of pine processionary larvae associ- ated with three different host pine species Pinus halepensis Miller P. nigra subsp.
 
 laricio and Pinus pinasterof the target species and the characterization of its associated microorganisms needs to be accomplished  including both life stage and host-associated microbiota.In this study we found that the population of gut symbionts of T. pityocampa larvae associated with P. halapensis was different from the symbionts associated with larvae that fed on P. nigra subsp.
-
-25 4014-4031. doiGayatri Priya N Ojha A Kajla MK Raj A Rajagopal R 2012 Host plant induced variation in gut bacteria of Helicoverpa armigera PLoS One 7e30768.
-
-110229-234Avolio S Bernardini V Clerici E Tomaiuolo M 2012 Management guidelines for calabrian pine reforestations carried out in southern Italy in the 1950s-70s J Life Sci 61050Campolo O Malacrino A Grande SB Chiera E Palmeri V 2015 Efficacy of selected insecticides for the control of the california red scale in southern Italy Acta Hort 10651149-1156Campolo O Palmeri V Malacrino A Laudani F Castracani C Mori A Grasso DA 2015 Interaction between ants and the Mediterranean fruit fly new insights for biological control Biol.
 
 1 Double principal coordinate analysis DPCoA performed on the whole microbial community associated to larvae of Thaumetopoea pityocampa feeding on different host plant species Pinus halepensis Pinus nigra subsp.
 
@@ -17,4 +11,10 @@ Host plant species were selected on the basis of the different susceptibility to
 Dead insects were then sterilized su-perficially with a solution of sodium hypochlorite 21.6 gL for 5 min washed once in ethanol 70 vv for 2 min and finally three times in sterile distilled water for 10 s. Dead larvae were then placed in phosphate buffer solution to excise the complete gut with sterile forceps.
 
 On the other hand as the gut of lepidopteran larvae has a relatively simple morphol- ogy  lacking specific structures for harboring microbial symbionts it is not surprising that the gut microbiota can be affected by diet  as we experienced in our study.
+
+We found that the gut microbial community of T. pityocampa larvae collected on P. halapensis was different from that associated with larvae collected from P. nigra andP.
+
+Indeed microorganisms pos- sess metabolic properties that are often absent in insects so in this way they can provide traits which enable insects to over- come plant defenses .
+
+Proteobacteria was the dominant phylum in pine processionary gut microbiome which has been extensively found to be associated with other insects  .
 

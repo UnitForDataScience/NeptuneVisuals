@@ -1,20 +1,20 @@
-The direction and specificity of the response to vitamin A deficiency was notable as none of the other Bacteroides in the community exhibited this pattern table S5.The microbial RNA-Seq dataset revealed the specificity and distinctive breadth of responses of B. vulgatus to vitamin A availability see table S7A-G for a KEGG Orthology group- level summary of significant changes in its in vivo gene expression profile in response to diet oscillations involving vitamin A iron zinc or folate and combined deficiency as well as in the control group monotonously fed the micronutrient sufficient diet see table S8A-T for a KEGG Orthology group-level summary of transcriptional responses for each member of the gut microbial community defined as responsive to dietary vitamin A manipulation based on changes in their relative abundance.
-
 BC Bar plots indicating mean - SEM retinoid sensitivity calculated as time-to-log phase for treated cultures versus time-to-log phase for vehicle alone DMSO control cultures for B B. vulgatus ATCC 8482 versus B. dorei DSM 17855 or C B. vulgatus strain ATCC 8482 versus B. vulgatus strain 257H4 isolated from a healthy Malawian infant 16.
 
 Acute vitamin A deficiency had the largest effect on bacterial community structure and meta-transcriptome with Bacteroides vulgatus a prominent responder increasing its abundance in the absence of vitaminApplying retinol selection to a library of 30300 B. vulgatus transposon mutants revealed that disruption of acrR abrogated retinol sensitivity.
 
 None of the micronutrient-deficient diets resulted in a significant change in body weight in these adult mice table S9 P0.05 two- way repeated measures ANOVA Dunnett's test.Identification of a member of the TetR family of transcriptional repressors that mediates the sensitivity of B. vulgatus to retinolTo examine the mechanisms underlying the in vivo response of B. vulgatus to dietary vitamin A availability we cultured the strain in vitro under anaerobic conditions in a defined medium with or without addition of a range of concentrations of retinol retinal retinyl palmitate all-trans retinoic acid or b-carotene the diterpene alcohol geranylgeraniol was used as a control.
 
-Moreover the fact that the B. vulgatus AcrAB-TolC12 locus did not significantly change its expression in vivo as a function of the vitamin A manipulations applied to our gnotobiotic mouse model of the human gut microbiota suggests that the constitutive level of activity of the efflux pump is a key determinant of the sensitivity of B. vulgatus compared to other bacterial members of the community e.g.
-
-2C table S10B.The COPRO-Seq dataset revealed that Bacteroides dorei strain DSM-17855 exhibited a response to vitamin A deficiency that was the opposite of that manifested by B. vulgatus namely it increased rather than decreased its relative abundance in the presence of vitamin A Fig.
-
-As such we cannot conclude at this time that vitamin A imbalances influence host growth through their effects on B. vulgatus specifically or that an increase in the abundance of this putative growth-promoting taxon in a vitamin A deficient state would represent an adaptive response.
-
 S4 presents a phylogenetic tree of AcrR orthologs identified in these organisms note that B. dorei has the highest degree of similarity to B. vulgatus AcrR encoded by BVU0240 table S13B.We used comparative genomics of B. vulgatus ATCC 8482 and related organisms to identify a conserved 30-basepair bp palindrome as a candidate AcrR-binding motif Fig.
 
 Wildtype acrRIN and complemented strains of B. vulgatus were treated with PAbN in the presence or absence of retinol wildtype B. dorei was used as a reference control unlike wildtype B. vulgatus it is resistant to retinol-Hibberd et al.Page 11mediated growth inhibition Fig.
 
 Incubation of the B. vulgatus acrRIN strain which exhibits increased expression of its efflux system components compared to wildtype or wildtype B. dorei with 25 ugmL PAbN in the absence of retinol did not result in a statistically significant effect on growth compared to untreated control cultures P0.99 B. vulgatus acrRIN P0.99 wildtype B. dorei one-way ANOVA Bonferroni multiple comparisons test table S15A.
+
+Moreover the fact that the B. vulgatus AcrAB-TolC12 locus did not significantly change its expression in vivo as a function of the vitamin A manipulations applied to our gnotobiotic mouse model of the human gut microbiota suggests that the constitutive level of activity of the efflux pump is a key determinant of the sensitivity of B. vulgatus compared to other bacterial members of the community e.g.
+
+Retinoid sensitivity experiments were performed as described above using monocultures of isolated Tn mutant strains.Complementation of B. vulgatus Tn mutantsTn mutants of B. vulgatus were complemented using the genomic insertion vector pNBU2tetQ 40.
+
+The sequence logo for the derived DNA binding motif was drawn using the WebLogo package 63.Cloning expression and protein purification of B. vulgatus and B. dorei AcrR- like regulators--Genes encoding orthologous AcrR-like regulators from B. vulgatus BVU0240 AcrRBV and B. dorei BACDOR00223 AcrRBD were amplified by PCR from genomic DNA using two sets of specific primers containing BamHI and HindIII restriction sites table S11.
+
+The distinct retinol sensitivity phenotypes of B. vulgatus strains and B. dorei in vitroA Growth curves of B. vulgatus in defined medium with and without various retinoids.
 

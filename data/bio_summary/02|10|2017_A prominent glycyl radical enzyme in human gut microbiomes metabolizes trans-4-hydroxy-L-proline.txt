@@ -1,9 +1,3 @@
-PubMed 2496855Qin N Yang F Li A Prifti E Chen Y Shao L Guo J Le Chatelier E Yao J Wu L Zhou J Ni S Liu L Pons N Batto JM Kennedy SP Leonard P Yuan C Ding W Chen Y Hu X Zheng B Qian G Xu W Ehrlich SD Zheng S Li L. Alterations of the human gut microbiome in liver cirrhosis.
-
-PubMed 25079328Franzosa EA Morgan XC Segata N Waldron L Reyes J Earl AM Giannoukos G Boylan MR Ciulla D Gevers D Izard J Garrett WS Chan AT Huttenhower C. Relating the metatranscriptome and metagenome of the human gut.
-
-PubMed 20532204Kolmeder CA de Been M Nikkila J Ritamo I Matto J Valmu L Salojarvi J Palva A Salonen A de Vos WM.
-
 We identified many uncharacterized family members including a universally distributed enzyme that enables commensal gut microbes and human pathogens to dehydrate trans-4-hydroxy-L-proline the product of the most abundant human posttranslational modification.
 
 For example the human gut microbiome metabolizes non- digestible dietary components produces essential vitamins and nutrients and synthesizes metabolites that are linked to human disease 2 3.
@@ -14,7 +8,13 @@ Unlike PFL HPAD and CutC are detected in only a subset of stool metagenomes whic
 
 Our analysis of the GRE superfamily in human microbiomes provided both new insights about GREs of known activity including enzymes linked to human disease and the ability to identify enzymes of unknown activity in these communities revealing intriguing targets for further study.
 
-2012 9173-175.Kalnins G Kuka J Grinberga S Makrecka-Kuka M Liepinsh E Dambrova M Tars K. Structure and function of CutC choline lyase from human microbiota bacterium Klebsiella pneumoniae.
+doi10.1126science.aai8386.A prominent glycyl radical enzyme in human gut microbiomes metabolizes trans-4-hydroxy-L-prolineB.
 
-PubMed 21475195Dumas ME Barton RH Toye A Cloarec O Blancher C Rothwell A Fearnside J Tatoud R Blanc V Lindon JC Mitchell SC Holmes E McCarthy MI Scott J Gauguier D Nicholson JK.
+Chan School of Public Health Boston MA 02115 USA4Broad Institute Cambridge MA 02139 USAAbstractThe human microbiome encodes vast numbers of uncharacterized enzymes limiting our functional understanding of this community and its effects on host health and disease.
+
+Thus functional profiling strategies that can accurately identify enzymes in microbiomes are needed including both characterized enzymes and enzymes of unknown function that play important but unrecognized roles in these habitats.The significance of this problem can be appreciated by considering the difficulties associated with studying the activities and roles of glycyl radical enzymes GREs in the human gut microbiome.
+
+Previous metagenomic and metaproteomic studies have indicated that the glycyl radical enzymes GREs are one of the most abundant protein superfamilies in the human gut microbiome 11-13.
+
+Furthermore activities of characterized GREs from gut microbes are strongly linked to human health.
 

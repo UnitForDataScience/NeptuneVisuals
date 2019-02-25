@@ -4,8 +4,6 @@ Although we found no correlation between diversity and antibiotic exposure with 
 
 In total we identified a non-redundant set of 172 species across all samples see for complete dataset.Prevalence of antimicrobial resistanceBefore focusing on individual AMR genes we measured the a-diversity Shannon- Weaver index within each sample and although a small sample set compared this to3200400Depth of coverage bp1437AGlyBlaFos FlqMLSPheTetTmtSampleQ87 Q26 Q175 Q89 Q83 Q219 Q216 Q142 Q189 Q117 Q19the known antibiotic exposure of the preterm infants .
 
-The cycling conditions were as follows 95 C for 3 min followed by 30 cycles of 98 C for 20 s 53 C for 30 s and 72 C for 30 s followed by a final extension of 72 C for 4 min.
-
 Heavy use of antibiotics in the course of care of premature infants would not only then skew the bacterial population and drive resistance selection but has been shown to increase the activityof some transposable elements due to stressing of bacterial populations  .In this study we present a detailed investigation of the resistome from the GI microbiota of eleven premature infants with detailed information on antibiotic receipt and maternal antibiotic use.
 
 Computational S. aureus sequence typing ST was also performed using SRST2  under default scoring parameters and using the S. aureus MLST schema downloaded on 18-04-16 from pubmlst.org.
@@ -17,4 +15,6 @@ Paired end PE sequencing was performed on the NextSeq using a v2 300 cycle high 
 After library amplification the negative extraction control and one preterm infant faecal sample required 8 PCR cycles owing to very low starting pre-PCR biomass DNA concentration 0.1 ngul therefore these samples were excluded from downstream analysis leaving faecal samples from eleven premature infants.Shotgun metagenomic sequencingLibrary insert size and quantity was assessed for each sample by Bioanalyser and qPCR as described previously .
 
 Eight of the eleven infants had received a course of prophylactic antibiotic treatment consisting of co-amoxiclav  whilst a second course was administered to four infants consisting of combinations of co-amoxiclav tazocin or vancomycin.
+
+Antibiotics were also administered maternally to three infants Q26 Q117  Q189 but this did not include the two above infants with no antibiotic treatment.
 

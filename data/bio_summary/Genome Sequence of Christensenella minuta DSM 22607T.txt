@@ -1,20 +1,20 @@
 Due to its widespread and significant effects on human health modulation of the gut microbiome is an emerging therapeuticparadigm particularly for obesity diabetes and inflammatory bowel diseases .Through complex interactions with host metabolism the gut microbiome both influences and is influenced by the obesity phenotype .
 
-Nucleic Acids Res 27 4636 - 4641.
+This novel genome provides a valuable resource for future obesity therapeutic studies.he gut microbiome is acquired naturally from birth after which it is affected by host genetics environmental factors and diet .
 
-Nucleic Acids Res 36D281-D288.
+Recently Christensenella minuta the first described member of the Chris- tensenellaceae family  was described as being extremely highly heritable and as promoting a lean host phenotype through an unknown biological mechanism a finding which was experimentally verified using transplantation techniques in germ- free mice .In order to facilitate further research into identifying the biological mechanisms underlying the important role this organism plays in obesity prevention here we describe the first genome sequence of Christensenella minuta DSM 22607T.Genomic DNA was obtained from the DSMZ repository and sequenced using the Illumina HiSeq 2000 to a depth of 115X.
 
-Nucleic Acids Res 25955-964.
+tRNA genes were determined using tRNAscan-SE  and noncoding RNA genes by RNAmmer  and Rfam .
 
-Nucleic Acids Res 353100 -3108.
+A total of 2487 genes 79.7 of all genes had some predicted functional annotation with 66.1 being assigned toVolume 5 Issue 2 e01451-16 1Rosa et al.at least one of 949 unique GO term annotations 74.4 containing at least one of 2822 unique InterPro domains and 69.5 containing at least one of 1412 unique Pfam domains.Accession numbers.
 
-Nucleic Acids Res 33D121-D124.
+Here we present the genome of Christensenella minuta a highly heritable bacterial species which has been found to be strongly associated with obesity through an un- known biological mechanism.
 
-Nucleic Acids Res 32D277-D280.
+For example Firmicutes bacteria are more abundant at the expense of Bacteroides bacteria both as a result of a high fathigh sugar diet  and as a consequence of host genetic obesity due to leptin deficiency .
 
-Nucleic Acids Res 33W116 -W120.
+However microbiome-targeted therapeutic efforts for obesity have been hampered by a lack of understanding of the interactions between host genetics and the microbiome as well as the complexity and diversity of the micro- biome .
 
-Nucleic Acids Res 41D530 -D535.
+We performed a screen for core genes as defined by the HMP project  on many of the assemblies to test for completeness of the genome.
 
-Nucleic Acids Res 42 D222-D230.
+Interactions between gut microbiota and host metabolism predisposing to obesity and diabetes.
 

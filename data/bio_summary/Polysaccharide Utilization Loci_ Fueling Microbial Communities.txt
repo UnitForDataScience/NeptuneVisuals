@@ -2,11 +2,7 @@ Regardless of the regulatory system utilized by a specific PUL there generally a
 
 In this context it is especially notable that one of the three B. thetaiotaomicron mannan PULs is located on a mobile element that is struc- turally similar and homologous to that harboring porphyran utilization genes in B. plebeius .GIVE AND TAKE THE ROLES OF GLYCAN UTILIZATION IN GUT ECOLOGYThe coordinated carbohydrate utilization systems of PULs represent an impressive evolutionary solution for capturing valuable carbon sources in competitive environ- ments which avoid the limitations of extracellular systems such as cellulosomes or freely diffusing enzymes employed by fungi and other bacteria.
 
-.Warnecke F Luginbuhl P Ivanova N Ghassemian M Richardson THStege JT Cayouette M McHardy AC Djordjevic G Aboushadi N Sorek R Tringe SG Podar M Martin HG Kunin V Dalevi D Madejska J Kirton E Platt D Szeto E Salamov A Barry K Mikhailova N Kyrpides NC Matson EG Ottesen EA Zhang X Hernandez M Murillo C Acosta LG Rigoutsos I Tamayo G Green BD Chang C Rubin EM Mathur EJ Robertson DE Hugenholtz P Leadbetter JR. 2007.
-
 may have also acquired algal polysaccharide utilization genes from marine bacteria  .The ability of gut bacteria to adapt to structurally complex dietary polysaccharides was highlighted by the discovery and detailed characterization of three PULs from B. thetaiotaomicron involved in the utilization of a-mannans from the yeast cell wall .
-
-.Varki A Cummings RD Aebi M Packer NH Seeberger PH Esko JD Stanley P Hart G Darvill A Kinoshita T Prestegard JJ Schnaar RL Freeze HH Marth JD Bertozzi CR Etzler ME Frank M Vliegenthart JF Lutteke T Perez S Bolton E Rudd P Paulson J Kanehisa M Toukach P Aoki-Kinoshita KF Dell A Narimatsu H York W Taniguchi N Kornfeld S. 2015.
 
 Together eight genes were identified as part of a single gene cluster collectively named the starch utilization system Sus which established a new paradigm of complex carbohydrate utilization  .
 
@@ -17,4 +13,8 @@ One of the first examples of the comprehensive characterization of a PUL directe
 Complex carbohydrate utilization by the healthy human microbiome.
 
 Superresolution imaging captures carbohydrate utilization dy- namics in human gut symbionts.
+
+Structure of a SusD homologue BT1043 involved in mucin O-glycan utilization in a prominent human gut symbiont.
+
+Polysaccha- rides utilization in human gut bacterium Bacteroides thetaiotaomicron comparative genomics reconstruction of metabolic and regulatory networks.
 

@@ -4,10 +4,6 @@ The same miR cluster has further been reported to be critical for the differenti
 
 miR-21 promotes Th17 differentiation and mediates the development of EAE as shown by the association between the defect in Th17 differentiation and the strong resistance to EAE in miR-21-deficient mice .
 
-Inflamm Cell Signal 2016 311-7. doFujino S Andoh A Bamba S Ogawa A Hata K Araki Y et al.
-
-Gut Microbes 2014 53333-9. doPompei A Cordisco L Amaretti A Zanoni S Raimondi S Matteuzzi D et al.
-
 Given the role of epigenetic mechanisms in the regulation of immune functions notably in the control of Th17 cell and Treg differentiation it is not surprising that inflammatory diseases are linked to a substantial remodeling of the host epigenome in varioustissues  -.
 
 microRNA-155 modulates Treg and Th17 cells differentiation and Th17 cell function by targeting SOCS1.
@@ -17,4 +13,8 @@ In a murine model of colitis the methyltransferase G9A has been identified as pl
 These alteration were mediated by the regulation of macrophageinfiltration and their regulatory rather than inflammatory polari- zation in the adipose tissue  confirming the effect of the gut microbiota on inflammation in metabolic diseases.Although it is clear that a link exists between the gut microbiota and the immune system this association is complex.
 
 genetic deficiency in TLR1 and or environmental factors pathogens are present immune activa- tion and the resulting inflammatory process could contribute to altering IECs function and affect their secretory pattern resulting in a remodeling of the gut microbiota .The relationship between the gut microbiota and the immune system and in particular the Th17Treg balance is now well established.
+
+However the effect of SCFAs on T-cell differentiation has been recently reported to be GPR41 and GPR43 independent suggesting that additional mechanisms might play a role in that process .ePiGeNeTiC ReGULATiON OF THe Th17 TReG BALANCe BY THe GUT MiCROBiOTAThe inhibitory action of SCFAs on histone deacetylase HDAC activity suggests that the gut microbiota could contribute toshaping the host epigenome.
+
+Through unknown mechanisms the gut microbiota increases the expression of MIR21 and the levels of miR-10a potentially promoting Th17 differentiation.
 

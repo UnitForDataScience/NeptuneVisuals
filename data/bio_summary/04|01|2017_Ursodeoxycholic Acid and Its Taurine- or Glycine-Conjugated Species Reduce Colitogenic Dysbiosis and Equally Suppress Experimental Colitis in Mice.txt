@@ -1,12 +1,10 @@
-At day 10 after the initiation of colitis body weight loss was significantly higher in placebo-treated mice than in bile acid-treated mice P  0.027 0.021 and 0.021 for treatment withB.C.5601 2 3 4 5 6 7 8 910510 8-5-10-15-20-25-30Days432100 1 2 3 4 5 6 7 8 9p0.086420C P T U GD.5003000Days400No DSSDSS4003002001000C P T U G200010000C P T U G3002001000C P T U GNo DSSDSSNo DSSDSSNo DSSDSSE.150010003000020000  150100 50010000500C P T U G0C P T U G0C P T U GNo DSSDSSNo DSSDSSNo DSSDSSFIG 1 Oral administration of UDCA TUDCA and GUDCA improves clinical parameters and inflammatory markers in acute DSS-induced colitis.
-
-10008006004002000C P T U G6543210C P T U G6050403020100C P T U GD.1.41.21.00.80.60.40.2No DSSDSSE.100908070605040No DSSDSSNo DSS100959085DSS0.0 C P T U G3080NoDSS20 C P T U G DSS10No DSSDSS0CPTUGUnclassified Bacteria Candidatus SaccharibacteriaNo DSSDSSDeferribacteres Proteobacteria Firmicutes BacteroidetesFIG 2 Oral administration of UDCA TUDCA and GUDCA during DSS-induced colitis prevents colitis-associated dysbiosis at the phylum level.
-
 Interestingly a diet high in saturated fat promotes taurine-associated conjugation of hepatic bile acids resulting in the outgrowth of B. wadsworthia and exacerbation of colitis .Considering that the gut microbial architecture and metabolism contribute to the course of IBD   we compared the therapeutic effectiveness of UDCA and its taurine or glycine conjugates in DSS-induced colitis in mice and investigated their impact on the fecal microbial community.RESULTSOral administration of UDCA or its taurine- or glycine-conjugated species is equally protective in acute DSS-induced colitis.
 
-C control P placebo T TUDCA U UDCA G GUDCA.as modulators of the intestinal microbiota   which is believed to play a critical role in colitis   we questioned whether the administration of UDCA or its conjugated derivatives prevented dysbiosis during experimental colitis.
+At day 10 after the initiation of colitis body weight loss was significantly higher in placebo-treated mice than in bile acid-treated mice P  0.027 0.021 and 0.021 for treatment withB.C.5601 2 3 4 5 6 7 8 910510 8-5-10-15-20-25-30Days432100 1 2 3 4 5 6 7 8 9p0.086420C P T U GD.5003000Days400No DSSDSS4003002001000C P T U G200010000C P T U G3002001000C P T U GNo DSSDSSNo DSSDSSNo DSSDSSE.150010003000020000  150100 50010000500C P T U G0C P T U G0C P T U GNo DSSDSSNo DSSDSSNo DSSDSSFIG 1 Oral administration of UDCA TUDCA and GUDCA improves clinical parameters and inflammatory markers in acute DSS-induced colitis.
 
 However although reduced richness and diversity of the gut microbiota have been associated with human disease  it seems unlikely that this effect is also clinically relevant the clinical outcome in UDCA-treated mice was similar to that of mice that were treated with TUDCA or GUDCA.At the phylum level TUDCA UDCA and to a lesser extent GUDCA normalized the FirmicutesBacteroidetes ratio that was increased in placebo-treated mice with colitis.
+
+C control P placebo T TUDCA U UDCA G GUDCA.as modulators of the intestinal microbiota   which is believed to play a critical role in colitis   we questioned whether the administration of UDCA or its conjugated derivatives prevented dysbiosis during experimental colitis.
 
 To compare the therapeutic effects of UDCA and its taurine or glycine derivatives on DSS-induced colitis C57BL6J mice were challenged with 4 DSS for 7 days and treated daily with UDCA TUDCA orGUDCA by oral gavage.
 
@@ -14,7 +12,9 @@ In order to examine the role of UDCA and its taurine- or glycine-conjugated spec
 
 UDCA concentrations were significantly higher in fecal samples of mice administered UDCA or its taurine or glycine conjugates than in those of placebo-treated mice .
 
-P  0.05  P  0.01  P  0.001.
+Compared to placebo-treated mice the fecal microbial community of bile acid-treated mice with colitis showed a lower abundance of Firmicutes and an increased abundance of Bacteroidetes .
 
-.Le Chatelier E Nielsen T Qin J Prifti E Hildebrand F Falony G Almeida M Arumugam M Batto J-M Kennedy S Leonard P Li J Burgdorf K Grarup N Jorgensen T Brandslund I Nielsen HB Juncker AS Bertalan M Levenez F Pons N Rasmussen S Sunagawa S Tap J Tims S Zoetendal EG Brunak S Clement K Dore J Kleerebezem M Kristiansen K Renault P Sicheritz-Ponten T de Vos WM Zucker J-D Raes J Hansen T MetaHIT Consortium Bork P Wang J Ehrlich SD Pedersen O.
+Daily oral administration of UDCA tauroursode- oxycholic acid TUDCA or glycoursodeoxycholic acid GUDCA equally lowered the severity of dextran sodium sulfate-induced colitis in mice as evidenced by reduced body weight loss colonic shortening and expression of inflammatory cytokines.
+
+Together these data demonstrate that UDCA and its taurine or glycine conjugates decrease the severity of DSS-induced colitis with similar effectiveness.Bile acid supplementation to mice challenged with DSS prevents colitis- associated dysbiosis at the phylum level.
 

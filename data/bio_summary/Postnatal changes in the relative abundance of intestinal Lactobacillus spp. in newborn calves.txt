@@ -1,20 +1,20 @@
-The individual differences in the taxonomic composition of the intestinal microbiota among the calves were smaller at 7 days after birth.Seven families of bacteria rose to dominance in the microbiota of the tested samples during the first 7 days as follows families Bifidobacteriaceae and Coriobacteriaceae in phylum Actinobacteria families Lactobacillaceae Streptococcaceae and Veillonellaceae in phylum Firmicutes family Bacteroidaceae in phylum Bacteroidetes and family Enterobacteriaceae inphylum Proteobacteria Table 1.
-
-The RAs of the following bacterial families increased significantly from day 1 to day 7 Bifidobacteriaceae P0.001 Coriobacteriaceae P0.01 and Veillonellaceae P0.01 while that of Enterobacteriaceae decreased with borderline significance P0.07.One study in adult cattle reveals that Firmicutes dominate the intestinal microbiome representing 81.9 of all sequence reads followed by Proteobacteria 9.6 Bacteroidetes 5.4 and Actinobacteria 2.8 .
-
-The calves were fed mother's fresh colostrum within 12 hr after birth and after that they were fed 2 l of a commercially available milk replacement Meiji Feed Co. Ltd. Tokyo Japan twice a day during the observation period.Samples were collected from rectal feces a day after birth day 1 and 7 days after birth day 7.
-
 The intestinal microbiome in calves at 36 days of age was reported to be composed of Firmicutes 49.1 Bacteroidetes 42.3 and Proteobacteria 4.1 .
 
 The relative abundance of intestinal bacteria according to metagenomic analysis.
 
+The individual differences in the taxonomic composition of the intestinal microbiota among the calves were smaller at 7 days after birth.Seven families of bacteria rose to dominance in the microbiota of the tested samples during the first 7 days as follows families Bifidobacteriaceae and Coriobacteriaceae in phylum Actinobacteria families Lactobacillaceae Streptococcaceae and Veillonellaceae in phylum Firmicutes family Bacteroidaceae in phylum Bacteroidetes and family Enterobacteriaceae inphylum Proteobacteria Table 1.
+
 The relative abundance values of intestinal microbial taxa in newborn calvesThe data show the taxonomic levels of the detected microbes more than 1 of RA in newborn calves on day 1 and day 7.Fig.
+
+The RAs of the following bacterial families increased significantly from day 1 to day 7 Bifidobacteriaceae P0.001 Coriobacteriaceae P0.01 and Veillonellaceae P0.01 while that of Enterobacteriaceae decreased with borderline significance P0.07.One study in adult cattle reveals that Firmicutes dominate the intestinal microbiome representing 81.9 of all sequence reads followed by Proteobacteria 9.6 Bacteroidetes 5.4 and Actinobacteria 2.8 .
 
 The intestinal microbiome was characterized by an increase in the RA of Firmicutes including families such as Lactobacillaceae during the first week after birth.
 
-The RAs and colony counts in the microbiota between day 1 and day 7 after birth were calculated and significance of the differences was analyzed by Student's t-test.The sequencing generated a dataset consisting of filtered high-quality classifiable 16S rRNA gene sequences with a mean - standard error SE of 14317 - 3967 sequences per sample.The metagenomic analysis determined that several phyla were present in the microbiome.
+The period from birth to weaning is a period of great stress to young calves at this stage calves undergo the metabolic nutritional and behavioral changes required to become a functional ruminant .Recently it became possible to perform metagenomic analysis for simultaneous identification of all the taxa comprising microbial communities by calculating the number of sequence reads corresponding to each species.
 
-The RAs of Lactobacillaceae Streptococcaceae and Veillonellaceae changed from 0.14 - 0.13 0.16 - 0.07 and 0.08 - 0.04 on day 1 to 11.3 - 5.1 4.7 - 2.2 and 7.1 - 1.6 on day 7.
+The calves were born at the full term of the gestational period on the Rakuno Gakuen University Farm.
 
-The RA of Bacteroidaceae increased from 4.2 - 2.1 on day 1 to 22.2 - 4.6 on day 7 and that of Enterobacteriaceae decreasedTable 1.
+The calves were fed mother's fresh colostrum within 12 hr after birth and after that they were fed 2 l of a commercially available milk replacement Meiji Feed Co. Ltd. Tokyo Japan twice a day during the observation period.Samples were collected from rectal feces a day after birth day 1 and 7 days after birth day 7.
+
+The feces on day 1 were not meconium.
 

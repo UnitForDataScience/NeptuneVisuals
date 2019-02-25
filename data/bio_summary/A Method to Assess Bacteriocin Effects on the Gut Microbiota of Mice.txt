@@ -2,19 +2,19 @@ Mix by vortexing before pouring the cells onto a solid MRS agar plate 1.5 agar.D
 
 Mix extracted DNA with 2 volumes 200 uL of buffer NTI to adjust the binding conditions for step 5.15.Place a silica membrane containing PCR clean-up column into a collection tube 2 mL and load the sample.Centrifuge for 30 s at 11000 x g. Discard the flow-through.Wash the silica membrane with 700 uL of buffer NT3 and repeat step 5.16.Dry the silica membrane by centrifugation for 1 min at 11000 x g to remove any residual ethanol containing wash buffer NT3.Transfer the column to a new 1.5-mL microtube and incubate for 2 - 5 min at 70 degC for the total removal of the ethanol.Add 30 uL of PCR-grade water and incubate for 5 min at 70 degC.
 
-Proceed with one of the standard protocols for DNA extraction from fecal samples12.Apply two cycles of bead-beater steps 1 min each.Add 2 uL of proteinase K and mix thoroughly.Incubate for 20 min and vortex every 5 min.Cool the samples to 37 degC and add 1 uL of 5 ugmL RNase A to the sample.
-
 Grow them at 30 degC for 20 - 24 h.NOTE Strains used in this study are listed in Table 1.Harvest cells by centrifugation at 5000 x g for 20 min at 4 degC.Remove the supernatant and wash the cells twice by suspending each cell pellet in 100 mL of ice-cold phosphate-buffered saline PBS and collecting the cells as in step 1.3.After the second wash suspend each cell pellet in 20 mL of ice-cold 15 glycerol in PBS.Aliquot the cell suspension into 1-mL volumes in tubes and then store them at -80 degC until use.
+
+Proceed with one of the standard protocols for DNA extraction from fecal samples12.Apply two cycles of bead-beater steps 1 min each.Add 2 uL of proteinase K and mix thoroughly.Incubate for 20 min and vortex every 5 min.Cool the samples to 37 degC and add 1 uL of 5 ugmL RNase A to the sample.
 
 Add 300 uL of 70 ethanol to wash the DNA pellet.Centrifuge at 16000 x g for 1 min remove the supernatant and leave the pellet to dry for about 15 min.Once the pellet is dry add 100 uL of sterile water or Tris 10 mMEDTA 1 mM buffer and resuspend the pellet.To eliminate any possible inhibitory compounds during subsequent steps clean the DNA.
 
 Realpure SSS Kit.Suspend 1 - 2 fecal mice pellets 200 mg in 300 uL of lysis solution.Transfer the sample to a 2 mL microtube in which about 0.5 g of glass beads diameter 0.1 mm have previously been placed.Add 1 uL of mutanolysin at 10 UuL and 2 uL of lysozyme at 20 mgmL to each sample and incubate at 37 degC for 40 - 60 min.
 
-If there are any particles floating in the supernatant incubate the samples in ice for 5 min and then centrifuge again.Transfer the supernatant containing the DNA to a new 1.5-mL microtube containing 300 uL of isopropanol.Mix by inverting the tubes 20-30 times and incubate for 1 h at -20 degC.
-
 Incubate overnight 20 - 24 h at 30 degC for cell growth and colony formation the latter to determine colony- forming units cfumL.To make bacteria-containing drinking water dilute cells of each bacterial stock culture in 100 mL of sterile filtered drinking water with a final average cfu of 109mL of water.
 
 Acclimatize the mice to the husbandry facilities and conditions for a week before proceeding.Prepare bacteria-containing drinking water as described in step 1.8 and place drinking water bottles in the corresponding independent cages that are clearly identified so that the mice in each cage share the same water bottle.NOTE The control group must be kept in a separate cage with no contact with the tested bacteria.Prepare a new bottle with fresh drinking water 100 mL every day and add freshly defrosted bacterial suspensions.
 
-This layer is referred to as the second layer.Dry the plate by taking the lid off for 5 - 10 min in the sterile hood before incubating for 20 - 24 h at 30 degC for cell growth and colony formation.To identify bacteriocin-producing colonies mix 40 uL of an overnight culture of an appropriate indicator strain as shown in Table 1 with 4 mL of prewarmed soft agar.
+If there are any particles floating in the supernatant incubate the samples in ice for 5 min and then centrifuge again.Transfer the supernatant containing the DNA to a new 1.5-mL microtube containing 300 uL of isopropanol.Mix by inverting the tubes 20-30 times and incubate for 1 h at -20 degC.
+
+Therefore in the case of probiotic strains that produce bacteriocins it is best to establish realistic assays such as healthy animals with normal microbiota.In the present study we provide a strategy that allows for the assessment of the effect of different bacteriocin-producing strains whose bacteriocins have different inhibitory spectra on healthy mice.
 

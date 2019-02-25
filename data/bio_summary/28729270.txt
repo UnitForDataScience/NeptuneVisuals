@@ -1,20 +1,18 @@
-This work was funded by Teagasc grant 6224.REFERENCESMakarova K Slesarev A Wolf Y Sorokin A Mirkin B Koonin E Pavlov A Pavlova N Karamychev V Polouchine N Shakhova V Grigoriev I Lou Y Rohksar D Lucas S Huang K Goodstein DM Hawkins T Plengvidhya V Welker D Hughes J Goh Y Benson A Baldwin K Lee JH Diaz-Muniz I Dosti B Smeianov V Wechter W Barabote R Lorca G Altermann E Barrangou R Ganesan B Xie Y Rawsthorne H Tamir D Parker C Breidt F Broadbent J Hutkins R O'Sullivan D Steele J Unlu G Saier M Klaenham- mer T Richardson P Kozyavkin S Weimer B Mills D. 2006.
-
 PROKARYOTESDraft Genome Sequences of Three Lactobacillus paracasei Strains Members of the Nonstarter Microbiota of Mature Cheddar CheeseEwelina Stefanovicab Gerald Fitzgeraldb Olivia McAuliffeaTeagasc Food Research Centre Moorepark Fermoy Co. Cork Irelanda School of Microbiology University College Cork Cork IrelandbABSTRACT Lactobacillus paracasei strains are common members of the nonstarter microbiota present in various types of cheeses.
 
 The three Lactobacillus paracasei strains DPC2071 DPC4206 and DPC4536 analyzed in this study were isolated from mature cheddar cheeses aspart of the nonstarter LAB population.Bacterial DNA was isolated from all three strains and genomic libraries were prepared with the Nextera XT DNA library preparation kit Illumina Inc. USA.
 
-.Smokvina T Wels M Polka J Chervaux C Brisse S Boekhorst J van Hylckama Vlieg JE Siezen RJ.
-
-.Rutherford K Parkhill J Crook J Horsnell T Rice P Rajandream MA BarrellB.
-
 The GC content of all three genomes was 46.3 which corresponds to the usual GC content of L. paracasei genomes.These sequencing data will contribute to the pool of available Lactobacillus para- casei genomes and enable further comparative genome analysis of strains of this species.Volume 5 Issue 29 e00655-17 1Stefanovic et al.Accession numbers.
-
-J Mol Biol 215403- 410.
 
 The draft genome sequences of three strains isolated from mature cheddar cheeses are reported here.actic acid bacteria LAB are Gram-positive aerotolerant bacteria with a wide spec- trum of practical applications including food production biotechnology and medicine-related fields .
 
 Strains of the genus Lactobacillus have been isolated from diverse habitats such as fermented products plant materials and human and animal gastrointestinal tracts .
 
 In cheese Lactobacillus paracasei forms part of the nonstarter microbiota and is considered to have an important role in the ripening process and flavor development .
+
+Initially the RAST server was used to annotate each genome and the annotations were verified and manually curated using BLASTp  and Artemis .Sequence assemblies for the three strains indicated coverages of 88X 70X and 101X for DPC2071 DPC4206 and DPC4536 respectively.
+
+The whole-genome shotgun projects have been deposited at DDBJEMBLGenBank under the accession numbers   and  while the versions described in this paper are versions NCSN01000000 NCSO01000000 and NCSP01000000 for strains DPC2071 DPC4206and DPC4536 respectively.ACKNOWLEDGMENTSE.
+
+Lactobacillus paracasei comparative genomics towards species pan-genome definition and exploitation of diversity.
 

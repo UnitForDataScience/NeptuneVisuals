@@ -4,10 +4,6 @@ However the data subjected to a multivariate analysis including principal compon
 
 Any component of the daily diet and additional food have the potential of developing a preprobiotic effect thus emphasizing the need of a precise evaluation method to determine the impact of food on the intestinal microbiota this information can be utilized to regulate the intestinal microbiota by controlling the daily diet preprobiotics meal frequency and time of food intake -.Many researchers have attempted to clarify effect of microbiota to host responses using mice because the results obtained from such studies could be applied to humans .
 
-The representative factors were clustered in the functional network module of the following network analysis Figure c Figures S8c and S9c.
-
-We chose Random Forest which is a machine learning tool superior to classification by decision tree to identify important factors associated with the impact of food such as age and geography on intestinal microbiota composition and applied these important factors to the network community of heterogeneous measurement data Figure  -.
-
 In this study we proposed a novel method that is useful to explore a new valuable food to improve the health of the host as preprobiotics.Keywords gut ecosystem food intake metabolic response machine learning network analysisIntroductionThe gastrointestinal tract has a wide variety of functions mainly in food digestion and nutrient absorption as well as in the development of systemic immunity regulation of behavior and targeting of drug delivery -.
 
 Although many researchers have attempted to determine the factors that impact the intestinal microbiota including antibiotics preprobiotics and food intake the data obtained from the microbiota analysis are affected by daily diet stress environment and individual characteristics including gene-based factors -.
@@ -17,4 +13,8 @@ Date Y. Nakanishi Y. Fukuda S. Nuijima Y. Kato T. Umehara M. Ohno H. Kikuchi J.
 Chikayama E. Sekiyama Y. Okamoto M. Nakanishi Y. Tsuboi Y. Akiyama K. Saito K. Shinozaki K. Kikuchi J.
 
 Kikuchi J. Tsuboi Y. Komatsu K. Gomi M. Chikayama E. Date Y. SpinCouple Development of a Web Tool for Analyzing Metabolite Mixtures via Two-Dimensional J-Resolved NMR Database.
+
+The representative factors were clustered in the functional network module of the following network analysis Figure c Figures S8c and S9c.
+
+We chose Random Forest which is a machine learning tool superior to classification by decision tree to identify important factors associated with the impact of food such as age and geography on intestinal microbiota composition and applied these important factors to the network community of heterogeneous measurement data Figure  -.
 

@@ -1,20 +1,20 @@
-Infect Immun 643893-3896.Kuroda M Yamashita A Hirakawa H Kumano M Morikawa K Higashide M Maruyama A Inose Y Matoba K Toh H Kuhara S Hattori M Ohta T. 2005.
-
-.Bendall ML Stevens SL Chan LK Malfatti S Schwientek P Tremblay J Schackwitz W Martin J Pati A Bushnell B Froula J Kang D Tringe SG Bertilsson S Moran MA Shade A Newton RJ McMahon KD Malmstrom RR.
-
-.Ronald AR Nicolle LE Stamm E Krieger J Warren J Schaeffer A Naber KG Hooton TM Johnson J Chambers S Andriole V. 2001.
-
 Gene gains via recombination have also allowed Staphylococcus aureus ST71 to emerge into a bovine-associated niche .Using contemporary and ancient genomic data from strains of S. saprophyticus we found previously that UTI-associated lineages of S. saprophyticus were not associated with specific gene gains or losses the evolutionary genetic processes underlying the adoption by S. saprophyticus of the human-pathogenic niche are likely more subtle than those previously described for canonical pathogens .
-
-.Devault AM Mortimer TD Kitchen A Kiesewetter H Enk JM Golding GB Southon J Kuch M Duggan AT Aylward W Gardner SN Allen JE King AM Wright G Kuroda M Kato K Briggs DE Fornaciari G Holmes EC Poinar HN Pepperell CS.
-
-.He M Sebaihia M Lawley TD Stabler RA Dawson LF Martin MJ Holt KE Seth-Smith HMB Quail MA Rance R Brooks K Churcher C Harris D Bentley SD Burrows C Clark L Corton C Murray V Rose G Thurston S van Tonder A Walker D Wren BW Dougan G Parkhill J.
-
-.Lebreton F van Schaik W McGuire AM Godfrey P Griggs A Mazumdar V Corander J Cheng L Saif S Young S Zeng Q Wortman J Birren B Willems RJL Earl AM Gilmore MS. 2013.
-
-.Chen SL Hung CS Xu J Reigstad CS Magrini V Sabo A Blasiar D Bieri T Meyer RR Ozersky P Armstrong JR Fulton RS Latreille JP Spieth J Hooton TM Mardis ER Hultgren SJ Gordon JI.
 
 The placement of the 800-year- old strain between bovine-associated and human-associated lineages suggests that it could represent a generalist intermediate between human-adapted and bovid-adapted strains.Core genome analysis of the 58 isolates of S. saprophyticus in our sample showedFIG 2 Recombination in S. saprophyticus.
 
 The roles of adhesins and other virulence factors in the colonization by S. sapro- phyticus of niches in livestock and the environment are also interesting topics for further study.Our demographic analysis of the uropathogenic lineage of S. saprophyticus showed evidence of a population bottleneck and subsequent expansion.
+
+We therefore used a sliding window analysis of diversity along the S. saprophyticus alignment as an initial screen for positive selection.
+
+We did not identify any genes that were significantly associated with the human- pathogenic niche after correction for multiple-hypothesis testing using the Bonferroni method.In addition to the observed gene content variability analyses of the core genome also indicated relatively frequent recombination among S. saprophyticus isolates .
+
+We used an SFS-based method to reconstruct the demographic history of S. saprophyticus the accuracy of demo- graphic inference using these methods has been shown to be unaffected by within- population recombination  and this was confirmed in our analyses of simulated data.
+
+We used SFSCODE  to simulate positive selection with a range of recombination rates and to evaluate its effects on the accuracy of demographic inference with aaai.
+
+The best-fitting model was an instantaneous contraction followed by an instantaneous expansion in which the population underwent a tight bottleneck followed by a 15-fold expansion without recovering to its ancestral anc size v NeNanc T number of generationsNanc vA 2.9 X 10-2 vB 4.5 X 10-1 TA 1.2 X 10-1TB 3.1 X 10-3.Recombination and positive selection are known to confound the inference ofFIG 8 Effects of internal and external recombination on Tajima's D values.
+
+We observed regional patterns in the amount of recombination inferred and as expected recombination appears to be frequent at mobile elements such as the staphylococcal cassette chro- mosomes SCC15305RM and SCC15305cap and vSs15305 .Adaptation to a new environment may be facilitated by advantageous mutations that quickly rise in frequency leaving a characteristic genomic imprint reduced diver- sity at the target locus and nearby linked loci i.e.
+
+saprophyticus to the uropathogenic niche may have been driven by selection for one or more mutations that were advantageous in the new environment and that levels of recombination have been sufficient to preserve the signature of a selective sweep at loci under positive selection.
 

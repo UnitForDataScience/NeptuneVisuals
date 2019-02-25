@@ -1,20 +1,20 @@
-For a fourth species Heisteria applying antibiotics and K together decreased leaf production unless N and K were applied togetherTable 4 Pearson correlation coefficient r for correlations between the discriminant function scores of significant nutrient effects compared to the original variables species in MANOVAs of antibiotic and control differencesMetricNutrientAlseisDesmopsisHeisteriaSoroceaTetragastrisProductionK0.93-0.01-0.320.310.36ProductionN 9 P0.150.860.04-0.46 0.02ProductionN 9 K0.47-0.26-0.520.570.78 HerbivoryN 9 KNA0.500.840.59-0.25Significant r correlations indicate nutrient 9 species 9 antibiotic interactions for the corresponding leaf metric and nutrient addition N nitrogen P phos- phorus K potassium.
-
-Specifically potassium K was a key resource in regulating leaf production K and N 9 K interac- tions nitrogen N was key for leaf retention N and N 9 P interactions and phosphorus P was key for regulating herbi- vore damage P and N 9 P interactions Tables 1 2 Figs 1-3.
-
-N addition alone decreased leaf retention for all four species sig- nificant for three or four but this decrease disappeared or was even reversed Desmopsis when N and P were added together N 9 P interactions Tables 1 2 Fig.
-
-All panels illustrate significant effects of antibiotics and N 9 K on leaf production rates significant antibiotics 9 N 9 K interaction F520  4.45 P  0.0069. a c d For Alseis Sorocea and Tetragastris applying antibiotics increased leaf production when K was added however antibiotics had no effect on leaf production when K and N were added together Alseis P  0.0064 Sorocea P  0.0006 Tetragastris P  0.0001. b For Heisteria applying antibiotics decreased leaf production when K was added however antibiotics had no effect on leaf production when K and N were added together P  0.0022.
-
 We tested the fol- lowing hypotheses within a tropical forest in Panama the degree to which soil nutrients mediate leaf dynamics production reten- tion and enemy damage varies substantially among co-occurringtree species the degree to which foliar bacteria mediate leaf dynamics varies substantially among tree species and interactions among soil nutrients and foliar bacteria will be frequent thereby mediating leaf dynamics among co-occurring host plant species.
+
+For a fourth species Heisteria applying antibiotics and K together decreased leaf production unless N and K were applied togetherTable 4 Pearson correlation coefficient r for correlations between the discriminant function scores of significant nutrient effects compared to the original variables species in MANOVAs of antibiotic and control differencesMetricNutrientAlseisDesmopsisHeisteriaSoroceaTetragastrisProductionK0.93-0.01-0.320.310.36ProductionN 9 P0.150.860.04-0.46 0.02ProductionN 9 K0.47-0.26-0.520.570.78 HerbivoryN 9 KNA0.500.840.59-0.25Significant r correlations indicate nutrient 9 species 9 antibiotic interactions for the corresponding leaf metric and nutrient addition N nitrogen P phos- phorus K potassium.
 
 Thus when any single species increases in abundance its per cap- ita growth rate slows relative to growth rates of other species which aids in species coexistence Chesson 2000.
 
 We applied 125 kg N ha-1 yr-1 as urea 50 kg P ha-1 yr-1 as triple super-phosphate and 50 kg K ha-1 yr-1 as KCl.Study speciesWe selected five common and relatively shade tolerant woody species from five different families these species vary in life his- tory traits and spanned a wide range of maximum adult heights.
 
+Hereafter we refer to each species by genus or by four- letter abbreviations in figures ALBL Alseis DEPA Desmopsis HECO Heisteria SOAF Sorocea TEPA Tetragastris.Antibiotic applicationsWithin the inner 30 9 30 m of each fertilization plot we ran- domly assigned three c. 20-30 cm tall seedlings of each species for antibiotic treatment and another three for control treatment sterile water n  941 seedlings.
+
 We chose to use MANOVAs because all five species were nested within the N P and K treatments and MANOVAs allowed us to avoid pseudo- factorialism by adjusting for correlated response variables among species Morrison 1976 Morin 1983 Winer et al.
+
+L for leaf produc- tion for species i wasL diTh14 L di controlThBecause all five species were nested within treatment plots and nonindependent our response vectors for each metric e.g.
 
 We used SAS 9.4 SAS Institute Cary NC USA to run MANOVAs.ResultsAntibiotic efficacyWe previously demonstrated that Agry-gent and Agri-mycin sig- nificantly decreased mean abundance of epiphytic andTable 2 Pearson correlation coefficient values r for correlations between the discriminant function scores of significant nutrient effects compared to the original variables species in MANOVAs for control seedlings treated with sterile waterMetricNutrientAlseisDesmopsisHeisteriaSoroceaTetragastrisProductionK0.84-0.61-0.0520.28 0.08ProductionN 9 K0.73-0.62-0.500.23 0.33Significant r correlations indicate a nutrient 9 species interaction for the corresponding leaf metric and corresponding nutrient addition N nitrogen P phosphorus K potassium.
 
 It is important to note that c. 10 seedlings died during the entirety of the experiment and mortality did not differ among tree species or nutrient or antibiotic applications.The impacts of macronutrients on leaf dynamics separate from the effects of antibioticsLeaf production For three species N and K interacted to cause increases or decreases in leaf production by 55-88 Tables 1 2 Fig.
+
+For example for our five species antibiotic applications changed the rank-order performance for two of five species for leaf-production and0.030.020.010.00-0.01-0.020.030.020.010.00-0.01-0.020.030.020.010.00-0.01-0.02Treatmenttwo key underlying mechanisms for seedling growth.
 

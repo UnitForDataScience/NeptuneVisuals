@@ -1,9 +1,5 @@
 In order to introduce Gaussian interaction profilekernel similarity for microbes and diseases into the computation model we further integrated microbe similarity matrix KM diseaseth KM  A  KDth A  KD Thsimilarity matrix KD and adjacency matrix A as follow KMA Integrating symptom-based disease similarityIn the model of KATZHMDA Gaussian kernel-based similarity isA 14AT KD5used to measure the similarities of microbes and diseases based on their interaction profiles providing an extensible prediction frame-In this way a new integrated matrix A could be obtained and used for further microbe-disease association prediction which allows KATZHMDA to be applied to new microbes and diseases with no known associations if we could obtain the further similarity information without rely on known microbe-disease network top- ology information.
 
-In this way final prediction result matrix could be represented by matrix A KD and KM.Sk142 14 b  A th b2  dKM  A th A  KDTh9Sk143 14 Sk142 th b3  A  AT  A th KM2  A th KM  A  KD th A  KD210Fig.
-
-Flowchart of KATZHMDA based on known microbe-disease associ- ation network Color version of this figure is available at Bioinformatics online.Sk144 14 Sk143 th b4  dKM3  A th A  AT  KM  Ath KM  A  A  A th A  KD  A  ATh11lth bdA  AA  KD th KMA  KDcalculating A ij.
-
 The prediction results fully demonstrated that the model of KATZHMDA is feasible and effective for predicting large-scale mi-Here cd denotes the normalized kernel bandwidth based on the new bandwidth parameter c0d nd denotes the number of diseases Entity KDij denotes the Gaussian interaction profile kernel simi- larity between disease di and dj.3.2 Gaussian interaction profile kernel similarity for diseasesDisease Gaussian interaction profile kernel similarity matrix was constructed based on the assumption that similar diseases would have similar interaction and non-interaction pattern with microbes in the known microbe-disease interaction network.
 
 Here heterogeneous network consists of microbe similarity network based on microbe Gaussian interaction profile kernel similarity disease similarity network based on disease Gaussian interaction profile kernel similarity and known microbe- disease association network constructed based on recorded associ- ations from HMDAD database.KATHMDA first calculates the number of walks between mi- crobe nodes say mi and disease nodes say dj in the known mi- crobe-disease association network.
@@ -14,7 +10,11 @@ Motivated by previous works  a logistics function was then implemented to regula
 
 We here introduce the symptom-based disease similarity SDM into KATZHMDA model and evaluate the prediction performance of the combined model in the evaluation frameworks of LOOCV and 5-fold cross validation.
 
-After removing the same microbe-disease as- sociations from different evidences we obtained 450 distinct associ- ations which further constructed an adjacency matrix A of size 292 x 39 as the information source.Methods3.1 Gaussian interaction profile kernel similarity for microbesBased on the assumption that functionally similar microbes share the similar interaction and non-interaction pattern with diseases the Gaussian interaction profile kernel similarity for microbes was con- structed from known microbe-disease association network  .
-
 However little efforts have been attempted to understand and predict human microbe-disease associations on a large scale until now.Results In this work we constructed a microbe-human disease association network and further de- veloped a novel computational model of KATZ measure for Human Microbe-Disease Association prediction KATZHMDA based on the assumption that functionally similar microbes tend to have similar interaction and non-interaction patterns with noninfectious diseases and vice versa.
+
+To utilize the wealth of microbe-disease association data collected from previously published experimental reports in this article we proposed the first computational model for predict- ing microbe-disease associations KATZHMDA by integrating known microbe-disease associations and Gaussian interaction pro- file kernel similarity for microbes and diseases.
+
+As a result when com- bined with symptom-based disease similarity the KATZHMDA model obtained an increased prediction performance with AUCs ofTable 2.
+
+Since the known microbe-disease association network depicted by HMDAD database is sparse only 483 recorded microbe-disease as- sociations including 39 human diseases and 292 microbes walks with longer lengths may be meaningless and disturb the prediction of KATZHMDA.
 

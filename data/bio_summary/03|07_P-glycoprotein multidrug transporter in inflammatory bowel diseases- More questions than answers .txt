@@ -1,8 +1,4 @@
-World J Gastroenterol 2015 21 10025-10040 PMID 26379408 DOI 10.3748wjg.v21.i34.10025Wang J Guo X Yu S Zhang J Song J Ji M Cao Z Wang J Liu Y Dong W. MDR1 C3435T polymorphism and inflammatory bowel disease risk a meta-analysis.
-
 In addition p-gp may also be involved in the transmem- brane transport of pro-inflammatory cytokines such as interleukin IL-2 and interferon-gamma IFN-g9 however it remains to be shown how cytokine release could be directly regulated by p-gp signaling.DIFFeReNTIaL ReGULaTION OFeXPRessIONThe basal expression pattern of p-gp shows high inter- and also intraindividual variability along the GI tract with a general increase from proximal to distal parts10.
-
-Scand J Gastroenterol 2006 41 1174-1182 PMID 16990202 DOI 10.108000365520600575746Fischer S Lakatos PL Lakatos L Kovacs A Molnar T Altorjay I Papp M Szilvasi A Tulassay Z Osztovits J Papp J Demeter P Schwab R Tordai A Andrikovics H. ATP-binding cassette transporter ABCG2 BCRP and ABCB1 MDR1 variants are not associated with disease susceptibility disease phenotype response to medical therapy or need for surgeryin Hungarian patients with inflammatory bowel diseases.
 
 In humans the drug transporter p-gp is encoded by the ABCB1MDR1 gene located on chromosome 7q21 while in rodents p-gp is encoded by two genes Abcb1aMdr1a and Abcb1bMdr1b.
 
@@ -17,4 +13,8 @@ What commensal community if any is responsible for driving murine colitis in the
 Novel large-scale approaches including in-silico and complex computational tools79 are now needed to provide in-depth elucidation of the possible path- ways through which the gut microbiota may modify xenobiotics and vice versa as well as their combined metabolic effects via ABCB1MDR1 p-gp and other transporters on host immunity and functions in IBDpathogenesis.The potential therapeutic value of ABCB1MDR1 p-gp as a molecular target requires further clarifica- tion in IBD.
 
 Future research will need to look at different thera- peutic approaches either to activate underactive p-gp in order to attenuate acute inflammation or to inactivate overactive p-gp in order to overcome therapy resistance.ReFeReNCesLangmann T Moehle C Mauerer R Scharl M Liebisch G Zahn A Stremmel W Schmitz G. Loss of detoxification in inflammatory bowel disease dysregulation of pregnane X receptor target genes.
+
+The multidrug transporter ABCB1 MDR1 p-glycoprotein p-gp plays a key role at the front line of host defence by efficiently protecting the gastrointestinal barrier from xenobiotic accumulation.
+
+This Editorial discusses how altered expression and function of ABCB1MDR1 p-gp may contribute to the development and persistence of chronic intestinal inflammation in inflammatory bowel diseases IBD.
 

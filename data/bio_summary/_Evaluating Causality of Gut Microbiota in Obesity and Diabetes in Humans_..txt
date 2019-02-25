@@ -1,20 +1,20 @@
-201491e84689.Qin J Li R Raes J Arumugam M Burgdorf KS Manichanh C Nielsen T Pons N Levenez F Yamada T Mende DR Li J Xu J Li S Li D Cao J Wang B Liang H Zheng H Xie Y Tap J Lepage P Bertalan M Batto JM Hansen T Le Paslier D Linneberg A Nielsen HB Pelletier E Renault P Sicheritz-Ponten T Turner K Zhu H Yu C Li S Jian M Zhou Y Li Y Zhang X Li S Qin N Yang H Wang J Brunak S Dore' J Guarner F Kristiansen K Pedersen O Parkhill J Weissenbach J Bork P Ehrlich SD Wang J MetaHIT Consortium.
-
-200644471221027-1031.Qin J Li Y Cai Z Li S Zhu J Zhang F Liang S Zhang W Guan Y Shen D Peng Y Zhang D Jie Z Wu W Qin Y Xue W Li J Han L Lu D Wu P Dai Y Sun X Li Z Tang A Zhong S Li X Chen W Xu R Wang M Feng Q Gong M Yu J Zhang Y Zhang M Hansen T Sanchez G Raes J Falony G Okuda S Almeida M LeChatelier E Renault P Pons N Batto JM Zhang Z Chen H Yang R Zheng W Li S Yang H Wang J Ehrlich SD Nielsen R Pedersen O Kristiansen K Wang J.
-
-201659759-770.Le Chatelier E Nielsen T Qin J Prifti E Hildebrand F Falony G Almeida M Arumugam M Batto JM Kennedy S Leonard P Li J Burgdorf K Grarup N Jorgensen T Brandslund I Nielsen HB Juncker AS Bertalan M Levenez F Pons N Rasmussen S Sunagawa S Tap J Tims S Zoetendal EG Brunak S Cle'ment K Dore' J Kleerebezem M Kristiansen K Renault P Sicheritz-Ponten T de Vos WM Zucker JD Raes J Hansen T Bork P Wang J Ehrlich SD Pedersen O MetaHIT consortium.
-
-2013 498745299-103.Forslund K Hildebrand F Nielsen T Falony G Le Chatelier E Sunagawa S Prifti E Vieira-Silva S Gudmundsdottir V Pedersen HK Arumugam M Kristiansen K Voigt AY Vestergaard H Hercog R Costea PI Kultima JR Li J Jorgensen T Levenez F Dore J Nielsen HB Brunak S Raes J Hansen T Wang J Ehrlich SD Bork P Pedersen O MetaHIT con- sortium.
-
-201573259-274.Amar J Serino M Lange C Chabo C Iacovoni J Mondot S Lepage P Klopp C Mariette J Bouchez O Perez L Courtney M Marre M Klopp P Lantieri O Dore' J Charles M Balkau B Burcelin R D.E.S.I.R.
-
 The ability to genetically modify mice provides valuable mechanistic insight in how the gut microbiota affects host metabolism and augments metabolic disease development.Studies in GF mice which lack microbiota pro- vided first important evidence that the gut microbiota potentially plays a causal role in development of obesity and -related diseases.
 
-201182110-120.doi 149 REVIEWDao MC Everard A Aron-Wisnewsky J Sokolovska N Prifti E Verger EO Kayser BD Levenez F Chilloux J Hoyles L Dumas ME Rizkalla SW Dore' J Cani PD Cle'ment K MICRO-Obes Consortium.
-
-2011342392-397.Lassenius MI Pietilainen KH Kaartinen K Pussinen PJ Syrjanen J Forsblom C Porsti I Rissanen A Kaprio J Mustonen J Groop PH Lehto M FinnDiane Study Group.
-
-2010302 196-203.Livanos AE Greiner TU Vangay P Pathmasiri W Stewart D McRitchie S Li H Chung J Sohn J Kim S Gao Z Barber C Kim J Ng S Rogers AB Sumner S Zhang XS Cadwell K Knights D Alekseyenko A Backhed F Blaser MJ.
-
 Furthermore we will discuss means to modify gut microbiome composition in humans to help establish causality and discuss systems biology approaches that might hold the key to unravel the role of gut microbiota in obesity and diabetes.Factors Shaping the Gut MicrobiotaThe human gut microbiota is a complex ecosystem consisting of an estimated bacteria .
+
+Children born through Caesarean section on the other hand have a gut microbiota composition that resembles the skin microbiota composition of the mother's .
+
+In addition to interindividual changes in microbiota composition functional analysis of the gut microbiota of children and adults indicated age-related differences in the abundance of genes in- volved in amino acid metabolism lipopolysaccharide LPS biosynthesis RNA degradation and steroid hormone biosynthesis .
+
+Thus when assessing microbiota composition in TDM subjects it is of critical importance to correct for metformin use.Proton pump inhibitors are frequently used oralantiacid medication that have also been implicated to modulate gut microbiota composition .
+
+We will discuss in the next paragraphs available evidence that implicate a role for the gut microbiota in development of metabolic dis- eases such as obesity and diabetes in humans.136Meijnikman et alGut Microbiota and Human Metabolic DiseaseEndocrine Reviews April 2018 392133-153 REVIEWGut Microbiome Composition and T2DM Development in Humans Why It Is Challenging to Determine Causality in HumansInterest in the role of the gut microbiota in development of metabolic disturbances such as obesity and TDM in humans has risen substantially over the past decade.
+
+Often times it cannot be con- cluded if gut microbiota composition was affected prior to disease development causal or whether the microbiota composition is a reflection consequence of the disease itself.
+
+A follow-up study in which fecal microbiota was transplanted from conventionally raised obese mice to GF mice further accelerated establishment of a causal role for the gut microbiota in development of obesity .
+
+It can therefore be speculated that despite increased SCFA production the gut microbiota of obese subjects has reduced capacity to handle SCFA.140Meijnikman et alGut Microbiota and Human Metabolic DiseaseEndocrine Reviews April 2018 392133-153 REVIEWIn contrast to obese subjects without diabetes fecal microbiota from obese patients with TDM has been shown to be relatively depleted in SCFA-producing bacterial species  .
+
+In support of this hypothesis microbiota of murine RYGB donors augmented weight gain in GF recipients compared with GF mice that had received microbiota from sham-operated donors .
 

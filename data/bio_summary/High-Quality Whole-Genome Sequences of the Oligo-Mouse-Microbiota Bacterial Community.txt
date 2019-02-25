@@ -1,20 +1,14 @@
-The funders had no role in study design data collection and interpretation or the decision to submit the work for publication.REFERENCESBrugiroux S Beutler M Pfann C Garzetti D Ruscheweyh HJ Ring D Diehl M Herp S Lotscher Y Hussain S Bunk B Pukall R Huson DH Munch PC McHardy AC McCoy KD Macpherson AJ Loy A Clavel T Berry D StecherB.
-
-.Aziz RK Bartels D Best AA DeJongh M Disz T Edwards RA Formsma K Gerdes S Glass EM Kubal M Meyer F Olsen GJ Olson R Osterman AL Overbeek RA McNeil LK Paarmann D Paczian T Parrello B Pusch GD Reich C Stevens R Vassieva O Vonstein V Wilke A Zagnitko O.
-
-.Lagkouvardos I Pukall R Abt B Foesel BU Meier-Kolthoff JP Kumar N Bresciani A Martinez I Just S Ziegler C Brugiroux S Garzetti D Wenning M Bui TP Wang J Hugenholtz F Plugge CM Peterson DA Hornef MW Baines JF Smidt H Walter J Kristiansen K Nielsen HB Haller D Over- mann J Stecher B Clavel T. 2016.
-
-.Li H Limenitakis JP Fuhrer T Geuking MB Lawson MA Wyss M Brugir- oux S Keller I Macpherson JA Rupp S Stolp B Stein JV Stecher B Sauer U McCoy KD Macpherson AJ.
-
 We pres- ent here the high-quality whole genome sequences of the Oligo-MM12 strains which were obtained by combining the accuracy of the Illumina platforms with the long reads of the PacBio technology.n a recent study we described a defined intestinal community of 12 murine strains termed Oligo-Mouse-Microbiota Oligo-MM12 which permanently colonize gnotobi- otic mice over several generations and provide colonization resistance against Salmo- nella enterica serovar Typhimurium .
 
 In future studies genetic variation genome evo-Volume 5 Issue 42 e00758-17 1Garzetti et al.TABLE 1 Assembly information and accession numbers of the Oligo-MM12 genomeslution and functional genomics among other research applications of the Oligo-MM12 community can be assessed by high-quality analyses.Accession numbers.
 
-.Uchimura Y Wyss M Brugiroux S Limenitakis JP Stecher B McCoy KD Macpherson AJ.
-
-.Studer N Desharnais L Beutler M Brugiroux S Terrazos MA Menin L Schurch CM McCoy KD Kuehne SA Minton NP Stecher B Bernier- Latmani R Hapfelmeier S. 2016.
-
-.Bankevich A Nurk S Antipov D Gurevich AA Dvorkin M Kulikov AS Lesin VM Nikolenko SI Pham S Prjibelski AD Pyshkin AV Sirotkin AV Vyahhi N Tesler G Alekseyev MA Pevzner PA. 2012.
-
 PROKARYOTESHigh-Quality Whole-Genome Sequences of the Oligo-Mouse-Microbiota Bacterial CommunityDebora Garzettiab Sandrine Brugirouxa Boyke Bunkc Rudiger Pukallc Kathy D. McCoyd Andrew J. Macphersond Barbel StecherabMax von Pettenkofer Institute of Hygiene and Medical Microbiology Ludwig-Maximilians-University of Munich Munich Germanya German Center for Infection Research DZIF Partner Site Munich Munich Germanyb Leibniz Institute DSMZ-German Collection of Microorganisms and Cell Cultures Braunschweig Germanyc Maurice Muller Laboratories Department of Clinical Research DKF UVCM University Hospital Bern SwitzerlanddABSTRACT The Oligo-Mouse-Microbiota Oligo-MM12 is a community of 12 mouse intestinal bacteria to be used for microbiome research in gnotobiotic mice.
+
+Since the Oligo-MM12 strains are being used by an increasing number of research groups   the multitude of genome sequences precludes the possibility of a meaningful exchange of data within the scientific community.
+
+Thus there is a strong need for availability and constantupdate of the Oligo-MM12 reference genomes.It is well recognized that sequences from the Illumina platforms have low error rates with systematic errors being mainly situated at the end of the reads but are too short for an efficient complete genome assembly .
+
+Aiming to create a set of reference genomes in this study we present the high-quality genome sequences of the Oligo-MM12 bacteria which were assembled by a hybrid approach combining Illumina and PacBio sequences .As previously described  the complete genome sequence of Acutalibacter muris KB18 was obtained on the PacBio RSII platform and assembled using the RSHGAP Assembly.3 protocol default parameters.
+
+The assembled whole-genome sequences of the Oligo-MM12 strains have been deposited in DDBJENAGenBank under the accession numbers given in .ACKNOWLEDGMENTSWe thank Cathrin Sproer Nicole Heyer and Simone Severitt for sequencing of the KB18 PacBio genome.This work was supported by the German Center for Infection Research DZIF the Center for Gastrointestinal Microbiome Research CEGIMIR and the German Research Foundation DFG.
 

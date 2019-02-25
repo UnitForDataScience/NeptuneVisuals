@@ -1,5 +1,3 @@
-In the ileum the C. perfringens The a diversity of cecal samples.Main effectsP-valuechallenge tended to increase the lactate concentration P  0.061 and decreased the concen- trations of formate P  0.05 acetate P  0.05 and propionate P  0.05 whereas L. aci- dophilus addition to the diet increased the concentration of lactate P  0.05 and butyrate and decreased the concentrations of formate P  0.05 and propionate P  0.05.
-
 Our results showed that the ileal concentrations of lactate and butyric acid and cecal concentrations of lactate and valerate increased with the L. acidophilus supplementation and consequently alleviated the damage caused by C. perfringens infection and restored the disrupted gut microbiota.ConclusionWe found that dietary supplementation with probiotic L. acidophilus increases the relative abundance of beneficial bacteria and decreases the relative abundance of pathogens in the intestine of broilers challenged by C. perfringens infection.
 
 Here L. acidophilus supplementation of the diet decreased the ileal Shannon index namely decreased the a- Lactate and SCFA concentrations in the cecum.Main effectsP valuediversity of the ileal microbiota this result can be explained as follows L. acidophilus dietary supplementation made L. acidophilus the dominant bacterium in the ileum.Our results on b-diversity revealed that the ileal microbial communities of four treatment groups were not separated clearly this finding impliesthat chickens shared a core set of bacte- rial taxa in the ileum regardless of treatments.
@@ -8,13 +6,15 @@ In conclusion C. perfringens infection andor dietary supplementation with L. aci
 
 In the present study we used high-throughput sequencing of the V3-V4 region of the 16S rRNA gene to monitor the ileal and cecal microbiota of individual unchallenged or challenged broiler chickens fed a diet without or with L. acidophilus supple- mentation in a battery cage trial.In our previous study impaired growth performance of broilers increased mortality and intestinal lesion scores after a C. perfringens challenge indicated that an experimental NE model was successfully established and the dietary supplementation with L. acidophilus improved the growth performance and intestinal health of broilers manuscript under review.
 
-L. acidophilus supplementation significantly increased the concentration of lactate P  0.05 and valerateP  0.05.The correlation analyses indicated that the relative abundance of the ileal Lactobacillus genus positively correlated with ileal lactate production R  0.728 P  0.001 whereas relative abundance of the Propionibacterium genus in the ileum of broiler chickens correlated with cecal valerate concentration negatively R  -0.443 P  0.05.DiscussionThe gut microbiota is of great importance to host health and production.
+All the birds were weighed and randomly assigned to four treatments Control group CTL L. acidophilus supplementa- tiongroup LA Challenge group CLG and Challenge group supplemented with L. acidophi- lus LACLG with seven replicates per treatment.
+
+CTL control group LA L. acidophilus supplementation group CLG Challenge group LACLG challenge group supplemented with L. acidophilus.compared among the four treatment groups by PCA.
+
+This is an open access article distributed under the terms of the  which permits unrestricted use distribution and reproduction in any medium provided the original author and source are credited.Data Availability Statement All sequence files areanalyzed for the effects of the probiotic groups without or with L. acidophilus supplementa- tion pathogen challenge groups without or with C. perfringens and the effects of interac- tion.
+
+We also measured the concentrations of lactate and short- chain fatty acids SCFAs in the ileum and cecum.MethodsBirds diet and experimental designThe experiment was approved by the China Agricultural University Animal Care and Use Committee.A total of 308 1-day-old male Arbor acres broilers were obtained from a local commercial hatchery and used in a 2 x 2 factorial arrangement of treatments to study the effects of a probi- otic groups without or with L. acidophilus supplementation a pathogen challenge groups without or with C. perfringensinfection and their interactive effects.
 
 L. acidophilus addition to the diet decreased the ileal Shannon index P  0.05 irrespective of the C. perfringens challenge.
 
-By contrast the Simpson index was not affected either by the challenge P  0.05 or by L. acidophilus supplementation P  0.05.
-
-The C. perfringens challenge decreased the number of observed species P  0.05 Chao 1 P  0.05 and ACE P  0.05 in the ileum.
-
-The number of observed species and Shannon and Simpson indices of the CTL group were the lowest among the four groups P  0.05 and the C. perfringens challenge decreased the Chao1 index of the cecal bac- terial community P  0.05.
+Our current results indicate that the C. perfringens challenge and L. acidophilus supplementa- tion modified the proportion of specific OTUs and these changes were associated with ileal lac- tate production.In general a more diverse microbial community shows stronger homeostasis of the intesti- nal microbial community and resistance to pathogens .
 

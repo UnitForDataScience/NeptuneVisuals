@@ -6,8 +6,6 @@ The absence RNA fractions or presence DNA fractions of DNA in the extracts was v
 
 This process was implemented using the pipeline PANAM Phylogenetic Anal- ysis of Next-generation AMplicons and is described in more detail in .The resulting OTUs were subjected to additional conservative filtering intended to remove potential sequencing artefacts OTUs represented by less than 3 reads contaminants OTUs detected in the control samples and phantom OTUs OTUs detected in RNA and not in the DNA fraction of the corresponding sample totals of 761 729 and 140 645 reads and 48 202 and 37 504 reads remained in the DNA and RNA fractions for prokaryotes and eukaryotes respectively.
 
-Such high richness are uncommon and in general rather reported in Eukaryotic total DNA fraction and active RNA fraction community composition in the cloud water samplesat the kingdom level A and relative distributions of Fungal classes B.soils e.g.
-
 Here microbial communities in cloud water collected at puy de Dome Mountain's meteoro- logical station 1465 m altitude France were fixed upon sampling and examined by high- throughput sequencing from DNA and RNA extracts so as to identify active species among community members.
 
 The samples were globally less distinct in their RNA fraction than they were in their DNA fraction .
@@ -17,4 +15,6 @@ Twenty-four hours backward tra- jectory plots of the air masses sampled were com
 Prokaryotes including Bacteria and Archaea contributed 6.6 millions reads in DNA and 1.5 million reads in RNA abbreviated into 16SDNA and 16SRNA respectively and eukaryotes 2.5 millions reads in DNA and 1.1 million reads in RNA 18SDNA and 18SRNA respectively.
 
 In all samples the community was largely dominated by 4 bacterial phyla which represented 75 to 79 of the reads in DNA datasets and 85 to 88 in RNA  Proteobacteria 28 to 51 of the DNA reads in particular the Gamma- 6-21 Alpha- 2-21 and Beta- 3-12 classes Bacteroidetes 5-30 Firmicutes 5-18 and Actinobacteria 6-13.
+
+Ascomycota were previously reported dominant in the active fraction of airborne fungi  and in Basidiomycota Sporodiobolales includes yeasts frequently isolated from cloud water samples at the same site Rhodotorula and Sporobolo- myces  However if RNADNA ratio gives hints about potentially active eukaryotes ribo- some gene number is intrinsically more variable than it is in prokaryotes  so estimating their actual relative activity in cloud water will necessitate more investigations.Our investigations revealed an incredible richness in the atmosphere originating from a variety of different sources and meeting in clouds.
 

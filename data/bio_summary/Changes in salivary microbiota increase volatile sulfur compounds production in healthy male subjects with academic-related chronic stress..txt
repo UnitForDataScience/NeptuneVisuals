@@ -4,8 +4,6 @@ The in vitro experiment demonstrated that S. moorei increased H2S production by 
 
 The protocol was performed according to the manufacturer's instructions with minor modification of the lysis time Proteinase K and PurelinkTM Genomic LysisBinding Buffer step which was changed to 2 h. The final elution was made using 25 mL of elution buffer.
 
-2007 8610997-1000.PMIDSuarez F Springfield J Furne J Levitt M. Differentiation of mouth versus gut as site of origin of odorifer- ous breath gases after garlic ingestion.
-
 The aim of the present study was to evaluate the rela- tionships among the quantity of bacteria in saliva oral emanation of VSCs and academic- related chronic stress in healthy male subjects.Materials and methodsClinical studyExperimental design.
 
 The volunteers were classified as either Stressed n  21 or Not stressed n  57 using psychometric behavior analysis Maslach Burnout Inventory Student Survey questionnaire MBI-SS a validated tool for determination of a state of academic-related chronic stress.
@@ -17,4 +15,6 @@ Some studies have demonstrated that stress-related substances can affect the gro
 Since burnout syndrome is directly related to the perceived chronic stress  we assumed that chronic stress was the distinguishing factor between the groups in this study with the Stressed group presenting higher amounts of H2S in the oral cavity.
 
 Influence of gender and stress on the volatile sulfur compounds and stress biomarkers production.
+
+The amounts in saliva of total bacteria and seven bacteria associated with halitosis were quantified by qPCR.
 

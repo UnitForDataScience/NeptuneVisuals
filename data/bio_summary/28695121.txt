@@ -8,8 +8,6 @@ The ubiquity of DSR in all known SRB microorganisms and its highly conserved nuc
 
 The major result of our study was that all infants harbored detectable levels of methanogens aceto- gens and SRB as evaluated using specific qPCR for the 16S rRNA gene or the functional metabolic genes mcrA acsB fhs dsrA and aps.
 
-World J Gastroenterol 2014 2016062-78. doDridi B Henry M El Khechine A Raoult D Drancourt M. High prevalence of Methanobrevibacter smithii and Methanosphaera stadtmanae detected in the human gut using an improved DNA detection protocol.
-
 was not correlated with the delivery mode thus confirming the qPCR results.DiscUssiOnHydrogenotrophic populations are present in the infant intestinal ecosystem but their detection in infant fecal samples is hampered by their low relative abundance and by experimental limitations related to the recovery of purified high-quality DNA from infant fecal samples.
 
 To date acetogenic bacteria in infant fecal specimens have not been investigated.Archaeal and bacterial diversity can be characterized using the previously described 515F806R primer set targeting the V4 region of the 16S rRNA gene .
@@ -17,4 +15,6 @@ To date acetogenic bacteria in infant fecal specimens have not been investigated
 All qPCR assays were performed in the StepOnePlustm Real-Time PCR System Applied BiosystemsJapan Tokyo Japan by using the KAPA SYBRr FAST qPCR KitMaster Mix 2X Biolab Scientifics Instruments SA Switzerland or the KAPA Prober FAST qPCR Kit Master Mix 2X Biolab Scientifics Instruments SA Switzerland.
 
 Sulfate-reducing bacteria SRB acetogens and methanogenic archaea use hydrogenotrophic pathways within the human colon.
+
+Three major types of H2-consuming microorganisms colonize the human colon namely methanogenic archaea sulfate-reducing bacteria SRB and ace- togens .
 

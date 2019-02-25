@@ -1,20 +1,20 @@
+The ability of indole to promote anti-inflammatory Treg and inhibit pro-inflammatory Th17 differentiation as well as the decrease of indole in the stool of IBD patients suggests that indole from the microbiota could be an important point of regulation missing in vivo that can be reintroduced during the in vitro culture step of Treg adoptive transfer.Although the signaling pathways underlying the influence of host cytokines on T cell differentiation are beginning to be uncovered Carbo et al.
+
+Furthermore the range of host cytokine inputs that produce acceptable T cell population phenotypes is greatly increased by the addition of indole suggesting that adding indole to T cell stimulation conditions may help stabilize the Treg population and more reliably produce the desired high Treglow Th17 T cell population in vitro.The results described herein contribute to indole's role in immunomodulation.
+
+Furthermore as the TGF-b concentration continues to increase higher doses of indole are again needed to obtain high Treg and low Th17 induction.These model predictions were verified by testing a higher resolution of indole concentrations with a low intermediate or highFigure 2.
+
+NaEURive T cells were able to tolerate much higher amounts of IL-6 in the presence of indole while still adopting a phenotype with low numbers of Th17 cells supporting the hypothesis that indole preserves homeostasis in the GI tract.
+
 Th17 cells comprise a class of activated Th cells that express high levels of RORgT IL-17 IL-17F IL-21 and IL-22 in addition Th17 cells are reported to readily differentiate to IFN-g  Tbet Th1-like cells in vivo Zuniga et al.
 
-2014.Treg and Th17 cells are two major Th cell lineages found at mucosal sites such as the GI tract Shale et al.
+This work employs ANNs as a tool for uncovering the complex relationship between microbial metabolites and T cell differentiation into Th17 and Treg progeny with the ultimate goal to derive host cytokine and bacterial metabolite conditions which will result in high levels of anti-inflammatory Treg and low levels of pro-inflammatory Th17 after differentiation.Materials and MethodsChemicalsSodium Propionate sodium acetate sodium butyrate and sodium chloride all from Sigma-Aldrich St. Louis MO were solubilized inmedia and added to culture.
 
-Th17 cells play an important role in autoimmune and aberrant inflammatory responses of mucosal surfaces in the GItract Weaver et al.
+The microbiota-derived metabolite indole has recently been shown to be a potent augmenter of Treg differentiation and inhibitor of Th17 differentiation Katepalli et al.
 
-In the periphery Th17 cells are produced when Th cell activation occurs in the presence of TGF-b and inflammatory cytokines such as IL-1b IL-6 and IL-23 Shale et al.
+The percentages of Treg FOXP3  and Th17 IL17  cells outputs were predicted from the concentrations of cytokines and indole in the stimulation media inputs.
 
-Th17 cells and their secreted cytokines are increased in IBD Eastaff-Leung et al.
+The interested reader is referred to the wide body of literature on information criteria for model selection for example Kuha 2004 Ljung 1999.Briefly for a model with np parameters the normalized AIC nAIC can be written asInitial combinatorial experimental studies were generated using concentrations of IL-6 IL-23 IL-2 TGF-b and indole that included a null concentration a functional concentration and a concentra- tion that results in maximal effect on promoting Treg or Th17 differentiation Supplemental Table SI.
 
-2009 and genome-wide association studies have linked IBD and polymorphisms in the receptor for IL-23 a main driver of pro- inflammatory Th17 differentiation Weaver et al.
-
-Mouse models of IBD have shown a similar importance for Th17 cells in pathogenesis Ahern et al.
-
-Promotion of a Th17 response and subsequent inhibition of Tregs is thought to be important in the pathogenesis ofaberrant inflammation in the GI tract Ahern et al.
-
-segmented filamentous bacteria SFB presence for proliferation in the GI tract but the role of Th17 cells is reported to be clearance rather than tolerance of antigen Basu et al.
-
-In addition to responding to foreign antigen Th17 cells may also contribute to epithelial barrier integrity Rutz et al.
+Interestingly indole promotes Treg and inhibits Th17 differentiation at all cytokine concentrations with varying levels of dose response.
 

@@ -1,20 +1,20 @@
-Clin Cancer Res 1793019-3028. doiMicrobiome IH 2015 Seventh Framework Programme Caporaso JG Kuczynski J Stombaugh J Bittinger K Bushman FD Costello EK Fierer N Pena AG Goodrich JK Gordon JI Huttley GA Kelley ST Knights D Koenig JE Ley RE Lozupone CA McDonald D Muegge BD Pirrung M Reeder J Sevinsky JR Turnbaugh PJ Walters WA Widmann J Yatsunenko T Zaneveld J Knight R 2010 QIIME allows analysis of high- throughput community sequencing data.
-
-N Engl J Med 372201909-1919. doiEisenhauer EA Therasse P Bogaerts J Schwartz LH Sargent D Ford R Dancey J Arbuck S Gwyther S Mooney M Rubinstein L Shankar L Dodd L Kaplan R Lacombe D Verweij J 2009 New response evaluation criteria in solid tumours revised RECIST guideline version 1.1.
-
 In the future new ther- apeutic pathways could be created by providing fecal micro- biota transplantation to replenish maintain or create an opti- mal microbiota composition .MethodsStudy objectivesPrimary objectiveThe primary object is to investigate whether the microbiota composition can act as a predictor for response andor chemotoxicity to three cycles of systemic treatment with cap- ecitabine with or without bevacizumab or TAS-102 in pa- tients with metastatic andor irresectable CRC.Secondary objectiveThe secondary objective of this study is to investigate the microbiota composition changes during systemic treatment with capecitabine with or without bevacizumab or TAS-Int J Colorectal Dis 2017 321077-10841079102 and its relation to response andor chemotoxicity in pa- tients with metastatic andor irresectable CRC.Study designAn explorative multicenter cohort study will be performed in the Maastricht University Medical Centre MUMC and Zuyderland Medical Centre.PopulationAll patients with metastatic andor irresectable CRC who will receive three cycles systemic treatment are eligible to partici- pate in this study.
-
-Int J Oncol 312413-418McKendrick J Coutsouvelis J 2005 Capecitabine effective oral fluoropyrimidine chemotherapy.
-
-J Microbiol Biotechnol 2681490- 1503. doiVermes A Kuijper EJ Guchelaar HJ Dankert J 2003 An in vitro study on the active conversion of flucytosine to fluorouracil by microorganisms in the human intestinal microflora.
-
-Journal of clini- cal oncology  official journal of the American Society of Clinical Oncology 181136-147Gonzalez-Sarrias A Tome-Carneiro J Bellesia A Tomas-Barberan FA Espin JC 2015 The ellagic acid-derived gut microbiota me- tabolite urolithin A potentiates the anticancer effects of 5-1084Int J Colorectal Dis 2017 321077-1084fluorouracil chemotherapy on human colon cancer cells.
-
-Br J Clin Pharmacol 803581-588. doiVallbohmer D Yang DY Kuramochi H Shimizu D Danenberg KD Lindebjerg J Nielsen JN Jakobsen A Danenberg PV 2007 DPD is a molecular determinant of capecitabine efficacy in colo- rectal cancer.
-
-Figure provides a schematic overview of the study procedure.Table 1Regular and study-related data collected during different time points for patients treated with capecitabine with or without bevacizumab Table 1CapecitabineCycle 1Cycle 2Cycle 3Cycle 4A anamnesis PA physical examination CT computed tomography MRI magnetic resonance imaging X Procedure performed T1 timepoint 1 T2timepoint 2 T3 timepoint 3 Cycle chemotherapy cycleInt J Colorectal Dis 2017 321077-10841081In general there will be no risk for the patient since no intervention or treatment will be initiated.
 
 This study aims to bridge this translational gap in order to explore the impor- tance of the human intestinal microbiota in CRC treatment by initiating an explorative prospective multicenter cohort study in the Maastricht University Medical Centre and Zuyderland Medical Centre.If the human microbiota can predict response to systemic treatment with a non-invasive method chemotoxicity can be reduced in non-responders andor systemic therapy regimes can be changed.
 
-Int J Colorectal Dis 2017 321077-1084 DOI 10.1007s00384-017-2819-3Study protocol on the role of intestinal microbiota in colorectal cancer treatment a pathway to personalized medicine 2.0R.
+Capecitabine and TAS-102 are both fluoropyrimidines used for systemic treat- ment in colorectal cancer patients.Methods An explorative prospective multicenter cohort study in the Maastricht University Medical Centre and Zuyderland Medical Centre will be performed in 66 patients.
+
+A recent study showed that the human in- testinal microbiota signature is able to predict in vivo treat- ment response to antibiotics in patients with Clostridium difficile infections .
+
+Another in vivo study used microbiota composition of the female urogenital tract to predict failure of implementation of an embryo in in vitro fertilization IVF .
+
+The pilot study results of the Erasmus Medical Center showed that IVF fails with 96 certainty in the presence of an unfa- vorable microbiota profile .Colorectal cancer CRC is the third most common cancer in the world.
+
+One in vitro study re- cently indicated a better response of CRC cell lines to 5-FU in the presence of Lactobacillus plantarum supernatant .
+
+Another in vitro study indicated that 5-fluorocytosine 5-FC structurally related to 5-FU samples incubated with viable Escherichia coli showed a higher increase in active 5-FU con- centration compared to samples incubated with non-viable E. coli.
+
+The patients visiting the outpatient clinic of the MUMC or Zuyderland Medical Centre can be selected for participation.Inclusion criteriaPatients diagnosed with metastatic andor irresectable CRC who will be treated with oral capecitabine with or without intravenous bevacizumab or oral TAS-102Aged 18 years or olderWritten informed consentExclusion criteriaMicrosatellite instability MSIHas not received any prior systemic therapy for the treat- ment of CRC during the previous 4 weeks prior to start the current line of capecitabine or TAS-102Patients treated with additional systemic treatments dur- ing planned treatment periodRadiotherapy within 2 weeksTherapeutic antibiotic use within past 3 monthsRenal function calculated creatinine clearance Cockroft- Guilt  30 mlminPregnant or nursingPhysically or mentally incapable or incompetentPatient accrualA medical oncologist will propose the study during a regular hospital visit to each eligible patient.
+
+The investigator will then inform himher about the goal and reason for the study and answer ques- tions.
 

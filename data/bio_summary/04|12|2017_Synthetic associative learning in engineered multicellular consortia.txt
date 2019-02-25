@@ -1,20 +1,20 @@
 Specifically it can be shown that once the learning cell is activated by the sim- ultaneous presence of X and Y the communication moleculeA will remain auto-activated and always produced in the learning phase C. An additional example b is pro- vided by another learning circuit.
 
-Transition table for the simplified Boolean circuit implementing 2 the two-cell circuit shown in c. The different input pair values given in the two left columns provide the sequence of states X and Y for the conditional and unconditional inputs introduced to test the presence of AL assuming that G1 14 0 and G2 14 1 at the beginning.multicellular circuit.
-
-Here X can activate the response R whereas Y will do it when X 14 0 only if an intermediate module M that needs to be previously activated by X th Y has the right expression level.
-
 a AL circuit based on positive feedback loop a. b Damped learning synthetic circuit.
 
-Both cells have X and Y as inputs but the nature of their responses is markedly different.d12TetR 14 gTetR - dTetR12TetRd310Thwhich provide the gene products that will interact with X andY within this cell under the nonlinear equations3.1.
-
-The sequence of states associate with the consortium displayed in c is shown in 1 where the set of possible input pairs X Y and the G1 G2 the states of the elements defining the memory switch see 1.Associative learning in a synthetic microbial consortiumIn order to avoid undesirable effects derived from complex constructs cellular consortia where different parts of the computation are split into different engineered cells can be used as an alternative to single-cell designs.
-
-C AL region yellow the learning cell change the state of the toggle switch after the simultaneous stimulation with X and Y signals then the system has learned.
-
-B Damped learning there is a characteristic time where the two cell system responds to X and Y afterwards the system does not respond to the unconditioned signal.
+Transition table for the simplified Boolean circuit implementing 2 the two-cell circuit shown in c. The different input pair values given in the two left columns provide the sequence of states X and Y for the conditional and unconditional inputs introduced to test the presence of AL assuming that G1 14 0 and G2 14 1 at the beginning.multicellular circuit.
 
 Received 2 March 2017Accepted 14 March 2017Subject CategoryLife Sciences -Physics interfaceSubject Areassynthetic biology systems biology bioengineeringKeywordsassociative learning neural systemssynthetic biology adaptation cellular circuitsAuthor for correspondenceRicard V. Sole'e-mail These authors contributed equally to the study.Electronic supplementary material is available online at Synthetic associative learning in engineered multicellular consortiaJavier Macia12 Blai Vidiella12 and Ricard V. Sole'1231ICREA-Complex Systems Lab Universitat Pompeu Fabra Dr Aiguader 88 08003 Barcelona Spain 2Institut de Biologia Evolutiva CSIC-UPF Passeig Maritim de la Barceloneta 37 08003 Barcelona Spain 3Santa Fe Institute 1399 Hyde Park Road Santa Fe NM 87501 USARVS IntroductionA specially important component of adaptation in nature is based on the capacity of some living beings to respond to external signals by a combination of repeated exposure to stimuli and the potential for storing memories.
 
 B Damped learning the learning cell has a temporal association turquoise the producer cells only respond to the conditioned signal for a limited time after the conditioning.
+
+This is an interesting possibility given the feedback existing between both the immune system and the brain as connected with the microbiome  Because both immune and brain net- works are capable of displaying learning and memory microbial consortia such as the ones presented here could act as extensions of neural-like decision circuits.Finally another interesting possibility concerns the design 9 of synthetic learning circuits along with other computatio- nal structures that could be incorporated within organoids .
+
+Next a potential implementation using a computational model for E. coli will be described.The logic of multicellular learningA synthetic circuit capable of AL requires modulation of the internal states through the learning process.
+
+This defines the basic logic of our implementation but we have split the circuit in two parts c corresponding to a producer cell C1 carrying the toggle switch and a learning cell C2 that is wired to C1 through a molecular wire A.
+
+The plot has been created on a log-log scale and thus we can see that a broad range of parameters are consistent with this behaviour.Suppressing associative learningOnce the association has been established in our circuit as it occurs with conditioned learning in animals the switch is locked in a given state that allows the association to be stable over time.
+
+Because the circuit responds to one signal US but not the other CS unless they have been previously presented together this indicates that the internal states of the underlying molecular circuit must have changed see 1.
 

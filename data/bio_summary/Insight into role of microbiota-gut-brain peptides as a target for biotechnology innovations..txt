@@ -1,20 +1,20 @@
-Nat Rev Microbiol 1011 735-742 2012 J Qin R Li J Raes M Arumugam K S Burgdorf C Manichanh T Nielsen N P F Levenez T Yamada D R. Mende J Li J Xu S Li D Li J Cao B Wang H Liang H Zheng Y Xie J Tap P Lepage M Bertalan J M Batto T Hansen D L Paslier A Linneberg H B Nielsen E Pelletier P Renault T Sicheritz-Ponten K Turner H Zhu C Yu S Li M Jian Y Zhou Y Li X Zhang S Li N Qin H Yang J Wang S Brunak J Dore F Guarner K Kristiansen O Pedersen J Parkhill J Weissenbach M Consortium P Bork S D Ehrlich and J Wang A human gut microbial gene catalogue established by metagenomic sequencing.
-
-Nat Rev Gastroenterol Hepatol 9 5 286-94 2012A Louveau1 I Smirnov T J Keyes J D Eccles S J Rouhani J D Peske N C Derecki D Castle J W Mandell K S Lee T H Harris J Kipnis Structural and functional features of central nervous system lymphatic vessels.
-
-Nature 523 337-341 2015A Louveau1 I Smirnov T J Keyes J D Eccles S J Rouhani J D Peske N C Derecki D Castle J W Mandell K S Lee T H Harris J Kipnis Structural and functional features of central nervous system lymphatic vessels.
-
-Science 312 5778 1355-1359 2006T Yatsunenko F E Rey M J Manary I Trehan M G Dominguez-Bello M Contreras M Magris G Hidalgo R N Baldassano A P Anokhin A C Heath B Warner J Reeder J Kuczynski J G Caporaso C A Lozupone C Lauber J C Clemente D Knights R Knight and J I Gordon Human gut microbiome viewed across age and geography.
-
-PLoS One 115 e0155362 2016W S Chung P Louis J Parkhill J Vermeiren D Bosscher S H Duncan H J Flint Modulation of the human gut microbiota by dietary fibres occurs at the species level.
-
-Environ Microbiol 87 2214-2225 2016E Vogtmann X Hua G Zeller S Sunagawa A Y Voigt R Hercog J J Goedert J Shi P Bork R Sinha Colorectal Cancer and the Human Gut Microbiome Reproducibility with Whole- Genome Shotgun Sequencing.
-
-Nature 4647285 59-65 2010S H Duncan W R Russell A Quartieri M Rossi J Parkhill A W Walker H J Flint Wheat bran promotes enrichment within the human colonic microbiota of butyrate-producing bacteria that release ferulic acid.
-
-Appl Environ Microbiol 77 6718-6721 2011M Berk L J Williams F N Jacka A O'Neil J APasco S Moylan N B Allen A L Stuart A CA Naseribafrouei A Linlokken R Wilson K Rudi Correlation between the human fecal microbiota and depression.
-
 Current review aims to provide an overview and shed some light on fundamental characteristics of the gut microbiota in modulating neurological disorders and consequently to draw up alternative strategies for using the gut microbiota or their active molecules as a therapeutic target for future diagnoses.INTRODUCTIONTo date the exciting realization that gut microbiota play a pivotal role in nervous system activity through the creation of bioactive metabolites has increased the understanding of bidirectional brain-gut interactions 1.
 
 Nevertheless the role of the microbiota in regulating brain development immune function and metabolism but the composition of the microbiota in individuals with schizophrenia has yet to be investigated 49.Across the evolution the gut microbiota has established important purposes including protective functions against pathogens supplying essential nutrients metabolizing compound with inaccessible nutrients such as complex polysaccharides aiding in the fermentation of non-digestible dietary fiber 50.
+
+As we can see the host depends on its gut microbiota for a number of vital functions and thus the intestinal microbiota may contribute to health 17.
+
+Although these implications awaits to be analyzed it is important to note that the endocrine cells localized in the gut mucosa are closely with the gut microbiota these direct contacts underscore an important role of the gut microbiota in the releasing multiple signals that may directly influenced the brain functions 4 including immune mediators circulating cytokines and gut hormones.Additionally there is another category of signaling molecules that includes a huge variety of peptides.
+
+It has long been understood that gut microbiota are able to produce more than 20 different gut hormones involved in the gut-brain axis 60.Intensive efforts to understand the effects of neurotransmitters and neuromodulators synthetized by gut microbiota have been done 24.
+
+The NPY is found the most prevalent neuropeptides within the brain and given the considerable abundance the NPY exhibit antimicrobial effect against Enterococcus faecalis and Lactobacillus acidophilus 67.Analysis using a combination of Bifidobacterium lactis Lactobacillus rhamnosus GG and addition to altering gut microbiota showed that alteration in the gut microbiota structure can alter the gut hormone release thought an increased of that plasma levels concentrations of NPY and PYY in adult rats 68.
+
+Collectively the SCFAs play a pivotal role in the interaction between gut microbiota and the host 72 73.Beside the SCFAs the gut microbiota yields some huge other gut hormones that are released into the bloodstream and act at distal site.
+
+Fortunately modulation of gut microbiota studies including use of probiotics antibiotics germ-free animals and fecal microbiota transplants have provided valuable information for clinical application as well as offer unforeseen opportunities for drug development peptide.
+
+Frontiers in Bioscience Elite 9 76-88 January 1 2017Insight into role of microbiota-gut-brain peptides as a target for biotechnology innovations Carina Elisei1 Alinne Pereira de Castro11Programa de Pos-Graduacao em Biotecnologia Universidade Catolica Dom Bosco Campo Grande MSBrazilTABLE OF CONTENTSAbstractIntroductionBidirectional interactions of the gut microbiota and brain functionGut-brain axis Threshold between health and diseaseMicrobiota-gut-brain Implication for gut hormonesProspects Opportunities to target the gut microbialAcknowledgementsReferencesABSTRACTIt has long been understood that some microorganisms may modify their hosts behavior in various systems.
+
+Nevertheless it has only been in recent years that gut microbiota have opened new perspectives to appreciate their potential for affect complex neurological function in mammals.
 

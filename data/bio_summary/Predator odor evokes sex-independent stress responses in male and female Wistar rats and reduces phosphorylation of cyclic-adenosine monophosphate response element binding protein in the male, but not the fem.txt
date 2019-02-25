@@ -1,20 +1,20 @@
-In contrast pCREB relative to b-tubulin was not affected by TMT exposure in the female DG t14 5 0.19 p 5 0.85 CA3 t14 5 0.87 p 5 .40 or CA1 t14 5 1.32 p 5 .21 hippocampal subregions Figure 2B.
+TMT exposure affects ERK activation in a fraction-specific manner in the male hippocampusExpression of pERK relative to total ERK was unaffected by TMT exposure in the nuclear-enriched fractions from both dorsalFIGURE 3 Effect of TMT exposure on PKA substrate phosphorylation.
 
-TMT exposure did not affect PKA substrate immunoreactivity in the DG t14 5 1.47 p 5 .16 CA3 t14 5 0.08 p 5 .94 or CA1 t6.46 with Welch's cor-rection for unequal variance 5 1.57 p 5 .16 subregions of the female hippocampus Figure 3B.
+TMT exposure reduces pCREB in dorsalventral male hippocampusUsing a separate cohort of animals we extended our investigation to assess the possibility that TMT exposure could activate the CREB shut- off pathway in the male hippocampus.
+
+A TMT exposure did not affect overall PKA substrate phosphorylation in the DG or CA3 subareas of the male hippocampus but TMT exposure increased PKA substrate phosphorylation in area CA1 of the male hippocampus.
+
+Moreover our data suggest that TMT exposure does not disrupt spatial memory consolidation when tested on a spatial version of the water plus-maze but predator threat supports long-term contextually-cued avoidance and hyperactivity behaviors in male Wis- tar rats.Our results of the behavioral response to TMT exposure are largely consistent with previous reports that high doses of TMT elicit avoidance reduced activity and immobility in both male and female Wistar rats Chen et al.
+
+TMT exposure supports contextually cued long- term avoidance and hyperactivity but not freezing behaviorForty-eight hours following TMT or DMSO exposure animals were rein- troduced to the TMT exposure context for 10 min prior to sacrifice.
+
+Effect of prior TMT exposure on contextually cued HPA axis activationIn addition we hypothesized that re-introduction to a context previ- ously associated with TMT exposure would activate an HPA axisFIGURE 5 Behavioral outcomes following TMT exposure.
 
 EXPERIMENT 1 BEHAVIORAL RESPONSE TO TMT AND HIPPOCAMPUS SIGNALING Experimental conditionsOn the day of exposure male n 5 16 total and female n 5 16 total rats were randomly assigned to either environmental control n 5 8 each MF or TMT exposure groups n 5 8 each MF.
 
-In contrast TMT exposure selectively increased pERK relative to total ERK in the female DG t8.86 with correction 5 3.27p  .01 but had no effect in the CA3 t14 5 0.47 p 5 .65 or CA1 t14 5 0.57 p 5 0.58 subregions of the hippocampus Fig- ure 2D.
-
-Both control and TMT-exposed groups learned the task in a similar amount of trials t13 5 1.32 p 5 .21 Figure 5B with comparable accu- racy t13 5 0.74 p 5 0.47 Supporting Information Figure 2A and latency t13 5 0.79 p 5 .44 Supporting Information Figure 2B.Twenty-four hours following acquisition animals were tested for performance on the water plus-maze.
-
-During the test session DMSO and TMT-exposed animals exhibited similar numbers of correct trials t 13 5 0.41 p 5 .69 Figure 5C number of errors t13 5 0.31 p 5 .76 Supporting Information Figure 2A and latency to escape t7.70 with correction 5 1.55 p 5 .14 Supporting Information Figure 2B.
-
-TMT-exposed male t8.21 with correction 5 5.76 p  .001 and female t8.69 with correction 5 4.51 p  .01 rats also exhibited reduced preference for the side of the arena containing TMT Table 1 as a function of time male FTMT3time 560 5 4.30 p  .01 female FTMT3time570 5 5.49 p  .001 Figure 1EF.
-
-Expression of phosphorylated S180 Jacob relative to NeuN expression was unaffected by TMT exposure in the dorsal t5.30 with correction 5 1.71 p 5 .14 and ventralt10 5 1.74 p 5 .11 hippocampus Supporting Information Figure 1B.
-
-TMT exposure did not affect freezing epi- sodes FTMTtrial114 5 0.39 p 5 .54 or duration FTMT3trial114 5 0.36 p 5 .56 Supporting Information Figure 2C during contextual re-introduction.
-
 Both male FTMT3time560 5 11.86 p  .001 and female rats FTMT3time570 5 8.63 p  .001 exhibited changes in hori- zontal crossing as a function of time with increased activity during the first 10 min of TMT exposure and decreased activity relative to controls after10 min of exposure Figure 1CD.
+
+These results suggest that TMT exposure evokes comparable time- sensitive behavioral responses in male and female Wistar rats.TABLE 1 Behavioral and physiological outcomes associated with home cage exposure to TMTaData are presented as the mean with standard error of the mean in parentheses.
+
+TMT exposure rapidly reduces pCREB in the male but not the female hippocampusIn order to assess signaling cascades in the hippocampus modulated by stress rats were sacrificed immediately following the 30-min exposure to either TMT or DMSO.
 

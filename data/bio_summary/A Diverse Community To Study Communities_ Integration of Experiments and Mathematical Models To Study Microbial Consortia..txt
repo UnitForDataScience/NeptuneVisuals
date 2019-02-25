@@ -1,20 +1,20 @@
-.Widder S Allen RJ Pfeiffer T Curtis TP Wiuf C Sloan WT Cordero OX Brown SP Momeni B Shou W Kettle H Flint HJ Haas AF Laroche B Kreft JU Rainey PB Freilich S Schuster S Milferstedt K van der Meer JR Grokopf T Huisman J Free A Picioreanu C Quince C Klapper I Labarthe S Smets BF Wang H Isaac Newton Institute Fellows Soyer OS.
+developed a gLV model to describe the dynamics of marine phages preying on bacteria .
 
 This is why it is crucial that modelers and experimentalists come together at the conceptual stages of a project to jointly plan experiments measurements and data management.An experimental protocol design that ignores the modeling aspect is set up to obtain data that would most likely be suboptimal for modeling.The research interest in microbial communities is gaining momentum and we thinkAugust 2017 Volume 199 Issue 15 e00865-16Journal of Bacteriology 1TABLE 1 Types of marine microbial interactionsMutualismCompetitionParasitismA Sulfitobacter species promoted cell division of a coastal diatom Pseudo-nitzschia multiseries via secretion of the auxin phytohormone indole-3-acetic acid synthesized by the bacterium using diatom-secreted tryptophanCompetition for free orthophosphates in the predominantlynutrient-limited marine biome marine bacteria are better competitors for phosphorus than eukaryotic algae at low ambient nutrient concentrationsLytic viral infection of other single-celled organisms byattachment of virus to a host cell and injection of its nucleic acid into the cell directing the host to produce numerous progeny viruses these are released by fatal bursting of the cell allowing the cycle to begin again PredationCiliated bacteriovores in marine environments such as aloricate oligotrichous ciliates graze on bacteriaCommensalismCertain bacteria found in the algal sheath where they look for carbon and shelter with no effect on the algal host AmensalismMarine bacteria such as Kordia algicida and Pseudoalteromonas sp.
 
-By performing simulations on an evolu- tionary time scale it was demonstrated that different environments select for different traits such as cell size in phytoplankton.METABOLIC NETWORK MODELSBy correctly assigning metabolic functions to the enzymes encoded in a whole genome it is possible to obtain a genome-scale metabolic network model  .
+The equation form of the model is interpreted as a cooperation mechanism for phage predation andpredicts that the community follows kill-the-winner dynamics where blooming periods are followed by rapid decay.
 
-Soon thereafter she joined the Institute for Quantitative and Theoretical Biology Heinrich Heine University Dusseldorf Germany to follow her interest in applying analytical methods to the study of biological systems.She developed kinetic and metabolic modelsto study the dynamics of bacterial communities associated with mi- croalgae  and the effect of cofactors on metabolic regulation.
-
-A key research issue is that of understanding how the dynamics and stability of complex microbial ecosystems can be explained by cooperation and competition of the metabolic networks of the involved organisms.
-
-.Grimm V Berger U Bastiansen F Eliassen S Ginot V Giske J Goss- Custard J Grand T Heinz SK Huse G Huth A Jepsen JU Jorgensen C Mooij WM Muller B Pe'er G Piou C Railsback SF Robbins AM Robbins MM Rossmanith E Ruger N Strand E Souissi S Stillman RA Vabo R Visser U DeAngelis DL.
-
-developed a gLV model to describe the dynamics of marine phages preying on bacteria .
+Individual-based models IBMs --sometimes referred to as agent-based models--implement Monte Carlo tech- niques to introduce the randomness required to model the dynamics of single indi- viduals.
 
 Dynamics of a Lotka-Volterra type model with applications to marine phage popula- tion dynamics.
 
-.Karsenti E Acinas SG Bork P Bowler C De Vargas C Raes J Sullivan M Arendt D Benzoni F Claverie J-M Follows M Gorsky G Hingamp P Iudicone D Jaillon O Kandels-Lewis S Krzic U Not F Ogata H Pesant S Reynaud EG Sardet C Sieracki ME Speich S Velayoudon D Weissenbach J Wincker P. 2011.
+Members of the plankton ecosystem viruses bacteria archaea protists and metazoans have recently been systematically collected in their natural habitats  to explore ecosystem dynamics at the ocean scale.
 
-A holistic approach to marine eco-systems biology.
+used CBM to model a biofilm at the guild and superorganism levels the picture of thermophilic bacteria in Mickey Hot Springs Oregon is from contributed by Amateria1121.
+
+Under- standing the metabolic cooperation dynamics is fundamental and the bacterial com- position relative abundance and spatial distribution of the species of a biofilm is mainly determined by three processes that take place within the film i conversion of substrates by bacteria ii volume expansion of biomass and iii transport of substrates by molecular diffusion.
+
+To achieve predictive power however a theoretical model needs to be fully integrated into the experimental design.
+
+The flexibility of a model combined with rigorous mathematical thinking allows the translation of working hypotheses into reproducible in silico experiments.
 

@@ -1,13 +1,3 @@
-c-d represent the rarefaction curves on averaged bacterial communities for each DNA extraction methods for a A. cephalotes 15 mm and b P. penetrator 5 mmand OTUs for P. penetrator 5 mm samples and extraction controls.
-
-These correspond to one tweezer control and one extraction control for i each of the four DNA extraction methods tested and for both P. penetrator 5 mm and forA.
-
-When the contribution of contaminant OTUs to sam- ple diversity across A. cephalotes 15 mm and P. penetrator 5 mm individuals was examined we found that both ant species ANOVA F1191  26.539 p  .001 extraction methods ANOVA F3191  16.305 p  .001 and their interactions ANOVA F3191  4.252 p  .006 had an effect on these proportions with a particularly high amount of con- taminant OTUs in P. penetrator 5 mm samples Table S1.
-
-a Bacterial community composition similarities between Atta cephalotes 15 and 5 mm and Pseudomyrmex penetrator 5 mm using QIAamp DNA extraction protocol.
-
-penetrator 5 mm and 13 A. cephalotes 15 mm individuals extracted with the four methods four pools of P. penetrator 5 mm four pools of A. cephalotes 5 mm and four pools ofA.
-
 Choosing an appropriate DNA extraction method here is crucial as extraction methods differ in the amount of DNA lost during the elu- tion step and in their efficiency to remove PCR inhibitors contained in cuticles bacteria or washing solutions.
 
 Overview of DNA extraction protocolsOur comparative study included four DNA extraction methods or kits the Qiagen QIAamp DNA mini kit QIAamp Qiagen Carlsbad CA USA the Qiagen DNeasy blood and tissue kit DNeasy Qiagen a modified phenol-chloroform protocol PC Sambrook Fritschi  Maniatis 1989 and the MO BIO UltraClean tissues and cells kit MO BIO Mo Bio Laboratories Hilden Germany.
@@ -16,5 +6,15 @@ To ascertain the sources of DNA contamination in each extraction method two type
 
 The extraction control measures the contamination introduced by the DNA extraction protocol.To test the effect of the starting material i.e.
 
+These correspond to one tweezer control and one extraction control for i each of the four DNA extraction methods tested and for both P. penetrator 5 mm and forA.
+
 Statistical analysesTo evaluate potential errors in DNA extraction protocols we assessed whether the extraction methods yielded similar amounts of artefactual contaminants bacterial or false-positive OTUs.
+
+These should result in flatter rarefaction curves and lower number of OTUs than for biological samples.We then assessed the effect of DNA extraction protocols num- ber of individuals used for extraction and individual body size on the cuticular bacterial beta-diversity community composition varia- tion across samples.
+
+Community differences were visualized using a principal coordinates analysis PCoA and effects of DNA extraction method ant species and their interaction were tested with a permutational multivariate analysis of variance PERMANOVA Anderson 2001.The multivariate homogeneity analysis of group dispersions Anderson 2006 for each DNA extraction protocol and ant species was performed to assess the reproducibility of the retrieved bacterial community composition in each method.
+
+The proportion of artefactual OTUs in samples differed between DNA extraction methods ANOVA F3191  9.789 p  .001 regardless of ant species ANOVA F1191  0.916 p  .34 species 9 extraction ANOVA F3191  1.196 p  .313.
+
+c-d represent the rarefaction curves on averaged bacterial communities for each DNA extraction methods for a A. cephalotes 15 mm and b P. penetrator 5 mmand OTUs for P. penetrator 5 mm samples and extraction controls.
 

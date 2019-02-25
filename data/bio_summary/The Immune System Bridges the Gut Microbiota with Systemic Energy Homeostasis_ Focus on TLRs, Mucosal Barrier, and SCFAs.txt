@@ -1,8 +1,4 @@
-Cell Metab 2009 10249-59. doShechter R London A Kuperman Y Ronen A Rolls A Chen A et al.
-
 The escape of microbial factors from the gut can result from perturbations in the gut microbiota and its interaction with immune system components that weakens the mucosal and epithelial lining of the gut.
-
-A dietary fiber-deprived gut microbiota degrades the colonic mucus barrier and enhances pathogen susceptibility.
 
 The absence of gut microbiota leads to functional alterations in immune and intes- tinal epithelial cells which express less microbe sensing toll-like receptors TLR  and major histocompatibility complex II molecules for antigen presentation .Certain aspects of an underdeveloped less responsive gut immune system seem to have beneficial effects in obesity.
 
@@ -14,7 +10,11 @@ As modulators of the immune response the microbiota-derived signals influence fu
 
 Consequently peripheral anti- or proinflammatory responses take place and modulate host metabolism empha- sizing to which substantial extent microbiota can influence systemic health.In addition to the above discussed mechanisms bile acids which can be modified by microbiota or result from microbiota changes could modulate host metabolism   and also have immunomodulatory effects .
 
-Cell Mol Gastroenterol Hepatol 2016 2584-604. doBrooks L Viardot A Tsakmaki A Stolarczyk E Howard JK Cani PD et al.
+81353. doi The gut microbiota is essential for the development and regulation of the immune system and the metabolism of the host.
 
-Diabetologia 2007 502374-83. doAhmad R Al-Mass A Atizado V Al-Hubail A Al-Ghimlas F Al-Arouj M et al.
+The development of 16S rRNA sequencing allowed estimates of the abundance of microbiota in greater detail revealing the gram-negative Bacteroidetes and gram- positive Firmicutes as the most abundant phyla in the human gut.
+
+The immune tissues or local immune cell subsets that are in direct contact with microbiota as in the gut are different in GF animals.
+
+This review will summarize how microbial molecules and changes in the microbiota composition are sensed by the immune system and how microbial products and consequently the immune response can spread into the circulation to cause systemic and metabolic consequences start- ing in the gut and moving toward the periphery.
 

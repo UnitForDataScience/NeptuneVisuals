@@ -16,5 +16,5 @@ Detailed genome features are summarized in Table  and numbers of COG functional 
 
 Comparison of genomic structure between Clostridium perfringens CBA7123 and strains FORC 003 FORC 025 JP55 and JP838 using a progressive alignment algorithm in Mauve.
 
-Am J Case Rep. 201617219-23.Kim JY Song HS Kim YB Kwon J Choi JS Cho YJ et al.
+The type A of C. perfringens is the most commonly found toxinotype that possesses onlya toxin-encoding gene plc.
 

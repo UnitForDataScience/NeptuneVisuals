@@ -2,19 +2,19 @@ C LTA was added to senescent murine primary HSCs as following doses lane 1 DCA 0
 
 C LTA was added to senescent murine primary HSCs with following doses lane 1 DCA 0 mmolL LTA 0 mgmL lane 2 DCA 0 mmolL LTA 10 mgmL lane 3 DCA 0 mmolL LTA 25 mgmL lane 4 DCA 300 mmolL LTA0 mgmL lane 5 DCA 300 mmolL LTA 10 mgmL and lane 6 DCA 300 mmolL LTA 25 mgmL.
 
+Moreover we did not observe the reduction of obesity-associated liver tumor formation in TLR4-deficient mice as compared with those in wild-type mice when we performed the same protocol of neonatal 712-dimethylbenzaanthracene DMBA treat- ment with HFD 4 suggesting that TLR4-mediated signals are unlikely to be involved in the acceleration of obesity- associated HCC in our experimental setting.In this study we investigated the effects of the signals by lipoteichoic acid LTA a cell wall component from Gram- positive bacteria on the induction of the SASP factors in DCA-induced senescent HSCs and on obesity-associated liver tumor development.
+
 These results suggest that PGs in the tumor areas are produced through a pathway where Gram-positive bacteria are involved.We found that excess production of PGE2 was detected in a-SMA-positive HSCs and that the frequency of PGE2- producing HSCs was significantly decreased in the livers from TLR2-deficient mice or vancomycin-treated mice with decreased accumulation of LTA in the liver Fig.
 
+The administration schedules of vancomycin DCA and LTA in HFD-fed mice are described in each figure legend.Treatment with PTGER4 AntagonistA PTGER4 receptor specific antagonist AAT-008 was kindly pro- vided by AskAt Inc. AAT-008 is 4-1S-1-5-chloro-2-3- fluoro- phenoxy pyridin-3-ylcarbonylaminoethyl benzoic acid Ki  0.97 nmolL for human PTGER4 and its activity against human mouse and rat PTGER4 receptors was examined and proven equivalent 49.
+
 NS not significant  P  0.01.526  CANCER DISCOVERY May 2017Gut Microbiota Promotes Obesity-Linked HCC via Immune EscapeDCA and LTA Cooperatively Induce the Expression of TLR2 and SASP Factors in Senescent HSCsTo investigate whether DCA and LTA cooperatively induce SASP factors in HSCs primary HSCs isolated from mouse livers were treated with DCA for 8 days to prolong the senescent status and then stimulated with LTA Fig.
+
+DCA administration in ND-fed mice did not induce HCC development at 30 weeks at which point HFD-fed mice exhibited HCC with sufficient body-weight gainFig.
 
 1B-D. Senescence markers such as upregulation of p21 and the DNA damage response marker 53BP1 were detected in HSCs in the livers of mice fed DCA and an ND reaching levels similar to those in the livers of HFD-fed mice at 30 weeks Fig.
 
 However at this time point the frequency of SASP induction in HSCs was much lower in livers from mice fed DCA and an ND as compared with that in mice fed an HFD Fig.
 
 Accordingly we searched for factors that promote obesity- associated HCC progression based on i the obesity-induced gut microbial components and ii the increased lipid storage in the liver tumor areas of HFD-fed obese mice.LTA- and TLR2-Mediated Signaling Promotes Obesity-Associated HCC DevelopmentWhen we reanalyzed the gut microbial profiles of DMBA- treated mice we again noted that HFD-fed mice exhibited a dramatic increase in Gram-positive gut microbiota in their feces Supplementary Fig.
-
-In addition we observed the increased expression of the precancerous marker glypican 3 within hepatocytes in the livers of DCA- or DCA plus LTA-treated ND-fed mice but not vehicle-treated mice Supplementary Fig.
-
-Notably phosphorylation of the inhibitor of kB IkB an indicator of the activation of NF-kB was detected in HSCs in the liver tumor tissue from HFD-fed wild-type mice but not in HSCs from TLR2-deficient or vancomycin-treated mice Fig.
-
-Interestingly HCC development in AAT-008- treated mice was strongly attenuated compared with vehicle- treated mice Fig.
 

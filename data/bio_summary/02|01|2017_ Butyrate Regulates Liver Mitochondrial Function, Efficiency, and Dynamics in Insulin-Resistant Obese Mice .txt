@@ -4,8 +4,6 @@ Butyrate and FBA treatments reduced body weight gain lipid gain and energy effic
 
 Consistently stereology investigations revealed that lipid density was significantly decreased compared to HFD mice in butyrate and even more in FBA groups Figure 7C.In liver of HFD mice mitochondrial dumbbell shaped and fission pictures are evident while ongoing fusion event is shown in butyrate treated mice in FBA group giant and elongated mitochondria resulting from fusion are recognizable Figure 7B.
 
-EMBO J 2012314106-4123Schneeberger M Dietrich MO Sebastian D Imbernon M Castano C Garcia A Esteban Y Gonzalez-Franquesa A Rodriguez IC Bortolozzi A Garcia-Roves PM Gomis R Nogueiras R Horvath TL Zorzano A Claret M Mitofusin 2 in POMC neurons connects ER stress with leptin resistance and energy imbalance.
-
 Interestingly mitochondrial protein contents calculated as the ratio between citrate synthase activity in the homogenate and isolated mitochondria was significantly lower in HFD compared to all groups and butyrate and even more FBA significantly increased this parameter Figure 5D.In mitochondrial basal conditions or after free fatty acid FFA stimulation HFD showed the lowest proton leak that was increased by butyrate and FBA compared to STD and HFD Figure 5E and F.In particular mice treated with both formulations exhibited the highest oxygen consumption to maintain the same membrane potential among the groups Figure 5E.
 
 Metabolizable energy ME intake was determined by subtracting the energy measured in faeces and urine from the gross energy intake which was determined from the daily food consumption and gross energy density.
@@ -16,5 +14,7 @@ Twelve weeks after HFD mice were divided into three experimental groups n7 as fo
 
 Furthermore the evaluation ofMPKa ACC pathway activation in liver revealed a marked up-regulation in the phosphorylated AMPK protein and its downstream substrate ACC both in butyrate and FBA treated mice Figure 4E and F. Similarly both treatments induced an increase in AKT phosphorylation compared to HFD mice as well as an up-regulation of GLUT2 expression markedly reduced by HFD Figure 4G and H.To address the direct effect of butyrate on hepatic insulin sensitivity we evaluated the modulation of insulin signalling and GLUT2 expression altered by the induction of IR in human Hep G2 cells.
 
-In particular NQO1 and GST activity as well as GSH level were significantly lower in HFD compared to STD butyrate treatment increased all parameters and this effect was more marked in FBA treated mice Figure 6 A B and C.GSSG were higher in all HFD fed groups compared to STD Figure 6D.
+In HFD the lipids are more abundant and larger then butyrate- and FBA-treated mice bars5 um A. Mitochondrial shape and size of liver mitochondria are reported B. Mitochondrial dumbbell shaped and fission pictures arrows are shown in HFD-treated mice and fusion events arrowhead are recognizable in the cytoplasm of butyrate treated mice resulting in giant and elongated mitochondria double arrows showed in FBA group.
+
+In HFD the lipids are more abundant and larger then butyrate- and FBA-treated mice bars5 um A. Mitochondrial shape and size of liver mitochondria are reported B. Mitochondrial dumbbell shaped and fission pictures arrows are shown in HFD-treated mice and fusion events arrowhead are recognizable in the cytoplasm of butyrate treated mice resulting in giant and elongated mitochondria double arrows showed in FBA group.
 

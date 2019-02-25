@@ -1,11 +1,5 @@
 DNA is capable of activating type I IFN for both S. aureus and S. pneumoniae TLR9 mediates IFN re- sponses associated with S. aureus and STING mediates IFN responses to S. pneumoniae   .
 
-Am J Pathol 2010 177166-75.Blyth CC Webb SA Kok J et al.
-
-N Engl J Med 2001 34411-6.Vuononvirta J Toivonen L Grondahl-Yli-Hannuksela K et al.
-
-J Exp Med 2007 204987-94.Pothlichet J Meunier I Davis BK et al.
-
 Studies have shown that influ- enza increases the susceptibility to S. aureus or S. pneumoniae infection and that type I and III IFNs play a major role in this observation -.TYPE I AND III IFN SIGNALING INFLUENCE THE NASAL MICROBIOME AND COLONIZATION DENSITYUpper airway tract colonization with gram-positive organisms is a major risk factor for subsequent aspiration and pneumonia.
 
 Antecedent influenza virus infection has been shown to increase colonization and aspiration of S. aureus and S. pneumoniae into the airway from the nasopharynx     and has been linked to multiple consequences of the IFN cascade.
@@ -14,7 +8,13 @@ Type I IFNs exerted their effect by decreasing production of the major macrophag
 
 Both type I and III IFN signaling were similarly found to inhibit clearance of S. aureus from the nasopharynx in the context of superinfection .EFFECTS OF TYPE III IFN ON THE NASAL MICROBIOMEInfluenza is able to alter the mouse nasal microbiome via a type III IFN-STAT1-dependent mechanism.
 
-J Infect Dis 2008 198962-70.Gill JR Sheng ZM Ely SF et al.
+Colonization studies with S. aureus in influenza virus-infected mice showed that influenza increases the ability of S. aureus to persist in the nasopharynx and this was diminished in the absence of type III IFN signaling Figure .
 
-Emerg Infect Dis 2006 12894-9.Kallen AJ Brunkard J Moore Z et al.
+Mice that lack IL-27 signaling were protected from the pathology associated with both S. aureus and S. pneumoniae infection after influenza  .
+
+A major component of effective viral clearance especially in re- sponse to influenza is the participation of type I and III IFNs which are increasingly appreciated for their diverse roles in host defenses against bacterial as well as viral infections -.TYPE I AND III IFN SIGNALING AND THEIR ROLES IN INFECTION The complexity and redundancies of the IFN family suggestCorrespondence D. Parker Department of Pediatrics Columbia University 650 W 168th St Black Bldg 427 New York NY 10032 .TThhee JJoouurrnnaall ooff IInnffeeccttiioouussDDiisseeaasseessrr 2017215S1S58-63c The Author 20167.
+
+The type I IFN family consists of 13 IFN-a subtypes IFN-b IFN-e and IFN-o while type III IFN is com- posed of IFN-l1 also known as interleukin 29 IL-29 IFN-l2 also known as interleukin 28A IL-28A IFN-l3 also known as IL-28B and IFNL4 IL-29 is a pseudogene in mice  .
+
+Interaction of a type I IFN with its heterodimeric receptor IFN ab receptor IFNAR results in dimerization and phosphory- lation of STAT12 via Jak1 and Tyk2 leading to the downstream transcription of hundreds of genes .
 

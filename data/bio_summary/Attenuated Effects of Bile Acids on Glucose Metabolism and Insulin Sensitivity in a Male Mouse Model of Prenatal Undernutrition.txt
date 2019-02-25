@@ -1,20 +1,20 @@
-Bile acids were also positively correlated with birth weight b-muricholate Pearson R  0.42 P  0.049 deoxy- cholate R  0.49 P  0.02 cholate R  0.43 P  0.047 data not shown.We next performed quantitative targeted LC-MS analysis of bile acid composition in an independent co- hort of 3-week-old weanling mice which similarly revealed that total bile acids were significantly reduced in UN compared with C animals P  0.03 as were levels of cholate- and muricholate-related bile acids Supplemental Table 2.UDCA supplementation protects control but not prenatally undernourished mice fromdiet-induced obesityUDCA has been used clinically in humans with pri- mary biliary cirrhosis and other hepatobiliary diseases 35 and has been shown to improve glucose toler- ance and hepatic steatosis in mice and humans -.
+We noted striking differences in the composition of the bile acid pool across the four experimental groups which is interesting given that differences in bile acid composition can alter secretion of intestinal hormones including Glp1 most likely mediated through differences in indi- vidual bile acid affinity for Fxr and Tgr5 .
 
 20175143.Sepe V Renga B Festa C D'Amore C Masullo D Cipriani S Di Leva FS Monti MC Novellino E Limongelli V Zampella A Fiorucci S. Modification on ursodeoxycholic acid UDCA scaffold discovery of bile acid derivatives as selective agonists of cell-surface G-protein coupled bile acid receptor 1 GP-BAR1.
 
-Fifteen minutes two-way ANOVA P  0.02 Pprenatal  0.02 Pinteraction  0.04 30 minutes two-way ANOVA P  0.02 Pprenatal  0.01 Pinteraction  0.04 60 minutes two-way ANOVA P  0.007 Pprenatal  0.003 Pinteraction  0.053 area under the curve two-way ANOVA P  0.049 PUDCA  0.04 Pprenatal  0.07. f Pyruvate tolerance test 1.5 mgkg intraperitoneal.
+Plasma levels of bile acid species were measured in 3-week-old mice by high-performance LC tandem MS and quantified using deuterium-labeled standards Total plasma bile acid levels were measured in 11-week-old mice using a col- orimetric kit Diazyme Laboratories Inc. Poway CA No.
 
-Thirty minutes two-way ANOVA P  0.05 Pinteraction  0.03 60 minutes two-way ANOVA P  0.01 Pprenatal  0.006 120 minutes two-way ANOVA P  0.047 Pprenatal  0.035 PUDCA  0.08 area under the curve two-way ANOVA P  0.02 Pprenatal  0.015 Pinteraction  0.1.
-
-Shp two-way ANOVA P  0.002 effect of UDCA P  0.02 effect of prenatal P  0.01 interaction of prenatal condition and UDCA P  0.01.
-
-Taurocholate TC two-way ANOVA P  0.0001 effect of UDCAP  0.0001 effect of prenatal condition P  0.0002 interaction of prenatal condition and UDCA P  0.0002. f Liver mRNA expression of genes involved in bile acid synthesis.
-
-Cyp7b1 two-way ANOVA P  0.004 effect of UDCA P  0.009 interaction of prenatal condition and UDCA P  0.02. g Distal ileum mRNA expression of genes involved in bile acid and FGF15 signaling.Males age 19 weeks 16 weeks of experimental diet n  6 to 11 per group three to five litters per group.
+We concluded that effects of UDCA on insulin sensitivity were independent of adipokines.Effects of UDCA treatment on bile acid pools and metabolismBile acid modulation of gluconeogenic responsesand insulin sensitivity suggests a robust effect on he- patic metabolism.
 
 6c and 6d.Cyp7a1 the rate-limiting enzyme for bile acid syn-thesis was reduced by UDCA in both the C and UN groups PANOVA  0.0004 3f whereas ex- pression of Cyp7b1 an enzyme involved in alternative pathway bile acid synthesis was significantly increased in C  UDCA but not in UN  UDCA PANOVA  0.004Pinteraction  0.02.
 
-Offspring of both undernourished UN and control C dams given unrestricted diets were weaned to high-fat diets with or without supple- mentation with 0.25 ww ursodeoxycholic acid UDCA yielding four experimental groups C UN C  UDCA and UN  UDCA.
+Together these data demonstrate that expression of messenger RNAs encoding key regulators of bile acid metabolism and responsiveness is differentially induced by UDCA depending on prenatal nutritional status.Effects of prenatal undernutrition and UDCA supplementation on microbiota configurationGiven that the gut microbiota can influence bile acid metabolism weight gain and insulin resistance we ex- amined effects of UDCA treatment on microbiota con- figuration in both C and UN offspring.
 
-Hmgcr the rate-limiting enzyme in cholesterol synthesis is significantly increased in both C and UN PANOVA  0.0003 whereas expression of Srebf a key regulator of lipogenesis Scd1 an enzyme essential for de novo lipogenesis and Mcad which catalyzes the first step in fatty acid b-oxidation is reduced in both the C and UN UDCA-supplemented groups Srebf PANOVA  0.008 Scd1 PANOVA  0.04 Mcad PANOVA  0.0001 c.UDCA supplementation produced a trend towardincreased fasting plasma total BA levels at 11 weeks of age with a similar effect size in both C and UN animals .
+We did however note a significant increase in expression of Shp a nuclear receptor co- repressor known to repress bile acid and cholesterol metabolism  in UDCA-treated UN but not control mice raising the possibility that differences in Shp- mediated repression of bile acid signaling might un- derpin the diminished responsiveness to UDCA in UN mice.
+
+Regardless of prenatal nutritional group UDCA supplementation resulted in down- regulation of Cyp7a1 the rate-limiting enzyme in bile acid synthesis consistent with previous reports By contrast we found that hepatic expression of other en- zymes involved in bile acid synthesis e.g.
+
+Levels of 6- or 7-hydroxysteroid or oxysterol intermediates will need to be measured to confirm that increased expression of Cyp7b1 is accompanied by demonstrable increases inenzymatic activity.Given the key role of the gut microbiota in bile acid metabolism and thus bile acid signaling 51 we examined temporal changes in gut microbiota compo- sition in response to prenatal undernutrition and post- natal UDCA treatment.
+
+First UDCA has minimal affinity for the bile acid re- ceptors FXR and TGR5 so we cannot assess whether the resistance to metabolic improvements that we noted in prenatally undernourished mice is related to bile acid signaling through these pathways.
 

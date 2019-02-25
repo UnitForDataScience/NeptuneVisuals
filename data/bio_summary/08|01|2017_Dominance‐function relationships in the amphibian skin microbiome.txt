@@ -1,20 +1,20 @@
-more even communities than bullfrogs and newts toad mean evenness 5 3.79 spring peeper mean evenness 5 3.78 bullfrog mean even- ness 5 2.78 newt mean evenness 5 2.51 toad-bullfrogZ 5 2.82 P 5 0.02 toad-newt Z 5 3.27 P 5 0.006 springpeeper-bullfrog Z 5 2.61 P 5 0.05 spring peeper-newtZ 5 3.04 P 5 0.01 toad-spring peeper Z 5 0.02 P 5 1.0bullfrog-newt Z 5 20.5 P 5 1.0.DiscussionThe main objective of this study was to examine the rela- tionship between bacterial dominance within the skin community and an important functional trait Bd growth inhibition in the amphibian skin microbiome.
-
 By contrast in spring peepers and toads there were no differences in mean Bd inhibition between dominant spring peepers 56 inhibition n 5 7 toads 47 inhibition n 5 6 and rare OTUs spring peepers 51 inhibition n 5 4 toads 47 inhibition n 5 19 P  0.8 for both Fig.
-
-2014 bullfrog prevalence5 54 N 5 61 newt prevalence 5 25 N 5 27 springpeeper prevalence 5 7 N 5 15 and toad prevalence 5 0 N 5 16.
-
-This pattern was also observed in newts dominant OTUs 71 inhibition n 5 7 rare OTUs 39 inhibition n 5 12 t 5 22.18 P 5 0.04.
-
-In bullfrogs dominant OTUs had higher mean Bd inhibition 65 inhibition n 5 7 than rare OTUs 30 inhibition n 5 15 Fig.
-
-Percent Batrachochytrium dendrobatidis Bd inhibition by bacterial isolates from A bullfrogs Rana catesbeiana N 5 19 B newts Notophthalmus viridescens N 5 18 C spring peepers Pseudacris crucifer N 5 12 and D toads Anaxyrus americanus N 5 15 clustered into OTUs at 100 16S rRNA gene sequence similarity.Each bar represents an isolate OTU.
-
-The number of 100 OTUs of full-length 16S rRNA gene sequences for each amphibian species was as follows bullfrogs 5 107 newts 5 73 spring peepers 5 165 and toads 5 243 Total N 5 571 Fig.
 
 2015 we were able to identify some genera in the pre- sent study with typically high mean Bd inhibition  91 inhibition Serratia Hafnia Edwardsiella and Aeromonas some with typically low Bd inhibition  17 inhibition Acidovorax Limnohabitans and Rhodococcus and some that facilitated Bd growth e.g.
 
+In bullfrogs dominant OTUs had higher mean Bd inhibition 65 inhibition n 5 7 than rare OTUs 30 inhibition n 5 15 Fig.
+
+Addi- tionally OTUs were categorized as inhibitory 2 60 mean Bd inhibition or noninhibitory  60 mean Bd inhibition which is consistent with cutoffs used in previous studies on Bd inhibition by amphibian skin bacterial isolates Bell et al.
+
+OTUs are colour-coded based on their mean Bd inhibition from high inhibition 5green to no inhibition or even facilitation 5red.DATASET S1.
+
 Grey dots 5 individual isolate OTU black dots 5 mean inhibition of genera.rare  0.001 mean relative abundance Supporting Information Table S1.The association between OTU relative abundance dom- inance and Bd inhibition differed among amphibian species Fig.
 
-3B 79 inhibition n 5 4 Wilcoxon test X254.34 df 5 1 P 5 0.04.The number of inhibitory OTUs represented roughly halfof all the isolate-matched Illumina OTUs from each amphibian species bullfrogs 46 46 of 101 OTUsDominance-function in the amphibian skin microbiome 3391Table 1.
+This pattern was also observed in newts dominant OTUs 71 inhibition n 5 7 rare OTUs 39 inhibition n 5 12 t 5 22.18 P 5 0.04.
+
+However in spring peepers core OTUs had lower mean Bd inhibition 45 inhibition n 5 40 than peripheral OTUs Fig.
+
+Bd inhibition by amphibian skin bacteria.Bd inhibition  Genus Number of isolate OTUsProportion of isolate OTUs that were inhibitoryMeanStd DevOnly genera with five or more isolate OTUs 100 sequence similarity are shown.
+
+Proportion A and relative abundance B of cultured OTUs that were inhibitory black portion of bars or not inhibitory grey portion of bars.The isolate-matched Illumina OTUs Illumina OTUs that matched cultured isolate sequences were tested for Bd inhibition and categorized as inhibitory 2 60 mean Bd inhibition or not inhibitory then the proportion of inhibitory OTUs out of all isolate- matched OTUs was determined A as well as the cumulative relative abundance of inhibitory OTUs out of all isolate-matched OTU relative abundance B.
 

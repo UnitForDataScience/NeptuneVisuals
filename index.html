@@ -2,6 +2,7 @@
 <head>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/1.10.19/css/dataTables.bootstrap4.min.css">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
     <style>
         .loader {
             border: 16px solid #f3f3f3;
@@ -45,35 +46,49 @@
                 transform: rotate(360deg);
             }
         }
+
+        .highlight {
+            background-color: yellow;
+        }
     </style>
 </head>
 <body>
-<div class="container">
+<div id="tabs">
+    <ul>
+        <li><a href="#tabs-1">Summarization</a></li>
+        <li><a href="#tabs-2">Classification</a></li>
+        <li><a href="#tabs-3">Network Analysis</a></li>
+    </ul>
+    <div class="container" id="tabs-1">
 
-    <div class="row col-12">
-        <div class="input-group col-12" style="margin-top:10%;">
-            <input type="text" class="form-control" id="summary_textbox" aria-label="Text input with dropdown button">
-            <div class="input-group-append">
-                <button class="btn btn-outline-secondary" type="button" id="summary_search">Search</button>
+        <div class="row col-12">
+            <div class="input-group col-12" style="margin-top:10%;">
+                <input type="text" class="form-control" id="summary_textbox"
+                       aria-label="Text input with dropdown button">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-secondary" type="button" id="summary_search">Search</button>
+                </div>
+            </div>
+            <div class="col-12" style="margin-top: 3%;">
+                <table id="summary_table" class="table table-striped table-bordered" style="width:100%">
+                    <thead>
+                    <tr>
+                        <th>File</th>
+                        <th>Summary</th>
+                    </tr>
+                    </thead>
+                    <tbody id="summary_list">
+                    <tr>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    </tbody>
+                </table>
             </div>
         </div>
-        <div class="col-12" style="margin-top: 3%;">
-            <table id="summary_table" class="table table-striped table-bordered" style="width:100%">
-                <thead>
-                <tr>
-                    <th>File</th>
-                    <th>Summary</th>
-                </tr>
-                </thead>
-                <tbody id="summary_list">
-                <tr>
-                    <td></td>
-                    <td></td>
-                </tr>
-                </tbody>
-            </table>
-        </div>
     </div>
+    <div id="tabs-2">2</div>
+    <div id="tabs-3">3</div>
 </div>
 <div id="overlay">
     <div class="loader container" style="margin-top: 20%;"></div>
@@ -83,6 +98,7 @@
         src="https://code.jquery.com/jquery-3.3.1.min.js"
         integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
         crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
         integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
         crossorigin="anonymous"></script>
@@ -92,6 +108,8 @@
         crossorigin="anonymous"></script>
 <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
 <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+<script src="/neptune/scripts/scrolls.js"></script>
+
 <script>
     function uuidv4() {
         return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {

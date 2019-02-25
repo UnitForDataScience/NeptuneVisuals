@@ -1,20 +1,20 @@
-Science 3366086 1268-1273 2012.Viaud S Daillere S Boneca IG Lepage P Langella P Chamaillard M Pittet MJ Ghiringhelli F Trinchieri G Goldszmid R and Zitvogel L Gut microbiome and anticancer immune response really hot Sht Cell Death Differ 222 199- 214 2015.Boursi B Mamtani R Haynes K and Yang YX Recurrent antibiotic exposure may promote cancer formation-another step in understanding the role of the human microbiota Eur J Cancer 5117 2655-2664 2015.Iida N Dzutsev A Stewart CA Smith L Bouladoux N Weingarten RA Molina DA Salcedo R Back T Cramer S Dai RM Kiu H Cardone M Naik S Patri AK Wang E Marincola FM Frank KM Belkaid Y Trinchieri G and Goldszmid RS Commensal bacteria control cancer response to therapy by modulating the tumor microenvironment.
-
-Science 3426161 967-970 2013.Viaud S Saccheri F Mignot G Yamazaki T Daillere R Hannani D Enot DP Pfirschke C Engblom C Pittet MJ Schlitzer A Ginhoux F Apetoh L Chachaty E Woerther PL Eberl G Berard M Ecobichon C Clermont D Bizet C Gaboriau-Routhiau V Cerf-Bensussan N Opolon P Yessaad N Vivier E Ryffel B Elson CO Dore J Kroemer G Lepage P Boneca IG Ghiringhelli F and Zitvogel L The intestinal microbiota modulates the anticancer immune effects of cyclophosphamide.
-
-Curr Oncol 19Suppl 1 S52-S58 2012.Brahmer J Reckamp KL Baas P Crino L Eberhardt WE Poddubskaya E Antonia S Pluzanski A Vokes EE Holgado E Waterhouse D Ready N Gainor J Aren Frontera O Havel L Steins M Garassino MC Aerts JG Domine M Paz-Ares L Reck M Baudelet C Harbison CT Lestini B and Spigel DR Nivolumab versus docetaxel in advanced squamous-cell non- small-cell lung cancer.
-
-N Engl J Med 3732 123-135 2015.Borghaei H Paz-Ares L Horn L Spigel DR Steins M Ready NE Chow LQ Vokes EE Felip E Holgado E Barlesi F Kohlhaufl M Arrieta O Burgio MA Fayette J Lena H Poddubskaya E Gerber DE Gettinger SN Rudin CM Rizvi N Crino L Blumenschein GR Jr. Antonia SJ Dorange C HarbisonCT Graf Finckenstein F and Brahmer JR Nivolumab versus docetaxel in advanced nonsquamous non-small-cell lung cancer.
-
-Science 3506264 1084-1089 2015.Derosa L Routy B Enot D Baciarello G Massard C Loriot Y Fizazi K Escudier BJ Zitvogel L and Albiges L Impact of antibiotics on outcome in patients with metastatic renal cell carcinoma treated with immune checkpoint inhibitors.
-
-ASCO GU Poster session 2017.Eisenhauer EA Therasse P Bogaerts J Schwartz LH Sargent D Ford R Dancey J Arbuck S Gwyther S Mooney M Rubinstein L Shankar L Dodd L Kaplan R Lacombe D and Verweij J New response evaluation criteria in solid tumours Revised RECIST guideline version 1.1.
-
-Eur J Cancer 452 228-247 2009.Daillere R Vetizou M Waldschmitt N Yamazaki T Isnard C Poirier-Colame V Duong CP Flament C Lepage P Roberti MP Routy B Jacquelot N Apetoh L Becharef S Rusakiewicz S Langella P Sokol H Kroemer G Enot D Roux A Eggermont A Tartour E Johannes L Woerther PL Chachaty E Soria JC Golden E Formenti S Plebanski M Madondo M Rosenstiel P Raoult D Cattoir V Boneca IG Chamaillard M and Zitvogel L Enterococcus hirae and Barnesiella intestinihominis facilitate cyclophosphamide-induced therapeutic immunomodulatory effects.
-
 It has been shown that imbalance of microbiota ecosystem caused by repeated exposure to antibiotic can increase the frequency of some types of cancer such as lung cancer suggesting a relationship between microbiota and carcinogenesis 10.
 
 This difference linked to microbiota was immune-mediated with tumor-specific T-cell responses and intratumoral CD8 T-cell infiltration significantly higher in mice with Bifidobacterium in commensal microbiota.
 
 It is in this case that microbiota and more precisely gut microbiota can play an important role.
+
+Tumor grew more aggressively in the group with a failing microbiota lacking in Bifidobacterium spp but it could be ablated by co-housing with mice with favorable microbiota or by transferring fecal material from one group to the other.
+
+Tel 33 380393353 Fax 33 380393434 e-mail Key Words Antibiotics microbiota nivolumab NSCLC.on platinum-based doublet chemotherapy with a median of overall survival of approximatively 1 year in the absence of oncogenic driver 2.
+
+General patient and tumor characteristics of the two populations.CharacteristicsAntibiotic exposureNo antibiotic exposureAge yearsMedian min-max69 51-8466 54-85Mean6866Gender n Male13 86.747 79.7Female2 13.312 20.3WHO PS n 03 20.027 45.8112 80.029 49.220 0.03 5.0Histology n Adenocarcinoma7 46.736 61.0Squamous cell carcinoma8 53.322 37.3Other0 0.01 1.7Smoking history n Non-smoking1 6.78 13.6Current or former smoker14 93.351 86.4EGFR mutation n No10 66.734 57.6Yes0 0.04 6.8Unknown5 33.321 35.6KRAS mutation n No9 60.025 42.4Yes1 6.712 20.3Unknown5 33.322 37.3PDL1 expression n Negative7 46.622 37.314 26.718 30.5Unknown4 26.719 32.2Best response to nivolumab n PR  CR4 26.713 22.0SD5 33.316 27.1PD6 40.030 50.9EGFR Epidermal growth factor receptor KRAS Kirsten rat sarcoma viral oncogene PR partial response CR complete response SD stable disease PD progressive disease.was strongly linked to the microbiota having no efficacy on mice housed in germ-free conditions or treated with antibiotics 13.
+
+Due to the lack of data on lung cancer and heterogeneity of response to immunotherapy for these patients we decided to retrospectively search for a link between exposure to antibiotic medication consequently affecting the microbiota and response to nivolumab in a cohort of 74 patients with lung cancer treated with this antibody.Materials and MethodsPatients.
+
+In contradiction to results for patients with renal carcinoma and in mouse models we found no link between exposure to antibiotic medication and consequently of the microbiota and response to nivolumab.
+
+Type of ATB therapyMonotherapy11 73.3Bi-therapy4 26.7Route of ATB administrationOral11 73.3 Intravenous4 26.7Duration of ATB treatment7 Days7 46.77 Days8 53.3Location of infectionPulmonary10 66.6Urinary3 20.0Catheter1 6.7Other1 6.7Time between ATB exposure and first nivolumab1-3 Months8 53.31 Month5 33.4During nivolumab treatment2 13.3were also collected from medical records and concerned type of antibiotic medication route of administration duration of exposure infection location and time between antibiotic exposure and first nivolumab injection.
+
+Concerning best response to nivolumab treatment23 of patients 1774 experienced partial PR or complete response CR 28.4 2174 stable disease SD and 48.6 3674 progressive disease PD.Only 15 20.3 patients were exposed to antibiotic medication in the 3 months before first nivolumab injection or during treatment.
 

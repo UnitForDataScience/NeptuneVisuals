@@ -1,20 +1,20 @@
-Neurobiol Aging 35 421-430.Heneka MT Kummer MP Stutz A Delekate A Schwartz S Vieira-Saecker A Griep A Axt D Remus A Tzeng TC et al.
-
-Sci Rep 6 24072.Cuervo A Hevia A Lopez P Suarez A Sanchez B Margolles A  Gonzalez S 2015 Association of polyphenols from oranges and apples with specific intestinal microorganisms in systemic lupus erythematosus patients.
-
-Immunity 42 1171-1184.Rojo D Hevia A Bargiela R Lopez P Cuervo A Gonzalez S Suarez A Sanchez B Martinez-Martinez M Milani C et al.
-
-Sci Rep 5 8310.Hevia A Milani C Lopez P Cuervo A Arboleya S Duranti S Turroni F Gonzalez S Suarez A Gueimonde M et al.
-
-EMBO J 34 466-474.Lopez P de Paz B Rodriguez-Carrio J Hevia A Sanchez B Margolles A  Suarez A 2016 Th17 responses and natural IgM antibodies are related to gut microbiota composition in systemic lupus erythematosus patients.
-
 However unrestrained inflammation directed to self-nuclear con- tents can result in immunopathology and subsequent sequelae associated with autoimmune and autoinflam- matory diseases.In addition to the ability of self-DNA or histones to induce inflammation the microbiota also play an important role in the development of so-called 'sterile inflammation'.
 
 Overall blocking inflammasome activation or IL-1b holds promise as a therapeutic treatment during sterile inflammation but it will also be of interest to know whether inhibition of the interaction of AIM2 with self-DNA is possible as a therapeutic intervention.Is sterile inflammation truly sterileAlthough autoimmune diseases and trauma are often viewed as sterile events recent studies demonstrate that most 'sterile inflammation' partially depends on the presence of commensal microbes triggering innate immune receptors and 'training' the immune system to respond in a biased manner during sterile inflamma- tion.
 
-Science 323 1057-1060.Aglietti RA Estevez A Gupta A Ramirez MG Liu PS Kayagaki N Ciferri C Dixit VM  Dueber EC 2016 GsdmD p30 elicited by caspase-11 during pyroptosis forms pores in membranes.
+VIEWPOINT Inflammasome activation by nucleic acids and nucleosomes in sterile inflammation... or is it sterileChristopher R. Lupfer1 Angeline Rodriguez1 and Thirumala-Devi Kanneganti2Department of Biology Missouri State University Springfield MO USADepartment of Immunology St. Jude Children's Research Hospital Memphis TN USAKeywordsAIM2 autoimmunity autoinflammation Caspase-1 IL-18 IL-1b immunopathology inflammasome inflammation NLRP3CorrespondenceT.-D. Kanneganti Department of Immunology St Jude Children's Research Hospital MS 351 262 Danny Thomas Place Memphis TN 38105-2794 USA Fax 1 901 495 5766Tel 1 901 495 3634E-mail Thirumala-Devi.Kanneganti StJude.orgReceived 23 December 2016 accepted 30March 2017 doi10.1111febs.14076Inflammasomes are multiprotein complexes that form in the cytoplasm in response to cellular damage and cytosolic pathogen-associated molecules during infection.
 
-Nat Rev Rheumatol 12 716-730.Gamberucci A Fulceri R Marcolongo P Pralong WF  Benedetti A 1998 Histones and basic polypeptides activate Ca2cation influx in various cell types.
+These studies demonstrate that inflammasome activation in response to mtDNA contributes to sterile lung inflammation 59.During atherosclerosis development mitochondrial damage triggers NLRP3 inflammasome activation 60.Cells that are depleted of mtDNA rho0 cells have reduced NLRP3 inflammasome activation despite hav- ing similar levels of cholesterol accumulation suggest- ing that mitochondrial damage is a key trigger of inflammation in atherosclerosis 61.
 
-Am J Physiol Gastrointest Liver Physiol 297 G967-G973.Dihlmann S Erhart P Mehrabi A Nickkholgh A Lasitschka F Bockler D  Hakimi M 2014 Increased expression and activation of absent in melanoma 2 inflammasome components in lymphocytic infiltrates of abdominal aortic aneurysms.
+Therefore examining the role of different antibodies immune complex structures and immune signaling capacities of these complexes will be essential for understanding sterile inflammation and how to treat it.Inhibiting inflammasomes as a therapeutic interventionBased on the important role of DNA-sensing inflam- masomes in sterile inflammation numerous reports have examined the therapeutic potential of targeting inflammasomes in diseases involving sterile inflamma- tion.
+
+Thus as research in the field of sterile inflammation and autoimmunity move forward we must consider the non- sterile nature of the organisms and environment in which they exist and how this affects the development and progression of sterile inflammation.
+
+Interestingly microbiota and infection play critical roles in the development of 'sterile inflammation'.
+
+Herein we highlight recent advances in our understanding of the role for inflammasomes in nucleic acid- nucleosome- and histone- driven sterile inflammation and discuss knowledge gaps and areas of poten- tial future research.IntroductionInflammation and immunity are essential to fight infec- tious diseases and sensing pathogen-derived nucleic acids is a major mechanism of innate immune cell acti- vation.
+
+Inflammasome activa- tion also results in an inflammatory cell death known as pyroptosis via the caspase-1- or caspase-11- mediated proteolytic activation of gasdermin D where activated gasdermin D forms pores in the cell mem- brane 8-12.Although nucleic acids of pathogens are frequently exposed to endosomal or cytoplasmic sensors host cell nucleic acids are generally contained in the nucleus or modified 5' 7-methylguanosine cap of mRNA 5' monophosphate of tRNA to differentiate them from pathogen-associated nucleic acids thus preventing unwanted inflammation 1314.
+
+However defects in apoptosis or in the removal and degradation of extracellular DNA or apoptotic bodies as observed in serum amy- loid P noncanonical autophagy DNase I or DNase II deficiency can lead to the persistence of free nucleo- somes histones or DNA molecules resulting in inflammation 16-19.
 

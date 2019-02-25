@@ -8,13 +8,13 @@ We pres- ent the complete genomic sequence of the strain L. fermentum SNUV175 is
 
 help main- tain an acidic environment and produce bacteriocins that inhibit potentially pathogenicmicroorganisms .In this study the strain Lactobacillus fermentum SNUV175 isolated from the vagina of a healthy South Korean woman showed functional properties in the treatment of vaginal infection caused by lactobacilli deficiency.
 
-A 20-kb library was constructed with purified DNA on a single-molecule real-time SMRT cell and was sequenced using P6-C4 chemistry with a data collection time of 4 h. The sequencing run provided a total of 125532 reads with quality scores Q20.
-
 The L. fermentum SNUV175 genome was compared with reference strain L. fermentum IFO3956 GenBank accession no.
 
-.Chin CS Alexander DH Marks P Klammer AA Drake J Heiner C Clum A Copeland A Huddleston J Eichler EE Turner SW Korlach J.
+A 20-kb library was constructed with purified DNA on a single-molecule real-time SMRT cell and was sequenced using P6-C4 chemistry with a data collection time of 4 h. The sequencing run provided a total of 125532 reads with quality scores Q20.
 
 The three plasmids ranged between 29 and 33 kb in size pSNU175-2 33413 bp GC content 40.0 pSNU175-3 33071 bp GC content 39.6 andpSNU175-3 29166 bp GC content 43.8.The assembled genome sequences were annotated using the Prokka annotation pipeline version 1.11  which predicted tRNA rRNA and mRNA genes.
 
 Curated virulence factors and antibiotic resistance genes were estimated using IslandViewer3  against the Virulence Factor Database VFDB  and the Comprehensive Antibiotic Resistance Database CARD .Volume 5 Issue 12 e00045-17 1Lee et al.The genome contains 2272 CDSs 59 tRNAs and 15 rRNAs.
+
+fermentum SNUV175 may lead to deeper understanding of the mechanisms involved in its effect against bacterial vaginosis.Accession numbers.
 
